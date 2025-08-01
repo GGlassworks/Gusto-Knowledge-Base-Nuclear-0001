@@ -1,0 +1,13 @@
+# Decoding Contextual Factors Differentiating Adolescents&apos; High, Average, and Low Digital Reading Performance Through Machine-Learning Methods
+
+**Authors:** Hu, Jie, Peng, Yi, Chen, Xiao
+
+## Abstract
+The prevalence of information and communication technologies (ICTs) has brought about profound changes in the field of reading, resulting in a large and rapidly growing number of young digital readers. The article intends to identify key contextual factors that synergistically differentiate high and low performers, high and average performers, and low and average performers in digital reading, through the utilization of machine-learning methods, namely, support vector machine (SVM) and SVM recursive feature elimination. In addition, the Shapley additive explanations (SHAP) method was applied to augment the machine-learning models and detect the features impact on the final output. The latest-released Programme for International Student Assessment reading data were analyzed, and the samples included 276 269 15-year-old students from 38 Organization for Economic Cooperation and Development countries. The results show that an optimal feature set of contextual factors at the school, classroom, and student levels in the high-low model, high-average model, and low-average model boast high accuracy. Compared with average-performing students, high-performing students spend more time reading emails and are associated with high-quality teaching that incorporates digital literacy, and low-performing students are characterized by a lack of interest in ICT use and are more susceptible to the abuse of ICT resources, classroom disorder, and discrimination at school. The use of machine-learning algorithms for pairwise comparisons provides new perspectives for personalized digital reading education, and the evaluation of the effect of every factor using SHAP method offers a clear view for educational researchers. This article sheds light on factors that may contribute to the development of students' digital reading literacy and the practice of adopting an individualized approach to digital reading pedagogy for educators and instructors.
+
+**Source:** https://eric.ed.gov/?id=EJ1388618
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:16.142Z

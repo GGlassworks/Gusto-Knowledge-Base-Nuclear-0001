@@ -1,0 +1,13 @@
+# Representation of Learning in the Post-Digital: Students&apos; Dropout Predictive Models with Artificial Intelligence Algorithms
+
+**Authors:** Zanellati, Andrea, Macauda, Anita, Panciroli, Chiara, Gabbrielli, Maurizio
+
+## Abstract
+Within scientific debate on post-digital and education, we present a position paper to describe a research project aimed at the design of a predictive model for students' low achievements in mathematics in Italy. The model is based on the INVALSI data set, an Italian large-scale assessment test, and we use decision trees as the classification algorithm. In designing this tool, we aim to overcome the use of economic, social, and cultural context indices as main factors for the prediction of a learning gap occurrence. Indeed, we want to include a suitable representation of students' learning in the model, by exploiting the data collected through the INVALSI tests. We resort to a knowledge-based approach to address this issue and specifically, we try to understand what knowledge is introduced into the model through the representation of learning. In this sense, our proposal allows a students' learning encoding, which is transferable to different students' cohort. Furthermore, the encoding methods may be applied to other large-scale assessments test. Hence, we aim to contribute to a debate on knowledge representation in AI tool for education.
+
+**Source:** https://eric.ed.gov/?id=EJ1364775
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:17.232Z

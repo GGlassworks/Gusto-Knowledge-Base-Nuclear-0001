@@ -1,0 +1,13 @@
+# Clustering Educational Digital Library Usage Data: A Comparison of Latent Class Analysis and K-Means Algorithms
+
+**Authors:** Xu, Beijie, Recker, Mimi, Qi, Xiaojun, Flann, Nicholas, Ye, Lei
+
+## Abstract
+This article examines clustering as an educational data mining method. In particular, two clustering algorithms, the widely used K-means and the model-based Latent Class Analysis, are compared, using usage data from an educational digital library service, the Instructional Architect (IA.usu.edu). Using a multi-faceted approach and multiple data sources, three types of comparisons of resulting clusters are presented: (1) Davies-Bouldin indices, (2) clustering results validated with user profile data, and (3) cluster evolution. Latent Class Analysis is superior to K-means on all three comparisons. In particular, LCA is more immune to the variance of feature variables, and clustering results turn out well with minimal data transformation. Our research results also show that LCA perform better than K-means in terms of providing the most useful educational interpretation for this dataset.
+
+**Source:** https://eric.ed.gov/?id=EJ1115352
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:15.711Z

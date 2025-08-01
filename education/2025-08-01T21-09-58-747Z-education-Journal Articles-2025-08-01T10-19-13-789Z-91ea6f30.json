@@ -1,0 +1,13 @@
+# How Well Do Contemporary Knowledge Tracing Algorithms Predict the Knowledge Carried out of a Digital Learning Game?
+
+**Authors:** Scruggs, Richard, Baker, Ryan S., Pavlik, Philip I., Jr., McLaren, Bruce M., Liu, Ziyang
+
+## Abstract
+Despite considerable advances in knowledge tracing algorithms, educational technologies that use this technology typically continue to use older algorithms, such as Bayesian Knowledge Tracing. One key reason for this is that contemporary knowledge tracing algorithms primarily infer next-problem correctness in the learning system, but do not attempt to infer the knowledge the student can carry out of the system, information more useful for teachers. The ability of knowledge tracing algorithms to predict problem correctness using data from intelligent tutoring systems has been extensively researched, but data from outcomes other than next-problem correctness have received less attention. In addition, there has been limited use of knowledge tracing algorithms in games, because algorithms that do attempt to infer knowledge from answer correctness are often too simple to capture the more complex evidence of learning within games. In this study, data from a digital learning game, (anonymized), was used to compare ten knowledge tracing algorithms' ability to predict students' knowledge carried outside the learning system--measured here by posttest scores--given their game activity. All Opportunities Averaged (AOA), a method proposed by Authors (2020) was used to convert correctness predictions to knowledge estimates, which were also compared to the built-in estimates from algorithms that produced them. Although statistical testing was not feasible for these data, three algorithms tended to perform better than the others: Dynamic Key-Value Memory Networks, Logistic Knowledge Tracing, and a multivariate version of Elo. Algorithms' built-in estimates of student ability underperformed estimates produced by AOA, suggesting that some algorithms may be better at estimating performance than ability. Theoretical and methodological challenges related to comparing knowledge estimates with hypothesis testing are also discussed.
+
+**Source:** https://eric.ed.gov/?id=EJ1386758
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:13.789Z

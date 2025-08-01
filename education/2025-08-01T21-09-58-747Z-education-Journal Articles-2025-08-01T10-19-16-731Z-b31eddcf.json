@@ -1,0 +1,13 @@
+# Capturing Activities and Interactions in Makerspaces Using Monocular Computer Vision
+
+**Authors:** Sohail Ahmed Soomro, Halar Haleem, Bertrand Schneider, Georgi V. Georgiev
+
+## Abstract
+This study presents a monocular approach for capturing students' prototyping activities and interactions in digital-fabrication-based makerspaces. The proposed method uses images from a single camera and applies object reidentification, tracking, and depth estimation algorithms to track and uniquely label participants in the space, extracting both spatial and temporal information. A case study was conducted by recording a lab session in a digital-fabrication-based makerspace where students from a university undergraduate program turned their product ideas into tangible prototypes using digital fabrication. Moreover, a creativity test was conducted to assess individual creative competence. The findings reveal that the monocular approach effectively captures interactions among team members and instructors. It also identifies prototyping activities at individual and team levels. Furthermore, results demonstrate that the students with high and low creativity scores exhibit distinct patterns of interaction with instructors and teammates. Those with high creativity scores worked more independently and less collaboratively. Students with low creativity scores worked more collaboratively and less independently. The proposed monocular approach can be used in formal educational settings for student evaluation and prototyping activities. In addition, instructors can use this approach to assess and tailor teaching methods by promptly intervening and providing structures and scaffolding support to assist struggling students.
+
+**Source:** https://eric.ed.gov/?id=EJ1470704
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:16.731Z

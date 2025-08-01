@@ -1,0 +1,13 @@
+# The Guts of Assessment: A Digital Architecture for Machine Learning and Analogue Judgement
+
+**Authors:** Mark Johnson, Rafiq Saleh
+
+## Abstract
+Educational assessment is inherently uncertain, where physiological, psychological and social factors play an important role in establishing judgements which are assumed to be &quot;absolute&quot;. AI and other algorithmic approaches to grading of student work strip-out uncertainty, leading to a lack of inspectability in machine judgement and consequent problems of trust and reliability. The technique of Adaptive Comparative Judgement (ACJ), in focusing on small-stakes binary comparisons provides an alternative approach to dealing with uncertainty in grading. Rankings can be produced which codify uncertainty, rendering machine judgements inspectable. However, ACJ demands resources in terms of time and the number of people making comparisons. Machine learning trained to make binary comparisons can help to make the process of human comparison more efficient. In combining ACJ and AI, we argue that the result is an analogue-digital system where the physiological/analogue processes of assessment can be coordinated with digital services which steer human assessment to those judgements which are most uncertain requiring most human deliberation. Drawing on our design of such a system developed for medical judgements, we describe a general architecture for human-machine assessment in education and discuss its potential in bridging the gap between analogue human cognition and digital machine learning.
+
+**Source:** https://eric.ed.gov/?id=EJ1434964
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:19.319Z

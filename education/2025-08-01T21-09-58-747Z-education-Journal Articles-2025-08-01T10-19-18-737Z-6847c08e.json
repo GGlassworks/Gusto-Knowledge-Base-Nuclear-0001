@@ -1,0 +1,13 @@
+# Evaluating E-Learning Readiness Using Explainable Machine Learning and Key Organizational Change Factors in Higher Education
+
+**Authors:** Mohamed Zine, Fouzi Harrou, Mohammed Terbeche, Ying Sun
+
+## Abstract
+E-learning readiness (ELR) is critical for implementing digital education strategies, particularly in developing countries where online learning faces unique challenges. This study aims to provide a concise and actionable framework for assessing and predicting ELR in Algerian universities by combining the ADKAR model with advanced machine learning algorithms and Shapley Additive Explanations (SHAP). Data were collected through semi-structured interviews and questionnaires from 530 students and professors across Algerian universities, focusing on the five ADKAR factors: Awareness, Desire, Knowledge, Ability, and Reinforcement. Eight machine learning models were employed to analyze the data, selected for their ability to manage complex, high-dimensional datasets and capture non-linear relationships: k-nearest neighbors, support vector machines, partial least squares, random forests, gradient boosting, decision trees, CatBoost, and XGBoost. Results show that ensemble methods CatBoost and XGBoost achieving the best predictive performance (R[superscript 2] = 0.811), reflecting their ability to explain the variance in ELR. SHAP analysis identified &quot;Ability&quot; as the most influential factor, followed by &quot;Desire&quot; and &quot;Reinforcement.&quot; This combination of SHAP and ADKAR provides novel insights by highlighting critical areas for intervention, such as enhancing digital skills and promoting knowledge acquisition. The use of SHAP in this study enhances model interpretability, enabling stakeholders to identify the most impactful factors and implement targeted, effective interventions to address key barriers to e-learning readiness.
+
+**Source:** https://eric.ed.gov/?id=EJ1475371
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:18.737Z

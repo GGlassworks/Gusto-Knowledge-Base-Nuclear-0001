@@ -1,0 +1,13 @@
+# Newton Algorithms for Analytic Rotation: An Implicit Function Approach
+
+**Authors:** Boik, Robert J.
+
+## Abstract
+In this paper implicit function-based parameterizations for orthogonal and oblique rotation matrices are proposed. The parameterizations are used to construct Newton algorithms for minimizing differentiable rotation criteria applied to "m" factors and "p" variables. The speed of the new algorithms is compared to that of existing algorithms and to that of Newton algorithms based on alternative parameterizations. Several rotation criteria were examined and the algorithms were evaluated over a range of values for "m." Initial guesses for Newton algorithms were improved by subconvergence iterations of the gradient projection algorithm. Simulation results suggest that no one algorithm is fastest for minimizing all criteria for all values of "m." Among competing algorithms, the gradient projection algorithm alone was faster than the implicit function algorithm for minimizing a quartic criterion over oblique rotation matrices when "m" is large. In all other conditions, however, the implicit function algorithms were competitive with or faster than the fastest existing algorithms. The new algorithms showed the greatest advantage over other algorithms when minimizing a nonquartic component loss criterion.
+
+**Source:** https://eric.ed.gov/?id=EJ796571
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:19.028Z

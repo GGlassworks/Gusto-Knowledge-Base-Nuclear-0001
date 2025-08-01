@@ -1,0 +1,13 @@
+# A Quantitative Optimization Framework for Market-Driven Academic Program Portfolios
+
+**Authors:** Burgher, Joshua, Hamers, Herbert
+
+## Abstract
+Purpose: The purpose of this paper is to provide a decision support model for optimizing the composition of portfolios of market-driven academic programs, primarily in schools offering market-driven academic programs. This model seeks to maximize financial performance during a desired planning time period while also achieving targets for other non-financial dimensions of the portfolio (e.g. mission alignment, student demographics and faculty characteristics) by deciding the types of programs to be added, redesigned and/or removed for each year of the planning period. Design/methodology/approach: This paper introduces an integer linear program (i.e. mathematical optimization) to describe the portfolio optimization problem. Integer linear programs are widely used for optimizing portfolios of financial and non-financial products and services in non-educational settings. Additionally, in order to use an integer linear program for the model, qualitative data must be incorporated into the quantitative model. To do so, this paper first discusses two methods of quantifying qualitative information related to market-driven program dimensions in the following section. Findings: The paper provides empirical insights related to the impact of this model through an illustrative case from a school offering market-driven academic programs at a prestigious private university in the USA. The results of the case highlight the potential positive impact of utilizing a similar model for planning purposes. Financially, the model results in almost double financial surplus than without the model while also achieving higher scores for all non-financial dimensions measured for the portfolio analyzed. Originality/value: This paper provides a unique and impactful model for decision support in strategic planning for market-driven academic programs, an area of intense discussion and focus in higher education today.
+
+**Source:** https://eric.ed.gov/?id=EJ1239492
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:18:05.400Z
