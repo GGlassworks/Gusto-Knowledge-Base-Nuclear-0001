@@ -1,0 +1,16 @@
+# The application of microeconomics to the design of resource allocation and control algorithms
+
+**Authors:** D. Ferguson
+
+## Abstract
+In this thesis, we present a new methodology for resource sharing algorithms in distributed systems. We propose that a distributed computing system should be composed of a decentralized community of microeconomic agents. We show that this approach decreases complexity and can substantially improve performance. We compare the performance, generality and complexity of our algorithms with non-economic algorithms. To validate the usefulness of our approach, we present economies that solve three distinct resource management problems encountered in large, distributed systems. 
+The first economy performs CPU load balancing and demonstrates how our approach limits complexity and effectively allocates resources when compared to non-economic algorithms. We show that the economy achieves better performance than a representative non-economic algorithm. The load balancing economy spans a broad spectrum of possible load balancing strategies, making it possible to adapt the load balancing strategy to the relative power of CPU vs. communication. 
+The second economy implements flow control in virtual circuit based computer networks. This economy implements a general model of VC throughput and delay goals that more accurately describes the goals of a diverse set of users. We propose Pareto-optimality as a definition of optimality and fairness for the flow control problem and prove that the resource allocations computed by the economy are Pareto-optimal. Finally, we present a set of distributed algorithms that rapidly compute a Pareto-optimal allocation of resources. 
+The final economy manages replicated, distributed data in a distributed computer system. This economy substantially decreases mean transaction response time by adapting to the transactions' reference patterns. The economy reacts to localities in the data access pattern by dynamically assigning copies of data objects to nodes in the system. The number of copies of each object is adjusted based on the write frequency versus the read frequency for the object. Unlike previous work, the data management economy's algorithms are completely decentralized and have low computational overhead. Finally, this economy demonstrates how an economy can allocate logical resources in addition to physical resources.
+
+**Source:** https://www.semanticscholar.org/paper/5cb76f4ced4345b5331821721d002014f0260e3e
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:27:27.470Z

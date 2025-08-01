@@ -1,0 +1,13 @@
+# Load Optimization in Ceylon Steel Corporation through Economic Demand Response Model: A Case Study
+
+**Authors:** W. M. U. Wijerathne, K. Udayakumar, R. Sasikala
+
+## Abstract
+Ceylon Steel Corporation Ltd (CSCL) is one of the ten largest industrial electricity consumers in Sri Lanka which produces steel products, with contract demand over 8000 kVA, owing to Rs. 35 million monthly electricity bill. Therefore, it is needed to find strategies and opportunities of energy saving to reduce this high electricity cost. Load optimization techniques play a significant role in electricity cost reduction in industrial consumers. This case study investigates the opportunities to reduce electricity cost in CSCL through energy efficiency solutions and load profile optimization solutions according to mathematical Demand Response (DR) model. Therefore, detailed energy audit is carried out to identify the load profile of the CSCL and obtained data is analyzed to develop a mathematical model. Economic DR model is developed based on constant elasticity of substitution utility function known as one of the most popular utility functions in microeconomics. This economic DR model can change consumption patterns from high energy prices to other times to maximize their utility functions. MATLAB simulation results indicate the most suitable load profiles that can interchange electricity consumption. This mathematical model improves the consumption patterns in a load profile over time to reduce electricity cost. The results showed that the model is beneficial for attaining the optimal load control according to time of use (TOU)-based tariff structure.
+
+**Source:** https://www.semanticscholar.org/paper/9e1442dcd821dac85f367b7c82965022d998efed
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:26:16.694Z

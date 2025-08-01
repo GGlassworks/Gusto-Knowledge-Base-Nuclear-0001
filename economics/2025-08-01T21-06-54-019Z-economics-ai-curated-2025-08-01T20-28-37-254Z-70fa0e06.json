@@ -1,0 +1,13 @@
+# Sequential Monte Carlo Methods for Estimating Dynamic Microeconomic Models
+
+**Authors:** Jason R. Blevins
+
+## Abstract
+This paper develops methods for estimating dynamic structural microeconomic models with serially correlated latent state variables. The proposed estimators are based on sequential Monte Carlo methods, or particle filters, and simultaneously estimate both the structural parameters and the trajectory of the unobserved state variables for each observational unit in the dataset. We focus two important special cases: single agent dynamic discrete choice models and dynamic games of incomplete information. The methods are applicable to both discrete and continuous state space models. We first develop a broad nonlinear state space framework which includes as special cases many dynamic structural models commonly used in applied microeconomics. Next, we discuss the nonlinear filtering problem that arises due to the presence of a latent state variable and show how it can be solved using sequential Monte Carlo methods. We then turn to estimation of the structural parameters and consider two approaches: an extension of the standard full-solution maximum likelihood procedure (Rust, 1987) and an extension of the two-step estimation method of Bajari, Benkard, and Levin (2007), in which the structural parameters are estimated using revealed preference conditions. Finally, we introduce an extension of the classic bus engine replacement model of Rust (1987) and use it both to carry out a series of Monte Carlo experiments and to provide empirical results using the original data.
+
+**Source:** https://www.semanticscholar.org/paper/b91a5e24518b19589a260d6662ce884b0a8fb52a
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:28:37.254Z
