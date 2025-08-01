@@ -1,0 +1,13 @@
+# Weighted Least Squares Fitting Using Ordinary Least Squares Algorithms.
+
+**Authors:** Kiers, Henk A. L.
+
+## Abstract
+A general approach for fitting a model to a data matrix by weighted least squares (WLS) is studied. The approach consists of iteratively performing steps of existing algorithms for ordinary least squares fitting of the same model and is based on maximizing a function that majorizes WLS loss function. (Author/SLD)
+
+**Source:** https://eric.ed.gov/?id=EJ550039
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:25.880Z

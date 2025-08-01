@@ -1,0 +1,13 @@
+# Implementing Agglomerative Hierarchic Clustering Algorithms for Use in Document Retrieval.
+
+**Authors:** Voorhees, Ellen M.
+
+## Abstract
+Describes a computerized information retrieval system that uses three agglomerative hierarchic clustering algorithms--single link, complete link, and group average link--and explains their implementations. It is noted that these implementations have been used to cluster a collection of 12,000 documents. (LRW)
+
+**Source:** https://eric.ed.gov/?id=EJ349621
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:24.815Z

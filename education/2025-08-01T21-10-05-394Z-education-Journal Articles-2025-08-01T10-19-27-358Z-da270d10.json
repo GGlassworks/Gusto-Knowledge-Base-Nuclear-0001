@@ -1,0 +1,13 @@
+# The Promises and Perils of Automated Facial Action Coding in Studying Children&apos;s Emotions
+
+**Authors:** Martinez, Aleix M.
+
+## Abstract
+Computer vision algorithms have made tremendous advances in recent years. We now have algorithms that can detect and recognize objects, faces, and even facial actions in still images and video sequences. This is wonderful news for researchers that need to code facial articulations in large data sets of images and videos, because this task is time consuming and can only be completed by expert coders, making it very expensive. The availability of computer algorithms that can automatically code facial actions in extremely large data sets also opens the door to studies in psychology and neuroscience that were not previously possible, for example, to study the development of the production of facial expressions from infancy to adulthood within and across cultures. Unfortunately, there is a lack of methodological understanding on how these algorithms should and should not be used, and on how to select the most appropriate algorithm for each study. This article aims to address this gap in the literature. Specifically, we present several methodologies for use in hypothesis-based and exploratory studies, explain how to select the computer algorithms that best fit to the requirements of our experimental design, and detail how to evaluate whether the automatic annotations provided by existing algorithms are trustworthy.
+
+**Source:** https://eric.ed.gov/?id=EJ1226483
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:27.358Z

@@ -1,0 +1,13 @@
+# Definition and Analysis of a System for the Automated Comparison of Curriculum Sequencing Algorithms in Adaptive Distance Learning
+
+**Authors:** Limongelli, Carla, Sciarrone, Filippo, Temperini, Marco, Vaste, Giulia
+
+## Abstract
+LS-Lab provides automatic support to comparison/evaluation of the Learning Object Sequences produced by different Curriculum Sequencing Algorithms. Through this framework a teacher can verify the correspondence between the behaviour of different sequencing algorithms and her pedagogical preferences. In fact the teacher can compare algorithms outcomes over sample individual cases, represented by input student models. Such comparison can be accomplished through subjective observation of the sequences, and by evaluating the metrics computed and presented by the system. LS-Lab architecture allows extending the framework with both additional algorithms and metrics. According to the different algorithms needs, suitably varied data structures for the student models are managed. We show also the result of an experimental analysis, conducted to unveil LS-Lab usefulness, as perceived by teachers. Teacher's appreciation, acceptance of the system, and expected advantages, were analyzed through an experimental application involving 30 teachers, with 3 student models, and 3 different sequencing algorithms. (Contains 4 tables and 8 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ928147
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:23.812Z

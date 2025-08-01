@@ -1,0 +1,13 @@
+# Noniterative Factor Analysis Estimators, with Algorithms for Subset and Instrumental Variable Selection.
+
+**Authors:** Cudeck, Robert
+
+## Abstract
+Two algorithms that automatically select subsets of variables (PACE algorithm) and reference variables (Fabin estimators), respectively, used for the noniterative estimators are presented. The PACE algorithm is based on a nonsymmetric matrix sweep operator. A Monte Carlo experiment compares the relative performance of these estimators and others. (TJH)
+
+**Source:** https://eric.ed.gov/?id=EJ423882
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:26.635Z

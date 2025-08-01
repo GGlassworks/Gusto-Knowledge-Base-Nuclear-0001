@@ -1,0 +1,13 @@
+# Improving Estimates Accuracy of Voter Transitions. Two New Algorithms for Ecological Inference Based on Linear Programming
+
+**Authors:** Jose M. Pavía, Rafael Romero
+
+## Abstract
+The estimation of RxC ecological inference contingency tables from aggregate data is one of the most salient and challenging problems in the field of quantitative social sciences, with major solutions proposed from both the ecological regression and the mathematical programming frameworks. In recent decades, there has been a drive to find solutions stemming from the former, with the latter being less active. From the mathematical programming framework, this paper suggests a new direction for tackling this problem. For the first time in the literature, a procedure based on linear programming is proposed to attain estimates of local contingency tables. Based on this and the homogeneity hypothesis, we suggest two new ecological inference algorithms. These two new algorithms represent an important step forward in the ecological inference mathematical programming literature. In addition to generating estimates for local ecological inference contingency tables and amending the tendency to produce extreme transfer probability estimates previously observed in other mathematical programming procedures, these two new algorithms prove to be quite competitive and more accurate than the current linear programming baseline algorithm. Their accuracy is assessed using a unique dataset with almost 500 elections, where the real transfer matrices are known, and their sensitivity to assumptions and limitations are gauged through an extensive simulation study. The new algorithms place the linear programming approach once again in a prominent position in the ecological inference toolkit. Interested readers can use these new algorithms easily with the aid of the R package lphom.
+
+**Source:** https://eric.ed.gov/?id=EJ1434864
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:27.243Z

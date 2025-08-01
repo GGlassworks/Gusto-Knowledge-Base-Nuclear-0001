@@ -1,0 +1,13 @@
+# Bayesian Estimation of Multidimensional Item Response Models. A Comparison of Analytic and Simulation Algorithms
+
+**Authors:** Martin-Fernandez, Manuel, Revuelta, Javier
+
+## Abstract
+This study compares the performance of two estimation algorithms of new usage, the Metropolis-Hastings Robins-Monro (MHRM) and the Hamiltonian MCMC (HMC), with two consolidated algorithms in the psychometric literature, the marginal likelihood via EM algorithm (MML-EM) and the Markov chain Monte Carlo (MCMC), in the estimation of multidimensional item response models of various levels of complexity. This paper evaluates the performance of parameter recovery via three simulation studies from a Bayesian approach. The first simulation uses a very simple unidimensional model to evaluate the effect of diffuse and concentrated prior distributions on recovery. The second study compares the MHRM algorithm with MML-EM and MCMC in the estimation of an item-response model with a moderate number of correlated dimensions. The third simulation evaluates the performance of the MHRM, HMC, MML-EM and MCMC algorithms in the estimation of an item response model in a high-dimensional latent space. The results showed that MML-EM loses precision with high-dimensional models whereas the other three algorithms recover the true parameters with similar precision. Apart from this, the main differences between algorithms are: (1) estimation time is much shorter for MHRM than for the other algorithms; (2) MHRM achieves the best precision in all conditions and is less affected by prior distributions; and (3) prior distributions for the slopes in the MCMC and HMC algorithms should be carefully defined in order to avoid problems of factor orientation. In summary, the new algorithms seem to overcome the difficulties of the traditional ones by converging faster and producing accurate results.
+
+**Source:** https://eric.ed.gov/?id=EJ1125993
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:23.431Z

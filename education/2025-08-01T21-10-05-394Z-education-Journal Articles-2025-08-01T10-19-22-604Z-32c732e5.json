@@ -1,0 +1,13 @@
+# Javascript Library for Developing Interactive Micro-Level Animations for Teaching and Learning Algorithms on One-Dimensional Arrays
+
+**Authors:** Végh, Ladislav
+
+## Abstract
+The first data structure that first-year undergraduate students learn during the programming and algorithms courses is the one-dimensional array. For novice programmers, it might be hard to understand different algorithms on arrays (e.g. searching, mirroring, sorting algorithms), because the algorithms dynamically change the values of elements. In these situations, visualizations and animations might be helpful didactic tools. In this paper, we briefly overview animations with different views and introduce our Javascript library for developing interactive micro-level animations. Using this library, different sorting algorithm animations were created, which were used in a pedagogical experiment. The results showed that our interactive animations helped students to understand the visualized sorting algorithms.
+
+**Source:** https://eric.ed.gov/?id=EJ1110308
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:22.604Z

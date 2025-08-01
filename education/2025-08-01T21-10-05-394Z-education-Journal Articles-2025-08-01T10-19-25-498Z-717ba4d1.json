@@ -1,0 +1,13 @@
+# Applying Genetic Algorithms To Query Optimization in Document Retrieval.
+
+**Authors:** Horng, Jorng-Tzong, Yeh, Ching-Chang
+
+## Abstract
+Proposes a novel approach to automatically retrieve keywords and then uses genetic algorithms to adapt the keyword weights. Discusses Chinese text retrieval, term frequency rating formulas, vector space models, bigrams, the PAT-tree structure for information retrieval, query vectors, and relevance feedback. (Author/LRW)
+
+**Source:** https://eric.ed.gov/?id=EJ606818
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:25.498Z

@@ -1,0 +1,13 @@
+# A Generic Machine for Parallel Information Retrieval.
+
+**Authors:** Sharma, Ravi
+
+## Abstract
+Introduces two distribution schemes that partition documents over multiple processors and the corresponding multiprocessor retrieval algorithms that match relevant documents to user queries. The suggested framework is based on a general purpose hypercube multicomputer architecture with a dedicated disk for each node. A timing analysis for the proposed algorithms is appended. (23 references) (Author/CLB)
+
+**Source:** https://eric.ed.gov/?id=EJ399421
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:25.909Z

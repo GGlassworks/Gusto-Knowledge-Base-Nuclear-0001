@@ -1,0 +1,13 @@
+# Digital Module 18: Automated Scoring
+
+**Authors:** Lottridge, Sue, Burkhardt, Amy, Boyer, Michelle
+
+## Abstract
+In this digital ITEMS module, Dr. Sue Lottridge, Amy Burkhardt, and Dr. Michelle Boyer provide an overview of automated scoring. Automated scoring is the use of computer algorithms to score unconstrained open-ended test items by mimicking human scoring. The use of automated scoring is increasing in educational assessment programs because it allows scores to be returned faster at lower cost. In the module, they discuss automated scoring from a number of perspectives. First, they discuss benefits and weaknesses of automated scoring, and what psychometricians should know about automated scoring. Next, they describe the overall process of automated scoring, moving from data collection to engine training to operational scoring. Then, they describe how automated scoring systems work, including the basic functions around score prediction as well as other flagging methods. Finally, they conclude with a discussion of the specific validity demands around automated scoring and how they align with the larger validity demands around test scores. Two data activities are provided. The first is an interactive activity that allows the user to train and evaluate a simple automated scoring engine. The second is a worked example that examines the impact of rater error on test scores. The digital module contains a link to an interactive web application as well as its R-Shiny code, diagnostic quiz questions, activities, curated resources, and a glossary.
+
+**Source:** https://eric.ed.gov/?id=EJ1266816
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:23.245Z

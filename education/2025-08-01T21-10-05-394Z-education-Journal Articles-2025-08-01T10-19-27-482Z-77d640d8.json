@@ -1,0 +1,13 @@
+# Debiasing Education Algorithms
+
+**Authors:** Jamiu Adekunle Idowu
+
+## Abstract
+This systematic literature review investigates the fairness of machine learning algorithms in educational settings, focusing on recent studies and their proposed solutions to address biases. Applications analyzed include student dropout prediction, performance prediction, forum post classification, and recommender systems. We identify common strategies, such as adjusting sample weights, bias attenuation methods, fairness through un/awareness, and adversarial learning. Commonly used metrics for fairness assessment include ABROCA, group difference in performance, and disparity metrics. The review underscores the need for context-specific approaches to ensure equitable treatment and reveals that most studies found no strict tradeoff between fairness and accuracy. We recommend evaluating fairness of data and features before algorithmic fairness to prevent algorithms from receiving discriminatory inputs, expanding the scope of education fairness studies beyond gender and race to include other demographic attributes, and assessing the impact of fair algorithms on end users, as human perceptions may not align with algorithmic fairness measures.
+
+**Source:** https://eric.ed.gov/?id=EJ1453606
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:27.482Z

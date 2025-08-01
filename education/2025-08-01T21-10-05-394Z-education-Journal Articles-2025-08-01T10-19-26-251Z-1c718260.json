@@ -1,0 +1,13 @@
+# Using an Explicit Query and a Topic Model for Scientific Article Recommendation
+
+**Authors:** Smail, Boussaadi, Aliane, Hassina, Abdeldjalil, Ouahabi
+
+## Abstract
+The search for relevant scientific articles is a crucial step in any research project. However, the vast number of articles published and available online in digital databases (Google Scholar, Semantic Scholar, etc.) can make this task tedious and negatively impact a researcher's productivity. This article proposes a new method of recommending scientific articles that takes advantage of content-based filtering. The challenge is to target relevant information that meets a researcher's needs, regardless of their research domain. Our recommendation method is based on semantic exploration using latent factors. Our goal is to achieve an optimal topic model that will serve as the basis for the recommendation process. Our experiences confirm our performance expectations, showing relevance and objectivity in the results.
+
+**Source:** https://eric.ed.gov/?id=EJ1402690
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:26.252Z

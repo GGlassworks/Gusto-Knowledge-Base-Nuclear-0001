@@ -1,0 +1,13 @@
+# Boosting Wisdom of the Crowd for Medical Image Annotation Using Training Performance and Task Features
+
+**Authors:** Eeshan Hasan, Erik Duhaime, Jennifer S. Trueblood
+
+## Abstract
+A crucial bottleneck in medical artificial intelligence (AI) is high-quality labeled medical datasets. In this paper, we test a large variety of wisdom of the crowd algorithms to label medical images that were initially classified by individuals recruited through an app-based platform. Individuals classified skin lesions from the International Skin Lesion Challenge 2018 into 7 different categories. There was a large dispersion in the geographical location, experience, training, and performance of the recruited individuals. We tested several wisdom of the crowd algorithms of varying complexity from a simple unweighted average to more complex Bayesian models that account for individual patterns of errors. Using a switchboard analysis, we observe that the best-performing algorithms rely on selecting top performers, weighting decisions by training accuracy, and take into account the task environment. These algorithms far exceed expert performance. We conclude by discussing the implications of these approaches for the development of medical AI.
+
+**Source:** https://eric.ed.gov/?id=EJ1425020
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:27.449Z

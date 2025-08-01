@@ -1,0 +1,13 @@
+# A Multi-Criteria Course Recommendation System Based on the Skyline BNL and Top-Kws Algorithms
+
+**Authors:** Aicha Er-Rafyg, Abdellah Idrissi, Kaoutar El Handri
+
+## Abstract
+In today's digital age, online courses have become a valuable tool for learners to acquire new skills and knowledge. The global outbreak of COVID-19 has further accelerated the adoption of online learning as education service providers are forced to move their courses online to ensure the continuity of education. However, with many online courses, learners often find it challenging to select courses that meet their preferences and requirements. To address this issue, recommender systems (RS) have emerged as a popular solution for automatically analysing data and providing personalised recommendations to learners. Our previous work proposed a course RS based on the skyline block-nested-loops (BNL) algorithm. This algorithm filters courses based on multiple criteria, such as course duration, price, difficulty level, and rating, allowing learners to select courses that meet their specific preferences. However, the skyline BNL algorithm has limitations when learners must consider several criteria simultaneously. This limitation led us to propose a new RS that combines skyline BNL and top-k weighted sum (top-kws). The top-kws algorithm ranks courses based on a weighted sum of their features, allowing learners to select courses based on their relative importance.
+
+**Source:** https://eric.ed.gov/?id=EJ1476341
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:22.570Z

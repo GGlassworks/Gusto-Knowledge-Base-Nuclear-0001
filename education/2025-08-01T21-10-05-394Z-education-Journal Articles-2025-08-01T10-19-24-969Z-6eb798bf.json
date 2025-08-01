@@ -1,0 +1,13 @@
+# Categorizing Variations of Student-Implemented Sorting Algorithms
+
+**Authors:** Taherkhani, Ahmad, Korhonen, Ari, Malmi, Lauri
+
+## Abstract
+In this study, we examined freshmen students' sorting algorithm implementations in data structures and algorithms' course in two phases: at the beginning of the course before the students received any instruction on sorting algorithms, and after taking a lecture on sorting algorithms. The analysis revealed that many students have insufficient understanding of implementing sorting algorithms. For example, they include unnecessary swaps in their Insertion or Selection sort implementations resulting in more complicated and inefficient code. Based on the data, we present a categorization of these types of variations and discuss the implications of the results. In addition, we introduce an instrument to recognize these algorithms automatically. This is done in terms of white-box testing. Our aim is to develop an automatic assessment system to help teachers in the burden of marking students' assignments and give feedback to the students on their algorithmic solutions. We outline how the presented results can be used to develop the instrument further. (Contains 5 tables, 11 figures, and 3 notes.)
+
+**Source:** https://eric.ed.gov/?id=EJ970758
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:24.969Z

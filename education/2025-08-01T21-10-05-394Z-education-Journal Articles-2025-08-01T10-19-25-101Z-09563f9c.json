@@ -1,0 +1,13 @@
+# Digital Rights Management Implemented by RDF Graph Approach
+
+**Authors:** Yang, Jin Tan, Horng, Huai-Chien
+
+## Abstract
+This paper proposes a design framework for constructing Digital Rights Management (DRM) that enables learning objects in legal usage. The central theme of this framework is that any design of a DRM must have theories as foundations to make the maintenance, extension or interoperability easy. While a learning objective consists of learning resources and its metadata, a DRM also needs metadata for describing itself as Rights Expression Language (REL). The proposed Resource Description Framework (RDF) graph design in this study is based on the Boolean operations of graph theory, whereas the RDF graph provides not only more coherent operations, but also opportunities for maintenance and interoperability at different platforms. Two algorithms for encoding and verifying rights in DRM are designed to deal with REL metadata in RDF format. This technological support also reduces the sophistication among role assignments, learning objects and task ontology of DRM. The DRM module is embedded to SCORM-compliant Content Repository Management System (CRMS) for IPR (Intellectual Property Rights) protection. Finally, some implications of this study are also included.
+
+**Source:** https://eric.ed.gov/?id=EJ1099855
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:25.101Z
