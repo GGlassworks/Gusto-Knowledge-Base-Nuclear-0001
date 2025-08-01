@@ -1,0 +1,12 @@
+# Learning from Elders: Making an LLM-powered Chatbot for Retirement Communities more Accessible through User-centered Design
+
+**Authors:** Luna Xingyu Li, Ray-yuan Chung, Feng Chen, Wenyu Zeng, Yein Jeon, Oleg Zaslavsky
+
+## Summary
+Low technology and eHealth literacy among older adults in retirement communities hinder engagement with digital tools. To address this, we designed an LLM-powered chatbot prototype using a human-centered approach for a local retirement community. Through interviews and persona development, we prioritized accessibility and dual functionality: simplifying internal information retrieval and improving technology and eHealth literacy. A pilot trial with residents demonstrated high satisfaction and ease of use, but also identified areas for further improvement. Based on the feedback, we refined the chatbot using GPT-3.5 Turbo and Streamlit. The chatbot employs tailored prompt engineering to deliver concise responses. Accessible features like adjustable font size, interface theme and personalized follow-up responses were implemented. Future steps include enabling voice-to-text function and longitudinal intervention studies. Together, our results highlight the potential of LLM-driven chatbots to empower older adults through accessible, personalized interactions, bridging literacy gaps in retirement communities.
+
+
+---
+Category: education
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:24.883Z

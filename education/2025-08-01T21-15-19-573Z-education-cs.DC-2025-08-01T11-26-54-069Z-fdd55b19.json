@@ -1,0 +1,12 @@
+# Benchmarking Contemporary Deep Learning Hardware and Frameworks:A Survey of Qualitative Metrics
+
+**Authors:** Wei Dai, Daniel Berleant
+
+## Summary
+This paper surveys benchmarking principles, machine learning devices including GPUs, FPGAs, and ASICs, and deep learning software frameworks. It also reviews these technologies with respect to benchmarking from the perspectives of a 6-metric approach to frameworks and an 11-metric approach to hardware platforms. Because MLPerf is a benchmark organization working with industry and academia, and offering deep learning benchmarks that evaluate training and inference on deep learning hardware devices, the survey also mentions MLPerf benchmark results, benchmark metrics, datasets, deep learning frameworks and algorithms. We summarize seven benchmarking principles, differential characteristics of mainstream AI devices, and qualitative comparison of deep learning hardware and frameworks.
+
+
+---
+Category: education
+Subcategory: cs.DC
+Collected: 2025-08-01T11:26:54.070Z

@@ -1,0 +1,12 @@
+# Machine Learning and Consumer Data
+
+**Authors:** Hannah H. Chang, Anirban Mukherjee
+
+## Summary
+The digital revolution has led to the digitization of human behavior, creating unprecedented opportunities to understand observable actions on an unmatched scale. Emerging phenomena such as crowdfunding and crowdsourcing have further illuminated consumer behavior while also introducing new behavioral patterns. However, the sheer volume and complexity of this data present significant challenges for marketing researchers and practitioners. Traditional methods used to analyze consumer data fall short in handling the breadth, precision, and scale of emerging data sources. To address this, computational methods have been developed to manage the "big data" associated with consumer behavior, which typically includes structured data, textual data, audial data, and visual data. These methods, particularly machine learning, allow for effective parsing and processing of multi-faceted data. Given these recent developments, this review article seeks to familiarize researchers and practitioners with new data sources and analysis techniques for studying consumer behavior at scale. It serves as an introduction to the application of computational social science in understanding and leveraging publicly available consumer data.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:11.010Z

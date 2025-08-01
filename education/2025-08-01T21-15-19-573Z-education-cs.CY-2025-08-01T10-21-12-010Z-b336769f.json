@@ -1,0 +1,12 @@
+# Top-Down vs. Bottom-Up Approaches for Automatic Educational Knowledge Graph Construction in CourseMapper
+
+**Authors:** Qurat Ul Ain, Mohamed Amine Chatti, Amr Shakhshir, Jean Qussa, Rawaa Alatrash, Shoeb Joarder
+
+## Summary
+The automatic construction of Educational Knowledge Graphs (EduKGs) is crucial for modeling domain knowledge in digital learning environments, particularly in Massive Open Online Courses (MOOCs). However, identifying the most effective approach for constructing accurate EduKGs remains a challenge. This study compares Top-down and Bottom-up approaches for automatic EduKG construction, evaluating their effectiveness in capturing and structuring knowledge concepts from learning materials in our MOOC platform CourseMapper. Through a user study and expert validation using Simple Random Sampling (SRS), results indicate that the Bottom-up approach outperforms the Top-down approach in accurately identifying and mapping key knowledge concepts. To further enhance EduKG accuracy, we integrate a Human-in-the-Loop approach, allowing course moderators to review and refine the EduKG before publication. This structured comparison provides a scalable framework for improving knowledge representation in MOOCs, ultimately supporting more personalized and adaptive learning experiences.
+
+
+---
+Category: education
+Subcategory: cs.CY
+Collected: 2025-08-01T10:21:12.010Z

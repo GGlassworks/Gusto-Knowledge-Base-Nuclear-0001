@@ -1,0 +1,12 @@
+# Insightful analysis of historical sources at scales beyond human capabilities using unsupervised Machine Learning and XAI
+
+**Authors:** Oliver Eberle, Jochen Büttner, Hassan El-Hajj, Grégoire Montavon, Klaus-Robert Müller, Matteo Valleriani
+
+## Summary
+Historical materials are abundant. Yet, piecing together how human knowledge has evolved and spread both diachronically and synchronically remains a challenge that can so far only be very selectively addressed. The vast volume of materials precludes comprehensive studies, given the restricted number of human specialists. However, as large amounts of historical materials are now available in digital form there is a promising opportunity for AI-assisted historical analysis. In this work, we take a pivotal step towards analyzing vast historical corpora by employing innovative machine learning (ML) techniques, enabling in-depth historical insights on a grand scale. Our study centers on the evolution of knowledge within the `Sacrobosco Collection' -- a digitized collection of 359 early modern printed editions of textbooks on astronomy used at European universities between 1472 and 1650 -- roughly 76,000 pages, many of which contain astronomic, computational tables. An ML based analysis of these tables helps to unveil important facets of the spatio-temporal evolution of knowledge and innovation in the field of mathematical astronomy in the period, as taught at European universities.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:17.268Z

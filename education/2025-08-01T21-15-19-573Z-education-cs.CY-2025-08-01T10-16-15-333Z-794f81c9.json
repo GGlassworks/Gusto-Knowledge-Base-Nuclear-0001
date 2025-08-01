@@ -1,0 +1,12 @@
+# Base rate neglect in computer science education
+
+**Authors:** Koby Mike, Orit Hazzan
+
+## Summary
+Machine learning (ML) algorithms are gaining increased importance in many academic and industrial applications, and such algorithms are, accordingly, becoming common components in computer science curricula. Learning ML is challenging not only due to its complex mathematical and algorithmic aspects, but also due to a) the complexity of using correctly these algorithms in the context of real-life situations and b) the understanding of related social and ethical issues. Cognitive biases are phenomena of the human brain that may cause erroneous perceptions and irrational decision-making processes. As such, they have been researched thoroughly in the context of cognitive psychology and decision making; they do, however, have important implications for computer science education as well. One well-known cognitive bias, first described by Kahneman and Tversky, is the base rate neglect bias, according to which humans fail to consider the base rate of the underlying phenomena when evaluating conditional probabilities. In this paper, we explore the expression of the base rate neglect bias in ML education. Specifically, we show that about one third of students in an Introduction to ML course, from varied backgrounds (computer science students and teachers, data science, engineering, social science and digital humanities), fail to correctly evaluate ML algorithm performance due to the base rate neglect bias. This failure rate should alert educators and promote the development of new pedagogical methods for teaching ML algorithm performance.
+
+
+---
+Category: education
+Subcategory: cs.CY
+Collected: 2025-08-01T10:16:15.334Z

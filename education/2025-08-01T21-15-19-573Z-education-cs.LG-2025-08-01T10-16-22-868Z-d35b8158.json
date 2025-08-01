@@ -1,0 +1,12 @@
+# Modern Views of Machine Learning for Precision Psychiatry
+
+**Authors:** Zhe Sage Chen, Prathamesh, Kulkarni, Isaac R. Galatzer-Levy, Benedetta Bigio, Carla Nasca, Yu Zhang
+
+## Summary
+In light of the NIMH's Research Domain Criteria (RDoC), the advent of functional neuroimaging, novel technologies and methods provide new opportunities to develop precise and personalized prognosis and diagnosis of mental disorders. Machine learning (ML) and artificial intelligence (AI) technologies are playing an increasingly critical role in the new era of precision psychiatry. Combining ML/AI with neuromodulation technologies can potentially provide explainable solutions in clinical practice and effective therapeutic treatment. Advanced wearable and mobile technologies also call for the new role of ML/AI for digital phenotyping in mobile mental health. In this review, we provide a comprehensive review of the ML methodologies and applications by combining neuroimaging, neuromodulation, and advanced mobile technologies in psychiatry practice. Additionally, we review the role of ML in molecular phenotyping and cross-species biomarker identification in precision psychiatry. We further discuss explainable AI (XAI) and causality testing in a closed-human-in-the-loop manner, and highlight the ML potential in multimedia information extraction and multimodal data fusion. Finally, we discuss conceptual and practical challenges in precision psychiatry and highlight ML opportunities in future research.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:22.868Z

@@ -1,0 +1,12 @@
+# Utilizing Online and Open-Source Machine Learning Toolkits to Leverage the Future of Sustainable Engineering
+
+**Authors:** Andrew Schulz, Suzanne Stathatos, Cassandra Shriver, Roxanne Moore
+
+## Summary
+Recently, there has been a national push to use machine learning (ML) and artificial intelligence (AI) to advance engineering techniques in all disciplines ranging from advanced fracture mechanics in materials science to soil and water quality testing in the civil and environmental engineering fields. Using AI, specifically machine learning, engineers can automate and decrease the processing or human labeling time while maintaining statistical repeatability via trained models and sensors. Edge Impulse has designed an open-source TinyML-enabled Arduino education tool kit for engineering disciplines. This paper discusses the various applications and approaches engineering educators have taken to utilize ML toolkits in the classroom. We provide in-depth implementation guides and associated learning outcomes focused on the Environmental Engineering Classroom. We discuss five specific examples of four standard Environmental Engineering courses for freshman and junior-level engineering. There are currently few programs in the nation that utilize machine learning toolkits to prepare the next generation of ML and AI-educated engineers for industry and academic careers. This paper will guide educators to design and implement ML/AI into engineering curricula (without a specific AI or ML focus within the course) using simple, cheap, and open-source tools and technological aid from an online platform in collaboration with Edge Impulse.
+
+
+---
+Category: education
+Subcategory: cs.CY
+Collected: 2025-08-01T15:50:05.237Z

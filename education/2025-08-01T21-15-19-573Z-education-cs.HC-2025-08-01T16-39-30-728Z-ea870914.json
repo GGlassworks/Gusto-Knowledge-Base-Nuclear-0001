@@ -1,0 +1,12 @@
+# Bioblox 2.5D -- Developing an Educational Game Based on Protein Docking
+
+**Authors:** Frederic Fol Leymarie, William Latham, Guido Salimbeni, Suhail A. Islam, Christopher Reynolds, Charlie Cook, Luis Armas Suarez, Richard Leinfellner, Michael J. E. Sternberg
+
+## Summary
+We present the development process of Bioblox2-5D, an educational biology game aimed at teenagers. The game content refers to protein docking and aims to improve learning about molecular shape complexity, the roles of charges in molecular docking and the scoring function to calculate binding affinity. We developed the game as part of a collaboration between the Computing Department at Goldsmiths, University of London, and the Structural Bioinformatics group at Imperial College London. The team at Imperial provided the content requirements and validated the technical solution adopted in the game. The team at Goldsmiths designed and implemented the content requirements into a fun and stimulating educational puzzle game that supports teaching and motivates students to engage with biology. We illustrate the game design choices, the compromises and solutions that we applied to accomplish the desired learning outcomes. This paper aims to illustrate useful insights and inspirations in the context of educational game development for biology students.
+
+
+---
+Category: education
+Subcategory: cs.HC
+Collected: 2025-08-01T16:39:30.728Z

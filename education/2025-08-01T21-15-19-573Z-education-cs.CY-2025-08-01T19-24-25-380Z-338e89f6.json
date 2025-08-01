@@ -1,0 +1,12 @@
+# PABED A Tool for Big Education Data Analysis
+
+**Authors:** Samiya Khan, Kashish Ara Shakil, Mansaf Alam
+
+## Summary
+Cloud computing and big data have risen to become the most popular technologies of the modern world. Apparently, the reason behind their immense popularity is their wide range of applicability as far as the areas of interest are concerned. Education and research remain one of the most obvious and befitting application areas. This research paper introduces a big data analytics tool, PABED Project Analyzing Big Education Data, for the education sector that makes use of cloud-based technologies. This tool is implemented using Google BigQuery and R programming language and allows comparison of undergraduate enrollment data for different academic years. Although, there are many proposed applications of big data in education, there is a lack of tools that can actualize the concept into practice. PABED is an effort in this direction. The implementation and testing details of the project have been described in this paper. This tool validates the use of cloud computing and big data technologies in education and shall head start development of more sophisticated educational intelligence tools.
+
+
+---
+Category: education
+Subcategory: cs.CY
+Collected: 2025-08-01T19:24:25.380Z

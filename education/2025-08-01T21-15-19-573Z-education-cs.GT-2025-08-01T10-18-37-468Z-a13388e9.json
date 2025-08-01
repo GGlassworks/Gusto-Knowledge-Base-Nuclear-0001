@@ -1,0 +1,12 @@
+# A Learning Algorithm That Attains the Human Optimum in a Repeated Human-Machine Interaction Game
+
+**Authors:** Jason T. Isa, Lillian J. Ratliff, Samuel A. Burden
+
+## Summary
+When humans interact with learning-based control systems, a common goal is to minimize a cost function known only to the human. For instance, an exoskeleton may adapt its assistance in an effort to minimize the human's metabolic cost-of-transport. Conventional approaches to synthesizing the learning algorithm solve an inverse problem to infer the human's cost. However, these problems can be ill-posed, hard to solve, or sensitive to problem data. Here we show a game-theoretic learning algorithm that works solely by observing human actions to find the cost minimum, avoiding the need to solve an inverse problem. We evaluate the performance of our algorithm in an extensive set of human subjects experiments, demonstrating consistent convergence to the minimum of a prescribed human cost function in scalar and multidimensional instantiations of the game. We conclude by outlining future directions for theoretical and empirical extensions of our results.
+
+
+---
+Category: education
+Subcategory: cs.GT
+Collected: 2025-08-01T10:18:37.469Z

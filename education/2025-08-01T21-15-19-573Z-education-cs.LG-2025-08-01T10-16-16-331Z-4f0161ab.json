@@ -1,0 +1,12 @@
+# A Survey of Few-Shot Learning for Biomedical Time Series
+
+**Authors:** Chenqi Li, Timothy Denison, Tingting Zhu
+
+## Summary
+Advancements in wearable sensor technologies and the digitization of medical records have contributed to the unprecedented ubiquity of biomedical time series data. Data-driven models have tremendous potential to assist clinical diagnosis and improve patient care by improving long-term monitoring capabilities, facilitating early disease detection and intervention, as well as promoting personalized healthcare delivery. However, accessing extensively labeled datasets to train data-hungry deep learning models encounters many barriers, such as long-tail distribution of rare diseases, cost of annotation, privacy and security concerns, data-sharing regulations, and ethical considerations. An emerging approach to overcome the scarcity of labeled data is to augment AI methods with human-like capabilities to leverage past experiences to learn new tasks with limited examples, called few-shot learning. This survey provides a comprehensive review and comparison of few-shot learning methods for biomedical time series applications. The clinical benefits and limitations of such methods are discussed in relation to traditional data-driven approaches. This paper aims to provide insights into the current landscape of few-shot learning for biomedical time series and its implications for future research and applications.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:16.331Z

@@ -1,0 +1,12 @@
+# Multi-source Data Mining for e-Learning
+
+**Authors:** Julie Bu Daher, Armelle Brun, Anne Boyer
+
+## Summary
+Data mining is the task of discovering interesting, unexpected or valuable structures in large datasets and transforming them into an understandable structure for further use . Different approaches in the domain of data mining have been proposed, among which pattern mining is the most important one. Pattern mining mining involves extracting interesting frequent patterns from data. Pattern mining has grown to be a topic of high interest where it is used for different purposes, for example, recommendations. Some of the most common challenges in this domain include reducing the complexity of the process and avoiding the redundancy within the patterns. So far, pattern mining has mainly focused on the mining of a single data source. However, with the increase in the amount of data, in terms of volume, diversity of sources and nature of data, mining multi-source and heterogeneous data has become an emerging challenge in this domain. This challenge is the main focus of our work where we propose to mine multi-source data in order to extract interesting frequent patterns.
+
+
+---
+Category: education
+Subcategory: cs.DB
+Collected: 2025-08-01T19:25:23.835Z

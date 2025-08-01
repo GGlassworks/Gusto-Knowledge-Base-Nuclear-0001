@@ -1,0 +1,12 @@
+# Unsupervised hierarchical clustering using the learning dynamics of RBMs
+
+**Authors:** Aurélien Decelle, Lorenzo Rosset, Beatriz Seoane
+
+## Summary
+Datasets in the real world are often complex and to some degree hierarchical, with groups and sub-groups of data sharing common characteristics at different levels of abstraction. Understanding and uncovering the hidden structure of these datasets is an important task that has many practical applications. To address this challenge, we present a new and general method for building relational data trees by exploiting the learning dynamics of the Restricted Boltzmann Machine (RBM). Our method is based on the mean-field approach, derived from the Plefka expansion, and developed in the context of disordered systems. It is designed to be easily interpretable. We tested our method in an artificially created hierarchical dataset and on three different real-world datasets (images of digits, mutations in the human genome, and a homologous family of proteins). The method is able to automatically identify the hierarchical structure of the data. This could be useful in the study of homologous protein sequences, where the relationships between proteins are critical for understanding their function and evolution.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:23.653Z

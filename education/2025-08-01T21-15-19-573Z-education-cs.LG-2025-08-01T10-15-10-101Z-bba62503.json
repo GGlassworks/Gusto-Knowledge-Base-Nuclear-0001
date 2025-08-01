@@ -1,0 +1,12 @@
+# A Critical Review of Information Bottleneck Theory and its Applications to Deep Learning
+
+**Authors:** Mohammad Ali Alomrani
+
+## Summary
+In the past decade, deep neural networks have seen unparalleled improvements that continue to impact every aspect of today's society. With the development of high performance GPUs and the availability of vast amounts of data, learning capabilities of ML systems have skyrocketed, going from classifying digits in a picture to beating world-champions in games with super-human performance. However, even as ML models continue to achieve new frontiers, their practical success has been hindered by the lack of a deep theoretical understanding of their inner workings. Fortunately, a known information-theoretic method called the information bottleneck theory has emerged as a promising approach to better understand the learning dynamics of neural networks. In principle, IB theory models learning as a trade-off between the compression of the data and the retainment of information. The goal of this survey is to provide a comprehensive review of IB theory covering it's information theoretic roots and the recently proposed applications to understand deep learning models.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:15:10.101Z

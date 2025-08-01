@@ -1,0 +1,12 @@
+# Deep Reinforcement Learning for the Design of Metamaterial Mechanisms with Functional Compliance Control
+
+**Authors:** Yejun Choi, Yeoneung Kim, Keun Park
+
+## Summary
+Metamaterial mechanisms are micro-architectured compliant structures that operate through the elastic deformation of specially designed flexible members. This study develops an efficient design methodology for compliant mechanisms using deep reinforcement learning (RL). For this purpose, design domains are digitized into finite cells with various hinge connections, and finite element analyses (FEAs) are conducted to evaluate the deformation behaviors of the compliance mechanism with different cell combinations. The FEA data are learned through the RL method to obtain optimal compliant mechanisms for desired functional requirements. The RL algorithm is applied to the design of a compliant door-latch mechanism, exploring the effect of human guidance and tiling direction. The optimal result is achieved with minimal human guidance and inward tiling, resulting in a threefold increase in the predefined reward compared to human-designed mechanisms. The proposed approach is extended to the design of a soft gripper mechanism, where the effect of hinge connections is additionally considered. The optimal design under hinge penalization reveals remarkably enhanced compliance, and its performance is validated by experimental tests using an additively manufactured gripper. These findings demonstrate that RL-optimized designs outperform those developed with human insight, providing an efficient design methodology for cell-based compliant mechanisms in practical applications.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:18.232Z

@@ -1,0 +1,12 @@
+# Broadband Digital Over-the-Air Computation for Wireless Federated Edge Learning
+
+**Authors:** Lizhao You, Xinbo Zhao, Rui Cao, Yulin Shao, Liqun Fu
+
+## Summary
+This paper presents the first orthogonal frequency-division multiplexing(OFDM)-based digital over-the-air computation (AirComp) system for wireless federated edge learning, where multiple edge devices transmit model data simultaneously using non-orthogonal OFDM subcarriers, and the edge server aggregates data directly from the superimposed signal. Existing analog AirComp systems often assume perfect phase alignment via channel precoding and utilize uncoded analog transmission for model aggregation. In contrast, our digital AirComp system leverages digital modulation and channel codes to overcome phase asynchrony, thereby achieving accurate model aggregation for phase-asynchronous multi-user OFDM systems. To realize a digital AirComp system, we develop a medium access control (MAC) protocol that allows simultaneous transmissions from different users using non-orthogonal OFDM subcarriers, and put forth joint channel decoding and aggregation decoders tailored for convolutional and LDPC codes. To verify the proposed system design, we build a digital AirComp prototype on the USRP software-defined radio platform, and demonstrate a real-time LDPC-coded AirComp system with up to four users. Trace-driven simulation results on test accuracy versus SNR show that: 1) analog AirComp is sensitive to phase asynchrony in practical multi-user OFDM systems, and the test accuracy performance fails to improve even at high SNRs; 2) our digital AirComp system outperforms two analog AirComp systems at all SNRs, and approaches the optimal performance when SNR $\geq$ 6 dB for two-user LDPC-coded AirComp, demonstrating the advantage of digital AirComp in phase-asynchronous multi-user OFDM systems.
+
+
+---
+Category: education
+Subcategory: cs.IT
+Collected: 2025-08-01T10:22:59.130Z

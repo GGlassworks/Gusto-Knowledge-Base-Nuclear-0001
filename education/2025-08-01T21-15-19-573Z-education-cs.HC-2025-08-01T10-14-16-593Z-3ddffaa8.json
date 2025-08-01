@@ -1,0 +1,12 @@
+# Modeling and mitigating human annotation errors to design efficient stream processing systems with human-in-the-loop machine learning
+
+**Authors:** Rahul Pandey, Hemant Purohit, Carlos Castillo, Valerie L. Shalin
+
+## Summary
+High-quality human annotations are necessary for creating effective machine learning-driven stream processing systems. We study hybrid stream processing systems based on a Human-In-The-Loop Machine Learning (HITL-ML) paradigm, in which one or many human annotators and an automatic classifier (trained at least partially by the human annotators) label an incoming stream of instances. This is typical of many near-real-time social media analytics and web applications, including annotating social media posts during emergencies by digital volunteer groups. From a practical perspective, low-quality human annotations result in wrong labels for retraining automated classifiers and indirectly contribute to the creation of inaccurate classifiers. Considering human annotation as a psychological process allows us to address these limitations. We show that human annotation quality is dependent on the ordering of instances shown to annotators and can be improved by local changes in the instance sequence/order provided to the annotators, yielding a more accurate annotation of the stream. We adapt a theoretically-motivated human error framework of mistakes and slips for the human annotation task to study the effect of ordering instances (i.e., an "annotation schedule"). Further, we propose an error-avoidance approach to the active learning paradigm for stream processing applications robust to these likely human errors (in the form of slips) when deciding a human annotation schedule. We support the human error framework using crowdsourcing experiments and evaluate the proposed algorithm against standard baselines for active learning via extensive experimentation on classification tasks of filtering relevant social media posts during natural disasters.
+
+
+---
+Category: education
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.593Z

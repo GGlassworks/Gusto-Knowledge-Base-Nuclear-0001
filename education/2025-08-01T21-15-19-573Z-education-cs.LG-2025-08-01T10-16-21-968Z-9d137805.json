@@ -1,0 +1,12 @@
+# Topic Space Trajectories: A case study on machine learning literature
+
+**Authors:** Bastian Schäfermeier, Gerd Stumme, Tom Hanika
+
+## Summary
+The annual number of publications at scientific venues, for example, conferences and journals, is growing quickly. Hence, even for researchers it becomes harder and harder to keep track of research topics and their progress. In this task, researchers can be supported by automated publication analysis. Yet, many such methods result in uninterpretable, purely numerical representations. As an attempt to support human analysts, we present topic space trajectories, a structure that allows for the comprehensible tracking of research topics. We demonstrate how these trajectories can be interpreted based on eight different analysis approaches. To obtain comprehensible results, we employ non-negative matrix factorization as well as suitable visualization techniques. We show the applicability of our approach on a publication corpus spanning 50 years of machine learning research from 32 publication venues. Our novel analysis method may be employed for paper classification, for the prediction of future research topics, and for the recommendation of fitting conferences and journals for submitting unpublished work.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:21.969Z

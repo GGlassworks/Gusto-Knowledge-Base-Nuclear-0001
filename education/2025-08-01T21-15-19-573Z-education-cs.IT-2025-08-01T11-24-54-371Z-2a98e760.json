@@ -1,0 +1,12 @@
+# Transfer Learning and Meta Learning Based Fast Downlink Beamforming Adaptation
+
+**Authors:** Yi Yuan, Gan Zheng, Kai-Kit Wong, Björn Ottersten, Zhi-Quan Luo
+
+## Summary
+This paper studies fast adaptive beamforming optimization for the signal-to-interference-plus-noise ratio balancing problem in a multiuser multiple-input single-output downlink system. Existing deep learning based approaches to predict beamforming rely on the assumption that the training and testing channels follow the same distribution which may not hold in practice. As a result, a trained model may lead to performance deterioration when the testing network environment changes. To deal with this task mismatch issue, we propose two offline adaptive algorithms based on deep transfer learning and meta-learning, which are able to achieve fast adaptation with the limited new labelled data when the testing wireless environment changes. Furthermore, we propose an online algorithm to enhance the adaptation capability of the offline meta algorithm in realistic non-stationary environments. Simulation results demonstrate that the proposed adaptive algorithms achieve much better performance than the direct deep learning algorithm without adaptation in new environments. The meta-learning algorithm outperforms the deep transfer learning algorithm and achieves near optimal performance. In addition, compared to the offline meta-learning algorithm, the proposed online meta-learning algorithm shows superior adaption performance in changing environments.
+
+
+---
+Category: education
+Subcategory: cs.IT
+Collected: 2025-08-01T11:24:54.372Z

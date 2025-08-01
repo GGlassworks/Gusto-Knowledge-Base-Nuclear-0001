@@ -1,0 +1,12 @@
+# Learning Vis Tools: Teaching Data Visualization Tutorials
+
+**Authors:** Leo Yu-Ho Lo, Yao Ming, Huamin Qu
+
+## Summary
+Teaching and advocating data visualization are among the most important activities in the visualization community. With growing interest in data analysis from business and science professionals, data visualization courses attract students across different disciplines. However, comprehensive visualization training requires students to have a certain level of proficiency in programming, a requirement that imposes challenges on both teachers and students. With recent developments in visualization tools, we have managed to overcome these obstacles by teaching a wide range of visualization and supporting tools. Starting with GUI-based visualization tools and data analysis with Python, students put visualization knowledge into practice with increasing amounts of programming. At the end of the course, students can design and implement visualizations with D3 and other programming-based visualization tools. Throughout the course, we continuously collect student feedback and refine the teaching materials. This paper documents our teaching methods and considerations when designing the teaching materials.
+
+
+---
+Category: education
+Subcategory: cs.HC
+Collected: 2025-08-01T19:50:01.706Z

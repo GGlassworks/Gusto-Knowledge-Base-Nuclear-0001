@@ -1,0 +1,12 @@
+# Identifying Historical Travelogues in Large Text Corpora Using Machine Learning
+
+**Authors:** Jan Rörden, Doris Gruber, Martin Krickl, Bernhard Haslhofer
+
+## Summary
+Travelogues represent an important and intensively studied source for scholars in the humanities, as they provide insights into people, cultures, and places of the past. However, existing studies rarely utilize more than a dozen primary sources, since the human capacities of working with a large number of historical sources are naturally limited. In this paper, we define the notion of travelogue and report upon an interdisciplinary method that, using machine learning as well as domain knowledge, can effectively identify German travelogues in the digitized inventory of the Austrian National Library with F1 scores between 0.94 and 1.00. We applied our method on a corpus of 161,522 German volumes and identified 345 travelogues that could not be identified using traditional search methods, resulting in the most extensive collection of early modern German travelogues ever created. To our knowledge, this is the first time such a method was implemented for the bibliographic indexing of a text corpus on this scale, improving and extending the traditional methods in the humanities. Overall, we consider our technique to be an important first step in a broader effort of developing a novel mixed-method approach for the large-scale serial analysis of travelogues.
+
+
+---
+Category: education
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:19.046Z

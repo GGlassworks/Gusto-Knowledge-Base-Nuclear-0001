@@ -1,0 +1,12 @@
+# Transcribing Medieval Manuscripts for Machine Learning
+
+**Authors:** Estelle Guéville, David Joseph Wrisley
+
+## Summary
+This article focuses on the transcription of medieval manuscripts. Whereas problems of transcription have long interested medievalists, few workable options in the era of printed editions were available besides normalisation. The automation of this process, known as handwritten text recognition (HTR), has made new kinds of digital text creation possible, but also has foregrounded the necessity of theorising transcription in our scholarly practices. We reflect here on different notions of transcription against the backdrop of changing text technologies. Moreover, drawing on our own research on medieval Latin Bibles, we present general guidelines for customizing transcription schemes, arguing that they must be designed with specific research questions and scholarly end use in mind. Since we are particularly interested in the scribal contribution to the production of codices, our transcription guidelines aim to capture abbreviations and orthographic variation between different textual witnesses for downstream machine learning tasks. In the final section of the article, we discuss a few examples of how the HTR-created transcriptions allow us to address new questions at scale in medieval manuscripts, such as textual variance across witnesses, the prediction of a change in scribal hands within a single manuscript as well as the profiling of individual and regional scribal characteristics.
+
+
+---
+Category: education
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:18.872Z

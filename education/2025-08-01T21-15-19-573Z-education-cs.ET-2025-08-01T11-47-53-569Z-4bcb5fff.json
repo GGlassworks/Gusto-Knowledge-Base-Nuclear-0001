@@ -1,0 +1,12 @@
+# Implementation Of MNIST Dataset Learning Using Analog Circuit
+
+**Authors:** Minjae Kim
+
+## Summary
+There have been many attempts to implement neural networks in the analog circuit. Most of them had a lot of input terms, and most studies implemented neural networks in the analog circuit through a circuit simulation program called Spice to avoid the need to design chips at a high cost and implement circuits directly to input them. In this study, we will implement neural networks using a capacitor and diode and use microcontrollers (Arduino Mega 2560 R3 boards) to drive real-world models and analyze the results.
+
+
+---
+Category: education
+Subcategory: cs.ET
+Collected: 2025-08-01T11:47:53.569Z

@@ -1,0 +1,12 @@
+# Novel Time Domain Based Upper-Limb Prosthesis Control using Incremental Learning Approach
+
+**Authors:** Sidharth Pancholi, Amit M. Joshi Deepak Joshi, Bradly S. Duerstock
+
+## Summary
+The upper limb of the body is a vital for various kind of activities for human. The complete or partial loss of the upper limb would lead to a significant impact on daily activities of the amputees. EMG carries important information of human physique which helps to decode the various functionalities of human arm. EMG signal based bionics and prosthesis have gained huge research attention over the past decade. Conventional EMG-PR based prosthesis struggles to give accurate performance due to off-line training used and incapability to compensate for electrode position shift and change in arm position. This work proposes online training and incremental learning based system for upper limb prosthetic application. This system consists of ADS1298 as AFE (analog front end) and a 32 bit arm cortex-m4 processor for DSP (digital signal processing). The system has been tested for both intact and amputated subjects. Time derivative moment based features have been implemented and utilized for effective pattern classification. Initially, system have been trained for four classes using the on-line training process later on the number of classes have been incremented on user demand till eleven, and system performance has been evaluated. The system yielded a completion rate of 100% for healthy and amputated subjects when four motions have been considered. Further 94.33% and 92% completion rate have been showcased by the system when the number of classes increased to eleven for healthy and amputees respectively. The motion efficacy test is also evaluated for all the subjects. The highest efficacy rate of 91.23% and 88.64% are observed for intact and amputated subjects respectively.
+
+
+---
+Category: education
+Subcategory: cs.HC
+Collected: 2025-08-01T10:22:57.426Z

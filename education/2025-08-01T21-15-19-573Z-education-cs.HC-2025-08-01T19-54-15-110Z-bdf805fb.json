@@ -1,0 +1,12 @@
+# Challenges and Opportunities of Teaching Data Visualization Together with Data Science
+
+**Authors:** Shri Harini Ramesh, Fateme Rajabiyazdi
+
+## Summary
+With the increasing amount of data globally, analyzing and visualizing data are becoming essential skills across various professions. It is important to equip university students with these essential data skills. To learn, design, and develop data visualization, students need knowledge of programming and data science topics. Many university programs lack dedicated data science courses for undergraduate students, making it important to introduce these concepts through integrated courses. However, combining data science and data visualization into one course can be challenging due to the time constraints and the heavy load of learning. In this paper, we discuss the development of teaching data science and data visualization together in one course and share the results of the post-course evaluation survey. From the survey's results, we identified four challenges, including difficulty in learning multiple tools and diverse data science topics, varying proficiency levels with tools and libraries, and selecting and cleaning datasets. We also distilled five opportunities for developing a successful data science and visualization course. These opportunities include clarifying the course structure, emphasizing visualization literacy early in the course, updating the course content according to student needs, using large real-world datasets, learning from industry professionals, and promoting collaboration among students.
+
+
+---
+Category: education
+Subcategory: cs.HC
+Collected: 2025-08-01T19:54:15.111Z

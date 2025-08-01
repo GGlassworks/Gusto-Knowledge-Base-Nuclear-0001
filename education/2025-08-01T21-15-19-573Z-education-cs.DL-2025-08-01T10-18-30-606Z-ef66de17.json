@@ -1,0 +1,12 @@
+# Research Frontiers in Transfer Learning -- a systematic and bibliometric review
+
+**Authors:** Frederico Guth, Teofilo Emidio de-Campos
+
+## Summary
+Humans can learn from very few samples, demonstrating an outstanding generalization ability that learning algorithms are still far from reaching. Currently, the most successful models demand enormous amounts of well-labeled data, which are expensive and difficult to obtain, becoming one of the biggest obstacles to the use of machine learning in practice. This scenario shows the massive potential for Transfer Learning, which aims to harness previously acquired knowledge to the learning of new tasks more effectively and efficiently. In this systematic review, we apply a quantitative method to select the main contributions to the field and make use of bibliographic coupling metrics to identify research frontiers. We further analyze the linguistic variation between the classics of the field and the frontier and map promising research directions.
+
+
+---
+Category: education
+Subcategory: cs.DL
+Collected: 2025-08-01T10:18:30.606Z

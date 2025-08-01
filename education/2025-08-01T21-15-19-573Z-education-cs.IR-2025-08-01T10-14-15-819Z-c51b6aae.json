@@ -1,0 +1,12 @@
+# Digital Human Interactive Recommendation Decision-Making Based on Reinforcement Learning
+
+**Authors:** Xiong Junwu, Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, Wei Zhou
+
+## Summary
+Digital human recommendation system has been developed to help customers find their favorite products and is playing an active role in various recommendation contexts. How to timely catch and learn the dynamics of the preferences of the customers, while meeting their exact requirements, becomes crucial in the digital human recommendation domain. We design a novel practical digital human interactive recommendation agent framework based on Reinforcement Learning(RL) to improve the efficiency of the interactive recommendation decision-making by leveraging both the digital human features and the superior flexibility of RL. Our proposed framework learns through real-time interactions between the digital human and customers dynamically through the state-of-art RL algorithms, combined with multimodal embedding and graph embedding, to improve the accuracy of personalization and thus enable the digital human agent to timely catch the attention of the customer. Experiments on real business data demonstrate that our framework can provide better personalized customer engagement and better customer experiences.
+
+
+---
+Category: education
+Subcategory: cs.IR
+Collected: 2025-08-01T10:14:15.819Z

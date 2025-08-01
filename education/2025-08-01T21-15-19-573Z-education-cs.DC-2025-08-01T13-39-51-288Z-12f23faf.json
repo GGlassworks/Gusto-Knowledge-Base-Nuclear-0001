@@ -1,0 +1,12 @@
+# Distributed Transfer Learning with 4th Gen Intel Xeon Processors
+
+**Authors:** Lakshmi Arunachalam, Fahim Mohammad, Vrushabh H. Sanghavi
+
+## Summary
+In this paper, we explore how transfer learning, coupled with Intel Xeon, specifically 4th Gen Intel Xeon scalable processor, defies the conventional belief that training is primarily GPU-dependent. We present a case study where we achieved near state-of-the-art accuracy for image classification on a publicly available Image Classification TensorFlow dataset using Intel Advanced Matrix Extensions(AMX) and distributed training with Horovod.
+
+
+---
+Category: education
+Subcategory: cs.DC
+Collected: 2025-08-01T13:39:51.288Z

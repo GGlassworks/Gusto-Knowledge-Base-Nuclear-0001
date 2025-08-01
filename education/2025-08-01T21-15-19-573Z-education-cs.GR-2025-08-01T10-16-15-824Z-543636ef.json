@@ -1,0 +1,12 @@
+# HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation
+
+**Authors:** Longwen Zhang, Zijun Zhao, Xinzhou Cong, Qixuan Zhang, Shuqi Gu, Yuchong Gao, Rui Zheng, Wei Yang, Lan Xu, Jingyi Yu
+
+## Summary
+Significant advancements have been made in developing parametric models for digital humans, with various approaches concentrating on parts such as the human body, hand, or face. Nevertheless, connectors such as the neck have been overlooked in these models, with rich anatomical priors often unutilized. In this paper, we introduce HACK (Head-And-neCK), a novel parametric model for constructing the head and cervical region of digital humans. Our model seeks to disentangle the full spectrum of neck and larynx motions, facial expressions, and appearance variations, providing personalized and anatomically consistent controls, particularly for the neck regions. To build our HACK model, we acquire a comprehensive multi-modal dataset of the head and neck under various facial expressions. We employ a 3D ultrasound imaging scheme to extract the inner biomechanical structures, namely the precise 3D rotation information of the seven vertebrae of the cervical spine. We then adopt a multi-view photometric approach to capture the geometry and physically-based textures of diverse subjects, who exhibit a diverse range of static expressions as well as sequential head-and-neck movements. Using the multi-modal dataset, we train the parametric HACK model by separating the 3D head and neck depiction into various shape, pose, expression, and larynx blendshapes from the neutral expression and the rest skeletal pose. We adopt an anatomically-consistent skeletal design for the cervical region, and the expression is linked to facial action units for artist-friendly controls. HACK addresses the head and neck as a unified entity, offering more accurate and expressive controls, with a new level of realism, particularly for the neck regions. This approach has significant benefits for numerous applications and enables inter-correlation analysis between head and neck for fine-grained motion synthesis and transfer.
+
+
+---
+Category: education
+Subcategory: cs.GR
+Collected: 2025-08-01T10:16:15.824Z
