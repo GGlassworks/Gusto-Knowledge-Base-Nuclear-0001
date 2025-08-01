@@ -1,0 +1,13 @@
+# Data mining applications in university information management system development
+
+**Authors:** Minshun Zhang, Jun-Chen Fan, A. Sharma, Ashima Kukkar
+
+## Abstract
+Abstract Nowadays, the modern management is promoted to resolve the issue of unreliable information transmission and to provide work efficiency. The basic aim of the modern management is to be more effective in the role of the school to train talents and serve the society. This article focuses on the application of data mining (DM) in the development of information management system (IMS) in universities and colleges. DM provides powerful approaches for a variety of educational areas. Due to the large amount of student information that can be used to design valuable patterns relevant to student learning behavior, research in the field of education is continuously expanding. Educational data mining can be used by educational institutions to assess student performance, assisting the institution in recognizing the student’s accomplishments. In DM, classification is a well-known technique that has been regularly used to determine student achievement. In this study, the process of DM and the application research of association rules is introduced in the development of IMS in universities and colleges. The results show that the curriculum covers the whole field and the minimum transaction support count be 2, minconf = 70%. The results also suggested that students who choose one course also tend to choose the other course. The application of DM theory in university information will greatly upsurge the data analysis capability of administrators and improve the management level.
+
+**Source:** https://www.semanticscholar.org/paper/b404acb17a981a8942008fda5ce21e86f0b3c760
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T19:38:28.770Z

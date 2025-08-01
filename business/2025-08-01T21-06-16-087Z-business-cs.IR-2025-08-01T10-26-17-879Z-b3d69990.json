@@ -1,0 +1,12 @@
+# myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization
+
+**Authors:** Rion Brattig Correia, Jordan C. Rozum, Leonard Cross, Jack Felag, Michael Gallant, Ziqi Guo, Bruce W. Herr II, Aehong Min, Deborah Stungis Rocha, Xuan Wang, Katy Börner, Wendy Miller, Luis M. Rocha
+
+## Summary
+Objective: We report the development of the patient-centered myAURA application and suite of methods designed to aid epilepsy patients, caregivers, and researchers in making decisions about care and self-management. Materials and Methods: myAURA rests on the federation of an unprecedented collection of heterogeneous data resources relevant to epilepsy, such as biomedical databases, social media, and electronic health records. A generalizable, open-source methodology was developed to compute a multi-layer knowledge graph linking all this heterogeneous data via the terms of a human-centered biomedical dictionary. Results: The power of the approach is first exemplified in the study of the drug-drug interaction phenomenon. Furthermore, we employ a novel network sparsification methodology using the metric backbone of weighted graphs, which reveals the most important edges for inference, recommendation, and visualization, such as pharmacology factors patients discuss on social media. The network sparsification approach also allows us to extract focused digital cohorts from social media whose discourse is more relevant to epilepsy or other biomedical problems. Finally, we present our patient-centered design and pilot-testing of myAURA, including its user interface, based on focus groups and other stakeholder input. Discussion: The ability to search and explore myAURA's heterogeneous data sources via a sparsified multi-layer knowledge graph, as well as the combination of those layers in a single map, are useful features for integrating relevant information for epilepsy. Conclusion: Our stakeholder-driven, scalable approach to integrate traditional and non-traditional data sources, enables biomedical discovery and data-powered patient self-management in epilepsy, and is generalizable to other chronic conditions.
+
+
+---
+Category: business
+Subcategory: cs.IR
+Collected: 2025-08-01T10:26:17.880Z

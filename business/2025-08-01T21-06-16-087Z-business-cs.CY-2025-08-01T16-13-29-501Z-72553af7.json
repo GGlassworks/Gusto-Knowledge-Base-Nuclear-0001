@@ -1,0 +1,12 @@
+# Surveying Vulnerable Populations: A Case Study of Civil Society Organizations
+
+**Authors:** Nikita Samarin, Alisa Frik, Sean Brooks, Coye Cheshire, Serge Egelman
+
+## Summary
+Compared to organizations in other sectors, civil society organizations (CSOs) are particularly vulnerable to security and privacy threats, as they lack adequate resources and expertise to defend themselves. At the same time, their security needs and practices have not gained much attention among researchers, and existing solutions designed for the average users do not consider the contexts in which CSO employees operate. As part of our preliminary work, we conducted an anonymous online survey with 102 CSO employees to collect information about their perceived risks of different security and privacy threats, and their self-reported mitigation strategies. The design of our preliminary survey accounted for the unique requirements of our target population by establishing trust with respondents, using anonymity-preserving incentive strategies, and distributing the survey with the help of a trusted intermediary. However, by carefully examining our methods and the feedback received from respondents, we uncovered several issues with our methodology, including the length of the survey, the framing of the questions, and the design of the recruitment email. We hope that the discussion presented in this paper will inform and assist researchers and practitioners working on understanding and improving the security and privacy of CSOs.
+
+
+---
+Category: business
+Subcategory: cs.CY
+Collected: 2025-08-01T16:13:29.502Z

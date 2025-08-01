@@ -1,0 +1,12 @@
+# Toward the Optimized Crowdsourcing Strategy for OCR Post-Correction
+
+**Authors:** Omri Suissa, Avshalom Elmalech, Maayan Zhitomirsky-Geffet
+
+## Summary
+Digitization of historical documents is a challenging task in many digital humanities projects. A popular approach for digitization is to scan the documents into images, and then convert images into text using Optical Character Recognition (OCR) algorithms. However, the outcome of OCR processing of historical documents is usually inaccurate and requires post-processing error correction. This study investigates how crowdsourcing can be utilized to correct OCR errors in historical text collections, and which crowdsourcing methodology is the most effective in different scenarios and for various research objectives. A series of experiments with different micro-task's structures and text lengths was conducted with 753 workers on the Amazon's Mechanical Turk platform. The workers had to fix OCR errors in a selected historical text. To analyze the results, new accuracy and efficiency measures have been devised. The analysis suggests that in terms of accuracy, the optimal text length is medium (paragraph-size) and the optimal structure of the experiment is two-phase with a scanned image. In terms of efficiency, the best results were obtained when using longer text in the single-stage structure with no image. The study provides practical recommendations to researchers on how to build the optimal crowdsourcing task for OCR post-correction. The developed methodology can also be utilized to create golden standard historical texts for automatic OCR post-correction. This is the first attempt to systematically investigate the influence of various factors on crowdsourcing-based OCR post-correction and propose an optimal strategy for this process.
+
+
+---
+Category: business
+Subcategory: cs.HC
+Collected: 2025-08-01T10:17:20.213Z

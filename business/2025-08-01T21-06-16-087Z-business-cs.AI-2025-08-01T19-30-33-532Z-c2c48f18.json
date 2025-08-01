@@ -1,0 +1,12 @@
+# Knowledge Map: Toward a New Approach Supporting the Knowledge Management in Distributed Data Mining
+
+**Authors:** Nhien-An Le-Khac, Lamine M. Aouad, M-Tahar Kechadi
+
+## Summary
+Distributed data mining (DDM) deals with the problem of finding patterns or models, called knowledge, in an environment with distributed data and computations. Today, a massive amounts of data which are often geographically distributed and owned by different organisation are being mined. As consequence, a large mount of knowledge are being produced. This causes problems of not only knowledge management but also visualization in data mining. Besides, the main aim of DDM is to exploit fully the benefit of distributed data analysis while minimising the communication. Existing DDM techniques perform partial analysis of local data at individual sites and then generate a global model by aggregating these local results. These two steps are not independent since naive approaches to local analysis may produce an incorrect and ambiguous global data model. The integrating and cooperating of these two steps need an effective knowledge management, concretely an efficient map of knowledge in order to take the advantage of mined knowledge to guide mining the data. In this paper, we present "knowledge map", a representation of knowledge about mined knowledge. This new approach aims to manage efficiently mined knowledge in large scale distributed platform such as Grid. This knowledge map is used to facilitate not only the visualization, evaluation of mining results but also the coordinating of local mining process and existing knowledge to increase the accuracy of final model.
+
+
+---
+Category: business
+Subcategory: cs.AI
+Collected: 2025-08-01T19:30:33.534Z

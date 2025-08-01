@@ -1,0 +1,13 @@
+# Incentivizing Prosumer Coalitions With Energy Management Using Cooperative Game Theory
+
+**Authors:** Liyang Han, Thomas Morstyn, M. Mcculloch
+
+## Abstract
+The advances in distributed renewable generation technologies in recent years have started to cause load balancing issues in power networks. Distributed energy storage (ES) systems, although seen as a tool to mitigate the stress on local networks, tend to be operated only to minimize the energy cost of their direct owner. In this paper, cooperative game theory is used to construct an energy grand coalition, in which ES system operations are optimized to minimize the coalitional energy cost. Case studies then show that forming energy coalitions is effective in reducing the variability of a local network load profile. The resulting cooperative game is mathematically proven to be balanced, which means the energy cost savings from the cooperative ES operation can be allocated to the players within the energy grand coalition in a manner that disincentivizes them from exiting from the grand coalition to form smaller coalitions.
+
+**Source:** https://www.semanticscholar.org/paper/39101dfcd760ce9fed1ae8fdc91413975f71b26a
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T20:56:53.711Z

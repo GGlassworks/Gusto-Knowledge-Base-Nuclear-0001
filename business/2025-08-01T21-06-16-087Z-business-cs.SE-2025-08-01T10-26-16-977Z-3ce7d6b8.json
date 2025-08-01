@@ -1,0 +1,12 @@
+# Aggregating empirical evidence from data strategy studies: a case on model quantization
+
+**Authors:** Santiago del Rey, Paulo Sérgio Medeiros dos Santos, Guilherme Horta Travassos, Xavier Franch, Silverio Martínez-Fernández
+
+## Summary
+Background: As empirical software engineering evolves, more studies adopt data strategies$-$approaches that investigate digital artifacts such as models, source code, or system logs rather than relying on human subjects. Synthesizing results from such studies introduces new methodological challenges. Aims: This study assesses the effects of model quantization on correctness and resource efficiency in deep learning (DL) systems. Additionally, it explores the methodological implications of aggregating evidence from empirical studies that adopt data strategies. Method: We conducted a research synthesis of six primary studies that empirically evaluate model quantization. We applied the Structured Synthesis Method (SSM) to aggregate the findings, which combines qualitative and quantitative evidence through diagrammatic modeling. A total of 19 evidence models were extracted and aggregated. Results: The aggregated evidence indicates that model quantization weakly negatively affects correctness metrics while consistently improving resource efficiency metrics, including storage size, inference latency, and GPU energy consumption$-$a manageable trade-off for many DL deployment contexts. Evidence across quantization techniques remains fragmented, underscoring the need for more focused empirical studies per technique. Conclusions: Model quantization offers substantial efficiency benefits with minor trade-offs in correctness, making it a suitable optimization strategy for resource-constrained environments. This study also demonstrates the feasibility of using SSM to synthesize findings from data strategy-based research.
+
+
+---
+Category: business
+Subcategory: cs.SE
+Collected: 2025-08-01T10:26:16.978Z

@@ -1,0 +1,12 @@
+# Workflow Management on the Blockchain --- Implications and Recommendations
+
+**Authors:** Joerg Evermann, Henry Kim
+
+## Summary
+Blockchain technology, originally popularized by cryptocurrencies, has been proposed as an infrastructure technology with applications in many areas of business management. Blockchains provide an immutable record of transactions, which makes them useful in situations where business actors may not fully trust each other. The distributed nature of blockchains makes them particularly suitable for inter-organizational e-Business applications. In this paper we examine the use of blockchains for executing inter-organizational workflows. We discuss architectural options and describe prototype implementations of blockchain-based workflow management systems (WfMS), highlighting differences to traditional WfMS. Our main contribution is the identification of potential problems raised by blockchain infrastructure and recommendations to address them.
+
+
+---
+Category: business
+Subcategory: cs.DC
+Collected: 2025-08-01T13:03:21.521Z

@@ -1,0 +1,12 @@
+# An Outlook on the Future Marine Traffic Management System for Autonomous Ships
+
+**Authors:** Michele Martelli, Antonio Virdis, Alberto Gotta, Pietro CassarÀ, Maria Di Summa
+
+## Summary
+In the shipping digitalisation process, the peak will be reached with the advent of a wholly autonomous and at the same time safe and reliable ship. Full autonomy could be obtained by two linked Artificial-Intelligence systems representing the ship navigator and the ship engineer that possess sensing and analysis skills, situational awareness, planning, and control capabilities. Many efforts have been made in developing onboard systems; however, the shore facilities are not ready yet to deal with these new technologies. The paper aims to present the innovative technologies and methodologies needed to develop a futuristic Vessel Traffic System. The proposed systems will aim at faultless data acquisition and processing, provide input to decision-making systems, and suggest evasive manoeuvre; to deal with hazards and systems failure without human intervention onboard. The system is composed of three different and interacting layers. The first is an artificially intelligent tool to detect and control autonomous ships, thanks to situation recognition and obstacle avoidance strategies. The second is an orchestration and management platform designed to coordinate the sensing-actuation infrastructure and the AI algorithms results made available by multiple ships, mustering edge, and distributed computing techniques to fulfil the specific harsh requirements of the sea environment. The final part is a holistic guidance-navigation-control framework to manage autonomous ships navigation in a crowded area. Eventually, a cyber-physical scenario, using both a ship digital-twin and a real model-scale ship, is suggested to test and validate the innovative system without the availability of a full-scale scenario.
+
+
+---
+Category: business
+Subcategory: cs.NI
+Collected: 2025-08-01T10:22:59.229Z

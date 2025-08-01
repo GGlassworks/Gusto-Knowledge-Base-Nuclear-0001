@@ -1,0 +1,13 @@
+# Composition and Optimization of Higher Education Management System Based on Data Mining Technology
+
+**Authors:** Jingnan Hu, Hui Li
+
+## Abstract
+In order to improve the low efficiency of higher education management and the unequal distribution of curriculum resources, facing the actual situation of higher education management, a higher education management system based on data mining technology is constructed and optimized. Using the correlation between MVC components of higher education management platform and the support of data mining technology, this paper constructs the MVC model 2 framework of higher education management platform which is a powerful framework used for developing large-scale projects with ease. We collect the data structure in the database, extract the evaluation indicators of higher education management system, separate the display results and business logic, and improve code reusability. We adopt data input, curriculum management, curriculum scheduling, teacher scheduling, and system maintenance and help to form and optimize the higher education management system. The experimental results show that the constructed and optimized higher education management system can maintain good scheduling performance and provide better teaching services for teachers and students.
+
+**Source:** https://www.semanticscholar.org/paper/6becbdfd02d1866958f46353757f5c5812f70391
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T19:29:14.873Z

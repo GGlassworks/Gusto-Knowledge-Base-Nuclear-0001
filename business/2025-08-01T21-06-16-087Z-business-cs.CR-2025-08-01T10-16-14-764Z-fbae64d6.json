@@ -1,0 +1,12 @@
+# Towards an Improved Taxonomy of Attacks related to Digital Identities and Identity Management Systems
+
+**Authors:** Daniela Pöhn, Wolfgang Hommel
+
+## Summary
+Digital transformation with the adoption of cloud technologies, outsourcing, and working-from-home possibilities permits flexibility for organizations and persons. At the same time, it makes it more difficult to secure the IT infrastructure as the IT team needs to keep track of who is accessing what data from where and when on which device. With these changes, identity management as a key element of security becomes more important. Identity management relates to the technologies and policies for the identification, authentication, and authorization of users (humans, devices) in computer networks. Due to the diversity of identity management (i.e., models, protocols, and implementations), different requirements, problems, and attack vectors need to be taken into account. In order to secure identity management systems with their identities, a systematic approach is required. In this article, we propose the improved framework Taxonomy for Identity Management related to Attacks (TaxIdMA). The purpose of TaxIdMA is to classify existing attacks, attack vectors, and vulnerabilities associated with system identities, identity management systems, and end-user identities. In addition, the background of these attacks can be described in a structured and systematic way. The taxonomy is applied to the Internet of Things and self-sovereign identities. It is enhanced by a description language for threat intelligence sharing. Last but not least, TaxIdMA is evaluated and improved based on expert interviews, statistics, and discussions. This step enables broader applicability and level of detail at the same time. The combination of TaxIdMA, which allows a structured way to outline attacks and is applicable to different scenarios, and a description language for threat intelligence help to improve the security identity management systems and processes.
+
+
+---
+Category: business
+Subcategory: cs.CR
+Collected: 2025-08-01T10:16:14.764Z

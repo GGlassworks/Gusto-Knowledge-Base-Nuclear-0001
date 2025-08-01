@@ -1,0 +1,12 @@
+# Infinite horizon for symetric strategy population game
+
+**Authors:** Meziane Privat
+
+## Summary
+To predict the behavior of a population game when time becomes very long, the process that characterizes the evolution of our game dynamics must be reversible. Known games satisfying this are 2 strategy games as well as potential games with an exponential protocol. We will try to extend the study of infinite horizons for what are called symetric strategy games.
+
+
+---
+Category: business
+Subcategory: cs.GT
+Collected: 2025-08-01T20:56:04.754Z

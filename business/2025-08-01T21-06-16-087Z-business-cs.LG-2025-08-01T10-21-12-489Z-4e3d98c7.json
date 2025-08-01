@@ -1,0 +1,12 @@
+# Automated machine learning: AI-driven decision making in business analytics
+
+**Authors:** Marc Schmitt
+
+## Summary
+The realization that AI-driven decision-making is indispensable in today's fast-paced and ultra-competitive marketplace has raised interest in industrial machine learning (ML) applications significantly. The current demand for analytics experts vastly exceeds the supply. One solution to this problem is to increase the user-friendliness of ML frameworks to make them more accessible for the non-expert. Automated machine learning (AutoML) is an attempt to solve the problem of expertise by providing fully automated off-the-shelf solutions for model choice and hyperparameter tuning. This paper analyzed the potential of AutoML for applications within business analytics, which could help to increase the adoption rate of ML across all industries. The H2O AutoML framework was benchmarked against a manually tuned stacked ML model on three real-world datasets. The manually tuned ML model could reach a performance advantage in all three case studies used in the experiment. Nevertheless, the H2O AutoML package proved to be quite potent. It is fast, easy to use, and delivers reliable results, which come close to a professionally tuned ML model. The H2O AutoML framework in its current capacity is a valuable tool to support fast prototyping with the potential to shorten development and deployment cycles. It can also bridge the existing gap between supply and demand for ML experts and is a big step towards automated decisions in business analytics. Finally, AutoML has the potential to foster human empowerment in a world that is rapidly becoming more automated and digital.
+
+
+---
+Category: business
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:12.490Z

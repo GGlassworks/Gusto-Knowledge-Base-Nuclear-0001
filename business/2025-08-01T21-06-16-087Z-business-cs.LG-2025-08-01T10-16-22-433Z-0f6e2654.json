@@ -1,0 +1,12 @@
+# Corporate IT-support Help-Desk Process Hybrid-Automation Solution with Machine Learning Approach
+
+**Authors:** Kuruparan Shanmugalingam, Nisal Chandrasekara, Calvin Hindle, Gihan Fernando, Chanaka Gunawardhana
+
+## Summary
+Comprehensive IT support teams in large scale organizations require more man power for handling engagement and requests of employees from different channels on a 24*7 basis. Automated email technical queries help desk is proposed to have instant real-time quick solutions and email categorisation. Email topic modelling with various machine learning, deep-learning approaches are compared with different features for a scalable, generalised solution along with sure-shot static rules. Email's title, body, attachment, OCR text, and some feature engineered custom features are given as input elements. XGBoost cascaded hierarchical models, Bi-LSTM model with word embeddings perform well showing 77.3 overall accuracy For the real world corporate email data set. By introducing the thresholding techniques, the overall automation system architecture provides 85.6 percentage of accuracy for real world corporate emails. Combination of quick fixes, static rules, ML categorization as a low cost inference solution reduces 81 percentage of the human effort in the process of automation and real time implementation.
+
+
+---
+Category: business
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:22.433Z

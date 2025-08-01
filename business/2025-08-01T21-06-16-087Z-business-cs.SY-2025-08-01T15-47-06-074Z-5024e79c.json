@@ -1,0 +1,12 @@
+# Pedestrian-Aware Engine Management Strategies for Plug-in Hybrid Electric Vehicles
+
+**Authors:** Yingqi Gu, Mingming Liu, Joe Naoum-Sawaya, Emanuele Crisostomi, Giovanni Russo, Robert Shorten
+
+## Summary
+Electric Vehicles (EVs) and Plug-in Hybrid Electric Vehicles (PHEVs) are increasingly being seen as a means of mitigating the pressing concerns of traffic-related pollution. While hybrid vehicles are usually designed with the objective of minimising fuel consumption, in this paper we propose engine management strategies that also take into account environmental effects of the vehicles to pedestrians outside of the vehicles. Specifically, we present optimisation based engine energy management strategies for PHEVs, that attempt to minimise the environmental impact of pedestrians along the route of the vehicle, while taking account of route dependent uncertainties. We implement the proposed approach in a real PHEV, and evaluate the performance in a hardware-in-the-loop platform. A variety of simulation results are given to illustrate the efficacy of our proposed approach.
+
+
+---
+Category: business
+Subcategory: cs.SY
+Collected: 2025-08-01T15:47:06.075Z

@@ -1,0 +1,12 @@
+# Autonomous Industrial Management via Reinforcement Learning: Self-Learning Agents for Decision-Making -- A Review
+
+**Authors:** Leonardo A. Espinosa Leal, Magnus Westerlund, Anthony Chapman
+
+## Summary
+Industry has always been in the pursuit of becoming more economically efficient and the current focus has been to reduce human labour using modern technologies. Even with cutting edge technologies, which range from packaging robots to AI for fault detection, there is still some ambiguity on the aims of some new systems, namely, whether they are automated or autonomous. In this paper we indicate the distinctions between automated and autonomous system as well as review the current literature and identify the core challenges for creating learning mechanisms of autonomous agents. We discuss using different types of extended realities, such as digital twins, to train reinforcement learning agents to learn specific tasks through generalization. Once generalization is achieved, we discuss how these can be used to develop self-learning agents. We then introduce self-play scenarios and how they can be used to teach self-learning agents through a supportive environment which focuses on how the agents can adapt to different real-world environments.
+
+
+---
+Category: business
+Subcategory: cs.MA
+Collected: 2025-08-01T10:22:57.724Z

@@ -1,0 +1,12 @@
+# Deep learning in business analytics and operations research: Models, applications and managerial implications
+
+**Authors:** Mathias Kraus, Stefan Feuerriegel, Asil Oztekin
+
+## Summary
+Business analytics refers to methods and practices that create value through data for individuals, firms, and organizations. This field is currently experiencing a radical shift due to the advent of deep learning: deep neural networks promise improvements in prediction performance as compared to models from traditional machine learning. However, our research into the existing body of literature reveals a scarcity of research works utilizing deep learning in our discipline. Accordingly, the objectives of this overview article are as follows: (1) we review research on deep learning for business analytics from an operational point of view. (2) We motivate why researchers and practitioners from business analytics should utilize deep neural networks and review potential use cases, necessary requirements, and benefits. (3) We investigate the added value to operations research in different case studies with real data from entrepreneurial undertakings. All such cases demonstrate improvements in operational performance over traditional machine learning and thus direct value gains. (4) We provide guidelines and implications for researchers, managers and practitioners in operations research who want to advance their capabilities for business analytics with regard to deep learning. (5) Our computational experiments find that default, out-of-the-box architectures are often suboptimal and thus highlight the value of customized architectures by proposing a novel deep-embedded network.
+
+
+---
+Category: business
+Subcategory: cs.LG
+Collected: 2025-08-01T11:31:19.478Z

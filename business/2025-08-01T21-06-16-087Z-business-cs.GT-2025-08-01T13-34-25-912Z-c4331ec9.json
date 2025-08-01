@@ -1,0 +1,12 @@
+# Symmetric Strategy Improvement
+
+**Authors:** Sven Schewe, Ashutosh Trivedi, Thomas Varghese
+
+## Summary
+Symmetry is inherent in the definition of most of the two-player zero-sum games, including parity, mean-payoff, and discounted-payoff games. It is therefore quite surprising that no symmetric analysis techniques for these games exist. We develop a novel symmetric strategy improvement algorithm where, in each iteration, the strategies of both players are improved simultaneously. We show that symmetric strategy improvement defies Friedmann's traps, which shook the belief in the potential of classic strategy improvement to be polynomial.
+
+
+---
+Category: business
+Subcategory: cs.GT
+Collected: 2025-08-01T13:34:25.912Z

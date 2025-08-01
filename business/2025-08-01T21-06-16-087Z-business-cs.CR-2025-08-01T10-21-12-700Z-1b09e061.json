@@ -1,0 +1,12 @@
+# Assessing the Trustworthiness of Electronic Identity Management Systems: Framework and Insights from Inception to Deployment
+
+**Authors:** Mirko Bottarelli, Gregory Epiphaniou, Shah Mahmood, Mark Hooper, Carsten Maple
+
+## Summary
+The growing dependence on Electronic Identity Management Systems (EIDS) and recent advancements, such as non-human ID management, require a thorough evaluation of their trustworthiness. Assessing EIDS's trustworthiness ensures security, privacy, and reliability in managing sensitive user information. It safeguards against fraud, unauthorised access, and data breaches, fostering user confidence. Existing frameworks primarily focus on specific dimensions such as security and privacy, often neglecting critical dimensions such as ethics, resilience, robustness, and reliability. This paper introduces an integrated Digital Identity Systems Trustworthiness Assessment Framework (DISTAF) encapsulating these six pillars. It is supported by over 65 mechanisms and over 400 metrics derived from international standards and technical guidelines. By addressing the lifecycle of DIMS from design to deployment, our DISTAF evaluates trustworthiness at granular levels while remaining accessible to diverse stakeholders. We demonstrate the application of DISTAF through a real-world implementation using a Modular Open Source Identity Platform (MOSIP) instance, refining its metrics to simplify trustworthiness assessment. Our approach introduces clustering mechanisms for metrics, hierarchical scoring, and mandatory criteria to ensure robust and consistent evaluations across an EIDS in both the design and operation stages. Furthermore, DISTAF is adaptable to emerging technologies like Self-Sovereign Identity (SSI), integrating privacy-enhancing techniques and ethical considerations to meet modern challenges. The assessment tool developed alongside DISTAF provides a user-centric methodology and a simplified yet effective self-assessment process, enabling system designers and assessors to identify system gaps, improve configurations, and enhance public trust.
+
+
+---
+Category: business
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:12.700Z

@@ -1,0 +1,12 @@
+# Understanding Questions that Arise When Working with Business Documents
+
+**Authors:** Farnaz Jahanbakhsh, Elnaz Nouri, Robert Sim, Ryen W. White, Adam Fourney
+
+## Summary
+While digital assistants are increasingly used to help with various productivity tasks, less attention has been paid to employing them in the domain of business documents. To build an agent that can handle users' information needs in this domain, we must first understand the types of assistance that users desire when working on their documents. In this work, we present results from two user studies that characterize the information needs and queries of authors, reviewers, and readers of business documents. In the first study, we used experience sampling to collect users' questions in-situ as they were working with their documents, and in the second, we built a human-in-the-loop document Q&amp;A system which rendered assistance with a variety of users' questions. Our results have implications for the design of document assistants that complement AI with human intelligence including whether particular skillsets or roles within the document are needed from human respondents, as well as the challenges around such systems.
+
+
+---
+Category: business
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:19.698Z

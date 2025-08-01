@@ -1,0 +1,13 @@
+# The Case for Data Visualization Management Systems
+
+**Authors:** Eugene Wu, L. Battle, S. Madden
+
+## Abstract
+Most visualizations today are produced by retrieving data from a database and using a specialized visualization tool to render it. This decoupled approach results in significant duplication of functionality, such as aggregation and filters, and misses tremendous opportunities for cross-layer optimizations. In this paper, we present the case for an integrated Data Visualization Management System (DVMS) based on a declarative visualization language that fully compiles the end-to-end visualization pipeline into a set of relational algebra queries. Thus the DVMS can be both expressive via the visualization language, and performant by lever-aging traditional and visualization-specific optimizations to scale interactive visualizations to massive datasets.
+
+**Source:** https://www.semanticscholar.org/paper/befb28484716491fa8e06454a3b92c14ed4ed039
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T19:49:42.676Z

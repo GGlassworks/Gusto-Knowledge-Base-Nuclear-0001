@@ -1,0 +1,12 @@
+# Text Chunking for Document Classification for Urban System Management using Large Language Models
+
+**Authors:** Joshua Rodriguez, Om Sanan, Guillermo Vizarreta-Luna, Steven A. Conrad
+
+## Summary
+Urban systems are managed using complex textual documentation that need coding and analysis to set requirements and evaluate built environment performance. This paper contributes to the study of applying large-language models (LLM) to qualitative coding activities to reduce resource requirements while maintaining comparable reliability to humans. Qualitative coding and assessment face challenges like resource limitations and bias, accuracy, and consistency between human evaluators. Here we report the application of LLMs to deductively code 10 case documents on the presence of 17 digital twin characteristics for the management of urban systems. We utilize two prompting methods to compare the semantic processing of LLMs with human coding efforts: whole text analysis and text chunk analysis using OpenAI's GPT-4o, GPT-4o-mini, and o1-mini models. We found similar trends of internal variability between methods and results indicate that LLMs may perform on par with human coders when initialized with specific deductive coding contexts. GPT-4o, o1-mini and GPT-4o-mini showed significant agreement with human raters when employed using a chunking method. The application of both GPT-4o and GPT-4o-mini as an additional rater with three manual raters showed statistically significant agreement across all raters, indicating that the analysis of textual documents is benefited by LLMs. Our findings reveal nuanced sub-themes of LLM application suggesting LLMs follow human memory coding processes where whole-text analysis may introduce multiple meanings. The novel contributions of this paper lie in assessing the performance of OpenAI GPT models and introduces the chunk-based prompting approach, which addresses context aggregation biases by preserving localized context.
+
+
+---
+Category: business
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:10.410Z

@@ -1,0 +1,12 @@
+# Towards Global Asset Management in Blockchain Systems
+
+**Authors:** Victor Zakhary, Mohammad Javad Amiri, Sujaya Maiyya, Divyakant Agrawal, Amr El Abbadi
+
+## Summary
+Permissionless blockchains (e.g., Bitcoin, Ethereum, etc) have shown a wide success in implementing global scale peer-to-peer cryptocurrency systems. In such blockchains, new currency units are generated through the mining process and are used in addition to transaction fees to incentivize miners to maintain the blockchain. Although it is clear how currency units are generated and transacted on, it is unclear how to use the infrastructure of permissionless blockchains to manage other assets than the blockchain's currency units (e.g., cars, houses, etc). In this paper, we propose a global asset management system by unifying permissioned and permissionless blockchains. A governmental permissioned blockchain authenticates the registration of end-user assets through smart contract deployments on a permissionless blockchain. Afterwards, end-users can transact on their assets through smart contract function calls (e.g., sell a car, rent a room in a house, etc). In return, end-users get paid in currency units of the same blockchain or other blockchains through atomic cross-chain transactions and governmental offices receive taxes on these transactions in cryptocurrency units.
+
+
+---
+Category: business
+Subcategory: cs.DB
+Collected: 2025-08-01T13:08:01.817Z

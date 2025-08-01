@@ -1,0 +1,13 @@
+# Business Intelligence Improved by Data Mining Algorithms and Big Data Systems: An Overview of Different Tools Applied in Industrial Research
+
+**Authors:** A. Massaro, Valeria Vitti, A. Galiano, A. Morelli
+
+## Abstract
+The proposed paper shows different tools adopted in an industry project oriented on business intelligence (BI) improvement. The research outputs concern mainly data mining algorithms able to predict sales, logistic algorithms useful for the management of the products dislocation in the whole marketing network constituted by different stores, and web mining algorithms suitable for social trend analyses. For the predictive data mining and web mining algorithms have been applied Weka, Rapid Miner and KNIME tools, besides for the logistic ones have been adopted mainly Dijkstra's and Floyd-Warshall's algorithms. The proposed algorithms are suitable for an upgrade of the information infrastructure of an industry oriented on strategic marketing. All the facilities are enabled to transfer data into a Cassandra big data system behaving as a collector of massive data useful for BI. The goals of the BI outputs are the real time planning of the warehouse assortment and the formulation of strategic marketing actions. Finally is presented an innovative model oriented on E-commerce sales neural network forecasting based on multi-attribute processing. This model can process data of the other data mining outputs supporting logistic actions. This model proves how it is possible to embed many data mining algorithms into a unique prototypal information system connected to a big data, and how it can work on real business intelligence. The goal of the proposed paper is to show how different data mining tools can be adopted into a unique industry information system.
+
+**Source:** https://www.semanticscholar.org/paper/6b35b17a16f24fc72b648d3c12c82a19e2a77cd8
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:14.000Z

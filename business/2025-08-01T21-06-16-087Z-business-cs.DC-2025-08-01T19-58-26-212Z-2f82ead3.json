@@ -1,0 +1,12 @@
+# DOD-ETL: Distributed On-Demand ETL for Near Real-Time Business Intelligence
+
+**Authors:** Gustavo V. Machado, Ítalo Cunha, Adriano C. M. Pereira, Leonardo B. Oliveira
+
+## Summary
+The competitive dynamics of the globalized market demand information on the internal and external reality of corporations. Information is a precious asset and is responsible for establishing key advantages to enable companies to maintain their leadership. However, reliable, rich information is no longer the only goal. The time frame to extract information from data determines its usefulness. This work proposes DOD-ETL, a tool that addresses, in an innovative manner, the main bottleneck in Business Intelligence solutions, the Extract Transform Load process (ETL), providing it in near real-time. DODETL achieves this by combining an on-demand data stream pipeline with a distributed, parallel and technology-independent architecture with in-memory caching and efficient data partitioning. We compared DOD-ETL with other Stream Processing frameworks used to perform near real-time ETL and found DOD-ETL executes workloads up to 10 times faster. We have deployed it in a large steelworks as a replacement for its previous ETL solution, enabling near real-time reports previously unavailable.
+
+
+---
+Category: business
+Subcategory: cs.DC
+Collected: 2025-08-01T19:58:26.213Z

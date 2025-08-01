@@ -1,0 +1,12 @@
+# From Knowledge Organization to Knowledge Representation and Back
+
+**Authors:** Fausto Giunchiglia, Mayukh Bagchi, Subhashis Das
+
+## Summary
+Knowledge Organization (KO) and Knowledge Representation (KR) have been the two mainstream methodologies of knowledge modelling in the Information Science community and the Artificial Intelligence community, respectively. The facet-analytical tradition of KO has developed an exhaustive set of guiding canons for ensuring quality in organising and managing knowledge but has remained limited in terms of technology-driven activities to expand its scope and services beyond the bibliographic universe of knowledge. KR, on the other hand, boasts of a robust ecosystem of technologies and technology-driven service design which can be tailored to model any entity or scale to any service in the entire universe of knowledge. This paper elucidates both the facet-analytical KO and KR methodologies in detail and provides a functional mapping between them. Out of the mapping, the paper proposes an integrated KR-enriched KO methodology with all the standard components of a KO methodology plus the advanced technologies provided by the KR approach. The practical benefits of the methodological integration has been exemplified through the flagship application of the Digital University at the University of Trento, Italy.
+
+
+---
+Category: business
+Subcategory: cs.AI
+Collected: 2025-08-01T10:26:24.686Z
