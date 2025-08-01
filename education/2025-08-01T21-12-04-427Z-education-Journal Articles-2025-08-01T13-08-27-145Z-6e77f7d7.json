@@ -1,0 +1,13 @@
+# Design of an e-Diploma System Based on Consortium Blockchain and Facial Recognition
+
+**Authors:** Hsu, Ching-Sheng, Tu, Shu-Fen, Chiu, Pei-Chia
+
+## Abstract
+Paper certificates are difficult to carry, easy to lose, easy to forge and with other security issues, which were not solved until the emergence of blockchain technology. Blockchain technology uses one-way hash functions, asymmetric encryption, digital signatures, consensus mechanisms and smart contracts to achieve decentralization, non-tampering and non-repudiation. Various universities have invested in studying blockchain-based diploma systems. However, the current blockchain diplomatic system still has some defects in terms of security. Most systems can only guarantee that the diploma is true and not forgery, but it cannot be confirmed that the diploma holder is the true recipient, and also cannot guarantee that the issuer is recognized by everyone. In this study, cryptography and biometrics are used to strengthen the connection between the diploma and the recipient, and a blockchain deployment framework composed of educational authority and institutions is proposed to make the identity of the diploma issuer credible. In addition, the Hyperledger Fabric application channel is also used to realize access control among organizations in the consortium. Compared with other researches, our research can not only prevent forged diploma, but also can prevent fake educational institutions and bogus recipient. In addition, this study utilized the channels of the Hyperledger Fabric to design access control for different roles in the consortium. Compared with Ethereum using smart contracts to control access rights, Hyperledger Fabric controls access rights by adjusting the configuration of channels, which makes it more flexible to deal with the changes of access rights.
+
+**Source:** https://eric.ed.gov/?id=EJ1336799
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T13:08:27.145Z

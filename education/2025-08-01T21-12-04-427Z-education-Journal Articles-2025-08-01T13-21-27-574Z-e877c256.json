@@ -1,0 +1,13 @@
+# Log-Multiplicative Association Models as Item Response Models
+
+**Authors:** Anderson, Carolyn J., Yu, Hsiu-Ting
+
+## Abstract
+Log-multiplicative association (LMA) models, which are special cases of log-linear models, have interpretations in terms of latent continuous variables. Two theoretical derivations of LMA models based on item response theory (IRT) arguments are presented. First, we show that Anderson and colleagues (Anderson & Vermunt, 2000; Anderson & Bockenholt, 2000; Anderson, 2002), who derived LMA models from statistical graphical models, made the equivalent assumptions as Holland (1990) when deriving models for the manifest probabilities of response patterns based on an IRT approach. We also present a second derivation of LMA models where item response functions are specified as functions of rest-scores. These various connections provide insights into the behavior of LMA models as item response models and point out philosophical issues with the use of LMA models as item response models. We show that even for short tests, LMA and standard IRT models yield very similar to nearly identical results when data arise from standard IRT models. Log-multiplicative association models can be used as item response models and do not require numerical integration for estimation.
+
+**Source:** https://eric.ed.gov/?id=EJ766721
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T13:21:27.575Z

@@ -1,0 +1,13 @@
+# Innovative Students&apos; Academic Advising for Optimum Courses&apos; Selection and Scheduling Assistant: A Blockchain Based Use Case
+
+**Authors:** Al-Imamy, Samer Y., Zygiaris, Sotirios
+
+## Abstract
+Advising students through their study plans is one of the essential steps towards academic success. The matching of students' needs and courses offered at a university requires comprehensive planning and scheduling. To avoid the problem of mismatch, which usually leads to cancellation courses with low enrollment, a decisive advising process is deemed necessary. Although such a topic received attention from previous work in the area, we could not trace any research references to the use of blockchain in solving the complex advising process. This research explores a topic that is still in its infancy. Blockchain is a new technology proposed to create an effective advising system based on a decisive preregistration process. The proposed system has adopted a hybrid approach integrating the client-server legacy centralized methodology with the blockchain decentralized approach. Ethereum blockchain network is used in the proposed system to create a consensus-validated advising environment. The smart contracts used in such a system offer the students the freedom to modify the courses selections, based on the map of several students tentatively registered in the courses at any particular time. The proposed system has been analyzed, designed, implemented, and applied empirically on students' records extracted from the Banner Enterprise Resources Planning (Banner-ERP) system. The results are promising and provide a proof of concept. The experimental results have also been compared with students' course requirements reaching a satisfactory level of efficiency in the advising process.
+
+**Source:** https://eric.ed.gov/?id=EJ1336795
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T13:10:23.993Z

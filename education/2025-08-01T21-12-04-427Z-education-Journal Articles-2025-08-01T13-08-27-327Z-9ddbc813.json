@@ -1,0 +1,13 @@
+# Design and Development of a Blockchain-Based Secure Scoring Mechanism for Online Learning
+
+**Authors:** Tsai, Cheng-Ting, Wu, Ja-Ling, Lin, Yu-Tzu, Yeh, Martin K.-C.
+
+## Abstract
+With the rapid increase of online learning and online degree programs, the need for a secure and fair scoring mechanisms in online learning becomes urgent. In this research, a secure scoring mechanism was designed and developed based on blockchain technology to build transparent and fair interactions among students and teachers. The proposed scoring mechanism was implemented by employing the Ethereum blockchain and its three autonomous smart contracts. The robustness and feasibility of the system was then verified with experiments. The resulting system is shown to be superior to existing online learning systems because it prevents answer tampering. In addition, fairness can be improved with blockchain protocols and a collaborative scoring policy. Lastly, this system helps manage interactions among students and teachers during the process of educational assessment, and encourages all on-chain members to trust the online learning process. These advantages improve peer evaluation and self-directed learning that are essential for a student-centered and collaborative learning environment.
+
+**Source:** https://eric.ed.gov/?id=EJ1356850
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T13:08:27.327Z

@@ -1,0 +1,13 @@
+# Managing Lifelong Learning Records through Blockchain
+
+**Authors:** Ocheja, Patrick, Flanagan, Brendan, Ueda, Hiroshi, Ogata, Hiroaki
+
+## Abstract
+It is a common practice to issue a summary of a learner's learning achievements in form of a transcript or certificate. However, detailed information on the depth of learning and how learning or teachings were conducted is not present in the transcript of scores. This work presents the first practical implementation of a new platform for keeping track of learning achievements beyond transcripts and certificates. This is achieved by maintaining digital hashes of learning activities and managing access rights through the use of smart contracts on the blockchain. The blockchain of learning logs (BOLL) is a platform that enable learners to move their learning records from one institution to another in a secure and verifiable format. This primarily solves the cold-start problem faced by learning data analytic platforms when trying to offer personalized experience to new learners. BOLL enables existing learning data analytic platforms to access the learning logs from other institutions with the permission of the learners and/or institution who originally have ownership of the logs. The main contribution of this paper is to investigate how learning records could be connected across institutions using BOLL. We present an overview of how the implementation has been carried out, discuss resource requirements, and compare the advantages BOLL has over other similar tools.
+
+**Source:** https://eric.ed.gov/?id=EJ1228567
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T13:14:01.025Z

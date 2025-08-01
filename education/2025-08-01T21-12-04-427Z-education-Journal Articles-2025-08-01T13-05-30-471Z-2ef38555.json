@@ -1,0 +1,13 @@
+# A Pedagogical Orientation System Based on Blockchain Technology and Machine Learning
+
+**Authors:** Noura Zeroual, Mahnane Lamia, Mohamed Hafidi
+
+## Abstract
+Traditional education systems do not provide students with much freedom to choose the right training of study that suits them, which leads on long-term to the negative effects not only on social, economic and mental' well-being of student, but also will have a negative effect on the quality of the work produced by this student in the future. In addition, skills and talents in a specific area refer to general skills and working life practices. This paper presents a pedagogical orientation system based on blockchain technology and machine learning that accurately predicts the future specialized training and profession in which the common core student will have more opportunity to succeed. Python programming language has been used to implement the suggested pedagogical orienting mechanism in two key steps. (1) In the profiles matching step we have used the incidence matrix to correlate the professional and training profiles. (2) The student ranking issue was resolved at the ranking profiles step using the learning to rank methodology. The data used to feed the various machine learning algorithms in our system are stored on the blockchain, representing the academic results of 320 students at the end of the common core training in the computer science department of 20th august 1955 university in Skikda, Algeria, which served as a database for subsequent experiments and served to confirm the system's feasibility and credibility. The proposed system has demonstrated its effectiveness by accurately predicting the future specialized training compatible with the student's scientific capabilities, allowing him to succeed and excel. Also, it has contributed to reducing the possibility of falsifying results and certificates while enhancing security and transparency through blockchain protocols. Finally, this system encourages all participants to trust the automatic orientation process, which makes it possible to improve the issues experienced in the fields of education by enhancing interactions between the student, the university, and the employing industries during the educational orientation process.
+
+**Source:** https://eric.ed.gov/?id=EJ1414220
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T13:05:30.472Z

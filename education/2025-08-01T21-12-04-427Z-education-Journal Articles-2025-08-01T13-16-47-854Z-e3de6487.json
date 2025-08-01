@@ -1,0 +1,13 @@
+# Using Secret Sharing to Store Cryptocurrency
+
+**Authors:** Markus Reitenbach
+
+## Abstract
+We describe Shamir's secret sharing scheme and explain how it can be used for secure and redundant cryptocurrency storage. We include samples of individual and group assignments that can be used in an upper-division cryptology class for students who are familiar with modular arithmetic. It takes about one class to cover Shamir's secret sharing, but additional time can be spent on the described coding project about splitting mnemonic Bitcoin seeds into shares. We also provide references for topics of further study that can you use for student research projects.
+
+**Source:** https://eric.ed.gov/?id=EJ1406415
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T13:16:47.854Z

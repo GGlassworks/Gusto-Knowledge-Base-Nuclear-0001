@@ -1,0 +1,13 @@
+# Blockchain and IPFS Based Framework for Secure Student Document Record Keeping
+
+**Authors:** Yadav, Sourabh, Sharma, Nonita, Mangla, Monika, Mahajan, Asmita
+
+## Abstract
+The manuscript proposes a method based on Blockchain technology, IPFS, and asymmetric key algorithm to authenticate academic degrees and certificates. The proposed method employs decentralization and therefore provides a scalable, secure, transparent, and economical solution than existing methods. In the proposed framework, the degrees and certificates of students are stored in a secure, immutable and authenticated manner using Blockchain technology, IPFS, and Ethereum smart contracts. Documents are uploaded using IPFS with some access control mechanisms so that only an authorized person from the institution has access to upload a document. Also, students are allowed to view or download their own documents only.
+
+**Source:** https://eric.ed.gov/?id=EJ1293734
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T13:08:27.550Z
