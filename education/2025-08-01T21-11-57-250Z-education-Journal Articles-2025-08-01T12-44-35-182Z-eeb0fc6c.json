@@ -1,0 +1,13 @@
+# Framework to Approximate Label Matching for Automatic Assessment of Use-Case Diagram
+
+**Authors:** Vachharajani, Vinay, Pareek, Jyoti
+
+## Abstract
+E-learning plays a significant role in educating large number of students. In the delivery of e-learning material, automatic e-assessment has been applied only to some extent in the case of free response answers in highly technical diagrams in domains like software engineering, electronics, etc., where there is a great scope of imagination and wide variations in answers. Therefore, the automatic assessment of diagrammatic answers is a challenging task. In this article, algorithms that compute the syntactic and semantic similarities of nodes to fulfill the objective of automatic assessment of use-case diagrams are described. To illustrate the performance of these algorithms, students' use-case diagrams are matched with model use-case diagram. Results from 13,749 labels of 445 student answers based on 14 different scenarios are analyzed to provide quantitative and qualitative feedback. No comparable study has been reported by any other label matching algorithms before in the research literature.
+
+**Source:** https://eric.ed.gov/?id=EJ1214705
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T12:44:35.182Z

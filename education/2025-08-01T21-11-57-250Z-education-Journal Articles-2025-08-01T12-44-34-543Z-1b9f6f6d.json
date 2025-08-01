@@ -1,0 +1,13 @@
+# The Double Bind of Qualitative Comparative Analysis
+
+**Authors:** Arel-Bundock, Vincent
+
+## Abstract
+Qualitative comparative analysis (QCA) is an influential methodological approach motivated by set theory and boolean logic. QCA proponents have developed algorithms to analyze quantitative data, in a bid to uncover necessary and sufficient conditions where causal relationships are complex, conditional, or asymmetric. This article uses computer simulations to show that researchers in the QCA tradition face a vexing double bind. On the one hand, QCA algorithms often require large data sets in order to recover an accurate causal model, even if that model is relatively simple. On the other hand, as data sets increase in size, it becomes harder to guarantee data integrity, and QCA algorithms can be highly sensitive to measurement error, data entry mistakes, or misclassification.
+
+**Source:** https://eric.ed.gov/?id=EJ1343376
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T12:44:34.544Z
