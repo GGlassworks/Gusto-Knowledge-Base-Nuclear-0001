@@ -1,0 +1,13 @@
+# Power System Optimization Based on Behavioral Economics: The Case of Household Battery Storage
+
+**Authors:** Yiqiang Zhang, Shengyu Tao, Zhencen Mao, Meng Yuan, Tianyu Li, Yaojie Sun
+
+## Abstract
+The optimization of power systems usually faces the trade-off between performance and cost. The 2021 Texas grid blackout reveals that the regionally centralized power grid has global risks, and the distributed energy structure has relative advantages in safety and flexibility. Household battery storage can balance the grid load and enhance the stability and flexibility of the grid. However, given its high cost, household battery storage is still not widespread nowadays. At present, research on enhancing the applicability of household battery storage is mainly focused on the optimizations of economic benefits, such as configuration, dispatch and subsidy policies, which rely relatively more on technological developments and financial support. Behavioral economics theory points out that consumers are not "rational people", and non-economic incentives can influence their decisions without increasing costs. Therefore, this paper proposes a household battery storage incentive method based on behavioral economics to guide users to purchase household battery storage to improve their power dispatch efficiency and economic benefits. In this paper, the utility model of behavioral economic incentives and purchase willingness is constructed through empirical research. Then, with grid-friendliness and economic benefits as the optimization goals, multi-objective genetic algorithm is used to optimize the dispatching of household battery storage. The result of this paper shows that the proposed incentive measures will increase users' willingness to purchase by 10.7% without increasing subsidies. Peak-load shifting coefficient and user revenue are improved by 4.2% and 10.6%, respectively, by optimizing the energy dispatching strategy.
+
+**Source:** https://www.semanticscholar.org/paper/ff8cbb5c24a9c860484c9165db6355ed69cff586
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:43:04.335Z

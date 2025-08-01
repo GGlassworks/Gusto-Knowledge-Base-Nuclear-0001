@@ -1,0 +1,13 @@
+# Kernel Regression in Empirical Microeconomics
+
+**Authors:** Richard Blundell, A. Duncan
+
+## Abstract
+We consider the implementation of Kernel methods in empirical microeconomics with specific application to Engel curve estimation in the analysis of consumer behavior. A set of recently developed tests for the parametric null hypothesis against a nonparametric alternative are discussed and implemented for the Engel curve application. We also consider semi-parametric estimation in partially linear models and the case of endogenous regressors. Gauss-based software is available for each technique implemented in the paper.
+
+**Source:** https://www.semanticscholar.org/paper/5423c981bb75537e4e773ebd623384b61e20e983
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:36:56.827Z
