@@ -1,0 +1,12 @@
+# Optimizing over an ensemble of neural networks
+
+**Authors:** Keliang Wang, Leonardo Lozano, Carlos Cardonha, David Bergman
+
+## Summary
+We study optimization problems where the objective function is modeled through feedforward neural networks with rectified linear unit (ReLU) activation. Recent literature has explored the use of a single neural network to model either uncertain or complex elements within an objective function. However, it is well known that ensembles of neural networks produce more stable predictions and have better generalizability than models with single neural networks, which motivates the investigation of ensembles of neural networks rather than single neural networks in decision-making pipelines. We study how to incorporate a neural network ensemble as the objective function of an optimization model and explore computational approaches for the ensuing problem. We present a mixed-integer linear program based on existing popular big-M formulations for optimizing over a single neural network. We develop a two-phase approach for our model that combines preprocessing procedures to tighten bounds for critical neurons in the neural networks with a Lagrangian relaxation-based branch-and-bound approach. Experimental evaluations of our solution methods suggest that using ensembles of neural networks yields more stable and higher quality solutions, compared to single neural networks, and that our optimization algorithm outperforms (the adaption of) a state-of-the-art approach in terms of computational time and optimality gaps.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:38:41.692Z

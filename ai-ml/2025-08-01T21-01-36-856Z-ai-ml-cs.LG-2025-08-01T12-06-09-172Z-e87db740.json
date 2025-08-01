@@ -1,0 +1,12 @@
+# From MIM-Based GAN to Anomaly Detection:Event Probability Influence on Generative Adversarial Networks
+
+**Authors:** Rui She, Pingyi Fan
+
+## Summary
+In order to introduce deep learning technologies into anomaly detection, Generative Adversarial Networks (GANs) are considered as important roles in the algorithm design and realistic applications. In terms of GANs, event probability reflected in the objective function, has an impact on the event generation which plays a crucial part in GAN-based anomaly detection. The information metric, e.g. Kullback-Leibler divergence in the original GAN, makes the objective function have different sensitivity on different event probability, which provides an opportunity to refine GAN-based anomaly detection by influencing data generation. In this paper, we introduce the exponential information metric into the GAN, referred to as MIM-based GAN, whose superior characteristics on data generation are discussed in theory. Furthermore, we propose an anomaly detection method with MIM-based GAN, as well as explain its principle for the unsupervised learning case from the viewpoint of probability event generation. Since this method is promising to detect anomalies in Internet of Things (IoT), such as environmental, medical and biochemical outliers, we make use of several datasets from the online ODDS repository to evaluate its performance and compare it with other methods.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T12:06:09.172Z

@@ -1,0 +1,12 @@
+# Simultaneous Weight and Architecture Optimization for Neural Networks
+
+**Authors:** Zitong Huang, Mansooreh Montazerin, Ajitesh Srivastava
+
+## Summary
+Neural networks are trained by choosing an architecture and training the parameters. The choice of architecture is often by trial and error or with Neural Architecture Search (NAS) methods. While NAS provides some automation, it often relies on discrete steps that optimize the architecture and then train the parameters. We introduce a novel neural network training framework that fundamentally transforms the process by learning architecture and parameters simultaneously with gradient descent. With the appropriate setting of the loss function, it can discover sparse and compact neural networks for given datasets. Central to our approach is a multi-scale encoder-decoder, in which the encoder embeds pairs of neural networks with similar functionalities close to each other (irrespective of their architectures and weights). To train a neural network with a given dataset, we randomly sample a neural network embedding in the embedding space and then perform gradient descent using our custom loss function, which incorporates a sparsity penalty to encourage compactness. The decoder generates a neural network corresponding to the embedding. Experiments demonstrate that our framework can discover sparse and compact neural networks maintaining a high performance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:41:34.966Z

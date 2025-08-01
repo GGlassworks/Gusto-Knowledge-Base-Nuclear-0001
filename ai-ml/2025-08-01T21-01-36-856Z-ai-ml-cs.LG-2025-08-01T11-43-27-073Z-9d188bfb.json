@@ -1,0 +1,12 @@
+# Probabilistic Verification of Neural Networks Against Group Fairness
+
+**Authors:** Bing Sun, Jun Sun, Ting Dai, Lijun Zhang
+
+## Summary
+Fairness is crucial for neural networks which are used in applications with important societal implication. Recently, there have been multiple attempts on improving fairness of neural networks, with a focus on fairness testing (e.g., generating individual discriminatory instances) and fairness training (e.g., enhancing fairness through augmented training). In this work, we propose an approach to formally verify neural networks against fairness, with a focus on independence-based fairness such as group fairness. Our method is built upon an approach for learning Markov Chains from a user-provided neural network (i.e., a feed-forward neural network or a recurrent neural network) which is guaranteed to facilitate sound analysis. The learned Markov Chain not only allows us to verify (with Probably Approximate Correctness guarantee) whether the neural network is fair or not, but also facilities sensitivity analysis which helps to understand why fairness is violated. We demonstrate that with our analysis results, the neural weights can be optimized to improve fairness. Our approach has been evaluated with multiple models trained on benchmark datasets and the experiment results show that our approach is effective and efficient.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:43:27.073Z

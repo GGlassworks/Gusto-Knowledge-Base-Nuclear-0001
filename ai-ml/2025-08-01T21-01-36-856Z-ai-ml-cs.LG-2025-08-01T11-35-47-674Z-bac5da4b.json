@@ -1,0 +1,12 @@
+# Neural Network Processing Neural Networks: An efficient way to learn higher order functions
+
+**Authors:** Firat Tuna
+
+## Summary
+Functions are rich in meaning and can be interpreted in a variety of ways. Neural networks were proven to be capable of approximating a large class of functions[1]. In this paper, we propose a new class of neural networks called "Neural Network Processing Neural Networks" (NNPNNs), which inputs neural networks and numerical values, instead of just numerical values. Thus enabling neural networks to represent and process rich structures.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:35:47.674Z

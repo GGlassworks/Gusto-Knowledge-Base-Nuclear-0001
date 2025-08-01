@@ -1,0 +1,12 @@
+# Equivariant neural networks and piecewise linear representation theory
+
+**Authors:** Joel Gibson, Daniel Tubbenhauer, Geordie Williamson
+
+## Summary
+Equivariant neural networks are neural networks with symmetry. Motivated by the theory of group representations, we decompose the layers of an equivariant neural network into simple representations. The nonlinear activation functions lead to interesting nonlinear equivariant maps between simple representations. For example, the rectified linear unit (ReLU) gives rise to piecewise linear maps. We show that these considerations lead to a filtration of equivariant neural networks, generalizing Fourier series. This observation might provide a useful tool for interpreting equivariant neural networks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:36:39.320Z

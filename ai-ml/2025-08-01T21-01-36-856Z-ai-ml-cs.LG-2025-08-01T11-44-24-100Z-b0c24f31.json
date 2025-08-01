@@ -1,0 +1,12 @@
+# Fourier Neural Networks for Function Approximation
+
+**Authors:** R Subhash Chandra Bose, Kakarla Yaswanth
+
+## Summary
+The success of Neural networks in providing miraculous results when applied to a wide variety of tasks is astonishing. Insight in the working can be obtained by studying the universal approximation property of neural networks. It is proved extensively that neural networks are universal approximators. Further it is proved that deep Neural networks are better approximators. It is specifically proved that for a narrow neural network to approximate a function which is otherwise implemented by a deep Neural network, the network take exponentially large number of neurons. In this work, we have implemented existing methodologies for a variety of synthetic functions and identified their deficiencies. Further, we examined that Fourier neural network is able to perform fairly good with only two layers in the neural network. A modified Fourier Neural network which has sinusoidal activation and two hidden layer is proposed and the results are tabulated.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:44:24.100Z

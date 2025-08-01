@@ -1,0 +1,12 @@
+# Neural Network Classifier as Mutual Information Evaluator
+
+**Authors:** Zhenyue Qin, Dongwoo Kim, Tom Gedeon
+
+## Summary
+Cross-entropy loss with softmax output is a standard choice to train neural network classifiers. We give a new view of neural network classifiers with softmax and cross-entropy as mutual information evaluators. We show that when the dataset is balanced, training a neural network with cross-entropy maximises the mutual information between inputs and labels through a variational form of mutual information. Thereby, we develop a new form of softmax that also converts a classifier to a mutual information evaluator when the dataset is imbalanced. Experimental results show that the new form leads to better classification accuracy, in particular for imbalanced datasets.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:48:44.286Z

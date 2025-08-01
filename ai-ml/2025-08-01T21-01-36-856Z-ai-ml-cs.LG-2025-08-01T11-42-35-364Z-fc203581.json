@@ -1,0 +1,12 @@
+# Neural Integration of Continuous Dynamics
+
+**Authors:** Margaret Trautner, Sai Ravela
+
+## Summary
+Neural dynamical systems are dynamical systems that are described at least in part by neural networks. The class of continuous-time neural dynamical systems must, however, be numerically integrated for simulation and learning. Here, we present a compact neural circuit for two common numerical integrators: the explicit fixed-step Runge-Kutta method of any order and the semi-implicit/predictor-corrector Adams-Bashforth-Moulton method. Modeled as constant-sized recurrent networks embedding a continuous neural differential equation, they achieve fully neural temporal output. Using the polynomial class of dynamical systems, we demonstrate the equivalence of neural and numerical integration.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:42:35.364Z

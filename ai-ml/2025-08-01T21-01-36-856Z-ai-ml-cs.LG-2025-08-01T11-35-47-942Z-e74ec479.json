@@ -1,0 +1,12 @@
+# A Novel Neural Filter to Improve Accuracy of Neural Network Models of Dynamic Systems
+
+**Authors:** Parham Oveissi, Turibius Rozario, Ankit Goel
+
+## Summary
+The application of neural networks in modeling dynamic systems has become prominent due to their ability to estimate complex nonlinear functions. Despite their effectiveness, neural networks face challenges in long-term predictions, where the prediction error diverges over time, thus degrading their accuracy. This paper presents a neural filter to enhance the accuracy of long-term state predictions of neural network-based models of dynamic systems. Motivated by the extended Kalman filter, the neural filter combines the neural network state predictions with the measurements from the physical system to improve the estimated state's accuracy. The neural filter's improvements in prediction accuracy are demonstrated through applications to four nonlinear dynamical systems. Numerical experiments show that the neural filter significantly improves prediction accuracy and bounds the state estimate covariance, outperforming the neural network predictions. Furthermore, it is also shown that the accuracy of a poorly trained neural network model can be improved to the same level as that of an adequately trained neural network model, potentially decreasing the training cost and required data to train a neural network.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:35:47.943Z

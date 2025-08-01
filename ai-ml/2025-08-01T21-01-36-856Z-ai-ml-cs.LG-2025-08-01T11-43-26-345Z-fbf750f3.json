@@ -1,0 +1,12 @@
+# Iterative Neural Networks with Bounded Weights
+
+**Authors:** Tomasz Piotrowski, Krzysztof Rykaczewski
+
+## Summary
+A recent analysis of a model of iterative neural network in Hilbert spaces established fundamental properties of such networks, such as existence of the fixed points sets, convergence analysis, and Lipschitz continuity. Building on these results, we show that under a single mild condition on the weights of the network, one is guaranteed to obtain a neural network converging to its unique fixed point. We provide a bound on the norm of this fixed point in terms of norms of weights and biases of the network. We also show why this model of a feed-forward neural network is not able to accomodate Hopfield networks under our assumption.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:43:26.346Z

@@ -1,0 +1,12 @@
+# Composite Neural Network: Theory and Application to PM2.5 Prediction
+
+**Authors:** Ming-Chuan Yang, Meng Chang Chen
+
+## Summary
+This work investigates the framework and performance issues of the composite neural network, which is composed of a collection of pre-trained and non-instantiated neural network models connected as a rooted directed acyclic graph for solving complicated applications. A pre-trained neural network model is generally well trained, targeted to approximate a specific function. Despite a general belief that a composite neural network may perform better than a single component, the overall performance characteristics are not clear. In this work, we construct the framework of a composite network, and prove that a composite neural network performs better than any of its pre-trained components with a high probability bound. In addition, if an extra pre-trained component is added to a composite network, with high probability, the overall performance will not be degraded. In the study, we explore a complicated application -- PM2.5 prediction -- to illustrate the correctness of the proposed composite network theory. In the empirical evaluations of PM2.5 prediction, the constructed composite neural network models support the proposed theory and perform better than other machine learning models, demonstrate the advantages of the proposed framework.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:41:35.159Z

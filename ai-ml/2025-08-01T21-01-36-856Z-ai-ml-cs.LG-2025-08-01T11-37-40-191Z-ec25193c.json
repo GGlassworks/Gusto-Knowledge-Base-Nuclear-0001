@@ -1,0 +1,12 @@
+# Building Compact and Robust Deep Neural Networks with Toeplitz Matrices
+
+**Authors:** Alexandre Araujo
+
+## Summary
+Deep neural networks are state-of-the-art in a wide variety of tasks, however, they exhibit important limitations which hinder their use and deployment in real-world applications. When developing and training neural networks, the accuracy should not be the only concern, neural networks must also be cost-effective and reliable. Although accurate, large neural networks often lack these properties. This thesis focuses on the problem of training neural networks which are not only accurate but also compact, easy to train, reliable and robust to adversarial examples. To tackle these problems, we leverage the properties of structured matrices from the Toeplitz family to build compact and secure neural networks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:37:40.191Z

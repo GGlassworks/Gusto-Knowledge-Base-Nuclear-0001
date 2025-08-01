@@ -1,0 +1,12 @@
+# Brain-Inspired Spike Echo State Network Dynamics for Aero-Engine Intelligent Fault Prediction
+
+**Authors:** Mo-Ran Liu, Tao Sun, Xi-Ming Sun
+
+## Summary
+Aero-engine fault prediction aims to accurately predict the development trend of the future state of aero-engines, so as to diagnose faults in advance. Traditional aero-engine parameter prediction methods mainly use the nonlinear mapping relationship of time series data but generally ignore the adequate spatiotemporal features contained in aero-engine data. To this end, we propose a brain-inspired spike echo state network (Spike-ESN) model for aero-engine intelligent fault prediction, which is used to effectively capture the evolution process of aero-engine time series data in the framework of spatiotemporal dynamics. In the proposed approach, we design a spike input layer based on Poisson distribution inspired by the spike neural encoding mechanism of biological neurons, which can extract the useful temporal characteristics in aero-engine sequence data. Then, the temporal characteristics are input into a spike reservoir through the current calculation method of spike accumulation in neurons, which projects the data into a high-dimensional sparse space. In addition, we use the ridge regression method to read out the internal state of the spike reservoir. Finally, the experimental results of aero-engine states prediction demonstrate the superiority and potential of the proposed method.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T15:55:43.746Z

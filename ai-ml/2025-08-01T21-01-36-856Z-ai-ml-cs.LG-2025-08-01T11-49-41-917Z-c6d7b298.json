@@ -1,0 +1,12 @@
+# A Comparison of Neural Networks for Wireless Channel Prediction
+
+**Authors:** Oscar Stenhammar, Gabor Fodor, Carlo Fischione
+
+## Summary
+The performance of modern wireless communications systems depends critically on the quality of the available channel state information (CSI) at the transmitter and receiver. Several previous works have proposed concepts and algorithms that help maintain high quality CSI even in the presence of high mobility and channel aging, such as temporal prediction schemes that employ neural networks. However, it is still unclear which neural network-based scheme provides the best performance in terms of prediction quality, training complexity and practical feasibility. To investigate such a question, this paper first provides an overview of state-of-the-art neural networks applicable to channel prediction and compares their performance in terms of prediction quality. Next, a new comparative analysis is proposed for four promising neural networks with different prediction horizons. The well-known tapped delay channel model recommended by the Third Generation Partnership Program is used for a standardized comparison among the neural networks. Based on this comparative evaluation, the advantages and disadvantages of each neural network are discussed and guidelines for selecting the best-suited neural network in channel prediction applications are given.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:49:41.918Z

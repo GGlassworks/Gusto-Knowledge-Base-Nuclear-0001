@@ -1,0 +1,12 @@
+# Generative Adversarial Networks for Labelled Vibration Data Generation
+
+**Authors:** Furkan Luleci, F. Necati Catbas, Onur Avci
+
+## Summary
+As Structural Health Monitoring (SHM) being implemented more over the years, the use of operational modal analysis of civil structures has become more significant for the assessment and evaluation of engineering structures. Machine Learning (ML) and Deep Learning (DL) algorithms have been in use for structural damage diagnostics of civil structures in the last couple of decades. While collecting vibration data from civil structures is a challenging and expensive task for both undamaged and damaged cases, in this paper, the authors are introducing Generative Adversarial Networks (GAN) that is built on the Deep Convolutional Neural Network (DCNN) and using Wasserstein Distance for generating artificial labelled data to be used for structural damage diagnostic purposes. The authors named the developed model 1D W-DCGAN and successfully generated vibration data which is very similar to the input. The methodology presented in this paper will pave the way for vibration data generation for numerous future applications in the SHM domain.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T16:08:40.051Z

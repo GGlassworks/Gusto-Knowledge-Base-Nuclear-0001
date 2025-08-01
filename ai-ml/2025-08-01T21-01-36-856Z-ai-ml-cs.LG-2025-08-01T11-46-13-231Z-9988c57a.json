@@ -1,0 +1,12 @@
+# An open dataset of neural networks for hypernetwork research
+
+**Authors:** David Kurtenbach, Lior Shamir
+
+## Summary
+Despite the transformative potential of AI, the concept of neural networks that can produce other neural networks by generating model weights (hypernetworks) has been largely understudied. One of the possible reasons is the lack of available research resources that can be used for the purpose of hypernetwork research. Here we describe a dataset of neural networks, designed for the purpose of hypernetworks research. The dataset includes $10^4$ LeNet-5 neural networks trained for binary image classification separated into 10 classes, such that each class contains 1,000 different neural networks that can identify a certain ImageNette V2 class from all other classes. A computing cluster of over $10^4$ cores was used to generate the dataset. Basic classification results show that the neural networks can be classified with accuracy of 72.0%, indicating that the differences between the neural networks can be identified by supervised machine learning algorithms. The ultimate purpose of the dataset is to enable hypernetworks research. The dataset and the code that generates it are open and accessible to the public.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:46:13.231Z

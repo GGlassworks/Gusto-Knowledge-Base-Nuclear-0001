@@ -1,0 +1,12 @@
+# An Energy-Based View of Graph Neural Networks
+
+**Authors:** John Y. Shin, Prathamesh Dharangutte
+
+## Summary
+Graph neural networks are a popular variant of neural networks that work with graph-structured data. In this work, we consider combining graph neural networks with the energy-based view of Grathwohl et al. (2019) with the aim of obtaining a more robust classifier. We successfully implement this framework by proposing a novel method to ensure generation over features as well as the adjacency matrix and evaluate our method against the standard graph convolutional network (GCN) architecture (Kipf &amp; Welling (2016)). Our approach obtains comparable discriminative performance while improving robustness, opening promising new directions for future research for energy-based graph neural networks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:48:44.757Z

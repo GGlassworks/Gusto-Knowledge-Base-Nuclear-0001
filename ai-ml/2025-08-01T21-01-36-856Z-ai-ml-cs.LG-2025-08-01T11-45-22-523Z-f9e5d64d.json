@@ -1,0 +1,12 @@
+# KHNNs: hypercomplex neural networks computations via Keras using TensorFlow and PyTorch
+
+**Authors:** Agnieszka Niemczynowicz, Radosław Antoni Kycia
+
+## Summary
+Neural networks used in computations with more advanced algebras than real numbers perform better in some applications. However, there is no general framework for constructing hypercomplex neural networks. We propose a library integrated with Keras that can do computations within TensorFlow and PyTorch. It provides Dense and Convolutional 1D, 2D, and 3D layers architectures.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:45:22.523Z

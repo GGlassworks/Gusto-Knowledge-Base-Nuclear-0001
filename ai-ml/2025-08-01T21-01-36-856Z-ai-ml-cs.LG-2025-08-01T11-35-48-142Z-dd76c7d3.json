@@ -1,0 +1,12 @@
+# Assessing Intelligence in Artificial Neural Networks
+
+**Authors:** Nicholas J. Schaub, Nathan Hotaling
+
+## Summary
+The purpose of this work was to develop of metrics to assess network architectures that balance neural network size and task performance. To this end, the concept of neural efficiency is introduced to measure neural layer utilization, and a second metric called artificial intelligence quotient (aIQ) was created to balance neural network performance and neural network efficiency. To study aIQ and neural efficiency, two simple neural networks were trained on MNIST: a fully connected network (LeNet-300-100) and a convolutional neural network (LeNet-5). The LeNet-5 network with the highest aIQ was 2.32% less accurate but contained 30,912 times fewer parameters than the highest accuracy network. Both batch normalization and dropout layers were found to increase neural efficiency. Finally, high aIQ networks are shown to be memorization and overtraining resistant, capable of learning proper digit classification with an accuracy of 92.51% even when 75% of the class labels are randomized. These results demonstrate the utility of aIQ and neural efficiency as metrics for balancing network performance and size.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:35:48.142Z

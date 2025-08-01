@@ -1,0 +1,12 @@
+# Towards Neural Network Patching: Evaluating Engagement-Layers and Patch-Architectures
+
+**Authors:** Sebastian Kauschke, David Hermann Lehmann
+
+## Summary
+In this report we investigate fundamental requirements for the application of classifier patching on neural networks. Neural network patching is an approach for adapting neural network models to handle concept drift in nonstationary environments. Instead of creating or updating the existing network to accommodate concept drift, neural network patching leverages the inner layers of the network as well as its output to learn a patch that enhances the classification and corrects errors caused by the drift. It learns (i) a predictor that estimates whether the original network will misclassify an instance, and (ii) a patching network that fixes the misclassification. Neural network patching is based on the idea that the original network can still classify a majority of instances well, and that the inner feature representations encoded in the deep network aid the classifier to cope with unseen or changed inputs. In order to apply this kind of patching, we evaluate different engagement layers and patch architectures in this report, and find a set of generally applicable heuristics, which aid in parametrizing the patching procedure.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:48:44.358Z

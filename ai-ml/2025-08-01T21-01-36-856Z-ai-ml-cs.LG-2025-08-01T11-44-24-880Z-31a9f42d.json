@@ -1,0 +1,12 @@
+# A Neural Network Training Method Based on Distributed PID Control
+
+**Authors:** Jiang Kun
+
+## Summary
+In the previous article, we introduced a neural network framework based on symmetric differential equations. This novel framework exhibits complete symmetry, endowing it with perfect mathematical properties. While we have examined some of the system's mathematical characteristics, a detailed discussion of the network training methodology has not yet been presented. Drawing on the principles of the traditional backpropagation algorithm, this study proposes an alternative training approach that utilizes differential equation signal propagation instead of chain rule derivation. This approach not only preserves the effectiveness of training but also offers enhanced biological interpretability. The foundation of this methodology lies in the system's reversibility, which stems from its inherent symmetry,a key aspect of our research. However, this method alone is insufficient for effective neural network training. To address this, we further introduce a distributed Proportional-Integral-Derivative (PID) control approach, emphasizing its implementation within a closed system. By incorporating this method, we achieved both faster training speeds and improved accuracy. This approach not only offers novel insights into neural network training but also extends the scope of research into control methodologies. To validate its effectiveness, we apply this method to the MNIST dataset, demonstrating its practical utility.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:44:24.880Z

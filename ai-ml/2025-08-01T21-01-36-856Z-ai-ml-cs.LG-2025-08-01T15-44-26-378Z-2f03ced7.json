@@ -1,0 +1,12 @@
+# Explainability-Driven Feature Engineering for Mid-Term Electricity Load Forecasting in ERCOT's SCENT Region
+
+**Authors:** Abhiram Bhupatiraju, Sung Bum Ahn
+
+## Summary
+Accurate load forecasting is essential to the operation of modern electric power systems. Given the sensitivity of electricity demand to weather variability and temporal dynamics, capturing non-linear patterns is essential for long-term planning. This paper presents a comparative analysis of machine learning models, Linear Regression, XGBoost, LightGBM, and Long Short-Term Memory (LSTM), for forecasting system-wide electricity load up to one year in advance. Midterm forecasting has shown to be crucial for maintenance scheduling, resource allocation, financial forecasting, and market participation. The paper places a focus on the use of a method called "Shapley Additive Explanations" (SHAP) to improve model explainability. SHAP enables the quantification of feature contributions, guiding informed feature engineering and improving both model transparency and forecasting accuracy.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T15:44:26.378Z

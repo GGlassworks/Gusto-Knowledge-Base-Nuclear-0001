@@ -1,0 +1,12 @@
+# Universal Approximation Theorem for Vector- and Hypercomplex-Valued Neural Networks
+
+**Authors:** Marcos Eduardo Valle, Wington L. Vital, Guilherme Vieira
+
+## Summary
+The universal approximation theorem states that a neural network with one hidden layer can approximate continuous functions on compact sets with any desired precision. This theorem supports using neural networks for various applications, including regression and classification tasks. Furthermore, it is valid for real-valued neural networks and some hypercomplex-valued neural networks such as complex-, quaternion-, tessarine-, and Clifford-valued neural networks. However, hypercomplex-valued neural networks are a type of vector-valued neural network defined on an algebra with additional algebraic or geometric properties. This paper extends the universal approximation theorem for a wide range of vector-valued neural networks, including hypercomplex-valued models as particular instances. Precisely, we introduce the concept of non-degenerate algebra and state the universal approximation theorem for neural networks defined on such algebras.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:37:40.599Z

@@ -1,0 +1,12 @@
+# Interpreting Basis Path Set in Neural Networks
+
+**Authors:** Juanping Zhu, Qi Meng, Wei Chen, Zhi-ming Ma
+
+## Summary
+Based on basis path set, G-SGD algorithm significantly outperforms conventional SGD algorithm in optimizing neural networks. However, how the inner mechanism of basis paths work remains mysterious. From the aspect of graph theory, this paper defines basis path, investigates structure properties of basis paths in regular fully connected neural network and interprets the graph representation of basis path set. Moreover, we propose hierarchical algorithm HBPS to find basis path set B in fully connected neural network by decomposing the network into several independent and parallel substructures. Algorithm HBPS demands that there doesn't exist shared edges between any two independent substructure paths.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:39:42.063Z

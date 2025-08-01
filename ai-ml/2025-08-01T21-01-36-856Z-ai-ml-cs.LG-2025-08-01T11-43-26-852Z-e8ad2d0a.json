@@ -1,0 +1,12 @@
+# Fast Neural Network based Solving of Partial Differential Equations
+
+**Authors:** Jaroslaw Rzepecki, Daniel Bates, Chris Doran
+
+## Summary
+We present a novel method for using Neural Networks (NNs) for finding solutions to a class of Partial Differential Equations (PDEs). Our method builds on recent advances in Neural Radiance Field research (NeRFs) and allows for a NN to converge to a PDE solution much faster than classic Physically Informed Neural Network (PINNs) approaches.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:43:26.853Z

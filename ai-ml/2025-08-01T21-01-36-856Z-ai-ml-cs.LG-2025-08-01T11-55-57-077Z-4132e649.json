@@ -1,0 +1,12 @@
+# Directional Non-Commutative Monoidal Structures with Interchange Law via Commutative Generators
+
+**Authors:** Mahesh Godavarti
+
+## Summary
+We introduce a novel framework consisting of a class of algebraic structures that generalize one-dimensional monoidal systems into higher dimensions by defining per-axis composition operators subject to non-commutativity and a global interchange law. These structures, defined recursively from a base case of vector-matrix pairs, model directional composition in multiple dimensions while preserving structural coherence through commutative linear operators. We show that the framework that unifies several well-known linear transforms in signal processing and data analysis. In this framework, data indices are embedded into a composite structure that decomposes into simpler components. We show that classic transforms such as the Discrete Fourier Transform (DFT), the Walsh transform, and the Hadamard transform are special cases of our algebraic structure. The framework provides a systematic way to derive these transforms by appropriately choosing vector and matrix pairs. By subsuming classical transforms within a common structure, the framework also enables the development of learnable transformations tailored to specific data modalities and tasks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:55:57.077Z

@@ -1,0 +1,12 @@
+# On Hiding Neural Networks Inside Neural Networks
+
+**Authors:** Chuan Guo, Ruihan Wu, Kilian Q. Weinberger
+
+## Summary
+Modern neural networks often contain significantly more parameters than the size of their training data. We show that this excess capacity provides an opportunity for embedding secret machine learning models within a trained neural network. Our novel framework hides the existence of a secret neural network with arbitrary desired functionality within a carrier network. We prove theoretically that the secret network's detection is computationally infeasible and demonstrate empirically that the carrier network does not compromise the secret network's disguise. Our paper introduces a previously unknown steganographic technique that can be exploited by adversaries if left unchecked.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:41:34.896Z

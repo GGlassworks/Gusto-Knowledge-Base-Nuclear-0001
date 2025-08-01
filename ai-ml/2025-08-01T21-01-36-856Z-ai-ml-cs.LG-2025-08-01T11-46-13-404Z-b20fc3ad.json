@@ -1,0 +1,12 @@
+# Making Neural Networks FAIR
+
+**Authors:** Anna Nguyen, Tobias Weller, Michael Färber, York Sure-Vetter
+
+## Summary
+Research on neural networks has gained significant momentum over the past few years. Because training is a resource-intensive process and training data cannot always be made available to everyone, there has been a trend to reuse pre-trained neural networks. As such, neural networks themselves have become research data. In this paper, we first present the neural network ontology FAIRnets Ontology, an ontology to make existing neural network models findable, accessible, interoperable, and reusable according to the FAIR principles. Our ontology allows us to model neural networks on a meta-level in a structured way, including the representation of all network layers and their characteristics. Secondly, we have modeled over 18,400 neural networks from GitHub based on this ontology, which we provide to the public as a knowledge graph called FAIRnets, ready to be used for recommending suitable neural networks to data scientists.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:46:13.404Z

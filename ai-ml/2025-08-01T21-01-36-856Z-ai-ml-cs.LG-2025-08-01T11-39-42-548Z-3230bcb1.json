@@ -1,0 +1,12 @@
+# Deep physical neural networks enabled by a backpropagation algorithm for arbitrary physical systems
+
+**Authors:** Logan G. Wright, Tatsuhiro Onodera, Martin M. Stein, Tianyu Wang, Darren T. Schachter, Zoey Hu, Peter L. McMahon
+
+## Summary
+Deep neural networks have become a pervasive tool in science and engineering. However, modern deep neural networks' growing energy requirements now increasingly limit their scaling and broader use. We propose a radical alternative for implementing deep neural network models: Physical Neural Networks. We introduce a hybrid physical-digital algorithm called Physics-Aware Training to efficiently train sequences of controllable physical systems to act as deep neural networks. This method automatically trains the functionality of any sequence of real physical systems, directly, using backpropagation, the same technique used for modern deep neural networks. To illustrate their generality, we demonstrate physical neural networks with three diverse physical systems-optical, mechanical, and electrical. Physical neural networks may facilitate unconventional machine learning hardware that is orders of magnitude faster and more energy efficient than conventional electronic processors.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:39:42.548Z

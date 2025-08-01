@@ -1,0 +1,12 @@
+# Deep Generative Model-based Synthesis of Four-bar Linkage Mechanisms with Target Conditions
+
+**Authors:** Sumin Lee, Jihoon Kim, Namwoo Kang
+
+## Summary
+Mechanisms are essential components designed to perform specific tasks in various mechanical systems. However, designing a mechanism that satisfies certain kinematic or quasi-static requirements is a challenging task. The kinematic requirements may include the workspace of a mechanism, while the quasi-static requirements of a mechanism may include its torque transmission, which refers to the ability of the mechanism to transfer power and torque effectively. In this paper, we propose a deep learning-based generative model for generating multiple crank-rocker four-bar linkage mechanisms that satisfy both the kinematic and quasi-static requirements aforementioned. The proposed model is based on a conditional generative adversarial network (cGAN) with modifications for mechanism synthesis, which is trained to learn the relationship between the requirements of a mechanism with respect to linkage lengths. The results demonstrate that the proposed model successfully generates multiple distinct mechanisms that satisfy specific kinematic and quasi-static requirements. To evaluate the novelty of our approach, we provide a comparison of the samples synthesized by the proposed cGAN, traditional cVAE and NSGA-II. Our approach has several advantages over traditional design methods. It enables designers to efficiently generate multiple diverse and feasible design candidates while exploring a large design space. Also, the proposed model considers both the kinematic and quasi-static requirements, which can lead to more efficient and effective mechanisms for real-world use, making it a promising tool for linkage mechanism design.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T16:03:52.741Z

@@ -1,0 +1,12 @@
+# A note on the complex and bicomplex valued neural networks
+
+**Authors:** Daniel Alpay, Kamal Diki, Mihaela Vajiac
+
+## Summary
+In this paper we first write a proof of the perceptron convergence algorithm for the complex multivalued neural networks (CMVNNs). Our primary goal is to formulate and prove the perceptron convergence algorithm for the bicomplex multivalued neural networks (BMVNNs) and other important results in the theory of neural networks based on a bicomplex algebra.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:36:39.397Z

@@ -1,0 +1,12 @@
+# Empirical and Experimental Insights into Data Mining Techniques for Crime Prediction: A Comprehensive Survey
+
+**Authors:** Kamal Taha
+
+## Summary
+This survey paper presents a comprehensive analysis of crime prediction methodologies, exploring the various techniques and technologies utilized in this area. The paper covers the statistical methods, machine learning algorithms, and deep learning techniques employed to analyze crime data, while also examining their effectiveness and limitations. We propose a methodological taxonomy that classifies crime prediction algorithms into specific techniques. This taxonomy is structured into four tiers, including methodology category, methodology sub-category, methodology techniques, and methodology sub-techniques. Empirical and experimental evaluations are provided to rank the different techniques. The empirical evaluation assesses the crime prediction techniques based on four criteria, while the experimental evaluation ranks the algorithms that employ the same sub-technique, the different sub-techniques that employ the same technique, the different techniques that employ the same methodology sub-category, the different methodology sub-categories within the same category, and the different methodology categories. The combination of methodological taxonomy, empirical evaluations, and experimental comparisons allows for a nuanced and comprehensive understanding of crime prediction algorithms, aiding researchers in making informed decisions. Finally, the paper provides a glimpse into the future of crime prediction techniques, highlighting potential advancements and opportunities for further research in this field
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:29:28.904Z

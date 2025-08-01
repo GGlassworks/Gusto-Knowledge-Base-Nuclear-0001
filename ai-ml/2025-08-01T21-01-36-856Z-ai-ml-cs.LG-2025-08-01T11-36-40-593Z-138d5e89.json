@@ -1,0 +1,12 @@
+# Provable Identifiability of Two-Layer ReLU Neural Networks via LASSO Regularization
+
+**Authors:** Gen Li, Ganghua Wang, Jie Ding
+
+## Summary
+LASSO regularization is a popular regression tool to enhance the prediction accuracy of statistical models by performing variable selection through the $\ell_1$ penalty, initially formulated for the linear model and its variants. In this paper, the territory of LASSO is extended to two-layer ReLU neural networks, a fashionable and powerful nonlinear regression model. Specifically, given a neural network whose output $y$ depends only on a small subset of input $\boldsymbol{x}$, denoted by $\mathcal{S}^{\star}$, we prove that the LASSO estimator can stably reconstruct the neural network and identify $\mathcal{S}^{\star}$ when the number of samples scales logarithmically with the input dimension. This challenging regime has been well understood for linear models while barely studied for neural networks. Our theory lies in an extended Restricted Isometry Property (RIP)-based analysis framework for two-layer ReLU neural networks, which may be of independent interest to other LASSO or neural network settings. Based on the result, we advocate a neural network-based variable selection method. Experiments on simulated and real-world datasets show promising performance of the variable selection approach compared with existing techniques.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:36:40.593Z

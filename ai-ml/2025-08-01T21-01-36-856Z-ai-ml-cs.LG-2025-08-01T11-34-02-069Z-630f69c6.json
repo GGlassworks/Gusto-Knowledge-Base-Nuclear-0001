@@ -1,0 +1,12 @@
+# Generalization and Regularization in DQN
+
+**Authors:** Jesse Farebrother, Marlos C. Machado, Michael Bowling
+
+## Summary
+Deep reinforcement learning algorithms have shown an impressive ability to learn complex control policies in high-dimensional tasks. However, despite the ever-increasing performance on popular benchmarks, policies learned by deep reinforcement learning algorithms can struggle to generalize when evaluated in remarkably similar environments. In this paper we propose a protocol to evaluate generalization in reinforcement learning through different modes of Atari 2600 games. With that protocol we assess the generalization capabilities of DQN, one of the most traditional deep reinforcement learning algorithms, and we provide evidence suggesting that DQN overspecializes to the training environment. We then comprehensively evaluate the impact of dropout and $\ell_2$ regularization, as well as the impact of reusing learned representations to improve the generalization capabilities of DQN. Despite regularization being largely underutilized in deep reinforcement learning, we show that it can, in fact, help DQN learn more general features. These features can be reused and fine-tuned on similar tasks, considerably improving DQN's sample efficiency.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:02.069Z

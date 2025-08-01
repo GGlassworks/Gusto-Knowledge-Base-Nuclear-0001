@@ -1,0 +1,12 @@
+# Unbalanced GANs: Pre-training the Generator of Generative Adversarial Network using Variational Autoencoder
+
+**Authors:** Hyungrok Ham, Tae Joon Jun, Daeyoung Kim
+
+## Summary
+We propose Unbalanced GANs, which pre-trains the generator of the generative adversarial network (GAN) using variational autoencoder (VAE). We guarantee the stable training of the generator by preventing the faster convergence of the discriminator at early epochs. Furthermore, we balance between the generator and the discriminator at early epochs and thus maintain the stabilized training of GANs. We apply Unbalanced GANs to well known public datasets and find that Unbalanced GANs reduce mode collapses. We also show that Unbalanced GANs outperform ordinary GANs in terms of stabilized learning, faster convergence and better image quality at early epochs.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T12:05:15.144Z

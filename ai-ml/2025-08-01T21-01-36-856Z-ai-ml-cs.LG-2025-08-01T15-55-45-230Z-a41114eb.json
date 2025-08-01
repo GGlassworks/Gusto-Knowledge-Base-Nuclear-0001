@@ -1,0 +1,12 @@
+# FLFE: A Communication-Efficient and Privacy-Preserving Federated Feature Engineering Framework
+
+**Authors:** Pei Fang, Zhendong Cai, Hui Chen, QingJiang Shi
+
+## Summary
+Feature engineering is the process of using domain knowledge to extract features from raw data via data mining techniques and is a key step to improve the performance of machine learning algorithms. In the multi-party feature engineering scenario (features are stored in many different IoT devices), direct and unlimited multivariate feature transformations will quickly exhaust memory, power, and bandwidth of devices, not to mention the security of information threatened. Given this, we present a framework called FLFE to conduct privacy-preserving and communication-preserving multi-party feature transformations. The framework pre-learns the pattern of the feature to directly judge the usefulness of the transformation on a feature. Explored the new useful feature, the framework forsakes the encryption-based algorithm for the well-designed feature exchange mechanism, which largely decreases the communication overhead under the premise of confidentiality. We made experiments on datasets of both open-sourced and real-world thus validating the comparable effectiveness of FLFE to evaluation-based approaches, along with the far more superior efficacy.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T15:55:45.230Z

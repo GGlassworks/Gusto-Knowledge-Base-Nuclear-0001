@@ -1,0 +1,12 @@
+# On the validity of kernel approximations for orthogonally-initialized neural networks
+
+**Authors:** James Martens
+
+## Summary
+In this note we extend kernel function approximation results for neural networks with Gaussian-distributed weights to single-layer networks initialized using Haar-distributed random orthogonal matrices (with possible rescaling). This is accomplished using recent results from random matrix theory.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:36:40.026Z

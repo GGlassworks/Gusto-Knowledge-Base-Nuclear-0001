@@ -1,0 +1,12 @@
+# Tokenization for Molecular Foundation Models
+
+**Authors:** Alexius Wadell, Anoushka Bhutani, Venkatasubramanian Viswanathan
+
+## Summary
+Text-based foundation models have become an important part of scientific discovery, with molecular foundation models accelerating advancements in material science and molecular design.However, existing models are constrained by closed-vocabulary tokenizers that capture only a fraction of molecular space. In this work, we systematically evaluate 34 tokenizers, including 19 chemistry-specific ones, and reveal significant gaps in their coverage of the SMILES molecular representation. To assess the impact of tokenizer choice, we introduce n-gram language models as a low-cost proxy and validate their effectiveness by pretraining and finetuning 18 RoBERTa-style encoders for molecular property prediction. To overcome the limitations of existing tokenizers, we propose two new tokenizers -- Smirk and Smirk-GPE -- with full coverage of the OpenSMILES specification. The proposed tokenizers systematically integrate nuclear, electronic, and geometric degrees of freedom; facilitating applications in pharmacology, agriculture, biology, and energy storage. Our results highlight the need for open-vocabulary modeling and chemically diverse benchmarks in cheminformatics.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T16:41:27.538Z

@@ -1,0 +1,12 @@
+# Stabilizing Elastic Weight Consolidation method in practical ML tasks and using weight importances for neural network pruning
+
+**Authors:** Alexey Kutalev, Alisa Lapina
+
+## Summary
+This paper is devoted to the features of the practical application of the Elastic Weight Consolidation (EWC) method for continual learning of neural networks on several training sets. We will more rigorously compare the well-known methodologies for calculating the importance of weights used in the EWC method. These are the Memory Aware Synapses (MAS), Synaptic Intelligence (SI) methodologies and the calculation of the importance of weights based on the Fisher information matrix from the original paper on EWC. We will consider these methodologies as applied to deep neural networks with fully connected and convolutional layers, find the optimal hyperparameters for each of the methodologies, and compare the results of continual neural network learning using these hyperparameters. Next, we will point out the problems that arise when applying the EWC method to deep neural networks with convolutional layers and self-attention layers, such as the "gradient explosion" and the loss of meaningful information in the gradient when using the constraint of its norm (gradient clipping). Then, we will propose a stabilization approach for the EWC method that helps to solve these problems, evaluate it in comparison with the original methodology and show that the proposed stabilization approach performs on the task of maintaining skills during continual learning no worse than the original EWC, but does not have its disadvantages. In conclusion, we present an interesting fact about the use of various types of weight importance in the problem of neural network pruning.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:44:24.377Z

@@ -1,0 +1,12 @@
+# SOCRATES: Towards a Unified Platform for Neural Network Analysis
+
+**Authors:** Long H. Pham, Jiaying Li, Jun Sun
+
+## Summary
+Studies show that neural networks, not unlike traditional programs, are subject to bugs, e.g., adversarial samples that cause classification errors and discriminatory instances that demonstrate the lack of fairness. Given that neural networks are increasingly applied in critical applications (e.g., self-driving cars, face recognition systems and personal credit rating systems), it is desirable that systematic methods are developed to analyze (e.g., test or verify) neural networks against desirable properties. Recently, a number of approaches have been developed for analyzing neural networks. These efforts are however scattered (i.e., each approach tackles some restricted classes of neural networks against certain particular properties), incomparable (i.e., each approach has its own assumptions and input format) and thus hard to apply, reuse or extend. In this project, we aim to build a unified framework for developing techniques to analyze neural networks. Towards this goal, we develop a platform called SOCRATES which supports a standardized format for a variety of neural network models, an assertion language for property specification as well as multiple neural network analysis algorithms including two novel ones for falsifying and probabilistic verification of neural network models. SOCRATES is extensible and thus existing approaches can be easily integrated. Experiment results show that our platform can handle a wide range of networks models and properties. More importantly, it provides a platform for synergistic research on neural network analysis.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:47:03.815Z

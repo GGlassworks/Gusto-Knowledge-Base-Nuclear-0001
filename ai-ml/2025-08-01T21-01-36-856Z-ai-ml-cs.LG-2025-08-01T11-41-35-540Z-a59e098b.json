@@ -1,0 +1,12 @@
+# The semantic landscape paradigm for neural networks
+
+**Authors:** Shreyas Gokhale
+
+## Summary
+Deep neural networks exhibit a fascinating spectrum of phenomena ranging from predictable scaling laws to the unpredictable emergence of new capabilities as a function of training time, dataset size and network size. Analysis of these phenomena has revealed the existence of concepts and algorithms encoded within the learned representations of these networks. While significant strides have been made in explaining observed phenomena separately, a unified framework for understanding, dissecting, and predicting the performance of neural networks is lacking. Here, we introduce the semantic landscape paradigm, a conceptual and mathematical framework that describes the training dynamics of neural networks as trajectories on a graph whose nodes correspond to emergent algorithms that are instrinsic to the learned representations of the networks. This abstraction enables us to describe a wide range of neural network phenomena in terms of well studied problems in statistical physics. Specifically, we show that grokking and emergence with scale are associated with percolation phenomena, and neural scaling laws are explainable in terms of the statistics of random walks on graphs. Finally, we discuss how the semantic landscape paradigm complements existing theoretical and practical approaches aimed at understanding and interpreting deep neural networks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:41:35.540Z

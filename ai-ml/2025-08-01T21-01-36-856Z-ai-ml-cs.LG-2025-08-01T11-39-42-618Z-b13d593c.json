@@ -1,0 +1,12 @@
+# Neural Priority Queues for Graph Neural Networks
+
+**Authors:** Rishabh Jain, Petar Veličković, Pietro Liò
+
+## Summary
+Graph Neural Networks (GNNs) have shown considerable success in neural algorithmic reasoning. Many traditional algorithms make use of an explicit memory in the form of a data structure. However, there has been limited exploration on augmenting GNNs with external memory. In this paper, we present Neural Priority Queues, a differentiable analogue to algorithmic priority queues, for GNNs. We propose and motivate a desiderata for memory modules, and show that Neural PQs exhibit the desiderata, and reason about their use with algorithmic reasoning. This is further demonstrated by empirical results on the CLRS-30 dataset. Furthermore, we find the Neural PQs useful in capturing long-range interactions, as empirically shown on a dataset from the Long-Range Graph Benchmark.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:39:42.618Z

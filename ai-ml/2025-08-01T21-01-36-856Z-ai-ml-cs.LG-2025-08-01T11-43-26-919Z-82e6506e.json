@@ -1,0 +1,12 @@
+# VC dimensions of group convolutional neural networks
+
+**Authors:** Philipp Christian Petersen, Anna Sepliarskaia
+
+## Summary
+We study the generalization capacity of group convolutional neural networks. We identify precise estimates for the VC dimensions of simple sets of group convolutional neural networks. In particular, we find that for infinite groups and appropriately chosen convolutional kernels, already two-parameter families of convolutional neural networks have an infinite VC dimension, despite being invariant to the action of an infinite group.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:43:26.919Z

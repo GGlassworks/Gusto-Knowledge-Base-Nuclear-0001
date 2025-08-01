@@ -1,0 +1,12 @@
+# A Hybrid Model for Forecasting Short-Term Electricity Demand
+
+**Authors:** Maria Eleni Athanasopoulou, Justina Deveikyte, Alan Mosca, Ilaria Peri, Alessandro Provetti
+
+## Summary
+Currently the UK Electric market is guided by load (demand) forecasts published every thirty minutes by the regulator. A key factor in predicting demand is weather conditions, with forecasts published every hour. We present HYENA: a hybrid predictive model that combines feature engineering (selection of the candidate predictor features), mobile-window predictors and finally LSTM encoder-decoders to achieve higher accuracy with respect to mainstream models from the literature. HYENA decreased MAPE loss by 16\% and RMSE loss by 10\% over the best available benchmark model, thus establishing a new state of the art for the UK electric load (and price) forecasting.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T15:39:43.727Z

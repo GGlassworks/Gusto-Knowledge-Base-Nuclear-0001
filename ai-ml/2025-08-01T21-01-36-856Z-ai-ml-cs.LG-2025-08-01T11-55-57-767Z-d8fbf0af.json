@@ -1,0 +1,12 @@
+# On Dimension-Free Transformer: An Application of STP to AI
+
+**Authors:** Daizhan Cheng
+
+## Summary
+The matrix expressions for every parts of a transformer are firstly described. Based on semi-tensor product (STP) of matrices the hypervectors are reconsidered and the linear transformation over hypervectors is constructed by using projection. Its properties and calculating formulas are obtained. Using projection-based transformation of hypervector (PBTH), the framework of dimension-free transformer (DFT) is proposed by verifying each linear transformation in a transformer and replacing it by a proper PBTH, which allows the inputs and outputs being of arbitrary dimensions. Using balanced information about all entries, DFT must be more efficient in dealing with signals.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:55:57.768Z
