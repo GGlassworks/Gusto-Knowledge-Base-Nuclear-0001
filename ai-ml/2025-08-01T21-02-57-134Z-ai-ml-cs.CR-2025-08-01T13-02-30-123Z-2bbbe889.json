@@ -1,0 +1,12 @@
+# Sensitivity-Based Optimization for Blockchain Selfish Mining
+
+**Authors:** Jing-Yu Ma, Quan-Lin Li
+
+## Summary
+In this paper, we provide a novel dynamic decision method of blockchain selfish mining by applying the sensitivity-based optimization theory. Our aim is to find the optimal dynamic blockchain-pegged policy of the dishonest mining pool. To study the selfish mining attacks, two mining pools is designed by means of different competitive criterions, where the honest mining pool follows a two-block leading competitive criterion, while the dishonest mining pool follows a modification of two-block leading competitive criterion through using a blockchain-pegged policy. To find the optimal blockchain-pegged policy, we set up a policy-based continuous-time Markov process and analyze some key factors. Based on this, we discuss monotonicity and optimality of the long-run average profit with respect to the blockchain-pegged reward and prove the structure of the optimal blockchain-pegged policy. We hope the methodology and results derived in this paper can shed light on the dynamic decision research on the selfish mining attacks of blockchain selfish mining.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:02:30.124Z

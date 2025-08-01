@@ -1,0 +1,12 @@
+# PBL: System for Creating and Maintaining Personal Blockchain Ledgers
+
+**Authors:** Collin Connors, Dilip Sarkar
+
+## Summary
+Blockchain technology has experienced substantial growth in recent years, yet the diversity of blockchain applications has been limited. Blockchain provides many desirable features for applications, including being append-only, immutable, tamper-evident, tamper-resistant, and fault-tolerant; however, many applications that would benefit from these features cannot incorporate current blockchains. This work presents a novel architecture for creating and maintaining personal blockchain ledgers that address these concerns. Our system utilizes independent modular services, enabling individuals to securely store their data in a personal blockchain ledger. Unlike traditional blockchain, which stores all transactions of multiple users, our novel personal blockchains are designed to allow individuals to maintain their privacy without requiring extensive technical expertise. Using rigorous mathematical methods, we prove that our system produces append-only, immutable, tamper-evident, tamper-resistant ledgers. Our system addresses use cases not addressed by traditional blockchain development platforms. Our system creates a new blockchain paradigm, enabling more individuals and applications to leverage blockchain technology for their needs.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T11:06:50.080Z

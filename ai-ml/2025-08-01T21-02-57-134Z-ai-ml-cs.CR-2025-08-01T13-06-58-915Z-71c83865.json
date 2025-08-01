@@ -1,0 +1,12 @@
+# Cross-Blockchain Databases for Governments: The Technology for Public Registries and Smart Laws
+
+**Authors:** Oleksii Konashevych
+
+## Summary
+There is an ongoing competition among blockchain technologies and the existence of one ultimate blockchain is impossible for many reasons. On the other hand, such variety can create difficulties in adoption, especially for the governments and corporations. The proposed technology ensures a blockchain agnostic approach and aimed to create a unified ecosystem of multiple networks. The cross-blockchain protocol can be used to develop services where end-users decide for themselves their most preferred blockchain. The invention solves problems of duplication of tokens in the result of hardforks, issues with scalability, digital identity and even the "problem" of immutability (enforceability). A cross-blockchain DB means a consistent non-conflicting key-value database across a bunch of defined blockchains. It is not a new blockchain, but a protocol for developing databases on existing blockchains. The protocol is also a basis for a "smart law" which is a framework for public registries and their governance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:06:58.915Z

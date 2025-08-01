@@ -1,0 +1,12 @@
+# From Concept to Measurement: A Survey of How the Blockchain Trilemma Can Be Analyzed
+
+**Authors:** Mansur Aliyu Masama, Niclas Kannengießer, Ali Sunyaev
+
+## Summary
+To meet non-functional requirements, practitioners must identify Pareto-optimal configurations of the degree of decentralization, scalability, and security of blockchain systems. Maximizing all of these subconcepts is, however, impossible due to the trade-offs highlighted by the blockchain trilemma. We reviewed analysis approaches to identify constructs and their operationalization through metrics for analyzing the blockchain trilemma subconcepts and to assess the applicability of the operationalized constructs to various blockchain systems. By clarifying these constructs and metrics, this work offers a theoretical foundation for more sophisticated investigations into how the blockchain trilemma manifests in blockchain systems, helping practitioners identify Pareto-optimal configurations.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:04:12.891Z

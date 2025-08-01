@@ -1,0 +1,12 @@
+# Towards Cross-Blockchain Smart Contracts
+
+**Authors:** Markus Nissl, Emanuel Sallinger, Stefan Schulte, Michael Borkowski
+
+## Summary
+In recent years, manifold blockchain protocols have been proposed by researchers and industrial companies alike. This has led to a very heterogeneous blockchain landscape. Accordingly, it would be desirable if blockchains could interact with each other. However, current blockchain technologies offer only limited support for interoperability, thus preventing tokens or smart contracts from leaving the scope of a particular blockchain. As a first step towards a solution for cross-chain smart contract interactions, we introduce a framework which allows to invoke a smart contract from another blockchain. We offer support for continuing a smart contract after receiving a result from a different blockchain, and for calling smart contracts recursively across blockchains. We provide a reference implementation for Ethereum-based blockchains using Solidity and evaluate the performance regarding time and cost overheads.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:06:58.823Z

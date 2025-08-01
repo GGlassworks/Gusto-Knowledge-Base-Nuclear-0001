@@ -1,0 +1,12 @@
+# DCS Chain: A Flexible Private Blockchain System
+
+**Authors:** Jianwu Zheng, Siyuan Zhao, Zheng Wang, Li Pan, Jianhua Li
+
+## Summary
+Blockchain technology has seen tremendous development over the past few years. Despite the emergence of numerous blockchain systems, they all suffer from various limitations, which can all be attributed to the fundamental issue posed by the DCS trilemma. In light of this, this work introduces a novel private blockchain system named DCS Chain. The core idea is to quantify the DCS metrics and dynamically adjust the blockchain's performance across these three dimensions, to achieve theoretically optimal system performance. Overall, our system provides a comprehensive suite of blockchain essentials, including DCS quantification, consensus protocol adjustment, and communication network simulation.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:04:12.467Z

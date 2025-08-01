@@ -1,0 +1,12 @@
+# Testimonium: A Cost-Efficient Blockchain Relay
+
+**Authors:** Philipp Frauenthaler, Marten Sigwart, Christof Spanring, Stefan Schulte
+
+## Summary
+Current blockchain technologies provide very limited means of interoperability. In particular, solutions enabling blockchains to verify the existence of data on other blockchains are either very costly or are not fully decentralized. To overcome these limitations, we introduce Testimonium, a novel blockchain relay scheme that applies a validation-on-demand pattern and the on-chain execution of Simplified Payment Verifications to enable the verification of data across blockchains while remaining fully decentralized. Evaluating the scheme for Ethereum-based blockchains shows that Testimonium achieves a cost reduction of up to 92% over existing solutions. As such, the scheme lays a strong foundation for generic blockchain interoperability. For instance, it enables the development of an atomic-commit protocol for distributed transactions across blockchains.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T11:06:48.976Z

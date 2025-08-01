@@ -1,0 +1,12 @@
+# A Pattern Language for Blockchain Governance
+
+**Authors:** Yue Liu, Qinghua Lu, Guangsheng Yu, Hye-Young Paik, Harsha Perera, Liming Zhu
+
+## Summary
+Blockchain technology has been used to build next-generation applications taking advantage of its decentralised nature. Nevertheless, there are some serious concerns about the trustworthiness of blockchain due to the vulnerabilities in on-chain algorithmic mechanisms, and tedious disputes and debates in off-chain communities. Accordingly, blockchain governance has received great attention for improving the trustworthiness of all decisions that direct a blockchain platform. However, there is a lack of systematic knowledge to guide practitioners to perform blockchain governance. We have performed a systematic literature review to understand the state-of-the-art of blockchain governance. We identify the lifecycle stages of a blockchain platform, and present 14 architectural patterns for blockchain governance in this study. This pattern language can provide guidance for the effective use of patterns for blockchain governance in practice, and support the architecture design of governance-driven blockchain systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:05:03.891Z

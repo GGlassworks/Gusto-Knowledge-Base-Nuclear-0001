@@ -1,0 +1,12 @@
+# Secure Decentralized IoT Service Platform using Consortium Blockchain
+
+**Authors:** Ruipeng Zhang, Chen Xu, Mengjun Xie
+
+## Summary
+Blockchain technology has gained increasing popularity in the research of Internet of Things (IoT) systems in the past decade. As a distributed and immutable ledger secured by strong cryptography algorithms, the blockchain brings a new perspective to secure IoT systems. Many studies have been devoted to integrating blockchain into IoT device management, access control, data integrity, security, and privacy. In comparison, the blockchain-facilitated IoT communication is much less studied. Nonetheless, we see the potential of blockchain in decentralizing and securing IoT communications. This paper proposes an innovative IoT service platform powered by consortium blockchain technology. The presented solution abstracts machine-to-machine (M2M) and human-to-machine (H2M) communications into services provided by IoT devices. Then, it materializes data exchange of the IoT network through smart contracts and blockchain transactions. Additionally, we introduce the auxiliary storage layer to the proposed platform to address various data storage requirements. Our proof-of-concept implementation is tested against various workloads and connection sizes under different block configurations to evaluate the platform's transaction throughput, latency, and hardware utilization. The experiment results demonstrate that our solution can maintain high performance under most testing scenarios and provide valuable insights on optimizing the blockchain configuration to achieve the best performance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:04:12.600Z

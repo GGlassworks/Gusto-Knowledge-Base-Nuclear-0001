@@ -1,0 +1,12 @@
+# Detecting Neural Trojans Through Merkle Trees
+
+**Authors:** Joshua Strubel
+
+## Summary
+Deep neural networks are utilized in a growing number of industries. Much of the current literature focuses on the applications of deep neural networks without discussing the security of the network itself. One security issue facing deep neural networks is neural trojans. Through a neural trojan, a malicious actor may force the deep neural network to act in unintended ways. Several potential defenses have been proposed, but they are computationally expensive, complex, or unusable in commercial applications. We propose Merkle trees as a novel way to detect and isolate neural trojans.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T11:37:39.896Z

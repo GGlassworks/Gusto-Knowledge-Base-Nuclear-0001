@@ -1,0 +1,12 @@
+# An AI Architecture with the Capability to Classify and Explain Hardware Trojans
+
+**Authors:** Paul Whitten, Francis Wolff, Chris Papachristou
+
+## Summary
+Hardware trojan detection methods, based on machine learning (ML) techniques, mainly identify suspected circuits but lack the ability to explain how the decision was arrived at. An explainable methodology and architecture is introduced based on the existing hardware trojan detection features. Results are provided for explaining digital hardware trojans within a netlist using trust-hub trojan benchmarks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:26:41.571Z

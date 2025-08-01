@@ -1,0 +1,12 @@
+# Reputation-based PoS for the Restriction of Illicit Activities on Blockchain: Algorand Usecase
+
+**Authors:** Mayank Pandey, Rachit Agarwal, Sandeep Kumar Shukla, Nishchal Kumar Verma
+
+## Summary
+In cryptocurrency-based permissionless blockchain networks, the decentralized structure enables any user to join and operate across different regions. The criminal entities exploit it by using cryptocurrency transactions on the blockchain to facilitate activities such as money laundering, gambling, and ransomware attacks. In recent times, different machine learning-based techniques can detect such criminal elements based on blockchain transaction data. However, there is no provision within the blockchain to deal with such elements. We propose a reputation-based methodology for response to the users detected carrying out the aforementioned illicit activities. We select Algorand blockchain to implement our methodology by incorporating it within the consensus protocol. The theoretical results obtained prove the restriction and exclusion of criminal elements through block proposal rejection and attenuation of the voting power as a validator for such entities. Further, we analyze the efficacy of our method and show that it puts no additional strain on the communication resources.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:09:53.808Z

@@ -1,0 +1,12 @@
+# Blockchain for steganography: advantages, new algorithms and open challenges
+
+**Authors:** Omid Torki, Maede Ashouri-Talouki, Mojtaba Mahdavi
+
+## Summary
+Steganography is a solution for covert communication and blockchain is a p2p network for data transmission, so the benefits of blockchain can be used in steganography. In this paper, we discuss the advantages of blockchain in steganography, which include the ability to embed hidden data without manual change in the original data, as well as the readiness of the blockchain platform for data transmission and storage, which eliminates the need for the Steganographer to design and implement a new platform for data transmission and storage. We have proposed two algorithms for steganography in blockchain, the first one is a high-capacity algorithm for the key and the steganography algorithm exchange and switching, and the second one is a medium-capacity algorithm for embedding hidden data. Also, by reviewing the previous three steganography schemes in blockchain, we have examined their drawback and have showed that none of them are practical schemes for steganography in blockchain. Then, we have explained the challenges of steganography in blockchain from the steganographers and steganalyzers point of view.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:05:04.255Z

@@ -1,0 +1,12 @@
+# A Framework for Blockchain Interoperability and Runtime Selection
+
+**Authors:** Philipp Frauenthaler, Michael Borkowski, Stefan Schulte
+
+## Summary
+The suitability of a particular blockchain for a given use case depends mainly on the blockchain's functional and non-functional properties. Such properties may vary over time, and thus, a selected blockchain may become unsuitable for a given use case. This uncertainty may hinder the widespread adoption of blockchain technologies in general. To mitigate the impact of volatile blockchain properties, we propose a framework that monitors several blockchains, allows the user to define functional and non-functional requirements, determines the most appropriate blockchain, and enables the switchover to that chain at runtime. Our evaluation using a reference implementation shows that switching to another blockchain can save cost and enable users to benefit from better performance and a higher level of trust.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T11:06:48.670Z

@@ -1,0 +1,12 @@
+# A Survey on Blockchain for Big Data: Approaches, Opportunities, and Future Directions
+
+**Authors:** Natarajan Deepa, Quoc-Viet Pham, Dinh C. Nguyen, Sweta Bhattacharya, B Prabadevi, Thippa Reddy Gadekallu, Praveen Kumar Reddy Maddikunta, Fang Fang, Pubudu N. Pathirana
+
+## Summary
+Big data has generated strong interest in various scientific and engineering domains over the last few years. Despite many advantages and applications, there are many challenges in big data to be tackled for better quality of service, e.g., big data analytics, big data management, and big data privacy and security. Blockchain with its decentralization and security nature has the great potential to improve big data services and applications. In this article, we provide a comprehensive survey on blockchain for big data, focusing on up-to-date approaches, opportunities, and future directions. First, we present a brief overview of blockchain and big data as well as the motivation behind their integration. Next, we survey various blockchain services for big data, including blockchain for secure big data acquisition, data storage, data analytics, and data privacy preservation. Then, we review the state-of-the-art studies on the use of blockchain for big data applications in different vertical domains such as smart city, smart healthcare, smart transportation, and smart grid. For a better understanding, some representative blockchain-big data projects are also presented and analyzed. Finally, challenges and future directions are discussed to further drive research in this promising area.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:41:07.025Z

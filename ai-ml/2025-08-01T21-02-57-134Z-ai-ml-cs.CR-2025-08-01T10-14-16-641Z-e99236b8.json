@@ -1,0 +1,12 @@
+# Proof of Humanity: A Multi-Layer Network Framework for Certifying Human-Originated Content in an AI-Dominated Internet
+
+**Authors:** Sebastian Barros
+
+## Summary
+The rapid proliferation of generative AI has led to an internet increasingly populated with synthetic content-text, images, audio, and video generated without human intervention. As the distinction between human and AI-generated data blurs, the ability to verify content origin becomes critical for applications ranging from social media and journalism to legal and financial systems. In this paper, we propose a conceptual, multi-layer architectural framework that enables telecommunications networks to act as infrastructure level certifiers of human-originated content. By leveraging identity anchoring at the physical layer, metadata propagation at the network and transport layers, and cryptographic attestations at the session and application layers, Telcos can provide an end-to-end Proof of Humanity for data traversing their networks. We outline how each OSI layer can contribute to this trust fabric using technical primitives such as SIM/eSIM identity, digital signatures, behavior-based ML heuristics, and edge-validated APIs. The framework is presented as a foundation for future implementation, highlighting monetization pathways for telcos such as trust-as-a-service APIs, origin-certified traffic tiers, and regulatory compliance tools. The paper does not present implementation or benchmarking results but offers a technically detailed roadmap and strategic rationale for transforming Telcos into validators of digital authenticity in an AI-dominated internet. Security, privacy, and adversarial considerations are discussed as directions for future work.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:14:16.641Z

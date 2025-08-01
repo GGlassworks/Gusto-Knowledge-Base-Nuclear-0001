@@ -1,0 +1,12 @@
+# State sharding model on the blockchain
+
+**Authors:** Xiangyu Wang, Ting Yang, Yu Wang
+
+## Summary
+Blockchain is an incrementally updated ledger maintained by distributed nodes rather than centralized organizations. The current blockchain technology faces scalability issues, which include two aspects: low transaction throughput and high storage capacity costs. This paper studies the blockchain structure based on state sharding technology, and mainly solves the problem of non-scalability of block chain storage. This paper designs and implements the blockchain state sharding scheme, proposes a specific state sharding data structure and algorithm implementation, and realizes a complete blockchain structure so that the blockchain has the advantages of high throughput, processing a large number of transactions and saving storage costs. Experimental results show that a blockchain network with more than 100,000 nodes can be divided into 1024 shards. A blockchain network with this structure can process 500,000 transactions in about 5 seconds. If the consensus time of the blockchain is about 10 seconds, and the block generation time of the blockchain system of the sharding mechanism is 15 seconds, the transaction throughput can reach 33,000 tx/sec. Experimental results show that the throughput of the proposed protocol increases with the increase of the network node size. This confirms the scalability of the blockchain structure based on sharding technology.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T11:06:49.877Z

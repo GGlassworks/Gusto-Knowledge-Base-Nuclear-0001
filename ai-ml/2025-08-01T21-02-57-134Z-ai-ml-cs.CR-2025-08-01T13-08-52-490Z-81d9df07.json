@@ -1,0 +1,12 @@
+# Comparative Analysis of Blockchain Systems
+
+**Authors:** Jiaqi Huang, Yuanzheng Niu, Xiaoqi Li, Zongwei Li
+
+## Summary
+Blockchain is a type of decentralized distributed database. Unlike traditional relational database management systems, it does not require management or maintenance by a third party. All data management and update processes are open and transparent, solving the trust issues of centralized database management systems. Blockchain ensures network-wide consistency, consensus, traceability, and immutability. Under the premise of mutual distrust between nodes, blockchain technology integrates various technologies, such as P2P protocols, asymmetric encryption, consensus mechanisms, and chain structures. Data is distributed and stored across multiple nodes, maintained by all nodes, ensuring transaction data integrity, undeniability, and security. This facilitates trusted information sharing and supervision. The basic principles of blockchain form the foundation for all related research. Understanding the working principles is essential for further study of blockchain technology. There are many platforms based on blockchain technology, and they differ from one another. This paper will analyze the architecture of blockchain systems at each layer, focusing on the principles and technologies of blockchain platforms such as Bitcoin, Ethereum, and Hyperledger Fabric. The analysis will cover their scalability and security and highlight their similarities, differences, advantages, and disadvantages.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:08:52.490Z

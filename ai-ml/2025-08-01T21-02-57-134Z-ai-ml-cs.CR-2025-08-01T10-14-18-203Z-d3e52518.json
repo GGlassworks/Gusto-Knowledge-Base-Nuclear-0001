@@ -1,0 +1,12 @@
+# The Anatomy of Deception: Technical and Human Perspectives on a Large-scale Phishing Campaign
+
+**Authors:** Anargyros Chrysanthou, Yorgos Pantis, Constantinos Patsakis
+
+## Summary
+In an era dominated by digital interactions, phishing campaigns have evolved to exploit not just technological vulnerabilities but also human traits. This study takes an unprecedented deep dive into large-scale phishing campaigns aimed at Meta's users, offering a dual perspective on the technical mechanics and human elements involved. Analysing data from over 25,000 victims worldwide, we highlight the nuances of these campaigns, from the intricate techniques deployed by the attackers to the sentiments and behaviours of those who were targeted. Unlike prior research conducted in controlled environments, this investigation capitalises on the vast, diverse, and genuine data extracted directly from active phishing campaigns, allowing for a more holistic understanding of the drivers, facilitators, and human factors. Through the application of advanced computational techniques, including natural language processing and machine learning, this work unveils critical insights into the psyche of victims and the evolving tactics of modern phishers. Our analysis illustrates very poor password selection choices from the victims but also persistence in the revictimisation of a significant part of the users. Finally, we reveal many correlations regarding demographics, timing, sentiment, emotion, and tone of the victims' responses.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:14:18.204Z

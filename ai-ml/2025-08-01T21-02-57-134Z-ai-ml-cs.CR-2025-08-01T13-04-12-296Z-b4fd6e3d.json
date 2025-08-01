@@ -1,0 +1,12 @@
+# Integration of Blockchain and Edge Computing in Internet of Things: A Survey
+
+**Authors:** He Xue, Dajiang Chen, Ning Zhang, Hong-Ning Dai, Keping Yu
+
+## Summary
+As an important technology to ensure data security, consistency, traceability, etc., blockchain has been increasingly used in Internet of Things (IoT) applications. The integration of blockchain and edge computing can further improve the resource utilization in terms of network, computing, storage, and security. This paper aims to present a survey on the integration of blockchain and edge computing. In particular, we first give an overview of blockchain and edge computing. We then present a general architecture of an integration of blockchain and edge computing system. We next study how to utilize blockchain to benefit edge computing, as well as how to use edge computing to benefit blockchain. We also discuss the issues brought by the integration of blockchain and edge computing system and solutions from perspectives of resource management, joint optimization, data management, computation offloading and security mechanism. Finally, we analyze and summarize the existing challenges posed by the integration of blockchain and edge computing system and the potential solutions in the future.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:04:12.297Z

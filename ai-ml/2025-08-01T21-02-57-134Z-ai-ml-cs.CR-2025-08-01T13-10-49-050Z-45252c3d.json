@@ -1,0 +1,12 @@
+# When Services Computing Meets Blockchain: Challenges and Opportunities
+
+**Authors:** Xiaoyun Li, Zibin Zheng, Hong-Ning Dai
+
+## Summary
+Services computing can offer a high-level abstraction to support diverse applications via encapsulating various computing infrastructures. Though services computing has greatly boosted the productivity of developers, it is faced with three main challenges: privacy and security risks, information silo, and pricing mechanisms and incentives. The recent advances of blockchain bring opportunities to address the challenges of services computing due to its build-in encryption as well as digital signature schemes, decentralization feature, and intrinsic incentive mechanisms. In this paper, we present a survey to investigate the integration of blockchain with services computing. The integration of blockchain with services computing mainly exhibits merits in two aspects: i) blockchain can potentially address key challenges of services computing and ii) services computing can also promote blockchain development. In particular, we categorize the current literature of services computing based on blockchain into five types: services creation, services discovery, services recommendation, services composition, and services arbitration. Moreover, we generalize Blockchain as a Service (BaaS) architecture and summarize the representative BaaS platforms. In addition, we also outline open issues of blockchain-based services computing and BaaS.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:10:49.050Z

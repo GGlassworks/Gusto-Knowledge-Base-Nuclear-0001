@@ -1,0 +1,12 @@
+# Vulnerability of Finitely-long Blockchains in Securing Data
+
+**Authors:** Yiming Jiang, Jiangfan Zhang
+
+## Summary
+Recently, blockchain has been applied in various fields to secure data exchanges and storage in decentralized systems. In a blockchain application where the task of the application which makes use of the data stored in a blockchain has to be accomplished by a time instant, the employed blockchain is essentially finitely-long. In this paper, we consider a general finitely-long blockchain model which is generalized from most existing works on finitely-long blockchain applications, and take the first step towards characterizing the vulnerability of finitely-long blockchains in securing data against double-spending attacks. For the first time, we develop a general closed-form expression for the probability of success in launching a double-spending attack on a finitely-long blockchain. This probability essentially characterizes the vulnerability of finitely-long blockchains. Then, we prove that the probability of success in launching a double-spending attack on a finitely-long blockchain is no greater than that on an infinitely-long blockchain, which implies that finitely-long blockchains are less vulnerable to double-spending attacks than infinitely-long blockchains. Moreover, we show that unlike infinitely-long blockchains which can be surely paralyzed by a 51% attack, finitely-long blockchains are more resistant to 51% attacks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T11:06:48.579Z

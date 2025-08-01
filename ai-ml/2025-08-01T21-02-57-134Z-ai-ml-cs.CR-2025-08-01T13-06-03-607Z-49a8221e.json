@@ -1,0 +1,12 @@
+# Performance modeling of public permissionless blockchains: A survey
+
+**Authors:** Molud Esmaili, Ken Christensen
+
+## Summary
+Public permissionless blockchains facilitate peer-to-peer digital transactions, yet face performance challenges specifically minimizing transaction confirmation time to decrease energy and time consumption per transaction. Performance evaluation and prediction are crucial in achieving this objective, with performance modeling as a key solution despite the complexities involved in assessing these blockchains. This survey examines prior research concerning the performance modeling blockchain systems, specifically focusing on public permissionless blockchains. Initially, it provides foundational knowledge about these blockchains and the crucial performance parameters for their assessment. Additionally, the study delves into research on the performance modeling of public permissionless blockchains, predominantly considering these systems as bulk service queues. It also examines prior studies on workload and traffic modeling, characterization, and analysis within these blockchain networks. By analyzing existing research, our survey aims to provide insights and recommendations for researchers keen on enhancing the performance of public permissionless blockchains or devising novel mechanisms in this domain.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:06:03.607Z

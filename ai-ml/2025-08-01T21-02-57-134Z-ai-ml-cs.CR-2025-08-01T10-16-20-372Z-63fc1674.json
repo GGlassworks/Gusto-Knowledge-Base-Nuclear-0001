@@ -1,0 +1,12 @@
+# Understanding Person Identification through Gait
+
+**Authors:** Simon Hanisch, Evelyn Muschter, Admantini Hatzipanayioti, Shu-Chen Li, Thorsten Strufe
+
+## Summary
+Gait recognition is the process of identifying humans from their bipedal locomotion such as walking or running. As such, gait data is privacy sensitive information and should be anonymized where possible. With the rise of higher quality gait recording techniques, such as depth cameras or motion capture suits, an increasing amount of detailed gait data is captured and processed. The introduction and rise of the Metaverse is an example of a potentially popular application scenario in which the gait of users is transferred onto digital avatars. As a first step towards developing effective anonymization techniques for high-quality gait data, we study different aspects of movement data to quantify their contribution to gait recognition. We first extract categories of features from the literature on human gait perception and then design experiments for each category to assess how much the information they contain contributes to recognition success. We evaluated the utility of gait perturbation by means of naturalness ratings in a user study. Our results show that gait anonymization will be challenging, as the data is highly redundant and inter-dependent.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:16:20.373Z

@@ -1,0 +1,12 @@
+# Blockchain Tree as Solution for Distributed Storage of Personal ID Data and Document Access Control
+
+**Authors:** Sergii Kushch, Yurii Baryshev, Yurii Baryshev
+
+## Summary
+This paper introduces a new method of Blockchain formation for reliable storage of personal data of ID-card holders. In particular, the model of the information system is presented, the new structure of smart ID-cards and information on these cards are proposed. The new structure of Blockchain - "Blockchain Tree" allows not only to store information from ID-cards but also to increase the level of security and access control to this information. The proposed Subchains system allows to integrate Blockchain of the lower level to Blockchain of the higher level, allowing to create a multilevel protected system.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:06:03.735Z

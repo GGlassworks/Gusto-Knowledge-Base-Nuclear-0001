@@ -1,0 +1,12 @@
+# A Survey and Comparison of Post-quantum and Quantum Blockchains
+
+**Authors:** Zebo Yang, Haneen Alfauri, Behrooz Farkiani, Raj Jain, Roberto Di Pietro, Aiman Erbad
+
+## Summary
+Blockchains have gained substantial attention from academia and industry for their ability to facilitate decentralized trust and communications. However, the rapid progress of quantum computing poses a significant threat to the security of existing blockchain technologies. Notably, the emergence of Shor's and Grover's algorithms raises concerns regarding the compromise of the cryptographic systems underlying blockchains. Consequently, it is essential to develop methods that reinforce blockchain technology against quantum attacks. In response to this challenge, two distinct approaches have been proposed. The first approach involves post-quantum blockchains, which aim to utilize classical cryptographic algorithms resilient to quantum attacks. The second approach explores quantum blockchains, which leverage the power of quantum computers and networks to rebuild the foundations of blockchains. This paper aims to provide a comprehensive overview and comparison of post-quantum and quantum blockchains while exploring open questions and remaining challenges in these domains. It offers an in-depth introduction, examines differences in blockchain structure, security, privacy, and other key factors, and concludes by discussing current research trends.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:05:04.356Z

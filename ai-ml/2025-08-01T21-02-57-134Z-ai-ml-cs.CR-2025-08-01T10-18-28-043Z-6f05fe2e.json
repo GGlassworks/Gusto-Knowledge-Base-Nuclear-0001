@@ -1,0 +1,12 @@
+# Towards Clean-Label Backdoor Attacks in the Physical World
+
+**Authors:** Thinh Dao, Cuong Chi Le, Khoa D Doan, Kok-Seng Wong
+
+## Summary
+Deep Neural Networks (DNNs) are shown to be vulnerable to backdoor poisoning attacks, with most research focusing on \textbf{digital triggers} -- special patterns added to test-time inputs to induce targeted misclassification. \textbf{Physical triggers}, natural objects within a physical scene, have emerged as a desirable alternative since they enable real-time backdoor activations without digital manipulation. However, current physical backdoor attacks require poisoned inputs to have incorrect labels, making them easily detectable by human inspection. In this paper, we explore a new paradigm of attacks, \textbf{clean-label physical backdoor attacks (CLPBA)}, via experiments on facial recognition and animal classification tasks. Our study reveals that CLPBA could be a serious threat with the right poisoning algorithm and physical trigger. A key finding is that different from digital backdoor attacks which exploit memorization to plant backdoors in deep nets, CLPBA works by embedding the feature of the trigger distribution (i.e., the distribution of trigger samples) to the poisoned images through the perturbations. We also find that representative defenses cannot defend against CLPBA easily since CLPBA fundamentally breaks the core assumptions behind these defenses. Our study highlights accidental backdoor activations as a limitation of CLPBA, happening when unintended objects or classes cause the model to misclassify as the target class. The code and dataset can be found at https://github.com/21thinh/Clean-Label-Physical-Backdoor-Attacks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:18:28.043Z

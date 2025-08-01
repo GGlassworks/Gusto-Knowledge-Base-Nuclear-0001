@@ -1,0 +1,12 @@
+# The Role and Applications of Airport Digital Twin in Cyberattack Protection during the Generative AI Era
+
+**Authors:** Abraham Itzhak Weinberg
+
+## Summary
+In recent years, the threat facing airports from growing and increasingly sophisticated cyberattacks has become evident. Airports are considered a strategic national asset, so protecting them from attacks, specifically cyberattacks, is a crucial mission. One way to increase airports' security is by using Digital Twins (DTs). This paper shows and demonstrates how DTs can enhance the security mission. The integration of DTs with Generative AI (GenAI) algorithms can lead to synergy and new frontiers in fighting cyberattacks. The paper exemplifies ways to model cyberattack scenarios using simulations and generate synthetic data for testing defenses. It also discusses how DTs can be used as a crucial tool for vulnerability assessment by identifying weaknesses, prioritizing, and accelerating remediations in case of cyberattacks. Moreover, the paper demonstrates approaches for anomaly detection and threat hunting using Machine Learning (ML) and GenAI algorithms. Additionally, the paper provides impact prediction and recovery coordination methods that can be used by DT operators and stakeholders. It also introduces ways to harness the human factor by integrating training and simulation algorithms with Explainable AI (XAI) into the DT platforms. Lastly, the paper offers future applications and technologies that can be utilized in DT environments.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:16:09.286Z

@@ -1,0 +1,12 @@
+# Segment blockchain: A size reduced storage mechanism for blockchain
+
+**Authors:** Yibin Xu, Yangyu Huang
+
+## Summary
+The exponential growth of the blockchain size has become a major contributing factor that hinders the decentralisation of blockchain and its potential implementations in data-heavy applications. In this paper, we propose segment blockchain, an approach that segmentises blockchain and enables nodes to only store a copy of one blockchain segment. We use \emph{PoW} as a membership threshold to limit the number of nodes taken by an Adversary---the Adversary can only gain at most $n/2$ of nodes in a network of $n$ nodes when it has $50\%$ of the calculation power in the system (the Nakamoto blockchain security threshold). A segment blockchain system fails when an Adversary stores all copies of a segment, because the Adversary can then leave the system, causing a permanent loss of the segment. We theoretically prove that segment blockchain can sustain a $(AD/n)^m$ failure probability when the Adversary has no more than $AD$ number of nodes and every segment is stored by $m$ number of nodes. The storage requirement is mostly shrunken compared to the traditional design and therefore making the blockchain more suitable for data-heavy applications.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:08:01.708Z

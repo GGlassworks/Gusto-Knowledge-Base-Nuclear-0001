@@ -1,0 +1,12 @@
+# Drawing the boundaries between Blockchain and Blockchain-like systems: A Comprehensive Survey on Distributed Ledger Technologies
+
+**Authors:** Badr Bellaj, Aafaf Ouaddah, Noel Crespi, Abdelatif Mezrioui, Emmanuel Bertin
+
+## Summary
+Bitcoin's global success has led to the rise of blockchain, but many systems labeled as "blockchain" deviate from its core principles, adding complexity to the ecosystem. This survey addresses the need for a comprehensive review and taxonomy to clarify the differences between blockchain and blockchain-like systems. We propose a reference model with four key layers: data, consensus, execution, and application, and introduce a new taxonomy for better classification. Through a qualitative and quantitative analysis of 44 DLT solutions and 26 consensus mechanisms, we highlight key challenges and offer research directions in the field.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:08:52.404Z

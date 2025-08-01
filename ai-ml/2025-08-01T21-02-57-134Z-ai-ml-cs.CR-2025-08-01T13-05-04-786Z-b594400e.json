@@ -1,0 +1,12 @@
+# Selective Deletion in a Blockchain
+
+**Authors:** Peter Hillmann, Marcus Knüpfer, Erik Heiland, Andreas Karcher
+
+## Summary
+The constantly growing size of blockchains becomes a challenge with the increasing usage. Especially the storage of unwanted data in a blockchain is an issue, because it cannot be removed naturally. In order to counteract this problem, we present the first concept for the selective deletion of single entries in a blockchain. For this purpose, the general consensus algorithm is extended by the functionality of regularly creating summary blocks. Previous data of the chain are summarized and stored again in a new block, leaving out unwanted information. With a shifting marker of the Genesis Block, data can be deleted from the beginning of a blockchain. In this way, the technology of the blockchain becomes fully transactional. The concept is independent of a specific block structure, network structure, or consensus algorithm. Moreover, this functionality can be adapted to current blockchains to solve multiple problems related to scalability. This approach enables the transfer of blockchain technology to further fields of application, among others in the area of Industry 4.0 and Product Life-cycle Management.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:05:04.787Z

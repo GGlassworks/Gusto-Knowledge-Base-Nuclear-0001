@@ -1,0 +1,12 @@
+# A Novel Classification of Attacks on Blockchain Layers: Vulnerabilities, Attacks, Mitigations, and Research Directions
+
+**Authors:** Kaustubh Dwivedi, Ankit Agrawal, Ashutosh Bhatia, Kamlesh Tiwari
+
+## Summary
+The widespread adoption of blockchain technology has amplified the spectrum of potential threats to its integrity and security. The ongoing quest to exploit vulnerabilities emphasizes how critical it is to expand on current research initiatives. Thus, using a methodology based on discrete blockchain layers, our survey study aims to broaden the existing body of knowledge by thoroughly discussing both new and known attack vectors inside the blockchain ecosystem. This survey proposes a novel classification of blockchain attacks and an in-depth investigation of blockchain data security. In particular, the paper provides a thorough discussion of the attack techniques and vulnerabilities that are specific to each tier, along with a detailed look at mitigating techniques. We reveal the deep dynamics of these security concerns by closely investigating the fundamental causes of attacks at various blockchain tiers. We clarify mitigation methods for known vulnerabilities and offer new information on recently developed attack vectors. We also discuss the implications of quantum computing in blockchain and the weaknesses in the current technology that can be exploited in the future. Our study advances the field of blockchain security and privacy research while also contributing to our understanding of blockchain vulnerabilities and attacks. This survey paper is a useful tool for readers who want to learn more about the intricacies of blockchain security. It also invites researchers to help strengthen blockchain privacy and security, paving the way for further developments in this dynamic and ever-evolving field.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:09:53.242Z

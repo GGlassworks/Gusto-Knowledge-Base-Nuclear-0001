@@ -1,0 +1,12 @@
+# A Novel Generative AI-Based Framework for Anomaly Detection in Multicast Messages in Smart Grid Communications
+
+**Authors:** Aydin Zaboli, Seong Lok Choi, Tai-Jin Song, Junho Hong
+
+## Summary
+Cybersecurity breaches in digital substations can pose significant challenges to the stability and reliability of power system operations. To address these challenges, defense and mitigation techniques are required. Identifying and detecting anomalies in information and communication technology (ICT) is crucial to ensure secure device interactions within digital substations. This paper proposes a task-oriented dialogue (ToD) system for anomaly detection (AD) in datasets of multicast messages e.g., generic object oriented substation event (GOOSE) and sampled value (SV) in digital substations using large language models (LLMs). This model has a lower potential error and better scalability and adaptability than a process that considers the cybersecurity guidelines recommended by humans, known as the human-in-the-loop (HITL) process. Also, this methodology significantly reduces the effort required when addressing new cyber threats or anomalies compared with machine learning (ML) techniques, since it leaves the models complexity and precision unaffected and offers a faster implementation. These findings present a comparative assessment, conducted utilizing standard and advanced performance evaluation metrics for the proposed AD framework and the HITL process. To generate and extract datasets of IEC 61850 communications, a hardware-in-the-loop (HIL) testbed was employed.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:14:18.713Z

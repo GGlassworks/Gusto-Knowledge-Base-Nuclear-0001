@@ -1,0 +1,12 @@
+# SALTY: Explainable Artificial Intelligence Guided Structural Analysis for Hardware Trojan Detection
+
+**Authors:** Tanzim Mahfuz, Pravin Gaikwad, Tasneem Suha, Swarup Bhunia, Prabuddha Chakraborty
+
+## Summary
+Hardware Trojans are malicious modifications in digital designs that can be inserted by untrusted supply chain entities. Hardware Trojans can give rise to diverse attack vectors such as information leakage (e.g. MOLES Trojan) and denial-of-service (rarely triggered bit flip). Such an attack in critical systems (e.g. healthcare and aviation) can endanger human lives and lead to catastrophic financial loss. Several techniques have been developed to detect such malicious modifications in digital designs, particularly for designs sourced from third-party intellectual property (IP) vendors. However, most techniques have scalability concerns (due to unsound assumptions during evaluation) and lead to large number of false positive detections (false alerts). Our framework (SALTY) mitigates these concerns through the use of a novel Graph Neural Network architecture (using Jumping-Knowledge mechanism) for generating initial predictions and an Explainable Artificial Intelligence (XAI) approach for fine tuning the outcomes (post-processing). Experiments show 98% True Positive Rate (TPR) and True Negative Rate (TNR), significantly outperforming state-of-the-art techniques across a large set of standard benchmarks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:01.069Z

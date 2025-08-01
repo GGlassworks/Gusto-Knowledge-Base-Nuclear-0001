@@ -1,0 +1,12 @@
+# Blockchain Based Information Security and Privacy Protection: Challenges and Future Directions using Computational Literature Review
+
+**Authors:** Gauri Shankar, Md Raihan Uddin, Saddam Mukta, Prabhat Kumar, Shareeful Islam, A. K. M. Najmul Islam
+
+## Summary
+Blockchain technology is an emerging digital innovation that has gained immense popularity in enhancing individual security and privacy within Information Systems (IS). This surge in interest is reflected in the exponential increase in research articles published on blockchain technology, highlighting its growing significance in the digital landscape. However, the rapid proliferation of published research presents significant challenges for manual analysis and synthesis due to the vast volume of information. The complexity and breadth of topics, combined with the inherent limitations of human data processing capabilities, make it difficult to comprehensively analyze and draw meaningful insights from the literature. To this end, we adopted the Computational Literature Review (CLR) to analyze pertinent literature impact and topic modelling using the Latent Dirichlet Allocation (LDA) technique. We identified 10 topics related to security and privacy and provided a detailed description of each topic. From the critical analysis, we have observed several limitations, and several future directions are provided as an outcome of this review.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:46.804Z

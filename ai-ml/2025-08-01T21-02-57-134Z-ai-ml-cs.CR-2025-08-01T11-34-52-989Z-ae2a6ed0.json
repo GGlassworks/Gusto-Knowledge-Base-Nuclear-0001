@@ -1,0 +1,12 @@
+# Evaluating Resilience of Encrypted Traffic Classification Against Adversarial Evasion Attacks
+
+**Authors:** Ramy Maarouf, Danish Sattar, Ashraf Matrawy
+
+## Summary
+Machine learning and deep learning algorithms can be used to classify encrypted Internet traffic. Classification of encrypted traffic can become more challenging in the presence of adversarial attacks that target the learning algorithms. In this paper, we focus on investigating the effectiveness of different evasion attacks and see how resilient machine and deep learning algorithms are. Namely, we test C4.5 Decision Tree, K-Nearest Neighbor (KNN), Artificial Neural Network (ANN), Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN). In most of our experimental results, deep learning shows better resilience against the adversarial samples in comparison to machine learning. Whereas, the impact of the attack varies depending on the type of attack.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T11:34:52.990Z

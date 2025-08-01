@@ -1,0 +1,12 @@
+# Decentralized Storage And Self-Sovereign Identity For Document-Based Claims
+
+**Authors:** Bruno Gomes, Samih Eisa, David R. Matos, Miguel L. Pardal
+
+## Summary
+Users increasingly rely on identity providers for accessing online services and resources. However, centralized identity systems often compromise user privacy due to online activity tracking or data breaches. At the same time, many online services require digital copies of physical documents for validation in claims processes, such as providing proof of residence for opening a bank account or verifying medical images for health insurance claims. With centralized solutions, privacy depends entirely on the trusted party, but there are emerging decentralized approaches that offer greater transparency. This article introduces SoverClaim, a decentralized application prototype that empowers users to control their identity and also allows them to present digital documents with privacy. SoverClaim leverages Hyperledger Indy, a blockchain for issuing and presenting self-sovereign digital identities with transparent audit logs, and Storj, a decentralized peer-to-peer service, for secure and decentralized document storage and subsequent deletion. The prototype demonstrates the seamless integration of self-sovereign identities and document-based claims, achieving response times of under 750 ms, making it suitable for timely human interactions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:14:18.001Z

@@ -1,0 +1,12 @@
+# Combining Threat Intelligence with IoT Scanning to Predict Cyber Attack
+
+**Authors:** Jubin Abhishek Soni, Amit Anand, Rajesh Kumar Pandey, Aniket Abhishek Soni
+
+## Summary
+While the Web has become a global platform for communication, malicious actors, including hackers and hacktivist groups, often disseminate ideological content and coordinate activities through the "Dark Web", an obscure counterpart of the conventional web. Presently, challenges such as information overload and the fragmented nature of cyber threat data impede comprehensive profiling of these actors, thereby limiting the efficacy of predictive analyses of their online activities. Concurrently, the proliferation of internet-connected devices has surpassed the global human population, with this disparity projected to widen as the Internet of Things (IoT) expands. Technical communities are actively advancing IoT-related research to address its growing societal integration. This paper proposes a novel predictive threat intelligence framework designed to systematically collect, analyze, and visualize Dark Web data to identify malicious websites and correlate this information with potential IoT vulnerabilities. The methodology integrates automated data harvesting, analytical techniques, and visual mapping tools, while also examining vulnerabilities in IoT devices to assess exploitability. By bridging gaps in cybersecurity research, this study aims to enhance predictive threat modeling and inform policy development, thereby contributing to intelligence research initiatives focused on mitigating cyber risks in an increasingly interconnected digital ecosystem.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:26:21.753Z

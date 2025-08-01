@@ -1,0 +1,12 @@
+# VR-based Blockchain-enabled Data Visualization Framework For Manufacturing Industry
+
+**Authors:** Nitol Saha, Philip Samaha, Ramy Harik
+
+## Summary
+This research proposes a blockchain-based data visualization framework integrated with VR to get manufacturing insights. This framework is implemented at the testbed of the Future Factories Lab at the University of South Carolina. The proposed system aims to enhance understanding, analysis, and decision-making processes by immersing users in a VR environment where complex manufacturing data stored using blockchain is translated into intuitive and interactive representations. The project focuses on two main components: blockchain and VR. Hyperledger Fabric is employed to establish a blockchain network, recording data from the Future Factories testbed. This system captures information from various sources, such as potentiometers on robot grippers to measure grip positioning, load cells to gauge pressure, emergency stop buttons, temperature, speed, and vibration sensors on the conveyors. Whenever predefined conditions are met, pertinent data, including sensor ID, timestamp, value, cause, and importance, is securely recorded in the blockchain, signaling the occurrence of a defect within the cell. Data retrieved from the blockchain system is accessed through 'GET' API requests. A VR application is developed using a cross-platform Unity game engine to visualize the data retrieved from the blockchain database. Meta Quest 3 is used as the targeted Head Mounted VR device. The VR application has two C# scripts: one script to query blockchain data using 'GET' API calls and another script converts the JSON object to text data to visualize in the VR system. The proposed system leverages blockchain technology and VR visualization to deliver immersive, actionable insights using secure data transmission. By embracing the proposed framework, manufacturers can unlock new potential for efficiency, sustainability, and resilience in today's increasingly complex and interconnected manufacturing workplace.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:06:59.334Z

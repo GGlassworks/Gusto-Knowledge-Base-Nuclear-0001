@@ -1,0 +1,12 @@
+# A Multi-Layered Security Analysis of Blockchain Systems: From Attack Vectors to Defense and System Hardening
+
+**Authors:** Yuhuan Yang, Shipeng Ye, Xiaoqi Li
+
+## Summary
+The application of Bitcoin enables people to understand blockchain technology gradually. Bitcoin is a decentralized currency that does not rely on third-party credit institutions, and the core of Bitcoin's underlying technology is blockchain. With the increasing value of Bitcoin and the vigorous development of decentralization, people's research on blockchain is also increasing day by day. Today's blockchain technology has not only made great achievements in the application of Bitcoin, but has also been preliminarily applied in other fields, such as finance, medical treatment, the Internet of Things, and so on. However, with the initial application of blockchain technology on the Internet, the security of blockchain technology has also been widely concerned by people in the industry. For example, whether currency trading platforms, smart contracts, blockchain consensus mechanisms, and other technologies are vulnerable to attacks, and how we can defend against these attacks digitally and optimize the blockchain system is exactly the subject we want to study. For the security of appeal blockchain, this paper first analyzes the security threats faced by the application digital currency trading platform of the blockchain system, then analyzes the security problems of smart contract closely related to blockchain 2.0, and then analyzes and studies the security threats of blockchain public chain, consensus mechanism, and P2P. Finally, combined with the security problems at all levels of the blockchain system we analyze and study how to optimize the security of the blockchain system.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:03:20.923Z

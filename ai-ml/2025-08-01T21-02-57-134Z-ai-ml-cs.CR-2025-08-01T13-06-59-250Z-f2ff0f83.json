@@ -1,0 +1,12 @@
+# Blockchain Interoperability in UAV Networks: State-of-the-art and Open Issues
+
+**Authors:** Ruba Alkadi, Noura Alnuaimi, Abdulhadi Shoufan, Chan Yeun
+
+## Summary
+The breakthrough of blockchain technology has facilitated the emergence and deployment of a wide range of Unmanned Aerial Vehicles (UAV) network-based applications. Yet, the full utilization of these applications is still limited due to the fact that each application is operating on an isolated blockchain. Thus, it is inevitable to orchestrate these blockchain fragments by introducing a cross-blockchain platform that governs the inter-communication and transfer of assets in the UAV networks context. In this paper, we provide an up-to-date survey of blockchain-based UAV networks applications. We also survey the literature on the state-of-the-art cross blockchain frameworks to highlight the latest advances in the field. Based on the outcomes of our survey, we introduce a spectrum of scenarios related to UAV networks that may leverage the potentials of the currently available cross-blockchain solutions. Finally, we identify open issues and potential challenges associated with the application of a cross-blockchain scheme for UAV networks that will hopefully guide future research directions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:06:59.250Z

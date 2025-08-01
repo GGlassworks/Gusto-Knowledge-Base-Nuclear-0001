@@ -1,0 +1,12 @@
+# Cross-chain Interaction Model In a Fully Verified Way
+
+**Authors:** Hong Su
+
+## Summary
+There are different kinds of blockchains, which have been applied in various areas. Blockchains are relatively independent systems that are apt to form isolated data islands. Then cross-chain interaction is proposed to connect different blockchains. However, the current cross-chain methods do not maintain the security of the original blockchain. They either depend on a less secure third-party system or a less secure method. This makes the cross-chain interaction less secure than the original blockchains (the security downgrade issues), or the cross-chain interaction can be done even if the paired blockchain does not exist (the blockchain invisible issue). In this paper, we first propose a system interaction model and use it to analyze the possible security issues. Based on conclusions got from the proposed model, we propose the cross-chain method that verifies the data of the paired blockchain by the consensus algorithm of the paired blockchain (the CIFuV method). With this method, the cross-chain interaction can be as the same security as in the paired blockchain. At last, we evaluate the security issues during the system interaction process, and the possibility to have the CIFuV model on the public blockchains.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:05:03.771Z

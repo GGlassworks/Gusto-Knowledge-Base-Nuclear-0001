@@ -1,0 +1,12 @@
+# On performance of PBFT for IoT-applications with constrained devices
+
+**Authors:** Yaroslav Meshcheryakov, Anna Melman, Oleg Evsutin, Vladimir Morozov, Yevgeni Koucheryavy
+
+## Summary
+Cyber-physical systems and the Internet of things (IoT) is becoming an integral part of the digital society. The use of IoT services improves human life in many ways. Protection against cyber threats is an important aspect of the functioning of IoT devices. Malicious activities lead to confidential data leakages and incorrect performance of devices are becoming critical. Therefore, development of effective solutions that can protect both IoT devices data and data exchange networks turns in to a real challenge. This study provides a critical analysis of the feasibility of using blockchain technology to protect constrained IoT devices data, justifies the choice of Practical Byzantine Fault Tolerance (PBFT) consensus algorithm for implementation on such devices, and simulates the main distributed ledger scenarios using PBFT. The simulation results demonstrate the efficiency of the blockchain technology for constrained devices and make it possible to evaluate the applicability limits of the chosen consensus algorithm.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:16:16.480Z

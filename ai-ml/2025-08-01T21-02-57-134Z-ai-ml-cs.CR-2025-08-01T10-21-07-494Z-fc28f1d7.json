@@ -1,0 +1,12 @@
+# CHAINGE: A Blockchain Solution to Automate Payment Detail Updates to Subscription Services
+
+**Authors:** David Buckley, Gueltoum Bendiab, Stavros Shiaeles, Nick Savage, Nicholas Kolokotronis
+
+## Summary
+The rise of the subscription-based business model has led to a corresponding increase in the number of subscriptions where a customer needs to manage their payments. This management of payments for multiple subscriptions has become a very complicated and insecure task for customers, especially when it comes to renewing payment details when the card is lost, stolen, or expires. In addition, this, mostly manual, process is vulnerable to human error, digital frauds, and data breaches, according to security reports. Thus, in this paper, we propose a novel approach to automate, manage and simplify the Financial Supply Chain involved in the process of updating and managing payments to user subscriptions. This is done by utilising the Hyperledger Sawtooth blockchain framework, that allows a consumer to enter their payment card details in a central digital wallet and link their subscriptions to their cards. The card being updated triggers an event on the blockchain, which allow for the payment details to be updated on subscription systems automatically. The verification tests performed on the prototype of the proposed system shows that its current implementation has been securely achieved.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:07.494Z

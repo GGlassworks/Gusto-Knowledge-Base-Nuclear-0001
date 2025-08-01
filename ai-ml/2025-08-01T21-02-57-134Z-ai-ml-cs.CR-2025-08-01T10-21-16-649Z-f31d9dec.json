@@ -1,0 +1,12 @@
+# SecureRights: A Blockchain-Powered Trusted DRM Framework for Robust Protection and Asserting Digital Rights
+
+**Authors:** Tiroshan Madushanka, Dhammika S. Kumara, Atheesh A. Rathnaweera
+
+## Summary
+In the dynamic realm of digital content, safeguarding intellectual property rights poses critical challenges. This paper presents "SecureRights," an innovative Blockchain-based Trusted Digital Rights Management (DRM) framework. It strengthens the defence against unauthorized use and streamlines the claim of digital rights. Utilizing blockchain, digital watermarking, perceptual hashing, Quick Response (QR) codes, and the Interplanetary File System (IPFS), SecureRights securely stores watermark information on the blockchain with timestamp authentication. Incorporating perceptual hashing generates robust hash tokens based on image structure. The addition of QR codes enhances the watermarking, offering a comprehensive solution for resilient intellectual property rights protection. Rigorous evaluations affirm SecureRights' resilience against various attacks, establishing its efficacy in safeguarding digital content and simplifying rightful ownership assertion.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:16.649Z

@@ -1,0 +1,12 @@
+# Toward Low-Cost and Stable Blockchain Networks
+
+**Authors:** Minghong Fang, Jia Liu
+
+## Summary
+Envisioned to be the future of secured distributed systems, blockchain networks have received increasing attention from both the industry and academia in recent years. However, blockchain mining processes demand high hardware costs and consume a vast amount of energy (studies have shown that the amount of energy consumed in Bitcoin mining is almost the same as the electricity used in Ireland). To address the high mining cost problem of blockchain networks, in this paper, we propose a blockchain mining resources allocation algorithm to reduce the mining cost in PoW-based (proof-of-work-based) blockchain networks. We first propose an analytical queueing model for general blockchain networks. In our queueing model, transactions arrive randomly to the queue and are served in a batch manner with unknown service rate probability distribution and agnostic to any priority mechanism. Then, we leverage the Lyapunov optimization techniques to propose a dynamic mining resources allocation algorithm (DMRA), which is parameterized by a tuning parameter $K&gt;0$. We show that our algorithm achieves an $[O(1/K), O(K)]$ cost-optimality-gap-vs-delay tradeoff. Our simulation results also demonstrate the effectiveness of DMRA in reducing mining costs.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:04:13.486Z

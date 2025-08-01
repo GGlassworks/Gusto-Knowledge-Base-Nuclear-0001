@@ -1,0 +1,12 @@
+# Secure Regenerating Codes for Reducing Storage and Bootstrap Costs in Sharded Blockchains
+
+**Authors:** Divija Swetha Gadiraju, V. Lalitha, Vaneet Aggarwal
+
+## Summary
+Blockchain is a distributed ledger with wide applications. Due to the increasing storage requirement for blockchains, the computation can be afforded by only a few miners. Sharding has been proposed to scale blockchains so that storage and transaction efficiency of the blockchain improves at the cost of security guarantee. This paper aims to consider a new protocol, Secure-Repair-Blockchain (SRB), which aims to decrease the storage cost at the miners. In addition, SRB also decreases the bootstrapping cost, which allows for new miners to easily join a sharded blockchain. In order to reduce storage, coding-theoretic techniques are used in SRB. In order to decrease the amount of data that is transferred to the new node joining a shard, the concept of exact repair secure regenerating codes is used. The proposed blockchain protocol achieves lower storage than those that do not use coding, and achieves lower bootstrapping cost as compared to the different baselines.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:02:28.984Z

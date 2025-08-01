@@ -1,0 +1,12 @@
+# SoK: Blockchain Solutions for Forensics
+
+**Authors:** Thomas K. Dasaklis, Fran Casino, Constantinos Patsakis
+
+## Summary
+As the digitization of information-intensive processes gains momentum in nowadays, the concern is growing about how to deal with the ever-growing problem of cybercrime. To this end, law enforcement officials and security firms use sophisticated digital forensics techniques for analyzing and investigating cybercrimes. However, multi-jurisdictional mandates, interoperability issues, the massive amount of evidence gathered (multimedia, text etc.) and multiple stakeholders involved (law enforcement agencies, security firms etc.) are just a few among the various challenges that hinder the adoption and implementation of sound digital forensics schemes. Blockchain technology has been recently proposed as a viable solution for developing robust digital forensics mechanisms. In this paper, we provide an overview and classification of the available blockchain-based digital forensic tools, and we further describe their main features. We also offer a thorough analysis of the various benefits and challenges of the symbiotic relationship between blockchain technology and the current digital forensics approaches, as proposed in the available literature. Based on the findings, we identify various research gaps, and we suggest future research directions that are expected to be of significant value both for academics and practitioners in the field of digital forensics.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T10:24:47.911Z

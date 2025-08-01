@@ -1,0 +1,12 @@
+# Blockchain Interoperability Landscape
+
+**Authors:** Inwon Kang, Aparna Gupta, Oshani Seneviratne
+
+## Summary
+Blockchain has become a popular emergent technology in many industries. It is suitable for a broad range of applications, from its base role as an immutable distributed ledger to the deployment of distributed applications. Many organizations are adopting the technology, but choosing a specific blockchain implementation in an emerging field exposes them to significant technology risk. Selecting the wrong implementation could expose an organization to security vulnerabilities, reduce access to its target audience, or cause issues in the future when switching to a more mature protocol. Blockchain interoperability aims to solve this adaptability problem by increasing the extensibility of blockchain, enabling the addition of new use cases and features without sacrificing the performance of the original blockchain. However, most existing blockchain platforms need to be designed for interoperability, and simple operations like sending assets across platforms create problems. Cryptographic protocols that are secure in isolation may become insecure when several different (individually secure) protocols are composed. Similarly, utilizing trusted custodians may undercut most of the benefits of decentralization offered by blockchain-based systems. Even though there is some research and development in the field of blockchain interoperability, a characterization of the interoperability solutions for various infrastructure options is lacking. This paper presents a methodology for characterizing blockchain interoperability solutions that will help focus on new developments and evaluate existing and future solutions in this space.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:09:53.413Z

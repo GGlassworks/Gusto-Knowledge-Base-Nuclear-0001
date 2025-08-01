@@ -1,0 +1,12 @@
+# A Circuit Approach to Constructing Blockchains on Blockchains
+
+**Authors:** Ertem Nusret Tas, David Tse, Yifei Wang
+
+## Summary
+Since the creation of Bitcoin 15 years ago, there has been an explosion in the number of permissionless blockchains. Each of these blockchains provides an open ledger that anyone can read from and write to. In this multi-chain world, an important question emerges: how can we build a more secure overlay blockchain by reading from and writing to a given set of blockchains? Drawing an analogy with switching circuits, we approach the problem by defining two basic compositional operations between blockchains, serial and triangular compositions, and use these operations as building blocks to construct general overlay blockchains. Under the partially synchronous setting, we have the following results: 1) the serial composition, between two blockchains, yields an overlay blockchain that is safe if at least one of the two underlay blockchains is safe and that is live if both of them are live; 2) the triangular composition between three blockchains, akin to parallel composition of switching circuits, yields an overlay blockchain that is safe if all underlay blockchains are safe and that is live if over half of them are live; 3) repeated composition of these two basic operations can yield all possible tradeoffs of safety and liveness for an overlay blockchain built on arbitrary number of underlay chains. The results are also extended to the synchronous setting.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:10:48.135Z

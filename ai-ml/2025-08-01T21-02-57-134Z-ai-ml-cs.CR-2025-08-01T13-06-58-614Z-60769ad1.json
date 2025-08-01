@@ -1,0 +1,12 @@
+# BlockChain I/O: Enabling Cross-Chain Commerce
+
+**Authors:** Anwitaman Datta, Daniël Reijsbergen, Jingchi Zhang, Suman Majumder
+
+## Summary
+Blockchain technology enables secure tokens transfers in digital marketplaces, and recent advances in this field provide other desirable properties such as efficiency, privacy, and price stability. However, these properties do not always generalize to a setting across multiple independent blockchains. Despite the growing number of existing blockchain platforms, there is a lack of an overarching framework whose components provide all of the necessary properties for practical cross-chain commerce. We present BlockChain I/O to provide such a framework. BlockChain I/O introduces entities called cross-chain services to relay information between different blockchains. The proposed design ensures that cross-chain services cannot violate transaction safety, and they are furthermore disincentivized from other types of misbehavior through an audit system. BlockChain I/O uses native stablecoins to mitigate price fluctuations, and a decentralized ID system to allow users to prove aspects of their identity without violating privacy. After presenting the core architecture of BlockChain I/O, we demonstrate how to use it to implement a cross-chain marketplace and discuss how its desirable properties continue to hold in the end-to-end system. Finally, we use experimental evaluations to demonstrate BlockChain I/O's practical performance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:06:58.615Z
