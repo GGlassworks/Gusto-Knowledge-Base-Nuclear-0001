@@ -1,0 +1,12 @@
+# Measurement error models: from nonparametric methods to deep neural networks
+
+**Authors:** Zhirui Hu, Zheng Tracy Ke, Jun S Liu
+
+## Summary
+The success of deep learning has inspired recent interests in applying neural networks in statistical inference. In this paper, we investigate the use of deep neural networks for nonparametric regression with measurement errors. We propose an efficient neural network design for estimating measurement error models, in which we use a fully connected feed-forward neural network (FNN) to approximate the regression function $f(x)$, a normalizing flow to approximate the prior distribution of $X$, and an inference network to approximate the posterior distribution of $X$. Our method utilizes recent advances in variational inference for deep neural networks, such as the importance weight autoencoder, doubly reparametrized gradient estimator, and non-linear independent components estimation. We conduct an extensive numerical study to compare the neural network approach with classical nonparametric methods and observe that the neural network approach is more flexible in accommodating different classes of regression functions and performs superior or comparable to the best available method in nearly all settings.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ML
+Collected: 2025-08-01T11:44:24.582Z

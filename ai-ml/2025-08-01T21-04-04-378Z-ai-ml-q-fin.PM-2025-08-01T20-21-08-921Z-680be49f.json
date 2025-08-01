@@ -1,0 +1,12 @@
+# NewsNet-SDF: Stochastic Discount Factor Estimation with Pretrained Language Model News Embeddings via Adversarial Networks
+
+**Authors:** Shunyao Wang, Ming Cheng, Christina Dan Wang
+
+## Summary
+Stochastic Discount Factor (SDF) models provide a unified framework for asset pricing and risk assessment, yet traditional formulations struggle to incorporate unstructured textual information. We introduce NewsNet-SDF, a novel deep learning framework that seamlessly integrates pretrained language model embeddings with financial time series through adversarial networks. Our multimodal architecture processes financial news using GTE-multilingual models, extracts temporal patterns from macroeconomic data via LSTM networks, and normalizes firm characteristics, fusing these heterogeneous information sources through an innovative adversarial training mechanism. Our dataset encompasses approximately 2.5 million news articles and 10,000 unique securities, addressing the computational challenges of processing and aligning text data with financial time series. Empirical evaluations on U.S. equity data (1980-2022) demonstrate NewsNet-SDF substantially outperforms alternatives with a Sharpe ratio of 2.80. The model shows a 471% improvement over CAPM, over 200% improvement versus traditional SDF implementations, and a 74% reduction in pricing errors compared to the Fama-French five-factor model. In comprehensive comparisons, our deep learning approach consistently outperforms traditional, modern, and other neural asset pricing models across all key metrics. Ablation studies confirm that text embeddings contribute significantly more to model performance than macroeconomic features, with news-derived principal components ranking among the most influential determinants of SDF dynamics. These results validate the effectiveness of our multimodal deep learning approach in integrating unstructured text with traditional financial data for more accurate asset pricing, providing new insights for digital intelligent decision-making in financial technology.
+
+
+---
+Category: ai-ml
+Subcategory: q-fin.PM
+Collected: 2025-08-01T20:21:08.921Z

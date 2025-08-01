@@ -1,0 +1,12 @@
+# Coherent Price Systems and Uncertainty-Neutral Valuation
+
+**Authors:** Patrick Beißner
+
+## Summary
+We consider fundamental questions of arbitrage pricing arising when the uncertainty model is given by a set of possible mutually singular probability measures. With a single probability model, essential equivalence between the absence of arbitrage and the existence of an equivalent martingale measure is a folk theorem, see Harrison and Kreps (1979). We establish a microeconomic foundation of sublinear price systems and present an extension result. In this context we introduce a prior dependent notion of marketed spaces and viable price systems. We associate this extension with a canonically altered concept of equivalent symmetric martingale measure sets, in a dynamic trading framework under absence of prior depending arbitrage. We prove the existence of such sets when volatility uncertainty is modeled by a stochastic differential equation, driven by Peng's G-Brownian motions.
+
+
+---
+Category: ai-ml
+Subcategory: q-fin.GN
+Collected: 2025-08-01T20:28:53.551Z

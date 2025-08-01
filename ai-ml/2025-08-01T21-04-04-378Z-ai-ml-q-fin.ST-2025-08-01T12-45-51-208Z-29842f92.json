@@ -1,0 +1,12 @@
+# Neural Network-based Automatic Factor Construction
+
+**Authors:** Jie Fang, Jianwu Lin, Shutao Xia, Yong Jiang, Zhikang Xia, Xiang Liu
+
+## Summary
+Instead of conducting manual factor construction based on traditional and behavioural finance analysis, academic researchers and quantitative investment managers have leveraged Genetic Programming (GP) as an automatic feature construction tool in recent years, which builds reverse polish mathematical expressions from trading data into new factors. However, with the development of deep learning, more powerful feature extraction tools are available. This paper proposes Neural Network-based Automatic Factor Construction (NNAFC), a tailored neural network framework that can automatically construct diversified financial factors based on financial domain knowledge and a variety of neural network structures. The experiment results show that NNAFC can construct more informative and diversified factors than GP, to effectively enrich the current factor pool. For the current market, both fully connected and recurrent neural network structures are better at extracting information from financial time series than convolution neural network structures. Moreover, new factors constructed by NNAFC can always improve the return, Sharpe ratio, and the max draw-down of a multi-factor quantitative investment strategy due to their introducing more information and diversification to the existing factor pool.
+
+
+---
+Category: ai-ml
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:45:51.209Z

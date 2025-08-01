@@ -1,0 +1,12 @@
+# Neural Network Driven, Interactive Design for Nonlinear Optical Molecules Based on Group Contribution Method
+
+**Authors:** Jinming Fan, Chao Qian, Shaodong Zhou
+
+## Summary
+A Lewis-mode group contribution method (LGC) -- multi-stage Bayesian neural network (msBNN) -- evolutionary algorithm (EA) framework is reported for rational design of D-Pi-A type organic small-molecule nonlinear optical materials is presented. Upon combination of msBNN and corrected Lewis-mode group contribution method (cLGC), different optical properties of molecules are afforded accurately and efficiently - by using only a small data set for training. Moreover, by employing the EA model designed specifically for LGC, structural search is well achievable. The logical origins of the well performance of the framework are discussed in detail. Considering that such a theory guided, machine learning framework combines chemical principles and data-driven tools, most likely, it will be proven efficient to solve molecular design related problems in wider fields.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ML
+Collected: 2025-08-01T16:21:02.352Z

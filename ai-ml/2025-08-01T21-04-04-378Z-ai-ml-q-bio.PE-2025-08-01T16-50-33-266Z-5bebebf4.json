@@ -1,0 +1,12 @@
+# An experimental test for genetic constraints in Drosophila melanogaster
+
+**Authors:** Ian Dworkin, David Tack, Jarrod Hadfield
+
+## Summary
+In addition to natural selection, adaptive evolution requires genetic variation to proceed. Yet the G-matrix may have limited 'genetic degrees of freedom', with certain combinations of trait values unavailable to evolution. Such limitations are often referred to as genetic constraints. Unfortunately, clear predictions about when to expect constraints are rarely available. Therefore, we developed an experimental system that provides specific predictions regarding constraints. Such tests are important as disagreements persist regarding the evidence for genetic constraints, possibly due to differences in methodology, study system or both. Numerous measures of genetic constraints have been suggested, and generally focus on whether some axes of G have eigenvalues=~0, indicating a lack of genetic variance.The mutation Ultrabithorax1 causes a mild homeotic transformation of segmental identity. We predicted that this mutation would induce a genetic constraint due to this homeosis. We measured genetic co-variation for a set of traits in a panel of strains with and without Ubx1. As expected, Ubx1 induced homeotic transformations, and altered patterns of allometry. Yet, no changes in correlational structure nor in the distribution of eigenvalues of G were observed. We discuss the role of using genetic manipulations to refine hypotheses of constraints in natural systems.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.PE
+Collected: 2025-08-01T16:50:33.267Z

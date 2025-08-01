@@ -1,0 +1,12 @@
+# Price equations with symmetric supply/demand; implications for fat tails
+
+**Authors:** Carey Caginalp, Gunduz Caginalp
+
+## Summary
+Implementing a set of microeconomic criteria, we develop price dynamics equations using a function of demand/supply with key symmetry properties. The function of demand/supply can be linear or nonlinear. The type of function determines the nature of the tail of the distribution based on the randomness in the supply and demand. For example, if supply and demand are normally distributed, and the function is assumed to be linear, then the density of relative price change has behavior $x^{-2}$ for large $x$ (i.e., large deviations). The exponent approaches $-1$ if the function of supply and demand involves a large exponent. The falloff is exponential, i.e., $e^{-x}$, if the function of supply and demand is logarithmic.
+
+
+---
+Category: ai-ml
+Subcategory: q-fin.MF
+Collected: 2025-08-01T20:35:12.527Z

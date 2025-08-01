@@ -1,0 +1,12 @@
+# Bayesian mixed model inference for genetic association under related samples with brain network phenotype
+
+**Authors:** Xinyuan Tian, Yiting Wang, Selena Wang, Yi Zhao, Yize Zhao
+
+## Summary
+Genetic association studies for brain connectivity phenotypes have gained prominence due to advances in non-invasive imaging techniques and quantitative genetics. Brain connectivity traits, characterized by network configurations and unique biological structures, present distinct challenges compared to other quantitative phenotypes. Furthermore, the presence of sample relatedness in most imaging genetics studies limits the feasibility of adopting existing network-response modeling. In this paper, we fill this gap by proposing a Bayesian network-response mixed-effect model that considers a network-variate phenotype and incorporates population structures including pedigrees and unknown sample relatedness. To accommodate the inherent topological architecture associated with the genetic contributions to the phenotype, we model the effect components via a set of effect subnetworks and impose an inter-network sparsity and intra-network shrinkage to dissect the phenotypic network configurations affected by the risk genetic variant. To facilitate uncertainty quantification of signaling components from both genotype and phenotype sides, we develop a Markov chain Monte Carlo (MCMC) algorithm for posterior inference. We evaluate the performance and robustness of our model through extensive simulations. By further applying the method to study the genetic bases for brain structural connectivity using data from the Human Connectome Project with excessive family structures, we obtain plausible and interpretable results. Beyond brain connectivity genetic studies, our proposed model also provides a general linear mixed-effect regression framework for network-variate outcomes.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ME
+Collected: 2025-08-01T16:49:25.819Z

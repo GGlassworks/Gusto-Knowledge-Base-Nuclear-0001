@@ -1,0 +1,12 @@
+# Optimal rates of approximation by shallow ReLU$^k$ neural networks and applications to nonparametric regression
+
+**Authors:** Yunfei Yang, Ding-Xuan Zhou
+
+## Summary
+We study the approximation capacity of some variation spaces corresponding to shallow ReLU$^k$ neural networks. It is shown that sufficiently smooth functions are contained in these spaces with finite variation norms. For functions with less smoothness, the approximation rates in terms of the variation norm are established. Using these results, we are able to prove the optimal approximation rates in terms of the number of neurons for shallow ReLU$^k$ neural networks. It is also shown how these results can be used to derive approximation bounds for deep neural networks and convolutional neural networks (CNNs). As applications, we study convergence rates for nonparametric regression using three ReLU neural network models: shallow neural network, over-parameterized neural network, and CNN. In particular, we show that shallow neural networks can achieve the minimax optimal rates for learning H\"older functions, which complements recent results for deep neural networks. It is also proven that over-parameterized (deep or shallow) neural networks can achieve nearly optimal rates for nonparametric regression.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ML
+Collected: 2025-08-01T11:35:48.673Z

@@ -1,0 +1,12 @@
+# Time Entangled Quantum Blockchain with Phase Encoding for Classical Data
+
+**Authors:** Ruwanga Konara, Kasun De Zoysa, Anuradha Mahasinghe, Asanka Sayakkara, Nalin Ranasinghe
+
+## Summary
+With rapid advancements in quantum computing, it is widely believed that there will be quantum hardware capable of compromising classical cryptography and hence, the internet and the current information security infrastructure in the coming decade. This is mainly due to the operational realizations of quantum algorithms such as Grover and Shor, to which the current classical encryption protocols are vulnerable. Blockchains, i.e., blockchain data structures and their data, rely heavily on classical cryptography. One approach to secure blockchain is to attempt to achieve information theoretical security by defining blockchain on quantum technologies. There have been two conceptualizations of blockchains on quantum registers: the time-entangled Greenberger-Horne-Zeilinger (GHZ) state blockchain and the quantum hypergraph blockchain. On our part, an attempt is made to conceptualize a new quantum blockchain combining features of both these schemes to achieve the absolute security of the time-temporal GHZ blockchain and the scalability and efficiency of the quantum hypergraph blockchain in the proposed quantum blockchain protocol.
+
+
+---
+Category: ai-ml
+Subcategory: quant-ph
+Collected: 2025-08-01T13:05:03.530Z

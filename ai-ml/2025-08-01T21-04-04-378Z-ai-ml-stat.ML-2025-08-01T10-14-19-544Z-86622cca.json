@@ -1,0 +1,12 @@
+# Towards an AI assistant for power grid operators
+
+**Authors:** Antoine Marot, Alexandre Rozier, Matthieu Dussartre, Laure Crochepierre, Benjamin Donnot
+
+## Summary
+Power grids are becoming more complex to operate in the digital age given the current energy transition to cope with climate change. As a result, real-time decision-making is getting more challenging as the human operator has to deal with more information, more uncertainty, more applications, and more coordination. While supervision has been primarily used to help them make decisions over the last decades, it cannot reasonably scale up anymore. There is a great need for rethinking the human-machine interface under more unified and interactive frameworks. Taking advantage of the latest developments in Human-Machine Interface and Artificial Intelligence, we expose our vision of a new assistant framework relying on an hypervision interface and greater bidirectional interaction. We review the known principles of decision-making driving our assistant design alongside with its supporting assistance functions. We finally share some guidelines to make progress towards the development of such an assistant.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ML
+Collected: 2025-08-01T10:14:19.544Z

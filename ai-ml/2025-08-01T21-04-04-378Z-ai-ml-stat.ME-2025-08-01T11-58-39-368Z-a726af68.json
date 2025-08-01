@@ -1,0 +1,12 @@
+# On Geometric Ergodicity of Additive and Multiplicative Transformation Based Markov Chain Monte Carlo in High Dimensions
+
+**Authors:** Kushal Kumar Dey, Sourabh Bhattacharya
+
+## Summary
+Recently Dutta and Bhattacharya (2013) introduced a novel Markov Chain Monte Carlo methodology that can simultaneously update all the components of high dimensional parameters using simple deterministic transformations of a one-dimensional random variable drawn from any arbitrary distribution defined on a relevant support. The methodology, which the authors refer to as Transformation-based Markov Chain Monte Carlo (TMCMC), greatly enhances computational speed and acceptance rate in high-dimensional problems. Two significant transformations associated with TMCMC are additive and multiplicative transformations. Combinations of additive and multiplicative transformations are also of much interest. In this work we investigate geometric ergodicity associated with additive and multiplicative TMCMC, along with their combinations, and illustrate their efficiency in practice with simulation studies.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ME
+Collected: 2025-08-01T11:58:39.369Z

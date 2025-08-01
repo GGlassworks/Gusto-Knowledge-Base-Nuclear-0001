@@ -1,0 +1,12 @@
+# AI-based analysis of super-resolution microscopy: Biological discovery in the absence of ground truth
+
+**Authors:** Ivan R. Nabi, Ben Cardoen, Ismail M. Khater, Guang Gao, Timothy H. Wong, Ghassan Hamarneh
+
+## Summary
+Super-resolution microscopy, or nanoscopy, enables the use of fluorescent-based molecular localization tools to study molecular structure at the nanoscale level in the intact cell, bridging the mesoscale gap to classical structural biology methodologies. Analysis of super-resolution data by artificial intelligence (AI), such as machine learning, offers tremendous potential for discovery of new biology, that, by definition, is not known and lacks ground truth. Herein, we describe the application of weakly supervised paradigms to super-resolution microscopy and its potential to enable the accelerated exploration of the nanoscale architecture of subcellular macromolecules and organelles.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.SC
+Collected: 2025-08-01T16:36:26.489Z

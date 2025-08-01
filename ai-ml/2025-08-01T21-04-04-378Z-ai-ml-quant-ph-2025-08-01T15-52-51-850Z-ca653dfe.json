@@ -1,0 +1,12 @@
+# Quantum Information Engines with Many-Body States attaining optimal Extractable Work with Quantum Control
+
+**Authors:** J. M. Diazdelacruz, M. A. Martin-Delgado
+
+## Summary
+We introduce quantum information engines that extract work from quantum states and a single thermal reservoir. They may operate under three general conditions: i/ Unitarily Steered evolution (US); ii/ Irreversible Thermalization (IT) and iii/ Isothermal Relaxation (IR), and hence are called USITIR machines. They include novel engines without traditional feedback control mechanisms, as well as versions which also include them. Explicit constructions of USITIR engines are presented for one- and two-qubit states and their maximum extractable work is computed, which is optimal. Optimality is achieved when the notions of controllable thermalizability and density matrix controllability are fullfilled. Then, many-body extensions of USITIR engines are also analyzed and conditions for optimal work extraction are identified. When they are not met, we measure their lack of optimality by means of newly defined uncontrollable entropies, that are explicitly computed for some selected examples. This includes cases of distinguishable and indistinguishable particles.
+
+
+---
+Category: ai-ml
+Subcategory: quant-ph
+Collected: 2025-08-01T15:52:51.850Z

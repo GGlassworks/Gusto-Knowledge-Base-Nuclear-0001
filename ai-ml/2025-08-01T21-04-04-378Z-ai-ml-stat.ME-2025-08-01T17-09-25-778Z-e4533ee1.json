@@ -1,0 +1,12 @@
+# Bayesian Semiparametric Mixed Effects Markov Chains
+
+**Authors:** Abhra Sarkar, Jonathan Chabout, Joshua Jones Macopson, Erich D. Jarvis, David B. Dunson
+
+## Summary
+Studying the neurological, genetic and evolutionary basis of human vocal communication mechanisms using animal vocalization models is an important field of neuroscience. The data sets typically comprise structured sequences of syllables or `songs' produced by animals from different genotypes under different social contexts. We develop a novel Bayesian semiparametric framework for inference in such data sets. Our approach is built on a novel class of mixed effects Markov transition models for the songs that accommodates exogenous influences of genotype and context as well as animal-specific heterogeneity. We design efficient Markov chain Monte Carlo algorithms for posterior computation. Crucial advantages of the proposed approach include its ability to provide insights into key scientific queries related to global and local influences of the exogenous predictors on the transition dynamics via automated tests of hypotheses. The methodology is illustrated using simulation experiments and the aforementioned motivating application in neuroscience.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ME
+Collected: 2025-08-01T17:09:25.779Z

@@ -1,0 +1,12 @@
+# Quantum Capsule Networks
+
+**Authors:** Zidu Liu, Pei-Xin Shen, Weikang Li, L. -M. Duan, Dong-Ling Deng
+
+## Summary
+Capsule networks, which incorporate the paradigms of connectionism and symbolism, have brought fresh insights into artificial intelligence. The capsule, as the building block of capsule networks, is a group of neurons represented by a vector to encode different features of an entity. The information is extracted hierarchically through capsule layers via routing algorithms. Here, we introduce a quantum capsule network (dubbed QCapsNet) together with an efficient quantum dynamic routing algorithm. To benchmark the performance of the QCapsNet, we carry out extensive numerical simulations on the classification of handwritten digits and symmetry-protected topological phases, and show that the QCapsNet can achieve an enhanced accuracy and outperform conventional quantum classifiers evidently. We further unpack the output capsule state and find that a particular subspace may correspond to a human-understandable feature of the input data, which indicates the potential explainability of such networks. Our work reveals an intriguing prospect of quantum capsule networks in quantum machine learning, which may provide a valuable guide towards explainable quantum artificial intelligence.
+
+
+---
+Category: ai-ml
+Subcategory: quant-ph
+Collected: 2025-08-01T10:18:35.947Z

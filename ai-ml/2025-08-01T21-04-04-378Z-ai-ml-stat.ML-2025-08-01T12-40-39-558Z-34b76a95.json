@@ -1,0 +1,12 @@
+# Generative Models for Stochastic Processes Using Convolutional Neural Networks
+
+**Authors:** Fernando Fernandes Neto
+
+## Summary
+The present paper aims to demonstrate the usage of Convolutional Neural Networks as a generative model for stochastic processes, enabling researchers from a wide range of fields (such as quantitative finance and physics) to develop a general tool for forecasts and simulations without the need to identify/assume a specific system structure or estimate its parameters.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ML
+Collected: 2025-08-01T12:40:39.559Z

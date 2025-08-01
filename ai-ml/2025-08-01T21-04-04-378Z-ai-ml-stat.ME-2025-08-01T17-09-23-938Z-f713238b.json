@@ -1,0 +1,12 @@
+# On the interpretability and computational reliability of frequency-domain Granger causality
+
+**Authors:** Luca Faes, Sebastiano Stramaglia, Daniele Marinazzo
+
+## Summary
+This is a comment to the paper 'A study of problems encountered in Granger causality analysis from a neuroscience perspective'. We agree that interpretation issues of Granger Causality in Neuroscience exist (partially due to the historical unfortunate use of the name 'causality', as nicely described in previous literature). On the other hand we think that the paper uses a formulation of Granger causality which is outdated (albeit still used), and in doing so it dismisses the measure based on a suboptimal use of it. Furthermore, since data from simulated systems are used, the pitfalls that are found with the used formulation are intended to be general, and not limited to neuroscience. It would be a pity if this paper, even written in good faith, became a wildcard against all possible applications of Granger Causality, regardless of the hard work of colleagues aiming to seriously address the methodological and interpretation pitfalls. In order to provide a balanced view, we replicated their simulations used the updated State Space implementation, proposed already some years ago, in which the pitfalls are mitigated or directly solved.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ME
+Collected: 2025-08-01T17:09:23.939Z

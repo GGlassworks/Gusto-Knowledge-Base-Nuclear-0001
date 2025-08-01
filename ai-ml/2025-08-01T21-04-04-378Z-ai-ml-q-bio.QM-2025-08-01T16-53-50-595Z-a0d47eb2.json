@@ -1,0 +1,12 @@
+# GENEVIC: GENetic data Exploration and Visualization via Intelligent interactive Console
+
+**Authors:** Anindita Nath, Savannah Mwesigwa, Yulin Dai, Xiaoqian Jiang, Zhongming Zhao
+
+## Summary
+Summary: The vast generation of genetic data poses a significant challenge in efficiently uncovering valuable knowledge. Introducing GENEVIC, an AI-driven chat framework that tackles this challenge by bridging the gap between genetic data generation and biomedical knowledge discovery. Leveraging generative AI, notably ChatGPT, it serves as a biologist's 'copilot'. It automates the analysis, retrieval, and visualization of customized domain-specific genetic information, and integrates functionalities to generate protein interaction networks, enrich gene sets, and search scientific literature from PubMed, Google Scholar, and arXiv, making it a comprehensive tool for biomedical research. In its pilot phase, GENEVIC is assessed using a curated database that ranks genetic variants associated with Alzheimer's disease, schizophrenia, and cognition, based on their effect weights from the Polygenic Score Catalog, thus enabling researchers to prioritize genetic variants in complex diseases. GENEVIC's operation is user-friendly, accessible without any specialized training, secured by Azure OpenAI's HIPAA-compliant infrastructure, and evaluated for its efficacy through real-time query testing. As a prototype, GENEVIC is set to advance genetic research, enabling informed biomedical decisions. Availability and implementation: GENEVIC is publicly accessible at https://genevic-anath2024.streamlit.app. The underlying code is open-source and available via GitHub at https://github.com/anath2110/GENEVIC.git.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:53:50.596Z

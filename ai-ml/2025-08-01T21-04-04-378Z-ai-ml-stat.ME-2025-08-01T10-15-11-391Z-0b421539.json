@@ -1,0 +1,12 @@
+# Taming heavy-tailed features by shrinkage
+
+**Authors:** Ziwei Zhu, Wenjing Zhou
+
+## Summary
+In this work, we focus on a variant of the generalized linear model (GLM) called corrupted GLM (CGLM) with heavy-tailed features and responses. To robustify the statistical inference on this model, we propose to apply $\ell_4$-norm shrinkage to the feature vectors in the low-dimensional regime and apply elementwise shrinkage to them in the high-dimensional regime. Under bounded fourth moment assumptions, we show that the maximum likelihood estimator (MLE) based on the shrunk data enjoys nearly the minimax optimal rate with an exponential deviation bound. Our simulations demonstrate that the proposed feature shrinkage significantly enhances the statistical performance in linear regression and logistic regression on heavy-tailed data. Finally, we apply our shrinkage principle to guard against mislabeling and image noise in the human-written digit recognition problem. We add an $\ell_4$-norm shrinkage layer to the original neural net and reduce the testing misclassification rate by more than $30\%$ relatively in the presence of mislabeling and image noise.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ME
+Collected: 2025-08-01T10:15:11.392Z

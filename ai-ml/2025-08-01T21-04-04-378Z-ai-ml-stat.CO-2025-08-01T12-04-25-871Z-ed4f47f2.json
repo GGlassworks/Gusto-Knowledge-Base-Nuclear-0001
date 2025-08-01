@@ -1,0 +1,12 @@
+# An Inverse Normal Transformation Solution for the comparison of two samples that contain both paired observations and independent observations
+
+**Authors:** Ben Derrick, Paul White, Deirdre Toher
+
+## Summary
+Inverse normal transformations applied to the partially overlapping samples t-tests by Derrick et.al. (2017) are considered for their Type I error robustness and power. The inverse normal transformation solutions proposed in this paper are shown to maintain Type I error robustness. For increasing degrees of skewness they also offer improved power relative to the parametric partially overlapping samples t-tests. The power when using inverse normal transformation solutions are comparable to rank based non-parametric solutions.
+
+
+---
+Category: ai-ml
+Subcategory: stat.CO
+Collected: 2025-08-01T12:04:25.872Z

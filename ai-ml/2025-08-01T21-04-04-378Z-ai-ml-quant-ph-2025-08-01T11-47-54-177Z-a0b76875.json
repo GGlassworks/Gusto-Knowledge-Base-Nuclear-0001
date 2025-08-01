@@ -1,0 +1,12 @@
+# Exploring Quantum Neural Networks for the Discovery and Implementation of Quantum Error-Correcting Codes
+
+**Authors:** A. Chalkiadakis, M. Theocharakis, G. D. Barmparis, G. P. Tsironis
+
+## Summary
+We investigate the use of Quantum Neural Networks for discovering and implementing quantum error-correcting codes. Our research showcases the efficacy of Quantum Neural Networks through the successful implementation of the Bit-Flip quantum error-correcting code using a Quantum Autoencoder, effectively correcting bit-flip errors in arbitrary logical qubit states. Additionally, we employ Quantum Neural Networks to restore states impacted by Amplitude Damping by utilizing an approximative 4-qubit error-correcting codeword. Our models required modification to the initially proposed Quantum Neural Network structure to avoid barren plateaus of the cost function and improve training time. Moreover, we propose a strategy that leverages Quantum Neural Networks to discover new encryption protocols tailored for specific quantum channels. This is exemplified by learning to generate logical qubits explicitly for the bit-flip channel. Our modified Quantum Neural Networks consistently outperformed the standard implementations across all tasks.
+
+
+---
+Category: ai-ml
+Subcategory: quant-ph
+Collected: 2025-08-01T11:47:54.178Z

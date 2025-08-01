@@ -1,0 +1,12 @@
+# On the Validity of Bayesian Neural Networks for Uncertainty Estimation
+
+**Authors:** John Mitros, Brian Mac Namee
+
+## Summary
+Deep neural networks (DNN) are versatile parametric models utilised successfully in a diverse number of tasks and domains. However, they have limitations---particularly from their lack of robustness and over-sensitivity to out of distribution samples. Bayesian Neural Networks, due to their formulation under the Bayesian framework, provide a principled approach to building neural networks that address these limitations. This paper describes a study that empirically evaluates and compares Bayesian Neural Networks to their equivalent point estimate Deep Neural Networks to quantify the predictive uncertainty induced by their parameters, as well as their performance in view of this uncertainty. In this study, we evaluated and compared three point estimate deep neural networks against comparable Bayesian neural network alternatives using two well-known benchmark image classification datasets (CIFAR-10 and SVHN).
+
+
+---
+Category: ai-ml
+Subcategory: stat.ML
+Collected: 2025-08-01T11:48:44.663Z

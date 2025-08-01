@@ -1,0 +1,12 @@
+# A Kernel-Based Neural Network for High-dimensional Genetic Risk Prediction Analysis
+
+**Authors:** Xiaoxi Shen, Xiaoran Tong, Qing Lu
+
+## Summary
+Risk prediction capitalizing on emerging human genome findings holds great promise for new prediction and prevention strategies. While the large amounts of genetic data generated from high-throughput technologies offer us a unique opportunity to study a deep catalog of genetic variants for risk prediction, the high-dimensionality of genetic data and complex relationships between genetic variants and disease outcomes bring tremendous challenges to risk prediction analysis. To address these rising challenges, we propose a kernel-based neural network (KNN) method. KNN inherits features from both linear mixed models (LMM) and classical neural networks and is designed for high-dimensional risk prediction analysis. To deal with datasets with millions of variants, KNN summarizes genetic data into kernel matrices and use the kernel matrices as inputs. Based on the kernel matrices, KNN builds a single-layer feedforward neural network, which makes it feasible to consider complex relationships between genetic variants and disease outcomes. The parameter estimation in KNN is based on MINQUE and we show, that under certain conditions, the average prediction error of KNN can be smaller than that of LMM. Simulation studies also confirm the results.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ME
+Collected: 2025-08-01T16:51:38.549Z

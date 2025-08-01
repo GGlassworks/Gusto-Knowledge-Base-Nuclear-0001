@@ -1,0 +1,12 @@
+# Exploratory Visual Analysis for Increasing Data Readiness in Artificial Intelligence Projects
+
+**Authors:** Mattias Tiger, Daniel Jakobsson, Anders Ynnerman, Fredrik Heintz, Daniel Jönsson
+
+## Summary
+We present experiences and lessons learned from increasing data readiness of heterogeneous data for artificial intelligence projects using visual analysis methods. Increasing the data readiness level involves understanding both the data as well as the context in which it is used, which are challenges well suitable to visual analysis. For this purpose, we contribute a mapping between data readiness aspects and visual analysis techniques suitable for different data types. We use the defined mapping to increase data readiness levels in use cases involving time-varying data, including numerical, categorical, and text. In addition to the mapping, we extend the data readiness concept to better take aspects of the task and solution into account and explicitly address distribution shifts during data collection time. We report on our experiences in using the presented visual analysis techniques to aid future artificial intelligence projects in raising the data readiness level.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ME
+Collected: 2025-08-01T19:51:02.559Z
