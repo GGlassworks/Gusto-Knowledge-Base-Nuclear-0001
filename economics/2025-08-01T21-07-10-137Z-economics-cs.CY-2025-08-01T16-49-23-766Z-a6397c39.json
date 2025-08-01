@@ -1,0 +1,12 @@
+# Principles and Policy Recommendations for Comprehensive Genetic Data Governance
+
+**Authors:** Vivek Ramanan, Ria Vinod, Cole Williams, Sohini Ramachandran, Suresh Venkatasubramanian
+
+## Summary
+Genetic data collection has become ubiquitous, producing genetic information about health, ancestry, and social traits. However, unregulated use, especially amid evolving scientific understanding, poses serious privacy and discrimination risks. These risks are intensified by advancing AI, particularly multi-modal systems integrating genetic, clinical, behavioral, and environmental data. In this work, we organize the uses of genetic data along four distinct "pillars", and develop a risk assessment framework that identifies key values any governance system must preserve. In doing so, we draw on current privacy scholarship concerning contextual integrity, data relationality, and the Belmont principle. We apply the framework to four real-world case studies and identify critical gaps in existing regulatory frameworks and specific threats to privacy and personal liberties, particularly through genetic discrimination. Finally, we offer three policy recommendations for genetic data governance that safeguard individual rights in today's under-regulated ecosystem of large-scale genetic data collection and usage.
+
+
+---
+Category: economics
+Subcategory: cs.CY
+Collected: 2025-08-01T16:49:23.767Z

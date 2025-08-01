@@ -1,0 +1,12 @@
+# A Comprehensive Framework for Predictive Computational Modeling of Growth and Remodeling in Tissue-Engineered Cardiovascular Implants
+
+**Authors:** Mahmoud Sesa, Hagen Holthusen, Christian Böhm, Stefan Jockenhövel, Stefanie Reese, Kevin Linka
+
+## Summary
+Developing clinically viable tissue-engineered cardiovascular implants remains a formidable challenge. Achieving reliable and durable outcomes requires a deeper understanding of the fundamental mechanisms driving tissue evolution during in vitro maturation. Although considerable progress has been made in modeling soft tissue growth and remodeling, studies focused on the early stages of tissue engineering remain limited. Here, we present a general, thermodynamically consistent model to predict tissue evolution and mechanical response throughout maturation. The formulation utilizes a stress-driven homeostatic surface to capture volumetric growth, coupled with an energy-based approach to describe collagen densification via the strain energy of the fibers. We further employ a co-rotated intermediate configuration to ensure the model's consistency and generality. The framework is demonstrated with two numerical examples: a uniaxially constrained tissue strip validated against experimental data, and a biaxially constrained specimen subjected to a perturbation load. These results highlight the potential of the proposed model to advance the design and optimization of tissue-engineered implants with clinically relevant performance.
+
+
+---
+Category: economics
+Subcategory: cs.CE
+Collected: 2025-08-01T15:55:44.283Z

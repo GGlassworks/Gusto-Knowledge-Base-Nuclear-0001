@@ -1,0 +1,12 @@
+# Heterogeneous Nucleation and Growth of Sessile Chemically Active Droplets
+
+**Authors:** Noah Ziethen, David Zwicker
+
+## Summary
+Droplets are essential for spatially controlling biomolecules in cells. To work properly, cells need to control the emergence and morphology of droplets. On the one hand, driven chemical reactions can affect droplets profoundly. For instance, reactions can control how droplets nucleate and how large they grow. On the other hand, droplets coexist with various organelles and other structures inside cells, which could affect their nucleation and morphology. To understand the interplay of these two aspects, we study a continuous field theory of active phase separation. Our numerical simulations reveal that reactions suppress nucleation while attractive walls enhance it. Intriguingly, these two effects are coupled, leading to shapes that deviate substantially from the spherical caps predicted for passive systems. These distortions result from anisotropic fluxes responding to the boundary conditions dictated by the Young-Dupr\'e equation. Interestingly, an electrostatic analogy of chemical reactions confirms these effects. We thus demonstrate how driven chemical reactions affect the emergence and morphology of droplets, which could be crucial for understanding biological cells and improving technical applications, e.g., in chemical engineering.
+
+
+---
+Category: economics
+Subcategory: cond-mat.soft
+Collected: 2025-08-01T16:21:01.797Z

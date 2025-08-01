@@ -1,0 +1,12 @@
+# Resolving CAP Through Automata-Theoretic Economic Design: A Unified Mathematical Framework for Real-Time Partition-Tolerant Systems
+
+**Authors:** Craig S Wright
+
+## Summary
+The CAP theorem asserts a trilemma between consistency, availability, and partition tolerance. This paper introduces a rigorous automata-theoretic and economically grounded framework that reframes the CAP trade-off as a constraint optimization problem. We model distributed systems as partition-aware state machines and embed economic incentive layers to stabilize consensus behavior across adversarially partitioned networks. By incorporating game-theoretic mechanisms into the global transition semantics, we define provable bounds on convergence, liveness, and correctness. Our results demonstrate that availability and consistency can be simultaneously preserved within bounded epsilon margins, effectively extending the classical CAP limits through formal economic control.
+
+
+---
+Category: economics
+Subcategory: cs.GT
+Collected: 2025-08-01T20:42:24.113Z

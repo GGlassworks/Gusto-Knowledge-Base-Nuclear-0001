@@ -1,0 +1,12 @@
+# Distant Reading of the German Coalition Deal: Recognizing Policy Positions with BERT-based Text Classification
+
+**Authors:** Michael Zylla, Thomas Haider
+
+## Summary
+Automated text analysis has become a widely used tool in political science. In this research, we use a BERT model trained on German party manifestos to identify the individual parties' contribution to the coalition agreement of 2021.
+
+
+---
+Category: economics
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:17.505Z

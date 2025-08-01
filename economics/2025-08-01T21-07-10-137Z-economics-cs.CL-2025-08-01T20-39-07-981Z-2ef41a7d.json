@@ -1,0 +1,12 @@
+# LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory
+
+**Authors:** Jillian Ross, Yoon Kim, Andrew W. Lo
+
+## Summary
+Humans are not homo economicus (i.e., rational economic beings). As humans, we exhibit systematic behavioral biases such as loss aversion, anchoring, framing, etc., which lead us to make suboptimal economic decisions. Insofar as such biases may be embedded in text data on which large language models (LLMs) are trained, to what extent are LLMs prone to the same behavioral biases? Understanding these biases in LLMs is crucial for deploying LLMs to support human decision-making. We propose utility theory-a paradigm at the core of modern economic theory-as an approach to evaluate the economic biases of LLMs. Utility theory enables the quantification and comparison of economic behavior against benchmarks such as perfect rationality or human behavior. To demonstrate our approach, we quantify and compare the economic behavior of a variety of open- and closed-source LLMs. We find that the economic behavior of current LLMs is neither entirely human-like nor entirely economicus-like. We also find that most current LLMs struggle to maintain consistent economic behavior across settings. Finally, we illustrate how our approach can measure the effect of interventions such as prompting on economic biases.
+
+
+---
+Category: economics
+Subcategory: cs.CL
+Collected: 2025-08-01T20:39:07.982Z

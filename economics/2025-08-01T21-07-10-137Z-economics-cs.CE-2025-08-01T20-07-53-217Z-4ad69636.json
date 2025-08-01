@@ -1,0 +1,12 @@
+# Forecasting with Economic News
+
+**Authors:** Luca Barbaglia, Sergio Consoli, Sebastiano Manzan
+
+## Summary
+The goal of this paper is to evaluate the informational content of sentiment extracted from news articles about the state of the economy. We propose a fine-grained aspect-based sentiment analysis that has two main characteristics: 1) we consider only the text in the article that is semantically dependent on a term of interest (aspect-based) and, 2) assign a sentiment score to each word based on a dictionary that we develop for applications in economics and finance (fine-grained). Our data set includes six large US newspapers, for a total of over 6.6 million articles and 4.2 billion words. Our findings suggest that several measures of economic sentiment track closely business cycle fluctuations and that they are relevant predictors for four major macroeconomic variables. We find that there are significant improvements in forecasting when sentiment is considered along with macroeconomic factors. In addition, we also find that sentiment matters to explains the tails of the probability distribution across several macroeconomic variables.
+
+
+---
+Category: economics
+Subcategory: cs.CE
+Collected: 2025-08-01T20:07:53.218Z

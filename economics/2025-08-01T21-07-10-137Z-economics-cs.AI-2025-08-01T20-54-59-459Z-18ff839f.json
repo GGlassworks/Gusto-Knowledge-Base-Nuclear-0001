@@ -1,0 +1,12 @@
+# Economic Rationality under Specialization: Evidence of Decision Bias in AI Agents
+
+**Authors:** ShuiDe Wen
+
+## Summary
+In the study by Chen et al. (2023) [01], the large language model GPT demonstrated economic rationality comparable to or exceeding the average human level in tasks such as budget allocation and risk preference. Building on this finding, this paper further incorporates specialized agents, such as biotechnology experts and economists, for a horizontal comparison to explore whether specialization can enhance or maintain economic rationality equivalent to that of GPT in similar decision-making scenarios. The results indicate that when agents invest more effort in specialized fields, their decision-making behavior is more prone to 'rationality shift,' specifically manifested as increased violations of GARP (Generalized Axiom of Revealed Preference), decreased CCEI (Critical Cost Efficiency Index), and more significant decision deviations under high-risk conditions. In contrast, GPT and more generalized basic agents maintain a more stable and consistent level of rationality across multiple tasks. This study reveals the inherent conflict between specialization and economic rationality, providing new insights for constructing AI decision-making systems that balance specialization and generalization across various scenarios.
+
+
+---
+Category: economics
+Subcategory: cs.AI
+Collected: 2025-08-01T20:54:59.460Z

@@ -1,0 +1,12 @@
+# NLP4Gov: A Comprehensive Library for Computational Policy Analysis
+
+**Authors:** Mahasweta Chakraborti, Sailendra Akash Bonagiri, Santiago Virgüez-Ruiz, Seth Frey
+
+## Summary
+Formal rules and policies are fundamental in formally specifying a social system: its operation, boundaries, processes, and even ontology. Recent scholarship has highlighted the role of formal policy in collective knowledge creation, game communities, the production of digital public goods, and national social media governance. Researchers have shown interest in how online communities convene tenable self-governance mechanisms to regulate member activities and distribute rights and privileges by designating responsibilities, roles, and hierarchies. We present NLP4Gov, an interactive kit to train and aid scholars and practitioners alike in computational policy analysis. The library explores and integrates methods and capabilities from computational linguistics and NLP to generate semantic and symbolic representations of community policies from text records. Versatile, documented, and accessible, NLP4Gov provides granular and comparative views into institutional structures and interactions, along with other information extraction capabilities for downstream analysis.
+
+
+---
+Category: economics
+Subcategory: cs.HC
+Collected: 2025-08-01T10:24:32.761Z

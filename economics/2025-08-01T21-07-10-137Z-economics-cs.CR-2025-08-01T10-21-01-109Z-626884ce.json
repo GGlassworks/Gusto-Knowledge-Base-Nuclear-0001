@@ -1,0 +1,12 @@
+# Advancing Obfuscation Strategies to Counter China's Great Firewall: A Technical and Policy Perspective
+
+**Authors:** Li Li
+
+## Summary
+China's Great Firewall (GFW) exemplifies one of the most extensive and technologically sophisticated internet censorship frameworks worldwide. Serving as a cornerstone of state-directed digital governance, it integrates a multitude of methods - ranging from DNS manipulation and IP blocking to keyword filtering and active surveillance - to control online information flows. These measures, underpinned by both technical proficiency and administrative oversight, form a formidable obstacle to open communication and data privacy. This paper critically examines the GFW's principal detection techniques, including Deep Packet Inspection (DPI), domain name tampering, and traffic fingerprinting, and analyzes how they align with broader governmental mechanisms. In parallel, we evaluate emerging countermeasures that leverage obfuscation, encryption, and routing innovations to circumvent these restrictions. By situating technical strategies within the broader context of governance and human rights, this work underscores the ongoing and evolving contest between state-imposed internet controls and individual efforts to maintain unrestricted access to digital resources.
+
+
+---
+Category: economics
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:01.109Z

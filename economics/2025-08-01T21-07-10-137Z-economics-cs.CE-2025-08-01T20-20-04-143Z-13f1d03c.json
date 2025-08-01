@@ -1,0 +1,12 @@
+# Forecasting GDP in Europe with Textual Data
+
+**Authors:** Luca Barbaglia, Sergio Consoli, Sebastiano Manzan
+
+## Summary
+We evaluate the informational content of news-based sentiment indicators for forecasting Gross Domestic Product (GDP) and other macroeconomic variables of the five major European economies. Our data set includes over 27 million articles for 26 major newspapers in 5 different languages. The evidence indicates that these sentiment indicators are significant predictors to forecast macroeconomic variables and their predictive content is robust to controlling for other indicators available to forecasters in real-time.
+
+
+---
+Category: economics
+Subcategory: cs.CE
+Collected: 2025-08-01T20:20:04.144Z
