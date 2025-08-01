@@ -1,0 +1,13 @@
+# Design of an Iterative Method for Blockchain Optimization Incorporating DeepMiner and AnoBlock
+
+**Authors:** Shipra Ravi Kumar, Mukta Goyal
+
+## Abstract
+The burgeoning demand for blockchain technology in diverse sectors requires advanced optimization methods to improve the performance, security and privacy. However, today common blockchain mechanisms are effected by problems like suboptimal miner selection processes, susceptibility to abnormal transactions and types of attacks affecting non‐negligible parts of the ecosystem, performance bottlenecks and so forth, rendering them far from scalability and real‐world usage. This paper addresses the problem, by introducing a set of sophisticated methods that solve recent issues and enhances the robustness, scalability, confidentiality in blockchain networks. Firstly, we present “DeepMiner”, a deep learning‐based solution that leverages historical blockchain data samples to infer optimal miner nodes. This method improves the block generation efficiency by optimizing miner node selection in real‐time, which is an essential addition to traditional random or otherwise static methods for selecting miners. Secondly, “AnoBlock” which uses anomaly detection model to detect fraud in blockchain transactions using the statistical methods like Gaussian mixture models and isolation forests. Thirdly, “OptiChain” uses data analytics to dynamically optimize blockchain performance by continuously evaluating live network metrics and the transaction throughout. Lastly, “PrivyChain” which uses privacy preservation techniques such as zero‐knowledge proofs and homomorphic encryption to achieve transaction confidentiality while retaining blockchain transparency. Their solution addresses these issues with a dual approach to protect any sensitive transaction details from being leaked and make it feasible for computations over encrypted data, the result of which aligns blockchain technology with stringent privacy standards.
+
+**Source:** https://www.semanticscholar.org/paper/fc9b1edac16ceafdbf95107a50e3d6457b8b8682
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:45.888Z

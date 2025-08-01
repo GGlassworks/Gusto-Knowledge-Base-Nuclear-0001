@@ -1,0 +1,13 @@
+# A GSO‐based multi‐objective technique for performance optimization of blockchain‐based industrial Internet of things
+
+**Authors:** Kouros Zanbouri, M. Darbandi, Mohammad Nassr, Arash Heidari, Nima Jafari Navimipour, Senay Yalçin
+
+## Abstract
+The latest developments in the industrial Internet of things (IIoT) have opened up a collection of possibilities for many industries. To solve the massive IIoT data security and efficiency problems, a potential approach is considered to satisfy the main needs of IIoT, such as high throughput, high security, and high efficiency, which is named blockchain. The blockchain mechanism is considered a significant approach to boosting data protection and performance. In the quest to amplify the capabilities of blockchain‐based IIoT, a pivotal role is accorded to the Glowworm Swarm Optimization (GSO) algorithm. Inspired by the collaborative brilliance of glowworms in nature, the GSO algorithm offers a unique approach to harmonizing these conflicting aims. This paper proposes a new approach to improve the performance optimization of blockchain‐based IIoT using the GSO algorithm due to the blockchain's contradictory objectives. The proposed blockchain‐based IIoT system using the GSO algorithm addresses scalability challenges typically associated with blockchain technology by efficiently managing interactions among nodes and dynamically adapting to network demands. The GSO algorithm optimizes the allocation of resources and decision‐making, reducing inefficiencies and bottlenecks. The method demonstrates considerable performance improvements through extensive simulations compared to traditional algorithms, offering a more scalable and efficient solution for industrial applications in the context of the IIoT. The extensive simulation and computational study have shown that the proposed method using GSO considerably improves the objective function and blockchain‐based IIoT systems' performance compared to traditional algorithms. It provides more efficient and secure systems for industries and corporations.
+
+**Source:** https://www.semanticscholar.org/paper/d9f101028f88402794e5554d3e0f0c38e7c04971
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:46.082Z

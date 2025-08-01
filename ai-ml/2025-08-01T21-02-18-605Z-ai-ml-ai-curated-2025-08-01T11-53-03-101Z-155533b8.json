@@ -1,0 +1,13 @@
+# Transformers in the Real World: A Survey on NLP Applications
+
+**Authors:** Narendra Patwardhan, S. Marrone, Carlo Sansone
+
+## Abstract
+The field of Natural Language Processing (NLP) has undergone a significant transformation with the introduction of Transformers. From the first introduction of this technology in 2017, the use of transformers has become widespread and has had a profound impact on the field of NLP. In this survey, we review the open-access and real-world applications of transformers in NLP, specifically focusing on those where text is the primary modality. Our goal is to provide a comprehensive overview of the current state-of-the-art in the use of transformers in NLP, highlight their strengths and limitations, and identify future directions for research. In this way, we aim to provide valuable insights for both researchers and practitioners in the field of NLP. In addition, we provide a detailed analysis of the various challenges faced in the implementation of transformers in real-world applications, including computational efficiency, interpretability, and ethical considerations. Moreover, we highlight the impact of transformers on the NLP community, including their influence on research and the development of new NLP models.
+
+**Source:** https://www.semanticscholar.org/paper/e9393a35b37656055d043b494c8f29738a341dec
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:03.101Z

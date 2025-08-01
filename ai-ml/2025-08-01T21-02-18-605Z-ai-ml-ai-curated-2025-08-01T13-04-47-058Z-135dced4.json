@@ -1,0 +1,13 @@
+# Agricultural IoT Data Storage Optimization and Information Security Method Based on Blockchain
+
+**Authors:** Yingding Zhao, Qiude Li, Wenlong Yi, Huanliang Xiong
+
+## Abstract
+Given the issues of low efficiency of agricultural Internet of Things (IoT) data collection and data storage security, this study proposes a fast and reliable storage method for IoT data based on blockchain. Firstly, it performs RC5 encryption for data in the IoT sensor module. Secondly, it aggregates the same batch of collected data in the gateway into a transaction and reconstructs the Merkle ordered tree to verify the data integrity. Finally, it modifies the configuration rules of blockchain to improve the efficiency of blockchain data storage. Compared with experimental results for hash values of blockchain storage data and the stored data itself in the blockchain, the proposed method has significant advantages in data writing, and its efficiency in data reading was nearly 10 times higher than the other methods. At the same time, the method has the advantages of confidentiality, integrity, availability, controllability and non-repudiation of information security. The study can provide a solution for efficient collection and secure storage of agricultural IoT data, and it can provide technical support for realizing decentralized agricultural IoT data collection.
+
+**Source:** https://www.semanticscholar.org/paper/aae992f8d0b00028ead0f99c14a95402d42f0fe9
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:47.058Z

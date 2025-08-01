@@ -1,0 +1,13 @@
+# A Systematic Review of Blockchain Applications
+
+**Authors:** F. A. Sunny, P. Hájek, Michal Munk, Mohammad Zoynul Abedin, Md. Shahriare Satu, Md. Iftekharul Alam Efat, M. Islam
+
+## Abstract
+For this study, the researchers conducted a systematic literature review to answer complex questions about the field of blockchain technology. We used an unbiased systematic review process to find works on blockchain-based applications and developed a Python code that searched various online databases. This paper provides an overview of the characteristics, mode of operation, and applications of blockchains in various domains such as transportation, commerce and industry, privacy and security, the financial sector, government, education, healthcare, and the Internet of Things (IoT). The aim was to identify the key research themes addressed in existing articles within each application domain and suggest future research directions for these domains. We analyzed a set of 750 articles published between 2015 and 2021 that dealt with blockchain applications. We found that financial management and security issues have been the main research focus since 2015. However, the use of blockchain in education has become a central research theme in 2021. Healthcare, IoT, and government applications have also grown in popularity. We furthermore analyzed some of the implementations of privacy mechanisms, as well as the challenges and future directions that need to be addressed for effective blockchain deployment. This study contributes to existing research by providing a comprehensive overview of blockchain application themes and their emerging areas for stakeholders in diverse sectors.
+
+**Source:** https://www.semanticscholar.org/paper/1c49c205600a3d9f9a738ff37c6af16a2aa2a891
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:54.857Z

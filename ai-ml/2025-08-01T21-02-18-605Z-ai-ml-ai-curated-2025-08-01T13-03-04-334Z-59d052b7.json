@@ -1,0 +1,13 @@
+# Blockchain Theory of Programmable Risk: Black Swan Smart Contracts
+
+**Authors:** M. Swan
+
+## Abstract
+This chapter discusses risk in the context of blockchain technology and proposes a theory of programmable risk that can be implemented with Black Swan Smart Contracts. The theory’s foundations are developed from two perspectives: risk theorizing in philosophy, social science, and finance; and black swan financial theory (risk distributions are fat-tailed (Mandelbrotian), not normal (Gaussian)). Event distributions can be formulated as s-curves with convex, linear, and concave segments, such that a desired level of risk may be chosen (convexity equates to lower risk). A blockchain theory of user-selected programmable risk is proposed. Black Swan Smart Contracts instantiate s-curve event distributions such that risk might be more efficiently managed by selecting low-medium-high risk as a standard smart contract parameter. Potential applications of Black Swan Smart Contracts include Insurance as a Digital Service, eBay for Money, Information Markets, and Autonomous Risk Management as a Smart Network property.
+
+**Source:** https://www.semanticscholar.org/paper/37e38b5d93304bfe30372bab0368c2cb2dd1b7db
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:04.334Z

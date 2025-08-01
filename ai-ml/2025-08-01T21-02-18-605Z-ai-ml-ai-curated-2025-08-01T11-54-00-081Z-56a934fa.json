@@ -1,0 +1,13 @@
+# A Multiphysics Design and Optimization Method for Air-Core Planar Transformers in High-Frequency LLC Resonant Converters
+
+**Authors:** G. K. Y. Ho, Yaoran Fang, B. Pong
+
+## Abstract
+Air-core planar transformers are attractive alternatives to ferrite-core transformers for high-frequency power converters, such as LLC resonant converters. Although many design methods have been proposed for LLC converters, most of them are based on traditional ferrite-core transformers. There is a lack of efficient methods to design and optimize air-core planar transformers for high-frequency LLC converters. This paper presents a multiphysics optimal design framework that combines multiple physical models, the progressive bisection design method, and the Bayesian optimization technique to address air-core planar transformer design issues. It has the following contributions. 1) Multiple physical models, including circuit model, magnetoquasistatic model, full-wave electromagnetic model, are built for transformer design and efficiency evaluation. 2) The progressive bisection method and Bayesian optimization algorithm are applied to accelerate the optimal design process. 3) The proposed framework can accurately and efficiently design optimal air-core planar transformers and optimize efficiency in LLC converters. 4) A high-frequency flexible and thin LLC converter is constructed using the optimal design method.
+
+**Source:** https://www.semanticscholar.org/paper/e06ed3376632f8b02bd862b7249c4646f5df51a5
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:54:00.082Z

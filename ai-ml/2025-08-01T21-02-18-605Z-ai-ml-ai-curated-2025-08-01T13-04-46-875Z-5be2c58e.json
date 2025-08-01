@@ -1,0 +1,13 @@
+# Blockchain-Assisted Hybrid Harris Hawks Optimization Based Deep DDoS Attack Detection in the IoT Environment
+
+**Authors:** Iyad A. Katib, Mahmoud Ragab
+
+## Abstract
+The Internet of Things (IoT) is developing as a novel phenomenon that is applied in the growth of several crucial applications. However, these applications continue to function on a centralized storage structure, which leads to several major problems, such as security, privacy, and a single point of failure. In recent years, blockchain (BC) technology has become a pillar for the progression of IoT-based applications. The BC technique is utilized to resolve the security, privacy, and single point of failure (third-part dependency) issues encountered in IoT applications. Conversely, the distributed denial of service (DDoS) attacks on mining pools revealed the existence of vital fault lines amongst the BC-assisted IoT networks. Therefore, the current study designs a hybrid Harris Hawks with sine cosine and a deep learning-based intrusion detection system (H3SC-DLIDS) for a BC-supported IoT environment. The aim of the presented H3SC-DLIDS approach is to recognize the presence of DDoS attacks in the BC-assisted IoT environment. To enable secure communication in the IoT networks, BC technology is used. The proposed H3SC-DLIDS technique designs a H3SC technique by integrating the concepts of Harris Hawks optimization (HHO) and sine cosine algorithm (SCA) for feature selection. For the intrusion detection process, a long short-term memory auto-encoder (LSTM-AE) model is utilized in this study. Finally, the arithmetic optimization algorithm (AOA) is implemented for hyperparameter tuning of the LSTM-AE technique. The proposed H3SC-DLIDS method was experimentally validated using the BoT-IoT database, and the results indicate the superior performance of the proposed H3SC-DLIDS technique over other existing methods, with a maximum accuracy of 99.05%.
+
+**Source:** https://www.semanticscholar.org/paper/a24b3daf6ed51eb7390e4c168b285d32e954b5e3
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:46.875Z

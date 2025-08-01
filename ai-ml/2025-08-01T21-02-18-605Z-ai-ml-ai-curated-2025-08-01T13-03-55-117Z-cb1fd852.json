@@ -1,0 +1,13 @@
+# Blockchain Applications in Agriculture: A Scoping Review
+
+**Authors:** Andreas Sendros, George Drosatos, P. Efraimidis, N. Tsirliganis
+
+## Abstract
+Blockchain is a distributed, immutable ledger technology initially developed to secure cryptocurrency transactions. Following its revolutionary use in cryptocurrencies, blockchain solutions are now being proposed to address various problems in different domains, and it is currently one of the most “disruptive” technologies. This paper presents a scoping review of the scientific literature for exploring the current research area of blockchain applications in the agricultural sector. The aim is to identify the service areas of agriculture where blockchain is used, the blockchain technology used, the data stored in it, its combination with external databases, the reason it is used, and the variety of agricultural products, as well as the level of maturity of the respective approaches. The study follows the PRISMA-ScR methodology. The purpose of conducting these scoping reviews is to identify the evidence in this field and clarify the key concepts. The literature search was conducted in April 2021 using Scopus and Google Scholar, and a systematic selection process identified 104 research articles for detailed study. Our findings show that in the field, although still in the early stages, with the majority of the studies in the design phase, several experiments have been conducted, so a significant percentage of the work is in the implementation or piloting phase. Finally, our research shows that the use of blockchain in this domain mainly concerns the integrity of agricultural production records, the monitoring of production steps, and the monitoring of products. However, other varied and remarkable blockchain applications include incentive mechanisms, a circular economy, data privacy, product certification, and reputation systems. This study is the first scoping review in this area, following a formal systematic literature review methodology and answering research questions that have not yet been addressed.
+
+**Source:** https://www.semanticscholar.org/paper/97d9438fe31cf6cfaf4d65f4684686f2e448efb1
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:55.118Z

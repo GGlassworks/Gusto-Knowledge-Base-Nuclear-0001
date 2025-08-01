@@ -1,0 +1,13 @@
+# Design Optimization Methodology for Planar Transformers for More Electric Aircraft
+
+**Authors:** Mohamed I. Hassan, Niloufar Keshmiri, A. Callegaro, M. F. Cruz, M. Narimani, A. Emadi
+
+## Abstract
+Isolated DC-DC converters are considered the building blocks of modern aircraft electrical power networks. The high-frequency transformer utilized in such converters is the major contributor to the size and weight besides the thermal management system. In this paper, an optimization design methodology aims to minimize the transformer core size and improve the converter performance through optimized winding configurations. The transformer core selection is based on optimizing the maximum flux density while considering different magnetic materials and number of cores in parallel. The transformer core is selected for an interleaved winding configuration and to keep the windings current density below a certain limit. The trade-offs between the converter efficiency and core weight in selecting an optimum switching frequency are presented. Multi-layer minimum gradient (MLMG) winding configurations are proposed to eliminate the high-frequency oscillations (HFO) caused by the transformer parasitics. The proposed configurations resulted in a reduction of the intra-winding capacitance by 15 times with 20$\%$ improvement in the transformer volume as compared to a similar conventional double-layers spiral configurations. Numerical simulations are performed in ANSYS Maxwell to validate the proposed design and the developed analytical models. The effect of the different configurations on the converter performance is verified in the PLECS simulation environment. PLECS simulation results are validated experimentally for the conventional and proposed configurations highlighting the improvements on the performance of the converter.
+
+**Source:** https://www.semanticscholar.org/paper/1445d82ca5bad49b013c4985d153313fd1146cf2
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:59.923Z

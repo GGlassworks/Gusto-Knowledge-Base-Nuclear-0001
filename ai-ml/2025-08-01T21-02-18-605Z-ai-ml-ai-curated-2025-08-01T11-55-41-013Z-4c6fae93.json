@@ -1,0 +1,13 @@
+# Relating transformers to models and neural representations of the hippocampal formation
+
+**Authors:** James C. R. Whittington, Joseph Warren, T. Behrens
+
+## Abstract
+Many deep neural network architectures loosely based on brain networks have recently been shown to replicate neural firing patterns observed in the brain. One of the most exciting and promising novel architectures, the Transformer neural network, was developed without the brain in mind. In this work, we show that transformers, when equipped with recurrent position encodings, replicate the precisely tuned spatial representations of the hippocampal formation; most notably place and grid cells. Furthermore, we show that this result is no surprise since it is closely related to current hippocampal models from neuroscience. We additionally show the transformer version offers dramatic performance gains over the neuroscience version. This work continues to bind computations of artificial and brain networks, offers a novel understanding of the hippocampal-cortical interaction, and suggests how wider cortical areas may perform complex tasks beyond current neuroscience models such as language comprehension.
+
+**Source:** https://www.semanticscholar.org/paper/06e40b7a703079c280f8f0886ac2bd984cd318ce
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:55:41.013Z

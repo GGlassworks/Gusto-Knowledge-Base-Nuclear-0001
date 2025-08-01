@@ -1,0 +1,13 @@
+# Comprehensive comparison between vision transformers and convolutional neural networks for face recognition tasks
+
+**Authors:** Marcos Rodrigo, Carlos Cuevas, Narciso García
+
+## Abstract
+This paper presents a comprehensive comparison between Vision Transformers and Convolutional Neural Networks for face recognition related tasks, including extensive experiments on the tasks of face identification and verification. Our study focuses on six state-of-the-art models: EfficientNet, Inception, MobileNet, ResNet, VGG, and Vision Transformers. Our evaluation of these models is based on five diverse datasets: Labeled Faces in the Wild, Real World Occluded Faces, Surveillance Cameras Face, UPM-GTI-Face, and VGG Face 2. These datasets present unique challenges regarding people diversity, distance from the camera, and face occlusions such as those produced by masks and glasses. Our contribution to the field includes a deep analysis of the experimental results, including a thorough examination of the training and evaluation process, as well as the software and hardware configurations used. Our results show that Vision Transformers outperform Convolutional Neural Networks in terms of accuracy and robustness against distance and occlusions for face recognition related tasks, while also presenting a smaller memory footprint and an impressive inference speed, rivaling even the fastest Convolutional Neural Networks. In conclusion, our study provides valuable insights into the performance of Vision Transformers for face recognition related tasks and highlights the potential of these models as a more efficient solution than Convolutional Neural Networks.
+
+**Source:** https://www.semanticscholar.org/paper/3aecded45a18f1f9f7e0bbf46acca10b81bc7fe7
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T12:04:57.518Z

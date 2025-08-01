@@ -1,0 +1,13 @@
+# Trust Model Concept for IoT Blockchain Applications as Part of the Digital Transformation of Metrology
+
+**Authors:** K. Miličević, Luka Omrčen, M. Köhler, Ivica Lukić
+
+## Abstract
+Trends for the digital transformation of metrology and regulation of metrology through IT have some keywords in common with the main properties of the blockchain, such as traceability, immutability, and machine-readable documents. The possible applicability of the blockchain as an innovative IT solution for metrology regulation is known in the scientific community. Still, blockchain implementation must consider the entire metrology pyramid—the technical aspects and the legal framework intrinsic to metrology. This is also valid for possible IoT blockchain applications. In resolving the issues, this paper applies a bottom-up approach, starting from IoT devices analyzed as oracles and building up to the sole definition of measurement units, thereby discussing technical aspects concerning relevant standardization documents. The resulting trust model concept encompasses the vertical and horizontal traceability of the measurement results (oracle data), where normative standards and legal requirements are crucial for building trust. Conclusively, for practical implementations, it will be necessary to analyze blockchain properties and applicability with a view to the standard requirements, as shown for WELMEC.
+
+**Source:** https://www.semanticscholar.org/paper/94bc163ff97a290ce0e90a870c0ddc896a2596ac
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:55.715Z

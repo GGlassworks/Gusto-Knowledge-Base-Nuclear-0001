@@ -1,0 +1,13 @@
+# A Survey of Blockchain Consensus Protocols
+
+**Authors:** Jie Xu, Cong Wang, Xiaohua Jia
+
+## Abstract
+Blockchain consensus protocols have been a focus of attention since the advent of Bitcoin. Although classic distributed consensus algorithms made significant contributions to the development of blockchain consensus protocols, there are still many issues to be resolved due to the complexity and diversity of the blockchain. In this survey, we summarize the state-of-the-art blockchain consensus protocols. We first introduce the theoretical basis, models, and challenges of blockchain consensus protocols. Then, we present the existing blockchain protocols in the categories of proof-based protocols, committee-based protocols, and other miscellaneous protocols. Finally, we analyze their performance and discuss future research directions by comparing existing protocols.
+
+**Source:** https://www.semanticscholar.org/paper/f7cbaf086a9c37472a1251467c76039bd28562f7
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:02:11.665Z

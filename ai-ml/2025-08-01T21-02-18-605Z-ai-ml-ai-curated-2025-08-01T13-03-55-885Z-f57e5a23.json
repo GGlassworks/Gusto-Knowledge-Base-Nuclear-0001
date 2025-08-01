@@ -1,0 +1,13 @@
+# A systematic literature review on sensitive data protection in blockchain applications
+
+**Authors:** Saba Khanum, K. Mustafa
+
+## Abstract
+Since inception, blockchain has earned significant attention due to its exclusive characteristics and advantages. It has changed the way the transactions are conducted by eradicating the role of third parties and promises to ensure trust among the participants. This technology is emerging as a potential solution to several issues but not without certain security vulnerabilities. In particular, protection of sensitive data is a more critical issue in the absence of a third party. This paper is aimed to report and share the state of the art of sensitive data protection in blockchain applications. The covered aspects include identification of sensitive data, existing techniques to protect sensitive data and to know how real time data compromised by security risks, attacks, threats and vulnerabilities concerning blockchain applications. This paper analysis the tools and techniques used in the past for protecting sensitive data and categorized them. On the basis of research and intuitive findings, methods and techniques are elaborated which can contribute in future in the designing a framework for protection of sensitive data in blockchain applications.
+
+**Source:** https://www.semanticscholar.org/paper/98c6d5c6fdb79f98be7f18d7ca2f96e1a055262f
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:55.886Z

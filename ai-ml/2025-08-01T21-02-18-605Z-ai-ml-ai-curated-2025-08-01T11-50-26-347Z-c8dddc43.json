@@ -1,0 +1,13 @@
+# Comparison of Artificial and Spiking Neural Networks on Digital Hardware
+
+**Authors:** Simon Davidson, S. Furber
+
+## Abstract
+Despite the success of Deep Neural Networks—a type of Artificial Neural Network (ANN)—in problem domains such as image recognition and speech processing, the energy and processing demands during both training and deployment are growing at an unsustainable rate in the push for greater accuracy. There is a temptation to look for radical new approaches to these applications, and one such approach is the notion that replacing the abstract neuron used in most deep networks with a more biologically-plausible spiking neuron might lead to savings in both energy and resource cost. The most common spiking networks use rate-coded neurons for which a simple translation from a pre-trained ANN to an equivalent spike-based network (SNN) is readily achievable. But does the spike-based network offer an improvement of energy efficiency over the original deep network? In this work, we consider the digital implementations of the core steps in an ANN and the equivalent steps in a rate-coded spiking neural network. We establish a simple method of assessing the relative advantages of rate-based spike encoding over a conventional ANN model. Assuming identical underlying silicon technology we show that most rate-coded spiking network implementations will not be more energy or resource efficient than the original ANN, concluding that more imaginative uses of spikes are required to displace conventional ANNs as the dominant computing framework for neural computation.
+
+**Source:** https://www.semanticscholar.org/paper/ac565dc735dae68e6d05d43024f3c20add3773e9
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:50:26.347Z

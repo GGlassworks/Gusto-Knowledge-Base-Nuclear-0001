@@ -1,0 +1,13 @@
+# Convolutions are competitive with transformers for protein sequence pretraining
+
+**Authors:** Kevin Kaichuang Yang, Alex X. Lu, Nicoló Fusi
+
+## Abstract
+Pretrained protein sequence language models have been shown to improve the performance of many prediction tasks, and are now routinely integrated into bioinformatics tools. However, these models largely rely on the Transformer architecture, which scales quadratically with sequence length in both run-time and memory. Therefore, state-of-the-art models have limitations on sequence length. To address this limitation, we investigated if convolutional neural network (CNN) architectures, which scale linearly with sequence length, could be as effective as transformers in protein language models. With masked language model pretraining, CNNs are competitive to and occasionally superior to Transformers across downstream applications while maintaining strong performance on sequences longer than those allowed in the current state-of-the-art Transformer models. Our work suggests that computational efficiency can be improved without sacrificing performance simply by using a CNN architecture instead of a Transformer, and emphasizes the importance of disentangling pretraining task and model architecture.
+
+**Source:** https://www.semanticscholar.org/paper/9ffc8d59270b01def8bde81a8ec1d759a2029dbb
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:03.624Z

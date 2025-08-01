@@ -1,0 +1,13 @@
+# Game Theory-Based Incentive Design for Mitigating Malicious Behavior in Blockchain Networks
+
+**Authors:** Souhail Mssassi, A. A. E. Kalam
+
+## Abstract
+This paper presents an innovative incentive model that utilizes graph and game theories to address the issue of node incentives in decentralized blockchain networks such as EVM blockchains. The lack of incentives for nodes within EVM networks gives rise to potential weaknesses that might be used for various purposes, such as broadcasting fake transactions or withholding blocks. This affects the overall trust and integrity of the network. To address this issue, the current study offers a network model that incorporates the concepts of graph theory and utilizes a matrix representation for reward and trust optimization. Furthermore, this study presents a game-theoretic framework that encourages cooperative conduct and discourages malicious actions, ultimately producing a state of equilibrium according to the Nash equilibrium. The simulations validated the model’s efficacy in addressing fraudulent transactions and emphasized its scalability, security, and fairness benefits. This study makes a valuable contribution to the field of blockchain technology by presenting an incentive model that effectively encourages the development of secure and trusted decentralized systems.
+
+**Source:** https://www.semanticscholar.org/paper/d52ac9b98ab461d91570c68c85d0b212c13c0a77
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:04.047Z

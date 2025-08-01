@@ -1,0 +1,13 @@
+# A Hierarchical and Location-Aware Consensus Protocol for IoT-Blockchain Applications
+
+**Authors:** Hao Guo, Wanxin Li, Mark M. Nejad
+
+## Abstract
+Blockchain-based IoT systems can manage IoT devices and achieve a high level of data integrity, security, and provenance. However, incorporating existing consensus protocols in many IoT systems limits scalability and leads to high computational cost and consensus latency. In addition, location-centric characteristics of many IoT applications paired with limited storage and computing power of IoT devices bring about more limitations, primarily due to the location-agnostic designs in blockchains. We propose a hierarchical and location-aware consensus protocol (LH-Raft) for IoT-blockchain applications inspired by the original Raft protocol to address these limitations. The proposed LH-Raft protocol forms local consensus candidate groups based on nodes’ reputation and distance to elect the leaders in each sub-layer blockchain. It utilizes a threshold signature scheme to reach global consensus and the local and global log replication to maintain consistency for blockchain transactions. To evaluate the performance of LH-Raft, we first conduct an extensive numerical analysis based on the proposed reputation mechanism and the candidate group formation model. We then compare the performance of LH-Raft against the classical Raft protocol from both theoretical and experimental perspectives. We evaluate the proposed threshold signature scheme using Hyperledger Ursa cryptography library to measure various consensus nodes’ signing and verification time. Experimental results show that the proposed LH-Raft protocol is scalable for large IoT applications and significantly reduces the communication cost, consensus latency, and agreement time for consensus processing.
+
+**Source:** https://www.semanticscholar.org/paper/f5b4b6a2e0d330d74b95182c9ef310d295d7992d
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:55.511Z

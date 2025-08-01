@@ -1,0 +1,13 @@
+# MSViT: Training Multiscale Vision Transformers for Image Retrieval
+
+**Authors:** Xue Li, Jiong Yu, Shaochen Jiang, Hongchun Lu, Ziyang Li
+
+## Abstract
+The recently developed vision transformer (ViT) has achieved promising results on image retrieval compared to convolutional neural networks. However, most of these vision transformer-based image retrieval methods use the original ViT model to extract global features, ignoring the importance of local features for image retrieval. In this work, we propose a vision transformer-based multiscale feature fusion image retrieval method (MSViT) to achieve the fusion of global features with local features. The challenge of this research work is how to learn the feature representation ability of transformer model, so as to improve the performance of image retrieval model. First, a transformer-based two-branch network structure is proposed to obtain different scale features by processing image patches with different granularities. Second, we present a multiscale feature fusion strategy, which can efficiently and effectively fuse the feature information of different sizes on two branches. Finally, to more fully utilize the label information to supervise the network training process, we optimize the construction rules for the triplet data. The comparison of experimental results with ten CNN-based and six transformer-based image retrieval methods on four publicly available image datasets shows that our method outperforms the state-of-the-art methods. And ablation experiments show that the designed multiscale feature fusion strategy and improved triplet loss function have an implicit improvement on the performance of MSViT.
+
+**Source:** https://www.semanticscholar.org/paper/a41f37c35ccf99091d3fae27bb1d53ec129c8159
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T12:01:19.876Z

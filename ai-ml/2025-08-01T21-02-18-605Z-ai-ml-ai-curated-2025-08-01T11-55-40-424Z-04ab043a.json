@@ -1,0 +1,13 @@
+# Fast Training of Diffusion Models with Masked Transformers
+
+**Authors:** Hongkai Zheng, Weili Nie, Arash Vahdat, Anima Anandkumar
+
+## Abstract
+We propose an efficient approach to train large diffusion models with masked transformers. While masked transformers have been extensively explored for representation learning, their application to generative learning is less explored in the vision domain. Our work is the first to exploit masked training to reduce the training cost of diffusion models significantly. Specifically, we randomly mask out a high proportion (e.g., 50%) of patches in diffused input images during training. For masked training, we introduce an asymmetric encoder-decoder architecture consisting of a transformer encoder that operates only on unmasked patches and a lightweight transformer decoder on full patches. To promote a long-range understanding of full patches, we add an auxiliary task of reconstructing masked patches to the denoising score matching objective that learns the score of unmasked patches. Experiments on ImageNet-256x256 and ImageNet-512x512 show that our approach achieves competitive and even better generative performance than the state-of-the-art Diffusion Transformer (DiT) model, using only around 30% of its original training time. Thus, our method shows a promising way of efficiently training large transformer-based diffusion models without sacrificing the generative performance.
+
+**Source:** https://www.semanticscholar.org/paper/8c42e56ebc1328c55d4e7641adcdb3d85fed22c3
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:55:40.424Z

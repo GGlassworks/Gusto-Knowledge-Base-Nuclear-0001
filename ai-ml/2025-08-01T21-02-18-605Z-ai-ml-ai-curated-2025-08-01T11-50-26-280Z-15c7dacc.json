@@ -1,0 +1,13 @@
+# Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks
+
+**Authors:** Tomasz Szandała
+
+## Abstract
+The primary neural networks’ decision-making units are activation functions. Moreover, they evaluate the output of networks neural node; thus, they are essential for the performance of the whole network. Hence, it is critical to choose the most appropriate activation function in neural networks calculation. Acharya et al. (2018) suggest that numerous recipes have been formulated over the years, though some of them are considered deprecated these days since they are unable to operate properly under some conditions. These functions have a variety of characteristics, which are deemed essential to successfully learning. Their monotonicity, individual derivatives, and finite of their range are some of these characteristics. This research paper will evaluate the commonly used additive functions, such as swish, ReLU, Sigmoid, and so forth. This will be followed by their properties, own cons and pros, and particular formula application recommendations.
+
+**Source:** https://www.semanticscholar.org/paper/be753166d1613e3c030a5b03823146b03ea40953
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:50:26.280Z

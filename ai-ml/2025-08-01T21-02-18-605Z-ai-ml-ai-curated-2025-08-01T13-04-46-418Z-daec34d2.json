@@ -1,0 +1,13 @@
+# Joint Optimization in Blockchain- and MEC-Enabled Space–Air–Ground Integrated Networks
+
+**Authors:** Jianbo Du, Jiaxuan Wang, Aijing Sun, Junsuo Qu, Jianjun Zhang, Celimuge Wu, Dusist Niyato
+
+## Abstract
+In the 6G era, space–air–ground integrated networks (SAGINs) can provide ubiquitous coverage for Internet of Things (IoT) devices. Multiaccess edge computing (MEC) and blockchain are two enabling technologies, which can further enhance the services capabilities of SAGINs, where MEC demonstrates a notable capability in efficiently minimizing both the task execution delays and system energy consumption, and blockchain can provide trust guarantee for task offloading and wireless data transmission among the entities operated by different operators in SAGIN. In this article, we present an MEC and blockchain enabled SAGIN architecture, which consists of two subsystems. In the MEC subsystem, a satellite and multiple unmanned aerial vehicles (UAVs) act as the edge nodes to provide IoT devices with computing power. Moreover, the satellite serves as the block generator and the client, and the UAVs serve as the consensus nodes of the blockchain subsystem. We intend to minimize the energy consumption within the network, which is achieved through the IoT devices’ task segmentation, the UAVs, and satellite’s bandwidth allocation among their served IoT devices. And moreover, the computing power of UAVs and the satellite also allocated in task processing and blockchain consensus. Considering the high dynamics of the network, it is impossible to obtain real-time and accurate channel information, so we remodel this problem as a Markov decision process, and propose a low-complexity adaptive optimization algorithm based on the deep deterministic policy gradient (DDPG). Our simulation results indicate that the proposed algorithm exhibits commendable performance in minimizing the network energy consumption and DDPG agent’s accumulated reward maximization.
+
+**Source:** https://www.semanticscholar.org/paper/6ad7c42c734a732151343968493e16e97f6fd19d
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:46.418Z

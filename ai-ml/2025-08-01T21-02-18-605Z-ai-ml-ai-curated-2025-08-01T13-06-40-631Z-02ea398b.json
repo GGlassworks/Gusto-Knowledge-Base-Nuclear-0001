@@ -1,0 +1,13 @@
+# A Review on E-Voting Based on Blockchain Models
+
+**Authors:** S. Salman, Sufyan T. Faraj Al-Janabi, A. Sagheer
+
+## Abstract
+    Developing a solid e-voting system that offers fairness and privacy for users is a challenging objective. This paper is trying to address whether blockchain can be used to build an efficient e-voting system, also, this research has specified four blockchain technologies with their features and limitations. Many papers have been reviewed in a study covered ten years from 2011 to 2020. As a result of the study, the blockchain platform can be a successful public ledger to implement an e-voting system. Four blockchain technologies have been noticed from this study. These are blockchain using smart contracts, blockchain relying on Zcash platform, blockchain programmed from scratch, and blockchain depending on digital signature. Each blockchain model has details about its features and limitations. Finally, this study suggests developing a blockchain platform that can avoid limitations of currently used blockchain platforms by ensuring authentication, privacy, security for remote e-voting processes.
+
+**Source:** https://www.semanticscholar.org/paper/c6c61580f13acce3b80dc09ff98a6b3cefd55b04
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:06:40.631Z

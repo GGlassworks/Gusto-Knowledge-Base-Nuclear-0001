@@ -1,0 +1,13 @@
+# Comparison between vision transformers and convolutional neural networks to predict non-small lung cancer recurrence
+
+**Authors:** A. Fanizzi, Federico Fadda, M. C. Comes, Samantha Bove, A. Catino, Erika Francesca Di Benedetto, Angelo Milella, M. Montrone, A. Nardone, Clara Soranno, A. Rizzo, D. Guven, D. Galetta, R. Massafra
+
+## Abstract
+Non-Small cell lung cancer (NSCLC) is one of the most dangerous cancers, with 85% of all new lung cancer diagnoses and a 30–55% of recurrence rate after surgery. Thus, an accurate prediction of recurrence risk in NSCLC patients during diagnosis could be essential to drive targeted therapies preventing either overtreatment or undertreatment of cancer patients. The radiomic analysis of CT images has already shown great potential in solving this task; specifically, Convolutional Neural Networks (CNNs) have already been proposed providing good performances. Recently, Vision Transformers (ViTs) have been introduced, reaching comparable and even better performances than traditional CNNs in image classification. The aim of the proposed paper was to compare the performances of different state-of-the-art deep learning algorithms to predict cancer recurrence in NSCLC patients. In this work, using a public database of 144 patients, we implemented a transfer learning approach, involving different Transformers architectures like pre-trained ViTs, pre-trained Pyramid Vision Transformers, and pre-trained Swin Transformers to predict the recurrence of NSCLC patients from CT images, comparing their performances with state-of-the-art CNNs. Although, the best performances in this study are reached via CNNs with AUC, Accuracy, Sensitivity, Specificity, and Precision equal to 0.91, 0.89, 0.85, 0.90, and 0.78, respectively, Transformer architectures reach comparable ones with AUC, Accuracy, Sensitivity, Specificity, and Precision equal to 0.90, 0.86, 0.81, 0.89, and 0.75, respectively. Based on our preliminary experimental results, it appears that Transformers architectures do not add improvements in terms of predictive performance to the addressed problem.
+
+**Source:** https://www.semanticscholar.org/paper/58449ac42b1fe91f302b18dc3d2319a8aaa4d55a
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T12:04:57.681Z

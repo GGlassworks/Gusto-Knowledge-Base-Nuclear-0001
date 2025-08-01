@@ -1,0 +1,13 @@
+# G-PBFT: A Location-based and Scalable Consensus Protocol for IoT-Blockchain Applications
+
+**Authors:** Laphou Lao, Xiaohai Dai, Bin Xiao, Songtao Guo
+
+## Abstract
+IoT-blockchain applications have advantages of managing massive IoT devices, achieving advanced data security, and data credibility. However, there are still some challenges when deploying IoT applications on blockchain systems due to limited storage, power, and computing capability of IoT devices. Applying current consensus protocols to IoT applications may be vulnerable to Sybil node attacks or suffer from high-computational cost and low scalability. In this paper, we propose G-PBFT (Geographic-PBFT), a new location-based and scalable consensus protocol designed for IoT-blockchain applications. The principle of G-PBFT is based on the fact that most IoT-blockchain applications rely on fixed IoT devices for data collection and processing. Fixed IoT devices have more computational power than other mobile IoT devices, e.g., mobile phones and sensors, and are less likely to become malicious nodes. G-PBFT exploits geographic information of fixed IoT devices to reach consensus, thus avoiding Sybil attacks. In G-PBFT, we select those fixed, loyal, and capable nodes as endorsers, reducing the overhead for validating and recording transactions. As a result, G-PBFT achieves high consensus efficiency and low traffic intensity. Moreover, G-PBFT uses a new era switch mechanism to handle the dynamics of the IoT network. To evaluate our protocol, we conduct extensive experiments to compare the performance of G-PBFT against existing consensus protocol with over 200 participating nodes in a blockchain system. Experimental results demonstrate that G-PBFT significantly reduces consensus time, network overhead, and is scalable for IoT applications.
+
+**Source:** https://www.semanticscholar.org/paper/ac55eafe2aabc238058331a444d7c02badf9f631
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:56.082Z

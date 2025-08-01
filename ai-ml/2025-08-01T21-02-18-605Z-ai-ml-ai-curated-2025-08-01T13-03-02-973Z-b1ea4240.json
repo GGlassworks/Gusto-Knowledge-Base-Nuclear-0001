@@ -1,0 +1,13 @@
+# Axiomatization of Blockchain Theory
+
+**Authors:** S. Goncharov, Andrey Nechesov
+
+## Abstract
+The increasing use of artificial intelligence algorithms, smart contracts, the internet of things, cryptocurrencies, and digital money highlights the need for secure and sustainable decentralized solutions. Currently, the blockchain technology serves as the backbone for most decentralized systems. However, the question of axiomatization of the blockchain theory in the first-order logic has been open until today, despite the efficient computational implementations of these systems. This did not allow one to formalize the blockchain structure, as well as to model and verify it using logical methods. This work introduces a finitely axiomatizable blockchain theory T that defines a class of blockchain structures K using the axioms of the first-order logic. The models of the theory T are well-known blockchain implementations with the proof of work consensus algorithm, including Bitcoin, Ethereum (PoW version), Ethereum Classic, and some others. By utilizing mathematical logic, we can study these models and derive new theorems of the theory T through automatic proofs. Also, the axiomatization of blockchain opens up new opportunities to develop blockchain-based systems that can help solve some of the open problems in the fields of artificial intelligence, robotics, cryptocurrencies, etc.
+
+**Source:** https://www.semanticscholar.org/paper/adf0d68750f089ef2bcac67e96e2406094711298
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:02.973Z

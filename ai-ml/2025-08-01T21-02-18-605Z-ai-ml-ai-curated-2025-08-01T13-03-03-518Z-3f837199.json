@@ -1,0 +1,13 @@
+# Ensuring Long-Term Trustworthy Collaboration in IoT Networks Using Contract Theory and Reputation Mechanism on Blockchain
+
+**Authors:** Zitao Zhou, Fang Ye, Jingpeng Gao, Sitong Zhang, Xiaoyu Geng
+
+## Abstract
+Internet of Things (IoT) devices operate in an untrusted environment, and blockchain technology can provide a secure distributed collaboration method. However, the widespread distribution of heterogeneous devices in the IoT creates complex information asymmetry issues, leading to inefficient resource allocation. This is especially true when information asymmetry occurs in long-term cooperative relationships, where contract design often faces more complex incentive problems. This article focuses on studying long-term cooperation between IoT devices based on the blockchain technology and proposes a solution to information asymmetry in long-term cooperation based on contract theory and reputation mechanism: 1) we design more flexible pricing strategies based on contract theory to attract more devices to become validators and provide different long-term job contracts to overcome information asymmetry issues in the cooperative process and 2) we propose a subjective reliability-linked reputation evaluation mechanism to construct the career of validators, which can constrain unethical behavior and incentivize validators to comply with rules and protect data security in long-term cooperation. Experimental results show that our scheme can improve device willingness to cooperate, overcome information asymmetry in long-term cooperation, improve the efficiency of computing resource allocation, reduce network security risks, achieve long-term trusted cooperation between devices, and provide effective security for the development of the IoT.
+
+**Source:** https://www.semanticscholar.org/paper/6e913c29d6af0974fb271348e3c9cb904bb65e5f
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:03.518Z

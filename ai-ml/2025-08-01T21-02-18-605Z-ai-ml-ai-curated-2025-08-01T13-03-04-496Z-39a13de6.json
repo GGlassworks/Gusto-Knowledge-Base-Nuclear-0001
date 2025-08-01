@@ -1,0 +1,13 @@
+# Blockchain‐assisted twin migration for vehicular metaverses: A game theory approach
+
+**Authors:** Yue Zhong, Jinbo Wen, Junhong Zhang, Jiawen Kang, Yuna Jiang, Yang Zhang, Yanyu Cheng, Yongju Tong
+
+## Abstract
+As the fusion of automotive industry and metaverse, vehicular metaverses establish a bridge between the physical space and virtual space, providing intelligent transportation services through the integration of various technologies, such as extended reality and real‐time rendering technologies, to offer immersive metaverse services for vehicular metaverse users (VMUs). In vehicular metaverses, VMUs update vehicle twins (VTs) deployed in RoadSide Units (RSUs) to obtain metaverse services. However, due to the mobility of vehicles and the limited service coverage of RSUs, VT migration is necessary to ensure continuous immersive experiences for VMUs. This process requires RSUs to contribute resources for enabling efficient migration, which leads to a resource‐trading problem between RSUs and VMUs. Moreover, a single RSU cannot support large‐scale VT migration. To this end, we propose a blockchain‐assisted game approach framework for reliable VT migration in vehicular metaverses. Based on the subject logic model, we first calculate the reputation values of RSUs considering the freshness of interaction between RSUs and VMUs. Then, a coalition game based on the reputation values of RSUs is formulated, and RSU coalitions are formed to jointly provide bandwidth resources for reliable and large‐scale VT migration. Subsequently, the RSU coalition with the highest utility is selected. Finally, to incentivize VMUs to participate in VT migration, we propose a Stackelberg model between the selected coalition and VMUs. Numerical results demonstrate the reliability and effectiveness of the proposed schemes.
+
+**Source:** https://www.semanticscholar.org/paper/deace9a60578c79c926ebc1aea7ee159beb11f9b
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:04.496Z

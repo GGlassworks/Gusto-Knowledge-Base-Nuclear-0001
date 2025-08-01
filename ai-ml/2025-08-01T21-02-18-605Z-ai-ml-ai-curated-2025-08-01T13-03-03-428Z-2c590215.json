@@ -1,0 +1,13 @@
+# Application of Graph Theory for Blockchain Technologies
+
+**Authors:** Guruprakash Jayabalasamy, Cyril Pujol, Krithika Latha Bhaskaran
+
+## Abstract
+Blockchain technology, serving as the backbone for decentralized systems, facilitates secure and transparent transactional data storage across a distributed network of nodes. Blockchain platforms rely on distributed ledgers to enable secure peer-to-peer transactions without central oversight. As these systems grow in complexity, analyzing their topological structure and vulnerabilities requires robust mathematical frameworks. This paper explores applications of graph theory for modeling blockchain networks to evaluate decentralization, security, privacy, scalability and NFT Mapping. We use graph metrics like degree distribution and betweenness centrality to quantify node connectivity, identify network bottlenecks, trace asset flows and detect communities. Attack vectors are assessed by simulating adversarial scenarios within graph models of blockchain systems. Overall, translating blockchain ecosystems into graph representations allows comprehensive analytical insights to guide the development of efficient, resilient decentralized infrastructures.
+
+**Source:** https://www.semanticscholar.org/paper/fa5e65641e53aea4202882c9077eaab55d771499
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:03.429Z
