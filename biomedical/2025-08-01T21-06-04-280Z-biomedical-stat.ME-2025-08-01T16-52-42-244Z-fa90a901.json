@@ -1,0 +1,12 @@
+# Adjusting for Participation Bias in Case-Control Genetic Association Studies for Rare Diseases
+
+**Authors:** Le Wang, Zhengbang Li, Ben Fitzpatrick, Clarice Weinberg, Jinbo Chen
+
+## Summary
+Collection of genotype data in case-control genetic association studies may often be incomplete for reasons related to genes themselves. This non-ignorable missingness structure, if not appropriately accounted for, can result in participation bias in association analyses. To deal with this issue, Chen et al. (2016) proposed to collect additional genetic information from family members of individuals whose genotype data were not available, and developed a maximum likelihood method for bias correction. In this study, we develop an estimating equation approach to analyzing data collected from this design that allows adjustment of covariates. It jointly estimates odds ratio parameters for genetic association and missingness, where a logistic regression model is used to relate missingness to genotype and other covariates. Our method allows correlation between genotype and covariates while using genetic information from family members to provide information on the missing genotype data. In the estimating equation for genetic association parameters, we weight the contribution of each genotyped subject to the empirical likelihood score function by the inverse probability that the genotype data are available. We evaluate large and finite sample performance of our method via simulation studies and apply it to a family-based case-control study of breast cancer.
+
+
+---
+Category: biomedical
+Subcategory: stat.ME
+Collected: 2025-08-01T16:52:42.245Z

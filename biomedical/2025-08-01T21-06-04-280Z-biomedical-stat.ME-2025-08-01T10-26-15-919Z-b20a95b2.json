@@ -1,0 +1,12 @@
+# A Systematic Paradigm for Detecting, Surfacing, and Characterizing Heterogeneous Treatment Effects (HTE)
+
+**Authors:** John Cai, Weinan Wang
+
+## Summary
+To effectively optimize and personalize treatments, it is necessary to investigate the heterogeneity of treatment effects. With the wide range of users being treated over many online controlled experiments, the typical approach of manually investigating each dimension of heterogeneity becomes overly cumbersome and prone to subjective human biases. We need an efficient way to search through thousands of experiments with hundreds of target covariates and hundreds of breakdown dimensions. In this paper, we propose a systematic paradigm for detecting, surfacing and characterizing heterogeneous treatment effects. First, we detect if treatment effect variation is present in an experiment, prior to specifying any breakdowns. Second, we surface the most relevant dimensions for heterogeneity. Finally, we characterize the heterogeneity beyond just the conditional average treatment effects (CATE) by studying the conditional distributions of the estimated individual treatment effects. We show the effectiveness of our methods using simulated data and empirical studies.
+
+
+---
+Category: biomedical
+Subcategory: stat.ME
+Collected: 2025-08-01T10:26:15.920Z

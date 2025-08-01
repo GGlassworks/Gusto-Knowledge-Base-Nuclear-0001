@@ -1,0 +1,12 @@
+# A Partially Functional Linear Modeling Framework for Integrating Genetic, Imaging, and Clinical Data
+
+**Authors:** Ting Li, Yang Yu, J. S. Marron, Hongtu Zhu
+
+## Summary
+This paper is motivated by the joint analysis of genetic, imaging, and clinical (GIC) data collected in the Alzheimer's Disease Neuroimaging Initiative (ADNI) study. We propose a regression framework based on partially functional linear regression models to map high-dimensional GIC-related pathways for Alzheimer's Disease (AD). We develop a joint model selection and estimation procedure by embedding imaging data in the reproducing kernel Hilbert space and imposing the L0 penalty for the coefficients of genetic variables. We apply the proposed method to the ADNI dataset to identify important features from tens of thousands of genetic polymorphisms (reduced from millions using a preprocessing step) and study the effects of a certain set of informative genetic variants and the baseline hippocampus surface on thirteen future cognitive scores measuring different aspects of cognitive function. We explore the shared and different heritability patterns of these cognitive scores. Analysis results suggest that both the hippocampal and genetic data have heterogeneous effects on different scores, with the trend that the value of both hippocampi is negatively associated with the severity of cognition deficits. Polygenic effects are observed for all thirteen cognitive scores. The well-known APOE4 genotype only explains a small part of cognitive function. Shared genetic etiology exists, however, greater genetic heterogeneity exists within disease classifications after accounting for the baseline diagnosis status. These analyses are useful in further investigation of functional mechanisms for AD evolution.
+
+
+---
+Category: biomedical
+Subcategory: stat.ME
+Collected: 2025-08-01T16:49:24.860Z

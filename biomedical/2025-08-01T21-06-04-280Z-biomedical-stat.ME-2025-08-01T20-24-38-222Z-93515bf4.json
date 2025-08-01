@@ -1,0 +1,12 @@
+# Robust Uniform Inference for Quantile Treatment Effects in Regression Discontinuity Designs
+
+**Authors:** Harold D. Chiang, Yu-Chin Hsu, Yuya Sasaki
+
+## Summary
+The practical importance of inference with robustness against large bandwidths for causal effects in regression discontinuity and kink designs is widely recognized. Existing robust methods cover many cases, but do not handle uniform inference for CDF and quantile processes in fuzzy designs, despite its use in the recent literature in empirical microeconomics. In this light, this paper extends the literature by developing a unified framework of inference with robustness against large bandwidths that applies to uniform inference for quantile treatment effects in fuzzy designs, as well as all the other cases of sharp/fuzzy mean/quantile regression discontinuity/kink designs. We present Monte Carlo simulation studies and an empirical application for evaluations of the Oklahoma pre-K program.
+
+
+---
+Category: biomedical
+Subcategory: stat.ME
+Collected: 2025-08-01T20:24:38.222Z

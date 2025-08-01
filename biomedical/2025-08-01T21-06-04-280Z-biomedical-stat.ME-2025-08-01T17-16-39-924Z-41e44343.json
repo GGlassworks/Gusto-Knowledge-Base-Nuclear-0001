@@ -1,0 +1,12 @@
+# Optimal Allocation of Gold Standard Testing under Constrained Availability: Application to Assessment of HIV Treatment Failure
+
+**Authors:** Tao Liu, Joseph W. Hogan, Lisa Wang, Shangxuan Zhang, Rami Kantor
+
+## Summary
+The World Health Organization (WHO) guidelines for monitoring the effectiveness of HIV treatment in resource-limited settings (RLS) are mostly based on clinical and immunological markers (e.g., CD4 cell counts). Recent research indicates that the guidelines are inadequate and can result in high error rates. Viral load (VL) is considered the "gold standard", yet its widespread use is limited by cost and infrastructure. In this paper, we propose a diagnostic algorithm that uses information from routinely-collected clinical and immunological markers to guide a selective use of VL testing for diagnosing HIV treatment failure, under the assumption that VL testing is available only at a certain portion of patient visits. Our algorithm identifies the patient subpopulation, such that the use of limited VL testing on them minimizes a pre-defined risk (e.g., misdiagnosis error rate). Diagnostic properties of our proposal algorithm are assessed by simulations. For illustration, data from the Miriam Hospital Immunology Clinic (RI, USA) are analyzed.
+
+
+---
+Category: biomedical
+Subcategory: stat.ME
+Collected: 2025-08-01T17:16:39.925Z

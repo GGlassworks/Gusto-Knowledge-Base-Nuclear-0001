@@ -1,0 +1,12 @@
+# Expectile Neural Networks for Genetic Data Analysis of Complex Diseases
+
+**Authors:** Jinghang Lin, Xiaoran Tong, Chenxi Li, Qing Lu
+
+## Summary
+The genetic etiologies of common diseases are highly complex and heterogeneous. Classic statistical methods, such as linear regression, have successfully identified numerous genetic variants associated with complex diseases. Nonetheless, for most complex diseases, the identified variants only account for a small proportion of heritability. Challenges remain to discover additional variants contributing to complex diseases. Expectile regression is a generalization of linear regression and provides completed information on the conditional distribution of a phenotype of interest. While expectile regression has many nice properties and holds great promise for genetic data analyses (e.g., investigating genetic variants predisposing to a high-risk population), it has been rarely used in genetic research. In this paper, we develop an expectile neural network (ENN) method for genetic data analyses of complex diseases. Similar to expectile regression, ENN provides a comprehensive view of relationships between genetic variants and disease phenotypes and can be used to discover genetic variants predisposing to sub-populations (e.g., high-risk groups). We further integrate the idea of neural networks into ENN, making it capable of capturing non-linear and non-additive genetic effects (e.g., gene-gene interactions). Through simulations, we showed that the proposed method outperformed an existing expectile regression when there exist complex relationships between genetic variants and disease phenotypes. We also applied the proposed method to the genetic data from the Study of Addiction: Genetics and Environment(SAGE), investigating the relationships of candidate genes with smoking quantity.
+
+
+---
+Category: biomedical
+Subcategory: stat.AP
+Collected: 2025-08-01T16:43:28.302Z

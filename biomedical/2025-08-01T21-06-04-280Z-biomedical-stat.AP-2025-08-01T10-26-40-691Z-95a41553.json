@@ -1,0 +1,12 @@
+# Digital Health Discussion Through Articles Published Until the Year 2021: A Digital Topic Modeling Approach
+
+**Authors:** Junhyoun Sung, Hyungsook Kim
+
+## Summary
+The digital health industry has grown in popularity since the 2010s, but there has been limited analysis of the topics discussed in the field across academic disciplines. This study aims to analyze the research trends of digital health-related articles published on the Web of Science until 2021, in order to understand the concentration, scope, and characteristics of the research. 15,950 digital health-related papers from the top 10 academic fields were analyzed using the Web of Science. The papers were grouped into three domains: public health, medicine, and electrical engineering and computer science (EECS). Two time periods (2012-2016 and 2017-2021) were compared using Latent Dirichlet Allocation (LDA) for topic modeling. The number of topics was determined based on coherence score, and topic compositions were compared using a homogeneity test. The number of optimal topics varied across domains and time periods. For public health, the first and second halves had 13 and 19 topics, respectively. Medicine had 14 and 25 topics, and EECS had 7 and 21 topics. Text analysis revealed shared topics among the domains, but with variations in composition. The homogeneity test confirmed significant differences between the groups (adjusted p-value&lt;0.05). Six dominant themes emerged, including journal article methodology, information technology, medical issues, population demographics, social phenomena, and healthcare. Digital health research is expanding and evolving, particularly in relation to Covid-19, where topics such as depression and mental disorders, education, and physical activity have gained prominence. There was no bias in topic composition among the three domains, but other fields like kinesiology or psychology could contribute to future digital health research. Exploring expanded topics that reflect people's needs for digital health over time will be crucial.
+
+
+---
+Category: biomedical
+Subcategory: stat.AP
+Collected: 2025-08-01T10:26:40.691Z
