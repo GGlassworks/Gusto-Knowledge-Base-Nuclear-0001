@@ -1,0 +1,13 @@
+# What Goes before the CART? Introducing Classification Trees with Arbor and CODAP
+
+**Authors:** Erickson, Tim, Engel, Joachim
+
+## Abstract
+This volume is largely about nontraditional data; this paper is about a nontraditional visualization: classification trees. Using trees with data will be new to many students, so rather than beginning with a computer algorithm that produces optimal trees, we suggest that students first construct their own trees, one node at a time, to explore how they work, and how well. This build-it-yourself process is more transparent than using algorithms such as CART; we believe it will help students not only understand the fundamentals of trees, but also better understand tree-building algorithms when they do encounter them. And because classification is an important task in machine learning, a good foundation in trees can prepare students to better understand that emerging and important field. We also describe a free online tool--Arbor--that students can use to do this, and note some implications for instruction.
+
+**Source:** https://eric.ed.gov/?id=EJ1384198
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:46:32.762Z

@@ -1,0 +1,13 @@
+# Interactive Profiler: An Intuitive, Web-Based Statistical Application in Visualizing Educational and Marketing Databases
+
+**Authors:** Ip, Edward H., Leung, Phillip, Johnson, Joseph
+
+## Abstract
+We describe the design and implementation of a web-based statistical program--the Interactive Profiler (IP). The prototypical program, developed in Java, was motivated by the need for the general public to query against data collected from the National Assessment of Educational Progress (NAEP), a large-scale US survey of the academic state of American students. The emphasis of the program requirements is on bringing the NAEP data to a broader and not necessarily technically prepared audience. We show that the IP is an intuitive tool for visualizing students' profiles. Because the same principles for visualization apply to other databases, in this article we also demonstrate how IP can be used to visualize a large marketing database. Besides NAEP, our statistical visualization tool should be pertinent to other federally maintained databases and large-scale marketing databases.
+
+**Source:** https://eric.ed.gov/?id=EJ727505
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:55:52.591Z

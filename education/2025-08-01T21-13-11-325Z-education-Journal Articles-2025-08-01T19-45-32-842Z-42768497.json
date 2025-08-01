@@ -1,0 +1,13 @@
+# Maple&apos;s Quantum Chemistry Package in the Chemistry Classroom
+
+**Authors:** Montgomery, Jason M., Mazziotti, David A.
+
+## Abstract
+An introduction to the Quantum Chemistry Package (QCP), implemented in the computer algebra system Maple, is presented. The QCP combines sophisticated electronic structure methods and Maple's easy-to-use graphical interface to enable computation and visualization of the electronic energies and properties of molecules. Here we describe how the QCP can be used in the chemistry classroom using lessons we developed that have been incorporated within the package. In this work, we present four illustrative lessons that showcase the potential implementation of the QCP: the calculation and visualization of molecular orbitals of hydrogen fluoride, the application of the particle in a box to conjugated dyes, the use of geometry optimization and normal-mode analysis for hypochlorous acid, and the thermodynamics of combustion of methane. While these topics are typically encountered at the undergraduate level, we have developed a wide range of lessons for the QCP appropriate for high school advanced placement, undergraduate, and advanced graduate curricula. A summary of implementation and student experience at our respective institutions is also provided.
+
+**Source:** https://eric.ed.gov/?id=EJ1276987
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:45:32.842Z

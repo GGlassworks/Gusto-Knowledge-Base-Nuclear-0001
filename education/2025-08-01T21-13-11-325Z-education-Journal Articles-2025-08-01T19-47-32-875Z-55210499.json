@@ -1,0 +1,13 @@
+# moocRP: Enabling Open Learning Analytics with an Open Source Platform for Data Distribution, Analysis, and Visualization
+
+**Authors:** Pardos, Zachary A., Whyte, Anthony, Kao, Kevin
+
+## Abstract
+In this paper, we address issues of transparency, modularity, and privacy with the introduction of an open source, web-based data repository and analysis tool tailored to the Massive Open Online Course community. The tool integrates data request/authorization and distribution workflow features as well as provides a simple analytics module upload format to enable reuse and replication of analytics results among instructors and researchers. We survey the evolving landscape of competing established and emerging data models, all of which are accommodated in the platform. Data model descriptions are provided to analytics authors who choose, much like with smartphone app stores, to write for any number of data models depending on their needs and the proliferation of the particular data model. Two case study examples of analytics and responsive visualizations based on different data models are described in the paper. The result is a simple but effective approach to learning analytics immediately applicable to X consortium MOOCs and beyond.
+
+**Source:** https://eric.ed.gov/?id=EJ1093410
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:47:32.876Z

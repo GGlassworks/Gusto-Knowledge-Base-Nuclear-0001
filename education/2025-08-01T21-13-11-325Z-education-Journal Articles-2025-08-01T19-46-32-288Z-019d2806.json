@@ -1,0 +1,13 @@
+# Explaining Algorithms: A New Perspective
+
+**Authors:** Müldner, Tomasz, Shakshuki, Elhadi
+
+## Abstract
+This article presents a novel approach for explaining algorithms that aims to overcome various pedagogical limitations of the current visualization systems. The main idea is that at any given time, a learner is able to focus on a single problem. This problem can be explained, studied, understood, and tested, before the learner moves on to study another problem. Toward this end, a visualization system that explains algorithms at various levels of abstraction has been designed and implemented. In this system, each abstraction is focused on a single operation from the algorithm using various media, including text and an associated visualization. The explanations are designed to help the user to understand basic properties of the operation represented by this abstraction, for example its invariants. The explanation system allows the user to traverse the hierarchy graph, using either a top-down (from primitive operations to general operations) approach or a bottom-up approach. Since the system is implemented using a client-server architecture, it can be used both in the classroom setting and through distance education.
+
+**Source:** https://eric.ed.gov/?id=EJ1099882
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:46:32.289Z

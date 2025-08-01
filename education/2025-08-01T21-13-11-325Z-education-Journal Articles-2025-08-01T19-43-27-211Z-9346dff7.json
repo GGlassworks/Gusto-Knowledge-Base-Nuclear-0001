@@ -1,0 +1,13 @@
+# Data Visualization of Item-Total Correlation by Median Smoothing
+
+**Authors:** Yu, Chong Ho, Douglas, Samantha, Lee, Anna, An, Min
+
+## Abstract
+This paper aims to illustrate how data visualization could be utilized to identify errors prior to modeling, using an example with multi-dimensional item response theory (MIRT). MIRT combines item response theory and factor analysis to identify a psychometric model that investigates two or more latent traits. While it may seem convenient to accomplish two tasks by employing one procedure, users should be cautious of problematic items that affect both factor analysis and IRT. When sample sizes are extremely large, reliability analyses can misidentify even random number meaningful patterns. Data visualization, such as median smoothing, can be used to identify problematic items in preliminary data cleaning.
+
+**Source:** https://eric.ed.gov/?id=EJ1090061
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:43:27.219Z

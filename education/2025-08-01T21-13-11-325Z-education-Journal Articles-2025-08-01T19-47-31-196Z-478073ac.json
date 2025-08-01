@@ -1,0 +1,13 @@
+# How to Interpret the Effect of Covariates on the Extreme Categories in Ordinal Data Models
+
+**Authors:** Iannario, Maria, Tarantola, Claudia
+
+## Abstract
+This contribution deals with effect measures for covariates in ordinal data models to address the interpretation of the results on the extreme categories of the scales, evaluate possible response styles, and motivate collapsing of extreme categories. It provides a simpler interpretation of the influence of the covariates on the probability of the response categories both in standard cumulative link models under the proportional odds assumption and in the recent extension of the Combination of Uncertainty and Preference of the respondents models, the mixture models introduced to account for uncertainty in rating systems. The article shows by means of marginal effect measures that the effects of the covariates are underestimated when the uncertainty component is neglected. Visualization tools for the effect of covariates are proposed, and measures of relative size and partial effect based on rates of change are evaluated by the use of real data sets.
+
+**Source:** https://eric.ed.gov/?id=EJ1365333
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:47:31.197Z

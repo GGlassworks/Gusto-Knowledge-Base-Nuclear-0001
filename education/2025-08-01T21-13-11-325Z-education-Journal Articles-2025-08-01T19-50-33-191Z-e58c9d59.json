@@ -1,0 +1,13 @@
+# SOCR &quot;Motion Charts&quot;: An Efficient, Open-Source, Interactive and Dynamic Applet for Visualizing Longitudinal Multivariate Data
+
+**Authors:** Al-Aziz, Jameel, Christou, Nicolas, Dinov, Ivo D.
+
+## Abstract
+The amount, complexity and provenance of data have dramatically increased in the past five years. Visualization of observed and simulated data is a critical component of any social, environmental, biomedical or scientific quest. Dynamic, exploratory and interactive visualization of multivariate data, without preprocessing by dimensionality reduction, remains a nearly insurmountable challenge. The Statistics Online Computational Resource (www.SOCR.ucla.edu) provides portable online aids for probability and statistics education, technology-based instruction and statistical computing. We have developed a new Java-based infrastructure, SOCR &quot;Motion Charts,&quot; for discovery-based exploratory analysis of multivariate data. This interactive data visualization tool enables the visualization of high-dimensional longitudinal data. SOCR &quot;Motion Charts&quot; allows mapping of ordinal, nominal and quantitative variables onto time, 2D axes, size, colors, glyphs and appearance characteristics, which facilitates the interactive display of multidimensional data. We validated this new visualization paradigm using several publicly available multivariate datasets including Ice-Thickness, Housing Prices, Consumer Price Index, and California Ozone Data. SOCR &quot;Motion Charts&quot; is designed using object-oriented programming, implemented as a Java Web-applet and is available to the entire community on the web at www.socr.ucla.edu/SOCR_MotionCharts. It can be used as an instructional tool for rendering and interrogating high-dimensional data in the classroom, as well as a research tool for exploratory data analysis. (Contains 8 figures and 6 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ910064
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:50:33.191Z

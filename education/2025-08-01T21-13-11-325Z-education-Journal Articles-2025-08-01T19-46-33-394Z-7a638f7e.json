@@ -1,0 +1,13 @@
+# Nassi-Schneiderman Diagram in HTML Based on AML
+
+**Authors:** Menyhárt, László
+
+## Abstract
+In an earlier work I defined an extension of XML called Algorithm Markup Language (AML) for easy and understandable coding in an IDE which supports XML editing (e.g. NetBeans). The AML extension contains annotations and native language (English or Hungarian) tag names used when coding our algorithm. This paper presents a drawing tool with which teachers and students can define their algorithms in visualized Nassi-Schneiderman diagram (NSD). The algorithm is stored in AML format. Users are not supposed to know the XML. First I demonstrate the visualization from AML to Nassi-Schneiderman diagram using XSL transformations. The diagrams are in HTML format because it is easy to generate from an XML file and most browser support its presentation with special JavaScripts. Second I provide a larger toolset for obtaining AML code from the visualized NSD. HTML and JavaScript together are also a good choice for this because they support the scripting with which the algorithm is modified. I found that HTML is fine for AML visualization. Algorithms can be modified from the graphical appearance with JavaScript functions. I developed an application which is available on my website. This visualization tool is useful to users who are not familiar with XML language but would like to present their algorithms in a graphical mode. The paper is especially more practical to those teachers who would like to present the algorithmic way of thinking to their students and those students who would like to practice it.
+
+**Source:** https://eric.ed.gov/?id=EJ1053662
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:46:33.394Z

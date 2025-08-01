@@ -1,0 +1,13 @@
+# Interactive Visualization of a Thin Disc around a Schwarzschild Black Hole
+
+**Authors:** Muller, Thomas, Frauendiener, Jorg
+
+## Abstract
+In a first course in general relativity, the Schwarzschild spacetime is the most discussed analytic solution to Einstein's field equations. Unfortunately, there is rarely enough time to study the optical consequences of the bending of light for some advanced examples. In this paper, we present how the visual appearance of a thin disc around a Schwarzschild black hole can be determined interactively by means of an analytic solution to the geodesic equation processed on current high-performance graphical processing units. This approach can, in principle, be customized for any other thin disc in a spacetime with geodesics given in closed form. The interactive visualization discussed here can be used either in a first course in general relativity for demonstration purposes only or as a thesis for an enthusiastic student in an advanced course with some basic knowledge of OpenGL and a programming language. (Contains 4 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ985476
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:52:42.641Z

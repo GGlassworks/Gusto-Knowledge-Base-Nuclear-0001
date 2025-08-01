@@ -1,0 +1,13 @@
+# Preparing Content-Rich Learning Environments with VPython and Excel, Controlled by Visual Basic for Applications
+
+**Authors:** Prayaga, Chandra
+
+## Abstract
+A simple interface between VPython and Microsoft (MS) Office products such as Word and Excel, controlled by Visual Basic for Applications, is described. The interface allows the preparation of content-rich, interactive learning environments by taking advantage of the three-dimensional (3D) visualization capabilities of VPython and the GUI capabilities of MS Office. MS Office provides the user interface for data input. The data are stored in a  text file, which is read by VPython and used in 3D graphical simulations. Use of the interface is illustrated by working through an example of the motion of a charged particle in a magnetic field. A user interface designed in Excel allows the student to input data on the charge and the mass of the particle, the initial conditions and the magnetic field. The data are then saved in a text file. VPython reads the data and renders the 3D graphics visualization of the motion. Interactivity is ensured since the student can change the data and  directly observe the changes in motion. (Contains 6 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ781580
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:44:29.447Z
