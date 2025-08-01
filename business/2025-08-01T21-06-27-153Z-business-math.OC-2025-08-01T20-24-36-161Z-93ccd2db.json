@@ -1,0 +1,12 @@
+# Linear dynamic model of production-inventory with debt repayment: optimal management strategies
+
+**Authors:** Ekaterina Tuchnolobova, Victor Terletskiy, Olga Vasilieva
+
+## Summary
+In this paper, we present a simple microeconomic model with linear continuous-time dynamics that describes a production-inventory system with debt repayment. This model is formulated in terms of optimal control and its exact solutions are derived by prudent application of the maximum principle under different sets of initial conditions (scenarios). For a potentially profitable small firm, we also propose some alternative short-term control strategies resulting in a positive final profit and prove their optimality. Practical implementation of such strategies is also discussed.
+
+
+---
+Category: business
+Subcategory: math.OC
+Collected: 2025-08-01T20:24:36.161Z

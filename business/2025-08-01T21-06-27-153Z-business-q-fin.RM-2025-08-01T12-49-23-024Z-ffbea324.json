@@ -1,0 +1,12 @@
+# Theoretical Sensitivity Analysis for Quantitative Operational Risk Management
+
+**Authors:** Takashi Kato
+
+## Summary
+We study the asymptotic behavior of the difference between the values at risk VaR(L) and VaR(L+S) for heavy tailed random variables L and S for application in sensitivity analysis of quantitative operational risk management within the framework of the advanced measurement approach of Basel II (and III). Here L describes the loss amount of the present risk profile and S describes the loss amount caused by an additional loss factor. We obtain different types of results according to the relative magnitudes of the thicknesses of the tails of L and S. In particular, if the tail of S is sufficiently thinner than the tail of L, then the difference between prior and posterior risk amounts VaR(L+S) - VaR(L) is asymptotically equivalent to the expectation (expected loss) of S.
+
+
+---
+Category: business
+Subcategory: q-fin.RM
+Collected: 2025-08-01T12:49:23.024Z
