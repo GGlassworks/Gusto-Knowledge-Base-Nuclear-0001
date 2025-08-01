@@ -1,0 +1,13 @@
+# Potentials and Comparison of Inverter Topologies for Future All-Electric Aircraft Propulsion
+
+**Authors:** Janine Ebersberger, M. Hagedorn, Malte Lorenz, A. Mertens
+
+## Abstract
+Decarbonization of the air transport sector is a major challenge for the upcoming years. To achieve this goal, electrification of the propulsion for small to medium civil aircraft is a key enabler for various concepts, ranging from hybrid over fuel cell to full battery powered aircraft. While small electric aircraft for lower altitudes already exist, it is necessary to extend the power range to several megawatts for passenger aircraft flying at medium to high altitudes. Here, the question of the most promising inverter topology and dc supply voltage level is yet to be answered. Challenges include lightweight, high efficiency, and reliability due to cosmic-ray-induced failures. To address this, a broad range of topologies, covering conventional two-level, three-level inverters, and modular multilevel converters (MMCs), are compared in this article. For this purpose, an inverter design methodology is introduced, including chip area optimization, inverter loss, and weight calculation. As a prerequisite, a loss model for high-voltage silicon carbide (SiC) MOSFETs is derived and used to estimate the characteristics for voltage levels not readily available today. Uncertainty is addressed by covering several scenarios.
+
+**Source:** https://www.semanticscholar.org/paper/e8e8477efd235d4f953094d06f708c8fe201845d
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T16:19:46.745Z

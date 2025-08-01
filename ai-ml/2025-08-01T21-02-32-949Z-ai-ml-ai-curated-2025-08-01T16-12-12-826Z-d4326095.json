@@ -1,0 +1,13 @@
+# Impacts of epistemic (bias) uncertainty on structural identification of constructed (civil) systems
+
+**Authors:** F. Moon, A. Aktan
+
+## Abstract
+The primary goal of this paper is to discuss the state-of-the-art related to the structural identification (St-ID) of constructed systems, and to point out the most pressing needs for research and applications. As a subset of the system identification concept, St-ID aims to develop representative mathematical models of manufactured (mechanical) and constructed (civil) structural systems through the correlation of experimentally measured inputs and outputs. While the concept of St-ID has matured over the past three decades and it is widely and reliably applied to manufactured systems, St-ID for constructed systems remains in its infancy and has enjoyed only sparse implementation in practice, and generally only for signature structures. The authors believe that this delayed progress is principally the result of a lack of appreciation for the inherent distinctions between constructed systems and their manufactured counterparts. Through this paper the authors hope to clearly convey the unique challenges associated with the St-ID of constructed systems and motivate researchers from engineering mechanics to join in the investigation of these issues and to ultimately aid in advancing the art of St-ID of constructed systems.
+
+**Source:** https://www.semanticscholar.org/paper/33198c3e3d227251b5a65069845e90613e01372c
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T16:12:12.826Z

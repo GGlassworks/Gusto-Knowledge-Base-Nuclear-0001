@@ -1,0 +1,13 @@
+# Neuroscience-Inspired Algorithms for the Predictive Maintenance of Manufacturing Systems
+
+**Authors:** Arnav V. Malawade, Nathan D. Costa, Deepan Muthirayan, Pramod P. Khargonekar, Mohammad A. Al Faruque
+
+## Abstract
+If machine failures can be detected preemptively, then maintenance and repairs can be performed more efficiently, reducing production costs. Many machine learning techniques for performing early failure detection using vibration data have been proposed; however, these methods are often power and data-hungry, susceptible to noise, and require large amounts of data preprocessing. Also, training is usually only performed once before inference, so they do not learn and adapt as the machine ages. In this article, we propose a method of performing online, real-time anomaly detection for predictive maintenance using hierarchical temporal memory (HTM). Inspired by the human neocortex, HTMs learn and adapt continuously and are robust to noise. Using the Numenta Anomaly Benchmark, we empirically demonstrate that our approach outperforms state-of-the-art algorithms at preemptively detecting real-world cases of bearing failures and simulated 3-D printer failures. Our approach achieves an average score of 64.71, surpassing state-of-the-art deep-learning (49.38) and statistical (61.06) methods.
+
+**Source:** https://www.semanticscholar.org/paper/93a68c48e8bce9985d36ce3a58f27210ac904c1c
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T17:05:02.869Z

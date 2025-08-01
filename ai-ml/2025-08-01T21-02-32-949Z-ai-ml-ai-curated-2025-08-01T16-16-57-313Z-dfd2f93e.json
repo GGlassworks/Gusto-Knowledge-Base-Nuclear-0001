@@ -1,0 +1,13 @@
+# Development of Digital Twin for Intelligent Maintenance of Civil Infrastructure
+
+**Authors:** M. Mahmoodian, F. Shahrivar, S. Setunge, Sam Mazaheri
+
+## Abstract
+Over the life cycle of a civil infrastructure (a bridge as an example), 0.4–2% of the construction cost is spent annually on its maintenance. Utilising new technologies including the internet of things (IoT) and digital twin (DT) can significantly reduce the infrastructure maintenance costs. An infrastructure DT involves its digital replica and must include data on geometric, geospatial reference, performance, attributes (material, environment etc.) and management. Then, the acquired data need to be analysed and visualised to inform maintenance decision making. To develop this DT, the first step is the study of the infrastructure life cycle to design DT architecture. Using data semantics, this paper presents a novel DT architecture design for an intelligent infrastructure maintenance system. Semantic modelling is used as a powerful tool to structure and organize data. This approach provides an industry context through capturing knowledge about infrastructures in the structure of semantic model graph. Using new technologies, DT approach derives and presents meaningful data on infrastructure real-time performance and maintenance requirements, and in a more expressible and interpretable manner. The data semantic model will guide when and what data to collect for feeding into the infrastructure DT. The proposed DT concept was applied on one of the conveyors of Dalrymple Bay Coal Terminal in Queensland Australia to monitor the structural performance in real-time, which enables predictive maintenance to avoid breakdowns and disruptions in operation and consequential financial impacts.
+
+**Source:** https://www.semanticscholar.org/paper/c428bf0379721522417d2641df3fdf6ea60120d3
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T16:16:57.314Z

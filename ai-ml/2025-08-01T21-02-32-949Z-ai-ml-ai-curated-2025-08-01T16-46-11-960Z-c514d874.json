@@ -1,0 +1,13 @@
+# Applications of genotyping-by-sequencing (GBS) in maize genetics and breeding
+
+**Authors:** Nan Wang, Yibing Yuan, Hui Wang, Diansi Yu, Yubo Liu, Ao Zhang, M. Gowda, S. Nair, Z. Hao, Yanli Lu, F. San Vicente, B. Prasanna, Xinhai Li, Xuecai Zhang
+
+## Abstract
+Genotyping-by-Sequencing (GBS) is a low-cost, high-throughput genotyping method that relies on restriction enzymes to reduce genome complexity. GBS is being widely used for various genetic and breeding applications. In the present study, 2240 individuals from eight maize populations, including two association populations (AM), backcross first generation (BC1), BC1F2, F2, double haploid (DH), intermated B73 × Mo17 (IBM), and a recombinant inbred line (RIL) population, were genotyped using GBS. A total of 955,120 of raw data for SNPs was obtained for each individual, with an average genotyping error of 0.70%. The rate of missing genotypic data for these SNPs was related to the level of multiplex sequencing: ~ 25% missing data for 96-plex and ~ 55% for 384-plex. Imputation can greatly reduce the rate of missing genotypes to 12.65% and 3.72% for AM populations and bi-parental populations, respectively, although it increases total genotyping error. For analysis of genetic diversity and linkage mapping, unimputed data with a low rate of genotyping error is beneficial, whereas, for association mapping, imputed data would result in higher marker density and would improve map resolution. Because imputation does not influence the prediction accuracy, both unimputed and imputed data can be used for genomic prediction. In summary, GBS is a versatile and efficient SNP discovery approach for homozygous materials and can be effectively applied for various purposes in maize genetics and breeding.
+
+**Source:** https://www.semanticscholar.org/paper/3462363797496e2174ed12cc2b1962141e04395d
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T16:46:11.960Z

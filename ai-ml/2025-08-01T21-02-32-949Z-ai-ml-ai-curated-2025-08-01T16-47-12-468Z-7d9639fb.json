@@ -1,0 +1,13 @@
+# A hybrid optimization method to design a sustainable resilient supply chain in a perishable food industry
+
+**Authors:** Mahyar Abbasian, Z. Sazvar, Mohammadhossein Mohammadisiahroudi
+
+## Abstract
+To integrate the location, inventory, and routing (LIR) problems arising in designing a resilient sustainable perishable food supply network (RSPFSN), a bi-objective optimization model is developed. To improve the resiliency and sustainability of the RSPFSN, a dynamic pricing strategy is used to cope with the disrupting events, along with minimizing the total cost and CO_2 emission of the whole network. One of the important features of the proposed model is taking into account the effects of route disruptions and traffic conditions on the deterioration of products. To solve the mixed-integer nonlinear bi-objective optimization model, a novel hybrid method is developed using the Heuristic Multi-Choice Goal Programming and Utility Function Genetics Algorithm (HMCGP-UFGA). To improve resiliency, the dynamic pricing strategy, considering the traffic condition, can lead to around a 20% improvement in both cost and CO_2 emission, based on the results of our case study in a dairy supply chain. Besides, the results of sensitivity analysis display the high flexibility of the proposed approach for various problems.
+
+**Source:** https://www.semanticscholar.org/paper/94468b5931b2102f87ae7c04a3310ac93f3e9422
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:12.468Z

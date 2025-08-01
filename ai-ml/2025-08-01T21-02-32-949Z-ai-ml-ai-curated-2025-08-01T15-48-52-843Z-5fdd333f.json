@@ -1,0 +1,13 @@
+# Evaluation of electrical efficiency of photovoltaic thermal solar collector
+
+**Authors:** M. Ahmadi, A. Baghban, M. Sadeghzadeh, M. Zamen, A. Mosavi, S. Shamshirband, Ravinder Kumar, Mohammad Mohammadi‐Khanaposhtani
+
+## Abstract
+In this study, machine learning methods of artificial neural networks (ANNs), least squares support vector machines (LSSVM), and neuro-fuzzy are used for advancing prediction models for thermal performance of a photovoltaic-thermal solar collector (PV/T). In the proposed models, the inlet temperature, flow rate, heat, solar radiation, and the sun heat have been considered as the input variables. Data set has been extracted through experimental measurements from a novel solar collector system. Different analyses are performed to examine the credibility of the introduced models and evaluate their performances. The proposed LSSVM model outperformed the ANFIS and ANNs models. LSSVM model is reported suitable when the laboratory measurements are costly and time-consuming, or achieving such values requires sophisticated interpretations.
+
+**Source:** https://www.semanticscholar.org/paper/a83c0694bcf3a298321916908ecef920a2ae53b2
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T15:48:52.843Z

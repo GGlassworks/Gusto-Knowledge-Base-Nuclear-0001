@@ -1,0 +1,13 @@
+# A new enhanced mountain gazelle optimizer and artificial neural network for global optimization of mechanical design problems
+
+**Authors:** Pranav Mehta, S. M. Sait, B. Yildiz, Mehmet Umut Erdaş, Mehmet Kopar, Ali Riza Yildiz
+
+## Abstract
+Abstract Nature-inspired metaheuristic optimization algorithms have many applications and are more often studied than conventional optimization techniques. This article uses the mountain gazelle optimizer, a recently created algorithm, and artificial neural network to optimize mechanical components in relation to vehicle component optimization. The family formation, territory-building, and food-finding strategies of mountain gazelles serve as the major inspirations for the algorithm. In order to optimize various engineering challenges, the base algorithm (MGO) is hybridized with the Nelder–Mead algorithm (HMGO-NM) in the current work. This considered algorithm was applied to solve four different categories, namely automobile, manufacturing, construction, and mechanical engineering optimization tasks. Moreover, the obtained results are compared in terms of statistics with well-known algorithms. The results and findings show the dominance of the studied algorithm over the rest of the optimizers. This being said the HMGO algorithm can be applied to a common range of applications in various industrial and real-world problems.
+
+**Source:** https://www.semanticscholar.org/paper/76af0df865b59cda55f6f998cc6e19d978e75ae3
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T15:53:28.350Z

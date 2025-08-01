@@ -1,0 +1,13 @@
+# Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks
+
+**Authors:** Marko Vasić, Cameron T. Chalk, S. Khurshid, D. Soloveichik
+
+## Abstract
+Embedding computation in molecular contexts incompatible with traditional electronics is expected to have wide ranging impact in synthetic biology, medicine, nanofabrication and other fields. A key remaining challenge lies in developing programming paradigms for molecular computation that are well-aligned with the underlying chemical hardware and do not attempt to shoehorn ill-fitting electronics paradigms. We discover a surprisingly tight connection between a popular class of neural networks (binary-weight ReLU aka BinaryConnect) and a class of coupled chemical reactions that are absolutely robust to reaction rates. The robustness of rate-independent chemical computation makes it a promising target for bioengineering implementation. We show how a BinaryConnect neural network trained in silico using well-founded deep learning optimization techniques, can be compiled to an equivalent chemical reaction network, providing a novel molecular programming paradigm. We illustrate such translation on the paradigmatic IRIS and MNIST datasets. Toward intended applications of chemical computation, we further use our method to generate a chemical reaction network that can discriminate between different virus types based on gene expression levels. Our work sets the stage for rich knowledge transfer between neural network and molecular programming communities.
+
+**Source:** https://www.semanticscholar.org/paper/4b20dc3bd249bc43b97a1efdd513a589d68c38fa
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T16:41:09.985Z

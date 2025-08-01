@@ -1,0 +1,13 @@
+# Aircraft 4D Trajectory Prediction in Civil Aviation: A Review
+
+**Authors:** W. Zeng, Xiao Chu, Zhengfeng Xu, Yan Liu, Zhibin Quan
+
+## Abstract
+Aircraft four dimensional (4D, including longitude, latitude, altitude and time) trajectory prediction is a key technology for existing automation systems and the basis for future trajectory-based operations. This paper firstly summarizes the background and significance of the trajectory prediction problems and then introduces the definition and basic process of trajectory prediction, including four modules: preparation, prediction, update, and output. In addition, the trajectory prediction methods are summarized into three types: the state estimation model, the Kinetic model, and the machine learning model, and in-depth analysis of various models is carried out. Further, the relevant databases required for the study are introduced, including the aircraft performance database, aircraft monitoring database, and meteorological database. Finally, challenges and future development directions of the current trajectory prediction problem are summarized.
+
+**Source:** https://www.semanticscholar.org/paper/21dda8a7bd2ae37201fa12e4a899e9c82b23bfec
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T16:10:19.989Z

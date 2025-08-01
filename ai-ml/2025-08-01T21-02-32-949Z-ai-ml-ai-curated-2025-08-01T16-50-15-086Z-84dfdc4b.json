@@ -1,0 +1,13 @@
+# Quantifying the potential of functional evidence to reclassify variants of uncertain significance in the categorical and Bayesian interpretation frameworks
+
+**Authors:** Sarah E. Brnich, E. A. Rivera-Munoz, J. Berg
+
+## Abstract
+Additional variant interpretation tools are required to effectively harness genomic sequencing for clinical applications. The American College of Medical Genetics and Genomics (ACMG) and Association for Molecular Pathology (AMP) published guidelines for clinical sequence variant interpretation, incorporating different types of data that lend varying levels of support towards a benign or pathogenic interpretation. Variants of uncertain significance (VUS) are those with either contradictory or insufficient evidence, and their uncertainty complicates patient counseling and management. Functional assays may provide a solution to evidence gaps relegating variants to the VUS category, but the impact of functional evidence in this framework has not been assessed. We employ an algorithmic analysis of the ACMG/AMP combining rules to assess how the availability of strong functional evidence could theoretically improve the ability to make a benign or pathogenic assertion. We follow this with analysis of actual evidence combinations met by variants through expert curations as part of the Clinical Genome Resource (ClinGen). We also examine the impact of functional evidence in a Bayesian adaptation of the ACMG/AMP framework. This lays the groundwork for an evidence‐based prioritization of assay development and variant assessment by identifying genes and variants that may benefit the most from functional data.
+
+**Source:** https://www.semanticscholar.org/paper/7c715a6fdabf6ee9ffab62568d5012791e7ac35b
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T16:50:15.086Z

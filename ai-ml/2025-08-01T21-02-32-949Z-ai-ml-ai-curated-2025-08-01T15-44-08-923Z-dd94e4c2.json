@@ -1,0 +1,13 @@
+# CubeSat project: experience gained and design methodology adopted for a low-cost Electrical Power System
+
+**Authors:** Kamel Djamel Eddine Kerrouche, A. Seddjar, N. Khorchef, S. Bendoukha, Lina Wang, Abdelkader Aoudeche
+
+## Abstract
+This paper focuses on experimented space projects run by universities, offering an effective design process to improve learning methods in space engineering. The approach used for the design of CubeSat Electrical Power System (EPS) will go through estimations, sizing, simulations, PCB design and end with an experimental test procedure for design validation. The main design criteria presented in this paper are low costs and effective reliability. To meet the first criterion, the Commercial-Off-The-Shelf (COTS) components are used during the design, which has become an effective path to put experimental payloads in orbit for minimal cost. In the second criterion, the function of some critical EPS components was replicated, such as circuits used for power maximization and battery charge regulation, by following a suitable algorithm embedded in MCU and hot/cold redundant analog integrated circuits. However, the choice was made on the state of the art of CubeSat components already tested. This approach of working will help new space engineers to think about optimal solutions for the design of the appropriate EPS for a CubeSat university project achievable on a limited budget. Finally, the necessary experiments of the designed EPS were carried out and the results were illustrated in the context below.
+
+**Source:** https://www.semanticscholar.org/paper/26e50fe2ea8e0ec2d2c81ec7853ce89e3ac8e972
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T15:44:08.923Z

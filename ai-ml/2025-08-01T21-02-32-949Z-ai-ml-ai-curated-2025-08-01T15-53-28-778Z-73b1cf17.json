@@ -1,0 +1,13 @@
+# A new hybrid artificial hummingbird-simulated annealing algorithm to solve constrained mechanical engineering problems
+
+**Authors:** B. Yildiz, Pranav Mehta, S. M. Sait, Natee Panagant, Sumit Kumar, A. Yıldız
+
+## Abstract
+Abstract Nature-inspired algorithms known as metaheuristics have been significantly adopted by large-scale organizations and the engineering research domain due their several advantages over the classical optimization techniques. In the present article, a novel hybrid metaheuristic algorithm (HAHA-SA) based on the artificial hummingbird algorithm (AHA) and simulated annealing problem is proposed to improve the performance of the AHA. To check the performance of the HAHA-SA, it was applied to solve three constrained engineering design problems. For comparative analysis, the results of all considered cases are compared to the well-known optimizers. The statistical results demonstrate the dominance of the HAHA-SA in solving complex multi-constrained design optimization problems efficiently. Overall study shows the robustness of the adopted algorithm and develops future opportunities to optimize critical engineering problems using the HAHA-SA.
+
+**Source:** https://www.semanticscholar.org/paper/2b63142dc8915710b0cad7a0578c1b949703fd71
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T15:53:28.779Z

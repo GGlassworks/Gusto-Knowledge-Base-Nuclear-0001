@@ -1,0 +1,13 @@
+# A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence
+
+**Authors:** Emily J. Allen, Ghislain St-Yves, Yihan Wu, Jesse L. Breedlove, Jacob S. Prince, Logan T Dowdle, Matthias Nau, B. Caron, F. Pestilli, I. Charest, J. B. Hutchinson, Thomas Naselaris, Kendrick Norris Kay
+
+## Abstract
+Extensive sampling of neural activity during rich cognitive phenomena is critical for robust understanding of brain function. Here we present the Natural Scenes Dataset (NSD), in which high-resolution functional magnetic resonance imaging responses to tens of thousands of richly annotated natural scenes were measured while participants performed a continuous recognition task. To optimize data quality, we developed and applied novel estimation and denoising techniques. Simple visual inspections of the NSD data reveal clear representational transformations along the ventral visual pathway. Further exemplifying the inferential power of the dataset, we used NSD to build and train deep neural network models that predict brain activity more accurately than state-of-the-art models from computer vision. NSD also includes substantial resting-state and diffusion data, enabling network neuroscience perspectives to constrain and enhance models of perception and memory. Given its unprecedented scale, quality and breadth, NSD opens new avenues of inquiry in cognitive neuroscience and artificial intelligence. The authors measured high-resolution fMRI activity from eight individuals who saw and memorized thousands of annotated natural images over 1 year. This massive dataset enables new paths of inquiry in cognitive neuroscience and artificial intelligence.
+
+**Source:** https://www.semanticscholar.org/paper/139e90776bde3e2657497d5bb759f2514da1b53f
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T17:00:56.968Z

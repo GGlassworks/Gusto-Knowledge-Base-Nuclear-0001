@@ -1,0 +1,13 @@
+# A novel chaotic artificial rabbits algorithm for optimization of constrained engineering problems
+
+**Authors:** Erhan Duzgun, Erdem Acar, Ali Riza Yildiz
+
+## Abstract
+Abstract This study introduces a novel metaheuristic algorithm of optimization named Chaotic Artificial Rabbits Optimization (CARO) algorithm for resolving engineering design problems. In the newly introduced CARO algorithm, ten different chaotic maps are used with the recently presented Artificial Rabbits Optimization (ARO) algorithm to manage its parameters, eventually leading to an improved exploration and exploitation of the search. The CARO algorithm and familiar metaheuristic competitor algorithms were experimented on renowned five mechanical engineering problems of design, in brief; pressure vessel design, rolling element bearing design, tension/compression spring design, cantilever beam design and gear train design. The results indicate that the CARO is an outstanding algorithm compared with the familiar metaheuristic algorithms, and equipped with the best-optimized parameters with the minimal deviation in each case study. Metaheuristic algorithms are utilized to succeed in an optimal design in engineering problems targeting to achieve lightweight designs. In this present study, the optimum design of a vehicle brake pedal piece was achieved through topology and shape optimization methods. The brake pedal optimization problem in terms of the mass minimization is solved properly by using the CARO algorithm in comparison to familiar metaheuristic algorithms in the literature. Consequently, results indicate that the CARO algorithm can be effectively utilized in the optimal design of engineering problems.
+
+**Source:** https://www.semanticscholar.org/paper/dbb6b12be3c09becec9e6b0eaf6464ff057f67d0
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T15:53:29.017Z

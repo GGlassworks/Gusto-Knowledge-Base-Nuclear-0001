@@ -1,0 +1,13 @@
+# Neural Algorithms and Circuits for Motor Planning.
+
+**Authors:** Hidehiko K. Inagaki, Susu Chen, Kayvon Daie, Arseny Finklestein, Lorenzo Fontolan, S. Romani, K. Svoboda
+
+## Abstract
+The brain plans and executes volitional movements. The underlying patterns of neural population activity have been explored in the context of movements of the eyes, limbs, tongue, and head in nonhuman primates and rodents. How do networks of neurons produce the slow neural dynamics that prepare specific movements and the fast dynamics that ultimately initiate these movements? Recent work exploits rapid and calibrated perturbations of neural activity to test specific dynamical systems models that are capable of producing the observed neural activity. These joint experimental and computational studies show that cortical dynamics during motor planning reflect fixed points of neural activity (attractors). Subcortical control signals reshape and move attractors over multiple timescales, causing commitment to specific actions and rapid transitions to movement execution. Experiments in rodents are beginning to reveal how these algorithms are implemented at the level of brain-wide neural circuits. Expected final online publication date for the Annual Review of Neuroscience, Volume 45 is July 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+**Source:** https://www.semanticscholar.org/paper/94145a4f23d71969b0443899f772bd6feb0d8b92
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T17:05:05.084Z
