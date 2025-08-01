@@ -1,0 +1,12 @@
+# Meursault as a Data Point
+
+**Authors:** Abhinav Pratap, Amit Pathak
+
+## Summary
+In an era dominated by datafication, the reduction of human experiences to quantifiable metrics raises profound philosophical and ethical questions. This paper explores these issues through the lens of Meursault, the protagonist of Albert Camus' The Stranger, whose emotionally detached existence epitomizes the existential concept of absurdity. Using natural language processing (NLP) techniques including emotion detection (BERT), sentiment analysis (VADER), and named entity recognition (spaCy)-this study quantifies key events and behaviors in Meursault's life. Our analysis reveals the inherent limitations of applying algorithmic models to complex human experiences, particularly those rooted in existential alienation and moral ambiguity. By examining how modern AI tools misinterpret Meursault's actions and emotions, this research underscores the broader ethical dilemmas of reducing nuanced human narratives to data points, challenging the foundational assumptions of our data-driven society. The findings presented in this paper serve as a critique of the increasing reliance on data-driven narratives and advocate for incorporating humanistic values in artificial intelligence.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:19.929Z

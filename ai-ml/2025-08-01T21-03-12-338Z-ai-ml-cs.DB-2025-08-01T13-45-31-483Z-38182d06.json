@@ -1,0 +1,12 @@
+# Transactional Smart Contracts in Blockchain Systems
+
+**Authors:** Victor Zakhary, Divyakant Agrawal, Amr El Abbadi
+
+## Summary
+This paper presents TXSC, a framework that provides smart contract developers with transaction primitives. These primitives allow developers to write smart contracts without the need to reason about the anomalies that can arise due to concurrent smart contract function executions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DB
+Collected: 2025-08-01T13:45:31.484Z

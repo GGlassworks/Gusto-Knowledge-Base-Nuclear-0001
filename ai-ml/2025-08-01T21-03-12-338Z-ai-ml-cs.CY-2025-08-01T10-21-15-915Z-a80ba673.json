@@ -1,0 +1,12 @@
+# Empowering Cognitive Digital Twins with Generative Foundation Models: Developing a Low-Carbon Integrated Freight Transportation System
+
+**Authors:** Xueping Li, Haowen Xu, Jose Tupayachi, Olufemi Omitaomu, Xudong Wang
+
+## Summary
+Effective monitoring of freight transportation is essential for advancing sustainable, low-carbon economies. Traditional methods relying on single-modal data and discrete simulations fall short in optimizing intermodal systems holistically. These systems involve interconnected processes that affect shipping time, costs, emissions, and socio-economic factors. Developing digital twins for real-time awareness, predictive analytics, and urban logistics optimization requires extensive efforts in knowledge discovery, data integration, and multi-domain simulation. Recent advancements in generative AI offer new opportunities to streamline digital twin development by automating knowledge discovery and data integration, generating innovative simulation and optimization solutions. These models extend digital twins' capabilities by promoting autonomous workflows for data engineering, analytics, and software development. This paper proposes an innovative paradigm that leverages generative AI to enhance digital twins for urban research and operations. Using freight decarbonization as a case study, we propose a conceptual framework employing transformer-based language models to enhance an urban digital twin through foundation models. We share preliminary results and our vision for more intelligent, autonomous, and general-purpose digital twins for optimizing integrated freight systems from multimodal to synchromodal paradigms.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:21:15.915Z

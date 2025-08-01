@@ -1,0 +1,12 @@
+# Data Publishing in Mechanics and Dynamics: Challenges, Guidelines, and Examples from Engineering Design
+
+**Authors:** Henrik Ebel, Jan van Delden, Timo Lüddecke, Aditya Borse, Rutwik Gulakala, Marcus Stoffel, Manish Yadav, Merten Stender, Leon Schindler, Kristin Miriam de Payrebrune, Maximilian Raff, C. David Remy, Benedict Röder, Rohit Raj, Tobias Rentschler, Alexander Tismer, Stefan Riedelbauch, Peter Eberhard
+
+## Summary
+Data-based methods have gained increasing importance in engineering, especially but not only driven by successes with deep artificial neural networks. Success stories are prevalent, e.g., in areas such as data-driven modeling, control and automation, as well as surrogate modeling for accelerated simulation. Beyond engineering, generative and large-language models are increasingly helping with tasks that, previously, were solely associated with creative human processes. Thus, it seems timely to seek artificial-intelligence-support for engineering design tasks to automate, help with, or accelerate purpose-built designs of engineering systems, e.g., in mechanics and dynamics, where design so far requires a lot of specialized knowledge. However, research-wise, compared to established, predominantly first-principles-based methods, the datasets used for training, validation, and test become an almost inherent part of the overall methodology. Thus, data publishing becomes just as important in (data-driven) engineering science as appropriate descriptions of conventional methodology in publications in the past. This article analyzes the value and challenges of data publishing in mechanics and dynamics, in particular regarding engineering design tasks, showing that the latter raise also challenges and considerations not typical in fields where data-driven methods have been booming originally. Possible ways to deal with these challenges are discussed and a set of examples from across different design problems shows how data publishing can be put into practice. The analysis, discussions, and examples are based on the research experience made in a priority program of the German research foundation focusing on research on artificially intelligent design assistants in mechanics and dynamics.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T15:58:31.884Z

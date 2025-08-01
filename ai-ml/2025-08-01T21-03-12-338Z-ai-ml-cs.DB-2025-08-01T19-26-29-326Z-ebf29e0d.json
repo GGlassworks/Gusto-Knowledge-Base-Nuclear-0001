@@ -1,0 +1,12 @@
+# The Minimum Description Length Principle for Pattern Mining: A Survey
+
+**Authors:** Esther Galbrun
+
+## Summary
+This is about the Minimum Description Length (MDL) principle applied to pattern mining. The length of this description is kept to the minimum. Mining patterns is a core task in data analysis and, beyond issues of efficient enumeration, the selection of patterns constitutes a major challenge. The MDL principle, a model selection method grounded in information theory, has been applied to pattern mining with the aim to obtain compact high-quality sets of patterns. After giving an outline of relevant concepts from information theory and coding, as well as of work on the theory behind the MDL and similar principles, we review MDL-based methods for mining various types of data and patterns. Finally, we open a discussion on some issues regarding these methods, and highlight currently active related data analysis problems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DB
+Collected: 2025-08-01T19:26:29.327Z

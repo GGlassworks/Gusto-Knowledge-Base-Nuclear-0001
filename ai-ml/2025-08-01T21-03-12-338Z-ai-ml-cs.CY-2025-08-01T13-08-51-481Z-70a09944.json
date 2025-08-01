@@ -1,0 +1,12 @@
+# Blockchain: A Graph Primer
+
+**Authors:** Cuneyt Gurcan Akcora, Yulia R. Gel, Murat Kantarcioglu
+
+## Summary
+Bitcoin and its underlying technology, blockchain, have gained significant popularity in recent years. Satoshi Nakamoto designed Bitcoin to enable a secure, distributed platform without the need for central authorities, and blockchain has been hailed as a paradigm that will be as impactful as Big Data, Cloud Computing, and Machine Learning. Blockchain incorporates innovative ideas from various fields, such as public-key encryption and distributed systems. As a result, readers often encounter resources that explain Blockchain technology from a single perspective, leaving them with more questions than answers. In this primer, we aim to provide a comprehensive view of blockchain. We will begin with a brief history and introduce the building blocks of the blockchain. As graph mining is a major area of blockchain analysis, we will delve into the graph-theoretical aspects of Blockchain technology. We will also discuss the future of blockchain and explain how extensions such as smart contracts and decentralized autonomous organizations will function. Our goal is to provide a concise but complete description of blockchain technology that is accessible to readers with no prior expertise in the field.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T13:08:51.481Z

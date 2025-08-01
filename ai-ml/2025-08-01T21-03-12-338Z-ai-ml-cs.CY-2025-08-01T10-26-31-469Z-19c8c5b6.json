@@ -1,0 +1,12 @@
+# Enhancing Selection of Climate Tech Startups with AI -- A Case Study on Integrating Human and AI Evaluations in the ClimaTech Great Global Innovation Challenge
+
+**Authors:** Jennifer Turliuk, Alejandro Sevilla, Daniela Gorza, Tod Hynes
+
+## Summary
+This case study examines the ClimaTech Great Global Innovation Challenge's approach to selecting climate tech startups by integrating human and AI evaluations. The competition aimed to identify top startups and enhance the accuracy and efficiency of the selection process through a hybrid model. Research shows data-driven approaches help VC firms reduce bias and improve decision-making. Machine learning models have outperformed human investors in deal screening, helping identify high-potential startups. Incorporating AI aimed to ensure more equitable and objective evaluations. The methodology included three phases: initial AI review, semi-finals judged by humans, and finals using a hybrid weighting. In phase one, 57 applications were scored by an AI tool built with StackAI and OpenAI's GPT-4o, and the top 36 advanced. In the semi-finals, human judges, unaware of AI scores, evaluated startups on team quality, market potential, and technological innovation. Each score - human or AI - was weighted equally, resulting in 75 percent human and 25 percent AI influence. In the finals, with five human judges, weighting shifted to 83.3 percent human and 16.7 percent AI. There was a moderate positive correlation between AI and human scores - Spearman's = 0.47 - indicating general alignment with key differences. Notably, the final four startups, selected mainly by humans, were among those rated highest by the AI. This highlights the complementary nature of AI and human judgment. The study shows that hybrid models can streamline and improve startup assessments. The ClimaTech approach offers a strong framework for future competitions by combining human expertise with AI capabilities.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:26:31.469Z

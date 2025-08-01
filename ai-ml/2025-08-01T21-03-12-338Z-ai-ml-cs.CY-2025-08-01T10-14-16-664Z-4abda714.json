@@ -1,0 +1,12 @@
+# Exosoul: ethical profiling in the digital world
+
+**Authors:** Costanza Alfieri, Paola Inverardi, Patrizio Migliarini, Massimiliano Palmiero
+
+## Summary
+The development and the spread of increasingly autonomous digital technologies in our society pose new ethical challenges beyond data protection and privacy violation. Users are unprotected in their interactions with digital technologies and at the same time autonomous systems are free to occupy the space of decisions that is prerogative of each human being. In this context the multidisciplinary project Exosoul aims at developing a personalized software exoskeleton which mediates actions in the digital world according to the moral preferences of the user. The exoskeleton relies on the ethical profiling of a user, similar in purpose to the privacy profiling proposed in the literature, but aiming at reflecting and predicting general moral preferences. Our approach is hybrid, first based on the identification of profiles in a top-down manner, and then on the refinement of profiles by a personalized data-driven approach. In this work we report our initial experiment on building such top-down profiles. We consider the correlations between ethics positions (idealism and relativism) personality traits (honesty/humility, conscientiousness, Machiavellianism and narcissism) and worldview (normativism), and then we use a clustering approach to create ethical profiles predictive of user's digital behaviors concerning privacy violation, copy-right infringements, caution and protection. Data were collected by administering a questionnaire to 317 young individuals. In the paper we discuss two clustering solutions, one data-driven and one model-driven, in terms of validity and predictive power of digital behavior.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:16.664Z

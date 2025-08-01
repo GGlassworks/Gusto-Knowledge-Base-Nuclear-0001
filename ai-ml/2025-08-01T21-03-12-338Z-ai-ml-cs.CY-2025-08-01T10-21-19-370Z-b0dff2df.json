@@ -1,0 +1,12 @@
+# Towards a conceptual model for the FAIR Digital Object Framework
+
+**Authors:** Luiz Olavo Bonino da Silva Santos, Tiago Prince Sales, Claudenir M. Fonseca, Giancarlo Guizzardi
+
+## Summary
+The FAIR principles define a number of expected behaviours for the data and services ecosystem with the goal of improving the findability, accessibility, interoperability, and reusability of digital objects. A key aspiration of the principles is that they would lead to a scenario where autonomous computational agents are capable of performing a ``self-guided exploration of the global data ecosystem,'' and act properly with the encountered variety of types, formats, access mechanisms and protocols. The lack of support for some of these expected behaviours by current information infrastructures such as the internet and the World Wide Web motivated the emergence, in the last years, of initiatives such as the FAIR Digital Objects (FDOs) movement. This movement aims at an infrastructure where digital objects can be exposed and explored according to the FAIR principles. In this paper, we report the current status of the work towards an ontology-driven conceptual model for FAIR Digital Objects. The conceptual model covers aspects of digital objects that are relevant to the FAIR principles such as the distinction between metadata and the digital object it describes, the classification of digital objects in terms of both their informational value and their computational representation format, and the relation between different types of FAIR Digital Objects.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:21:19.371Z

@@ -1,0 +1,12 @@
+# AITEE -- Agentic Tutor for Electrical Engineering
+
+**Authors:** Christopher Knievel, Alexander Bernhardt, Christian Bernhardt
+
+## Summary
+Intelligent tutoring systems combined with large language models offer a promising approach to address students' diverse needs and promote self-efficacious learning. While large language models possess good foundational knowledge of electrical engineering basics, they remain insufficiently capable of addressing specific questions about electrical circuits. In this paper, we present AITEE, an agent-based tutoring system for electrical engineering designed to accompany students throughout their learning process, offer individualized support, and promote self-directed learning. AITEE supports both hand-drawn and digital circuits through an adapted circuit reconstruction process, enabling natural interaction with students. Our novel graph-based similarity measure identifies relevant context from lecture materials through a retrieval augmented generation approach, while parallel Spice simulation further enhances accuracy in applying solution methodologies. The system implements a Socratic dialogue to foster learner autonomy through guided questioning. Experimental evaluations demonstrate that AITEE significantly outperforms baseline approaches in domain-specific knowledge application, with even medium-sized LLM models showing acceptable performance. Our results highlight the potential of agentic tutors to deliver scalable, personalized, and effective learning environments for electrical engineering education.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T15:34:51.738Z

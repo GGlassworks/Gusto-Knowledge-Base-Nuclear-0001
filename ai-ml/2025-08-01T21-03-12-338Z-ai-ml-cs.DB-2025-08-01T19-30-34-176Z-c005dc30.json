@@ -1,0 +1,12 @@
+# Very Large Language Model as a Unified Methodology of Text Mining
+
+**Authors:** Meng Jiang
+
+## Summary
+Text data mining is the process of deriving essential information from language text. Typical text mining tasks include text categorization, text clustering, topic modeling, information extraction, and text summarization. Various data sets are collected and various algorithms are designed for the different types of tasks. In this paper, I present a blue sky idea that very large language model (VLLM) will become an effective unified methodology of text mining. I discuss at least three advantages of this new methodology against conventional methods. Finally I discuss the challenges in the design and development of VLLM techniques for text mining.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DB
+Collected: 2025-08-01T19:30:34.177Z

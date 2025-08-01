@@ -1,0 +1,12 @@
+# Confronting the Carbon-footprint Challenge of Blockchain
+
+**Authors:** Xiaoyang Shi, Hang Xiao, Weifeng Liu, Xi Chen, Klaus. S. Lackner, Vitalik Buterin, Thomas F. Stocker
+
+## Summary
+The distributed consensus mechanism is the backbone of the rapidly developing blockchain network. Blockchain platforms consume vast amounts of electricity based on the current consensus mechanism of Proof of Work. Here, we point out an advanced consensus mechanism named Proof of Stake that can eliminate the extensive energy consumption of the current PoW-based blockchain. We comprehensively elucidate the current and projected energy consumption and carbon footprint of the PoW and PoS based Bitcoin and Ethereum blockchain platforms.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T13:10:49.656Z

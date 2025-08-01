@@ -1,0 +1,12 @@
+# Artificial Intelligence for the Metaverse: A Survey
+
+**Authors:** Thien Huynh-The, Quoc-Viet Pham, Xuan-Qui Pham, Thanh Thi Nguyen, Zhu Han, Dong-Seong Kim
+
+## Summary
+Along with the massive growth of the Internet from the 1990s until now, various innovative technologies have been created to bring users breathtaking experiences with more virtual interactions in cyberspace. Many virtual environments with thousands of services and applications, from social networks to virtual gaming worlds, have been developed with immersive experience and digital transformation, but most are incoherent instead of being integrated into a platform. In this context, metaverse, a term formed by combining meta and universe, has been introduced as a shared virtual world that is fueled by many emerging technologies, such as fifth-generation networks and beyond, virtual reality, and artificial intelligence (AI). Among such technologies, AI has shown the great importance of processing big data to enhance immersive experience and enable human-like intelligence of virtual agents. In this survey, we make a beneficial effort to explore the role of AI in the foundation and development of the metaverse. We first deliver a preliminary of AI, including machine learning algorithms and deep learning architectures, and its role in the metaverse. We then convey a comprehensive investigation of AI-based methods concerning six technical aspects that have potentials for the metaverse: natural language processing, machine vision, blockchain, networking, digital twin, and neural interface, and being potential for the metaverse. Subsequently, several AI-aided applications, such as healthcare, manufacturing, smart cities, and gaming, are studied to be deployed in the virtual worlds. Finally, we conclude the key contribution of this survey and open some future research directions in AI for the metaverse.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:16:14.643Z

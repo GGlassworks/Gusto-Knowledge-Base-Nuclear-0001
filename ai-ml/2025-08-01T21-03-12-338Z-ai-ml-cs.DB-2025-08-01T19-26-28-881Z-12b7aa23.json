@@ -1,0 +1,12 @@
+# Explainable Fuzzy Utility Mining on Sequences
+
+**Authors:** Wensheng Gan, Zilin Du, Weiping Ding, Chunkai Zhang, Han-Chieh Chao
+
+## Summary
+Fuzzy systems have good modeling capabilities in several data science scenarios, and can provide human-explainable intelligence models with explainability and interpretability. In contrast to transaction data, which have been extensively studied, sequence data are more common in real-life applications. To obtain a human-explainable data intelligence model for decision making, in this study, we investigate explainable fuzzy-theoretic utility mining on multi-sequences. Meanwhile, a more normative formulation of the problem of fuzzy utility mining on sequences is formulated. By exploring fuzzy set theory for utility mining, we propose a novel method termed pattern growth fuzzy utility mining (PGFUM) for mining fuzzy high-utility sequences with linguistic meaning. In the case of sequence data, PGFUM reflects the fuzzy quantity and utility regions of sequences. To improve the efficiency and feasibility of PGFUM, we develop two compressed data structures with explainable fuzziness. Furthermore, one existing and two new upper bounds on the explainable fuzzy utility of candidates are adopted in three proposed pruning strategies to substantially reduce the search space and thus expedite the mining process. Finally, the proposed PGFUM algorithm is compared with PFUS, which is the only currently available method for the same task, through extensive experimental evaluation. It is demonstrated that PGFUM achieves not only human-explainable mining results that contain the original nature of revealable intelligibility, but also high efficiency in terms of runtime and memory cost.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DB
+Collected: 2025-08-01T19:26:28.882Z

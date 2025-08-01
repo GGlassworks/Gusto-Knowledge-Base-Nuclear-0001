@@ -1,0 +1,12 @@
+# FAIR 2.0: Extending the FAIR Guiding Principles to Address Semantic Interoperability
+
+**Authors:** Lars Vogt, Philip Strömert, Nicolas Matentzoglu, Naouel Karam, Marcel Konrad, Manuel Prinz, Roman Baum
+
+## Summary
+FAIR data presupposes their successful communication between machines and humans while preserving their meaning and reference, requiring all parties involved to share the same background knowledge. Inspired by English as a natural language, we investigate the linguistic structure that ensures reliable communication of information and draw parallels with data structures, understanding both as models of systems of interest. We conceptualize semantic interoperability as comprising terminological and propositional interoperability. The former includes ontological (i.e., same meaning) and referential (i.e., same referent/extension) interoperability and the latter schema (i.e., same data schema) and logical (i.e., same logical framework) interoperability. Since no best ontology and no best data schema exists, establishing semantic interoperability and FAIRness of data and metadata requires the provision of a comprehensive set of relevant ontological and referential entity mappings and schema crosswalks. We therefore propose appropriate additions to the FAIR Guiding Principles, leading to FAIR 2.0. Furthermore, achieving FAIRness of data requires the provision of FAIR services in addition to organizing data into FAIR Digital Objects. FAIR services include a terminology, a schema, and an operations service.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DB
+Collected: 2025-08-01T10:21:11.344Z

@@ -1,0 +1,12 @@
+# Toward a Real-Time Digital Twin Framework for Infection Mitigation During Air Travel
+
+**Authors:** Ashok Srinivasan, Satkkeerthi Sriram, Sirish Namilae, Andrew Arash Mahyari
+
+## Summary
+Pedestrian dynamics simulates the fine-scaled trajectories of individuals in a crowd. It has been used to suggest public health interventions to reduce infection risk in important components of air travel, such as during boarding and in airport security lines. Due to inherent variability in human behavior, it is difficult to generalize simulation results to new geographic, cultural, or temporal contexts. A digital twin, relying on real-time data, such as video feeds, can resolve this limitation. This paper addresses the following critical gaps in knowledge required for a digital twin. (1) Pedestrian dynamics models currently lack accurate representations of collision avoidance behavior when two moving pedestrians try to avoid collisions. (2) It is not known whether data assimilation techniques designed for physical systems are effective for pedestrian dynamics. We address the first limitation by training a model with data from offline video feeds of collision avoidance to simulate these trajectories realistically, using symbolic regression to identify unknown functional forms. We address the second limitation by showing that pedestrian dynamics with data assimilation can predict pedestrian trajectories with sufficient accuracy. These results promise to enable the development of a digital twin for pedestrian movement in airports that can help with real-time crowd management to reduce health risks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:18.912Z

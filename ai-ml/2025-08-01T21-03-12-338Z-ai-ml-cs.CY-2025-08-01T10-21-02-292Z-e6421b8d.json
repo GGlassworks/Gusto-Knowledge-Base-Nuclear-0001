@@ -1,0 +1,12 @@
+# Charting the Parrot's Song: A Maximum Mean Discrepancy Approach to Measuring AI Novelty, Originality, and Distinctiveness
+
+**Authors:** Anirban Mukherjee, Hannah Hanwen Chang
+
+## Summary
+Current intellectual property frameworks struggle to evaluate the novelty of AI-generated content, relying on subjective assessments ill-suited for comparing effectively infinite AI outputs against prior art. This paper introduces a robust, quantitative methodology grounded in Maximum Mean Discrepancy (MMD) to measure distributional differences between generative processes. By comparing entire output distributions rather than conducting pairwise similarity checks, our approach directly contrasts creative processes--overcoming the computational challenges inherent in evaluating AI outputs against unbounded prior art corpora. Through experiments combining kernel mean embeddings with domain-specific machine learning representations (LeNet-5 for MNIST digits, CLIP for art), we demonstrate exceptional sensitivity: our method distinguishes MNIST digit classes with 95% confidence using just 5-6 samples and differentiates AI-generated art from human art in the AI-ArtBench dataset (n=400 per category; p&lt;0.0001) using as few as 7-10 samples per distribution despite human evaluators' limited discrimination ability (58% accuracy). These findings challenge the "stochastic parrot" hypothesis by providing empirical evidence that AI systems produce outputs from semantically distinct distributions rather than merely replicating training data. Our approach bridges technical capabilities with legal doctrine, offering a pathway to modernize originality assessments while preserving intellectual property law's core objectives. This research provides courts and policymakers with a computationally efficient, legally relevant tool to quantify AI novelty--a critical advancement as AI blurs traditional authorship and inventorship boundaries.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:21:02.293Z

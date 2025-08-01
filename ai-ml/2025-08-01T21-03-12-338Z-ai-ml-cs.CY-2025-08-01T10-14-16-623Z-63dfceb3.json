@@ -1,0 +1,12 @@
+# Developing a Trusted Human-AI Network for Humanitarian Benefit
+
+**Authors:** Susannah Kate Devitt, Jason Scholz, Timo Schless, Larry Lewis
+
+## Summary
+Artificial intelligences (AI) will increasingly participate digitally and physically in conflicts, yet there is a lack of trused communications with humans for humanitarian purposes. In this paper we consider the integration of a communications protocol (the 'whiteflag protocol'), distributed ledger 'blockchain' technology, and information fusion with AI, to improve conflict communications called 'protected assurance understanding situation and entitities' PAUSE. Such a trusted human-AI communication network could provide accountable information exchange regarding protected entities, critical infrastructure, humanitiarian signals and status updates for humans and machines in conflicts. We examine several realistic potential case studies for the integration of these technologies into a trusted human-AI network for humanitarian benefit including mapping a conflict zone with civilians and combatants in real time, preparation to avoid incidents and using the network to manage misinformation. We finish with a real-world example of a PAUSE-like network, the Human Security Information System (HSIS), being developed by USAID, that uses blockchain technology to provide a secure means to better understand the civilian environment.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:16.623Z

@@ -1,0 +1,12 @@
+# Distributed Nonblocking Commit Protocols for Many-Party Cross-Blockchain Transactions
+
+**Authors:** Xinying Wang, Olamide Timothy Tawose, Feng Yan, Dongfang Zhao
+
+## Summary
+The interoperability across multiple blockchains would play a critical role in future blockchain-based data management paradigm. Existing techniques either work only for two blockchains or requires a centralized component to govern the cross-blockchain transaction execution, neither of which would meet the scalability requirement. This paper proposes a new distributed commit protocol, namely \textit{cross-blockchain transaction} (CBT), for conducting transactions across an arbitrary number of blockchains without any centralized component. The key idea of CBT is to extend the two-phase commit protocol with a heartbeat mechanism to ensure the liveness of CBT without introducing additional nodes or blockchains. We have implemented CBT and compared it to the state-of-the-art protocols, demonstrating CBT's low overhead (3.6\% between two blockchains, less than $1\%$ among 32 or more blockchains) and high scalability (linear scalability on up to 64-blockchain transactions). In addition, we developed a graphic user interface for users to virtually monitor the status of the cross-blockchain transactions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DB
+Collected: 2025-08-01T11:06:49.814Z

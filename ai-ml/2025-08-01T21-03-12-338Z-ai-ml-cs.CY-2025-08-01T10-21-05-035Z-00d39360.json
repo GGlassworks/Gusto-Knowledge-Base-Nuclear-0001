@@ -1,0 +1,12 @@
+# The Measurement Imbalance in Agentic AI Evaluation Undermines Industry Productivity Claims
+
+**Authors:** Kiana Jafari Meimandi, Gabriela Aránguiz-Dias, Grace Ra Kim, Lana Saadeddin, Mykel J. Kochenderfer
+
+## Summary
+As industry reports claim agentic AI systems deliver double-digit productivity gains and multi-trillion dollar economic potential, the validity of these claims has become critical for investment decisions, regulatory policy, and responsible technology adoption. However, this paper demonstrates that current evaluation practices for agentic AI systems exhibit a systemic imbalance that calls into question prevailing industry productivity claims. Our systematic review of 84 papers (2023--2025) reveals an evaluation imbalance where technical metrics dominate assessments (83%), while human-centered (30%), safety (53%), and economic assessments (30%) remain peripheral, with only 15% incorporating both technical and human dimensions. This measurement gap creates a fundamental disconnect between benchmark success and deployment value. We present evidence from healthcare, finance, and retail sectors where systems excelling on technical metrics failed in real-world implementation due to unmeasured human, temporal, and contextual factors. Our position is not against agentic AI's potential, but rather that current evaluation frameworks systematically privilege narrow technical metrics while neglecting dimensions critical to real-world success. We propose a balanced four-axis evaluation model and call on the community to lead this paradigm shift because benchmark-driven optimization shapes what we build. By redefining evaluation practices, we can better align industry claims with deployment realities and ensure responsible scaling of agentic systems in high-stakes domains.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:21:05.035Z

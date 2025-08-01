@@ -1,0 +1,12 @@
+# Transforming Redaction: How AI is Revolutionizing Data Protection
+
+**Authors:** Sida Peng, Ming-Jen Huang, Matt Wu, Jeremy Wei
+
+## Summary
+Document redaction is a crucial process in various sectors to safeguard sensitive information from unauthorized access and disclosure. Traditional manual redaction methods, such as those performed using Adobe Acrobat, are labor-intensive, error-prone, and time-consuming. With the burgeoning volume of digital documents, the demand for more efficient and accurate redaction techniques is intensifying. This study presents the findings from a controlled experiment that compares traditional manual redaction, a redaction tool powered by classical machine learning algorithm, and AI-assisted redaction tools (iDox.ai Redact). The results indicate that iDox.ai Redact significantly outperforms manual methods, achieving higher accuracy and faster completion times. Conversely, the competitor product, classical machine learning algorithm and with necessitates manual intervention for certain sensitive data types, did not exhibit a statistically significant improvement over manual redaction. These findings suggest that while advanced AI technologies like iDox.ai Redact can substantially enhance data protection practices by reducing human error and improving compliance with data protection regulations, there remains room for improvement in AI tools that do not fully automate the redaction process. Future research should aim to enhance AI capabilities and explore their applicability across various document types and professional settings.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:16:24.529Z
