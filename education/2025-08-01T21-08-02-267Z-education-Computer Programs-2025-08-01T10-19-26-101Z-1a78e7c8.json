@@ -1,0 +1,13 @@
+# Algorithms for Computation of Fundamental Properties of Seawater. Endorsed by Unesco/SCOR/ICES/IAPSO Joint Panel on Oceanographic Tables and Standards and SCOR Working Group 51. Unesco Technical Papers in Marine Science, No. 44.
+
+**Authors:** Fofonoff, N. P., Millard, R. C., Jr.
+
+## Abstract
+Algorithms for computation of fundamental properties of seawater, based on the practicality salinity scale (PSS-78) and the international equation of state for seawater (EOS-80), are compiled in the present report for implementing and standardizing computer programs for oceanographic data processing. Sample FORTRAN subprograms and tables are given to illustrate usage of the algorithms and to show the range of variation and limits of validity of commonly used seawater properties within the oceanic ranges for salinity, temperature, and pressure. The algorithms cover the following: conductivity to salinity conversion; salinity to conductivity conversion; specific volume anomaly and density anomaly of seawater; pressure to depth conversion; freezing point temperature of seawater;  specific heat of seawater; adiabatic lapse rate; potential temperature; and sound speed in seawater. (Author)
+
+**Source:** https://eric.ed.gov/?id=ED261897
+
+---
+Category: education
+Subcategory: Computer Programs
+Collected: 2025-08-01T10:19:26.101Z
