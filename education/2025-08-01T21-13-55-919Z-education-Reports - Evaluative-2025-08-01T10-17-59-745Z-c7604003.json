@@ -1,0 +1,13 @@
+# An Optimization Model for Test Assembly To Match Observed-Score Distributions. Research Report 94-7.
+
+**Authors:** van der Linden, Wim J., Luecht, Richard M.
+
+## Abstract
+An optimization model is presented that allows test assemblers to control the shape of the observed-score distribution on a test for a population with a known ability distribution. An obvious application is for item response theory-based test assembly in programs where observed scores are reported and operational test forms are required to produce the same observed-score distributions as long as the population of examinees remains stable. The model belongs to the class of 0-1 linear programming models and constrains the characteristic function of the test. The model can be solved using the heuristic presented in Luecht and T. M. Hirsch (1992). An empirical example with item parameters from the ACT Assessment Program Mathematics Test illustrates the use of the model. (Contains 6  figures and 23 references.) (Author)
+
+**Source:** https://eric.ed.gov/?id=ED389752
+
+---
+Category: education
+Subcategory: Reports - Evaluative
+Collected: 2025-08-01T10:17:59.745Z

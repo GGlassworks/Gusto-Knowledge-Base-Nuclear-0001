@@ -1,0 +1,13 @@
+# A Testbed for Advancing the Role of Digital Technologies for Library Preservation and Access. Final Report.
+
+**Authors:** Kenney, Anne R., Personius, Lynne K.
+
+## Abstract
+In cooperation with the Commission on Preservation and Access, Xerox Corporation, Sun Microsystems, Inc., and the New York State Program for the Conservation and Preservation of Library Research Materials, Cornell University (New York) studied and established the effectiveness of digital technology to preserve and make available research library materials, evaluated image capture quality in binary scanning, digital computer output microfilm, and extended network access to the Digital Library through a client/server architecture. The main conclusions of the project are: (1) effective access over the Internet to an image-based digital library can be achieved from a variety of workstations; (2) Cornell has defined and will implement a digital document control structure that  incorporates the best features of various Xerox prototype systems; (3) digital computer output microfilm that meets national standards for quality can be produced from 600 dpi (dots per inch) binary scanning; (4) binary scanning can reproduce many categories of printed illustrations and archival material in a manner superior or comparable to the quality obtained with standard light lens photocopy and microfilm processes; and (5) the infrastructure developed for library preservation and access activities supports other applications in the electronic dissemination of information. Five appendices cover: the CLASS scanning system; document architecture description; testbed description; &quot;DocuTech-printed&quot; examples; and screen descriptions from digital library UNIX client. (SWC)
+
+**Source:** https://eric.ed.gov/?id=ED403910
+
+---
+Category: education
+Subcategory: Reports - Evaluative
+Collected: 2025-08-01T10:17:03.814Z

@@ -1,0 +1,13 @@
+# Data Mining and Knowledge Management in Higher Education -Potential Applications.
+
+**Authors:** Luan, Jing
+
+## Abstract
+This paper introduces a new decision support tool, data mining, in the context of knowledge management. The most striking features of data mining techniques are clustering and prediction. The clustering aspect of data mining offers comprehensive characteristics analysis of students, while the predicting function estimates the likelihood for a variety of outcomes, such as transferability, persistence, retention, and success in classes. Compared to traditional analytical studies that are often hindsight and aggregate in nature, data mining is forward looking and is oriented to individual students. A real life project presents the work of data mining in predicting the possibility of return to school for every student currently enrolled at a community college in Silicon Valley. The  project applies neural network techniques and two rule induction algorithms, C&amp;RT and C5.0, to choose the best prediction followed by a clustering analysis using TwoStep. The list of students who are predicted as less likely to return to school by data mining is then turned over to faculty and management for direct and indirect intervention. The paper also discusses potential applications of data mining in higher education. The benefits of data mining are its ability to gain deeper understanding of the patterns previously unseen using current available reporting capacities. In addition, prediction from data mining allows the college an opportunity to act before a student drops out or to plan for resource allocation with confidence gained from knowing how many students will transfer or  take a particular course. An appendix discusses Cross Industry Standard Procedures for Data Mining. (Contains 4 tables and 10 references.) (Author/SLD)
+
+**Source:** https://eric.ed.gov/?id=ED474143
+
+---
+Category: education
+Subcategory: Reports - Descriptive
+Collected: 2025-08-01T19:25:58.923Z

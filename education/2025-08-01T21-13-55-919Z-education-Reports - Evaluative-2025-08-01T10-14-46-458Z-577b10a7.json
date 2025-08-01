@@ -1,0 +1,13 @@
+# Making Technology Work for Scholarship: Investing in the Data.
+
+**Authors:** Hockey, Susan
+
+## Abstract
+This paper examines issues related to how providers and consumers can make the best use of electronic information, focusing on the humanities. Topics include: new technology or old; electronic text and data formats; Standard Generalized Markup Language (SGML); text encoding initiative; encoded archival description (EAD); other applications of SGML; the relationship between SGML, HTML (HyperText Markup Language) and XML (Extensible Markup Language); SGML and new models of scholarship; and making SGML work effectively. Long before digital libraries became popular, live electronic text was being created for many different purposes, most often, with word processing or typesetting programs. Other electronic texts were created for the purposes of retrieval and analysis. Another  commonly used method of storing and retrieving information is a relational database, in which data is assumed to take the form of one or more tables consisting of rows and columns. SGML was designed as a general purpose markup scheme that can be applied to any electronic information. In SGML terms, objects within a document are called elements; the syntax allows the document designer to specify all the possible elements as a Document Type Declaration (DTD) which is a kind of formal model of document structure. The formal structure of SGML means that the encoding of a document can be validated automatically, a process known as parsing. The humanities computing community was among the early adopters of SGML. Following a planning meeting at which representatives of leading humanities  computing projects were present, a major international project called the Text Encoding Initiative (TEI) was launched. The TEI SGML application is built on the assumption that all text share some common core of features to which can be added tags for specific application areas. Another SGML application which has attracted a lot of attention in the scholarly community and archival world is the Encoded Archival Description (EAD). Attention must now turn to making SGML work more effectively. (AEF)
+
+**Source:** https://eric.ed.gov/?id=ED414932
+
+---
+Category: education
+Subcategory: Reports - Evaluative
+Collected: 2025-08-01T10:14:46.458Z

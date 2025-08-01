@@ -1,0 +1,13 @@
+# Digital Audio Sampling for Film and Video.
+
+**Authors:** Stanton, Michael J.
+
+## Abstract
+Digital audio sampling is explained, and some of its implications in digital sound applications are discussed. Digital sound equipment is rapidly replacing analog recording devices as the state-of-the-art in audio technology. The philosophy of digital recording involves doing away with the continuously variable analog waveforms and turning the patterns into numbers. A digital recording device rapidly samples the incoming sounds, quantifying the signal into a series of numerical values (binary codes). Although digital sound eliminates many of the traditional analog problems, digital signal processing presents key problems in sampling rates and synchronization. Careful control is necessary to check signals through each step in the audio chain. The advantages of digital audio  processing include increased signal-to-noise ratio, no flutter, transparent generation of copies, and sound manipulation. These benefits come with increased quality control requirements. One chart illustrates sampling formats. (SLD)
+
+**Source:** https://eric.ed.gov/?id=ED359937
+
+---
+Category: education
+Subcategory: Reports - Evaluative
+Collected: 2025-08-01T10:16:55.183Z
