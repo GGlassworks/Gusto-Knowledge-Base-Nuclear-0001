@@ -1,0 +1,13 @@
+# Differential Evolution for Neural Networks Optimization
+
+**Authors:** M. Baioletti, Gabriele Di Bari, A. Milani, V. Poggioni
+
+## Abstract
+In this paper, a Neural Networks optimizer based on Self-adaptive Differential Evolution is presented. This optimizer applies mutation and crossover operators in a new way, taking into account the structure of the network according to a per layer strategy. Moreover, a new crossover called interm is proposed, and a new self-adaptive version of DE called MAB-ShaDE is suggested to reduce the number of parameters. The framework has been tested on some well-known classification problems and a comparative study on the various combinations of self-adaptive methods, mutation, and crossover operators available in literature is performed. Experimental results show that DENN reaches good performances in terms of accuracy, better than or at least comparable with those obtained by backpropagation.
+
+**Source:** https://www.semanticscholar.org/paper/5973d6e6fb91b761a3ebe3e05ea0e4a472c661dd
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:39:23.872Z

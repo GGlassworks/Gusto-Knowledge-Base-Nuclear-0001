@@ -1,0 +1,13 @@
+# Nonlinear Principal Component Analysis by Neural Networks: Theory and Application to the Lorenz System
+
+**Authors:** A. Monahan
+
+## Abstract
+A nonlinear generalization of principal component analysis (PCA), denoted nonlinear principal component analysis (NLPCA), is implemented in a variational framework using a five-layer autoassociative feed-forward neural network. The method is tested on a dataset sampled from the Lorenz attractor, and it is shown that the NLPCA approximations to the attractor in one and two dimensions, explaining 76% and 99.5% of the variance, respectively, are superior to the corresponding PCA approximations, which respectively explain 60% (mode 1) and 95% (modes 1 and 2) of the variance. It is found that as noise is added to the Lorenz attractor, the NLPCA approximations remain superior to the PCA approximations until the noise level is so great that the lowerdimensional nonlinear structure of the data is no longer manifest to the eye. Finally, directions for future work are presented, and a cinematographic technique to visualize the results of NLPCA is discussed.
+
+**Source:** https://www.semanticscholar.org/paper/0b9396cecc518e22707e95619bfbaf36eb623fbc
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:37:23.782Z

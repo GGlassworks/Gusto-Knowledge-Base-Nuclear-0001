@@ -1,0 +1,13 @@
+# Exact Combinatorial Optimization with Graph Convolutional Neural Networks
+
+**Authors:** Maxime Gasse, D. Chételat, Nicola Ferroni, Laurent Charlin, Andrea Lodi
+
+## Abstract
+Combinatorial optimization problems are typically tackled by the branch-and-bound paradigm. We propose a new graph convolutional neural network model for learning branch-and-bound variable selection policies, which leverages the natural variable-constraint bipartite graph representation of mixed-integer linear programs. We train our model via imitation learning from the strong branching expert rule, and demonstrate on a series of hard problems that our approach produces policies that improve upon state-of-the-art machine-learning methods for branching and generalize to instances significantly larger than seen during training. Moreover, we improve for the first time over expert-designed branching rules implemented in a state-of-the-art solver on large problems. Code for reproducing all the experiments can be found at this https URL.
+
+**Source:** https://www.semanticscholar.org/paper/03097420a1c4b2500cec6f29740f9d3c2164168f
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:39:25.285Z

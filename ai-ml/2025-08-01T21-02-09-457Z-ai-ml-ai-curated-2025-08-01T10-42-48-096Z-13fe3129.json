@@ -1,0 +1,13 @@
+# A graph-based big data optimization approach using hidden Markov model and constraint satisfaction problem
+
+**Authors:** Imad Sassi, S. Anter, A. Bekkhoucha
+
+## Abstract
+To address the challenges of big data analytics, several works have focused on big data optimization using metaheuristics. The constraint satisfaction problem (CSP) is a fundamental concept of metaheuristics that has shown great efficiency in several fields. Hidden Markov models (HMMs) are powerful machine learning algorithms that are applied especially frequently in time series analysis. However, one issue in forecasting time series using HMMs is how to reduce the search space (state and observation space). To address this issue, we propose a graph-based big data optimization approach using a CSP to enhance the results of learning and prediction tasks of HMMs. This approach takes full advantage of both HMMs, with the richness of their algorithms, and CSPs, with their many powerful and efficient solver algorithms. To verify the validity of the model, the proposed approach is evaluated on real-world data using the mean absolute percentage error (MAPE) and other metrics as measures of the prediction accuracy. The conducted experiments show that the proposed model outperforms the conventional model. It reduces the MAPE by 0.71% and offers a particularly good trade-off between computational costs and the quality of results for large datasets. It is also competitive with benchmark models in terms of the running time and prediction accuracy. Further comparisons substantiate these experimental findings.
+
+**Source:** https://www.semanticscholar.org/paper/de26f6698accb4744823a2cb885b186825cde868
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:48.096Z

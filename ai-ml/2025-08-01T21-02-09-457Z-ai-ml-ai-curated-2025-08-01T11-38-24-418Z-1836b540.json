@@ -1,0 +1,13 @@
+# Photonic Neural Networks Applications
+
+**Authors:** B. Shastri, C. Huang, A. Tait, T. F. de Lima, P. Prucnal
+
+## Abstract
+Integrated optical neural networks are much smaller (hundreds of neurons) than electronic implementations (tens of millions of neurons). However, the bandwidth and interconnect density in optics is significantly superior to that in electronics. This raises a question: what are the applications where sub-nanosecond latencies and energy efficiency trump the sheer size of processor? This talk will discuss of photonic neural networks in computing, communication, and signal processing.
+
+**Source:** https://www.semanticscholar.org/paper/2f1f89ca11beb01b92a7b9503260ca6d9783eb77
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:38:24.422Z

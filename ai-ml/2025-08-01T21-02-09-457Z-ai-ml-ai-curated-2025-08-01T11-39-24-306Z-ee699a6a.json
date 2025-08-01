@@ -1,0 +1,13 @@
+# Combinatorial optimization and reasoning with graph neural networks
+
+**Authors:** Quentin Cappart, D. Chételat, Elias Boutros Khalil, Andrea Lodi, Christopher Morris, Petar Velickovic
+
+## Abstract
+Combinatorial optimization is a well-established area in operations research and computer science. Until recently, its methods have mostly focused on solving problem instances in isolation, ignoring the fact that they often stem from related data distributions in practice. However, recent years have seen a surge of interest in using machine learning, especially graph neural networks, as a key building block for combinatorial tasks, either directly as solvers or by enhancing the former. This paper presents a conceptual review of recent key advancements in this emerging field, aiming at researchers in both optimization and machine learning.
+
+**Source:** https://www.semanticscholar.org/paper/d596ac251729fc3647b08b51c5208fdf5414c7c1
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:39:24.307Z

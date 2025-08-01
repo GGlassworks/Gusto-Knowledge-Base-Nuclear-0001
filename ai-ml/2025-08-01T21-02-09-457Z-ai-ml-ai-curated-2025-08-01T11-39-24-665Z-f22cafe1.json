@@ -1,0 +1,13 @@
+# Combinatorial optimization with physics-inspired graph neural networks
+
+**Authors:** M. Schuetz, J. K. Brubaker, H. Katzgraber
+
+## Abstract
+Combinatorial optimization problems are pervasive across science and industry. Modern deep learning tools are poised to solve these problems at unprecedented scales, but a unifying framework that incorporates insights from statistical physics is still outstanding. Here we demonstrate how graph neural networks can be used to solve combinatorial optimization problems. Our approach is broadly applicable to canonical NP-hard problems in the form of quadratic unconstrained binary optimization problems, such as maximum cut, minimum vertex cover, maximum independent set, as well as Ising spin glasses and higher-order generalizations thereof in the form of polynomial unconstrained binary optimization problems. We apply a relaxation strategy to the problem Hamiltonian to generate a differentiable loss function with which we train the graph neural network and apply a simple projection to integer variables once the unsupervised training process has completed. We showcase our approach with numerical results for the canonical maximum cut and maximum independent set problems. We find that the graph neural network optimizer performs on par or outperforms existing solvers, with the ability to scale beyond the state of the art to problems with millions of variables. Combinatorial optimization, the search for the minimum of an objective function within a finite but very large set of candidate solutions, finds many important and challenging applications in science and industry. A new graph neural network deep learning approach that incorporates concepts from statistical physics is used to develop a robust solver that can tackle a large class of NP-hard combinatorial optimization problems.
+
+**Source:** https://www.semanticscholar.org/paper/84dbf3f70e0192e74674df29be5bb2bc7e3d9d97
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:39:24.665Z

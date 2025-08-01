@@ -1,0 +1,13 @@
+# Research progress in optical neural networks: theory, applications and developments
+
+**Authors:** Jia Liu, Qiuhao Wu, Xiubao Sui, Qian Chen, G. Gu, Liping Wang, Shengcai Li
+
+## Abstract
+With the advent of the era of big data, artificial intelligence has attracted continuous attention from all walks of life, and has been widely used in medical image analysis, molecular and material science, language recognition and other fields. As the basis of artificial intelligence, the research results of neural network are remarkable. However, due to the inherent defect that electrical signal is easily interfered and the processing speed is proportional to the energy loss, researchers have turned their attention to light, trying to build neural networks in the field of optics, making full use of the parallel processing ability of light to solve the problems of electronic neural networks. After continuous research and development, optical neural network has become the forefront of the world. Here, we mainly introduce the development of this field, summarize and compare some classical researches and algorithm theories, and look forward to the future of optical neural network.
+
+**Source:** https://www.semanticscholar.org/paper/8980a22236e3769ecda08e51d9fecb265f72ca18
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:37:22.674Z

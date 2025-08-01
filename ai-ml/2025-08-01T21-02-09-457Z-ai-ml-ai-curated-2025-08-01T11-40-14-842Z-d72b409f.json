@@ -1,0 +1,13 @@
+# Comparative Study of Neural Networks Algorithms for Cloud Computing CPU Scheduling
+
+**Authors:** Gibet Tani Hicham, El Amrani Chaker, Elaachak Lotfi
+
+## Abstract
+Cloud Computing is the most powerful computing model of our time. While the major IT providers and consumers are competing to exploit the benefits of this computing model in order to thrive their profits, most of the cloud computing platforms are still built on operating systems that uses basic CPU (Core Processing Unit) scheduling algorithms that lacks the intelligence needed for such innovative computing model. Correspdondingly, this paper presents the benefits of applying Artificial Neural Networks algorithms in regards to enhancing CPU scheduling for Cloud Computing model. Furthermore, a set of characteristics and theoretical metrics are proposed for the sake of comparing the different Artificial Neural Networks algorithms and finding the most accurate algorithm for Cloud Computing CPU Scheduling.
+
+**Source:** https://www.semanticscholar.org/paper/54c69189e1cf0e1fe8c0e01ba2ef450f433c4bbb
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:40:14.842Z

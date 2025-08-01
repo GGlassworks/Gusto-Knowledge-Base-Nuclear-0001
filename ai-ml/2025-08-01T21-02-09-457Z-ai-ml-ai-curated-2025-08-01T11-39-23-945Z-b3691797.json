@@ -1,0 +1,21 @@
+# Neural networks optimization through genetic algorithm searches: A review
+
+**Authors:** H. Chiroma, Ahmad ShukriMohd Noor, Sameem Abdulkareem, Adamu I. Abubakar, Arief Hermawan, Hongwu Qin, M. F. Hamza, T. Herawan
+
+## Abstract
+Neural networks and genetic algorithms are the two sophisticated machine learning techniques presently attracting attention 
+from scientists, engineers, and statisticians, among others. They have gained popularity in recent years. This paper presents a state of 
+the art review of the research conducted on the optimization of neural networks through genetic algorithm searches. Optimization is 
+aimed toward deviating from the limitations attributed to neural networks in order to solve complex and challenging problems. We 
+provide an analysis and synthesis of the research published in this area according to the application domain, neural network design 
+issues using genetic algorithms, types of neural networks and optimal values of genetic algorithm operators (population size, crossover 
+rate and mutation rate). This study may provide a proper guide for novice as well as expert researchers in the design of evolutionary 
+neural networks helping them choose suitable values of genetic algorithm operators for applications in a specific problem domain. 
+Further research direction, which has not received much attention from scholars, is unveiled.
+
+**Source:** https://www.semanticscholar.org/paper/e79084e11f8a938c8482a319578d360649f78f02
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:39:23.946Z

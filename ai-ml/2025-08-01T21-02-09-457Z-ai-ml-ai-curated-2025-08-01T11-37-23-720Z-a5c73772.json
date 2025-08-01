@@ -1,0 +1,13 @@
+# Theory for Equivariant Quantum Neural Networks
+
+**Authors:** Quynh T. Nguyen, Louis Schatzki, Paolo Braccia, Michael Ragone, Patrick J. Coles, F. Sauvage, Martín Larocca, M. Cerezo
+
+## Abstract
+Quantum neural network architectures that have little-to-no inductive biases are known to face trainability and generalization issues. Inspired by a similar problem, recent breakthroughs in machine learning address this challenge by creating models encoding the symmetries of the learning task. This is materialized through the usage of equivariant neural networks whose action commutes with that of the symmetry. In this work, we import these ideas to the quantum realm by presenting a comprehensive theoretical framework to design equivariant quantum neural networks (EQNN) for essentially any relevant symmetry group. We develop multiple methods to construct equivariant layers for EQNNs and analyze their advantages and drawbacks. Our methods can find unitary or general equivariant quantum channels efficiently even when the symmetry group is exponentially large or continuous. As a special implementation, we show how standard quantum convolutional neural networks (QCNN) can be generalized to group-equivariant QCNNs where both the convolution and pooling layers are equivariant to the symmetry group. We then numerically demonstrate the effectiveness of a SU(2)-equivariant QCNN over symmetry-agnostic QCNN on a classification task of phases of matter in the bond-alternating Heisenberg model. Our framework can be readily applied to virtually all areas of quantum machine learning. Lastly, we discuss about how symmetry-informed models such as EQNNs provide hopes to alleviate central challenges such as barren plateaus, poor local minima, and sample complexity.
+
+**Source:** https://www.semanticscholar.org/paper/f196364e75c53915a6d60b8f18cbcbb11f00f7f0
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:37:23.720Z

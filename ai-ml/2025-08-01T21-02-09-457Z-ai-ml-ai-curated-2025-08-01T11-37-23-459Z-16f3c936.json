@@ -1,0 +1,13 @@
+# Graph Neural Networks for Wireless Communications: From Theory to Practice
+
+**Authors:** Yifei Shen, Jun Zhang, Shenghui Song, K. Letaief
+
+## Abstract
+Deep learning-based approaches have been developed to solve challenging problems in wireless communications, leading to promising results. Early attempts adopted neural network architectures inherited from applications such as computer vision. They often yield poor performance in large scale networks (i.e., poor scalability) and unseen network settings (i.e., poor generalization). To resolve these issues, graph neural networks (GNNs) have been recently adopted, as they can effectively exploit the domain knowledge, i.e., the graph topology in wireless communications problems. GNN-based methods can achieve near-optimal performance in large-scale networks and generalize well under different system settings, but the theoretical underpinnings and design guidelines remain elusive, which may hinder their practical implementations. This paper endeavors to fill both the theoretical and practical gaps. For theoretical guarantees, we prove that GNNs achieve near-optimal performance in wireless networks with much fewer training samples than traditional neural architectures. Specifically, to solve an optimization problem on an <inline-formula> <tex-math notation="LaTeX">$n$ </tex-math></inline-formula>-node graph (where the nodes may represent users, base stations, or antennas), GNNs’ generalization error and required number of training samples are <inline-formula> <tex-math notation="LaTeX">$\mathcal {O}(n)$ </tex-math></inline-formula> and <inline-formula> <tex-math notation="LaTeX">$\mathcal {O}(n^{2})$ </tex-math></inline-formula> times lower than the unstructured multi-layer perceptrons. For design guidelines, we propose a unified framework that is applicable to general design problems in wireless networks, which includes graph modeling, neural architecture design, and theory-guided performance enhancement. Extensive simulations, which cover a variety of important problems and network settings, verify our theory and the effectiveness of the proposed design framework.
+
+**Source:** https://www.semanticscholar.org/paper/1ec4f1f88ba8bc12eaf3fe5d2fa7b997294b8c92
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:37:23.459Z

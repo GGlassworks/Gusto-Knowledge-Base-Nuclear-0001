@@ -1,0 +1,13 @@
+# Lipschitz constant estimation of Neural Networks via sparse polynomial optimization
+
+**Authors:** Fabian Latorre Gómez, Paul Rolland, V. Cevher
+
+## Abstract
+We introduce LiPopt, a polynomial optimization framework for computing increasingly tighter upper bounds on the Lipschitz constant of neural networks. The underlying optimization problems boil down to either linear (LP) or semidefinite (SDP) programming. We show how to use the sparse connectivity of a network, to significantly reduce the complexity of computation. This is specially useful for convolutional as well as pruned neural networks. We conduct experiments on networks with random weights as well as networks trained on MNIST, showing that in the particular case of the $\ell_\infty$-Lipschitz constant, our approach yields superior estimates, compared to baselines available in the literature.
+
+**Source:** https://www.semanticscholar.org/paper/5f80240a91e751565b1a7d28de80700b8126258c
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:39:25.155Z

@@ -1,0 +1,13 @@
+# Review of Image Classification Algorithms Based on Convolutional Neural Networks
+
+**Authors:** Leiyu Chen, Shaobo Li, Q. Bai, Jing Yang, Sanlong Jiang, Yanming Miao
+
+## Abstract
+Image classification has always been a hot research direction in the world, and the emergence of deep learning has promoted the development of this field. Convolutional neural networks (CNNs) have gradually become the mainstream algorithm for image classification since 2012, and the CNN architecture applied to other visual recognition tasks (such as object detection, object localization, and semantic segmentation) is generally derived from the network architecture in image classification. In the wake of these successes, CNN-based methods have emerged in remote sensing image scene classification and achieved advanced classification accuracy. In this review, which focuses on the application of CNNs to image classification tasks, we cover their development, from their predecessors up to recent state-of-the-art (SOAT) network architectures. Along the way, we analyze (1) the basic structure of artificial neural networks (ANNs) and the basic network layers of CNNs, (2) the classic predecessor network models, (3) the recent SOAT network algorithms, (4) comprehensive comparison of various image classification methods mentioned in this article. Finally, we have also summarized the main analysis and discussion in this article, as well as introduce some of the current trends.
+
+**Source:** https://www.semanticscholar.org/paper/774e0cce8bdd7f1ef41841dcdef058ac630f5db3
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:40:15.054Z

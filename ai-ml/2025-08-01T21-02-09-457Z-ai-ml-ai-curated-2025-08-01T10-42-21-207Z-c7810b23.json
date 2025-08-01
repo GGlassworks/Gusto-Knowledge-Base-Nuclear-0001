@@ -1,0 +1,13 @@
+# How big data enriches maritime research – a critical review of Automatic Identification System (AIS) data applications
+
+**Authors:** Dong Yang, Lingxiao Wu, Shuaian Wang, H. Jia, Kevin X. Li
+
+## Abstract
+ABSTRACT The information-rich vessel movement data provided by the Automatic Identification System (AIS) has gained much popularity over the past decade, during which the employment of satellite-based receivers has enabled wide coverage and improved data quality. The application of AIS data has developed from simply navigation-oriented research to now include trade flow estimation, emission accounting, and vessel performance monitoring. The AIS now provides high frequency, real-time positioning and sailing patterns for almost the whole world's commercial fleet, and therefore, in combination with supplementary databases and analyses, AIS data has arguably kickstarted the era of digitisation in the shipping industry. In this study, we conduct a comprehensive review of the literature regarding AIS applications by dividing it into three development stages, namely, basic application, extended application, and advanced application. Each stage contains two to three application fields, and in total we identified seven application fields, including (1) AIS data mining, (2) navigation safety, (3) ship behaviour analysis, (4) environmental evaluation, (5) trade analysis, (6) ship and port performance, and (7) Arctic shipping. We found that the original application of AIS data to navigation safety has, with the improvement of data accessibility, evolved into diverse applications in various directions. Moreover, we summarised the major methodologies in the literature into four categories, these being (1) data processing and mining, (2) index measurement, (3) causality analysis, and (4) operational research. Undoubtedly, the applications of AIS data will be further expanded in the foreseeable future. This will not only provide a more comprehensive understanding of voyage performance and allow researchers to examine shipping market dynamics from the micro level, but also the abundance of AIS data may also open up the rather opaque aspect of how shipping companies release information to external authorities, including the International Maritime Organization, port states, scientists and researchers. It is expected that more multi-disciplinary AIS studies will emerge in the coming years. We believe that this study will shed further light on the future development of AIS studies.
+
+**Source:** https://www.semanticscholar.org/paper/ffb2d6dba4c557d948ff0e8acd3d0dd09ef4e226
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:21.207Z

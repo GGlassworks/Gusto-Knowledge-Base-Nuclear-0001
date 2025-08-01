@@ -1,0 +1,13 @@
+# Artificial Neural Networks Based Optimization Techniques: A Review
+
+**Authors:** Maher G. M. Abdolrasol, S. Hussain, T. Ustun, M. R. Sarker, M. Hannan, R. Mohamed, J. Ali, S. Mekhilef, A. Milad
+
+## Abstract
+In the last few years, intensive research has been done to enhance artificial intelligence (AI) using optimization techniques. In this paper, we present an extensive review of artificial neural networks (ANNs) based optimization algorithm techniques with some of the famous optimization techniques, e.g., genetic algorithm (GA), particle swarm optimization (PSO), artificial bee colony (ABC), and backtracking search algorithm (BSA) and some modern developed techniques, e.g., the lightning search algorithm (LSA) and whale optimization algorithm (WOA), and many more. The entire set of such techniques is classified as algorithms based on a population where the initial population is randomly created. Input parameters are initialized within the specified range, and they can provide optimal solutions. This paper emphasizes enhancing the neural network via optimization algorithms by manipulating its tuned parameters or training parameters to obtain the best structure network pattern to dissolve the problems in the best way. This paper includes some results for improving the ANN performance by PSO, GA, ABC, and BSA optimization techniques, respectively, to search for optimal parameters, e.g., the number of neurons in the hidden layers and learning rate. The obtained neural net is used for solving energy management problems in the virtual power plant system.
+
+**Source:** https://www.semanticscholar.org/paper/7345f9493fc0eba1e8ccd1d7352394848952baa6
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:39:24.378Z

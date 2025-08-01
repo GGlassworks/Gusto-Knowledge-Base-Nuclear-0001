@@ -1,0 +1,13 @@
+# Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs
+
+**Authors:** Yun Liang, Liqiang Lu, Qingcheng Xiao, Shengen Yan
+
+## Abstract
+In recent years, convolutional neural networks (CNNs) have become widely adopted for computer vision tasks. Field-programmable gate arrays (FPGAs) have been adequately explored as a promising hardware accelerator for CNNs due to its high performance, energy efficiency, and reconfigurability. However, prior FPGA solutions based on the conventional convolutional algorithm is often bounded by the computational capability of FPGAs (e.g., the number of DSPs). To address this problem, the feature maps are transformed to a special domain using fast algorithms to reduce the arithmetic complexity. Winograd and fast Fourier transformation (FFT), as fast algorithm representatives, first transform input data and filter to Winograd or frequency domain, then perform element-wise multiplication, and apply inverse transformation to get the final output. In this paper, we propose a novel architecture for implementing fast algorithms on FPGAs. Our design employs line buffer structure to effectively reuse the feature map data among different tiles. We also effectively pipeline the Winograd/FFT processing element (PE) engine and initiate multiple PEs through parallelization. Meanwhile, there exists a complex design space to explore. We propose an analytical model to predict the resource usage and the performance. Then, we use the model to guide a fast design space exploration. Experiments using the state-of-the-art CNNs demonstrate the best performance and energy efficiency on FPGAs. We achieve 854.6 and 2479.6 GOP/s for AlexNet and VGG16 on Xilinx ZCU102 platform using Winograd. We achieve 130.4 GOP/s for Resnet using Winograd and 201.1 GOP/s for YOLO using FFT on Xilinx ZC706 platform.
+
+**Source:** https://www.semanticscholar.org/paper/64a4133e37a0a405baea7ceecbd76831c18417d2
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:40:14.981Z

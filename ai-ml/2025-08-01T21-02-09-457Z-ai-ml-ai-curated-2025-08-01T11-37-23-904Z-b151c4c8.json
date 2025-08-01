@@ -1,0 +1,13 @@
+# FPGA IMPLEMENTATIONS OF NEURAL NETWORKS
+
+**Authors:** A. Omondi, Jagath Rajapakse
+
+## Abstract
+This introductory chapter reviews the basics of artificial-neural-network theory, discusses various aspects of the hardware implementation of neural networks (in both ASIC and FPGA technologies, with a focus on special features of artificial neural networks), and concludes with a brief note on performanceevaluation. Special points are the exploitation of the parallelism inherent in neural networks and the appropriate implementation of arithmetic functions, especially the sigmoid function. With respect to the sigmoid function, the chapter includes a significant contribution.
+
+**Source:** https://www.semanticscholar.org/paper/ba80210a6cc79855f757d5bcf7a4594a98aa8341
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:37:23.905Z

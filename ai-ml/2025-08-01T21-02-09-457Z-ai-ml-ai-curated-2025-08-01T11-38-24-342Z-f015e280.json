@@ -1,0 +1,26 @@
+# Solving differential equations with neural networks: Applications to the calculation of cosmological phase transitions
+
+**Authors:** Maria Laura Piscopo, M. Spannowsky, Philip Waite
+
+## Abstract
+Starting from the observation that artificial neural networks are uniquely suited to solving optimization 
+problems, and most physics problems can be cast as an optimization task, we introduce a novel way of 
+finding a numerical solution to wide classes of differential equations. We find our approach to be very 
+flexible and stable without relying on trial solutions, and applicable to ordinary, partial and coupled 
+differential equations. We apply our method to the calculation of tunneling profiles for cosmological phase 
+transitions, which is a problem of relevance for baryogenesis and stochastic gravitational wave spectra. 
+Comparing our solutions with publicly available codes which use numerical methods optimized for the 
+calculation of tunneling profiles, we find our approach to provide at least as accurate results as these 
+dedicated differential equation solvers, and for some parameter choices, even more accurate and reliable 
+solutions. In particular, we compare the neural network approach with two publicly available profile solvers, 
+CosmoTransitions and BubbleProfiler, and give explicit examples where the neural network approach finds 
+the correct solution while dedicated solvers do not.We point out that this approach of using artificial neural 
+networks to solve equations is viable for any problem that can be cast into the form Fðx Þ ¼ 0, and is thus 
+applicable to various other problems in perturbative and nonperturbative quantum field theory.
+
+**Source:** https://www.semanticscholar.org/paper/a221ca7167eaf19b0e1069c7ae34b52b0980a976
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:38:24.343Z
