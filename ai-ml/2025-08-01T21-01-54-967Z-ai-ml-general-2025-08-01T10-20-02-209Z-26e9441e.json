@@ -1,0 +1,19 @@
+# Predicting Sustainable Development Goals Using Course Descriptions -- from LLMs to Conventional Foundation Models
+
+**Authors:** Lev Kharlashkin, Melany Macias, Leo Huovinen, Mika Hämäläinen
+
+## Abstract
+<jats:p>We present our work on predicting United Nations sustainable development
+goals (SDG) for university courses. We use an LLM named PaLM 2 to generate
+training data given a noisy human-authored course description input as input.
+We use this data to train several different smaller language models to predict
+SDGs for university courses. This work contributes to better university level
+adaptation of SDGs. The best performing model in our experiments was BART with
+an F1-score of 0.786.</jats:p>
+
+**Source:** https://doi.org/10.46298/jdmdh.13127
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T10:20:02.209Z

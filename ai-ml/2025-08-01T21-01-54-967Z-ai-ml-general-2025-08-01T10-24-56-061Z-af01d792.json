@@ -1,0 +1,13 @@
+# Explaining Humour Style Classifications: An XAI Approach to Understanding Computational Humour Analysis
+
+**Authors:** Mary Ogbuka Kenneth, Foaad Khosmood, Abbas Edalat
+
+## Abstract
+<jats:p>Humour styles can have either a negative or a positive impact on well-being. Given the importance of these styles to mental health, significant research has been conducted on their automatic identification. However, the automated machine learning models used for this purpose are black boxes, making their prediction decisions opaque. Clarity and transparency are vital in the field of mental health. This paper presents an explainable AI (XAI) framework for understanding humour style classification, building upon previous work in computational humour analysis. Using the best-performing single model (ALI+XGBoost) from prior research, we apply comprehensive XAI techniques to analyse how linguistic, emotional, and semantic features contribute to humour style classification decisions. Our analysis reveals distinct patterns in how different humour styles are characterised and misclassified, with particular emphasis on the challenges in distinguishing affiliative humour from other styles. Through detailed examination of feature importance, error patterns, and misclassification cases, we identify key factors influencing model decisions, including emotional ambiguity, context misinterpretation, and target identification. The framework demonstrates significant utility in understanding model behaviour, achieving interpretable insights into the complex interplay of features that define different humour styles. Our findings contribute to both the theoretical understanding of computational humour analysis and practical applications in mental health, content moderation, and digital humanities research.</jats:p>
+
+**Source:** https://doi.org/10.46298/jdmdh.15031
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T10:24:56.061Z

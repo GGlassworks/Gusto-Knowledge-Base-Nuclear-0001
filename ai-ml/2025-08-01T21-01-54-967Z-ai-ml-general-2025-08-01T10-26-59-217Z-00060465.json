@@ -1,0 +1,13 @@
+# 13. Code against code
+
+**Authors:** Cameron Edmond, Tomasz Bednarz
+
+## Abstract
+<jats:p>Machine writing—where computing methods are used to create texts—has risen in popularity recently, diversifying and expanding. Machine writing itself could be seen as a subset of the creative coding discipline. Emblematic of the contemporary turn in machine writing is Darby Larson’s Irritant. Impenetrable by traditional reading standards, the text is governed by code. The reader of Irritant faces similar challenges to the Digital Humanities scholar attempting to analyse large textual corpora. As such, Irritant becomes a useful case study for experimenting with reading methodologies. We approach Irritant from a computational criticism perspective, informed by the same creative coding methods that spawned it. Our objective is to reverse engineer Irritant, scraping its repetitions and variables using Python within a live coding environment. We position creative coding as a research methodology itself, especially suited for analysing machine written texts. This chapter details our process of back-and-forth iteration between the researcher and the text. The ‘hacking’ of the text becomes critical practice itself: an engagement with the coded artefact that meets it on even ground. What our analysis finds, however, is more questions. Our exploration of Irritant fails to unravel the novel’s code in the way we planned, but instead reveals more thematic depth. Far from the post-mortem of a failed experiment, this chapter presents creative coding as a research methodology and interrogates its benefits and challenges via the Irritant case study.</jats:p>
+
+**Source:** https://doi.org/10.11647/obp.0423.13
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T10:26:59.217Z
