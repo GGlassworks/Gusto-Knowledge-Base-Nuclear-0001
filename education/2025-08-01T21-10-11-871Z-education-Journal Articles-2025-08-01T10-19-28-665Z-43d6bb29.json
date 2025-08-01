@@ -1,0 +1,13 @@
+# A Comparison of the Quality of Data-Driven Programming Hint Generation Algorithms
+
+**Authors:** Price, Thomas W., Dong, Yihuan, Zhi, Rui, Paaßen, Benjamin, Lytle, Nicholas, Cateté, Veronica, Barnes, Tiffany
+
+## Abstract
+In the domain of programming, a growing number of algorithms automatically generate data-driven, next-step hints that suggest how students should edit their code to resolve errors and make progress. While these hints have the potential to improve learning if done well, few evaluations have directly assessed or compared the quality of different hint generation approaches. In this work, we present the QualityScore procedure, a novel method for automatically evaluating and comparing the quality of next-step programming hints using expert ratings. We first demonstrate that the automated QualityScore ratings agree with experts' manual ratings. We then use the QualityScore procedure to compare the quality of six data-driven, next-step hint generation algorithms using two distinct programming datasets in two different programming languages. Our results show that there are large and significant differences between the quality of the six algorithms and that these differences are relatively consistent across datasets and problems. We also identify situations where the six algorithms struggle to produce high-quality hints, and we suggest ways that future work might address these challenges. We make our methods and data publicly available and encourage researchers to use the QualityScore procedure to evaluate additional algorithms and benchmark them against our results.
+
+**Source:** https://eric.ed.gov/?id=EJ1224068
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:28.665Z

@@ -1,0 +1,13 @@
+# Discovery of Course Success Using Unsupervised Machine Learning Algorithms
+
+**Authors:** Cam, Emre, Ozdag, Muhammet Esat
+
+## Abstract
+This study aims at finding out students' course success in vocational courses of computer and instructional technologies department by means of machine learning algorithms. In the scope of the study, a dataset was formed with demographic information and exam scores obtained from the students studying in the Department of Computer Education and Instructional Technology at Gaziosmanpasa University. 127 students, who took the courses of Programming Languages I and Programming Languages II, participated in the study. Model that was suggested in the study was implemented using open source coded Keras library. Students were split into clusters by K-means and Deep Embedded Clustering algorithms which are unsupervised machine learning algorithms. Effect of the attributes that enabled clustering was identified by Kruskal Wallis test. With this study, a model that helps educators and instructional designers build skills for predicting, assures discovering success patterns through data mining and facilitates assisting in the stages of lesson planning was proposed.
+
+**Source:** https://eric.ed.gov/?id=EJ1283323
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:36.326Z

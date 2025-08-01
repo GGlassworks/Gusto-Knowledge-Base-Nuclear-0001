@@ -1,0 +1,13 @@
+# Twenty Years of Research on Technology in Mathematics Education at CERME: A Literature Review Based on a Data Science Approach
+
+**Authors:** Herfort, Jonas Dreyøe, Tamborg, Andreas Lindenskov, Meier, Florian, Allsopp, Benjamin Brink, Misfeldt, Morten
+
+## Abstract
+Mathematics education is like many scientific disciplines witnessing an increase in scientific output. Examining and reviewing every paper in an area in detail are time-consuming, making comprehensive reviews a challenging task. Unsupervised machine learning algorithms like topic models have become increasingly popular in recent years. Their ability to summarize large amounts of unstructured text into coherent themes or topics allows researchers in any field to keep an overview of state of the art by creating automated literature reviews. In this article, we apply topic modeling in the context of mathematics education and showcase the use of this data science approach for creating literature reviews by training a model of all papers (n = 336) that have been presented in Thematic Working Groups related to technology in the first eleven Congresses of the European Society for Research in Mathematics Education (CERME). We guide the reader through the stepwise process of training a model and give recommendations for best practices and decisions that are decisive for the success of such an approach to a literature review. We find that research in this period revolved around 25 distinct topics that can be grouped into four clusters: digital tools, teachers and their resources, technology experimentation, and a diverse cluster with a strong focus on student activity. Finally, a temporal analysis of these topics reveals a correlation between technology trends and research focus, allowing for reflection on future research in the field.
+
+**Source:** https://eric.ed.gov/?id=EJ1364099
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:30.104Z

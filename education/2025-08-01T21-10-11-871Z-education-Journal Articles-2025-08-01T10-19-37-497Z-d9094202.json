@@ -1,0 +1,13 @@
+# Text Complexity of Chinese Elementary School Textbooks: Analysis of Text Linguistic Features Using Machine Learning Algorithms
+
+**Authors:** Miaomiao Liu, Yixun Li, Yongqiang Su, Hong Li
+
+## Abstract
+Purpose: This study sought to 1) identify linguistic features important for Chinese text complexity with a theory-based and systematic approach, and 2) address how feature sets and algorithms affect the performance of Chinese text complexity models. Method: Texts from Chinese language arts textbooks from Grades 1 to 6 (N = 1,478) in Mainland China were analyzed. The predictor variables were 265 linguistic features of texts: 154 lexical features and 111 sentence and discourse features. The outcome variable was the complexity level of texts; a one-semester-scale was applied, thus 12 levels in total (two semesters per grade). Results: Features of the categories of character and word frequency, character and word semantic features, lexical diversity, part-of-speech syntactic categories, and referential cohesion were found the most important. With the important features identified, we found that text complexity models with features at all levels outperformed those with features at only one level. Models using the two machine learning algorithms (Random Forest Regression and Support Vector Regression) outperformed those using Linear Regression. Conclusion: This work clarifies important linguistic features for Chinese text complexity, and points to the necessity of considering features across levels and using machine learning algorithms in future text complexity research.
+
+**Source:** https://eric.ed.gov/?id=EJ1422796
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:37.498Z

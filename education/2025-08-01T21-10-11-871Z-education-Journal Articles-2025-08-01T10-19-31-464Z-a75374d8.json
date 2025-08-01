@@ -1,0 +1,13 @@
+# Software for Project-Based Learning of Robot Motion Planning
+
+**Authors:** Moll, Mark, Bordeaux, Janice, Kavraki, Lydia E.
+
+## Abstract
+Motion planning is a core problem in robotics concerned with finding feasible paths for a given robot. Motion planning algorithms perform a search in the high-dimensional continuous space of robot configurations and exemplify many of the core algorithmic concepts of search algorithms and associated data structures. Motion planning algorithms can be explained in a simplified two-dimensional setting, but this masks many of the subtleties and complexities of the underlying problem. We have developed software for project-based learning of motion planning that enables deep learning. The projects that we have developed allow advanced undergraduate students and graduate students to reflect on the performance of existing textbook algorithms and their own variations on such algorithms. Formative assessment has been conducted at three institutions. The core of the software used for this teaching module is also used within the Robot Operating System, a widely adopted platform by the robotics research community. This allows for transfer of knowledge and skills to robotics research projects involving a large variety robot hardware platforms.
+
+**Source:** https://eric.ed.gov/?id=EJ1023101
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:31.464Z

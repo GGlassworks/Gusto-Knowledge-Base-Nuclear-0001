@@ -1,0 +1,13 @@
+# Algorithm Visualization System for Teaching Spatial Data Algorithms
+
+**Authors:** Nikander, Jussi, Helminen, Juha, Korhonen, Ari
+
+## Abstract
+TRAKLA2 is a web-based learning environment for data structures and algorithms. The system delivers automatically assessed algorithm simulation exercises that are solved using a graphical user interface. In this work, we introduce a novel learning environment for spatial data algorithms, SDA-TRAKLA2, which has been implemented on top of the TRAKLA2 system. Spatial data items are identified by a set of coordinates, such as x and y for two-dimensional spatial data. The spatial environment contains new visualizations for representing spatial data, and a number of new exercises that cover a variety of spatial data algorithms. The new exercises have been used in the spatial data algorithms course at the Helsinki University of Technology since spring 2007. Here, we summarize previous research and report on an analysis of the quantitative data on the students' learning outcomes for years 2007 and 2008. We have also analyzed the students' learning results using qualitative methods in order to discover how the new system affects the students' learning outcomes. (Contains 2 tables and 5 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ895868
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:29.380Z

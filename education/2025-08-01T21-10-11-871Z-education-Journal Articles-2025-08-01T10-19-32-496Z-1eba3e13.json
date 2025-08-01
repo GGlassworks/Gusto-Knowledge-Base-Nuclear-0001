@@ -1,0 +1,13 @@
+# A Comparative Study of Ensemble Methods in the Field of Education: Bagging and Boosting Algorithms
+
+**Authors:** Hikmet Sevgin
+
+## Abstract
+This study aims to conduct a comparative study of Bagging and Boosting algorithms among ensemble methods and to compare the classification performance of TreeNet and Random Forest methods using these algorithms on the data extracted from ABIDE application in education. The main factor in choosing them for analyses is that they are Ensemble methods combining decision trees via Bagging and Boosting algorithms and creating a single outcome by combining the outputs obtained from each of them. The data set consists of mathematics scores of ABIDE (Academic Skills Monitoring and Evaluation) 2016 implementation and various demographic variables regarding students. The study group involves 5000 students randomly recruited. On the deletion of loss data and assignment procedures, this number decreased to 4568. The analyses showed that the TreeNet method performed more successfully in terms of classification accuracy, sensitivity, F1-score and AUC value based on sample size, and the Random Forest method on specificity and accuracy. It can be alleged that the TreeNet method is more successful in all numerical estimation error rates for each sample size by producing lower values compared to the Random Forest method. When comparing both analysis methods based on ABIDE data, considering all the conditions, including sample size, cross validity and performance criteria following the analyses, TreeNet can be said to exhibit higher classification performance than Random Forest. Unlike a single classifier or predictive method, the classification or prediction of multiple methods by using Boosting and Bagging algorithms is considered important for the results obtained in education.
+
+**Source:** https://eric.ed.gov/?id=EJ1410572
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:32.496Z

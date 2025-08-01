@@ -1,0 +1,13 @@
+# Efficient Stemmer Generation.
+
+**Authors:** Fox, Brian, Fox, Christopher J.
+
+## Abstract
+Discussion of word stemming for text processing and information retrieval focuses on an algorithm for generating stemmers from text stemmer specification files. Highlights include the use of finite state machines for stemming; stemmer specification file format; stemmer generation and driver algorithms; and stemmer timing comparisons. (Author/LRW)
+
+**Source:** https://eric.ed.gov/?id=EJ647564
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:34.960Z

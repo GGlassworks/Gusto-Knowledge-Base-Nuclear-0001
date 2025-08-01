@@ -1,0 +1,13 @@
+# The Applications of Machine Learning in Computational Thinking Assessments: A Scoping Review
+
+**Authors:** Bin Tan, Hao-Yue Jin, Maria Cutumisu
+
+## Abstract
+Background and Context: Computational thinking (CT) has been increasingly added to K-12 curricula, prompting teachers to grade more and more CT artifacts. This has led to a rise in automated CT assessment tools. Objective: This study examines the scope and characteristics of publications that use machine learning (ML) approaches to assess students' CT competencies from four perspectives: the educational context in which the assessments were implemented, the data used to train and validate ML algorithms, the specific ML algorithms used, and the aspects of CT assessed. Method: The PRISMA approach and Arksey and O'Malley's methodological framework for scoping reviews were adopted to search and screen studies. Findings: ML algorithms have been increasingly used to assess CT competencies. However, this study identified several research gaps in the literature: existing studies were mostly conducted in the context of programming or other learning activities related to computing science; datasets used by the ML algorithms were generally small; the most frequently used algorithms were regression techniques, naive Bayes, neural networks, clustering, and natural language processing, whereas no studies used reinforcement learning; and CT competencies were not comprehensively assessed. Implications: The applications of ML in CT assessments have the potential to enable personalized learning, improve assessment validity, reduce the workload of graders, and gain insights from large datasets by uncovering complex and subtle patterns.
+
+**Source:** https://eric.ed.gov/?id=EJ1425200
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:28.696Z

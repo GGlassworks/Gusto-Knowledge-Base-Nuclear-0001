@@ -1,0 +1,13 @@
+# A Comparison of Techniques To Find Mirrored Hosts on the WWW.
+
+**Authors:** Bharat, Krishna, Broder, Andrei, Dean, Jefferey, Henzinger, Monika R.
+
+## Abstract
+Compares several &quot;top-down&quot; algorithms for identifying mirrored hosts on the Web. The algorithms operate on the basis of URL strings and linkage data: the type of information about Web pages easily available from Web proxies and crawlers. Results reveal that the best approach is a combination of five algorithms: on test data this approach achieved a precision of 0.57 for a recall of 0.86 considering 100,000 results. (Contains 19 references.) (Author/AEF)
+
+**Source:** https://eric.ed.gov/?id=EJ613445
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:32.950Z

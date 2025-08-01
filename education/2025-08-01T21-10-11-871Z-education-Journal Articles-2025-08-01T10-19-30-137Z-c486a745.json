@@ -1,0 +1,13 @@
+# A Novel Approach to Identify Difficult Words in English to Promote Vocabulary Acquisition of Children Dually Diagnosed with Autism Spectrum Disorder and Hearing Loss
+
+**Authors:** Efeoglu, Ebru, Tuna, Ayse
+
+## Abstract
+Usage of complex words causes significant problems not only in reading but in writing as well and eventually leads to poor academic achievement of students, poorer particularly for hearing impaired children. The dual diagnosis of Autism Spectrum Disorder (ASD) and hearing impairment pose additional challenges mainly due to the difficulties that come with making accurate decisions. Hence, parents must be provided with the information about the signs and symptoms of ASD and deafness or partial hearing loss, as well as appropriate intervention strategies. Although different learning activities can be used to enlarge such children's vocabulary, if the presented words are difficult to learn, it will be very hard to realize this. Identifying difficult words and replacing them with simple ones both make the readability of a text easier and help such children enhance their vocabulary knowledge in a shorter period of time. Therefore, in this study we propose a classification approach that identifies difficult words among a given set of words in English. The lexical and semantic features of the words in the dataset were extracted based on the language rules specific to hearing impaired children. In the classification approach, five popular classification algorithms were used and the algorithms' performance in identifying difficult words was evaluated using various performance metrics. As the results show, the K-Nearest Neighbors algorithm is the most suitable algorithm for identifying difficult words in English for the target group.
+
+**Source:** https://eric.ed.gov/?id=EJ1375480
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:30.138Z

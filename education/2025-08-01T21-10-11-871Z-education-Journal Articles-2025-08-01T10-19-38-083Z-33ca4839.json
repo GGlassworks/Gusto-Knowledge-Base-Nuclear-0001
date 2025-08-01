@@ -1,0 +1,13 @@
+# Derivative Free Gradient Projection Algorithms for Rotation
+
+**Authors:** Jennrich, Robert I.
+
+## Abstract
+A simple modification substantially simplifies the use of the gradient projection (GP) rotation algorithms of Jennrich (2001, 2002). These algorithms require subroutines to compute the value and gradient of any specific rotation criterion of interest. The gradient can be difficult to derive and program. It is shown that using numerical gradients gives almost precisely the same results as using exact gradients. The resulting algorithm is very easy to use because the only problem specific code required is that needed to define the rotation criterion. The  computing time is increased when using numerical gradients, but it is still very modest for most purposes. While used extensively elsewhere, numerical derivatives seem to be underutilized in statistics.
+
+**Source:** https://eric.ed.gov/?id=EJ736719
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:38.084Z

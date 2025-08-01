@@ -1,0 +1,13 @@
+# Beacon- and Schema-Based Method for Recognizing Algorithms from Students&apos; Source Code
+
+**Authors:** Taherkhani, Ahmad, Malmi, Lauri
+
+## Abstract
+In this paper, we present a method for recognizing algorithms from students programming submissions coded in Java. The method is based on the concept of &quot;programming schemas&quot; and &quot;beacons&quot;. Schemas are high-level programming knowledge with detailed knowledge abstracted out, and beacons are statements that imply specific structures in a program. The method automatically searches for schemas from the given program and compares the extracted schemas with those from the knowledge base to recognize the algorithm-specific code for further processing. In the next step, several characteristics and beacons specific to the given algorithm are computed from the code. These characteristics and beacons are then used as the learning data and given to the C4.5 algorithm, which builds a classification tree that can be used to classify previously unseen implementations of algorithms. The method and its performance is demonstrated in the case of basic sorting algorithms and their variations implemented both in various learning resources, that is, textbooks and websites, (N = 209 programs) and in genuine student submissions in a first year data structures and algorithms course (N = 159). The empirical study conducted for evaluating the performance of the classification by leave-one-out cross-validation technique shows that the estimated true positive rate is 97.0%. The results demonstrate the feasibility of the idea of recognizing algorithms based on algorithm-specific programming schemas and beacons. The method can be used as white-box analysis to verify that students have implemented the required algorithm and to give feedback to students on their problematic implementations. We discuss the applications of the method from both teachers and students point of view.
+
+**Source:** https://eric.ed.gov/?id=EJ1115367
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:32.430Z

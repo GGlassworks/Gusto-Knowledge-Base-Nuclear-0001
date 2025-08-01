@@ -1,0 +1,13 @@
+# English Network Teaching Model and Design of Evaluation System Based on Association Rule Algorithm
+
+**Authors:** Xueyu Sun, Ting Wang
+
+## Abstract
+This study innovates English network teaching by applying a refined Association Rule Mining (ARM) algorithm. It integrates an &quot;interest&quot; parameter into ARM, dynamically adapting content to individual learners' profiles, improving engagement and outcomes. Controlled experiments, spanning diverse online platforms, validate the ARM model's efficacy by correlating learning content with academic performance, specifically CET-4 and CET-6 scores. Comprehensive preprocessing ensures data quality and privacy, employing techniques like de-identification, data perturbation, and aggregation. Advanced data analysis, including cross-validation and multivariate techniques, bolsters findings' reliability. Results highlight the ARM model's capacity to generate personalized learning paths, transcending conventional methods, and its potential as a cornerstone for data-driven education reforms. Future research will explore machine learning refinements and cultural adaptability to broaden its impact, fostering equitable, high-quality digital English education worldwide.
+
+**Source:** https://eric.ed.gov/?id=EJ1437743
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:31.691Z

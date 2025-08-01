@@ -1,0 +1,13 @@
+# Using Machine Learning Sentiment Analysis to Evaluate Learning Impact
+
+**Authors:** Lazrig, Ibrahim, Humpherys, Sean L.
+
+## Abstract
+Can sentiment analysis be used in an educational context to help teachers and researchers evaluate students' learning experiences? Are sentiment analyzing algorithms accurate enough to replace multiple human raters in educational research? A dataset of 333 students evaluating a learning experience was acquired with positive, negative, and neutral sentiments. Nine machine learning algorithms were used in five experimental configurations. Two non-learning algorithms were used in two experimental configurations. Each experiment compared the results of the algorithm's classification of sentiment (positive, neutral, or negative) with the judgment of sentiment by three human raters. When excluding neutral sentiment, 98% accuracy was achieved using naive Bayes. We demonstrate that current algorithms do not yet accurately classify neutral sentiments in an educational context. An algorithm using a word-sentiment association strategy was able to achieve 87% accuracy and did not require pretraining the model, which increases generalizability and applicability of the model. More educational datasets with sentiment are needed to improve sentiment analysis algorithms.
+
+**Source:** https://eric.ed.gov/?id=EJ1333895
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:29.242Z

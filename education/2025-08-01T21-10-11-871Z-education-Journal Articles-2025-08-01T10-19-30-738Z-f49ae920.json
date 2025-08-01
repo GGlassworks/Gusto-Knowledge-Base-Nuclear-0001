@@ -1,0 +1,13 @@
+# What Is Common to Transportation and Health in Machine Learning Education? The Domain Neglect Bias
+
+**Authors:** Mike, Koby, Hazzan, Orit
+
+## Abstract
+Contribution: This article presents evidence that electrical engineering, computer science, and data science students, participating in introduction to machine learning (ML) courses, fail to interpret the performance of ML algorithms correctly, since they fail to consider the application domain. This phenomenon is referred to as the domain neglect bias and is discussed in this article from the cognitive psychology perspective. Background: ML algorithms are common components in electrical engineering, computer science, and data science curricula. Learning ML is challenging not only due to its complex mathematical and algorithmic aspects, but also due to: (1) the complexity of using these algorithms in the context of real-life situations correctly and (2) the comprehension of related social and ethical issues. Research Question: To what extent do students fail to correctly interpret the performance of ML algorithms due to the domain neglect bias and how can this bias be explained? Methodology: A questionnaire containing two questions was designed, in which the participants were asked to compare the performance of ML algorithms in the contexts of different application domains. The questions were designed to trigger the domain neglect bias which in turn, allowed quantification of its prevalence. Findings: One third of the students failed to recognize the outperforming ML algorithm due to the domain neglect bias. Educators should note this bias and develop new pedagogical methods for teaching ML performance in order to mitigate the bias.
+
+**Source:** https://eric.ed.gov/?id=EJ1379617
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:30.738Z

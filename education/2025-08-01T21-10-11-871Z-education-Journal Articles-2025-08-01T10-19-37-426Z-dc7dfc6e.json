@@ -1,0 +1,13 @@
+# PAVT: A Tool to Visualize and Teach Parsing Algorithms
+
+**Authors:** Sangal, Somya, Kataria, Shreya, Tyagi, Twishi, Gupta, Nidhi, Kirtani, Yukti, Agrawal, Shivli, Chakraborty, Pinaki
+
+## Abstract
+A parsing algorithm visualizer is a tool that visualizes the construction of a parser for a given context-free grammar and then illustrates the use of that parser to parse a given string. Parsing algorithm visualizers are used to teach the course on compiler construction which in invariably included in all undergraduate computer science curricula. This paper presents a new parsing algorithm visualizer that can visualize six parsing algorithms, viz. predictive parsing, simple LR parsing, canonical LR parsing, look-ahead LR parsing, Earley parsing and CYK parsing. The tool logically explains the process of parsing showing the calculations involved in each step. The output of the tool has been structured to maximize the learning outcomes and contains important constructs like FIRST and FOLLOW sets, item sets, parsing table, parse tree and leftmost or rightmost derivation depending on the algorithm being visualized. The tool has been used to teach the course on compiler construction at both undergraduate and graduate levels. An overall positive feedback was received from the students with 89% of them saying that the tool helped them in understanding the parsing algorithms. The tool is capable of visualizing multiple parsing algorithms and 88% students used it to compare the algorithms.
+
+**Source:** https://eric.ed.gov/?id=EJ1192488
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:37.427Z

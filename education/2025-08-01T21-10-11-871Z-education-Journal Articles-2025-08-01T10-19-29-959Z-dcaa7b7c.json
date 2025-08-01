@@ -1,0 +1,13 @@
+# A Functional Programming Approach to AI Search Algorithms
+
+**Authors:** Panovics, Janos
+
+## Abstract
+The theory and practice of search algorithms related to state-space represented problems form the major part of the introductory course of Artificial Intelligence at most of the universities and colleges offering a degree in the area of computer science. Students usually meet these algorithms only in some imperative or object-oriented language (e.g., Java or C#) during the seminars. In this paper, we introduce a new approach for presenting these algorithms to the students, which is programming them in a functional style using the F# programming language. A couple of years ago, we created a Java class hierarchy for use in our Artificial Intelligence seminars. This well-organized set of classes helps students better understand the operation of the various search algorithms. Since some parts of these algorithms can be more conveniently implemented using a functional approach, we present here the F# implementation of the same class hierarchy. F# proved to be a good choice of programming language because of its multi-paradigm nature. This way, the classes themselves were easy to adopt, and the instructors of the seminars may decide how much of the code they want to rewrite in a functional manner. Functional programming can provide tremendous benefit during the implementation of methods containing logical formulae in their bodies, such as the precondition of an operator. In summary, the power of F# lies not in the fact that it is a functional programming language, but that the developer can select the programming paradigm they want to use in different parts of the program. In the future, we would like to create a purely functional implementation of the main search algorithms with as much reusable code as possible. (Contains 3 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ990988
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:29.959Z

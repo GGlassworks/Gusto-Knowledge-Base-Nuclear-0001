@@ -1,0 +1,13 @@
+# In-Depth Evaluation of Machine Learning Methods for Semi-Automating Article Screening in a Systematic Review of Mechanistic Literature
+
+**Authors:** Kebede, Mihiretu M., Le Cornet, Charlotte, Fortner, Renée Turzanski
+
+## Abstract
+We aimed to evaluate the performance of supervised machine learning algorithms in predicting articles relevant for full-text review in a systematic review. Overall, 16,430 manually screened titles/abstracts, including 861 references identified relevant for full-text review were used for the analysis. Of these, 40% (n = 6573) were sub-divided for training (70%) and testing (30%) the algorithms. The remaining 60% (n = 9857) were used as a validation set. We evaluated down- and up-sampling methods and compared unigram, bigram, and singular value decomposition (SVD) approaches. For each approach, Naïve Bayes, Support Vector Machines (SVM), regularized logistic regressions, neural networks, random forest, Logit boost, and XGBoost were implemented using simple term frequency or Tf-Idf feature representations. Performance was evaluated using sensitivity, specificity, precision and area under the Curve. We combined predictions of the best-performing algorithms (Youden Index [greater than or equal to]0.3 with sensitivity/specificity [greater than or equal to]70/60%). In a down-sample unigram approach, Naïve Bayes, SVM/quanteda text models with Tf-Idf, and linear SVM e1071 package with Tf-Idf achieved &gt;90% sensitivity at specificity &gt;65%. Combining the predictions of the 10 best-performing algorithms improved the performance to reach 95% sensitivity and 64% specificity in the validation set. Crude screening burden was reduced by 61% (5979) (adjusted: 80.3%) with 5% (27) false negativity rate. All the other approaches yielded relatively poorer performances. The down-sampling unigram approach achieved good performance in our data. Combining the predictions of algorithms improved sensitivity while screening burden was reduced by almost two-third. Implementing machine learning approaches in title/abstract screening should be investigated further toward refining these tools and automating their implementation.
+
+**Source:** https://eric.ed.gov/?id=EJ1369348
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:19:37.820Z
