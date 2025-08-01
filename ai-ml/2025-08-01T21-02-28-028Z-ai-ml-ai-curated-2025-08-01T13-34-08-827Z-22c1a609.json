@@ -1,0 +1,13 @@
+# Competitive solvers in action: strategic optimization across CoWs and multi-chain AMMs
+
+**Authors:** Zeshun Shi, Sydney Sweck, Omar Zaki
+
+## Abstract
+: In the rapidly evolving decentralized finance (DeFi) ecosystem, ensuring efficient and interoperable transaction mechanisms is a critical challenge. This paper introduces a strategic optimization model for a blockchain-based token exchange platform, leveraging Coincidence of Wants (CoWs), multi-chain Automated Market Makers (AMMs), and an on-chain solver auction mechanism to enhance transaction efficiency and cross-chain interoperability in DeFi. In our model, users specify their transaction intents, while solvers, selected through a competitive auction based on game theory principles, compete to find the most efficient execution pathways, considering liquidity availability and market constraints. This approach not only facilitates seamless cross-chain transaction flows, but also optimizes the efficiency of existing solvers and reduces the reliance on centralized mechanisms. Our model’s effectiveness is validated through extensive simulation experiments, where performance with various order inputs and AMM constraints demonstrates a transaction completion rate increase ranging from 26.1% to 46.1% compared to the CoWs-only model, thereby enhancing user welfare and market fairness. The proposed model offers broad applicability for efficient, interoperable cross-chain transactions, positioning it to make a significant impact on the DeFi landscape
+
+**Source:** https://www.semanticscholar.org/paper/e160886c1b3f913b5781247be650793b24c8e13d
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:08.827Z

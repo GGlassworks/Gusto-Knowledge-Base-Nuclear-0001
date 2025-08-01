@@ -1,0 +1,13 @@
+# A Review: Consensus Algorithms on Blockchain
+
+**Authors:** Jannah Yusoff, Zarina Mohamad, Mohd Anuar
+
+## Abstract
+Blockchain is a distributed public ledger that keeps track of all transactions that have ever taken place in the system. As a distributed ledger, a consensus mechanism is required to ensure all the transaction functions properly. In order to reach a consensus, it is critical to emphasize the importance of performance and efficiency. The use of the right consensus algorithm will signif-icantly improve the efficiency of a blockchain application. This paper reviewed several types of consensus algorithms used in blockchain and discusses the idea of a new consensus algorithm that can improve the performance of consortium blockchain.
+
+**Source:** https://www.semanticscholar.org/paper/662a0edee7aefb72e085825c68d59b558ae4cee5
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:03.330Z

@@ -1,0 +1,13 @@
+# Performance Comparison of Directed Acyclic Graph-Based Distributed Ledgers and Blockchain Platforms
+
+**Authors:** Felix Kahmann, Fabian Honecker, Julian Dreyer, Marten Fischer, Ralf Tönjes
+
+## Abstract
+Since the introduction of the first cryptocurrency, Bitcoin, in 2008, the gain in popularity of distributed ledger technologies (DLTs) has led to an increasing demand and, consequently, a larger number of network participants in general. Scaling blockchain-based solutions to cope with several thousand transactions per second or with a growing number of nodes has always been a desirable goal for most developers. Enabling these performance metrics can lead to further acceptance of DLTs and even faster systems in general. With the introduction of directed acyclic graphs (DAGs) as the underlying data structure to store the transactions within the distributed ledger, major performance gains have been achieved. In this article, we review the most prominent directed acyclic graph platforms and evaluate their key performance indicators in terms of transaction throughput and network latency. The evaluation aims to show whether the theoretically improved scalability of DAGs also applies in practice. For this, we set up multiple test networks for each DAG and blockchain framework and conducted broad performance measurements to have a mutual basis for comparison between the different solutions. Using the transactions per second numbers of each technology, we created a side-by-side evaluation that allows for a direct scalability estimation of the systems. Our findings support the fact that, due to their internal, more parallelly oriented data structure, DAG-based solutions offer significantly higher transaction throughput in comparison to blockchain-based platforms. Although, due to their relatively early maturity state, fully DAG-based platforms need to further evolve in their feature set to reach the same level of programmability and spread as modern blockchain platforms. With our findings at hand, developers of modern digital storage systems are able to reasonably determine whether to use a DAG-based distributed ledger technology solution in their production environment, i.e., replacing a database system with a DAG platform. Furthermore, we provide two real-world application scenarios, one being smart grid communication and the other originating from trusted supply chain management, that benefit from the introduction of DAG-based technologies.
+
+**Source:** https://www.semanticscholar.org/paper/4ce71c1ba7986e1dacbee6ad8f3ce44b9d0b7a45
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:01.329Z

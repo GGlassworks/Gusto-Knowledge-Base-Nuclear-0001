@@ -1,0 +1,13 @@
+# Exploring Smart Contract Recommendation: Towards Efficient Blockchain Development
+
+**Authors:** Zigui Jiang, Zibin Zheng, Kai-Pei Chen, Xiapu Luo, Xiuwen Tang, Yin Li
+
+## Abstract
+Since the development of Blockchain 2.0, the smart contract has become the core of blockchain. However, smart contracts with inaccurate or non-standard codes and settings may cause security vulnerabilities, extra expense cost and wast of computing resource. To avoid these problems and assist users to create new smart contract or apply existing smart contract in a more efficient way, we propose smart contract recommendation by regarding smart contract as a special form of software service in a blockchain system. First, four real-world datasets are obtained from Ethereum and EOSIO for smart contract recommendation. Then, a novel smart contract recommendation framework is proposed and evaluated. In the large-scale experiments, the results validate the feasibility of smart contract recommendation. Additionally, the datasets are publicly released online to other researchers for further studies on smart contract recommendation.
+
+**Source:** https://www.semanticscholar.org/paper/15e2d001ccbdb01940c9cb31bcd453b310cfb2f2
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:56:17.526Z

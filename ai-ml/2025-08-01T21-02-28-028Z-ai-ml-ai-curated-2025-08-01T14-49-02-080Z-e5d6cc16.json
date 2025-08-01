@@ -1,0 +1,13 @@
+# A Brief Analysis of Blockchain Algorithms and Its Challenges
+
+**Authors:** R. Krishnamurthi, Tuhina Shree
+
+## Abstract
+Blockchain is the world's most trusted service. It serves as a ledger that allows transaction to take place in a decentralized manner. There are so many applications based on blockchain technology, including those covering numerous fields like financial services, non-financial services, internet of things (IoT), and so on. Blockchain combines a distributed database and decentralized ledger without the need of verification by central authority. This chapter surveys the different consensus algorithms, blockchain challenges, and their scope. There are still many challenges of this technology, such as scalability and security problems, waiting to be overcome. The consensus algorithms of blockchain are proof of work (POW), proof of stake (POS), ripple protocol consensus algorithm (RPCA), delegated proof of stake (dPOS), stellar consensus protocol (SCP), and proof of importance (POI). This chapter discusses the core concept of blockchain and some mining techniques, consensus problems, and consensus algorithms and comparison algorithms on the basis of performance.
+
+**Source:** https://www.semanticscholar.org/paper/6863c2e88d5e685158cd27050db946e1eec300e9
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:02.081Z

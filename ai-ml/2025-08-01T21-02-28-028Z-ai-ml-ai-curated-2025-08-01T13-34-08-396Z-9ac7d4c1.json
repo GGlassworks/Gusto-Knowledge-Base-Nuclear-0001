@@ -1,0 +1,13 @@
+# From CoWs to Multi-Chain AMMs: A Strategic Optimization Model for Enhancing Solvers
+
+**Authors:** Zeshun Shi, Sydney Sweck, Omar Zaki
+
+## Abstract
+In the rapidly evolving decentralized finance (DeFi) ecosystem, ensuring efficient and interoperable transaction mechanisms is a critical challenge. To address this issue, this paper introduces a strategic optimization model for a blockchain-based token exchange platform. By leveraging the principles of Coincidence of Wants (CoWs) and multi-chain Automated Market Makers (AMMs), our model enhances interoperability and efficiency of token exchange in the DeFi space. Users specify their transaction intents and solvers compete to find the most efficient execution pathways, considering factors such as available liquidity and market constraints. This approach not only facilitates seamless cross-chain transaction flows, but also optimizes the efficiency of existing solvers and reduces the reliance on centralized mechanisms. To validate the effectiveness of the proposed model, we conducted extensive simulation experiments assessing the model's performance with various order inputs and AMM constraints. The results show that our optimization model significantly increases the transaction completion rate. This improvement ranges from 26.1 % to 46.1 % compared to the CoWs-only model under different experimental settings. This enhances user welfare and market fairness. The proposed optimization model has broad applicability to efficient and interoperable cross-chain token transactions. Thus, it has a significant potential impact on the DeFi landscape.
+
+**Source:** https://www.semanticscholar.org/paper/f07970d4d56ec93c20863043f136d35b8c7612d4
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:08.396Z

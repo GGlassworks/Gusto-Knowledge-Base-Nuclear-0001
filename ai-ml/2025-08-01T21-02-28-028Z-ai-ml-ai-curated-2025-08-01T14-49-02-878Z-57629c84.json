@@ -1,0 +1,13 @@
+# Resource Analysis of Blockchain Consensus Algorithms in Hyperledger Fabric
+
+**Authors:** Gyeongsik Yang, Kwanhoon Lee, Kyungwoon Lee, Yeonho Yoo, Hyowon Lee, C. Yoo
+
+## Abstract
+In the blockchain network, the consensus algorithm is used to tolerate node faults with data consistency and integrity, so it is vital in all blockchain services. Previous studies on the consensus algorithm have the following limitations: 1) no resource consumption analysis was done, 2) performance analysis was not comprehensive in terms of blockchain parameters (e.g., number of orderer nodes, number of fault nodes, batch size, payload size), and 3) practical fault scenarios were not evaluated. In other words, the resource provisioning of consensus algorithms in clouds has not been addressed adequately. As many blockchain services are deployed in the form of blockchain-as-a-service (BaaS), how to provision consensus algorithms becomes a key question to be answered. This study presents a kernel-level analysis for the resource consumption and comprehensive performance evaluations of three major consensus algorithms (i.e., Kafka, Raft, and PBFT). Our experiments reveal that resource consumption differs up to seven times, which demonstrates the importance of proper resource provisioning for BaaS.
+
+**Source:** https://www.semanticscholar.org/paper/69317860f081c7b5fe35e9f315d466e8485f12df
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:02.878Z

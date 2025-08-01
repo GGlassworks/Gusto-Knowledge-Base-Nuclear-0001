@@ -1,0 +1,13 @@
+# A Study on Blockchain Sandwich Attack Strategies Based on Mechanism Design Game Theory
+
+**Authors:** Yuxuan Liang, Xukang Wang, Y. Wu, Hongpeng Fu, Mengjie Zhou
+
+## Abstract
+The rapid progression of Decentralized Finance (DeFi) has established Decentralized Exchanges (DEX) as critical elements in the financial landscape. Nevertheless, the open and transparent nature of DEX makes them susceptible to strategic manipulations, especially the sandwich attack. During such maneuvers, ill-intentioned actors exploit price slippage by positioning their transactions strategically around a target’s order to reap unfair profits. This paper introduces a ground-breaking framework rooted in mechanism design game theory to lessen the impact of sandwich attacks. The framework delineates the precise strategy of the sandwich attack and its repercussions, shedding light on the tactical aspects and utility functions pertinent to both the attackers and the ordinary traders, subsequently referred to as workers. The discussion extends to defining utility functions for both the market and the workers, emphasizing the benefits of liquidity provision for the market and the potential profits and losses for the workers. The proposal encourages adopting a market-centric mechanism design grounded in game theory, wherein the market, operating as the designer, creates rules to maximize its utility while considering the workers’ utility. Through a meticulous analysis of this game-theoretic approach, the study identifies optimum strategies for all the involved parties, demonstrating that these strategies can reach a balanced state. Further, this study presents a comparative view against existing research, highlighting the limitations of contemporary solutions and asserting the effectiveness of the proposed model in protecting the interests of both the market and the workers. Ultimately, this research furnishes stakeholders with new perspectives and instruments to thwart sandwich attacks and lays a foundation for creating resilient and fair decentralized trading infrastructures.
+
+**Source:** https://www.semanticscholar.org/paper/49854f05881a7e2b8d609a3500be388eea6dca76
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:32:24.459Z

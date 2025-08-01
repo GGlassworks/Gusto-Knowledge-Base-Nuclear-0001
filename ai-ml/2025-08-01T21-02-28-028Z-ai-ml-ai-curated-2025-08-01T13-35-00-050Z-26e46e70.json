@@ -1,0 +1,13 @@
+# Synthesis of exoskeleton control algorithms based on kinematic analysis of locomotions and human gait modelling
+
+**Authors:** Yury Loskutov, A. Kapustin, A. Kudryavtsev, A. Nasibullin, Alexandra Lebedeva
+
+## Abstract
+The article considers a mathematical model of human gait. Gait parameters necessary to build an analytical model of motion are defi ned. Calculated ratio to defi ne the coordinates of key points of legs at any moment of time is obtained and a kinematic analysis of locomotions is performed. The results of computer modelling of walking process are given. The calculated ratio and the mathematical model can be used for design process and programming of the operation of control systems of exoskeleton developed for medical purposes.
+
+**Source:** https://www.semanticscholar.org/paper/1231cd69dc90414c20a0e0c185ef23e21ecd8487
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:35:00.051Z

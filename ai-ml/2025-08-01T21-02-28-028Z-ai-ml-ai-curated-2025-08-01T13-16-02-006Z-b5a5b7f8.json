@@ -1,0 +1,13 @@
+# Self-Sovereign Identity Solution for Blockchain-Based Land Registry System: A Comparison
+
+**Authors:** Mohammed Shuaib, N. H. Hassan, S. Usman, Shadab Alam, Surbhi Bhatia, Arwa A. Mashat, Adarsh Kumar, M. Kumar
+
+## Abstract
+Providing an identity solution is essential for a reliable blockchain-based land registry system. A secure, privacy-preserving, and efficient identity solution is essential but challenging. This paper examines the current literature and provides a systematic literature review in three stages based on the three research questions (RQ) that show the assessment and interpretation process step by step. Based on the parameters and RQ specified in the research methodology section, a total of 43 primary articles have been selected from the 251 articles extracted from various scientific databases. The majority of these articles are concerned with evaluating the existing self-sovereign identity (SSI) solutions and their role in the blockchain-based land registry system to address the compliance issues in the existing SSI solutions with SSI principles and find the best possible SSI solution to address the identity problems in the land registry. The existing digital identity solutions cannot handle the requirements of the identity principle and are prone to various limitations like centralization and dependency on third parties that further augment the chance of security threats. SSI has been designed to overcome these limitations and provide a secure, reliable, and efficient identity solution that gives complete control to the users over their personal identity information (PII). This paper reviews the existing SSI solutions, evaluates them based on the SSI principles, and comes up with the best possible SSI solution for a blockchain-based land registry system. It further provides a detailed investigation of each SSI solution to present its functionalities and limitations for further improvement.
+
+**Source:** https://www.semanticscholar.org/paper/012cfea30b807059314c2e98d96bdbd502bdf409
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:02.007Z

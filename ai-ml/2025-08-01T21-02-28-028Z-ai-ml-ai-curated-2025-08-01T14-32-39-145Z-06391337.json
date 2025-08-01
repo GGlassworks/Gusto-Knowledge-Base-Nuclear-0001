@@ -1,0 +1,13 @@
+# A Methodology for Diagnosing Faults in Oil-Immersed Power Transformers Based on Minimizing the Maintenance Cost
+
+**Authors:** Ming-Jong Lin, Liang-Bi Chen, Chao-Tang Yu
+
+## Abstract
+This article proposes a methodology for diagnosing faults in oil-immersed power transformers that considers correlation as a random variable and models the power transformer diagnosis problem as a hypothesis testing problem. Based on conventional estimation and detection theory, a novel diagnosis methodology for oil-immersed power transformer faults is developed by minimizing the maintenance cost of an oil-immersed power transformer. Unlike previous work, this is the first work to consider the optimization of the maintenance cost. Moreover, the proposed methodology is verified with a benchmark test based on 950 data sets of real historic records, and the results show that the accuracy of failure detection with this approach can reach 92.85% while the maintenance cost is minimized. Finally, the experimental results indicate that the proposed methodology displays promising performance and can be used as a tool for the diagnosis of incipient faults in oil-immersed power transformers.
+
+**Source:** https://www.semanticscholar.org/paper/7ea7bf6b17b61623366b43930e5a703ab5a7ed89
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:39.146Z

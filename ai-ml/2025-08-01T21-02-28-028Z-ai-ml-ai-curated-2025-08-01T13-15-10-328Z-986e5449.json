@@ -1,0 +1,13 @@
+# Research on Multi-Dimensional Trust Evaluation Mechanism of FinTech Based on Blockchain
+
+**Authors:** Ying Song, Chaohao Sun, Yun Peng, Y. Zeng, Baolin Sun
+
+## Abstract
+New technologies such as Internet, cloud computing, artificial intelligence (AI) and blockchain have greatly promoted the innovation of financial industry structure and paradigm, improved the efficiency of financial services and brought the spillover of the financial technology (FinTech) risk. The existing financial regulation methods cannot meet the needs of the development of FinTech, therefore, there is an urgent need to improve the trust mechanism. Blockchain can effectively solve the problems of security and trust in FinTech. This paper will explore the expression method of trust index in blockchain, and build based on blockchain a multi-dimensional trust index system and evaluation mechanism (MDTEM) for FinTech. Firstly, a four level blockchain structure has been built, including cloud level blockchain, Internet level blockchain, contract level blockchain and application level blockchain in the FinTech ecological environment to ensure the security, reliability and trustworthiness of financial services; Secondly, according to the trust structure of blockchain on FinTech payment behavior, the index system and evaluation mechanism of direct trust, indirect trust, recommendation trust and feedback trust of FinTech based on blockchain are designed. Finally, the trust simulation experiment of FinTech mechanism is carried out from three aspects: data sending, data transmission, data reception and delivery success rate. Simulation results show that the proposed MDTEM trust mechanism can better improve the safe and reliable application of FinTech trust mechanism.
+
+**Source:** https://www.semanticscholar.org/paper/33ff0a96e97147225aefa6020edc55898129e183
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:15:10.328Z

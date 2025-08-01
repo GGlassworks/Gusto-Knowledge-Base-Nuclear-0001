@@ -1,0 +1,13 @@
+# Blockchain Evaluation Approaches: State-of-the-Art and Future Perspective
+
+**Authors:** Sergey Smetanin, A. Ometov, Mikhail M. Komarov, Pavel Mašek, Y. Koucheryavy
+
+## Abstract
+The present increase of attention toward blockchain-based systems is currently reaching a tipping point with the corporate focus shifting from exploring the technology potential to creating Distributed Ledger Technology (DLT)-based systems. In light of a significant number of already existing blockchain applications driven by the Internet of Things (IoT) evolution, the developers are still facing a lack of tools and instruments for appropriate and efficient performance evaluation and behavior observation of different blockchain architectures. This paper aims at providing a systematic review of current blockchain evaluation approaches and at identifying the corresponding utilization challenges and limitations. First, we outline the main metrics related to the blockchain evaluation. Second, we propose the blockchain modeling and analysis classification based on the critical literature review. Third, we extend the review with publicly accessible industrial tools. Next, we analyze the selected results for each of the proposed classes and outline the corresponding limitations. Finally, we identify current challenges of the blockchain analysis from the system evaluation perspective, as well as provide future perspectives.
+
+**Source:** https://www.semanticscholar.org/paper/c87afdea67e06f77190d8ea0265b4c61af5631cf
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:15:09.285Z

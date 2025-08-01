@@ -1,0 +1,13 @@
+# A Comparison of Blockchain Recovery Time in Static and Mobile IoT-Blockchain Networks
+
+**Authors:** Yueh-chih Su, Kien Nguyen, Hiroo Sekiya
+
+## Abstract
+Many IoT-blockchain systems in which blockchain connections run on an infrastructure-based network, such as Wi-Fi or LTE, face a severe problem: the single point of failure (SPoF) (i.e., depending on the availability, an access point of an LTE base station). Using infrastructure-less networks (i.e., ad hoc networks) is an efficient approach to prevent such highly disruptive events. An ad hoc network can automatically restore blockchain communication using an ad hoc routing protocol, even if a node fails. Moreover, an ad hoc routing protocol is more efficient when considering the IoT nodes’ mobility. In this paper, we first construct IoT-blockchain systems on emulated and real ad hoc networks with Ethereum and three ad hoc routing protocols (i.e., OLSR, BATMAN, and BABEL). We then evaluate the blockchain recovery time in static and mobile scenarios. The results show that BATMAN achieves the best blockchain recovery performance in all investigated scenarios because BATMAN only determines whether to switch a route by comparing the number of OGM packets received from a different next-hop. More specifically, in the small-scale real IoT-blockchain, BATMAN recovers at least 73.9% and 59.8% better than OLSR and BABEL, respectively. In the medium-scale emulated IoT-blockchain, the recovery time of BATMAN is at least 69% and 60% shorter than OLSR or BABEL, respectively.
+
+**Source:** https://www.semanticscholar.org/paper/b0bad2de13992ee8583d994178596a9a5e59089a
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:02.872Z

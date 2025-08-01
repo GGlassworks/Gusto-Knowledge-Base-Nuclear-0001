@@ -1,0 +1,13 @@
+# The Impact Analysis of Operational Overvoltage on Traction Transformers for High-Speed Trains Based on the Improved Capacitor Network Methodology
+
+**Authors:** Song Xiao, Zijing Wang, Guangning Wu, Yujun Guo, Guoqiang Gao, Xueqin Zhang, Ye Cao, Yuhui Zhang, Jie Yu, Puyang Liu, Pupu Li
+
+## Abstract
+When a high-speed train approaches an insulated split-phase section embedded between neighboring power supply arms carrying powers with different phases, the vehicle-mounted vacuum circuit breaker (VCB) needs to be switched off to avoid short-circuit fault during the phase-changing procedure. At the moment of switching the VCB contacts, the arc is triggered easily, accompanying with overvoltage impulse. As the core of the whole system, the traction transformer frequently suffers the invasion of the overvoltage impulse, which possibly causes partial discharge or breakdown accidents. To evaluate the impact of overvoltage on the transformer, it is essential to observe the overvoltage distribution at different positions in the transformer. As an equivalent circuit (EC) model of the traction transformer involving the spatially distributed capacitance is built based on the improved capacitor network methodology (ICNM), the partial discharge risk in the transformer has been assessed. Ultimately, the multiphysics coupling models based on the finite-element method (FEM) have been launched to observe the specific distribution of the multiphysics field for verifying the validity of an EC model based on ICNM. These works lay the theoretical foundation for guiding the design of insulation and the thermal dissipation settings of the traction transformer, considering the threat brought from impulse.
+
+**Source:** https://www.semanticscholar.org/paper/fb8e7bce25e482758aaf679c503ffa4f1cf0c6d2
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:38.673Z

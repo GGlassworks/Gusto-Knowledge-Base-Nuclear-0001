@@ -1,0 +1,13 @@
+# Survey of Consensus Algorithms for Proof of Stake in Blockchain
+
+**Authors:** Lina Ge, Jie Wang, Guifen Zhang
+
+## Abstract
+As the core of blockchain technology, the consensus algorithm directly affects the security, stability, and decentralisation of the blockchain and numerous other important characteristics. Choosing an appropriate consensus algorithm for different scenarios is currently a challenge in the implementation of blockchain applications. This paper classifies the improvement schemes of proof of stake (PoS) into three categories: PoS-based consensus algorithms, PoS- and PoW-based consensus algorithms, and PoS- and BFT-based consensus algorithms. First, the study introduces the PoS and PoS consensus algorithm variants and then summarises the core ideas, effects, advantages, and disadvantages of these algorithms. Subsequently, the performances of the improved algorithms are compared. Finally, the main improved methods are summarised, and the most common network security attacks are discussed. The study lays a foundation for the main improvement directions of PoS in the future, hoping to provide a reference for researchers to help them select and design consensus algorithms in different application scenarios while also helping the evolution of consensus algorithms and the implementation of blockchain applications.
+
+**Source:** https://www.semanticscholar.org/paper/b8648fae3172e648181d41093e24872d6bc95979
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:03.007Z

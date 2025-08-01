@@ -1,0 +1,13 @@
+# Evaluation of Correlation between Temperature of IoT Microcontroller Devices and Blockchain Energy Consumption in Wireless Sensor Networks
+
+**Authors:** Kithmini Godewatte Arachchige, P. Branch, J. But
+
+## Abstract
+Blockchain technology is an information security solution that operates on a distributed ledger system. Blockchain technology has considerable potential for securing Internet of Things (IoT) low-powered devices. However, the integration of IoT and blockchain technologies raises a number of research issues. One of the most important is the energy consumption of different blockchain algorithms. Because IoT devices are typically low-powered battery-powered devices, the energy consumption of any blockchain node must be kept low. IoT end nodes are typically low-powered devices expected to survive for extended periods without battery replacement. Energy consumption of blockchain algorithms is an important consideration in any application that combines both technologies, as some blockchain algorithms are infeasible because they consume large amounts of energy, causing the IoT device to reach high temperatures and potentially damaging the hardware; they are also a possible fire hazard. In this paper, we examine the temperatures reached in devices used to process blockchain algorithms, and the energy consumption of three commonly used blockchain algorithms running on low-powered microcontrollers communicating in a wireless sensor network. We found temperatures of IoT devices and energy consumption were highly correlated with the temperatures reached. The results indicate that device temperatures reached 80 °C. This work will contribute to developing energy-efficient blockchain-based IoT sensor networks.
+
+**Source:** https://www.semanticscholar.org/paper/4aa7b7edef76f2cf0e8e4070b15169f886df9e0e
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:15:09.868Z

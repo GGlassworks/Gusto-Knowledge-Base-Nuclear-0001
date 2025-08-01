@@ -1,0 +1,13 @@
+# Optimizing the Energy Consumption of Blockchain-Based Systems Using Evolutionary Algorithms: A New Problem Formulation
+
+**Authors:** Akram Alofi, Mahmoud A. Bokhari, Rami Bahsoon, R. Hendley
+
+## Abstract
+Blockchain technology has gained recognition in industrial, financial, and various technological domains for its potential in decentralizing trust in peer-to-peer systems. A core component of blockchain technology is a consensus algorithm, most commonly Proof of Work (PoW). PoW is used in blockchain-based systems to establish trust among peers; however, it does require the expenditure of an enormous amount of energy that affects the environmental sustainability of blockchain-based systems. Energy minimization, whilst ensuring trust within blockchain-based systems that use PoW, is a challenging problem. The solution has to consider how energy consumption can be minimized without compromising trust, whilst still ensuring, for instance, scalability, security, and decentralization. In this paper, we represent the problem as a subset selection problem of miners in a blockchain-based system. We formulate the problem of blockchain energy consumption as a Search-Based Software Engineering problem with four objectives: energy consumption, carbon emission, decentralization, and trust. We propose a model composed of multiple fitness functions. The model can be used to explore the complex search space by selecting a subset of miners that minimizes the energy consumption without drastically impacting the primary goals of the blockchain technology (i.e., security/trustworthiness and decentralization). We integrate our proposed fitness functions into five evolutionary algorithms to solve the problem of blockchain miners selection. Our results show that the environmental sustainability of blockchain-based systems (e.g. reduced energy use) can be enhanced with little degradation in other competing objectives. We also report on the performance of the algorithms used.
+
+**Source:** https://www.semanticscholar.org/paper/f9772653ac60e26030cae1b383820c142fe58d6e
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:03.237Z

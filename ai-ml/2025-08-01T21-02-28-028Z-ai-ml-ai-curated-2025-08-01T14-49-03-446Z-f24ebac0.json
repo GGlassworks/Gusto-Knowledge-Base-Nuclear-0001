@@ -1,0 +1,13 @@
+# Comparative Research On Blockchain Consensus Algorithms
+
+**Authors:** Yuran Xiong, Chun-an Hu
+
+## Abstract
+With the rapid rise of digital currency in recent years, blockchain technology has now gradually entered the public's field of vision. Bitcoin, as the first application of blockchain, is self-evidently hot. Among them, Consensus algorithm plays a crucial role in blockchain technology, and consensus algorithm as the core can directly affect the merits and demerits of the blockchain system. Therefore, different consensus algorithms are adopted for different blockchain systems, and different consensus algorithms have their own advantages and disadvantages. This paper introduces the most mainstream blockchain consensus algorithms in detail, reveals the characteristics of various algorithms, compares them in three aspects such as security, limitation, and decentralization degree, and summarizes the advantages and disadvantages of each. For higher efficiency, potential optimization schemes of various mainstream consensus algorithms proposed by researchers are also presented in, so that later researchers and developers can gain insight into designing and learning consensus algorithms and clarify future research directions as a way, so as to promote the development and application of blockchain technology.
+
+**Source:** https://www.semanticscholar.org/paper/6bc62e580f33a1a0bd5c3252fb9fd82927537567
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:03.446Z

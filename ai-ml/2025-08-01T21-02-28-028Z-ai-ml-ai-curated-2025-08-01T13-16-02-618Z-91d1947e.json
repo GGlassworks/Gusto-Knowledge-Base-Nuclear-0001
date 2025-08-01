@@ -1,0 +1,13 @@
+# Poster Paper: Towards a Comparison Framework for Blockchain Interoperability Implementations
+
+**Authors:** Alexander Neulinger
+
+## Abstract
+Blockchain interoperability has gained importance in practice, is increasingly discussed in literature, and serves as basis for new use cases such as manufacturing and financial services. However, many of the blockchain interoperability solutions discussed in literature are still in the design phase, are unpopular or have a small developer community. Therefore, this study proposes a comparison framework for blockchain interoperability implementations, focusing on data from published GitHub repositories. Interim results show that these implementations vary significantly in terms of popularity, their developer communities as well as their source code, indicating differences in quality. The proposed framework facilitates the selection of an appropriate implementation to enable blockchain interoperability use cases.
+
+**Source:** https://www.semanticscholar.org/paper/be0e610c122548fac917f50473c317df88762807
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:02.618Z

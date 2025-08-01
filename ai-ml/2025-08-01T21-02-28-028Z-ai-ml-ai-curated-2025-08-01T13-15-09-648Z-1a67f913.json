@@ -1,0 +1,13 @@
+# COMPASS: A Data-Driven Blockchain Evaluation Framwework
+
+**Authors:** W. Tsai, Rong Wang, Shuai Liu, Enyan Deng, Dong Yang
+
+## Abstract
+Blockchains or DLT (distributed Ledger Technology) receive significant attention recently. However, most of blockchain systems disclosed technical details in whitepapers only, but these whitepapers usually do not provide sufficient materials for a comprehensive evaluation. They do not provide data and do not compare with other systems. This paper proposes a data-driven model to evaluate blockchains from three dimensions: technical, team competence, and community activities with data automatically collected by crawling. As most of data are collected in an automated manner, evaluation and comparison analysis can be done with other blockchain systems in the database. We have developed this system COMPASS and evaluated more than 200 blockchains with highest market valuation. The results are available at Tiande website since December 2018 with frequent updates. The evaluation scores are calculated by combining objective data analysis with a weighting scheme, providing valuable reference for developers, scientists, and investors. The data show that most about 200 key developers dominate the industry and many systems are similar to each other
+
+**Source:** https://www.semanticscholar.org/paper/35995dda5830d1cfb75a5410b0dd126082c603f2
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:15:09.648Z

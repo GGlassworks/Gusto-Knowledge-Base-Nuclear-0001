@@ -1,0 +1,13 @@
+# Predictive Maintenance for Distribution System Operators in Increasing Transformers’ Reliability
+
+**Authors:** V. Vita, G. Fotis, V. Chobanov, C. Pavlatos, V. Mladenov
+
+## Abstract
+Power transformers’ reliability is of the highest importance for distribution networks. A possible failure of them can interrupt the supply to consumers, which will cause inconvenience to them and loss of revenue for electricity companies. Additionally, depending on the type of damage, the recovery time can vary and intensify the problems of consumers. This paper estimates the maintenance required for distribution transformers using Artificial Intelligence (AI). This way the condition of the equipment that is currently in use is evaluated and the time that maintenance should be performed is known. Because actions are only carried out when necessary, this strategy promises cost reductions over routine or time-based preventative maintenance. The suggested methodology uses a classification predictive model to identify with high accuracy the number of transformers that are vulnerable to failure. This was confirmed by training, testing, and validating it with actual data in Colombia’s Cauca Department. It is clear from this experimental method that Machine Learning (ML) methods for early detection of technical issues can help distribution system operators increase the number of selected transformers for predictive maintenance. Additionally, these methods can also be beneficial for customers’ satisfaction with the performance of distribution transformers, which would enhance the highly reliable performance of such transformers. According to the prediction for 2021, 852 transformers will malfunction, 820 of which will be in rural Cauca, which is consistent with previous failure statistics. The 10 kVA transformers will be the most vulnerable, followed by the 5 kVA and 15 kVA transformers.
+
+**Source:** https://www.semanticscholar.org/paper/83a58599fad6356bcea57a30071154c367e411c0
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:40.249Z

@@ -1,0 +1,13 @@
+# PoAh: A Novel Consensus Algorithm for Fast Scalable Private Blockchain for Large-scale IoT Frameworks
+
+**Authors:** Deepak Puthal, S. Mohanty, V. P. Yanambaka, E. Kougianos
+
+## Abstract
+In today's connected world, resource constrained devices are deployed for sensing and decision making applications, ranging from smart cities to environmental monitoring. Those recourse constrained devices are connected to create real-time distributed networks popularly known as the Internet of Things (IoT), fog computing and edge computing. The blockchain is gaining a lot of interest in these domains to secure the system by ignoring centralized dependencies, where proof-of-work (PoW) plays a vital role to make the whole security solution decentralized. Due to the resource limitations of the devices, PoW is not suitable for blockchain-based security solutions. This paper presents a novel consensus algorithm called Proof-of-Authentication (PoAh), which introduces a cryptographic authentication mechanism to replace PoW for resource constrained devices, and to make the blockchain application-specific. PoAh is thus suitable for private as well as permissioned blockchains. Further, PoAh not only secures the systems, but also maintains system sustainability and scalability. The proposed consensus algorithm is evaluated theoretically in simulation scenarios, and in real-time hardware testbeds to validate its performance. Finally, PoAh and its integration with the blockchain in the IoT and edge computing scenarios is discussed. The proposed PoAh, while running in limited computer resources (e.g. single-board computing devices like the Raspberry Pi) has a latency in the order of 3 secs.
+
+**Source:** https://www.semanticscholar.org/paper/85416631b40c6b9a2baf83dca672c337cb94677b
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:50:55.188Z

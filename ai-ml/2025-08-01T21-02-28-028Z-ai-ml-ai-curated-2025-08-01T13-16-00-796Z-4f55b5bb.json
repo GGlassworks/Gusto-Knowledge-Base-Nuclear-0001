@@ -1,0 +1,13 @@
+# Unsealing the secrets of blockchain consensus: A systematic comparison of the formal security of proof-of-work and proof-of-stake
+
+**Authors:** Iván Abellán Álvarez, Vincent Gramlich, Johannes Sedlmeir
+
+## Abstract
+With the increasing adoption of decentralized information systems based on a variety of permissionless blockchain networks, the choice of consensus mechanism is at the core of many controversial discussions. Ethereum's recent transition from proof-of-work (PoW) to proof-of-stake (PoS)-based consensus has further fueled the debate on which mechanism is more favorable. While the aspects of energy consumption and degree of (de-)centralization are often emphasized in the public discourse, seminal research has also shed light on the formal security aspects of both approaches individually. However, related work has not yet comprehensively structured the knowledge about the security properties of PoW and PoS. Rather, it has focused on in-depth analyses of specific protocols or high-level comparative reviews covering a broad range of consensus mechanisms. To fill this gap and unravel the commonalities and discrepancies between the formal security properties of PoW- and PoS-based consensus, we conduct a systematic literature review over 26 research articles. Our findings indicate that PoW-based consensus with the longest chain rule provides the strongest formal security guarantees. Nonetheless, PoS can achieve similar guarantees when addressing its more pronounced tradeoff between safety and liveness through hybrid approaches.
+
+**Source:** https://www.semanticscholar.org/paper/bb86108cc5fc35d6b35af975056d4b91a93a3bb2
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:00.797Z

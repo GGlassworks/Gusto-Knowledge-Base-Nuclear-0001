@@ -1,0 +1,13 @@
+# Research on Progress of Blockchain Consensus Algorithm: A Review on Recent Progress of Blockchain Consensus Algorithms
+
+**Authors:** Huanliang Xiong, Muxi Chen, Canghai Wu, Yingding Zhao, Wenlong Yi
+
+## Abstract
+Blockchain technology can solve the problem of trust in the open network in a decentralized way. It has broad application prospects and has attracted extensive attention from academia and industry. The blockchain consensus algorithm ensures that the nodes in the chain reach consensus in the complex network environment, and the node status ultimately remains the same. The consensus algorithm is one of the core technologies of blockchain and plays a pivotal role in the research of blockchain technology. This article gives the basic concepts of the blockchain, summarizes the key technologies of the blockchain, especially focuses on the research of the blockchain consensus algorithm, expounds the general principles of the consensus process, and classifies the mainstream consensus algorithms. Then, focusing on the improvement of consensus algorithm performance, it reviews the research progress of consensus algorithms in detail, analyzes and compares the characteristics, suitable scenarios, and possible shortcomings of different consensus algorithms, and based on this, studies the future development trend of consensus algorithms for reference.
+
+**Source:** https://www.semanticscholar.org/paper/a87ca382f1e7532ae669ebdb3bdbc95d529ebdd7
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:02.759Z

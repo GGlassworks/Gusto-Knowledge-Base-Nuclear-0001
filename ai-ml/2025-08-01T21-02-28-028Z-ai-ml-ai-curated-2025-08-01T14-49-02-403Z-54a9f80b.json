@@ -1,0 +1,13 @@
+# A Survey on Consensus Algorithms in Blockchain-Based Applications: Architecture, Taxonomy, and Operational Issues
+
+**Authors:** S. Islam, Mohammad Jaminur Islam, M. Hossain, S. Noor, K. Kwak, S. Islam
+
+## Abstract
+Recently, Blockchain-based applications have become immensely popular because of limited reliance on a single entity, unlike a centralized system. However, reaching a consensus among blockchain networks is a challenging and vital aspect of blockchain-based applications. There are various types of blockchain networks for different kinds of application scenarios. Among all of them, the consensus algorithm is the most crucial part of reaching an agreement in the complex blockchain network. Over the years, researchers have focused on dealing with the challenges like distributed computing, storage, transaction speed, security, validity, interoperability, and many more. However, only some of them are appropriate for all domains. Therefore, this paper presents an extensive study of different types of consensus protocols used in existing blockchain solutions with the strength and limitations of each algorithm. We also provide an inherent comparison among different algorithms to understand consensus protocol selection better. Moreover, we investigate operational and interoperability issues in existing blockchain-based applications to understand challenges and provide recommendations for future developers.
+
+**Source:** https://www.semanticscholar.org/paper/6d07167b0630d435492e0866ac19144d67c65e77
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:02.404Z

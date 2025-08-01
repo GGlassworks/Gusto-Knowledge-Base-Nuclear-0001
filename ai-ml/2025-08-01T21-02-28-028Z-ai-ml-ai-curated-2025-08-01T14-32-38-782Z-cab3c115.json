@@ -1,0 +1,13 @@
+# Forced Air-Cooling Thermal Design Methodology for High-Density, High-Frequency, and High-Power Planar Transformers in 1U Applications
+
+**Authors:** Minh Ngo, Yuliang Cao, D. Dong, R. Burgos, Khanh-Hung Nguyen, Agirman Ismail
+
+## Abstract
+Due to increased loss per unit volume in power transformers when operating at higher frequency, the increase in cooling system size can outweigh high-frequency transformer (HFT) size reduction benefits. Conventional air-cooling approach simply adopts oversized cooling fans with high airflow to keep the transformer below a temperature limit, resulting in a large footprint and high power consumption. For many applications using air cooling, more challenges arise when multiple transformers are placed in a dimension-constrained space in which free airflow from the cooling system is easily disrupted. This work seeks to address this tradeoff by presenting a high-density, low-profile, forced air-cooling system for HFTs. The combination of an epoxy resin cast transformer winding and converging air duct is proposed to minimize the heat transfer barrier from both the internal and external structures of the high-frequency power transformer. The air-cooling system design process is demonstrated with a 15-kW load test featuring two 500-kHz planar Litz-wire transformers. The proposed transformer cooling system achieves a power density of 635 W/in3, a peak height of 43 mm, and a cooling power consumption of 6.8 W. Compared to using a 120 <inline-formula> <tex-math notation="LaTeX">$\times120$ </tex-math></inline-formula> mm cooling fan, peak winding temperature is reduced to 8%, the cooling system volume is reduced to <inline-formula> <tex-math notation="LaTeX">$3\times $ </tex-math></inline-formula>, and a <inline-formula> <tex-math notation="LaTeX">$4\times $ </tex-math></inline-formula> reduction of cooling power consumption is achieved.
+
+**Source:** https://www.semanticscholar.org/paper/6fc6924143115e9eca2f15066e7b7c61b780e693
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:38.782Z

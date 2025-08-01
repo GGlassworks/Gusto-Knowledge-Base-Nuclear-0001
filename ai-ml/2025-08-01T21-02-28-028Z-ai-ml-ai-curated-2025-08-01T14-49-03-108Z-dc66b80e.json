@@ -1,0 +1,13 @@
+# A Survey and Ontology of Blockchain Consensus Algorithms for Resource-Constrained IoT Systems
+
+**Authors:** Misbah Khan, F. D. Hartog, Jiankun Hu
+
+## Abstract
+The basic properties of blockchain, such as decentralization, security, and immutability, show promising potential for IoT applications. The main feature—decentralization of blockchain technology—depends on the consensus. However, consensus algorithms are mostly designed to work in extensive computational and communication environments for network security and immutability, which is not desirable for resource-restricted IoT applications. Many solutions are proposed to address this issue with modified consensus algorithms based on the legacy consensus, such as the PoW, PoS, and BFT, and new non-linear data structures, such as DAG. A systematic classification and analysis of various techniques in the field will be beneficial for both researchers and industrial practitioners. Most existing relevant surveys provide classifications intuitively based on the domain knowledge, which are infeasible to reveal the intrinsic and complicated relationships among the relevant basic concepts and techniques. In this paper, a powerful tool of systematic knowledge classification and explanation is introduced to structure the survey on blockchain consensus algorithms for resource-constrained IoT systems. More specifically, an ontology was developed for a consensus algorithm apropos of IoT adaptability. The developed ontology is subdivided into two parts—CONB and CONIoT—representing the classification of generic consensus algorithms and the ones that are particularly proposed for IoT, respectively. Guided by this ontology, an in depth discussion and analysis are provided on the major consensus algorithms and their IoT compliance based on design and implementation targets. Open research challenges and future research directions are provided.
+
+**Source:** https://www.semanticscholar.org/paper/ae1241f478ffee8b0356a857281ba062a4083d97
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:03.109Z

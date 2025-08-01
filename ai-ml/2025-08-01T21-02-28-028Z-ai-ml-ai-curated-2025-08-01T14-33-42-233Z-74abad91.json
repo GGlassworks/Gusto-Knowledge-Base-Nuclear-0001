@@ -1,0 +1,13 @@
+# Deepfake detection using convolutional vision transformers and convolutional neural networks
+
+**Authors:** Ahmed Hatem Soudy, Omnia Sayed, Hala Tag-Elser, Rewaa Ragab, Sohaila Mohsen, Tarek Mostafa, A. Abohany, Salwa O. Slim
+
+## Abstract
+Deepfake technology has rapidly advanced in recent years, creating highly realistic fake videos that can be difficult to distinguish from real ones. The rise of social media platforms and online forums has exacerbated the challenges of detecting misinformation and malicious content. This study leverages many papers on artificial intelligence techniques to address deepfake detection. This research proposes a deep learning (DL)-based method for detecting deepfakes. The system comprises three components: preprocessing, detection, and prediction. Preprocessing includes frame extraction, face detection, alignment, and feature cropping. Convolutional neural networks (CNNs) are employed in the eye and nose feature detection phase. A CNN combined with a vision transformer is also used for face detection. The prediction component employs a majority voting approach, merging results from the three models applied to different features, leading to three individual predictions. The model is trained on various face images using FaceForensics++ and DFDC datasets. Multiple performance metrics, including accuracy, precision, F1, and recall, are used to assess the proposed model’s performance. The experimental results indicate the potential and strengths of the proposed CNN that achieved enhanced performance with an accuracy of 97%, while the CViT-based model achieved 85% using the FaceForences++ dataset and demonstrated significant improvements in deepfake detection compared to recent studies, affirming the potential of the suggested framework for detecting deepfakes on social media. This study contributes to a broader understanding of CNN-based DL methods for deepfake detection.
+
+**Source:** https://www.semanticscholar.org/paper/3ad9769a2b67800cfd86d94ece6e82985510c5e4
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:33:42.237Z

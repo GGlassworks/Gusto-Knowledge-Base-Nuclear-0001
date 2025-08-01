@@ -1,0 +1,13 @@
+# Towards a Performance Evaluation of Private Blockchain Frameworks using a Realistic Workload
+
+**Authors:** M. T. D. Oliveira, G. R. Carrara, N. Fernandes, C. Albuquerque, R. Carrano, Dianne S. V. Medeiros, D. M. F. Mattos
+
+## Abstract
+The blockchain is currently under the spotlight of trending technologies. It adds security to private applications in several areas of knowledge, and its versatility results in the development of multiple frameworks to meet the requirements of each application. Thus, it is a key challenge to ensure that blockchain frameworks provide security, access control, and high performance to applications. In this paper, we evaluate two frameworks for blockchain development, Parity, and Multichain, which provide configuration and permission flexibility. Our evaluation is a comprehensive comparison between the frameworks, focusing on the analysis of transaction-validation time, transaction-mining time, transaction-seek time and block-seek time. To this end, we deploy peer-to-peer private permissioned networks, in which the frameworks generate the blockchain applications. For each framework, we provide a realistic workload, based on the distribution of probability of interarrival time of transactions on the Bitcoin network. The results show that each framework stands out under specific criteria, and their design decisions imply restrictions on features that are critical for creating secure and efficient blockchain applications.
+
+**Source:** https://www.semanticscholar.org/paper/5713fac69bb256f38aca59841d78447e1cf3e6db
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:50:53.914Z

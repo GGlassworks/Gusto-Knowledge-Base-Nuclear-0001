@@ -1,0 +1,13 @@
+# Radiomic versus Convolutional Neural Networks Analysis for Classification of Contrast-enhancing Lesions at Multiparametric Breast MRI.
+
+**Authors:** D. Truhn, S. Schrading, Christoph Haarburger, Hannah Schneider, D. Merhof, C. Kuhl
+
+## Abstract
+Purpose To compare the diagnostic performance of radiomic analysis (RA) and a convolutional neural network (CNN) to radiologists for classification of contrast agent-enhancing lesions as benign or malignant at multiparametric breast MRI. Materials and Methods Between August 2011 and August 2015, 447 patients with 1294 enhancing lesions (787 malignant, 507 benign; median size, 15 mm ± 20) were evaluated. Lesions were manually segmented by one breast radiologist. RA was performed by using L1 regularization and principal component analysis. CNN used a deep residual neural network with 34 layers. All algorithms were also retrained on half the number of lesions (n = 647). Machine interpretations were compared with prospective interpretations by three breast radiologists. Standard of reference was histologic analysis or follow-up. Areas under the receiver operating curve (AUCs) were used to compare diagnostic performance. Results CNN trained on the full cohort was superior to training on the half-size cohort (AUC, 0.88 vs 0.83, respectively; P = .01), but there was no difference for RA and L1 regularization (AUC, 0.81 vs 0.80, respectively; P = .76) or RA and principal component analysis (AUC, 0.78 vs 0.78, respectively; P = .93). By using the full cohort, CNN performance (AUC, 0.88; 95% confidence interval: 0.86, 0.89) was better than RA and L1 regularization (AUC, 0.81; 95% confidence interval: 0.79, 0.83; P < .001) and RA and principal component analysis (AUC, 0.78; 95% confidence interval: 0.76, 0.80; P < .001). However, CNN was inferior to breast radiologist interpretation (AUC, 0.98; 95% confidence interval: 0.96, 0.99; P < .001). Conclusion A convolutional neural network was superior to radiomic analysis for classification of enhancing lesions as benign or malignant at multiparametric breast MRI. Both approaches were inferior to radiologists' performance; however, more training data will further improve performance of convolutional neural network, but not that of radiomics algorithms. © RSNA, 2018 Online supplemental material is available for this article.
+
+**Source:** https://www.semanticscholar.org/paper/0cb62a98b5e9022193336d152b25348bfd3d6397
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:16:33.461Z

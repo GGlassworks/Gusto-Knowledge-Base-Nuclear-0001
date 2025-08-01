@@ -1,0 +1,13 @@
+# Hammer: A General Blockchain Evaluation Framework
+
+**Authors:** Gang Wang, Yanfeng Zhang, Chenhao Ying, Xiaohua Li, Ge Yu
+
+## Abstract
+With the rising proliferation of blockchain systems and applications, choosing the appropriate blockchains to deploy applications is critical to achieving optimal performance. Evaluation frameworks provide a systematic approach to assessing and comparing different blockchain systems, guiding application developers to choose the most suitable one. However, existing evaluation frameworks still have limitations that affect their accuracy. First, most frameworks utilize workloads initially de-signed for traditional databases, which fail to capture the unique characteristics and requirements of blockchain systems. Second, these frameworks fail to generate correct results under heavy workloads due to their imbalanced task processing algorithms. Third, existing frameworks are tailored only for non-sharding blockchain architectures, limiting their ability to evaluate diverse blockchains. This paper introduces Hammer, a general blockchain evaluation framework that addresses the above limitations. It consists of two key components: workload prediction and asynchronous task processing. Workload prediction accurately predicts real-world workload trends by expanding the scope of temporal control sequences, providing a more realistic evaluation of blockchain performance. Asynchronous task processing handles heavy-load situations, enabling accurate evaluation of blockchain performance. Extensive experiments on various blockchains under Smallbank workload empower application developers to make informed decisions about blockchain selection and optimization.
+
+**Source:** https://www.semanticscholar.org/paper/e3c9189d55d764b2b392db10bff52e05bbf1dba6
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:15:08.993Z

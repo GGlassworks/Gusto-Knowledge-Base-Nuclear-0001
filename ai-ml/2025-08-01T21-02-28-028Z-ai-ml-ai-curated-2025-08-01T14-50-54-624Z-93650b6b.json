@@ -1,0 +1,13 @@
+# An Extensive Blockchain Based Applications Survey: Tools, Frameworks, Opportunities, Challenges and Solutions
+
+**Authors:** Kanika Agrawal, Mayank Aggarwal, Sudeep Tanwar, Gulshan Sharma, P. Bokoro, Ravi Sharma
+
+## Abstract
+Many security standards and cryptographic solutions exist for different applications such as agriculture, aircraft, banking systems and etc. but a more effective and efficient solution can be given by combining existing technologies with blockchain. This work addresses the problems of previous works such as scalability, immutability, robustness, network latency, auditability, and traceability. Satoshi Nakamoto introduced Blockchain (BC) to tackle the Address Resolution Protocol (ARP) spoofing attacks, Distributed Denial of Service (DDoS), phishing problems and various security issues. Blockchain is a technology that stores the data using a chain of blocks in an encrypted form with hashing algorithms. It uses the decentralized architecture to store the information that helps users and customers to have transparency on records. The data is stored in a distributed ledger that is tamperproof and immutable. To amalgamate the research done so far, this paper presents a systematic review of ten different applications and tools used in blockchain. The applications include academics and education, agriculture, aircraft, banking, car sharing, e-voting, healthcare, Internet of Things (IoT), Intellectual Property Rights (IPR), and Supplychain (SC). Moreover, this paper presented a taxonomy for these applications and analyzed the implementation of tools used in different domains. Different open issues and challenges and key takeaways of blockchain technology were also highlighted. Hence, this paper helps give a new insight into working with blockchain and deciding on appropriate tools and approaches for a particular application.
+
+**Source:** https://www.semanticscholar.org/paper/e298fa77ed00c4181030ebc3902a13e557422c50
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T14:50:54.625Z

@@ -1,0 +1,13 @@
+# Appendable-block Blockchain Evaluation over Geographically-Distributed IoT Networks
+
+**Authors:** Eduardo H. P. de Arruda, R. C. Lunardi, Henry C. Nunes, A. Zorzo, Regio A. Michelin
+
+## Abstract
+In the last few years, different researchers presented proposals for using blockchain in the Internet of Things (IoT) environments. These proposals consider that IoT environments can be benefited from different blockchain characteristics, such as: resilience, distributed processing, integrity and non-repudiation of produced information. However, researchers faced some challenges to use blockchain in IoT, e.g., latency, hardware and energy constraints, and performance requirements. One of the prominent solutions is the appendable-block blockchain, which uses a hierarchical peer-to-peer (p2p) gateway-based architecture. Additionally, current proposals present simplified evaluation scenarios, usually performed in controlled environments, which do not include important network features, for example, latency. Consequently, a model to evaluate a geographically distributed environment, for example, in a situation in which health data have to be collected from different countries in a pandemic situation, can help to understand the behavior and possible flaws of blockchains. In order to evaluate appendable-block blockchains in a realistic scenario, this paper presents an analysis of different consensus algorithms in geographically distributed hosts, in which latency can impact the performance of main operations in a blockchain, such as block and transaction insertion.
+
+**Source:** https://www.semanticscholar.org/paper/2f493ff442ba515d3c4c16b4e049c5872431bfd8
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:15:09.732Z
