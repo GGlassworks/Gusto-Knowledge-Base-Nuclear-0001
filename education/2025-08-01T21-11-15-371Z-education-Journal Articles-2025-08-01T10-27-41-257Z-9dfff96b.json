@@ -1,0 +1,13 @@
+# A Methodology to Teach Advanced A/D Converters, Combining Digital Signal Processing and Microelectronics Perspectives
+
+**Authors:** Quintans, C., Colmenar, A., Castro, M., Moure, M. J., Mandado, E.
+
+## Abstract
+ADCs (analog-to-digital converters), especially Pipeline and Sigma-Delta converters, are designed using complex architectures in order to increase their sampling rate and/or resolution. Consequently, the learning of ADC devices also encompasses complex concepts such as multistage synchronization, latency, oversampling, modulation, noise shaping, filtering, or decimation. This paper is focused on a new learning methodology, based on the simulation of the main circuit topologies used in commercial ADCs, in order to understand their working principles more thoroughly. At the same time, the ADC dynamic and static tests are obtained from the simulation results, and their characterization is obtained at an application level. In this way, the methodology combines the microelectronics perspective, at the design level, with the digital signal processing perspective. This methodology saves time in practical classes and encourages self-learning because it does not require special hardware. Moreover, it uses only software tools that are common in electronic engineering, like the OrCAD PSpice simulator, a C compiler, or a hardware description language (HDL) simulator. The methodology has been validated during two consecutive offerings of academic courses in the Telecommunication Engineering curriculum at Vigo University, Vigo, Spain, and the results obtained are discussed. (Contains 11 figures and 8 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ900603
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:27:41.257Z
