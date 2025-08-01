@@ -1,0 +1,12 @@
+# Geometric Deep Learning for Automated Landmarking of Maxillary Arches on 3D Oral Scans from Newborns with Cleft Lip and Palate
+
+**Authors:** Artur Agaronyan, HyeRan Choo, Marius Linguraru, Syed Muhammad Anwar
+
+## Summary
+Rapid advances in 3D model scanning have enabled the mass digitization of dental clay models. However, most clinicians and researchers continue to use manual morphometric analysis methods on these models such as landmarking. This is a significant step in treatment planning for craniomaxillofacial conditions. We aimed to develop and test a geometric deep learning model that would accurately and reliably label landmarks on a complicated and specialized patient population -- infants, as accurately as a human specialist without a large amount of training data. Our developed pipeline demonstrated an accuracy of 94.44% with an absolute mean error of 1.676 +/- 0.959 mm on a set of 100 models acquired from newborn babies with cleft lip and palate. Our proposed pipeline has the potential to serve as a fast, accurate, and reliable quantifier of maxillary arch morphometric features, as well as an integral step towards a future fully automated dental treatment pipeline.
+
+
+---
+Category: education
+Subcategory: eess.IV
+Collected: 2025-08-01T10:24:45.592Z

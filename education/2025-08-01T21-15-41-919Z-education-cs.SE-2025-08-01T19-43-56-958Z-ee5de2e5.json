@@ -1,0 +1,12 @@
+# P6: A Declarative Language for Integrating Machine Learning in Visual Analytics
+
+**Authors:** Jianping Kelvin Li, Kwan-Liu Ma
+
+## Summary
+We present P6, a declarative language for building high performance visual analytics systems through its support for specifying and integrating machine learning and interactive visualization methods. As data analysis methods based on machine learning and artificial intelligence continue to advance, a visual analytics solution can leverage these methods for better exploiting large and complex data. However, integrating machine learning methods with interactive visual analysis is challenging. Existing declarative programming libraries and toolkits for visualization lack support for coupling machine learning methods. By providing a declarative language for visual analytics, P6 can empower more developers to create visual analytics applications that combine machine learning and visualization methods for data analysis and problem solving. Through a variety of example applications, we demonstrate P6's capabilities and show the benefits of using declarative specifications to build visual analytics systems. We also identify and discuss the research opportunities and challenges for declarative visual analytics.
+
+
+---
+Category: education
+Subcategory: cs.SE
+Collected: 2025-08-01T19:43:56.958Z

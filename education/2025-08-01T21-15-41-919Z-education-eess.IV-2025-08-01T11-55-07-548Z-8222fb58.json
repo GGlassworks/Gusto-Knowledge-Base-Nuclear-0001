@@ -1,0 +1,12 @@
+# Explainable Machine Learning based Transform Coding for High Efficiency Intra Prediction
+
+**Authors:** Na Li, Yun Zhang, C. -C. Jay Kuo
+
+## Summary
+Machine learning techniques provide a chance to explore the coding performance potential of transform. In this work, we propose an explainable transform based intra video coding to improve the coding efficiency. Firstly, we model machine learning based transform design as an optimization problem of maximizing the energy compaction or decorrelation capability. The explainable machine learning based transform, i.e., Subspace Approximation with Adjusted Bias (Saab) transform, is analyzed and compared with the mainstream Discrete Cosine Transform (DCT) on their energy compaction and decorrelation capabilities. Secondly, we propose a Saab transform based intra video coding framework with off-line Saab transform learning. Meanwhile, intra mode dependent Saab transform is developed. Then, Rate Distortion (RD) gain of Saab transform based intra video coding is theoretically and experimentally analyzed in detail. Finally, three strategies on integrating the Saab transform and DCT in intra video coding are developed to improve the coding efficiency. Experimental results demonstrate that the proposed 8$\times$8 Saab transform based intra video coding can achieve Bj{\o}nteggard Delta Bit Rate (BDBR) from -1.19% to -10.00% and -3.07% on average as compared with the mainstream 8$\times$8 DCT based coding scheme.
+
+
+---
+Category: education
+Subcategory: eess.IV
+Collected: 2025-08-01T11:55:07.549Z

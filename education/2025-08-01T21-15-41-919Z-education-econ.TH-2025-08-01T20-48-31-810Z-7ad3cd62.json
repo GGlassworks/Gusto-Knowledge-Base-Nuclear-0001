@@ -1,0 +1,12 @@
+# Learning Optimal Behavior Through Reasoning and Experiences
+
+**Authors:** Cosmin Ilut, Rosen Valchev
+
+## Summary
+We develop a novel framework of bounded rationality under cognitive frictions that studies learning over optimal behavior through both deliberative reasoning and accumulated experiences. Using both types of information, agents engage in Bayesian non-parametric estimation of the unknown action value function. Reasoning signals are produced internally through mental deliberation, subject to a cognitive cost. Experience signals are the observed utility outcomes at previous actions. Agents' subjective estimation uncertainty, which evolves through information accumulation, modulates the two modes of learning in a state- and history-dependent way. We discuss how the model draws on and bridges conceptual, methodological and empirical insights from both economics and the cognitive sciences literature on reinforcement learning.
+
+
+---
+Category: education
+Subcategory: econ.TH
+Collected: 2025-08-01T20:48:31.814Z

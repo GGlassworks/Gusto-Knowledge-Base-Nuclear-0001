@@ -1,0 +1,12 @@
+# A Software Radio Challenge Accelerating Education and Innovation in Wireless Communications
+
+**Authors:** Marta González-Rodríguez, Antoni Gelonch-Bosch, Vuk Marojevic
+
+## Summary
+This Innovative Practice Full Paper presents our methodology and tools for introducing competition in the electrical engineering curriculum to accelerate education and innovation in wireless communications. Software radio or software-defined radio (SDR) enables wireless technology, systems and standards education where the student acts as the radio developer or engineer. This is still a huge endeavor because of the complexity of current wireless systems and the diverse student backgrounds. We suggest creating a competition among student teams to potentiate creativity while leveraging the SDR development methodology and open-source tools to facilitate cooperation. The proposed student challenge follows the European UEFA Champions League format, which includes a qualification phase followed by the elimination round or playoffs. The students are tasked to build an SDR transmitter and receiver following the guidelines of the long-term evolution standard. The metric is system performance. After completing this course, the students will be able to (1) analyze alternative radio design options and argue about their benefits and drawbacks and (2) contribute to the evolution of wireless standards. We discuss our experiences and lessons learned with particular focus on the suitability of the proposed teaching and evaluation methodology and conclude that competition in the electrical engineering classroom can spur innovation.
+
+
+---
+Category: education
+Subcategory: eess.SP
+Collected: 2025-08-01T15:43:26.576Z

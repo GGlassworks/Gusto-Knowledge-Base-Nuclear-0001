@@ -1,0 +1,12 @@
+# A Review of Vibration-Based Damage Detection in Civil Structures: From Traditional Methods to Machine Learning and Deep Learning Applications
+
+**Authors:** Onur Avci, Osama Abdeljaber, Serkan Kiranyaz, Mohammed Hussein, Moncef Gabbouj, Daniel J. Inman
+
+## Summary
+Monitoring structural damage is extremely important for sustaining and preserving the service life of civil structures. While successful monitoring provides resolute and staunch information on the health, serviceability, integrity and safety of structures; maintaining continuous performance of a structure depends highly on monitoring the occurrence, formation and propagation of damage. Damage may accumulate on structures due to different environmental and human-induced factors. Numerous monitoring and detection approaches have been developed to provide practical means for early warning against structural damage or any type of anomaly. Considerable effort has been put into vibration-based methods, which utilize the vibration response of the monitored structure to assess its condition and identify structural damage. Meanwhile, with emerging computing power and sensing technology in the last decade, Machine Learning (ML) and especially Deep Learning (DL) algorithms have become more feasible and extensively used in vibration-based structural damage detection with elegant performance and often with rigorous accuracy. While there have been multiple review studies published on vibration-based structural damage detection, there has not been a study where the transition from traditional methods to ML and DL methods are described and discussed. This paper aims to fulfill this gap by presenting the highlights of the traditional methods and provide a comprehensive review of the most recent applications of ML and DL algorithms utilized for vibration-based structural damage detection in civil structures.
+
+
+---
+Category: education
+Subcategory: eess.SP
+Collected: 2025-08-01T16:08:40.318Z

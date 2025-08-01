@@ -1,0 +1,12 @@
+# Machine Learning for Strategic Inference
+
+**Authors:** In-Koo Cho, Jonathan Libgober
+
+## Summary
+We study interactions between strategic players and markets whose behavior is guided by an algorithm. Algorithms use data from prior interactions and a limited set of decision rules to prescribe actions. While as-if rational play need not emerge if the algorithm is constrained, it is possible to guide behavior across a rich set of possible environments using limited details. Provided a condition known as weak learnability holds, Adaptive Boosting algorithms can be specified to induce behavior that is (approximately) as-if rational. Our analysis provides a statistical perspective on the study of endogenous model misspecification.
+
+
+---
+Category: education
+Subcategory: econ.TH
+Collected: 2025-08-01T20:43:25.640Z

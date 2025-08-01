@@ -1,0 +1,12 @@
+# Multi-Scale Hybrid Vision Transformer for Learning Gastric Histology: AI-Based Decision Support System for Gastric Cancer Treatment
+
+**Authors:** Yujin Oh, Go Eun Bae, Kyung-Hee Kim, Min-Kyung Yeo, Jong Chul Ye
+
+## Summary
+Gastric endoscopic screening is an effective way to decide appropriate gastric cancer (GC) treatment at an early stage, reducing GC-associated mortality rate. Although artificial intelligence (AI) has brought a great promise to assist pathologist to screen digitalized whole slide images, existing AI systems are limited in fine-grained cancer subclassifications and have little usability in planning cancer treatment. We propose a practical AI system that enables five subclassifications of GC pathology, which can be directly matched to general GC treatment guidance. The AI system is designed to efficiently differentiate multi-classes of GC through multi-scale self-attention mechanism using 2-stage hybrid Vision Transformer (ViT) networks, by mimicking the way how human pathologists understand histology. The AI system demonstrates reliable diagnostic performance by achieving class-average sensitivity of above 0.85 on a total of 1,212 slides from multicentric cohort. Furthermore, AI-assisted pathologists show significantly improved diagnostic sensitivity by 12% in addition to 18% reduced screening time compared to human pathologists. Our results demonstrate that AI-assisted gastric endoscopic screening has a great potential for providing presumptive pathologic opinion and appropriate cancer treatment of gastric cancer in practical clinical settings.
+
+
+---
+Category: education
+Subcategory: eess.IV
+Collected: 2025-08-01T10:22:52.978Z

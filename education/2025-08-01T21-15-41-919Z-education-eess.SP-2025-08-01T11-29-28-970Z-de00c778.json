@@ -1,0 +1,12 @@
+# Model-Based Deep Learning
+
+**Authors:** Nir Shlezinger, Yonina C. Eldar
+
+## Summary
+Signal processing traditionally relies on classical statistical modeling techniques. Such model-based methods utilize mathematical formulations that represent the underlying physics, prior information and additional domain knowledge. Simple classical models are useful but sensitive to inaccuracies and may lead to poor performance when real systems display complex or dynamic behavior. More recently, deep learning approaches that use deep neural networks are becoming increasingly popular. Deep learning systems do not rely on mathematical modeling, and learn their mapping from data, which allows them to operate in complex environments. However, they lack the interpretability and reliability of model-based methods, typically require large training sets to obtain good performance, and tend to be computationally complex. Model-based signal processing methods and data-centric deep learning each have their pros and cons. These paradigms can be characterized as edges of a continuous spectrum varying in specificity and parameterization. The methodologies that lie in the middle ground of this spectrum, thus integrating model-based signal processing with deep learning, are referred to as model-based deep learning, and are the focus here. This monograph provides a tutorial style presentation of model-based deep learning methodologies. These are families of algorithms that combine principled mathematical models with data-driven systems to benefit from the advantages of both approaches. Such model-based deep learning methods exploit both partial domain knowledge, via mathematical structures designed for specific problems, as well as learning from limited data. We accompany our presentation with running examples, in super-resolution, dynamic systems, and array processing. We show how they are expressed using the provided characterization and specialized in each of the detailed methodologies.
+
+
+---
+Category: education
+Subcategory: eess.SP
+Collected: 2025-08-01T11:29:28.970Z

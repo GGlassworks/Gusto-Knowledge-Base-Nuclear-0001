@@ -1,0 +1,12 @@
+# Row-Sparse Discriminative Deep Dictionary Learning for Hyperspectral Image Classification
+
+**Authors:** Vanika Singhal, Angshul Majumdar
+
+## Summary
+In recent studies in hyperspectral imaging, biometrics and energy analytics, the framework of deep dictionary learning has shown promise. Deep dictionary learning outperforms other traditional deep learning tools when training data is limited; therefore hyperspectral imaging is one such example that benefits from this framework. Most of the prior studies were based on the unsupervised formulation; and in all cases, the training algorithm was greedy and hence sub-optimal. This is the first work that shows how to learn the deep dictionary learning problem in a joint fashion. Moreover, we propose a new discriminative penalty to the said framework. The third contribution of this work is showing how to incorporate stochastic regularization techniques into the deep dictionary learning framework. Experimental results on hyperspectral image classification shows that the proposed technique excels over all state-of-the-art deep and shallow (traditional) learning based methods published in recent times.
+
+
+---
+Category: education
+Subcategory: eess.IV
+Collected: 2025-08-01T11:26:53.784Z

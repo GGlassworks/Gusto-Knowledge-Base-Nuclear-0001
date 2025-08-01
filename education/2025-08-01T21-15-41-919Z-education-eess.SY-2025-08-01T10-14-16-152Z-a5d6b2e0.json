@@ -1,0 +1,12 @@
+# A Digital Twin Framework for Reinforcement Learning with Real-Time Self-Improvement via Human Assistive Teleoperation
+
+**Authors:** Kabirat Olayemi, Mien Van, Luke Maguire, Sean McLoone
+
+## Summary
+Reinforcement Learning (RL) or Deep Reinforcement Learning (DRL) is a powerful approach to solving Markov Decision Processes (MDPs) when the model of the environment is not known a priori. However, RL models are still faced with challenges such as handling covariate shifts and ensuring the quality of human demonstration. To address these challenges and further advance DRL models, our work develops a human-in-the-loop DRL framework via digital twin that leverages human intelligence after deployment to retrain the DRL model in real time. First, we develop a pre-trained model fully based on learning through trial and error in the simulated environment allowing scalability and automation while eliminating variability and biases that can come from subjective human guidance. Second, instead of deploying the trained model directly on the UGV, we create a digital twin which controls the physical UGV from the virtual environment. Third, to allow continuous learning without catastrophic forgetting, we introduce the ability of the model to self-improve with the help of small human guidance at the start of the retraining. We test the performance of our proposed model in both simulation and real-world environments with both static and dynamic obstacles. The results indicate that our proposed approach not only outperforms the baseline models in terms of reward accumulation but also demonstrates superior training efficiency.
+
+
+---
+Category: education
+Subcategory: eess.SY
+Collected: 2025-08-01T10:14:16.152Z

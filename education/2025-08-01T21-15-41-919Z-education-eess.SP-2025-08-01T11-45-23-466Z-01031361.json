@@ -1,0 +1,12 @@
+# Advanced Machine Learning Techniques for Self-Interference Cancellation in Full-Duplex Radios
+
+**Authors:** Andreas Toftegaard Kristensen, Andreas Burg, Alexios Balatsoukas-Stimming
+
+## Summary
+In-band full-duplex systems allow for more efficient use of temporal and spectral resources by transmitting and receiving information at the same time and on the same frequency. However, this creates a strong self-interference signal at the receiver, making the use of self-interference cancellation critical. Recently, neural networks have been used to perform digital self-interference with lower computational complexity compared to a traditional polynomial model. In this paper, we examine the use of advanced neural networks, such as recurrent and complex-valued neural networks, and we perform an in-depth network architecture exploration. Our neural network architecture exploration reveals that complex-valued neural networks can significantly reduce both the number of floating-point operations and parameters compared to a polynomial model, whereas the real-valued networks only reduce the number of floating-point operations. For example, at a digital self-interference cancellation of 44.51 dB, a complex-valued neural network requires 33.7 % fewer floating-point operations and 26.9 % fewer parameters compared to the polynomial model.
+
+
+---
+Category: education
+Subcategory: eess.SP
+Collected: 2025-08-01T11:45:23.467Z

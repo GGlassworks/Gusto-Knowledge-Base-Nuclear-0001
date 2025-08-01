@@ -1,0 +1,12 @@
+# Toward BCI-enabled Metaverse: A Joint Learning and Resource Allocation Approach
+
+**Authors:** Nguyen Quang Hieu, Dinh Thai Hoang, Diep N. Nguyen, Eryk Dutkiewicz
+
+## Summary
+Toward user-driven Metaverse applications with fast wireless connectivity and tremendous computing demand through future 6G infrastructures, we propose a Brain-Computer Interface (BCI) enabled framework that paves the way for the creation of intelligent human-like avatars. Our approach takes a first step toward the Metaverse systems in which the digital avatars are envisioned to be more intelligent by collecting and analyzing brain signals through cellular networks. In our proposed system, Metaverse users experience Metaverse applications while sending their brain signals via uplink wireless channels in order to create intelligent human-like avatars at the base station. As such, the digital avatars can not only give useful recommendations for the users but also enable the system to create user-driven applications. Our proposed framework involves a mixed decision-making and classification problem in which the base station has to allocate its computing and radio resources to the users and classify the brain signals of users in an efficient manner. To this end, we propose a hybrid training algorithm that utilizes recent advances in deep reinforcement learning to address the problem. Specifically, our hybrid training algorithm contains three deep neural networks cooperating with each other to enable better realization of the mixed decision-making and classification problem. Simulation results show that our proposed framework can jointly address resource allocation for the system and classify brain signals of the users with highly accurate predictions.
+
+
+---
+Category: education
+Subcategory: eess.SP
+Collected: 2025-08-01T10:16:08.956Z

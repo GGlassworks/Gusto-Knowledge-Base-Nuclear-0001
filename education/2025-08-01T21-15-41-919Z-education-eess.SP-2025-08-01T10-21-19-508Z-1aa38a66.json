@@ -1,0 +1,12 @@
+# Digital twin, physics-based model, and machine learning applied to damage detection in structures
+
+**Authors:** TG Ritto, FA Rochinha
+
+## Summary
+This work is interested in digital twins, and the development of a simplified framework for them, in the context of dynamical systems. Digital twin is an ingenious concept that helps on organizing different areas of expertise aiming at supporting engineering decisions related to a specific asset; it articulates computational models, sensors, learning, real time analysis, diagnosis, prognosis, and so on. In this framework, and to leverage its capacity, we explore the integration of physics-based models with machine learning. A digital twin is constructed for a damaged structure, where a discrete physics-based computational model is employed to investigate several damage scenarios. A machine learning classifier, that serves as the digital twin, is trained with data taken from a stochastic computational model. This strategy allows the use of an interpretable model (physics-based) to build a fast digital twin (machine learning) that will be connected to the physical twin to support real time engineering decisions. Different classifiers (quadratic discriminant, support vector machines, etc) are tested, and different model parameters (number of sensors, level of noise, damage intensity, uncertainty, operational parameters, etc) are considered to construct datasets for the training. The accuracy of the digital twin depends on the scenario analyzed. Through the chosen application, we are able to emphasize each step of a digital twin construction, including the possibility of integrating physics-based models with machine learning. The different scenarios explored yield conclusions that might be helpful for a large range of applications.
+
+
+---
+Category: education
+Subcategory: eess.SP
+Collected: 2025-08-01T10:21:19.508Z

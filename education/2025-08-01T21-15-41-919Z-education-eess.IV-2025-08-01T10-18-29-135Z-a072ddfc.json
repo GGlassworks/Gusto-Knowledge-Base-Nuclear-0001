@@ -1,0 +1,12 @@
+# Length-scale study in deep learning prediction for non-small cell lung cancer brain metastasis
+
+**Authors:** Haowen Zhou, Steven, Lin, Mark Watson, Cory T. Bernadt, Oumeng Zhang, Ramaswamy Govindan, Richard J. Cote, Changhuei Yang
+
+## Summary
+Deep learning assisted digital pathology has the potential to impact clinical practice in significant ways. In recent studies, deep neural network (DNN) enabled analysis outperforms human pathologists. Increasing sizes and complexity of the DNN architecture generally improves performance at the cost of DNN's explainability. For pathology, this lack of DNN explainability is particularly problematic as it hinders the broader clinical interpretation of the pathology features that may provide physiological disease insights. To better assess the features that DNN uses in developing predictive algorithms to interpret digital microscopic images, we sought to understand the role of resolution and tissue scale and here describe a novel method for studying the predictive feature length-scale that underpins a DNN's predictive power. We applied the method to study a DNN's predictive capability in the case example of brain metastasis prediction from early-stage non-small-cell lung cancer biopsy slides. The study highlights the DNN attention in the brain metastasis prediction targeting both cellular scale (resolution) and tissue scale features on H&amp;E-stained histological whole slide images. At the cellular scale, we see that DNN's predictive power is progressively increased at higher resolution (i.e., lower resolvable feature length) and is largely lost when the resolvable feature length is longer than 5 microns. In addition, DNN uses more macro-scale features (maximal feature length) associated with tissue organization/architecture and is optimized when assessing visual fields larger than 41 microns. This study for the first time demonstrates the length-scale requirements necessary for optimal DNN learning on digital whole slide images.
+
+
+---
+Category: education
+Subcategory: eess.IV
+Collected: 2025-08-01T10:18:29.135Z

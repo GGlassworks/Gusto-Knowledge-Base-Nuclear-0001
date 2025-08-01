@@ -1,0 +1,12 @@
+# Scenario Analysis with Multivariate Bayesian Machine Learning Models
+
+**Authors:** Michael Pfarrhofer, Anna Stelzer
+
+## Summary
+We present an econometric framework that adapts tools for scenario analysis, such as variants of conditional forecasts and impulse response functions, for use with dynamic nonparametric multivariate models. We demonstrate the utility of our approach with simulated data and three real-world applications: (1) scenario-based conditional forecasts aligned with Federal Reserve stress test assumptions, measuring (2) macroeconomic risk under varying financial conditions, and (3) asymmetric effects of US-based financial shocks and their international spillovers. Our results indicate the importance of nonlinearities and asymmetries in dynamic relationships between macroeconomic and financial variables.
+
+
+---
+Category: education
+Subcategory: econ.EM
+Collected: 2025-08-01T20:07:52.366Z

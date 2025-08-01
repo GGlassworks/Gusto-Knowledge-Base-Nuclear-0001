@@ -1,0 +1,12 @@
+# Deep Learning Segmentation and Classification of Red Blood Cells Using a Large Multi-Scanner Dataset
+
+**Authors:** Mohamed Elmanna, Ahmed Elsafty, Yomna Ahmed, Muhammad Rushdi, Ahmed Morsy
+
+## Summary
+Digital pathology has recently been revolutionized by advancements in artificial intelligence, deep learning, and high-performance computing. With its advanced tools, digital pathology can help improve and speed up the diagnostic process, reduce human errors, and streamline the reporting step. In this paper, we report a new large red blood cell (RBC) image dataset and propose a two-stage deep learning framework for RBC image segmentation and classification. The dataset is a highly diverse dataset of more than 100K RBCs containing eight different classes. The dataset, which is considerably larger than any publicly available hematopathology dataset, was labeled independently by two hematopathologists who also manually created masks for RBC cell segmentation. Subsequently, in the proposed framework, first, a U-Net model was trained to achieve automatic RBC image segmentation. Second, an EfficientNetB0 model was trained to classify RBC images into one of the eight classes using a transfer learning approach with a 5X2 cross-validation scheme. An IoU of 98.03% and an average classification accuracy of 96.5% were attained on the test set. Moreover, we have performed experimental comparisons against several prominent CNN models. These comparisons show the superiority of the proposed model with a good balance between performance and computational cost.
+
+
+---
+Category: education
+Subcategory: eess.IV
+Collected: 2025-08-01T10:21:04.269Z

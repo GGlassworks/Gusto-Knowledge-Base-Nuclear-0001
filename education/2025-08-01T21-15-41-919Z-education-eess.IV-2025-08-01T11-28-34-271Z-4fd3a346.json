@@ -1,0 +1,12 @@
+# Trends in deep learning for medical hyperspectral image analysis
+
+**Authors:** Uzair Khan, Paheding Sidike, Colin Elkin, Vijay Devabhaktuni
+
+## Summary
+Deep learning algorithms have seen acute growth of interest in their applications throughout several fields of interest in the last decade, with medical hyperspectral imaging being a particularly promising domain. So far, to the best of our knowledge, there is no review paper that discusses the implementation of deep learning for medical hyperspectral imaging, which is what this review paper aims to accomplish by examining publications that currently utilize deep learning to perform effective analysis of medical hyperspectral imagery. This paper discusses deep learning concepts that are relevant and applicable to medical hyperspectral imaging analysis, several of which have been implemented since the boom in deep learning. This will comprise of reviewing the use of deep learning for classification, segmentation, and detection in order to investigate the analysis of medical hyperspectral imaging. Lastly, we discuss the current and future challenges pertaining to this discipline and the possible efforts to overcome such trials.
+
+
+---
+Category: education
+Subcategory: eess.IV
+Collected: 2025-08-01T11:28:34.271Z

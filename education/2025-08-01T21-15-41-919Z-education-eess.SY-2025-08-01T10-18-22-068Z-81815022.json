@@ -1,0 +1,12 @@
+# Safe Imitation Learning on Real-Life Highway Data for Human-like Autonomous Driving
+
+**Authors:** Flavia Sofia Acerbo, Mohsen Alirezaei, Herman Van der Auweraer, Tong Duy Son
+
+## Summary
+This paper presents a safe imitation learning approach for autonomous vehicle driving, with attention on real-life human driving data and experimental validation. In order to increase occupant's acceptance and gain drivers' trust, the autonomous driving function needs to provide a both safe and comfortable behavior such as risk-free and naturalistic driving. Our goal is to obtain such behavior via imitation learning of a planning policy from human driving data. In particular, we propose to incorporate barrier functions and smooth spline-based motion parametrization in the training loss function. The advantage is twofold: improving safety of the learning algorithm, while reducing the amount of needed training data. Moreover, the behavior is learned from highway driving data, which is collected consistently by a human driver and then processed towards a specific driving scenario. For development validation, a digital twin of the real test vehicle, sensors, and traffic scenarios are reconstructed toward high-fidelity and physics-based modeling technologies. These models are imported to simulation tools and co-simulated with the proposed algorithm for validation and further testing. Finally, we present experimental results and analyses, and compare with the conventional imitation learning technique (behavioral cloning) to justify the proposed development.
+
+
+---
+Category: education
+Subcategory: eess.SY
+Collected: 2025-08-01T10:18:22.068Z

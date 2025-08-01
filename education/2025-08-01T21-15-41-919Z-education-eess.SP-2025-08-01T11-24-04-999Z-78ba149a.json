@@ -1,0 +1,12 @@
+# Deep reinforcement learning for optical systems: A case study of mode-locked lasers
+
+**Authors:** Chang Sun, Eurika Kaiser, Steven L. Brunton, J. Nathan Kutz
+
+## Summary
+We demonstrate that deep reinforcement learning (deep RL) provides a highly effective strategy for the control and self-tuning of optical systems. Deep RL integrates the two leading machine learning architectures of deep neural networks and reinforcement learning to produce robust and stable learning for control. Deep RL is ideally suited for optical systems as the tuning and control relies on interactions with its environment with a goal-oriented objective to achieve optimal immediate or delayed rewards. This allows the optical system to recognize bi-stable structures and navigate, via trajectory planning, to optimally performing solutions, the first such algorithm demonstrated to do so in optical systems. We specifically demonstrate the deep RL architecture on a mode-locked laser, where robust self-tuning and control can be established through access of the deep RL agent to its waveplates and polarizers. We further integrate transfer learning to help the deep RL agent rapidly learn new parameter regimes and generalize its control authority. Additionally, the deep RL learning can be easily integrated with other control paradigms to provide a broad framework to control any optical system.
+
+
+---
+Category: education
+Subcategory: eess.SP
+Collected: 2025-08-01T11:24:05.000Z

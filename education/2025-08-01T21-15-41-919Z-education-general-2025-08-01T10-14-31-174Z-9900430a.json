@@ -1,0 +1,13 @@
+# Authorship Attribution and the Digital Humanities Curriculum
+
+**Authors:** Patrick Juola
+
+## Abstract
+<jats:p>Although authorship attribution is simply the determination of who wrote a document by analysis of its content, it is a long-standing problem both in the humanities and in computational text analysis. While traditional methods involve identifying key aspects of style through close reading, new developments in computational science permit a more objective approach through the statistical analysis of superficial characteristics such as vocabulary and word choice. If a writer can be shown (statistically) to have a particular stylistic quirk (‘stylome’) that appears broadly across his or her writing, then other writings also displaying that quirk are good candidates to also be by that author. The present chapter describes some of the statistical techniques used to make such judgments, and describes one particular computer program (JGAAP) that is freely available for this purpose. This type of analysis is capable of determining authorship with relatively high accuracy The potential creates some significant implications for authorship questions across the humanities curriculum, as well as broader impacts in the world outside the academy. In light of these implications, I argue for the inclusion of more mathematics into the humanities curriculum.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-60566-932-8.ch001
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T10:14:31.174Z

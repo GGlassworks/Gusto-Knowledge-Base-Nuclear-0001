@@ -1,0 +1,12 @@
+# Comparison of Deep learning models on time series forecasting : a case study of Dissolved Oxygen Prediction
+
+**Authors:** Hongqian Qin
+
+## Summary
+Deep learning has achieved impressive prediction performance in the field of sequence learning recently. Dissolved oxygen prediction, as a kind of time-series forecasting, is suitable for this technique. Although many researchers have developed hybrid models or variant models based on deep learning techniques, there is no comprehensive and sound comparison among the deep learning models in this field currently. Plus, most previous studies focused on one-step forecasting by using a small data set. As the convenient access to high-frequency data, this paper compares multi-step deep learning forecasting by using walk-forward validation. Specifically, we test Convolutional Neural Network (CNN), Temporal Convolutional Network (TCN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Bidirectional Recurrent Neural Network (BiRNN) based on the real-time data recorded automatically at a fixed observation point in the Yangtze River from 2012 to 2016. By comparing the average accumulated statistical metrics of root mean square error (RMSE), mean absolute error (MAE), and coefficient of determination in each time step, We find for multi-step time series forecasting, the average performance of each time step does not decrease linearly. GRU outperforms other models with significant advantages.
+
+
+---
+Category: education
+Subcategory: eess.SP
+Collected: 2025-08-01T11:34:52.491Z

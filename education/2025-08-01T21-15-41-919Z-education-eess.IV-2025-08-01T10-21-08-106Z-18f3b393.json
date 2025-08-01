@@ -1,0 +1,12 @@
+# Learning-based sound speed estimation and aberration correction in linear-array photoacoustic imaging
+
+**Authors:** Mengjie Shi, Tom Vercauteren, Wenfeng Xia
+
+## Summary
+Photoacoustic (PA) image reconstruction involves acoustic inversion that necessitates the specification of the speed of sound (SoS) within the medium of propagation. Due to the lack of information on the spatial distribution of the SoS within heterogeneous soft tissue, a homogeneous SoS distribution (such as 1540 m/s) is typically assumed in PA image reconstruction, similar to that of ultrasound (US) imaging. Failure to compensate the SoS variations leads to aberration artefacts, deteriorating the image quality. Various methods have been proposed to address this issue, but they usually involve complex hardware and/or time-consuming algorithms, hindering clinical translation. In this work, we introduce a deep learning framework for SoS estimation and subsequent aberration correction in a dual-modal PA/US imaging system exploiting a clinical US probe. As the acquired PA and US images were inherently co-registered, the estimated SoS distribution from US channel data using a deep neural network was incorporated for accurate PA image reconstruction. The framework comprised an initial pre-training stage based on digital phantoms, which was further enhanced through transfer learning using physical phantom data and associated SoS maps obtained from measurements. This framework achieved a root mean square error of 10.2 m/s and 15.2 m/s for SoS estimation on digital and physical phantoms, respectively and structural similarity index measures of up to 0.86 for PA reconstructions as compared to the conventional approach of 0.69. A maximum of 1.2 times improvement in signal-to-noise ratio of PA images was further demonstrated with a human volunteer study. Our results show that the proposed framework could be valuable in various clinical and preclinical applications to enhance PA image reconstruction.
+
+
+---
+Category: education
+Subcategory: eess.IV
+Collected: 2025-08-01T10:21:08.106Z

@@ -1,0 +1,12 @@
+# Learning in a Small/Big World
+
+**Authors:** Benson Tsz Kin Leung
+
+## Summary
+Complexity and limited ability have profound effect on how we learn and make decisions under uncertainty. Using the theory of finite automaton to model belief formation, this paper studies the characteristics of optimal learning behavior in small and big worlds, where the complexity of the environment is low and high, respectively, relative to the cognitive ability of the decision maker. Optimal behavior is well approximated by the Bayesian benchmark in very small world but is more different as the world gets bigger. In addition, in big worlds, the optimal learning behavior could exhibit a wide range of well-documented non-Bayesian learning behavior, including the use of heuristics, correlation neglect, persistent over-confidence, inattentive learning, and other behaviors of model simplification or misspecification. These results establish a clear and testable relationship among the prominence of non-Bayesian learning behavior, complexity, and cognitive ability.
+
+
+---
+Category: education
+Subcategory: econ.TH
+Collected: 2025-08-01T20:42:22.971Z

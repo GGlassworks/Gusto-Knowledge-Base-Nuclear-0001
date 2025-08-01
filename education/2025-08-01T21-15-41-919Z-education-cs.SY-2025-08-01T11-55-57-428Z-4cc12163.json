@@ -1,0 +1,12 @@
+# M-RWTL: Learning Signal-Matched Rational Wavelet Transform in Lifting Framework
+
+**Authors:** Naushad Ansari, Anubha Gupta
+
+## Summary
+Transform learning is being extensively applied in several applications because of its ability to adapt to a class of signals of interest. Often, a transform is learned using a large amount of training data, while only limited data may be available in many applications. Motivated with this, we propose wavelet transform learning in the lifting framework for a given signal. Significant contributions of this work are: 1) the existing theory of lifting framework of the dyadic wavelet is extended to more generic rational wavelet design, where dyadic is a special case and 2) the proposed work allows to learn rational wavelet transform from a given signal and does not require large training data. Since it is a signal-matched design, the proposed methodology is called Signal-Matched Rational Wavelet Transform Learning in the Lifting Framework (M-RWTL). The proposed M-RWTL method inherits all the advantages of lifting, i.e., the learned rational wavelet transform is always invertible, method is modular, and the corresponding M-RWTL system can also incorporate nonlinear filters, if required. This may enhance the use of RWT in applications which is so far restricted. M-RWTL is observed to perform better compared to standard wavelet transforms in the applications of compressed sensing based signal reconstruction.
+
+
+---
+Category: education
+Subcategory: cs.SY
+Collected: 2025-08-01T11:55:57.429Z
