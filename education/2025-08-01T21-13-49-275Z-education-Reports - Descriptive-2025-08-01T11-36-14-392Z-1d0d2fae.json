@@ -1,0 +1,13 @@
+# Neural Networks for the Beginner.
+
+**Authors:** Snyder, Robin M.
+
+## Abstract
+Motivated by the brain, neural networks are a right-brained approach to artificial intelligence that is used to recognize patterns based on previous training. In practice, one would not program an expert system to recognize a pattern and one would not train a neural network to make decisions from rules; but one could combine the best features of each in solving a problem. One of the simplest and most common neural network models is the fully connected three layer model that consists of the input layer, the hidden layer, and the output layer. Instead of programming a neural network, the neural network is trained by presenting a history of inputs and outputs to the network. Training can be difficult and time-consuming, but after training, the neural network can quickly recognize  patterns. One of the easiest places in which to integrate neural networks into the curriculum is a follow-on to the study of regression. The goal of regression is to determine a functional relationship between a dependent variable and one or more independent variables. Neural network software is becoming more available and more affordable. An annotated bibliography of selected literature on neural networks and a brief history of neural networks follows the discussion in this paper. (Contains 11 references.) (AEF)
+
+**Source:** https://eric.ed.gov/?id=ED405832
+
+---
+Category: education
+Subcategory: Reports - Descriptive
+Collected: 2025-08-01T11:36:14.392Z

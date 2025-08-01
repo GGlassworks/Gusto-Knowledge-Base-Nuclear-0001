@@ -1,0 +1,13 @@
+# Avoiding Technological Quicksand: Finding a Viable Technical Foundation for Digital Preservation. A Report to the Council on Library and Information Resources.
+
+**Authors:** Rothenberg, Jeff
+
+## Abstract
+There is as yet no viable long-term strategy to ensure that digital information will be readable in the future. Digital documents are vulnerable to loss via the decay and obsolescence of the media on which they are stored, and they become inaccessible and unreadable when the software needed to interpret them, or the hardware on which that software runs, becomes obsolete and is lost. This report explores the technical depth of the problem of long-term digital document preservation, analyzes the inadequacies of a number of ideas that have been proposed as solutions, and elaborates the emulation strategy. The central idea of the emulation strategy is to emulate obsolete systems on future, unknown systems, so that a digital document's original software can be run in the future  despite being obsolete. Contents of this report are as follows: (1) Introduction (stating the digital preservation problem and introducing the emulation strategy); (2) The Digital Longevity Problem; (3) Preservation in the Digital Age; (4) The Scope of the Problem; (5) Technical Dimensions of the Problem; (6) The Inadequacy of Most Proposed Approaches; (7) Criteria for an Ideal Solution; (8) The Emulation Solution; (9) Research Required for the Emulation Approach; and (10) Summary. (Author/AEF)
+
+**Source:** https://eric.ed.gov/?id=ED426715
+
+---
+Category: education
+Subcategory: Reports - Descriptive
+Collected: 2025-08-01T10:23:48.536Z

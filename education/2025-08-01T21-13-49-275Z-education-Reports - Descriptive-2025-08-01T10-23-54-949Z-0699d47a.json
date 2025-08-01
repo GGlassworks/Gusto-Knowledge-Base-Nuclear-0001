@@ -1,0 +1,13 @@
+# MyLibrary: A Web Personalized Digital Library.
+
+**Authors:** Rocha, Catarina, Xexeo, Geraldo, da Rocha, Ana Regina C.
+
+## Abstract
+With the increasing availability of information on Internet information providers, like search engines, digital libraries and online databases, it becomes more important to have personalized systems that help users to find relevant information. One type of personalization that is growing in use is recommender systems. This paper presents MyLibrary, a Web personalized digital library that provides personalized services and a recommender system (RecDoc) to support the user task of finding useful information. MyLibrary offers an environment where users can store read documents in a user profile, can rate and comment these stored documents, can visualize the documents percentage rate in a chart representation, and share information with other library users. With the information  stored in the user profiles, MyLibrary offers a recommender systems, RecDoc, that indicates documents based in already read documents by the user (content-based) or based in the collaboration with other users (collaborative filtering). (Contains 13 references.) (Author)
+
+**Source:** https://eric.ed.gov/?id=ED479603
+
+---
+Category: education
+Subcategory: Reports - Descriptive
+Collected: 2025-08-01T10:23:54.950Z
