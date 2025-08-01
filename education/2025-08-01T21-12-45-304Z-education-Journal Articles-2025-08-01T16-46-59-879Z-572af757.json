@@ -1,0 +1,13 @@
+# Generating Alternative Engineering Designs by Integrating Desktop VR with Genetic Algorithms
+
+**Authors:** Chandramouli, Magesh, Bertoline, Gary, Connolly, Patrick
+
+## Abstract
+This study proposes an innovative solution to the problem of multiobjective engineering design optimization by integrating desktop VR with genetic computing. Although, this study considers the case of construction design as an example to illustrate the framework, this method can very much be extended to other engineering design problems as well. The proposed framework generates optimal solutions for the problem of construction design, which is becoming an increasingly complex problem due to the multitude of factors involved in the process. This study places special emphasis on the modeling of the scenes within the virtual world from the design perspective. Even though genetic algorithms (GA) have been used by professionals in diverse disciplines to optimize conflicting objectives, these provide the end user with a pool of solutions rather than a unique solution that can be implemented. Hence, this study proposes a desktop VR framework that serves as a visualization tool to aid decision makers to better evaluate the alternative solutions from the Pareto set resulting from the GA process. Modeling alternative scenarios is formulated as an optimization problem wherein design configurations are generated using genetic algorithms. With the goal of sustainable and non-destructive construction design and planning, the algorithm is intended for multiple objectives. The study also presents an innovative perspective on this whole process by presenting the qualitative evaluation of the scene based on human evaluation and incorporating changes. The results demonstrate the robustness of the GA framework and also substantiate the utility of the virtual scenarios. (Contains 2 tables and 10 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ868789
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T16:46:59.879Z

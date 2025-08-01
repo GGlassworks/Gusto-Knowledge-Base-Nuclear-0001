@@ -1,0 +1,13 @@
+# An Improved Constrained Learning Path Adaptation Problem Based on Genetic Algorithm
+
+**Authors:** Benmesbah, Ouissem, Lamia, Mahnane, Hafidi, Mohamed
+
+## Abstract
+Adaptive learning has garnered researchers' interest. The main issue within this field is how to select appropriate learning objects (LOs) based on learners' requirements and context, and how to combine the selected LOs to form what is known as an adaptive learning path. Heuristic and metaheuristic approaches have achieved significant progress on personalized and adaptive recommendations, but the operators of some heuristic algorithms are often fixed which decreases the algorithms' extendibility. This paper reviews existing works and proposes an innovative approach. We model the proposed approach as a constraints satisfaction problem, and an improved genetic algorithm named adaptive genetic algorithm is proposed to solve it. The proposed solution does not only reduce the search space size and increase search efficiency but also it is more explicit in finding the best composition of LOs for a specific learner. As a result, the best personalized adaptive learning resources combination will be found in lesser time.
+
+**Source:** https://eric.ed.gov/?id=EJ1397310
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T16:48:00.997Z

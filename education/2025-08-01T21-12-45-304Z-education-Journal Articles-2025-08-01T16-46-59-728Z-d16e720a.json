@@ -1,0 +1,13 @@
+# Novel Approach to Facilitating Tradeoff Multi-Objective Grouping Optimization
+
+**Authors:** Lin, Yu-Shih, Chang, Yi-Chun, Chu, Chih-Ping
+
+## Abstract
+The grouping problem is critical in collaborative learning (CL) because of the complexity and difficulty in adequate grouping, based on various grouping criteria and numerous learners. Previous studies have paid attention to certain research questions, and the consideration for a number of learner characteristics has arisen. Such a multi-objective grouping problem is with conflicting grouping objectives, involving the benefit objective (e.g. learning achievement) and cost objective (e.g. class rank) which are conflicting in different directions. This study first proposed a novel approach based on the enhancement of a Genetic Algorithm (GA) with the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) for facilitating the tradeoff multi-objective grouping optimization, and based on the proposed approach further developed a web-based group support system to help educators for adequate grouping of homogeneous inter-group and heterogeneous intra-group. In addition, the distribution of learners in the class was considered for group formation. Two types of experiments were conducted; one involved a performance analysis against a GA and the Random approach, and the other entailed a study on CL with 90 participants. The experimental results showed the following: (1) The proposed approach is not only more effective than a GA and the Random approach but also more efficient than a GA; and (2) As a grouping strategy, the proposed approach can facilitate improved learning performance with statistical significance; in other words, the developed system is able to adequately allocate learners to teams for facilitating CL.
+
+**Source:** https://eric.ed.gov/?id=EJ1142860
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T16:46:59.728Z
