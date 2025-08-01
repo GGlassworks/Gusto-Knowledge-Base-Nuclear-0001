@@ -1,0 +1,13 @@
+# DIM-DS: Dynamic Incentive Model for Data Sharing in Federated Learning Based on Smart Contracts and Evolutionary Game Theory
+
+**Authors:** Yanru Chen, Yuanyuan Zhang, S. Wang, Fan Wang, Y. Li, Yuming Jiang, Liangyin Chen, Bing Guo
+
+## Abstract
+With the development of big data, data sharing has become a hot topic. According to the previous research on data sharing, there is a problem with regard to how to design an effective incentive mechanism to make users willing to share data. First, we integrate the incentives based on reputation and payment and introduce “credibility coins” as a cryptocurrency for data-sharing transactions, to encourage users to participate honestly in the data-sharing process based on federated learning. Second, we propose a dynamic incentive model based on the evolutionary game theory to model the game process of users in data sharing and analyze the stability of their strategies. Finally, based on the results of this analysis, we use the blockchain-based smart contract technology to dynamically adjust the participation benefits of users under different conditions in order to promote users to join consortium blockchains more often and steadily to participate in model training for federated learning and obtain better model accuracy. Our work is the first to apply the evolutionary game theory to the study of incentives in federated learning, and plays a leading role in the study of incentives in federated learning. Experimental simulation validation shows that our DIM-DS model can adequately motivate users to participate in the collaborative task of data sharing and maintain stability. The model can maximize the effectiveness of the federated learning model.
+
+**Source:** https://www.semanticscholar.org/paper/6ef122b187d8c7a488fdfac58841a0433777232d
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T15:29:32.894Z

@@ -1,0 +1,13 @@
+# A Game Theory-Based Incentive Mechanism for Collaborative Security of Federated Learning in Energy Blockchain Environment
+
+**Authors:** Yunhua He, Mingshun Luo, Bin Wu, Limin Sun, Yongdong Wu, Zhiquan Liu, Ke Xiao
+
+## Abstract
+With the digital transformation of the energy industry, energy blockchain is playing an important role in application areas, such as energy data sharing and distributed power trading. In this process, the use of energy data is a top priority. Federated learning (FL) can enable the analysis and computation of energy data while protecting their privacy. However, traditional FL relies on a central server and parties involved are not fully trusted. In energy blockchain environment, FL also faces data poisoning attacks launched by energy departments, besides, the supervisory committee carrying out checking models can launch deception attacks. Therefore, we propose a game theory-based incentive mechanism for collaborative security of FL in energy blockchain environment, which can discourage nodes from taking malicious behaviors in iterative training of FL. First, we propose an FL model in energy blockchain environment, which can protect privacy and achieve collaborative security. Considering that game theory can be used to analyze the strategies of participants, we build a game model with energy departments and supervisory committee as players and design our incentive mechanism based on game theory, which is implemented by smart contracts. Even if the accuracy of model checking algorithm is low, malicious behaviors in FL can be reduced by using our incentive mechanism. In particular, we prove that our mechanism can lead game model to a Nash equilibrium (NE) that achieve collaborative security. Security analysis and experimental evaluation show that our incentive mechanism is feasible in energy blockchain with robustness, reliability, and low complexity.
+
+**Source:** https://www.semanticscholar.org/paper/1a2e46a62756d23414f53c9519eb156c11f7d84e
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:04.594Z

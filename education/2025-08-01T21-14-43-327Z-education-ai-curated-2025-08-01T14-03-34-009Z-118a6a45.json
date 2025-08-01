@@ -1,0 +1,13 @@
+# Updates in deep learning research in ophthalmology.
+
+**Authors:** Wei Yan Ng, Shihao Zhang, Zhaoran Wang, Charles Ong, D. Gunasekeran, Gilbert Lim, Feihui Zheng, Shaun Chern Yuan Tan, G. Tan, T. Rim, L. Schmetterer, D. Ting
+
+## Abstract
+Ophthalmology has been one of the early adopters of artificial intelligence (AI) within the medical field. Deep learning (DL), in particular, has garnered significant attention due to the availability of large amounts of data and digitized ocular images. Currently, AI in Ophthalmology is mainly focused on improving disease classification and supporting decision-making when treating ophthalmic diseases such as diabetic retinopathy, age-related macular degeneration (AMD), glaucoma and retinopathy of prematurity (ROP). However, most of the DL systems (DLSs) developed thus far remain in the research stage and only a handful are able to achieve clinical translation. This phenomenon is due to a combination of factors including concerns over security and privacy, poor generalizability, trust and explainability issues, unfavorable end-user perceptions and uncertain economic value. Overcoming this challenge would require a combination approach. Firstly, emerging techniques such as federated learning (FL), generative adversarial networks (GANs), autonomous AI and blockchain will be playing an increasingly critical role to enhance privacy, collaboration and DLS performance. Next, compliance to reporting and regulatory guidelines, such as CONSORT-AI and STARD-AI, will be required to in order to improve transparency, minimize abuse and ensure reproducibility. Thirdly, frameworks will be required to obtain patient consent, perform ethical assessment and evaluate end-user perception. Lastly, proper health economic assessment (HEA) must be performed to provide financial visibility during the early phases of DLS development. This is necessary to manage resources prudently and guide the development of DLS.
+
+**Source:** https://www.semanticscholar.org/paper/71653c4a38fc78936773434e9510667d08facf7d
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:03:34.009Z

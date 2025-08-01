@@ -1,0 +1,13 @@
+# Blockchain security enhancement: an approach towards hybrid consensus algorithms and machine learning techniques
+
+**Authors:** K. Venkatesan, Syarifah Bahiyah Rahayu
+
+## Abstract
+In this paper, we propose hybrid consensus algorithms that combine machine learning (ML) techniques to address the challenges and vulnerabilities in blockchain networks. Consensus Protocols make ensuring agreement among the applicants in the distributed systems difficult. However, existing mechanisms are more vulnerable to cyber-attacks. Previous studies extensively explore the influence of cyber attacks and highlight the necessity for effective preventive measures. This research presents the integration of ML techniques with the proposed hybrid consensus algorithms and advantages over predicting cyber-attacks, anomaly detection, and feature extraction. Our hybrid approaches leverage and optimize the proposed consensus protocols' security, trust, and robustness. However, this research also explores the various ML techniques with hybrid consensus algorithms, such as Delegated Proof of Stake Work (DPoSW), Proof of Stake and Work (PoSW), Proof of CASBFT (PoCASBFT), Delegated Byzantine Proof of Stake (DBPoS) for security enhancement and intelligent decision making in consensus protocols. Here, we also demonstrate the effectiveness of the proposed methodology within the decentralized networks using the ProximaX blockchain platform. This study shows that the proposed research framework is an energy-efficient mechanism that maintains security and adapts to dynamic conditions. It also integrates privacy-enhancing features, robust consensus mechanisms, and ML approaches to detect and prevent security threats. Furthermore, the practical implementation of these ML-based hybrid consensus models faces significant challenges, such as scalability, latency, throughput, resource requirements, and potential adversarial attacks. These challenges must be addressed to ensure the successful implementation of the blockchain network for real-world scenarios.
+
+**Source:** https://www.semanticscholar.org/paper/a970a704265942add5e7c8a33775c8234a6146cc
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:01.235Z

@@ -1,0 +1,13 @@
+# NeuralHydrology - A Python library for Deep Learning research in hydrology
+
+**Authors:** Frederik Kratzert, M. Gauch, G. Nearing, D. Klotz
+
+## Abstract
+Since ancient times humans have strived to describe environmental processes related to water (Angelakis et al., 2012; Biswas, 1970). Throughout this history, hydrologists built various process-based prediction models that simulate processes from soil moisture to streamflow generation (a collection of historical references can be found in Loague (2010)). More recently, Deep Learning models have emerged as extremely powerful and more accurate alternatives to these traditional modeling approaches (Gauch et al., 2021; Klotz et al., 2021; Kratzert, Klotz, Shalev, et al., 2019; Kratzert, Klotz, Herrnegger, et al., 2019; Lees et al., 2021). For hydrologists, embracing this new data-driven paradigm is challenging (Beven, 2020; Nearing et al., 2021): not only are the models conceptually different, but they are also built, optimized, and evaluated with different strategies and toolsets.
+
+**Source:** https://www.semanticscholar.org/paper/3af8b1e497a2cce213fe24dbdd1c8113cedaffb4
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:03:33.705Z

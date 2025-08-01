@@ -1,0 +1,13 @@
+# Deep Reinforcement Learning Guided Graph Neural Networks for Brain Network Analysis
+
+**Authors:** Xusheng Zhao, Jia Wu, Hao Peng, A. Beheshti, Jessica J. M. Monaghan, D. McAlpine, Heivet Hernández-Pérez, M. Dras, Qiong Dai, Yangyang Li, Philip S. Yu, Lifang He
+
+## Abstract
+Modern neuroimaging techniques enable us to construct human brains as brain networks or connectomes. Capturing brain networks' structural information and hierarchical patterns is essential for understanding brain functions and disease states. Recently, the promising network representation learning capability of graph neural networks (GNNs) has prompted related methods for brain network analysis to be proposed. Specifically, these methods apply feature aggregation and global pooling to convert brain network instances into vector representations encoding brain structure induction for downstream brain network analysis tasks. However, existing GNN-based methods often neglect that brain networks of different subjects may require various aggregation iterations and use GNN with a fixed number of layers to learn all brain networks. Therefore, how to fully release the potential of GNNs to promote brain network analysis is still non-trivial. In our work, a novel brain network representation framework, BN-GNN, is proposed to solve this difficulty, which searches for the optimal GNN architecture for each brain network. Concretely, BN-GNN employs deep reinforcement learning (DRL) to automatically predict the optimal number of feature propagations (reflected in the number of GNN layers) required for a given brain network. Furthermore, BN-GNN improves the upper bound of traditional GNNs' performance in eight brain network disease analysis tasks.
+
+**Source:** https://www.semanticscholar.org/paper/3e6c84302b2b56cf8369253d6168b852d0aa1fd6
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:16:34.128Z

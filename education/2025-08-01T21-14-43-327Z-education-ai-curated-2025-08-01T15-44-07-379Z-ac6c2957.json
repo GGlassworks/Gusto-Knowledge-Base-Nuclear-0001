@@ -1,0 +1,13 @@
+# A web-based platform and a methodology to teach programming languages in electrical engineering education – evolution and student feedback
+
+**Authors:** Inácio Fonseca, Nuno Cid Martins, Fernando Lopes
+
+## Abstract
+The teaching of diverse programming topics and languages is a fundamental component of electrical engineering education. However, it is a complex task facing many challenges such as the need to accommodate students with very different programming backgrounds and with very different levels of motivation for the programming field – these are classical difficulties with electrical engineering candidates.A web-based collaborative tool and a methodology to support student interaction and assistance in classroom teaching of programming languages in electrical engineering courses were presented in [1]. The main technological choices and functionalities, as well as examples of implemented courses, were described. The tool was developed aiming to be flexible, scalable and with high evolution potential.In this paper, we present the evolution of the basis tool through technology improvements, a set of new functionalities and added programming languages. The main technology upgrades include the full integration of the Visual Studio Code for the Web editor, a new web interface we called iWeb-TD and the expansion of the multi-user capabilities. In terms of functionalities, in addition to PHP and Octave, it is now possible to teach C/C++, Python, Java, and ipynb. A new major component is the integration of active debugging with step execution for all supported languages. This is a fundamental aspect that allows students with weak programming skills to evolve in a structured form. The tool can also allow the teacher to develop and test pedagogical elements in Python or Octave and publish them for student access in read-only mode using the Jupyter-Notebook technology.The paper includes example pedagogical elements for two electrical engineering courses taught using the enhanced platform, including the compilation of associated student feedback.
+
+**Source:** https://www.semanticscholar.org/paper/0341bab56d7973373212046a6fcb7b56f2bc45e0
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T15:44:07.379Z

@@ -1,0 +1,13 @@
+# DIG: A Turnkey Library for Diving into Graph Deep Learning Research
+
+**Authors:** Meng Liu, Youzhi Luo, Limei Wang, Yaochen Xie, Haonan Yuan, Shurui Gui, Zhao Xu, Haiyang Yu, Jingtun Zhang, Yi Liu, Keqiang Yan, Bora Oztekin, Haoran Liu, Xuan Zhang, Cong Fu, Shuiwang Ji
+
+## Abstract
+Although there exist several libraries for deep learning on graphs, they are aiming at implementing basic operations for graph deep learning. In the research community, implementing and benchmarking various advanced tasks are still painful and time-consuming with existing libraries. To facilitate graph deep learning research, we introduce DIG: Dive into Graphs, a turnkey library that provides a unified testbed for higher level, research-oriented graph deep learning tasks. Currently, we consider graph generation, self-supervised learning on graphs, explainability of graph neural networks, and deep learning on 3D graphs. For each direction, we provide unified implementations of data interfaces, common algorithms, and evaluation metrics. Altogether, DIG is an extensible, open-source, and turnkey library for researchers to develop new methods and effortlessly compare with common baselines using widely used datasets and evaluation metrics. Source code is available at https://github.com/divelab/DIG.
+
+**Source:** https://www.semanticscholar.org/paper/323ca85c5c1ebd0ec9bf74897d8c8e8fbf203ae6
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:03:33.285Z

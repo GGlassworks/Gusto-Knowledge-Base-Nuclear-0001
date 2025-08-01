@@ -1,0 +1,13 @@
+# Blockchain-Based Zero-Trust Supply Chain Security Integrated with Deep Reinforcement Learning for Inventory Optimization
+
+**Authors:** Zhe Ma, Xuhesheng Chen, Tiejiang Sun, Xukang Wang, Y. Wu, Mengjie Zhou
+
+## Abstract
+Modern supply chain systems face significant challenges, including lack of transparency, inefficient inventory management, and vulnerability to disruptions and security threats. Traditional optimization methods often struggle to adapt to the complex and dynamic nature of these systems. This paper presents a novel blockchain-based zero-trust supply chain security framework integrated with deep reinforcement learning (SAC-rainbow) to address these challenges. The SAC-rainbow framework leverages the Soft Actor–Critic (SAC) algorithm with prioritized experience replay for inventory optimization and a blockchain-based zero-trust mechanism for secure supply chain management. The SAC-rainbow algorithm learns adaptive policies under demand uncertainty, while the blockchain architecture ensures secure, transparent, and traceable record-keeping and automated execution of supply chain transactions. An experiment using real-world supply chain data demonstrated the superior performance of the proposed framework in terms of reward maximization, inventory stability, and security metrics. The SAC-rainbow framework offers a promising solution for addressing the challenges of modern supply chains by leveraging blockchain, deep reinforcement learning, and zero-trust security principles. This research paves the way for developing secure, transparent, and efficient supply chain management systems in the face of growing complexity and security risks.
+
+**Source:** https://www.semanticscholar.org/paper/244ffd71727905b25c54b62d29711916ac7b16e6
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:45.777Z

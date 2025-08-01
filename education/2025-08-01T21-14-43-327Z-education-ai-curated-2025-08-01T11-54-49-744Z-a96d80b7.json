@@ -1,0 +1,13 @@
+# Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning
+
+**Authors:** Yingcong Li, M. E. Ildiz, Dimitris Papailiopoulos, Samet Oymak
+
+## Abstract
+In-context learning (ICL) is a type of prompting where a transformer model operates on a sequence of (input, output) examples and performs inference on-the-ﬂy. This implicit training is in contrast to explicitly tuning the model weights based on examples. In this work, we formalize in-context learning as an algorithm learning problem, treating the transformer model as a learning algorithm that can be specialized via training to implement—at inference-time—another target algorithm. We ﬁrst explore the statistical aspects of this abstraction through the lens of multitask learning: We obtain generalization bounds for ICL when the input prompt is (1) a sequence of i.i.d. (input, label) pairs or (2) a trajectory arising from a dynamical system. The crux of our analysis is relating the excess risk to the stability of the algorithm implemented by the transformer, which holds under mild assumptions. Secondly, we use our abstraction to show that transformers can act as an adaptive learning algorithm and perform model selection across diﬀerent hypothesis classes. We provide numerical evaluations that (1) demonstrate transformers can indeed implement near-optimal algorithms on classical regression problems with i
+
+**Source:** https://www.semanticscholar.org/paper/a131c44951b7ace0892dd830dd0a040b99ed0803
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:54:49.745Z

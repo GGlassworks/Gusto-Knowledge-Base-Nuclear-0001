@@ -1,0 +1,13 @@
+# On Transforming Reinforcement Learning With Transformers: The Development Trajectory
+
+**Authors:** Shengchao Hu, Li Shen, Ya Zhang, Yixin Chen, Dacheng Tao
+
+## Abstract
+Transformers, originally devised for natural language processing (NLP), have also produced significant successes in computer vision (CV). Due to their strong expression power, researchers are investigating ways to deploy transformers for reinforcement learning (RL), and transformer-based models have manifested their potential in representative RL benchmarks. In this paper, we collect and dissect recent advances concerning the transformation of RL with transformers (transformer-based RL (TRL)) to explore the development trajectory and future trends of this field. We group the existing developments into two categories: architecture enhancements and trajectory optimizations, and examine the main applications of TRL in robotic manipulation, text-based games (TBGs), navigation, and autonomous driving. Architecture enhancement methods consider how to apply the powerful transformer structure to RL problems under the traditional RL framework, facilitating more precise modeling of agents and environments compared to traditional deep RL techniques. However, these methods are still limited by the inherent defects of traditional RL algorithms, such as bootstrapping and the “deadly triad”. Trajectory optimization methods treat RL problems as sequence modeling problems and train a joint state-action model over entire trajectories under the behavior cloning framework; such approaches are able to extract policies from static datasets and fully use the long-sequence modeling capabilities of transformers. Given these advancements, the limitations and challenges in TRL are reviewed and proposals regarding future research directions are discussed. We hope that this survey can provide a detailed introduction to TRL and motivate future research in this rapidly developing field.
+
+**Source:** https://www.semanticscholar.org/paper/060cee8411181e8151ab1e3212b81528accd9b8b
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T12:02:19.193Z

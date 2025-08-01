@@ -1,0 +1,13 @@
+# A Survey on Secure and Private Federated Learning Using Blockchain: Theory and Application in Resource-Constrained Computing
+
+**Authors:** Ervin Moore, Ahmed Imteaj, Shabnam Rezapour, S. M. I. M. Hadi Amini, M. Amini, Fiu Ahmed Imteaj
+
+## Abstract
+Federated learning (FL) has gained widespread popularity in recent years due to the fast booming of advanced machine learning and artificial intelligence, along with emerging security and privacy threats. Federated learning (FL) enables efficient model generation from local data storage of the edge devices without revealing the sensitive data to any entities. While this paradigm partly mitigates the privacy issues of users’ sensitive data, the performance of the FL process can be threatened and reach a bottleneck due to the growing cyber threats and privacy violation techniques. To expedite the proliferation of the FL process, the integration of blockchain for FL environments has drawn increasing attention from academia and industry. Blockchain has the potential to prevent security and privacy threats with its decentralization, immutability, consensus, and transparency characteristics. However, if the blockchain mechanism requires costly computational resources, then the resource-constrained FL clients cannot be involved in the training. Considering that, this survey focuses on reviewing the challenges, solutions, and future directions for the successful deployment of blockchain in resource-constrained FL environments. We comprehensively review variant blockchain mechanisms suitable for the FL process and discuss their tradeoffs for a limited resource budget. Furthermore, we extensively analyze the cyber threats that could be observed in a resource-constrained FL environment, and how blockchain can play a key role in blocking those cyberattacks. To this end, we highlight some potential solutions for the coupling of blockchain and FL that can offer high levels of reliability, data privacy, and distributed computing performance.
+
+**Source:** https://www.semanticscholar.org/paper/19b89f467ce57d19b982ef596a2dd25f8aec75ef
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:02.868Z

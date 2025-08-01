@@ -1,0 +1,13 @@
+# Blockchain Transaction Fee Forecasting: A Comparison of Machine Learning Methods
+
+**Authors:** Conall Butler, M. Crane
+
+## Abstract
+Gas is the transaction-fee metering system of the Ethereum network. Users of the network are required to select a gas price for submission with their transaction, creating a risk of overpaying or delayed/unprocessed transactions involved in this selection. In this work, we investigate data in the aftermath of the London Hard Fork and shed insight into the transaction dynamics of the network after this major fork. As such, this paper provides an update on work previous to 2019 on the link between EthUSD/BitUSD and gas price. For forecasting, we compare a novel combination of machine learning methods such as Direct-Recursive Hybrid LSTM, CNN-LSTM, and Attention-LSTM. These are combined with wavelet threshold denoising and matrix profile data processing toward the forecasting of block minimum gas price, on a 5-min timescale, over multiple lookaheads. As the first application of the matrix profile being applied to gas price data and forecasting that we are aware of, this study demonstrates that matrix profile data can enhance attention-based models; however, given the hardware constraints, hybrid models outperformed attention and CNN-LSTM models. The wavelet coherence of inputs demonstrates correlation in multiple variables on a 1-day timescale, which is a deviation of base free from gas price. A Direct-Recursive Hybrid LSTM strategy is found to outperform other models, with an average RMSE of 26.08 and R2 of 0.54 over a 50-min lookahead window compared to an RMSE of 26.78 and R2 of 0.452 in the best-performing attention model. Hybrid models are shown to have favorable performance up to a 20-min lookahead with performance being comparable to attention models when forecasting 25–50-min ahead. Forecasts over a range of lookaheads allow users to make an informed decision on gas price selection and the optimal window to submit their transaction in without fear of their transaction being rejected. This, in turn, gives more detailed insight into gas price dynamics than existing recommenders, oracles and forecasting approaches, which provide simple heuristics or limited lookahead horizons.
+
+**Source:** https://www.semanticscholar.org/paper/5f395a112972d569e27d7e3ccd2236f7ffd9643b
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:01.915Z

@@ -1,0 +1,13 @@
+# Questionable Practices in Methodological Deep Learning Research
+
+**Authors:** Daniel J. Trosten
+
+## Abstract
+Evaluation of new methodology in deep learning (DL) research is typically done by reporting point estimates of a few performance metrics, calculated from a single training run. This paper argues that this frequently used evaluation protocol in DL is fundamentally flawed -- presenting 8 questionable practices that are widely adopted in the evaluation of new DL methods. The questionable practices are derived from violations of statistical principles of the scientific method, and from Hansson's definition of pseudoscience. A survey of recent publications from a top-tier DL conference indicates the widespread adoption of these practices in state-of-the-art DL research. Lastly, arguments in favor of the questionable practices, possible reasons for their adoption, and measures that have been taken to remove them, are discussed.
+
+**Source:** https://www.semanticscholar.org/paper/8f206bdae3d8ae564b65db51b8ad0c71b924d6f3
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:03:33.496Z

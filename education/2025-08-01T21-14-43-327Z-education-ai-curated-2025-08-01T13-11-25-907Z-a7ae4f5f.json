@@ -1,0 +1,13 @@
+# Advanced Fraud Detection in Blockchain Transactions: An Ensemble Learning and Explainable AI Approach
+
+**Authors:** S. S. Taher, S. Ameen, Jihan A. Ahmed
+
+## Abstract
+In recent years, cryptocurrencies have experienced rapid growth and adoption, revolutionizing the financial sector. However, the rise of digital currencies has also led to an increase in fraudulent transactions and illegal activities. In this paper, we present a comprehensive study on the detection of fraudulent transactions in the context of cryptocurrency exchanges, with a primary focus on the Ethereum network. By employing various Machine Learning (ML) techniques and ensemble methods, including the hard voting ensemble model, which achieved a remarkable 99% accuracy, we aim to effectively identify suspicious transactions while maintaining high accuracy and precision. Additionally, we delve into the importance of eXplainable Artificial Intelligence (XAI) to enhance transparency, trust, and accountability in AI-based fraud detection systems. Our research contributes to the development of reliable and interpretable models that can significantly improve the cryptocurrency ecosystem security and integrity.
+
+**Source:** https://www.semanticscholar.org/paper/4fb3e5b8ec622104d6c36d81b29c3b9e70d702d9
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:11:25.914Z

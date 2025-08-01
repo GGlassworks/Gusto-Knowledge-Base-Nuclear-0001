@@ -1,0 +1,13 @@
+# Survey of transformers and towards ensemble learning using transformers for natural language processing
+
+**Authors:** Hongzhi Zhang, M. O. Shafiq
+
+## Abstract
+The transformer model is a famous natural language processing model proposed by Google in 2017. Now, with the extensive development of deep learning, many natural language processing tasks can be solved by deep learning methods. After the BERT model was proposed, many pre-trained models such as the XLNet model, the RoBERTa model, and the ALBERT model were also proposed in the research community. These models perform very well in various natural language processing tasks. In this paper, we describe and compare these well-known models. In addition, we also apply several types of existing and well-known models which are the BERT model, the XLNet model, the RoBERTa model, the GPT2 model, and the ALBERT model to different existing and well-known natural language processing tasks, and analyze each model based on their performance. There are a few papers that comprehensively compare various transformer models. In our paper, we use six types of well-known tasks, such as sentiment analysis, question answering, text generation, text summarization, name entity recognition, and topic modeling tasks to compare the performance of various transformer models. In addition, using the existing models, we also propose ensemble learning models for the different natural language processing tasks. The results show that our ensemble learning models  perform better than a single classifier on specific tasks. Graphical Abstract
+
+**Source:** https://www.semanticscholar.org/paper/a95f97e4b51eeab38e94b088034ced7c6e31a4c1
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:34:32.418Z

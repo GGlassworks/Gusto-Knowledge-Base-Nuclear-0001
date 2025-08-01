@@ -1,0 +1,13 @@
+# Performance Comparison of Different Deep Reinforcement Learning Algorithms for Task Scheduling Problem in Blockchain-Enabled Internet of Vehicles
+
+**Authors:** Yang Gao, Pengbo Si, Kaiqi Jin, Teng Sun, Wenjun Wu
+
+## Abstract
+Recently, blockchain has been widely considered as a promising technology to cope with the security issues in Internet of Vehicles (IoV). However, due to the high energy consumption, large data storage and heavy transmission load of blockchain and the limited resources of IoV devices, the resource management is urgently to be studied. In this paper, we propose a blockchain-based trust trading platform in IoV scenario and formulate the Task Scheduling (TS) problem which selects the transactions to assemble block and effects the utilization of the wireless resources and the performance of blockchain system. The optimization object is designed by jointly considering the characteristics of wireless communications, the Quality of Service (QoS) and the implementation process of blockchain. The DRL algorithms are utilized as the solutions, and MCQ-TS, PG-TS, TDQ-TS and TDAC-TS algorithms are proposed base on several typical DRL methods. The computational complexity of the proposed algorithms is analyzed mathematically. Additionally, a fair and comprehensive comparison of the various proposed DRL methods is also conducted through the complexity analysis and the simulation results. Accordingly, the features and approriate applied scenarios of the proposed algorithms are summarized at last. PG-TS has the best optimization performance while MCQ-TS, TDQ-TS and TDAC-TS perform similar. MCQ-TS has the smallest complexity, and TDQ-TS and TDAC-TS have the best training efficiency.
+
+**Source:** https://www.semanticscholar.org/paper/2637f2375f6e50a0bd4dd81b05c7b5dd8524e9e6
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:01.571Z

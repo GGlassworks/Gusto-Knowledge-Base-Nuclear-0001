@@ -1,0 +1,13 @@
+# Credit Scoring Using Machine Learning Algorithms and Blockchain Technology
+
+**Authors:** Mariam Ossama Kotb
+
+## Abstract
+Credit scoring is a critical function in the banking industry, helping to assess borrowers’ creditworthiness and mitigate lending risks. Traditional credit scoring systems based on centralized storage have limitations in terms of transparency, security, and susceptibility to manipulation. This paper proposes different approaches to credit scoring that combines the strengths of various machine learning algorithms, including logistic regression, XGBoost, LightGBM, AdaBoost and RGF. Additionally, it explores the use of blockchain technology and decentralized finance (DeFi) systems to enhance the security and decentralization of the credit rating system. The study utilizes a blockchain dataset sourced from Aave’s smart contracts and employs cross-validation and ensemble modeling techniques to evaluate the performance of the models. The results demonstrate the effectiveness of the proposed approach, with the Random Forest model achieving the highest accuracy in predicting credit scores. This has the ability for improving access to credit and enhancing trust and transparency in lending decisions.
+
+**Source:** https://www.semanticscholar.org/paper/03deb56a24024e749a9e38ef3359fd7ab1388fcb
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:59.603Z

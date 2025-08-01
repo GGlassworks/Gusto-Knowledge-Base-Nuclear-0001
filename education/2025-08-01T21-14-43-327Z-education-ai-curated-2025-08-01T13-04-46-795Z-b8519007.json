@@ -1,0 +1,13 @@
+# Diabetic Retinopathy Detection: A Blockchain and African Vulture Optimization Algorithm-Based Deep Learning Framework
+
+**Authors:** Posham Uppamma, S. Bhattacharya
+
+## Abstract
+Blockchain technology has gained immense momentum in the present era of information and digitalization and is likely to gain extreme popularity among the next generation, with diversified applications that spread far beyond cryptocurrencies and bitcoin. The application of blockchain technology is prominently observed in various spheres of social life, such as government administration, industries, healthcare, finance, and various other domains. In healthcare, the role of blockchain technology can be visualized in data-sharing, allowing users to choose specific data and control data access based on user type, which are extremely important for the maintenance of Electronic Health Records (EHRs). Machine learning and blockchain are two distinct technical fields: machine learning deals with data analysis and prediction, whereas blockchain emphasizes maintaining data security. The amalgamation of these two concepts can achieve prediction results from authentic datasets without compromising integrity. Such predictions have the additional advantage of enhanced trust in comparison to the application of machine learning algorithms alone. In this paper, we focused on data pertinent to diabetic retinopathy disease and its prediction. Diabetic retinopathy is a chronic disease caused by diabetes and leads to complete blindness. The disease requires early diagnosis to reduce the chances of vision loss. The dataset used is a publicly available dataset collected from the IEEE data port. The data were pre-processed using the median filtering technique and lesion segmentation was performed on the image data. These data were further subjected to the Taylor African Vulture Optimization (AVO) algorithm for hyper-parameter tuning, and then the most significant features were fed into the SqueezeNet classifier, which predicted the occurrence of diabetic retinopathy (DR) disease. The final output was saved in the blockchain architecture, which was accessed by the EHR manager, ensuring authorized access to the prediction results and related patient information. The results of the classifier were compared with those of earlier research, which demonstrated that the proposed model is superior to other models when measured by the following metrics: accuracy (94.2%), sensitivity (94.8%), and specificity (93.4%).
+
+**Source:** https://www.semanticscholar.org/paper/29d59813394655e2308364fcd88b9b8d693b2589
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:46.796Z

@@ -1,0 +1,13 @@
+# Resource Pricing and Allocation in MEC Enabled Blockchain Systems: An A3C Deep Reinforcement Learning Approach
+
+**Authors:** Jianbo Du, Wenjie Cheng, G. Lu, Haotong Cao, Xiaoli Chu, Zhicai Zhang, Junxuan Wang
+
+## Abstract
+When using blockchain in mobile systems, computation intensive mining tasks pose great challenges to the processing capabilities of mobile miner equipment. Mobile edge computing (MEC) is an effective solution to alleviating the problem via task offloading. In the mining process, miners compete for rewards through puzzle solving, where only the miner that first completes the process will be rewarded. Thus, miners may wish to pay higher price and use more communication resources in task offloading and more computation resources in task processing for latency reduction. However, there are risks for the miners not profiting from consuming more resources or paying a higher price, so miners are rational in blockchain systems. In order to maximize the rational total profit of all miners, we use an asynchronous advantage actor-critic (A3C) deep reinforcement learning algorithm to obtain the resource pricing and allocation, considering the stochastic properties of wireless channels, and the prospect theory is employed to strike a good balance between risks and rewards. Numerical results show that our proposed A3C based joint optimization algorithm converges fast and outperforms the baseline algorithms in terms of the total reward.
+
+**Source:** https://www.semanticscholar.org/paper/95e4becf2f555c74a9d800c18a5277394e25f74c
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:34.653Z

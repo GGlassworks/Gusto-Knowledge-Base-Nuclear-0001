@@ -1,0 +1,13 @@
+# An Optimization Framework Based on Deep Reinforcement Learning Approaches for Prism Blockchain
+
+**Authors:** Divija Swetha Gadiraju, V. Lalitha, V. Aggarwal
+
+## Abstract
+Blockchains have proven to provide a high level of performance in terms of security and reliability for various applications like cryptocurrencies and Internet-of-Things (IoT). Prism is a recent blockchain algorithm that achieves the physical limit on throughput and latency without compromising security. In recent days, reinforcement learning approaches are investigated in traditional blockchains, to improve performance. In this work, we apply Deep Reinforcement Learning (DRL) to one of the promising blockchain protocols, Prism, to optimize its performance. We propose a Deep Reinforcement Learning-based Prism Blockchain (DRLPB) scheme which dynamically optimizes the parameters of the Prism blockchain and helps in achieving a better performance. In DRLPB, we apply two widely used DRL algorithms, Dueling Deep Q Networks (DDQN) and Proximal Policy Optimization (PPO). This work presents a novel approach to applying DDQN and PPO to a blockchain protocol and comparing the performance. The DRLPB scheme adapts the Prism blockchain parameters to enhance the number of votes upto 84% more than Prism, while still preserving the security and latency performance guarantees of Prism.
+
+**Source:** https://www.semanticscholar.org/paper/e5deb66f20b47073ad7efd6818146d157b054d9e
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:47.346Z

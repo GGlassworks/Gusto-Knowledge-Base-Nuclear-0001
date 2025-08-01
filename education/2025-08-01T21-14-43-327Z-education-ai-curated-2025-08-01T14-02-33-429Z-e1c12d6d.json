@@ -1,0 +1,13 @@
+# Advanced Deep Learning Models for Discriminating Real
+
+**Authors:** Jiaguo Lin
+
+## Abstract
+The rapid development of the field of artificial intelligence has brought many significant innovations across many domains. Nevertheless, it has also led to an increasing number of online crimes, particularly those involving the misuse of synthetic images. This study focuses on the critical issue of discriminating between real and fake faces using several advanced deep learning models. The models that are used are Convolutional Neural Networks (CNN), ResNet-50, and InceptionV3, and these models are used on a dataset containing both real and synthetically generated face images. Based on the result, the improved InceptionV3 model achieves the highest accuracy rate with 92.08%, followed by the improved ResNet-50 model at 89.37%. Additionally, the second CNN model eventually reaches an accuracy of 85.99%. This study emphasizes the importance of using advanced deep learning models to fight against online discrimination and fraud. In the future, data augmentation and model refinement will be added to further enhance the accuracy and robustness of real and fake faces discrimination tasks. Moreover, this research contributes valuable insights for the future development of deep learning in order to improve more on the field of network security and personal privacy protection.
+
+**Source:** https://www.semanticscholar.org/paper/8b6b67c2860c1b35ad4d309e4d36dcacf40da388
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:02:33.430Z

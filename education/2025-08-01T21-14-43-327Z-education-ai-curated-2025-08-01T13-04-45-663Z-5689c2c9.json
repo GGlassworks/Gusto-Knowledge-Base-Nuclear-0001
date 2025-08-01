@@ -1,0 +1,13 @@
+# Adaptive Sharding for UAV Networks: A Deep Reinforcement Learning Approach to Blockchain Optimization
+
+**Authors:** Kaiyin Lu, Xinguang Zhang, Tianbo Zhai, Mengjie Zhou
+
+## Abstract
+As unmanned aerial vehicle (UAV) technology expands into diverse applications, the demand for enhanced performance intensifies. Blockchain sharding technology offers promising avenues for improving data processing capabilities and security in drone networks. However, the inherent mobility of UAVs and their dynamic operational environment pose significant challenges to conventional sharding techniques, often resulting in communication latencies and data synchronization delays that compromise efficiency. This study presents a novel blockchain-based adaptive sharding framework specifically designed for UAV ecosystems. Our research extends beyond improving data transmission rates to encompass an enhanced Asynchronous Advantage Actor–Critic algorithm, tailored to address long-term optimization objectives in aerial networks. The proposed optimizations focus on dual objectives: enhancing data security while concurrently accelerating processing speeds. By addressing the limitations of traditional approaches, this work aims to facilitate seamless communication and foster innovation in UAV networks. The adaptive sharding framework, coupled with the refined A3C algorithm, presents a comprehensive solution to the unique challenges faced by mobile aerial systems in blockchain implementation.
+
+**Source:** https://www.semanticscholar.org/paper/5e27bc6351ea78cbf5838227fa1f3071f53c56fe
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:45.663Z

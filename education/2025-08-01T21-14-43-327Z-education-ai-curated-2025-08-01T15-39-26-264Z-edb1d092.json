@@ -1,0 +1,13 @@
+# Motivation-based Learning: Teaching Fundamentals of Electrical Engineering with an LED Spinning Top
+
+**Authors:** M. Bragard, H. van Hoek, Anne Von Hoegen, R. D. De Doncker
+
+## Abstract
+During the first semesters, the study of electrical engineering at the university is mainly theoretical. Due to the highly abstract nature of these courses, students often miss the link to practical applications. This paper presents a hands-on project that covers various technical aspects such as Faraday’s Law, operational amplifiers, a digital microcontroller, and software-based algorithms. Understanding the interactions and connections between these technical aspects gives the students an important insight on the relevance of their courses. In addition, the feedback shows that the students experince the project as highly motivative.The spinning top creates the illusion of a glowing text with a line of 8 rotating LEDs. These are soldered on a circular printed circuit board (PCB) including a microcontroller, operational amplifiers, batteries and a small induction coil. It uses the magnetic field of the earth to determine its rotational position. Appropriate controller software allows to display text messages, a compass or the counting of its own turns.
+
+**Source:** https://www.semanticscholar.org/paper/0020ec9ff442fc04072f0a080c68297e202dafab
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T15:39:26.264Z

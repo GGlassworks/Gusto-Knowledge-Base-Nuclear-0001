@@ -1,0 +1,13 @@
+# RadImageNet: An Open Radiologic Deep Learning Research Dataset for Effective Transfer Learning
+
+**Authors:** X. Mei, Zelong Liu, P. Robson, Brett Marinelli, Mingqian Huang, A. Doshi, A. Jacobi, Chen Cao, Katherine E. Link, Thomas Yang, Ying Wang, H. Greenspan, T. Deyer, Z. Fayad, Yang Yang
+
+## Abstract
+Purpose To demonstrate the value of pretraining with millions of radiologic images compared with ImageNet photographic images on downstream medical applications when using transfer learning. Materials and Methods This retrospective study included patients who underwent a radiologic study between 2005 and 2020 at an outpatient imaging facility. Key images and associated labels from the studies were retrospectively extracted from the original study interpretation. These images were used for RadImageNet model training with random weight initiation. The RadImageNet models were compared with ImageNet models using the area under the receiver operating characteristic curve (AUC) for eight classification tasks and using Dice scores for two segmentation problems. Results The RadImageNet database consists of 1.35 million annotated medical images in 131 872 patients who underwent CT, MRI, and US for musculoskeletal, neurologic, oncologic, gastrointestinal, endocrine, abdominal, and pulmonary pathologic conditions. For transfer learning tasks on small datasets—thyroid nodules (US), breast masses (US), anterior cruciate ligament injuries (MRI), and meniscal tears (MRI)—the RadImageNet models demonstrated a significant advantage (P < .001) to ImageNet models (9.4%, 4.0%, 4.8%, and 4.5% AUC improvements, respectively). For larger datasets—pneumonia (chest radiography), COVID-19 (CT), SARS-CoV-2 (CT), and intracranial hemorrhage (CT)—the RadImageNet models also illustrated improved AUC (P < .001) by 1.9%, 6.1%, 1.7%, and 0.9%, respectively. Additionally, lesion localizations of the RadImageNet models were improved by 64.6% and 16.4% on thyroid and breast US datasets, respectively. Conclusion RadImageNet pretrained models demonstrated better interpretability compared with ImageNet models, especially for smaller radiologic datasets. Keywords: CT, MR Imaging, US, Head/Neck, Thorax, Brain/Brain Stem, Evidence-based Medicine, Computer Applications–General (Informatics) Supplemental material is available for this article. Published under a CC BY 4.0 license. See also the commentary by Cadrin-Chênevert in this issue.
+
+**Source:** https://www.semanticscholar.org/paper/ce20bf0c54b7828995bcfb351ddd988b24403355
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:03:33.162Z

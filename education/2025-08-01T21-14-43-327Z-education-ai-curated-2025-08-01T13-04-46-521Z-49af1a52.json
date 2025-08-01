@@ -1,0 +1,13 @@
+# LearningChain: A Highly Scalable and Applicable Learning-Based Blockchain Performance Optimization Framework
+
+**Authors:** Jishu Wang, Yaowei Wang, Xuan Zhang, Zhi Jin, Chao Zhu, Linyu Li, Rui Zhu, Shenglong Lv
+
+## Abstract
+Blockchain is a trans-generational technology that is gradually introduced and applied in many fields because of its characteristics such as tamper-proof, traceability, and decentralization. However, the performance bottlenecks of blockchain have been one factor that hinders its practical application. This paper proposes a blockchain performance optimization framework (called LearningChain). We use a temporal convolution network to predict the transaction arrival rate of the blockchain and propose an ensemble learning-based method and a meta-learning-based method to train a blockchain performance prediction model, respectively. We design a performance scoring mechanism to dynamically tune the configuration parameters of the blockchain to optimize the blockchain performance. In addition, we collect and contribute a blockchain performance dataset (called HFBTP) for other researchers to research. The sufficient experimental results and analysis show that LearningChain can effectively optimize blockchain performance. The quantitative and qualitative comparisons with related work demonstrate the superiority and innovation of our work, LearningChain reaches state-of-the-art, is highly applicable, scalable, and can be applied to many practical blockchain-based application scenarios and different blockchain platforms. LearningChain can be complemented with other existing blockchain performance optimization tools and methods to further enhance the effectiveness of blockchain performance optimization.
+
+**Source:** https://www.semanticscholar.org/paper/4f5ed7b9a9e10f5a490c06310fd206c4f988262c
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:46.522Z

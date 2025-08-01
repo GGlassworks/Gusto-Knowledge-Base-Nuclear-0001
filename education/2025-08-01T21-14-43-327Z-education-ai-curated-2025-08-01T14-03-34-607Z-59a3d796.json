@@ -1,0 +1,13 @@
+# A Brief Survey of Machine Learning and Deep Learning Techniques for E-Commerce Research
+
+**Authors:** Xue Zhang, Fusen Guo, Tao Chen, Lei Pan, G. Beliakov, Jianzhang Wu
+
+## Abstract
+The rapid growth of e-commerce has significantly increased the demand for advanced techniques to address specific tasks in the e-commerce field. In this paper, we present a brief survey of machine learning and deep learning techniques in the context of e-commerce, focusing on the years 2018–2023 in a Google Scholar search, with the aim of identifying state-of-the-art approaches, main topics, and potential challenges in the field. We first introduce the applied machine learning and deep learning techniques, spanning from support vector machines, decision trees, and random forests to conventional neural networks, recurrent neural networks, generative adversarial networks, and beyond. Next, we summarize the main topics, including sentiment analysis, recommendation systems, fake review detection, fraud detection, customer churn prediction, customer purchase behavior prediction, prediction of sales, product classification, and image recognition. Finally, we discuss the main challenges and trends, which are related to imbalanced data, over-fitting and generalization, multi-modal learning, interpretability, personalization, chatbots, and virtual assistance. This survey offers a concise overview of the current state and future directions regarding the use of machine learning and deep learning techniques in the context of e-commerce. Further research and development will be necessary to address the evolving challenges and opportunities presented by the dynamic e-commerce landscape.
+
+**Source:** https://www.semanticscholar.org/paper/ad0ba661602663c7b9bba1f03ef45c5fe37b6ffb
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:03:34.607Z

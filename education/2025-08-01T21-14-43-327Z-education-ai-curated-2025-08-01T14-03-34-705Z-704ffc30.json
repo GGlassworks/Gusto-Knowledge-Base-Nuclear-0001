@@ -1,0 +1,14 @@
+# Deep learning in computational mechanics: a review
+
+**Authors:** L. Herrmann, Stefan Kollmannsberger
+
+## Abstract
+The rapid growth of deep learning research, including within the field of computational mechanics, has resulted in an extensive and diverse body of literature. To help researchers identify key concepts and promising methodologies within this field, we provide an overview of deep learning in deterministic computational mechanics. Five main categories are identified and explored: simulation substitution, simulation enhancement, discretizations as neural networks, generative approaches, and deep reinforcement learning. This review focuses on deep learning methods rather than applications for computational mechanics, thereby enabling researchers to explore this field more effectively. As such, the review is not necessarily aimed at researchers with extensive knowledge of deep learning—instead, the primary audience is researchers on the verge of entering this field or those attempting to gain an overview of deep learning in computational mechanics. The discussed concepts are, therefore, explained as simple as possible.
+
+
+**Source:** https://www.semanticscholar.org/paper/d622272db2907e84bfdfff6eb88834302ea016e1
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T14:03:34.705Z
