@@ -1,0 +1,13 @@
+# Uncovering Insights from Big Data: Change Point Detection of Classroom Engagement
+
+**Authors:** Kohei Nakamura, Manabu Ishihara, Izumi Horikoshi, Hiroaki Ogata
+
+## Abstract
+Expectations of big data across various fields, including education, are increasing. However, uncovering valuable insights from big data is like locating a needle in a haystack, and it is difficult for teachers to use educational big data on their own. This study aimed to understand changes in student participation rates during classes and teachers' teaching styles by analyzing educational big data. In the analysis, data from 120 students and two mathematics class teachers at a public junior high school in Japan were used. We applied the pruned exact linear time (PELT) algorithm to automatically identify significant changes in student participation during class. Based on the information obtained, we analyzed the interaction logs of teachers' e-book readers and clarified the relationship between student participation rates and teacher behavior patterns. Change point detection using the PELT algorithm showed a high F1-score of 0.7929, indicating good overall performance. We also investigated whether there was a relationship between class differences and teachers' actions and found a statistically significant difference. The results provide clues for improving student learning engagement and teachers' teaching styles, and they are expected to improve the quality of education by automatically identifying notable cases from educational big data. However, further research is required to improve data analysis methods, such as adjusting the parameters of algorithms based on the situation.
+
+**Source:** https://eric.ed.gov/?id=EJ1429417
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:43:09.590Z

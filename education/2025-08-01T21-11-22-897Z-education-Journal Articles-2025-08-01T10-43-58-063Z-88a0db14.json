@@ -1,0 +1,13 @@
+# Analyzing Multivariate Generalizability Theory Designs within Structural Equation Modeling Frameworks
+
+**Authors:** Walter P. Vispoel, Hyeryung Lee, Hyeri Hong
+
+## Abstract
+We demonstrate how to analyze complete multivariate generalizability theory (GT) designs within structural equation modeling frameworks that encompass both individual subscale scores and composites formed from those scores. Results from numerous analyses of observed scores obtained from respondents who completed the recently updated form of the Big Five Inventory (BFI-2) revealed that the &quot;lavaan&quot; SEM package in R produced results virtually identical to those obtained from the &quot;mGENOVA&quot; package, which historically has served as the gold standard for conducting multivariate GT analyses. We further extended &quot;lavaan&quot; analyses beyond what &quot;mGENOVA&quot; allows to produce Monte Carlo based confidence intervals for key GT parameters and correct score consistency and correlational indices for effects of scale coarseness characteristic of binary and ordinal data. Our comprehensive online Supplemental Material includes code for performing all illustrated analyses using &quot;lavaan&quot; and &quot;mGENOVA.&quot;
+
+**Source:** https://eric.ed.gov/?id=EJ1431120
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:43:58.063Z

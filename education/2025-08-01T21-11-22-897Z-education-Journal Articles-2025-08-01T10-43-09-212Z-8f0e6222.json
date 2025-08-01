@@ -1,0 +1,13 @@
+# Educational Data Mining: A Tutorial for the &quot;Rattle&quot; Package in R
+
+**Authors:** Bulut, Okan, Yavuz, Hatice Cigdem
+
+## Abstract
+Educational data mining (EDM) has been a rapidly growing research field over the last decade and enabled researchers to discover patterns and trends in education with more sophisticated methods. EDM offers promising solutions to complex educational problems. Given the rapid increase in the availability of big data in education and software programs to analyze big data, the demand for user-friendly, free software programs to implement EDM methods also continues to increase. The R programming language has become a popular environment for data mining due to its availability and flexibility. The &quot;rattle&quot; package in R contains a set of functions to implement data mining with a graphical user interface. This study demonstrates three widely used data mining algorithms (classification and regression tree, random forest, and support vector machine) in EDM using real data from the 2015 administration of the Programme for International Student Assessment (PISA). First, a brief introduction to EDM is provided along with the description of the selected data mining algorithms. Then, how to perform data mining analysis using the &quot;rattle's&quot; graphical user interface is demonstrated. The study concludes by comparing the results of the selected data mining algorithms and highlighting how those algorithms can be utilized in the context of educational research.
+
+**Source:** https://eric.ed.gov/?id=EJ1246367
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:43:09.212Z

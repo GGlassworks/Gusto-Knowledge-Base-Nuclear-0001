@@ -1,0 +1,13 @@
+# Interaction Recognition and Intervention Based on Context Feature Fusion of Learning Behaviors in Interactive Learning Environments
+
+**Authors:** Xia, Xiaona
+
+## Abstract
+Interactive learning environments can generate massive learning behavior data and the support of learning behavior big data can ensure the completeness of data analysis and robustness of relationship verification. In this study, learning behaviors are divided into training set and testing set, BP neural network and recurrent Elman network are integrated. Through the training set, the recursive multi-layer feedback neural network model based on the fusion of context features is constructed. The recognition algorithm is designed. From relative standard deviation (RSD) and prediction accuracy (P.A), the model and algorithm designed in this study are more suitable for the recognition and prediction of learning behavior data. Furthermore, the key topological path and interaction process equation of learning behaviors are designed, three kinds of intervention optimization strategies are constructed to serve the daily teaching processes of three courses. After two semesters of learning behavior feature recognition and relationship analysis, learners' interest, assessment pass rate, or excellence rate have improved significantly. So the intervention optimization strategies of learning behaviors based on the analysis results of models and algorithms can influence the feature distribution and behavior trend.
+
+**Source:** https://eric.ed.gov/?id=EJ1391293
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:42:43.654Z

@@ -1,0 +1,13 @@
+# Mining Big Data in Education: Affordances and Challenges
+
+**Authors:** Fischer, Christian, Pardos, Zachary A., Baker, Ryan Shaun, Williams, Joseph Jay, Smyth, Padhraic, Yu, Renzhe, Slater, Stefan, Baker, Rachel, Warschauer, Mark
+
+## Abstract
+The emergence of big data in educational contexts has led to new data-driven approaches to support informed decision making and efforts to improve educational effectiveness. Digital traces of student behavior promise more scalable and finer-grained understanding and support of learning processes, which were previously too costly to obtain with traditional data sources and methodologies. This synthetic review describes the affordances and applications of microlevel (e.g., clickstream data), mesolevel (e.g., text data), and macrolevel (e.g., institutional data) big data. For instance, clickstream data are often used to operationalize and understand knowledge, cognitive strategies, and behavioral processes in order to personalize and enhance instruction and learning. Corpora of student writing are often analyzed with natural language processing techniques to relate linguistic features to cognitive, social, behavioral, and affective processes. Institutional data are often used to improve student and administrational decision making through course guidance systems and early-warning systems. Furthermore, this chapter outlines current challenges of accessing, analyzing, and using big data. Such challenges include balancing data privacy and protection with data sharing and research, training researchers in educational data science methodologies, and navigating the tensions between explanation and prediction. We argue that addressing these challenges is worthwhile given the potential benefits of mining big data in education.
+
+**Source:** https://eric.ed.gov/?id=EJ1251353
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:42:17.074Z

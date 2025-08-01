@@ -1,0 +1,13 @@
+# The Impact of Misspecifying the Within-Subject Covariance Structure in Multiwave Longitudinal Multilevel Models: A Monte Carlo Study
+
+**Authors:** Kwok, Oi-man, West, Stephen G., Green, Samuel B.
+
+## Abstract
+This Monte Carlo study examined the impact of misspecifying the [big sum] matrix in longitudinal data analysis under both the multilevel model and mixed model frameworks. Under the multilevel model approach, under-specification and general-misspecification of the [big sum] matrix usually resulted in overestimation of the variances of the random effects (e.g., [tau][subscript 00], [tau][subscript [tau][subscript 11]]) and standard errors of the corresponding growth parameter estimates (e.g., SE[subscript [beta] [subscript 0]], SE[subscript [beta] [subscript 1]]). Overestimates of the standard errors led to lower statistical power in tests of the growth parameters. An unstructured [big sum] matrix under the mixed model framework generally led to underestimates of standard errors of the growth parameter estimates. Underestimates of the standard errors led to inflation of the type I error rate in tests of the growth parameters. Implications of the compensatory relationship between the random effects of the growth parameters and the longitudinal error structure for model specification were discussed. (Contains 2 figures, 6 tables and 25 footnotes. SAS script for Analyzing the Linear Growth Model in Study 1 with Different [big sum] Specifications is appended.)
+
+**Source:** https://eric.ed.gov/?id=EJ780748
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:43:57.673Z

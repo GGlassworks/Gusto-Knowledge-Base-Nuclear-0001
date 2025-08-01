@@ -1,0 +1,13 @@
+# The Application of Big Data in the Management of Ideological and Political Education in the Development of Education Network
+
+**Authors:** Huichao Li, Dan Li
+
+## Abstract
+Based on a brief analysis of the current situation of university education management and research on intelligent algorithms, this article constructs a university education management system based on big data. For the clustering and prediction modules in higher education management, corresponding algorithms are used for optimization design. A fuzzy clustering algorithm based on entropy weight is proposed to address the shortcomings of the C-means clustering algorithm. This algorithm adds weighting coefficients on the basis of improvement and continuously updates the clustering centers. The prediction module uses Apriori algorithm to map and compress the target transaction database, reduces the number of candidate item sets through pruning process, and designs simulation experiments to measure the performance of the algorithm. The simulation results show that the clustering results of this algorithm are closer to the actual clustering situation, with shorter running time and better algorithm performance.
+
+**Source:** https://eric.ed.gov/?id=EJ1438001
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:42:43.702Z

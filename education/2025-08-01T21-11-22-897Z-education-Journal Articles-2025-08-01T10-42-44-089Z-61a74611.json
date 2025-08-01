@@ -1,0 +1,13 @@
+# A Competition-Oriented Student Team Building Method
+
+**Authors:** Dapeng Qu, Ruiduo Li, Tianqi Yang, Songlin Wu, Yan Pan, Xingwei Wang, Keqin Li
+
+## Abstract
+There are many important and interesting academic competitions that attract an increasing number of students. However, traditional student team building methods usually have strong randomness or involve only some first-class students. To choose more suitable students to compose a team and improve students' abilities overall, a competition-oriented student team building method is proposed. This would not only lead to better competition results by choosing more suitable students and teams but also improve the overall involvement of students in considering education fairness. First, a Big Data platform is constructed to collect students' various behavior data. Based on that, a competition with a six-tuple attribute and a student with a six-tuple attribute are modeled. Then, a corresponding utility function is designed for each attribute in the student model to denote the student's utility in this attribute for attending a competition. Furthermore, a team utility function is developed for each team to denote the utilities of all involved students. A team building utility function is also developed to denote the utilities of all involved teams. Second, a multiple-objective particle swarm optimization algorithm with dimension by dimension improvement is proposed to build appropriate teams to optimize team building utility maximization and education fairness simultaneously. Finally, extensive experimental results demonstrate that the overall performance of our proposed team building method not only has better performance in terms of team utility and student ability than other current methods, but also has better performance in terms of hyper volume and inverted generational distance than other optimization algorithms.
+
+**Source:** https://eric.ed.gov/?id=EJ1437632
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:42:44.089Z
