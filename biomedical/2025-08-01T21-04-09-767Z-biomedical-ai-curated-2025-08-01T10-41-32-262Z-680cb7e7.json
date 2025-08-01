@@ -1,0 +1,13 @@
+# Data mining in clinical big data: the frequently used databases, steps, and methodological models
+
+**Authors:** Wen-Tao Wu, Yuan-jie Li, Aozi Feng, Li Li, Tao Huang, A. Xu, Jun Lyu
+
+## Abstract
+Many high quality studies have emerged from public databases, such as Surveillance, Epidemiology, and End Results (SEER), National Health and Nutrition Examination Survey (NHANES), The Cancer Genome Atlas (TCGA), and Medical Information Mart for Intensive Care (MIMIC); however, these data are often characterized by a high degree of dimensional heterogeneity, timeliness, scarcity, irregularity, and other characteristics, resulting in the value of these data not being fully utilized. Data-mining technology has been a frontier field in medical research, as it demonstrates excellent performance in evaluating patient risks and assisting clinical decision-making in building disease-prediction models. Therefore, data mining has unique advantages in clinical big-data research, especially in large-scale medical public databases. This article introduced the main medical public database and described the steps, tasks, and models of data mining in simple language. Additionally, we described data-mining methods along with their practical applications. The goal of this work was to aid clinical researchers in gaining a clear and intuitive understanding of the application of data-mining technology on clinical big-data in order to promote the production of research results that are beneficial to doctors and patients.
+
+**Source:** https://www.semanticscholar.org/paper/178571a5cde984c895493e2eb6c5487449d055cf
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T10:41:32.263Z

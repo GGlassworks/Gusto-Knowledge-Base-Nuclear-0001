@@ -1,0 +1,13 @@
+# Comparison of Vision Transformers and Convolutional Neural Networks in Medical Image Analysis: A Systematic Review
+
+**Authors:** Satoshi Takahashi, Yusuke Sakaguchi, Nobuji Kouno, Ken Takasawa, Kenichi Ishizu, Yu Akagi, R. Aoyama, Naoki Teraya, Amina Bolatkan, Norio Shinkai, Hidenori Machino, Kazuma Kobayashi, Ken Asada, M. Komatsu, S. Kaneko, Masashi Sugiyama, R. Hamamoto
+
+## Abstract
+In the rapidly evolving field of medical image analysis utilizing artificial intelligence (AI), the selection of appropriate computational models is critical for accurate diagnosis and patient care. This literature review provides a comprehensive comparison of vision transformers (ViTs) and convolutional neural networks (CNNs), the two leading techniques in the field of deep learning in medical imaging. We conducted a survey systematically. Particular attention was given to the robustness, computational efficiency, scalability, and accuracy of these models in handling complex medical datasets. The review incorporates findings from 36 studies and indicates a collective trend that transformer-based models, particularly ViTs, exhibit significant potential in diverse medical imaging tasks, showcasing superior performance when contrasted with conventional CNN models. Additionally, it is evident that pre-training is important for transformer applications. We expect this work to help researchers and practitioners select the most appropriate model for specific medical image analysis tasks, accounting for the current state of the art and future trends in the field.
+
+**Source:** https://www.semanticscholar.org/paper/8d79c921a87711c43990547e02e1ab601d5209e0
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:04.288Z

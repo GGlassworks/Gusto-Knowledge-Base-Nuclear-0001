@@ -1,0 +1,13 @@
+# DITrust Chain: Towards Blockchain-Based Trust Models for Sustainable Healthcare IoT Systems
+
+**Authors:** Eman M. Abou-Nassar, Abdullah M. Iliyasu, P. El-Kafrawy, Oh-Young Song, A. Bashir, A. El-latif
+
+## Abstract
+Today, internet and device ubiquity are paramount in individual, formal and societal considerations. Next generation communication technologies, such as Blockchains (BC), Internet of Things (IoT), cloud computing, etc. offer limitless capabilities for different applications and scenarios including industries, cities, healthcare systems, etc. Sustainable integration of healthcare nodes (i.e. devices, users, providers, etc.) resulting in healthcare IoT (or simply IoHT) provides a platform for efficient service delivery for the benefit of care givers (doctors, nurses, etc.) and patients. Whereas confidentiality, accessibility and reliability of medical data are accorded high premium in IoHT, semantic gaps and lack of appropriate assets or properties remain impediments to reliable information exchange in federated trust management frameworks. Consequently, We propose a Blockchain Decentralised Interoperable Trust framework (DIT) for IoT zones where a smart contract guarantees authentication of budgets and Indirect Trust Inference System (ITIS) reduces semantic gaps and enhances trustworthy factor (TF) estimation via the network nodes and edges. Our DIT IoHT makes use of a private Blockchain ripple chain to establish trustworthy communication by validating nodes based on their inter-operable structure so that controlled communication required to solve fusion and integration issues are facilitated via different zones of the IoHT infrastructure. Further, $\text{C}\mathrm {\sharp }$ implementation using Ethereum and ripple Blockchain are introduced as frameworks to associate and aggregate requests over trusted zones.
+
+**Source:** https://www.semanticscholar.org/paper/d278ff2fbd4b048c78b0c9a6bc12dcf0a81f9fa2
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T13:06:41.834Z

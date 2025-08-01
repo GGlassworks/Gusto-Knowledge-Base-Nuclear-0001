@@ -1,0 +1,13 @@
+# Artificial Neural Networks in Medical Diagnosis
+
+**Authors:** Qeethara Al-Shayea
+
+## Abstract
+Artificial neural networks are finding many uses in the medical diagnosis application. The goal of this paper is to evaluate artificial neural network in disease diagnosis. Two cases are studied. The first one is acute nephritis disease; data is the disease symptoms. The second is the heart disease; data is on cardiac Single Proton Emission Computed Tomography (SPECT) images. Each patient classified into two categories: infected and non-infected. Classification is an important tool in medical diagnosis decision support. Feed-forward back propagation neural network is used as a classifier to distinguish between infected or non-infected person in both cases. The results of applying the artificial neural networks methodology to acute nephritis diagnosis based upon selected symptoms show abilities of the network to learn the patterns corresponding to symptoms of the person. In this study, the data were obtained from UCI machine learning repository in order to diagnosed diseases. The data is separated into inputs and targets. The targets for the neural network will be identified with 1's as infected and will be identified with 0's as non-infected. In the diagnosis of acute nephritis disease; the percent correctly classified in the simulation sample by the feed-forward back propagation network is 99 percent while in the diagnosis of heart disease; the percent correctly classified in the simulation sample by the feed-forward back propagation network is 95 percent.
+
+**Source:** https://www.semanticscholar.org/paper/7e1a23188b00c719e656b7949a7c9a1ff2ab841e
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T11:46:46.501Z

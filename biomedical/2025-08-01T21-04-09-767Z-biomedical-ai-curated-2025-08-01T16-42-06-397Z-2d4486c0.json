@@ -1,0 +1,26 @@
+# Evaluation of WordNet as a source of lay knowledge for molecular biology and genetic diseases: A feasibility study
+
+**Authors:** O. Bodenreider, Anita Burgun-Parenthoine, Joyce A. Mitchell
+
+## Abstract
+OBJECTIVES
+While several sources of biomedical knowledge are available, these resources are often highly specialized and usually not suitable for a lay audience. This paper evaluates whether concepts needed for molecular biology and genetic diseases are present in WordNet, the electronic lexical database.
+
+
+METHODS
+Terms for four broad categories of concepts (phenotype, molecular function, biological process, and cellular component) were extracted from LocusLink and mapped to WordNet. All terms from the Gene Ontology database (gene products and ontology concepts) were also mapped to WordNet in order to evaluate its global coverage of the domain. Additionally, we tested two methods for improving the mapping of genetic disease names to WordNet.
+
+
+RESULTS
+The coverage of concepts ranged from 0% (gene product symbols) to 2.8% (cellular components). Removing specialization markers from the terms and using synonyms significantly increased the rate of mapping of genetic disease names to WordNet.
+
+
+CONCLUSIONS
+Many of the most common single gene disorders are present in WordNet, as well as many high-level concepts in Gene Ontology. Therefore, WordNet is likely to be a useful source of lay knowledge in the framework of a consumer health information system on genetic diseases.
+
+**Source:** https://www.semanticscholar.org/paper/4f773c0fd37129a82fa044b7498748a5bb6f0c11
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T16:42:06.398Z

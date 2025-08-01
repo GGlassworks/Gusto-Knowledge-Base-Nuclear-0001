@@ -1,0 +1,13 @@
+# Pooling in convolutional neural networks for medical image analysis: a survey and an empirical study
+
+**Authors:** Rajendran Nirthika, Siyamalan Manivannan, A. Ramanan, Ruixuan Wang
+
+## Abstract
+Convolutional neural networks (CNN) are widely used in computer vision and medical image analysis as the state-of-the-art technique. In CNN, pooling layers are included mainly for downsampling the feature maps by aggregating features from local regions. Pooling can help CNN to learn invariant features and reduce computational complexity. Although the max and the average pooling are the widely used ones, various other pooling techniques are also proposed for different purposes, which include techniques to reduce overfitting, to capture higher-order information such as correlation between features, to capture spatial or structural information, etc. As not all of these pooling techniques are well-explored for medical image analysis, this paper provides a comprehensive review of various pooling techniques proposed in the literature of computer vision and medical image analysis. In addition, an extensive set of experiments are conducted to compare a selected set of pooling techniques on two different medical image classification problems, namely HEp-2 cells and diabetic retinopathy image classification. Experiments suggest that the most appropriate pooling mechanism for a particular classification task is related to the scale of the class-specific features with respect to the image size. As this is the first work focusing on pooling techniques for the application of medical image analysis, we believe that this review and the comparative study will provide a guideline to the choice of pooling mechanisms for various medical image analysis tasks. In addition, by carefully choosing the pooling operations with the standard ResNet architecture, we show new state-of-the-art results on both HEp-2 cells and diabetic retinopathy image datasets.
+
+**Source:** https://www.semanticscholar.org/paper/d14465055fdd20022cb2478ab42b89aeaa5f91b1
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T14:16:34.417Z

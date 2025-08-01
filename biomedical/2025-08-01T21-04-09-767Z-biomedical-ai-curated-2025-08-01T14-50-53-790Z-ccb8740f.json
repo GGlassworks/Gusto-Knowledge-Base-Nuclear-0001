@@ -1,0 +1,13 @@
+# Comparison of blockchain frameworks for healthcare applications
+
+**Authors:** C. C. Agbo, Q. Mahmoud
+
+## Abstract
+Though a relatively new technology, blockchain has become a very trendy topic in recent times, thanks to bitcoin and other popular cryptocurrencies which are built on the blockchain. With features such as decentralized consensus and data immutability, blockchain transactions are known to be transparent, secure, and trustworthy. For these reasons, blockchain is increasingly being adopted in different industries and for diverse use cases, especially where security and trust are important concerns. Health care is one such industry that offers several use cases for applying blockchain technology. Even so, blockchain‐based healthcare applications have yet to become widespread. This is mostly because initial efforts were focused on developing blockchain frameworks for cryptocurrencies and not for general purpose applications, such as health care. Recently, general‐purpose blockchain frameworks, which may be used to develop healthcare applications, have begun to emerge. However, there is no consensus on which framework is most suitable for developing healthcare applications. In light of this, this paper compares the popular general‐purpose blockchain frameworks, vis‐a‐vis the requirements for healthcare systems, in order to guide health informatics researchers and practitioners in selecting the appropriate platform for developing and experimenting with blockchain‐based healthcare applications.
+
+**Source:** https://www.semanticscholar.org/paper/1f027086851970c9508fae75b0f45d02920baa2b
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T14:50:53.791Z

@@ -1,0 +1,13 @@
+# A Systematic Review of Blockchain in Healthcare: Frameworks, Prototypes, and Implementations
+
+**Authors:** E. Chukwu, Lalit Garg
+
+## Abstract
+Blockchain, a form of distributed ledger technology has attracted the interests of stakeholders across several sectors including healthcare. Its’ potential in the multi-stakeholder operated sector like health has been responsible for several investments, studies, and implementations. Electronic Health Records (EHR) systems traditionally used for the exchange of health information amongst healthcare stakeholders have been criticised for centralising power, failures and attack-points with exchange data custodians. EHRs have struggled in the face of multi-stakeholder and system requirements while adhering to security, privacy, ethical and other regulatory constraints. Blockchain is promising amongst others to address the many EHR challenges, primarily trustless and secure exchange of health information amongst stakeholders. Many blockchain-in-healthcare frameworks have been proposed; some prototyped and/or implemented. This study leveraged the PRISMA framework to systematically search and evaluate the different models proposed; prototyped and/or implemented. The bibliometric and functional distribution of all 143 articles from this study were presented. This study evaluated 61 articles that discussed either prototypes or pilot or implementations. The technical and architectural analysis of these 61 articles for privacy, security, cost, and performance were detailed. Blockchain was found to solve the trust, security and privacy constraints of traditional EHRs often at significant performance, storage and cost trade-offs.
+
+**Source:** https://www.semanticscholar.org/paper/6200df514ae0a67ea94a24fa0c3584c802815d9f
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T14:50:54.728Z

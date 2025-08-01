@@ -1,0 +1,13 @@
+# Vision Transformers in Medical Computer Vision - A Contemplative Retrospection
+
+**Authors:** Arshi Parvaiz, Muhammad Anwaar Khalid, Rukhsana Zafar, Huma Ameer, M. Ali, M. Fraz
+
+## Abstract
+Recent escalation in the field of computer vision underpins a huddle of algorithms with the magnificent potential to unravel the information contained within images. These computer vision algorithms are being practised in medical image analysis and are transfiguring the perception and interpretation of Imaging data. Among these algorithms, Vision Transformers are evolved as one of the most contemporary and dominant architectures that are being used in the field of computer vision. These are immensely utilized by a plenty of researchers to perform new as well as former experiments. Here, in this article we investigate the intersection of Vision Transformers and Medical images and proffered an overview of various ViTs based frameworks that are being used by different researchers in order to decipher the obstacles in Medical Computer Vision. We surveyed the application of Vision transformers in different areas of medical computer vision such as image-based disease classification, anatomical structure segmentation, registration, region-based lesion Detection, captioning, report generation, reconstruction using multiple medical imaging modalities that greatly assist in medical diagnosis and hence treatment process. Along with this, we also demystify several imaging modalities used in Medical Computer Vision. Moreover, to get more insight and deeper understanding, self-attention mechanism of transformers is also explained briefly. Conclusively, we also put some light on available data sets, adopted methodology, their performance measures, challenges and their solutions in form of discussion. We hope that this review article will open future directions for researchers in medical computer vision.
+
+**Source:** https://www.semanticscholar.org/paper/224ecc21a917dd246420d2da0b3edee5834f3391
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T11:56:40.384Z

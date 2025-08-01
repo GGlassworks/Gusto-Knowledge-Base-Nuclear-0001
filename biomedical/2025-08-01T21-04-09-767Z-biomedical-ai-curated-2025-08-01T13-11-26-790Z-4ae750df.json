@@ -1,0 +1,13 @@
+# Securing patient data in the healthcare industry: A blockchain-driven protocol with advanced encryption
+
+**Authors:** Sourav Kunal, Parth Gandhi, Digvijaysinh Rathod, Ruhul Amin, Sachin Sharma
+
+## Abstract
+BACKGROUND: Ensuring the security and privacy of patient data is a critical concern in the healthcare industry. The growing utilization of electronic data transmission and storage in medical records has amplified apprehensions about data security. However, due to varying stakeholder interests, not all data can be freely shared, necessitating the development of secure protocols. MATERIALS AND METHODS: This study presents a highly secure protocol that integrates blockchain technology, patient biometric information, and robust cryptographic algorithms (elliptic curve cryptography (ECC) and advanced encryption algorithm (AEC)) to facilitate data encryption and decryption. The protocol encompasses secure login, secure key sharing, and data sharing mechanisms among miners, offering comprehensive security measures. To validate the effectiveness of the proposed protocol, both informal and formal security analyses are conducted. The security protocol description language in Scyther is utilized to evaluate the protocol's resilience against attacks. RESULTS: The culmination of this research is a secure protocol that leverages blockchain technology and ECC for the secure storage and sharing of medical records. The protocol covers all stages, including system setup, user registration, login mechanisms, key exchange between users and blockchain, communication between blockchains, and interaction with other miners, with a steadfast emphasis on security. Furthermore, the protocol's communication and computation costs are assessed, with a comparison to existing blockchain-based schemes. Informal proofs establish the protocol's security against common attacks faced by medical institutions. Formal simulation of the protocol using the Scyther tool provides definitive evidence of its resistance to attacks. CONCLUSIONS: As a result, this protocol presents a viable real-time implementation solution for safeguarding patient data within the healthcare domain, representing a significant contribution to data security.
+
+**Source:** https://www.semanticscholar.org/paper/b3eb60368132c338a62d471bc8da3628be3c482c
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T13:11:26.791Z

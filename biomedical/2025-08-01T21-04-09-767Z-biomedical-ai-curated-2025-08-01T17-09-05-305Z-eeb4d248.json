@@ -1,0 +1,13 @@
+# The applied principles of EEG analysis methods in neuroscience and clinical neurology
+
+**Authors:** Hao Zhang, Qing-Qi Zhou, He Chen, Xiao-Qing Hu, Wei-Guang Li, Yang Bai, Jun-Xia Han, Yao Wang, Zhen-Hu Liang, Dan Chen, Feng-Yu Cong, Jiaqing Yan, Xiao-Li Li
+
+## Abstract
+Electroencephalography (EEG) is a non-invasive measurement method for brain activity. Due to its safety, high resolution, and hypersensitivity to dynamic changes in brain neural signals, EEG has aroused much interest in scientific research and medical fields. This article reviews the types of EEG signals, multiple EEG signal analysis methods, and the application of relevant methods in the neuroscience field and for diagnosing neurological diseases. First, three types of EEG signals, including time-invariant EEG, accurate event-related EEG, and random event-related EEG, are introduced. Second, five main directions for the methods of EEG analysis, including power spectrum analysis, time–frequency analysis, connectivity analysis, source localization methods, and machine learning methods, are described in the main section, along with different sub-methods and effect evaluations for solving the same problem. Finally, the application scenarios of different EEG analysis methods are emphasized, and the advantages and disadvantages of similar methods are distinguished. This article is expected to assist researchers in selecting suitable EEG analysis methods based on their research objectives, provide references for subsequent research, and summarize current issues and prospects for the future.
+
+**Source:** https://www.semanticscholar.org/paper/211a0afe089c804bfc7f2d600f09a6001cca2f40
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T17:09:05.305Z

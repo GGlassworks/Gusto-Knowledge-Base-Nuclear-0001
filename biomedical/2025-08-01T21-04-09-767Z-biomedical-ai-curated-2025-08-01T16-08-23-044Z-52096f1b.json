@@ -1,0 +1,13 @@
+# Social group optimization algorithm for civil engineering structural health monitoring
+
+**Authors:** Swagato Das, P. Saha, S. Satapathy, Junali Jasmine Jena
+
+## Abstract
+Social group optimization (SGO) is a human-based metaheuristic optimization technique which shows accurate results for different benchmark functions but has not been studied for civil engineering structural health monitoring problems. This article deals with the use of SGO for damage analysis of different modelled civil engineering structures and a real-life American Society of Civil Engineers (ASCE) benchmark structure using a stiffness-based objective function. It is observed that SGO is not able to identify the damage in the structures owing to the algorithm becoming trapped in local optima. To improve the performance of SGO, a modified social group optimization (MSGO) is proposed, which deals with the drawbacks of SGO in dealing with the complicated objective functions of civil structures. It is observed that MSGO shows accurate damage detection capability, with errors of less than 1%, in the civil structures considered, even in the presence of noise.
+
+**Source:** https://www.semanticscholar.org/paper/136ace3926f7040d60758c3c2060a1c3d7d40d26
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T16:08:23.044Z

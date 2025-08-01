@@ -1,0 +1,13 @@
+# Exploring blockchain implementation challenges in the context of healthcare supply chain (HCSC)
+
+**Authors:** Ozlem Bak, Ashley Braganza, Weifeng Chen
+
+## Abstract
+Blockchain technology enables supply chains to share and distribute data in secured and decentralised environments through validators who trust and validate transactions. The use of blockchain was crucial in the context of the healthcare supply chain (HCSC) during COVID-19, where transactions were secure, and links throughout the supply chain were physically disrupted. Current research has focused on the blockchain application in industry, reviewing its architecture and the mechanisms involved. However, limited empirical studies consider HCSCs and the associated implementation challenges. In this sense, our case study of Indian hospitals has engaged with various stakeholders of the HCSC including clinicians, nurses, doctors, hospital managers, and digital healthcare equipment companies to explore the context to answer the following research questions: (i) What is the impact of the blockchain technology in the HCSC context? and (ii) What are the challenges faced in utilising blockchain technologies in the HCSC? Our findings indicate that the challenges blockchain implementation faced were based on variations in patients’ treatment needs, data storage and privacy, interoperability, digital transformation, technology resistance, training and skills development, resource restraints and capabilities, and supply chain-wide collaboration. The study emphasises challenges for Blockchain in HCSC setting that both practitioners and academics need to be cognisant of.
+
+**Source:** https://www.semanticscholar.org/paper/a18378aaa68fa3a830086d25256e78938089d653
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T13:14:08.513Z

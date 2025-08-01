@@ -1,0 +1,13 @@
+# Blockchain Technology: Security Issues, Healthcare Applications, Challenges and Future Trends
+
+**Authors:** Wenhua Zhang, Faizan Qamar, Taj-Aldeen Naser Abdali, Rosilah Hassan, Syed Talib Abbas Jafri, Quang Ngoc Nguyen
+
+## Abstract
+Blockchain technology provides a data structure with inherent security properties that include cryptography, decentralization, and consensus, which ensure trust in transactions. It covers widely applicable usages, such as in intelligent manufacturing, finance, the Internet of things (IoT), medicine and health, and many different areas, especially in medical health data security and privacy protection areas. Its natural attributes, such as contracts and consensus mechanisms, have leading-edge advantages in protecting data confidentiality, integrity, and availability. The security issues are gradually revealed with in-depth research and vigorous development. Unlike traditional paper storage methods, modern medical records are stored electronically. Blockchain technology provided a decentralized solution to the trust-less issues between distrusting parties without third-party guarantees, but the “trust-less” security through technology was easily misunderstood and hindered the security differences between public and private blockchains appropriately. The mentioned advantages and disadvantages motivated us to provide an advancement and comprehensive study regarding the applicability of blockchain technology. This paper focuses on the healthcare security issues in blockchain and sorts out the security risks in six layers of blockchain technology by comparing and analyzing existing security measures. It also explores and defines the different security attacks and challenges when applying blockchain technology, which promotes theoretical research and robust security protocol development in the current and future distributed work environment.
+
+**Source:** https://www.semanticscholar.org/paper/d0d0f422bef16318054cd18ea89b05d543f36d1e
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T13:02:11.931Z

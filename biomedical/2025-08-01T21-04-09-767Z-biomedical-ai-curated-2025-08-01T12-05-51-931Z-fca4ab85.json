@@ -1,0 +1,13 @@
+# Generative Adversarial Networks (GANs) in Medical Imaging: Advancements, Applications, and Challenges
+
+**Authors:** Showrov Islam, Md Tarek Aziz, Hadiur Rahman Nabil, Jamin Rahman Jim, M. Mridha, M. Kabir, Nobuyoshi Asai, Jungpil Shin
+
+## Abstract
+Generative Adversarial Networks are a class of artificial intelligence algorithms that consist of a generator and a discriminator trained simultaneously through adversarial training. GANs have found crucial applications in various fields, including medical imaging. In healthcare, GANs contribute by generating synthetic medical images, enhancing data quality, and aiding in image segmentation, disease detection, and medical image synthesis. Their importance lies in their ability to generate realistic images, facilitating improved diagnostics, research, and training for medical professionals. Understanding its applications, algorithms, current advancements, and challenges is imperative for further advancement in the medical imaging domain. However, no study explores the recent state-of-the-art development of GANs in medical imaging. To overcome this research gap, in this extensive study, we began by exploring the vast array of applications of GANs in medical imaging, scrutinizing them within recent research. We then dive into the prevalent datasets and pre-processing techniques to enhance comprehension. Subsequently, an in-depth discussion of the GAN algorithms, elucidating their respective strengths and limitations, is provided. After that, we meticulously analyzed the results and experimental details of some recent cutting-edge research to obtain a more comprehensive understanding of the current development of GANs in medical imaging. Lastly, we discussed the diverse challenges encountered and future research directions to mitigate these concerns. This systematic review offers a complete overview of GANs in medical imaging, encompassing their application domains, models, state-of-the-art results analysis, challenges, and research directions, serving as a valuable resource for multidisciplinary studies.
+
+**Source:** https://www.semanticscholar.org/paper/1f1dbb99ac96a7dde85b31c3c812ff376965db1c
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T12:05:51.932Z

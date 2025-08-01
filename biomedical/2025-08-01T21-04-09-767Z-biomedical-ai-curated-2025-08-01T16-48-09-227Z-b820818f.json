@@ -1,0 +1,13 @@
+# Bioinformatics and Computational Tools for Next-Generation Sequencing Analysis in Clinical Genetics
+
+**Authors:** R. Pereira, J. Oliveira, M. Sousa
+
+## Abstract
+Clinical genetics has an important role in the healthcare system to provide a definitive diagnosis for many rare syndromes. It also can have an influence over genetics prevention, disease prognosis and assisting the selection of the best options of care/treatment for patients. Next-generation sequencing (NGS) has transformed clinical genetics making possible to analyze hundreds of genes at an unprecedented speed and at a lower price when comparing to conventional Sanger sequencing. Despite the growing literature concerning NGS in a clinical setting, this review aims to fill the gap that exists among (bio)informaticians, molecular geneticists and clinicians, by presenting a general overview of the NGS technology and workflow. First, we will review the current NGS platforms, focusing on the two main platforms Illumina and Ion Torrent, and discussing the major strong points and weaknesses intrinsic to each platform. Next, the NGS analytical bioinformatic pipelines are dissected, giving some emphasis to the algorithms commonly used to generate process data and to analyze sequence variants. Finally, the main challenges around NGS bioinformatics are placed in perspective for future developments. Even with the huge achievements made in NGS technology and bioinformatics, further improvements in bioinformatic algorithms are still required to deal with complex and genetically heterogeneous disorders.
+
+**Source:** https://www.semanticscholar.org/paper/38080784dcde5f8bdb86af9a186b47117db37133
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T16:48:09.227Z

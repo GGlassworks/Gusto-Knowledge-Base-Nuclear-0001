@@ -1,0 +1,13 @@
+# Healthcare Capacity, Health Expenditure, and Civil Society as Predictors of COVID-19 Case Fatalities: A Global Analysis
+
+**Authors:** J. R. Khan, Nabil Awan, Md.Mazharul Islam, Olav T. Muurlink
+
+## Abstract
+Background: The rapid growth in cases of COVID-19 has challenged national healthcare capacity, testing systems at an advanced ICU, and public health infrastructure level. This global study evaluates the association between multi-factorial healthcare capacity and case fatality of COVID-19 patients by adjusting for demographic, health expenditure, population density, and prior burden of non-communicable disease. It also explores the impact of government relationships with civil society as a predictor of infection and mortality rates. Methods: Data were extracted from the Johns Hopkins University database, World Bank records and the National Civic Space Ratings 2020 database. This study used data from 86 countries which had at least 1,000 confirmed cases on 30th April 2020. Negative binomial regression model was used to assess the association between case fatality (a ratio of total number of confirmed deaths to total number of confirmed cases) and healthcare capacity index adjusting for other covariates. Findings: Regression analysis shows that greater healthcare capacity was related to lesser case-fatality [incidence rate ratio (IRR) 0.5811; 95% confidence interval (CI) 0.4727–0.7184; p < 0.001] with every additional unit increase in the healthcare capacity index associated with a 42% decrease in the case fatality. Health expenditure and civil society variables did not reach statistical significance but were positively associated with case fatalities. Interpretation: Based on preliminary data, this research suggests that building effective multidimensional healthcare capacity is the most promising means to mitigate future case fatalities. The data also suggests that government's ability to implement public health measures to a degree determines mortality outcomes.
+
+**Source:** https://www.semanticscholar.org/paper/f84d90494b0a00cc2fa3ece34d313cbca5f9a434
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T16:13:10.875Z

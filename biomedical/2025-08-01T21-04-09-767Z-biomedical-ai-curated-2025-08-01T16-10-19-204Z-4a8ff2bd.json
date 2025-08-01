@@ -1,0 +1,13 @@
+# A brief introductory review to deep generative models for civil structural health monitoring
+
+**Authors:** Furkan Luleci, F. Catbas
+
+## Abstract
+The use of deep generative models (DGMs) such as variational autoencoders, autoregressive models, flow-based models, energy-based models, generative adversarial networks, and diffusion models has been advantageous in various disciplines due to their high data generative skills. Using DGMs has become one of the most trending research topics in Artificial Intelligence in recent years. On the other hand, the research and development endeavors in the civil structural health monitoring (SHM) area have also been very progressive owing to the increasing use of Machine Learning techniques. As such, some of the DGMs have also been used in the civil SHM field lately. This short review communication paper aims to assist researchers in the civil SHM field in understanding the fundamentals of DGMs and, consequently, to help initiate their use for current and possible future engineering applications. On this basis, this study briefly introduces the concept and mechanism of different DGMs in a comparative fashion. While preparing this short review communication, it was observed that some DGMs had not been utilized or exploited fully in the SHM area. Accordingly, some representative studies presented in the civil SHM field that use DGMs are briefly overviewed. The study also presents a short comparative discussion on DGMs, their link to the SHM, and research directions.
+
+**Source:** https://www.semanticscholar.org/paper/5d394ab59429dc8246da0d9d2490ece790ec83b4
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T16:10:19.204Z
