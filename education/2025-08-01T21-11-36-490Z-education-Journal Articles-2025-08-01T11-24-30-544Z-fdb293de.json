@@ -1,0 +1,13 @@
+# Optimization of Piano Performance Teaching Mode Using Network Big Data Analysis Technology
+
+**Authors:** Xiang Wei, Shuping Sun
+
+## Abstract
+To effectively avoid subjective bias in manual evaluation. This article proposes a MIDI piano teaching performance evaluation method based on bidirectional LSTM. This method utilizes a three-layer bidirectional LSTM neural network mechanism to make it easier for the model to capture useful information. In addition, the Spark clustering training model is constructed using the deeplearning4j deep learning framework, and the model parameters are adjusted through the UI dependency relationships provided by deeplearning4j to improve work efficiency. The experimental results verified the superiority of the bidirectional LSTM model. The methods provided in this article can improve students' independent practical abilities and reduce the pressure on teachers during the teaching process. These measures can promote the development of music education, improve students' music literacy and learning skills, and make positive contributions to the music education industry.
+
+**Source:** https://eric.ed.gov/?id=EJ1426682
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:24:30.545Z

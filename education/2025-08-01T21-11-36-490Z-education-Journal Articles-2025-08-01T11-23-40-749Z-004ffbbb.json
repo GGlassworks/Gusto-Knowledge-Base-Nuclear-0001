@@ -1,0 +1,13 @@
+# Interpreting Deep Learning Models for Knowledge Tracing
+
+**Authors:** Lu, Yu, Wang, Deliang, Chen, Penghe, Meng, Qinggang, Yu, Shengquan
+
+## Abstract
+As a prominent aspect of modeling learners in the education domain, knowledge tracing attempts to model learner's cognitive process, and it has been studied for nearly 30 years. Driven by the rapid advancements in deep learning techniques, deep neural networks have been recently adopted for knowledge tracing and have exhibited unique advantages and capabilities. Due to the complex multilayer structure of deep neural networks and their &quot;black box&quot; operations, these deep learning based knowledge tracing (DLKT) models also suffer from non-transparent decision processes. The lack of interpretability has painfully impeded DLKT models' practical applications, as they require the user to trust in the model's output. To tackle such a critical issue for today's DLKT models, we present an interpreting method by leveraging explainable artificial intelligence (xAI) techniques. Specifically, the interpreting method focuses on understanding the DLKT model's predictions from the perspective of its sequential inputs. We conduct comprehensive evaluations to validate the feasibility and effectiveness of the proposed interpreting method at the skill-answer pair level. Moreover, the interpreting results also capture the skill-level semantic information, including the skill-specific difference, distance and inner relationships. This work is a solid step towards fully explainable and practical knowledge tracing models for intelligent education.
+
+**Source:** https://eric.ed.gov/?id=EJ1388569
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:23:40.750Z

@@ -1,0 +1,13 @@
+# Design and Implementation of an Information Literacy Enhancement System for College Students Based on Deep Learning Algorithms
+
+**Authors:** Dawei Zhang
+
+## Abstract
+This article aims to study and implement a deep learning algorithm-based information literacy assistance system for college students to solve the problems of insufficient personalization and untimely feedback in the existing information literacy education methods, so as to improve the information literacy level of college students. This article integrates LSTM networks and attention mechanisms, applies deep learning (DL) algorithms, studies the system requirements, analyzes the system process and architecture, and four modules of user management, learning resources, information literacy testing and recommendation system are studied. Finally, through comparative experiments, it was found that the system studied in this article has excellent performance in improving college students' information literacy, and has high application value and promotion potential.
+
+**Source:** https://eric.ed.gov/?id=EJ1462251
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:19.601Z

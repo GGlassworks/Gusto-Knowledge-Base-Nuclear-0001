@@ -1,0 +1,13 @@
+# Utilizing a Pretrained Language Model (BERT) to Classify Preservice Physics Teachers&apos; Written Reflections
+
+**Authors:** Wulff, Peter, Mientus, Lukas, Nowak, Anna, Borowski, Andreas
+
+## Abstract
+Computer-based analysis of preservice teachers' written reflections could enable educational scholars to design personalized and scalable intervention measures to support reflective writing. Algorithms and technologies in the domain of research related to artificial intelligence have been found to be useful in many tasks related to reflective writing analytics such as classification of text segments. However, mostly shallow learning algorithms have been employed so far. This study explores to what extent deep learning approaches can improve classification performance for segments of written reflections. To do so, a pretrained language model (BERT) was utilized to classify segments of preservice physics teachers' written reflections according to elements in a reflection-supporting model. Since BERT has been found to advance performance in many tasks, it was hypothesized to enhance classification performance for written reflections as well. We also compared the performance of BERT with other deep learning architectures and examined conditions for best performance. We found that BERT outperformed the other deep learning architectures and previously reported performances with shallow learning algorithms for classification of segments of reflective writing. BERT starts to outperform the other models when trained on about 20 to 30% of the training data. Furthermore, attribution analyses for inputs yielded insights into important features for BERT's classification decisions. Our study indicates that pretrained language models such as BERT can boost performance for language-related tasks in educational contexts such as classification.
+
+**Source:** https://eric.ed.gov/?id=EJ1388573
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:20.231Z

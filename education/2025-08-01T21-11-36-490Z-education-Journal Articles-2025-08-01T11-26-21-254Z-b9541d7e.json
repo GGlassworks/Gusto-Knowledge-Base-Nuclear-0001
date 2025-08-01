@@ -1,0 +1,13 @@
+# Detecting and Mitigating Encoded Bias in Deep Learning-Based Stealth Assessment Models for Reflection-Enriched Game-Based Learning Environments
+
+**Authors:** Anisha Gupta, Dan Carpenter, Wookhee Min, Jonathan Rowe, Roger Azevedo, James Lester
+
+## Abstract
+Reflection plays a critical role in learning. Game-based learning environments have significant potential to elicit and support student reflection by prompting learners to think critically about their own learning processes and performance. Stealth assessment models, used for unobtrusively assessing student competencies from evidence of game interaction data and facilitating learning through adaptive feedback, can be enhanced by incorporating evidence from students' written reflections. We present a deep learning-based stealth assessment framework that predicts depth of student reflections and science content post-test scores during game-based learning. With the increasing adoption of AI techniques in decision-making processes, it is important to evaluate the fairness of these models. To address this concern, we investigate encoded bias in our stealth assessment model with respect to student gender and prior game-playing experience in deep learning-based stealth assessment models and examine the impact of debiasing on the models' predictive performance. We evaluate the predictive performance of the deep learning-based stealth assessment models and measure encoded bias with the Absolute Between-ROC Area (ABROCA) statistic using gameplay data from 119 students collected in a series of classroom studies with a reflection-enriched game-based learning environment for middle school microbiology, Crystal Island. The results demonstrate the effectiveness of deep learning-based stealth assessment models and multiple debiasing techniques for deriving algorithmically fair stealth assessment models.
+
+**Source:** https://eric.ed.gov/?id=EJ1446562
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:26:21.256Z

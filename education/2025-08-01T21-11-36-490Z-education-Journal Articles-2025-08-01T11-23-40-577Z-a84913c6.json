@@ -1,0 +1,13 @@
+# Applications of Deep Language Models for Reflective Writings
+
+**Authors:** Nehyba, Jan, Štefánik, Michal
+
+## Abstract
+Social sciences expose many cognitively complex, highly qualified, or fuzzy problems, whose resolution relies primarily on expert judgement rather than automated systems. One of such instances that we study in this work is a reflection analysis in the writings of student teachers. We share a hands-on experience on how these challenges can be successfully tackled in data collection for machine learning. Based on the novel deep learning architectures pre-trained for a general language understanding, we can reach an accuracy ranging from 76.56-79.37% on low-confidence samples to 97.56-100% on high confidence cases. We open-source all our resources and models, and use the models to analyse previously ungrounded hypotheses on reflection of university students. Our work provides a toolset for objective measurements of reflection in higher education writings, applicable in more than 100 other languages worldwide with a loss in accuracy measured between 0-4.2% Thanks to the outstanding accuracy of the deep models, the presented toolset allows for previously unavailable applications, such as providing semi-automated student feedback or measuring an effect of systematic changes in the educational process via the students' response.
+
+**Source:** https://eric.ed.gov/?id=EJ1369319
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:23:40.578Z

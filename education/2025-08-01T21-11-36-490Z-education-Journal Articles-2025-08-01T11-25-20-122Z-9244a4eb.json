@@ -1,0 +1,13 @@
+# More Efficient Processes for Creating Automated Essay Scoring Frameworks: A Demonstration of Two Algorithms
+
+**Authors:** Shin, Jinnie, Gierl, Mark J.
+
+## Abstract
+Automated essay scoring (AES) has emerged as a secondary or as a sole marker for many high-stakes educational assessments, in native and non-native testing, owing to remarkable advances in feature engineering using natural language processing, machine learning, and deep-neural algorithms. The purpose of this study is to compare the effectiveness and the performance of two AES frameworks, each based on machine learning with deep language features, or complex language features, and deep neural algorithms. More specifically, support vector machines (SVMs) in conjunction with Coh-Metrix features were used for a traditional AES model development, and the convolutional neural networks (CNNs) approach was used for more contemporary deep-neural model development. Then, the strengths and weaknesses of the traditional and contemporary models under different circumstances (e.g., types of the rubric, length of the essay, and the essay type) were tested. The results were evaluated using the quadratic weighted kappa (QWK) score and compared with the agreement between the human raters. The results indicated that the CNNs model performs better, meaning that it produced more comparable results to the human raters than the Coh-Metrix + SVMs model. Moreover, the CNNs model also achieved state-of-the-art performance in most of the essay sets with a high average QWK score.
+
+**Source:** https://eric.ed.gov/?id=EJ1293867
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:20.122Z

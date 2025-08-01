@@ -1,0 +1,13 @@
+# Student Grade Prediction for Effective Learning Approaches Using the Optimized Ensemble Deep Neural Network
+
+**Authors:** Mahmoud Abdasalam, Ahmad Alzubi, Kolawole Iyiola
+
+## Abstract
+This study introduces an optimized ensemble deep neural network (Optimized Ensemble Deep-NN) to enhance the accuracy of predicting student grades. This model solves the problem of different and complicated student performance data by using deep neural networks, ensemble learning, and a number of optimization algorithms, such as Adam, SGD, and RMS Prop. The methodology employs a robust architecture that integrates these technologies to effectively discern intricate patterns, thus improving predictive precision. The Optimized Ensemble Deep-NN demonstrated a significant improvement in performance metrics, such as mean absolute error (MAE), mean squared error (MSE), and root mean squared error (RMSE), across diverse datasets, including student-mat.csv and student-por.csv. Notably, the model achieved lower error values substantially beyond the capabilities of traditional prediction methods. The implications of this research are profound, suggesting that the model's ability to process and analyze complex educational data can substantially aid educational institutions in implementing more effective, data-driven decision-making processes. This can lead to more tailored educational strategies that consider individual student needs, thereby enhancing learning outcomes and academic success.
+
+**Source:** https://eric.ed.gov/?id=EJ1472936
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:24:30.118Z

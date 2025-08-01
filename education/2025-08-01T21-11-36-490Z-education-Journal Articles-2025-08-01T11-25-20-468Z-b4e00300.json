@@ -1,0 +1,13 @@
+# A Deep Learning Framework with Visualisation for Uncovering Students&apos; Learning Progression and Learning Bottlenecks
+
+**Authors:** Chun Yan Enoch Sit, Siu-Cheung Kong
+
+## Abstract
+Educational process mining aims (EPM) to help teachers understand the overall learning process of their students. Although deep learning models have shown promising results in many domains, the event log dataset in many online courses may not be large enough for deep learning models to approximate the probability distribution of students' learning sequence due to a lack of participants. This study proposes a deep learning framework to help uncover the learning progression of learners. It aims to produce a graphical representation of the overall educational process from event logs. Our framework adopts the Smith-Waterman algorithm from the bioinformatics field to evaluate general learning sequences generated from deep learning models. Using our framework, we compare the performance of a deep learning model with the modified cross-attention layer and a model without modification and find that the modified model outperforms the other. The contribution of this framework is that it enables the use of neural architecture search techniques to uncover students' general learning sequence irrespective of the dataset's size. The framework also helps educators identify education materials that present as learning bottlenecks, enabling them to improve the materials and their respective layout order, thus facilitating student learning.
+
+**Source:** https://eric.ed.gov/?id=EJ1412048
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:20.468Z

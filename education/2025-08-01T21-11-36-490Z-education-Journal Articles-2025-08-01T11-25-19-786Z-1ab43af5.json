@@ -1,0 +1,13 @@
+# A Hybrid Approach for Early-Identification of At-Risk Dropout Students Using LSTM-DNN Networks
+
+**Authors:** Houssam El Aouifi, Mohamed El Hajji, Youssef Es-Saady
+
+## Abstract
+Dropout refers to the phenomenon of students leaving school before completing their degree or program of study. Dropout is a major concern for educational institutions, as it affects not only the students themselves but also the institutions' reputation and funding. Dropout can occur for a variety of reasons, including academic, financial, personal, and social factors. Therefore, understanding the factors that contribute to dropout and developing effective strategies to prevent it is a critical challenge for educational institutions. In this study, we propose a hybrid deep learning model based on Long Short-Term Memory and Deep Neural Network algorithms for school dropout prediction. The proposed model was compared with previous works and several other machine learning algorithms, including Deep Neural Network (DNN), K-Nearest Neighbors (KNN), Naive Bayes (NB), Multi-Layer Perceptron (MLP), Decision Trees (DT), Support Vector Machine (SVM), and Random Forest (RF). The results showed that the proposed DNN-LSTM model outperforms the other models in terms of accuracy and efficiency.
+
+**Source:** https://eric.ed.gov/?id=EJ1445842
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:19.786Z

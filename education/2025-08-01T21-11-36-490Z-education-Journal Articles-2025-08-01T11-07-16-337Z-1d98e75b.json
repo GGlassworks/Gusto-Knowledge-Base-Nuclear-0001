@@ -1,0 +1,13 @@
+# Holochain: A Novel Technology without Scalability Bottlenecks of Blockchain for Secure Data Exchange in Health Professions Education
+
+**Authors:** Yavuz Selim Kiyak, Alex Poor, Isil Irem Budakoglu, Özlem Coskun
+
+## Abstract
+The efficacy of health professions education (HPE) is more and more reliant on leveraging new technologies as they emerge. The nascent &quot;Web 3.0&quot; is shifting us away from traditional centralized architectures for capture and storage of information, and aims to decentralize and distribute it. Blockchain has received a large amount of attention as a promising &quot;Web 3.0&quot; technology and has been applied in the HPE setting. In this paper we argue that blockchain has two core issues which have prevented its widespread adoption: scalability and environmental impact. The architecture of blockchain means that all participating nodes must store and validate all of the data. This creates a large amount of overhead, which does not scale well. Similarly, there is growing awareness that the energy requirements of validating blockchain transactions run counter to global efforts to mitigate climate change. Holochain, however, is a novel Web 3.0 technology that aims to overcome both of these issues. Its architecture is fundamentally different to blockchain, by virtue of being &quot;agent-centric&quot; rather than &quot;data-centric&quot;. That is, each piece of data does not need to be globally validated--and yet Holochain can still guarantee data validity and integrity. We identify that specific challenges in the HPE setting--tracking educational activities, accountable mechanisms for observing entrustable professional activities, and validation of third-party certification and credentialing--can all be achieved elegantly in Holochain, without experiencing any of the disadvantages evidenced in blockchain.
+
+**Source:** https://eric.ed.gov/?id=EJ1419592
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:07:16.337Z

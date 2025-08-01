@@ -1,0 +1,13 @@
+# A Feasible Study of a Deep Learning Model Supporting Human-Machine Collaborative Learning of Object-Oriented Programming
+
+**Authors:** Feng Hsu Wang
+
+## Abstract
+Due to the development of deep learning technology, its application in education has received increasing attention from researchers. Intelligent agents based on deep learning technology can perform higher order intellectual tasks than ever. However, the high deployment cost of deep learning models has hindered their widespread application in education. In addition, there needs to be more research on applying deep learning technology in education. In this article, we develop an intelligent agent using a performer-based encoder-decoder neural model to classify object-oriented programming (OOP) errors in student code and generate hint feedback in natural language to help students correct the code. This study investigates the feasibility of deploying this agent in an educational setting to support the learning of OOP. This study first examines the low-speed inference problem of the deep learning model. A fast inference algorithm is proposed for the model, which achieves a speedup of eighty times. This study further explores integrating a human-machine collaborative learning process with the deep learning agent. Students were surveyed about their perceptions of the agent in supporting learning. Student responses are interpreted within the learning partnerships model (LPM) framework to show how the agent's technical automation and autonomy features support student-agent learning partnerships. Finally, implications and suggestions for educational application and research of deep learning technology are presented.
+
+**Source:** https://eric.ed.gov/?id=EJ1405536
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:21:59.775Z

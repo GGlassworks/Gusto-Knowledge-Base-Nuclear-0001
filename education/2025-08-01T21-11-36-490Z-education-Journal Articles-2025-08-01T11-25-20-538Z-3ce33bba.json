@@ -1,0 +1,13 @@
+# A New Sentiment Analysis Model to Classify Students&apos; Reviews on MOOCs
+
+**Authors:** Adil Baqach, Amal Battou
+
+## Abstract
+Nowadays, e-learning is a significant learning option, especially in light of the COVID-19 pandemic. However, it is a very challenging task because, in online courses, tutors have no direct interaction with students, which causes most of them to lose interest and ultimately drop out of their studies. In regular classes, teachers can see how each student feels about the subject being covered, so they can adjust the pace or pedagogical approach of the lesson to pique students' interest; which is something we cannot find in e-learning platforms. To solve this issue, sentiment analysis of students' written feedback on the course materials is essential. It enables tutors to monitor student behavior during the course and intervene when bored or confused. Text-based sentiment analysis is challenging because emotions are typically taken from the overall context rather than being communicated explicitly through words like &quot;bored&quot;. Therefore, researchers have put forth many models. The robustness of machine learning and deep learning algorithms in identifying sentiments from the text was demonstrated. In this study, we propose a potent model for extracting emotions from the text, BERT-LSTM-CNN (BLC), based on deep learning methods. First, we will be using pre-trained Bidirectional Encoder Representations from Transformers (BERT) as a word embedding approach to get features from the text. Then, we will use Long Short-Term Memory (LSTM) to retrieve semantical relations between words and the general context of a sentence, and Convolutional Neural Network (CNN) to catch complex local features. According to the results, our suggested model performs better than existing machine learning and deep learning models in the literature.
+
+**Source:** https://eric.ed.gov/?id=EJ1443933
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:20.539Z

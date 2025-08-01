@@ -1,0 +1,13 @@
+# Regression Analysis of Student Academic Performance Using Deep Learning
+
+**Authors:** Hussain, Sadiq, Gaftandzhieva, Silvia, Maniruzzaman, Md., Doneva, Rositsa, Muhsin, Zahraa Fadhil
+
+## Abstract
+Educational data mining helps the educational institutions to perform effectively and efficiently by exploiting the data related to all its stakeholders. It can help the at-risk students, develop recommendation systems and alert the students at different levels. It is beneficial to the students, educators and authorities as a whole. Deep learning has gained momentum in various domains especially image processing with a large dataset. We devise a regression model for analyzing the academic performance of the students using deep learning. We have applied regression using deep learning and linear regression on the dataset. For such models with smaller datasets, to tackle the issue of overfitting is critical. Hence, the parameters can be tuned to deal with such issues. The deep learning model records a mean absolute score (mae) of 1.61 and loss 4.7 with the value of [kappa] = 3. While the linear regression model yields a loss of 6.7 and mae score of 1.97. The deep learning model outperforms the linear regression model. The model may be successfully extended to other programmes to mine and predict the performance of the learners.
+
+**Source:** https://eric.ed.gov/?id=EJ1280955
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:26:21.598Z

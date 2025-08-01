@@ -1,0 +1,13 @@
+# Predicting Students&apos; Future Success: Harnessing Clickstream Data with Wide &amp; Deep Item Response Theory
+
+**Authors:** Shi Pu, Yu Yan, Brandon Zhang
+
+## Abstract
+We propose a novel model, Wide &amp; Deep Item Response Theory (Wide &amp; Deep IRT), to predict the correctness of students' responses to questions using historical clickstream data. This model combines the strengths of conventional Item Response Theory (IRT) models and Wide &amp; Deep Learning for Recommender Systems. By leveraging clickstream data, Wide &amp; Deep IRT provides precise predictions of answer correctness while enabling the exploration of behavioral patterns among different ability groups. Our experimental results based on a real-world dataset (EDM Cup 2023) demonstrate that Wide &amp; Deep IRT outperforms conventional IRT models and state-of-the-art knowledge tracing models while maintaining the ease of interpretation associated with IRT models. Our model performed very well in the EDM Cup 2023 competition, placing second on the public leaderboard and third on the private leaderboard. Additionally, Wide &amp; Deep IRT identifies distinct behavioral patterns across ability groups. In the EDMCup2023dataset, low-ability students were more likely to directly request an answer to a question before attempting to respond, which can negatively impact their learning outcomes and potentially indicates attempts to game the system. Lastly, the Wide &amp; Deep IRT model consists of significantly fewer parameters compared to traditional IRT models and deep knowledge tracing models, making it easier to deploy in practice. The source code is available via Open Science Framework.
+
+**Source:** https://eric.ed.gov/?id=EJ1445617
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:22:49.483Z

@@ -1,0 +1,13 @@
+# Making AI Accessible for STEM Teachers: Using Explainable AI for Unpacking Classroom Discourse Analysis
+
+**Authors:** Deliang Wang, Gaowei Chen
+
+## Abstract
+Contributions: To address the interpretability issues in artificial intelligence (AI)-powered classroom discourse models, we employ explainable AI methods to unpack classroom discourse analysis from deep learning-based models and evaluate the effects of model explanations on STEM teachers. Background: Deep learning techniques have been used to automatically analyze classroom dialogue to provide feedback for teachers. However, these complex models operate as black boxes, lacking clear explanations of the analysis, which may lead teachers, particularly those lacking AI knowledge, to distrust the models and hinder their teaching practice. Therefore, it is crucial to address the interpretability issue in AI-powered classroom discourse models. Research Questions: How to explain deep learning-based classroom discourse models using explainable AI methods? What is the effect of these explanations on teachers' trust in and technology acceptance of the models? How do teachers perceive the explanations of deep learning-based classroom discourse models? Method: Two explainable AI methods were employed to interpret deep learning-based models that analyzed teacher and student talk moves. A pilot study was conducted, involving seven STEM teachers interested in learning talk moves and receiving classroom discourse analysis. The study assessed changes in teachers' trust and technology acceptance before and after receiving model explanations. Teachers' perceptions of the model explanations were investigated. Findings: The AI-powered classroom discourse models were effectively explained using explainable AI methods. The model explanations enhanced teachers' trust and technology acceptance of the classroom discourse models. The seven STEM teachers expressed satisfaction with the explanations and provided their perception of model explanations.
+
+**Source:** https://eric.ed.gov/?id=EJ1454651
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:26:21.343Z

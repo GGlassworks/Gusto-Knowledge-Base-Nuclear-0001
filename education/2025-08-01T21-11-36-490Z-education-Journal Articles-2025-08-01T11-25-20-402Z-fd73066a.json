@@ -1,0 +1,13 @@
+# Predictive Analytics in Education: A Comparison of Deep Learning Frameworks
+
+**Authors:** Doleck, Tenzin, Lemay, David John, Basnet, Ram B., Bazelais, Paul
+
+## Abstract
+Large swaths of data are readily available in various fields, and education is no exception. In tandem, the impetus to derive meaningful insights from data gains urgency. Recent advances in deep learning, particularly in the area of voice and image recognition and so-called complete knowledge games like chess, go, and StarCraft, have resulted in a flurry of research. Using two educational datasets, we explore the utility and applicability of &quot;deep learning&quot; for educational data mining and learning analytics. We compare the predictive accuracy of popular deep learning frameworks/libraries, including, Keras, Theano, Tensorflow, fast.ai, and Pytorch. Experimental results reveal that performance, as assessed by predictive accuracy, varies depending on the optimizer used. Further, findings from additional experiments by tuning network parameters yield similar results. Moreover, we find that deep learning displays comparable performance to other machine learning algorithms such as support vector machines, k-nearest neighbors, naive Bayes classifier, and logistic regression. We argue that statistical learning techniques should be selected to maximize interpretability and should contribute to our understanding of educational and learning phenomena; hence, in most cases, educational data mining and learning analytics researchers should aim for explanation over prediction.
+
+**Source:** https://eric.ed.gov/?id=EJ1253267
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:20.404Z

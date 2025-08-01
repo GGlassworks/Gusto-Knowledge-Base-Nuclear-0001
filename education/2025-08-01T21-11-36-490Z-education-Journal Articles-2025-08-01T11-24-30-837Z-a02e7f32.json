@@ -1,0 +1,13 @@
+# Using SymPy (Symbolic Python) for Understanding Structural Equation Modeling
+
+**Authors:** Joel S. Steele, Kevin J. Grimm
+
+## Abstract
+Structural Equation Modeling (SEM) continues to grow in popularity with numerous articles, books, courses, and workshops available to help researchers become proficient with SEM quickly. However, few resources are available to help users gain a deep understanding of the analytic steps involved in SEM, with even fewer providing reproducible syntax for those learning the technique. This work builds off of the original work by Ferron and Hess to provide computer syntax, written in python, for the specification, estimation, and numerical optimization steps necessary for SEM. The goal is to provide readers with many of the numerical and analytic details of SEM that may not be regularly taught in workshops and courses. This work extends the original demonstration by Ferron and Hess to incorporate the reticular action model notation for specification as well as the estimation of variable means. All of the code listed is provided in the appendix.
+
+**Source:** https://eric.ed.gov/?id=EJ1448676
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:24:30.837Z

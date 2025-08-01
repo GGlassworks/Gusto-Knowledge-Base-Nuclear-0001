@@ -1,0 +1,13 @@
+# Storing and Querying Bitcoin Blockchain Using SQL Databases
+
+**Authors:** Yue, Kwok-Bun, Chandrasekar, Karthika, Gullapalli, Hema
+
+## Abstract
+Bitcoin is the first major decentralized cryptocurrency with wide acceptance. A core technological innovation of Bitcoin is blockchain, a secure and pseudonymous general ledger that stores every Bitcoin transaction. Blockchain has received enormous attention from both the commercial and academic worlds, and it is generally recognized as the enabling technology of the Internet of Value (IoV), in which securely stored valuable entities are intended to be transferred as easily as information. Current blockchains are designed as special kinds of Online Transaction Processing (OLTP) systems, but not Online Analytical Processing (OLAP) systems. Data analytics by querying the blockchain directly can be ineffective. To incorporate the increasingly important blockchain technology into Information Systems curriculum, one approach is to store blockchain data in a SQL database, thus allowing fast data access and a simpler understanding of the underlying concepts. This paper describes our experiment of using three different methods for storing and querying Bitcoin data from SQL databases. It elaborates an assignment of querying a Bitcoin's SQL database in an undergraduate database course. The paper discusses our experience on using SQL databases for blockchain analysis, elaborates the characteristics of Bitcoin blockchain that make it an interesting database case, examines the relative merits of the three different methods, and provides suggestions on how they may be used in IS courses. Overall, we find that using SQL to query blockchains can be an effective educational technique for introducing it to IS curriculum.
+
+**Source:** https://eric.ed.gov/?id=EJ1219543
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:07:15.869Z

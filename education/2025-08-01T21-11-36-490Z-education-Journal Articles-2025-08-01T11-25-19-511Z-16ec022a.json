@@ -1,0 +1,13 @@
+# Investigating the Use of Deep Learning and Implicit Feedback in K12 Educational Recommender Systems
+
+**Authors:** Sohum M. Bhatt, Wim Van Den Noortgate, Katrien Verbert
+
+## Abstract
+Recommender systems are increasingly being used in university or online education. However, recommender systems still have not found major usage in K12 education. This may be because of the unique challenges that recommender systems face when used by a young and diverse population. However, recommender systems for K12 education could provide many benefits for students and teachers, such as the simplification of personalized learning. Some of the issues with K12 educational recommender systems may be solved by the use of deep learning and implicit feedback. As such, we investigated the use of deep recommendation algorithms and implicit feedback for K12 educational recommender systems. To do this, we compared metrics for highly cited traditional and deep recommendation algorithms trained on explicit and implicit data. We found that recommendation algorithms using deep learning as a group do not differ in performance compared to traditional recommendation algorithms. We also found that the use of implicit feedback led to higher performance than using explicit feedback. The best performing algorithm used both deep learning and implicit feedback. We conclude that deep learning can be a benefit for K12 recommender systems, particularly when the ordered sequence of items is carefully accounted for. We also conclude that researchers and developers must carefully consider which feedback contributes the most information for learning.
+
+**Source:** https://eric.ed.gov/?id=EJ1405375
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:19.520Z

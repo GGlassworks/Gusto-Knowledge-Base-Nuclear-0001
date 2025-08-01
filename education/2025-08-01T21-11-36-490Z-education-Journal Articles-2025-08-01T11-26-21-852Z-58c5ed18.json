@@ -1,0 +1,13 @@
+# DEEPSTEALTH: Game-Based Learning Stealth Assessment with Deep Neural Networks
+
+**Authors:** Min, Wookhee, Frankosky, Megan H., Mott, Bradford W., Rowe, Jonathan P., Smith, Andy, Wiebe, Eric, Boyer, Kristy Elizabeth, Lester, James C.
+
+## Abstract
+A distinctive feature of game-based learning environments is their capacity for enabling stealth assessment. Stealth assessment analyzes a stream of fine-grained student interaction data from a game-based learning environment to dynamically draw inferences about students' competencies through evidence-centered design. In evidence-centered design, evidence models have been traditionally designed using statistical rules authored by domain experts that are encoded using Bayesian networks. This article presents DEEPSTEALTH, a deep learning-based stealth assessment framework, that yields significant reductions in the feature engineering labor that has previously been required to create stealth assessments. DEEPSTEALTH utilizes end-to-end trainable deep neural network-based evidence models. Using this framework, evidence models are devised using a set of predictive features captured from raw, low-level interaction data to infer evidence for competencies. We investigate two deep learning-based evidence models, long short-term memory networks (LSTMs) and n-gram encoded feedforward neural networks (FFNNs). We compare these models' predictive performance for inferring students' knowledge to linear-chain conditional random fields (CRFs) and naïve Bayes models. We perform feature set-level analyses of game trace logs and external pre-learning measures, and we examine the models' early prediction capacity. The framework is evaluated using data collected from 182 middle school students interacting with a game-based learning environment for middle grade computational thinking. Results indicate that LSTM-based stealth assessors outperform competitive baseline approaches with respect to predictive accuracy and early prediction capacity. We find that LSTMs, FFNNs, and CRFs all benefit from combined feature sets derived from both game trace logs and external pre-learning measures.
+
+**Source:** https://eric.ed.gov/?id=EJ1279988
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:26:21.852Z

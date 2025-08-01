@@ -1,0 +1,13 @@
+# Predicting Secondary School Students&apos; Academic Performance in Science Course by Machine Learning
+
+**Authors:** Munise Seçkin Kapucu, I?brahim Özcan, Hülya Özcan, Ahmet Aypay
+
+## Abstract
+Our research aims to predict students' academic performance by considering the variables affecting academic performance in science courses using the deep learning method from machine learning algorithms and to determine the importance of independent variables affecting students' academic performance in science courses. 445 students from 5th, 6th, 7th, and 8th grades attending a school in Central Anatolian City in Turkey, participated in this study in the 2022-2023 school year. Data was collected with a. A deep learning method called deep neural network, one of the ways of machine learning, was used in data analysis. The average number of books read per year had the highest importance among the variables affecting academic performance in science courses. In addition, deep learning predicted students' final science scores with 90% accuracy. According to the results of this study, the percentage of the academic achievement prediction might be raised by reproducing the required data set for the data analysis method with deep learning. A forecast of the student's academic achievement with artificial intelligence and detecting the importance of variables' percentage might be researched for other courses in addition to the Science course.
+
+**Source:** https://eric.ed.gov/?id=EJ1415061
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:25:20.685Z

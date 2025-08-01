@@ -1,0 +1,13 @@
+# Dropout Prediction in MOOCs Using Deep Learning and Machine Learning
+
+**Authors:** Basnet, Ram B., Johnson, Clayton, Doleck, Tenzin
+
+## Abstract
+The nature of teaching and learning has evolved over the years, especially as technology has evolved. Innovative application of educational analytics has gained momentum. Indeed, predictive analytics have become increasingly salient in education. Considering the prevalence of learner-system interaction data and the potential value of such data, it is not surprising that significant scholarly attention has been directed at understanding ways of drawing insights from educational data. Although prior literature on educational big data recognizes the utility of deep learning and machine learning methods, little research examines both deep learning and machine learning together, and the differences in predictive performance have been relatively understudied. This paper aims to present a comprehensive comparison of predictive performance using deep learning and machine learning. Specifically, we use educational big data in the context of predicting dropout in MOOCs. We find that machine learning classifiers can predict equally well as deep learning classifiers. This research advances our understanding of the use of deep learning and machine learning in optimizing dropout prediction performance models.
+
+**Source:** https://eric.ed.gov/?id=EJ1352863
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:22:00.343Z

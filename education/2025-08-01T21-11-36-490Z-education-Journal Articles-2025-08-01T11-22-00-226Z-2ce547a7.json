@@ -1,0 +1,13 @@
+# A Primer on Deep Learning for Causal Inference
+
+**Authors:** Bernard J. Koch, Tim Sainburg, Pablo Geraldo Bastías, Song Jiang, Yizhou Sun, Jacob G. Foster
+
+## Abstract
+This primer systematizes the emerging literature on causal inference using deep neural networks under the potential outcomes framework. It provides an intuitive introduction to building and optimizing custom deep learning models and shows how to adapt them to estimate/predict heterogeneous treatment effects. It also discusses ongoing work to extend causal inference to settings where confounding is nonlinear, time-varying, or encoded in text, networks, and images. To maximize accessibility, we also introduce prerequisite concepts from causal inference and deep learning. The primer differs from other treatments of deep learning and causal inference in its sharp focus on observational causal estimation, its extended exposition of key algorithms, and its detailed tutorials for implementing, training, and selecting among deep estimators in TensorFlow 2 and PyTorch.
+
+**Source:** https://eric.ed.gov/?id=EJ1473610
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:22:00.226Z
