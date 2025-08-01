@@ -1,0 +1,13 @@
+# Optimizing T-Learning Course Scheduling Based on Genetic Algorithm in Benefit-Oriented Data Broadcast Environments
+
+**Authors:** Huang, Yong-Ming, Chen, Chao-Chun, Wang, Ding-Chau
+
+## Abstract
+Ubiquitous learning receives much attention in these few years due to its wide spectrum of applications, such as the T-learning application. The learner can use mobile devices to watch the digital TV based course content, and thus, the T-learning provides the ubiquitous learning environment. However, in real-world data broadcast environments, the mobile learners are unable to continuously watch a digital course for a long time, because the power of devices and the user patient constrain available learning time. In this paper, we design an optimal watching mode for data broadcast T-learning environment, such that the learner can retrieve as many distinct courses as possible within given time. We then optimize the watching mode by using the genetic algorithm in order to reduce the computation cost of the optimization. Our experimental results show that genetic optimization process indeed reduces the computation cost, and still lead to a near optimal watching mode. (Contains 4 tables and 11 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ989217
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:50.149Z

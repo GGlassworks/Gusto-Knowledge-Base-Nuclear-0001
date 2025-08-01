@@ -1,0 +1,13 @@
+# Leveraging Multicriteria Integer Programming Optimization for Effective Team Formation
+
+**Authors:** Pallavi Singh, Phat K. Huynh, Dang Nguyen, Trung Q. Le, Wilfrido Moreno
+
+## Abstract
+In organizational and academic settings, the strategic formation of teams is paramount, necessitating an approach that transcends conventional methodologies. This study introduces a novel application of multicriteria integer programming (MCIP), which simultaneously accommodates multiple criteria, thereby innovatively addressing the complex task of team formation. Unlike traditional single-objective optimization methods, our research designs a comprehensive framework capable of modeling a wide array of factors, including skill levels, backgrounds, and personality traits. The objective function of this framework is optimized to maximize within-team diversity while minimizing both conflict levels and variance in diversity between teams. Central to our approach is a two-stage optimization process. Initially, it segments the population into subgroups using a weighted heterogeneous multivariate K-means algorithm, allowing for a targeted and nuanced team assembly. This is followed by the application of a surrogate optimization technique within these subgroups, efficiently navigating the complexities of MCIP for large-scale applications. Our approach is further enhanced by the inclusion of explicit constraints such as potential interpersonal conflicts, a factor often overlooked in previous studies. The results from our study demonstrate the optimality and robustness of our model across simulation scenarios with different data heterogeneity levels. The contributions of this study are manifold, addressing critical gaps in the existing literature with a theory-backed, empirically validated framework for advanced team formation. Beyond theoretical implications, our work provides a practical guide for implementing conflict-aware, sophisticated team formation strategies in real-world scenarios. This advancement paves the way for future research to explore and enhance this model, providing more sophisticated and efficient team formation strategies.
+
+**Source:** https://eric.ed.gov/?id=EJ1459641
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:55.435Z

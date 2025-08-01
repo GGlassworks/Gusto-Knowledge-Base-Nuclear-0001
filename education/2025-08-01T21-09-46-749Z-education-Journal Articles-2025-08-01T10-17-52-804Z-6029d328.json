@@ -1,0 +1,13 @@
+# The Optimization by Using the Learning Styles in the Adaptive Hypermedia Applications
+
+**Authors:** Hamza, Lamia, Tlili, Guiassa Yamina
+
+## Abstract
+This article addresses the learning style as a criterion for optimization of adaptive content in hypermedia applications. First, the authors present the different optimization approaches proposed in the area of adaptive hypermedia systems whose goal is to define the optimization problem in this type of system. Then, they present the architecture of their proposed system. The first step involves choosing a learning style model. The selection of this style is done by using a dedicated questionnaire answered by a learner. Then a modeling of the learner is completed based on his learning style. Finally, content that is to be presented to the learner is managed by a content generator module, depending on the model of the learner. Built on methods and techniques proposed for modeling and adaptation, the adaptive hypermedia system based on learning styles provides optimized adaptations. The authors' approach has been experimentally validated and the results are encouraging.
+
+**Source:** https://eric.ed.gov/?id=EJ1170721
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:52.804Z

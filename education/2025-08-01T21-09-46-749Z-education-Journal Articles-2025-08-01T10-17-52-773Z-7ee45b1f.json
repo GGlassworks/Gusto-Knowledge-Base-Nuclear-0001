@@ -1,0 +1,13 @@
+# Integration of Fuzzy Logic with Metaheuristics for Education Center Site Selection
+
+**Authors:** Agrawal, Aastha, Agarwal, Anjali, Bansal, Priti
+
+## Abstract
+Education is one of the most vital sectors of any nation's development. Site selection for Education Centers (EC) like schools, colleges, and coaching centers can be a very complex process. Various parameters like population, literacy rate, property cost, etc. have to be considered while selecting a site. Though deterministic approaches employed for site selection have been proven to give the best possible solution, they fail to work on large datasets. Recently metaheuristics have become very popular for solving optimization problems. This paper presents two integrated approaches, Fuzzy Genetic Algorithm for EC site selection (FGA-ECSS) and Fuzzy Binary Particle Swarm Optimization for EC site selection (FBPSO-ECSS) for choosing sites optimally. To evaluate the effectiveness of the two approaches, FGA-ECSS and FBPSO-ECSS have been compared with each other as well as with Genetic Algorithm and Binary Particle Swarm Optimization. The results obtained from the proposed solutions are promising and indicate that they can be used for solving such optimization problems.
+
+**Source:** https://eric.ed.gov/?id=EJ1280713
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:52.774Z

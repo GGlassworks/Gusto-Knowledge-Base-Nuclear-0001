@@ -1,0 +1,13 @@
+# Automated Simultaneous Assembly for Multistage Testing
+
+**Authors:** Breithaupt, Krista, Ariel, Adelaide, Veldkamp, Bernard P.
+
+## Abstract
+This article offers some solutions used in the assembly of the computerized Uniform Certified Public Accountancy (CPA) licensing examination as practical alternatives for operational programs producing large numbers of forms. The Uniform CPA examination was offered as an adaptive multistage test (MST) beginning in April of 2004. Examples of automated assembly using mixed integer programming (MIP) solutions in Optimization Programming Language software (OPL Studio 3.6.1?, ILOG Inc., Gentilly, France) illustrate MST design features and implementation strategies that can be generalized to other testing programs. This article affords a compromise between the best possible combination of test content and sustainability and security over time by linear programming techniques that make use of mixed integer optimization algorithms. Relative optimization functions are formulated to ensure a variety of constraints are always met for &quot;testlets&quot; of differing difficulties to form panels for the MST design. Technical information is discussed to assist other practitioners and researchers with test assembly optimization problems. Some practical consequences from the selection of statistical targets on testlet exposure are illustrated. These results are described with respect to the fundamental principles of automated test assembly and continuous administration based on MST when testlet or item exposure and inventory rotation are critical concerns.
+
+**Source:** https://eric.ed.gov/?id=EJ695485
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:54.160Z

@@ -1,0 +1,13 @@
+# Experiment-Based Approach to Teach Optimization Techniques
+
+**Authors:** Precup, Radu-Emil, Hedrea, Elena-Lorena, Roman, Raul-Cristian, Petriu, Emil M., Szedlak-Stinean, Alexandra-Iulia, Bojan-Dragos, Claudia-Adina
+
+## Abstract
+This article proposes an approach based on experiments to teach optimization technique (OT) courses in the Systems Engineering curricula at undergraduate level. Artificial intelligence techniques in terms of nature-inspired optimization algorithms and neural networks are inserted in the lecture and laboratory parts of the syllabus. The experiments are included in the laboratory part of the syllabus by first involving controlled process analysis and modeling, control structures and algorithms, real-time laboratory experiments, and their assessment. These experiments are focused on the representative case of the pendulum-cart system control, and the genetic algorithm-based optimal tuning of proportional--integral--derivative and state-feedback controllers is carried out. The laboratory part of the syllabus deals next with the development of neural network-based models for the prediction of financial time series. An analysis of the grades obtained by representative groups of students that attended the OT course at the Politehnica University of Timisoara, Romania, and their effects on the process control structures and algorithms course, which continues the OT course in the next semester, is performed. The analysis also discusses the situation prior to using the proposed approach. The results of this analysis demonstrate the efficiency of our approach based on complex systems optimization, modeling, and control targeting real-world practical applications, and a numerical outcome of the approach is given. This allows students to gain a better understanding of the theoretical aspects acquired during the lectures in comparison with the situation prior to using the proposed approach.
+
+**Source:** https://eric.ed.gov/?id=EJ1293198
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:55.360Z

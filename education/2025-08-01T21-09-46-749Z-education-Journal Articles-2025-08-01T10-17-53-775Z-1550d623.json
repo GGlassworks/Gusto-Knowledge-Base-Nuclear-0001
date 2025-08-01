@@ -1,0 +1,13 @@
+# Using Experiential Optimization to Build Lexical Representations
+
+**Authors:** Johns, Brendan T., Jones, Michael N., Mewhort, D. J. K.
+
+## Abstract
+To account for natural variability in cognitive processing, it is standard practice to optimize a model's parameters by fitting it to behavioral data. Although most language-related theories acknowledge a large role for experience in language processing, variability reflecting that knowledge is usually ignored when evaluating a model's fit to representative data. We fit language-based behavioral data using experiential optimization, a method that optimizes the materials that a model is given while retaining the learning and processing mechanisms of standard practice. Rather than using default materials, experiential optimization selects the optimal linguistic sources to create a memory representation that maximizes task performance. We demonstrate performance on multiple benchmark tasks by optimizing the experience on which a model's representation is based.
+
+**Source:** https://eric.ed.gov/?id=ED599930
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:53.776Z

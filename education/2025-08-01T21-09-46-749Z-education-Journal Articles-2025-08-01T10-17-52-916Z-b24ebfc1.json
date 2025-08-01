@@ -1,0 +1,13 @@
+# Digital Twin Campus with a Novel Double-Layer Collaborative Filtering Recommendation Algorithm Framework
+
+**Authors:** Tong, Wangyu, Wang, Youxue, Su, Qinghua, Hu, Zhongbo
+
+## Abstract
+Compared with the application of Digital Twin (DT) in the industrial field, the application of DT in the field of education is still in its infancy. In this paper, a Digital Twin Campus (DTC) for teaching and learning is proposed. It is argued that DTC possesses two characteristics. First, DTC has a wide variety of employment orientations for students or teachers. Second, teaching-learning resources in DTC system is huge but divisible. These characteristics result in the optional difficulty for teaching-learning objects, i.e., curriculum resources, book information resources, and electronic-article resources. To solve this problem, this paper proposes a Double-layer Collaborative Filtering Algorithm Framework (DCFAF) to recommend teaching-learning objects for digital twin teachers or students in DTC. The recommended objects will be further optimized by simulation and prediction in the virtual space of DTC. DCFAF is designed based on the principle that similar teachers (or students) may prefer similar teaching-learning resources, and for the first time, it is given double-layer property by applying the divisible characteristics of teaching-learning resources. The double-layer property can effectively solve the problem of data sparsity in collaborative filtering algorithms. Finally, the superiority of DCFAF is verified on benchmark data sets including MovieLens100k and MovieLens1M which possess the above two characteristics of DTC. DTC constructed in this way can be expected to carry out simulation, prediction, optimization and feedback continuously with the help of DCFAF, so as to realize deep integration of the teaching-learning process between real campus and virtual campus to some extent.
+
+**Source:** https://eric.ed.gov/?id=EJ1352884
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:52.916Z

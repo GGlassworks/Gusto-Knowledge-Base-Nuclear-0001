@@ -1,0 +1,13 @@
+# Optimal Academic Plan Derived from Articulation Agreements: A Preliminary Experiment on Human-Generated and (Hypothetical) Algorithm-Generated Academic Plans
+
+**Authors:** David Van Nguyen, Shayan Doroudi, Daniel A. Epstein
+
+## Abstract
+Our preliminary experiment examined a potential pain point with ASSIST, California's database of articulation agreements. That pain point is cross-referencing multiple articulation agreements to manually develop an &quot;optimal&quot; academic plan. Optimal is defined as the minimal set of community college courses that satisfy all transfer requirements for the multiple universities a student is preparing to apply to. Accordingly, we designed a low-fidelity prototype that lists the minimal set of courses a &quot;hypothetical&quot; optimization algorithm would output based on selected articulation agreements. Twenty-four students were tasked with creating an optimal academic plan using either ASSIST (which requires manual optimization) or the optimization prototype (which already provides the minimal set of classes). Prototype users had less optimality mistakes, were faster, and provided higher usability ratings compared to ASSIST users. Going forward, future research needs to move beyond our &quot;proof of value&quot; of a hypothetical optimization algorithm and toward actually implementing an algorithm.
+
+**Source:** https://eric.ed.gov/?id=EJ1457152
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:53.478Z

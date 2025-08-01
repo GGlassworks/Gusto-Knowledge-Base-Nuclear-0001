@@ -1,0 +1,13 @@
+# Creating Filters with Arbitrary Response Characteristics for Use in Hearing and Speech Research.
+
+**Authors:** Hillenbrand, James, Houde, Robert A.
+
+## Abstract
+This paper describes a computer software method for generating digital filters of any amplitude and phase response, for use in speech and hearing research. The method involves calculating the impulse response of the filter from a table that specifies the desired magnitude and phase response and then convolving the input signal with the impulse response. Sample applications are described. (DB)
+
+**Source:** https://eric.ed.gov/?id=EJ522883
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:10.667Z

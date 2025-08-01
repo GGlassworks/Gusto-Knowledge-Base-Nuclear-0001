@@ -1,0 +1,13 @@
+# Using Ant Colony Optimization to Identify Optimal Sample Allocations in Cluster-Randomized Trials
+
+**Authors:** Zuchao Shen, Walter Leite, Huibin Zhang, Jia Quan, Huan Kuang
+
+## Abstract
+When designing cluster-randomized trials (CRTs), one important consideration is determining the proper sample sizes across levels and treatment conditions to cost-efficiently achieve adequate statistical power. This consideration is usually addressed in an optimal design framework by leveraging the cost structures of sampling and optimizing the sampling ratios across treatment conditions and levels of the hierarchy. Traditionally, optimization is done through the first-order derivative approach by setting the first-order derivatives equal to zero to solve for the optimal design parameters. However, the first-order derivative method is incapable of properly handling the optimization task when statistical power formulas are complex, such as those for CRTs detecting mediation effects under the joint significance test. The current study proposes using an ant colony optimization (ACO) algorithm to identify optimal allocations. We evaluate the algorithm's performance for CRTs detecting main and mediation effects. The results show that the ACO algorithm can identify optimal sample allocations for CRTs investigating main effects with the same design efficiency as those identified through the first-order derivative method. Furthermore, it can efficiently identify optimal sample allocations for CRTs investigating mediation effects under the joint significance test. We have implemented the proposed methods in the R package &quot;odr.&quot;
+
+**Source:** https://eric.ed.gov/?id=EJ1456489
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:54.197Z

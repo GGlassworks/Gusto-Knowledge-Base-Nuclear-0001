@@ -1,0 +1,13 @@
+# Storage Optimization of Educational System Data
+
+**Authors:** Boja, Catalin
+
+## Abstract
+There are described methods used to minimize data files dimension. There are defined indicators for measuring size of files and databases. The storage optimization process is based on selecting from a multitude of data storage models the one that satisfies the propose problem objective, maximization or minimization of the optimum criterion that is mapped on the size of used disk memory. The paper describes different solutions that are implemented to minimize input/output file size for a software application that manages educational system data. (Contains 5 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ810553
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:55.575Z

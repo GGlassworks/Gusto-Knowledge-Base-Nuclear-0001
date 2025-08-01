@@ -1,0 +1,13 @@
+# Integrating Test-Form Formatting into Automated Test Assembly
+
+**Authors:** Diao, Qi, van der Linden, Wim J.
+
+## Abstract
+Automated test assembly uses the methodology of mixed integer programming to select an optimal set of items from an item bank. Automated test-form generation uses the same methodology to optimally order the items and format the test form. From an optimization point of view, production of fully formatted test forms directly from the item pool using a simultaneous optimization model is more attractive than any of the current, more time-consuming two-stage processes. The goal of this study was to provide such simultaneous models both for computer-delivered and paper forms, as well as explore their performances relative to two-stage optimization. Empirical examples are presented to show that it is possible to automatically produce fully formatted optimal test forms directly from item pools up to some 2,000 items on a regular PC in realistic times. (Contains 2 tables and 1 figure.)
+
+**Source:** https://eric.ed.gov/?id=EJ1007362
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:54.468Z

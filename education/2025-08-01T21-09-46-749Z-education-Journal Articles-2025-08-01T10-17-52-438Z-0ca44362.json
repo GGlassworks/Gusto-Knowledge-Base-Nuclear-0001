@@ -1,0 +1,13 @@
+# A Decision Support System for Solving Multiple Criteria Optimization Problems
+
+**Authors:** Filatovas, Ernestas, Kurasova, Olga
+
+## Abstract
+In this paper, multiple criteria optimization has been investigated. A new decision support system (DSS) has been developed for interactive solving of multiple criteria optimization problems (MOPs). The weighted-sum (WS) approach is implemented to solve the MOPs. The MOPs are solved by selecting different weight coefficient values for the criteria and solving single-criterion optimization problems (SOPs). However, the WS approach does not guarantee either finding evenly distributed solutions of a Pareto front, or finding Pareto optimal solutions in non-convex regions. In order to solve the problems, some methods have been proposed. In this paper, an adaptive weighted-sum (AWS) approach has been used. We suggest presenting the solutions, obtained not only by the weighted-sum method, but also by the adaptive weighted-sum approach, to a decision maker (DM). Thus the decision making will be facilitated.
+
+**Source:** https://eric.ed.gov/?id=EJ1064346
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:52.438Z
