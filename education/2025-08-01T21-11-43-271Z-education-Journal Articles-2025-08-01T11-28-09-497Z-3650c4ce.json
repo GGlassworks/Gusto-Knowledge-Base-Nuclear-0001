@@ -1,0 +1,13 @@
+# Automatic Short-Answer Grading via BERT-Based Deep Neural Networks
+
+**Authors:** Zhu, Xinhua, Wu, Han, Zhang, Lanfang
+
+## Abstract
+Automatic short-answer grading (ASAG) is a key component of intelligent tutoring systems. Deep learning is an advanced method to deal with recognizing textual entailment tasks in an end-to-end manner. However, deep learning methods for ASAG still remain challenging mainly because of the following two major reasons: (1) high-precision scoring requires a deep understanding of the answer text; and (2) ASAG's corpus is usually small and cannot provide enough training data for deep learning. To address these challenges, in this article, we propose a novel bidirectional encoder representation from transformer (BERT)-based deep neural network framework for ASAG. First, we use a pretrained and fine-tuned BERT model to dynamically encode the answer text, which can effectively overcome the problem of a too small corpus in the ASAG task. Second, to generate a powerful semantic representation for ASAG, we construct a semantic refinement layer to refine the semantics of the BERT outputs, which consists of a bidirectional-Long Short-Term Memory (LSTM) network and a Capsule network with position information in parallel. Third, we propose a triple-hot loss strategy for regression tasks in ASAG, which changes the gold label representation in the standard cross-entropy loss function from one-hot to triple-hot. Experiments demonstrate that our proposed model is effective and outperforms most of the state-of-the-art systems on both the SemEval-2013 dataset and the Mohler dataset. The code is available online at https://github.com/wuhan-1222/ASAG.
+
+**Source:** https://eric.ed.gov/?id=EJ1344487
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:28:09.498Z

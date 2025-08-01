@@ -1,0 +1,13 @@
+# When Is Deep Learning the Best Approach to Knowledge Tracing?
+
+**Authors:** Gervet, Theophile, Koedinger, Ken, Schneider, Jeff, Mitchell, Tom
+
+## Abstract
+Intelligent tutoring systems (ITSs) teach skills using learning-by-doing principles and provide learners with individualized feedback and materials adapted to their level of understanding. Given a learner's history of past interactions with an ITS, a learner performance model estimates the current state of a learner's knowledge and predicts her future performance. The advent of increasingly large scale datasets has turned deep learning models for learner performance prediction into competitive alternatives to classical Markov process and logistic regression models. In an extensive empirical comparison on nine real-world datasets, we ask which approach makes the most accurate predictions and in what conditions. Logistic regression--with the right set of features--leads on datasets of moderate size or containing or containing a very large number of interactions per student, whereas Deep Knowledge Tracing leads on datasets of large size or where precise temporal information matters most. Markov process methods, like Bayesian Knowledge Tracing, lag behind other approaches. We follow this analysis with ablation studies to determine what components of leading algorithms explain their performance and a discussion of model calibration (reliability), which is crucial for downstream applications of learner performance prediction models.
+
+**Source:** https://eric.ed.gov/?id=EJ1273917
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:35:19.231Z

@@ -1,0 +1,13 @@
+# Machine Learning for Human Learners: Opportunities, Issues, Tensions and Threats
+
+**Authors:** Webb, Mary E., Fluck, Andrew, Magenheim, Johannes, Malyn-Smith, Joyce, Waters, Juliet, Deschênes, Michelle, Zagami, Jason
+
+## Abstract
+Machine learning systems are infiltrating our lives and are beginning to become important in our education systems. This article, developed from a synthesis and analysis of previous research, examines the implications of recent developments in machine learning for human learners and learning. In this article we first compare deep learning in computers and humans to examine their similarities and differences. Deep learning is identified as a sub-set of machine learning, which is itself a component of artificial intelligence. Deep learning often depends on backwards propagation in weighted neural networks, so is non-deterministic--the system adapts and changes through practical experience or training. This adaptive behaviour predicates the need for explainability and accountability in such systems. Accountability is the reverse of explainability. Explainability flows through the system from inputs to output (decision) whereas accountability flows backwards, from a decision to the person taking responsibility for it. Both explainability and accountability should be incorporated in machine learning system design from the outset to meet social, ethical and legislative requirements. For students to be able to understand the nature of the systems that may be supporting their own learning as well as to act as responsible citizens in contemplating the ethical issues that machine learning raises, they need to understand key aspects of machine learning systems and have opportunities to adapt and create such systems. Therefore, some changes are needed to school curricula. The article concludes with recommendations about machine learning for teachers, students, policymakers, developers and researchers.
+
+**Source:** https://eric.ed.gov/?id=EJ1310163
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:28:09.794Z

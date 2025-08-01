@@ -1,0 +1,13 @@
+# Deep Learning Imputation for Asymmetric and Incomplete Likert-Type Items
+
+**Authors:** Zachary K. Collier, Minji Kong, Olushola Soyoye, Kamal Chawla, Ann M. Aviles, Yasser Payne
+
+## Abstract
+Asymmetric Likert-type items in research studies can present several challenges in data analysis, particularly concerning missing data. These items are often characterized by a skewed scaling, where either there is no neutral response option or an unequal number of possible positive and negative responses. The use of conventional techniques, such as discriminant analysis or logistic regression imputation, for handling missing data in asymmetric items may result in significant bias. It is also recommended to exercise caution when employing alternative strategies, such as listwise deletion or mean imputation, because these methods rely on assumptions that are often unrealistic in surveys and rating scales. This article explores the potential of implementing a deep learning-based imputation method. Additionally, we provide access to deep learning-based imputation to a broader group of researchers without requiring advanced machine learning training. We apply the methodology to the Wilmington Street Participatory Action Research Health Project.
+
+**Source:** https://eric.ed.gov/?id=EJ1415930
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:30:44.899Z
