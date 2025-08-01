@@ -1,0 +1,12 @@
+# Power Series Expansion Neural Network
+
+**Authors:** Qipin Chen, Wenrui Hao, Juncai He
+
+## Summary
+In this paper, we develop a new neural network family based on power series expansion, which is proved to achieve a better approximation accuracy in comparison with existing neural networks. This new set of neural networks embeds the power series expansion (PSE) into the neural network structure. Then it can improve the representation ability while preserving comparable computational cost by increasing the degree of PSE instead of increasing the depth or width. Both theoretical approximation and numerical results show the advantages of this new neural network.
+
+
+---
+Category: ai-ml
+Subcategory: math.NA
+Collected: 2025-08-01T11:43:26.111Z

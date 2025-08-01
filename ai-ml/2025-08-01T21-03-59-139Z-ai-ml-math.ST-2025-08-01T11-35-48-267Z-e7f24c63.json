@@ -1,0 +1,12 @@
+# Asymptotic Theory of Expectile Neural Networks
+
+**Authors:** Jinghang Lin, Xiaoxi Shen, Qing Lu
+
+## Summary
+Neural networks are becoming an increasingly important tool in applications. However, neural networks are not widely used in statistical genetics. In this paper, we propose a new neural networks method called expectile neural networks. When the size of parameter is too large, the standard maximum likelihood procedures may not work. We use sieve method to constrain parameter space. And we prove its consistency and normality under nonparametric regression framework.
+
+
+---
+Category: ai-ml
+Subcategory: math.ST
+Collected: 2025-08-01T11:35:48.267Z

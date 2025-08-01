@@ -1,0 +1,12 @@
+# Simulation and assimilation of the digital human brain
+
+**Authors:** Wenlian Lu, Xin Du, Jiexiang Wang, Longbin Zeng, Leijun Ye, Shitong Xiang, Qibao Zheng, Jie Zhang, Ningsheng Xu, Jianfeng Feng
+
+## Summary
+Here, we present the Digital Brain (DB), a platform for simulating spiking neuronal networks at the large neuron scale of the human brain based on personalized magnetic-resonance-imaging data and biological constraints. The DB aims to reproduce both the resting state and certain aspects of the action of the human brain. An architecture with up to 86 billion neurons and 14,012 GPUs, including a two-level routing scheme between GPUs to accelerate spike transmission up to 47.8 trillion neuronal synapses, was implemented as part of the simulations. We show that the DB can reproduce blood-oxygen-level-dependent signals of the resting-state of the human brain with a high correlation coefficient, as well as interact with its perceptual input, as demonstrated in a visual task. These results indicate the feasibility of implementing a digital representation of the human brain, which can open the door to a broad range of potential applications.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T10:14:15.984Z

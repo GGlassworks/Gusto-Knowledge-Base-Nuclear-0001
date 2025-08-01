@@ -1,0 +1,12 @@
+# To charge in-flight or not: an inquiry into parallel-hybrid electric aircraft configurations via optimal control
+
+**Authors:** Mengyuan Wang, Mehran Mesbahi
+
+## Summary
+We examine two configurations for parallel hybrid electric aircraft, one with, and one without, a mechanical connection between the engines and the electric motors. For this two designs, we then review the power allocation problem in the context of aircraft energy management for a 19-seat conceptual Hybrid Electric Aircraft. We then represent the original optimal control problem as a finite-dimensional optimization and validate the second-order sufficient conditions for global optimality of the obtained solution. This is then followed by a sensitivity analysis of the fuel consumption on the initial aircraft weight and flight endurance. Our simulation and theoretical results clarify the limited benefit of charging the battery in-flight for this class of hybrid electric aircraft to reduce $CO_2$ emissions.
+
+
+---
+Category: ai-ml
+Subcategory: math.OC
+Collected: 2025-08-01T15:37:42.666Z

@@ -1,0 +1,12 @@
+# Determination of Canine Long Bone Ultimate Tensile Strain by Digital Image Correlation
+
+**Authors:** Beatrice Böhme, Cédric Laurent, Olivier Milis, Jean-Phillippe Ponthot, Marc Balligand
+
+## Summary
+Creating finite element models for simulation of bone behaviour, fracture occurrence and propagation requires feeding the system with adequate mechanical data. To date, little is known about the mechanical behaviour of long canine bones, and in cases of modelling a bone-breakage scenario the ultimate strain at failure still needs to be determined. Extrapolation from human literature or other species is uninteresting as differences of mechanical properties between species are expected (Vahey et al, 1987) [1]. Our purpose was to measure the ultimate tensile strain of canine long bones by Digital Image Correlation (DIC), an optical technique to measure strain under load and a promising measurement method for our purpose. Tension tests of cortical bone strips and flexion tests of entire bones were performed, and the ultimate tensile strain was measured and compared between different specimen and testing scenarios.
+
+
+---
+Category: ai-ml
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:22:46.500Z

@@ -1,0 +1,12 @@
+# Optimal signal transmission and timescale diversity in a model of human brain operating near criticality
+
+**Authors:** Yang Qi, Jiexiang Wang, Weiyang Ding, Gustavo Deco, Viktor Jirsa, Wenlian Lu, Jianfeng Feng
+
+## Summary
+Cortical neurons exhibit a hierarchy of timescales across brain regions in response to input stimuli, which is thought to be crucial for information processing of different temporal scales. Modeling studies suggest that both intra-regional circuit dynamics as well as cross-regional connectome may contribute to this timescale diversity. Equally important to diverse timescales is the ability to transmit sensory signals reliably across the whole brain. Therefore, the brain must be able to generate diverse timescales while simultaneously minimizing signal attenuation. To understand the dynamical mechanism behind these phenomena, we develop a second-order mean field model of the human brain by applying moment closure and coarse-graining to a digital twin brain model endowed with whole brain structural connectome. Cross-regional coupling strength is found to induced a phase transition from asynchronous activity to synchronous oscillation. By analyzing the input-response properties of the model, we reveal criticality as a unifying mechanism for enabling simultaneously optimal signal transmission and timescales diversity. We show how structural connectome and criticality jointly shape intrinsic timescale hierarchy across the brain.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T10:17:21.253Z

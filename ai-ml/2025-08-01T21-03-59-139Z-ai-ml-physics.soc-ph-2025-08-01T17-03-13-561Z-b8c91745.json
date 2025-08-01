@@ -1,0 +1,12 @@
+# Spontaneous Emergence of Computation in Network Cascades
+
+**Authors:** Galen Wilkerson, Sotiris Moschoyiannis, Henrik Jeldtoft Jensen
+
+## Summary
+Neuronal network computation and computation by avalanche supporting networks are of interest to the fields of physics, computer science (computation theory as well as statistical or machine learning) and neuroscience. Here we show that computation of complex Boolean functions arises spontaneously in threshold networks as a function of connectivity and antagonism (inhibition), computed by logic automata (motifs) in the form of computational cascades. We explain the emergent inverse relationship between the computational complexity of the motifs and their rank-ordering by function probabilities due to motifs, and its relationship to symmetry in function space. We also show that the optimal fraction of inhibition observed here supports results in computational neuroscience, relating to optimal information processing.
+
+
+---
+Category: ai-ml
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T17:03:13.562Z

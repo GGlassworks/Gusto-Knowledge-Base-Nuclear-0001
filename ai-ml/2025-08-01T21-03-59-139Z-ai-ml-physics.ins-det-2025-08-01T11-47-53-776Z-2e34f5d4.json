@@ -1,0 +1,12 @@
+# A Hardware Implementation of Artificial Neural Network Using Field Programmable Gate Arrays
+
+**Authors:** E. Won
+
+## Summary
+An artificial neural network algorithm is implemented using a field programmable gate array hardware. One hidden layer is used in the feed-forward neural network structure in order to discriminate one class of patterns from the other class in real time. With five 8-bit input patterns, six hidden nodes, and one 8-bit output, the implemented hardware neural network makes decision on a set of input patterns in 11 clocks and the result is identical to what to expect from off-line computation. This implementation may be used in level 1 hardware triggers in high energy physics experiments
+
+
+---
+Category: ai-ml
+Subcategory: physics.ins-det
+Collected: 2025-08-01T11:47:53.777Z

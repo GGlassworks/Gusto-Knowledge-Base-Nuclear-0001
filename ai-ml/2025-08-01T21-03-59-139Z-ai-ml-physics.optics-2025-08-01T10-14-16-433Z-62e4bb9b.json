@@ -1,0 +1,12 @@
+# Integration of Programmable Diffraction with Digital Neural Networks
+
+**Authors:** Md Sadman Sakib Rahman, Aydogan Ozcan
+
+## Summary
+Optical imaging and sensing systems based on diffractive elements have seen massive advances over the last several decades. Earlier generations of diffractive optical processors were, in general, designed to deliver information to an independent system that was separately optimized, primarily driven by human vision or perception. With the recent advances in deep learning and digital neural networks, there have been efforts to establish diffractive processors that are jointly optimized with digital neural networks serving as their back-end. These jointly optimized hybrid (optical+digital) processors establish a new "diffractive language" between input electromagnetic waves that carry analog information and neural networks that process the digitized information at the back-end, providing the best of both worlds. Such hybrid designs can process spatially and temporally coherent, partially coherent, or incoherent input waves, providing universal coverage for any spatially varying set of point spread functions that can be optimized for a given task, executed in collaboration with digital neural networks. In this article, we highlight the utility of this exciting collaboration between engineered and programmed diffraction and digital neural networks for a diverse range of applications. We survey some of the major innovations enabled by the push-pull relationship between analog wave processing and digital neural networks, also covering the significant benefits that could be reaped through the synergy between these two complementary paradigms.
+
+
+---
+Category: ai-ml
+Subcategory: physics.optics
+Collected: 2025-08-01T10:14:16.433Z

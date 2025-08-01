@@ -1,0 +1,12 @@
+# Graph neural networks for the prediction of molecular structure-property relationships
+
+**Authors:** Jan G. Rittig, Qinghe Gao, Manuel Dahmen, Alexander Mitsos, Artur M. Schweidtmann
+
+## Summary
+Molecular property prediction is of crucial importance in many disciplines such as drug discovery, molecular biology, or material and process design. The frequently employed quantitative structure-property/activity relationships (QSPRs/QSARs) characterize molecules by descriptors which are then mapped to the properties of interest via a linear or nonlinear model. In contrast, graph neural networks, a novel machine learning method, directly work on the molecular graph, i.e., a graph representation where atoms correspond to nodes and bonds correspond to edges. GNNs allow to learn properties in an end-to-end fashion, thereby avoiding the need for informative descriptors as in QSPRs/QSARs. GNNs have been shown to achieve state-of-the-art prediction performance on various property predictions tasks and represent an active field of research. We describe the fundamentals of GNNs and demonstrate the application of GNNs via two examples for molecular property prediction.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.BM
+Collected: 2025-08-01T16:30:11.970Z

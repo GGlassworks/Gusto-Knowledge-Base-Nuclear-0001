@@ -1,0 +1,12 @@
+# Emergenet: A Digital Twin of Sequence Evolution for Scalable Emergence Risk Assessment of Animal Influenza A Strains
+
+**Authors:** Kevin Yuanbo Wu, Jin Li, Aaron Esser-Kahn, Ishanu Chattopadhyay
+
+## Summary
+Despite having triggered devastating pandemics in the past, our ability to quantitatively assess the emergence potential of individual strains of animal influenza viruses remains limited. This study introduces Emergenet, a tool to infer a digital twin of sequence evolution to chart how new variants might emerge in the wild. Our predictions based on Emergenets built only using 220,151 Hemagglutinnin (HA) sequences consistently outperform WHO seasonal vaccine recommendations for H1N1/H3N2 subtypes over two decades (average match-improvement: 3.73 AAs, 28.40\%), and are at par with state-of-the-art approaches that use more detailed phenotypic annotations. Finally, our generative models are used to scalably calculate the current odds of emergence of animal strains not yet in human circulation, which strongly correlates with CDC's expert-assessed Influenza Risk Assessment Tool (IRAT) scores (Pearson's $r = 0.721, p = 10^{-4}$). A minimum five orders of magnitude speedup over CDC's assessment (seconds vs months) then enabled us to analyze 6,354 animal strains collected post-2020 to identify 35 strains with high emergence scores ($&gt; 7.7$). The Emergenet framework opens the door to preemptive pandemic mitigation through targeted inoculation of animal hosts before the first human infection.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.PE
+Collected: 2025-08-01T10:21:02.233Z

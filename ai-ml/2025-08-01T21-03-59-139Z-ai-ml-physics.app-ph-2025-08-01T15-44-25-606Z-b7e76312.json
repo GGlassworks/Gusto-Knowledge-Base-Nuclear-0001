@@ -1,0 +1,12 @@
+# Modeling and Simulation of Solar Photovoltaic Cell for the Generation of Electricity in UAE
+
+**Authors:** Shadman Sakib, Md. Abu Bakr Siddique
+
+## Summary
+This paper proposes the implementation of a circuit based simulation for a Solar Photovoltaic (PV) cell in order to get the maximum power output. The model is established based on the mathematical model of the PV module. As the PV cell is used to determine the physical and electrical behavior of the cell corresponding to environmental factors such as temperature and solar irradiance, this paper evaluates thirty years solar irradiation data in United Arab Emirates (UAE), also analyzes the performance parameters of PV cell for several locations. Based on the Shockley diode equation, a solar PV module is presented. However, to analyze the performance parameters, Solarex MSX 120, a typical 120W module is selected. The mathematical model for the chosen module is executed in Matlab. The consequence of this paper reflects the effects of variation of solar irradiation on PV cell within UAE. Conclusively, this paper determines the convenient places for implementing the large scale solar PV modules within UAE.
+
+
+---
+Category: ai-ml
+Subcategory: physics.app-ph
+Collected: 2025-08-01T15:44:25.607Z

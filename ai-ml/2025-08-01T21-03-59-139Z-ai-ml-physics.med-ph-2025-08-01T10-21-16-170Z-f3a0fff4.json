@@ -1,0 +1,12 @@
+# BigBrain-MR: a new digital phantom with anatomically-realistic magnetic resonance properties at 100-μm resolution for magnetic resonance methods development
+
+**Authors:** Cristina Sainz Martinez, Meritxell Bach Cuadra, João Jorge
+
+## Summary
+The benefits, opportunities and growing availability of ultra-high field magnetic resonance imaging (MRI) for humans have prompted an expansion in research and development efforts towards increasingly more advanced high-resolution imaging techniques. To maximize their effectiveness, these efforts need to be supported by powerful computational simulation platforms that can adequately reproduce the biophysical characteristics of MRI, with high spatial resolution. In this work, we have sought to address this need by developing a novel digital phantom with realistic anatomical detail up to 100-um resolution, including multiple MRI properties that affect image generation. This phantom, termed BigBrain-MR, was generated from the publicly available BigBrain histological dataset and lower-resolution in-vivo 7T-MRI data, using a newly-developed image processing framework that allows mapping the general properties of the latter into the fine anatomical scale of the former. Overall, the mapping framework was found to be effective and robust, yielding a diverse range of realistic "in-vivo-like" MRI contrasts and maps at 100-um resolution. BigBrain-MR was then tested in three different imaging applications (motion effects and interpolation, super-resolution imaging, and parallel imaging reconstruction) to investigate its properties, value and validity as a simulation platform. The results consistently showed that BigBrain-MR can closely approximate the behavior of real in-vivo data, more realistically and with more extensive features than a more classic option such as the Shepp-Logan phantom. This novel phantom is therefore deemed a favorable choice to support methodological development in brain MRI, and has been made freely available to the community.
+
+
+---
+Category: ai-ml
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:21:16.171Z

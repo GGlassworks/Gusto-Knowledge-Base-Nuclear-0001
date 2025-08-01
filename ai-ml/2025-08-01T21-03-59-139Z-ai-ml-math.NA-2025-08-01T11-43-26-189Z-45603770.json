@@ -1,0 +1,12 @@
+# An Efficient Method for Solving Lane Emden Equation using Legendre Neural Network
+
+**Authors:** Vijay Kumar Patel, Vivek Sharma, Nitin Kumar, Anoop Tiwari
+
+## Summary
+The aim of this manuscript is to address non-linear differential equations of the Lane Emden equation of second order using the shifted Legendre neural network (SLNN) method. Here all the equations are classified as singular initial value problems. To manage the singularity challenge, we employ an artificial neural network method. The approach utilizes a neural network of a single layer, where the hidden layer is omitted by enlarge the input using shifted Legendre polynomials. We apply a feed forward neural network model along with the principle of error back propagation. The effectiveness of the Legendre Neural Network model is demonstrated through LaneEmden equations.
+
+
+---
+Category: ai-ml
+Subcategory: math.NA
+Collected: 2025-08-01T11:43:26.189Z

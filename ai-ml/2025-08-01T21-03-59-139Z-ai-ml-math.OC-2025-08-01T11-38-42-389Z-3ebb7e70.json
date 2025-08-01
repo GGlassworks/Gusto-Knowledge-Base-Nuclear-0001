@@ -1,0 +1,12 @@
+# Computation of optimal transport and related hedging problems via penalization and neural networks
+
+**Authors:** Stephan Eckstein, Michael Kupper
+
+## Summary
+This paper presents a widely applicable approach to solving (multi-marginal, martingale) optimal transport and related problems via neural networks. The core idea is to penalize the optimization problem in its dual formulation and reduce it to a finite dimensional one which corresponds to optimizing a neural network with smooth objective function. We present numerical examples from optimal transport, martingale optimal transport, portfolio optimization under uncertainty and generative adversarial networks that showcase the generality and effectiveness of the approach.
+
+
+---
+Category: ai-ml
+Subcategory: math.OC
+Collected: 2025-08-01T11:38:42.389Z

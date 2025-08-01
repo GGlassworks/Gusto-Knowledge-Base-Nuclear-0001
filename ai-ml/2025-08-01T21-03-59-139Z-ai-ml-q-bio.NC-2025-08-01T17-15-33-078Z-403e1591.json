@@ -1,0 +1,12 @@
+# Topological Representational Similarity Analysis in Brains and Beyond
+
+**Authors:** Baihan Lin
+
+## Summary
+Understanding how the brain represents and processes information is crucial for advancing neuroscience and artificial intelligence. Representational similarity analysis (RSA) has been instrumental in characterizing neural representations, but traditional RSA relies solely on geometric properties, overlooking crucial topological information. This thesis introduces Topological RSA (tRSA), a novel framework combining geometric and topological properties of neural representations. tRSA applies nonlinear monotonic transforms to representational dissimilarities, emphasizing local topology while retaining intermediate-scale geometry. The resulting geo-topological matrices enable model comparisons robust to noise and individual idiosyncrasies. This thesis introduces several key methodological advances: (1) Topological RSA (tRSA) for identifying computational signatures and testing topological hypotheses; (2) Adaptive Geo-Topological Dependence Measure (AGTDM) for detecting complex multivariate relationships; (3) Procrustes-aligned Multidimensional Scaling (pMDS) for revealing neural computation stages; (4) Temporal Topological Data Analysis (tTDA) for uncovering developmental trajectories; and (5) Single-cell Topological Simplicial Analysis (scTSA) for characterizing cell population complexity. Through analyses of neural recordings, biological data, and neural network simulations, this thesis demonstrates the power and versatility of these methods in understanding brains, computational models, and complex biological systems. They not only offer robust approaches for adjudicating among competing models but also reveal novel theoretical insights into the nature of neural computation. This work lays the foundation for future investigations at the intersection of topology, neuroscience, and time series analysis, paving the way for more nuanced understanding of brain function and dysfunction.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:15:33.078Z

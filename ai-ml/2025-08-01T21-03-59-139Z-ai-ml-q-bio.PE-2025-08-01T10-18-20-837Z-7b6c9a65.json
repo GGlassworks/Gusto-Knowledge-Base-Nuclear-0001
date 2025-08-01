@@ -1,0 +1,12 @@
+# Probabilistic pairwise sequence alignment
+
+**Authors:** Lawren Smithline
+
+## Summary
+We describe an new algorithm for visualizing an alignment of biological sequences according to a probabilistic model of evolution. The resulting data array is readily interpreted by the human eye and amenable to digital image techniques. We present examples using mRNA sequences from mouse and rat: three cytochromes, Rattus norvegicus Cyp2a1, Cyp2a2, (Medline: 90212624) and Mus musculus Cyp2a12 (Medline: 93249380); and two zinc finger proteins, Mus musculus zfp111 and zfp235 (Medline: 22683274). The underlying evolutionary model is derived from one proposed by Thorne, Kishino, and Felsenstein and improved by Hein and others. The demonstration implementation aligns two sequences using time and memory quadratic in the mean sequence length. The algorithm is extensible, after Hein, to multiple sequences. We mention a basic method to reduce time and memory demands.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.PE
+Collected: 2025-08-01T10:18:20.837Z

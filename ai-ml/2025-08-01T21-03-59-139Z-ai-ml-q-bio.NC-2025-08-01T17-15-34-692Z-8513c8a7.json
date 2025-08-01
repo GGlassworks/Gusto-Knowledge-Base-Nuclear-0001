@@ -1,0 +1,12 @@
+# Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations
+
+**Authors:** Max Dabagia, Konrad P Kording, Eva L Dyer
+
+## Summary
+Many questions in neuroscience involve understanding of the responses of large populations of neurons. However, when dealing with large-scale neural activity, interpretation becomes difficult, and comparisons between two animals, or across different time points becomes challenging. One major challenge that we face in modern neuroscience is that of correspondence, e.g. we do not record the exact same neurons at the exact same times. Without some way to link two or more datasets, comparing different collections of neural activity patterns becomes impossible. Here, we describe approaches for leveraging shared latent structure across neural recordings to tackle this correspondence challenge. We review algorithms that map two datasets into a shared space where they can be directly compared, and argue that alignment is key for comparing high-dimensional neural activities across times, subsets of neurons, and individuals.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:15:34.692Z

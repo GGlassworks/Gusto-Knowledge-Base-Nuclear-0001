@@ -1,0 +1,12 @@
+# Minimal coarse-grained models for molecular self-organisation in biology
+
+**Authors:** Anne E. Hafner, Johannes Krausser, Anđela Šarić
+
+## Summary
+The molecular machinery of life is largely created via self-organisation of individual molecules into functional assemblies. Minimal coarse-grained models, where a whole macromolecule is represented by a small number of particles, can be of great value in identifying the main driving forces behind self-organisation in cell biology. Such models can incorporate data from both molecular and continuum scales, and their results can be directly compared to experiments. Here we review the state of the art of models for studying the formation and biological function of macromolecular assemblies in cells. We outline the key ingredients of each model and their main findings. We illustrate the contribution of this class of simulations to identifying the physical mechanisms behind life and diseases, and discuss their future developments.
+
+
+---
+Category: ai-ml
+Subcategory: physics.bio-ph
+Collected: 2025-08-01T16:32:18.875Z

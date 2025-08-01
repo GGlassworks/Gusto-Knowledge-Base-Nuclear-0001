@@ -1,0 +1,12 @@
+# Nonparametric instrumental regression with non-convex constraints
+
+**Authors:** Markus Grasmair, Otmar Scherzer, Anne Vanhems
+
+## Summary
+This paper considers the nonparametric regression model with an additive error that is dependent on the explanatory variables. As is common in empirical studies in epidemiology and economics, it also supposes that valid instrumental variables are observed. A classical example in microeconomics considers the consumer demand function as a function of the price of goods and the income, both variables often considered as endogenous. In this framework, the economic theory also imposes shape restrictions on the demand function, like integrability conditions. Motivated by this illustration in microeconomics, we study an estimator of a nonparametric constrained regression function using instrumental variables by means of Tikhonov regularization. We derive rates of convergence for the regularized model both in a deterministic and stochastic setting under the assumption that the true regression function satisfies a projected source condition including, because of the non-convexity of the imposed constraints, an additional smallness condition.
+
+
+---
+Category: ai-ml
+Subcategory: math.ST
+Collected: 2025-08-01T20:22:30.681Z

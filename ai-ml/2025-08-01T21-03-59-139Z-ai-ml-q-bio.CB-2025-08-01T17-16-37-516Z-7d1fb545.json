@@ -1,0 +1,12 @@
+# Immunological recognition by artificial neural networks
+
+**Authors:** Jin Xu, Junghyo Jo
+
+## Summary
+The binding affinity between the T-cell receptors (TCRs) and antigenic peptides mainly determines immunological recognition. It is not a trivial task that T cells identify the digital sequences of peptide amino acids by simply relying on the integrated binding affinity between TCRs and antigenic peptides. To address this problem, we examine whether the affinity-based discrimination of peptide sequences is learnable and generalizable by artificial neural networks (ANNs) that process the digital experimental amino acid sequence information of receptors and peptides. A pair of TCR and peptide sequences correspond to the input for ANNs, while the success or failure of the immunological recognition correspond to the output. The output is obtained by both theoretical model and experimental data. In either case, we confirmed that ANNs could learn the immunological recognition. We also found that a homogenized encoding of amino acid sequence was more effective for the supervised learning task.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.CB
+Collected: 2025-08-01T17:16:37.516Z

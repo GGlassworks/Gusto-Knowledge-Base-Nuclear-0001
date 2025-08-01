@@ -1,0 +1,12 @@
+# Quadratic neural networks for solving inverse problems
+
+**Authors:** Leon Frischauf, Otmar Scherzer, Cong Shi
+
+## Summary
+In this paper we investigate the solution of inverse problems with neural network ansatz functions with generalized decision functions. The relevant observation for this work is that such functions can approximate typical test cases, such as the Shepp-Logan phantom, better, than standard neural networks. Moreover, we show that the convergence analysis of numerical methods for solving inverse problems with shallow generalized neural network functions leads to more intuitive convergence conditions, than for deep affine linear neural networks.
+
+
+---
+Category: ai-ml
+Subcategory: math.NA
+Collected: 2025-08-01T11:43:27.150Z

@@ -1,0 +1,12 @@
+# Human-like general language processing
+
+**Authors:** Feng Qi, Guanjun Jiang
+
+## Summary
+Using language makes human beings surpass animals in wisdom. To let machines understand, learn, and use language flexibly, we propose a human-like general language processing (HGLP) architecture, which contains sensorimotor, association, and cognitive systems. The HGLP network learns from easy to hard like a child, understands word meaning by coactivating multimodal neurons, comprehends and generates sentences by real-time constructing a virtual world model, and can express the whole thinking process verbally. HGLP rapidly learned 10+ different tasks including object recognition, sentence comprehension, imagination, attention control, query, inference, motion judgement, mixed arithmetic operation, digit tracing and writing, and human-like iterative thinking process guided by language. Language in the HGLP framework is not matching nor correlation statistics, but a script that can describe and control the imagination.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T10:14:18.144Z

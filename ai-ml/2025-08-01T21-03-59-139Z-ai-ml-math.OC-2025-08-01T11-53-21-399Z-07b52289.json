@@ -1,0 +1,12 @@
+# Generalized Left-Localized Cayley Parametrization for Optimization with Orthogonality Constraints
+
+**Authors:** Kieta Kume, Isao Yamada
+
+## Summary
+We present a reformulation of optimization problems over the Stiefel manifold by using a Cayley-type transform, named the generalized left-localized Cayley transform, for the Stiefel manifold. The reformulated optimization problem is defined over a vector space, whereby we can apply directly powerful computational arts designed for optimization over a vector space. The proposed Cayley-type transform enjoys several key properties which are useful to (i) study relations between the original problem and the proposed problem; (ii) check the conditions to guarantee the global convergence of optimization algorithms. Numerical experiments demonstrate that the proposed algorithm outperforms the standard algorithms designed with a retraction on the Stiefel manifold.
+
+
+---
+Category: ai-ml
+Subcategory: math.OC
+Collected: 2025-08-01T11:53:21.400Z

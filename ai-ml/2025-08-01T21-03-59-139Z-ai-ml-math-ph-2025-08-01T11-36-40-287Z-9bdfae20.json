@@ -1,0 +1,12 @@
+# Random matrix theory and the loss surfaces of neural networks
+
+**Authors:** Nicholas P Baskerville
+
+## Summary
+Neural network models are one of the most successful approaches to machine learning, enjoying an enormous amount of development and research over recent years and finding concrete real-world applications in almost any conceivable area of science, engineering and modern life in general. The theoretical understanding of neural networks trails significantly behind their practical success and the engineering heuristics that have grown up around them. Random matrix theory provides a rich framework of tools with which aspects of neural network phenomenology can be explored theoretically. In this thesis, we establish significant extensions of prior work using random matrix theory to understand and describe the loss surfaces of large neural networks, particularly generalising to different architectures. Informed by the historical applications of random matrix theory in physics and elsewhere, we establish the presence of local random matrix universality in real neural networks and then utilise this as a modeling assumption to derive powerful and novel results about the Hessians of neural network loss surfaces and their spectra. In addition to these major contributions, we make use of random matrix models for neural network loss surfaces to shed light on modern neural network training approaches and even to derive a novel and effective variant of a popular optimisation algorithm. Overall, this thesis provides important contributions to cement the place of random matrix theory in the theoretical study of modern neural networks, reveals some of the limits of existing approaches and begins the study of an entirely new role for random matrix theory in the theory of deep learning with important experimental discoveries and novel theoretical results based on local random matrix universality.
+
+
+---
+Category: ai-ml
+Subcategory: math-ph
+Collected: 2025-08-01T11:36:40.287Z

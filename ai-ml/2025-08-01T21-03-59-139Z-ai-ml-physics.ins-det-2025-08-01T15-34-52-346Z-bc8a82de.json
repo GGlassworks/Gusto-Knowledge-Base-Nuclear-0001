@@ -1,0 +1,12 @@
+# Performance comparison of pulse-pair and wavelets methods for the pulse Doppler weather radar spectrum
+
+**Authors:** Mohand Lagha, Mohamed Tikhemirine, Said Bergheul, Tahar Rezoug, Maamar Bettayeb
+
+## Summary
+In the civilian aviation field, the radar detection of hazardous weather phenomena (winds) is very important. This detection will allow the avoidance of these phenomena and consequently will enhance the safety of flights. In this work, we have used the wavelets method to estimate the mean velocity of winds. The results showed that the application of this method is promising compared with the classical estimators (pulse-pair, Fourier).
+
+
+---
+Category: ai-ml
+Subcategory: physics.ins-det
+Collected: 2025-08-01T15:34:52.347Z

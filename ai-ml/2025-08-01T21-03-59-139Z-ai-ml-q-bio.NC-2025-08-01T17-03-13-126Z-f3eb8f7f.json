@@ -1,0 +1,12 @@
+# Brain development dictates energy constraints on neural architecture search: cross-disciplinary insights on optimization strategies
+
+**Authors:** Martin G. Frasch
+
+## Summary
+Present day artificial neural architecture search (NAS) strategies are essentially prediction-error-optimized. That holds true for AI functions in general. From the developmental neuroscience perspective, I present evidence for the central role of metabolically, rather than prediction-error-optimized neural architecture search (NAS). Supporting evidence is drawn from the latest insights into the glial-neural organization of the human brain and the dynamic coordination theory which provides a mathematical foundation for the functional expression of this optimization strategy. This is relevant to devising novel NAS strategies in AI, especially in AGI. Additional implications arise for causal reasoning from deep neural nets. Together, the insights from developmental neuroscience offer a new perspective on NAS and the foundational assumptions in AI modeling.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:03:13.127Z

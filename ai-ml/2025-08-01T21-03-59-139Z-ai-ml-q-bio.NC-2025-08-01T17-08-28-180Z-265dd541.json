@@ -1,0 +1,12 @@
+# naplib-python: Neural Acoustic Data Processing and Analysis Tools in Python
+
+**Authors:** Gavin Mischler, Vinay Raghavan, Menoua Keshishian, Nima Mesgarani
+
+## Summary
+Recently, the computational neuroscience community has pushed for more transparent and reproducible methods across the field. In the interest of unifying the domain of auditory neuroscience, naplib-python provides an intuitive and general data structure for handling all neural recordings and stimuli, as well as extensive preprocessing, feature extraction, and analysis tools which operate on that data structure. The package removes many of the complications associated with this domain, such as varying trial durations and multi-modal stimuli, and provides a general-purpose analysis framework that interfaces easily with existing toolboxes used in the field.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:08:28.181Z

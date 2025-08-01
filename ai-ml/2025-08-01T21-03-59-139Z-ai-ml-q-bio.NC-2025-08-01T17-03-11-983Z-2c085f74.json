@@ -1,0 +1,12 @@
+# Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility
+
+**Authors:** Rosa Cao, Daniel Yamins
+
+## Summary
+Computational modeling plays an increasingly important role in neuroscience, highlighting the philosophical question of how computational models explain. In the context of neural network models for neuroscience, concerns have been raised about model intelligibility, and how they relate (if at all) to what is found in the brain. We claim that what makes a system intelligible is an understanding of the dependencies between its behavior and the factors that are causally responsible for that behavior. In biological systems, many of these dependencies are naturally "top-down": ethological imperatives interact with evolutionary and developmental constraints under natural selection. We describe how the optimization techniques used to construct NN models capture some key aspects of these dependencies, and thus help explain why brain systems are as they are -- because when a challenging ecologically-relevant goal is shared by a NN and the brain, it places tight constraints on the possible mechanisms exhibited in both kinds of systems. By combining two familiar modes of explanation -- one based on bottom-up mechanism (whose relation to neural network models we address in a companion paper) and the other on top-down constraints, these models illuminate brain function.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:03:11.985Z

@@ -1,0 +1,12 @@
+# Self-organising maps in the analysis of strains of human abdominal wall to identify areas of similar mechanical behaviour
+
+**Authors:** Mateusz Troka, Katarzyna Szepietowska, Izabela Lubowiecka
+
+## Summary
+The study refers to the application of a type of artificial neural network called the Self-Organising Map (SOM) for the identification of areas of the human abdominal wall that perform in a similar mechanical way. The research was based on data acquired during in vivo tests using the digital image correlation technique (DIC). The mechanical behaviour of the human abdominal wall was analysed during changing intra-abdominal pressure. SOM allowed us to study simultaneously three variables in four time steps. The variables referred to the principal strains and their directions. SOM classified into clusters all the abdominal surface data points that behaved similarly in accordance with the 12 variables. The analysis of the clusters provided a better insight into abdominal wall deformation and its evolution under pressure than when observing a single mechanical variable. The presented results may provide a better understanding of the mechanics of the living human abdominal wall. It might be particularly useful in the designing of surgical meshes for the treatment of abdominal hernias, which would be mechanically compatible with identified regions of the human anterior abdominal wall, and possibly open the way for patient-specific implants.
+
+
+---
+Category: ai-ml
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:19.309Z

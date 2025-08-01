@@ -1,0 +1,12 @@
+# UV mission planning under uncertainty in vehicles' availability
+
+**Authors:** Saravanan Venkatachalam, Jonathon M. Smereka
+
+## Summary
+Heterogeneous unmanned vehicles (UVs) are used in various defense and civil applications. Some of the civil applications of UVs for gathering data and monitoring include civil infrastructure management, agriculture, public safety, law enforcement, disaster relief, and transportation. This paper presents a two-stage stochastic model for a fuel-constrained UV mission planning problem with multiple refueling stations under uncertainty in availability of UVs. Given a set of points of interests (POI), a set of refueling stations for UVs, and a base station where the UVs are stationed and their availability is random, the objective is to determine route for each UV starting and terminating at the base station such that overall incentives collected by visiting POIs is maximized. We present an outer approximation based decomposition algorithm to solve large instances, and perform extensive computational experiments using random instances. Additionally, a data driven simulation study is performed using robot operating system (ROS) framework to corroborate the use of the stochastic programming approach.
+
+
+---
+Category: ai-ml
+Subcategory: math.CO
+Collected: 2025-08-01T16:06:49.610Z

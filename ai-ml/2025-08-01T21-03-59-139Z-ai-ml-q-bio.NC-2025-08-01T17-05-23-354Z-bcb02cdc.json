@@ -1,0 +1,12 @@
+# Biological detail and graph structure in network neuroscience
+
+**Authors:** David Papo, Javier M. Buldú
+
+## Summary
+Endowing brain anatomy, dynamics, and function with a network structure is becoming standard in neuroscience. In its simplest form, a network is a collection of units and relationships between them. The pattern of relations among the units encodes numerous properties which have been shown to have a profound effect on networked systems' dynamics and function. In an effort to strike a balance between idealization and detail, network neuroscience studies typically involve simplifying assumptions at both neural and network modeling levels. However, the extent to which existing neural models depend on such approximations is as yet poorly understood. Here, we discuss whether and how increasing neurophysiological detail and generalizing the basic simple network structure often adopted in network neuroscience may help improve our understanding of brain phenomenology and function.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:05:23.355Z

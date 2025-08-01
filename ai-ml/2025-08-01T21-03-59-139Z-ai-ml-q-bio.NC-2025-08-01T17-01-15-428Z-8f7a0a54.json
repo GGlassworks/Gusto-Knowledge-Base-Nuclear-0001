@@ -1,0 +1,12 @@
+# A theory of neural emulators
+
+**Authors:** Catalin C. Mitelut
+
+## Summary
+A central goal in neuroscience is to provide explanations for how animal nervous systems can generate actions and cognitive states such as consciousness while artificial intelligence (AI) and machine learning (ML) seek to provide models that are increasingly better at prediction. Despite many decades of research we have made limited progress on providing neuroscience explanations yet there is an increased use of AI and ML methods in neuroscience for prediction of behavior and even cognitive states. Here we propose emulator theory (ET) and neural emulators as circuit- and scale-independent predictive models of biological brain activity and emulator theory (ET) as an alternative research paradigm in neuroscience. ET proposes that predictive models trained solely on neural dynamics and behaviors can generate functionally indistinguishable systems from their sources. That is, compared to the biological organisms which they model, emulators may achieve indistinguishable behavior and cognitive states - including consciousness - without any mechanistic explanations. We posit ET via several conjectures, discuss the nature of endogenous and exogenous activation of neural circuits, and discuss neural causality of phenomenal states. ET provides the conceptual and empirical framework for prediction-based models of neural dynamics and behavior without explicit representations of idiosyncratically evolved nervous systems.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:01:15.429Z

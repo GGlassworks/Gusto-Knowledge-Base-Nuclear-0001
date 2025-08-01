@@ -1,0 +1,12 @@
+# A comprehensive and biophysically detailed computational model of the whole human heart electromechanics
+
+**Authors:** Marco Fedele, Roberto Piersanti, Francesco Regazzoni, Matteo Salvador, Pasquale Claudio Africa, Michele Bucelli, Alberto Zingaro, Luca Dede', Alfio Quarteroni
+
+## Summary
+While ventricular electromechanics is extensively studied, four-chamber heart models have only been addressed recently; most of these works however neglect atrial contraction. Indeed, as atria are characterized by a complex physiology influenced by the ventricular function, developing computational models able to capture the physiological atrial function and atrioventricular interaction is very challenging. In this paper, we propose a biophysically detailed electromechanical model of the whole human heart that considers both atrial and ventricular contraction. Our model includes: i) an anatomically accurate whole-heart geometry; ii) a comprehensive myocardial fiber architecture; iii) a biophysically detailed microscale model for the active force generation; iv) a 0D closed-loop model of the circulatory system; v) the fundamental interactions among the different core models; vi) specific constitutive laws and model parameters for each cardiac region. Concerning the numerical discretization, we propose an efficient segregated-intergrid-staggered scheme and we employ recently developed stabilization techniques that are crucial to obtain a stable formulation in a four-chamber scenario. We are able to reproduce the healthy cardiac function for all the heart chambers, in terms of pressure-volume loops, time evolution of pressures, volumes and fluxes, and three-dimensional cardiac deformation, with unprecedented matching (to the best of our knowledge) with the expected physiology. We also show the importance of considering atrial contraction, fibers-stretch-rate feedback and suitable stabilization techniques, by comparing the results obtained with and without these features in the model. The proposed model represents the state-of-the-art electromechanical model of the iHEART ERC project and is a fundamental step toward the building of physics-based digital twins of the human heart.
+
+
+---
+Category: ai-ml
+Subcategory: math.NA
+Collected: 2025-08-01T10:24:47.234Z

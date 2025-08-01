@@ -1,0 +1,12 @@
+# Mean Field Analysis of Neural Networks: A Law of Large Numbers
+
+**Authors:** Justin Sirignano, Konstantinos Spiliopoulos
+
+## Summary
+Machine learning, and in particular neural network models, have revolutionized fields such as image, text, and speech recognition. Today, many important real-world applications in these areas are driven by neural networks. There are also growing applications in engineering, robotics, medicine, and finance. Despite their immense success in practice, there is limited mathematical understanding of neural networks. This paper illustrates how neural networks can be studied via stochastic analysis, and develops approaches for addressing some of the technical challenges which arise. We analyze one-layer neural networks in the asymptotic regime of simultaneously (A) large network sizes and (B) large numbers of stochastic gradient descent training iterations. We rigorously prove that the empirical distribution of the neural network parameters converges to the solution of a nonlinear partial differential equation. This result can be considered a law of large numbers for neural networks. In addition, a consequence of our analysis is that the trained parameters of the neural network asymptotically become independent, a property which is commonly called "propagation of chaos".
+
+
+---
+Category: ai-ml
+Subcategory: math.PR
+Collected: 2025-08-01T11:43:26.274Z

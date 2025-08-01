@@ -1,0 +1,12 @@
+# Overall error analysis for the training of deep neural networks via stochastic gradient descent with random initialisation
+
+**Authors:** Arnulf Jentzen, Timo Welti
+
+## Summary
+In spite of the accomplishments of deep learning based algorithms in numerous applications and very broad corresponding research interest, at the moment there is still no rigorous understanding of the reasons why such algorithms produce useful results in certain situations. A thorough mathematical analysis of deep learning based algorithms seems to be crucial in order to improve our understanding and to make their implementation more effective and efficient. In this article we provide a mathematically rigorous full error analysis of deep learning based empirical risk minimisation with quadratic loss function in the probabilistically strong sense, where the underlying deep neural networks are trained using stochastic gradient descent with random initialisation. The convergence speed we obtain is presumably far from optimal and suffers under the curse of dimensionality. To the best of our knowledge, we establish, however, the first full error analysis in the scientific literature for a deep learning based algorithm in the probabilistically strong sense and, moreover, the first full error analysis in the scientific literature for a deep learning based algorithm where stochastic gradient descent with random initialisation is the employed optimisation method.
+
+
+---
+Category: ai-ml
+Subcategory: math.ST
+Collected: 2025-08-01T11:28:33.599Z

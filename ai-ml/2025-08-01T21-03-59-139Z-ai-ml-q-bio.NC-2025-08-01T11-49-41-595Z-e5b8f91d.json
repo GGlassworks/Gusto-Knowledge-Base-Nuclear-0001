@@ -1,0 +1,12 @@
+# A Neural Model of Number Comparison with Surprisingly Robust Generalization
+
+**Authors:** Thomas R. Shultz, Ardavan S. Nobandegani, Zilong Wang
+
+## Summary
+We propose a relatively simple computational neural-network model of number comparison. Training on comparisons of the integers 1-9 enable the model to efficiently and accurately simulate a wide range of phenomena, including distance and ratio effects and robust generalization to multidigit integers, negative numbers, and decimal numbers. An accompanying logical model of number comparison provides further insights into the workings of number comparison and its relation to the Arabic number system. These models provide a rational basis for the psychology of number comparison and the ability of neural networks to efficiently learn a powerful system with robust generalization.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.NC
+Collected: 2025-08-01T11:49:41.605Z

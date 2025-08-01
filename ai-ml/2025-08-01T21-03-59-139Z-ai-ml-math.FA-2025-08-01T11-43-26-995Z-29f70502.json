@@ -1,0 +1,12 @@
+# Approximation by Steklov Neural Network Operators
+
+**Authors:** S. N. Karaman, M. Turgay, T. Acar
+
+## Summary
+The present paper deals with construction of newly family of Neural Network operators, that is, Steklov Neural Network operators. By using Steklov type integral, we introduce a new version of Neural Network operators and we obtain some convergence theorems for the family, such as, pointwise and uniform convergence, rate of convergence via modulus of continuity.
+
+
+---
+Category: ai-ml
+Subcategory: math.FA
+Collected: 2025-08-01T11:43:26.996Z

@@ -1,0 +1,12 @@
+# A digital instrument simulator to optimize the development of hyperspectral systems: application for intraoperative functional brain mapping
+
+**Authors:** Charly Caredda, Frédéric Lange, Luca Giannoni, Ivan Ezhov, Thiébaud Picart, Jacques Guyotat, Ilias Tachtsidis, Bruno Montcel
+
+## Summary
+Intraoperative optical imaging is a localization technique for the functional areas of the human brain cortex during neurosurgical procedures. These areas can be assessed by monitoring cerebral hemodynamics and metabolism. A robust quantification of these biomarkers is complicated to perform during neurosurgery due to the critical context of the operating room. In actual devices, the inhomogeneities of the optical properties of exposed brain cortex are poorly taken into consideration, which introduce quantification errors of biomarkers of brain functionality. Moreover, the choice of the best spectral configuration is still based on an empirical approach. We propose a digital instrument simulator to optimize the development of hyperspectral systems. This simulator can provide a realistic modelling of the cerebral cortex and the identification of the optimal wavelengths to monitor cerebral hemodynamics (oxygenated and deoxygenated hemoglobin) and metabolism (oxidized state of cytochromes b, c and cytochrome-c-oxidase). The digital instrument allows the modelling of intensity maps collected by a camera sensor as well as images of pathlength to take into account the inhomogeneities of the optical properties. The optimization procedure helps to identify the best wavelength combination of 18 wavelengths that reduce the quantification errors in HbO2, Hb, oxCCO of 61%, 29% and 82% compared to the gold standard of 121 wavelengths between 780 and 900 nm. The optimization procedure does not help to resolve changes in cytochrome b and c in a significant way but help to better resolve oxCCO changes. We proposed a digital instrument simulator to optimize the development of hyperspectral systems for intraoperative brain mapping studies. This digital instrument simulator and this optimization framework could be used to optimize the design of hyperspectral imaging devices.
+
+
+---
+Category: ai-ml
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:20.100Z

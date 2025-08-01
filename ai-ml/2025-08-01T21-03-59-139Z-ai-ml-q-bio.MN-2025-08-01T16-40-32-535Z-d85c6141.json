@@ -1,0 +1,12 @@
+# Recurrent neural chemical reaction networks that approximate arbitrary dynamics
+
+**Authors:** Alexander Dack, Benjamin Qureshi, Thomas E. Ouldridge, Tomislav Plesa
+
+## Summary
+Many important phenomena in biochemistry and biology exploit dynamical features such as multi-stability, oscillations, and chaos. Construction of novel chemical systems with such rich dynamics is a challenging problem central to the fields of synthetic biology and molecular nanotechnology. In this paper, we address this problem by putting forward a molecular version of a recurrent artificial neural network, which we call recurrent neural chemical reaction network (RNCRN). The RNCRN uses a modular architecture - a network of chemical neurons - to approximate arbitrary dynamics. We first prove that with sufficiently many chemical neurons and suitably fast reactions, the RNCRN can be systematically trained to achieve any dynamics. RNCRNs with relatively small number of chemical neurons and a moderate range of reaction rates are then trained to display a variety of biologically-important dynamical features. We also demonstrate that such RNCRNs are experimentally implementable with DNA-strand-displacement technologies.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:40:32.536Z

@@ -1,0 +1,12 @@
+# Detailed Balanced Chemical Reaction Networks as Generalized Boltzmann Machines
+
+**Authors:** William Poole, Thomas Ouldridge, Manoj Gopalkrishnan, Erik Winfree
+
+## Summary
+Can a micron sized sack of interacting molecules understand, and adapt to a constantly-fluctuating environment? Cellular life provides an existence proof in the affirmative, but the principles that allow for life's existence are far from being proven. One challenge in engineering and understanding biochemical computation is the intrinsic noise due to chemical fluctuations. In this paper, we draw insights from machine learning theory, chemical reaction network theory, and statistical physics to show that the broad and biologically relevant class of detailed balanced chemical reaction networks is capable of representing and conditioning complex distributions. These results illustrate how a biochemical computer can use intrinsic chemical noise to perform complex computations. Furthermore, we use our explicit physical model to derive thermodynamic costs of inference.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:21:01.534Z

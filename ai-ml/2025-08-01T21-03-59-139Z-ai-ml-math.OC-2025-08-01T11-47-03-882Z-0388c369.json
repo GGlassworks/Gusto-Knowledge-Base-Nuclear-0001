@@ -1,0 +1,12 @@
+# Extent of error control in neural networks
+
+**Authors:** Alexander Ignatenkov, Alexey Olshansky
+
+## Summary
+The article sets and solves the task to control an error of the artificial neural network with variable signal conductivity. This kind of neural networks was especially developed to construct timetables. Behavior of such a neural network can be described as dynamic system control problem. The authors gave as the results of the solving the ANN feedback control problem.
+
+
+---
+Category: ai-ml
+Subcategory: math.OC
+Collected: 2025-08-01T11:47:03.883Z

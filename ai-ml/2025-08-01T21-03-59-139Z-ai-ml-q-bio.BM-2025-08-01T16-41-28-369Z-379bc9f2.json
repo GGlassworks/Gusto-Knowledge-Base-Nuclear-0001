@@ -1,0 +1,12 @@
+# Molecule-Morphology Contrastive Pretraining for Transferable Molecular Representation
+
+**Authors:** Cuong Q. Nguyen, Dante Pertusi, Kim M. Branson
+
+## Summary
+Image-based profiling techniques have become increasingly popular over the past decade for their applications in target identification, mechanism-of-action inference, and assay development. These techniques have generated large datasets of cellular morphologies, which are typically used to investigate the effects of small molecule perturbagens. In this work, we extend the impact of such dataset to improving quantitative structure-activity relationship (QSAR) models by introducing Molecule-Morphology Contrastive Pretraining (MoCoP), a framework for learning multi-modal representation of molecular graphs and cellular morphologies. We scale MoCoP to approximately 100K molecules and 600K morphological profiles using data from the JUMP-CP Consortium and show that MoCoP consistently improves performances of graph neural networks (GNNs) on molecular property prediction tasks in ChEMBL20 across all dataset sizes. The pretrained GNNs are also evaluated on internal GSK pharmacokinetic data and show an average improvement of 2.6% and 6.3% in AUPRC for full and low data regimes, respectively. Our findings suggest that integrating cellular morphologies with molecular graphs using MoCoP can significantly improve the performance of QSAR models, ultimately expanding the deep learning toolbox available for QSAR applications.
+
+
+---
+Category: ai-ml
+Subcategory: q-bio.BM
+Collected: 2025-08-01T16:41:28.369Z

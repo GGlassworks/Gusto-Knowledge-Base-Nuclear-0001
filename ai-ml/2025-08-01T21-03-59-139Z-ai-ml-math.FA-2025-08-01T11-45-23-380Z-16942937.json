@@ -1,0 +1,12 @@
+# Error bounds for approximations with deep ReLU neural networks in $W^{s,p}$ norms
+
+**Authors:** Ingo Gühring, Gitta Kutyniok, Philipp Petersen
+
+## Summary
+We analyze approximation rates of deep ReLU neural networks for Sobolev-regular functions with respect to weaker Sobolev norms. First, we construct, based on a calculus of ReLU networks, artificial neural networks with ReLU activation functions that achieve certain approximation rates. Second, we establish lower bounds for the approximation by ReLU neural networks for classes of Sobolev-regular functions. Our results extend recent advances in the approximation theory of ReLU networks to the regime that is most relevant for applications in the numerical analysis of partial differential equations.
+
+
+---
+Category: ai-ml
+Subcategory: math.FA
+Collected: 2025-08-01T11:45:23.380Z

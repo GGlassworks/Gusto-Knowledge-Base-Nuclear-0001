@@ -1,0 +1,12 @@
+# Existence and Optimality of $w$-Non-adjacent Forms with an Algebraic Integer Base
+
+**Authors:** Clemens Heuberger, Daniel Krenn
+
+## Summary
+We consider digital expansions in lattices with endomorphisms acting as base. We focus on the $w$-non-adjacent form ($w$-NAF), where each block of $w$ consecutive digits contains at most one non-zero digit. We prove that for sufficiently large $w$ and an expanding endomorphism, there is a suitable digit set such that each lattice element has an expansion as a $w$-NAF. If the eigenvalues of the endomorphism are large enough and $w$ is sufficiently large, then the $w$-NAF is shown to minimise the weight among all possible expansions of the same lattice element using the same digit system.
+
+
+---
+Category: ai-ml
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:10.801Z

@@ -1,0 +1,12 @@
+# An Initial Condition-Dependent Neural Network Approach for Optimal Control Problems
+
+**Authors:** Mominul Rubel, Gabriel Nicolosi
+
+## Summary
+In this work, we investigate an indirect approach for the numerical solution of optimal control problems via neural networks. A customized neural network is constructed, where optimal state, co-state and control trajectories are approximated by minimizing the underlying parameterized Hamiltonian, relying on Pontryagin's Minimum Principle. Departing from previous results reported in the literature, we propose novel, modified networks with both time and trajectory initial condition as inputs. Numerical results demonstrate the ability of neural networks to integrate both time and initial condition information in solving optimal control problems. Finally, it is empirically demonstrated that approximation accuracy may be enhanced through a structural modification incorporating an intermediate layer of Fourier coefficients.
+
+
+---
+Category: ai-ml
+Subcategory: math.OC
+Collected: 2025-08-01T11:38:42.455Z
