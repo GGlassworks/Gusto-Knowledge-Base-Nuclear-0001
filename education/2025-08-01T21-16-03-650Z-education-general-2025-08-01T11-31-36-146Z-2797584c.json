@@ -1,0 +1,13 @@
+# Deep Learning Networks and Visual Perception
+
+**Authors:** Grace W. Lindsay, Thomas Serre
+
+## Abstract
+<p>Deep learning is an approach to artificial intelligence (AI) centered on the training of deep artificial neural networks to perform complex tasks. Since the early 21st century, this approach has led to record-breaking advances in AI, allowing computers to solve complex board games, video games, natural language-processing tasks, and vision problems. Neuroscientists and psychologists have also utilized these networks as models of biological information processing to understand language, motor control, cognition, audition, and—most commonly—vision. Specifically, early feedforward network architectures were inspired by visual neuroscience and are used to model neural activity and human behavior. They also provide useful representations of the perceptual space of images. The extent to which these models match data, however, depends on the methods used to characterize and compare them. The limitations of these feedforward neural networks to account for, for example, simple visual reasoning tasks, suggests that feedback mechanisms may be necessary to solve visual recognition tasks beyond image categorization.</p>
+
+**Source:** https://doi.org/10.1093/acrefore/9780190236557.013.841
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:31:36.146Z

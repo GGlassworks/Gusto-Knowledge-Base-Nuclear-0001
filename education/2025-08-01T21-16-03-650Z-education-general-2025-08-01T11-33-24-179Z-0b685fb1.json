@@ -1,0 +1,13 @@
+# Hybrid Deep Learning Implementation for Crop Yield Prediction
+
+**Authors:** Halit ÇETİNER
+
+## Abstract
+<jats:p xml:lang="en">Agriculture producers should be supported technologically in order to continue production in a way that meets the worldwide food supply and demand. Automatic realization of crop yield estimation calculation is a desired need of farmers. Automatic yield estimation also facilitates the work of agricultural producers with different goals such as imports and exports. To achieve the stated objectives, deep learning models have been developed that estimated yield using parameters such as the amount of water per hectare, the average amount of sunlight received by the hectare, the amount of fertilization per hectare, the number of pesticides used per hectare, and the area of cultivation. With the hybrid model created by combining the strengths of the LSTM and CNN models developed within the scope of this article, the success rate of data prediction has increased with fine adjustments. Success rates of 89.71 R2, 0.0035 MSE, 0.0248 RMSE, 0.0461 MAE, and 10.10 MAPE have been achieved with the Proposed hybrid model. This model is competitive with similar studies with the stated values.</jats:p>
+
+**Source:** https://doi.org/10.35414/akufemubid.1116187
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:33:24.179Z

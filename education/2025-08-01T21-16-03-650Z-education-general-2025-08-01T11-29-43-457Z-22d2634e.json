@@ -1,0 +1,14 @@
+# A Hybrid Deep Learning Methodology for Breast Cancer Diagnosis using Magnetic Resonance Images
+
+**Authors:** Seyyedreza Mirbagheri, Maryam Momeni
+
+## Abstract
+<jats:title>Abstract</jats:title>
+        <jats:p>Today, breast cancer is one of the most common causes of cancer in women. Precise diagnosis of cancerous tissues based on images is essential in disease treatment before the disease progression. Although there are several image techniques for diagnosing, magnetic resonance (MR) imaging contains extensive clinical information which usable with other image modalities such as mammography and ultrasound. In this study, the hybrid of an autoencoder network with ResNet architecture was proposed to significantly improve classification accuracy to diagnose breast cancer lesions into two categories: benign and malignant in MR images. Using the MR breast cancer images of the QIN-Breast database, the results present the employment of an autoencoder as a preprocessor can enhance the efficiency of CNN and ultimately lead to an accurate diagnosis of benign and malignant tissues by 97.65%. The proposed method significantly improved the classification from the point of view of speed, accuracy, and precision. This cancerous tissue classification was employed only using MR images without manual segmentation and feature extraction.</jats:p>
+
+**Source:** https://doi.org/10.21203/rs.3.rs-1604535/v1
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:29:43.457Z

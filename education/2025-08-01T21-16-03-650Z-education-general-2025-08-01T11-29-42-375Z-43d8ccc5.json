@@ -1,0 +1,13 @@
+# Evaluation methodology for deep learning imputation models
+
+**Authors:** Reza Samavi, Omar Boursalie, Thomas E. Doyle
+
+## Abstract
+<jats:p>&lt;p&gt;There is growing interest in imputing missing data in tabular datasets using deep learning. Existing deep learning–based imputation models have been commonly evaluated using root mean square error (RMSE) as the predictive accuracy metric. In this article, we investigate the limitations of assessing deep learning–based imputation models by conducting a comparative analysis between RMSE and alternative metrics in the statistical literature including qualitative, predictive accuracy, statistical distance, and descriptive statistics. We design a new aggregated metric, called reconstruction loss (RL), to evaluate deep learning–based imputation models. We also develop and evaluate a novel imputation evaluation methodology based on RL. To minimize model and dataset biases, we use a regression imputation model and two different deep learning imputation models: denoising autoencoders and generative adversarial nets. We also use two tabular datasets from different industry sectors: health care and financial. Our results show that the proposed methodology is effective in evaluating multiple properties of the deep learning–based imputation model’s reconstruction performance.&lt;/p&gt;</jats:p>
+
+**Source:** https://doi.org/10.32920/24133128.v1
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:29:42.375Z

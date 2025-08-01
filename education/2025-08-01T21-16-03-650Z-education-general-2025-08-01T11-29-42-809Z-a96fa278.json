@@ -1,0 +1,14 @@
+# Encrypted Malware Detection Methodology without Decryption using Deep Learning based Approaches
+
+**Authors:** Abhay Pratap Singh
+
+## Abstract
+<title>Abstract</title>
+        <p>The proportion of encrypted web traffic is rapidly increasing. The widespread use of encrypted traffic on the Internet provides safe and secure communication between users and servers. However, cybercriminals are also employing encrypted traffic to conceal their malicious activities. Malware detection in encrypted traffic is an arduous task for security professionals due to the complex nature of encrypted traffic on the web. Traditional approaches need to decrypt the content of network traffic, check it for threats, re-encrypt the network traffic content, and send it to the server. This solution compromises the integrity of encryption and the user’s privacy and safety. DL is currently the most effective AI technology that can reduce the manual determination of feature sets to improve classification accuracy. This paper proposes a methodology by using DL algorithms for malware detection in encrypted traffic without decryption. With this architecture, the user’s privacy is maintained, and the efficiency of detecting threats in encrypted traffic is enhanced. Three deep learning techniques, namely, multilayer perceptron (MLP), 1D convolutional neural network (1-D CNN), and long short-term memory (LSTM), are tested on the CTU-13 malware dataset, which comprises flow based features of network traffic. Experimental results show that MLP based approach outperforms 1-D CNN, LSTM, and other existing approaches.</p>
+
+**Source:** https://doi.org/10.21203/rs.3.rs-2213345/v1
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:29:42.809Z

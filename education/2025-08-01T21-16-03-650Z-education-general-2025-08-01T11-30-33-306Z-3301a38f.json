@@ -1,0 +1,13 @@
+# Advanced Stevia Disease Detection Using Deep Learning
+
+**Authors:**  Lakshmi S.,  Sivakumar R.
+
+## Abstract
+<jats:p>Almost all of us are tempted to take sweets due to its pleasant nature. When it is overused, it will affect our body entirely. Diabetic is a disease that occurs when the blood glucose level is high. According to the study of World Health Organization (WHO), the prevalence percentage of diabetic persons is doubled in the last 10 years. Life style, working environment, nature of the work, food habits and hereditary are few reasons for diabetic. Diabetic leads to various health problems like heart disease, stroke, kidney problems, nerves damage, eye and dental problems over time. Stevia is a sugar substitute which is available all over the world and it is proved to give more safety for diabetic patients. Stevia contains proteins, vitamins and minerals. Stevia plant may be affected by various diseases such as root rot, charcoal rot, wilt, leaf spot disease and so on. This chapter demonstrates the deep learning approach to enable the disease detection through image recognition. A deep convolutional neural network is trained to classify the disease affected leaves, achieving the accuracy of over 99%.</jats:p>
+
+**Source:** https://doi.org/10.3233/978-1-61499-822-8-94
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:30:33.306Z

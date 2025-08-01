@@ -1,0 +1,14 @@
+# Automated Structural Integrity Assessment of Bridges: A Deep Learning Fusion Methodology
+
+**Authors:** Bara Alseid, Hyungjoon Seo
+
+## Abstract
+<title>Abstract</title>
+        <p>This study presents a detailed evaluation of two advanced deep learning methodologies, Sequential Feature Isolation (SFI) and Filtration-Based Structuring (FBS), for classifying and analysing structural elements such as cracks, bricks, and joints in Silver Jubilee Bridge models. The SFI method employs successive stages of CANUPO analysis followed by dip angle filtration, whereas the FBS method begins with dip angle filtration before proceeding with CANUPO analysis. A critical aspect of this research is optimizing the Local Neighbour Radius (LNR) for dip angle filtration. By testing LNR values ranging from 0.01m to 0.025m, the study identified 0.01m, paired with an 80-degree dip angle, as the optimal setting, significantly enhancing filtration precision. The application of these methods on large-scale models demonstrated their scalability and effectiveness. The SFI and FBS method effectively reduced the number of brick points by an average of 99% and joint points by 90%, while retaining 28% of crack points crucial for shaping crack configurations. The comparative analysis revealed that the SFI method is ideal for projects requiring high precision and detailed feature isolation, whereas the FBS method is better suited for tasks needing a broader retention of structural details. The study underscores the importance of selecting the appropriate method based on specific research objectives and provides clear guidelines for method selection and structural feature analysis. This comprehensive approach enhances the precision and reliability of structural assessments, offering significant contributions to the field of geological and structural analysis.</p>
+
+**Source:** https://doi.org/10.21203/rs.3.rs-4530558/v1
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:29:42.949Z

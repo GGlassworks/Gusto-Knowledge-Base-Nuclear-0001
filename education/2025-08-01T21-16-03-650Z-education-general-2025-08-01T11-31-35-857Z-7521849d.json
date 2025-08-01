@@ -1,0 +1,13 @@
+# Perspective Chapter: Deep Learning Misconduct and How Conscious Learning Avoids It
+
+**Authors:** Juyang Weng
+
+## Abstract
+<jats:p>“Deep learning” uses Post-Selection—selection of a model after training multiple models using data. The performance data of “Deep Learning” have been deceptively inflated due to two misconducts: 1: cheating in the absence of a test; 2: hiding bad-looking data. Through the same misconducts, a simple method Pure-Guess Nearest Neighbor (PGNN) gives no errors on any validation dataset V, as long as V is in the possession of the authors and both the amount of storage space and the time of training are finite but unbounded. The misconducts are fatal, because “Deep Learning” is not generalizable, by overfitting a sample set V. The charges here are applicable to all learning modes. This chapter proposes new AI metrics, called developmental errors for all networks trained, under four Learning Conditions: (1) a body including sensors and effectors, (2) an incremental learning architecture (due to the “big data” flaw), (3) a training experience, and (4) a limited amount of computational resources. Developmental Networks avoid Deep Learning misconduct because they train a sole system, which automatically discovers context rules on the fly by generating emergent Turing machines that are optimal in the sense of maximum likelihood across a lifetime, conditioned on the four Learning Conditions.</jats:p>
+
+**Source:** https://doi.org/10.5772/intechopen.113359
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:31:35.858Z

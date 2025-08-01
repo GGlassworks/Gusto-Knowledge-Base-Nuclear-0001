@@ -1,0 +1,13 @@
+# Development of EEG-based emotion classification using deep learning networks
+
+**Authors:** Suwicha Jirayucharoensak
+
+## Abstract
+<jats:p>Emotion classification is one of essential tasks for Human Computer Interaction (HCI) to make computers more efficiently interact with their users. Electroencephalogram (EEG) signals, associated with cognitive states of emotions, propagate though a complex hierarchy of neuron cells. Therefore, EEG-based emotion classification requires sophisticated learning algorithms that can represent high-level abstraction of a complicated task. This dissertation focuses on applying deep learning networks (DLNs) to enhance accuracy performance of the EEG-based emotion classification system. The DLN provides hierarchical feature learning methodology which is suitable for EEG-related feature learning algorithms. Furthermore, this research investigates the effects of temporal neural dynamics of emotions and then focuses on learning state transitions of DLN’s high-level features by using hidden markov models (HMMs). From experimental results, our proposed EEG-based emotion classification system with hybrid DLN-HMM has better accuracy performance compared with using only DLNs. The average of classification accuracy for 3-class valence improves from 60.07% to 64.18% and those of 3-class arousal improves from 59.83% to 62.98%.</jats:p>
+
+**Source:** https://doi.org/10.58837/chula.the.2018.155
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:32:34.465Z
