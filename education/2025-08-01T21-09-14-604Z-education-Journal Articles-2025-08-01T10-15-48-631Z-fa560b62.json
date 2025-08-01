@@ -1,0 +1,13 @@
+# Digital Module 13: Monte Carlo Simulation Studies in Item Response Theory
+
+**Authors:** Leventhal, Brian, Ames, Allison
+
+## Abstract
+In this digital ITEMS module, Dr. Brian Leventhal and Dr. Allison Ames provide an overview of &quot;Monte Carlo simulation studies&quot; (MCSS) in &quot;item response theory&quot; (IRT). MCSS are utilized for a variety of reasons, one of the most compelling being that they can be used when analytic solutions are impractical or nonexistent because they allow researchers to specify and manipulate an array of parameter values and experimental conditions (e.g., sample size, test length, and test characteristics). Dr. Leventhal and Dr. Ames review the conceptual foundation of MCSS in IRT and walk through the processes of simulating total scores as well as item responses using the two-parameter logistic, graded response, and bifactor models. They provide guidance for how to implement MCSS using other item response models and best practices for efficient syntax and executing an MCSS. The digital module contains sample SAS code, diagnostic quiz questions, activities, curated resources, and a glossary.
+
+**Source:** https://eric.ed.gov/?id=EJ1256034
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:15:48.631Z
