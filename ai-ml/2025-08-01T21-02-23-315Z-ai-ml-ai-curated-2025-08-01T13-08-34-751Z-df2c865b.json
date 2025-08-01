@@ -1,0 +1,13 @@
+# Performance Evaluation of Blockchain Systems: A Systematic Survey
+
+**Authors:** Caixiang Fan, Sara Ghaemi, Hamzeh Khazaei, P. Musílek
+
+## Abstract
+Blockchain has been envisioned to be a disruptive technology with potential for applications in various industries. As more and more different blockchain platforms have emerged, it is essential to assess their performance in different use cases and scenarios. In this paper, we conduct a systematic survey on the blockchain performance evaluation by categorizing all reviewed solutions into two general categories, namely, empirical analysis and analytical modelling. In the empirical analysis, we comparatively review the current empirical blockchain evaluation methodologies, including benchmarking, monitoring, experimental analysis and simulation. In analytical modelling, we investigate the stochastic models applied to performance evaluation of mainstream blockchain consensus algorithms. Through contrasting, comparison and grouping different methods together, we extract important criteria that can be used for selecting the most suitable evaluation technique for optimizing the performance of blockchain systems based on their identified bottlenecks. Finally, we conclude the survey by presenting a list of possible directions for future research.
+
+**Source:** https://www.semanticscholar.org/paper/6be52c7fb5ce69c6b2ab7b54c43ababc36d1036e
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:34.751Z

@@ -1,0 +1,13 @@
+# SoK: DAG-based Blockchain Systems
+
+**Authors:** Qin Wang, Jiangshan Yu, Shiping Chen, Yang Xiang
+
+## Abstract
+Limitations on high latency and low scalability of classical blockchain systems retard their adoptions and applications. Reconstructed blockchain systems have been proposed to avoid the consumption of competitive transactions caused by linear sequenced blocks. These systems, instead, structure transactions/blocks in the form of Directed Acyclic Graph (DAG) and consequently rebuild upper layer components. The promise of DAG-based blockchain systems is to enable fast confirmation (complete transactions within million seconds) and high scalability (attach transactions in parallel) without significantly compromising security. However, this field still lacks systematic work that summarises DAG techniques. To bridge the gap, this Systematization of Knowledge (SoK) provides a comprehensive analysis of ever-existing and ongoing DAG-based blockchain systems. We abstract a general model to capture the main features and identify six types of design patterns. Then, we evaluate these systems from the perspectives of structure, consensus, property, security, and performance. We further discuss the trade-off between different factors, open challenges, and the potentiality of DAG-based solutions, indicating their promising directions for future research.
+
+**Source:** https://www.semanticscholar.org/paper/fede646d01feb2bb22e4ece9de85ed4799615135
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:34.344Z

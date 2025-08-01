@@ -1,0 +1,13 @@
+# GFBE: A Generalized and Fine-Grained Blockchain Evaluation Framework
+
+**Authors:** Liyuan Ma, Xiulong Liu, Yuhan Li, Chenyu Zhang, Gaowei Shi, Keqiu Li
+
+## Abstract
+Multi-dimensional performance evaluation is crucial for blockchain systems as it enables appropriate blockchain choosing for a given scenario and helps to pinpoint the bottleneck module of a blockchain system to optimize its performance. However, the existing evaluation frameworks for blockchain suffer from low system generality, inefficient workload execution, and incomprehensible evaluation metrics. In order to overcome their limitations, we design and implement the Generalized and Fine-grained Blockchain Evaluation (GFBE) framework. Specifically, we abstract 3 types of Universal Evaluation Interface (UEI) via the dynamic proxying approach to enable generalized evaluation of heterogeneous blockchain systems. Through the design of Lua-based workloads plugin with high flexibility and reusability, GFBE improves the efficiency of workload execution. To achieve comprehensive measurement, we define 15 key performance metrics across hierarchical layers of blockchain architecture. We also implement and deploy GFBE on 16 machines each with 8 CPUs and 16GB RAM, and evaluate three open-source blockchain systems namely Ethereum, ChainMaker, and Haihe smart chain. The experimental results demonstrate that GFBE efficiently and accurately measure 15 key performance metrics such as Contract Execution Efficiency at the contract layer, Consensus Agreement Time Ratio at the consensus layer, and State Query Time at the data layer. Compared with state-of-the-art frameworks such as BLOCKBENCH, Log-based, and Caliper, GFBE distinguishes itself as the only framework that encompasses the appealing features of universal interface, reusable workload, and all-layer metrics.
+
+**Source:** https://www.semanticscholar.org/paper/e5a8dc09019d0761bea227dcd08a65f51a3f3012
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:15:08.873Z

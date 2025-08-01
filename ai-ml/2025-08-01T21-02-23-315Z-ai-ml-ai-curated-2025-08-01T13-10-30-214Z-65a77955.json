@@ -1,0 +1,13 @@
+# Securing EHRs With a Novel Token-Based and PPoS Blockchain Methodology
+
+**Authors:** Rihab Benaich, Saida El Mendili, Youssef Gahi
+
+## Abstract
+Blockchain technology is vital in strengthening the security of private information, particularly in the healthcare sector. Its features, such as confidentiality, decentralization, security and privacy, address challenges traditional healthcare systems face, such as phishing, denial of service and identity theft attacks. In this regard, our research paper presents a security solution specifically tailored for healthcare applications. This solution integrates decentralized identity management (DIDs) for identity verification, employs the advanced ChaCha20-Poly1305 encryption algorithm to ensure data confidentiality, and utilizes a token-based mechanism for immutable record keeping. Furthermore, it incorporates a pure proof of stake (PPoS) consensus mechanism to enhance system security while optimizing efficiency. This comprehensive and scalable system showcases improvements in cost effectiveness, time efficiency of an average of 6,5 seconds and overall data protection compared to traditional approaches used in healthcare data security.
+
+**Source:** https://www.semanticscholar.org/paper/d56b7dd384af67c3bfac1fab858140266319cb37
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:10:30.215Z

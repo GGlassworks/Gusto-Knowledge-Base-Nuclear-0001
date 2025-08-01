@@ -1,0 +1,13 @@
+# A Model-Driven Framework for Security Labs using Blockchain Methodology
+
+**Authors:** Moneeb Abbas, M. Rashid, F. Azam, Yawar Rasheed, Muhammad Waseem Anwar, Maryum Humdani
+
+## Abstract
+Blockchain technology is the need of an hour for ensuring security and data privacy. However, very limited tools and documentation are available, therefore, the traditional code-centric implementation of Blockchain is challenging for programmers and developers due to inherent complexities. To overcome these challenges, in this article, a novel and efficient framework is proposed that is based on the Model-Driven Architecture. Particularly, a Meta-model (M2 level Ecore Model) is defined that contains the concepts of Blockchain technology. As a part of tool support, a tree editor (developed using Eclipse Modeling Framework) and a Sirius based graphical modeling tool with a drag-drop palette have been provided to allow modeling and visualization of simple and complex Blockchain-based scenarios for security labs in a very user-friendly manner. A Model to Text (M2T) transformation code has also been written using Acceleo language that transforms the modeled scenarios into java code for Blockchain application in the security lab. The validity of the proposed framework has been demonstrated via a case study. The results prove that our framework can be reliably used and further extended for automation and development of Blockchain-based application for security labs with simplicity.
+
+**Source:** https://www.semanticscholar.org/paper/93da6a0d84321a263cf75a23f64d898b20c7b946
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:10:30.901Z

@@ -1,0 +1,13 @@
+# Comparative Analysis of Advanced Blockchain Authentication Model for Loan and Tender Sanctioning
+
+**Authors:** Saranyah V, N. Suganthi
+
+## Abstract
+The conventional method of tender sanctioning involves a process whereby tenders are awarded to companies that offer the most efficient and economical solutions according to the requirements of the government or the providing organization. However, the selection criteria for these companies are often shrouded in secrecy, lacking transparency in the allocation of tenders to specific bidding parties. To address this issue, we propose a blockchain-based authentication scheme incorporating different consensus mechanisms at various stages of the tender sanctioning process. This approach ensures a secure and transparent method of tender sanctioning. Previously we have implemented our concept in another aspect of bank operations, specifically in the sanctioning of loans to eligible customers of the bank. By utilizing our proposed method, we establish a transparent process for loan sanctioning within the bank. Furthermore, we conduct a comparative analysis to evaluate the effectiveness of our proposed method across two distinct applications. This analysis involves comparing the efficacy of various consensus mechanisms, such as Proof of Work and Proof of Authority, in both scenarios.
+
+**Source:** https://www.semanticscholar.org/paper/c60ef7f95cdd1b42a23680413ddec0b75e7a39c1
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:11:27.364Z

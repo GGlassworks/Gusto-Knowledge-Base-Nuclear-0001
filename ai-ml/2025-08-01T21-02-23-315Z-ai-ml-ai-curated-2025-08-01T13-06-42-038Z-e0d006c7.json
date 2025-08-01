@@ -1,0 +1,13 @@
+# LSTM-CGAN: Towards Generating Low-Rate DDoS Adversarial Samples for Blockchain-Based Wireless Network Detection Models
+
+**Authors:** Zengguang Liu, Xiaochun Yin
+
+## Abstract
+Low-rate Distributed DoS (LDDoS) attack is a complex large-scale attack behavior with strong time-domain characteristics in blockchain-based wireless network. Blockchain with Machine learning-based models, as promising ways, are taken to detect them and secure wireless network. However, researchers focused on how to improve models’ detection performance and work out new blockchain-based protection technologies during the past decades. Due to lack of evolving data, these models and technologies may have poor stability in the face of confrontational samples. To cope with the problem, this paper proposes a novel LSTM-CGAN method to generate high-quality LDDoS adversarial samples for blockchain-based wireless network detection models. In this method, we give a brief feature analysis about LDDoS attack in blockchain-based wireless network and work out its corresponding time series model firstly. And then, we take use of Long Short-Term Memory Networks (LSTM) to learn relationships among sequenced network packages in the same flow. At last, we establish a Condition Generative Adversarial Networks (CGAN) model to use above relationships as specific conditions for generating mimicking behaviors of LDDoS attacks in blockchain-based wireless network. The experimental results show that these generated adversarial samples based on both public and private datasets can cheat the machine learning detection models, and have the similar attack characteristics with the real samples. Consequently, they can be used as blockchain-based wireless network dataset of machine learning classifiers for training to enhance models’ stability.
+
+**Source:** https://www.semanticscholar.org/paper/172b98677e863c72eb815e5a6d1ff822eb16b420
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:06:42.038Z

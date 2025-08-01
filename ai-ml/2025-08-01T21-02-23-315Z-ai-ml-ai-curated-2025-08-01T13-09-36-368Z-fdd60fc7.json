@@ -1,0 +1,13 @@
+# Towards Scalable Blockchain Analysis
+
+**Authors:** Santiago Bragagnolo, Matteo Marra, G. Polito, E. G. Boix
+
+## Abstract
+Analysing the blockchain is becoming more and more relevant for detecting attacks and frauds on cryptocurrency exchanges and smart contract activations. However, this is a challenging task due to the continuous growth of the blockchain. For example, in early 2017 Ethereum was estimated to contain approximately 300GB of data [1], a number that keeps growing day after day. In order to analyse such ever-growing amount of data, this paper argues that blockchain analysis should be treated as a novel type of application for Big Data platforms. In this paper we explore the application of parallelization techniques from the Big Data domain, in particular Map/Reduce, to extract and analyse information from the blockchain. We show that our approach significantly improves the index generation by 7.77 times, with a setup of 20 worker nodes, 1 Ethereum node and 1 Database node. We also share our findings of our massively parallel setup for querying Ethereum in terms of architecture and the bottlenecks. This should help researchers setup similar infrastructures for analysing the blockchain in the future.
+
+**Source:** https://www.semanticscholar.org/paper/ad0f3387c598751fd5f4dc642bcd93248a5bfc5b
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:09:36.368Z

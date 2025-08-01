@@ -1,0 +1,13 @@
+# Blockchain Development Platforms: Performance Comparison
+
+**Authors:** Iman Dernayka, A. Chehab
+
+## Abstract
+In this paper, two of the main Blockchain development platforms, Ethereum and EOS.IO are compared. The objective is to help developers select the most appropriate platform as the back-end Blockchain for their apps. A decentralized application was implemented on each of the platforms triggering basic operations and timing them. The simulations were performed on Microsoft’s Azure cloud, running up to 150 Blockchain nodes while recording the user response time, the CPU utilization, and the totally used memory in Mbytes. The results in this study show that although recognized as a major competitor to Ethereum, EOS.IO fails to outperform the Ethereum platform in this experiment, recording a very high response time in comparison to Ethereum.
+
+**Source:** https://www.semanticscholar.org/paper/e333a012f76ebfa98d547cad60f7a0cbaf018db5
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:13:14.631Z

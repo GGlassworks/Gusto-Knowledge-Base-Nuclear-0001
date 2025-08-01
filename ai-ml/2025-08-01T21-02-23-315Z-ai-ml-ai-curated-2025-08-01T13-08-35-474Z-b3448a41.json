@@ -1,0 +1,13 @@
+# DQN-Based Optimization Framework for Secure Sharded Blockchain Systems
+
+**Authors:** Jusik Yun, Yunyeong Goh, Jong‐Moon Chung
+
+## Abstract
+High levels of scalability and reliability are needed to support the massive Internet-of-Things (IoT) services. In particular, blockchains can be effectively used to safely manage data from large-scale IoT networks. However, current blockchain systems have low transactions per second (TPS) rates and scalability limitations that make them unsuitable. To solve the above issues, this article proposes a deep $Q$ network shard-based blockchain (DQNSB) scheme that dynamically finds the optimal throughput configuration. In this article, a novel analysis of sharded blockchain latency and security-level characterization is provided. Using the analysis equations, the DQNSB scheme estimates the level of maliciousness and adapts the blockchain parameters to enhance the security level considering the amount of malicious attacks on the consensus process. To achieve this purpose, deep reinforcement learning (DRL) agents are trained to find the optimal system parameters in response to the network status, and adaptively optimizes the system throughput and security level. The simulation results show that the proposed DQNSB scheme provides a much higher TPS than the existing DRL-enabled blockchain technology while maintaining a high security level.
+
+**Source:** https://www.semanticscholar.org/paper/dafa79855b02305f9e66c06c6c36704d822a18b6
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:35.475Z

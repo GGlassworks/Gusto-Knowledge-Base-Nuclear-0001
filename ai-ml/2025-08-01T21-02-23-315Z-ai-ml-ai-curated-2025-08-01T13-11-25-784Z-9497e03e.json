@@ -1,0 +1,13 @@
+# ABC-Channel: An Advanced Blockchain-based Covert Channel
+
+**Authors:** Xiaobo Ma, Pengyu Pan, Jianfeng Li, Wei Wang, Weizhi Meng, Xiaohong Guan
+
+## Abstract
+Establishing efficient and robust covert channels is crucial for secure communication within insecure network environments. With its inherent benefits of decentralization and anonymization, blockchain has gained considerable attention in developing covert channels. To guarantee a highly secure covert channel, channel negotiation should be contactless before the communication, carrier transaction features must be indistinguishable from normal transactions during the communication, and communication identities must be untraceable after the communication. Such a full-lifecycle covert channel is indispensable to defend against a versatile adversary who intercepts two communicating parties comprehensively (e.g., on-chain and off-chain). Unfortunately, it has not been thoroughly investigated in the literature. We make the first effort to achieve a full-lifecycle covert channel, a novel blockchain-based covert channel named ABC-Channel. We tackle a series of challenges, such as off-chain contact dependency, increased masquerading difficulties as growing transaction volume, and time-evolving, communicable yet untraceable identities, to achieve contactless channel negotiation, indistinguishable transaction features, and untraceable communication identities, respectively. We develop a working prototype to validate ABC-Channel and conduct extensive tests on the Bitcoin testnet. The experimental results demonstrate that ABC-Channel achieves substantially secure covert capabilities. In comparison to existing methods, it also exhibits state-of-the-art transmission efficiency.
+
+**Source:** https://www.semanticscholar.org/paper/68565e40f67194cfda5117f3908def88f455183f
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:11:25.784Z

@@ -1,0 +1,13 @@
+# A Petri Nets Model for Blockchain Analysis
+
+**Authors:** A. Pinna, R. Tonelli, Matteo Orrù, M. Marchesi
+
+## Abstract
+A Blockchain is a global shared infrastructure where cryptocurrency transactions among addresses are recorded, validated and made publicly available in a peer- to-peer network. To date the best known and important cryptocurrency is the bitcoin. In this paper we focus on this cryptocurrency and in particular on the modeling of the Bitcoin Blockchain by using the Petri Nets formalism. The proposed model allows us to quickly collect information about identities owning Bitcoin addresses and to recover measures and statistics on the Bitcoin network. By exploiting algebraic formalism, we reconstructed an Entities network associated to Blockchain transactions gathering together Bitcoin addresses into the single entity holding permits to manage Bitcoins held by those addresses. The model allows also to identify a set of behaviours typical of Bitcoin owners, like that of using an address only once, and to reconstruct chains for this behaviour together with the rate of firing. Our model is highly flexible and can easily be adapted to include different features of the Bitcoin crypto-currency system.
+
+**Source:** https://www.semanticscholar.org/paper/961ae0787fdf80b9f4a0ac3aa86a72a0e9088000
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:09:36.768Z

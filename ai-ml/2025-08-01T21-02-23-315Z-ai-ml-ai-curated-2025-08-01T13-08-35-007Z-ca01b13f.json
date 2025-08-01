@@ -1,0 +1,13 @@
+# Data Propagation for Low Latency Blockchain Systems
+
+**Authors:** Xin Wang, Xin Jiang, Yanxiu Liu, Jiaping Wang, Yi Sun
+
+## Abstract
+Broadcasting plays a vital role in the consensus mechanisms of blockchain systems, since the consensus of each block must wait until the previous block is received by (nearly) all the nodes in the blockchain systems. Therefore, optimizing the performance of broadcasting can significantly improve the performance of the blockchain system. However, compared with other traditional P2P applications such as file downloading or video delivery, the broadcasting in blockchain has two new requirements, namely low redundancy and low propagation latency, which all the existing mechanisms (e.g. flooding, structural DHT etc.) can not meet well. In this paper, we propose Swift, a new broadcasting mechanism for blockchain systems. It optimizes the P2P topology construction and broadcast algorithm in the structured network based on unsupervised learning and greedy algorithm, effectively reducing the propagation latency of the blockchain P2P network while avoiding the waste of redundant bandwidth. We implemented a prototype of Swift and evaluated its performance on a testbed network that consists of 1000 blockchain nodes. The experimental findings show that Swift can reduce propagation latency by 19.8% with similar bandwidth consumption, generating an 18% increase in the throughput performance of the blockchain. Finally, with the increase in connections, Swift can simultaneously achieve low latency and maintain a relatively stable redundant bandwidth waste, instead of linearly increasing in flooding.
+
+**Source:** https://www.semanticscholar.org/paper/4cdb48eaa0e7e494fc7c329791f7a46e30f04236
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:35.007Z

@@ -1,0 +1,13 @@
+# Integration of Blockchain and Auction Models: A Survey, Some Applications, and Challenges
+
+**Authors:** Zeshun Shi, C. de Laat, P. Grosso, Zhi-Gang Zhao
+
+## Abstract
+In recent years, blockchain has gained widespread attention as an emerging technology for decentralization, transparency, and immutability in advancing online activities over public networks. As an essential market process, auctions have been well studied and applied in many business fields due to their efficiency and contributions to fair trade. Complementary features between blockchain and auction models trigger a great potential for research and innovation. On the one hand, the decentralized nature of blockchain can provide a trustworthy, secure, and cost-effective mechanism to manage the auction process; on the other hand, auction models can be utilized to design incentive and consensus protocols in blockchain architectures. These opportunities have attracted enormous research and innovation activities in both academia and industry; however, there is a lack of an in-depth review of existing solutions and achievements. In this paper, we conduct a comprehensive state-of-the-art survey of these two research topics. We review the existing solutions for integrating blockchain and auction models, with some application-oriented taxonomies generated. Additionally, we highlight some open research challenges and future directions towards integrated blockchain-auction models.
+
+**Source:** https://www.semanticscholar.org/paper/59744d7704c0bb3b2332ad768fb1e2f97c0f0815
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:06:42.143Z

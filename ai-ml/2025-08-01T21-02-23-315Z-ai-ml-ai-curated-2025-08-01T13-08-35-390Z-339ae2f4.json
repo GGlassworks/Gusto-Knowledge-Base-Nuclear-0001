@@ -1,0 +1,13 @@
+# Exploring Sybil and Double-Spending Risks in Blockchain Systems
+
+**Authors:** Mubashar Iqbal, Raimundas Matulevičius
+
+## Abstract
+The first step to realise the true potential of blockchain systems is to explain the associated security risks and vulnerabilities. These risks and vulnerabilities, exploited by the threat agent to affect the valuable assets and services. In this work, we use a security risk management (SRM) domain model and develop a framework to explore two security risks – Sybil and Double-spending – that are observed and considered most concerning security risks within blockchain systems. The framework illustrates the protected assets or assets to secure, the classification of threats that the attacker can trigger using Sybil attack, the identification of threats that cause Double-spending, the vulnerabilities of identified threats, and their countermeasures. We evaluated a newly built framework by exploring Sybil and Double-spending risks in Ethereum-based healthcare applications. We also recognise the various other security and implementation challenges of blockchain that hinder the acceptance of blockchain-enabled solutions. Furthermore, we discuss the permissioned blockchain systems making an appearance in industry-level enterprises and how permissioned blockchain systems control these challenges. We conclude the paper and outline the future work that aims to build an ontology-based blockchain security reference model. The results of this work could help blockchain developers, practitioners, and other associated stakeholders to communicate about Sybil and Double-spending risks, what security countermeasures should be introduced, and what security and implementation challenges are emerging in blockchain systems.
+
+**Source:** https://www.semanticscholar.org/paper/0fb84aa0914355d0a3714b7c613b723b6a80c778
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:35.390Z

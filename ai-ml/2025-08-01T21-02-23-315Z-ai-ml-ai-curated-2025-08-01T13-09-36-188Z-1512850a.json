@@ -1,0 +1,13 @@
+# Evaluating Posts on the Steemit Blockchain: Analysis on Topics Based on Textual Cues
+
+**Authors:** K. Kapanova, Barbara Guidi, Andrea Michienzi, Kevin Koidl
+
+## Abstract
+Online Social Networking platforms (OSNs) are part of the people's everyday life answering the deep-rooted need for communication among humans. During recent years, a new generation of social media based on blockchain became very popular, bringing the power of the technology to the service of social networks. Steemit is one such and employs the blockchain to implement a rewarding mechanism, adding a new, economic, layer to the social media service. The reward mechanism grants virtual tokens to the users capable of engaging other users on the platform, which can be either vested in the platform for increased influence or exchanged for fiat currency. The introduction of an economic layer on a social networking platform can seriously influence how people socialize. In this work, we tackle the problem of understanding how this new business model conditions the way people create contents. We performed term frequency and topic modelling analyses over the written contents published on the platforms between 2017 and 2019. This analysis lets us understand the most common topics of the contents that appear in the platform. While personal mundane information still appears, along with contents related to arts, food, travels, and sport, we also see emerging a very strong presence of contents about blockchain, cryptocurrency and, more specifically, on Steemit itself and its users.
+
+**Source:** https://www.semanticscholar.org/paper/55125516b9a25b5d359002e698f521dbcaee50b6
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:09:36.189Z

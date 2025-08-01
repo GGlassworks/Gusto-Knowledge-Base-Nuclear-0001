@@ -1,0 +1,13 @@
+# An Overview of Forks and Coordination in Blockchain Development
+
+**Authors:** Neo C. K. Yiu
+
+## Abstract
+Blockchain is a continuously developing technology that has made digital transactions and related computing operations more transparent and secure through globally distributed and decentralized management of states, as well as the strong immutability of blocks mined and transactions validated in a network enabled by the blockchain technology. This manuscript is aimed at elaborating the concept of blockchain technology alongside its coordination and implementation with other emerging technologies, such as smart contract, which works with different blockchain frameworks, as well as enabling anonymous transactions and decentralized consensus amongst different untrusting parties. The discussion of blockchain forks is also covered in this manuscript, depicting fork events created in the blockchain process, their brief history, types, and impacts upon the blockchain development and operation.
+
+**Source:** https://www.semanticscholar.org/paper/9efca8875dd1f73e9d32042e76ffa00d4d4721a1
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:13:14.755Z

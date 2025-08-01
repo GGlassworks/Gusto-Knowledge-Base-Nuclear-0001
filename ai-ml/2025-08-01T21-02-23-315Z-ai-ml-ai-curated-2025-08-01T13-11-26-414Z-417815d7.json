@@ -1,0 +1,13 @@
+# A Framework for Secure Vehicular Network using Advanced Blockchain
+
+**Authors:** Vikas Hassija, V. Chamola, Vatsal Gupta, G. Chalapathi
+
+## Abstract
+Vehicular Ad-hoc Network (VANET) poses to be a promising technology for the future since it increases the comfort level of the drivers while also enhancing the safety measures for them. The main aim of VANETs is to enable communication among vehicles and roadside units (RSUs) using vehicle-to-vehicle (V2V) and vehicle-to-RSU (V2R) networks. VANET applications have a vast potential for growth owing to the increasing number of smart cities around the globe and advancement taking place in the technology sector. However, with all their benefits, VANETs also face several security challenges. The sensitive nature of data being transferred turns VANETs prone to malicious attacks. To overcome the security challenges, this paper proposes a distributed Directed Acyclic Graph (DAG) enabled vehicular network comprising several requesting vehicles and RSUs. The proposed model is based on advanced blockchain and therefore provides a strong level of security and data immutability. Furthermore, the interactions between the requesting vehicles and the RSUs have been modeled using an auction-based game-theoretic smart contract deployed on the blockchain.
+
+**Source:** https://www.semanticscholar.org/paper/a0ec3becbd67b6569b2e7ce1bcc2819550d62159
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:11:26.414Z

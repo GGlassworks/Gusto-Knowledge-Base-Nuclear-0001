@@ -1,0 +1,13 @@
+# Simulation of Stochastic Blockchain Models
+
+**Authors:** Pierre-Yves Piriou, J. Dumas
+
+## Abstract
+This paper build the foundations of a simulation tool for blockchain-based applications. It takes advantage of the huge expressiveness and extensibility of PyCATSHOO framework to deal with the important variability of blockchain implémentations and properties of interest. A simple stochastic model of generic blockchain-style distributed consensus system and associated performance indicators are proposed (performance in terms of consistency and ability to discard double-spending attacks). Monte Carlo simulations are applied to assess the indicators and determine their sensitivity to the variation of input parameters.
+
+**Source:** https://www.semanticscholar.org/paper/480301d3e0cb74886e0e7d2d19da259b04dd6b2b
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:06:41.109Z

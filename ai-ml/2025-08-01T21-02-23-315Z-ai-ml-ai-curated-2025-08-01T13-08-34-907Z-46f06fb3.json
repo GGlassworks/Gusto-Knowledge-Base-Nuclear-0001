@@ -1,0 +1,13 @@
+# A Taxonomy for Characterizing Blockchain Systems
+
+**Authors:** Fouzia Alzhrani, Kawther Saeedi, Liping Zhao
+
+## Abstract
+Since its inception more than a decade ago, blockchain technology has been quickly adopted by a large number of sectors, including finance, healthcare, energy supply, and logistics, due to its numerous benefits, such as decentralization, persistency, anonymity and auditability. However, blockchain applications are intrinsically complex, as they are heterogeneous in nature and require cooperation and interoperation with non-blockchain systems. The complexity of the blockchain systems is further exacerbated by the lack of a clear understanding of their composition. This paper aims to bridge this knowledge gap by proposing a taxonomy for characterizing blockchain systems. The proposed taxonomy classifies a blockchain system into a hierarchy of components: At the top level, the system is organized into an external subsystem, an internal subsystem and an execution environment subsystem. These subsystems are then decomposed into eight fundamental components: Platform, Network, Distributed Ledger, Smart Contract, Consensus Protocol, Digital Wallet, Token, and Node. Each component is further divided into different aspects and each aspect is characterized by various features. This taxonomy thus provides a comprehensive understanding of the composition of a blockchain system, which can better inform software developers in their design and implementation of blockchain systems. The paper presents and illustrates the proposed taxonomy through some application scenarios and a case study.
+
+**Source:** https://www.semanticscholar.org/paper/562796daaaeb2e749dbf2f44f143600f19ba7105
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:34.907Z

@@ -1,0 +1,13 @@
+# Post-Quantum Blockchain Security for the Internet of Things: Survey and Research Directions
+
+**Authors:** Hadi Gharavi, J. Granjal, Edmundo Monteiro
+
+## Abstract
+Blockchain is becoming increasingly popular in the business and academic communities because it can provide security for a wide range of applications. Therefore, researchers have been motivated to exploit blockchain characteristics, such as data immutability, transparency, and resistance to single-point failures in the Internet of Things (IoT), to increase the security of the IoT ecosystem. However, many existing blockchains rely on classical cryptosystems such as the Elliptic Curve Digital Signature Algorithm (ECDSA) and SHA-256 to validate transactions, which will be compromised by Shor and Grover’s algorithms running on quantum computers in the foreseeable future. Post-Quantum Cryptosystems (PQC) are an innovative solution for resisting quantum attacks that can be applied to blockchains, resulting in the creation of a new type of blockchain known as Post-Quantum Blockchains (PQB). In this survey, we will look at the different types of PQC and their recent standard primitives to determine whether they can enable security for blockchain-based IoT applications. It also briefly introduces blockchain and outlines recent blockchain-IoT application proposals. To the best of our knowledge, this is the first study to examine how post-quantum blockchains are being developed and how they can be used to create security mechanisms for different IoT applications. Finally, this study explores the main challenges and potential research directions that arise from integrating quantum-resistance blockchains into IoT ecosystems.
+
+**Source:** https://www.semanticscholar.org/paper/ef25d76a0c402423b78caa50e10789a4dc0a35ca
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:12:24.948Z

@@ -1,0 +1,13 @@
+# Blockchain technology, methodology behind it, and its most extensively used encryption techniques.
+
+**Authors:** 
+
+## Abstract
+Blockchain is an innovative type of information technology (IT). It has the potential to revolutionize various sectors. Since its inception, Blockchain technology(BC) has been a novel technique in IT. Blockchains are public ledger of chronologically-connected transactions or occurrences. Blocks retain their hash code. Due to distributed consensus, it records cryptographic transactions in a public ledger. Thus, Blockchain may resist fraud and hacking, and the secure transmission of information has been provided using these cutting-edge encryption technologies, contributing to Blockchain's rising popularity and demand. Blockchain employs encryption at multiple points throughout the process. Blockchain technology resists various harmful attacks and eliminates many associated dangers, but not all.Distributed consensus, cryptography, and anonymity these mechanisims , in some cases, which may weaken its resilience to various frauds and maliciousness. This research aims to provide a comprehensive study of Blockchain technology, its architecture definition, its most important components, elements, and types, and to clarify the technologies that are considered the basis of its work and integration. Among these techniques is encryption; then, we discuss the most important encryption algorithms (Aes, Des, and Bluefish) currently used with Blockchain to solve the security problems they are exposed to and provide full protection for their data.
+
+**Source:** https://www.semanticscholar.org/paper/af67dbf0bc9316841061fb7f9ba826c2856bded0
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:10:31.727Z

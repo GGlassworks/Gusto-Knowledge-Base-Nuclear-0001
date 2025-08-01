@@ -1,0 +1,13 @@
+# Advanced and Secure Data Sharing Scheme with Blockchain and IPFS: A Brief Review
+
+**Authors:** M. Mukhedkar, Prajwal Kote, Mounesha Zonde, Om Jadhav, Vaibhav Bhasme, N. A. Dawande
+
+## Abstract
+In the ever-evolving information age, the challenges posed by the exponential growth of data have led to innovative solutions that leverage the power of technology. This paper introduces a comprehensive data sharing platform that seamlessly integrates blockchain and InterPlanetary File System (IPFS) technologies to address the complex issues of data sharing and storage. The approach begins by establishing an alliance blockchain, employing a consensus mechanism rooted in computing power competition to maintain data integrity within the blockchain. Simultaneously, the IPFS system is harnessed for data storage, utilizing distributed storage, file splitting, and splicing techniques. The resultant data sharing platform consists of distinct modules, including blockchain, IPFS, encryption and decryption, and fast retrieval, providing end-to-end data security and accessibility. Furthermore, the paper delves into the practical implementation of this technology by examining a course sharing project that leverages IPFS and Ethereum blockchain. By utilizing IPFS as an access medium, the paper efficiently reduces storage costs and enhances storage efficiency, effectively addressing the challenge of managing extensive course data. The incorporation of Ethereum blockchain technology ensures the elimination of single points of failure and establishes a robust transaction mechanism that incentivizes course users to engage in sharing and enhances course liquidity. This innovative amalgamation of blockchain and IPFS not only resolves the data sharing conundrum but also guarantees secure, decentralized, and efficient data storage and exchange in an era defined by the relentless growth of digital information.
+
+**Source:** https://www.semanticscholar.org/paper/4f88cbd1ad70304e79f42106b8600bb99bbfd833
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:11:27.273Z

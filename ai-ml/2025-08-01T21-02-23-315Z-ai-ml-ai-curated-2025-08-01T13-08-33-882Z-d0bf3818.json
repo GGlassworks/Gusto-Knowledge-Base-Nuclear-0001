@@ -1,0 +1,13 @@
+# A Geography-Based P2P Overlay Network for Fast and Robust Blockchain Systems
+
+**Authors:** Haoran Qiu, Tao Ji, Shixiong Zhao, Xusheng Chen, Ji Qi, Heming Cui, Sen Wang
+
+## Abstract
+Numerous blockchain systems with various consensus protocols have emerged to achieve high transaction rates (2<inline-formula><tex-math notation="LaTeX">$\sim$</tex-math><alternatives><mml:math><mml:mo>∼</mml:mo></mml:math><inline-graphic xlink:href="zhao-ieq1-3189667.gif"/></alternatives></inline-formula>10K tps). However, their underlying P2P network primitives constrain further improvements due to two problems (i) high message redundancy and (ii) long broadcast convergence time. The first problem is caused by the excessive robustness of the dominant broadcast approach Gossip. All state-of-the-art blockchain systems only tolerate 20-50% node failure while Gossip can withstand up to 90%. The reason for (ii) is that existing broadcast topologies ignore geographical distances among nodes and incur paths with unnecessarily high latency. We present <sc>FRing</sc>, a geography-based P2P overlay network for fast and robust broadcast in blockchain systems. <sc>FRing</sc> has three main features: sufficient robustness, low message redundancy, and fast convergence. To reduce convergence time, <sc>FRing</sc> forms the network topology by considering geographical proximity. A novel broadcast algorithm based on <sc>FRing</sc> topology is proposed to lower message redundancy while maintaining sufficient robustness. One major challenge is to eliminate the risk of topology inference by traffic pattern analysis. <sc>FRing</sc> leverages Intel SGX to guarantee nodes’ behavior integrity and incorporates pattern obfuscation to prevent traffic pattern analysis. The evaluation shows that <sc>FRing</sc> improved the throughput of EOS by 220% and Hyperledger Fabric by 210%.
+
+**Source:** https://www.semanticscholar.org/paper/17765d064ee5f2331fff0fe518309bfc46fdc86a
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:33.882Z
