@@ -1,0 +1,12 @@
+# A Blockchain based and GDPR-compliant design of a system for digital education certificates
+
+**Authors:** Fernanda Molina, Gustavo Betarte, Carlos Luna
+
+## Summary
+Blockchain is an incipient technology that offers many strengths compared to traditional systems, such as decentralization, transparency and traceability. However, if the technology is to be used for processing personal data, complementary mechanisms must be identified that provide support for building systems that meet security and data protection requirements. We study the integration of off-chain capabilities in blockchain-based solutions moving data or computational operations outside the core blockchain network. We develop a thorough analysis of the European data protection regulation and discuss the weaknesses and strengths, regarding the security and privacy requirements established by that regulation, of solutions built using blockchain technology. We also put forward a methodological framework that helps systems designers in combining operational off-chain constructs with traditional blockchain functionalities in order to build more secure and privacy aware solutions. We illustrate the use of that framework presenting and discussing the design of a system that provides services to handle, store and validate digital academic certificates.
+
+
+---
+Category: economics
+Subcategory: cs.SE
+Collected: 2025-08-01T13:09:54.435Z

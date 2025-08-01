@@ -1,0 +1,12 @@
+# Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences
+
+**Authors:** Ismet Gocer, Julia Darby, Serdar Ongan
+
+## Summary
+Important game-changer economic events and transformations cause uncertainties that may affect investment decisions, capital flows, international trade, and macroeconomic variables. One such major transformation is Brexit, which refers to the multiyear process through which the UK withdrew from the EU. This study develops and uses a new Brexit-Related Uncertainty Index (BRUI). In creating this index, we apply Text Mining, Context Window, Natural Language Processing (NLP), and Large Language Models (LLMs) from Deep Learning techniques to analyse the monthly country reports of the Economist Intelligence Unit from May 2012 to January 2025. Additionally, we employ a standard vector autoregression (VAR) analysis to examine the model-implied responses of various macroeconomic variables to BRUI shocks. While developing the BRUI, we also create a complementary COVID-19 Related Uncertainty Index (CRUI) to distinguish the uncertainties stemming from these distinct events. Empirical findings and comparisons of BRUI with other earlier-developed uncertainty indexes demonstrate the robustness of the new index. This new index can assist British policymakers in measuring and understanding the impacts of Brexit-related uncertainties, enabling more effective policy formulation.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:21:09.143Z

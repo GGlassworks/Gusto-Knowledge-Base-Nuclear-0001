@@ -1,0 +1,12 @@
+# Analyzing the Impact of Tax Credits on Households in Simulated Economic Systems with Learning Agents
+
+**Authors:** Jialin Dong, Kshama Dwarakanath, Svitlana Vyetrenko
+
+## Summary
+In economic modeling, there has been an increasing investigation into multi-agent simulators. Nevertheless, state-of-the-art studies establish the model based on reinforcement learning (RL) exclusively for specific agent categories, e.g., households, firms, or the government. It lacks concerns over the resulting adaptation of other pivotal agents, thereby disregarding the complex interactions within a real-world economic system. Furthermore, we pay attention to the vital role of the government policy in distributing tax credits. Instead of uniform distribution considered in state-of-the-art, it requires a well-designed strategy to reduce disparities among households and improve social welfare. To address these limitations, we propose an expansive multi-agent economic model comprising reinforcement learning agents of numerous types. Additionally, our research comprehensively explores the impact of tax credit allocation on household behavior and captures the spectrum of spending patterns that can be observed across diverse households. Further, we propose an innovative government policy to distribute tax credits, strategically leveraging insights from tax credit spending patterns. Simulation results illustrate the efficacy of the proposed government strategy in ameliorating inequalities across households.
+
+
+---
+Category: economics
+Subcategory: cs.MA
+Collected: 2025-08-01T20:46:27.804Z

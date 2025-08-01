@@ -1,0 +1,12 @@
+# Macroeconomic forecasting with LSTM and mixed frequency time series data
+
+**Authors:** Sarun Kamolthip
+
+## Summary
+This paper demonstrates the potentials of the long short-term memory (LSTM) when applyingwith macroeconomic time series data sampled at different frequencies. We first present how theconventional LSTM model can be adapted to the time series observed at mixed frequencies when thesame mismatch ratio is applied for all pairs of low-frequency output and higher-frequency variable. Togeneralize the LSTM to the case of multiple mismatch ratios, we adopt the unrestricted Mixed DAtaSampling (U-MIDAS) scheme (Foroni et al., 2015) into the LSTM architecture. We assess via bothMonte Carlo simulations and empirical application the out-of-sample predictive performance. Ourproposed models outperform the restricted MIDAS model even in a set up favorable to the MIDASestimator. For real world application, we study forecasting a quarterly growth rate of Thai realGDP using a vast array of macroeconomic indicators both quarterly and monthly. Our LSTM withU-MIDAS scheme easily beats the simple benchmark AR(1) model at all horizons, but outperformsthe strong benchmark univariate LSTM only at one and six months ahead. Nonetheless, we find thatour proposed model could be very helpful in the period of large economic downturns for short-termforecast. Simulation and empirical results seem to support the use of our proposed LSTM withU-MIDAS scheme to nowcasting application.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T20:07:52.559Z

@@ -1,0 +1,12 @@
+# Optimal Prediction Intervals for Macroeconomic Time Series Using Chaos and NSGA II
+
+**Authors:** Vangala Sarveswararao, Vadlamani Ravi, Sheik Tanveer Ul Huq
+
+## Summary
+In a first-of-its-kind study, this paper proposes the formulation of constructing prediction intervals (PIs) in a time series as a bi-objective optimization problem and solves it with the help of Nondominated Sorting Genetic Algorithm (NSGA-II). We also proposed modeling the chaos present in the time series as a preprocessor in order to model the deterministic uncertainty present in the time series. Even though the proposed models are general in purpose, they are used here for quantifying the uncertainty in macroeconomic time series forecasting. Ideal PIs should be as narrow as possible while capturing most of the data points. Based on these two objectives, we formulated a bi-objective optimization problem to generate PIs in 2-stages, wherein reconstructing the phase space using Chaos theory (stage-1) is followed by generating optimal point prediction using NSGA-II and these point predictions are in turn used to obtain PIs (stage-2). We also proposed a 3-stage hybrid, wherein the 3rd stage invokes NSGA-II too in order to solve the problem of constructing PIs from the point prediction obtained in 2nd stage. The proposed models when applied to the macroeconomic time series, yielded better results in terms of both prediction interval coverage probability (PICP) and prediction interval average width (PIAW) compared to the state-of-the-art Lower Upper Bound Estimation Method (LUBE) with Gradient Descent (GD). The 3-stage model yielded better PICP compared to the 2-stage model but showed similar performance in PIAW with added computation cost of running NSGA-II second time.
+
+
+---
+Category: economics
+Subcategory: cs.NE
+Collected: 2025-08-01T10:59:23.302Z

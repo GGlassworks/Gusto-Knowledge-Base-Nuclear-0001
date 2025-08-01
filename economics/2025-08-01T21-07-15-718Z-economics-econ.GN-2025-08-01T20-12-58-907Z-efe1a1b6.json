@@ -1,0 +1,12 @@
+# A basic macroeconomic agent-based model for analyzing monetary regime shifts
+
+**Authors:** Florian Peters, Doris Neuberger, Oliver Reinhardt, Adelinde Uhrmacher
+
+## Summary
+In macroeconomics, an emerging discussion of alternative monetary systems addresses the dimensions of systemic risk in advanced financial systems. Monetary regime changes with the aim of achieving a more sustainable financial system have already been discussed in several European parliaments and were the subject of a referendum in Switzerland. However, their effectiveness and efficacy concerning macro-financial stability are not well-known. This paper introduces a macroeconomic agent-based model (MABM) in a novel simulation environment to simulate the current monetary system, which may serve as a basis to implement and analyze monetary regime shifts. In this context, the monetary system affects the lending potential of banks and might impact the dynamics of financial crises. MABMs are predestined to replicate emergent financial crisis dynamics, analyze institutional changes within a financial system, and thus measure macro-financial stability. The used simulation environment makes the model more accessible and facilitates exploring the impact of different hypotheses and mechanisms in a less complex way. The model replicates a wide range of stylized economic facts, including simplifying assumptions to reduce model complexity.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:12:58.908Z

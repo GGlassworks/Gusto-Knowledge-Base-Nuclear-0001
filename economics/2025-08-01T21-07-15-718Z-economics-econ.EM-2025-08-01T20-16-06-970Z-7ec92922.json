@@ -1,0 +1,12 @@
+# Deep Learning Macroeconomics
+
+**Authors:** Rafael R. S. Guimaraes
+
+## Summary
+Limited datasets and complex nonlinear relationships are among the challenges that may emerge when applying econometrics to macroeconomic problems. This research proposes deep learning as an approach to transfer learning in the former case and to map relationships between variables in the latter case. Although macroeconomists already apply transfer learning when assuming a given a priori distribution in a Bayesian context, estimating a structural VAR with signal restriction and calibrating parameters based on results observed in other models, to name a few examples, advance in a more systematic transfer learning strategy in applied macroeconomics is the innovation we are introducing. We explore the proposed strategy empirically, showing that data from different but related domains, a type of transfer learning, helps identify the business cycle phases when there is no business cycle dating committee and to quick estimate a economic-based output gap. Next, since deep learning methods are a way of learning representations, those that are formed by the composition of multiple non-linear transformations, to yield more abstract representations, we apply deep learning for mapping low-frequency from high-frequency variables. The results obtained show the suitability of deep learning models applied to macroeconomic problems. First, models learned to classify United States business cycles correctly. Then, applying transfer learning, they were able to identify the business cycles of out-of-sample Brazilian and European data. Along the same lines, the models learned to estimate the output gap based on the U.S. data and obtained good performance when faced with Brazilian data. Additionally, deep learning proved adequate for mapping low-frequency variables from high-frequency data to interpolate, distribute, and extrapolate time series by related series.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T20:16:06.970Z

@@ -1,0 +1,12 @@
+# Deep Neural Networks and Neuro-Fuzzy Networks for Intellectual Analysis of Economic Systems
+
+**Authors:** Alexey Averkin, Sergey Yarushev
+
+## Summary
+In tis paper we consider approaches for time series forecasting based on deep neural networks and neuro-fuzzy nets. Also, we make short review of researches in forecasting based on various models of ANFIS models. Deep Learning has proven to be an effective method for making highly accurate predictions from complex data sources. Also, we propose our models of DL and Neuro-Fuzzy Networks for this task. Finally, we show possibility of using these models for data science tasks. This paper presents also an overview of approaches for incorporating rule-based methodology into deep learning neural networks.
+
+
+---
+Category: economics
+Subcategory: cs.NE
+Collected: 2025-08-01T11:44:25.381Z

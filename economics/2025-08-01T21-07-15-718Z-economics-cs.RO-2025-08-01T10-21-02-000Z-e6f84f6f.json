@@ -1,0 +1,12 @@
+# EasyInsert: A Data-Efficient and Generalizable Insertion Policy
+
+**Authors:** Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
+
+## Summary
+Insertion task is highly challenging that requires robots to operate with exceptional precision in cluttered environments. Existing methods often have poor generalization capabilities. They typically function in restricted and structured environments, and frequently fail when the plug and socket are far apart, when the scene is densely cluttered, or when handling novel objects. They also rely on strong assumptions such as access to CAD models or a digital twin in simulation. To address this, we propose EasyInsert, a framework which leverages the human intuition that relative pose (delta pose) between plug and socket is sufficient for successful insertion, and employs efficient and automated real-world data collection with minimal human labor to train a generalizable model for relative pose prediction. During execution, EasyInsert follows a coarse-to-fine execution procedure based on predicted delta pose, and successfully performs various insertion tasks. EasyInsert demonstrates strong zero-shot generalization capability for unseen objects in cluttered environments, handling cases with significant initial pose deviations while maintaining high sample efficiency and requiring little human effort. In real-world experiments, with just 5 hours of training data, EasyInsert achieves over 90% success in zero-shot insertion for 13 out of 15 unseen novel objects, including challenging objects like Type-C cables, HDMI cables, and Ethernet cables. Furthermore, with only one human demonstration and 4 minutes of automatically collected data for fine-tuning, it reaches over 90% success rate for all 15 objects.
+
+
+---
+Category: economics
+Subcategory: cs.RO
+Collected: 2025-08-01T10:21:02.000Z

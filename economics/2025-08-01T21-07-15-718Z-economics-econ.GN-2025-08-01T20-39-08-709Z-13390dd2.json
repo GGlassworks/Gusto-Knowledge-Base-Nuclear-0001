@@ -1,0 +1,12 @@
+# Computing Economic Chaos
+
+**Authors:** Richard H. Day, Oleg V. Pavlov
+
+## Summary
+Existence theory in economics is usually in real domains such as the findings of chaotic trajectories in models of economic growth, tatonnement, or overlapping generations models. Computational examples, however, sometimes converge rapidly to cyclic orbits when in theory they should be nonperiodic almost surely. We explain this anomaly as the result of digital approximation and conclude that both theoretical and numerical behavior can still illuminate essential features of the real data.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:39:08.710Z

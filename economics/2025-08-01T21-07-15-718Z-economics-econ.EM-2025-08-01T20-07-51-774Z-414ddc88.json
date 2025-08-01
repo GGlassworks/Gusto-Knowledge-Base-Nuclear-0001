@@ -1,0 +1,12 @@
+# Modelling and Forecasting Macroeconomic Risk with Time Varying Skewness Stochastic Volatility Models
+
+**Authors:** Andrea Renzetti
+
+## Summary
+Monitoring downside risk and upside risk to the key macroeconomic indicators is critical for effective policymaking aimed at maintaining economic stability. In this paper I propose a parametric framework for modelling and forecasting macroeconomic risk based on stochastic volatility models with Skew-Normal and Skew-t shocks featuring time varying skewness. Exploiting a mixture stochastic representation of the Skew-Normal and Skew-t random variables, in the paper I develop efficient posterior simulation samplers for Bayesian estimation of both univariate and VAR models of this type. In an application, I use the models to predict downside risk to GDP growth in the US and I show that these models represent a competitive alternative to semi-parametric approaches such as quantile regression. Finally, estimating a medium scale VAR on US data I show that time varying skewness is a relevant feature of macroeconomic and financial shocks.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T20:07:51.774Z

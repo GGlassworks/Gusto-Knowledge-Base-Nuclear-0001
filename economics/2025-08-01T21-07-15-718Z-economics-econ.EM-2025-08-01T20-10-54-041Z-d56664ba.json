@@ -1,0 +1,12 @@
+# Firm Heterogeneity and Macroeconomic Fluctuations: a Functional VAR model
+
+**Authors:** Massimiliano Marcellino, Andrea Renzetti, Tommaso Tornese
+
+## Summary
+We develop a Functional Augmented Vector Autoregression (FunVAR) model to explicitly incorporate firm-level heterogeneity observed in more than one dimension and study its interaction with aggregate macroeconomic fluctuations. Our methodology employs dimensionality reduction techniques for tensor data objects to approximate the joint distribution of firm-level characteristics. More broadly, our framework can be used for assessing predictions from structural models that account for micro-level heterogeneity observed on multiple dimensions. Leveraging firm-level data from the Compustat database, we use the FunVAR model to analyze the propagation of total factor productivity (TFP) shocks, examining their impact on both macroeconomic aggregates and the cross-sectional distribution of capital and labor across firms.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T20:10:54.042Z

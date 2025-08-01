@@ -1,0 +1,12 @@
+# When are Google data useful to nowcast GDP? An approach via pre-selection and shrinkage
+
+**Authors:** Laurent Ferrara, Anna Simoni
+
+## Summary
+Alternative data sets are widely used for macroeconomic nowcasting together with machine learning--based tools. The latter are often applied without a complete picture of their theoretical nowcasting properties. Against this background, this paper proposes a theoretically grounded nowcasting methodology that allows researchers to incorporate alternative Google Search Data (GSD) among the predictors and that combines targeted preselection, Ridge regularization, and Generalized Cross Validation. Breaking with most existing literature, which focuses on asymptotic in-sample theoretical properties, we establish the theoretical out-of-sample properties of our methodology and support them by Monte-Carlo simulations. We apply our methodology to GSD to nowcast GDP growth rate of several countries during various economic periods. Our empirical findings support the idea that GSD tend to increase nowcasting accuracy, even after controlling for official variables, but that the gain differs between periods of recessions and of macroeconomic stability.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T20:15:07.854Z

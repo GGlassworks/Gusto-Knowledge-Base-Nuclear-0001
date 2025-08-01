@@ -1,0 +1,12 @@
+# Emergent inequality and endogenous dynamics in a simple behavioral macroeconomic model
+
+**Authors:** Yuki M. Asano, Jakob J. Kolb, Jobst Heitzig, J. Doyne Farmer
+
+## Summary
+Standard macroeconomic models assume that households are rational in the sense that they are perfect utility maximizers, and explain economic dynamics in terms of shocks that drive the economy away from the stead-state. Here we build on a standard macroeconomic model in which a single rational representative household makes a savings decision of how much to consume or invest. In our model households are myopic boundedly rational heterogeneous agents embedded in a social network. From time to time each household updates its savings rate by copying the savings rate of its neighbor with the highest consumption. If the updating time is short, the economy is stuck in a poverty trap, but for longer updating times economic output approaches its optimal value, and we observe a critical transition to an economy with irregular endogenous oscillations in economic output, resembling a business cycle. In this regime households divide into two groups: Poor households with low savings rates and rich households with high savings rates. Thus inequality and economic dynamics both occur spontaneously as a consequence of imperfect household decision making. Our work here supports an alternative program of research that substitutes utility maximization for behaviorally grounded decision making.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:08:52.855Z

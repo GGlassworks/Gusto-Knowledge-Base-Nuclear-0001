@@ -1,0 +1,12 @@
+# Assessing the Sensitivities of Input-Output Methods for Natural Hazard-Induced Power Outage Macroeconomic Impacts
+
+**Authors:** Matthew Sprintson, Edward Oughton
+
+## Summary
+It is estimated that over one-fourth of US households experienced a power outage in 2023, costing on average US $\$150$ Bn annually, with $87\%$ of outages caused by natural hazards. Indeed, numerous studies have examined the macroeconomic impact of power network interruptions, employing a wide variety of modeling methods and data parameterization techniques, which warrants further investigation. In this paper, we quantify the macroeconomic effects of three significant natural hazard-induced US power outages: Hurricane Ian (2022), the 2021 Texas Blackouts, and Tropical Storm Isaias (2020). Our analysis evaluates the sensitivity of three commonly used data parameterization techniques (household interruptions, kWh lost, and satellite luminosity), along with three static models (Leontief and Ghosh, critical input, and inoperability Input-Output). We find the mean domestic loss estimates to be US $\$3.13$ Bn, US $\$4.18$ Bn, and US $\$2.93$ Bn, respectively. Additionally, data parameterization techniques can alter estimated losses by up to $23.1\%$ and $50.5\%$. Consistent with the wide range of outputs, we find that the GDP losses are highly sensitive to model architecture, data parameterization, and analyst assumptions. Results sensitivity is not uniform across models and arises from important a priori analyst decisions, demonstrated by data parameterization techniques yielding $11\%$ and $45\%$ differences within a model. We find that the numerical value output is more sensitive than intersectoral linkages and other macroeconomic insights. To our knowledge, we contribute to literature the first systematic comparison of multiple IO models and parameterizations across several natural hazard-induced long-duration power outages, providing guidance and insights for analysts.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:20:05.054Z

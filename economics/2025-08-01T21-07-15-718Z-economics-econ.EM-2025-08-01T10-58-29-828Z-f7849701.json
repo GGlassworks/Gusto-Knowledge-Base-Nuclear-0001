@@ -1,0 +1,12 @@
+# How is Machine Learning Useful for Macroeconomic Forecasting?
+
+**Authors:** Philippe Goulet Coulombe, Maxime Leroux, Dalibor Stevanovic, Stéphane Surprenant
+
+## Summary
+We move beyond "Is Machine Learning Useful for Macroeconomic Forecasting?" by adding the "how". The current forecasting literature has focused on matching specific variables and horizons with a particularly successful algorithm. In contrast, we study the usefulness of the underlying features driving ML gains over standard macroeconometric methods. We distinguish four so-called features (nonlinearities, regularization, cross-validation and alternative loss function) and study their behavior in both the data-rich and data-poor environments. To do so, we design experiments that allow to identify the "treatment" effects of interest. We conclude that (i) nonlinearity is the true game changer for macroeconomic prediction, (ii) the standard factor model remains the best regularization, (iii) K-fold cross-validation is the best practice and (iv) the $L_2$ is preferred to the $\bar \epsilon$-insensitive in-sample loss. The forecasting gains of nonlinear techniques are associated with high macroeconomic uncertainty, financial stress and housing bubble bursts. This suggests that Machine Learning is useful for macroeconomic forecasting by mostly capturing important nonlinearities that arise in the context of uncertainty and financial frictions.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T10:58:29.828Z

@@ -1,0 +1,12 @@
+# Exploration of the Parameter Space in Macroeconomic Agent-Based Models
+
+**Authors:** Karl Naumann-Woleske, Max Sina Knicker, Michael Benzaquen, Jean-Philippe Bouchaud
+
+## Summary
+Agent-Based Models (ABM) are computational scenario-generators, which can be used to predict the possible future outcomes of the complex system they represent. To better understand the robustness of these predictions, it is necessary to understand the full scope of the possible phenomena the model can generate. Most often, due to high-dimensional parameter spaces, this is a computationally expensive task. Inspired by ideas coming from systems biology, we show that for multiple macroeconomic models, including an agent-based model and several Dynamic Stochastic General Equilibrium (DSGE) models, there are only a few stiff parameter combinations that have strong effects, while the other sloppy directions are irrelevant. This suggest an algorithm that efficiently explores the space of parameters by primarily moving along the stiff directions. We apply our algorithm to a medium-sized agent-based model, and show that it recovers all possible dynamics of the unemployment rate. The application of this method to Agent-based Models may lead to a more thorough and robust understanding of their features, and provide enhanced parameter sensitivity analyses. Several promising paths for future research are discussed.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:09:57.617Z

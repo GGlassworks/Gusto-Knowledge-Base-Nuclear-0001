@@ -1,0 +1,12 @@
+# Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos
+
+**Authors:** Weirui Ye, Fangchen Liu, Zheng Ding, Yang Gao, Oleh Rybkin, Pieter Abbeel
+
+## Summary
+Simulation offers a promising approach for cheaply scaling training data for generalist policies. To scalably generate data from diverse and realistic tasks, existing algorithms either rely on large language models (LLMs) that may hallucinate tasks not interesting for robotics; or digital twins, which require careful real-to-sim alignment and are hard to scale. To address these challenges, we introduce Video2Policy, a novel framework that leverages internet RGB videos to reconstruct tasks based on everyday human behavior. Our approach comprises two phases: (1) task generation in simulation from videos; and (2) reinforcement learning utilizing in-context LLM-generated reward functions iteratively. We demonstrate the efficacy of Video2Policy by reconstructing over 100 videos from the Something-Something-v2 (SSv2) dataset, which depicts diverse and complex human behaviors on 9 different tasks. Our method can successfully train RL policies on such tasks, including complex and challenging tasks such as throwing. Finally, we show that the generated simulation data can be scaled up for training a general policy, and it can be transferred back to the real robot in a Real2Sim2Real way.
+
+
+---
+Category: economics
+Subcategory: cs.RO
+Collected: 2025-08-01T10:18:24.119Z

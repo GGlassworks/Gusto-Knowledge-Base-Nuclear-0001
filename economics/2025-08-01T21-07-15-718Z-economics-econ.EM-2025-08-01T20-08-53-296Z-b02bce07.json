@@ -1,0 +1,12 @@
+# An Adaptive Moving Average for Macroeconomic Monitoring
+
+**Authors:** Philippe Goulet Coulombe, Karin Klieber
+
+## Summary
+The use of moving averages is pervasive in macroeconomic monitoring, particularly for tracking noisy series such as inflation. The choice of the look-back window is crucial. Too long of a moving average is not timely enough when faced with rapidly evolving economic conditions. Too narrow averages are noisy, limiting signal extraction capabilities. As is well known, this is a bias-variance trade-off. However, it is a time-varying one: the optimal size of the look-back window depends on current macroeconomic conditions. In this paper, we introduce a simple adaptive moving average estimator based on a Random Forest using as sole predictor a time trend. Then, we compare the narratives inferred from the new estimator to those derived from common alternatives across series such as headline inflation, core inflation, and real activity indicators. Notably, we find that this simple tool provides a different account of the post-pandemic inflation acceleration and subsequent deceleration.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T20:08:53.297Z

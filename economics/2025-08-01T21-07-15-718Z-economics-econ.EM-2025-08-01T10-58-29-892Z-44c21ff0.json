@@ -1,0 +1,12 @@
+# Machine Learning and the Yield Curve: Tree-Based Macroeconomic Regime Switching
+
+**Authors:** Siyu Bie, Francis X. Diebold, Jingyu He, Junye Li
+
+## Summary
+We explore tree-based macroeconomic regime-switching in the context of the dynamic Nelson-Siegel (DNS) yield-curve model. In particular, we customize the tree-growing algorithm to partition macroeconomic variables based on the DNS model's marginal likelihood, thereby identifying regime-shifting patterns in the yield curve. Compared to traditional Markov-switching models, our model offers clear economic interpretation via macroeconomic linkages and ensures computational simplicity. In an empirical application to U.S. Treasury yields, we find (1) important yield-curve regime switching, and (2) evidence that macroeconomic variables have predictive power for the yield curve when the federal funds rate is high, but not in other regimes, thereby refining the notion of yield curve ''macro-spanning''.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T10:58:29.892Z

@@ -1,0 +1,12 @@
+# Efficiency through Evolution, A Darwinian Approach to Agent-Based Economic Forecast Modeling
+
+**Authors:** Martin Jaraiz
+
+## Summary
+This paper presents a novel Darwinian Agent-Based Modeling (ABM) methodology formacroeconomic forecasting that leverages evolutionary principles to achieve remarkablecomputational efficiency and emergent realism. Unlike conventional DSGE and ABM approachesthat rely on complex behavioral rules derived from large firm analysis, our framework employssimple "common sense" rules representative of small firms directly serving final consumers. Themethodology treats households as the primary drivers of economic dynamics, with firms adaptingthrough market-based natural selection within limited interaction neighborhoods. We demonstrate that this approach, when constrained by Input-Output table structures,generates realistic economic patterns including wealth distributions, firm size distributions, andsectoral employment patterns without extensive parameter calibration. Using FIGARO Input-Output tables for 46 countries and focusing on Austria as a case study, we show that the modelreproduces empirical regularities while maintaining computational efficiency on standard laptopsrather than requiring supercomputing clusters. Key findings include: (1) emergence of realistic firm and employment distributions fromminimal behavioral assumptions, (2) accurate reproduction of the initial Social Accounting Matrixvalues through evolutionary dynamics, (3) successful calibration using only 5-6 country-specificparameters to complement the FIGARO data, and (4) computational performance enabling fullsimulations on consumer hardware. These results suggest that evolutionary ABM approaches canprovide robust policy insights by capturing decentralized market adaptations while avoiding thecomputational complexity of traditional DSGE and comprehensive ABM models.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:48:33.325Z

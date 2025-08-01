@@ -1,0 +1,12 @@
+# Clustering Macroeconomic Time Series
+
+**Authors:** Iwo Augustyński, Paweł Laskoś-Grabowski
+
+## Summary
+The data mining technique of time series clustering is well established in many fields. However, as an unsupervised learning method, it requires making choices that are nontrivially influenced by the nature of the data involved. The aim of this paper is to verify usefulness of the time series clustering method for macroeconomics research, and to develop the most suitable methodology. By extensively testing various possibilities, we arrive at a choice of a dissimilarity measure (compression-based dissimilarity measure, or CDM) which is particularly suitable for clustering macroeconomic variables. We check that the results are stable in time and reflect large-scale phenomena such as crises. We also successfully apply our findings to analysis of national economies, specifically to identifying their structural relations.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T20:14:05.195Z

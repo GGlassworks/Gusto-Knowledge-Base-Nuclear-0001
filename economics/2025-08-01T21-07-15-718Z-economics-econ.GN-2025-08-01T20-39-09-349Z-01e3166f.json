@@ -1,0 +1,12 @@
+# Engineering Economics in the Conflux Network
+
+**Authors:** Yuxi Cai, Fan Long, Andreas Park, Andreas Veneris
+
+## Summary
+Proof-of-work blockchains need to be carefully designed so as to create the proper incentives for miners to faithfully maintain the network in a sustainable way. This paper describes how the economic engineering of the Conflux Network, a high throughput proof-of-work blockchain, leads to sound economic incentives that support desirable and sustainable mining behavior. In detail, this paper parameterizes the level of income, and thus network security, that Conflux can generate, and it describes how this depends on user behavior and "policy variables'' such as block and interest inflation. It also discusses how the underlying economic engineering design makes the Conflux Network resilient against double spending and selfish mining attacks.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:39:09.350Z

@@ -1,0 +1,12 @@
+# EconoJax: A Fast &amp; Scalable Economic Simulation in Jax
+
+**Authors:** Koen Ponse, Aske Plaat, Niki van Stein, Thomas M. Moerland
+
+## Summary
+Accurate economic simulations often require many experimental runs, particularly when combined with reinforcement learning. Unfortunately, training reinforcement learning agents in multi-agent economic environments can be slow. This paper introduces EconoJax, a fast simulated economy, based on the AI economist. EconoJax, and its training pipeline, are completely written in JAX. This allows EconoJax to scale to large population sizes and perform large experiments, while keeping training times within minutes. Through experiments with populations of 100 agents, we show how real-world economic behavior emerges through training within 15 minutes, in contrast to previous work that required several days. We additionally perform experiments in varying sized action spaces to test if some multi-agent methods produce more diverse behavior compared to others. Here, our findings indicate no notable differences in produced behavior with different methods as is sometimes suggested in earlier works. To aid further research, we open-source EconoJax on Github.
+
+
+---
+Category: economics
+Subcategory: cs.MA
+Collected: 2025-08-01T20:46:26.383Z

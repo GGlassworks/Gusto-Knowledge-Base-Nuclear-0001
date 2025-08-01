@@ -1,0 +1,12 @@
+# Economic Reality, Economic Media and Individuals' Expectations
+
+**Authors:** Kristoffer Persson
+
+## Summary
+This paper investigates the relationship between economic media sentiment and individuals' expetations and perceptions about economic conditions. We test if economic media sentiment Granger-causes individuals' expectations and opinions concerning economic conditions, controlling for macroeconomic variables. We develop a measure of economic media sentiment using a supervised machine learning method on a data set of Swedish economic media during the period 1993-2017. We classify the sentiment of 179,846 media items, stemming from 1,071 unique media outlets, and use the number of news items with positive and negative sentiment to construct a time series index of economic media sentiment. Our results show that this index Granger-causes individuals' perception of macroeconomic conditions. This indicates that the way the economic media selects and frames macroeconomic news matters for individuals' aggregate perception of macroeconomic reality.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:18:09.324Z

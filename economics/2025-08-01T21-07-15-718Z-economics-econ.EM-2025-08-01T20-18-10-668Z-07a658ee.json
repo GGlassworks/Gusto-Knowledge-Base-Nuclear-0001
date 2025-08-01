@@ -1,0 +1,12 @@
+# Fractional trends and cycles in macroeconomic time series
+
+**Authors:** Tobias Hartl, Rolf Tschernig, Enzo Weber
+
+## Summary
+We develop a generalization of correlated trend-cycle decompositions that avoids prior assumptions about the long-run dynamic characteristics by modelling the permanent component as a fractionally integrated process and incorporating a fractional lag operator into the autoregressive polynomial of the cyclical component. The model allows for an endogenous estimation of the integration order jointly with the other model parameters and, therefore, no prior specification tests with respect to persistence are required. We relate the model to the Beveridge-Nelson decomposition and derive a modified Kalman filter estimator for the fractional components. Identification, consistency, and asymptotic normality of the maximum likelihood estimator are shown. For US macroeconomic data we demonstrate that, unlike $I(1)$ correlated unobserved components models, the new model estimates a smooth trend together with a cycle hitting all NBER recessions. While $I(1)$ unobserved components models yield an upward-biased signal-to-noise ratio whenever the integration order of the data-generating mechanism is greater than one, the fractionally integrated model attributes less variation to the long-run shocks due to the fractional trend specification and a higher variation to the cycle shocks due to the fractional lag operator, leading to more persistent cycles and smooth trend estimates that reflect macroeconomic common sense.
+
+
+---
+Category: economics
+Subcategory: econ.EM
+Collected: 2025-08-01T20:18:10.668Z

@@ -1,0 +1,12 @@
+# Finding Regularized Competitive Equilibria of Heterogeneous Agent Macroeconomic Models with Reinforcement Learning
+
+**Authors:** Ruitu Xu, Yifei Min, Tianhao Wang, Zhaoran Wang, Michael I. Jordan, Zhuoran Yang
+
+## Summary
+We study a heterogeneous agent macroeconomic model with an infinite number of households and firms competing in a labor market. Each household earns income and engages in consumption at each time step while aiming to maximize a concave utility subject to the underlying market conditions. The households aim to find the optimal saving strategy that maximizes their discounted cumulative utility given the market condition, while the firms determine the market conditions through maximizing corporate profit based on the household population behavior. The model captures a wide range of applications in macroeconomic studies, and we propose a data-driven reinforcement learning framework that finds the regularized competitive equilibrium of the model. The proposed algorithm enjoys theoretical guarantees in converging to the equilibrium of the market at a sub-linear rate.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:08:53.066Z

@@ -1,0 +1,12 @@
+# A Markov Process Theory for Network Growth Processes of DAG-based Blockchain Systems
+
+**Authors:** Xing-Shuo Song, Quan-Lin Li, Yan-Xia Chang, Chi Zhang
+
+## Summary
+Note that the serial structure of blockchain has many essential pitfalls, thus a data network structure and its DAG-based blockchain are introduced to resolve the blockchain pitfalls. From such a network perspective, analysis of the DAG-based blockchain systems becomes interesting and challenging. So, the simulation models are adopted widely. In this paper, we first describe a simple Markov model for the DAG-based blockchain with IOTA Tangle by means of two layers of tips and internal tips' impatient connection behavior. Then we set up a continuous-time Markov process to analyze the DAG-based blockchain system and show that this Markov process is a level-dependent quasi-birth-and-death (QBD) process. Based on this, we prove that the QBD process must be irreducible and positive recurrent. Furthermore, once the stationary probability vector of the QBD process is given, we provide performance analysis of the DAG-based blockchain system. Next, we propose a new effective method for computing the average confirmation time of any arriving internal tip at this system by means of the first passage times and the PH distributions. Finally, we use numerical examples to check the validity of our theoretical results and indicate how some key system parameters influence the performance measures of this system. Therefore, we hope that the methodology and results developed in this paper can be applicable to deal with more general DAG-based blockchain systems such that a series of promising research can be developed potentially.
+
+
+---
+Category: economics
+Subcategory: cs.PF
+Collected: 2025-08-01T13:09:54.080Z

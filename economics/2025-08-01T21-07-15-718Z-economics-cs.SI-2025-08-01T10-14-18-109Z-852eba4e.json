@@ -1,0 +1,12 @@
+# Scaling of city attractiveness for foreign visitors through big data of human economical and social media activity
+
+**Authors:** Stanislav Sobolevsky, Iva Bojic, Alexander Belyi, Izabela Sitko, Bartosz Hawelka, Juan Murillo Arias, Carlo Ratti
+
+## Summary
+Scientific studies investigating laws and regularities of human behavior are nowadays increasingly relying on the wealth of widely available digital information produced by human social activity. In this paper we leverage big data created by three different aspects of human activity (i.e., bank card transactions, geotagged photographs and tweets) in Spain for quantifying city attractiveness for the foreign visitors. An important finding of this papers is a strong superlinear scaling of city attractiveness with its population size. The observed scaling exponent stays nearly the same for different ways of defining cities and for different data sources, emphasizing the robustness of our finding. Temporal variation of the scaling exponent is also considered in order to reveal seasonal patterns in the attractiveness
+
+
+---
+Category: economics
+Subcategory: cs.SI
+Collected: 2025-08-01T10:14:18.110Z
