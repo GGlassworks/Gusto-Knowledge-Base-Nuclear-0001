@@ -1,0 +1,12 @@
+# Quantum multi-output Gaussian Processes based Machine Learning for Line Parameter Estimation in Electrical Grids
+
+**Authors:** Priyanka Arkalgud Ganeshamurthy, Kumar Ghosh, Corey O'Meara, Giorgio Cortiana, Jan Schiefelbein-Lach, Antonello Monti
+
+## Summary
+Gaussian process (GP) is a powerful modeling method with applications in machine learning for various engineering and non-engineering fields. Despite numerous benefits of modeling using GPs, the computational complexity associated with GPs demanding immense resources make their practical usage highly challenging. In this article, we develop a quantum version of multi-output Gaussian Process (QGP) by implementing a well-known quantum algorithm called HHL, to perform the Kernel matrix inversion within the Gaussian Process. To reduce the large circuit depth of HHL a circuit optimization technique called Approximate Quantum Compiling (AQC) has been implemented. We further showcase the application of QGP for a real-world problem to estimate line parameters of an electrical grid. Using AQC, up to 13-qubit HHL circuit has been implemented for a 32x32 kernel matrix inversion on IBM Quantum hardware for demonstrating QGP based line parameter estimation experimentally. Finally, we compare its performance against noise-less quantum simulators and classical computation results.
+
+
+---
+Category: education
+Subcategory: quant-ph
+Collected: 2025-08-01T15:47:06.985Z

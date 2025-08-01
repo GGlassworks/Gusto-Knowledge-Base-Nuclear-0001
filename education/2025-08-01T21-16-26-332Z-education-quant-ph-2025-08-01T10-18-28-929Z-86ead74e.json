@@ -1,0 +1,12 @@
+# Digital-analog quantum learning on Rydberg atom arrays
+
+**Authors:** Jonathan Z. Lu, Lucy Jiao, Kristina Wolinski, Milan Kornjača, Hong-Ye Hu, Sergio Cantu, Fangli Liu, Susanne F. Yelin, Sheng-Tao Wang
+
+## Summary
+We propose hybrid digital-analog learning algorithms on Rydberg atom arrays, combining the potentially practical utility and near-term realizability of quantum learning with the rapidly scaling architectures of neutral atoms. Our construction requires only single-qubit operations in the digital setting and global driving according to the Rydberg Hamiltonian in the analog setting. We perform a comprehensive numerical study of our algorithm on both classical and quantum data, given respectively by handwritten digit classification and unsupervised quantum phase boundary learning. We show in the two representative problems that digital-analog learning is not only feasible in the near term, but also requires shorter circuit depths and is more robust to realistic error models as compared to digital learning schemes. Our results suggest that digital-analog learning opens a promising path towards improved variational quantum learning experiments in the near term.
+
+
+---
+Category: education
+Subcategory: quant-ph
+Collected: 2025-08-01T10:18:28.929Z

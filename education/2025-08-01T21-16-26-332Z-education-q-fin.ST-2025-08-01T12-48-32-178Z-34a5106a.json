@@ -1,0 +1,12 @@
+# From Factor Models to Deep Learning: Machine Learning in Reshaping Empirical Asset Pricing
+
+**Authors:** Junyi Ye, Bhaskar Goswami, Jingyi Gu, Ajim Uddin, Guiling Wang
+
+## Summary
+This paper comprehensively reviews the application of machine learning (ML) and AI in finance, specifically in the context of asset pricing. It starts by summarizing the traditional asset pricing models and examining their limitations in capturing the complexities of financial markets. It explores how 1) ML models, including supervised, unsupervised, semi-supervised, and reinforcement learning, provide versatile frameworks to address these complexities, and 2) the incorporation of advanced ML algorithms into traditional financial models enhances return prediction and portfolio optimization. These methods can adapt to changing market dynamics by modeling structural changes and incorporating heterogeneous data sources, such as text and images. In addition, this paper explores challenges in applying ML in asset pricing, addressing the growing demand for explainability in decision-making and mitigating overfitting in complex models. This paper aims to provide insights into novel methodologies showcasing the potential of ML to reshape the future of quantitative finance.
+
+
+---
+Category: education
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:48:32.178Z

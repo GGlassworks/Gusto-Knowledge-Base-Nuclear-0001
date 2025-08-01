@@ -1,0 +1,12 @@
+# Optimal Execution Using Reinforcement Learning
+
+**Authors:** Cong Zheng, Jiafa He, Can Yang
+
+## Summary
+This work is about optimal order execution, where a large order is split into several small orders to maximize the implementation shortfall. Based on the diversity of cryptocurrency exchanges, we attempt to extract cross-exchange signals by aligning data from multiple exchanges for the first time. Unlike most previous studies that focused on using single-exchange information, we discuss the impact of cross-exchange signals on the agent's decision-making in the optimal execution problem. Experimental results show that cross-exchange signals can provide additional information for the optimal execution of cryptocurrency to facilitate the optimal execution process.
+
+
+---
+Category: education
+Subcategory: q-fin.TR
+Collected: 2025-08-01T13:19:13.553Z

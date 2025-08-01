@@ -1,0 +1,12 @@
+# An Improved Reinforcement Learning Model Based on Sentiment Analysis
+
+**Authors:** Yizhuo Li, Peng Zhou, Fangyi Li, Xiao Yang
+
+## Summary
+With the development of artificial intelligence technology, quantitative trading systems represented by reinforcement learning have emerged in the stock trading market. The authors combined the deep Q network in reinforcement learning with the sentiment quantitative indicator ARBR to build a high-frequency stock trading model for the share market. To improve the performance of the model, the PCA algorithm is used to reduce the dimensionality feature vector while incorporating the influence of market sentiment on the long-short power into the spatial state of the trading model and uses the LSTM layer to replace the fully connected layer to solve the traditional DQN model due to limited empirical data storage. Through the use of cumulative income, Sharpe ratio to evaluate the performance of the model and the use of double moving averages and other strategies for comparison. The results show that the improved model proposed by authors is far superior to the comparison model in terms of income, achieving a maximum annualized rate of return of 54.5%, which is proven to be able to increase reinforcement learning performance significantly in stock trading.
+
+
+---
+Category: education
+Subcategory: q-fin.ST
+Collected: 2025-08-01T10:52:56.471Z

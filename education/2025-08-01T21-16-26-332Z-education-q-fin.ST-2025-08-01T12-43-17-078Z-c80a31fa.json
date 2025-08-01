@@ -1,0 +1,12 @@
+# Optimal Linear Signal: An Unsupervised Machine Learning Framework to Optimize PnL with Linear Signals
+
+**Authors:** Pierre Renucci
+
+## Summary
+This study presents an unsupervised machine learning approach for optimizing Profit and Loss (PnL) in quantitative finance. Our algorithm, akin to an unsupervised variant of linear regression, maximizes the Sharpe Ratio of PnL generated from signals constructed linearly from exogenous variables. The methodology employs a linear relationship between exogenous variables and the trading signal, with the objective of maximizing the Sharpe Ratio through parameter optimization. Empirical application on an ETF representing U.S. Treasury bonds demonstrates the model's effectiveness, supported by regularization techniques to mitigate overfitting. The study concludes with potential avenues for further development, including generalized time steps and enhanced corrective terms.
+
+
+---
+Category: education
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:43:17.078Z

@@ -1,0 +1,12 @@
+# Reinforcement Learning: Prediction, Control and Value Function Approximation
+
+**Authors:** Haoqian Li, Thomas Lau
+
+## Summary
+With the increasing power of computers and the rapid development of self-learning methodologies such as machine learning and artificial intelligence, the problem of constructing an automatic Financial Trading Systems (FTFs) becomes an increasingly attractive research topic. An intuitive way of developing such a trading algorithm is to use Reinforcement Learning (RL) algorithms, which does not require model-building. In this paper, we dive into the RL algorithms and illustrate the definitions of the reward function, actions and policy functions in details, as well as introducing algorithms that could be applied to FTFs.
+
+
+---
+Category: education
+Subcategory: q-fin.TR
+Collected: 2025-08-01T10:49:56.460Z

@@ -1,0 +1,12 @@
+# Mid-price Prediction Based on Machine Learning Methods with Technical and Quantitative Indicators
+
+**Authors:** Adamantios Ntakaris, Juho Kanniainen, Moncef Gabbouj, Alexandros Iosifidis
+
+## Summary
+Stock price prediction is a challenging task, but machine learning methods have recently been used successfully for this purpose. In this paper, we extract over 270 hand-crafted features (factors) inspired by technical and quantitative analysis and tested their validity on short-term mid-price movement prediction. We focus on a wrapper feature selection method using entropy, least-mean squares, and linear discriminant analysis. We also build a new quantitative feature based on adaptive logistic regression for online learning, which is constantly selected first among the majority of the proposed feature selection methods. This study examines the best combination of features using high frequency limit order book data from Nasdaq Nordic. Our results suggest that sorting methods and classifiers can be used in such a way that one can reach the best performance with a combination of only very few advanced hand-crafted features.
+
+
+---
+Category: education
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:49:23.604Z

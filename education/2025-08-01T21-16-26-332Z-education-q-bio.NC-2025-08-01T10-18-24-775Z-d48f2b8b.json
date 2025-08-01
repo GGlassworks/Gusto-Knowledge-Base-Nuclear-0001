@@ -1,0 +1,12 @@
+# Brain experiments imply adaptation mechanisms which outperform common AI learning algorithms
+
+**Authors:** Shira Sardi, Roni Vardi, Yuval Meir, Yael Tugendhaft, Shiri Hodassman, Amir Goldental, Ido Kanter
+
+## Summary
+Attempting to imitate the brain functionalities, researchers have bridged between neuroscience and artificial intelligence for decades; however, experimental neuroscience has not directly advanced the field of machine learning. Here, using neuronal cultures, we demonstrate that increased training frequency accelerates the neuronal adaptation processes. This mechanism was implemented on artificial neural networks, where a local learning step-size increases for coherent consecutive learning steps and tested on a simple dataset of handwritten digits, MNIST. Based on our online learning results with a few handwriting examples, success rates for brain-inspired algorithms substantially outperform the commonly used machine learning algorithms. We speculate this emerging bridge from slow brain function to machine learning will promote ultrafast decision making under limited examples, which is the reality in many aspects of human activity, robotic control, and network optimization.
+
+
+---
+Category: education
+Subcategory: q-bio.NC
+Collected: 2025-08-01T10:18:24.775Z

@@ -1,0 +1,12 @@
+# Optimizing Returns Using the Hurst Exponent and Q Learning on Momentum and Mean Reversion Strategies
+
+**Authors:** Y. Chang, C. Lizardi, R. Shah
+
+## Summary
+Momentum and mean reversion trading strategies have opposite characteristics. The former is generally better with trending assets, and the latter is generally better with mean reverting assets. Using the Hurst exponent, which classifies time series as trending or mean reverting, we attempt to trade with each strategy when it is advantageous to generate higher returns on average. We ultimately find that trading with the Hurst exponent can achieve higher returns, but it also comes at a higher risk. Finally, we consider limitations of our study and propose a method using Q-learning to improve our strategy and implementation of individual algorithms.
+
+
+---
+Category: education
+Subcategory: q-fin.ST
+Collected: 2025-08-01T10:52:01.281Z

@@ -1,0 +1,12 @@
+# Asset Pricing and Deep Learning
+
+**Authors:** Chen Zhang
+
+## Summary
+Traditional machine learning methods have been widely studied in financial innovation. My study focuses on the application of deep learning methods on asset pricing. I investigate various deep learning methods for asset pricing, especially for risk premia measurement. All models take the same set of predictive signals (firm characteristics, systematic risks and macroeconomics). I demonstrate high performance of all kinds of state-of-the-art (SOTA) deep learning methods, and figure out that RNNs with memory mechanism and attention have the best performance in terms of predictivity. Furthermore, I demonstrate large economic gains to investors using deep learning forecasts. The results of my comparative experiments highlight the importance of domain knowledge and financial theory when designing deep learning models. I also show return prediction tasks bring new challenges to deep learning. The time varying distribution causes distribution shift problem, which is essential for financial time series prediction. I demonstrate that deep learning methods can improve asset risk premium measurement. Due to the booming deep learning studies, they can constantly promote the study of underlying financial mechanisms behind asset pricing. I also propose a promising research method that learning from data and figuring out the underlying economic mechanisms through explainable artificial intelligence (AI) methods. My findings not only justify the value of deep learning in blooming fintech development, but also highlight their prospects and advantages over traditional machine learning methods.
+
+
+---
+Category: education
+Subcategory: q-fin.ST
+Collected: 2025-08-01T11:22:24.113Z

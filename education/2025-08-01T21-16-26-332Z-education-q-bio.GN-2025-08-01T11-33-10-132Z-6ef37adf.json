@@ -1,0 +1,12 @@
+# MinCall - MinION end2end convolutional deep learning basecaller
+
+**Authors:** Neven Miculinić, Marko Ratković, Mile Šikić
+
+## Summary
+The Oxford Nanopore Technologies's MinION is the first portable DNA sequencing device. It is capable of producing long reads, over 100 kBp were reported. However, it has significantly higher error rate than other methods. In this study, we present MinCall, an end2end basecaller model for the MinION. The model is based on deep learning and uses convolutional neural networks (CNN) in its implementation. For extra performance, it uses cutting edge deep learning techniques and architectures, batch normalization and Connectionist Temporal Classification (CTC) loss. The best performing deep learning model achieves 91.4% median match rate on E. Coli dataset using R9 pore chemistry and 1D reads.
+
+
+---
+Category: education
+Subcategory: q-bio.GN
+Collected: 2025-08-01T11:33:10.132Z

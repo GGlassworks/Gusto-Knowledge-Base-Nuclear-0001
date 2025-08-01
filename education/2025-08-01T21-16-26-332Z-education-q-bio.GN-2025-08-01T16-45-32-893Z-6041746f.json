@@ -1,0 +1,12 @@
+# A genome-scale deep learning model to predict gene expression changes of genetic perturbations from multiplex biological networks
+
+**Authors:** Lingmin Zhan, Yuanyuan Zhang, Yingdong Wang, Aoyi Wang, Caiping Cheng, Jinzhong Zhao, Wuxia Zhang, Peng Lia, Jianxin Chen
+
+## Summary
+Systematic characterization of biological effects to genetic perturbation is essential to the application of molecular biology and biomedicine. However, the experimental exhaustion of genetic perturbations on the genome-wide scale is challenging. Here, we show that TranscriptionNet, a deep learning model that integrates multiple biological networks to systematically predict transcriptional profiles to three types of genetic perturbations based on transcriptional profiles induced by genetic perturbations in the L1000 project: RNA interference (RNAi), clustered regularly interspaced short palindromic repeat (CRISPR) and overexpression (OE). TranscriptionNet performs better than existing approaches in predicting inducible gene expression changes for all three types of genetic perturbations. TranscriptionNet can predict transcriptional profiles for all genes in existing biological networks and increases perturbational gene expression changes for each type of genetic perturbation from a few thousand to 26,945 genes. TranscriptionNet demonstrates strong generalization ability when comparing predicted and true gene expression changes on different external tasks. Overall, TranscriptionNet can systemically predict transcriptional consequences induced by perturbing genes on a genome-wide scale and thus holds promise to systemically detect gene function and enhance drug development and target discovery.
+
+
+---
+Category: education
+Subcategory: q-bio.GN
+Collected: 2025-08-01T16:45:32.895Z

@@ -1,0 +1,12 @@
+# cCorrGAN: Conditional Correlation GAN for Learning Empirical Conditional Distributions in the Elliptope
+
+**Authors:** Gautier Marti, Victor Goubet, Frank Nielsen
+
+## Summary
+We propose a methodology to approximate conditional distributions in the elliptope of correlation matrices based on conditional generative adversarial networks. We illustrate the methodology with an application from quantitative finance: Monte Carlo simulations of correlated returns to compare risk-based portfolio construction methods. Finally, we discuss about current limitations and advocate for further exploration of the elliptope geometry to improve results.
+
+
+---
+Category: education
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:48:31.512Z

@@ -1,0 +1,12 @@
+# Real-Time Machine Learning Strategies for a New Kind of Neuroscience Experiments
+
+**Authors:** Ayesha Vermani, Matthew Dowling, Hyungju Jeon, Ian Jordan, Josue Nassar, Yves Bernaerts, Yuan Zhao, Steven Van Vaerenbergh, Il Memming Park
+
+## Summary
+Function and dysfunctions of neural systems are tied to the temporal evolution of neural states. The current limitations in showing their causal role stem largely from the absence of tools capable of probing the brain's internal state in real-time. This gap restricts the scope of experiments vital for advancing both fundamental and clinical neuroscience. Recent advances in real-time machine learning technologies, particularly in analyzing neural time series as nonlinear stochastic dynamical systems, are beginning to bridge this gap. These technologies enable immediate interpretation of and interaction with neural systems, offering new insights into neural computation. However, several significant challenges remain. Issues such as slow convergence rates, high-dimensional data complexities, structured noise, non-identifiability, and a general lack of inductive biases tailored for neural dynamics are key hurdles. Overcoming these challenges is crucial for the full realization of real-time neural data analysis for the causal investigation of neural computation and advanced perturbation based brain machine interfaces. In this paper, we provide a comprehensive perspective on the current state of the field, focusing on these persistent issues and outlining potential paths forward. We emphasize the importance of large-scale integrative neuroscience initiatives and the role of meta-learning in overcoming these challenges. These approaches represent promising research directions that could redefine the landscape of neuroscience experiments and brain-machine interfaces, facilitating breakthroughs in understanding brain function, and treatment of neurological disorders.
+
+
+---
+Category: education
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:10:26.991Z

@@ -1,0 +1,12 @@
+# DOME Registry: Implementing community-wide recommendations for reporting supervised machine learning in biology
+
+**Authors:** Omar Abdelghani Attafi, Damiano Clementel, Konstantinos Kyritsis, Emidio Capriotti, Gavin Farrell, Styliani-Christina Fragkouli, Leyla Jael Castro, András Hatos, Tom Lenaerts, Stanislav Mazurenko, Soroush Mozaffari, Franco Pradelli, Patrick Ruch, Castrense Savojardo, Paola Turina, Federico Zambelli, Damiano Piovesan, Alexander Miguel Monzon, Fotis Psomopoulos, Silvio C. E. Tosatto
+
+## Summary
+Supervised machine learning (ML) is used extensively in biology and deserves closer scrutiny. The DOME recommendations aim to enhance the validation and reproducibility of ML research by establishing standards for key aspects such as data handling and processing, optimization, evaluation, and model interpretability. The recommendations help to ensure that key details are reported transparently by providing a structured set of questions. Here, we introduce the DOME Registry (URL: registry.dome-ml.org), a database that allows scientists to manage and access comprehensive DOME-related information on published ML studies. The registry uses external resources like ORCID, APICURON and the Data Stewardship Wizard to streamline the annotation process and ensure comprehensive documentation. By assigning unique identifiers and DOME scores to publications, the registry fosters a standardized evaluation of ML methods. Future plans include continuing to grow the registry through community curation, improving the DOME score definition and encouraging publishers to adopt DOME standards, promoting transparency and reproducibility of ML in the life sciences.
+
+
+---
+Category: education
+Subcategory: q-bio.OT
+Collected: 2025-08-01T16:41:28.731Z
