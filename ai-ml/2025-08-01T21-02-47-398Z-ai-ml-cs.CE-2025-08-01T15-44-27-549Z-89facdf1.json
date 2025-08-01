@@ -1,0 +1,12 @@
+# FAST: A Future Aircraft Sizing Tool for Advanced Aircraft and Propulsion System Design
+
+**Authors:** Paul R. Mokotoff, Maxfield Arnson, Gokcin Cinar
+
+## Summary
+Without radical technological advancements, the global aviation industry will continue to be a major carbon emitter. To reduce aviation's carbon emissions, innovative aircraft technology, including electrified aircraft propulsion, is under development. However, current aircraft sizing tools require detailed design information that may not be available early in the development process, particularly for novel technologies. This can yield suboptimal designs and inhibits innovation. A computational tool is needed to easily and rapidly size an aircraft configuration while allowing the designer to explore the design space, examine tradeoffs, and evaluate alternative designs. The Future Aircraft Sizing Tool (FAST), developed in Matlab, addresses this challenge by rapidly sizing aircraft with any propulsion architecture, including conventional, electric, and hybrid electric systems, even with limited initial data. FAST enables engineers to explore various aircraft configurations, evaluate design alternatives, assess performance across a flight envelope, and visualize concepts during the sizing process. By supporting early stage design, FAST addresses a gap in currently available computational tools for developing sustainable aviation technologies to help reduce the industry's carbon footprint.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CE
+Collected: 2025-08-01T15:44:27.549Z

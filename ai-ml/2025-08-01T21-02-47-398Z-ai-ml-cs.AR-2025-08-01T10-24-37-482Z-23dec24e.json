@@ -1,0 +1,12 @@
+# Signal Prediction for Digital Circuits by Sigmoidal Approximations using Neural Networks
+
+**Authors:** Josef Salzmann, Ulrich Schmid
+
+## Summary
+Investigating the temporal behavior of digital circuits is a crucial step in system design, usually done via analog or digital simulation. Analog simulators like SPICE iteratively solve the differential equations characterizing the circuits components numerically. Although unrivaled in accuracy, this is only feasible for small designs, due to the high computational effort even for short signal traces. Digital simulators use digital abstractions for predicting the timing behavior of a circuit. Besides static timing analysis, which performs corner-case analysis of critical path delays only, dynamic timing analysis provides per-transition timing information in signal traces. In this paper, we advocate a novel approach, which generalizes digital traces to traces consisting of sigmoids, each parameterized by threshold crossing time and slope. What is needed to compute the output trace of a gate is a transfer function, which determines the parameters of the output sigmoids given the parameters of the input sigmoids. Harnessing the power of artificial neural networks (ANN), we implement such transfer functions via ANNs. Using inverters and NOR as the elementary gates in a prototype implementation of a specifically tailored simulator, we demonstrate that our approach operates substantially faster than an analog simulator, while offering better accuracy than a digital simulator.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AR
+Collected: 2025-08-01T10:24:37.482Z

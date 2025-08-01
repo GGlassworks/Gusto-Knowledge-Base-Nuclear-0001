@@ -1,0 +1,12 @@
+# A Mental-Model Centric Landscape of Human-AI Symbiosis
+
+**Authors:** Zahra Zahedi, Sarath Sreedharan, Subbarao Kambhampati
+
+## Summary
+There has been significant recent interest in developing AI agents capable of effectively interacting and teaming with humans. While each of these works try to tackle a problem quite central to the problem of human-AI interaction, they tend to rely on myopic formulations that obscure the possible inter-relatedness and complementarity of many of these works. The human-aware AI framework was a recent effort to provide a unified account for human-AI interaction by casting them in terms of their relationship to various mental models. Unfortunately, the current accounts of human-aware AI are insufficient to explain the landscape of the work doing in the space of human-AI interaction due to their focus on limited settings. In this paper, we aim to correct this shortcoming by introducing a significantly general version of human-aware AI interaction scheme, called generalized human-aware interaction (GHAI), that talks about (mental) models of six types. Through this paper, we will see how this new framework allows us to capture the various works done in the space of human-AI interaction and identify the fundamental behavioral patterns supported by these works. We will also use this framework to identify potential gaps in the current literature and suggest future research directions to address these shortcomings.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:21:19.657Z

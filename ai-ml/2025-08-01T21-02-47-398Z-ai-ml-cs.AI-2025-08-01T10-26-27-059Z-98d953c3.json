@@ -1,0 +1,12 @@
+# A Gentle Introduction and Survey on Computing with Words (CWW) Methodologies
+
+**Authors:** Prashant K. Gupta, Javier Andreu-Perez
+
+## Summary
+Human beings have an inherent capability to use linguistic information (LI) seamlessly even though it is vague and imprecise. Computing with Words (CWW) was proposed to impart computing systems with this capability of human beings. The interest in the field of CWW is evident from a number of publications on various CWW methodologies. These methodologies use different ways to model the semantics of the LI. However, to the best of our knowledge, the literature on these methodologies is mostly scattered and does not give an interested researcher a comprehensive but gentle guide about the notion and utility of these methodologies. Hence, to introduce the foundations and state-of-the-art CWW methodologies, we provide a concise but a wide-ranging coverage of them in a simple and easy to understand manner. We feel that the simplicity with which we give a high-quality review and introduction to the CWW methodologies is very useful for investigators, especially those embarking on the use of CWW for the first time. We also provide future research directions to build upon for the interested and motivated researchers.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:26:27.059Z

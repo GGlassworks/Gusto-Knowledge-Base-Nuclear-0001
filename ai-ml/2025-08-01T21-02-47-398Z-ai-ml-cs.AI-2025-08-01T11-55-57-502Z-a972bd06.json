@@ -1,0 +1,12 @@
+# A Framework for Characterizing Novel Environment Transformations in General Environments
+
+**Authors:** Matthew Molineaux, Dustin Dannenhauer, Eric Kildebeck
+
+## Summary
+To be robust to surprising developments, an intelligent agent must be able to respond to many different types of unexpected change in the world. To date, there are no general frameworks for defining and characterizing the types of environment changes that are possible. We introduce a formal and theoretical framework for defining and categorizing environment transformations, changes to the world an agent inhabits. We introduce two types of environment transformation: R-transformations which modify environment dynamics and T-transformations which modify the generation process that produces scenarios. We present a new language for describing domains, scenario generators, and transformations, called the Transformation and Simulator Abstraction Language (T-SAL), and a logical formalism that rigorously defines these concepts. Then, we offer the first formal and computational set of tests for eight categories of environment transformations. This domain-independent framework paves the way for describing unambiguous classes of novelty, constrained and domain-independent random generation of environment transformations, replication of environment transformation studies, and fair evaluation of agent robustness.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T11:55:57.502Z

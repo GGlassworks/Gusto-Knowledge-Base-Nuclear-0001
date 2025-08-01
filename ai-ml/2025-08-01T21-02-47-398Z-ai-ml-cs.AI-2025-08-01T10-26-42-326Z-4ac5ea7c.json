@@ -1,0 +1,12 @@
+# A Comparison of Large Language Model and Human Performance on Random Number Generation Tasks
+
+**Authors:** Rachel M. Harrison
+
+## Summary
+Random Number Generation Tasks (RNGTs) are used in psychology for examining how humans generate sequences devoid of predictable patterns. By adapting an existing human RNGT for an LLM-compatible environment, this preliminary study tests whether ChatGPT-3.5, a large language model (LLM) trained on human-generated text, exhibits human-like cognitive biases when generating random number sequences. Initial findings indicate that ChatGPT-3.5 more effectively avoids repetitive and sequential patterns compared to humans, with notably lower repeat frequencies and adjacent number frequencies. Continued research into different models, parameters, and prompting methodologies will deepen our understanding of how LLMs can more closely mimic human random generation behaviors, while also broadening their applications in cognitive and behavioral science research.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:26:42.326Z

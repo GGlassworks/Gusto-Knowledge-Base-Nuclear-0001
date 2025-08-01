@@ -1,0 +1,12 @@
+# Advanced discretization techniques for hyperelastic physics-augmented neural networks
+
+**Authors:** Marlon Franke, Dominik K. Klein, Oliver Weeger, Peter Betsch
+
+## Summary
+In the present work, advanced spatial and temporal discretization techniques are tailored to hyperelastic physics-augmented neural networks, i.e., neural network based constitutive models which fulfill all relevant mechanical conditions of hyperelasticity by construction. The framework takes into account the structure of neural network-based constitutive models, in particular, that their derivatives are more complex compared to analytical models. The proposed framework allows for convenient mixed Hu-Washizu like finite element formulations applicable to nearly incompressible material behavior. The key feature of this work is a tailored energy-momentum scheme for time discretization, which allows for energy and momentum preserving dynamical simulations. Both the mixed formulation and the energy-momentum discretization are applied in finite element analysis. For this, a hyperelastic physics-augmented neural network model is calibrated to data generated with an analytical potential. In all finite element simulations, the proposed discretization techniques show excellent performance. All of this demonstrates that, from a formal point of view, neural networks are essentially mathematical functions. As such, they can be applied in numerical methods as straightforwardly as analytical constitutive models. Nevertheless, their special structure suggests to tailor advanced discretization methods, to arrive at compact mathematical formulations and convenient implementations.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CE
+Collected: 2025-08-01T11:45:23.191Z

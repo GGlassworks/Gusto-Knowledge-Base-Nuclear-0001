@@ -1,0 +1,12 @@
+# Verification and Design Methods for the BrainScaleS Neuromorphic Hardware System
+
+**Authors:** Andreas Grübl, Sebastian Billaudelle, Benjamin Cramer, Vitali Karasenko, Johannes Schemmel
+
+## Summary
+This paper presents verification and implementation methods that have been developed for the design of the BrainScaleS-2 65nm ASICs. The 2nd generation BrainScaleS chips are mixed-signal devices with tight coupling between full-custom analog neuromorphic circuits and two general purpose microprocessors (PPU) with SIMD extension for on-chip learning and plasticity. Simulation methods for automated analysis and pre-tapeout calibration of the highly parameterizable analog neuron and synapse circuits and for hardware-software co-development of the digital logic and software stack are presented. Accelerated operation of neuromorphic circuits and highly-parallel digital data buses between the full-custom neuromorphic part and the PPU require custom methodologies to close the digital signal timing at the interfaces. Novel extensions to the standard digital physical implementation design flow are highlighted. We present early results from the first full-size BrainScaleS-2 ASIC containing 512 neurons and 130K synapses, demonstrating the successful application of these methods. An application example illustrates the full functionality of the BrainScaleS-2 hybrid plasticity architecture.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AR
+Collected: 2025-08-01T10:26:35.806Z

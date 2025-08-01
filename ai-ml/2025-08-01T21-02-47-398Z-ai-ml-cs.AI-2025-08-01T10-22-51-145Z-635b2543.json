@@ -1,0 +1,12 @@
+# Human Evaluation of Procedural Knowledge Graph Extraction from Text with Large Language Models
+
+**Authors:** Valentina Anita Carriero, Antonia Azzini, Ilaria Baroni, Mario Scrocca, Irene Celino
+
+## Summary
+Procedural Knowledge is the know-how expressed in the form of sequences of steps needed to perform some tasks. Procedures are usually described by means of natural language texts, such as recipes or maintenance manuals, possibly spread across different documents and systems, and their interpretation and subsequent execution is often left to the reader. Representing such procedures in a Knowledge Graph (KG) can be the basis to build digital tools to support those users who need to apply or execute them. In this paper, we leverage Large Language Model (LLM) capabilities and propose a prompt engineering approach to extract steps, actions, objects, equipment and temporal information from a textual procedure, in order to populate a Procedural KG according to a pre-defined ontology. We evaluate the KG extraction results by means of a user study, in order to qualitatively and quantitatively assess the perceived quality and usefulness of the LLM-extracted procedural knowledge. We show that LLMs can produce outputs of acceptable quality and we assess the subjective perception of AI by human evaluators.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:22:51.146Z

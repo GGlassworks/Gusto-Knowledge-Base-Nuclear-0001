@@ -1,0 +1,12 @@
+# Trustworthy Human Computation: A Survey
+
+**Authors:** Hisashi Kashima, Satoshi Oyama, Hiromi Arai, Junichiro Mori
+
+## Summary
+Human computation is an approach to solving problems that prove difficult using AI only, and involves the cooperation of many humans. Because human computation requires close engagement with both "human populations as users" and "human populations as driving forces," establishing mutual trust between AI and humans is an important issue to further the development of human computation. This survey lays the groundwork for the realization of trustworthy human computation. First, the trustworthiness of human computation as computing systems, that is, trust offered by humans to AI, is examined using the RAS (Reliability, Availability, and Serviceability) analogy, which define measures of trustworthiness in conventional computer systems. Next, the social trustworthiness provided by human computation systems to users or participants is discussed from the perspective of AI ethics, including fairness, privacy, and transparency. Then, we consider human--AI collaboration based on two-way trust, in which humans and AI build mutual trust and accomplish difficult tasks through reciprocal collaboration. Finally, future challenges and research directions for realizing trustworthy human computation are discussed.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:22:57.551Z

@@ -1,0 +1,12 @@
+# Efficient damage simulations under material uncertainties in a weakly-intrusive implementation
+
+**Authors:** Hendrik Geisler, Emmanuel Baranger, Philipp Junker
+
+## Summary
+Uncertainty quantification is not yet widely adapted in the design process of engineering components despite its importance for achieving sustainable and resource-efficient structures. This is mainly due to two reasons: 1) Tracing the effect of uncertainty in engineering simulations is a computationally challenging task. This is especially true for inelastic simulations as the whole loading history influences the results. 2) Implementations of efficient schemes in standard finite element software are lacking. In this paper, we are tackling both problems. We are proposing a \rev{weakly}-intrusive implementation of the time-separated stochastic mechanics in the finite element software Abaqus. The time-separated stochastic mechanics is an efficient and accurate method for the uncertainty quantification of structures with inelastic material behavior. The method effectivly separates the stochastic but time-independent from the deterministic but time-dependent behavior. The resulting scheme consists only two deterministic finite element simulations for homogeneous material fluctuations in order to approximate the stochastic behavior. This brings down the computational cost compared to standard Monte Carlo simulations by at least two orders of magnitude while ensuring accurate solutions. In this paper, the implementation details in Abaqus and numerical comparisons are presented for the example of damage simulations.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CE
+Collected: 2025-08-01T16:02:04.971Z

@@ -1,0 +1,12 @@
+# A Computationally Efficient, Robust Methodology for Evaluating Chemical Timescales with Detailed Chemical Kinetics
+
+**Authors:** S. M. Aithal
+
+## Summary
+Turbulent reacting flows occur in a variety of engineering applications such as chemical reactors and power generating equipment (gas turbines and internal combustion engines). Turbulent reacting flows are characterized by two main timescales, namely, flow timescales and chemical (or reaction) timescales. Understanding the relative timescales of flow and reaction kinetics plays an important role, not only in the choice of models required for the accurate simulation of these devices but also their design/optimization studies. There are several definitions of chemical timescales, which can largely be classified as algebraic or eigenvalue-based methods. The computational complexity (and hence cost) depends on the method of evaluation of the chemical timescales and size of the chemical reaction mechanism. The computational cost and robustness of the methodology of evaluating the reaction times scales is an important consideration in large-scale multi-dimensional simulations using detailed chemical mechanisms. In this work, we present a computational efficient and robust methodology to evaluate chemical timescales based on the algebraic method. Comparison of this novel methodology with other traditional methods is presented for a range of fuel-air mixtures, pressures and temperatures conditions. Additionally, chemical timescales are also presented for fuel-air mixtures at conditions of relevance to power generating equipment. The proposed method showed the same temporal characteristics as the eigenvalue-based methods with no additional computational cost for all the 1cases studied. The proposed method thus has the potential for use with multidimensional turbulent reacting flow simulations which require the computation of the Damkohler number.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CE
+Collected: 2025-08-01T15:58:31.997Z

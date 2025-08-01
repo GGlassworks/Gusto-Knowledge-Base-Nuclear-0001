@@ -1,0 +1,12 @@
+# Turing Completeness and Sid Meier's Civilization
+
+**Authors:** Adrian de Wynter
+
+## Summary
+We prove that three strategy video games from the Sid Meier's Civilization series: Sid Meier's Civilization: Beyond Earth, Sid Meier's Civilization V, and Sid Meier's Civilization VI, are Turing complete. We achieve this by building three universal Turing machines-one for each game-using only the elements present in the games, and using their internal rules and mechanics as the transition function. The existence of such machines imply that under the assumptions made, the games are undecidable. We show constructions of these machines within a running game session, and we provide a sample execution of an algorithm-the three-state Busy Beaver-with one of our machines.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CC
+Collected: 2025-08-01T16:04:48.040Z

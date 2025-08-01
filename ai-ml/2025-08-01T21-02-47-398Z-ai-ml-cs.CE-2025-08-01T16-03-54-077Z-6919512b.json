@@ -1,0 +1,12 @@
+# Data-driven methods for computational mechanics: A fair comparison between neural networks based and model-free approaches
+
+**Authors:** Martin Zlatić, Felipe Rocha, Laurent Stainier, Marko Čanađija
+
+## Summary
+We present a comparison between two approaches to modelling hyperelastic material behaviour using data. The first approach is a novel approach based on Data-driven Computational Mechanics (DDCM) that completely bypasses the definition of a material model by using only data from simulations or real-life experiments to perform computations. The second is a neural network (NN) based approach, where a neural network is used as a constitutive model. It is trained on data to learn the underlying material behaviour and is implemented in the same way as conventional models. The DDCM approach has been extended to include strategies for recovering isotropic behaviour and local smoothing of data. These have proven to be critical in certain cases and increase accuracy in most cases. The NN approach contains certain elements to enforce principles such as material symmetry, thermodynamic consistency, and convexity. In order to provide a fair comparison between the approaches, they use the same data and solve the same numerical problems with a selection of problems highlighting the advantages and disadvantages of each approach. Both the DDCM and the NNs have shown acceptable performance. The DDCM performed better when applied to cases similar to those from which the data is gathered from, albeit at the expense of generality, whereas NN models were more advantageous when applied to wider range of applications.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CE
+Collected: 2025-08-01T16:03:54.078Z

@@ -1,0 +1,12 @@
+# Argumentation Schemes for Blockchain Deanonymization
+
+**Authors:** Dominic Deuber, Jan Gruber, Merlin Humml, Viktoria Ronge, Nicole Scheler
+
+## Summary
+Cryptocurrency forensics became standard tools for law enforcement. Their basic idea is to deanonymise cryptocurrency transactions to identify the people behind them. Cryptocurrency deanonymisation techniques are often based on premises that largely remain implicit, especially in legal practice. On the one hand, this implicitness complicates investigations. On the other hand, it can have far-reaching consequences for the rights of those affected. Argumentation schemes could remedy this untenable situation by rendering underlying premises transparent. Additionally, they can aid in critically evaluating the probative value of any results obtained by cryptocurrency deanonymisation techniques. In the argumentation theory and AI community, argumentation schemes are influential as they state implicit premises for different types of arguments. Through their critical questions, they aid the argumentation participants in critically evaluating arguments. We specialise the notion of argumentation schemes to legal reasoning about cryptocurrency deanonymisation. Furthermore, we demonstrate the applicability of the resulting schemes through an exemplary real-world case. Ultimately, we envision that using our schemes in legal practice can solidify the evidential value of blockchain investigations as well as uncover and help address uncertainty in underlying premises - thus contributing to protect the rights of those affected by cryptocurrency forensics.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T13:17:21.313Z

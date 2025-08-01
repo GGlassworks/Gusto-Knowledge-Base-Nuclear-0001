@@ -1,0 +1,12 @@
+# Optimizing Retrieval-Augmented Generation for Electrical Engineering: A Case Study on ABB Circuit Breakers
+
+**Authors:** Salahuddin Alawadhi, Noorhan Abbas
+
+## Summary
+Integrating Retrieval Augmented Generation (RAG) with Large Language Models (LLMs) has shown the potential to provide precise, contextually relevant responses in knowledge intensive domains. This study investigates the ap-plication of RAG for ABB circuit breakers, focusing on accuracy, reliability, and contextual relevance in high-stakes engineering environments. By leveraging tailored datasets, advanced embedding models, and optimized chunking strategies, the research addresses challenges in data retrieval and contextual alignment unique to engineering documentation. Key contributions include the development of a domain-specific dataset for ABB circuit breakers and the evaluation of three RAG pipelines: OpenAI GPT4o, Cohere, and Anthropic Claude. Advanced chunking methods, such as paragraph-based and title-aware segmentation, are assessed for their impact on retrieval accuracy and response generation. Results demonstrate that while certain configurations achieve high precision and relevancy, limitations persist in ensuring factual faithfulness and completeness, critical in engineering contexts. This work underscores the need for iterative improvements in RAG systems to meet the stringent demands of electrical engineering tasks, including design, troubleshooting, and operational decision-making. The findings in this paper help advance research of AI in highly technical domains such as electrical engineering.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T15:44:25.251Z

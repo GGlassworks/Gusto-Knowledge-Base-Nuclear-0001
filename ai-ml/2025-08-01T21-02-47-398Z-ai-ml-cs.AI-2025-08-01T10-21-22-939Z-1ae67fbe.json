@@ -1,0 +1,12 @@
+# Pluggable Social Artificial Intelligence for Enabling Human-Agent Teaming
+
+**Authors:** J. van Diggelen, J. S. Barnhoorn, M. M. M. Peeters, W. van Staal, M. L. Stolk, B. van der Vecht, J. van der Waa, J. M. Schraagen
+
+## Summary
+As intelligent systems are increasingly capable of performing their tasks without the need for continuous human input, direction, or supervision, new human-machine interaction concepts are needed. A promising approach to this end is human-agent teaming, which envisions a novel interaction form where humans and machines behave as equal team partners. This paper presents an overview of the current state of the art in human-agent teaming, including the analysis of human-agent teams on five dimensions; a framework describing important teaming functionalities; a technical architecture, called SAIL, supporting social human-agent teaming through the modular implementation of the human-agent teaming functionalities; a technical implementation of the architecture; and a proof-of-concept prototype created with the framework and architecture. We conclude this paper with a reflection on where we stand and a glance into the future showing the way forward.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:21:22.939Z

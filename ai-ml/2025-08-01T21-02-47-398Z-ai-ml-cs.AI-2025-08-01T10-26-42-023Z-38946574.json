@@ -1,0 +1,12 @@
+# Cognitive science as a source of forward and inverse models of human decisions for robotics and control
+
+**Authors:** Mark K. Ho, Thomas L. Griffiths
+
+## Summary
+Those designing autonomous systems that interact with humans will invariably face questions about how humans think and make decisions. Fortunately, computational cognitive science offers insight into human decision-making using tools that will be familiar to those with backgrounds in optimization and control (e.g., probability theory, statistical machine learning, and reinforcement learning). Here, we review some of this work, focusing on how cognitive science can provide forward models of human decision-making and inverse models of how humans think about others' decision-making. We highlight relevant recent developments, including approaches that synthesize blackbox and theory-driven modeling, accounts that recast heuristics and biases as forms of bounded optimality, and models that characterize human theory of mind and communication in decision-theoretic terms. In doing so, we aim to provide readers with a glimpse of the range of frameworks, methodologies, and actionable insights that lie at the intersection of cognitive science and control research.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:26:42.024Z

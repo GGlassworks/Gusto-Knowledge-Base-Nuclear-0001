@@ -1,0 +1,12 @@
+# Topology optimization of contact-aided thermo-mechanical regulators
+
+**Authors:** Anna Dalklint, Joe Alexandersen, Andreas Henrik Frederiksen, Konstantinos Poulios, Ole Sigmund
+
+## Summary
+Topology optimization is used to systematically design contact-aided thermo-mechanical regulators, i.e. components whose effective thermal conductivity is tunable by mechanical deformation and contact. The thermo-mechanical interactions are modeled using a fully coupled non-linear thermo-mechanical finite element framework. To obtain the intricate heat transfer response, the components leverage self-contact, which is modeled using a third medium contact method. The effective heat transfer properties of the regulators are tuned by solving a topology optimization problem using a traditional gradient based algorithm. Several designs of thermo-mechanical regulators in the form of switches, diodes and triodes are presented.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CE
+Collected: 2025-08-01T15:52:52.851Z

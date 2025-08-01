@@ -1,0 +1,12 @@
+# A Parametric Similarity Method: Comparative Experiments based on Semantically Annotated Large Datasets
+
+**Authors:** Antonio De Nicola, Anna Formica, Michele Missikoff, Elaheh Pourabbas, Francesco Taglino
+
+## Summary
+We present the parametric method SemSimp aimed at measuring semantic similarity of digital resources. SemSimp is based on the notion of information content, and it leverages a reference ontology and taxonomic reasoning, encompassing different approaches for weighting the concepts of the ontology. In particular, weights can be computed by considering either the available digital resources or the structure of the reference ontology of a given domain. SemSimp is assessed against six representative semantic similarity methods for comparing sets of concepts proposed in the literature, by carrying out an experimentation that includes both a statistical analysis and an expert judgement evaluation. To the purpose of achieving a reliable assessment, we used a real-world large dataset based on the Digital Library of the Association for Computing Machinery (ACM), and a reference ontology derived from the ACM Computing Classification System (ACM-CCS). For each method, we considered two indicators. The first concerns the degree of confidence to identify the similarity among the papers belonging to some special issues selected from the ACM Transactions on Information Systems journal, the second the Pearson correlation with human judgement. The results reveal that one of the configurations of SemSimp outperforms the other assessed methods. An additional experiment performed in the domain of physics shows that, in general, SemSimp provides better results than the other similarity methods.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:22:44.402Z

@@ -1,0 +1,12 @@
+# KG-MDL: Mining Graph Patterns in Knowledge Graphs with the MDL Principle
+
+**Authors:** Francesco Bariatti, Peggy Cellier, Sébastien Ferré
+
+## Summary
+Nowadays, increasingly more data are available as knowledge graphs (KGs). While this data model supports advanced reasoning and querying, they remain difficult to mine due to their size and complexity. Graph mining approaches can be used to extract patterns from KGs. However this presents two main issues. First, graph mining approaches tend to extract too many patterns for a human analyst to interpret (pattern explosion). Second, real-life KGs tend to differ from the graphs usually treated in graph mining: they are multigraphs, their vertex degrees tend to follow a power-law, and the way in which they model knowledge can produce spurious patterns. Recently, a graph mining approach named GraphMDL+ has been proposed to tackle the problem of pattern explosion, using the Minimum Description Length (MDL) principle. However, GraphMDL+, like other graph mining approaches, is not suited for KGs without adaptations. In this paper we propose KG-MDL, a graph pattern mining approach based on the MDL principle that, given a KG, generates a human-sized and descriptive set of graph patterns, and so in a parameter-less and anytime way. We report on experiments on medium-sized KGs showing that our approach generates sets of patterns that are both small enough to be interpreted by humans and descriptive of the KG. We show that the extracted patterns highlight relevant characteristics of the data: both of the schema used to create the data, and of the concrete facts it contains. We also discuss the issues related to mining graph patterns on knowledge graphs, as opposed to other types of graph data.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T19:26:27.871Z

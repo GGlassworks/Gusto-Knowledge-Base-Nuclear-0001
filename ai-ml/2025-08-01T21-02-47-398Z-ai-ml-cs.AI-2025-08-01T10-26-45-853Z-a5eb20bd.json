@@ -1,0 +1,12 @@
+# Does AI help humans make better decisions? A statistical evaluation framework for experimental and observational studies
+
+**Authors:** Eli Ben-Michael, D. James Greiner, Melody Huang, Kosuke Imai, Zhichao Jiang, Sooahn Shin
+
+## Summary
+The use of Artificial Intelligence (AI), or more generally data-driven algorithms, has become ubiquitous in today's society. Yet, in many cases and especially when stakes are high, humans still make final decisions. The critical question, therefore, is whether AI helps humans make better decisions compared to a human-alone or AI-alone system. We introduce a new methodological framework to empirically answer this question with a minimal set of assumptions. We measure a decision maker's ability to make correct decisions using standard classification metrics based on the baseline potential outcome. We consider a single-blinded and unconfounded treatment assignment, where the provision of AI-generated recommendations is assumed to be randomized across cases with humans making final decisions. Under this study design, we show how to compare the performance of three alternative decision-making systems--human-alone, human-with-AI, and AI-alone. Importantly, the AI-alone system includes any individualized treatment assignment, including those that are not used in the original study. We also show when AI recommendations should be provided to a human-decision maker, and when one should follow such recommendations. We apply the proposed methodology to our own randomized controlled trial evaluating a pretrial risk assessment instrument. We find that the risk assessment recommendations do not improve the classification accuracy of a judge's decision to impose cash bail. Furthermore, we find that replacing a human judge with algorithms--the risk assessment score and a large language model in particular--leads to a worse classification performance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:26:45.853Z
