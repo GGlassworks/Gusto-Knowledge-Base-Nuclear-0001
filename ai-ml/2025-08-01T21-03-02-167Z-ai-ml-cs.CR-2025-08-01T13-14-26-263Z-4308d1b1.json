@@ -1,0 +1,12 @@
+# An Empirical Study of Blockchain Repositories in GitHub
+
+**Authors:** Ajoy Das, Gias Uddin, Guenther Ruhe
+
+## Summary
+Blockchain is a distributed ledger technique that guarantees the traceability of transactions. Blockchain is adopted in multiple domains like finance (e.g., cryptocurrency), healthcare, security, and supply chain. In the open-source software (OSS) portal GitHub, we observe a growing adoption of Blockchain-based solutions. Given the rapid emergence of Blockchain-based solutions in our daily life and the evolving cryptocurrency market, it is important to know the status quo, how developers generally interact in those repos, and how much freedom they have in applying code changes. We report an empirical study of 3,664 Blockchain software repositories from GitHub. We divide the Blockchain repositories into two categories: Tool (e.g., SDKs) and Applications (e.g., service/solutions developed using SDKs). The Application category is further divided into two sub-categories: Crypto and Non-Crypto applications. In all Blockchain repository categories, the contribution interactions on commits are the most common interaction type. We found that more organizations contributing to the Blockchain repos than individual users. The median numbers of internal and external users in tools are higher than the application repos. We observed a higher degree of collaboration (e.g., for maintenance efforts) among users in Blockchain tools than those in the application repos. Among the artifacts, issues have a greater number of interactions than commits and pull requests. Related to autonomy we found that less than half of total project contributions are autonomous. Our findings offer implications to Blockchain stakeholders, like developers to stay aware of OSS practices around Blockchain software.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:14:26.263Z

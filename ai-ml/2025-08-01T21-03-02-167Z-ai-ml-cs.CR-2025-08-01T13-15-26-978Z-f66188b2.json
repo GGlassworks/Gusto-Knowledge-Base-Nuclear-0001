@@ -1,0 +1,12 @@
+# Validation of the Results of Cross-chain Smart Contract Based on Confirmation Method
+
+**Authors:** Hong Su
+
+## Summary
+Smart contracts are widely utilized in cross-chain interactions, where their results are transmitted from one blockchain (the producer blockchain) to another (the consumer blockchain). Unfortunately, the consumer blockchain often accepts these results without executing the smart contracts for validation, posing potential security risks. To address this, we propose a method for validating cross-chain smart contract results. Our approach emphasizes consumer blockchain execution of cross-chain smart contracts of producer blockchain, allowing comparison of results with the transmitted ones to detect potential discrepancies and ensure data integrity during cross-chain data dissemination. Additionally, we introduce the confirmation with proof method, which involves incorporating the chain of blocks and relevant cross-chain smart contract data from the producer blockchain into the consumer blockchain as evidence (or proof), establishing a unified and secure perspective of cross-chain smart contract results. Our verification results highlight the feasibility of cross-chain validation at the smart contract level.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:15:26.979Z

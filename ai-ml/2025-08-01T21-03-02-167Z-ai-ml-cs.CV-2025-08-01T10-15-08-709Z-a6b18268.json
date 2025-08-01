@@ -1,0 +1,12 @@
+# ABANICCO: A New Color Space for Multi-Label Pixel Classification and Color Segmentation
+
+**Authors:** Laura Nicolás-Sáenz, Agapito Ledezma, Javier Pascau, Arrate Muñoz-Barrutia
+
+## Summary
+In any computer vision task involving color images, a necessary step is classifying pixels according to color and segmenting the respective areas. However, the development of methods able to successfully complete this task has proven challenging, mainly due to the gap between human color perception, linguistic color terms, and digital representation. In this paper, we propose a novel method combining geometric analysis of color theory, fuzzy color spaces, and multi-label systems for the automatic classification of pixels according to 12 standard color categories (Green, Yellow, Light Orange, Deep Orange, Red, Pink, Purple, Ultramarine, Blue, Teal, Brown, and Neutral). Moreover, we present a robust, unsupervised, unbiased strategy for color naming based on statistics and color theory. ABANICCO was tested against the state of the art in color classification and with the standarized ISCC-NBS color system, providing accurate classification and a standard, easily understandable alternative for hue naming recognizable by humans and machines. We expect this solution to become the base to successfully tackle a myriad of problems in all fields of computer vision, such as region characterization, histopathology analysis, fire detection, product quality prediction, object description, and hyperspectral imaging.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:15:08.710Z

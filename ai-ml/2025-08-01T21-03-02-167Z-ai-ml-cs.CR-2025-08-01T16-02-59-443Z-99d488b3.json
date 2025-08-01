@@ -1,0 +1,12 @@
+# AnoMili: Spoofing Prevention and Explainable Anomaly Detection for the 1553 Military Avionic Bus
+
+**Authors:** Efrat Levy, Nadav Maman, Asaf Shabtai, Yuval Elovici
+
+## Summary
+MIL-STD-1553, a standard that defines a communication bus for interconnected devices, is widely used in military and aerospace avionic platforms. Due to its lack of security mechanisms, MIL-STD-1553 is exposed to cyber threats. The methods previously proposed to address these threats are very limited, resulting in the need for more advanced techniques. Inspired by the defense in depth principle, we propose AnoMili, a novel protection system for the MIL-STD-1553 bus, which consists of: (i) a physical intrusion detection mechanism that detects unauthorized devices connected to the 1553 bus, even if they are passive (sniffing), (ii) a device fingerprinting mechanism that protects against spoofing attacks (two approaches are proposed: prevention and detection), (iii) a context-based anomaly detection mechanism, and (iv) an anomaly explanation engine responsible for explaining the detected anomalies in real time. We evaluate AnoMili's effectiveness and practicability in two real 1553 hardware-based testbeds. The effectiveness of the anomaly explanation engine is also demonstrated. All of the detection and prevention mechanisms employed had high detection rates (over 99.45%) with low false positive rates. The context-based anomaly detection mechanism obtained perfect results when evaluated on a dataset used in prior work.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T16:02:59.443Z

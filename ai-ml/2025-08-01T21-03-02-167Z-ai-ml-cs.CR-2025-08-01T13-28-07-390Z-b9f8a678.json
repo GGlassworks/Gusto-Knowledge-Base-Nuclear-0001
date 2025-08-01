@@ -1,0 +1,12 @@
+# Deep Ocean: A blockchain-agnostic dark pool protocol
+
+**Authors:** Bruno França
+
+## Summary
+We introduce a new cryptographic protocol, called Deep Ocean, that implements a blockchain-agnostic dark pool for cryptocurrencies. Deep Ocean is a layer-two protocol, meaning that it can work with any two cryptocurrencies, as long as there exists an underlying settlement mechanism, for example performing atomic swaps.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:28:07.390Z

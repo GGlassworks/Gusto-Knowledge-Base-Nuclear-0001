@@ -1,0 +1,12 @@
+# KuiSCIMA v2.0: Improved Baselines, Calibration, and Cross-Notation Generalization for Historical Chinese Music Notations in Jiang Kui's Baishidaoren Gequ
+
+**Authors:** Tristan Repolusk, Eduardo Veas
+
+## Summary
+Optical Music Recognition (OMR) for historical Chinese musical notations, such as suzipu and l\"ul\"upu, presents unique challenges due to high class imbalance and limited training data. This paper introduces significant advancements in OMR for Jiang Kui's influential collection Baishidaoren Gequ from 1202. In this work, we develop and evaluate a character recognition model for scarce imbalanced data. We improve upon previous baselines by reducing the Character Error Rate (CER) from 10.4% to 7.1% for suzipu, despite working with 77 highly imbalanced classes, and achieve a remarkable CER of 0.9% for l\"ul\"upu. Our models outperform human transcribers, with an average human CER of 15.9% and a best-case CER of 7.6%. We employ temperature scaling to achieve a well-calibrated model with an Expected Calibration Error (ECE) below 0.0162. Using a leave-one-edition-out cross-validation approach, we ensure robust performance across five historical editions. Additionally, we extend the KuiSCIMA dataset to include all 109 pieces from Baishidaoren Gequ, encompassing suzipu, l\"ul\"upu, and jianzipu notations. Our findings advance the digitization and accessibility of historical Chinese music, promoting cultural diversity in OMR and expanding its applicability to underrepresented music traditions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:12.185Z

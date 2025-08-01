@@ -1,0 +1,12 @@
+# RAID-Database: human Responses to Affine Image Distortions
+
+**Authors:** Paula Daudén-Oliver, David Agost-Beltran, Emilio Sansano-Sansano, Valero Laparra, Jesús Malo, Marina Martínez-Garcia
+
+## Summary
+Image quality databases are used to train models for predicting subjective human perception. However, most existing databases focus on distortions commonly found in digital media and not in natural conditions. Affine transformations are particularly relevant to study, as they are among the most commonly encountered by human observers in everyday life. This Data Descriptor presents a set of human responses to suprathreshold affine image transforms (rotation, translation, scaling) and Gaussian noise as convenient reference to compare with previously existing image quality databases. The responses were measured using well established psychophysics: the Maximum Likelihood Difference Scaling method. The set contains responses to 864 distorted images. The experiments involved 105 observers and more than 20000 comparisons of quadruples of images. The quality of the dataset is ensured because (a) it reproduces the classical Pi\'eron's law, (b) it reproduces classical absolute detection thresholds, and (c) it is consistent with conventional image quality databases but improves them according to Group-MAD experiments.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.266Z

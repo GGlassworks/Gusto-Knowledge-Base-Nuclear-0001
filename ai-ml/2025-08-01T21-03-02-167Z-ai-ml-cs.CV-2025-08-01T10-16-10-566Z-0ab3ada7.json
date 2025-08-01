@@ -1,0 +1,12 @@
+# Semantic Face Compression for Metaverse: A Compact 3D Descriptor Based Approach
+
+**Authors:** Binzhe Li, Bolin Chen, Zhao Wang, Shiqi Wang, Yan Ye
+
+## Summary
+In this letter, we envision a new metaverse communication paradigm for virtual avatar faces, and develop the semantic face compression with compact 3D facial descriptors. The fundamental principle is that the communication of virtual avatar faces primarily emphasizes the conveyance of semantic information. In light of this, the proposed scheme offers the advantages of being highly flexible, efficient and semantically meaningful. The semantic face compression, which allows the communication of the descriptors for artificial intelligence based understanding, could facilitate numerous applications without the involvement of humans in metaverse. The promise of the proposed paradigm is also demonstrated by performance comparisons with the state-of-the-art video coding standard, Versatile Video Coding. A significant improvement in terms of rate-accuracy performance has been achieved. The proposed scheme is expected to enable numerous applications, such as digital human communication based on machine analysis, and to form the cornerstone of interaction and communication in the metaverse.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:10.566Z

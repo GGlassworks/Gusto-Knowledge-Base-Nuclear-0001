@@ -1,0 +1,12 @@
+# Redactable Blockchain Solutions for IoT: A Review of Mechanisms and Applications
+
+**Authors:** Arpish R. Solanki
+
+## Summary
+The integration of blockchain technology with the Internet of Things (IoT) presents a promising solution to enhance data security, integrity, and trust within IoT ecosystems. However, the immutable nature of blockchain technology conflicts with data redaction requirements mandated by data protection laws. This paper provides a comprehensive review of the current state of redactable blockchains and redaction mechanisms, particularly focusing on their application within IoT contexts. Through an extensive review of existing literature, this paper identifies key challenges and opportunities in implementing redactable blockchains for IoT data management. Various redaction mechanisms are explored, and the paper examines IoT implementations and use cases where redactable blockchains are employed to address data protection concerns.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:13:32.556Z

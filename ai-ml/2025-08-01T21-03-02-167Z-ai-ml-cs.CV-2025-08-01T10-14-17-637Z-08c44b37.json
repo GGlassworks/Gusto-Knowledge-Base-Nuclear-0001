@@ -1,0 +1,12 @@
+# Denoising Diffusion Probabilistic Models for Styled Walking Synthesis
+
+**Authors:** Edmund J. C. Findlay, Haozheng Zhang, Ziyi Chang, Hubert P. H. Shum
+
+## Summary
+Generating realistic motions for digital humans is time-consuming for many graphics applications. Data-driven motion synthesis approaches have seen solid progress in recent years through deep generative models. These results offer high-quality motions but typically suffer in motion style diversity. For the first time, we propose a framework using the denoising diffusion probabilistic model (DDPM) to synthesize styled human motions, integrating two tasks into one pipeline with increased style diversity compared with traditional motion synthesis methods. Experimental results show that our system can generate high-quality and diverse walking motions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:17.637Z

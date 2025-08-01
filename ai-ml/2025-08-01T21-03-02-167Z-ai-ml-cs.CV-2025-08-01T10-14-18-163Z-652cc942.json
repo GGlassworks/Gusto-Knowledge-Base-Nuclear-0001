@@ -1,0 +1,12 @@
+# Non-contact Real time Eye Gaze Mapping System Based on Deep Convolutional Neural Network
+
+**Authors:** Hoyeon Ahn
+
+## Summary
+Human-Computer Interaction(HCI) is a field that studies interactions between human users and computer systems. With the development of HCI, individuals or groups of people can use various digital technologies to achieve the optimal user experience. Human visual attention and visual intelligence are related to cognitive science, psychology, and marketing informatics, and are used in various applications of HCI. Gaze recognition is closely related to the HCI field because it is meaningful in that it can enhance understanding of basic human behavior. We can obtain reliable visual attention by the Gaze Matching method that finds the area the user is staring at. In the previous methods, the user wears a glasses-type device which in the form of glasses equipped with a gaze tracking function and performs gaze tracking within a limited monitor area. Also, the gaze estimation within a limited range is performed while the user's posture is fixed. We overcome the physical limitations of the previous method in this paper and propose a non-contact gaze mapping system applicable in real-world environments. In addition, we introduce the GIST Gaze Mapping (GGM) dataset, a Gaze mapping dataset created to learn and evaluate gaze mapping.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.163Z

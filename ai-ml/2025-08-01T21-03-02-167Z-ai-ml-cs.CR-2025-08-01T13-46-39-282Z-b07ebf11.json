@@ -1,0 +1,12 @@
+# Cross Chain Bribery Contracts: Majority vs Mighty Minority
+
+**Authors:** Quang Tran, Lin Chen, Lei Xu, Yang Lu, Rabimba Karanjai, Weidong Shi
+
+## Summary
+Bribery is a perilous issue in the real world, especially in an economical aspect. This fraudulence is unavoidable, and more importantly, it is more difficult to trace in case smart contracts are utilized for bribing on a distributed public blockchain. In our paper, we propose a new threat to the security of a blockchain system, cross-chain bribery using smart contracts. An arbitrary wealthy briber can utilize cross-chain smart contracts to manipulate a consensus mechanism on a victim's blockchain or to disgrace a victim's blockchain. To better understand this threat, our paper proposes a framework to analyze bribery using cross-chain smart contracts. We analyze the amount of incentive to bribe rational miners in a victim's blockchain and also a full cost of conducting a cross-chain bribery attack. The result is that such attacks can be carried out with a reasonable amount of money or cryptocurrencies.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:46:39.283Z

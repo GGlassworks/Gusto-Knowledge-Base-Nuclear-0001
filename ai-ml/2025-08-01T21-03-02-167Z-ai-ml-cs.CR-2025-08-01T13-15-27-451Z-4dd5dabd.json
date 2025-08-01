@@ -1,0 +1,12 @@
+# Evaluating the Red Belly Blockchain
+
+**Authors:** Tyler Crain, Christopher Natoli, Vincent Gramoli
+
+## Summary
+In this paper, we present the most extensive evaluation of blockchain system to date. To achieve scalability across servers in more than 10 countries located on 4 different continents, we drastically revisited Byzantine fault tolerant blockchains and verification of signatures. The resulting blockchain, called the Red Belly Blockchain (RBBC), commits more than a hundred thousand transactions issued by permissionless nodes. These transactions are grouped into blocks within few seconds through a partially synchronous consensus run by permissioned nodes. It prevents double spending by guaranteeing that a unique block is decided at any given index of the chain in a deterministic way by all participants. We compared the performance of RBBC against traditional Byzantine fault tolerant alternatives and more recent randomized solutions. In the same geo-distributed environment with low-end machines, we noticed two interesting comparisons: (i) the RBBC throughput scales to hundreds of machines whereas the classic 3-step leader-based BFT state machine used by consortium blockchains cannot scale to 40 identically configured nodes; (ii) RBBC guarantees transaction finality in 3 seconds and experiences a third of the latency that randomized-based solutions like HoneyBadgerBFT can offer. This empirical evaluation demonstrates that blockchain scalability can be achieved without sacrificing security.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:15:27.451Z

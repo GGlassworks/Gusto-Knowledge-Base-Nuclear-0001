@@ -1,0 +1,12 @@
+# An Anonymous Trust-Marking Scheme on Blockchain Systems
+
+**Authors:** Teppei Sato, Keita Emura, Tomoki Fujitani, Kazumasa Omote
+
+## Summary
+During the Coincheck incident, which recorded the largest damages in cryptocurrency history in 2018, it was demonstrated that using Mosaic token can have a certain effect. Although it seems attractive to employ tokens as countermeasures for cryptocurrency leakage, Mosaic is a specific token for the New Economy Movement (NEM) cryptocurrency and is not employed for other blockchain systems or cryptocurrencies. Moreover, although some volunteers tracked leaked NEM using Mosaic in the CoinCheck incident, it would be better to verify that the volunteers can be trusted. Simultaneously, if someone (e.g., who stole cryptocurrencies) can identify the volunteers, then that person or organization may be targets of them. In this paper, we propose an anonymous trust-marking scheme on blockchain systems that is universally applicable to any cryptocurrency. In our scheme, entities called token admitters are allowed to generate tokens adding trustworthiness or untrustworthiness to addresses. Anyone can anonymously verify whether these tokens were issued by a token admitter. Simultaneously, only the designated auditor and no one else, including nondesignated auditors, can identify the token admitters. Our scheme is based on accountable ring signatures and commitment, and is implemented on an elliptic curve called Curve25519, and we confirm that both cryptographic tools are efficient. Moreover, we also confirm that our scheme is applicable to Bitcoin, Ethereum, and NEM.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:18:22.833Z

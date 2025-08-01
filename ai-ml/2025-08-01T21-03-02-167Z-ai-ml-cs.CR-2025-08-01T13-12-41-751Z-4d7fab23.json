@@ -1,0 +1,12 @@
+# A Security Case Study for Blockchain Games
+
+**Authors:** Tian Min, Wei Cai
+
+## Summary
+Blockchain gaming is an emerging entertainment paradigm. However, blockchain games are still suffering from security issues, due to the immature blockchain technologies and its unsophisticated developers. In this work, we analyzed the blockchain game architecture and reveal the possible penetration methods of cracking. We scanned more than 600 commercial blockchain games to summarize a security overview from the perspective of the web server and smart contract, respectively. We also conducted three case studies for blockchain games to show detailed vulnerability detection.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:12:41.751Z

@@ -1,0 +1,12 @@
+# Invariance of deep image quality metrics to affine transformations
+
+**Authors:** Nuria Alabau-Bosque, Paula Daudén-Oliver, Jorge Vila-Tomás, Valero Laparra, Jesús Malo
+
+## Summary
+Deep architectures are the current state-of-the-art in predicting subjective image quality. Usually, these models are evaluated according to their ability to correlate with human opinion in databases with a range of distortions that may appear in digital media. However, these oversee affine transformations which may represent better the changes in the images actually happening in natural conditions. Humans can be particularly invariant to these natural transformations, as opposed to the digital ones. In this work, we evaluate state-of-the-art deep image quality metrics by assessing their invariance to affine transformations, specifically: rotation, translation, scaling, and changes in spectral illumination. Here invariance of a metric refers to the fact that certain distances should be neglected (considered to be zero) if their values are below a threshold. This is what we call invisibility threshold of a metric. We propose a methodology to assign such invisibility thresholds for any perceptual metric. This methodology involves transformations to a distance space common to any metric, and psychophysical measurements of thresholds in this common space. By doing so, we allow the analyzed metrics to be directly comparable with actual human thresholds. We find that none of the state-of-the-art metrics shows human-like results under this strong test based on invisibility thresholds. This means that tuning the models exclusively to predict the visibility of generic distortions may disregard other properties of human vision as for instance invariances or invisibility thresholds.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:17.152Z

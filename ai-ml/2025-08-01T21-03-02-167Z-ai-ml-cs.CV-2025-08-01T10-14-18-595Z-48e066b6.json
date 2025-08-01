@@ -1,0 +1,12 @@
+# A novel illumination condition varied image dataset-Food Vision Dataset (FVD) for fair and reliable consumer acceptability predictions from food
+
+**Authors:** Swarna Sethu, Dongyi Wang
+
+## Summary
+Recent advances in artificial intelligence promote a wide range of computer vision applications in many different domains. Digital cameras, acting as human eyes, can perceive fundamental object properties, such as shapes and colors, and can be further used for conducting high-level tasks, such as image classification, and object detections. Human perceptions have been widely recognized as the ground truth for training and evaluating computer vision models. However, in some cases, humans can be deceived by what they have seen. Well-functioned human vision relies on stable external lighting while unnatural illumination would influence human perception of essential characteristics of goods. To evaluate the illumination effects on human and computer perceptions, the group presents a novel dataset, the Food Vision Dataset (FVD), to create an evaluation benchmark to quantify illumination effects, and to push forward developments of illumination estimation methods for fair and reliable consumer acceptability prediction from food appearances. FVD consists of 675 images captured under 3 different power and 5 different temperature settings every alternate day for five such days.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.596Z

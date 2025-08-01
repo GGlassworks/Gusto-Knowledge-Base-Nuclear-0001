@@ -1,0 +1,12 @@
+# Cross-Consensus Measurement of Individual-level Decentralization in Blockchains
+
+**Authors:** Chao Li, Balaji Palanisamy, Runhua Xu, Li Duan
+
+## Summary
+Decentralization is widely recognized as a crucial characteristic of blockchains that enables them to resist malicious attacks such as the 51% attack and the takeover attack. Prior research has primarily examined decentralization in blockchains employing the same consensus protocol or at the level of block producers. This paper presents the first individual-level measurement study comparing the decentralization of blockchains employing different consensus protocols. To facilitate cross-consensus evaluation, we present a two-level comparison framework and a new metric. We apply the proposed methods to Ethereum and Steem, two representative blockchains for which decentralization has garnered considerable interest. Our findings dive deeper into the level of decentralization, suggest the existence of centralization risk at the individual level in Steem, and provide novel insights into the cross-consensus comparison of decentralization in blockchains.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:15:27.874Z

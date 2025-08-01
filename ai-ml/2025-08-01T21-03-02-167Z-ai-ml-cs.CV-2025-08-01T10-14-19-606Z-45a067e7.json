@@ -1,0 +1,12 @@
+# Visualizing and Understanding Vision System
+
+**Authors:** Feng Qi, Guanjun Jiang
+
+## Summary
+How the human vision system addresses the object identity-preserving recognition problem is largely unknown. Here, we use a vision recognition-reconstruction network (RRN) to investigate the development, recognition, learning and forgetting mechanisms, and achieve similar characteristics to electrophysiological measurements in monkeys. First, in network development study, the RRN also experiences critical developmental stages characterized by specificities in neuron types, synapse and activation patterns, and visual task performance from the early stage of coarse salience map recognition to mature stage of fine structure recognition. In digit recognition study, we witness that the RRN could maintain object invariance representation under various viewing conditions by coordinated adjustment of responses of population neurons. And such concerted population responses contained untangled object identity and properties information that could be accurately extracted via high-level cortices or even a simple weighted summation decoder. In the learning and forgetting study, novel structure recognition is implemented by adjusting entire synapses in low magnitude while pattern specificities of original synaptic connectivity are preserved, which guaranteed a learning process without disrupting the existing functionalities. This work benefits the understanding of the human visual processing mechanism and the development of human-like machine intelligence.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:19.607Z

@@ -1,0 +1,12 @@
+# Investigating the Requirements for Building a Blockchain Simulator for IoT Applications
+
+**Authors:** Adel Albshri, Bakri Awaji, and Ellis Solaiman
+
+## Summary
+The pervasiveness of the Internet of Things (IoT) has enabled the administration of a large number of intelligent devices. However, IoT is based on centralised models, which introduce a number of problems, such as a single point of failure and security risks. Blockchain may offer a viable option for addressing these concerns. Practically, both blockchain and IoT are complex technologies posing further challenges in assessing application performance. The availability of a reliable simulation environment for Blockchain based IoT applications would be a major aid in the development and evaluation of such applications. Our research has found that currently there are no simulators with a comprehensive set of features, for the development and evaluation of blockchain based IoT applications, which is the main motivation for our work. The purpose of this study is to gather the opinions of experts regarding the creation of a simulation environment for IoT based blockchain applications. To do this, we utilise two separate investigations. First, a questionnaire is developed to ensure that the development of such simulation software would be of significant use. Second, interviews with participants are performed to gain their perspectives on the primary issues they face with blockchain-based IoT applications. In addition, the interviews focused on collecting the perspectives of participants on how blockchain may improve IoT and how to identify blockchain's applicability in IoT. Our findings demonstrate that the participants had a great deal of confidence in blockchain to resolve IoT issues. However, they lack the tools necessary to assess this concept. This highlights their requirement for a simulator to analyse the integration of blockchain and IoT.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:14:26.599Z

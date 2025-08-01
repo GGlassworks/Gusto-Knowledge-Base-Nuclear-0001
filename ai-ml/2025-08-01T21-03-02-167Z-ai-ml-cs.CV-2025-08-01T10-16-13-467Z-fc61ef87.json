@@ -1,0 +1,12 @@
+# Colors Matter: AI-Driven Exploration of Human Feature Colors
+
+**Authors:** Rama Alyoubi, Taif Alharbi, Albatul Alghamdi, Yara Alshehri, Elham Alghamdi
+
+## Summary
+This study presents a robust framework that leverages advanced imaging techniques and machine learning for feature extraction and classification of key human attributes-namely skin tone, hair color, iris color, and vein-based undertones. The system employs a multi-stage pipeline involving face detection, region segmentation, and dominant color extraction to isolate and analyze these features. Techniques such as X-means clustering, alongside perceptually uniform distance metrics like Delta E (CIEDE2000), are applied within both LAB and HSV color spaces to enhance the accuracy of color differentiation. For classification, the dominant tones of the skin, hair, and iris are extracted and matched to a custom tone scale, while vein analysis from wrist images enables undertone classification into "Warm" or "Cool" based on LAB differences. Each module uses targeted segmentation and color space transformations to ensure perceptual precision. The system achieves up to 80% accuracy in tone classification using the Delta E-HSV method with Gaussian blur, demonstrating reliable performance across varied lighting and image conditions. This work highlights the potential of AI-powered color analysis and feature extraction for delivering inclusive, precise, and nuanced classification, supporting applications in beauty technology, digital personalization, and visual analytics.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:13.467Z

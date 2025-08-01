@@ -1,0 +1,12 @@
+# Blockchain Privacy Through Merge Avoidance and Mixing Services: a Hardness and an Impossibility Result
+
+**Authors:** Jefferson E. Simoes, Eduardo Ferreira, Daniel S. Menasche, Carlos A. V. Campos
+
+## Summary
+Cryptocurrencies typically aim at preserving the privacy of their users. Different cryptocurrencies preserve privacy at various levels, some of them requiring users to rely on strategies to raise the privacy level to their needs. Among those strategies, we focus on two of them: merge avoidance and mixing services. Such strategies may be adopted on top of virtually any blockchain-based cryptocurrency. In this paper, we show that whereas optimal merge avoidance leads to an NP-hard optimization problem, incentive-compatible mixing services are subject to a certain class of impossibility results. Together, our results contribute to the body of work on fundamental limits of privacy mechanisms in blockchain-based cryptocurrencies.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:19:12.966Z

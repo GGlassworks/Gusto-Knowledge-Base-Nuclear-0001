@@ -1,0 +1,12 @@
+# Agent-based Model of Initial Token Allocations: Evaluating Wealth Concentration in Fair Launches
+
+**Authors:** Joaquin Delgado Fernandez, Tom Barbereau, Orestis Papageorgiou
+
+## Summary
+With advancements in distributed ledger technologies and smart contracts, tokenized voting rights gained prominence within Decentralized Finance (DeFi). Voting rights tokens (aka. governance tokens) are fungible tokens that grant individual holders the right to vote upon the fate of a project. The motivation behind these tokens is to achieve decentral control. Because the initial allocations of these tokens is often un-democratic, the DeFi project Yearn Finance experimented with a fair launch allocation where no tokens are pre-mined and all participants have an equal opportunity to receive them. Regardless, research on voting rights tokens highlights the formation of oligarchies over time. The hypothesis is that the tokens' tradability is the cause of concentration. To examine this proposition, this paper uses an Agent-based Model to simulate and analyze the concentration of voting rights tokens post fair launch under different trading modalities. It serves to examine three distinct token allocation scenarios considered as fair. The results show that regardless of the allocation, concentration persistently occurs. It confirms the hypothesis that the disease is endogenous: the cause of concentration is the tokens tradablility. The findings inform theoretical understandings and practical implications for on-chain governance mediated by tokens.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:39:51.039Z

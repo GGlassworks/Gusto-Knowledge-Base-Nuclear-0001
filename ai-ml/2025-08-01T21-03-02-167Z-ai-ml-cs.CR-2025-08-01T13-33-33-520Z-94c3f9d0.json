@@ -1,0 +1,12 @@
+# Mitigating Blockchain extractable value (BEV) threats by Distributed Transaction Sequencing in Blockchains
+
+**Authors:** Xiongfei Zhao, Hou-Wan Long, Zhengzhe Li, Jiangchuan Liu, Yain-Whar Si
+
+## Summary
+The rapid growth of Blockchain and Decentralized Finance (DeFi) has introduced new challenges and vulnerabilities that threaten the integrity and efficiency of the ecosystem. This study identifies critical issues such as Transaction Order Dependence (TOD), Blockchain Extractable Value (BEV), and Transaction Importance Diversity (TID), which collectively undermine the fairness and security of DeFi systems. BEV-related activities, including Sandwich attacks, Liquidations, and Transaction Replay, have emerged as significant threats, collectively generating $540.54 million in losses over 32 months across 11,289 addresses, involving 49,691 cryptocurrencies and 60,830 on-chain markets. These attacks exploit transaction mechanics to manipulate asset prices and extract value at the expense of other participants, with Sandwich attacks being particularly impactful. Additionally, the growing adoption of Blockchain in traditional finance highlights the challenge of TID, where high transaction volumes can strain systems and compromise time-sensitive operations. To address these pressing issues, we propose a novel Distributed Transaction Sequencing Strategy (DTSS), which combines forking mechanisms and the Analytic Hierarchy Process (AHP) to enforce fair and transparent transaction ordering in a decentralized manner. Our approach is further enhanced by an optimization framework and the introduction of the Normalized Allocation Disparity Metric (NADM), which ensures optimal parameter selection for transaction prioritization. Experimental evaluations demonstrate that DTSS effectively mitigates BEV risks, enhances transaction fairness, and significantly improves the security and transparency of DeFi ecosystems. This work is essential for protecting the future of decentralized finance and promoting its integration into global financial systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:33:33.521Z

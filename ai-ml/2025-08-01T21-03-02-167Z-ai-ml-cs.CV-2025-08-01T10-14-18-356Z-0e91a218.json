@@ -1,0 +1,12 @@
+# Restoration of marker occluded hematoxylin and eosin stained whole slide histology images using generative adversarial networks
+
+**Authors:** Bairavi Venkatesh, Tosha Shah, Antong Chen, Soheil Ghafurian
+
+## Summary
+It is common for pathologists to annotate specific regions of the tissue, such as tumor, directly on the glass slide with markers. Although this practice was helpful prior to the advent of histology whole slide digitization, it often occludes important details which are increasingly relevant to immuno-oncology due to recent advancements in digital pathology imaging techniques. The current work uses a generative adversarial network with cycle loss to remove these annotations while still maintaining the underlying structure of the tissue by solving an image-to-image translation problem. We train our network on up to 300 whole slide images with marker inks and show that 70% of the corrected image patches are indistinguishable from originally uncontaminated image tissue to a human expert. This portion increases 97% when we replace the human expert with a deep residual network. We demonstrated the fidelity of the method to the original image by calculating the correlation between image gradient magnitudes. We observed a revival of up to 94,000 nuclei per slide in our dataset, the majority of which were located on tissue border.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.356Z

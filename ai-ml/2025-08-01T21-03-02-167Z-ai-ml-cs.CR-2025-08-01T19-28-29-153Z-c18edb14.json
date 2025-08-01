@@ -1,0 +1,12 @@
+# Multiple-stopping time Sequential Detection for Energy Efficient Mining in Blockchain-Enabled IoT
+
+**Authors:** Anurag Gupta, Vikram Krishnamurthy
+
+## Summary
+What are the optimal times for an Internet of Things (IoT) device to act as a blockchain miner? The aim is to minimize the energy consumed by low-power IoT devices that log their data into a secure (tamper-proof) distributed ledger. We formulate a multiple stopping time Bayesian sequential detection problem to address energy-efficient blockchain mining for IoT devices. The objective is to identify $L$ optimal stops for mining, thereby maximizing the probability of successfully adding a block to the blockchain; we also present a model to optimize the number of stops (mining instants). The formulation is equivalent to a multiple stopping time POMDP. Since POMDPs are in general computationally intractable to solve, we show mathematically using submodularity arguments that the optimal mining policy has a useful structure: 1) it is monotone in belief space, and 2) it exhibits a threshold structure, which divides the belief space into two connected sets. Exploiting the structural results, we formulate a computationally-efficient linear mining policy for the blockchain-enabled IoT device. We present a policy gradient technique to optimize the parameters of the linear mining policy. Finally, we use synthetic and real Bitcoin datasets to study the performance of our proposed mining policy. We demonstrate the energy efficiency achieved by the optimal linear mining policy in contrast to other heuristic strategies.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T19:28:29.154Z

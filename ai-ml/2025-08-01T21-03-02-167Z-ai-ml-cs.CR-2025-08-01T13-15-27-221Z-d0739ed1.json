@@ -1,0 +1,12 @@
+# BlockSim: An Extensible Simulation Tool for Blockchain Systems
+
+**Authors:** Maher Alharby, Aad van Moorsel
+
+## Summary
+Both in the design and deployment of blockchain solutions many performance-impacting configuration choices need to be made. We introduce BlockSim, a framework and software tool to build and simulate discrete-event dynamic systems models for blockchain systems. BlockSim is designed to support the analysis of a large variety of blockchains and blockchain deployments as well as a wide set of analysis questions. At the core of BlockSim is a Base Model, which contains the main model constructs common across various blockchain systems organized in three abstraction layers (network, consensus and incentives layer). The Base Model is usable for a wide variety of blockchain systems and can be extended easily to include system or deployment particulars. The BlockSim software tool provides a simulator that implements the Base Model in Python. This paper describes the Base Model, the simulator implementation, and the application of BlockSim to Bitcoin, Ethereum and other consensus algorithms. We validate BlockSim simulation results by comparison with performance results from actual systems and from other studies in the literature. We close the paper by a BlockSim simulation study of the impact of uncle blocks rewards on mining decentralization, for a variety of blockchain configurations.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:15:27.221Z

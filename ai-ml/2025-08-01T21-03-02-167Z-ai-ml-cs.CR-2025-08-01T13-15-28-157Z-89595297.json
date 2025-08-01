@@ -1,0 +1,12 @@
+# Blockchain Simulators: A Systematic Mapping Study
+
+**Authors:** Adel Albshri, Ali Alzubaidi, Bakri Awaji, Ellis Solaiman
+
+## Summary
+Recently, distributed ledger technologies like blockchain have been proliferating and have attracted interest from the academic community, government, and industry. A wide range of blockchain solutions has been introduced, such as Bitcoin, Ethereum, and Hyperledger technologies in the literature. However, tools for evaluating these solutions and their applications are still lacking, limiting the exploration of their potentiality and associated challenges/limitations. That is, experimenting with real blockchain networks usually requires a solid budget; and thus, sophisticated blockchain simulators can facilitate designing and evaluating solutions before the actual implementation stage. The quality of such simulators depends on several factors such as usability, reliability, provided capabilities, and supported features. This paper aims to provide a systemic mapping review of blockchain simulators focusing on these quality factors. This paper also sheds light on the configuration parameters (inputs) and produced metrics (outputs) supported by each simulator. Furthermore, it investigates which metrics supported by each simulator are scientifically validated/evaluated. Moreover, code quality comparison is carried out to assess the source code of the covered simulators. The results reveal that no simulator fully covers the wide operational range of features and capabilities of existing blockchain technologies. However, several promising efforts exist in the domain of blockchain simulation with interesting and useful features. Finally, we discuss the subject of blockchain simulation and provide our insight into the matter.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:15:28.157Z

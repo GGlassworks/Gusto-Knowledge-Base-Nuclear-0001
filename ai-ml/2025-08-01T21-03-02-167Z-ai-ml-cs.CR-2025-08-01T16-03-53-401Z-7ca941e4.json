@@ -1,0 +1,12 @@
+# HoneyGPT: Breaking the Trilemma in Terminal Honeypots with Large Language Model
+
+**Authors:** Ziyang Wang, Jianzhou You, Haining Wang, Tianwei Yuan, Shichao Lv, Yang Wang, Limin Sun
+
+## Summary
+Honeypots, as a strategic cyber-deception mechanism designed to emulate authentic interactions and bait unauthorized entities, often struggle with balancing flexibility, interaction depth, and deception. They typically fail to adapt to evolving attacker tactics, with limited engagement and information gathering. Fortunately, the emergent capabilities of large language models and innovative prompt-based engineering offer a transformative shift in honeypot technologies. This paper introduces HoneyGPT, a pioneering shell honeypot architecture based on ChatGPT, characterized by its cost-effectiveness and proactive engagement. In particular, we propose a structured prompt engineering framework that incorporates chain-of-thought tactics to improve long-term memory and robust security analytics, enhancing deception and engagement. Our evaluation of HoneyGPT comprises a baseline comparison based on a collected dataset and a three-month field evaluation. The baseline comparison demonstrates HoneyGPT's remarkable ability to strike a balance among flexibility, interaction depth, and deceptive capability. The field evaluation further validates HoneyGPT's superior performance in engaging attackers more deeply and capturing a wider array of novel attack vectors.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T16:03:53.401Z

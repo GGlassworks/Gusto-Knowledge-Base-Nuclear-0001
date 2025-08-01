@@ -1,0 +1,12 @@
+# A Literature Review on Blockchain-enabled Security and Operation of Cyber-Physical Systems
+
+**Authors:** Alvi Ataur Khalil, Javier Franco, Imtiaz Parvez, Selcuk Uluagac, Mohammad Ashiqur Rahman
+
+## Summary
+Blockchain has become a key technology in a plethora of application domains owing to its decentralized public nature. The cyber-physical systems (CPS) is one of the prominent application domains that leverage blockchain for myriad operations, where the Internet of Things (IoT) is utilized for data collection. Although some of the CPS problems can be solved by simply adopting blockchain for its secure and distributed nature, others require complex considerations for overcoming blockchain-imposed limitations while maintaining the core aspect of CPS. Even though a number of studies focus on either the utilization of blockchains for different CPS applications or the blockchain-enabled security of CPS, there is no comprehensive survey including both perspectives together. To fill this gap, we present a comprehensive overview of contemporary advancement in using blockchain for enhancing different CPS operations as well as improving CPS security. To the best of our knowledge, this is the first paper that presents an in-depth review of research on blockchain-enabled CPS operation and security.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CR
+Collected: 2025-08-01T13:10:49.179Z
