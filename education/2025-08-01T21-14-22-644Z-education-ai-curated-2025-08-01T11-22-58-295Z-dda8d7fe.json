@@ -1,0 +1,13 @@
+# Deep Learning Theory with Application in Intelligent Fault Diagnosis of Aircraft
+
+**Authors:** Hongkai Jiang
+
+## Abstract
+： The key mechanical parts of aircraft will inevitably generate multifarious faults due to the severe working conditions with high temperature, fast speed, heavy load, large disturbance and strong impact. The faults of aircraft key parts often show some characteristics such as weakness, randomness, coupling, diversity, uncertainty and so on. Therefore, using the traditional methods based on advanced signal processing techniques, feature extraction and feature selection, it is a great challenge to diagnose the various faults of aircraft key parts. As a very promising tool in the field of intelligent fault diagnosis, deep learning can largely get rid of the dependence on manual feature design and engineering diagnosis experience, which can directly establish accurate mapping relationships between the raw data and various operation conditions. The basic theory of four kinds of popular deep learning models are briefly introduced, including deep belief network, convolutional neural network, deep auto-encoder and recurrent neural network. The recent research work of deep learning on fault diagnosis is summarized. These four deep models are respectively used for intelligent fault diagnosis and prognosis of mechanical parts. The results confirm that deep learning models are able to automatically capture the representative information from the massive measured data through multiple feature transformations, and directly establish the accurate mapping relationships between the raw data and various operation conditions.
+
+**Source:** https://www.semanticscholar.org/paper/c89541cca75406d44bce33b076105b156d95bd5f
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:22:58.295Z

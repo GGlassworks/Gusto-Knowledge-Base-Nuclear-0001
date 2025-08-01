@@ -1,0 +1,13 @@
+# Deep Learning Applications in Medical Image Analysis
+
+**Authors:** Justin Ker, Lipo Wang, J. Rao, Tchoyoson C. C. Lim
+
+## Abstract
+The tremendous success of machine learning algorithms at image recognition tasks in recent years intersects with a time of dramatically increased use of electronic medical records and diagnostic imaging. This review introduces the machine learning algorithms as applied to medical image analysis, focusing on convolutional neural networks, and emphasizing clinical aspects of the field. The advantage of machine learning in an era of medical big data is that significant hierarchal relationships within the data can be discovered algorithmically without laborious hand-crafting of features. We cover key research areas and applications of medical image classification, localization, detection, segmentation, and registration. We conclude by discussing research obstacles, emerging trends, and possible future directions.
+
+**Source:** https://www.semanticscholar.org/paper/64be9999b68e12d260ba7423f6b55ffd41552ad3
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:23:47.742Z

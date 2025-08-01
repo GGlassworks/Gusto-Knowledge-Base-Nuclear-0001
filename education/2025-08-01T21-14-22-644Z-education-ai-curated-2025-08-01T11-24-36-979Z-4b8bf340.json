@@ -1,0 +1,13 @@
+# Flower Recognition Based on Transfer Learning and Adam Deep Learning Optimization Algorithm
+
+**Authors:** Jing Feng, Zhiwen Wang, Min Zha, Xinliang Cao
+
+## Abstract
+Due to the complex background of flowers and the similarity between their own categories, the traditional method of image recognition is to extract features manually, which can not solve this problem well. With the development and progress of science and technology, deep learning has gradually entered the image recognition problem and achieved good results. This paper proposes the flower recognition based on transfer learning and Adam deep learning optimization algorithm for the defects of the current mainstream convolutional neural network with deep depth and long parameters, long training time and slow convergence. The VGG16 model is modified and supplemented. At the same time, the transfer learning method and the Adam optimization algorithm are used to accelerate network convergence. Thirty kinds of flower image data sets were established by 102 Category Flower Dataset partial images and 17 Category Flower Dataset. The experimental results show that the accuracy of the test set in this paper is 98.99%. Compared with the traditional image recognition algorithm, it has the characteristics of fast convergence and high recognition accuracy.
+
+**Source:** https://www.semanticscholar.org/paper/c9830d2ad1c7dea171046da80d04f81f3c7d963a
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:36.980Z

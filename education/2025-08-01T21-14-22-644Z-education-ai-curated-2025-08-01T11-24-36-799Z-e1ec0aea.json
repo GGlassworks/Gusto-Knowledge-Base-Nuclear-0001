@@ -1,0 +1,13 @@
+# Enhancing Citrus Disease Categorization with Deep Learning Optimization
+
+**Authors:** Talapaneni Jyothi, Thatikonda Radhika, A. Soujanya, Sridhar Reddy Vulapula, Baddepaka Prasad
+
+## Abstract
+The bacterial infections pose a substantial risk to citrus crops, resulting in large reductions in crop productivity. The timely identification of visual signs is crucial in order to prevent subsequent infections; yet, the manual identification of these disorders poses significant challenges. In this study, a deep convolutional neural network (CNN) is proposed as a method for classifying prominent citrus diseases through image analysis. The study employed a dataset comprising photos of leaf and fruit lesions that depicted five prevalent citrus plant diseases. In order to improve the representation of illness patterns, the researchers employed transfer learning techniques using a modified ResNet-152V2 convolutional neural network (CNN) architecture. A Bayesian hyperparameter optimization approach was employed to ascertain the optimal model parameters, encompassing the number of epochs, batch size, learning rate, and data augmentation strategies. In the context of citrus illnesses, the CNN model demonstrated a classification accuracy of 95%. This exemplifies the potential of deep learning as a potent instrument for disease classification in the field of agriculture, offering a versatile approach that can be used to diverse convolutional neural network (CNN) designs and crop illnesses.
+
+**Source:** https://www.semanticscholar.org/paper/5151d6e9a00f91ef0171a01d2c4cd36ec6667b96
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:36.799Z

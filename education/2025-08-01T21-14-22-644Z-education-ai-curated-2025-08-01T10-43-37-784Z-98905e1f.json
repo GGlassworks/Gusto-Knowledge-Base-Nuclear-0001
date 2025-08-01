@@ -1,0 +1,13 @@
+# A holistic review on energy forecasting using big data and deep learning models
+
+**Authors:** Jayanthi Devaraj, Rajvikram Madurai Elavarasan, G. Shafiullah, T. Jamal, I. Khan
+
+## Abstract
+With the growth of forecasting models, energy forecasting is used for better planning, operation, and management in the electric grid. It is important to improve the accuracy of forecasting for a faster decision‐making process. Big data can handle large scale of datasets and extract the patterns fed to the deep learning models that improve the accuracy than the traditional models and hence, recently started its application in energy forecasting. In this study, an in‐depth insight is initially derived by investigating artificial intelligence (AI) and machine learning (ML) techniques with their strengths and weaknesses, enhancing the consistency of renewable energy integration and modernizing the overall grid. However, Deep learning (DL) algorithms have the capability to handle big data by capturing the inherent non‐linear features through automatic feature extraction methods. Hence, an extensive and exhaustive review of generative, hybrid, and discriminative DL models is being examined for short‐term, medium‐term, and long‐term forecasting of renewable energy, energy consumption, demand, and supply etc. This study also explores the different data decomposition strategies used to build forecasting models. The recent success of DL is being investigated, and the insights of paradoxes in parameter optimization during the training of the model are identified. The impact of weather prediction in the wind and solar energy forecasting is examined in detail. From the existing literatures, it has seen that the average mean absolute percentage error (MAPE) value of solar and wind energy forecasting is 10.29% and 6.7% respectively. Current technology barriers involved in implementing these models for energy forecasting and the recommendations to overcome the existing system barriers are identified. An in‐depth analysis, discussions of the results, and the scope for improvement are provided in this study including the potential directions for future research in the energy forecasting.
+
+**Source:** https://www.semanticscholar.org/paper/4576fcc0b3512ccbaea2cffa4f6617e8f4ec32ec
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T10:43:37.784Z

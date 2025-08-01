@@ -1,0 +1,13 @@
+# Big data algorithms beyond machine learning
+
+**Authors:** Matthias Mnich
+
+## Abstract
+The availability of big data sets in research, industry and society in general has opened up many possibilities of how to use this data. In many applications, however, it is not the data itself that is of interest but rather we want to answer some question about it. These answers may sometimes be phrased as solutions to an optimization problem. We survey some algorithmic methods that optimize over large-scale data sets, beyond the realm of machine learning.
+
+**Source:** https://www.semanticscholar.org/paper/b8f08f97144f1a4543601531054358ce292d9da8
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T10:43:13.951Z

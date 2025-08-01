@@ -1,0 +1,13 @@
+# NIDS-VSB: Network Intrusion Detection System for VANET Using Spark-Based Big Data Optimization and Transfer Learning
+
+**Authors:** Farhan Ullah, Gautam Srivastava, Shamsher Ullah, Kenji Yoshigoe, Yue Zhao
+
+## Abstract
+Vehicle Ad Hoc Networks (VANET) are a technology that allows existing transportation systems to deliver critical information safely. Due to real-time communication, VANET generate massive amounts of data, making them vulnerable to eavesdropping and interference. Intrusion Detection Systems (IDS) are crucial devices that detect and respond to malicious activity. This paper develops a novel network intrusion detection system for VANET that leverages Spark-based big data optimization and transfer learning (NIDS-VSB). First, a packet parser is used to crawl network traffic and filter required flow events. Next, a Spark-based optimization method is implemented to process large amounts of data efficiently. Furthermore, a transfer learning strategy is designed to learn comprehensive feature representations using their semantic anchors. A Convolutional Neural Network (CNN) model is used to extract deep features from semantic anchors. Finally, a stacking generalization ensemble model uses deep features to detect various attacks. The proposed approach is tested on three standard and publicly available datasets, namely the CIC-IoT 2022, CIC-IDS2017, and NSL_KDD datasets. Our findings show that the proposed approach delivers the best detection results for a variety of attacks including audio, HTTP, BruteForce, Web, and others.
+
+**Source:** https://www.semanticscholar.org/paper/29035adec05825947b6d7f8131ac337c8f172c48
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:48.000Z

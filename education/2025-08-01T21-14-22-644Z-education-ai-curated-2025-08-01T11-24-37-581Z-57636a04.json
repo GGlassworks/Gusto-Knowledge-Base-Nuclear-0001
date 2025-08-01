@@ -1,0 +1,13 @@
+# Deep-PK: deep learning for small molecule pharmacokinetic and toxicity prediction
+
+**Authors:** Yoochan Myung, Alex G. C. de Sá, David B. Ascher
+
+## Abstract
+Abstract Evaluating pharmacokinetic properties of small molecules is considered a key feature in most drug development and high-throughput screening processes. Generally, pharmacokinetics, which represent the fate of drugs in the human body, are described from four perspectives: absorption, distribution, metabolism and excretion—all of which are closely related to a fifth perspective, toxicity (ADMET). Since obtaining ADMET data from in vitro, in vivo or pre-clinical stages is time consuming and expensive, many efforts have been made to predict ADMET properties via computational approaches. However, the majority of available methods are limited in their ability to provide pharmacokinetics and toxicity for diverse targets, ensure good overall accuracy, and offer ease of use, interpretability and extensibility for further optimizations. Here, we introduce Deep-PK, a deep learning-based pharmacokinetic and toxicity prediction, analysis and optimization platform. We applied graph neural networks and graph-based signatures as a graph-level feature to yield the best predictive performance across 73 endpoints, including 64 ADMET and 9 general properties. With these powerful models, Deep-PK supports molecular optimization and interpretation, aiding users in optimizing and understanding pharmacokinetics and toxicity for given input molecules. The Deep-PK is freely available at https://biosig.lab.uq.edu.au/deeppk/.
+
+**Source:** https://www.semanticscholar.org/paper/6f0c21852001a15214e40080fbb3e8668df0a1cc
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:37.581Z

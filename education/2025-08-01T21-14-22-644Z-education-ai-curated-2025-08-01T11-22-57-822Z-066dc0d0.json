@@ -1,0 +1,13 @@
+# Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective
+
+**Authors:** Guan-Horng Liu, Evangelos A. Theodorou
+
+## Abstract
+Attempts from different disciplines to provide a fundamental understanding of deep learning have advanced rapidly in recent years, yet a unified framework remains relatively limited. In this article, we provide one possible way to align existing branches of deep learning theory through the lens of dynamical system and optimal control. By viewing deep neural networks as discrete-time nonlinear dynamical systems, we can analyze how information propagates through layers using mean field theory. When optimization algorithms are further recast as controllers, the ultimate goal of training processes can be formulated as an optimal control problem. In addition, we can reveal convergence and generalization properties by studying the stochastic dynamics of optimization algorithms. This viewpoint features a wide range of theoretical study from information bottleneck to statistical physics. It also provides a principled way for hyper-parameter tuning when optimal control theory is introduced. Our framework fits nicely with supervised learning and can be extended to other learning problems, such as Bayesian learning, adversarial training, and specific forms of meta learning, without efforts. The review aims to shed lights on the importance of dynamics and optimal control when developing deep learning theory.
+
+**Source:** https://www.semanticscholar.org/paper/4fc08dca4cfbff4200b3330f09fb9e385b791ca2
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:22:57.822Z

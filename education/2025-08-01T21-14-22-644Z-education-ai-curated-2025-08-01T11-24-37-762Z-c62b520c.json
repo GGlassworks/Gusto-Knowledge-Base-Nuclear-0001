@@ -1,0 +1,13 @@
+# Enhancement of Detection of Diabetic Retinopathy Using Harris Hawks Optimization with Deep Learning Model
+
+**Authors:** Nagaraja Gundluru, D. Rajput, Kuruva Lakshmanna, Rajesh Kaluri, Mohammad Shorfuzzaman, Mueen Uddin, Mohammad Arifin Rahman Khan
+
+## Abstract
+In today's world, diabetic retinopathy is a very severe health issue, which is affecting many humans of different age groups. Due to the high levels of blood sugar, the minuscule blood vessels in the retina may get damaged in no time and further may lead to retinal detachment and even sometimes lead to glaucoma blindness. If diabetic retinopathy can be diagnosed at the early stages, then many of the affected people will not be losing their vision and also human lives can be saved. Several machine learning and deep learning methods have been applied on the available data sets of diabetic retinopathy, but they were unable to provide the better results in terms of accuracy in preprocessing and optimizing the classification and feature extraction process. To overcome the issues like feature extraction and optimization in the existing systems, we have considered the Diabetic Retinopathy Debrecen Data Set from the UCI machine learning repository and designed a deep learning model with principal component analysis (PCA) for dimensionality reduction, and to extract the most important features, Harris hawks optimization algorithm is used further to optimize the classification and feature extraction process. The results shown by the deep learning model with respect to specificity, precision, accuracy, and recall are very much satisfactory compared to the existing systems.
+
+**Source:** https://www.semanticscholar.org/paper/bdd3e086683e9cf7717492d842c110f9ea567b5d
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:37.762Z

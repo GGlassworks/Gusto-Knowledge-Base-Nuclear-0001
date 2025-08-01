@@ -1,0 +1,13 @@
+# Recent advances in deep learning theory
+
+**Authors:** Fengxiang He, D. Tao
+
+## Abstract
+Deep learning is usually described as an experiment-driven field under continuous criticizes of lacking theoretical foundations. This problem has been partially fixed by a large volume of literature which has so far not been well organized. This paper reviews and organizes the recent advances in deep learning theory. The literature is categorized in six groups: (1) complexity and capacity-based approaches for analyzing the generalizability of deep learning; (2) stochastic differential equations and their dynamic systems for modelling stochastic gradient descent and its variants, which characterize the optimization and generalization of deep learning, partially inspired by Bayesian inference; (3) the geometrical structures of the loss landscape that drives the trajectories of the dynamic systems; (4) the roles of over-parameterization of deep neural networks from both positive and negative perspectives; (5) theoretical foundations of several special structures in network architectures; and (6) the increasingly intensive concerns in ethics and security and their relationships with generalizability.
+
+**Source:** https://www.semanticscholar.org/paper/c80934b0d1708be2eee8c2b5a0385fea34af9e51
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:22:57.055Z

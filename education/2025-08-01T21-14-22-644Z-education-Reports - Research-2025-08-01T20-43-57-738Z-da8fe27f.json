@@ -1,0 +1,13 @@
+# A Tutorial on the Use of Artificial Intelligence Tools for Facial Emotion Recognition in R
+
+**Authors:** Austin Wyman, Zhiyong Zhang
+
+## Abstract
+Automated detection of facial emotions has been an interesting topic for multiple decades in social and behavioral research but is only possible very recently. In this tutorial, we review three popular artificial intelligence based emotion detection programs that are accessible to R programmers: Google Cloud Vision, Amazon Rekognition, and Py-Feat. We present their advantages, disadvantages, and provide sample code so that researchers can immediately begin designing, collecting, and analyzing emotion data. Furthermore, we provide an introductory level explanation of the machine learning, deep learning, and computer vision algorithms that underlie most emotion detection programs in order to improve literacy of explainable artificial intelligence in the social and behavioral science literature. [This is the online first version of an article published in &quot;Multivariate Behavioral Research.&quot;]
+
+**Source:** https://eric.ed.gov/?id=ED671112
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T20:43:57.738Z

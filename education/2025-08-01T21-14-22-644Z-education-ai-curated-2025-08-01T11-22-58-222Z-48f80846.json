@@ -1,0 +1,13 @@
+# Notes on Deep Learning Theory
+
+**Authors:** E. Golikov
+
+## Abstract
+These are the notes for the lectures that I was giving during Fall 2020 at the Moscow Institute of Physics and Technology (MIPT) and at the Yandex School of Data Analysis (YSDA). The notes cover some aspects of initialization, loss landscape, generalization, and a neural tangent kernel theory. While many other topics (e.g. expressivity, a mean-field theory, a double descent phenomenon) are missing in the current version, we plan to add them in future revisions.
+
+**Source:** https://www.semanticscholar.org/paper/f45e21651ad3262eabf6091c3e64426c011dd6c6
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:22:58.222Z

@@ -1,0 +1,13 @@
+# Machine learning and deep learning applications in microbiome research
+
+**Authors:** Ricardo Hernández Medina, S. Kutuzova, Knud Nor Nielsen, Joachim Johansen, L. H. Hansen, Mads Nielsen, S. Rasmussen
+
+## Abstract
+The many microbial communities around us form interactive and dynamic ecosystems called microbiomes. Though concealed from the naked eye, microbiomes govern and influence macroscopic systems including human health, plant resilience, and biogeochemical cycling. Such feats have attracted interest from the scientific community, which has recently turned to machine learning and deep learning methods to interrogate the microbiome and elucidate the relationships between its composition and function. Here, we provide an overview of how the latest microbiome studies harness the inductive prowess of artificial intelligence methods. We start by highlighting that microbiome data – being compositional, sparse, and high-dimensional – necessitates special treatment. We then introduce traditional and novel methods and discuss their strengths and applications. Finally, we discuss the outlook of machine and deep learning pipelines, focusing on bottlenecks and considerations to address them.
+
+**Source:** https://www.semanticscholar.org/paper/47e0c80c38fe3d98590167bb55643f9ff37ea725
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:23:47.488Z

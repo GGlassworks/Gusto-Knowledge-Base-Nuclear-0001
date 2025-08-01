@@ -1,0 +1,13 @@
+# A Review on Multiscale-Deep-Learning Applications
+
+**Authors:** Elizar Elizar, M. A. Zulkifley, R. Muharar, M. H. M. Zaman, S. M. Mustaza
+
+## Abstract
+In general, most of the existing convolutional neural network (CNN)-based deep-learning models suffer from spatial-information loss and inadequate feature-representation issues. This is due to their inability to capture multiscale-context information and the exclusion of semantic information throughout the pooling operations. In the early layers of a CNN, the network encodes simple semantic representations, such as edges and corners, while, in the latter part of the CNN, the network encodes more complex semantic features, such as complex geometric shapes. Theoretically, it is better for a CNN to extract features from different levels of semantic representation because tasks such as classification and segmentation work better when both simple and complex feature maps are utilized. Hence, it is also crucial to embed multiscale capability throughout the network so that the various scales of the features can be optimally captured to represent the intended task. Multiscale representation enables the network to fuse low-level and high-level features from a restricted receptive field to enhance the deep-model performance. The main novelty of this review is the comprehensive novel taxonomy of multiscale-deep-learning methods, which includes details of several architectures and their strengths that have been implemented in the existing works. Predominantly, multiscale approaches in deep-learning networks can be classed into two categories: multiscale feature learning and multiscale feature fusion. Multiscale feature learning refers to the method of deriving feature maps by examining kernels over several sizes to collect a larger range of relevant features and predict the input images’ spatial mapping. Multiscale feature fusion uses features with different resolutions to find patterns over short and long distances, without a deep network. Additionally, several examples of the techniques are also discussed according to their applications in satellite imagery, medical imaging, agriculture, and industrial and manufacturing systems.
+
+**Source:** https://www.semanticscholar.org/paper/01316758ddfd43096fb092268c56bcb4215d59e3
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:23:48.026Z

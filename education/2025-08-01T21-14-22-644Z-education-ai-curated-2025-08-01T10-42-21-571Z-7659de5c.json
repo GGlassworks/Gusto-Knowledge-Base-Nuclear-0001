@@ -1,0 +1,13 @@
+# Use and Adaptations of Machine Learning in Big Data—Applications in Real Cases in Agriculture
+
+**Authors:** Ania Cravero, S. Sepúlveda
+
+## Abstract
+The data generated in modern agricultural operations are provided by diverse elements, which allow a better understanding of the dynamic conditions of the crop, soil and climate, which indicates that these processes will be increasingly data-driven. Big Data and Machine Learning (ML) have emerged as high-performance computing technologies to create new opportunities to unravel, quantify and understand agricultural processes through data. However, there are many challenges to achieve the integration of these technologies. It implies making some adaptations to ML for using it with Big Data. These adaptations must consider the increasing volume of data, its variety and the transmission speed issues. This paper provides information on the use of Big Data and ML for agriculture, identifying challenges, adaptations and the design of architectures for these systems. We conducted a Systematic Literature Review (SLR), which allowed us to analyze 34 real cases applied in agriculture. This review may be of interest to computer or data scientists and electronic or software engineers. The results show that manipulating large volumes of data is no longer a challenge due to Cloud technologies. There are still challenges regarding (1) processing speed due to little control of the data in its different stages, raw, semi-processed and processed data (value data); (2) information visualization systems, which support technical data little understood by farmers.
+
+**Source:** https://www.semanticscholar.org/paper/6b649fbbcb7b9ff29fbb1c1b033a8d5470b994de
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:21.572Z

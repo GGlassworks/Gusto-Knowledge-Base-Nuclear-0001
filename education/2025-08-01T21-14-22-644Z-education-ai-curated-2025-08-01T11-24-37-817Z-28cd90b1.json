@@ -1,0 +1,13 @@
+# TensorRT-Based Framework and Optimization Methodology for Deep Learning Inference on Jetson Boards
+
+**Authors:** Eunji Jeong, Jangryul Kim, Soonhoi Ha
+
+## Abstract
+As deep learning inference applications are increasing in embedded devices, an embedded device tends to equip neural processing units (NPUs) in addition to a multi-core CPU and a GPU. NVIDIA Jetson AGX Xavier is an example. For fast and efficient development of deep learning applications, TensorRT is provided as the SDK for high-performance inference, including an optimizer and runtime that delivers low latency and high throughput for deep learning inference applications. Like most deep learning frameworks, TensorRT assumes that the inference is executed on a single processing element, GPU or NPU, not both. In this article, we present a TensorRT-based framework supporting various optimization parameters to accelerate a deep learning application targeted on an NVIDIA Jetson embedded platform with heterogeneous processors, including multi-threading, pipelining, buffer assignment, and network duplication. Since the design space of allocating layers to diverse processing elements and optimizing other parameters is huge, we devise a parameter optimization methodology that consists of a heuristic for balancing pipeline stages among heterogeneous processors and fine-tuning the process for optimizing parameters. With nine real-life benchmarks, we could achieve 101%~680% performance improvement and up to 55% energy reduction over the baseline inference using a GPU only.
+
+**Source:** https://www.semanticscholar.org/paper/df04f943ef159b25ffb0606572fa8143c058bb23
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:37.817Z

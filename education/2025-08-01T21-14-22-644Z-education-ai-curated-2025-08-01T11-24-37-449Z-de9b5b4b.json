@@ -1,0 +1,13 @@
+# Applications of Machine Learning and Deep Learning in Antenna Design, Optimization, and Selection: A Review
+
+**Authors:** Nayan Sarker, Prajoy Podder, M. Mondal, S. S. Shafin, J. Kamruzzaman
+
+## Abstract
+This review paper provides an overview of the latest developments in artificial intelligence (AI)-based antenna design and optimization for wireless communications. Machine learning (ML) and deep learning (DL) algorithms are applied to antenna engineering to improve the efficiency of the design and optimization processes. The review discusses the use of electromagnetic (EM) simulators such as computer simulation technology (CST) and high-frequency structure simulator (HFSS) for ML and DL-based antenna design, which also covers reinforcement learning (RL)-bases approaches. Various antenna optimization methods including parallel optimization, single and multi-objective optimization, variable fidelity optimization, multilayer ML-assisted optimization, and surrogate-based optimization are discussed. The review also covers the AI-based antenna selection approaches for wireless applications. To support the automation of antenna engineering, the data generation technique with computational electromagnetics software is described and some useful datasets are reported. The review concludes that ML/DL can enhance antenna behavior prediction, reduce the number of simulations, improve computer efficiency, and speed up the antenna design process.
+
+**Source:** https://www.semanticscholar.org/paper/690b1c53bc90318cbf2e7c6fa12361c0b9a6efc3
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:37.449Z

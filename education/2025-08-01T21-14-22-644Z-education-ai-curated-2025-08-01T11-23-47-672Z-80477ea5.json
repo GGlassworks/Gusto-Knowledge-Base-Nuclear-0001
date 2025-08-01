@@ -1,0 +1,13 @@
+# A review of deep learning applications for genomic selection
+
+**Authors:** O. Montesinos-López, A. Montesinos-López, P. Pérez-Rodríguez, José Alberto Barrón-López, J. Martini, S. Fajardo-Flores, L. Gaytán-Lugo, P. C. Santana-Mancilla, J. Crossa
+
+## Abstract
+Several conventional genomic Bayesian (or no Bayesian) prediction methods have been proposed including the standard additive genetic effect model for which the variance components are estimated with mixed model equations. In recent years, deep learning (DL) methods have been considered in the context of genomic prediction. The DL methods are nonparametric models providing flexibility to adapt to complicated associations between data and output with the ability to adapt to very complex patterns. We review the applications of deep learning (DL) methods in genomic selection (GS) to obtain a meta-picture of GS performance and highlight how these tools can help solve challenging plant breeding problems. We also provide general guidance for the effective use of DL methods including the fundamentals of DL and the requirements for its appropriate use. We discuss the pros and cons of this technique compared to traditional genomic prediction approaches as well as the current trends in DL applications. The main requirement for using DL is the quality and sufficiently large training data. Although, based on current literature GS in plant and animal breeding we did not find clear superiority of DL in terms of prediction power compared to conventional genome based prediction models. Nevertheless, there are clear evidences that DL algorithms capture nonlinear patterns more efficiently than conventional genome based. Deep learning algorithms are able to integrate data from different sources as is usually needed in GS assisted breeding and it shows the ability for improving prediction accuracy for large plant breeding data. It is important to apply DL to large training-testing data sets.
+
+**Source:** https://www.semanticscholar.org/paper/d707cf8902fc6996879bd0248df17532bcf7ad62
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:23:47.673Z

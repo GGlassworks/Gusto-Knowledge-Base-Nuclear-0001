@@ -1,0 +1,13 @@
+# A State-of-the-Art Survey on Deep Learning Theory and Architectures
+
+**Authors:** Md. Zahangir Alom, T. Taha, C. Yakopcic, Stefan Westberg, P. Sidike, Mst Shamima Nasrin, Mahmudul Hasan, Brian C. Van Essen, A. Awwal, V. Asari
+
+## Abstract
+In recent years, deep learning has garnered tremendous success in a variety of application domains. This new field of machine learning has been growing rapidly and has been applied to most traditional application domains, as well as some new areas that present more opportunities. Different methods have been proposed based on different categories of learning, including supervised, semi-supervised, and un-supervised learning. Experimental results show state-of-the-art performance using deep learning when compared to traditional machine learning approaches in the fields of image processing, computer vision, speech recognition, machine translation, art, medical imaging, medical information processing, robotics and control, bioinformatics, natural language processing, cybersecurity, and many others. This survey presents a brief survey on the advances that have occurred in the area of Deep Learning (DL), starting with the Deep Neural Network (DNN). The survey goes on to cover Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), including Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU), Auto-Encoder (AE), Deep Belief Network (DBN), Generative Adversarial Network (GAN), and Deep Reinforcement Learning (DRL). Additionally, we have discussed recent developments, such as advanced variant DL techniques based on these DL approaches. This work considers most of the papers published after 2012 from when the history of deep learning began. Furthermore, DL approaches that have been explored and evaluated in different application domains are also included in this survey. We also included recently developed frameworks, SDKs, and benchmark datasets that are used for implementing and evaluating deep learning approaches. There are some surveys that have been published on DL using neural networks and a survey on Reinforcement Learning (RL). However, those papers have not discussed individual advanced techniques for training large-scale deep learning models and the recently developed method of generative models.
+
+**Source:** https://www.semanticscholar.org/paper/8dd53f10ca5fa14faeed2bd2951d247f1ac60f40
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:22:56.846Z

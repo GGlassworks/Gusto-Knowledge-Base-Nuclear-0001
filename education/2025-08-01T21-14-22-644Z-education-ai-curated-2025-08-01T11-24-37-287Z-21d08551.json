@@ -1,0 +1,13 @@
+# DLOPT: Deep Learning Optimization Library
+
+**Authors:** Andrés Camero, J. Toutouh, E. Alba
+
+## Abstract
+Deep learning hyper-parameter optimization is a tough task. Finding an appropriate network configuration is a key to success, however most of the times this labor is roughly done. In this work we introduce a novel library to tackle this problem, the Deep Learning Optimization Library: DLOPT. We briefly describe its architecture and present a set of use examples. This is an open source project developed under the GNU GPL v3 license and it is freely available at this https URL
+
+**Source:** https://www.semanticscholar.org/paper/ed60b1864d1a6ef4edb16ae74ad6ec15225723be
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:37.287Z

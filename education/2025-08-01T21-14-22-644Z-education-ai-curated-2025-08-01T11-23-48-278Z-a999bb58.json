@@ -1,0 +1,13 @@
+# A Review of Deep Learning Applications in Lung Ultrasound Imaging of COVID-19 Patients
+
+**Authors:** Lingyi Zhao, M. L. Lediju Bell
+
+## Abstract
+The massive and continuous spread of COVID-19 has motivated researchers around the world to intensely explore, understand, and develop new techniques for diagnosis and treatment. Although lung ultrasound imaging is a less established approach when compared to other medical imaging modalities such as X-ray and CT, multiple studies have demonstrated its promise to diagnose COVID-19 patients. At the same time, many deep learning models have been built to improve the diagnostic efficiency of medical imaging. The integration of these initially parallel efforts has led multiple researchers to report deep learning applications in medical imaging of COVID-19 patients, most of which demonstrate the outstanding potential of deep learning to aid in the diagnosis of COVID-19. This invited review is focused on deep learning applications in lung ultrasound imaging of COVID-19 and provides a comprehensive overview of ultrasound systems utilized for data acquisition, associated datasets, deep learning models, and comparative performance.
+
+**Source:** https://www.semanticscholar.org/paper/d43b835ec912eb1047c9b43186b790f41777b371
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:23:48.279Z

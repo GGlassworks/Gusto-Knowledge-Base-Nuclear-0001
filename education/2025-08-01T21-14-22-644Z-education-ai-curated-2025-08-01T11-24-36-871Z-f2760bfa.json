@@ -1,0 +1,13 @@
+# Early Lung Cancer Detection using Deep Learning Optimization
+
+**Authors:** A. Elnakib, Hanan M. Amer, F. Abou-Chadi
+
+## Abstract
+This paper proposes a Computer Aided Detection (CADe) system for early detection of lung nodules from low dose computed tomography (LDCT) images. The proposed system initially pre-process the raw data to improve the contrast of the low dose images. Compact deep learning features are then extracted by investigating different deep learning architectures, including Alex, VGG16, and VGG19 networks. To optimize the extracted set of features, a genetic algorithm (GA) is trained to select the most relevant features for early detection. Finally, different types of classifiers are tested in order to accurately detect the lung nodules. The system is tested on 320 LDCT images from 50 different subjects, using an online public lung database, i.e., the International Early Lung Cancer Action Project, I-ELCAP. The proposed system, using VGG19 architecture and SVM classifier, achieves the best detection accuracy of 96.25%, sensitivity of 97.5%, and specificity of 95%. Compared to other state-of-the-art methods, the proposed system shows a promising results.
+
+**Source:** https://www.semanticscholar.org/paper/0ba0d9fa3c94b355dc053a044b25e657d4ff7b9f
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:36.871Z
