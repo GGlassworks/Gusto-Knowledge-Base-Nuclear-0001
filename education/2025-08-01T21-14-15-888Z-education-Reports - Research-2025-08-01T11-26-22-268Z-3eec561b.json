@@ -1,0 +1,13 @@
+# Deep Learning + Student Modeling + Clustering: A Recipe for Effective Automatic Short Answer Grading
+
+**Authors:** Zhang, Yuan, Shah, Rajat, Chi, Min
+
+## Abstract
+In this work we tackled the task of Automatic Short Answer Grading (ASAG). While conventional ASAG research makes prediction mainly based on student answers referred as Answer-based, we leveraged the information about questions and student models into consideration. More specifically, we explore the Answer-based, Question, and Student models individually, and subsequently in various combined and composite models through feature engineering. Additionally, we extend the exploration of machine learning methods by utilizing Deep Belief Networks (DBN) together with other five classic classifiers. Our experimental results show that our proposed feature engineering models significantly out-performed the conventional Answer-based model and among the six machine learning classifiers, DBN is the best followed by SVM, and Naive Bayes is the worst. [For the full proceedings, see ED592609.]
+
+**Source:** https://eric.ed.gov/?id=ED592661
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T11:26:22.268Z

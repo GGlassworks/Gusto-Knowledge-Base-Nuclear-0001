@@ -1,0 +1,13 @@
+# Deep-IRT with Independent Student and Item Networks
+
+**Authors:** Tsutsumi, Emiko, Kinoshita, Ryo, Ueno, Maomi
+
+## Abstract
+Knowledge tracing (KT), the task of tracking the knowledge state of each student over time, has been assessed actively by artificial intelligence researchers. Recent reports have described that Deep-IRT, which combines Item Response Theory (IRT) with a deep learning model, provides superior performance. It can express the abilities of each student and the difficulty of each item such as IRT. However, its interpretability and applicability remain limited compared to those of IRT because the ability parameter depends on each item. Namely, the ability estimate for the same student and time might differ if the student attempts a different item. To overcome those difficulties, this study proposes a novel Deep-IRT model that models a student response to an item by two independent networks: a student network and an item network. Results of experiments demonstrate that the proposed method improves prediction accuracy and the interpretability of earlier KT methods. [For the full proceedings, see ED615472.]
+
+**Source:** https://eric.ed.gov/?id=ED615529
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T11:22:50.719Z

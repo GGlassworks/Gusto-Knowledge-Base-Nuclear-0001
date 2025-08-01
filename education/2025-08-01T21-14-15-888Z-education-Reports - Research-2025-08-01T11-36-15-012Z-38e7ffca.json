@@ -1,0 +1,13 @@
+# Psychometric Measurement Models and Artificial Neural Networks
+
+**Authors:** Sese, Albert, Palmer, Alfonso L., Montano, Juan J.
+
+## Abstract
+The study of measurement models in psychometrics by means of dimensionality reduction techniques such as Principal Components Analysis (PCA) is a very common practice. In recent times, an upsurge of interest in the study of artificial neural networks apt to computing a principal component extraction has been observed. Despite this interest, the use of neural networks as a dimensionality reduction tool applied to psychometrics is totally nonexistent in the literature. The work presented here is devoted to the description of Neural Networks Principal Components Analysis (NNPCA) and the comparison of its results with performance of classical PCA by means of a computer simulation study. Results indicate very important convergence between neural and classical PCA, even with simulated diffuse latent structures. NNPCA is performed under principles of neurobiologic plausibility (learning neural architecture), useful to analyze latent psychometric structures adding more psychological significance. This new tool could be considered as another complementary way to assess measurement models, together with classical approaches. The pioneer character of this work also requires the development of further empirical evidence that allows advancement in the use of the NNPCA in the study of psychometric measurement models.
+
+**Source:** https://eric.ed.gov/?id=EJ683918
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T11:36:15.013Z

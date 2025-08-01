@@ -1,0 +1,13 @@
+# On Competition for Undergraduate Co-Op Placements: A Graph Mining Approach
+
+**Authors:** Jiang, Yuheng, Golab, Lukasz
+
+## Abstract
+We propose a graph mining methodology to analyze the relationships among academic programs from the point of view of cooperative education. The input consists of student - job interview pairs, with each student labelled with his or her academic program. From this input, we build a weighted directed graph, which we refer to as a program graph, in which vertices correspond to academic programs and edge weights denote the percentage of jobs that interviewed at least one student from both programs. We show that various properties of this graph have natural interpretations in terms of the relationships among academic programs and competition for co-op jobs. We also present a case study that illustrates the utility of the proposed methodology. [For the full proceedings, see ED592609.]
+
+**Source:** https://eric.ed.gov/?id=ED592700
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T19:35:19.674Z

@@ -1,0 +1,13 @@
+# Predicting Item Difficulty in a Reading Comprehension Test with an Artificial Neural Network.
+
+**Authors:** Perkins, Kyle, And Others
+
+## Abstract
+This paper reports the results of using a three-layer backpropagation artificial neural network to predict item difficulty in a reading comprehension test. Two network structures were developed, one with and one without a sigmoid function in the output processing unit. The data set, which consisted of a table of coded test items and corresponding item difficulties, was partitioned into a training set and a test set in order to train and test the neural networks. To demonstrate the consistency of the neural networks in predicting item difficulty, the training and test sets were repeated four times starting with a new set of initial weights. Additionally, the training and testing runs were repeated by switching the training set and the test set. The mean squared error values  between the actual and predicted item difficulty demonstrated the consistency of the neural networks in predicting item difficulty for the multiple training and test runs. Significant correlations were obtained between the actual and predicted item difficulties and the Kruskal-Wallis test, indicating no significant difference in the ranks of actual and predicted values. (Author/MDM)
+
+**Source:** https://eric.ed.gov/?id=ED368182
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T11:37:05.925Z
