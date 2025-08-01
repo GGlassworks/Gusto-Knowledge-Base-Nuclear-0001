@@ -1,0 +1,13 @@
+# Utilizing Radar Graphs in the Visualization of Simulation and Estimation Results in Network Meta-Analysis
+
+**Authors:** Seide, Svenja E., Jensen, Katrin, Kieser, Meinhard
+
+## Abstract
+Traditional visualization in meta-analysis uses forest plots to illustrate the combined treatment effect, along with the respective results from primary trials. While the purpose of visualization is clear in the pairwise setting, additional treatments broaden the focus and extend the results to be illustrated in network meta-analysis. The complexity increases further in situations where all potential contrasts in the network are compared to a predefined fixed value of interest, such as the 95% coverage evaluated against the nominal value of 95% in simulation studies. We propose utilizing radar graphs to illustrate results from network meta-analysis in cases where the interest lies in the comparison of estimated results (after fitting a network meta-analysis in a specific data set) or a performance measure (simulation study) to a pre-defined fixed reference value. Accounting for the complex high-dimensional data structure, the general picture of the full network is captured at once without increasing the space needed for visualization. Especially in large simulation studies, where multiple scenarios need to be visually combined to gain an overview on different scenarios, this type of illustration facilitates the discussion of results. Further properties, such as the expected variation due to the Monte-Carlo error or the differentiation between directly and indirectly estimated treatment contrasts in simulation studies, as well as the indication of well-connected and sparsely connected treatments in an applied network meta-analysis, can additionally be included in the visualization. While we used the radar-graph mainly for a simulation study, other applications are suitable whenever relative contributions of treatment (contrasts) are of interest.
+
+**Source:** https://eric.ed.gov/?id=EJ1279867
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:57:59.448Z

@@ -1,0 +1,13 @@
+# Influence of Programming Style in Transformation Bad Smells: Mining of ETL Repositories
+
+**Authors:** Bonet, Nicolás, Garcés, Kelly, Casallas, Rubby, Correal, María Elsa, Wei, Ran
+
+## Abstract
+Bad smells affect maintainability and performance of model-to-model transformations. There are studies that define a set of transformation bad smells, and some of them propose techniques to recognize and--according to their complexity--fix them in a (semi)automated way. In academia it is necessary to make students aware of this subject and provide them with guidelines to improve the quality of their transformations. This paper presents the most common bad smells made by master students from Universidad de los Andes, and compares them with those from publicly available repositories of Epsilon transformation language transformations, with the purpose of knowing whether programming style affects the incidence of smells. Three concrete contributions are presented: (i) two new bad smells that enrich the existing catalogs; (ii) a process that includes the automated extraction of transformation metrics and bad smells metrics from the repositories, and a statistical analysis that helps in identifying the relation between such metrics; and (iii) a tool that automatizes the process. From the statistical analysis, we conclude that, students must be encouraged and guided to develop maintainable declarative transformations. At this point, our tool has been proved to be very useful to help improve the quality of students' transformations.
+
+**Source:** https://eric.ed.gov/?id=EJ1185502
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:59:03.480Z

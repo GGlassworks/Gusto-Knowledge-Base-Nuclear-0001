@@ -1,0 +1,13 @@
+# Teaching Tip: Integrating NoSQL Databases into a Data Analytics Course
+
+**Authors:** Madhav Sharma, Andy Bowman
+
+## Abstract
+&quot;Not only SQL&quot; (NoSQL) databases have become widespread across organizations, enabling sophisticated, data-driven applications to be highly available, distributed, and cloud-based, such as e-commerce, social media, online multiplayer games, and video streaming. However, NoSQL is still sparsely found in MIS and analytics curricula. This teaching tip presents an experiential learning-based, five-module course structure for teaching analytics students structured query language (SQL) and NoSQL databases. We describe our implementation, where students learned relational databases and four types of NoSQL databases, with assessments conducted using use cases, projects, and exams. Students reported high levels of engagement and positive first-hand practice experiences with NoSQL beyond general concepts. We believe this course design will empower students to broaden their skill set and communicate more effectively about the Extract, Transform, Load (ETL) and Extract, Load, Transform (ELT) processes.
+
+**Source:** https://eric.ed.gov/?id=EJ1463913
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:59:02.606Z
