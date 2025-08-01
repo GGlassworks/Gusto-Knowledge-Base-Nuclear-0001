@@ -1,0 +1,13 @@
+# Hybridization of Chaotic Maps and Gravitational Search Algorithm for Constrained Mechanical and Civil Engineering Design Frameworks
+
+**Authors:** Sajad Ahmad Rather, P. Shanthi Bala
+
+## Abstract
+<p>The Chaotic Gravitational Search Algorithm (CGSA) is a physics-based heuristic algorithm inspired by Newton's law of universal gravitation. It uses 10 chaotic maps for optimal global search and fast convergence rate. The advantages of CGSA has been incorporated in various Mechanical and Civil engineering design frameworks which include Speed Reducer Design (SRD), Gear Train Design (GTD), Three Bar Truss Design (TBTD), Stepped Cantilever Beam Design (SCBD), Multiple Disc Clutch Brake Design (MDCBD), and Hydrodynamic Thrust Bearing Design (HTBD). The CGSA has been compared with eleven state of the art stochastic algorithms. In addition, a non-parametric statistical test namely the Signed Wilcoxon Rank-Sum test has been carried out at a 5% significance level to statistically validate the results. The simulation results indicate that CGSA shows efficient performance in terms of high convergence speed and minimization of the design parameter values as compared to other heuristic algorithms. The source codes are publicly available on Github i.e. https://github.com/SajadAHMAD1.</p>
+
+**Source:** https://doi.org/10.4018/ijamc.2022010102
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T15:55:59.868Z

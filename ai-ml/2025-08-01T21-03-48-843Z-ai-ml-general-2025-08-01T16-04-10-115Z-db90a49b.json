@@ -1,0 +1,13 @@
+# Aircraft Performance Simulation of 19-Passenger Commuter Aircraft: A Comparison between Normal and Amphibious Category
+
+**Authors:** M. Adhitya
+
+## Abstract
+<jats:p>This article presents calculating flight performance aspects and simulations of flight characteristics during a flight mission of the 19-passenger commuter aircraft, with a focus on the comparison between the normal and amphibious category aircraft. The objective is to analyse the flight characteristics (warm up, takeoff, cruise, descent, landing) and capabilities of both aircraft configurations. The significant difference between the two aircraft lies in the presence of float components in the 19-passenger Amphibious aircraft. The calculation process, both manual and simulation-based, involves utilizing constraint analysis and mission analysis to determine the weight fraction values for each flight phase. The results of the constraint analysis indicate that the amphibious category aircraft has higher values (35% - 80%) compared to the normal category aircraft. Meanwhile, the calculations using aircraft engine design (AEDsys) software reveal nearly identical reductions in weight fraction for each phase, with the amphibious category aircraft having a significant decrease in the final weight fraction of 0.87836. The fuel weight used is 2129 lb or 965.70 kg (8 barrels) with a range of approximately 372 nm or about 690 km and a flight time of approximately 2.4 hours. The drag polar values obtained using Parametric cycle analysis software at an altitude of 3,048 meters (10,000 ft) show that the normal category aircraft has a smaller coefficient drag (CD) value. Further validation of the findings from this performance simulation study can be conducted through direct experimental validation during flight to be utilized for optimizing aircraft performance.</jats:p>
+
+**Source:** https://doi.org/10.24191/jmeche.v21i2.26255
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T16:04:10.115Z

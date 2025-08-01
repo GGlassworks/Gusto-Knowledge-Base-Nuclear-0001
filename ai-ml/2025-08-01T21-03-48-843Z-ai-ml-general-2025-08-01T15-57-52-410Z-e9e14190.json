@@ -1,0 +1,13 @@
+# Sensor Based Failure Analysis of Rolling Element Bearings
+
+**Authors:** Swaminadham Midturi
+
+## Abstract
+<jats:p>Failure-free operation of rolling element bearings is essential for the safe and reliable operation of rotating industrial equipment, especially of the type high-energy aircraft engines. However, improper installation and maintenance, large variations in applied loads, and cycle time initiate functional defects to reduce the service life of bearing elements severely. In-service condition monitoring of bearings by permanently mounted sensors offers excellent potential to reduce the risk of failures and avoid premature failure of bearings and the rotor system. This paper presents the results from a study on experimental investigation of bearing defect identification by sensor-based condition monitoring methods. Vibration spectra from a direct mount accelerometer are analyzed to interpret and classify bearing defects. Sensor locations on the bearing are selected for enhanced sensitivity and minimum loss in the signal transmission path. Signal processing methods such as Fast Fourier Transform and statistical Kurtosis and skewness parameters are applied to characterize the dynamic spectra due to bearing defects in outer race, inner race, and cage elements of a test bearing. Unlike the previous research, this study analyzes the dynamic spectra of a test bearing to identify the spectral differences due to varying loads. The results are presented in simple and easy to understand format for the maintenance and engineering staff to affect repairs to bearing assemblies.</jats:p>
+
+**Source:** https://doi.org/10.1115/imece2005-81129
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T15:57:52.410Z

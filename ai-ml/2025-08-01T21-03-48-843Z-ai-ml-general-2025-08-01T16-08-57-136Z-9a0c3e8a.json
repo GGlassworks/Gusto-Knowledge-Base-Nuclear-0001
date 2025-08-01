@@ -1,0 +1,13 @@
+# Enhanced Rao Algorithms for Optimization of the Structures Considering the Deterministic and Probabilistic Constraints
+
+**Authors:** Ali Kaveh, Attaolah Zaerreza
+
+## Abstract
+<jats:p>Rao algorithms are metaheuristic algorithms that are based on population and do not have metaphors. These algorithms are extremely simple and do not require the use of any parameters that are dependent on the problem. Although these algorithms have some other benefits to, they are vulnerable of being trapped in local optima. The present work proposes Enhanced Rao algorithms denoted by ERao as a means of alleviating this drawback. In the ERao algorithms, the modified version of the statistically regenerated mechanism is added. Additionally, the mechanism that sticks the candidate solution to the border of the search space is modified. The efficiency of the ERao algorithms is tested on three structural design optimization problems with probabilistic and deterministic constraints. The optimization results are compared to those of the Rao algorithms and some other state-of-art optimization methods. The results show that the proposed optimization method can be an effective tool for solving structural design problems with probabilistic and deterministic constraints.</jats:p>
+
+**Source:** https://doi.org/10.3311/ppci.20067
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T16:08:57.137Z

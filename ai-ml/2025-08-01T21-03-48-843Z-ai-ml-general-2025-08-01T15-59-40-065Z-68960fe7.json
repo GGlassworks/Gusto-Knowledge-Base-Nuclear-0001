@@ -1,0 +1,13 @@
+# MCDM Optimization of Parameters for Wire-EDM Machined Stainless Steel using Hybrid RSM-TOPSIS, Genetic Algorithm and Simulated Annealing
+
+**Authors:** Dilip Kumar Bagal*, Abhishek Barua, Siddharth Jeet, Pratyashi Satapathy, Dulu Patnaik
+
+## Abstract
+<jats:p>In this investigation, the influence of WEDM process constraints on tool wear rate, kerf width, surface roughness of SS 304 grade stainless steel was studied. Fifteen experimental runs were carried out based on Box-Behnken method of Response surface methodology and TOPSIS method was used for finding an optimum parameter setting. From the ANOVA results, pulse ON time was found as most significant factor for tool wear rate, kerf width and surface roughness. Genetic Algorithm and Simulated Annealing was also used for the calculation of the optimum setting along with the forecast of fitness values. It was found that every optimization technique gives similar factor setting.</jats:p>
+
+**Source:** https://doi.org/10.35940/ijeat.a9349.109119
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T15:59:40.065Z
