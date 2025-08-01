@@ -1,0 +1,13 @@
+# Deep learning evaluation of echocardiograms to identify occult atrial fibrillation
+
+**Authors:** N. Yuan, Nathan R Stein, Grant Duffy, R. Sandhu, S. Chugh, Peng-Sheng Chen, Carine Rosenberg, Christine M. Albert, Susan Cheng, Robert J Siegel, D. Ouyang
+
+## Abstract
+Background Atrial fibrillation (AF) can often be missed by intermittent screening given its frequently paroxysmal and asymptomatic presentation. Deep learning algorithms have been developed to identify patients with paroxysmal AF from electrocardiograms (ECGs) in sinus rhythm. Transthoracic echocardiograms (TTEs) may provide additional structural information complementary to ECGs that could also be used to help identify occult AF. Objective We sought to determine whether deep learning evaluation of echocardiograms of patients in sinus rhythm could identify occult AF. Methods We identified patients who had TTEs performed between 2004 and 2021. We created a two-stage model that (1) distinguished which TTEs were in sinus rhythm and which were in AF and then (2) predicted which of the TTEs in sinus rhythm were in patients with paroxysmal AF. Models were trained from video-based convolutional neural networks using TTE parasternal long axis (PLAX) videos. The AF prediction performance was compared to prediction using clinical variables, CHADSVASc score, and left atrial (LA) size. Results Our model trained on 111,319 TTE videos distinguished TTEs in AF from those in sinus rhythm with high accuracy (AUC 0.96, 0.95-0.96). A total of 72,181 TTE videos were in sinus rhythm. When tested on a held-out sample, the model predicted the occurrence of concurrent AF with an AUC of 0.71 (0.69-0.73). Using the max F1 threshold, the PPV was 0.20 and the NPV was 0.95. The model performed better than predicting concurrent AF using clinical risk factors (AUC 0.67, 0.65-0.69), LA area (AUC 0.63, 0.62-0.64), and CHADSVASc (AUC 0.61, 0.60-0.62). Conclusion A deep learning model distinguished AF from sinus rhythm TTEs with high accuracy and predicted the presence of AF within 90 days of sinus rhythm TTEs moderately well, better than clinical variables or LA size alone. TTEs may help inform automated opportunistic AF screening efforts.
+
+**Source:** https://www.semanticscholar.org/paper/d3b82ae9d34c5ee674cdd04dd9dc67721beb8aaa
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:34:34.571Z

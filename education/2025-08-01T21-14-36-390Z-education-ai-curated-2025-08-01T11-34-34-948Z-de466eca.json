@@ -1,0 +1,13 @@
+# First break picking with deep learning – evaluation of network architectures
+
+**Authors:** P. Zwartjes, J. Yoo
+
+## Abstract
+In recent years, various convolutional neural network architectures have been proposed for first break picking. In this paper, we compare the standard auto‐encoder and U‐net architectures as well as versions enhanced with ResNet style skip connections. The U‐net appears to have become the standard network for segmentation, judging from the number of published articles. Still, there is some variety in neural network architectural choices. In this paper, we assess the impact of neural network depth, width and input data size, as well as some small modifications for deep networks offered by the ResNet. In general, results improve as the networks get deeper, but with diminishing returns. The more complex the data, the more benefit the deeper networks bring. We use complete shot gathers, albeit rescaled for efficiency, to train the neural networks. For shot gathers with a simple piecewise linear moveout, this approach yields results with good accuracy when gathers are resampled to 128 × 128 samples. For shot gathers with more complex first break moveout, using our approach it is advised to stay close to the original dimension of each gather for best accuracy, at the expense of increased training times. A good trade‐off between network depth, image size and training times is to use a nine‐stage U‐net with 256 sample images. Despite the advantages in other applications, the basic U‐net outperforms a U‐net with ResNet features. We show that changing the input data dimensions for trained networks does not work, despite the fact the fully convolutional networks are independent of image size. The U‐net based first break picking is not sensitive to picking errors, as in many cases the neural network predictions are better than the training data where the training data have random mispicks. This suggests a practical application; namely, to train or re‐train a pre‐trained network on a single data set after conventional first break picking with the objective of improving conventionally picked first breaks.
+
+**Source:** https://www.semanticscholar.org/paper/9b3fd7c9fdf8e27f558ad3194c4170b6278ffe70
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:34:34.954Z

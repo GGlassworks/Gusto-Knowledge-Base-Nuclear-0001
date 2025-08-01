@@ -1,0 +1,13 @@
+# Evaluation of Deep Learning Models for Multi-Step Ahead Time Series Prediction
+
+**Authors:** Rohitash Chandra, Shaurya Goyal, Rishabh Gupta
+
+## Abstract
+Time series prediction with neural networks has been the focus of much research in the past few decades. Given the recent deep learning revolution, there has been much attention in using deep learning models for time series prediction, and hence it is important to evaluate their strengths and weaknesses. In this paper, we present an evaluation study that compares the performance of deep learning models for multi-step ahead time series prediction. The deep learning methods comprise simple recurrent neural networks, long short-term memory (LSTM) networks, bidirectional LSTM networks, encoder-decoder LSTM networks, and convolutional neural networks. We provide a further comparison with simple neural networks that use stochastic gradient descent and adaptive moment estimation (Adam) for training. We focus on univariate time series for multi-step-ahead prediction from benchmark time-series datasets and provide a further comparison of the results with related methods from the literature. The results show that the bidirectional and encoder-decoder LSTM network provides the best performance in accuracy for the given time series problems.
+
+**Source:** https://www.semanticscholar.org/paper/10177567a959dc260216749fe699c961879e11d2
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:34:35.604Z

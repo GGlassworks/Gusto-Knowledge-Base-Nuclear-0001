@@ -1,0 +1,13 @@
+# Towards a Catalog of Energy Patterns in Deep Learning Development
+
+**Authors:** Shriram Shanbhag, S. Chimalakonda, V. Sharma, Vikrant S. Kaulgud
+
+## Abstract
+The exponential rise of deep learning, aided by the availability of several frameworks and specialized hardware, has led to its application in a wide variety of domains. The availability of GPUs has made it easier to train networks with a huge number of parameters. However, this rise has come at the expense of ever-increasing energy requirements and carbon footprint. While the existing work tries to combat this issue by proposing optimizations in the hardware and the neural network architectures, there is an absence of general energy efficiency guidelines for deep learning developers. In this paper, we propose an initial catalog of 8 energy patterns for developing deep learning applications by analyzing 1361 posts from Stack Overflow. Our hope is that these energy patterns may help the developers adopt energy efficient practices in their deep learning projects. A survey with 14 deep learning developers showed us that the developers are largely in agreement with the usefulness of the catalog from an energy efficiency perspective. A detailed description of the catalog, along with the posts related to each energy pattern, is available at the following link: https://rishalab.github.io/dl_energy_patterns/
+
+**Source:** https://www.semanticscholar.org/paper/bda7dc24c947e51837b63c0eba8f30734c20ffcf
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:32:52.566Z

@@ -1,0 +1,13 @@
+# Advanced Deep Learning Approaches for Accurate Brain Tumor Classification in Medical Imaging
+
+**Authors:** Amena Mahmoud, Nancy Awadallah Awad, Najah Alsubaie, Syed Immamul Ansarullah, M. Alqahtani, Mohamed Abbas, Mohammed Usman, Ben Othman Soufiene, Abeer Saber
+
+## Abstract
+A brain tumor can have an impact on the symmetry of a person’s face or head, depending on its location and size. If a brain tumor is located in an area that affects the muscles responsible for facial symmetry, it can cause asymmetry. However, not all brain tumors cause asymmetry. Some tumors may be located in areas that do not affect facial symmetry or head shape. Additionally, the asymmetry caused by a brain tumor may be subtle and not easily noticeable, especially in the early stages of the condition. Brain tumor classification using deep learning involves using artificial neural networks to analyze medical images of the brain and classify them as either benign (not cancerous) or malignant (cancerous). In the field of medical imaging, Convolutional Neural Networks (CNN) have been used for tasks such as the classification of brain tumors. These models can then be used to assist in the diagnosis of brain tumors in new cases. Brain tissues can be analyzed using magnetic resonance imaging (MRI). By misdiagnosing forms of brain tumors, patients’ chances of survival will be significantly lowered. Checking the patient’s MRI scans is a common way to detect existing brain tumors. This approach takes a long time and is prone to human mistakes when dealing with large amounts of data and various kinds of brain tumors. In our proposed research, Convolutional Neural Network (CNN) models were trained to detect the three most prevalent forms of brain tumors, i.e., Glioma, Meningioma, and Pituitary; they were optimized using Aquila Optimizer (AQO), which was used for the initial population generation and modification for the selected dataset, dividing it into 80% for the training set and 20% for the testing set. We used the VGG-16, VGG-19, and Inception-V3 architectures with AQO optimizer for the training and validation of the brain tumor dataset and to obtain the best accuracy of 98.95% for the VGG-19 model.
+
+**Source:** https://www.semanticscholar.org/paper/43caecff500092502e6561abd8da8ae25cb54c80
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.512Z

@@ -1,0 +1,13 @@
+# Deep learning evaluation using deep linguistic processing
+
+**Authors:** A. Kuhnle, Ann A. Copestake
+
+## Abstract
+We discuss problems with the standard approaches to evaluation for tasks like visual question answering, and argue that artificial data can be used to address these as a complement to current practice. We demonstrate that with the help of existing ‘deep’ linguistic processing technology we are able to create challenging abstract datasets, which enable us to investigate the language understanding abilities of multimodal deep learning models in detail, as compared to a single performance value on a static and monolithic dataset.
+
+**Source:** https://www.semanticscholar.org/paper/e3884d98977c12a2fbd2f5a8a7e955a55652a8fd
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:34:35.258Z

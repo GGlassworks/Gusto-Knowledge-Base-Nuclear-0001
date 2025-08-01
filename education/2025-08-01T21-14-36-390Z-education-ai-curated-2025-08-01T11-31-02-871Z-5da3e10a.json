@@ -1,0 +1,13 @@
+# Advanced Deep Learning Techniques for Predicting Neurodegenerative Diseases
+
+**Authors:** K. Shastry, Nikhil Janyani, Greeshma G, Kruthina U, Lokesh Patil
+
+## Abstract
+Two of the most prevalent neurodegenerative disorders affecting the elderly are Alzheimer's Disease (AD)and Parkinson's Disease (PD). AD is a neurological illness that progressively deteriorates a person's cognitive and memory abilities, along with their ability to do daily tasks and enjoy life. Motor signs of PD include tremors, rigidity, and balance problems. In this research, we examine several deep learning algorithms for predicting AD from MRI images and PD from spiral drawings of patients. The research suggests a convolutional neural network (CNN) method that makes use of patients' spiral drawings, a sensitive and non-invasive biomarker, for the prediction of PD. VGG16, a deep learning model, achieves great accuracy for predicting AD, showing the promise of such methods for helping to diagnose and cure neurodegenerative disorders at an earlier stage. The CNN model achieved higher accuracy for PD detection. The application of deep learning techniques in predicting neurodegenerative illnesses is an essential area for further research because early detection and management are crucial for better patient outcomes and an improved quality of life. The findings of this study show the importance of non-invasive biomarkers in illness diagnosis and provide light on the potential of CNN algorithms for AD and PD prediction. Better healthcare outcomes and quality of life for people with neurodegenerative disorders can result from continued study of deep learning-based diagnosis and treatment.
+
+**Source:** https://www.semanticscholar.org/paper/3c75b2f461e7f7c9641fe30f4ad108b6608a7072
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.871Z

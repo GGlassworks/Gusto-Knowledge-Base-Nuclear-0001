@@ -1,0 +1,13 @@
+# IoT-Blockchain Enabled Optimized Provenance System for Food Industry 4.0 Using Advanced Deep Learning
+
+**Authors:** Prince Waqas Khan, Y. Byun, Namje Park
+
+## Abstract
+Agriculture and livestock play a vital role in social and economic stability. Food safety and transparency in the food supply chain are a significant concern for many people. Internet of Things (IoT) and blockchain are gaining attention due to their success in versatile applications. They generate a large amount of data that can be optimized and used efficiently by advanced deep learning (ADL) techniques. The importance of such innovations from the viewpoint of supply chain management is significant in different processes such as for broadened visibility, provenance, digitalization, disintermediation, and smart contracts. This article takes the secure IoT–blockchain data of Industry 4.0 in the food sector as a research object. Using ADL techniques, we propose a hybrid model based on recurrent neural networks (RNN). Therefore, we used long short-term memory (LSTM) and gated recurrent units (GRU) as a prediction model and genetic algorithm (GA) optimization jointly to optimize the parameters of the hybrid model. We select the optimal training parameters by GA and finally cascade LSTM with GRU. We evaluated the performance of the proposed system for a different number of users. This paper aims to help supply chain practitioners to take advantage of the state-of-the-art technologies; it will also help the industry to make policies according to the predictions of ADL.
+
+**Source:** https://www.semanticscholar.org/paper/a7b24a7276d7f4beeeee28b1816660f487b3d91a
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.777Z

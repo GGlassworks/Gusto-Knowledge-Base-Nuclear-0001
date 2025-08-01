@@ -1,0 +1,13 @@
+# AI-Powered Pancreas Navigator: Delving into the Depths of Early Pancreatic Cancer Diagnosis using Advanced Deep Learning Techniques
+
+**Authors:** Kiran Chand Ravi, Rohit R Dixit, Indhumathi. T, Sugandh Singh, Anandbabu Gopatoti, Ajay Singh Yadav
+
+## Abstract
+Pancreatic cancer is one of the deadliest forms of cancer, often diagnosed at advanced stages with limited treatment options. Early detection is critical for improving patient outcomes, and this study explores an innovative approach for early pancreatic cancer diagnosis. Leveraging advanced deep learning techniques, specifically a combination of Multi-Layer Perceptrons (MLP) and Support Vector Machines (SVM), we present a novel methodology that demonstrates promising results in accurately identifying pancreatic cancer at its incipient stages. By leveraging the deep learning capabilities of MLPs to extract intricate features from medical data and the discriminative power of SVMs for classification, our model exhibits a remarkable performance in terms of accuracy, sensitivity, and specificity. This research not only showcases the potential for early diagnosis of pancreatic cancer but also underscores the transformative impact of cutting-edge machine learning technologies in the realm of healthcare, offering hope for more effective and timely interventions in cancer management.The Proposed Model displayed an exceptional performance, boasting an Accuracy of 98.41%.
+
+**Source:** https://www.semanticscholar.org/paper/d2af9e013b6f03db543d54c4d4ee12501563aa15
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.596Z

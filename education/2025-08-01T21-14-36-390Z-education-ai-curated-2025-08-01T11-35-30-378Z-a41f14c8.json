@@ -1,0 +1,13 @@
+# Classification of some epidemics through microscopic images by using deep learning. Comparison
+
+**Authors:** Laura Brito, Roberto Rodríguez
+
+## Abstract
+In this study, we utilized a convolutional neural network (CNN) trained on microscopic images encompassing the SARS-CoV-2 virus, the protozoan parasite “plasmodium falciparum” (causing of malaria in humans), the bacterium “vibrio cholerae” (which produces the cholera disease) and non-infected samples (healthy persons) to effectively classify and predict epidemics. The findings showed promising results in both classification and prediction tasks. We quantitatively compared the obtained results by using CNN with those attained employing the support vector machine. Notably, the accuracy in prediction reached 97.5% when using convolutional neural network algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/419d64e3712f679c675f5e1f553d8c932e16094b
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:35:30.378Z

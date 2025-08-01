@@ -1,0 +1,13 @@
+# Advanced deep learning techniques for early disease prediction in cauliflower plants
+
+**Authors:** G. P. Kanna, S. J. K. J. Kumar, Y. Kumar, Ankur Changela, Marcin Woźniak, Jana Shafi, Muhammad Fazal Ijaz
+
+## Abstract
+Agriculture plays a pivotal role in the economies of developing countries by providing livelihoods, sustenance, and employment opportunities in rural areas. However, crop diseases pose a significant threat to both farmers’ incomes and food security. Furthermore, these diseases also show adverse effects on human health by causing various illnesses. Till date, only a limited number of studies have been conducted to identify and classify diseased cauliflower plants but they also face certain challenges such as insufficient disease surveillance mechanisms, the lack of comprehensive datasets that are properly labelled as well as are of high quality, and the considerable computational resources that are necessary for conducting thorough analysis. In view of the aforementioned challenges, the primary objective of this manuscript is to tackle these significant concerns and enhance understanding regarding the significance of cauliflower disease identification and detection in rural agriculture through the use of advanced deep transfer learning techniques. The work is conducted on the four classes of cauliflower diseases i.e. Bacterial spot rot, Black rot, Downy Mildew, and No disease which are taken from VegNet dataset. Ten deep transfer learning models such as EfficientNetB0, Xception, EfficientNetB1, MobileNetV2, EfficientNetB2, DenseNet201, EfficientNetB3, InceptionResNetV2, EfficientNetB4, and ResNet152V2, are trained and examined on the basis of root mean square error, recall, precision, F1-score, accuracy, and loss. Remarkably, EfficientNetB1 achieved the highest validation accuracy (99.90%), lowest loss (0.16), and root mean square error (0.40) during experimentation. It has been observed that our research highlights the critical role of advanced CNN models in automating cauliflower disease detection and classification and such models can lead to robust applications for cauliflower disease management in agriculture, ultimately benefiting both farmers and consumers.
+
+**Source:** https://www.semanticscholar.org/paper/6eb7f6866962b8d461f9a5e5257ae865ce44088a
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.441Z

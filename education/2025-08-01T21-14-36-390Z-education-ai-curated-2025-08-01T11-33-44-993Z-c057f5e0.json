@@ -1,0 +1,13 @@
+# Deep Learning Implementation of Facemask and Physical Distancing Detection with Alarm Systems
+
+**Authors:** Sammy V. Militante, Nanette V. Dionisio
+
+## Abstract
+COVID-19 or Severe Acute Respiratory Syndrome Corona virus-2 is an extremely transmissible virus that is discharged through breathing droplets released from an infected individual who is talking, sneezing, or coughing. Close interaction with a person infected or through touching a contaminated surface and object can spread the virus rapidly. As of now, there is no vaccine to combat the COVID-19, and the best way to protect the person from a virus is to avoid being exposed to it. Wearing a facemask that covers the nose and mouth in a public setting and repeatedly cleansing of hands or the use of at least 70% alcohol-based disinfectants is a practice to avoid virus exposure. Deep Learning technology has demonstrated its achievement in recognition and classification by processing images. The research study uses deep learning techniques that identify if the person is wearing a facemask or not and check if the persons in the area observe physical distancing. The collected image data contains 20,000 images, uniformly crop images in 224x224 pixels, and attained an accuracy rate of 97% during the training of the model. The developed system is implemented using Python and OpenCV through TensorFlow that recognizes persons wearing a facemask or not wearing and measures the physical distance between each person. It signals an alarm and captures facial images upon detecting persons not wearing a mask and does not observe physical distancing. This study is beneficial in combating the spread of the virus and avoiding contact with the virus.
+
+**Source:** https://www.semanticscholar.org/paper/634e538832aad3e59f6740535090d9e9df530028
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:33:44.994Z

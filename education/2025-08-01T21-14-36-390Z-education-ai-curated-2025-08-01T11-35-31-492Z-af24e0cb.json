@@ -1,0 +1,13 @@
+# Predicting the Performance and Adaptation of Artificial Elbow Due to Effective Forces using Deep Learning
+
+**Authors:** Seyed Masoud Ghoreishi Mokri, Newsha Valadbeygi, Khafaji Mohammed Balyasimovich
+
+## Abstract
+Measuring power transmission in organs poses a significant challenge for researchers in the field, with various methods being explored, including the use of artificial intelligence algorithms. This study focused on developing a new neural network model to predict force transmission and performance in an artificial elbow. Rather than evaluating natural joints, the study simulated a prosthetic model using medical software. Empirical data was collected using MIMICS software to estimate power properties and transmission methods, which were then used to train a neural network in MATLAB. The neural network demonstrated strong performance, particularly with the use of CNN architecture. The model's accuracy was validated by comparing results with experimental data from Anatomy and Physiology Comparison software, showing that the neural network provided precise results.
+
+**Source:** https://www.semanticscholar.org/paper/2bfecc879f7806d4bb22b95e296ee6dc0f1ffcc9
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:35:31.493Z

@@ -1,0 +1,30 @@
+# Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists
+
+**Authors:** H. Haenssle, C. Fink, R. Schneiderbauer, F. Toberer, T. Buhl, A. Blum, Aadi Kalloo, A. Hassen, L. Thomas, A. Enk, L. Uhlmann, C. Alt, M. Arenbergerova, R. Bakos, Anne Baltzer, I. Bertlich, A. Blum, Therezia Bokor-Billmann, J. Bowling, Naira Braghiroli, R. Braun, K. Buder-Bakhaya, T. Buhl, H. Cabo, L. Čabrijan, Naciye Cevic, A. Classen, David Deltgen, C. Fink, I. Georgieva, L. Hakim-Meibodi, Susanne Hanner, Franziska Hartmann, J. Hartmann, G. Haus, E. Hoxha, R. Karls, H. Koga, J. Kreusch, A. Lallas, P. Majenka, A. Marghoob, C. Massone, L. Mekokishvili, D. Mestel, Volker Meyer, A. Neuberger, K. Nielsen, M. Oliviero, R. Pampena, J. Paoli, Erika Pawlik, B. Rao, Adriana Rendon, T. Russo, Ahmed Sadek, K. Samhaber, R. Schneiderbauer, A. Schweizer, F. Toberer, L. Trennheuser, Lyobomira Vlahova, Alexander Wald, J. Winkler, Priscila Wölbing, I. Zalaudek
+
+## Abstract
+Background
+Deep learning convolutional neural networks (CNN) may facilitate melanoma detection, but data comparing a CNN's diagnostic performance to larger groups of dermatologists are lacking.
+
+
+Methods
+Google's Inception v4 CNN architecture was trained and validated using dermoscopic images and corresponding diagnoses. In a comparative cross-sectional reader study a 100-image test-set was used (level-I: dermoscopy only; level-II: dermoscopy plus clinical information and images). Main outcome measures were sensitivity, specificity and area under the curve (AUC) of receiver operating characteristics (ROC) for diagnostic classification (dichotomous) of lesions by the CNN versus an international group of 58 dermatologists during level-I or -II of the reader study. Secondary end points included the dermatologists' diagnostic performance in their management decisions and differences in the diagnostic performance of dermatologists during level-I and -II of the reader study. Additionally, the CNN's performance was compared with the top-five algorithms of the 2016 International Symposium on Biomedical Imaging (ISBI) challenge.
+
+
+Results
+In level-I dermatologists achieved a mean (±standard deviation) sensitivity and specificity for lesion classification of 86.6% (±9.3%) and 71.3% (±11.2%), respectively. More clinical information (level-II) improved the sensitivity to 88.9% (±9.6%, P = 0.19) and specificity to 75.7% (±11.7%, P < 0.05). The CNN ROC curve revealed a higher specificity of 82.5% when compared with dermatologists in level-I (71.3%, P < 0.01) and level-II (75.7%, P < 0.01) at their sensitivities of 86.6% and 88.9%, respectively. The CNN ROC AUC was greater than the mean ROC area of dermatologists (0.86 versus 0.79, P < 0.01). The CNN scored results close to the top three algorithms of the ISBI 2016 challenge.
+
+
+Conclusions
+For the first time we compared a CNN's diagnostic performance with a large international group of 58 dermatologists, including 30 experts. Most dermatologists were outperformed by the CNN. Irrespective of any physicians' experience, they may benefit from assistance by a CNN's image classification.
+
+
+Clinical trial number
+This study was registered at the German Clinical Trial Register (DRKS-Study-ID: DRKS00013570; https://www.drks.de/drks_web/).
+
+**Source:** https://www.semanticscholar.org/paper/546785490ac417be1f83ced6a8272e934934f411
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:35:31.560Z

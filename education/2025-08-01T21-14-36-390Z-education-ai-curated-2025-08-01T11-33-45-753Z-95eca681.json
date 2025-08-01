@@ -1,0 +1,13 @@
+# Implementation of Hybrid Deep Learning Model (LSTM-CNN) for Ionospheric TEC Forecasting Using GPS Data
+
+**Authors:** Adarsha Ruwali, A. J. S. Kumar, K. Prakash, G. Sivavaraprasad, D. V. Ratnam
+
+## Abstract
+Prominent advances in the field of artificial intelligence during the past decade and the breakthrough of deep learning would be useful for investigating ionospheric weather using ground and space-based ionospheric sensors data. The significance of deep learning algorithms needs to be assessed in forecasting the low latitude ionospheric disturbances (delays) for the global positioning system (GPS) signals. Total electron content (TEC) data sets prepared by taking advantage of GPS satellite radio frequency (RF) signals. This letter provides the application of deep learning models, long short-term memory (LSTM), gated recurrent unit (GRU), and a hybrid model that consists of LSTM combined with convolution neural network (CNN) to forecast the ionospheric delays for GPS signals. The deep learning models implemented using the vertical TEC (VTEC) time-series data estimated from GPS measurements over Bengaluru, Guntur, and Lucknow GPS stations. The LSTM-CNN model performs well when compared to other ionospheric deep learning forecasting algorithms with minimum root-mean-square error (RMSE) of 1.5 TEC units (TECUs) and a high degree of $R^{2} = 0.99$ .
+
+**Source:** https://www.semanticscholar.org/paper/b863be669b958a0cce56ce6a1c48b3b8e85b1c64
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:33:45.754Z

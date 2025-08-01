@@ -1,0 +1,13 @@
+# Construction of Teacher Learning Evaluation Model based on Deep Learning Data Mining
+
+**Authors:** Shiyu Zhou, Deming Li
+
+## Abstract
+In-class teaching assessment, which measures the effectiveness of teachers’ instruction as well as how well students are learning in a classroom setting, is becoming more and more important in monitoring, and advancing the quality of education. As artificial intelligence (AI) advances quickly, the idea of intelligent instruction has gradually gotten better and progressively permeated every facet of educational application. The integration of artificial intelligence (AI) technology into the assessment of in-class instruction has grown into a research hotspot due to the prevalent role that classroom instruction plays in primary and undergraduate education. Modern educational systems aim to improve instruction effectiveness and customize learning opportunities for each student. In this paper, we provide a novel model for evaluating teacher learning that makes use of data mining and deep learning capabilities. The objective of the model is to analyse and interpret the intricate patterns present in educational data to offer a thorough evaluation of teacher effectiveness and student advancement. The model uses convolutional neural networks (CNNs) to mine large datasets, such as student comments, lesson plans, classroom interactions, and performance measures, to find important pedagogical indications that are associated with effective teaching outcomes. The effectiveness of the concept is confirmed in a range of educational contexts, indicating its scalability and flexibility. Its use in practical settings shows a notable increase in the accuracy of teacher assessments, offering a clear path forward for ongoing progress in education. 
+
+**Source:** https://www.semanticscholar.org/paper/ccd24ec9df1d7ec3f7f70f93b745d3e1bee69af6
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:34:35.180Z

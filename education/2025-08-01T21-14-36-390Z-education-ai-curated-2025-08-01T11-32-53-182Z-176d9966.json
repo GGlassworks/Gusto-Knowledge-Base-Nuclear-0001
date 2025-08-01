@@ -1,0 +1,13 @@
+# Classifying Crop Leaf Diseases using Different Deep Learning Models with Transfer Learning
+
+**Authors:** Lakshin Pathak, Mili Virani, Drashti Kansara
+
+## Abstract
+Within the scope of the research, we put forward a technique of exactly confirming the distinctiveness of agricultural leaf pathologies with the assist of deep mastering algorithms and switch getting to know generation. We have pre-skilled models like VGG19, MobileNet, InceptionV3, EfficientNetB0, Simple CNN where we are seeking to increase the utility for the crop disorder type. Through searching at some metrics as cited Accuracy, Precision, Recall and F1 score for a better knowledge of a crop leaf photo category, we observe how each version performs. Our paper shows that artificial intelligence is fairly useful for the obligations of the automatic disease detection and switch mastering (as a method for reusing the existing understanding in the new software) is also beneficial. The contribution of this work to the development of reliable systems of save you sicknesses in production touches upon the rural exercise to achieve superiority fits into precision agriculture and sustainable farming. Future research ought to possibly include centered regions concerning a stability of datasets and stepped forward model interpretability which in turn will improve the fulfillment of these strategies in agricultural contexts.
+
+**Source:** https://www.semanticscholar.org/paper/f64446de8b1e7d487dd1b837b5a97835e978e7b9
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:32:53.183Z

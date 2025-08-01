@@ -1,0 +1,13 @@
+# MOOC Evaluation System Based on Deep Learning
+
+**Authors:** J. Tzeng, Chia-An Lee, N. Huang, Hao-Hsuan Huang, Chin-Feng Lai
+
+## Abstract
+Massive open online courses (MOOCs) are open access, Web-based courses that enroll thousands of students. MOOCs deliver content through recorded video lectures, online readings, assessments, and both student–student and student–instructor interactions. Course designers have attempted to evaluate the experiences of MOOC participants, though due to large class sizes, have had difficulty tracking and analyzing the online actions and interactions of students. Within the broader context of the discourse surrounding big data, educational providers are increasingly collecting, analyzing, and utilizing student information. Additionally, big data and artificial intelligence (AI) technology have been applied to better understand students’ learning processes. Questionnaire response rates are also too low for MOOCs to be credibly evaluated. This study explored the use of deep learning techniques to assess MOOC student experiences. We analyzed students’ learning behavior and constructed a deep learning model that predicted student course satisfaction scores. The results indicated that this approach yielded reliable predictions. In conclusion, our system can accurately predict student satisfaction even when questionnaire response rates are low. Accordingly, teachers could use this system to better understand student satisfaction both during and after the course.
+
+**Source:** https://www.semanticscholar.org/paper/55c690e17234da10be21c31feecd28bb7fde1de7
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:34:35.526Z

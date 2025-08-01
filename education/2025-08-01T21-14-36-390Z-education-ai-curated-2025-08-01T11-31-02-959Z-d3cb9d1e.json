@@ -1,0 +1,13 @@
+# Efficient Video Retrieval with Advanced Deep Learning Models
+
+**Authors:** Tấn Luân Huỳnh, Minh Toàn Đinh, Hồng Lĩnh Phạm, Lê Hoàng Nguyễn, Tuấn Mạnh Hùng Võ
+
+## Abstract
+Video retrieval is the process of finding specific video content in a large database. This is a crucial challenge in the age of digital multimedia. This article proposes a new approach to video retrieval using advanced deep learning models to extract features and perform retrieval tasks based on those features. Our method combines multiple feature extraction methods, including keyframe extraction, OpenAI CLIP [7] feature extraction, object detection, and automatic speech recognition (ASR). We use BERT [3] embeddings to encode these transcripts and store them in JSON and binary file formats. Our system achieves remarkable results in indexing and retrieving videos based on their visual, audio, textual, and contextual attributes. Our system can also retrieve videos based on either a single text description or multiple text descriptions of a sequence of events. We conducted extensive tests on diverse video data from Ho Chi Minh City AI Challenge 2023 competition organizers to validate the effectiveness of our approach. The results demonstrate that our proposed system is superior to other methods in terms of both retrieval accuracy and speed, making it highly suitable for real-time applications.
+
+**Source:** https://www.semanticscholar.org/paper/758698618e7b3b1e1f7ebacdeca96657bf8791c3
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.959Z

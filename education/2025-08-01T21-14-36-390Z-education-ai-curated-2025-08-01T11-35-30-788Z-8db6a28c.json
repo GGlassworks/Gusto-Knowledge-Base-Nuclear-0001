@@ -1,0 +1,14 @@
+# The nature of giant clumps in high-z discs: a deep-learning comparison of simulations and observations
+
+**Authors:** Omri Ginzburg, M. Huertas-Company, A. Dekel, Nir Mandelker, G. Snyder, D. Ceverino, J. Primack
+
+## Abstract
+
+ We use deep learning to explore the nature of observed giant clumps in high-redshift disc galaxies, based on their identification and classification in cosmological simulations. Simulated clumps are detected using the 3D gas and stellar densities in the VELA zoom-in cosmological simulation suite, with ${\sim}25\ \rm {pc}$ maximum resolution, targeting main-sequence galaxies at 1 < z < 3. The clumps are classified as long-lived clumps (LLCs) or short-lived clumps (SLCs) based on their longevity in the simulations. We then train neural networks to detect and classify the simulated clumps in mock, multicolour, dusty, and noisy HST-like images. The clumps are detected using an encoder–decoder convolutional neural network (CNN), and are classified according to their longevity using a vanilla CNN. Tests using the simulations show our detector and classifier to be ${\sim}80{{\ \rm per\ cent}}$ complete and ${\sim}80{{\ \rm per\ cent}}$ pure for clumps more massive than ∼107.5 M⊙. When applied to observed galaxies in the CANDELS/GOODS S+N fields, we find both types of clumps to appear in similar abundances in the simulations and the observations. LLCs are, on average, more massive than SLCs by ∼0.5 dex, and they dominate the clump population above Mc ≳ 107.6 M⊙. LLCs tend to be found closer to the galactic centre, indicating clump migration to the centre or preferential formation at smaller radii. The LLCs are found to reside in high-mass galaxies, indicating better clump survivability under supernova feedback there, due to clumps being more massive in these galaxies. We find the clump masses and radial positions in the simulations and the observations to agree within a factor of 2.
+
+**Source:** https://www.semanticscholar.org/paper/239051404e02bb54f88977ce9dfd1420976d9689
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:35:30.788Z

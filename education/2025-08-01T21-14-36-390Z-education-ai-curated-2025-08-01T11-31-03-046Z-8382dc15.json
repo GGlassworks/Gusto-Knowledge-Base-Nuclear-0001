@@ -1,0 +1,13 @@
+# Recommending Advanced Deep Learning Models for Efficient Insect Pest Detection
+
+**Authors:** Wei Li, Tengfei Zhu, Xiaoyun Li, Jianzhang Dong, Jun Liu
+
+## Abstract
+Insect pest management is one of the main ways to improve the crop yield and quality in agriculture and it can accurately and timely detect insect pests, which is of great significance to agricultural production. In the past, most insect pest detection tasks relied on the experience of agricutural experts, which is time-consuming, laborious and subjective. In rencent years, various intelligent methods have emerged for detection. This paper employs three frontier Deep Convolutional Neural Network (DCNN) models—Faster-RCNN, Mask-RCNN and Yolov5, for efficient insect pest detection. In addition, we made two coco datasets by ourselves on the basis of Baidu AI insect detection dataset and IP102 dataset, and compared these three frontier deep learning models on the two coco datasets. In terms of Baidu AI insect detection dataset whose background is simple, the experimental results strongly recommend Yolov5 for the insect pest detection, because its accuracy reaches above 99% while Faster-RCNN’s and Mask-RCNN’s reach above 98%. Meanwhile, Yolov5 has the faster computational speed than Faster-RCNN and Mask-RCNN. Comparatively speaking, with regard to the IP102 dataset whose background is complex and categories are abundant, Faster-RCNN and Mask-RCNN have the higher accuracy, reaching 99%, than Yolov5 whose accuracy is about 97%.
+
+**Source:** https://www.semanticscholar.org/paper/735d08e50ecd6c96bf87f33b1246e44f95053666
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:03.047Z

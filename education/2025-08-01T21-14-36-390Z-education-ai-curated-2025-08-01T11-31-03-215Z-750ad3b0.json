@@ -1,0 +1,13 @@
+# Towards an Advanced Deep Learning for the Internet of Behaviors: Application to Connected Vehicles
+
+**Authors:** Tinhinane Mezair, Y. Djenouri, Asma Belhadi, Gautam Srivastava, Jerry Chun-Wei Lin
+
+## Abstract
+In recent years, intensive research has been conducted to enable people to live more comfortably. Developments in the Internet of Things (IoT), big data, and artificial intelligence have taken this type of research to a new level and led to the emergence of the Internet of Behaviors (IoB), which analyzes behavioral patterns. However, current IoB technologies are not capable of handling heterogeneous data. While it is quite common to have different formats of sensor data for the same behavioral observation, the use of these different data formats can significantly help to obtain a more accurate classification of the observation. Another limitation is that existing IoB deep learning models rely on inefficient hyperparameter tuning strategies. In this paper, we present an Advanced Deep Learning framework for IoB (ADLIoB) applied to connected vehicles. Several deep learning architectures are employed in this framework: CNN, Graph CNN (GCNN), and LSTM are used to train sensor data of different formats. In addition, a branch-and-bound technique is used to intelligently select hyperparameters. To validate ADLIoB, experiments were conducted on four databases for connected vehicles. The results clearly show that ADLIoB is superior to the baseline solutions in terms of both accuracy and runtime.
+
+**Source:** https://www.semanticscholar.org/paper/d2cbf8f4dc673cf8a48d7dbae391f6320b53d3a1
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:03.215Z

@@ -1,0 +1,13 @@
+# Artificial Intelligence-Based Voice Assessment of Patients with Parkinson’s Disease Off and On Treatment: Machine vs. Deep-Learning Comparison
+
+**Authors:** G. Costantini, Valerio Cesarini, Pietro Di Leo, F. Amato, A. Suppa, F. Asci, Antonio Pisani, A. Calculli, G. Saggio
+
+## Abstract
+Parkinson’s Disease (PD) is one of the most common non-curable neurodegenerative diseases. Diagnosis is achieved clinically on the basis of different symptoms with considerable delays from the onset of neurodegenerative processes in the central nervous system. In this study, we investigated early and full-blown PD patients based on the analysis of their voice characteristics with the aid of the most commonly employed machine learning (ML) techniques. A custom dataset was made with hi-fi quality recordings of vocal tasks gathered from Italian healthy control subjects and PD patients, divided into early diagnosed, off-medication patients on the one hand, and mid-advanced patients treated with L-Dopa on the other. Following the current state-of-the-art, several ML pipelines were compared usingdifferent feature selection and classification algorithms, and deep learning was also explored with a custom CNN architecture. Results show how feature-based ML and deep learning achieve comparable results in terms of classification, with KNN, SVM and naïve Bayes classifiers performing similarly, with a slight edge for KNN. Much more evident is the predominance of CFS as the best feature selector. The selected features act as relevant vocal biomarkers capable of differentiating healthy subjects, early untreated PD patients and mid-advanced L-Dopa treated patients.
+
+**Source:** https://www.semanticscholar.org/paper/2714e1a8a3123b9b320a1628bfc05bc0b9c38bdb
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:35:30.280Z

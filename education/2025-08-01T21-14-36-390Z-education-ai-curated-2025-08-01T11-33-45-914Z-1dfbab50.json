@@ -1,0 +1,13 @@
+# Feasibility and Implementation of a Deep Learning MR Reconstruction for TSE Sequences in Musculoskeletal Imaging
+
+**Authors:** J. Herrmann, Gregor Koerzdoerfer, D. Nickel, Mahmoud Mostapha, M. Nadar, Sebastian Gassenmaier, Thomas Kuestner, A. Othman
+
+## Abstract
+Magnetic Resonance Imaging (MRI) of the musculoskeletal system is one of the most common examinations in clinical routine. The application of Deep Learning (DL) reconstruction for MRI is increasingly gaining attention due to its potential to improve the image quality and reduce the acquisition time simultaneously. However, the technology has not yet been implemented in clinical routine for turbo spin echo (TSE) sequences in musculoskeletal imaging. The aim of this study was therefore to assess the technical feasibility and evaluate the image quality. Sixty examinations of knee, hip, ankle, shoulder, hand, and lumbar spine in healthy volunteers at 3 T were included in this prospective, internal-review-board-approved study. Conventional (TSES) and DL-based TSE sequences (TSEDL) were compared regarding image quality, anatomical structures, and diagnostic confidence. Overall image quality was rated to be excellent, with a significant improvement in edge sharpness and reduced noise compared to TSES (p < 0.001). No difference was found concerning the extent of artifacts, the delineation of anatomical structures, and the diagnostic confidence comparing TSES and TSEDL (p > 0.05). Therefore, DL image reconstruction for TSE sequences in MSK imaging is feasible, enabling a remarkable time saving (up to 75%), whilst maintaining excellent image quality and diagnostic confidence.
+
+**Source:** https://www.semanticscholar.org/paper/02f4c29c89b22cb5c108bffca283525d54aa5680
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:33:45.915Z

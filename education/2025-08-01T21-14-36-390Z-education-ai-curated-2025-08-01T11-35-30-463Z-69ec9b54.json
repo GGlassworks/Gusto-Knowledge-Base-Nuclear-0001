@@ -1,0 +1,26 @@
+# Image Quality and Lesion Detection of Multiplanar Reconstruction Images Using Deep Learning: Comparison with Hybrid Iterative Reconstruction.
+
+**Authors:** H. Yunaga, Hidenao Miyoshi, Ryoya Ochiai, Takuro Gonda, Toshio Sakoh, Hisashi Noma, Shinya Fujii
+
+## Abstract
+Background
+We assessed and compared the image quality of normal and pathologic structures as well as the image noise in chest computed tomography images using "adaptive statistical iterative reconstruction-V" (ASiR-V) or deep learning reconstruction "TrueFidelity".
+
+
+Methods
+Forty consecutive patients with suspected lung disease were evaluated. The 1.25-mm axial images and 2.0-mm coronal multiplanar images were reconstructed under the following three conditions: (i) ASiR-V, lung kernel with 60% of ASiR-V; (ii) TF-M, standard kernel, image filter (Lung) with TrueFidelity at medium strength; and (iii) TF-H, standard kernel, image filter (Lung) with TrueFidelity at high strength. Two radiologists (readers) independently evaluated the image quality of anatomic structures using a scale ranging from 1 (best) to 5 (worst). In addition, readers ranked their image preference. Objective image noise was measured using a circular region of interest in the lung parenchyma. Subjective image quality scores, total scores for normal and abnormal structures, and lesion detection were compared using Wilcoxon's signed-rank test. Objective image quality was compared using Student's paired t-test and Wilcoxon's signed-rank test. The Bonferroni correction was applied to the P value, and significance was assumed only for values of P < 0.016.
+
+
+Results
+Both readers rated TF-M and TF-H images significantly better than ASiR-V images in terms of visualization of the centrilobular region in axial images. The preference score of TF-M and TF-H images for reader 1 were better than that of ASiR-V images, and the preference score of TF-H images for reader 2 were significantly better than that of ASiR-V and TF-M images. TF-M images showed significantly lower objective image noise than ASiR-V or TF-H images.
+
+
+Conclusion
+TrueFidelity showed better image quality, especially in the centrilobular region, than ASiR-V in subjective and objective evaluations. In addition, the image texture preference for TrueFidelity was better than that for ASiR-V.
+
+**Source:** https://www.semanticscholar.org/paper/caafb47546ab9e0178dc85bf293dddce051e18eb
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:35:30.463Z

@@ -1,0 +1,13 @@
+# Real-World Integration of a Sepsis Deep Learning Technology Into Routine Clinical Care: Implementation Study
+
+**Authors:** M. Sendak, W. Ratliff, Dina Sarro, E. Alderton, Joseph D. Futoma, M. Gao, M. Nichols, Mike Revoir, Faraz Yashar, Corinne Miller, Kelly M. Kester, S. Sandhu, Kristin M Corey, Nathan Brajer, Christelle Tan, Anthony L Lin, Tres Brown, Susan Engelbosch, K. Anstrom, M. C. Elish, K. Heller, R. Donohoe, J. Theiling, Eric G. Poon, S. Balu, A. Bedoya, Cara O'Brien
+
+## Abstract
+Background Successful integrations of machine learning into routine clinical care are exceedingly rare, and barriers to its adoption are poorly characterized in the literature. Objective This study aims to report a quality improvement effort to integrate a deep learning sepsis detection and management platform, Sepsis Watch, into routine clinical care. Methods In 2016, a multidisciplinary team consisting of statisticians, data scientists, data engineers, and clinicians was assembled by the leadership of an academic health system to radically improve the detection and treatment of sepsis. This report of the quality improvement effort follows the learning health system framework to describe the problem assessment, design, development, implementation, and evaluation plan of Sepsis Watch. Results Sepsis Watch was successfully integrated into routine clinical care and reshaped how local machine learning projects are executed. Frontline clinical staff were highly engaged in the design and development of the workflow, machine learning model, and application. Novel machine learning methods were developed to detect sepsis early, and implementation of the model required robust infrastructure. Significant investment was required to align stakeholders, develop trusting relationships, define roles and responsibilities, and to train frontline staff, leading to the establishment of 3 partnerships with internal and external research groups to evaluate Sepsis Watch. Conclusions Machine learning models are commonly developed to enhance clinical decision making, but successful integrations of machine learning into routine clinical care are rare. Although there is no playbook for integrating deep learning into clinical care, learnings from the Sepsis Watch integration can inform efforts to develop machine learning technologies at other health care delivery systems.
+
+**Source:** https://www.semanticscholar.org/paper/d497180fb2023bdc8b3a7b633582a1c4b31e7545
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:33:45.669Z

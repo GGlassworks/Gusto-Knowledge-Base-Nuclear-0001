@@ -1,0 +1,13 @@
+# NeuralGAP: Deep Learning Evaluation of Networked Avionic Architectures
+
+**Authors:** R. S. D. Moraes, S. Nadjm-Tehrani
+
+## Abstract
+Evaluation of system requirements in the early concept design stage of networked architectures is important since many future choices are restricted after this stage. Evaluating whether a candidate topology meets dependability and timeliness requirements has complex sub-problems, such as routing data exchanges in the network, finding shortest paths, and clustering network elements according to their attributes. In this paper, we build on an earlier work that tackles the generation of network topologies and propose a hybrid approach based on genetic algorithms and graph convolutional networks to address the topology evaluation problem. We apply the proposed evaluation method to a realistic industrial use case and show that it is up to 5 times faster than the previous method.
+
+**Source:** https://www.semanticscholar.org/paper/4581a31d1d1cc2b91f3cc8e2ae78d2717f850388
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:34:34.649Z

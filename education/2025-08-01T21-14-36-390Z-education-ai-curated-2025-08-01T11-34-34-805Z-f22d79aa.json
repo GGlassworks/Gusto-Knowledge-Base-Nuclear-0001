@@ -1,0 +1,13 @@
+# Short-Packet Communications in Wireless-Powered Cognitive IoT Networks: Performance Analysis and Deep Learning Evaluation
+
+**Authors:** C. Ho, Toan-Van Nguyen, Thien Huynh-The, Tien-Tung Nguyen, D. B. da Costa, Beongku An
+
+## Abstract
+In this paper, we study short-packet communications in wireless-powered cognitive Internet-of-Things (IoT) networks with multiple primary receivers (PRs). The considered system can be applied for small factory automations, where a source and multiple relays harvest energy from a multi-antenna dedicated power beacon (PB) to send short packets to a robot destination for controlling purposes under cognitive radio constraint imposed by PRs. We propose an opportunistic relay selection (ORS) scheme to maximize the end-to-end signal-to-noise ratio in cognitive IoT systems. Closed-form expressions for the average block error rate (BLER) of the proposed system are obtained, based on which the performance floor analysis, goodput, and energy efficiency (EE) are also carried out. Relying on analytical results, we develop a deep learning framework for the BLER prediction with high accuracy and short execution time. Simulation results show the BLER, goodput, and EE improvements of the ORS scheme over conventional relay selection schemes. Moreover, the developed deep learning-based evaluation model achieves the equivalent performance as the ORS scheme in terms of BLER, goodput, and EE, while remarkably reducing the execution time in cognitive IoT systems.
+
+**Source:** https://www.semanticscholar.org/paper/0f7d36e0f53e3273874702d071ff18f139d95549
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:34:34.806Z

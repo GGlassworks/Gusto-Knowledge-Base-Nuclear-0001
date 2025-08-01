@@ -1,0 +1,13 @@
+# Advanced Deep Learning Approach for Probabilistic Wind Speed Forecasting
+
+**Authors:** M. Afrasiabi, M. Mohammadi, Mohammad Rastegar, Shahabodin Afrasiabi
+
+## Abstract
+One of the critical challenges in wind energy development is the uncertainty quantification. Prior knowledge about the wind speed in look-ahead times in shape of probabilistic information plays a pivotal role in the optimal operation and planning in the electrical networks. In this article, we design a deep learning-based approach to characterize the probability density function (PDF) of the wind for the next hours. The proposed method is directly applicable to raw data and directly constructs PDFs and enhances the level of accuracy and reliability as well as computational efficiency. Furthermore, we utilize the convolutional neural network to enhance learning spatial features. To provide a better understanding of temporal features, a recurrent neural network, called gated recurrent unit, is utilized. To directly construct PDFs, a gradient-based loss function is proposed, and the training procedure is modified. The effectiveness and superiority of the proposed probabilistic wind speed forecasting are verified by two actual datasets, i.e., London, England, and Shiraz, Iran, and comprehensive numerical results validate the performance of the proposed approach in comparison with several state-of-the-art and previously investigated approaches in terms of sharpness, accuracy, and reliability.
+
+**Source:** https://www.semanticscholar.org/paper/bfbcb5c1c68e109b7c37fceeb0de27cc86c819f5
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:03.292Z

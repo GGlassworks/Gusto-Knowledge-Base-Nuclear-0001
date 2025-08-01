@@ -1,0 +1,13 @@
+# Brain tumor detection and multi‐classification using advanced deep learning techniques
+
+**Authors:** Tariq Sadad, A. Rehman, A. Munir, T. Saba, U. Tariq, Noor Ayesha, Rashid Abbasi
+
+## Abstract
+A brain tumor is an uncontrolled development of brain cells in brain cancer if not detected at an early stage. Early brain tumor diagnosis plays a crucial role in treatment planning and patients' survival rate. There are distinct forms, properties, and therapies of brain tumors. Therefore, manual brain tumor detection is complicated, time‐consuming, and vulnerable to error. Hence, automated computer‐assisted diagnosis at high precision is currently in demand. This article presents segmentation through Unet architecture with ResNet50 as a backbone on the Figshare data set and achieved a level of 0.9504 of the intersection over union (IoU). The preprocessing and data augmentation concept were introduced to enhance the classification rate. The multi‐classification of brain tumors is performed using evolutionary algorithms and reinforcement learning through transfer learning. Other deep learning methods such as ResNet50, DenseNet201, MobileNet V2, and InceptionV3 are also applied. Results thus obtained exhibited that the proposed research framework performed better than reported in state of the art. Different CNN, models applied for tumor classification such as MobileNet V2, Inception V3, ResNet50, DenseNet201, NASNet and attained accuracy 91.8, 92.8, 92.9, 93.1, 99.6%, respectively. However, NASNet exhibited the highest accuracy.
+
+**Source:** https://www.semanticscholar.org/paper/dc20ca571a8d8047bd77a18e1945a6576a1f060c
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.687Z

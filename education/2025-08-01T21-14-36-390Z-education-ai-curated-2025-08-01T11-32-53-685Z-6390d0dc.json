@@ -1,0 +1,13 @@
+# Lightweight Deep Learning: An Overview
+
+**Authors:** Ching-Hao Wang, Kang-Yang Huang, Yi Yao, Jun-Cheng Chen, Hong-Han Shuai, Wen-Huang Cheng
+
+## Abstract
+With the recent success of the deep neural networks (DNNs) in the field of artificial intelligence, the urge of deploying DNNs has drawn tremendous attention because it can benefit a wide range of applications on edge or embedded devices. Lightweight deep learning indicates the procedures of compressing DNN models into more compact ones, which are suitable to be executed on edge devices due to their limited resources and computational capabilities while maintaining comparable performance to the original. Currently, the approaches of model compression include but are not limited to network pruning, quantization, knowledge distillation, and neural architecture search. In this work, we present a fresh overview to summarize recent development and challenges for model compression.
+
+**Source:** https://www.semanticscholar.org/paper/8684867e3a921ea18708ee47a6698efb1720ac7b
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:32:53.685Z

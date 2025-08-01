@@ -1,0 +1,13 @@
+# Deep Learning Models for Image Classification: Comparison and Applications
+
+**Authors:** Shagun Sharma, Kalpna Guleria
+
+## Abstract
+Deep learning is the subfield of machine learning which performs data interpretation and integrates several layers of features to produce prediction outcomes. It has a significant performance in a wide range of sectors, specifically in the realm of image classification, object identification and segmentation. Deep learning algorithms have significantly enhanced the effectiveness of fine-grained classification tasks, which aims to distinguish among the sub-classes. In this review, a detailed analysis of the various deep learning models, comparative analysis and their frameworks, as well as model descriptions have been presented. Convolutional Neural Networks, have been found as the standard method for object recognition, computer vision, image classification, and other applications. However, as input data becomes more intricate, traditional convolutional neural network is no longer capable of delivering adequate results. As an outcome, the goal of this review article is to put several deep learning models along with their methodologies back to prominence and to present their findings on a wide range of popular databases.
+
+**Source:** https://www.semanticscholar.org/paper/7a39dd9db0f7f7f69ced60425d0bcc92e78afeee
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:35:31.629Z

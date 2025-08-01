@@ -1,0 +1,13 @@
+# Deep Learning Implementation of Facemask Detection
+
+**Authors:** Pinchao Mao, Peifeng Hao, Yi Xin
+
+## Abstract
+Since the end of 2019, several cases of inexplicable pneumonia have been discovered in some hospitals in Wuhan, which have been confirmed as acute respiratory infection caused by “COVID-19”. COVID-19 is a respiratory infectious disease, which is mainly transmitted through the respiratory tract, such as droplet transmission, contact transmission and aerosol transmission. The spread of the virus needs to be in a relatively confined space, when the coronavirus reaches a certain concentration, healthy people inhale or the virus contacts the mucosa before it may cause infection. The scientific use of masks can effectively reduce the risk of new coronavirus infection and is an important means for the public to protect their health. Medical masks can not only prevent the patient from spraying droplets, reduce the amount and speed of droplets, but also block virus-containing droplets and prevent the wearer from inhaling. This paper proposes a real-time mask detection method, which classifies the detection of masks, hand shields, sunglasses, and glasses into the same classification model. The actual test effect of the model is more robust than the training of a single category. At the same time, the network structure by using convolutional neural network innovatively add the attention mechanism. The collected pictures contain 24,000 images, and the images are uniformly cropped with 64*64 pixels, and attained an accuracy rate of 97.2% during the training of this model. If a person who is not wearing a mask will be detected, so this study is beneficial in combating the spread of the virus and preventing contact with the virus.
+
+**Source:** https://www.semanticscholar.org/paper/60092ad6a86b4bd9ff9e193069b986a1ff92bebb
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:33:45.074Z

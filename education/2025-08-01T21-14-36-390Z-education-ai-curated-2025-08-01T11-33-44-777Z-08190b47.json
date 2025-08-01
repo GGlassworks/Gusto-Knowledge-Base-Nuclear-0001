@@ -1,0 +1,13 @@
+# Safety Helmet Detection Using Deep Learning: Implementation and Comparative Study Using YOLOv5, YOLOv6, and YOLOv7
+
+**Authors:** Nigel Dale Then Yung, W. Wong, F. Juwono, Zee Ang Sim
+
+## Abstract
+The safety of construction site personnel is highly dependent on the adherence of personal protective equipment (PPE) wearing. Safety helmet monitoring has become a popular topic in recent years as a result of the success in the field of image processing. Deep learning (DL) is widely used in object detection tasks due to its ability to create features based on raw data. Constant improvements in the DL models have led to numerous successful outcomes in the implementation of safety helmet detection tasks. The performance of different DL algorithms from previous studies will be assessed and studied in this review paper. The YOLOv5s (small) model, YOLOv6s (small) model, and the YOLOv7 model will be trained and evaluated in this paper.
+
+**Source:** https://www.semanticscholar.org/paper/dbd2dd50be6fcff6a8e042ee94641f5b0d7765ab
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:33:44.778Z

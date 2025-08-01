@@ -1,0 +1,13 @@
+# Detection of Abnormal SIP Signaling Patterns: A Deep Learning Comparison
+
+**Authors:** Diogo Pereira, Rodolfo Oliveira
+
+## Abstract
+This paper investigates the detection of abnormal sequences of signaling packets purposely generated to perpetuate signaling-based attacks in computer networks. The problem is studied for the Session Initiation Protocol (SIP) using a dataset of signaling packets exchanged by multiple end-users. A sequence of SIP messages never observed before can indicate possible exploitation of a vulnerability and its detection or prediction is of high importance to avoid security attacks due to unknown abnormal SIP dialogs. The paper starts to briefly characterize the adopted dataset and introduces multiple definitions to detail how the deep learning-based approach is adopted to detect possible attacks. The proposed solution is based on a convolutional neural network capable of exploring the definition of an orthogonal space representing the SIP dialogs. The space is then used to train the neural network model to classify the type of SIP dialog according to a sequence of SIP packets prior observed. The classifier of unknown SIP dialogs relies on the statistical properties of the supervised learning of known SIP dialogs. Experimental results are presented to assess the solution in terms of SIP dialogs prediction, unknown SIP dialogs detection, and computational performance, demonstrating the usefulness of the proposed methodology to rapidly detect signaling-based attacks.
+
+**Source:** https://www.semanticscholar.org/paper/10a9139878c5793b0dd9f6731bba414e3420aa72
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:35:30.618Z

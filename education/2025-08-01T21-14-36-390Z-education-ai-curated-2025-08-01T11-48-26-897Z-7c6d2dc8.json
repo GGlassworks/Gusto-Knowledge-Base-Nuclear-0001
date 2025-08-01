@@ -1,0 +1,13 @@
+# Analog VLSI neural networks: implementation issues and examples in optimization and supervised learning
+
+**Authors:** S. Eberhardt, R. Tawel, T. Brown, T. Daud, A. Thakoor
+
+## Abstract
+Time-critical neural network applications that require fully parallel hardware implementations for maximal throughput are considered. The rich array of technologies that are being pursued is surveyed, and the analog CMOS VLSI medium approach is focused on. This medium is messy in that limited dynamic range, offset voltages, and noise sources all reduce precision. The authors examine how neural networks can be directly implemented in analog VLSI, giving examples of approaches that have been pursued to date. Two important application areas are highlighted: optimization, because neural hardware may offer a speed advantage of orders of magnitude over other methods; and supervised learning, because of the widespread use and generality of gradient-descent learning algorithms as applied to feedforward networks. >
+
+**Source:** https://www.semanticscholar.org/paper/6c72ec3956a3de0c17196c3bd3722c36f706b5f0
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:48:26.898Z
