@@ -1,0 +1,13 @@
+# Development of an Extensive Soot Prediction Methodology Using Neural Networks
+
+**Authors:** Jack Adebisi
+
+## Abstract
+<jats:p>&lt;p&gt;For the last few decades, it has been one of the top priorities for the combustion field to study soot formation carefully. Thus, soot modeling is one of the most important aspects in understanding the process of soot formation, which in turn contributes to the development of effective soot mitigation processes. This research project discusses past methods of soot modeling as well as the results of computational analysis methods performed on flame data. The study in this thesis uses the Soot Estimator neural network model developed by Jadidi et. al [M. Jadidi, L. Di Liddo, S. Dworkin, Energies 13(18), (2020)]. In this study, the work done by the Jadidi study is expanded on by increasing the number of flame data types used and the number of flame properties translated into their Lagrangian histories in two studies. This increase was made to see the feasibility of neural network predictions in processing more robust flame data. These Lagrangian flame property histories were then processed by another network known as the Multi-layer Perceptron (MLP) Regressor. The purpose of this thesis is two-fold; discussions on past methods of soot modelling and an exploration of experimental methods performed. The discussion aspect of this paper explored the history of artificial intelligence in combustion studies. It closely examined their successes and weaknesses and compared various classification methods with application to soot prediction. The main novel aspect of this paper investigated the process of developing a neural network that predicts soot volume fraction with high accuracy via training with specific variables. The results in the first and second study showed that high accuracy results can be obtained. The supercomputing aspect of the second study also showed potential for real world applications, while accommodating economic and computational constraints.&lt;/p&gt;</jats:p>
+
+**Source:** https://doi.org/10.32920/26866546
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T11:44:39.014Z
