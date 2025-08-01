@@ -1,0 +1,13 @@
+# An Evaluation of Factors Affecting Document Ranking by Information Retrieval Systems.
+
+**Authors:** McGill, Michael
+
+## Abstract
+This study of ranking algorithms used in a Boolean environment is based on an evaluation of factors affecting document ranking by information retrieval systems. The algorithms were decomposed into term weighting schemes and similarity measures, representatively selected from those known to exist in information retrieval environments, before being tested on documents submitted by specific clearinghouses to the CIJE database. Searches were conducted using information need statements from individuals with interests congruent to the database, and documents retrieved by professional searchers were judged for relevance by those submitting the need statements. This input was analyzed according to the ability of the algorithms to move relevant documents toward the beginning of the output  list using the coefficient of ranking effectiveness (CRE). While it is possible to significantly improve the order of the output using either a controlled vocabulary or free text, the ranking is at best about 20 percent effective at this time. It is suggested that the factors currently used in ranking algorithms are not likely to make ranking closer to 100 percent effective. A bibliography of 58 references is included. (Author/RAA)
+
+**Source:** https://eric.ed.gov/?id=ED188587
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T10:19:29.313Z

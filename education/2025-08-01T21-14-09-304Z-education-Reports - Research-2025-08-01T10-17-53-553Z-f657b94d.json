@@ -1,0 +1,13 @@
+# Query Evaluation: Strategies and Optimizations.
+
+**Authors:** Turtle, Howard, Flood, James
+
+## Abstract
+Discusses two query evaluation strategies used in large text retrieval systems: (1) term-at-a-time; and (2) document-at-a-time. Describes optimization techniques that can reduce query evaluation costs. Presents simulation results that compare the performance of these optimization techniques when applied to natural language query evaluation. (JMV)
+
+**Source:** https://eric.ed.gov/?id=EJ516508
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T10:17:53.553Z
