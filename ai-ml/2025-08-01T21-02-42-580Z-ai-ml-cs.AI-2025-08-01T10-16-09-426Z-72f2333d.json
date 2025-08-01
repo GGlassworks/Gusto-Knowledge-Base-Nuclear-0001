@@ -1,0 +1,12 @@
+# Artificial Intelligence for reverse engineering: application to detergents using Raman spectroscopy
+
+**Authors:** Pedro Marote, Marie Martin, Anne Bonhomme, Pierre Lantéri, Yohann Clément
+
+## Summary
+The reverse engineering of a complex mixture, regardless of its nature, has become significant today. Being able to quickly assess the potential toxicity of new commercial products in relation to the environment presents a genuine analytical challenge. The development of digital tools (databases, chemometrics, machine learning, etc.) and analytical techniques (Raman spectroscopy, NIR spectroscopy, mass spectrometry, etc.) will allow for the identification of potential toxic molecules. In this article, we use the example of detergent products, whose composition can prove dangerous to humans or the environment, necessitating precise identification and quantification for quality control and regulation purposes. The combination of various digital tools (spectral database, mixture database, experimental design, Chemometrics / Machine Learning algorithm{\ldots}) together with different sample preparation methods (raw sample, or several concentrated / diluted samples) Raman spectroscopy, has enabled the identification of the mixture's constituents and an estimation of its composition. Implementing such strategies across different analytical tools can result in time savings for pollutant identification and contamination assessment in various matrices. This strategy is also applicable in the industrial sector for product or raw material control, as well as for quality control purposes.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:16:09.426Z

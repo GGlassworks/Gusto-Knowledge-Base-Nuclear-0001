@@ -1,0 +1,12 @@
+# Automated scholarly paper review: Concepts, technologies, and challenges
+
+**Authors:** Jialiang Lin, Jiaxin Song, Zhangping Zhou, Yidong Chen, Xiaodong Shi
+
+## Summary
+Peer review is a widely accepted mechanism for research evaluation, playing a pivotal role in academic publishing. However, criticisms have long been leveled at this mechanism, mostly because of its poor efficiency and low reproducibility. Recent years have seen the application of artificial intelligence (AI) in assisting the peer review process. Nonetheless, with the involvement of humans, such limitations remain inevitable. In this paper, we propose the concept and pipeline of automated scholarly paper review (ASPR) and review the relevant literature and technologies of achieving a full-scale computerized review process. On the basis of the review and discussion, we conclude that there is already corresponding research and preliminary implementation at each stage of ASPR. We further look into the challenges in ASPR with the existing technologies. The major difficulties lie in inadequate data, imperfect document parsing and representation, defective human$\unicode{x2013}$computer interaction, and flawed deep logical reasoning. Moreover, we point out the future directions and discuss the possible moral and ethical issues of ASPR. In the foreseeable future, ASPR and peer review will coexist in a reinforcing manner before ASPR is able to fully undertake the reviewing workload from humans.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:16:15.252Z

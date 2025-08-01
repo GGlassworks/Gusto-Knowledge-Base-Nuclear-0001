@@ -1,0 +1,12 @@
+# Human-Aware Belief Revision: A Cognitively Inspired Framework for Explanation-Guided Revision of Human Models
+
+**Authors:** Stylianos Loukas Vasileiou, William Yeoh
+
+## Summary
+Traditional belief revision frameworks often rely on the principle of minimalism, which advocates minimal changes to existing beliefs. However, research in human cognition suggests that people are inherently driven to seek explanations for inconsistencies, thereby striving for explanatory understanding rather than minimal changes when revising beliefs. Traditional frameworks often fail to account for these cognitive patterns, relying instead on formal principles that may not reflect actual human reasoning. To address this gap, we introduce Human-Aware Belief Revision, a cognitively-inspired framework for modeling human belief revision dynamics, where given a human model and an explanation for an explanandum, revises the model in a non-minimal way that aligns with human cognition. Finally, we conduct two human-subject studies to empirically evaluate our framework under real-world scenarios. Our findings support our hypotheses and provide insights into the strategies people employ when resolving inconsistencies, offering some guidance for developing more effective human-aware AI systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:21:12.976Z

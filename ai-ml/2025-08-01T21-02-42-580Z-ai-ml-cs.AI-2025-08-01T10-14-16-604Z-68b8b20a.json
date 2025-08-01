@@ -1,0 +1,12 @@
+# Exploring Crowd Co-creation Scenarios for Sketches
+
+**Authors:** Devi Parikh, C. Lawrence Zitnick
+
+## Summary
+As a first step towards studying the ability of human crowds and machines to effectively co-create, we explore several human-only collaborative co-creation scenarios. The goal in each scenario is to create a digital sketch using a simple web interface. We find that settings in which multiple humans iteratively add strokes and vote on the best additions result in the sketches with highest perceived creativity (value + novelty). Lack of collaboration leads to a higher variance in quality and lower novelty or surprise. Collaboration without voting leads to high novelty but low quality.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:14:16.604Z

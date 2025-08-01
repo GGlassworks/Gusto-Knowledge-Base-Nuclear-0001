@@ -1,0 +1,12 @@
+# Allo-AVA: A Large-Scale Multimodal Conversational AI Dataset for Allocentric Avatar Gesture Animation
+
+**Authors:** Saif Punjwani, Larry Heck
+
+## Summary
+The scarcity of high-quality, multimodal training data severely hinders the creation of lifelike avatar animations for conversational AI in virtual environments. Existing datasets often lack the intricate synchronization between speech, facial expressions, and body movements that characterize natural human communication. To address this critical gap, we introduce Allo-AVA, a large-scale dataset specifically designed for text and audio-driven avatar gesture animation in an allocentric (third person point-of-view) context. Allo-AVA consists of $\sim$1,250 hours of diverse video content, complete with audio, transcripts, and extracted keypoints. Allo-AVA uniquely maps these keypoints to precise timestamps, enabling accurate replication of human movements (body and facial gestures) in synchronization with speech. This comprehensive resource enables the development and evaluation of more natural, context-aware avatar animation models, potentially transforming applications ranging from virtual reality to digital assistants.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:16:13.260Z

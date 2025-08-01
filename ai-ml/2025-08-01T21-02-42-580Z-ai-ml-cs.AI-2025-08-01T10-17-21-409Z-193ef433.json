@@ -1,0 +1,12 @@
+# Towards a FAIR Documentation of Workflows and Models in Applied Mathematics
+
+**Authors:** Marco Reidelbach, Björn Schembera, Marcus Weber
+
+## Summary
+Modeling-Simulation-Optimization workflows play a fundamental role in applied mathematics. The Mathematical Research Data Initiative, MaRDI, responded to this by developing a FAIR and machine-interpretable template for a comprehensive documentation of such workflows. MaRDMO, a Plugin for the Research Data Management Organiser, enables scientists from diverse fields to document and publish their workflows on the MaRDI Portal seamlessly using the MaRDI template. Central to these workflows are mathematical models. MaRDI addresses them with the MathModDB ontology, offering a structured formal model description. Here, we showcase the interaction between MaRDMO and the MathModDB Knowledge Graph through an algebraic modeling workflow from the Digital Humanities. This demonstration underscores the versatility of both services beyond their original numerical domain.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:17:21.410Z

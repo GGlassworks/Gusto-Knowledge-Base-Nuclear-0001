@@ -1,0 +1,12 @@
+# Perspective-Aware AI in Extended Reality
+
+**Authors:** Daniel Platnick, Matti Gruener, Marjan Alirezaie, Kent Larson, Dava J. Newman, Hossein Rahnama
+
+## Summary
+AI-enhanced Extended Reality (XR) aims to deliver adaptive, immersive experiences-yet current systems fall short due to shallow user modeling and limited cognitive context. We introduce Perspective-Aware AI in Extended Reality (PAiR), a foundational framework for integrating Perspective-Aware AI (PAi) with XR to enable interpretable, context-aware experiences grounded in user identity. PAi is built on Chronicles: reasoning-ready identity models learned from multimodal digital footprints that capture users' cognitive and experiential evolution. PAiR employs these models in a closed-loop system linking dynamic user states with immersive environments. We present PAiR's architecture, detailing its modules and system flow, and demonstrate its utility through two proof-of-concept scenarios implemented in the Unity-based OpenDome engine. PAiR opens a new direction for human-AI interaction by embedding perspective-based identity models into immersive systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:21:12.270Z

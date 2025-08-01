@@ -1,0 +1,12 @@
+# Leveraging Large Language Model for Automatic Evolving of Industrial Data-Centric R&amp;D Cycle
+
+**Authors:** Xu Yang, Xiao Yang, Weiqing Liu, Jinhui Li, Peng Yu, Zeqi Ye, Jiang Bian
+
+## Summary
+In the wake of relentless digital transformation, data-driven solutions are emerging as powerful tools to address multifarious industrial tasks such as forecasting, anomaly detection, planning, and even complex decision-making. Although data-centric R&amp;D has been pivotal in harnessing these solutions, it often comes with significant costs in terms of human, computational, and time resources. This paper delves into the potential of large language models (LLMs) to expedite the evolution cycle of data-centric R&amp;D. Assessing the foundational elements of data-centric R&amp;D, including heterogeneous task-related data, multi-facet domain knowledge, and diverse computing-functional tools, we explore how well LLMs can understand domain-specific requirements, generate professional ideas, utilize domain-specific tools to conduct experiments, interpret results, and incorporate knowledge from past endeavors to tackle new challenges. We take quantitative investment research as a typical example of industrial data-centric R&amp;D scenario and verified our proposed framework upon our full-stack open-sourced quantitative research platform Qlib and obtained promising results which shed light on our vision of automatic evolving of industrial data-centric R&amp;D cycle.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:21:10.917Z

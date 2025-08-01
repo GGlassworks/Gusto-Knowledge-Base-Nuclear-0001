@@ -1,0 +1,12 @@
+# The Digital Ecosystem of Beliefs: does evolution favour AI over humans?
+
+**Authors:** David M. Bossens, Shanshan Feng, Yew-Soon Ong
+
+## Summary
+As AI systems are integrated into social networks, there are AI safety concerns that AI-generated content may dominate the web, e.g. in popularity or impact on beliefs. To understand such questions, this paper proposes the Digital Ecosystem of Beliefs (Digico), the first evolutionary framework for controlled experimentation with multi-population interactions in simulated social networks. The framework models a population of agents which change their messaging strategies due to evolutionary updates following a Universal Darwinism approach, interact via messages, influence each other's beliefs through dynamics based on a contagion model, and maintain their beliefs through cognitive Lamarckian inheritance. Initial experiments with an abstract implementation of Digico show that: a) when AIs have faster messaging, evolution, and more influence in the recommendation algorithm, they get 80% to 95% of the views, depending on the size of the influence benefit; b) AIs designed for propaganda can typically convince 50% of humans to adopt extreme beliefs, and up to 85% when agents believe only a limited number of channels; c) a penalty for content that violates agents' beliefs reduces propaganda effectiveness by up to 8%. We further discuss implications for control (e.g. legislation) and Digico as a means of studying evolutionary principles.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:18:23.282Z

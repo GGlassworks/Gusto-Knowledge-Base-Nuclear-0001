@@ -1,0 +1,12 @@
+# Cybonto: Towards Human Cognitive Digital Twins for Cybersecurity
+
+**Authors:** Tam N. Nguyen
+
+## Summary
+Cyber defense is reactive and slow. On average, the time-to-remedy is hundreds of times larger than the time-to-compromise. In response to the expanding ever-more-complex threat landscape, Digital Twins (DTs) and particularly Human Digital Twins (HDTs) offer the capability of running massive simulations across multiple knowledge domains. Simulated results may offer insights into adversaries' behaviors and tactics, resulting in better proactive cyber-defense strategies. For the first time, this paper solidifies the vision of DTs and HDTs for cybersecurity via the Cybonto conceptual framework proposal. The paper also contributes the Cybonto ontology, formally documenting 108 constructs and thousands of cognitive-related paths based on 20 time-tested psychology theories. Finally, the paper applied 20 network centrality algorithms in analyzing the 108 constructs. The identified top 10 constructs call for extensions of current digital cognitive architectures in preparation for the DT future.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:14:16.241Z

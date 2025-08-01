@@ -1,0 +1,12 @@
+# Application-oriented strain-hardening engineering of high-manganese steels
+
+**Authors:** Christian Haase, Franz Roters, Angela Quadfasel
+
+## Summary
+The outstanding mechanical properties of high-manganese steels (HMnS) are a result of their high strain-hardenability. That is facilitated by strong suppression of dynamic recovery, predominant planar glide, and the activation of additional deformation mechanisms, such as transformation-induced plasticity (TRIP) and twinning-induced plasticity (TWIP). However, depending on the final application, strongly differing requirements on the mechanical properties of HMnS are of relevance. In order to design HMnS for specific applications, multi-scale material simulation under consideration of the processing conditions that allows for prediction of the final mechanical properties is required, i.e. strain-hardening engineering based on integrated computational materials engineering (ICME). In this work, we present an approach that employs alloy selection by stacking-fault energy calculations, which enables activation/suppression of specific deformation mechanisms. Tailored manufacturing, e.g. by thermo-mechanical treatment, severe plastic deformation or additive manufacturing, provides possibilities to make use of the strain-hardenability during and after processing to define the mechanical properties. A computational approach for alloy and process design will be discussed.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.mtrl-sci
+Collected: 2025-08-01T15:51:55.667Z

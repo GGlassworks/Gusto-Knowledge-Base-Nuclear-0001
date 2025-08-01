@@ -1,0 +1,12 @@
+# Evaluating AI-Driven Automated Map Digitization in QGIS
+
+**Authors:** Diana Febrita
+
+## Summary
+Map digitization is an important process that converts maps into digital formats that can be used for further analysis. This process typically requires a deep human involvement because of the need for interpretation and decision-making when translating complex features. With the advancement of artificial intelligence, there is an alternative to conducting map digitization with the help of machine learning techniques. Deepness, or Deep Neural Remote Sensing, is an advanced AI-driven tool designed and integrated as a plugin in QGIS application. This research focuses on assessing the effectiveness of Deepness in automated digitization. This study analyses AI-generated digitization results from Google Earth imagery and compares them with digitized outputs from OpenStreetMap (OSM) to evaluate performance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:14:15.965Z

@@ -1,0 +1,12 @@
+# Digital Twin Framework for Optimal and Autonomous Decision-Making in Cyber-Physical Systems: Enhancing Reliability and Adaptability in the Oil and Gas Industry
+
+**Authors:** Carine Menezes Rebello, Johannes Jäschkea, Idelfonso B. R. Nogueira
+
+## Summary
+The concept of creating a virtual copy of a complete Cyber-Physical System opens up numerous possibilities, including real-time assessments of the physical environment and continuous learning from the system to provide reliable and precise information. This process, known as the twinning process or the development of a digital twin (DT), has been widely adopted across various industries. However, challenges arise when considering the computational demands of implementing AI models, such as those employed in digital twins, in real-time information exchange scenarios. This work proposes a digital twin framework for optimal and autonomous decision-making applied to a gas-lift process in the oil and gas industry, focusing on enhancing the robustness and adaptability of the DT. The framework combines Bayesian inference, Monte Carlo simulations, transfer learning, online learning, and novel strategies to confer cognition to the DT, including model hyperdimensional reduction and cognitive tack. Consequently, creating a framework for efficient, reliable, and trustworthy DT identification was possible. The proposed approach addresses the current gap in the literature regarding integrating various learning techniques and uncertainty management in digital twin strategies. This digital twin framework aims to provide a reliable and efficient system capable of adapting to changing environments and incorporating prediction uncertainty, thus enhancing the overall decision-making process in complex, real-world scenarios. Additionally, this work lays the foundation for further developments in digital twins for process systems engineering, potentially fostering new advancements and applications across various industrial sectors.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:21:14.940Z

@@ -1,0 +1,12 @@
+# Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data
+
+**Authors:** Camelia Oprea, Mike Grüne, Mateusz Buglowski, Lena Olivier, Thorsten Orlikowsky, Stefan Kowalewski, Mark Schoberer, André Stollenwerk
+
+## Summary
+With the digitalization of health care systems, artificial intelligence becomes more present in medicine. Especially machine learning shows great potential for complex tasks such as time series classification, usually at the cost of transparency and comprehensibility. This leads to a lack of trust by humans and thus hinders its active usage. Explainable artificial intelligence tries to close this gap by providing insight into the decision-making process, the actual usefulness of its different methods is however unclear. This paper proposes a user study based evaluation of the explanation method Grad-CAM with application to a neural network for the classification of breaths in time series neonatal ventilation data. We present the perceived usefulness of the explainability method by different stakeholders, exposing the difficulty to achieve actual transparency and the wish for more in-depth explanations by many of the participants.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:16:24.366Z

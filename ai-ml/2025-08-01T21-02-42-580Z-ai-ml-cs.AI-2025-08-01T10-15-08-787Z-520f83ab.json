@@ -1,0 +1,12 @@
+# Towards AI Urban Planner in the Age of GenAI, LLMs, and Agentic AI
+
+**Authors:** Yanjie Fu
+
+## Summary
+Generative AI, large language models, and agentic AI have emerged separately of urban planning. However, the convergence between AI and urban planning presents an interesting opportunity towards AI urban planners. This paper conceptualizes urban planning as a generative AI task, where AI synthesizes land-use configurations under geospatial, social, and human-centric constraints. We survey how generative AI approaches, including VAEs, GANs, transformers, and diffusion models, reshape urban design. We further identify critical gaps: 1) limited research on integrating urban theory guidance, 2) limited research of AI urban planning over multiple spatial resolutions or angularities, 3) limited research on augmenting urban design knowledge from data, and 4) limited research on addressing real-world interactions. To address these limitations, we outline future research directions in theory-guided generation, digital twins, and human-machine co-design, calling for a new synthesis of generative intelligence and participatory urbanism.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:15:08.787Z

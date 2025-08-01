@@ -1,0 +1,12 @@
+# Envisioning a Human-AI collaborative system to transform policies into decision models
+
+**Authors:** Vanessa Lopez, Gabriele Picco, Inge Vejsbjerg, Thanh Lam Hoang, Yufang Hou, Marco Luca Sbodio, John Segrave-Daly, Denisa Moga, Sean Swords, Miao Wei, Eoin Carroll
+
+## Summary
+Regulations govern many aspects of citizens' daily lives. Governments and businesses routinely automate these in the form of coded rules (e.g., to check a citizen's eligibility for specific benefits). However, the path to automation is long and challenging. To address this, recent global initiatives for digital government, proposing to simultaneously express policy in natural language for human consumption as well as computationally amenable rules or code, are gathering broad public-sector interest. We introduce the problem of semi-automatically building decision models from eligibility policies for social services, and present an initial emerging approach to shorten the route from policy documents to executable, interpretable and standardised decision models using AI, NLP and Knowledge Graphs. Despite the many open domain challenges, in this position paper we explore the enormous potential of AI to assist government agencies and policy experts in scaling the production of both human-readable and machine executable policy rules, while improving transparency, interpretability, traceability and accountability of the decision making.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:14:19.735Z

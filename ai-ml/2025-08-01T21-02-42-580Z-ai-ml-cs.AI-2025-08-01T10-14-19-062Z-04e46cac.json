@@ -1,0 +1,12 @@
+# Ontologies in CLARIAH: Towards Interoperability in History, Language and Media
+
+**Authors:** Albert Meroño-Peñuela, Victor de Boer, Marieke van Erp, Richard Zijdeman, Rick Mourits, Willem Melder, Auke Rijpma, Ruben Schalk
+
+## Summary
+One of the most important goals of digital humanities is to provide researchers with data and tools for new research questions, either by increasing the scale of scholarly studies, linking existing databases, or improving the accessibility of data. Here, the FAIR principles provide a useful framework as these state that data needs to be: Findable, as they are often scattered among various sources; Accessible, since some might be offline or behind paywalls; Interoperable, thus using standard knowledge representation formats and shared vocabularies; and Reusable, through adequate licensing and permissions. Integrating data from diverse humanities domains is not trivial, research questions such as "was economic wealth equally distributed in the 18th century?", or "what are narratives constructed around disruptive media events?") and preparation phases (e.g. data collection, knowledge organisation, cleaning) of scholars need to be taken into account. In this chapter, we describe the ontologies and tools developed and integrated in the Dutch national project CLARIAH to address these issues across datasets from three fundamental domains or "pillars" of the humanities (linguistics, social and economic history, and media studies) that have paradigmatic data representations (textual corpora, structured data, and multimedia). We summarise the lessons learnt from using such ontologies and tools in these domains from a generalisation and reusability perspective.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:14:19.062Z

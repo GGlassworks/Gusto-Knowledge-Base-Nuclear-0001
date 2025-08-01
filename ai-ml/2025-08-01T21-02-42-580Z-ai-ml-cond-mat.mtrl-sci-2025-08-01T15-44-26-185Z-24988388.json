@@ -1,0 +1,12 @@
+# AI-Driven Defect Engineering for Advanced Thermoelectric Materials
+
+**Authors:** Chu-Liang Fu, Mouyang Cheng, Nguyen Tuan Hung, Eunbi Rha, Zhantao Chen, Ryotaro Okabe, Denisse Córdova Carrizales, Manasi Mandal, Yongqiang Cheng, Mingda Li
+
+## Summary
+Thermoelectric materials offer a promising pathway to directly convert waste heat to electricity. However, achieving high performance remains challenging due to intrinsic trade-offs between electrical conductivity, the Seebeck coefficient, and thermal conductivity, which are further complicated by the presence of defects. This review explores how artificial intelligence (AI) and machine learning (ML) are transforming thermoelectric materials design. Advanced ML approaches including deep neural networks, graph-based models, and transformer architectures, integrated with high-throughput simulations and growing databases, effectively capture structure-property relationships in a complex multiscale defect space and overcome the curse of dimensionality. This review discusses AI-enhanced defect engineering strategies such as composition optimization, entropy and dislocation engineering, and grain boundary design, along with emerging inverse design techniques for generating materials with targeted properties. Finally, it outlines future opportunities in novel physics mechanisms and sustainability, highlighting the critical role of AI in accelerating the discovery of thermoelectric materials.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.mtrl-sci
+Collected: 2025-08-01T15:44:26.185Z

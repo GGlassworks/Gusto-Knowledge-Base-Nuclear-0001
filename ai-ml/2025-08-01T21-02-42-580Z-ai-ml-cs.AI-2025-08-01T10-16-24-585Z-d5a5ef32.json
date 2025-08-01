@@ -1,0 +1,12 @@
+# Artificial Intelligence for Geometry-Based Feature Extraction, Analysis and Synthesis in Artistic Images: A Survey
+
+**Authors:** Mridula Vijendran, Jingjing Deng, Shuang Chen, Edmond S. L. Ho, Hubert P. H. Shum
+
+## Summary
+Artificial Intelligence significantly enhances the visual art industry by analyzing, identifying and generating digitized artistic images. This review highlights the substantial benefits of integrating geometric data into AI models, addressing challenges such as high inter-class variations, domain gaps, and the separation of style from content by incorporating geometric information. Models not only improve AI-generated graphics synthesis quality, but also effectively distinguish between style and content, utilizing inherent model biases and shared data traits. We explore methods like geometric data extraction from artistic images, the impact on human perception, and its use in discriminative tasks. The review also discusses the potential for improving data quality through innovative annotation techniques and the use of geometric data to enhance model adaptability and output refinement. Overall, incorporating geometric guidance boosts model performance in classification and synthesis tasks, providing crucial insights for future AI applications in the visual arts domain.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:16:24.585Z

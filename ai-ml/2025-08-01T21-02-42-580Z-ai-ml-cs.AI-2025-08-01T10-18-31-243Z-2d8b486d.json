@@ -1,0 +1,12 @@
+# Automatic Geo-alignment of Artwork in Children's Story Books
+
+**Authors:** Jakub J. Dylag, Victor Suarez, James Wald, Aneesha Amodini Uvara
+
+## Summary
+A study was conducted to prove AI software could be used to translate and generate illustrations without any human intervention. This was done with the purpose of showing and distributing it to the external customer, Pratham Books. The project aligns with the company's vision by leveraging the generalisation and scalability of Machine Learning algorithms, offering significant cost efficiency increases to a wide range of literary audiences in varied geographical locations. A comparative study methodology was utilised to determine the best performant method out of the 3 devised, Prompt Augmentation using Keywords, CLIP Embedding Mask, and Cross Attention Control with Editorial Prompts. A thorough evaluation process was completed using both quantitative and qualitative measures. Each method had its own strengths and weaknesses, but through the evaluation, method 1 was found to have the best yielding results. Promising future advancements may be made to further increase image quality by incorporating Large Language Models and personalised stylistic models. The presented approach can also be adapted to Video and 3D sculpture generation for novel illustrations in digital webbooks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:18:31.244Z

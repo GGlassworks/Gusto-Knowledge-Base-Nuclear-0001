@@ -1,0 +1,12 @@
+# The dynamics of belief: continuously monitoring and visualising complex systems
+
+**Authors:** Edwin J. Beggs, John V. Tucker
+
+## Summary
+The rise of AI in human contexts places new demands on automated systems to be transparent and explainable. We examine some anthropomorphic ideas and principles relevant to such accountablity in order to develop a theoretical framework for thinking about digital systems in complex human contexts and the problem of explaining their behaviour. Structurally, systems are made of modular and hierachical components, which we abstract in a new system model using notions of modes and mode transitions. A mode is an independent component of the system with its own objectives, monitoring data, and algorithms. The behaviour of a mode, including its transitions to other modes, is determined by functions that interpret each mode's monitoring data in the light of its objectives and algorithms. We show how these belief functions can help explain system behaviour by visualising their evaluation as trajectories in higher-dimensional geometric spaces. These ideas are formalised mathematically by abstract and concrete simplicial complexes. We offer three techniques: a framework for design heuristics, a general system theory based on modes, and a geometric visualisation, and apply them in three types of human-centred systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:14:19.705Z

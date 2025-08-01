@@ -1,0 +1,12 @@
+# Tree-Based Reconstructive Partitioning: A Novel Low-Data Level Generation Approach
+
+**Authors:** Emily Halina, Matthew Guzdial
+
+## Summary
+Procedural Content Generation (PCG) is the algorithmic generation of content, often applied to games. PCG and PCG via Machine Learning (PCGML) have appeared in published games. However, it can prove difficult to apply these approaches in the early stages of an in-development game. PCG requires expertise in representing designer notions of quality in rules or functions, and PCGML typically requires significant training data, which may not be available early in development. In this paper, we introduce Tree-based Reconstructive Partitioning (TRP), a novel PCGML approach aimed to address this problem. Our results, across two domains, demonstrate that TRP produces levels that are more playable and coherent, and that the approach is more generalizable with less training data. We consider TRP to be a promising new approach that can afford the introduction of PCGML into the early stages of game development without requiring human expertise or significant training data.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:18:31.361Z

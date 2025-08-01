@@ -1,0 +1,12 @@
+# Flying V and Reference Aircraft Evacuation Simulation and Comparison
+
+**Authors:** Julia Gebauer, Justus Benad
+
+## Summary
+A preliminary comparison of evacuation times of the Flying V and the Airbus A350-900 is presented in this study. A simple simulation tool based on the technique of cellular automata was created to model the evacuation process for different closed door configurations. Certification regulations state that the time to evacuate a civil aircraft in case of an emergency with half of all exit doors closed must be less than 90 seconds. The results of this study indicate that the shorter V shaped cabin has advantages over the longer conventional reference cabin for cases when passengers need to evacuate towards the front or the back of the aircraft. Disadvantages occur when the passengers in the V shaped cabin need to evacuate more towards one side (left or right wing) of the aircraft. A more detailed simulation model to further investigate these cases is currently created by the authors.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.soft
+Collected: 2025-08-01T16:19:10.528Z

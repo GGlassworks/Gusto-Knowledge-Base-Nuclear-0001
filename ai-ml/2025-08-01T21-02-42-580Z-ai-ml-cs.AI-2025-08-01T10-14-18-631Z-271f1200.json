@@ -1,0 +1,12 @@
+# A Cognitive-Mechanistic Human Reliability Analysis Framework: A Nuclear Power Plant Case Study
+
+**Authors:** Xingyu Xiao, Peng Chen, Jiejuan Tong, Shunshun Liu, Hongru Zhao, Jun Zhao, Qianqian Jia, Jingang Liang, Haitao Wang
+
+## Summary
+Traditional human reliability analysis (HRA) methods, such as IDHEAS-ECA, rely on expert judgment and empirical rules that often overlook the cognitive underpinnings of human error. Moreover, conducting human-in-the-loop experiments for advanced nuclear power plants is increasingly impractical due to novel interfaces and limited operational data. This study proposes a cognitive-mechanistic framework (COGMIF) that enhances the IDHEAS-ECA methodology by integrating an ACT-R-based human digital twin (HDT) with TimeGAN-augmented simulation. The ACT-R model simulates operator cognition, including memory retrieval, goal-directed procedural reasoning, and perceptual-motor execution, under high-fidelity scenarios derived from a high-temperature gas-cooled reactor (HTGR) simulator. To overcome the resource constraints of large-scale cognitive modeling, TimeGAN is trained on ACT-R-generated time-series data to produce high-fidelity synthetic operator behavior datasets. These simulations are then used to drive IDHEAS-ECA assessments, enabling scalable, mechanism-informed estimation of human error probabilities (HEPs). Comparative analyses with SPAR-H and sensitivity assessments demonstrate the robustness and practical advantages of the proposed COGMIF. Finally, procedural features are mapped onto a Bayesian network to quantify the influence of contributing factors, revealing key drivers of operational risk. This work offers a credible and computationally efficient pathway to integrate cognitive theory into industrial HRA practices.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T10:14:18.631Z
