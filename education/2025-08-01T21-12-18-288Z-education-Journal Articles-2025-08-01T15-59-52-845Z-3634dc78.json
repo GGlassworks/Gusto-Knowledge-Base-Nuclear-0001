@@ -1,0 +1,13 @@
+# Using LEGO Kits to Teach Higher Level Problem Solving Skills in System Dynamics: A Case Study
+
+**Authors:** Wu, Yi, de Vries, Charlotte, Dunsworth, Qi
+
+## Abstract
+System Dynamics is a required course offered to junior Mechanical Engineering students at Penn State Erie, the Behrend College. It addresses the intercoupling dynamics of a wide range of dynamic systems: including mechanical, electrical, fluid, hydraulic, electromechanical, and biomedical systems. This course is challenging for students due to the abstract nature and advanced mathematics needed to understand the topic. While hands-on experience can be a useful tool in learning the material, the ready-to-use units in the market are costly. This paper explores the applications of using low cost LEGO® MINDSTORMS® NXT kits to help students learn key quantitative skills in Systems Dynamics course. The labs include (1) time response of a first order system and transfer function identification and verification, (2) time response of a second order system, and (3) PD controller design. These lab activities use MATLAB®/Simulink® to study the response of LEGO MINDSTORMS units. Multiple student surveys (before and after each lab, at the end of semester, one semester/year after the completion of course) and multiple learning assessments have been analyzed and have shown that there is an improvement in students' confidence and skills in topics covered by the labs.
+
+**Source:** https://eric.ed.gov/?id=EJ1181530
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T15:59:52.846Z
