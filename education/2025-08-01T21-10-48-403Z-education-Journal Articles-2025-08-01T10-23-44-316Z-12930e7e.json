@@ -1,0 +1,13 @@
+# A Novel Hybrid Approach to the Foundational Digital Systems Curriculum by Including FPGA Technology and Valuable Hands-on Experience
+
+**Authors:** Ochoa, Hector A., Shirvaikar, Mukul V., Onyango, Brolyne
+
+## Abstract
+Digital Systems is one of the basic foundational courses in Electrical and Computer Engineering. The job market is increasingly in need of Electrical Engineers with knowledge of Hardware Description Languages (HDL). Yet most digital systems design curriculum, largely remains based on design using Transistor-Transistor-Logic (TTL) devices or alternatively is solely focused on FPGA design. The bipolar approaches came into focus after surveying the pedagogy and methodology that are used to teach the digital systems curriculum at different universities. The survey analysis shows how some universities have made the transition from TTL logic to an HDL approach. However, factors such as the type of university, and prerequisites need to be taken into consideration when such a conversion is going to be performed. This paper presents a novel hybrid approach to modernize the curriculum for the Digital Systems course, using traditional circuit construction, simulation software and implementation of circuits using reconfigurable logic. The goal of this curriculum is to empower the students with the necessary tools for a seamless transition from TTL devices to FPGAs, and at the same time expose them to the latest technologies in digital system design. For the instructors, this approach allows them to provide the students with more meaningful circuits that using traditional TTL devices will be too cumbersome to build on a breadboard.
+
+**Source:** https://eric.ed.gov/?id=EJ1272878
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:23:44.316Z
