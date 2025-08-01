@@ -1,0 +1,13 @@
+# Analytic Policy Function Iteration
+
+**Authors:** Zhao Han, Fei Tan, Jieran Wu
+
+## Abstract
+We propose a novel approach to solving and analyzing linear rational expectations models with general information frictions. Our approach is built upon policy function iterations in the frequency domain. We develop the theoretical framework of this approach using rational approximation, analytic continuation, and discrete Fourier transform. We provide the numerical implementation accompanied by a flexible object-oriented toolbox. We demonstrate the efficiency and accuracy of our method by studying four models in macroeconomics and finance that feature asymmetric information sets, endogenous signals, and higher-order expectations.
+
+**Source:** https://www.semanticscholar.org/paper/761b45cfb309662fbcb8d002562f9ffc36ef6e3b
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:19:46.851Z

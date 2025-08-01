@@ -1,0 +1,13 @@
+# Regional Data in Macroeconomics: Some Advice for Practitioners
+
+**Authors:** Gabriel Chodorow-reich
+
+## Abstract
+Cross-sectional or panel studies have joined time series techniques as an important element in empirical macroeconomists' toolkit. The econometric best practices for these studies and their aggregate implications remain active topics of research. In this paper, I offer several pieces of advice for practitioners in this literature. I begin by casting regional analysis in a Rubin (1978) potential outcomes framework. This formalism clarifies three reasons why the estimated impact of a shock on a single region can differ from the aggregate effect of the shock: (i) contamination of the untreated areas through ``micro'' spillovers, (ii) these spillovers sum to an economically relevant magnitude, and (iii) national variables endogenously respond to national shocks but not to local shocks. I provide several examples to illustrate and discuss how economic theory can sometimes sign the spillovers and bound the difference between the regional and aggregate effects of the shock. I then turn to econometric issues including the choice of endogenous variable in a regional regression and whether or not to weight by population.
+
+**Source:** https://www.semanticscholar.org/paper/880d7985744ba876353897aaf757dba598e5dfc0
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:17:52.953Z

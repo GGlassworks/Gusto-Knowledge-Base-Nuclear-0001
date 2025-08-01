@@ -1,0 +1,13 @@
+# Eigenvalues in microeconomics
+
+**Authors:** Ben Golub
+
+## Abstract
+Square matrices often arise in microeconomics, particularly in network models addressing applications from opinion dynamics to platform regulation. Spectral theory provides powerful tools for analyzing their properties. We present an accessible overview of several fundamental applications of spectral methods in microeconomics, focusing especially on the Perron-Frobenius Theorem's role and its connection to centrality measures. Applications include social learning, network games, public goods provision, and market intervention under uncertainty. The exposition assumes minimal social science background, using spectral theory as a unifying mathematical thread to introduce interested readers to some exciting current topics in microeconomic theory.
+
+**Source:** https://www.semanticscholar.org/paper/9ed3d8c6378ee53901c9dbc1d1a6e77bc3d87d0e
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:25:16.840Z

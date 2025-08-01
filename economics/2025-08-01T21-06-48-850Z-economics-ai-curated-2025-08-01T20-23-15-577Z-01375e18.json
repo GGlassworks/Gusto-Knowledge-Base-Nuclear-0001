@@ -1,0 +1,13 @@
+# Causal Inference Methods: Lessons from Applied Microeconomics
+
+**Authors:** Laura Dague, J. Lahey
+
+## Abstract
+This paper discusses causal inference techniques for social scientists through the lens of applied microeconomics. We frame causal inference using the standard of the ideal experiment, emphasizing problems of omitted variable bias and reverse causality. We explore how laboratory and field experiments can succeed and fail to meet this ideal in practice. We then outline how different methods and the statistical assumptions behind them can lead to causal inference in non-experimental contexts. We explain when problems with omitted variables bias can and cannot be addressed using observed controls. We consider tools for studying natural experiments, including difference-in-differences, instrumental variables, and regression discontinuity techniques. Finally, we discuss additional concerns that may arise such as weighting, clustering, multiple inference, and external validity. We include Stata code for implementing each of these methods as well as a series of checklists for researchers detailing important robustness and design checks. Throughout, we emphasize the importance of understanding the context of a study and implementing analyses in a way that acknowledges strengths and limitations.
+
+**Source:** https://www.semanticscholar.org/paper/03b95009a9fb2169a577a251e3b773b63f6994a8
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:23:15.577Z
