@@ -1,0 +1,12 @@
+# A comparison between Recurrent Neural Networks and classical machine learning approaches In Laser induced breakdown spectroscopy
+
+**Authors:** Fatemeh Rezaei, Pouriya Khaliliyan, Mohsen Rezaei, Parvin Karimi, Behnam Ashrafkhani
+
+## Summary
+Recurrent Neural Networks are classes of Artificial Neural Networks that establish connections between different nodes form a directed or undirected graph for temporal dynamical analysis. In this research, the laser induced breakdown spectroscopy (LIBS) technique is used for quantitative analysis of aluminum alloys by different Recurrent Neural Network (RNN) architecture. The fundamental harmonic (1064 nm) of a nanosecond Nd:YAG laser pulse is employed to generate the LIBS plasma for the prediction of constituent concentrations of the aluminum standard samples. Here, Recurrent Neural Networks based on different networks, such as Long Short Term Memory (LSTM), Gated Recurrent Unit (GRU), Simple Recurrent Neural Network (Simple RNN), and as well as Recurrent Convolutional Networks comprising of Conv-SimpleRNN, Conv-LSTM and Conv-GRU are utilized for concentration prediction. Then a comparison is performed among prediction by classical machine learning methods of support vector regressor (SVR), the Multi Layer Perceptron (MLP), Decision Tree algorithm, Gradient Boosting Regression (GBR), Random Forest Regression (RFR), Linear Regression, and k-Nearest Neighbor (KNN) algorithm. Results showed that the machine learning tools based on Convolutional Recurrent Networks had the best efficiencies in prediction of the most of the elements among other multivariate methods.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:49:42.420Z

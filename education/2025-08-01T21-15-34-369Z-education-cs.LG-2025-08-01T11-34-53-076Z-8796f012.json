@@ -1,0 +1,12 @@
+# A Framework for End-to-End Deep Learning-Based Anomaly Detection in Transportation Networks
+
+**Authors:** Neema Davis, Gaurav Raina, Krishna Jagannathan
+
+## Summary
+We develop an end-to-end deep learning-based anomaly detection model for temporal data in transportation networks. The proposed EVT-LSTM model is derived from the popular LSTM (Long Short-Term Memory) network and adopts an objective function that is based on fundamental results from EVT (Extreme Value Theory). We compare the EVT-LSTM model with some established statistical, machine learning, and hybrid deep learning baselines. Experiments on seven diverse real-world data sets demonstrate the superior anomaly detection performance of our proposed model over the other models considered in the comparison study.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:53.077Z

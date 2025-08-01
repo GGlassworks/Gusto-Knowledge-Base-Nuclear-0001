@@ -1,0 +1,12 @@
+# Replication of Impedance Identification Experiments on a Reinforcement-Learning-Controlled Digital Twin of Human Elbows
+
+**Authors:** Hao Yu, Zebin Huang, Qingbo Liu, Ignacio Carlucho, Mustafa Suphi Erden
+
+## Summary
+This study presents a pioneering effort to replicate human neuromechanical experiments within a virtual environment utilising a digital human model. By employing MyoSuite, a state-of-the-art human motion simulation platform enhanced by Reinforcement Learning (RL), multiple types of impedance identification experiments of human elbow were replicated on a musculoskeletal model. We compared the elbow movement controlled by an RL agent with the motion of an actual human elbow in terms of the impedance identified in torque-perturbation experiments. The findings reveal that the RL agent exhibits higher elbow impedance to stabilise the target elbow motion under perturbation than a human does, likely due to its shorter reaction time and superior sensory capabilities. This study serves as a preliminary exploration into the potential of virtual environment simulations for neuromechanical research, offering an initial yet promising alternative to conventional experimental approaches. An RL-controlled digital twin with complete musculoskeletal models of the human body is expected to be useful in designing experiments and validating rehabilitation theory before experiments on real human subjects.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:15.837Z

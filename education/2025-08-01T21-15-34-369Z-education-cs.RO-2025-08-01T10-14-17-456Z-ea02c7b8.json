@@ -1,0 +1,12 @@
+# Digital Twin-Driven Reinforcement Learning for Obstacle Avoidance in Robot Manipulators: A Self-Improving Online Training Framework
+
+**Authors:** Yuzhu Sun, Mien Van, Stephen McIlvanna, Nguyen Minh Nhat, Kabirat Olayemi, Jack Close, Seán McLoone
+
+## Summary
+The evolution and growing automation of collaborative robots introduce more complexity and unpredictability to systems, highlighting the crucial need for robot's adaptability and flexibility to address the increasing complexities of their environment. In typical industrial production scenarios, robots are often required to be re-programmed when facing a more demanding task or even a few changes in workspace conditions. To increase productivity, efficiency and reduce human effort in the design process, this paper explores the potential of using digital twin combined with Reinforcement Learning (RL) to enable robots to generate self-improving collision-free trajectories in real time. The digital twin, acting as a virtual counterpart of the physical system, serves as a 'forward run' for monitoring, controlling, and optimizing the physical system in a safe and cost-effective manner. The physical system sends data to synchronize the digital system through the video feeds from cameras, which allows the virtual robot to update its observation and policy based on real scenarios. The bidirectional communication between digital and physical systems provides a promising platform for hardware-in-the-loop RL training through trial and error until the robot successfully adapts to its new environment. The proposed online training framework is demonstrated on the Unfactory Xarm5 collaborative robot, where the robot end-effector aims to reach the target position while avoiding obstacles. The experiment suggest that proposed framework is capable of performing policy online training, and that there remains significant room for improvement.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:17.456Z

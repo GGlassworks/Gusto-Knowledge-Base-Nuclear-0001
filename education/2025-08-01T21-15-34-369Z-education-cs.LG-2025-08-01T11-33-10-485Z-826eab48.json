@@ -1,0 +1,12 @@
+# Deep Learning for IoT
+
+**Authors:** Tao Lin
+
+## Summary
+Deep learning and other machine learning approaches are deployed to many systems related to Internet of Things or IoT. However, it faces challenges that adversaries can take loopholes to hack these systems through tampering history data. This paper first presents overall points of adversarial machine learning. Then, we illustrate traditional methods, such as Petri Net cannot solve this new question efficiently. To help IoT data analysis more efficient, we propose a retrieval method based on deep learning (recurrent neural network). Besides, this paper presents a research on data retrieval solution to avoid hacking by adversaries in the fields of adversary machine leaning. It further directs the new approaches in terms of how to implementing this framework in IoT settings based on adversarial deep learning.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:33:10.485Z

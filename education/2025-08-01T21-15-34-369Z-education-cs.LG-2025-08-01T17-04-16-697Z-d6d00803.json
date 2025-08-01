@@ -1,0 +1,12 @@
+# Generalizable Machine Learning in Neuroscience using Graph Neural Networks
+
+**Authors:** Paul Y. Wang, Sandalika Sapra, Vivek Kurien George, Gabriel A. Silva
+
+## Summary
+Although a number of studies have explored deep learning in neuroscience, the application of these algorithms to neural systems on a microscopic scale, i.e. parameters relevant to lower scales of organization, remains relatively novel. Motivated by advances in whole-brain imaging, we examined the performance of deep learning models on microscopic neural dynamics and resulting emergent behaviors using calcium imaging data from the nematode C. elegans. We show that neural networks perform remarkably well on both neuron-level dynamics prediction, and behavioral state classification. In addition, we compared the performance of structure agnostic neural networks and graph neural networks to investigate if graph structure can be exploited as a favorable inductive bias. To perform this experiment, we designed a graph neural network which explicitly infers relations between neurons from neural activity and leverages the inferred graph structure during computations. In our experiments, we found that graph neural networks generally outperformed structure agnostic models and excel in generalization on unseen organisms, implying a potential path to generalizable machine learning in neuroscience.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T17:04:16.699Z

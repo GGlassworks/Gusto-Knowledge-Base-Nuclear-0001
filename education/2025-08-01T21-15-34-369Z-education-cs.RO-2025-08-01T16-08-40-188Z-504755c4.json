@@ -1,0 +1,12 @@
+# CIVIL: Causal and Intuitive Visual Imitation Learning
+
+**Authors:** Yinlong Dai, Robert Ramirez Sanchez, Ryan Jeronimus, Shahabedin Sagheb, Cara M. Nunez, Heramb Nemlekar, Dylan P. Losey
+
+## Summary
+Today's robots learn new tasks by imitating human examples. However, this standard approach to visual imitation learning is fundamentally limited: the robot observes what the human does, but not why the human chooses those behaviors. Without understanding the features that factor into the human's decisions, robot learners often misinterpret the data and fail to perform the task when the environment changes. We therefore propose a shift in perspective: instead of asking human teachers just to show what actions the robot should take, we also enable humans to indicate task-relevant features using markers and language prompts. Our proposed algorithm, CIVIL, leverages this augmented data to filter the robot's visual observations and extract a feature representation that causally informs human actions. CIVIL then applies these causal features to train a transformer-based policy that emulates human behaviors without being confused by visual distractors. Our simulations, real-world experiments, and user study demonstrate that robots trained with CIVIL can learn from fewer human demonstrations and perform better than state-of-the-art baselines, especially in previously unseen scenarios. See videos at our project website: https://civil2025.github.io
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T16:08:40.188Z

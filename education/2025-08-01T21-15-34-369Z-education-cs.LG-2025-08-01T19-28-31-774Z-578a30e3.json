@@ -1,0 +1,12 @@
+# Approaching Metaheuristic Deep Learning Combos for Automated Data Mining
+
+**Authors:** Gustavo Assunção, Paulo Menezes
+
+## Summary
+Lack of data on which to perform experimentation is a recurring issue in many areas of research, particularly in machine learning. The inability of most automated data mining techniques to be generalized to all types of data is inherently related with their dependency on those types which deems them ineffective against anything slightly different. Meta-heuristics are algorithms which attempt to optimize some solution independently of the type of data used, whilst classifiers or neural networks focus on feature extrapolation and dimensionality reduction to fit some model onto data arranged in a particular way. These two algorithmic fields encompass a group of characteristics which when combined are seemingly capable of achieving data mining regardless of how it is arranged. To this end, this work proposes a means of combining meta-heuristic methods with conventional classifiers and neural networks in order to perform automated data mining. Experiments on the MNIST dataset for handwritten digit recognition were performed and it was empirically observed that using a ground truth labeled dataset's validation accuracy is inadequate for correcting labels of other previously unseen data instances.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T19:28:31.774Z

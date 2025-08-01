@@ -1,0 +1,12 @@
+# TransOpt: Transformer-based Representation Learning for Optimization Problem Classification
+
+**Authors:** Gjorgjina Cenikj, Gašper Petelin, Tome Eftimov
+
+## Summary
+We propose a representation of optimization problem instances using a transformer-based neural network architecture trained for the task of problem classification of the 24 problem classes from the Black-box Optimization Benchmarking (BBOB) benchmark. We show that transformer-based methods can be trained to recognize problem classes with accuracies in the range of 70\%-80\% for different problem dimensions, suggesting the possible application of transformer architectures in acquiring representations for black-box optimization problems.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:53:21.679Z

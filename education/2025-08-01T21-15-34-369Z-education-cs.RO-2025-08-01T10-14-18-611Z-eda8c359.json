@@ -1,0 +1,12 @@
+# Cloud-Based Hierarchical Imitation Learning for Scalable Transfer of Construction Skills from Human Workers to Assisting Robots
+
+**Authors:** Hongrui Yu, Vineet R. Kamat, Carol C. Menassa
+
+## Summary
+Assigning repetitive and physically-demanding construction tasks to robots can alleviate human workers's exposure to occupational injuries. Transferring necessary dexterous and adaptive artisanal construction craft skills from workers to robots is crucial for the successful delegation of construction tasks and achieving high-quality robot-constructed work. Predefined motion planning scripts tend to generate rigid and collision-prone robotic behaviors in unstructured construction site environments. In contrast, Imitation Learning (IL) offers a more robust and flexible skill transfer scheme. However, the majority of IL algorithms rely on human workers to repeatedly demonstrate task performance at full scale, which can be counterproductive and infeasible in the case of construction work. To address this concern, this paper proposes an immersive, cloud robotics-based virtual demonstration framework that serves two primary purposes. First, it digitalizes the demonstration process, eliminating the need for repetitive physical manipulation of heavy construction objects. Second, it employs a federated collection of reusable demonstrations that are transferable for similar tasks in the future and can thus reduce the requirement for repetitive illustration of tasks by human agents. Additionally, to enhance the trustworthiness, explainability, and ethical soundness of the robot training, this framework utilizes a Hierarchical Imitation Learning (HIL) model to decompose human manipulation skills into sequential and reactive sub-skills. These two layers of skills are represented by deep generative models, enabling adaptive control of robot actions. By delegating the physical strains of construction work to human-trained robots, this framework promotes the inclusion of workers with diverse physical capabilities and educational backgrounds within the construction industry.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:18.611Z

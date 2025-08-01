@@ -1,0 +1,12 @@
+# Resource-Efficient Deep Learning: A Survey on Model-, Arithmetic-, and Implementation-Level Techniques
+
+**Authors:** JunKyu Lee, Lev Mukhanov, Amir Sabbagh Molahosseini, Umar Minhas, Yang Hua, Jesus Martinez del Rincon, Kiril Dichev, Cheol-Ho Hong, Hans Vandierendonck
+
+## Summary
+Deep learning is pervasive in our daily life, including self-driving cars, virtual assistants, social network services, healthcare services, face recognition, etc. However, deep neural networks demand substantial compute resources during training and inference. The machine learning community has mainly focused on model-level optimizations such as architectural compression of deep learning models, while the system community has focused on implementation-level optimization. In between, various arithmetic-level optimization techniques have been proposed in the arithmetic community. This article provides a survey on resource-efficient deep learning techniques in terms of model-, arithmetic-, and implementation-level techniques and identifies the research gaps for resource-efficient deep learning techniques across the three different level techniques. Our survey clarifies the influence from higher to lower-level techniques based on our resource-efficiency metric definition and discusses the future trend for resource-efficient deep learning research.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:33:09.898Z

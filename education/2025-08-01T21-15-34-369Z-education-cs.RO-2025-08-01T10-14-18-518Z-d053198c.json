@@ -1,0 +1,12 @@
+# Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation
+
+**Authors:** Yi-Hung Chiu, Ung Hee Lee, Changseob Song, Manaen Hu, Inseung Kang
+
+## Summary
+Virtual models of human gait, or digital twins, offer a promising solution for studying mobility without the need for labor-intensive data collection. However, challenges such as the sim-to-real gap and limited adaptability to diverse walking conditions persist. To address these, we developed and validated a framework to create a skeletal humanoid agent capable of adapting to varying walking speeds while maintaining biomechanically realistic motions. The framework combines a synthetic data generator, which produces biomechanically plausible gait kinematics from open-source biomechanics data, and a training system that uses adversarial imitation learning to train the agent's walking policy. We conducted comprehensive analyses comparing the agent's kinematics, synthetic data, and the original biomechanics dataset. The agent achieved a root mean square error of 5.24 +- 0.09 degrees at varying speeds compared to ground-truth kinematics data, demonstrating its adaptability. This work represents a significant step toward developing a digital twin of human locomotion, with potential applications in biomechanics research, exoskeleton design, and rehabilitation.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:18.518Z

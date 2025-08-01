@@ -1,0 +1,12 @@
+# VeryFL: A Verify Federated Learning Framework Embedded with Blockchain
+
+**Authors:** Yihao Li, Yanyi Lai, Chuan Chen, Zibin Zheng
+
+## Summary
+Blockchain-empowered federated learning (FL) has provoked extensive research recently. Various blockchain-based federated learning algorithm, architecture and mechanism have been designed to solve issues like single point failure and data falsification brought by centralized FL paradigm. Moreover, it is easier to allocate incentives to nodes with the help of the blockchain. Various centralized federated learning frameworks like FedML, have emerged in the community to help boost the research on FL. However, decentralized blockchain-based federated learning framework is still missing, which cause inconvenience for researcher to reproduce or verify the algorithm performance based on blockchain. Inspired by the above issues, we have designed and developed a blockchain-based federated learning framework by embedding Ethereum network. This report will present the overall structure of this framework, which proposes a code practice paradigm for the combination of FL with blockchain and, at the same time, compatible with normal FL training task. In addition to implement some blockchain federated learning algorithms on smart contract to help execute a FL training, we also propose a model ownership authentication architecture based on blockchain and model watermarking to protect the intellectual property rights of models. These mechanism on blockchain shows an underlying support of blockchain for federated learning to provide a verifiable training, aggregation and incentive distribution procedure and thus we named this framework VeryFL (A Verify Federated Learninig Framework Embedded with Blockchain). The source code is avaliable on https://github.com/GTMLLab/VeryFL.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T13:05:04.137Z

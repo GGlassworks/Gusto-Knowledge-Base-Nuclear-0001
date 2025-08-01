@@ -1,0 +1,12 @@
+# deepstruct -- linking deep learning and graph theory
+
+**Authors:** Julian Stier, Michael Granitzer
+
+## Summary
+deepstruct connects deep learning models and graph theory such that different graph structures can be imposed on neural networks or graph structures can be extracted from trained neural network models. For this, deepstruct provides deep neural network models with different restrictions which can be created based on an initial graph. Further, tools to extract graph structures from trained models are available. This step of extracting graphs can be computationally expensive even for models of just a few dozen thousand parameters and poses a challenging problem. deepstruct supports research in pruning, neural architecture search, automated network design and structure analysis of neural networks.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:36:40.199Z

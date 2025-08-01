@@ -1,0 +1,12 @@
+# Explainable Machine Learning for Categorical and Mixed Data with Lossless Visualization
+
+**Authors:** Boris Kovalerchuk, Elijah McCoy
+
+## Summary
+Building accurate and interpretable Machine Learning (ML) models for heterogeneous/mixed data is a long-standing challenge for algorithms designed for numeric data. This work focuses on developing numeric coding schemes for non-numeric attributes for ML algorithms to support accurate and explainable ML models, methods for lossless visualization of n-D non-numeric categorical data with visual rule discovery in these visualizations, and accurate and explainable ML models for categorical data. This study proposes a classification of mixed data types and analyzes their important role in Machine Learning. It presents a toolkit for enforcing interpretability of all internal operations of ML algorithms on mixed data with a visual data exploration on mixed data. A new Sequential Rule Generation (SRG) algorithm for explainable rule generation with categorical data is proposed and successfully evaluated in multiple computational experiments. This work is one of the steps to the full scope ML algorithms for mixed data supported by lossless visualization of n-D data in General Line Coordinates beyond Parallel Coordinates.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T19:45:58.818Z

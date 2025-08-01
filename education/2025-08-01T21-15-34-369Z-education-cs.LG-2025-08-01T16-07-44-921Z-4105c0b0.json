@@ -1,0 +1,12 @@
+# A LSTM and Cost-Sensitive Learning-Based Real-Time Warning for Civil Aviation Over-limit
+
+**Authors:** Yiming Bian
+
+## Summary
+The issue of over-limit during passenger aircraft flights has drawn increasing attention in civil aviation due to its potential safety risks. To address this issue, real-time automated warning systems are essential. In this study, a real-time warning model for civil aviation over-limit is proposed based on QAR data monitoring. Firstly, highly correlated attributes to over-limit are extracted from a vast QAR dataset using the Spearman rank correlation coefficient. Because flight over-limit poses a binary classification problem with unbalanced samples, this paper incorporates cost-sensitive learning in the LSTM model. Finally, the time step length, number of LSTM cells, and learning rate in the LSTM model are optimized using a grid search approach. The model is trained on a real dataset, and its performance is evaluated on a validation set. The experimental results show that the proposed model achieves an F1 score of 0.991 and an accuracy of 0.978, indicating its effectiveness in real-time warning of civil aviation over-limit.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T16:07:44.922Z

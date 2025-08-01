@@ -1,0 +1,12 @@
+# A Look into How Machine Learning is Reshaping Engineering Models: the Rise of Analysis Paralysis, Optimal yet Infeasible Solutions, and the Inevitable Rashomon Paradox
+
+**Authors:** MZ Naser
+
+## Summary
+The widespread acceptance of empirically derived codal provisions and equations in civil engineering stands in stark contrast to the skepticism facing machine learning (ML) models, despite their shared statistical foundations. This paper examines this philosophical tension through the lens of structural engineering and explores how integrating ML challenges traditional engineering philosophies and professional identities. Recent efforts have documented how ML enhances predictive accuracy, optimizes designs, and analyzes complex behaviors. However, one might also raise concerns about the diminishing role of human intuition and the interpretability of algorithms. To showcase this rarely explored front, this paper presents how ML can be successfully integrated into various engineering problems by means of formulation via deduction, induction, and abduction. Then, this paper identifies three principal paradoxes that could arise when adopting ML: analysis paralysis (increased prediction accuracy leading to a reduced understanding of physical mechanisms), infeasible solutions (optimization resulting in unconventional designs that challenge engineering intuition), and the Rashomon effect (where contradictions in explainability methods and physics arise). This paper concludes by addressing these paradoxes and arguing the need to rethink epistemological shifts in engineering and engineering education and methodologies to harmonize traditional principles with ML.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T15:52:51.730Z

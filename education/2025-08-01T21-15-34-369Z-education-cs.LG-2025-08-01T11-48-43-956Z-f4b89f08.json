@@ -1,0 +1,12 @@
+# Learning Rate Optimization for Deep Neural Networks Using Lipschitz Bandits
+
+**Authors:** Padma Priyanka, Sheetal Kalyani, Avhishek Chatterjee
+
+## Summary
+Learning rate is a crucial parameter in training of neural networks. A properly tuned learning rate leads to faster training and higher test accuracy. In this paper, we propose a Lipschitz bandit-driven approach for tuning the learning rate of neural networks. The proposed approach is compared with the popular HyperOpt technique used extensively for hyperparameter optimization and the recently developed bandit-based algorithm BLiE. The results for multiple neural network architectures indicate that our method finds a better learning rate using a) fewer evaluations and b) lesser number of epochs per evaluation, when compared to both HyperOpt and BLiE. Thus, the proposed approach enables more efficient training of neural networks, leading to lower training time and lesser computational cost.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:48:43.956Z

@@ -1,0 +1,12 @@
+# The Promise of Analog Deep Learning: Recent Advances, Challenges and Opportunities
+
+**Authors:** Aditya Datar, Pramit Saha
+
+## Summary
+Much of the present-day Artificial Intelligence (AI) utilizes artificial neural networks, which are sophisticated computational models designed to recognize patterns and solve complex problems by learning from data. However, a major bottleneck occurs during a device's calculation of weighted sums for forward propagation and optimization procedure for backpropagation, especially for deep neural networks, or networks with numerous layers. Exploration into different methods of implementing neural networks is necessary for further advancement of the area. While a great deal of research into AI hardware in both directions, analog and digital implementation widely exists, much of the existing survey works lacks discussion on the progress of analog deep learning. To this end, we attempt to evaluate and specify the advantages and disadvantages, along with the current progress with regards to deep learning, for analog implementations. In this paper, our focus lies on the comprehensive examination of eight distinct analog deep learning methodologies across multiple key parameters. These parameters include attained accuracy levels, application domains, algorithmic advancements, computational speed, and considerations of energy efficiency and power consumption. We also identify the neural network-based experiments implemented using these hardware devices and discuss comparative performance achieved by the different analog deep learning methods along with an analysis of their current limitations. Overall, we find that Analog Deep Learning has great potential for future consumer-level applications, but there is still a long road ahead in terms of scalability. Most of the current implementations are more proof of concept and are not yet practically deployable for large-scale models.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:33:10.288Z

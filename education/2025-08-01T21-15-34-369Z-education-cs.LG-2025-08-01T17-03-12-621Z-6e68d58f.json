@@ -1,0 +1,12 @@
+# Brain-Inspired Continual Learning-Robust Feature Distillation and Re-Consolidation for Class Incremental Learning
+
+**Authors:** Hikmat Khan, Nidhal Carla Bouaynaya, Ghulam Rasool
+
+## Summary
+Artificial intelligence (AI) and neuroscience share a rich history, with advancements in neuroscience shaping the development of AI systems capable of human-like knowledge retention. Leveraging insights from neuroscience and existing research in adversarial and continual learning, we introduce a novel framework comprising two core concepts: feature distillation and re-consolidation. Our framework, named Robust Rehearsal, addresses the challenge of catastrophic forgetting inherent in continual learning (CL) systems by distilling and rehearsing robust features. Inspired by the mammalian brain's memory consolidation process, Robust Rehearsal aims to emulate the rehearsal of distilled experiences during learning tasks. Additionally, it mimics memory re-consolidation, where new experiences influence the integration of past experiences to mitigate forgetting. Extensive experiments conducted on CIFAR10, CIFAR100, and real-world helicopter attitude datasets showcase the superior performance of CL models trained with Robust Rehearsal compared to baseline methods. Furthermore, examining different optimization training objectives-joint, continual, and adversarial learning-we highlight the crucial role of feature learning in model performance. This underscores the significance of rehearsing CL-robust samples in mitigating catastrophic forgetting. In conclusion, aligning CL approaches with neuroscience insights offers promising solutions to the challenge of catastrophic forgetting, paving the way for more robust and human-like AI systems.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T17:03:12.621Z

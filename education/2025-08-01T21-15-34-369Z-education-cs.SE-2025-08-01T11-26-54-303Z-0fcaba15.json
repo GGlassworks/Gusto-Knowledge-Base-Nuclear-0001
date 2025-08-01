@@ -1,0 +1,12 @@
+# Deep Learning Framework Testing via Heuristic Guidance Based on Multiple Model Measurements
+
+**Authors:** Yinglong Zou, Juan Zhai, Chunrong Fang, Yanzhou Mu, Jiawei Liu, Zhenyu Chen
+
+## Summary
+Deep learning frameworks serve as the foundation for developing and deploying deep learning applications. To enhance the quality of deep learning frameworks, researchers have proposed numerous testing methods using deep learning models as test inputs. However, existing methods predominantly measure model bug detection effectiveness as heuristic indicators, presenting three critical limitations: Firstly, existing methods fail to quantitatively measure model's operator combination variety, potentially missing critical operator combinations that could trigger framework bugs. Secondly, existing methods neglect measuring model execution time, resulting in the omission of numerous models potential for detecting more framework bugs within limited testing time. Thirdly, existing methods overlook correlation between different model measurements, relying simply on single-indicator heuristic guidance without considering their trade-offs. To overcome these limitations, we propose DLMMM, the first deep learning framework testing method to include multiple model measurements into heuristic guidance and fuse these measurements to achieve their trade-off. DLMMM firstly quantitatively measures model's bug detection performance, operator combination variety, and model execution time. After that, DLMMM fuses the above measurements based on their correlation to achieve their trade-off. To further enhance testing effectiveness, DLMMM designs multi-level heuristic guidance for test input model generation.
+
+
+---
+Category: education
+Subcategory: cs.SE
+Collected: 2025-08-01T11:26:54.304Z

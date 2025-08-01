@@ -1,0 +1,12 @@
+# Off-the-grid model based deep learning (O-MODL)
+
+**Authors:** Aniket Pramanik, Hemant Kumar Aggarwal, Mathews Jacob
+
+## Summary
+We introduce a model based off-the-grid image reconstruction algorithm using deep learned priors. The main difference of the proposed scheme with current deep learning strategies is the learning of non-linear annihilation relations in Fourier space. We rely on a model based framework, which allows us to use a significantly smaller deep network, compared to direct approaches that also learn how to invert the forward model. Preliminary comparisons against image domain MoDL approach demonstrates the potential of the off-the-grid formulation. The main benefit of the proposed scheme compared to structured low-rank methods is the quite significant reduction in computational complexity.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:52.137Z

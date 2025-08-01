@@ -1,0 +1,12 @@
+# DeepSI: Interactive Deep Learning for Semantic Interaction
+
+**Authors:** Yali Bian, Chris North
+
+## Summary
+In this paper, we design novel interactive deep learning methods to improve semantic interactions in visual analytics applications. The ability of semantic interaction to infer analysts' precise intents during sensemaking is dependent on the quality of the underlying data representation. We propose the $\text{DeepSI}_{\text{finetune}}$ framework that integrates deep learning into the human-in-the-loop interactive sensemaking pipeline, with two important properties. First, deep learning extracts meaningful representations from raw data, which improves semantic interaction inference. Second, semantic interactions are exploited to fine-tune the deep learning representations, which then further improves semantic interaction inference. This feedback loop between human interaction and deep learning enables efficient learning of user- and task-specific representations. To evaluate the advantage of embedding the deep learning within the semantic interaction loop, we compare $\text{DeepSI}_{\text{finetune}}$ against a state-of-the-art but more basic use of deep learning as only a feature extractor pre-processed outside of the interactive loop. Results of two complementary studies, a human-centered qualitative case study and an algorithm-centered simulation-based quantitative experiment, show that $\text{DeepSI}_{\text{finetune}}$ more accurately captures users' complex mental models with fewer interactions.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:02.686Z

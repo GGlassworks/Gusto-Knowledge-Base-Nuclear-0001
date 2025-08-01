@@ -1,0 +1,12 @@
+# Deep Learning on Mobile Devices - A Review
+
+**Authors:** Yunbin Deng
+
+## Summary
+Recent breakthroughs in deep learning and artificial intelligence technologies have enabled numerous mobile applications. While traditional computation paradigms rely on mobile sensing and cloud computing, deep learning implemented on mobile devices provides several advantages. These advantages include low communication bandwidth, small cloud computing resource cost, quick response time, and improved data privacy. Research and development of deep learning on mobile and embedded devices has recently attracted much attention. This paper provides a timely review of this fast-paced field to give the researcher, engineer, practitioner, and graduate student a quick grasp on the recent advancements of deep learning on mobile devices. In this paper, we discuss hardware architectures for mobile deep learning, including Field Programmable Gate Arrays, Application Specific Integrated Circuit, and recent mobile Graphic Processing Units. We present Size, Weight, Area and Power considerations and their relation to algorithm optimizations, such as quantization, pruning, compression, and approximations that simplify computation while retaining performance accuracy. We cover existing systems and give a state-of-the-industry review of TensorFlow, MXNet, Mobile AI Compute Engine, and Paddle-mobile deep learning platform. We discuss resources for mobile deep learning practitioners, including tools, libraries, models, and performance benchmarks. We present applications of various mobile sensing modalities to industries, ranging from robotics, healthcare and multi-media, biometrics to autonomous drive and defense. We address the key deep learning challenges to overcome, including low quality data, and small training/adaptation data sets. In addition, the review provides numerous citations and links to existing code bases implementing various technologies.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:33:10.801Z

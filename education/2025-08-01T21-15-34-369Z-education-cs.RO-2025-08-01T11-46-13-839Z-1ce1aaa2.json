@@ -1,0 +1,12 @@
+# Self learning robot using real-time neural networks
+
+**Authors:** Chirag Gupta, Chikita Nangia, Chetan Kumar
+
+## Summary
+With the advancements in high volume, low precision computational technology and applied research on cognitive artificially intelligent heuristic systems, machine learning solutions through neural networks with real-time learning has seen an immense interest in the research community as well the industry. This paper involves research, development and experimental analysis of a neural network implemented on a robot with an arm through which evolves to learn to walk in a straight line or as required. The neural network learns using the algorithms of Gradient Descent and Backpropagation. Both the implementation and training of the neural network is done locally on the robot on a raspberry pi 3 so that its learning process is completely independent. The neural network is first tested on a custom simulator developed on MATLAB and then implemented on the raspberry computer. Data at each generation of the evolving network is stored, and analysis both mathematical and graphical is done on the data. Impact of factors like the learning rate and error tolerance on the learning process and final output is analyzed.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T11:46:13.839Z

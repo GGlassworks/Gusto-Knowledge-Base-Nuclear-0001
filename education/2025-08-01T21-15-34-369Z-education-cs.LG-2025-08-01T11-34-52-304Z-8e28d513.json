@@ -1,0 +1,12 @@
+# Low-Shot Classification: A Comparison of Classical and Deep Transfer Machine Learning Approaches
+
+**Authors:** Peter Usherwood, Steven Smit
+
+## Summary
+Despite the recent success of deep transfer learning approaches in NLP, there is a lack of quantitative studies demonstrating the gains these models offer in low-shot text classification tasks over existing paradigms. Deep transfer learning approaches such as BERT and ULMFiT demonstrate that they can beat state-of-the-art results on larger datasets, however when one has only 100-1000 labelled examples per class, the choice of approach is less clear, with classical machine learning and deep transfer learning representing valid options. This paper compares the current best transfer learning approach with top classical machine learning approaches on a trinary sentiment classification task to assess the best paradigm. We find that BERT, representing the best of deep transfer learning, is the best performing approach, outperforming top classical machine learning algorithms by 9.7% on average when trained with 100 examples per class, narrowing to 1.8% at 1000 labels per class. We also show the robustness of deep transfer learning in moving across domains, where the maximum loss in accuracy is only 0.7% in similar domain tasks and 3.2% cross domain, compared to classical machine learning which loses up to 20.6%.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:52.304Z

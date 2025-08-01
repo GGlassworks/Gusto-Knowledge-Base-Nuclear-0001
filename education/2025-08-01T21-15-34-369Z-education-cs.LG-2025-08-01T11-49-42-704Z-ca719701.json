@@ -1,0 +1,12 @@
+# Effects of structural properties of neural networks on machine learning performance
+
+**Authors:** Yash Arya, Sang Hoon Lee
+
+## Summary
+In recent years, graph-based machine learning techniques, such as reinforcement learning and graph neural networks, have garnered significant attention. While some recent studies have started to explore the relationship between the graph structure of neural networks and their predictive performance, they often limit themselves to a narrow range of model networks, particularly lacking mesoscale structures such as communities. Our work advances this area by conducting a more comprehensive investigation, incorporating realistic network structures characterized by heterogeneous degree distributions and community structures, which are typical characteristics of many real networks. These community structures offer a nuanced perspective on network architecture. Our analysis employs model networks such as random and scale-free networks, alongside a comparison with a biological neural network and its subsets for more detailed analysis. We examine the impact of these structural attributes on the performance of image classification tasks. Our findings reveal that structural properties do affect performance to some extent. Specifically, networks featuring coherent, densely interconnected communities demonstrate enhanced learning capabilities. The comparison with the biological neural network emphasizes the relevance of our findings to real-world structures, suggesting an intriguing connection worth further exploration. This study contributes meaningfully to network science and machine learning, providing insights that could inspire the design of more biologically informed neural networks.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:49:42.704Z

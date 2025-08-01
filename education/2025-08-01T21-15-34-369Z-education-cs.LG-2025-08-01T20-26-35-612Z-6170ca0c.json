@@ -1,0 +1,12 @@
+# Inverse Reinforcement Learning using Revealed Preferences and Passive Stochastic Optimization
+
+**Authors:** Vikram Krishnamurthy
+
+## Summary
+This monograph, spanning three chapters, explores Inverse Reinforcement Learning (IRL). The first two chapters view inverse reinforcement learning (IRL) through the lens of revealed preferences from microeconomics while the third chapter studies adaptive IRL via Langevin dynamics stochastic gradient algorithms. Chapter uses classical revealed preference theory (Afriat's theorem and extensions) to identify constrained utility maximizers based on observed agent actions. This allows for the reconstruction of set-valued estimates of an agent's utility. We illustrate this procedure by identifying the presence of a cognitive radar and reconstructing its utility function. The chapter also addresses the construction of a statistical detector for utility maximization behavior when agent actions are corrupted by noise. Chapter 2 studies Bayesian IRL. It investigates how an analyst can determine if an observed agent is a rationally inattentive Bayesian utility maximizer (i.e., simultaneously optimizing its utility and observation likelihood). The chapter discusses inverse stopping-time problems, focusing on reconstructing the continuation and stopping costs of a Bayesian agent operating over a random horizon. We then apply this IRL methodology to identify the presence of a Bayes-optimal sequential detector. Additionally, Chapter 2 provides a concise overview of discrete choice models, inverse Bayesian filtering, and inverse stochastic gradient algorithms for adaptive IRL. Finally, Chapter 3 introduces an adaptive IRL approach utilizing passive Langevin dynamics. This method aims to track time-varying utility functions given noisy and misspecified gradients. In essence, the adaptive IRL algorithms presented in Chapter 3 can be conceptualized as inverse stochastic gradient algorithms, as they learn the utility function in real-time while a stochastic gradient algorithm is in operation.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T20:26:35.613Z

@@ -1,0 +1,12 @@
+# Impact of Deep Learning Libraries on Online Adaptive Lightweight Time Series Anomaly Detection
+
+**Authors:** Ming-Chang Lee, Jia-Chun Lin
+
+## Summary
+Providing online adaptive lightweight time series anomaly detection without human intervention and domain knowledge is highly valuable. Several such anomaly detection approaches have been introduced in the past years, but all of them were only implemented in one deep learning library. With the development of deep learning libraries, it is unclear how different deep learning libraries impact these anomaly detection approaches since there is no such evaluation available. Randomly choosing a deep learning library to implement an anomaly detection approach might not be able to show the true performance of the approach. It might also mislead users in believing one approach is better than another. Therefore, in this paper, we investigate the impact of deep learning libraries on online adaptive lightweight time series anomaly detection by implementing two state-of-the-art anomaly detection approaches in three well-known deep learning libraries and evaluating how these two approaches are individually affected by the three deep learning libraries. A series of experiments based on four real-world open-source time series datasets were conducted. The results provide a good reference to select an appropriate deep learning library for online adaptive lightweight anomaly detection.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:33:10.365Z

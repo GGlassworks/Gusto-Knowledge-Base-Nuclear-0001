@@ -1,0 +1,12 @@
+# How to fine-tune deep neural networks in few-shot learning?
+
+**Authors:** Peng Peng, Jiugen Wang
+
+## Summary
+Deep learning has been widely used in data-intensive applications. However, training a deep neural network often requires a large data set. When there is not enough data available for training, the performance of deep learning models is even worse than that of shallow networks. It has been proved that few-shot learning can generalize to new tasks with few training samples. Fine-tuning of a deep model is simple and effective few-shot learning method. However, how to fine-tune deep learning models (fine-tune convolution layer or BN layer?) still lack deep investigation. Hence, we study how to fine-tune deep models through experimental comparison in this paper. Furthermore, the weight of the models is analyzed to verify the feasibility of the fine-tuning method.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:52.584Z

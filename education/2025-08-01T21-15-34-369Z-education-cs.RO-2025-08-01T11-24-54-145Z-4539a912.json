@@ -1,0 +1,12 @@
+# Autonomous Navigation of Unmanned Vehicle Through Deep Reinforcement Learning
+
+**Authors:** Letian Xu, Jiabei Liu, Haopeng Zhao, Tianyao Zheng, Tongzhou Jiang, Lipeng Liu
+
+## Summary
+This paper explores the method of achieving autonomous navigation of unmanned vehicles through Deep Reinforcement Learning (DRL). The focus is on using the Deep Deterministic Policy Gradient (DDPG) algorithm to address issues in high-dimensional continuous action spaces. The paper details the model of a Ackermann robot and the structure and application of the DDPG algorithm. Experiments were conducted in a simulation environment to verify the feasibility of the improved algorithm. The results demonstrate that the DDPG algorithm outperforms traditional Deep Q-Network (DQN) and Double Deep Q-Network (DDQN) algorithms in path planning tasks.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T11:24:54.145Z

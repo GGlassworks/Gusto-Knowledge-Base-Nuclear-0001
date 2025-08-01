@@ -1,0 +1,12 @@
+# A Comparison of the Delta Method and the Bootstrap in Deep Learning Classification
+
+**Authors:** Geir K. Nilsen, Antonella Z. Munthe-Kaas, Hans J. Skaug, Morten Brun
+
+## Summary
+We validate the recently introduced deep learning classification adapted Delta method by a comparison with the classical Bootstrap. We show that there is a strong linear relationship between the quantified predictive epistemic uncertainty levels obtained from the two methods when applied on two LeNet-based neural network classifiers using the MNIST and CIFAR-10 datasets. Furthermore, we demonstrate that the Delta method offers a five times computation time reduction compared to the Bootstrap.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:53.350Z

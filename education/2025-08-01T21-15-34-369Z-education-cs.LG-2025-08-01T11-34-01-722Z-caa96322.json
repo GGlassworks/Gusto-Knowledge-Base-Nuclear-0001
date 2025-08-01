@@ -1,0 +1,12 @@
+# Toybox: A Suite of Environments for Experimental Evaluation of Deep Reinforcement Learning
+
+**Authors:** Emma Tosch, Kaleigh Clary, John Foley, David Jensen
+
+## Summary
+Evaluation of deep reinforcement learning (RL) is inherently challenging. In particular, learned policies are largely opaque, and hypotheses about the behavior of deep RL agents are difficult to test in black-box environments. Considerable effort has gone into addressing opacity, but almost no effort has been devoted to producing high quality environments for experimental evaluation of agent behavior. We present TOYBOX, a new high-performance, open-source* subset of Atari environments re-designed for the experimental evaluation of deep RL. We show that TOYBOX enables a wide range of experiments and analyses that are impossible in other environments. *https://kdl-umass.github.io/Toybox/
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:01.722Z

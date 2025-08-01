@@ -1,0 +1,12 @@
+# Machine Learning Techniques for Pattern Recognition in High-Dimensional Data Mining
+
+**Authors:** Pochun Li
+
+## Summary
+This paper proposes a frequent pattern data mining algorithm based on support vector machine (SVM), aiming to solve the performance bottleneck of traditional frequent pattern mining algorithms in high-dimensional and sparse data environments. By converting the frequent pattern mining task into a classification problem, the SVM model is introduced to improve the accuracy and robustness of pattern extraction. In terms of method design, the kernel function is used to map the data to a high-dimensional feature space, so as to construct the optimal classification hyperplane, realize the nonlinear separation of patterns and the accurate mining of frequent items. In the experiment, two public datasets, Retail and Mushroom, were selected to compare and analyze the proposed algorithm with traditional FP-Growth, FP-Tree, decision tree and random forest models. The experimental results show that the algorithm in this paper is significantly better than the traditional model in terms of three key indicators: support, confidence and lift, showing strong pattern recognition ability and rule extraction effect. The study shows that the SVM model has excellent performance advantages in an environment with high data sparsity and a large number of transactions, and can effectively cope with complex pattern mining tasks. At the same time, this paper also points out the potential direction of future research, including the introduction of deep learning and ensemble learning frameworks to further improve the scalability and adaptability of the algorithm. This research not only provides a new idea for frequent pattern mining, but also provides important technical support for solving pattern discovery and association rule mining problems in practical applications.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T19:28:31.581Z

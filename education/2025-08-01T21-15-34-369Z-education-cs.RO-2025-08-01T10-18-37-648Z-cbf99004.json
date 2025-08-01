@@ -1,0 +1,12 @@
+# Development of a Multi-Fingered Soft Gripper Digital Twin for Machine Learning-based Underactuated Control
+
+**Authors:** Wu-Te Yang, Pei-Chun Lin
+
+## Summary
+Soft robots, made from compliant materials, exhibit complex dynamics due to their flexibility and high degrees of freedom. Controlling soft robots presents significant challenges, particularly underactuation, where the number of inputs is fewer than the degrees of freedom. This research aims to develop a digital twin for multi-fingered soft grippers to advance the development of underactuation algorithms. The digital twin is designed to capture key effects observed in soft robots, such as nonlinearity, hysteresis, uncertainty, and time-varying phenomena, ensuring it closely replicates the behavior of a real-world soft gripper. Uncertainty is simulated using the Monte Carlo method. With the digital twin, a Q-learning algorithm is preliminarily applied to identify the optimal motion speed that minimizes uncertainty caused by the soft robots. Underactuated motions are successfully simulated within this environment. This digital twin paves the way for advanced machine learning algorithm training.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T10:18:37.649Z

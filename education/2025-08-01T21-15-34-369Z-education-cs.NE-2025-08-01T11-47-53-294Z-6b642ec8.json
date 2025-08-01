@@ -1,0 +1,12 @@
+# Implementing Online Reinforcement Learning with Temporal Neural Networks
+
+**Authors:** James E. Smith
+
+## Summary
+A Temporal Neural Network (TNN) architecture for implementing efficient online reinforcement learning is proposed and studied via simulation. The proposed T-learning system is composed of a frontend TNN that implements online unsupervised clustering and a backend TNN that implements online reinforcement learning. The reinforcement learning paradigm employs biologically plausible neo-Hebbian three-factor learning rules. As a working example, a prototype implementation of the cart-pole problem (balancing an inverted pendulum) is studied via simulation.
+
+
+---
+Category: education
+Subcategory: cs.NE
+Collected: 2025-08-01T11:47:53.294Z

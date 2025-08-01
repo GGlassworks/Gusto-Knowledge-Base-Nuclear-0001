@@ -1,0 +1,12 @@
+# Deep Causal Learning for Robotic Intelligence
+
+**Authors:** Yangming Li
+
+## Summary
+This invited review discusses causal learning in the context of robotic intelligence. The paper introduced the psychological findings on causal learning in human cognition, then it introduced the traditional statistical solutions on causal discovery and causal inference. The paper reviewed recent deep causal learning algorithms with a focus on their architectures and the benefits of using deep nets and discussed the gap between deep causal learning and the needs of robotic intelligence.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T11:24:54.214Z

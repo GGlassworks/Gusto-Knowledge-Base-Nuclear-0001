@@ -1,0 +1,12 @@
+# Adaptive Services Function Chain Orchestration For Digital Health Twin Use Cases: Heuristic-boosted Q-Learning Approach
+
+**Authors:** Jamila Alsayed Kassem, Li Zhong, Arie Taal, Paola Grosso
+
+## Summary
+Digital Twin (DT) is a prominent technology to utilise and deploy within the healthcare sector. Yet, the main challenges facing such applications are: Strict health data-sharing policies, high-performance network requirements, and possible infrastructure resource limitations. In this paper, we address all the challenges by provisioning adaptive Virtual Network Functions (VNFs) to enforce security policies associated with different data-sharing scenarios. We define a Cloud-Native Network orchestrator on top of a multi-node cluster mesh infrastructure for flexible and dynamic container scheduling. The proposed framework considers the intended data-sharing use case, the policies associated, and infrastructure configurations, then provision Service Function Chaining (SFC) and provides routing configurations accordingly with little to no human intervention. Moreover, what is \textit{optimal} when deploying SFC is dependent on the use case itself, and we tune the hyperparameters to prioritise resource utilisation or latency in an effort to comply with the performance requirements. As a result, we provide an adaptive network orchestration for digital health twin use cases, that is policy-aware, requirements-aware, and resource-aware.
+
+
+---
+Category: education
+Subcategory: cs.NI
+Collected: 2025-08-01T10:14:17.932Z

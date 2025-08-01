@@ -1,0 +1,12 @@
+# Deep Learning for Visual Navigation of Underwater Robots
+
+**Authors:** M. Sunbeam
+
+## Summary
+This paper aims to briefly survey deep learning methods for visual navigation of underwater robotics. The scope of this paper includes the visual perception of underwater robotics with deep learning methods, the available visual underwater datasets, imitation learning, and reinforcement learning methods for navigation. Additionally, relevant works will be categorized under the imitation learning or deep learning paradigm for underwater robots for clarity of the training methodologies in the current landscape. Literature that uses deep learning algorithms to process non-visual data for underwater navigation will not be considered, except as contrasting examples.
+
+
+---
+Category: education
+Subcategory: cs.RO
+Collected: 2025-08-01T11:24:54.576Z

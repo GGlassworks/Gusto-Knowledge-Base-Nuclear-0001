@@ -1,0 +1,12 @@
+# ANNdotNET -- deep learning tool on .NET Platform
+
+**Authors:** Bahrudin Hrnjica
+
+## Summary
+ANNdotNET is an open source project for deep learning written in C# with ability to create, train, evaluate and export deep learning models. The project consists of the Graphical User Interface module capable to visually prepare data, fine tune hyper-parameters, design network architecture, evaluate and test trained models. The ANNdotNET introduces the Visual Network Designer, (VND) for visually design almost any sequential deep learning network. Beside VND, ANNdotNET implements Machine Learning Engine, (MLE) based on CNTK - deep learning framework, with ability to train and evaluate models on GPU. For model evaluation ANNdotNET contains rich set of visual and descriptive performance parameters, history of the training process and set of export/deployment options. The advantage of using ANNdotNET over the classic code based ML approach is more focus on deep learning network design and training process instead of focusing on coding and debugging. It is ideal for engineers not familiar with supported programming languages. The project is hosted at github.com/bhrnjica/anndotnet.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:34:02.150Z
