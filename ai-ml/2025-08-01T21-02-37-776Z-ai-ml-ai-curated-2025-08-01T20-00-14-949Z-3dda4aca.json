@@ -1,0 +1,13 @@
+# ETL and HTL Engineering in CH3NH3PbBr3 Perovskite for Stable and Efficient Performance Photovoltaic Devices Applications using SCAPS‐ 1D
+
+**Authors:** Mohammad Hasin Ishraq, Md Raihan Kabir, Md. Tarekuzzaman, Md. Ferdous Rahman, Md. Rasheduzzaman, M. Hasan
+
+## Abstract
+Perovskite solar cells are increasingly acknowledged for their unique characteristics. This study focuses on simulating the impact of methylammonium lead bromide‐based perovskites, as the absorber in perovskite solar cells using the SCAPS‐1D simulator. The research delves into how the performance of these solar cells is affected by the choice of Electron Transport Layers (TiO2, PCBM, SnO2, and ZnO) and Hole Transport Layer (Cu2O) with Ni and Al as the back and front contact. This investigation marks the first comprehensive exploration of CH3NH3PbBr3. The performance of these device architectures is significantly influenced by factors such as defect density, absorber thickness, ETL thickness, and the combination of different ETLs. The power conversion efficiencies of devices optimized with TiO2, PCBM, SnO2, and ZnO are found to be 15.46%, 15.33%, 15.01%, and 14.99%, respectively. Furthermore, this study elucidates the impact of absorber and HTL thickness. Also, they have discussed the VBO, CBO for different ETLs. Additionally, the effects of series resistance, shunt resistance are examined, operating temperature, quantum efficiency (QE), capacitance‐voltage characteristics, generation and recombination rates, current density‐voltage (J‐V), and impedance analysis of the devices. Through this extensive simulation study, researchers are equipped to develop cost‐effective and highly efficient PSCs, thereby advancing solar technology.
+
+**Source:** https://www.semanticscholar.org/paper/1a9eb40304fa74f844f73a3c0d9d0dd9dc9a2676
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T20:00:14.950Z

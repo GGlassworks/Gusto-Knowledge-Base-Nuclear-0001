@@ -1,0 +1,12 @@
+# Analyzing Stability of Equilibrium Points in Neural Networks: A General Approach
+
+**Authors:** Wilson A. Truccolo, Govindan Rangarajan, Yonghong Chen, Mingzhou Ding
+
+## Summary
+Networks of coupled neural systems represent an important class of models in computational neuroscience. In some applications it is required that equilibrium points in these networks remain stable under parameter variations. Here we present a general methodology to yield explicit constraints on the coupling strengths to ensure the stability of the equilibrium point. Two models of coupled excitatory-inhibitory oscillators are used to illustrate the approach.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.dis-nn
+Collected: 2025-08-01T11:44:25.247Z

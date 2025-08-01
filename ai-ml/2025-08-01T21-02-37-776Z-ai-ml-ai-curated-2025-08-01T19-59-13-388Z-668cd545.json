@@ -1,0 +1,13 @@
+# Applying the ETL Process to Blockchain Data. Prospect and Findings
+
+**Authors:** Roberta Galici, Laura Ordile, M. Marchesi, A. Pinna, R. Tonelli
+
+## Abstract
+We present a novel strategy, based on the Extract, Transform and Load (ETL) process, to collect data from a blockchain, elaborate and make it available for further analysis. The study aims to satisfy the need for increasingly efficient data extraction strategies and effective representation methods for blockchain data. For this reason, we conceived a system to make scalable the process of blockchain data extraction and clustering, and to provide a SQL database which preserves the distinction between transaction and addresses. The proposed system satisfies the need to cluster addresses in entities, and the need to store the extracted data in a conventional database, making possible the data analysis by querying the database. In general, ETL processes allow the automation of the operation of data selection, data collection and data conditioning from a data warehouse, and produce output data in the best format for subsequent processing or for business. We focus on the Bitcoin blockchain transactions, which we organized in a relational database to distinguish between the input section and the output section of each transaction. We describe the implementation of address clustering algorithms specific for the Bitcoin blockchain and the process to collect and transform data and to load them in the database. To balance the input data rate with the elaboration time, we manage blockchain data according to the lambda architecture. To evaluate our process, we first analyzed the performances in terms of scalability, and then we checked its usability by analyzing loaded data. Finally, we present the results of a toy analysis, which provides some findings about blockchain data, focusing on a comparison between the statistics of the last year of transactions, and previous results of historical blockchain data found in the literature. The ETL process we realized to analyze blockchain data is proven to be able to perform a reliable and scalable data acquisition process, whose result makes stored data available for further analysis and business.
+
+**Source:** https://www.semanticscholar.org/paper/1520d51ed65c6040d0ff8d86054d49760deba37f
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:59:13.388Z

@@ -1,0 +1,13 @@
+# There and back again: Outlier detection between statistical reasoning and data mining algorithms
+
+**Authors:** Arthur Zimek, P. Filzmoser
+
+## Abstract
+Outlier detection has been a topic in statistics for centuries. Over mainly the last two decades, there has been also an increasing interest in the database and data mining community to develop scalable methods for outlier detection. Initially based on statistical reasoning, however, these methods soon lost the direct probabilistic interpretability of the derived outlier scores. Here, we detail from a joint point of view of data mining and statistics the roots and the path of development of statistical outlier detection and of database‐related data mining methods for outlier detection. We discuss their inherent meaning, review approaches to again find a statistically meaningful interpretation of outlier scores, and sketch related current research topics.
+
+**Source:** https://www.semanticscholar.org/paper/29908e7b3145d9626201a08c4b91f65cc2d1e37d
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:13.808Z

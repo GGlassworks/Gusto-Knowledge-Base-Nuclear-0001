@@ -1,0 +1,13 @@
+# Computational intelligence based sustainable computing with classification model for big data visualization on map reduce environment
+
+**Authors:** Zheng Xu
+
+## Abstract
+In recent years, the researchers have perceived the modifications or transformations motivated by the presence of big data on the definition, complexity, and future direction of the real world optimization problems. Big Data visualization is mainly based on the efficient computer system for ingesting actual data and producing graphical representation for understanding large quantity of data in a fraction of seconds. At the same time, clustering is an effective data mining tool used to analyze big data and computational intelligence (CI) techniques can be employed to solve big data classification process. In this aspect, this study develops a novel Computational Intelligence based Clustering with Classification Model for Big Data Visualization on Map Reduce Environment, named CICC-BDVMR technique. The proposed CICC-BDVMR technique intends to perform effective BDV using the clustering and data classification processes on the Map Reduce environment. For clustering process, a grasshopper optimization algorithm (GOA) with kernelized fuzzy c-means (KFCM) technique is used to cluster the big data and the GOA is mainly utilized to determine the initial cluster centers of the KFCM technique. GOA is a recently proposed metaheuristic algorithm inspired by the swarming behaviour of grasshoppers. This algorithm has been shown to be efficient in tackling global unconstrained and constrained optimization problems. Based on the modified GOA, an effective kernel extreme learning machine model for financial stress prediction was created. Besides, big data classification process takes place using the Ridge Regression (RR) and the parameter optimization of the RR model is carried out via the Red Colobuses Monkey (RCM) algorithm. The design of GOA and RCM algorithms for parameter optimization processes for big data classification shows the novelty of the study. A wide ranging simulation analysis is carried out using benchmark big datasets and the comparative results reported the enhanced outcomes of the CICC-BDVMR technique over the recent state of art approaches. The broad comparison research illustrates the CICC-BDVMR approach’s promising performance against contemporary state-of-the-art techniques. As a result, the CICC-BDVMR technique has been demonstrated to be an effective technique for visualising and classifying large amounts of data.
+
+**Source:** https://www.semanticscholar.org/paper/afbb65c684d6cdbd0735d5ca43f0b05c2dd461d8
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:45:40.836Z

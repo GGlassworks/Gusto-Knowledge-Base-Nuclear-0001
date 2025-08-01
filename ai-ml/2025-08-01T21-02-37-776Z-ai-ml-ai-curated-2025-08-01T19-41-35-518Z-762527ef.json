@@ -1,0 +1,13 @@
+# Improving daily stochastic streamflow prediction: comparison of novel hybrid data-mining algorithms
+
+**Authors:** K. Khosravi, A. Golkarian, M. Booij, R. Barzegar, Wei Sun, Z. Yaseen, A. Mosavi
+
+## Abstract
+ABSTRACT In the current paper, the efficiency of three new standalone data-mining algorithms [M5 Prime (M5P), Random Forest (RF), M5Rule (M5R)] and six novel hybrid algorithms of bagging (BA-M5P, BA-RF and BA-M5R) and Attribute Selected Classifier (ASC-M5P, ASC-RF and ASC-M5R) for streamflow prediction were assessed and compared with an autoregressive integrated moving average (ARIMA) model as a benchmark. The models used precipitation (P) and streamflow (Q) data from the period 1979–2012 for training and validation (70% and 30% of data, respectively). Different input combinations were prepared using both P and Q with different lag times. The best input combination proved to be that in which all of the the data were used (i.e. R and Q – with lag times). Overall, employing Q with different lag times proved to be more effective than using only P as input for streamflow prediction. Although all models showed very good predictive power, BA-M5P outperformed the other models.
+
+**Source:** https://www.semanticscholar.org/paper/9bbf02b56752a523f43c19ddd60deb2beff35ac3
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:41:35.518Z

@@ -1,0 +1,13 @@
+# Big Data and AI-Driven Product Design: A Survey
+
+**Authors:** Huafeng Quan, Shaobo Li, Changchang Zeng, Hongjing Wei, Jianjun Hu
+
+## Abstract
+As living standards improve, modern products need to meet increasingly diversified and personalized user requirements. Traditional product design methods fall short due to their strong subjectivity, limited survey scope, lack of real-time data, and poor visual display. However, recent progress in big data and artificial intelligence (AI) are bringing a transformative big data and AI-driven product design methodology with a significant impact on many industries. Big data in the product lifecycle contains valuable information, such as customer preferences, market demands, product evaluation, and visual display: online product reviews reflect customer evaluations and requirements, while product images contain shape, color, and texture information that can inspire designers to quickly generate initial design schemes or even new product images. This survey provides a comprehensive review of big data and AI-driven product design, focusing on how big data of various modalities can be processed, analyzed, and exploited to aid product design using AI algorithms. It identifies the limitations of traditional product design methods and shows how textual, image, audio, and video data in product design cycles can be utilized to achieve much more intelligent product design. We finally discuss the major deficiencies of existing data-driven product design studies and outline promising future research directions and opportunities, aiming to draw increasing attention to modern AI-driven product design.
+
+**Source:** https://www.semanticscholar.org/paper/aa93c9771ffc1228d47b5de7f0421be3dec9dffb
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:19:09.598Z

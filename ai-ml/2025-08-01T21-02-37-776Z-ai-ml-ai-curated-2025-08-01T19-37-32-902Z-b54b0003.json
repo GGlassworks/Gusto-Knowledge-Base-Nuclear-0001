@@ -1,0 +1,13 @@
+# Data mining in predictive maintenance systems: A taxonomy and systematic review
+
+**Authors:** Aurora Esteban, A. Zafra, Sebastián Ventura
+
+## Abstract
+Predictive maintenance is a field of study whose main objective is to optimize the timing and type of maintenance to perform on various industrial systems. This aim involves maximizing the availability time of the monitored system and minimizing the number of resources used in maintenance. Predictive maintenance is currently undergoing a revolution thanks to advances in industrial systems monitoring within the Industry 4.0 paradigm. Likewise, advances in artificial intelligence and data mining allow the processing of a great amount of data to provide more accurate and advanced predictive models. In this context, many actors have become interested in predictive maintenance research, becoming one of the most active areas of research in computing, where academia and industry converge. The objective of this paper is to conduct a systematic literature review that provides an overview of the current state of research concerning predictive maintenance from a data mining perspective. The review presents a first taxonomy that implies different phases considered in any data mining process to solve a predictive maintenance problem, relating the predictive maintenance tasks with the main data mining tasks to solve them. Finally, the paper presents significant challenges and future research directions in terms of the potential of data mining applied to predictive maintenance.
+
+**Source:** https://www.semanticscholar.org/paper/7fe6330caea511ed8232fb49e361a50f55272393
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:37:32.902Z

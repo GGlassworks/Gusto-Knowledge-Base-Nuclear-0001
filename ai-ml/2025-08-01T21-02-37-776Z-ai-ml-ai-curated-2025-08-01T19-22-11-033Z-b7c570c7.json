@@ -1,0 +1,13 @@
+# The Research Development of Hedonic Price Model-Based Real Estate Appraisal in the Era of Big Data
+
+**Authors:** C. Wei, M. Fu, Li Wang, Hanbing Yang, Feng Tang, Yuqing Xiong
+
+## Abstract
+In the era of big data, advances in relevant technologies are profoundly impacting the field of real estate appraisal. Many scholars regard the integration of big data technology as an inevitable future trend in the real estate appraisal industry. In this paper, we summarize 124 studies investigating the use of big data technology to optimize real estate appraisal through the hedonic price model (HPM). We also list a variety of big data resources and key methods widely used in the real estate appraisal field. On this basis, the development of real estate appraisal moving forward is analyzed. The results obtained in the current studies are as follows: First, the big data resources currently applied to real estate appraisal include more than a dozen big data types from three data sources; the internet, remote sensing, and the Internet of things (IoT). Additionally, it was determined that web crawler technology represents the most important data acquisition method. Second, methods such as data pre-processing, spatial modeling, Geographic information system (GIS) spatial analysis, and the evolving machine learning methods with higher valuation accuracy were successfully introduced into the HPM due to the features of real estate big data. Finally, although the application of big data has greatly expanded the amount of available data and feature dimensions, this has caused a new problem: uneven data quality. Uneven data quality can reduce the accuracy of appraisal results, and, to date, insufficient attention has been paid to this issue. Future research should pay greater attention to the data integration of multi-source big data and absorb the applications developed in other disciplines. It is also important to combine various methods to form a new united evaluation model based on taking advantage of, and avoiding shortcomings to compensate for, the mechanism defects of a single model.
+
+**Source:** https://www.semanticscholar.org/paper/93863651be0df88973a39657e76dc2c96c1cab7d
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:22:11.033Z

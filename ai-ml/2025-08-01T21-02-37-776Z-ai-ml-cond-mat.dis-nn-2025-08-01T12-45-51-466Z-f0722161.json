@@ -1,0 +1,12 @@
+# The waiting-time distribution of LIFFE bond futures
+
+**Authors:** Marco Raberto, Enrico Scalas, Rudolf Gorenflo, Francesco Mainardi
+
+## Summary
+We apply the Continuous Time Random Walk (CTRW) framework, introduced in finance by Scalas et al., to the analysis of the probability distribution of time intervals between two consecutive trades in the case of BTP futures prices traded at LIFFE in 1997. Results corroborate the validity of the CTRW approach for the description of the temporal evolution of financial time series.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.dis-nn
+Collected: 2025-08-01T12:45:51.467Z

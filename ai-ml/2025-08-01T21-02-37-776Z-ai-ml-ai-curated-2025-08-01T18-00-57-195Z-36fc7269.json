@@ -1,0 +1,13 @@
+# Closed-Loop Neuroscience and Non-Invasive Brain Stimulation: A Tale of Two Loops
+
+**Authors:** C. Zrenner, Paolo Belardinelli, F. Müller‐Dahlhaus, U. Ziemann
+
+## Abstract
+Closed-loop neuroscience is receiving increasing attention with recent technological advances that enable complex feedback loops to be implemented with millisecond resolution on commodity hardware. We summarize emerging conceptual and methodological frameworks that are available to experimenters investigating a “brain in the loop” using non-invasive brain stimulation and briefly review the experimental and therapeutic implications. We take the view that closed-loop neuroscience in fact deals with two conceptually quite different loops: a “brain-state dynamics” loop, used to couple with and modulate the trajectory of neuronal activity patterns, and a “task dynamics” loop, that is the bidirectional motor-sensory interaction between brain and (simulated) environment, and which enables goal-directed behavioral tasks to be incorporated. Both loops need to be considered and combined to realize the full experimental and therapeutic potential of closed-loop neuroscience.
+
+**Source:** https://www.semanticscholar.org/paper/4470e8b1b00c1014618195264bcfe2a727bc98a2
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T18:00:57.195Z

@@ -1,0 +1,13 @@
+# Deep Insights into the Coupled Optoelectronic and Photovoltaic Analysis of Lead-Free CsSnI3 Perovskite-Based Solar Cell Using DFT Calculations and SCAPS-1D Simulations
+
+**Authors:** M. K. Hossain, G. F. Toki, D. P. Samajdar, M. Mushtaq, M. Rubel, R. Pandey, Jaya Madan, Mustafa K. A. Mohammed, Md. Rasidul Islam, Md. Ferdous Rahman, H. Bencherif
+
+## Abstract
+CsSnI3 is considered to be a viable alternative to lead (Pb)-based perovskite solar cells (PSCs) due to its suitable optoelectronic properties. The photovoltaic (PV) potential of CsSnI3 has not yet been fully explored due to its inherent difficulties in realizing defect-free device construction owing to the nonoptimized alignment of the electron transport layer (ETL), hole transport layer (HTL), efficient device architecture, and stability issues. In this work, initially, the structural, optical, and electronic properties of the CsSnI3 perovskite absorber layer were evaluated using the CASTEP program within the framework of the density functional theory (DFT) approach. The band structure analysis revealed that CsSnI3 is a direct band gap semiconductor with a band gap of 0.95 eV, whose band edges are dominated by Sn 5s/5p electrons After performing the DFT analysis, we investigated the PV performance of a variety of CsSnI3-based solar cell configurations utilizing a one-dimensional solar cell capacitance simulator (SCAPS-1D) with different competent ETLs such as IGZO, WS2, CeO2, TiO2, ZnO, PCBM, and C60. Simulation results revealed that the device architecture comprising ITO/ETL/CsSnI3/CuI/Au exhibited better photoconversion efficiency among more than 70 different configurations. The effect of the variation in the absorber, ETL, and HTL thickness on PV performance was analyzed for the above-mentioned configuration thoroughly. Additionally, the impact of series and shunt resistance, operating temperature, capacitance, Mott–Schottky, generation, and recombination rate on the six superior configurations were evaluated. The J–V characteristics and the quantum efficiency plots for these devices are systematically investigated for in-depth analysis. Consequently, this extensive simulation with validation results established the true potential of CsSnI3 absorber with suitable ETLs including ZnO, IGZO, WS2, PCBM, CeO2, and C60 ETLs and CuI as HTL, paving a constructive research path for the photovoltaic industry to fabricate cost-effective, high-efficiency, and nontoxic CsSnI3 PSCs.
+
+**Source:** https://www.semanticscholar.org/paper/cb52ce9d0b119d1c22689c1da70b3af7bcfbf31c
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T20:00:17.737Z

@@ -1,0 +1,13 @@
+# Spatially-embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings
+
+**Authors:** Jascha Achterberg, Danyal Akarca, D. Strouse, J. Duncan, D. Astle
+
+## Abstract
+Brain networks exist within the confines of resource limitations. As a result, a brain network must overcome metabolic costs of growing and sustaining the network within its physical space, while simultaneously implementing its required information processing. To observe the effect of these processes, we introduce the spatially-embedded recurrent neural network (seRNN). seRNNs learn basic task-related inferences while existing within a 3D Euclidean space, where the communication of constituent neurons is constrained by a sparse connectome. We find that seRNNs, similar to primate cerebral cortices, naturally converge on solving inferences using modular small-world networks, in which functionally similar units spatially configure themselves to utilize an energetically-efficient mixed-selective code. As all these features emerge in unison, seRNNs reveal how many common structural and functional brain motifs are strongly intertwined and can be attributed to basic biological optimization processes. seRNNs can serve as model systems to bridge between structural and functional research communities to move neuroscientific understanding forward.
+
+**Source:** https://www.semanticscholar.org/paper/073bcd142d29ec4c8f67dff1ec40958f14e92632
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:08.742Z

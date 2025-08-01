@@ -1,0 +1,13 @@
+# neuroAIx-Framework: design of future neuroscience simulation systems exhibiting execution of the cortical microcircuit model 20× faster than biological real-time
+
+**Authors:** Kevin Kauth, Tim Stadtmann, Vida Sobhani, T. Gemmeke
+
+## Abstract
+Introduction Research in the field of computational neuroscience relies on highly capable simulation platforms. With real-time capabilities surpassed for established models like the cortical microcircuit, it is time to conceive next-generation systems: neuroscience simulators providing significant acceleration, even for larger networks with natural density, biologically plausible multi-compartment models and the modeling of long-term and structural plasticity. Methods Stressing the need for agility to adapt to new concepts or findings in the domain of neuroscience, we have developed the neuroAIx-Framework consisting of an empirical modeling tool, a virtual prototype, and a cluster of FPGA boards. This framework is designed to support and accelerate the continuous development of such platforms driven by new insights in neuroscience. Results Based on design space explorations using this framework, we devised and realized an FPGA cluster consisting of 35 NetFPGA SUME boards. Discussion This system functions as an evaluation platform for our framework. At the same time, it resulted in a fully deterministic neuroscience simulation system surpassing the state of the art in both performance and energy efficiency. It is capable of simulating the microcircuit with 20× acceleration compared to biological real-time and achieves an energy efficiency of 48nJ per synaptic event.
+
+**Source:** https://www.semanticscholar.org/paper/6ab3709a5b712360f60d65d7c061d8d10d91680a
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T18:08:42.821Z

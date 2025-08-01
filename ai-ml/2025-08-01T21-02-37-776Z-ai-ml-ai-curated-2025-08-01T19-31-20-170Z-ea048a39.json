@@ -1,0 +1,13 @@
+# Shallow Landslide Susceptibility Modeling Using the Data Mining Models Artificial Neural Network and Boosted Tree
+
+**Authors:** H. Oh, Saro Lee
+
+## Abstract
+The main purpose of this paper is to present some potential applications of sophisticated data mining techniques, such as artificial neural network (ANN) and boosted tree (BT), for landslide susceptibility modeling in the Yongin area, Korea. Initially, landslide inventory was detected from visual interpretation using digital aerial photographic maps with a high resolution of 50 cm taken before and after the occurrence of landslides. The debris flows were randomly divided into two groups: training and validation sets with a 50:50 proportion. Additionally, 18 environmental factors related to landslide occurrence were derived from the topography, soil, and forest maps. Subsequently, the data mining techniques were applied to identify the influence of environmental factors on landslide occurrence of the training set and assess landslide susceptibility. Finally, the landslide susceptibility indexes from ANN and BT were compared with a validation set using a receiver operating characteristics curve. The slope gradient, topographic wetness index, and timber age appear to be important factors in landslide occurrence from both models. The validation result of ANN and BT showed 82.25% and 90.79%, which had reasonably good performance. The study shows the benefit of selecting optimal data mining techniques in landslide susceptibility modeling. This approach could be used as a guideline for choosing environmental factors on landslide occurrence and add influencing factors into landslide monitoring systems. Furthermore, this method can rank landslide susceptibility in urban areas, thus providing helpful information when selecting a landslide monitoring site and planning land-use.
+
+**Source:** https://www.semanticscholar.org/paper/f0023d5a1122d082787ca01aa585c11552c241bc
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:31:20.170Z

@@ -1,0 +1,12 @@
+# Neural Networks Processing Mean Values of Random Variables
+
+**Authors:** M. J. Barber, J. W. Clark, C. H. Anderson
+
+## Summary
+We introduce a class of neural networks derived from probabilistic models in the form of Bayesian belief networks. By imposing additional assumptions about the nature of the probabilistic models represented in the belief networks, we derive neural networks with standard dynamics that require no training to determine the synaptic weights, that can pool multiple sources of evidence, and that deal cleanly and consistently with inconsistent or contradictory evidence. The presented neural networks capture many properties of Bayesian belief networks, providing distributed versions of probabilistic models.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.dis-nn
+Collected: 2025-08-01T11:40:32.458Z

@@ -1,0 +1,13 @@
+# Big Data and Telemetry Data Methodology for Usage Failure Mode Detection
+
+**Authors:** Christopher D. Prazeres, Afonso Hachyia, Marcio Takahashi
+
+## Abstract
+Using current technologies, a single “entry level” vehicle has millions of electrical signals sent through dozens of modules, sensors and actuators, and those signals can be sent over the air, creating a telemetry data that can be used for several ends.One electrical device is set up to have diagnosis, in order to make maintenance feasible and support repair, plus giving improvement directions for specialists on new developments and specifications, but in several cases the diagnosis can only determine the mechanism of failure, but not the event that triggered that failure. Current evaluation method involves teardown, testing and knowledge from the involved specialized team, but this implies in recovering of failed parts, which in larger automakers with thousands of dealers/repair shops, reduces the sample for analyses when there is a systemic issue with one component. This specificity is usual in Propulsions systems, regarding electro-mechanical devices, and sensors, also in electrochemical devices, such as batteries and others, when a systemic issue appears, the teardown reveals its failure, but now why it failed.Based on that information and needs a methodology using big data mining and tools combined with available telemetry data in order to detect statistically main events or contributors/variables that triggers a failure event. That sort of methodology is helpful and more agile since it doesn’t depend on recovering of parts to give directions of which potential event may trigger a failure event, supporting in systemic/application comprehension of any component failure which uses electrical signals monitored within vehicle, and doesn’t depend on extraction of failed components, it can use and consider every single failed vehicle, for one specific component, as basis for analyses and identification of failure event, which will support in systemic correction/improvement and adjustment/improvement of specification for future and specific developments.
+
+**Source:** https://www.semanticscholar.org/paper/f045ed3f67fedc3468ab37120c7fece498ce6342
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:19:05.918Z

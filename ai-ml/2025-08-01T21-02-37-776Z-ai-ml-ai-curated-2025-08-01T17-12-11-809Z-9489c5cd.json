@@ -1,0 +1,13 @@
+# brainlife.io: A decentralized and open source cloud platform to support neuroscience research
+
+**Authors:** S. Hayashi, B. Caron, A. S. Heinsfeld, S. Vinci-Booher, Brent McPherson, D. Bullock, Giulia Bertò, J. G. Niso, S. Hanekamp, Daniel Levitas, Lindsey Kitchell, Josiah K. Leong, F. Silva, S. Koudoro, Hannah E. Willis, J. Jolly, D. Pisner, Taylor R. Zuidema, Jan Kurzwaski, Koulla Mikellidou, Aurore Bussalb, C. Rorden, Conner Victory, Dheeraj Bhatia, D. Aydogan, Frank Yeh, F. Delogu, Javier Guaje, J. Veraart, Jeremy Fischer, Joshua Faskowitz, Maximilien Chaumon, Ricardo Fábrega, D.R. Hunt, Shawn McKee, Shawn T. Brown, Stephanie Heyman, V. Iacovella, Amanda F. Mejia, Daniele Marinazzo, C. Craddock, E. Olivetti, Jamie Hanson, P. Avesani, Eleftherios Garyfallidis, D. Stanzione, J. P. Carson, R. Henschel, David Y. Hancock, C. Stewart, David M Schnyer, D. Eke, R. Poldrack, N. George, H. Bridge, I. Sani, W. Freiwald, Aina Puce, Nicholas Port, F. Pestilli
+
+## Abstract
+Neuroscience research has expanded dramatically over the past 30 years by advancing standardization and tool development to support rigor and transparency. Consequently, the complexity of the data pipeline has also increased, hindering access to FAIR data analysis to portions of the worldwide research community. brainlife.io was developed to reduce these burdens and democratize modern neuroscience research across institutions and career levels. Using community software and hardware infrastructure, the platform provides open-source data standardization, management, visualization, and processing and simplifies the data pipeline. brainlife.io automatically tracks the provenance history of thousands of data objects, supporting simplicity, efficiency, and transparency in neuroscience research. Here brainlife.io’s technology and data services are described and evaluated for validity, reliability, reproducibility, replicability, and scientific utility. Using data from 4 modalities and 3,200 participants, we demonstrate that brainlife.io’s services produce outputs that adhere to best practices in modern neuroscience research.
+
+**Source:** https://www.semanticscholar.org/paper/19d4049c0f22517ff76837b13c42a2fbefc709b0
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T17:12:11.811Z

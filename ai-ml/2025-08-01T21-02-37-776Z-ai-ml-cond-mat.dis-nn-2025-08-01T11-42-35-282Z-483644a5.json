@@ -1,0 +1,12 @@
+# On neural network kernels and the storage capacity problem
+
+**Authors:** Jacob A. Zavatone-Veth, Cengiz Pehlevan
+
+## Summary
+In this short note, we reify the connection between work on the storage capacity problem in wide two-layer treelike neural networks and the rapidly-growing body of literature on kernel limits of wide neural networks. Concretely, we observe that the "effective order parameter" studied in the statistical mechanics literature is exactly equivalent to the infinite-width Neural Network Gaussian Process Kernel. This correspondence connects the expressivity and trainability of wide two-layer neural networks.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.dis-nn
+Collected: 2025-08-01T11:42:35.282Z

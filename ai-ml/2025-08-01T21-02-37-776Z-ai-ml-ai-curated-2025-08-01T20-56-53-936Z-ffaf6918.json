@@ -1,0 +1,13 @@
+# A Survey on Applications of Game Theory in Blockchain
+
+**Authors:** Ziyao Liu, Nguyen Cong Luong, Wenbo Wang, D. Niyato, Ping Wang, Ying-Chang Liang, Dong In Kim
+
+## Abstract
+In the past decades, the blockchain technology has attracted tremendous attention from both academia and industry. The popularity of blockchain networks was originated from a crypto-currency to serve as a decentralized and tamperproof transaction data ledger. Nowadays, blockchain as the key framework in the decentralized public data-ledger, has been applied to a wide range of scenarios far beyond crypto-currencies, such as Internet of Things (IoT), healthcare, and insurance. This survey aims to fill the gap between the large number of studies on blockchain network, where game theory emerges as an analytical tool, and the lack of a comprehensive survey on the game theoretical approaches applied in blockchain related issues. In this paper, we review game models proposed to address common issues in the blockchain network. The issues include security issues, e.g., selfish mining, majority attack and Denial of Service (DoS) attack, issues regard mining management, e.g., computational power allocation, reward allocation, and pool selection, as well as issues regarding blockchain economic and energy trading. Additionally, we discuss advantages and disadvantages of these selected game models and solutions. Finally, we highlight important challenges and future research directions of applying game theoretical approaches to incentive mechanism design, and the combination of blockchain with other technologies.
+
+**Source:** https://www.semanticscholar.org/paper/2ee0bdd629d05df63cb7a30338b59a9cbf4c51b7
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T20:56:53.937Z

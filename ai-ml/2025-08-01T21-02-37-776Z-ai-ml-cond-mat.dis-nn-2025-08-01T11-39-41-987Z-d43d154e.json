@@ -1,0 +1,12 @@
+# Neural Networks, Game Theory and Time Series Generation
+
+**Authors:** Richard Metzler
+
+## Summary
+This dissertation highlights connections between the fields of neural networks, game theory and time series generation. The concept of antipredictability is explained, and the properties of time series that are antipredictable for several prototypical prediction algorithms (neural networks, Boolean funtions etc.) are studied. The Minority Game provides a framework in which antipredictability arises naturally. Several variations of the MG are introduced and compared, including extensions to more than two choices, and the properties of the generated time series are analysed. A learning algorithm is presented by which a neural network can find a good mixed strategy in zero-sum matrix games. In a certain limit, this algorithm is a stochastic variation of the "fictitious play" learning algorithm.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.dis-nn
+Collected: 2025-08-01T11:39:41.987Z

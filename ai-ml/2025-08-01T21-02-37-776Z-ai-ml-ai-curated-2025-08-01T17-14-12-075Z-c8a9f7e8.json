@@ -1,0 +1,13 @@
+# Convolutional neural networks for vision neuroscience: significance, developments, and outstanding issues
+
+**Authors:** A. Celeghin, Alessio Borriero, Davide Orsenigo, M. Diano, Carlos Andrés Méndez Guerrero, A. Perotti, G. Petri, M. Tamietto
+
+## Abstract
+Convolutional Neural Networks (CNN) are a class of machine learning models predominately used in computer vision tasks and can achieve human-like performance through learning from experience. Their striking similarities to the structural and functional principles of the primate visual system allow for comparisons between these artificial networks and their biological counterparts, enabling exploration of how visual functions and neural representations may emerge in the real brain from a limited set of computational principles. After considering the basic features of CNNs, we discuss the opportunities and challenges of endorsing CNNs as in silico models of the primate visual system. Specifically, we highlight several emerging notions about the anatomical and physiological properties of the visual system that still need to be systematically integrated into current CNN models. These tenets include the implementation of parallel processing pathways from the early stages of retinal input and the reconsideration of several assumptions concerning the serial progression of information flow. We suggest design choices and architectural constraints that could facilitate a closer alignment with biology provide causal evidence of the predictive link between the artificial and biological visual systems. Adopting this principled perspective could potentially lead to new research questions and applications of CNNs beyond modeling object recognition.
+
+**Source:** https://www.semanticscholar.org/paper/d1136be82152908df7ae8fd6563e7409520448ea
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T17:14:12.075Z

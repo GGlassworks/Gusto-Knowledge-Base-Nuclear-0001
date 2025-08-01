@@ -1,0 +1,12 @@
+# Differential aperture photometry and digital coronagraphy with PRAIA
+
+**Authors:** M. Assafin
+
+## Summary
+PRAIA - Package for the Reduction of Astronomical Images Automatically - is a suite of photometric and astrometric tasks designed to cope with huge amounts of heterogeneous observations with fast processing, no human intervention, minimum parametrization and yet maximum possible accuracy and precision. It is the main tool used to analyse astronomical observations by an international collaboration involving Brazilian, French and Spanish researchers under the Lucky Star umbrella for Solar System studies. Here, we focus on the concepts of differential aperture photometry and digital coronagraphy underneath PRAIA, used in the reduction of stellar occultations, rotational light curves, mutual phenomena and natural satellite observations. We highlight novelties developed by us and never before reported in the literature, which significantly enhance the precision and automation of photometry and digital coronagraphy, such as: a) PRAIA's pixelized aperture photometry (PCAP); b) fully automatic object detection and aperture determination (BOIA); c) better astrometry improving the aperture and coronagraphy centre, including the new Photogravity Center Method besides circular and elliptical Gaussian and Lorentzian generalized profiles; d) coronagraphy of faint objects close to bright ones and vice-versa; e) use of elliptical rings for the coronagraphy of elongated profiles; f) refined quartile ring statistics; g) multiprocessing image capabilities for faster computation speed. We give examples showing the photometry performance, discuss the advantages of PRAIA over other popular packages, and point out the uniqueness of its digital coronagraphy in comparison with other coronagraphy tools. Besides Solar System works, PRAIA can also be used in the differential photometry and digital coronagraphy of any astrophysical observations. PRAIA codes are publicly available at: https://ov.ufrj.br/en/PRAIA/.
+
+
+---
+Category: ai-ml
+Subcategory: astro-ph.IM
+Collected: 2025-08-01T10:14:17.441Z

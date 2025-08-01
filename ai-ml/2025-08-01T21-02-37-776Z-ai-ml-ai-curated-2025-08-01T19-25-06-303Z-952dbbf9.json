@@ -1,0 +1,13 @@
+# Predictive privacy: Collective data protection in the context of artificial intelligence and big data
+
+**Authors:** Rainer Mühlhoff
+
+## Abstract
+Big data and artificial intelligence pose a new challenge for data protection as these techniques allow predictions to be made about third parties based on the anonymous data of many people. Examples of predicted information include purchasing power, gender, age, health, sexual orientation, ethnicity, etc. The basis for such applications of “predictive analytics” is the comparison between behavioral data (e.g. usage, tracking, or activity data) of the individual in question and the potentially anonymously processed data of many others using machine learning models or simpler statistical methods. The article starts by noting that predictive analytics has a significant potential to be abused, which manifests itself in the form of social inequality, discrimination, and exclusion. These potentials are not regulated by current data protection law in the EU; indeed, the use of anonymized mass data takes place in a largely unregulated space. Under the term “predictive privacy,” a data protection approach is presented that counters the risks of abuse of predictive analytics. A person's predictive privacy is violated when personal information about them is predicted without their knowledge and against their will based on the data of many other people. Predictive privacy is then formulated as a protected good and improvements to data protection with regard to the regulation of predictive analytics are proposed. Finally, the article points out that the goal of data protection in the context of predictive analytics is the regulation of “prediction power,” which is a new manifestation of informational power asymmetry between platform companies and society.
+
+**Source:** https://www.semanticscholar.org/paper/3073f727942f5306b61e9d751653265bc3a9cd24
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:25:06.304Z

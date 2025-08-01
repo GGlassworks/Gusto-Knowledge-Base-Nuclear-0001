@@ -1,0 +1,12 @@
+# Heterogeneous Peridynamic Neural Operators: Discover Biotissue Constitutive Law and Microstructure From Digital Image Correlation Measurements
+
+**Authors:** Siavash Jafarzadeh, Stewart Silling, Lu Zhang, Colton Ross, Chung-Hao Lee, S. M. Rakibur Rahman, Shuodao Wang, Yue Yu
+
+## Summary
+Human tissues are highly organized structures with collagen fiber arrangements varying from point to point. Anisotropy of the tissue arises from the natural orientation of the fibers, resulting in location-dependent anisotropy. Heterogeneity also plays an important role in tissue function. It is therefore critical to discover and understand the distribution of fiber orientations from experimental mechanical measurements such as digital image correlation (DIC) data. To this end, we introduce the Heterogeneous Peridynamic Neural Operator (HeteroPNO) approach for data-driven constitutive modeling of heterogeneous anisotropic materials. Our goal is to learn a nonlocal constitutive law together with the material microstructure, in the form of a heterogeneous fiber orientation field, from load-displacement field measurements. We propose a two-phase learning approach. Firstly, we learn a homogeneous constitutive law in the form of a neural network-based kernel function and a nonlocal bond force, to capture complex homogeneous material responses from data. Then, in the second phase we reinitialize the learnt bond force and the kernel function, and training them together with a fiber orientation field for each material point. Owing to the state-based peridynamic skeleton, our HeteroPNO-learned material models are objective and have the balance of linear and angular momentum guaranteed. Moreover, the effects from heterogeneity and nonlinear constitutive relationship are captured by the kernel function and the bond force respectively, enabling physical interpretability. As a result, our HeteroPNO architecture can learn a constitutive model for a biological tissue with anisotropic heterogeneous response undergoing large deformation regime. Moreover, the framework is capable to provide displacement and stress field predictions for new and unseen loading instances.
+
+
+---
+Category: ai-ml
+Subcategory: cond-mat.mtrl-sci
+Collected: 2025-08-01T10:21:22.389Z

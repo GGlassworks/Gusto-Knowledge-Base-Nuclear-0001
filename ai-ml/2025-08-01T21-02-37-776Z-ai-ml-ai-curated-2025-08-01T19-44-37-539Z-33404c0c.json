@@ -1,0 +1,13 @@
+# Uncertainty Visualization: Concepts, Methods, and Applications in Biological Data Visualization
+
+**Authors:** D. Weiskopf
+
+## Abstract
+This paper provides an overview of uncertainty visualization in general, along with specific examples of applications in bioinformatics. Starting from a processing and interaction pipeline of visualization, components are discussed that are relevant for handling and visualizing uncertainty introduced with the original data and at later stages in the pipeline, which shows the importance of making the stages of the pipeline aware of uncertainty and allowing them to propagate uncertainty. We detail concepts and methods for visual mappings of uncertainty, distinguishing between explicit and implict representations of distributions, different ways to show summary statistics, and combined or hybrid visualizations. The basic concepts are illustrated for several examples of graph visualization under uncertainty. Finally, this review paper discusses implications for the visualization of biological data and future research directions.
+
+**Source:** https://www.semanticscholar.org/paper/12e5980d64c6532f09da34c3cdf40704a996092a
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T19:44:37.540Z
