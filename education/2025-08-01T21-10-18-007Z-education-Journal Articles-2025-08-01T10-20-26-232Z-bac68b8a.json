@@ -1,0 +1,13 @@
+# Identifying Digital Capabilities in University Courses: An Automated Machine Learning Approach
+
+**Authors:** Fan, Zongwen, Chiong, Raymond
+
+## Abstract
+Digital capabilities have become increasingly important in this digital age. Within a university setting, digital capability assessment is key to curriculum design and curriculum mapping, given that digital capabilities not only can help students engage and communicate with others but also succeed at work. To the best of our knowledge, however, no previous studies in the relevant literature have reported the assessment of digital capabilities in courses across a university. It is extremely challenging to do so manually, as thousands of courses offered by the university would have to be checked. In this study, we therefore use machine learning classifiers to automatically identify digital capabilities in courses based on real-world university course rubric data. Through text analysis of course rubrics produced by course academics, decision makers can identify the digital capabilities that are formally assessed in university courses. This, in turn, would enable them to design and map curriculums to develop the digital capabilities of staff and students. Comprehensive experimental results reveal that the machine learning models tested in this study can effectively identify digital capabilities. Among the prediction models included in our experiments, the performance of support vector machines was the best, achieving accuracy and F-measure scores of 0.8535 and 0.8338, respectively.
+
+**Source:** https://eric.ed.gov/?id=EJ1373599
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:20:26.233Z
