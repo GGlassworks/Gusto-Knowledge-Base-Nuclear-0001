@@ -1,0 +1,13 @@
+# From machine learning to deep learning: experimental comparison of machine learning and deep learning for skin cancer image segmentation
+
+**Authors:** Ranpreet Kaur
+
+## Abstract
+<jats:p>Skin lesion analysis is a tedious and challenging task, thus, in this research the suitability of employing machine learning or deep learning approaches for automatic lesion segmentation on dermoscopic skin cancer images is determined. The segmented region can assist clinical experts in understanding the complex lesion structure and internal pattern to find the correct skin cancer type for its early diagnosis and prevention. In this study, I present two methodologies for performing lesion segmentation: machine learning-based optimized K-means with Firefly Algorithm (FA) and Convolutional Neural Network (CNN). In the first model, the FA is hybridized with K-means clustering based on the novel average intensity fitness function to optimize the segmentation map. It is observed in the experimental results that the K-means algorithm may lead to poor results due to the wrong selection of initial centroid value, thus FA is hybridized into it to improve the performance. The second model is an enhanced encoder-decoder-based CNN framework implemented in an end-to-end fashion. These two models are compared to understand whether machine learning or deep learning is suitable to perform medical image segmentation based on a few performance metrics such as accuracy, Intersection over Union (IoU), and DICE index. These methods are evaluated and compared on two benchmark datasets provided by the International Skin Imaging Collaboration (ISIC) named ISIC 2016 [1] and ISIC 2017 [2]. Experimental results showed that the CNN model outperformed the machine learning model with an accuracy difference of 7.98% on ISIC 2016, and 7.32% on ISIC 2017. I concluded from the experimental findings that the deep learning model is more accurate and efficient in segmenting the lesion area as compared to the machine learning model. Thus, findings from this experimental work will be considered for the design of an automatic classification system by incorporating a deep learning-based segmentation approach as a pre-processing step. </jats:p>
+
+**Source:** https://doi.org/10.24135/rangahau-aranga.v1i1.32
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:35:07.179Z

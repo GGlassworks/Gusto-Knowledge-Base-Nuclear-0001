@@ -1,0 +1,13 @@
+# Ensemble Learning with Pre-Trained Transformers for Crash Severity Classification: A Deep NLP Approach
+
+**Authors:** Shadi Jaradat, Richi Nayak, Alexander Paz, Mohammed Elhenawy
+
+## Abstract
+<jats:p>Transfer learning has gained significant traction in natural language processing due to the emergence of state-of-the-art pre-trained language models (PLMs). Unlike traditional word embedding methods such as TF-IDF and Word2Vec, PLMs are context-dependent and outperform conventional techniques when fine-tuned for specific tasks. This paper proposes an innovative hard voting classifier to enhance crash severity classification by combining machine learning and deep learning models with various word embedding techniques, including BERT, RoBERTa, Word2Vec, and TF-IDF. Our study involves two comprehensive experiments using motorists’ crash data from the Missouri State Highway Patrol. The first experiment evaluates the performance of three machine learning models—XGBoost (XGB), random forest (RF), and naive Bayes (NB)—paired with TF-IDF, Word2Vec, and BERT feature extraction techniques. Additionally, BERT and RoBERTa are fine-tuned with a Bidirectional Long Short-Term Memory (Bi-LSTM) classification model. All models are initially evaluated on the original dataset. The second experiment repeats the evaluation using an augmented dataset to address the severe data imbalance. The results from the original dataset show strong performance for all models in the “Fatal” and “Personal Injury” classes but a poor classification of the minority “Property Damage” class. In the augmented dataset, while the models continued to excel with the majority classes, only XGB/TFIDF and BERT-LSTM showed improved performance for the minority class. The ensemble model outperformed individual models in both datasets, achieving an F1 score of 99% for “Fatal” and “Personal Injury” and 62% for “Property Damage” on the augmented dataset. These findings suggest that ensemble models, combined with data augmentation, are highly effective for crash severity classification and potentially other textual classification tasks.</jats:p>
+
+**Source:** https://doi.org/10.3390/a17070284
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:54:30.208Z

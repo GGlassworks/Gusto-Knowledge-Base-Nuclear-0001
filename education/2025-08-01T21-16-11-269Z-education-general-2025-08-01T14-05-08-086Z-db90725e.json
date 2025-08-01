@@ -1,0 +1,14 @@
+# Deep Learning-Based Pedestrian Trajectory Prediction: Efficient Implementation on Lightweight Hardware
+
+**Authors:** Neda Yaghoubi
+
+## Abstract
+<title>Abstract</title>
+        <p>Predicting pedestrian trajectories in dynamic environments is a key topic in artificial intelligence and computer vision. This study aims to design and implement a trajectory prediction system using deep learning algorithms and lightweight hardware such as the Raspberry Pi 4 (equipped with an ARM Cortex-A72 processor). The proposed system integrates deep learning models for pedestrian tracking and trajectory prediction, employing YOLOv8 for detection, a Kalman filter for tracking accuracy enhancement, and optimized LSTM and Transformer algorithms for trajectory forecasting. The system is evaluated using the MOT17 dataset, demonstrating real-time processing capabilities with an Average Displacement Error (ADE) and Final Displacement Error (FDE) of less than 0.123m and 0.121m, respectively. The proposed system is applicable in robotics, surveillance, and traffic management systems.</p>
+
+**Source:** https://doi.org/10.21203/rs.3.rs-6112129/v1
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T14:05:08.087Z
