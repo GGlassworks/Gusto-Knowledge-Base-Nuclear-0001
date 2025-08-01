@@ -1,0 +1,13 @@
+# Adapting Credit Risk Management for SMBs: Integrating Behavioral Economics and Machine Learning
+
+**Authors:** Sake Jayanandini, S. Gautami
+
+## Abstract
+Sustaining and expanding the finances of small and midsize businesses (SMBs) hinges on efficient credit risk management. This study introduces a transformative approach to credit risk assessment for SMBs by leveraging the power of machine learning (ML) and integrating behavioral economics. By redefining traditional methodologies, this research proposes a comprehensive strategy that encompasses feature selection, data preprocessing, data collection, and the deployment of advanced ML models. Emphasizing real-world applicability and behavioral insights, the study reveals that ML models, particularly Random Forests, excel in predicting credit risk, paving the way for a paradigm shift in SMB credit risk management.The study’s findings suggest that integrating ML models can significantly enhance the accuracy of credit risk predictions, leading to more informed and effective risk management strategies. By incorporating behavioral economics, the research highlights the importance of understanding borrower behavior and its impact on creditworthiness. This dual approach not only improves prediction accuracy but also offers deeper insights into risk factors.Practical applications of this research include the implementation of ML models in existing credit risk management systems, enabling SMBs to better navigate financial uncertainties and maintain resilience in dynamic market conditions. The study also identifies future research opportunities, such as exploring dynamic model adaptation, utilizing diverse data types, enhancing model explainability through explainable AI (XAI), and fostering collaboration to establish industry-specific best practices.By elucidating the complexities of credit sales and presenting innovative solutions, this research aims to empower SMBs to adapt and thrive amidst evolving economic landscapes, ensuring sustainable growth and financial stability.
+
+**Source:** https://www.semanticscholar.org/paper/7660c0d8e6d3f0357ac5b6bf28ffeedab216acbb
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:50:33.071Z

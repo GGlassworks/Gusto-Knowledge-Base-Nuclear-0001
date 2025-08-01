@@ -1,0 +1,13 @@
+# A Behavioral Economics Approach to Residential Electricity Consumption
+
+**Authors:** L. C. Siebert, Adriana Sbicca, A. R. Aoki, G. Lambert-Torres
+
+## Abstract
+Consumer behavior is complex and is difficult to represent in traditional economic theories of decision-making. This paper focuses on the development of an agent-based approach to analyze people’s behavior in consuming electricity using a behavioral economics framework, where the consumer is the main agent of power systems. This approach may bring useful insights for distribution companies and regulatory agencies, helping to shift thinking to a more user-centric approach. The emergent properties of electricity consumption are modeled by the means of consumer’s heuristics, taking into account the electricity price, consumer’s satisfaction level, willingness to invest in new technologies, social interactions, and marketing strategies by the power utility. Analysis on the emergent behavior of this approach through simulation studies showed that it is indeed valuable, as does not require in-depth data of all details on human behavior. However, it contributes to the understanding of relations among various objects involved in electricity consumption.
+
+**Source:** https://www.semanticscholar.org/paper/d0fa99b30c7d67de7bec2983d781cc9fe34cf1e4
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:47:09.234Z

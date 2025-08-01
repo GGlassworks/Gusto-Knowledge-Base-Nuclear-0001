@@ -1,0 +1,13 @@
+# Behavioral Economics Optimized Renewable Power Grid: A Case Study of Household Energy Storage
+
+**Authors:** Shengyu Tao, Yiqiang Zhang, Meng Yuan, Ruixiang Zhang, Zhongyan Xu, Yaojie Sun
+
+## Abstract
+Power systems optimization is generally subject to the compromise between performance and cost. The 2021 Texas grid outage illustrates the worldwide dangers for the regional-centralized power grid, with comparable advantages to safety and flexibility for the distributed energy system. The storage of household batteries helps balance grid load and increase system stability and flexibility. However, household storage battery is still not widely used today because of its high costs. Currently, research on increasing household battery storage applicability is focused largely on optimizing economic strategies, such as configuration, dispatching and subsidy policies, which rely substantially more on technologies and financial perspectives. Consumers are not ‘rational’ individuals, and non-economic incentives can affect their decisions without raising prices. This paper consequently proposes to encourage users to acquire household battery storage to increase efficiency of power dispatching and economic advantages based on behavioral economics. In this paper, an empirical research builds upon the utility model of behavioral economics incentives and purchase willingness. Moreover, the multi-objective genetic algorithm is utilized to optimize the dispatching of household battery storage by using grid variance and user revenues as optimizing goals. The results of this paper show that the behavioral economics incentive improves intention to buy the household battery energy storage by 10.7% without raising subsidies. By improving the energy dispatching strategy, peak-load shifting performance and user revenues are improved by 4.2% and 10.6%, respectively.
+
+**Source:** https://www.semanticscholar.org/paper/33eb051e08eb0d97a03c7f9f934b2b325e57a0c9
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:43:05.666Z

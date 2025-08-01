@@ -1,0 +1,13 @@
+# Behavioral Economics for Human-in-the-Loop Control Systems Design: Overconfidence and the Hot Hand Fallacy
+
+**Authors:** Marius Protte, R. Fahr, D. Quevedo
+
+## Abstract
+This century brought interesting challenges and opportunities that derive from the way digital technology is shaping the lives of individuals and society as a whole. A key feature of many engineered systems is that they interact with humans. Rather than solely affecting humans, people often make decisions that affect the engineered system. As an example, when driving cars, people often decide to take a route that differs from that suggested by the navigation system. This information is fed back to the service provider and henceforth used when making route suggestions to other users. The analysis and design of such cyberphysical human systems (CPHSs) would benefit from an understanding of how humans behave. However, given their immense complexity, it is unclear how to formulate appropriate models for human decision makers, especially when operating in closed-loop systems (see "Summary" for an overview of this article).
+
+**Source:** https://www.semanticscholar.org/paper/75f216fec169d2a36a229e388aa5b7fce504a954
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:47:06.384Z

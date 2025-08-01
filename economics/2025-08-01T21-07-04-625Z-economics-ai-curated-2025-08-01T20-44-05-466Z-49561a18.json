@@ -1,0 +1,13 @@
+# Computational behavioral economics
+
+**Authors:** Shu-Heng Chen, Ying-Fang Kao, Ragupathy Venkatachalam
+
+## Abstract
+Both behavioral economics and computational intelligence (machine learning) rely on the extensive use of heuristics to address decision-making problems in an ill-defined and ill-structured environment. While the former has a focus on behaviors, and the other has a focus on the algorithms, this distinction is merely superficial. The real connection between the two is that through algorithmic procedure the latter provides the former with the computational underpinnings of the decision-making processes. In this chapter, we review this connection, dubbed computational behavioral economics. To do so, we review a number of frequently-used computational intelligence tools in the realm of computational economics, including K nearest neighbors, K means, self-organizing maps, reinforcement learning, decision trees, evolutionary computation, swarm intelligence, and “random” behavior. This review enables us to see how the heuristics employed in the latter, such as closeness, similarity, smoothness, default, automation, hierarchy, and modularity can lay a computational foundation of the heuristics studied by the former.
+
+**Source:** https://www.semanticscholar.org/paper/c9abf19e8897956f05802e22947ae73c7a4f5ff4
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:44:05.466Z

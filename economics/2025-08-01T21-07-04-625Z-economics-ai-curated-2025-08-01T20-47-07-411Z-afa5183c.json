@@ -1,0 +1,13 @@
+# Addictive Incentive Mechanism in Crowdsensing From the Perspective of Behavioral Economics
+
+**Authors:** Jiaqi Liu, Shiyue Huang, Deng Li, Sheng Wen, Hui Liu
+
+## Abstract
+In mobile crowdsensing, many mobile devices are collectively used to complete complex sensing tasks. Most tasks require users to consume resources to ensure continuous performance over multiple periods of time. Therefore, it is important to incentivize enough users to continuously participate in the tasks. However, there are two issues with current incentive mechanisms. First, most studies are designed for maximizing the revenue of a single round of tasks rather than long-term incentives. Second, although some studies use historical data to design mechanisms for long-term operation, the law of diminishing marginal utility is not considered; thus, the actual performance is lower than expected. In this study, the concepts of capital deposit and intertemporal choice from behavioral economics are introduced to explain the principle of addiction, which is a representative long-term incentive. Consequently, an Addiction Incentive Mechanism (AIM) is proposed. It influences the utility and demand functions of users by accelerating the accumulation of capital deposits and promoting users to become addicted to cooperative behavior. It also mitigates the effect of diminishing marginal utility through intertemporal choice theory to maintain user engagement. Simulations demonstrate that AIM improves participation and repetition rates compared with the state-of-the-art mechanisms.
+
+**Source:** https://www.semanticscholar.org/paper/67851b081e80e9c363d9d87ae181cef576a9f556
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:47:07.412Z
