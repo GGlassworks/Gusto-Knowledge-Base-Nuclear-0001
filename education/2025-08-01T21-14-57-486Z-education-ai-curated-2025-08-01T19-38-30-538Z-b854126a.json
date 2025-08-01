@@ -1,0 +1,13 @@
+# Modelling Student Performance Using Data Mining Techniques: Inputs for Academic Program Development
+
+**Authors:** Mayreen V. Amazona, Alexander A. Hernandez
+
+## Abstract
+This paper presents the outcomes of linking an educational data mining approach to model students' academic performance. Three data mining classification models (Naïve Bayes, Decision Tree and Deep Learning in Neural Network) were defined to analyze data set and to predict students' performance. The forecast presentation of the three classifiers were calculated and matched. Students' academic histories and data from the Registrar's Office were used to train the models. Results show that Deep Learning classifier beats other two classifiers by gaining the overall forecast accuracy of 95%. These results highlight the impact on student success while pointing to several promising directions for future work. These analysis and information about prediction is more helpful for college administration and faculty members to improve education and also make changes if necessary.
+
+**Source:** https://www.semanticscholar.org/paper/6dc06f238459bcae0cccdf50b78a165dc1eb18af
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:38:30.538Z

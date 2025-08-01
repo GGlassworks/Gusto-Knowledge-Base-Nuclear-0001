@@ -1,0 +1,13 @@
+# Deep Learning in Population Genetics
+
+**Authors:** Kevin Korfmann, O. Gaggiotti, Matteo Fumagalli
+
+## Abstract
+Abstract Population genetics is transitioning into a data-driven discipline thanks to the availability of large-scale genomic data and the need to study increasingly complex evolutionary scenarios. With likelihood and Bayesian approaches becoming either intractable or computationally unfeasible, machine learning, and in particular deep learning, algorithms are emerging as popular techniques for population genetic inferences. These approaches rely on algorithms that learn non-linear relationships between the input data and the model parameters being estimated through representation learning from training data sets. Deep learning algorithms currently employed in the field comprise discriminative and generative models with fully connected, convolutional, or recurrent layers. Additionally, a wide range of powerful simulators to generate training data under complex scenarios are now available. The application of deep learning to empirical data sets mostly replicates previous findings of demography reconstruction and signals of natural selection in model organisms. To showcase the feasibility of deep learning to tackle new challenges, we designed a branched architecture to detect signals of recent balancing selection from temporal haplotypic data, which exhibited good predictive performance on simulated data. Investigations on the interpretability of neural networks, their robustness to uncertain training data, and creative representation of population genetic data, will provide further opportunities for technological advancements in the field.
+
+**Source:** https://www.semanticscholar.org/paper/1d217731179a0cbd48414c4f03e34806ce410709
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T16:48:08.759Z

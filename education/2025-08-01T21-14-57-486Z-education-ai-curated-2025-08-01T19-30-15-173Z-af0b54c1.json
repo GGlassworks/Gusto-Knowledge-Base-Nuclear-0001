@@ -1,0 +1,13 @@
+# Review on the Application of Machine Learning Algorithms in the Sequence Data Mining of DNA
+
+**Authors:** Aimin Yang, Wei Zhang, Jiahao Wang, Ke Yang, Yang Han, Liming Zhang
+
+## Abstract
+Deoxyribonucleic acid (DNA) is a biological macromolecule. Its main function is information storage. At present, the advancement of sequencing technology had caused DNA sequence data to grow at an explosive rate, which has also pushed the study of DNA sequences in the wave of big data. Moreover, machine learning is a powerful technique for analyzing largescale data and learns spontaneously to gain knowledge. It has been widely used in DNA sequence data analysis and obtained a lot of research achievements. Firstly, the review introduces the development process of sequencing technology, expounds on the concept of DNA sequence data structure and sequence similarity. Then we analyze the basic process of data mining, summary several major machine learning algorithms, and put forward the challenges faced by machine learning algorithms in the mining of biological sequence data and possible solutions in the future. Then we review four typical applications of machine learning in DNA sequence data: DNA sequence alignment, DNA sequence classification, DNA sequence clustering, and DNA pattern mining. We analyze their corresponding biological application background and significance, and systematically summarized the development and potential problems in the field of DNA sequence data mining in recent years. Finally, we summarize the content of the review and look into the future of some research directions for the next step.
+
+**Source:** https://www.semanticscholar.org/paper/2afd41bea93f8244863a8e634f5465ac6b3aeaf4
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:15.174Z

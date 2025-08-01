@@ -1,0 +1,13 @@
+# Big Data ML-Based Fake News Detection Using Distributed Learning
+
+**Authors:** A. Altheneyan, Aseel Alhadlaq
+
+## Abstract
+Users rely heavily on social media to consume and share news, facilitating the mass dis-semination of genuine and fake stories. The proliferation of misinformation on various social media platforms has serious consequences for society. The inability to differentiate between the several forms of false news on Twitter is a major obstacle to effective detection of fake news. Researchers have made progress toward a solution by emphasizing methods for identifying fake news. The dataset FNC-1, which includes four categories for identifying false news, will be used in this study. The state-of-the-art methods for spotting fake news are evaluated and compared using big data technology (Spark) and machine learning. The methodology of this study employed a decentralized Spark cluster to create a stacked ensemble model. Following feature extraction using N-grams, Hashing TF-IDF, and count vectorizer, we used the proposed stacked ensemble classification model. The results show that the suggested model has a superior classification performance of 92.45% in the F1 score compared to the 83.10 % F1 score of the baseline approach. The proposed model achieved an additional 9.35% F1 score compared to the state-of-the-art techniques.
+
+**Source:** https://www.semanticscholar.org/paper/6d6e61890e196cbe9e7111615b28ec9302e062fd
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:19:08.719Z

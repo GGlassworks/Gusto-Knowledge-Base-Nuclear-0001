@@ -1,0 +1,13 @@
+# A Comparison of Undersampling, Oversampling, and SMOTE Methods for Dealing with Imbalanced Classification in Educational Data Mining
+
+**Authors:** Tarid Wongvorachan, Surina He, O. Bulut
+
+## Abstract
+Educational data mining is capable of producing useful data-driven applications (e.g., early warning systems in schools or the prediction of students’ academic achievement) based on predictive models. However, the class imbalance problem in educational datasets could hamper the accuracy of predictive models as many of these models are designed on the assumption that the predicted class is balanced. Although previous studies proposed several methods to deal with the imbalanced class problem, most of them focused on the technical details of how to improve each technique, while only a few focused on the application aspect, especially for the application of data with different imbalance ratios. In this study, we compared several sampling techniques to handle the different ratios of the class imbalance problem (i.e., moderately or extremely imbalanced classifications) using the High School Longitudinal Study of 2009 dataset. For our comparison, we used random oversampling (ROS), random undersampling (RUS), and the combination of the synthetic minority oversampling technique for nominal and continuous (SMOTE-NC) and RUS as a hybrid resampling technique. We used the Random Forest as our classification algorithm to evaluate the results of each sampling technique. Our results show that random oversampling for moderately imbalanced data and hybrid resampling for extremely imbalanced data seem to work best. The implications for educational data mining applications and suggestions for future research are discussed.
+
+**Source:** https://www.semanticscholar.org/paper/2a5e6dfd40e90968ff4c8c5fbf9c893dde44572d
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:28:09.125Z

@@ -1,0 +1,13 @@
+# Educational Data Mining Applications and Techniques
+
+**Authors:** Fatima Alshareef, H. Alhakami, Tahani Alsubait, A. Baz
+
+## Abstract
+Educational data mining (EDM) uses data mining techniques to analyze huge amounts of student data in the educa-tional environments. The main purpose of EDM is to analyze and solve educational issues and, consequently, improve educational processes. With the emergence of EDM applications in the educational environments, several techniques have been identified to implement these applications. This paper reviews the relevant studies in EDM including datasets and techniques used in those studies and identifies the most effective techniques. The most prevalent applications include predicting student performance, detecting undesirable student behaviors, grouping students and student modeling. These applications aim to help decision makers in the educational institutions to understand student situations, improve students’ performance, identify learning priorities for different groups of students and develop learning process. The prediction accuracy is selected as the evaluation criteria for the effectiveness of educational data mining techniques. The results show that Bayesian Network and Random Forest are the most effective techniques for predicting student performance, Social Network Analysis is the best technique for detecting undesirable student behaviors, Clustering and Social Network Analysis are the most effective techniques for grouping students and student modeling, respectively. This study recommends conducting more comprehensive and extended studies to evaluate the effectiveness of EDM techniques with an extended evaluation criteria.
+
+**Source:** https://www.semanticscholar.org/paper/b65807de8d3c15db8150a081c41faf9838f2fa92
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:28:09.312Z

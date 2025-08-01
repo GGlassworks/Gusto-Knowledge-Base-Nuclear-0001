@@ -1,0 +1,13 @@
+# Neuroscience-Inspired Online Unsupervised Learning Algorithms: Artificial neural networks
+
+**Authors:** Cengiz Pehlevan, D. Chklovskii
+
+## Abstract
+Inventors of the original artificial neural networks (ANNs) derived their inspiration from biology [1]. However, today, most ANNs, such as backpropagation-based convolutional deeplearning networks, resemble natural NNs only superficially. Given that, on some tasks, such ANNs achieve human or even superhuman performance, why should one care about such dissimilarity with natural NNs? The algorithms of natural NNs are relevant if one's goal is not just to outperform humans on certain tasks but to develop general-purpose artificial intelligence rivaling that of a human. As contemporary ANNs are far from achieving this goal and natural NNs, by definition, achieve it, natural NNs must contain some "secret sauce" that ANNs lack. This is why we need to understand the algorithms implemented by natural NNs.
+
+**Source:** https://www.semanticscholar.org/paper/11be4e891abd91e972e1e33784f2aea23791c6ec
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T17:05:03.101Z

@@ -1,0 +1,13 @@
+# Theory of Mind and Preference Learning at the Interface of Cognitive Science, Neuroscience, and AI: A Review
+
+**Authors:** C. Langley, B. Cirstea, F. Cuzzolin, B. Sahakian
+
+## Abstract
+Theory of Mind (ToM)—the ability of the human mind to attribute mental states to others—is a key component of human cognition. In order to understand other people's mental states or viewpoint and to have successful interactions with others within social and occupational environments, this form of social cognition is essential. The same capability of inferring human mental states is a prerequisite for artificial intelligence (AI) to be integrated into society, for example in healthcare and the motoring industry. Autonomous cars will need to be able to infer the mental states of human drivers and pedestrians to predict their behavior. In the literature, there has been an increasing understanding of ToM, specifically with increasing cognitive science studies in children and in individuals with Autism Spectrum Disorder. Similarly, with neuroimaging studies there is now a better understanding of the neural mechanisms that underlie ToM. In addition, new AI algorithms for inferring human mental states have been proposed with more complex applications and better generalisability. In this review, we synthesize the existing understanding of ToM in cognitive and neurosciences and the AI computational models that have been proposed. We focus on preference learning as an area of particular interest and the most recent neurocognitive and computational ToM models. We also discuss the limitations of existing models and hint at potential approaches to allow ToM models to fully express the complexity of the human mind in all its aspects, including values and preferences.
+
+**Source:** https://www.semanticscholar.org/paper/b83eb34b088b31118974f33109ce53a32209d73a
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T17:01:55.575Z

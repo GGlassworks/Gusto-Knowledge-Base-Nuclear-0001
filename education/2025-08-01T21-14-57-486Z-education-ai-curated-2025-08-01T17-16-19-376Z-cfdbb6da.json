@@ -1,0 +1,13 @@
+# A comparison of machine learning methods for quantifying self-grooming behavior in mice
+
+**Authors:** Kassi Correia, Raegan Walker, C. Pittenger, Christopher Fields
+
+## Abstract
+Background As machine learning technology continues to advance and the need for standardized behavioral quantification grows, commercial and open-source automated behavioral analysis tools are gaining prominence in behavioral neuroscience. We present a comparative analysis of three behavioral analysis pipelines—DeepLabCut (DLC) and Simple Behavioral Analysis (SimBA), HomeCageScan (HCS), and manual scoring—in measuring repetitive self-grooming among mice. Methods Grooming behavior of mice was recorded at baseline and after water spray or restraint treatments. Videos were processed and analyzed in parallel using 3 methods (DLC/SimBA, HCS, and manual scoring), quantifying both total number of grooming bouts and total grooming duration. Results Both treatment conditions (water spray and restraint) resulted in significant elevation in both total grooming duration and number of grooming bouts. HCS measures of grooming duration were significantly elevated relative to those derived from manual scoring: specifically, HCS tended to overestimate duration at low levels of grooming. DLC/SimBA duration measurements were not significantly different than those derived from manual scoring. However, both SimBA and HCS measures of the number of grooming bouts were significantly different than those derived from manual scoring; the magnitude and direction of the difference depended on treatment condition. Conclusion DLC/SimBA provides a high-throughput pipeline for quantifying grooming duration that correlates well with manual scoring. However, grooming bout data derived from both DLC/SimBA and HCS did not reliably estimate measures obtained via manual scoring.
+
+**Source:** https://www.semanticscholar.org/paper/2d02410696a93987f8576e94f543d587f0168ff4
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T17:16:19.376Z

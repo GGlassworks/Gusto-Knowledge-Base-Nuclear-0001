@@ -1,0 +1,13 @@
+# Using Big Data Fuzzy K-Means Clustering and Information Fusion Algorithm in English Teaching Ability Evaluation
+
+**Authors:** Chen Zhen
+
+## Abstract
+Aiming at the problem of inaccurate classification of big data information in traditional English teaching ability evaluation algorithms, an English teaching ability evaluation algorithm based on big data fuzzy K-means clustering and information fusion is proposed. Firstly, the author uses the idea of K-means clustering to analyze the collected original error data, such as teacher level, teaching facility investment, and policy relevance level, removes the data that the algorithm considers unreliable, uses the remaining valid data to calculate the weighting factor of the modified fuzzy logic algorithm, and evaluates the weighted average with the node measurement data and gets the final fusion value. Secondly, the author integrates the big data information fusion and K-means clustering algorithm, realizes the clustering and integration of the index parameters of English teaching ability, compiles the corresponding English teaching resource allocation plan, and realizes the evaluation of English teaching ability. Finally, the results show that using this method to evaluate English teaching ability has better information fusion analysis ability, which improves the accuracy of teaching ability evaluation and the efficiency of teaching resources application.
+
+**Source:** https://www.semanticscholar.org/paper/4fa98c345136a3f4265113b8bf19d9de59097539
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:24:07.635Z

@@ -1,0 +1,17 @@
+# Improved wolf swarm optimization with deep-learning-based movement analysis and self-regulated human activity recognition
+
+**Authors:** 
+
+## Abstract
+
+
+A wide variety of applications like patient monitoring, rehabilitation sensing, sports and senior surveillance require a considerable amount of knowledge in recognizing physical activities of a person captured using sensors. The goal of human activity recognition is to identify human activities from a collection of observations based on the behavior of subjects and the surrounding circumstances. Movement is examined in psychology, biomechanics, artificial intelligence and neuroscience. To be specific, the availability of pervasive devices and the low cost to record movements with machine learning (ML) techniques for the automatic and quantitative analysis of movement have resulted in the growth of systems for rehabilitation monitoring, user authentication and medical diagnosis. The self-regulated detection of human activities from time-series smartphone sensor datasets is a growing study area in intelligent and smart healthcare. Deep learning (DL) techniques have shown enhancements compared to conventional ML methods in many fields, which include human activity recognition (HAR). This paper presents an improved wolf swarm optimization with deep learning based movement analysis and self-regulated human activity recognition (IWSODL-MAHAR) technique. The IWSODL-MAHAR method aimed to recognize various kinds of human activities. Since high dimensionality poses a major issue in HAR, the IWSO algorithm is applied as a dimensionality reduction technique. In addition, the IWSODL-MAHAR technique uses a hybrid DL model for activity recognition. To further improve the recognition performance, a Nadam optimizer is applied as a hyperparameter tuning technique. The experimental evaluation of the IWSODL-MAHAR approach is assessed on benchmark activity recognition data. The experimental outcomes outlined the supremacy of the IWSODL-MAHAR algorithm compared to recent models.
+
+
+
+**Source:** https://www.semanticscholar.org/paper/53a0b5cc7a2e0ab898900714d869f1b8fbd204f6
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:07.221Z

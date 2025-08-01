@@ -1,0 +1,13 @@
+# Surgical Hand Gesture Recognition Utilizing Electroencephalogram as Input to the Machine Learning and Network Neuroscience Algorithms
+
+**Authors:** Somayeh B. Shafiei, Mohammad Durrani, Zhe Jing, M. Mostowy, Philippa Doherty, A. Hussein, A. Elsayed, Umar Iqbal, K. Guru
+
+## Abstract
+Surgical gestures detection can provide targeted, automated surgical skill assessment and feedback during surgical training for robot-assisted surgery (RAS). Several sources including surgical videos, robot tool kinematics, and an electromyogram (EMG) have been proposed to reach this goal. We aimed to extract features from electroencephalogram (EEG) data and use them in machine learning algorithms to classify robot-assisted surgical gestures. EEG was collected from five RAS surgeons with varying experience while performing 34 robot-assisted radical prostatectomies over the course of three years. Eight dominant hand and six non-dominant hand gesture types were extracted and synchronized with associated EEG data. Network neuroscience algorithms were utilized to extract functional brain network and power spectral density features. Sixty extracted features were used as input to machine learning algorithms to classify gesture types. The analysis of variance (ANOVA) F-value statistical method was used for feature selection and 10-fold cross-validation was used to validate the proposed method. The proposed feature set used in the extra trees (ET) algorithm classified eight gesture types performed by the dominant hand of five RAS surgeons with an accuracy of 90%, precision: 90%, sensitivity: 88%, and also classified six gesture types performed by the non-dominant hand with an accuracy of 93%, precision: 94%, sensitivity: 94%.
+
+**Source:** https://www.semanticscholar.org/paper/76cdbb219c235762fe430f4c0c468fc59e47d558
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T17:05:02.478Z

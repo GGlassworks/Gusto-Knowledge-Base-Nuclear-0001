@@ -1,0 +1,13 @@
+# A data mining approach to study the impact of the methodology followed in chemistry lab classes on the weight attributed by the students to the lab work on learning and motivation
+
+**Authors:** Margarida Figueiredo, L. Esteves, J. Neves, H. Vicente
+
+## Abstract
+This study reports the use of data mining tools in order to examine the influence of the methodology used in chemistry lab classes, on the weight attributed by the students to the lab work on learning and own motivation. The answer frequency analysis was unable to discriminate the opinions expressed by the respondents according to the type of the teaching methodology used in the lab classes. Conversely, the data mining approach using k-means clustering models, allowed a deeper analysis of the results, i.e., enabled one to identify the methodology to teach chemistry that, in students' opinion, is important for learning chemistry and increasing their motivation. The sample comprised 3447 students of Portuguese Secondary Schools (1736 in the 10th grade; 1711 in the 11th grade). The k-means Clustering Method was used, with k values ranging between 2 and 4. The main strengths of this study are the methodological approach for data analysis and the fact that the sample was formed by students with different school careers that enables the use of the individual as the unit of analysis.
+
+**Source:** https://www.semanticscholar.org/paper/ed13e2b5698ccbb6a72e8167c95b4317358db5df
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:35:31.161Z

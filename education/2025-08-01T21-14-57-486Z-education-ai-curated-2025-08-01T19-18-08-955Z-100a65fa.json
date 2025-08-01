@@ -1,0 +1,13 @@
+# Performance Analysis of Machine Learning Algorithms for Big Data Classification: ML and AI-Based Algorithms for Big Data Analysis
+
+**Authors:** S. Punia, Manoj Kumar, Thompson Stephan, G. Deverajan, Rizwan Patan
+
+## Abstract
+In broad, three machine learning classification algorithms are used to discover correlations, hidden patterns, and other useful information from different data sets known as big data. Today, Twitter, Facebook, Instagram, and many other social media networks are used to collect the unstructured data. The conversion of unstructured data into structured data or meaningful information is a very tedious task. The different machine learning classification algorithms are used to convert unstructured data into structured data. In this paper, the authors first collect the unstructured research data from a frequently used social media network (i.e., Twitter) by using a Twitter application program interface (API) stream. Secondly, they implement different machine classification algorithms (supervised, unsupervised, and reinforcement) like decision trees (DT), neural networks (NN), support vector machines (SVM), naive Bayes (NB), linear regression (LR), and k-nearest neighbor (K-NN) from the collected research data set. The comparison of different machine learning classification algorithms is concluded.
+
+**Source:** https://www.semanticscholar.org/paper/d31aee375af451e44e113ffa3c5dff76ca517dc6
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:18:08.955Z

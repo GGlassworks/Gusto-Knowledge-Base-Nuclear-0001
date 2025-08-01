@@ -1,0 +1,13 @@
+# Advanced Reinforcement Learning and Its Connections with Brain Neuroscience
+
+**Authors:** Chaoqiong Fan, L. Yao, Jia-cai Zhang, Zonglei Zhen, Xia Wu
+
+## Abstract
+In recent years, brain science and neuroscience have greatly propelled the innovation of computer science. In particular, knowledge from the neurobiology and neuropsychology of the brain revolutionized the development of reinforcement learning (RL) by providing novel interpretable mechanisms of how the brain achieves intelligent and efficient decision making. Triggered by this, there has been a boom in research about advanced RL algorithms that are built upon the inspirations of brain neuroscience. In this work, to further strengthen the bidirectional link between the 2 communities and especially promote the research on modern RL technology, we provide a comprehensive survey of recent advances in the area of brain-inspired/related RL algorithms. We start with basis theories of RL, and present a concise introduction to brain neuroscience related to RL. Then, we classify these advanced RL methodologies into 3 categories according to different connections of the brain, i.e., micro-neural activity, macro-brain structure, and cognitive function. Each category is further surveyed by presenting several modern RL algorithms along with their mathematical models, correlations with the brain, and open issues. Finally, we introduce several important applications of RL algorithms, followed by the discussions of challenges and opportunities for future research.
+
+**Source:** https://www.semanticscholar.org/paper/5291241f4bcc077844694181ce8722e91cb41e3b
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T17:05:04.402Z

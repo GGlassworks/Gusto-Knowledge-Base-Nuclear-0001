@@ -1,0 +1,13 @@
+# Analysis and Prediction of Students’ Academic Performance Based on Educational Data Mining
+
+**Authors:** Guiyun Feng, Muwei Fan, Yu Chen
+
+## Abstract
+The development of intelligent technologies gains popularity in the education field. The rapid growth of educational data indicates traditional processing methods may have limitations and distortion. Therefore, reconstructing the research technology of data mining in the education field has become increasingly prominent. In order to avoid unreasonable evaluation results and monitor the students’ future performance in advance, this paper comprehensively uses the relevant theories of clustering, discrimination and convolution neural network to analyze and predict students’ academic performance. Firstly, this paper proposes that the clustering-number determination is optimized by using a statistic which has never been used in the algorithm of K-means. Then, the clustering effect of K-means algorithm is tested by discriminant analysis. The convolutional neural network is introduced for training and testing data that are labeled with categories. The generated model can be used to predict prospective performance. Finally, in order to validate the prediction results, the effectiveness of the generated model is evaluated by using two metrics in two cross-validation methods. The experimental result demonstrates that the statistic not only solves the difficulty to determine the clustering number in K-means algorithm from an objective and quantitative point of view, but also improves the reliability of prediction results.
+
+**Source:** https://www.semanticscholar.org/paper/0453c334b97dd859ab062c992daab51874f38b86
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:38:30.763Z

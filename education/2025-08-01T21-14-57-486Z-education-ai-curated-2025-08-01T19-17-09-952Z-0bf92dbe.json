@@ -1,0 +1,13 @@
+# Extending reference architecture of big data systems towards machine learning in edge computing environments
+
+**Authors:** Pekka Pääkkönen, Daniel Pakkala
+
+## Abstract
+Augmented reality, computer vision and other (e.g. network functions, Internet-of-Things (IoT)) use cases can be realised in edge computing environments with machine learning (ML) techniques. For realisation of the use cases, it has to be understood how data is collected, stored, processed, analysed, and visualised in big data systems. In order to provide services with low latency for end users, often utilisation of ML techniques has to be optimized. Also, software/service developers have to understand, how to develop and deploy ML models in edge computing environments. Therefore, architecture design of big data systems to edge computing environments may be challenging. The contribution of this paper is reference architecture (RA) design of a big data system utilising ML techniques in edge computing environments. An earlier version of the RA has been extended based on 16 realised implementation architectures, which have been developed to edge/distributed computing environments. Also, deployment of architectural elements in different environments is described. Finally, a system view is provided of the software engineering aspects of ML model development and deployment. The presented RA may facilitate concrete architecture design of use cases in edge computing environments. The value of RAs is reduction of development and maintenance costs of systems, reduction of risks, and facilitation of communication between different stakeholders.
+
+**Source:** https://www.semanticscholar.org/paper/c8fed8830caf52edea31a2ba040b86516cdaa4ec
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:17:09.953Z

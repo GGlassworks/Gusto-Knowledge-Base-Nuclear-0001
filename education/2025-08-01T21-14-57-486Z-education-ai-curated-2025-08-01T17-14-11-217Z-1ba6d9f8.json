@@ -1,0 +1,13 @@
+# Spikeling: A low-cost hardware implementation of a spiking neuron for neuroscience teaching and outreach
+
+**Authors:** T. Baden, B. James, Maxime J. Y. Zimmermann, P. Bartel, Dorieke Grijseels, Thomas Euler, L. Lagnado, M. Maravall
+
+## Abstract
+Understanding of how neurons encode and compute information is fundamental to our study of the brain, but opportunities for hands-on experience with neurophysiological techniques on live neurons are scarce in science education. Here, we present Spikeling, an open source £25 in silico implementation of a spiking neuron that mimics a wide range of neuronal behaviours for classroom education and public neuroscience outreach. Spikeling is based on an Arduino microcontroller running the computationally efficient Izhikevich model of a spiking neuron. The microcontroller is connected to input ports that simulate synaptic excitation or inhibition, dials controlling current injection and noise levels, a photodiode that makes Spikeling light-sensitive and an LED and speaker that allows spikes to be seen and heard. Output ports provide access to variables such as membrane potential for recording in experiments or digital signals that can be used to excite other connected Spikelings. These features allow for the intuitive exploration of the function of neurons and networks. We also report our experience of using Spikeling as a teaching tool for undergraduate and graduate neuroscience education in Nigeria and the UK.
+
+**Source:** https://www.semanticscholar.org/paper/de1af4cefb56b5b1f98fa53e1edb9917fd4ecd5b
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T17:14:11.217Z

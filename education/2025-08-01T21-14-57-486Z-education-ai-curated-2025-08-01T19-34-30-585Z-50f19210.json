@@ -1,0 +1,13 @@
+# Educational Data Mining and Analysis of Students’ Academic Performance Using WEKA
+
+**Authors:** Sadiq Hussain, N. A. Dahan, F. Ba-Alwi, Najoua Ribata
+
+## Abstract
+In this competitive scenario of the educational system, the higher education institutes use data mining tools and techniques for academic improvement of the student performance and to prevent drop out. The authors collected data from three colleges of Assam, India. The data consists of socio-economic, demographic as well as academic information of three hundred students with twenty-four attributes. Four classification methods, the J48, PART, Random Forest and Bayes Network Classifiers were used. The data mining tool used was WEKA. The high influential attributes were selected using the tool. The internal assessment attribute in the continuous evaluation process makes the highest impact in the final semester results of the students in our dataset.  The results showed that random forest outperforms the other classifiers based on accuracy and classifier errors. Apriori algorithm was also used to find the association rule mining among all the attributes and the best rules were also displayed.
+
+**Source:** https://www.semanticscholar.org/paper/7cf8a7ad1fffb3b4ce3f5f0715f73e0f22e4758a
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:34:30.586Z

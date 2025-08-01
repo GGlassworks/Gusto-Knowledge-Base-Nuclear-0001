@@ -1,0 +1,13 @@
+# Motivation for using data-driven algorithms in research: A review of machine learning solutions for image analysis of micrographs in neuroscience
+
+**Authors:** Frederic Thiele, A. Windebank, Ahad M. Siddiqui
+
+## Abstract
+Abstract Machine learning is a powerful tool that is increasingly being used in many research areas, including neuroscience. The recent development of new algorithms and network architectures, especially in the field of deep learning, has made machine learning models more reliable and accurate and useful for the biomedical research sector. By minimizing the effort necessary to extract valuable features from datasets, they can be used to find trends in data automatically and make predictions about future data, thereby improving the reproducibility and efficiency of research. One application is the automatic evaluation of micrograph images, which is of great value in neuroscience research. While the development of novel models has enabled numerous new research applications, the barrier to use these new algorithms has also decreased by the integration of deep learning models into known applications such as microscopy image viewers. For researchers unfamiliar with machine learning algorithms, the steep learning curve can hinder the successful implementation of these methods into their workflows. This review explores the use of machine learning in neuroscience, including its potential applications and limitations, and provides some guidance on how to select a fitting framework to use in real-life research projects.
+
+**Source:** https://www.semanticscholar.org/paper/829cbacfe87cf7e3999b3f648af2eb295d6107b0
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T17:05:02.671Z
