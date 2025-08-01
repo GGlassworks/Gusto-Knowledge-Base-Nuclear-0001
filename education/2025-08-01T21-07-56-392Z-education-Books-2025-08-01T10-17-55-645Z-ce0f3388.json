@@ -1,0 +1,13 @@
+# Basic Scientific Subroutines, Volume II.
+
+**Authors:** Ruckdeschel, F. R.
+
+## Abstract
+This book, second in a series dealing with scientific programing in the BASIC language, provides students, engineers, and scientists with a documented library of subroutines for scientific applications. Subjects of the eight chapters include: (1) least-squares approximation of functions and smoothing of data; (2) approximating functions by series other than least-squares polynomials; (3) functional approximation by iteration and recursion; (4) modified coordinate rotational digital computer (CORDIC) algorithm approximate techniques and alternatives; (5) table interpolation, differentiation, and integration; (6) finding real roots of functions; (7) finding complex roots of functions; and (8) optimization by steepest descent, in which the fundamental concept of the gradient is  applied to finding maxima/minima of functions. Software indices by number and function, complete listing of North Star BASIC demonstration and subroutine programs, compacted North Star BASIC subroutine listing, and aids for converting the demonstration/subroutine programs into other dialects of BASIC (in particular, Microsoft) are included in appendices. (Author/JN)
+
+**Source:** https://eric.ed.gov/?id=ED220269
+
+---
+Category: education
+Subcategory: Books
+Collected: 2025-08-01T10:17:55.646Z
