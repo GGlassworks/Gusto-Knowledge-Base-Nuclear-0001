@@ -1,0 +1,13 @@
+# Classification via Clustering for Predicting Final Marks Based on Student Participation in Forums
+
+**Authors:** Lopez, M. I., Luna, J. M., Romero, C., Ventura, S.
+
+## Abstract
+This paper proposes a classification via clustering approach to predict the final marks in a university course on the basis of forum data. The objective is twofold: to determine if student participation in the course forum can be a good predictor of the final marks for the course and to examine whether the proposed classification via clustering approach can obtain similar accuracy to traditional classification algorithms. Experiments were carried out using real data from first-year university students. Several clustering algorithms using the proposed approach were compared with traditional classification algorithms in predicting whether students pass or fail the course on the basis of their Moodle forum usage data. The results show that the Expectation-Maximisation (EM) clustering algorithm yields results similar to those of the best classification algorithms, especially when using only a group of selected attributes. Finally, the centroids of the EM clusters are described to show the relationship between the two clusters and the two classes of students. (Contains 2 figures and 6 tables.) [For the complete proceedings, "Proceedings of the International Conference on Educational Data Mining (EDM) (5th, Chania, Greece, June 19-21, 2012)," see ED537074.]
+
+**Source:** https://eric.ed.gov/?id=ED537221
+
+---
+Category: education
+Subcategory: Reports - Evaluative
+Collected: 2025-08-01T19:30:05.621Z

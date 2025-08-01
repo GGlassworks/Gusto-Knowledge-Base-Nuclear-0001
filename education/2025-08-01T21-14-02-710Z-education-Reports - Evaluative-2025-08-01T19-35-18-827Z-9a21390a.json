@@ -1,0 +1,13 @@
+# Identifying Learning Behaviors by Contextualizing Differential Sequence Mining with Action Features and Performance Evolution
+
+**Authors:** Kinnebrew, John S., Biswas, Gautam
+
+## Abstract
+Our learning-by-teaching environment, Betty's Brain, captures a wealth of data on students' learning interactions as they teach a virtual agent. This paper extends an exploratory data mining methodology for assessing and comparing students' learning behaviors from these interaction traces. The core algorithm employs sequence mining techniques to identify differentially frequent patterns between two predefined groups. We extend this technique by contextualizing the sequence mining with information on the student's task performance and learning activities. Specifically, we study transformation of action sequences using action features, such as activity categorizations, relevance and timing between actions, and repetition of analogous actions. We employ a piecewise linear segmentation algorithm in concert with the action transformation and differential sequence mining techniques to identify and compare segments of students' productive and unproductive learning behaviors. We present the results of this methodology applied to a recent middle school class study, in which students learned about climate change. Our primary focus in this analysis is the effectiveness and variation in the reading behaviors of high- versus low-performing students. These results illustrate the potential of this iterative methodology in identifying and interpreting learning behavior patterns at multiple levels of detail. (Contains 5 footnotes.) [For the complete proceedings, "Proceedings of the International Conference on Educational Data Mining (EDM) (5th, Chania, Greece, June 19-21, 2012)," see ED537074.]
+
+**Source:** https://eric.ed.gov/?id=ED537192
+
+---
+Category: education
+Subcategory: Reports - Evaluative
+Collected: 2025-08-01T19:35:18.828Z

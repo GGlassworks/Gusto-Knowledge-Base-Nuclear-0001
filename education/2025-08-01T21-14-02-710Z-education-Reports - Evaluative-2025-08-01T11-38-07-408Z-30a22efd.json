@@ -1,0 +1,13 @@
+# New Models for Forecasting Enrollments: Fuzzy Time Series and Neural Network Approaches.
+
+**Authors:** Song, Qiang, Chissom, Brad S.
+
+## Abstract
+Since university enrollment forecasting is very important, many different methods and models have been proposed by researchers. Two new methods for enrollment forecasting are introduced: (1) the fuzzy time series model; and (2) the artificial neural networks model. Fuzzy time series has been proposed to deal with forecasting problems within a fuzzy environment. In this model, the uncertainty encountered in the forecasting process is taken as being produced by our incomplete understanding of nature. As a result, it is different from any stochastic methods. The major problem with this method is that the forecasted values depend to some degree on our interpretations of the outputs of the forecasting model, which makes the process quite subjective. Artificial neural networks  represent an advanced technology applied in engineering. When applied in forecasting, uncertainty is ignored. Consequently, the model is a deterministic one. In spite of this, because of the ability to generalize once trained, the network model has robustness. Examples show how these methods are applied. Six figures and two tables illustrate these applications. (SLD)
+
+**Source:** https://eric.ed.gov/?id=ED358169
+
+---
+Category: education
+Subcategory: Reports - Evaluative
+Collected: 2025-08-01T11:38:07.409Z
