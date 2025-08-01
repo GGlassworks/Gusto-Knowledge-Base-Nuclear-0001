@@ -1,0 +1,17 @@
+# Adaptive Learning in Macroeconomics
+
+**Authors:** George W. Evans, Bruce McGough
+
+## Abstract
+<p>While <italic>rational expectations</italic> (RE) remains the benchmark paradigm in macro-economic modeling, <italic>bounded rationality</italic>, especially in the form of adaptive learning, has become a mainstream alternative. Under the adaptive learning (AL) approach, economic agents in dynamic, stochastic environments are modeled as adaptive learners forming expectations and making decisions based on forecasting rules that are updated in real time as new data become available. Their decisions are then coordinated each period via the economy’s markets and other relevant institutional architecture, resulting in a time-path of economic aggregates. In this way, the AL approach introduces additional dynamics into the model—dynamics that can be used to address myriad macroeconomic issues and concerns, including, for example, empirical fit and the plausibility of specific rational expectations equilibria.</p>
+               <p>AL can be implemented as <italic>reduced-form learning</italic>, that is, the implementation of learning at the aggregate level, or alternatively, as discussed in a companion contribution to this Encyclopedia, Evans and McGough, as <italic>agent-level learning</italic>, which includes pre-aggregation analysis of boundedly rational decision making.</p>
+               <p>Typically learning agents are assumed to use estimated linear forecast models, and a central formulation of AL is least-squares learning in which agents recursively update their estimated model as new data become available. Key questions include whether AL will converge over time to a specified RE equilibrium (REE), in which cases we say the REE is stable under AL; in this case, it is also of interest to examine what type of learning dynamics are observed en route. When multiple REE exist, stability under AL can act as a selection criterion, and global dynamics can involve switching between local basins of attraction. In models with indeterminacy, AL can be used to assess whether agents can learn to coordinate their expectations on sunspots.</p>
+               <p>The key analytical concepts and tools are the E-stability principle together with the E-stability differential equations, and the theory of stochastic recursive algorithms (SRA). While, in general, analysis of SRAs is quite technical, application of the E-stability principle is often straightforward.</p>
+               <p>In addition to equilibrium analysis in macroeconomic models, AL has many applications. In particular, AL has strong implications for the conduct of monetary and fiscal policy, has been used to explain asset price dynamics, has been shown to improve the fit of estimated dynamic stochastic general equilibrium (DSGE) models, and has been proven useful in explaining experimental outcomes.</p>
+
+**Source:** https://doi.org/10.1093/acrefore/9780190625979.013.508
+
+---
+Category: economics
+Subcategory: general
+Collected: 2025-08-01T20:17:29.878Z
