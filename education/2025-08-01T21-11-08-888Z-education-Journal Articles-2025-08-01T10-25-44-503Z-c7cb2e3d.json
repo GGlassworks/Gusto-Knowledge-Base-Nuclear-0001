@@ -1,0 +1,13 @@
+# Learning Text Analytics without Coding? An Introduction to KNIME
+
+**Authors:** Ihrmark, Daniel, Tyrkkö, Jukka
+
+## Abstract
+The combination of the quantitative turn in linguistics and the emergence of text analytics has created a demand for new methodological skills among linguists and data scientists. This paper introduces KNIME as a low-code programming platform for linguists interested in learning text analytic methods, while highlighting the considerations necessary from a linguistics standpoint for data scientists. Examples from an Open Educational Resource created for the DiMPAH project are used to demonstrate KNIME's value as a low-code option for text analysis, using sentiment analysis and topic modelling as examples. The paper provides detailed step-by-step descriptions of the workflows for both methods, showcasing how these methods can be applied without writing code. The results suggest that visual or low-code programming tools are useful as an introduction for linguists and humanities scholars who wish to gain an understanding of text analytic workflows and computational thinking. However, as with more traditional programming, caution must be exercised when using methods without fully understanding them. In conclusion, KNIME is a potential avenue for innovative research and teaching computational methods to humanities scholars.
+
+**Source:** https://eric.ed.gov/?id=EJ1381138
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:25:44.503Z
