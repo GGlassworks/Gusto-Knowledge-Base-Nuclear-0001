@@ -1,0 +1,13 @@
+# Methodology of the Blockchain Monitoring Framework
+
+**Authors:** Dominique Bernard Kanga, Mohamed Azouazi, Mohammed Yassine El Ghoumrari, Abderrahmane Daif
+
+## Abstract
+<jats:p>A blockchain is a technology that allows the storage and transmission of information without a control body. Technically, it is a distributed database in which the information sent by users is verified and grouped into blocks, thus forming a chain. Thanks to the secure encryption of the data and the fact that new transactions are linked to the previous ones, it is almost impossible to modify the old records without modifying the following ones. On the other hand, the control of the blockchain by more than half of the nodes in the network (by consensus) makes it impossible to falsify the data in the blockchain. However, this public/private, anonymous, and unforgeable ledger that is the blockchain contains a set of information (metrics, logs, etc.) that can provide clues for an efficient monitoring and allow the reinforcement of the security of the blockchain that could be discussed in the future with the advent of quantum machines.</jats:p>
+
+**Source:** https://doi.org/10.5772/intechopen.109550
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T13:10:12.033Z

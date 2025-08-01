@@ -1,0 +1,13 @@
+# Development and Research of the Methodology for Improving the Proof‐of‐Work Blockchain Technology by Implementing Dynamic Clustering of Network Nodes
+
+**Authors:** Diana Soloviova, Svitlana Antoshchuk, Viktor Boltenkov
+
+## Abstract
+<jats:title>ABSTRACT</jats:title><jats:p>In this paper, a methodology for optimizing the proof‐of‐work (PoW) blockchain technology based on dynamic node clustering to reduce transaction time is proposed. A blockchain network modeling system that implements the approach of dynamic node distribution into clusters, allowing the system to be divided into subsystems was developed and implemented. An alternative consensus concept for more efficient interaction between network nodes was proposed. The results of the study demonstrate that the cluster structure improves network performance: it increases the number of transactions per second by 0.02 transactions, reduces the average transaction time by 1.67 s, increases throughput by 0.2 transactions, reduces latency by 1.667 s, and significantly reduces the overall energy consumption of the system (reduction by 5122 energy units). These data confirm the potential of the proposed approach for a wide range of practical applications.</jats:p>
+
+**Source:** https://doi.org/10.1049/blc2.70006
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T13:10:12.126Z
