@@ -1,0 +1,12 @@
+# Disentangling Structural Breaks in Factor Models for Macroeconomic Data
+
+**Authors:** Bonsoo Koo, Benjamin Wong, Ze-Yu Zhong
+
+## Summary
+Through a routine normalization of the factor variance, standard methods for estimating factor models in macroeconomics do not distinguish between breaks of the factor variance and factor loadings. We argue that it is important to distinguish between structural breaks in the factor variance and loadings within factor models commonly employed in macroeconomics as both can lead to markedly different interpretations when viewed via the lens of the underlying dynamic factor model. We then develop a projection-based decomposition that leads to two standard and easy-to-implement Wald tests to disentangle structural breaks in the factor variance and factor loadings. Applying our procedure to U.S. macroeconomic data, we find evidence of both types of breaks associated with the Great Moderation and the Great Recession. Through our projection-based decomposition, we estimate that the Great Moderation is associated with an over 60% reduction in the total factor variance, highlighting the relevance of disentangling breaks in the factor structure.
+
+
+---
+Category: economics
+Subcategory: stat.ME
+Collected: 2025-08-01T20:10:55.311Z

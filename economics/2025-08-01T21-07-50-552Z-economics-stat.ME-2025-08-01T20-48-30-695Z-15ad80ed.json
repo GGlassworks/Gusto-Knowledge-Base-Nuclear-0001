@@ -1,0 +1,12 @@
+# Investigating linear relationships between non constant variances of economic variables
+
+**Authors:** Junichi Hirukawa, Hamdi Raïssi
+
+## Summary
+In this paper we aim to assess linear relationships between the non constant variances of economic variables. The proposed methodology is based on a bootstrap cumulative sum (CUSUM) test. Simulations suggest a good behavior of the test for sample sizes commonly encountered in practice. The tool we provide is intended to highlight relations or draw common patterns between economic variables through their non constant variances. The outputs of this paper is illustrated considering U.S. regional data.
+
+
+---
+Category: economics
+Subcategory: stat.ME
+Collected: 2025-08-01T20:48:30.697Z

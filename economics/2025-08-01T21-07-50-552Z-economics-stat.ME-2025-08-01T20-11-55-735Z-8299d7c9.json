@@ -1,0 +1,12 @@
+# Testing normality for unconditionally heteroscedastic macroeconomic variables
+
+**Authors:** Hamdi Raïssi
+
+## Summary
+In this paper the testing of normality for unconditionally heteroscedastic macroeconomic time series is studied. It is underlined that the classical Jarque-Bera test (JB hereafter) for normality is inadequate in our framework. On the other hand it is found that the approach which consists in correcting the heteroscedasticity by kernel smoothing for testing normality is justified asymptotically. Nevertheless it appears from Monte Carlo experiments that such methodology can noticeably suffer from size distortion for samples that are typical for macroeconomic variables. As a consequence a parametric bootstrap methodology for correcting the problem is proposed. The innovations distribution of a set of inflation measures for the U.S., Korea and Australia are analyzed.
+
+
+---
+Category: economics
+Subcategory: stat.ME
+Collected: 2025-08-01T20:11:55.737Z

@@ -1,0 +1,12 @@
+# Transmission of Macroeconomic Shocks to Risk Parameters: Their uses in Stress Testing
+
+**Authors:** Helder Rojas, David Dias
+
+## Summary
+In this paper, we are interested in evaluating the resilience of financial portfolios under extreme economic conditions. Therefore, we use empirical measures to characterize the transmission process of macroeconomic shocks to risk parameters. We propose the use of an extensive family of models, called General Transfer Function Models, which condense well the characteristics of the transmission described by the impact measures. The procedure for estimating the parameters of these models is described employing the Bayesian approach and using the prior information provided by the impact measures. In addition, we illustrate the use of the estimated models from the credit risk data of a portfolio.
+
+
+---
+Category: economics
+Subcategory: stat.AP
+Collected: 2025-08-01T20:20:05.872Z

@@ -1,0 +1,12 @@
+# Multivariate Bayesian Predictive Synthesis in Macroeconomic Forecasting
+
+**Authors:** Kenichiro McAlinn, Knut Are Aastveit, Jouchi Nakajima, Mike West
+
+## Summary
+We develop the methodology and a detailed case study in use of a class of Bayesian predictive synthesis (BPS) models for multivariate time series forecasting. This extends the recently introduced foundational framework of BPS to the multivariate setting, with detailed application in the topical and challenging context of multi-step macroeconomic forecasting in a monetary policy setting. BPS evaluates-- sequentially and adaptively over time-- varying forecast biases and facets of miscalibration of individual forecast densities, and-- critically-- of time-varying inter-dependencies among them over multiple series. We develop new BPS methodology for a specific subclass of the dynamic multivariate latent factor models implied by BPS theory. Structured dynamic latent factor BPS is here motivated by the application context-- sequential forecasting of multiple US macroeconomic time series with forecasts generated from several traditional econometric time series models. The case study highlights the potential of BPS to improve of forecasts of multiple series at multiple forecast horizons, and its use in learning dynamic relationships among forecasting models or agents.
+
+
+---
+Category: economics
+Subcategory: stat.ME
+Collected: 2025-08-01T10:59:23.016Z
