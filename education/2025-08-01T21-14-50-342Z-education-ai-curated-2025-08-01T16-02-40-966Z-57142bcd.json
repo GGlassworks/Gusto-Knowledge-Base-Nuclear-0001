@@ -1,0 +1,13 @@
+# RETRACTED: Research and implementation of mechanical virtual experiment teaching platform
+
+**Authors:** Jiaofei Huo, Xingzuo Yue
+
+## Abstract
+Virtual experiment teaching is an important part of higher education institutions and research institutions. It plays an important role in helping students develop basic experimental research capabilities and innovative experimental research concepts. Mechanical majors focus on the cultivation of students' practical hands-on ability, but the traditional mechanical experimental equipment update iteration is slower, the experimental cost is higher, and there are potential safety hazards. In order to solve the problems encountered in the above mechanical experiment teaching, this paper focuses on the characteristics of the mechanical disciplines, after analyzing the development of virtual experiments at home and abroad, using the B/S architecture, Bootstrap framework and Hibernate technology, and the virtual reality technology and augmented reality technology in Unity3D environment are used to design and implement the mechanical virtual experiment teaching platform. Users can select the corresponding experiment in the virtual platform. In the experiment, the parts can be viewed from different perspectives. After the experiment is completed, the experimental result information can be obtained, and the experiment report can be completed online, which effectively saves teachers and students time. Through the survey of 518 students and 52 teachers who used this platform, most of the teachers and students agreed with the rich multimedia resources, friendly interaction and convenient collaborative communication of the mechanical virtual experiment teaching platform.
+
+**Source:** https://www.semanticscholar.org/paper/c1f32ff527387d5ab255e5cbf19413a7a2456e91
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T16:02:40.966Z

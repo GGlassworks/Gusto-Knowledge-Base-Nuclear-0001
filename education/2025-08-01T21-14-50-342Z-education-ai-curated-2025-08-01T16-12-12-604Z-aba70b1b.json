@@ -1,0 +1,13 @@
+# Machine learning techniques for robotic and autonomous inspection of mechanical systems and civil infrastructure
+
+**Authors:** Michael O. Macaulay, M. Shafiee
+
+## Abstract
+Machine learning and in particular deep learning techniques have demonstrated the most efficacy in training, learning, analyzing, and modelling large complex structured and unstructured datasets. These techniques have recently been commonly deployed in different industries to support robotic and autonomous system (RAS) requirements and applications ranging from planning and navigation to machine vision and robot manipulation in complex environments. This paper reviews the state-of-the-art with regard to RAS technologies (including unmanned marine robot systems, unmanned ground robot systems, climbing and crawler robots, unmanned aerial vehicles, and space robot systems) and their application for the inspection and monitoring of mechanical systems and civil infrastructure. We explore various types of data provided by such systems and the analytical techniques being adopted to process and analyze these data. This paper provides a brief overview of machine learning and deep learning techniques, and more importantly, a classification of the literature which have reported the deployment of such techniques for RAS-based inspection and monitoring of utility pipelines, wind turbines, aircrafts, power lines, pressure vessels, bridges, etc. Our research provides documented information on the use of advanced data-driven technologies in the analysis of critical assets and examines the main challenges to the applications of such technologies in the industry.
+
+**Source:** https://www.semanticscholar.org/paper/cd2e8ad7816b8d27f2c0bb53dc1bda44ff240500
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T16:12:12.604Z

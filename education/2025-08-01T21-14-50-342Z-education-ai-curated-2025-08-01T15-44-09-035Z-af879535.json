@@ -1,0 +1,14 @@
+# Missing data imputation over academic records of electrical engineering students
+
+**Authors:** Esteban Jove, P. Blanco-Rodríguez, J. Casteleiro-Roca, Héctor Quintián-Pardo, Francisco Javier Moreno Arboleda, J. López-Vázquez, B. A. Rodríguez-Gómez, M. Meizoso-López, A. P. Pazos, F. J. D. C. Juez, Sung-Bae Cho, J. Calvo-Rolle
+
+## Abstract
+
+ Nowadays, the quality standards of higher education institutions pay special attention to the performance and evaluation of the students. Then, having a complete academic record of each student, such as number of attempts, average grade and so on, plays a key role. In this context, the existence of missing data, which can happen for different reasons, leads to affect adversely interesting future analysis. Therefore, the use of imputation techniques is presented as a helpful tool to estimate the value of missing data. This work deals with the academic records of engineering students, in which imputation techniques are applied. More specifically, it is assessed and compared to the performance of the multivariate imputation by chained equations methodology, the adaptive assignation algorithm (AAA) based on multivariate adaptive regression splines and a hybridization based on self-organisation maps with Mahalanobis distances and AAA algorithm. The results show that proposed methods obtain successfully results regardless the number of missing values, in general terms.
+
+**Source:** https://www.semanticscholar.org/paper/b3e3f07d182fe34b7237b7ed671f73fb0ee401b3
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T15:44:09.035Z

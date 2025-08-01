@@ -1,0 +1,13 @@
+# Fusion of thermal and RGB images for automated deep learning based crack detection in civil infrastructure
+
+**Authors:** Quincy G. Alexander, Vedhus Hoskere, Y. Narazaki, Andrew Maxwell, B. Spencer
+
+## Abstract
+Research has been continually growing toward the development of image-based structural health monitoring tools that can leverage deep learning models to automate damage detection in civil infrastructure. However, these tools are typically based on RGB images, which work well under ideal lighting conditions, but often have degrading performance in poor and low-light scenes. On the other hand, thermal images, while lacking in crispness of details, do not show the same degradation of performance in changing lighting conditions. The potential to enhance automated damage detection by fusing RGB and thermal images together within a deep learning network has yet to be explored. In this paper, RGB and thermal images are fused in a ResNET-based semantic segmentation model for vision-based inspections. A convolutional neural network is then employed to automatically identify damage defects in concrete. The model uses a thermal and RGB encoder to combine the features detected from both spectrums to improve its performance of the model, and a single decoder to predict the classes. The results suggest that this RGB-thermal fusion network outperforms the RGB-only network in the detection of cracks using the Intersection Over Union (IOU) performance metric. The RGB-thermal fusion model not only detected damage at a higher performance rate, but it also performed much better in differentiating the types of damage.
+
+**Source:** https://www.semanticscholar.org/paper/47479f1056efe373df0eec679f0c6f869a41957e
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T16:10:20.200Z

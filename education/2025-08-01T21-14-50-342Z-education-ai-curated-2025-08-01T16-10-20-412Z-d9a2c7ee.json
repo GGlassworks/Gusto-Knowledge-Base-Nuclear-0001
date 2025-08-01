@@ -1,0 +1,13 @@
+# Civil infrastructure defect assessment using pixel-wise segmentation based on deep learning
+
+**Authors:** Pierclaudio Savino, F. Tondolo
+
+## Abstract
+Nowadays, the number of aging civil infrastructures is growing world-wide and when concrete is involved, cracking and delamination can occur. Therefore, ensuring the safety and serviceability of existing civil infrastructure and preventing an inadequate level of damage have become some of the major issues in civil engineering field. Routine inspections and maintenance are then required to avoid leaving these defects unexplored and untreated. However, due to the limitations of on-field inspection resources and budget management efficiency, automation technology is needed to develop more effective and pervasive inspection processes. This paper presents a pixel-wise classification method to automatically detect and quantify concrete defects from images through semantic segmentation network. The proposed model uses Deeplabv3+ network with weights initialized from pre-trained neural networks. The comparison study among the performance of different deep neural network models resulted in ResNet-50 as the most suitable network for applications of civil infrastructure defects segmentation. A total of 1250 images have been collected from the Internet, on-field bridge inspections and Google Street View in order to build an invariant network for different resolutions, image qualities and backgrounds. A randomized data augmentation allowed to double the database and assign 2000 images for training and 500 images for validation. The experimental results show global accuracies for training and validation of 93.42% and 91.04%, respectively. The promising results highlighted the suitability of the model to be integrated in digitalized management system to increase the productivity of management agencies involved in civil infrastructure inspections and digital transformation.
+
+**Source:** https://www.semanticscholar.org/paper/14c4bf9e8d9fffac7a223e94d33ee1aa0a32dc65
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T16:10:20.412Z

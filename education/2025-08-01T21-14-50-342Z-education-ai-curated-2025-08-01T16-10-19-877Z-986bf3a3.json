@@ -1,0 +1,13 @@
+# Influence of Data Splitting on Performance of Machine Learning Models in Prediction of Shear Strength of Soil
+
+**Authors:** Q. Nguyen, H. Ly, Lanh Si Ho, N. Al‐Ansari, H. V. Le, V. Tran, Indra Prakash, B. Pham
+
+## Abstract
+The main objective of this study is to evaluate and compare the performance of different machine learning (ML) algorithms, namely, Artificial Neural Network (ANN), Extreme Learning Machine (ELM), and Boosting Trees (Boosted) algorithms, considering the influence of various training to testing ratios in predicting the soil shear strength, one of the most critical geotechnical engineering properties in civil engineering design and construction. For this aim, a database of 538 soil samples collected from the Long Phu 1 power plant project, Vietnam, was utilized to generate the datasets for the modeling process. Different ratios (i.e., 10/90, 20/80, 30/70, 40/60, 50/50, 60/40, 70/30, 80/20, and 90/10) were used to divide the datasets into the training and testing datasets for the performance assessment of models. Popular statistical indicators, such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Correlation Coefficient (R), were employed to evaluate the predictive capability of the models under different training and testing ratios. Besides, Monte Carlo simulation was simultaneously carried out to evaluate the performance of the proposed models, taking into account the random sampling effect. The results showed that although all three ML models performed well, the ANN was the most accurate and statistically stable model after 1000 Monte Carlo simulations (Mean R = 0.9348) compared with other models such as Boosted (Mean R = 0.9192) and ELM (Mean R = 0.8703). Investigation on the performance of the models showed that the predictive capability of the ML models was greatly affected by the training/testing ratios, where the 70/30 one presented the best performance of the models. Concisely, the results presented herein showed an effective manner in selecting the appropriate ratios of datasets and the best ML model to predict the soil shear strength accurately, which would be helpful in the design and engineering phases of construction projects.
+
+**Source:** https://www.semanticscholar.org/paper/1e97929230cdcfc13584c3c66f0ecf5cff9be5e2
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T16:10:19.877Z

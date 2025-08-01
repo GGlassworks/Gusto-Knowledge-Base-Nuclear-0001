@@ -1,0 +1,13 @@
+# A novel generalized normal distribution optimizer with elite oppositional based learning for optimization of mechanical engineering problems
+
+**Authors:** Pranav Mehta, Betül Sultan Yıldız, N. Pholdee, Sumit Kumar, Ali Rıza Yıldız, S. M. Sait, Sujin Bureerat
+
+## Abstract
+Abstract Optimization of engineering discipline problems are quite a challenging task as they carry design parameters and various constraints. Metaheuristic algorithms can able to handle those complex problems and realize the global optimum solution for engineering problems. In this article, a novel generalized normal distribution algorithm that is integrated with elite oppositional-based learning (HGNDO-EOBL) is studied and employed to optimize the design of the eight benchmark engineering functions. Moreover, the statistical results obtained from the HGNDO-EOBL are collated with the data obtained from the well-established algorithms such as whale optimizer, salp swarm optimizer, LFD optimizer, manta ray foraging optimization algorithm, hunger games search algorithm, reptile search algorithm, and INFO algorithm. For each of the cases, a comparison of the statistical results suggests that HGNDO-EOBL is superior in terms of realizing the prominent values of the fitness function compared to established algorithms. Accordingly, the HGNDO-EOBL can be adopted for a wide range of engineering optimization problems.
+
+**Source:** https://www.semanticscholar.org/paper/c549958bbdc8b346ba95708e6d8b2d4dc7f33046
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T15:53:27.370Z
