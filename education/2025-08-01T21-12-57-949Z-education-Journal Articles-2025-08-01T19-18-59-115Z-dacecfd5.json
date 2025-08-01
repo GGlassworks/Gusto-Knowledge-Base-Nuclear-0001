@@ -1,0 +1,13 @@
+# Integrating Big Data into Evaluation: R Code for Topic Identification and Modeling
+
+**Authors:** Cintron, Dakota W., Montrosse-Moorhead, Bianca
+
+## Abstract
+Despite the rising popularity of big data, there is speculation that evaluators have been slow adopters of these new statistical approaches. Several possible reasons have been offered for why this is the case: ethical concerns, institutional capacity, and evaluator capacity and values. In this method note, we address one of these barriers and aim to build evaluator capacity to integrate big data analytics into their studies. We focus our efforts on a specific topic modeling technique referred to as latent Dirichlet allocation (LDA) because of the ubiquitousness of qualitative textual data in evaluation. Given current equity debates, both within evaluation and the communities in which we practice, we analyze 1,796 tweets that use the hashtag &quot;#equity&quot; with the R packages &quot;topicmodels&quot; and &quot;ldatuning&quot; to illustrate the use of LDA. Furthermore, a freely available workbook for implementing LDA topic modeling is provided as Supplemental Material Online.
+
+**Source:** https://eric.ed.gov/?id=EJ1351084
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:18:59.115Z

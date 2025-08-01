@@ -1,0 +1,13 @@
+# Business English Teaching Reform under the Background of Artificial Intelligence + Big Data
+
+**Authors:** Ting Ding, Mengqi Zhang
+
+## Abstract
+The level of information technology is increasing, and technology is developed. University English teaching has also changed under its influence. Different from the traditional teaching in the past, more and more students adopt the mode of &quot;Internet + Smartphone&quot; to learn English. This paper proposes a teaching mode evaluation method in the context of big data. Through the K-means algorithm based on it, the data clustering of business English teaching mode is completed. According to the data obtained from clustering, combined with the standardization of positive and negative indicators, the business English teaching mode system is constructed. Experiments show that when the clustering K value is 16, the clustering accuracy of this method is 99.2%, and it can effectively get the index weights, and the evaluation time is short, which is better than the other two comparison methods.
+
+**Source:** https://eric.ed.gov/?id=EJ1438318
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:24:56.374Z

@@ -1,0 +1,13 @@
+# Within-Subject Mediation Analysis for Experimental Data in Cognitive Psychology and Neuroscience
+
+**Authors:** Vuorre, Matti, Bolger, Niall
+
+## Abstract
+Statistical mediation allows researchers to investigate potential causal effects of experimental manipulations through intervening variables. It is a powerful tool for assessing the presence and strength of postulated causal mechanisms. Although mediation is used in certain areas of psychology, it is rarely applied in cognitive psychology and neuroscience. One reason for the scarcity of applications is that these areas of psychology commonly employ within-subjects designs, and mediation models for within-subjects data are considerably more complicated than for between-subjects data. Here, we draw attention to the importance and ubiquity of mediational hypotheses in within-subjects designs, and we present a general and flexible software package for conducting Bayesian within-subjects mediation analyses in the R programming environment. We use experimental data from cognitive psychology to illustrate the benefits of within-subject mediation for theory testing and comparison.
+
+**Source:** https://eric.ed.gov/?id=ED602943
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T17:16:05.407Z
