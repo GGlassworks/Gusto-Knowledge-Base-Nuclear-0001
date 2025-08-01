@@ -1,0 +1,12 @@
+# Curatr: A Platform for Semantic Analysis and Curation of Historical Literary Texts
+
+**Authors:** Susan Leavy, Gerardine Meaney, Karen Wade, Derek Greene
+
+## Summary
+The increasing availability of digital collections of historical and contemporary literature presents a wealth of possibilities for new research in the humanities. The scale and diversity of such collections however, presents particular challenges in identifying and extracting relevant content. This paper presents Curatr, an online platform for the exploration and curation of literature with machine learning-supported semantic search, designed within the context of digital humanities scholarship. The platform provides a text mining workflow that combines neural word embeddings with expert domain knowledge to enable the generation of thematic lexicons, allowing researches to curate relevant sub-corpora from a large corpus of 18th and 19th century digitised texts.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.453Z

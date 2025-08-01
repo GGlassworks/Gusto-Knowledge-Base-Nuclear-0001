@@ -1,0 +1,12 @@
+# Mapping Industry 4.0 Technologies: From Cyber-Physical Systems to Artificial Intelligence
+
+**Authors:** Benjamin Meindl, Joana Mendonça
+
+## Summary
+The fourth industrial revolution is rapidly changing the manufacturing landscape. Due to the growing research and fast evolution in this field, no clear definitions of these concepts yet exist. This work provides a clear description of technological trends and gaps. We introduce a novel method to create a map of Industry 4.0 technologies, using natural language processing to extract technology terms from 14,667 research articles and applying network analysis. We identified eight clusters of Industry 4.0 technologies, which served as the basis for our analysis. Our results show that Industrial Internet of Things (IIoT) technologies have become the center of the Industry 4.0 technology map. This is in line with the initial definitions of Industry 4.0, which centered on IIoT. Given the recent growth in the importance of artificial intelligence (AI), we suggest accounting for AI's fundamental role in Industry 4.0 and understanding the fourth industrial revolution as an AI-powered natural collaboration between humans and machines. This article introduces a novel approach for literature reviews, and the results highlight trends and research gaps to guide future work and help these actors reap the benefits of digital transformations.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:36.592Z

@@ -1,0 +1,12 @@
+# Automatic Translation Alignment Pipeline for Multilingual Digital Editions of Literary Works
+
+**Authors:** Maria Levchenko
+
+## Summary
+This paper investigates the application of translation alignment algorithms in the creation of a Multilingual Digital Edition (MDE) of Alessandro Manzoni's Italian novel "I promessi sposi" ("The Betrothed"), with translations in eight languages (English, Spanish, French, German, Dutch, Polish, Russian and Chinese) from the 19th and 20th centuries. We identify key requirements for the MDE to improve both the reader experience and support for translation studies. Our research highlights the limitations of current state-of-the-art algorithms when applied to the translation of literary texts and outlines an automated pipeline for MDE creation. This pipeline transforms raw texts into web-based, side-by-side representations of original and translated texts with different rendering options. In addition, we propose new metrics for evaluating the alignment of literary translations and suggest visualization techniques for future analysis.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.509Z

@@ -1,0 +1,12 @@
+# Stacking Neural Network Models for Automatic Short Answer Scoring
+
+**Authors:** Rian Adam Rajagede, Rochana Prih Hastuti
+
+## Summary
+Automatic short answer scoring is one of the text classification problems to assess students' answers during exams automatically. Several challenges can arise in making an automatic short answer scoring system, one of which is the quantity and quality of the data. The data labeling process is not easy because it requires a human annotator who is an expert in their field. Further, the data imbalance process is also a challenge because the number of labels for correct answers is always much less than the wrong answers. In this paper, we propose the use of a stacking model based on neural network and XGBoost for classification process with sentence embedding feature. We also propose to use data upsampling method to handle imbalance classes and hyperparameters optimization algorithm to find a robust model automatically. We use Ukara 1.0 Challenge dataset and our best model obtained an F1-score of 0.821 exceeding the previous work at the same dataset.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:21.943Z

@@ -1,0 +1,12 @@
+# OSPC: Artificial VLM Features for Hateful Meme Detection
+
+**Authors:** Peter Grönquist
+
+## Summary
+The digital revolution and the advent of the world wide web have transformed human communication, notably through the emergence of memes. While memes are a popular and straightforward form of expression, they can also be used to spread misinformation and hate due to their anonymity and ease of use. In response to these challenges, this paper introduces a solution developed by team 'Baseline' for the AI Singapore Online Safety Prize Challenge. Focusing on computational efficiency and feature engineering, the solution achieved an AUROC of 0.76 and an accuracy of 0.69 on the test dataset. As key features, the solution leverages the inherent probabilistic capabilities of large Vision-Language Models (VLMs) to generate task-adapted feature encodings from text, and applies a distilled quantization tailored to the specific cultural nuances present in Singapore. This type of processing and fine-tuning can be adapted to various visual and textual understanding and classification tasks, and even applied on private VLMs such as OpenAI's GPT. Finally it can eliminate the need for extensive model training on large GPUs for resource constrained applications, also offering a solution when little or no data is available.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:24.447Z

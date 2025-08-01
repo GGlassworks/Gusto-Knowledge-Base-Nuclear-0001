@@ -1,0 +1,12 @@
+# Low-Resource Adaptation of Open-Domain Generative Chatbots
+
+**Authors:** Greyson Gerhard-Young, Raviteja Anantha, Srinivas Chappidi, Björn Hoffmeister
+
+## Summary
+Recent work building open-domain chatbots has demonstrated that increasing model size improves performance. On the other hand, latency and connectivity considerations dictate the move of digital assistants on the device. Giving a digital assistant like Siri, Alexa, or Google Assistant the ability to discuss just about anything leads to the need for reducing the chatbot model size such that it fits on the user's device. We demonstrate that low parameter models can simultaneously retain their general knowledge conversational abilities while improving in a specific domain. Additionally, we propose a generic framework that accounts for variety in question types, tracks reference throughout multi-turn conversations, and removes inconsistent and potentially toxic responses. Our framework seamlessly transitions between chatting and performing transactional tasks, which will ultimately make interactions with digital assistants more human-like. We evaluate our framework on 1 internal and 4 public benchmark datasets using both automatic (Perplexity) and human (SSA - Sensibleness and Specificity Average) evaluation metrics and establish comparable performance while reducing model parameters by 90%.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:16.802Z

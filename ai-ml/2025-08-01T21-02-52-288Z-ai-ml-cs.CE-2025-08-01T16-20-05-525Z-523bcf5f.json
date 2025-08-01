@@ -1,0 +1,12 @@
+# Rule-based autocorrection of Piping and Instrumentation Diagrams (P&amp;IDs) on graphs
+
+**Authors:** Lukas Schulze Balhorn, Niels Seijsener, Kevin Dao, Minji Kim, Dominik P. Goldstein, Ge H. M. Driessen, Artur M. Schweidtmann
+
+## Summary
+A piping and instrumentation diagram (P&amp;ID) is a central reference document in chemical process engineering. Currently, chemical engineers manually review P&amp;IDs through visual inspection to find and rectify errors. However, engineering projects can involve hundreds to thousands of P&amp;ID pages, creating a significant revision workload. This study proposes a rule-based method to support engineers with error detection and correction in P&amp;IDs. The method is based on a graph representation of P&amp;IDs, enabling automated error detection and correction, i.e., autocorrection, through rule graphs. We use our pyDEXPI Python package to generate P&amp;ID graphs from DEXPI-standard P&amp;IDs. In this study, we developed 33 rules based on chemical engineering knowledge and heuristics, with five selected rules demonstrated as examples. A case study on an illustrative P&amp;ID validates the reliability and effectiveness of the rule-based autocorrection method in revising P&amp;IDs.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CE
+Collected: 2025-08-01T16:20:05.526Z

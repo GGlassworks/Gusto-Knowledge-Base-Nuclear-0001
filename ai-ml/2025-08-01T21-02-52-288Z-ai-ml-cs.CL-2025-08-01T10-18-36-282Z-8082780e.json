@@ -1,0 +1,12 @@
+# Analyzing the temporal dynamics of linguistic features contained in misinformation
+
+**Authors:** Erik J Schlicht
+
+## Summary
+Consumption of misinformation can lead to negative consequences that impact the individual and society. To help mitigate the influence of misinformation on human beliefs, algorithmic labels providing context about content accuracy and source reliability have been developed. Since the linguistic features used by algorithms to estimate information accuracy can change across time, it is important to understand their temporal dynamics. As a result, this study uses natural language processing to analyze PolitiFact statements spanning between 2010 and 2024 to quantify how the sources and linguistic features of misinformation change between five-year time periods. The results show that statement sentiment has decreased significantly over time, reflecting a generally more negative tone in PolitiFact statements. Moreover, statements associated with misinformation realize significantly lower sentiment than accurate information. Additional analysis shows that recent time periods are dominated by sources from online social networks and other digital forums, such as blogs and viral images, that contain high levels of misinformation containing negative sentiment. In contrast, most statements during early time periods are attributed to individual sources (i.e., politicians) that are relatively balanced in accuracy ratings and contain statements with neutral or positive sentiment. Named-entity recognition was used to identify that presidential incumbents and candidates are relatively more prevalent in statements containing misinformation, while US states tend to be present in accurate information. Finally, entity labels associated with people and organizations are more common in misinformation, while accurate statements are more likely to contain numeric entity labels, such as percentages and dates.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:18:36.282Z

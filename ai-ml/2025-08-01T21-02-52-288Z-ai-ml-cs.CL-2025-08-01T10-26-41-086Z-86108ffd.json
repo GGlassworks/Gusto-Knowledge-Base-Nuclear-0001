@@ -1,0 +1,12 @@
+# Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement
+
+**Authors:** Haoran Ye, Jing Jin, Yuhang Xie, Xin Zhang, Guojie Song
+
+## Summary
+The advancement of large language models (LLMs) has outpaced traditional evaluation methodologies. This progress presents novel challenges, such as measuring human-like psychological constructs, moving beyond static and task-specific benchmarks, and establishing human-centered evaluation. These challenges intersect with psychometrics, the science of quantifying the intangible aspects of human psychology, such as personality, values, and intelligence. This review paper introduces and synthesizes the emerging interdisciplinary field of LLM Psychometrics, which leverages psychometric instruments, theories, and principles to evaluate, understand, and enhance LLMs. The reviewed literature systematically shapes benchmarking principles, broadens evaluation scopes, refines methodologies, validates results, and advances LLM capabilities. Diverse perspectives are integrated to provide a structured framework for researchers across disciplines, enabling a more comprehensive understanding of this nascent field. Ultimately, the review provides actionable insights for developing future evaluation paradigms that align with human-level AI and promote the advancement of human-centered AI systems for societal benefit. A curated repository of LLM psychometric resources is available at https://github.com/valuebyte-ai/Awesome-LLM-Psychometrics.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:26:41.087Z

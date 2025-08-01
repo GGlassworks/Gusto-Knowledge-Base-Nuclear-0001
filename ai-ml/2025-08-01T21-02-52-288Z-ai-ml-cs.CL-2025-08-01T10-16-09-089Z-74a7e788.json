@@ -1,0 +1,12 @@
+# MetaAID: A Flexible Framework for Developing Metaverse Applications via AI Technology and Human Editing
+
+**Authors:** Hongyin Zhu
+
+## Summary
+Achieving the expansion of domestic demand and the economic internal circulation requires balanced and coordinated support from multiple industries (domains) such as consumption, education, entertainment, engineering infrastructure, etc., which is indispensable for maintaining economic development. Metaverse applications may help with this task and can make many industries more interesting, more efficient, and provide a better user experience. The first challenge is that metaverse application development inevitably requires the support of various artificial intelligence (AI) technologies such as natural language processing (NLP), knowledge graph (KG), computer vision (CV), and machine learning (ML), etc. However, existing metaverse application development lacks a lightweight AI technology framework. This paper proposes a flexible metaverse AI technology framework metaAID that aims to support language and semantic technologies in the development of digital twins and virtual humans. The second challenge is that the development process of metaverse applications involves both technical development tasks and manual editing work, and often becomes a heavyweight multi-team collaboration project, not to mention the development of metaverse applications in multiple industries. Our framework summarizes common AI technologies and application development templates with common functional modules and interfaces. Based on this framework, we have designed 5 applications for 3 industries around the expansion of domestic demand and economic internal circulation. Experimental results show that our framework can support AI technologies when developing metaverse applications in different industries.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:09.089Z

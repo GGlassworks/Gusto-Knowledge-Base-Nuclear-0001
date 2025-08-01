@@ -1,0 +1,12 @@
+# The performance of multiple language models in identifying offensive language on social media
+
+**Authors:** Hao Li, Brandon Bennett
+
+## Summary
+Text classification is an important topic in the field of natural language processing. It has been preliminarily applied in information retrieval, digital library, automatic abstracting, text filtering, word semantic discrimination and many other fields. The aim of this research is to use a variety of algorithms to test the ability to identify offensive posts and evaluate their performance against a variety of assessment methods. The motivation for this project is to reduce the harm of these languages to human censors by automating the screening of offending posts. The field is a new one, and despite much interest in the past two years, there has been no focus on the object of the offence. Through the experiment of this project, it should inspire future research on identification methods as well as identification content.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:18:31.462Z

@@ -1,0 +1,12 @@
+# Verified Language Processing with Hybrid Explainability: A Technical Report
+
+**Authors:** Oliver Robert Fox, Giacomo Bergami, Graham Morgan
+
+## Summary
+The volume and diversity of digital information have led to a growing reliance on Machine Learning techniques, such as Natural Language Processing, for interpreting and accessing appropriate data. While vector and graph embeddings represent data for similarity tasks, current state-of-the-art pipelines lack guaranteed explainability, failing to determine similarity for given full texts accurately. These considerations can also be applied to classifiers exploiting generative language models with logical prompts, which fail to correctly distinguish between logical implication, indifference, and inconsistency, despite being explicitly trained to recognise the first two classes. We present a novel pipeline designed for hybrid explainability to address this. Our methodology combines graphs and logic to produce First-Order Logic representations, creating machine- and human-readable representations through Montague Grammar. Preliminary results indicate the effectiveness of this approach in accurately capturing full text similarity. To the best of our knowledge, this is the first approach to differentiate between implication, inconsistency, and indifference for text classification tasks. To address the limitations of existing approaches, we use three self-contained datasets annotated for the former classification task to determine the suitability of these approaches in capturing sentence structure equivalence, logical connectives, and spatiotemporal reasoning. We also use these data to compare the proposed method with language models pre-trained for detecting sentence entailment. The results show that the proposed method outperforms state-of-the-art models, indicating that natural language understanding cannot be easily generalised by training over extensive document corpora. This work offers a step toward more transparent and reliable Information Retrieval from extensive textual data.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:26:23.220Z

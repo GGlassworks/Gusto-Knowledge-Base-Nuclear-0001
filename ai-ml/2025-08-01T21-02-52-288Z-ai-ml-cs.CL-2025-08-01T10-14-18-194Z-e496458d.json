@@ -1,0 +1,12 @@
+# HeySQuAD: A Spoken Question Answering Dataset
+
+**Authors:** Yijing Wu, SaiKrishna Rallabandi, Ravisutha Srinivasamurthy, Parag Pravin Dakle, Alolika Gon, Preethi Raghavan
+
+## Summary
+Spoken question answering (SQA) systems are critical for digital assistants and other real-world use cases, but evaluating their performance is a challenge due to the importance of human-spoken questions. This study presents a new large-scale community-shared SQA dataset called HeySQuAD, which includes 76k human-spoken questions, 97k machine-generated questions, and their corresponding textual answers from the SQuAD QA dataset. Our goal is to measure the ability of machines to accurately understand noisy spoken questions and provide reliable answers. Through extensive testing, we demonstrate that training with transcribed human-spoken and original SQuAD questions leads to a significant improvement (12.51%) in answering human-spoken questions compared to training with only the original SQuAD textual questions. Moreover, evaluating with a higher-quality transcription can lead to a further improvement of 2.03%. This research has significant implications for the development of SQA systems and their ability to meet the needs of users in real-world scenarios.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.195Z

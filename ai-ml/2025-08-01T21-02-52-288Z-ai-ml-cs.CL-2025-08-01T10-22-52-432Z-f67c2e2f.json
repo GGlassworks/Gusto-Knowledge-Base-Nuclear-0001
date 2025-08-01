@@ -1,0 +1,12 @@
+# Design and Development of Rule-based open-domain Question-Answering System on SQuAD v2.0 Dataset
+
+**Authors:** Pragya Katyayan, Nisheeth Joshi
+
+## Summary
+Human mind is the palace of curious questions that seek answers. Computational resolution of this challenge is possible through Natural Language Processing techniques. Statistical techniques like machine learning and deep learning require a lot of data to train and despite that they fail to tap into the nuances of language. Such systems usually perform best on close-domain datasets. We have proposed development of a rule-based open-domain question-answering system which is capable of answering questions of any domain from a corresponding context passage. We have used 1000 questions from SQuAD 2.0 dataset for testing the developed system and it gives satisfactory results. In this paper, we have described the structure of the developed system and have analyzed the performance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:22:52.433Z

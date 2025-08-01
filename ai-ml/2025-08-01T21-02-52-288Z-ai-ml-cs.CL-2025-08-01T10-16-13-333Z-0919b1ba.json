@@ -1,0 +1,12 @@
+# The dynamics of meaning through time: Assessment of Large Language Models
+
+**Authors:** Mohamed Taher Alrefaie, Fatty Salem, Nour Eldin Morsy, Nada Samir, Mohamed Medhat Gaber
+
+## Summary
+Understanding how large language models (LLMs) grasp the historical context of concepts and their semantic evolution is essential in advancing artificial intelligence and linguistic studies. This study aims to evaluate the capabilities of various LLMs in capturing temporal dynamics of meaning, specifically how they interpret terms across different time periods. We analyze a diverse set of terms from multiple domains, using tailored prompts and measuring responses through both objective metrics (e.g., perplexity and word count) and subjective human expert evaluations. Our comparative analysis includes prominent models like ChatGPT, GPT-4, Claude, Bard, Gemini, and Llama. Findings reveal marked differences in each model's handling of historical context and semantic shifts, highlighting both strengths and limitations in temporal semantic understanding. These insights offer a foundation for refining LLMs to better address the evolving nature of language, with implications for historical text analysis, AI design, and applications in digital humanities.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:13.334Z

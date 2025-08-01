@@ -1,0 +1,12 @@
+# Evaluating Large Language Models Against Human Annotators in Latent Content Analysis: Sentiment, Political Leaning, Emotional Intensity, and Sarcasm
+
+**Authors:** Ljubisa Bojic, Olga Zagovora, Asta Zelenkauskaite, Vuk Vukovic, Milan Cabarkapa, Selma Veseljević Jerkovic, Ana Jovančevic
+
+## Summary
+In the era of rapid digital communication, vast amounts of textual data are generated daily, demanding efficient methods for latent content analysis to extract meaningful insights. Large Language Models (LLMs) offer potential for automating this process, yet comprehensive assessments comparing their performance to human annotators across multiple dimensions are lacking. This study evaluates the reliability, consistency, and quality of seven state-of-the-art LLMs, including variants of OpenAI's GPT-4, Gemini, Llama, and Mixtral, relative to human annotators in analyzing sentiment, political leaning, emotional intensity, and sarcasm detection. A total of 33 human annotators and eight LLM variants assessed 100 curated textual items, generating 3,300 human and 19,200 LLM annotations, with LLMs evaluated across three time points to examine temporal consistency. Inter-rater reliability was measured using Krippendorff's alpha, and intra-class correlation coefficients assessed consistency over time. The results reveal that both humans and LLMs exhibit high reliability in sentiment analysis and political leaning assessments, with LLMs demonstrating higher internal consistency than humans. In emotional intensity, LLMs displayed higher agreement compared to humans, though humans rated emotional intensity significantly higher. Both groups struggled with sarcasm detection, evidenced by low agreement. LLMs showed excellent temporal consistency across all dimensions, indicating stable performance over time. This research concludes that LLMs, especially GPT-4, can effectively replicate human analysis in sentiment and political leaning, although human expertise remains essential for emotional intensity interpretation. The findings demonstrate the potential of LLMs for consistent and high-quality performance in certain areas of latent content analysis.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:16.411Z

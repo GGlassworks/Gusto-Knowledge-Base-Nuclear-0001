@@ -1,0 +1,12 @@
+# Human Brains Can't Detect Fake News: A Neuro-Cognitive Study of Textual Disinformation Susceptibility
+
+**Authors:** Cagri Arisoy, Anuradha Mandal, Nitesh Saxena
+
+## Summary
+The spread of digital disinformation (aka "fake news") is arguably one of the most significant threats on the Internet which can cause individual and societal harm of large scales. The susceptibility to fake news attacks hinges on whether Internet users perceive a fake news article/snippet to be legitimate after reading it. In this paper, we attempt to garner an in-depth understanding of users' susceptibility to text-centric fake news attacks via a neuro-cognitive methodology. We investigate the neural underpinnings relevant to fake/real news through EEG. We run an experiment with human users to pursue a thorough investigation of users' perception and cognitive processing of fake/real news. We analyze the neural activity associated with the fake/real news detection task for different categories of news articles. Our results show there may be no statistically significant or automatically inferable differences in the way the human brain processes the fake vs. real news, while marked differences are observed when people are subject to (real/fake) news vs. resting state and even between some different categories of fake news. This neuro-cognitive finding may help to justify users' susceptibility to fake news attacks, as also confirmed from the behavioral analysis. In other words, the fake news articles may seem almost indistinguishable from the real news articles in both behavioral and neural domains. Our work serves to dissect the fundamental neural phenomena underlying fake news attacks and explains users' susceptibility to these attacks through the limits of human biology. We believe this could be a notable insight for the researchers and practitioners suggesting the human detection of fake news might be ineffective, which may also have an adverse impact on the design of automated detection approaches that crucially rely upon human labeling of text articles for building training models
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:30.279Z

@@ -1,0 +1,12 @@
+# Efficient Models for the Detection of Hate, Abuse and Profanity
+
+**Authors:** Christoph Tillmann, Aashka Trivedi, Bishwaranjan Bhattacharjee
+
+## Summary
+Large Language Models (LLMs) are the cornerstone for many Natural Language Processing (NLP) tasks like sentiment analysis, document classification, named entity recognition, question answering, summarization, etc. LLMs are often trained on data which originates from the web. This data is prone to having content with Hate, Abuse and Profanity (HAP). For a detailed definition of HAP, please refer to the Appendix. Due to the LLMs being exposed to HAP content during training, the models learn it and may then generate hateful or profane content. For example, when the open-source RoBERTa model (specifically, the RoBERTA base model) from the HuggingFace (HF) Transformers library is prompted to replace the mask token in `I do not know that Persian people are that MASK` it returns the word `stupid` with the highest score. This is unacceptable in civil discourse.The detection of Hate, Abuse and Profanity in text is a vital component of creating civil and unbiased LLMs, which is needed not only for English, but for all languages. In this article, we briefly describe the creation of HAP detectors and various ways of using them to make models civil and acceptable in the output they generate.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T16:12:31.125Z

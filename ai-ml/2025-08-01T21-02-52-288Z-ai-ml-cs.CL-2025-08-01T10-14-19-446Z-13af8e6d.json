@@ -1,0 +1,12 @@
+# Automated speech audiometry: Can it work using open-source pre-trained Kaldi-NL automatic speech recognition?
+
+**Authors:** Gloria Araiza-Illan, Luke Meyer, Khiet P. Truong, Deniz Baskent
+
+## Summary
+A practical speech audiometry tool is the digits-in-noise (DIN) test for hearing screening of populations of varying ages and hearing status. The test is usually conducted by a human supervisor (e.g., clinician), who scores the responses spoken by the listener, or online, where a software scores the responses entered by the listener. The test has 24 digit-triplets presented in an adaptive staircase procedure, resulting in a speech reception threshold (SRT). We propose an alternative automated DIN test setup that can evaluate spoken responses whilst conducted without a human supervisor, using the open-source automatic speech recognition toolkit, Kaldi-NL. Thirty self-reported normal-hearing Dutch adults (19-64 years) completed one DIN+Kaldi-NL test. Their spoken responses were recorded, and used for evaluating the transcript of decoded responses by Kaldi-NL. Study 1 evaluated the Kaldi-NL performance through its word error rate (WER), percentage of summed decoding errors regarding only digits found in the transcript compared to the total number of digits present in the spoken responses. Average WER across participants was 5.0% (range 0 - 48%, SD = 8.8%), with average decoding errors in three triplets per participant. Study 2 analysed the effect that triplets with decoding errors from Kaldi-NL had on the DIN test output (SRT), using bootstrapping simulations. Previous research indicated 0.70 dB as the typical within-subject SRT variability for normal-hearing adults. Study 2 showed that up to four triplets with decoding errors produce SRT variations within this range, suggesting that our proposed setup could be feasible for clinical applications.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:19.446Z
