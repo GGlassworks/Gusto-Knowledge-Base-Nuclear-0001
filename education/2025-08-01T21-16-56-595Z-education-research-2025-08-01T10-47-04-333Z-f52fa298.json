@@ -1,0 +1,13 @@
+# Application of Computer Techniques to Instructional Research. Final Report.
+
+**Authors:** Stinaff, Russell D.
+
+## Abstract
+The problem of structuring sequences of instructional stimuli such that learning is optimized is modelled as a sequential decision problem with an imbedded mathematical model of learning providing a criterion function. Three types of optimization methods for such a representation are investigated for the specific case of paired-associate learning using the single-operator linear model, the one-element model, or the random-trial increments (RTI) model. Globally optimal exhaustive-search methods, such as Dynamic Programing, are found to be impractical for all but the simplest problems, due to inherent dimensionality limitations. Algorithmic methods, whereby the optimal decision at each step may be specified immediately without recourse to extensive look-ahead search, appear to be  sufficient for the models investigated, primarily due to the absence of stimulus interaction. An optimal algorithm is specified for a class of learning models which includes the linear, one-element, and RTI models as special cases. Certain previously reported optimal algorithms are shown to be special cases of this algorithm. Finally, a heuristic search technique is outlined as a possible optimization method for problems too large for exhaustive-search solution and too complex for algorithmic solution. (Author)
+
+**Source:** https://eric.ed.gov/?id=ED082486
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:47:04.333Z

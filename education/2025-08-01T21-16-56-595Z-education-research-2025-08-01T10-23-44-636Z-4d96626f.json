@@ -1,0 +1,13 @@
+# An Introduction to Register Transfer Level Simulation of Digital Systems.
+
+**Authors:** Hemming, Cliff, Smith R. J., II
+
+## Abstract
+Register transfer level (RTL) descriptions of digital systems have certain advantages over other descriptive techniques, especially during early phases of the design effort. There are at least three identifiable major uses for RTL-type descriptions. First, RTL can serve as documentation of digital processor behavior, recording in a concise fashion the operational characteristics of the system. RTL may also be used as the input notation accepted by an automatic translator which develops hardware structural details corresponding to the behavior described; output from such systems consist of appropriate logic modules, gates and other elements selected from a predefined library, along with suitable inter-connections. A third important application of RTL descriptions is in the  simulation of digital systems, primarily during the system design process. In this case, RTL descriptions are processed by a portion of the simulation system, producing a model of the subject processor; as will be seen later, this model often includes structural as well as behavioral (control) elements. Initial conditions and external stimuli can then be applied to the model which, in conjunction with simulator facilities, produces appropriate outputs representing behavior of the simulated system. (Author)
+
+**Source:** https://eric.ed.gov/?id=ED076213
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:23:44.637Z
