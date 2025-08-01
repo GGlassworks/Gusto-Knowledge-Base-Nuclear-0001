@@ -1,0 +1,13 @@
+# Aerial Images Processing for Car Detection using Convolutional Neural Networks: Comparison between Faster R-CNN and YoloV3
+
+**Authors:** Adel Ammar, A. Koubâa, Mohanned Ahmed, Abdulrahman Saad
+
+## Abstract
+This paper addresses the problem of car detection from aerial images using Convolutional Neural Networks (CNNs). This problem presents additional challenges as compared to car (or any object) detection from ground images because the features of vehicles from aerial images are more difficult to discern. To investigate this issue, we assess the performance of three state-of-the-art CNN algorithms, namely Faster R-CNN, which is the most popular region-based algorithm, as well as YOLOv3 and YOLOv4, which are known to be the fastest detection algorithms. We analyze two datasets with different characteristics to check the impact of various factors, such as the UAV’s (unmanned aerial vehicle) altitude, camera resolution, and object size. A total of 52 training experiments were conducted to account for the effect of different hyperparameter values. The objective of this work is to conduct the most robust and exhaustive comparison between these three cutting-edge algorithms on the specific domain of aerial images. By using a variety of metrics, we show that the difference between YOLOv4 and YOLOv3 on the two datasets is statistically insignificant in terms of Average Precision (AP) (contrary to what was obtained on the COCO dataset). However, both of them yield markedly better performance than Faster R-CNN in most configurations. The only exception is that both of them exhibit a lower recall when object sizes and scales in the testing dataset differ largely from those in the training dataset.
+
+**Source:** https://www.semanticscholar.org/paper/cebd830d029f19f2fc82253108edc751f5de5648
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:50:25.302Z

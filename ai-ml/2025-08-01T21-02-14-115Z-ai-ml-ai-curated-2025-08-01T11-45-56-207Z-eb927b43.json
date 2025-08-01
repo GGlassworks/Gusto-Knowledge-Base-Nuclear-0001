@@ -1,0 +1,13 @@
+# Feasibility Study of Advanced Neural Networks Applied to sEMG-Based Force Estimation
+
+**Authors:** Lingfeng Xu, Xiang Chen, Shuai Cao, Xu Zhang, Xun Chen
+
+## Abstract
+To find out the feasibility of different neural networks in sEMG-based force estimation, in this paper, three types of networks, namely convolutional neural network (CNN), long short-term memory (LSTM) network and their combination (C-LSTM) were applied to predict muscle force generated in static isometric elbow flexion across three different circumstances (multi-subject, subject-dependent and subject-independent). Eight healthy men were recruited for the experiments, and the results demonstrated that all the three models were applicable for force estimation, and LSTM and C-LSTM achieved better performances. Even under subject-independent situation, they maintained mean RMSE% of as low as 9.07 ± 1.29 and 8.67 ± 1.14. CNN turned out to be a worse choice, yielding a mean RMSE% of 12.13 ± 1.98. To our knowledge, this work was the first to employ CNN, LSTM and C-LSTM in sEMG-based force estimation, and the results not only prove the strength of the proposed networks, but also pointed out a potential way of achieving high accuracy in real-time, subject-independent force estimation.
+
+**Source:** https://www.semanticscholar.org/paper/41010057f505be561d47bf1394e5da8e59d7b375
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:56.207Z

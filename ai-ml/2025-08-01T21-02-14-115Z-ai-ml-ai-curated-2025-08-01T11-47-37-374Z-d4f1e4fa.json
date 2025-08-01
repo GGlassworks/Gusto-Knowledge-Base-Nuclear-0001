@@ -1,0 +1,13 @@
+# A mathematical theory of semantic development in deep neural networks
+
+**Authors:** Andrew M. Saxe, James L. McClelland, S. Ganguli
+
+## Abstract
+Significance Over the course of development, humans learn myriad facts about items in the world, and naturally group these items into useful categories and structures. This semantic knowledge is essential for diverse behaviors and inferences in adulthood. How is this richly structured semantic knowledge acquired, organized, deployed, and represented by neuronal networks in the brain? We address this question by studying how the nonlinear learning dynamics of deep linear networks acquires information about complex environmental structures. Our results show that this deep learning dynamics can self-organize emergent hidden representations in a manner that recapitulates many empirical phenomena in human semantic development. Such deep networks thus provide a mathematically tractable window into the development of internal neural representations through experience. An extensive body of empirical research has revealed remarkable regularities in the acquisition, organization, deployment, and neural representation of human semantic knowledge, thereby raising a fundamental conceptual question: What are the theoretical principles governing the ability of neural networks to acquire, organize, and deploy abstract knowledge by integrating across many individual experiences? We address this question by mathematically analyzing the nonlinear dynamics of learning in deep linear networks. We find exact solutions to this learning dynamics that yield a conceptual explanation for the prevalence of many disparate phenomena in semantic cognition, including the hierarchical differentiation of concepts through rapid developmental transitions, the ubiquity of semantic illusions between such transitions, the emergence of item typicality and category coherence as factors controlling the speed of semantic processing, changing patterns of inductive projection over development, and the conservation of semantic similarity in neural representations across species. Thus, surprisingly, our simple neural model qualitatively recapitulates many diverse regularities underlying semantic development, while providing analytic insight into how the statistical structure of an environment can interact with nonlinear deep-learning dynamics to give rise to these regularities.
+
+**Source:** https://www.semanticscholar.org/paper/31430819154359b561b5593ff32c20de13b10fd4
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:47:37.375Z

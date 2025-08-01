@@ -1,0 +1,13 @@
+# Physics-informed neural networks with hard constraints for inverse design
+
+**Authors:** Lu Lu, R. Pestourie, Wenjie Yao, Zhicheng Wang, F. Verdugo, Steven G. Johnson
+
+## Abstract
+Inverse design arises in a variety of areas in engineering such as acoustic, mechanics, thermal/electronic transport, electromagnetism, and optics. Topology optimization is a major form of inverse design, where we optimize a designed geometry to achieve targeted properties and the geometry is parameterized by a density function. This optimization is challenging, because it has a very high dimensionality and is usually constrained by partial differential equations (PDEs) and additional inequalities. Here, we propose a new deep learning method -- physics-informed neural networks with hard constraints (hPINNs) -- for solving topology optimization. hPINN leverages the recent development of PINNs for solving PDEs, and thus does not rely on any numerical PDE solver. However, all the constraints in PINNs are soft constraints, and hence we impose hard constraints by using the penalty method and the augmented Lagrangian method. We demonstrate the effectiveness of hPINN for a holography problem in optics and a fluid problem of Stokes flow. We achieve the same objective as conventional PDE-constrained optimization methods based on adjoint methods and numerical PDE solvers, but find that the design obtained from hPINN is often simpler and smoother for problems whose solution is not unique. Moreover, the implementation of inverse design with hPINN can be easier than that of conventional methods.
+
+**Source:** https://www.semanticscholar.org/paper/fef2135b3ae7b27ab28ddf41a943bd2ddc5d5113
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:47:37.156Z

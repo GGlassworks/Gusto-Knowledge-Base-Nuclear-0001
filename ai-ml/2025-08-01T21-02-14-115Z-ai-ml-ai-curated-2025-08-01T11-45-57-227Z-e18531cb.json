@@ -1,0 +1,13 @@
+# ANNA: Advanced neural network algorithm for optimization of structures
+
+**Authors:** N. Khodadadi, S. Talatahari, A. H. Gandomi
+
+## Abstract
+The purpose of this study is to develop an advanced neural network algorithm (ANNA) as a new optimization for the optimal design of truss structures. The central concept of the algorithm is based on biological nervous structures and artificial neural networks. The performance of the proposed method is explored in engineering design problems. Two efficient methods for improving the standard Neural Network Algorithm (NNA) are regarded here. The first one is an enhanced initialization mechanism based on opposite-based learning. The second one is on using a few tunable parameters to provide proper exploration and exploitation abilities for the algorithm that causes finding better solutions while the required structural analyses are reduced. The new algorithm's performance is investigated by using five well-known restricted benchmarks to assess its efficiency concerning the latest optimization techniques. The outcome of the examples demonstrates that the upgraded version of the algorithm has increased efficacy and robustness in comparison to the original version of the algorithm and to some other methods.
+
+**Source:** https://www.semanticscholar.org/paper/1b28f9811c1518b8f8cee23edc28fdaab94fe8f4
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:57.227Z

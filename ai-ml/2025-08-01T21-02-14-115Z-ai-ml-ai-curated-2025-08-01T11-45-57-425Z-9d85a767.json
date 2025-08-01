@@ -1,0 +1,13 @@
+# Advanced Convolutional Neural Networks for Nonlinearity Mitigation in Long-Haul WDM Transmission Systems
+
+**Authors:** O. Sidelnikov, A. Redyuk, S. Sygletos, M. Fedoruk, S. Turitsyn
+
+## Abstract
+Practical implementation of digital signal processing for mitigation of transmission impairments in optical communication systems requires reduction of the complexity of the underlying algorithms. Here, we investigate the application of convolutional neural networks for compensating nonlinear signal distortions in a 3200 km fiber-optic 11x400-Gb/s WDM PDM-16QAM transmission link with a focus on the optimization of the corresponding algorithmic complexity. We propose a design that includes original initialisation of the weights of the layers by a filter predefined through the training a single-layer convolutional neural network. Furthermore, we use an enhanced activation function that takes into account nonlinear interactions between neighbouring symbols. To increase learning efficiency, we apply a layer-wise training scheme followed by joint optimization of all weights applying additional training to all of them together in the large multi-layer network. We examine application of the proposed convolutional neural network for the nonlinearity compensation using only one sample per symbol and evaluate complexity and performance of the proposed technique.
+
+**Source:** https://www.semanticscholar.org/paper/a1a79b38554a61892c68261bc48900c9f104603e
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:57.426Z

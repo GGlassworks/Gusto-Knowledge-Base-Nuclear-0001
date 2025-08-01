@@ -1,0 +1,13 @@
+# Neural networks. Development and prospects
+
+**Authors:** D.Y. Kalbazov, O.I. Danchenko, Yurii Lysetskyi
+
+## Abstract
+The development of neural networks began in the 1940s, when scientists began to model the nervous system. However, the real breakthrough occurred in the 2010s with the advancement of machine learning and deep learning. Digitalization, Big Data, and the ability to process large datasets have created a powerful resource for machine learning. By utilizing large amounts of data and powerful computational resources, neural networks have become able to achieve in-credible results in such areas as computer vision for object recognition, natural language pro-cessing, medicine, forecasting, pattern recognition, autonomous vehicles, etc. A neural network is a mathematical model that describes the interdependencies between different factors with mathematical formulas and allows for discovering patterns and dependencies between input da-ta and the final result during training. After training, such a neural network can be used to pre-dict outcomes. The article discusses the principles of neural network operation, the architec-tures of their mathematical models, the security and challenges of neural networks, modern products based on neural networks, and their practical applications. Neural networks are a mod-ern, powerful tool of artificial intelligence capable of modeling and simulating the operation of the human brain. Machine learning and neural networks have been integrated into information technology for many years. One of the leaders in their development is IBM, which was one of the first companies to implement machine learning technologies, based on which IBM Watson operates. A real sensation was the ChatGPT neural network, a language model that generates text based on user queries, taking into account the context of previous queries. Therefore, neural networks are capable of learning based on large volumes of data and recognizing complex de-pendencies in them, so they are used to solve complex problems that cannot always be solved using mathematical formulas or rules.
+
+**Source:** https://www.semanticscholar.org/paper/7954a90f79d75a6448810521866937aea8d2b5bd
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:47:36.333Z

@@ -1,0 +1,13 @@
+# Identification and control of dynamical systems using neural networks
+
+**Authors:** K. Narendra, K. Parthasarathy
+
+## Abstract
+It is demonstrated that neural networks can be used effectively for the identification and control of nonlinear dynamical systems. The emphasis is on models for both identification and control. Static and dynamic backpropagation methods for the adjustment of parameters are discussed. In the models that are introduced, multilayer and recurrent networks are interconnected in novel configurations, and hence there is a real need to study them in a unified fashion. Simulation results reveal that the identification and adaptive control schemes suggested are practically feasible. Basic concepts and definitions are introduced throughout, and theoretical questions that have to be addressed are also described.
+
+**Source:** https://www.semanticscholar.org/paper/10a9286df1d47b4a4bd91d0c0d41129edca6e622
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:43:09.718Z

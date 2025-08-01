@@ -1,0 +1,13 @@
+# Survival Prediction Across Diverse Cancer Types Using Neural Networks
+
+**Authors:** Xu Yan, Weimin Wang, Mingxuan Xiao, Yufeng Li, Min Gao
+
+## Abstract
+Gastric cancer and Colon adenocarcinoma represent widespread and challenging malignancies with high mortality rates and complex treatment landscapes. In response to the critical need for accurate prognosis in cancer patients, the medical community has embraced the 5-year survival rate as a vital metric for estimating patient outcomes. This study introduces a pioneering approach to enhance survival prediction models for gastric and Colon adenocarcinoma patients. Leveraging advanced image analysis techniques, we sliced whole slide images (WSI) of these cancers, extracting comprehensive features to capture nuanced tumor characteristics. Subsequently, we constructed patient-level graphs, encapsulating intricate spatial relationships within tumor tissues. These graphs served as inputs for a sophisticated 4-layer graph convolutional neural network (GCN), designed to exploit the inherent connectivity of the data for comprehensive analysis and prediction. By integrating patients’ total survival time and survival status, we computed C-index values for gastric cancer and Colon adenocarcinoma, yielding 0.57 and 0.64, respectively. Significantly surpassing previous convolutional neural network models, these results underscore the efficacy of our approach in accurately predicting patient survival outcomes. This research holds profound implications for both the medical and AI communities, offering insights into cancer biology and progression while advancing personalized treatment strategies. Ultimately, our study represents a significant stride in leveraging AI-driven methodologies to revolutionize cancer prognosis and improve patient outcomes on a global scale.
+
+**Source:** https://www.semanticscholar.org/paper/ba258c711b31b547b66ebc9937fce2daf39e214e
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:56.982Z

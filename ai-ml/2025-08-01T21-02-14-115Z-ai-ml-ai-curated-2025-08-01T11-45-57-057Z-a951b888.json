@@ -1,0 +1,13 @@
+# Advanced beam shaping for laser materials processing based on diffractive neural networks.
+
+**Authors:** P. Buske, A. Völl, Moritz Eisebitt, J. Stollenwerk, C. Holly
+
+## Abstract
+We propose a method based on neural network training algorithms for the design of diffractive neural networks - with the aim to perform advanced laser beam shaping in the NIR/VIS spectrum for laser materials processing. The method enables the efficient design of systems including multiple cascaded diffractive optical elements (DOEs) and allows the simultaneous optimization for complex (intensity and phase) target field distributions in multiple target planes. The multi-target boundary condition in the optimization method offers great potential for advanced laser beam shaping.
+
+**Source:** https://www.semanticscholar.org/paper/4e91357ca73da2b1c9d30d5813192f96d0bb8a10
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:57.058Z

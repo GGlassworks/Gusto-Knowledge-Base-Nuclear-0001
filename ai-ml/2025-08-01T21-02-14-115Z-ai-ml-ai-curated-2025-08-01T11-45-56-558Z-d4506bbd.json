@@ -1,0 +1,13 @@
+# Neural Networks for Constitutive Modeling: From Universal Function Approximators to Advanced Models and the Integration of Physics
+
+**Authors:** Johannes Dornheim, L. Morand, Hemanth Janarthanam Nallani, D. Helm
+
+## Abstract
+Analyzing and modeling the constitutive behavior of materials is a core area in materials sciences and a prerequisite for conducting numerical simulations in which the material behavior plays a central role. Constitutive models have been developed since the beginning of the 19th century and are still under constant development. Besides physics-motivated and phenomenological models, during the last decades, the field of constitutive modeling was enriched by the development of machine learning-based constitutive models, especially by using neural networks. The latter is the focus of the present review paper, which aims to give an overview of neural networks-based constitutive models from a methodical perspective. The review summarizes and compares numerous conceptually different neural networks-based approaches for constitutive modeling including neural networks used as universal function approximators, advanced neural network models and neural network approaches with integrated physical knowledge. The upcoming of these methods is in-turn closely related to advances in the area of computer sciences, what further adds a chronological aspect to this review. We conclude the review paper with important challenges in the field of learning constitutive relations that need to be tackled in the near future.
+
+**Source:** https://www.semanticscholar.org/paper/db4c56dd0239596b4ace1b15983e66e51f88fddf
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:56.558Z

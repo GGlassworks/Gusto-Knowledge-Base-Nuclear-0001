@@ -1,0 +1,13 @@
+# Deep Neural Networks Comparison for MRI Segmentation of the Brainstem
+
+**Authors:** Seoyoung Oh, M. Pélégrini-Issac, Hélène Urien, Véronique Marchand-Pauvert, Jérémie Sublime
+
+## Abstract
+Deep learning networks are the standard for medical image segmentation, yet the network architectures in medical applications are poorly understood. A precise segmentation of the brainstem is crucial in neurological conditions like Amyotrophic Lateral Sclerosis (ALS), which is a rare neurodegenerative disease affecting respiratory muscles by weakening motor neurons in the brain and spinal cord, but it is challenging due to the lack and low resolution of Magnetic Resonance Imaging (MRI) data. In this context, this paper explores neural network properties for brainstem segmentation and presents an efficient model with strong results. We find that minimal gains come from transfer learning in the encoder while optimizing the decoder and loss function improves performance. Our work also provides valuable insights into model components for MRI segmentation of the brainstem.
+
+**Source:** https://www.semanticscholar.org/paper/cc405fca3602ed6b58efe95e6d2a8acbcd132982
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:50:25.122Z

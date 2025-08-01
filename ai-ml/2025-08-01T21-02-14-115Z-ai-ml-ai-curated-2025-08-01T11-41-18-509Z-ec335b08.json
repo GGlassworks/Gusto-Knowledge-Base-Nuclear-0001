@@ -1,0 +1,13 @@
+# Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
+
+**Authors:** Benoit Jacob, S. Kligys, Bo Chen, Menglong Zhu, Matthew Tang, Andrew G. Howard, Hartwig Adam, Dmitry Kalenichenko
+
+## Abstract
+The rising popularity of intelligent mobile devices and the daunting computational cost of deep learning-based models call for efficient and accurate on-device inference schemes. We propose a quantization scheme that allows inference to be carried out using integer-only arithmetic, which can be implemented more efficiently than floating point inference on commonly available integer-only hardware. We also co-design a training procedure to preserve end-to-end model accuracy post quantization. As a result, the proposed quantization scheme improves the tradeoff between accuracy and on-device latency. The improvements are significant even on MobileNets, a model family known for run-time efficiency, and are demonstrated in ImageNet classification and COCO detection on popular CPUs.
+
+**Source:** https://www.semanticscholar.org/paper/59d0d7ccec2db66cad20cac5721ce54a8a058294
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:41:18.510Z

@@ -1,0 +1,13 @@
+# Understanding plasticity in neural networks
+
+**Authors:** Clare Lyle, Zeyu Zheng, Evgenii Nikishin, B. '. Pires, Razvan Pascanu, Will Dabney
+
+## Abstract
+Plasticity, the ability of a neural network to quickly change its predictions in response to new information, is essential for the adaptability and robustness of deep reinforcement learning systems. Deep neural networks are known to lose plasticity over the course of training even in relatively simple learning problems, but the mechanisms driving this phenomenon are still poorly understood. This paper conducts a systematic empirical analysis into plasticity loss, with the goal of understanding the phenomenon mechanistically in order to guide the future development of targeted solutions. We find that loss of plasticity is deeply connected to changes in the curvature of the loss landscape, but that it often occurs in the absence of saturated units. Based on this insight, we identify a number of parameterization and optimization design choices which enable networks to better preserve plasticity over the course of training. We validate the utility of these findings on larger-scale RL benchmarks in the Arcade Learning Environment.
+
+**Source:** https://www.semanticscholar.org/paper/542905f5fc96bce7572f6ded7f56aedfa62270c1
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:47:36.789Z

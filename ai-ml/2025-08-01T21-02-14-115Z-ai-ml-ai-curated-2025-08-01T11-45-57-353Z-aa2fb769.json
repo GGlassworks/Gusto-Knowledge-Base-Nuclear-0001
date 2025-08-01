@@ -1,0 +1,13 @@
+# A Hierarchical Approach for Advanced Persistent Threat Detection with Attention-Based Graph Neural Networks
+
+**Authors:** Zitong Li, Xiang Cheng, Lixiao Sun, Ji Zhang, Bing Chen
+
+## Abstract
+Advanced Persistent Threats (APTs) are the most sophisticated attacks for modern information systems. Currently, more and more researchers begin to focus on graph-based anomaly detection methods that leverage graph data to model normal behaviors and detect outliers for defending against APTs. However, previous studies of provenance graphs mainly concentrate on system calls, leading to difficulties in modeling network behaviors. Coarse-grained correlation graphs depend on handcrafted graph construction rules and, thus, cannot adequately explore log node attributes. Besides, the traditional Graph Neural Networks (GNNs) fail to consider meaningful edge features and are difficult to perform heterogeneous graphs embedding. To overcome the limitations of the existing approaches, we present a hierarchical approach for APT detection with novel attention-based GNNs. We propose a metapath aggregated GNN for provenance graph embedding and an edge enhanced GNN for host interactive graph embedding; thus, APT behaviors can be captured at both the system and network levels. A novel enhancement mechanism is also introduced to dynamically update the detection model in the hierarchical detection framework. Evaluations show that the proposed method outperforms the state-of-the-art baselines in APT detection.
+
+**Source:** https://www.semanticscholar.org/paper/e340d585dc57432db4a6ce60c558a06babe42b4b
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:57.353Z

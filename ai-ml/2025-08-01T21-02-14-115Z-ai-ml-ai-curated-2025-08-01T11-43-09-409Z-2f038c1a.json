@@ -1,0 +1,13 @@
+# Applications of Physics-Informed Neural Networks in Power Systems - A Review
+
+**Authors:** Bin Huang, Jianhui Wang
+
+## Abstract
+The advances of deep learning (DL) techniques bring new opportunities to numerous intractable tasks in power systems (PSs). Nevertheless, the extension of the application of DL in the domain of PSs has encountered challenges, e.g., high requirement for the quality and quantity of training data, production of physically infeasible/inconsistent solutions, and low generalizability and interpretability. There is a growing consensus that physics-informed neural networks (PINNs) can address these concerns by integrating physics-informed (PI) rules or laws into state-of-the-art DL methodology. This survey presents a systematic overview of the PINN in the domain of PSs. Specifically, several paradigms of PINN (e.g., PI loss function, PI initialization, PI design of architecture, and hybrid physics-DL models) are summarized. The applications of PINN in PSs in recent years, including state/parameter estimation, dynamic analysis, power flow calculation, optimal power flow, anomaly detection and location, and model and data synthesis, etc., are investigated in detail, followed by the summary and assessment of relevant works so far. Revolving around the characteristics of PSs and the state-of-the-art DL techniques, this paper outlines the potential research directions and attempts to shed light on the deeper and broader application of PINN on PSs.
+
+**Source:** https://www.semanticscholar.org/paper/15a6813f0c2c65e5243225c74e744ebfacd5f8c0
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:43:09.413Z

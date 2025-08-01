@@ -1,0 +1,13 @@
+# Applications of Artificial Neural Networks in Greenhouse Technology and Overview for Smart Agriculture Development
+
+**Authors:** A. Escamilla-García, G. M. Soto-Zarazúa, M. Toledano-Ayala, E. Rivas-Araiza, A. Gastélum-Barrios
+
+## Abstract
+This article reviews the applications of artificial neural networks (ANNs) in greenhouse technology, and also presents how this type of model can be developed in the coming years by adapting to new technologies such as the internet of things (IoT) and machine learning (ML). Almost all the analyzed works use the feedforward architecture, while the recurrent and hybrid networks are little exploited in the various tasks of the greenhouses. Throughout the document, different network training techniques are presented, where the feasibility of using optimization models for the learning process is exposed. The advantages and disadvantages of neural networks (NNs) are observed in the different applications in greenhouses, from microclimate prediction, energy expenditure, to more specific tasks such as the control of carbon dioxide. The most important findings in this work can be used as guidelines for developers of smart protected agriculture technology, in which systems involve technologies 4.0.
+
+**Source:** https://www.semanticscholar.org/paper/4638348e84a2159d64e851c33f873c8190c7d2d0
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:47:36.925Z

@@ -1,0 +1,13 @@
+# An FPGA Implementation of Deep Spiking Neural Networks for Low-Power and Fast Classification
+
+**Authors:** Xiping Ju, Biao Fang, Rui Yan, Xiaoliang Xu, Huajin Tang
+
+## Abstract
+A spiking neural network (SNN) is a type of biological plausibility model that performs information processing based on spikes. Training a deep SNN effectively is challenging due to the nondifferention of spike signals. Recent advances have shown that high-performance SNNs can be obtained by converting convolutional neural networks (CNNs). However, the large-scale SNNs are poorly served by conventional architectures due to the dynamic nature of spiking neurons. In this letter, we propose a hardware architecture to enable efficient implementation of SNNs. All layers in the network are mapped on one chip so that the computation of different time steps can be done in parallel to reduce latency. We propose new spiking max-pooling method to reduce computation complexity. In addition, we apply approaches based on shift register and coarsely grained parallels to accelerate convolution operation. We also investigate the effect of different encoding methods on SNN accuracy. Finally, we validate the hardware architecture on the Xilinx Zynq ZCU102. The experimental results on the MNIST data set show that it can achieve an accuracy of 98.94% with eight-bit quantized weights. Furthermore, it achieves 164 frames per second (FPS) under 150 MHz clock frequency and obtains 41× speed-up compared to CPU implementation and 22 times lower power than GPU implementation.
+
+**Source:** https://www.semanticscholar.org/paper/0ff77682f20188f14dae8bb273dd98aeb0393499
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:48:26.975Z

@@ -1,0 +1,13 @@
+# Pothole Detection Using Advanced Neural Networks
+
+**Authors:** Narayana Darapaneni, Naresh Suresh Reddy, Anitha Urkude, A. Paduri, Arati Alok Satpute, Aakash Yogi, Dilip Krishna Natesan, Sarang Surve, Utkarsh Srivastava
+
+## Abstract
+A pothole is one among the first reasons for road accidents and is becoming increasingly important to detect while driving on roads. Detection and warning can significantly reduce accidents and damages caused to vehicles. Advanced neural networks process the pictures from the camera on a realtime basis to spot if there is a pothole within the image. Detection of potholes using neural networks will be time-consuming. Recently, the advances in artificial neural network have led to varied high-performance single-shot detection algorithms. These algorithms are especially useful in real-time applications. Hence, in this paper, we present a study of various object detection algorithms towards pothole detection with its speed and accuracy. The dataset comprises around 9000 training images with and without potholes. The article analyzes Yolo V3, Yolo V4, Yolo V5, and SSD algorithms to judge the results with the identical dataset for training and evaluation.
+
+**Source:** https://www.semanticscholar.org/paper/8d54afef911bb0892aff2d0cfae21e92d5c9e098
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:56.120Z

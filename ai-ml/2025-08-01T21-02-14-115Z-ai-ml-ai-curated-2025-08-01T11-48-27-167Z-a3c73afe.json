@@ -1,0 +1,13 @@
+# Neural networks implementation with VLSI
+
+**Authors:** E. Georges, L. Lai, F. Ndeh-Che, H. Braun
+
+## Abstract
+This paper presents the design of a new and efficient winner-take-all (WTA) cell for the self-organising mapping (SOM) neuron. This cell is implemented in VLSI that provides both faster operation and a reduction in the number of transistors per cell compared to existing designs. The operation of the circuit is described and results of SPICE simulations are presented.
+
+**Source:** https://www.semanticscholar.org/paper/50605fed9ff9cb401250feb9e9de41a21d81b5b4
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:48:27.168Z

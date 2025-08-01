@@ -1,0 +1,13 @@
+# A Review of Convolutional Neural Networks
+
+**Authors:** Arohan Ajit, Koustav Acharya, Abhishek Samanta
+
+## Abstract
+Before Convolutional Neural Networks gained popularity, computer recognition problems involved extracting features out of the data provided which was not adequately efficient or provided a high degree of accuracy. However in recent times, Convolutional Neural Networks have attempted to provide a higher level of efficiency and accuracy in all the fields in which it has been employed in most popular of which are Object Detection, Digit and Image Recognition. It employs a definitely algorithm of steps to follow including methods like Backpropagation, Convolutional Layers, Feature formation and Pooling. Also this article will also venture into use of various frameworks and tools that involve CNN model.
+
+**Source:** https://www.semanticscholar.org/paper/55a616cfd598106d98a97eef61d0f8120e4211a4
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:42:17.659Z

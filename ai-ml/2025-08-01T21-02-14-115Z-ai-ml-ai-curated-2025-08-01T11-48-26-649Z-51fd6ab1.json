@@ -1,0 +1,13 @@
+# Hardware implementation of spiking neural networks on FPGA
+
+**Authors:** Jianhui Han, Zhao-lin Li, Weimin Zheng, Youhui Zhang
+
+## Abstract
+Inspired by real biological neural models, Spiking Neural Networks (SNNs) process information with discrete spikes and show great potential for building low-power neural network systems. This paper proposes a hardware implementation of SNN based on Field-Programmable Gate Arrays (FPGA). It features a hybrid updating algorithm, which combines the advantages of existing algorithms to simplify hardware design and improve performance. The proposed design supports up to 16 384 neurons and 16.8 million synapses but requires minimal hardware resources and archieves a very low power consumption of 0.477 W. A test platform is built based on the proposed design using a Xilinx FPGA evaluation board, upon which we deploy a classification task on the MNIST dataset. The evaluation results show an accuracy of 97.06% and a frame rate of 161 frames per second.
+
+**Source:** https://www.semanticscholar.org/paper/b1ecaa5a75870d0e56d0b5e7dac2f0213e73bcaa
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:48:26.650Z

@@ -1,0 +1,13 @@
+# Classification of hyperspectral imagery with neural networks: comparison to conventional tools
+
+**Authors:** E. Merényi, W. Farrand, J. Taranik, T. Minor
+
+## Abstract
+Efficient exploitation of hyperspectral imagery is of great importance in remote sensing. Artificial intelligence approaches have been receiving favorable reviews for classification of hyperspectral data because the complexity of such data challenges the limitations of many conventional methods. Artificial neural networks (ANNs) were shown to outperform traditional classifiers in many situations. However, studies that use the full spectral dimensionality of hyperspectral images to classify a large number of surface covers are scarce if non-existent. We advocate the need for methods that can handle the full dimensionality and a large number of classes to retain the discovery potential and the ability to discriminate classes with subtle spectral differences. We demonstrate that such a method exists in the family of ANNs. We compare the maximum likelihood, Mahalonobis distance, minimum distance, spectral angle mapper, and a hybrid ANN classifier for real hyperspectral AVIRIS data, using the full spectral resolution to map 23 cover types and using a small training set. Rigorous evaluation of the classification accuracies shows that the ANN outperforms the other methods and achieves ≈90% accuracy on test data.
+
+**Source:** https://www.semanticscholar.org/paper/4b198463bfd428b42c917206d46f2bc7a6936c2f
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:50:25.623Z

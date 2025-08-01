@@ -1,0 +1,13 @@
+# A Review on Dropout Regularization Approaches for Deep Neural Networks within the Scholarly Domain
+
+**Authors:** Imrus Salehin, Dae-Ki Kang
+
+## Abstract
+Dropout is one of the most popular regularization methods in the scholarly domain for preventing a neural network model from overfitting in the training phase. Developing an effective dropout regularization technique that complies with the model architecture is crucial in deep learning-related tasks because various neural network architectures have been proposed, including convolutional neural networks (CNNs) and recurrent neural networks (RNNs), and they have exhibited reasonable performance in their specialized areas. In this paper, we provide a comprehensive and novel review of the state-of-the-art (SOTA) in dropout regularization. We explain various dropout methods, from standard random dropout to AutoDrop dropout (from the original to the advanced), and also discuss their performance and experimental capabilities. This paper provides a summary of the latest research on various dropout regularization techniques for achieving improved performance through “Internal Structure Changes”, “Data Augmentation”, and “Input Information”. We can see that proper regularization with respect to structural constraints of network architecture is a critical factor to facilitate overfitting avoidance. We discuss the strengths and limitations of the methods presented in this work, which can serve as valuable references for future research and the development of new approaches. We also pay attention to the scholarly domain in the discussion in order to meet the overwhelming increase of scientific research outcomes by providing an analysis of several important academic scholarly issues of neural networks.
+
+**Source:** https://www.semanticscholar.org/paper/86b7a918c621a4085c2e671871fbdde9b556a48a
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:46:47.283Z

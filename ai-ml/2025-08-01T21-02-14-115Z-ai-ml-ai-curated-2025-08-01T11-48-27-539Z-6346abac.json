@@ -1,0 +1,13 @@
+# Recurrent Neural Networks Hardware Implementation on FPGA
+
+**Authors:** Andre Xian Ming Chang, B. Martini, E. Culurciello
+
+## Abstract
+Recurrent Neural Networks (RNNs) have the ability to retain memory and learn data sequences. Due to the recurrent nature of RNNs, it is sometimes hard to parallelize all its computations on conventional hardware. CPUs do not currently offer large parallelism, while GPUs offer limited parallelism due to sequential components of RNN models. In this paper we present a hardware implementation of Long-Short Term Memory (LSTM) recurrent network on the programmable logic Zynq 7020 FPGA from Xilinx. We implemented a RNN with $2$ layers and $128$ hidden units in hardware and it has been tested using a character level language model. The implementation is more than $21\times$ faster than the ARM CPU embedded on the Zynq 7020 FPGA. This work can potentially evolve to a RNN co-processor for future mobile devices.
+
+**Source:** https://www.semanticscholar.org/paper/5b1136a2135eaccb8c980fb61113f083ceca95e3
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:48:27.539Z

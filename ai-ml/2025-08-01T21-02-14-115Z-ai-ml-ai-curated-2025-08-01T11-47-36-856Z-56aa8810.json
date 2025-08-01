@@ -1,0 +1,13 @@
+# Development of a method for training artificial neural networks for intelligent decision support systems
+
+**Authors:** Qasim Abbood Mahdi, A. Shyshatskyi, Oleksandr Symonenko, Nadiia Protas, Oleksandr Trotsko, V. Kyvliuk, A. Shulhin, Petro Steshenko, Eduard Ostapchuk, Tetiana Holenkovska
+
+## Abstract
+We developed a method of training artificial neural networks for intelligent decision support systems. A distinctive feature of the proposed method consists in training not only the synaptic weights of an artificial neural network, but also the type and parameters of the membership function. In case of impossibility to ensure a given quality of functioning of artificial neural networks by training the parameters of an artificial neural network, the architecture of artificial neural networks is trained. The choice of architecture, type and parameters of the membership function is based on the computing resources of the device and taking into account the type and amount of information coming to the input of the artificial neural network. Another distinctive feature of the developed method is that no preliminary calculation data are required to calculate the input data. The development of the proposed method is due to the need for training artificial neural networks for intelligent decision support systems, in order to process more information, while making unambiguous decisions. According to the results of the study, this training method provides on average 10–18 % higher efficiency of training artificial neural networks and does not accumulate training errors. This method will allow training artificial neural networks by training the parameters and architecture, determining effective measures to improve the efficiency of artificial neural networks. This method will allow reducing the use of computing resources of decision support systems, developing measures to improve the efficiency of training artificial neural networks, increasing the efficiency of information processing in artificial neural networks.
+
+**Source:** https://www.semanticscholar.org/paper/13643ab7efbcbd6f3c40e790d71c8e30c28a058c
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:47:36.856Z

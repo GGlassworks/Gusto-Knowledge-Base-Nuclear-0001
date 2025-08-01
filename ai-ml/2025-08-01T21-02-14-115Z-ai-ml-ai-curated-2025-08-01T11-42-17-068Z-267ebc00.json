@@ -1,0 +1,14 @@
+# Physics-Guided, Physics-Informed, and Physics-Encoded Neural Networks and Operators in Scientific Computing: Fluid and Solid Mechanics
+
+**Authors:** Salah A. Faroughi, Nikhil M. Pawar, Célio Fernandes, M. Raissi, Subasish Das, N. Kalantari, S. K. Mahjour
+
+## Abstract
+
+ Advancements in computing power have recently made it possible to utilize machine learning and deep learning to push scientific computing forward in a range of disciplines, such as fluid mechanics, solid mechanics, materials science, etc. The incorporation of neural networks is particularly crucial in this hybridization process. Due to their intrinsic architecture, conventional neural networks cannot be successfully trained and scoped when data is sparse, which is the case in many scientific and engineering domains. Nonetheless, neural networks provide a solid foundation to respect physics-driven or knowledge-based constraints during training. Generally speaking, there are three distinct neural network frameworks to enforce the underlying physics: (i) physics-guided neural networks (PgNNs), (ii) physics-informed neural networks (PiNNs), and (iii) physics-encoded neural networks (PeNNs). These methods provide distinct advantages for accelerating the numerical modeling of complex multiscale multi-physics phenomena. In addition, the recent developments in neural operators (NOs) add another dimension to these new simulation paradigms, especially when the real-time prediction of complex multi-physics systems is required. All these models also come with their own unique drawbacks and limitations that call for further fundamental research. This study aims to present a review of the four neural network frameworks (i.e., PgNNs, PiNNs, PeNNs, and NOs) used in scientific computing research. The state-of-the-art architectures and their applications are reviewed, limitations are discussed, and future research opportunities are presented in terms of improving algorithms, considering causalities, expanding applications, and coupling scientific and deep learning solvers.
+
+**Source:** https://www.semanticscholar.org/paper/bc9ae66c84e31839015dd30c0bd76548bf1b7a5c
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:42:17.068Z

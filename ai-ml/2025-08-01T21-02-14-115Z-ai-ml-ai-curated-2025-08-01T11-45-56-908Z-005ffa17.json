@@ -1,0 +1,13 @@
+# Optical neural networks: progress and challenges
+
+**Authors:** Tingzhao Fu, Jianfa Zhang, Run Sun, Yuyao Huang, Wei Xu, Sigang Yang, Zhihong Zhu, Hongwei Chen
+
+## Abstract
+Artificial intelligence has prevailed in all trades and professions due to the assistance of big data resources, advanced algorithms, and high-performance electronic hardware. However, conventional computing hardware is inefficient at implementing complex tasks, in large part because the memory and processor in its computing architecture are separated, performing insufficiently in computing speed and energy consumption. In recent years, optical neural networks (ONNs) have made a range of research progress in optical computing due to advantages such as sub-nanosecond latency, low heat dissipation, and high parallelism. ONNs are in prospect to provide support regarding computing speed and energy consumption for the further development of artificial intelligence with a novel computing paradigm. Herein, we first introduce the design method and principle of ONNs based on various optical elements. Then, we successively review the non-integrated ONNs consisting of volume optical components and the integrated ONNs composed of on-chip components. Finally, we summarize and discuss the computational density, nonlinearity, scalability, and practical applications of ONNs, and comment on the challenges and perspectives of the ONNs in the future development trends.
+
+**Source:** https://www.semanticscholar.org/paper/cce262e638dffe9261d99d4212757e3342e59dd7
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:56.908Z

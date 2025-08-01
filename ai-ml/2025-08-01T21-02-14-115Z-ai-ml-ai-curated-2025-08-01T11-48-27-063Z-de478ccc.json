@@ -1,0 +1,13 @@
+# A Survey on Chatbot Implementation in Customer Service Industry through Deep Neural Networks
+
+**Authors:** M. Nuruzzaman, O. Hussain
+
+## Abstract
+Nowadays it is the era of intelligent machine. With the advancement of artificial intelligent, machine learning and deep learning, machines have started to impersonate as human. Conversational software agents activated by natural language processing is known as chatbot, are an excellent example of such machine. This paper presents a survey on existing chatbots and techniques applied into it. It discusses the similarities, differences and limitations of the existing chatbots. We compared 11 most popular chatbot application systems along with functionalities and technical specifications. Research showed that nearly 75% of customers have experienced poor customer service and generation of meaningful, long and informative responses remains a challenging task. In the past, methods for developing chatbots have relied on hand-written rules and templates. With the rise of deep learning these models were quickly replaced by end-to-end neural networks. More specifically, Deep Neural Networks is a powerful generative-based model to solve the conversational response generation problems. This paper conducted an in-depth survey of recent literature, examining over 70 publications related to chatbots published in the last 5 years. Based on literature review, this study made a comparison from selected papers according to method adopted. This paper also presented why current chatbot models fails to take into account when generating responses and how this affects the quality conversation.
+
+**Source:** https://www.semanticscholar.org/paper/6bc22a9898755ce86ea688e96cef04fd18b0677a
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:48:27.070Z

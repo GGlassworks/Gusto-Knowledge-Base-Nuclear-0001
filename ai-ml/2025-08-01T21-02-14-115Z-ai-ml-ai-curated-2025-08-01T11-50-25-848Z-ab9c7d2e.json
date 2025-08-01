@@ -1,0 +1,13 @@
+# A Comparison of Pooling Methods for Convolutional Neural Networks
+
+**Authors:** A. Zafar, Muhammad Aamir, Nazri Mohd Nawi, Ali Arshad, Saman Riaz, Abdulrahman Alruban, A. Dutta, Sultan Almotairi
+
+## Abstract
+One of the most promising techniques used in various sciences is deep neural networks (DNNs). A special type of DNN called a convolutional neural network (CNN) consists of several convolutional layers, each preceded by an activation function and a pooling layer. The feature map of the previous layer is sampled by the pooling layer (that seems to be an important layer) to create a new feature map with condensed resolution. This layer significantly reduces the spatial dimension of the input. It always accomplished two main goals. As a first step, it reduces the number of parameters or weights to minimize computational costs. The second step is to prevent the overfitting of the network. In addition, pooling techniques can significantly reduce model training time and computational costs. This paper provides a critical understanding of traditional and modern pooling techniques and highlights the strengths and weaknesses for readers. Moreover, the performance of pooling techniques on different datasets is qualitatively evaluated and reviewed. This study is expected to contribute to a comprehensive understanding of the importance of CNNs and pooling techniques in computer vision challenges.
+
+**Source:** https://www.semanticscholar.org/paper/108fc787af06e31b819db10232b010c65f0a0f1d
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:50:25.848Z

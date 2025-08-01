@@ -1,0 +1,13 @@
+# An Efficient Memristor-Based Circuit Implementation of Squeeze-and-Excitation Fully Convolutional Neural Networks
+
+**Authors:** Jiadong Chen, Y. Wu, Yin Yang, Shiping Wen, Kaibo Shi, A. Bermak, Tingwen Huang
+
+## Abstract
+Recently, there has been a surge of interest in applying memristors to hardware implementations of deep neural networks due to various desirable properties of the memristor, such as nonvolativity, multivalue, and nanosize. Most existing neural network circuit designs, however, are based on generic frameworks that are not optimized for memristors. Furthermore, to the best of our knowledge, there are no existing efficient memristor-based implementations of complex neural network operators, such as deconvolutions and squeeze-and-excitation (SE) blocks, which are critical for achieving high accuracy in common medical image analysis applications, such as semantic segmentation. This article proposes convolution-kernel first (CKF), an efficient scheme for designing memristor-based fully convolutional neural networks (FCNs). Compared with existing neural network circuits, CKF enables effective parameter pruning, which significantly reduces circuit power consumption. Furthermore, CKF includes the novel, memristor-optimized implementations of deconvolution layers and SE blocks. Simulation results on real medical image segmentation tasks confirm that CKF obtains up to 56.2% reduction in terms of computations and 33.62-W reduction in terms of power consumption in the circuit after weight pruning while retaining high accuracy on the test set. Moreover, the pruning results can be applied directly to existing circuits without any modification for the corresponding system.
+
+**Source:** https://www.semanticscholar.org/paper/b3df89f31f1bc72ea8928d61991084e88dcc689c
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:48:26.722Z

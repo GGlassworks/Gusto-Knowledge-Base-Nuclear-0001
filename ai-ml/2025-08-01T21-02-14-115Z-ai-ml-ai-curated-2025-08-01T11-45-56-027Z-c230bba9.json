@@ -1,0 +1,26 @@
+# Advanced neural networks for classification of MRI in psoriatic arthritis, seronegative, and seropositive rheumatoid arthritis.
+
+**Authors:** Lukas Folle, S. Bayat, A. Kleyer, F. Fagni, L. Kapsner, M. Schlereth, T. Meinderink, K. Breininger, Koray Tacilar, G. Krönke, M. Uder, M. Sticherling, S. Bickelhaupt, G. Schett, A. Maier, F. Roemer, D. Simon
+
+## Abstract
+OBJECTIVES
+To evaluate whether neural networks can distinguish between seropositive rheumatoid arthritis (RA), seronegative RA and psoriatic arthritis (PsA) based on inflammatory patterns from hand MRI and to test how psoriasis patients with subclinical inflammation fit into such patterns.
+
+
+METHODS
+ResNet neural networks were utilized to compare (i) seropositive RA vs. PsA, (ii) seronegative RA vs. PsA and (iii) seropositive vs. seronegative RA with respect to hand MRI data. Results from T1 coronal, T2 coronal, T1 coronal and axial fat suppressed contrast-enhanced (CE) and T2 fat suppressed axial sequences were used. The performance of such trained networks was analyzed by the area-under-the-receiver-operating-characteristic curve (AUROC) with and without presentation of demographic and clinical parameters. Additionally, the trained networks were applied to psoriasis patients without clinical arthritis.
+
+
+RESULTS
+MRI scans from 649 patients (135 seronegative RA, 190 seropositive RA, 177 PsA, 147 psoriasis) were fed into ResNet neural networks. AUROC was 75% for seropositive RA vs. PsA, 74% for seronegative RA vs. PsA and 67% for seropositive vs. seronegative RA. All MRI sequences were relevant for classification, however, when deleting contrast agent-based sequences the loss of performance was only marginal. The addition of demographic and clinical data to the networks did not provide significant improvements for classification. Psoriasis patients were mostly assigned to PsA by the neural networks, suggesting that a PsA-like MRI pattern may be present early in the course of psoriatic disease.
+
+
+CONCLUSION
+Neural networks can be successfully trained to distinguish MRI inflammation related to seropositive RA, seronegative RA, and PsA.
+
+**Source:** https://www.semanticscholar.org/paper/18e37ccebc2471cd294530b1bbc572dcf02a0e78
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:45:56.028Z

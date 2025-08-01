@@ -1,0 +1,13 @@
+# A Survey of Complex-Valued Neural Networks
+
+**Authors:** J. Bassey, Lijun Qian, Xianfang Li
+
+## Abstract
+Artificial neural networks (ANNs) based machine learning models and especially deep learning models have been widely applied in computer vision, signal processing, wireless communications, and many other domains, where complex numbers occur either naturally or by design. However, most of the current implementations of ANNs and machine learning frameworks are using real numbers rather than complex numbers. There are growing interests in building ANNs using complex numbers, and exploring the potential advantages of the so-called complex-valued neural networks (CVNNs) over their real-valued counterparts. In this paper, we discuss the recent development of CVNNs by performing a survey of the works on CVNNs in the literature. Specifically, a detailed review of various CVNNs in terms of activation function, learning and optimization, input and output representations, and their applications in tasks such as signal processing and computer vision are provided, followed by a discussion on some pertinent challenges and future research directions.
+
+**Source:** https://www.semanticscholar.org/paper/8b28d5427ac742d95e540da31b697d5876ee2e21
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T11:42:17.725Z
