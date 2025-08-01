@@ -1,0 +1,13 @@
+# A "Hands on" Strategy for Teaching Genetic Algorithms to Undergraduates
+
+**Authors:** Venables, Anne, Tan, Grace
+
+## Abstract
+Genetic algorithms (GAs) are a problem solving strategy that uses stochastic search. Since their introduction (Holland, 1975), GAs have proven to be particularly useful for solving problems that are "intractable" using classical methods. The language of genetic algorithms (GAs) is heavily laced with biological metaphors from evolutionary literature, such as population, chromosome, crossover, cloning, mutation, genes and generations. For beginners studying genetic algorithms, there is quite an overhead in gaining comfort with these terms and an understanding of their parallel meanings in the unfamiliar computing milieu of an evolutionary algorithm. This paper describes a "hands on" strategy to introduce and teach genetic algorithms to undergraduate computing students. By borrowing an analogical model from senior biology classes, poppet beads are used to represent individuals in a population (Harrison, 2001). Described are several introductory exercises that transport students from an illustration of natural selection in "Biston betula" moths, onto the representation and solution of differing mathematical and computing problems. Through student manipulation and interactions with poppet beads, the exercises cover terms such as population, generation, chromosome, gene, mutation and crossover in both their biological and computing contexts. Importantly, the tasks underline the two key design issues of genetic algorithms: the choice of an appropriate chromosome representation, and a suitable fitness function for each specific instance. Finally, students are introduced to the notion of schema upon which genetic algorithms operate. The constructivist model of learning advocates the use of such contextual problems to create an environment where students become active participants in their own learning (Ben-Ari, 1998; Greening, 2000; Kolb, 1984). Initial student feedback about these "hands on" exercises has been enthusiastic. As well, several students have made reference to the lessons learnt as the basis for GA coding in subsequent open-ended assignments. It seems that once the hurdle of becoming familiar with GA terminology has been surmounted, students find genetic algorithms to be particularly intriguing for their uncanny ability to solve incredibly complex problems quickly and proficiently (Moore, 2001). (Contains 11 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ807669
+
+---
+Category: education
+Subcategory: Guides - Classroom - Teacher
+Collected: 2025-08-01T10:19:28.423Z
