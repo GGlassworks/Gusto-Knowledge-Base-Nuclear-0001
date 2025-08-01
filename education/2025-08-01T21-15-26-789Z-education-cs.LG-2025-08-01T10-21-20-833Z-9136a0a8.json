@@ -1,0 +1,12 @@
+# A Digital Twin Framework Utilizing Machine Learning for Robust Predictive Maintenance: Enhancing Tire Health Monitoring
+
+**Authors:** Vispi Karkaria, Jie Chen, Christopher Luey, Chase Siuta, Damien Lim, Robert Radulescu, Wei Chen
+
+## Summary
+We introduce a novel digital twin framework for predictive maintenance of long-term physical systems. Using monitoring tire health as an application, we show how the digital twin framework can be used to enhance automotive safety and efficiency, and how the technical challenges can be overcome using a three-step approach. Firstly, for managing the data complexity over a long operation span, we employ data reduction techniques to concisely represent physical tires using historical performance and usage data. Relying on these data, for fast real-time prediction, we train a transformer-based model offline on our concise dataset to predict future tire health over time, represented as Remaining Casing Potential (RCP). Based on our architecture, our model quantifies both epistemic and aleatoric uncertainty, providing reliable confidence intervals around predicted RCP. Secondly, to incorporate real-time data, we update the predictive model in the digital twin framework, ensuring its accuracy throughout its life span with the aid of hybrid modeling and the use of discrepancy function. Thirdly, to assist decision making in predictive maintenance, we implement a Tire State Decision Algorithm, which strategically determines the optimal timing for tire replacement based on RCP forecasted by our transformer model. This approach ensures our digital twin accurately predicts system health, continually refines its digital representation, and supports predictive maintenance decisions. Our framework effectively embodies a physical system, leveraging big data and machine learning for predictive maintenance, model updates, and decision-making.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:20.833Z

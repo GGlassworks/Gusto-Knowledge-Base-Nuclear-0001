@@ -1,0 +1,12 @@
+# Meta-learning approaches for few-shot learning: A survey of recent advances
+
+**Authors:** Hassan Gharoun, Fereshteh Momenifar, Fang Chen, Amir H. Gandomi
+
+## Summary
+Despite its astounding success in learning deeper multi-dimensional data, the performance of deep learning declines on new unseen tasks mainly due to its focus on same-distribution prediction. Moreover, deep learning is notorious for poor generalization from few samples. Meta-learning is a promising approach that addresses these issues by adapting to new tasks with few-shot datasets. This survey first briefly introduces meta-learning and then investigates state-of-the-art meta-learning methods and recent advances in: (I) metric-based, (II) memory-based, (III), and learning-based methods. Finally, current challenges and insights for future researches are discussed.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:30:19.400Z

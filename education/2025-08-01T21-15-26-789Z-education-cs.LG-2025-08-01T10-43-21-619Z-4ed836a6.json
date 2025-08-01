@@ -1,0 +1,12 @@
+# Big Learning
+
+**Authors:** Yulai Cong, Miaoyun Zhao
+
+## Summary
+Recent advances in big/foundation models reveal a promising path for deep learning, where the roadmap steadily moves from big data to big models to (the newly-introduced) big learning. Specifically, the big learning exhaustively exploits the information inherent in its large-scale complete/incomplete training data, by simultaneously modeling many/all joint/conditional/marginal data distributions across potentially diverse domains, with one universal foundation model. We reveal that big learning ($i$) underlies most existing foundation models, ($ii$) is equipped with extraordinary flexibilities for complete/incomplete training data and trustworthy data tasks, ($iii$) is capable of delivering all joint/conditional/marginal data capabilities with one universal model, and ($iv$) unifies conventional machine learning paradigms and enables their flexible cooperations, manifested as a universal learning paradigm. Diverse experiments are carried out to validate the effectiveness of the presented big learning.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:43:21.619Z

@@ -1,0 +1,12 @@
+# Gradient Descent based Optimization Algorithms for Deep Learning Models Training
+
+**Authors:** Jiawei Zhang
+
+## Summary
+In this paper, we aim at providing an introduction to the gradient descent based optimization algorithms for learning deep neural network models. Deep learning models involving multiple nonlinear projection layers are very challenging to train. Nowadays, most of the deep learning model training still relies on the back propagation algorithm actually. In back propagation, the model variables will be updated iteratively until convergence with gradient descent based optimization algorithms. Besides the conventional vanilla gradient descent algorithm, many gradient descent variants have also been proposed in recent years to improve the learning performance, including Momentum, Adagrad, Adam, Gadam, etc., which will all be introduced in this paper respectively.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:24:04.621Z

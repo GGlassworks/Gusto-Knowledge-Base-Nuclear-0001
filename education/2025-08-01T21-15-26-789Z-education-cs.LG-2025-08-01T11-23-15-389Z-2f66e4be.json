@@ -1,0 +1,12 @@
+# Topological Deep Learning: A Review of an Emerging Paradigm
+
+**Authors:** Ali Zia, Abdelwahed Khamis, James Nichols, Zeeshan Hayder, Vivien Rolland, Lars Petersson
+
+## Summary
+Topological data analysis (TDA) provides insight into data shape. The summaries obtained by these methods are principled global descriptions of multi-dimensional data whilst exhibiting stable properties such as robustness to deformation and noise. Such properties are desirable in deep learning pipelines but they are typically obtained using non-TDA strategies. This is partly caused by the difficulty of combining TDA constructs (e.g. barcode and persistence diagrams) with current deep learning algorithms. Fortunately, we are now witnessing a growth of deep learning applications embracing topologically-guided components. In this survey, we review the nascent field of topological deep learning by first revisiting the core concepts of TDA. We then explore how the use of TDA techniques has evolved over time to support deep learning frameworks, and how they can be integrated into different aspects of deep learning. Furthermore, we touch on TDA usage for analyzing existing deep models; deep topological analytics. Finally, we discuss the challenges and future prospects of topological deep learning.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:23:15.389Z

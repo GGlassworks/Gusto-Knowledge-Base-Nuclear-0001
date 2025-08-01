@@ -1,0 +1,12 @@
+# Mapping Neural Signals to Agent Performance, A Step Towards Reinforcement Learning from Neural Feedback
+
+**Authors:** Julia Santaniello, Matthew Russell, Benson Jiang, Donatello Sassaroli, Robert Jacob, Jivko Sinapov
+
+## Summary
+Implicit Human-in-the-Loop Reinforcement Learning (HITL-RL) is a methodology that integrates passive human feedback into autonomous agent training while minimizing human workload. However, existing methods often rely on active instruction, requiring participants to teach an agent through unnatural expression or gesture. We introduce NEURO-LOOP, an implicit feedback framework that utilizes the intrinsic human reward system to drive human-agent interaction. This work demonstrates the feasibility of a critical first step in the NEURO-LOOP framework: mapping brain signals to agent performance. Using functional near-infrared spectroscopy (fNIRS), we design a dataset to enable future research using passive Brain-Computer Interfaces for Human-in-the-Loop Reinforcement Learning. Participants are instructed to observe or guide a reinforcement learning agent in its environment while signals from the prefrontal cortex are collected. We conclude that a relationship between fNIRS data and agent performance exists using classical machine learning techniques. Finally, we highlight the potential that neural interfaces may offer to future applications of human-agent interaction, assistive AI, and adaptive autonomous systems.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:26:42.635Z

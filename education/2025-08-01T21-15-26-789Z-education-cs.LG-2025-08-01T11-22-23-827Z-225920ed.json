@@ -1,0 +1,12 @@
+# Deep Learning via Dynamical Systems: An Approximation Perspective
+
+**Authors:** Qianxiao Li, Ting Lin, Zuowei Shen
+
+## Summary
+We build on the dynamical systems approach to deep learning, where deep residual networks are idealized as continuous-time dynamical systems, from the approximation perspective. In particular, we establish general sufficient conditions for universal approximation using continuous-time deep residual networks, which can also be understood as approximation theories in $L^p$ using flow maps of dynamical systems. In specific cases, rates of approximation in terms of the time horizon are also established. Overall, these results reveal that composition function approximation through flow maps present a new paradigm in approximation theory and contributes to building a useful mathematical framework to investigate deep learning.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:22:23.827Z

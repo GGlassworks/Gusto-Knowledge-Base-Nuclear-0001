@@ -1,0 +1,12 @@
+# On tuning deep learning models: a data mining perspective
+
+**Authors:** M. M. Ozturk
+
+## Summary
+Deep learning algorithms vary depending on the underlying connection mechanism of nodes of them. They have various hyperparameters that are either set via specific algorithms or randomly chosen. Meanwhile, hyperparameters of deep learning algorithms have the potential to help enhance the performance of the machine learning tasks. In this paper, a tuning guideline is provided for researchers who cope with issues originated from hyperparameters of deep learning models. To that end, four types of deep learning algorithms are investigated in terms of tuning and data mining perspective. Further, common search methods of hyperparameters are evaluated on four deep learning algorithms. Normalization helps increase the performance of classification, according to the results of this study. The number of features has not contributed to the decline in the accuracy of deep learning algorithms. Even though high sparsity results in low accuracy, a uniform distribution is much more crucial to reach reliable results in terms of data mining.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:24:53.937Z

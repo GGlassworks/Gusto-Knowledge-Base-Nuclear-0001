@@ -1,0 +1,12 @@
+# A Novel IoT-based Framework for Non-Invasive Human Hygiene Monitoring using Machine Learning Techniques
+
+**Authors:** Md Jobair Hossain Faruk, Shashank Trivedi, Mohammad Masum, Maria Valero, Hossain Shahriar, Sheikh Iqbal Ahamed
+
+## Summary
+People's personal hygiene habits speak volumes about the condition of taking care of their bodies and health in daily lifestyle. Maintaining good hygiene practices not only reduces the chances of contracting a disease but could also reduce the risk of spreading illness within the community. Given the current pandemic, daily habits such as washing hands or taking regular showers have taken primary importance among people, especially for the elderly population living alone at home or in an assisted living facility. This paper presents a novel and non-invasive framework for monitoring human hygiene using vibration sensors where we adopt Machine Learning techniques. The approach is based on a combination of a geophone sensor, a digitizer, and a cost-efficient computer board in a practical enclosure. Monitoring daily hygiene routines may help healthcare professionals be proactive rather than reactive in identifying and controlling the spread of potential outbreaks within the community. The experimental result indicates that applying a Support Vector Machine (SVM) for binary classification exhibits a promising accuracy of ~95% in the classification of different hygiene habits. Furthermore, both tree-based classifier (Random Forrest and Decision Tree) outperforms other models by achieving the highest accuracy (100%), which means that classifying hygiene events using vibration and non-invasive sensors is possible for monitoring hygiene activity.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:06.471Z

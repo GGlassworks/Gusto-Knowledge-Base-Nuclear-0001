@@ -1,0 +1,12 @@
+# Current applications and potential future directions of reinforcement learning-based Digital Twins in agriculture
+
+**Authors:** Georg Goldenits, Kevin Mallinger, Sebastian Raubitzek, Thomas Neubauer
+
+## Summary
+Digital Twins have gained attention in various industries for simulation, monitoring, and decision-making, relying on ever-improving machine learning models. However, agricultural Digital Twin implementations are limited compared to other industries. Meanwhile, machine learning, particularly reinforcement learning, has shown potential in agricultural applications like optimizing decision-making, task automation, and resource management. A key aspect of Digital Twins is representing physical assets or systems in a virtual environment, which aligns well with reinforcement learning's need for environment representations to learn the best policy for a task. Reinforcement learning in agriculture can thus enable various Digital Twin applications in agricultural domains. This review aims to categorize existing research employing reinforcement learning in agricultural settings by application domains like robotics, greenhouse management, irrigation systems, and crop management, identifying potential future areas for reinforcement learning-based Digital Twins. It also categorizes the reinforcement learning techniques used, including tabular methods, Deep Q-Networks (DQN), Policy Gradient methods, and Actor-Critic algorithms, to overview currently employed models. The review seeks to provide insights into the state-of-the-art in integrating Digital Twins and reinforcement learning in agriculture, identifying gaps and opportunities for future research, and exploring synergies to tackle agricultural challenges and optimize farming, paving the way for more efficient and sustainable farming methodologies.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:26:29.685Z

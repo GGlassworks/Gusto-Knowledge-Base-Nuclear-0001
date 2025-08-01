@@ -1,0 +1,12 @@
+# Distributed Deep Reinforcement Learning: A Survey and A Multi-Player Multi-Agent Learning Toolbox
+
+**Authors:** Qiyue Yin, Tongtong Yu, Shengqi Shen, Jun Yang, Meijing Zhao, Kaiqi Huang, Bin Liang, Liang Wang
+
+## Summary
+With the breakthrough of AlphaGo, deep reinforcement learning becomes a recognized technique for solving sequential decision-making problems. Despite its reputation, data inefficiency caused by its trial and error learning mechanism makes deep reinforcement learning hard to be practical in a wide range of areas. Plenty of methods have been developed for sample efficient deep reinforcement learning, such as environment modeling, experience transfer, and distributed modifications, amongst which, distributed deep reinforcement learning has shown its potential in various applications, such as human-computer gaming, and intelligent transportation. In this paper, we conclude the state of this exciting field, by comparing the classical distributed deep reinforcement learning methods, and studying important components to achieve efficient distributed learning, covering single player single agent distributed deep reinforcement learning to the most complex multiple players multiple agents distributed deep reinforcement learning. Furthermore, we review recently released toolboxes that help to realize distributed deep reinforcement learning without many modifications of their non-distributed versions. By analyzing their strengths and weaknesses, a multi-player multi-agent distributed deep reinforcement learning toolbox is developed and released, which is further validated on Wargame, a complex environment, showing usability of the proposed toolbox for multiple players and multiple agents distributed deep reinforcement learning under complex games. Finally, we try to point out challenges and future trends, hoping this brief review can provide a guide or a spark for researchers who are interested in distributed deep reinforcement learning.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:23:15.136Z

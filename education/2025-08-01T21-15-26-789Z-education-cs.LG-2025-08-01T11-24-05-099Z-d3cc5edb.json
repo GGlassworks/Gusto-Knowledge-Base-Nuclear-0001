@@ -1,0 +1,12 @@
+# A Novel Structured Natural Gradient Descent for Deep Learning
+
+**Authors:** Weihua Liu, Xiabi Liu
+
+## Summary
+Natural gradient descent (NGD) provided deep insights and powerful tools to deep neural networks. However the computation of Fisher information matrix becomes more and more difficult as the network structure turns large and complex. This paper proposes a new optimization method whose main idea is to accurately replace the natural gradient optimization by reconstructing the network. More specifically, we reconstruct the structure of the deep neural network, and optimize the new network using traditional gradient descent (GD). The reconstructed network achieves the effect of the optimization way with natural gradient descent. Experimental results show that our optimization method can accelerate the convergence of deep network models and achieve better performance than GD while sharing its computational simplicity.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:24:05.100Z

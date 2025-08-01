@@ -1,0 +1,12 @@
+# PGN: A perturbation generation network against deep reinforcement learning
+
+**Authors:** Xiangjuan Li, Feifan Li, Yang Li, Quan Pan
+
+## Summary
+Deep reinforcement learning has advanced greatly and applied in many areas. In this paper, we explore the vulnerability of deep reinforcement learning by proposing a novel generative model for creating effective adversarial examples to attack the agent. Our proposed model can achieve both targeted attacks and untargeted attacks. Considering the specificity of deep reinforcement learning, we propose the action consistency ratio as a measure of stealthiness, and a new measurement index of effectiveness and stealthiness. Experiment results show that our method can ensure the effectiveness and stealthiness of attack compared with other algorithms. Moreover, our methods are considerably faster and thus can achieve rapid and efficient verification of the vulnerability of deep reinforcement learning.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:30:19.604Z

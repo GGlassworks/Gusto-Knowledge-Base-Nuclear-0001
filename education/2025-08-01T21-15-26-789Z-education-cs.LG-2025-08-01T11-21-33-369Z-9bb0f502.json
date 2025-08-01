@@ -1,0 +1,12 @@
+# Greedy Deep Dictionary Learning
+
+**Authors:** Snigdha Tariyal, Angshul Majumdar, Richa Singh, Mayank Vatsa
+
+## Summary
+In this work we propose a new deep learning tool called deep dictionary learning. Multi-level dictionaries are learnt in a greedy fashion, one layer at a time. This requires solving a simple (shallow) dictionary learning problem, the solution to this is well known. We apply the proposed technique on some benchmark deep learning datasets. We compare our results with other deep learning tools like stacked autoencoder and deep belief network; and state of the art supervised dictionary learning tools like discriminative KSVD and label consistent KSVD. Our method yields better results than all.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:21:33.369Z

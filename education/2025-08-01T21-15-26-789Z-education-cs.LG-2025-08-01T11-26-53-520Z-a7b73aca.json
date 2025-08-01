@@ -1,0 +1,12 @@
+# Integrating Deep Reinforcement Learning Networks with Health System Simulations
+
+**Authors:** Michael Allen, Thomas Monks
+
+## Summary
+Background and motivation: Combining Deep Reinforcement Learning (Deep RL) and Health Systems Simulations has significant potential, for both research into improving Deep RL performance and safety, and in operational practice. While individual toolkits exist for Deep RL and Health Systems Simulations, no framework to integrate the two has been established. Aim: Provide a framework for integrating Deep RL Networks with Health System Simulations, and to ensure this framework is compatible with Deep RL agents that have been developed and tested using OpenAI Gym. Methods: We developed our framework based on the OpenAI Gym framework, and demonstrate its use on a simple hospital bed capacity model. We built the Deep RL agents using PyTorch, and the Hospital Simulatation using SimPy. Results: We demonstrate example models using a Double Deep Q Network or a Duelling Double Deep Q Network as the Deep RL agent. Conclusion: SimPy may be used to create Health System Simulations that are compatible with agents developed and tested on OpenAI Gym environments. GitHub repository of code: https://github.com/MichaelAllen1966/learninghospital
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:26:53.521Z

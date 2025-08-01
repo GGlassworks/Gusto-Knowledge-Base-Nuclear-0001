@@ -1,0 +1,12 @@
+# Towards energy-efficient Deep Learning: An overview of energy-efficient approaches along the Deep Learning Lifecycle
+
+**Authors:** Vanessa Mehlin, Sigurd Schacht, Carsten Lanquillon
+
+## Summary
+Deep Learning has enabled many advances in machine learning applications in the last few years. However, since current Deep Learning algorithms require much energy for computations, there are growing concerns about the associated environmental costs. Energy-efficient Deep Learning has received much attention from researchers and has already made much progress in the last couple of years. This paper aims to gather information about these advances from the literature and show how and at which points along the lifecycle of Deep Learning (IT-Infrastructure, Data, Modeling, Training, Deployment, Evaluation) it is possible to reduce energy consumption.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:21:33.580Z

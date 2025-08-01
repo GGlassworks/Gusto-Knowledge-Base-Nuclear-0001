@@ -1,0 +1,12 @@
+# A survey of deep learning optimizers -- first and second order methods
+
+**Authors:** Rohan Kashyap
+
+## Summary
+Deep Learning optimization involves minimizing a high-dimensional loss function in the weight space which is often perceived as difficult due to its inherent difficulties such as saddle points, local minima, ill-conditioning of the Hessian and limited compute resources. In this paper, we provide a comprehensive review of $14$ standard optimization methods successfully used in deep learning research and a theoretical assessment of the difficulties in numerical optimization from the optimization literature.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:24:05.494Z

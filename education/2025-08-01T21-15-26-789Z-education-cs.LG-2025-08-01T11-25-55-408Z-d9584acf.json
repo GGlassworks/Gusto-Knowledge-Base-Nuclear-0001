@@ -1,0 +1,12 @@
+# Combining Deep Learning with Good Old-Fashioned Machine Learning
+
+**Authors:** Moshe Sipper
+
+## Summary
+We present a comprehensive, stacking-based framework for combining deep learning with good old-fashioned machine learning, called Deep GOld. Our framework involves ensemble selection from 51 retrained pretrained deep networks as first-level models, and 10 machine-learning algorithms as second-level models. Enabled by today's state-of-the-art software tools and hardware platforms, Deep GOld delivers consistent improvement when tested on four image-classification datasets: Fashion MNIST, CIFAR10, CIFAR100, and Tiny ImageNet. Of 120 experiments, in all but 10 Deep GOld improved the original networks' performance.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:25:55.408Z

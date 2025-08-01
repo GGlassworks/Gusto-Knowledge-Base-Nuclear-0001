@@ -1,0 +1,12 @@
+# Learning Task-aware Robust Deep Learning Systems
+
+**Authors:** Keji Han, Yun Li, Xianzhong Long, Yao Ge
+
+## Summary
+Many works demonstrate that deep learning system is vulnerable to adversarial attack. A deep learning system consists of two parts: the deep learning task and the deep model. Nowadays, most existing works investigate the impact of the deep model on robustness of deep learning systems, ignoring the impact of the learning task. In this paper, we adopt the binary and interval label encoding strategy to redefine the classification task and design corresponding loss to improve robustness of the deep learning system. Our method can be viewed as improving the robustness of deep learning systems from both the learning task and deep model. Experimental results demonstrate that our learning task-aware method is much more robust than traditional classification while retaining the accuracy.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:21:33.050Z

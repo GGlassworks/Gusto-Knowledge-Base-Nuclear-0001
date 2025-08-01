@@ -1,0 +1,12 @@
+# An Essay on Optimization Mystery of Deep Learning
+
+**Authors:** Eugene Golikov
+
+## Summary
+Despite the huge empirical success of deep learning, theoretical understanding of neural networks learning process is still lacking. This is the reason, why some of its features seem "mysterious". We emphasize two mysteries of deep learning: generalization mystery, and optimization mystery. In this essay we review and draw connections between several selected works concerning the latter.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:24:04.254Z

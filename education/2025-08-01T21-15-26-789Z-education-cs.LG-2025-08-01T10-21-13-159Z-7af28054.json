@@ -1,0 +1,12 @@
+# Runtime Safety Assurance Using Reinforcement Learning
+
+**Authors:** Christopher Lazarus, James G. Lopez, Mykel J. Kochenderfer
+
+## Summary
+The airworthiness and safety of a non-pedigreed autopilot must be verified, but the cost to formally do so can be prohibitive. We can bypass formal verification of non-pedigreed components by incorporating Runtime Safety Assurance (RTSA) as mechanism to ensure safety. RTSA consists of a meta-controller that observes the inputs and outputs of a non-pedigreed component and verifies formally specified behavior as the system operates. When the system is triggered, a verified recovery controller is deployed. Recovery controllers are designed to be safe but very likely disruptive to the operational objective of the system, and thus RTSA systems must balance safety and efficiency. The objective of this paper is to design a meta-controller capable of identifying unsafe situations with high accuracy. High dimensional and non-linear dynamics in which modern controllers are deployed along with the black-box nature of the nominal controllers make this a difficult problem. Current approaches rely heavily on domain expertise and human engineering. We frame the design of RTSA with the Markov decision process (MDP) framework and use reinforcement learning (RL) to solve it. Our learned meta-controller consistently exhibits superior performance in our experiments compared to our baseline, human engineered approach.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:13.160Z

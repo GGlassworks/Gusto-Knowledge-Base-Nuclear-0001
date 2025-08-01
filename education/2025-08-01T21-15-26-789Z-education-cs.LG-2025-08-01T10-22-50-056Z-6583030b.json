@@ -1,0 +1,12 @@
+# Physics-informed reinforcement learning via probabilistic co-adjustment functions
+
+**Authors:** Nat Wannawas, A. Aldo Faisal
+
+## Summary
+Reinforcement learning of real-world tasks is very data inefficient, and extensive simulation-based modelling has become the dominant approach for training systems. However, in human-robot interaction and many other real-world settings, there is no appropriate one-model-for-all due to differences in individual instances of the system (e.g. different people) or necessary oversimplifications in the simulation models. This requires two approaches: 1. either learning the individual system's dynamics approximately from data which requires data-intensive training or 2. using a complete digital twin of the instances, which may not be realisable in many cases. We introduce two approaches: co-kriging adjustments (CKA) and ridge regression adjustment (RRA) as novel ways to combine the advantages of both approaches. Our adjustment methods are based on an auto-regressive AR1 co-kriging model that we integrate with GP priors. This yield a data- and simulation-efficient way of using simplistic simulation models (e.g., simple two-link model) and rapidly adapting them to individual instances (e.g., biomechanics of individual people). Using CKA and RRA, we obtain more accurate uncertainty quantification of the entire system's dynamics than pure GP-based and AR1 methods. We demonstrate the efficiency of co-kriging adjustment with an interpretable reinforcement learning control example, learning to control a biomechanical human arm using only a two-link arm simulation model (offline part) and CKA derived from a small amount of interaction data (on-the-fly online). Our method unlocks an efficient and uncertainty-aware way to implement reinforcement learning methods in real world complex systems for which only imperfect simulation models exist.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:22:50.056Z

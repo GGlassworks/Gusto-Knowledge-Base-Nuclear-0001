@@ -1,0 +1,12 @@
+# PyTorch-Hebbian: facilitating local learning in a deep learning framework
+
+**Authors:** Jules Talloen, Joni Dambre, Alexander Vandesompele
+
+## Summary
+Recently, unsupervised local learning, based on Hebb's idea that change in synaptic efficacy depends on the activity of the pre- and postsynaptic neuron only, has shown potential as an alternative training mechanism to backpropagation. Unfortunately, Hebbian learning remains experimental and rarely makes it way into standard deep learning frameworks. In this work, we investigate the potential of Hebbian learning in the context of standard deep learning workflows. To this end, a framework for thorough and systematic evaluation of local learning rules in existing deep learning pipelines is proposed. Using this framework, the potential of Hebbian learned feature extractors for image classification is illustrated. In particular, the framework is used to expand the Krotov-Hopfield learning rule to standard convolutional neural networks without sacrificing accuracy compared to end-to-end backpropagation. The source code is available at https://github.com/Joxis/pytorch-hebbian.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:26:54.478Z

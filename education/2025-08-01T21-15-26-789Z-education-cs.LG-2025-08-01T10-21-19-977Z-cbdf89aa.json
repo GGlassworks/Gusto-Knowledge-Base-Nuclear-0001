@@ -1,0 +1,12 @@
+# Learning Representations by Humans, for Humans
+
+**Authors:** Sophie Hilgard, Nir Rosenfeld, Mahzarin R. Banaji, Jack Cao, David C. Parkes
+
+## Summary
+When machine predictors can achieve higher performance than the human decision-makers they support, improving the performance of human decision-makers is often conflated with improving machine accuracy. Here we propose a framework to directly support human decision-making, in which the role of machines is to reframe problems rather than to prescribe actions through prediction. Inspired by the success of representation learning in improving performance of machine predictors, our framework learns human-facing representations optimized for human performance. This "Mind Composed with Machine" framework incorporates a human decision-making model directly into the representation learning paradigm and is trained with a novel human-in-the-loop training procedure. We empirically demonstrate the successful application of the framework to various tasks and representational forms.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:19.977Z

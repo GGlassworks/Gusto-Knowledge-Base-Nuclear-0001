@@ -1,0 +1,12 @@
+# Graph Learning for Cognitive Digital Twins in Manufacturing Systems
+
+**Authors:** Trier Mortlock, Deepan Muthirayan, Shih-Yuan Yu, Pramod P. Khargonekar, Mohammad A. Al Faruque
+
+## Summary
+Future manufacturing requires complex systems that connect simulation platforms and virtualization with physical data from industrial processes. Digital twins incorporate a physical twin, a digital twin, and the connection between the two. Benefits of using digital twins, especially in manufacturing, are abundant as they can increase efficiency across an entire manufacturing life-cycle. The digital twin concept has become increasingly sophisticated and capable over time, enabled by rises in many technologies. In this paper, we detail the cognitive digital twin as the next stage of advancement of a digital twin that will help realize the vision of Industry 4.0. Cognitive digital twins will allow enterprises to creatively, effectively, and efficiently exploit implicit knowledge drawn from the experience of existing manufacturing systems. They also enable more autonomous decisions and control, while improving the performance across the enterprise (at scale). This paper presents graph learning as one potential pathway towards enabling cognitive functionalities in manufacturing digital twins. A novel approach to realize cognitive digital twins in the product design stage of manufacturing that utilizes graph learning is presented.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:22:43.668Z

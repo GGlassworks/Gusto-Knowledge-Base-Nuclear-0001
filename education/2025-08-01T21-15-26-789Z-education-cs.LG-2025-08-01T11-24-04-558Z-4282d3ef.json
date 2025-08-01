@@ -1,0 +1,12 @@
+# NCVX: A General-Purpose Optimization Solver for Constrained Machine and Deep Learning
+
+**Authors:** Buyun Liang, Tim Mitchell, Ju Sun
+
+## Summary
+Imposing explicit constraints is relatively new but increasingly pressing in deep learning, stimulated by, e.g., trustworthy AI that performs robust optimization over complicated perturbation sets and scientific applications that need to respect physical laws and constraints. However, it can be hard to reliably solve constrained deep learning problems without optimization expertise. The existing deep learning frameworks do not admit constraints. General-purpose optimization packages can handle constraints but do not perform auto-differentiation and have trouble dealing with nonsmoothness. In this paper, we introduce a new software package called NCVX, whose initial release contains the solver PyGRANSO, a PyTorch-enabled general-purpose optimization package for constrained machine/deep learning problems, the first of its kind. NCVX inherits auto-differentiation, GPU acceleration, and tensor variables from PyTorch, and is built on freely available and widely used open-source frameworks. NCVX is available at https://ncvx.org, with detailed documentation and numerous examples from machine/deep learning and other fields.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:24:04.558Z

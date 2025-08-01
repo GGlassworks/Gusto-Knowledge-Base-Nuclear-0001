@@ -1,0 +1,12 @@
+# Random Heterogeneous Neurochaos Learning Architecture for Data Classification
+
+**Authors:** Remya Ajai A S, Nithin Nagaraj
+
+## Summary
+Inspired by the human brain's structure and function, Artificial Neural Networks (ANN) were developed for data classification. However, existing Neural Networks, including Deep Neural Networks, do not mimic the brain's rich structure. They lack key features such as randomness and neuron heterogeneity, which are inherently chaotic in their firing behavior. Neurochaos Learning (NL), a chaos-based neural network, recently employed one-dimensional chaotic maps like Generalized L\"uroth Series (GLS) and Logistic map as neurons. For the first time, we propose a random heterogeneous extension of NL, where various chaotic neurons are randomly placed in the input layer, mimicking the randomness and heterogeneous nature of human brain networks. We evaluated the performance of the newly proposed Random Heterogeneous Neurochaos Learning (RHNL) architectures combined with traditional Machine Learning (ML) methods. On public datasets, RHNL outperformed both homogeneous NL and fixed heterogeneous NL architectures in nearly all classification tasks. RHNL achieved high F1 scores on the Wine dataset (1.0), Bank Note Authentication dataset (0.99), Breast Cancer Wisconsin dataset (0.99), and Free Spoken Digit Dataset (FSDD) (0.98). These RHNL results are among the best in the literature for these datasets. We investigated RHNL performance on image datasets, where it outperformed stand-alone ML classifiers. In low training sample regimes, RHNL was the best among stand-alone ML. Our architecture bridges the gap between existing ANN architectures and the human brain's chaotic, random, and heterogeneous properties. We foresee the development of several novel learning algorithms centered around Random Heterogeneous Neurochaos Learning in the coming days.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T10:18:25.845Z

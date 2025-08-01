@@ -1,0 +1,12 @@
+# Probabilistic Deep Learning with Probabilistic Neural Networks and Deep Probabilistic Models
+
+**Authors:** Daniel T. Chang
+
+## Summary
+Probabilistic deep learning is deep learning that accounts for uncertainty, both model uncertainty and data uncertainty. It is based on the use of probabilistic models and deep neural networks. We distinguish two approaches to probabilistic deep learning: probabilistic neural networks and deep probabilistic models. The former employs deep neural networks that utilize probabilistic layers which can represent and process uncertainty; the latter uses probabilistic models that incorporate deep neural network components which capture complex non-linear stochastic relationships between the random variables. We discuss some major examples of each approach including Bayesian neural networks and mixture density networks (for probabilistic neural networks), and variational autoencoders, deep Gaussian processes and deep mixed effects models (for deep probabilistic models). TensorFlow Probability is a library for probabilistic modeling and inference which can be used for both approaches of probabilistic deep learning. We include its code examples for illustration.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:21:33.516Z

@@ -1,0 +1,12 @@
+# Boosting Deep Ensembles with Learning Rate Tuning
+
+**Authors:** Hongpeng Jin, Yanzhao Wu
+
+## Summary
+The Learning Rate (LR) has a high impact on deep learning training performance. A common practice is to train a Deep Neural Network (DNN) multiple times with different LR policies to find the optimal LR policy, which has been widely recognized as a daunting and costly task. Moreover, multiple times of DNN training has not been effectively utilized. In practice, often only the optimal LR is adopted, which misses the opportunities to further enhance the overall accuracy of the deep learning system and results in a huge waste of both computing resources and training time. This paper presents a novel framework, LREnsemble, to effectively leverage effective learning rate tuning to boost deep ensemble performance. We make three original contributions. First, we show that the LR tuning with different LR policies can produce highly diverse DNNs, which can be supplied as base models for deep ensembles. Second, we leverage different ensemble selection algorithms to identify high-quality deep ensembles from the large pool of base models with significant accuracy improvements over the best single base model. Third, we propose LREnsemble, a framework that utilizes the synergy of LR tuning and deep ensemble techniques to enhance deep learning performance. The experiments on multiple benchmark datasets have demonstrated the effectiveness of LREnsemble, generating up to 2.34% accuracy improvements over well-optimized baselines.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:24:05.381Z

@@ -1,0 +1,12 @@
+# On the Reduction of Variance and Overestimation of Deep Q-Learning
+
+**Authors:** Mohammed Sabry, Amr M. A. Khalifa
+
+## Summary
+The breakthrough of deep Q-Learning on different types of environments revolutionized the algorithmic design of Reinforcement Learning to introduce more stable and robust algorithms, to that end many extensions to deep Q-Learning algorithm have been proposed to reduce the variance of the target values and the overestimation phenomena. In this paper, we examine new methodology to solve these issues, we propose using Dropout techniques on deep Q-Learning algorithm as a way to reduce variance and overestimation. We also present experiments conducted on benchmark environments, demonstrating the effectiveness of our methodology in enhancing stability and reducing both variance and overestimation in model performance.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:29:29.334Z

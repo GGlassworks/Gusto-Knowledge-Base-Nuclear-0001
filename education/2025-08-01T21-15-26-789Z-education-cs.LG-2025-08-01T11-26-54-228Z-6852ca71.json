@@ -1,0 +1,12 @@
+# Robustness Analysis of Deep Learning Frameworks on Mobile Platforms
+
+**Authors:** Amin Eslami Abyane, Hadi Hemmati
+
+## Summary
+With the recent increase in the computational power of modern mobile devices, machine learning-based heavy tasks such as face detection and speech recognition are now integral parts of such devices. This requires frameworks to execute machine learning models (e.g., Deep Neural Networks) on mobile devices. Although there exist studies on the accuracy and performance of these frameworks, the quality of on-device deep learning frameworks, in terms of their robustness, has not been systematically studied yet. In this paper, we empirically compare two on-device deep learning frameworks with three adversarial attacks on three different model architectures. We also use both the quantized and unquantized variants for each architecture. The results show that, in general, neither of the deep learning frameworks is better than the other in terms of robustness, and there is not a significant difference between the PC and mobile frameworks either. However, in cases like Boundary attack, mobile version is more robust than PC. In addition, quantization improves robustness in all cases when moving from PC to mobile.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:26:54.228Z

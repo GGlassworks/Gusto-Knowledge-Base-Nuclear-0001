@@ -1,0 +1,12 @@
+# Interpretations of Deep Learning by Forests and Haar Wavelets
+
+**Authors:** Changcun Huang
+
+## Summary
+This paper presents a basic property of region dividing of ReLU (rectified linear unit) deep learning when new layers are successively added, by which two new perspectives of interpreting deep learning are given. The first is related to decision trees and forests; we construct a deep learning structure equivalent to a forest in classification abilities, which means that certain kinds of ReLU deep learning can be considered as forests. The second perspective is that Haar wavelet represented functions can be approximated by ReLU deep learning with arbitrary precision; and then a general conclusion of function approximation abilities of ReLU deep learning is given. Finally, generalize some of the conclusions of ReLU deep learning to the case of sigmoid-unit deep learning.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:28:33.374Z

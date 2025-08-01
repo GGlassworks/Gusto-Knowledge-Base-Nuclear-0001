@@ -1,0 +1,12 @@
+# Model Complexity of Deep Learning: A Survey
+
+**Authors:** Xia Hu, Lingyang Chu, Jian Pei, Weiqing Liu, Jiang Bian
+
+## Summary
+Model complexity is a fundamental problem in deep learning. In this paper we conduct a systematic overview of the latest studies on model complexity in deep learning. Model complexity of deep learning can be categorized into expressive capacity and effective model complexity. We review the existing studies on those two categories along four important factors, including model framework, model size, optimization process and data complexity. We also discuss the applications of deep learning model complexity including understanding model generalization, model optimization, and model selection and design. We conclude by proposing several interesting future directions.
+
+
+---
+Category: education
+Subcategory: cs.LG
+Collected: 2025-08-01T11:24:04.922Z
