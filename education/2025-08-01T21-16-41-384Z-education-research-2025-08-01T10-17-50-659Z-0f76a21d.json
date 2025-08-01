@@ -1,0 +1,13 @@
+# Optimizing the Teaching-Learning Process Through a Linear Programming Model--Stage Increment Model.
+
+**Authors:** Belgard, Maria R., Min, Leo Yoon-Gee
+
+## Abstract
+An operations research method to optimize the teaching-learning process is introduced in this paper. In particular, a linear programing model is proposed which, unlike dynamic or control theory models, allows the computer to react to the responses of a learner in seconds or less. To satisfy the assumptions of linearity, the seemingly complicated non-linear teaching-learning process is converted into a neat linear form. A theorem is proposed and proven which provides the theoretical basis for treating the teaching-learning process as a piece-wise linear form. By taking probability of success as a negative cost coefficient, a mathematical programing model is proposed for the local optimizations which lead to the global optimization when the theorem is applied. Through this Stage  Increment Model, sound and scientific optimization of the teaching-learning process for the individual becomes a reality. (Author/MF)
+
+**Source:** https://eric.ed.gov/?id=ED046250
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:17:50.659Z

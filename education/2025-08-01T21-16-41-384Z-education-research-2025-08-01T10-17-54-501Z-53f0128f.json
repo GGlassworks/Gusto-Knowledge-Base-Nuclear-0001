@@ -1,0 +1,13 @@
+# Optimization of Systran System.
+
+**Authors:** Toma, Peter P., And Others
+
+## Abstract
+This report describes an optimization phase of the SYSTRAN (System Translation) machine translation technique. The most distinctive characteristic of SYSTRAN is the absence of pre-editing; the program reads tapes containing raw and unedited Russian texts, carries out dictionary and table lookups, performs all syntactic analysis procedures, and prints out translated texts without human direction. The report begins with a schematic introduction to SYSTRAN, followed by an extensive discussion of improvements effected during optimization in the dictionary, parsing system, and semantics. Improvements in other areas, i.e., the translation of homographs, adverbs, proper names, numerals, adnominal genitives, verbs plus objects, sequence of tenses, abbreviations, and articles, are also  reported. A discussion of programing specifics in improving the efficiency of SYSTRAN processing is included, followed by remarks on SYSTRAN and the controversy concerning machine translation in general. Appendixes provide further details on the operation of the program. (Author/VM)
+
+**Source:** https://eric.ed.gov/?id=ED066975
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:17:54.502Z

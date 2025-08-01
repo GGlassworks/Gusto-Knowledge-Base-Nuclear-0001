@@ -1,0 +1,13 @@
+# Optimum Policy Regions for Computer-Directed Teaching Systems.
+
+**Authors:** Smallwood, Richard D.
+
+## Abstract
+The development of computer-directed instruction in which the learning protocol is tailored to each student on the basis of his learning history requires a means by which the many different trajectories open to a student can be resolved. Such an optimization procedure can be constructed to reduce the long and costly calculations associated with straight-forward decision tree optimization calculation. In this procedure the decision logic acts on the basis of the student's history, including his most recent response. A quantitative representation of the purpose of the instruction and the costs of alternative routes is weighted by the probability of the student's following that route. This defines the maximum expected total utility for a student with a given history, the  optimization equation. By then using this technique with general models of learning behavior and a branching network design, the optimum alternative at each level in the branching network can be stated. Using such an optimization policy, the total expected instructional cost is sixty to eighty per cent higher than the optimum policy. (BB)
+
+**Source:** https://eric.ed.gov/?id=ED027754
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:17:53.446Z

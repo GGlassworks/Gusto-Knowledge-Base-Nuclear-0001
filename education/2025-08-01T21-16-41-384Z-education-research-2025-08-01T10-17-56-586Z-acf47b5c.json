@@ -1,0 +1,13 @@
+# Inventory Systems Laboratory. Final Report.
+
+**Authors:** Naddor, Eliezer
+
+## Abstract
+Four computer programs to aid students in understanding inventory systems, constructing mathematical inventory models, and developing optimal decision rules are presented. The program series allows a user to set input levels, simulates the behavior of major variables in inventory systems, and provides performance measures as output. Inventory Systems Lab (ISL)1 deals with carrying, shortage, and replenishment costs. The user selects three parameters: unit costs, interim demand, and planning horizon. He then must decide when and in what quantities replenishments are to be made. The program enables him to observe effects of changing parameters and/or replenishments on overall costs. ISL-2 and 3 introduce the user to factor optimization. For any reorder point and lot size set,  interim system behavior and average costs are available. The user may then build a model for long-run system behavior, formulate optimization decision rules, and have the program test his results. In ISL-4 a user faces a system with a variety of properties and policies including lost sales, prescribed variable demand, and fixed inventory policies for which he carries out model building and optimization exercises. The program series is considered flexible and effective as a heuristic aid. Fortran IV listings are included. (SS)
+
+**Source:** https://eric.ed.gov/?id=ED026849
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:17:56.586Z

@@ -1,0 +1,13 @@
+# Focal Manual for CAI Coding on the TSS/8 System.
+
+**Authors:** Kirbs, H. Dewey, And Others
+
+## Abstract
+Basic information is provided in this manual for coding drill-and-practice CAI (computer-assisted instruction) applications in the language FOCAL (Formulating On-line Calculations in Algebraic Language). This language is available on the Digital Equipment Corporation Time-Sharing 8 system (TSS/8). While FOCAL is oriented toward solution of algebraic problems, it is flexible enough to be used as a CAI coding tool. Explanations and examples are provided for those features in FOCAL most obviously useful for CAI coding. These features include presenting text, accepting student responses, testing answers, branching, subroutines, and several other author aids. Information is also provided for utilizing the time-sharing system on which FOCAL operates. Since the manual could not  demonstrate all possible coding techniques or anticipate all possible applications, the reader is also directed to more comprehensive sources. (Author/MT)
+
+**Source:** https://eric.ed.gov/?id=ED048761
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:16:58.516Z
