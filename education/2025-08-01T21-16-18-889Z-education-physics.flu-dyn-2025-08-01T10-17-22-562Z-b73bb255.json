@@ -1,0 +1,12 @@
+# Towards human-interpretable, automated learning of feedback control for the mixing layer
+
+**Authors:** Hao Li, Guy Y. Cornejo Maceda, Yiqing Li, Jianguo Tan, Marek Morzyński, Bernd R. Noack
+
+## Summary
+We propose an automated analysis of the flow control behaviour from an ensemble of control laws and associated time-resolved flow snapshots. The input may be the rich data base of machine learning control (MLC) optimizing a feedback law for a cost function in the plant. The proposed methodology provides (1) insights into control landscape which maps control laws to performance including extrema and ridge-lines, (2) a catalogue of representative flow states and their contribution to cost function for investigated control laws and (3) a visualization of the dynamics. Key enablers are classification and feature extraction methods of machine learning. The analysis is successfully applied to the stabilization of a mixing layer with sensor-based feedback driving an upstream actuator. The fluctuation energy is reduced by 26\%. The control replaces unforced Kelvin-Helmholtz vortices with subsequent vortex pairing by higher-frequency Kelvin-Helmholtz structures of lower energy. These efforts target a human interpretable, fully automated analysis of MLC identifying qualitatively different actuation regimes, distilling corresponding coherent structures, and developing a digital twin of the plant.
+
+
+---
+Category: education
+Subcategory: physics.flu-dyn
+Collected: 2025-08-01T10:17:22.562Z

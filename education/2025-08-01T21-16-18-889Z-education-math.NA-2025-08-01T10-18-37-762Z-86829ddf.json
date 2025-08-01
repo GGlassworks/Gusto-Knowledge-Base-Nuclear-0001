@@ -1,0 +1,12 @@
+# Combining physics-based and data-driven models: advancing the frontiers of research with Scientific Machine Learning
+
+**Authors:** Alfio Quarteroni, Paola Gervasio, Francesco Regazzoni
+
+## Summary
+Scientific Machine Learning (SciML) is a recently emerged research field which combines physics-based and data-driven models for the numerical approximation of differential problems. Physics-based models rely on the physical understanding of the problem, subsequent mathematical formulation, and numerical approximation. Data-driven models instead aim to extract relations between input and output data without arguing any causality principle underlining the available data distribution. In recent years, data-driven models have been rapidly developed and popularized. Such a diffusion has been triggered by a huge availability of data, increasingly cheap computing power, and the development of powerful ML algorithms. SciML leverages the physical awareness of physics-based models and the efficiency of data-driven algorithms. With SciML, we can inject physics and mathematical knowledge into ML algorithms. Yet, we can rely on data-driven algorithms' capability to discover complex and nonlinear patterns from data and improve the descriptive capacity of physics-based models. After recalling the mathematical foundations of digital modelling and ML algorithms and presenting the most popular ML architectures, we discuss the great potential of a broad variety of SciML strategies in solving complex problems governed by PDEs. Finally, we illustrate the successful application of SciML to the simulation of the human cardiac function, a field of significant socioeconomic importance that poses numerous challenges on both the mathematical and computational fronts. Despite the robustness and accuracy of physics-based models, certain aspects, such as unveiling constitutive laws for cardiac cells and myocardial material properties, as well as devising efficient reduced order models to dominate the extraordinary computational complexity, have been successfully tackled by leveraging data-driven models.
+
+
+---
+Category: education
+Subcategory: math.NA
+Collected: 2025-08-01T10:18:37.763Z

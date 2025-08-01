@@ -1,0 +1,13 @@
+# Predicting Cooperation with Learning Models
+
+**Authors:** Drew Fudenberg, Gustav Karreskog Rehbinder
+
+## Abstract
+<jats:p>We use simulations of a simple learning model to predict cooperation rates in the experimental play of the indefinitely repeated prisoner’s dilemma. We suppose that learning and the game parameters only influence play in the initial round of each supergame, and that after these rounds, play depends only on the outcome of the previous round. We find that our model predicts out-of-sample cooperation at least as well as models with more parameters and harder-to-interpret machine learning algorithms. Our results let us predict the effect of session length and help explain past findings on the role of strategic uncertainty. (JEL C57, C72, C73, D83, D91)</jats:p>
+
+**Source:** https://doi.org/10.1257/mic.20220148
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T20:28:11.401Z

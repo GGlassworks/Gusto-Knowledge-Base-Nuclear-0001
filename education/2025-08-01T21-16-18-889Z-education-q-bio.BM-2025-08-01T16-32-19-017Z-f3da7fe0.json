@@ -1,0 +1,12 @@
+# Machine Learning Harnesses Molecular Dynamics to Discover New $μ$ Opioid Chemotypes
+
+**Authors:** Evan N. Feinberg, Amir Barati Farimani, Rajendra Uprety, Amanda Hunkele, Gavril W. Pasternak, Susruta Majumdar, Vijay S. Pande
+
+## Summary
+Computational chemists typically assay drug candidates by virtually screening compounds against crystal structures of a protein despite the fact that some targets, like the $\mu$ Opioid Receptor and other members of the GPCR family, traverse many non-crystallographic states. We discover new conformational states of $\mu OR$ with molecular dynamics simulation and then machine learn ligand-structure relationships to predict opioid ligand function. These artificial intelligence models identified a novel $\mu$ opioid chemotype.
+
+
+---
+Category: education
+Subcategory: q-bio.BM
+Collected: 2025-08-01T16:32:19.017Z

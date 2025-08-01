@@ -1,0 +1,12 @@
+# Optimal control under unknown intensity with Bayesian learning
+
+**Authors:** Nicolas Baradel, Quentin Cormier
+
+## Summary
+We consider an optimal control problem inspired by neuroscience, where the dynamics is driven by a Poisson process with a controlled stochastic intensity and an uncertain parameter. Given a prior distribution for the unknown parameter, we describe its evolution according to Bayes' rule. We reformulate the optimization problem using Girsanov's theorem and establish a dynamic programming principle. Finally, we characterize the value function as the unique viscosity solution to a finite-dimensional Hamilton-Jacobi-Bellman equation, which can be solved numerically.
+
+
+---
+Category: education
+Subcategory: math.OC
+Collected: 2025-08-01T17:03:13.404Z

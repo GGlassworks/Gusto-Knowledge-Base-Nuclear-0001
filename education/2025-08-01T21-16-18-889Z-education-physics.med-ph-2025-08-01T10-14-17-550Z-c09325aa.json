@@ -1,0 +1,12 @@
+# Photoacoustic digital brain: numerical modelling and image reconstruction via deep learning
+
+**Authors:** Tengbo Lyu, Jiadong Zhang, Zijian Gao, Changchun Yang, Feng Gao, Fei Gao
+
+## Summary
+Photoacoustic tomography (PAT) is a newly developed medical imaging modality, which combines the advantages of pure optical imaging and ultrasound imaging, owning both high optical contrast and deep penetration depth. Very recently, PAT is studied in human brain imaging. Nevertheless, while ultrasound waves are passing through the human skull tissues, the strong acoustic attenuation and aberration will happen, which causes photoacoustic signals' distortion. In this work, we use 10 magnetic resonance angiography (MRA) human brain volumes, and manually segment them to obtain the 2D human brain numerical phantoms for PAT. The numerical phantoms contain six kinds of tissues which are scalp, skull, white matter, gray matter, blood vessel and cerebral cortex. For every numerical phantom, optical properties are assigned to every kind of tissues. Then, Monte-Carlo based optical simulation is deployed to obtain the photoacoustic initial pressure. Then, we made two k-wave simulation cases: one takes inhomogeneous medium and uneven sound velocity into consideration, and the other not. Then we use the sensor data of the former one as the input of U-net, and the sensor data of the latter one as the output of U-net to train the network. We randomly choose 7 human brain PA sinograms as the training dataset and 3 human brain PA sinograms as the testing set. The testing result shows that our method could correct the skull acoustic aberration and obtain the blood vessel distribution inside the human brain satisfactorily.
+
+
+---
+Category: education
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:17.551Z

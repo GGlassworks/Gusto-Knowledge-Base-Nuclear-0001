@@ -1,0 +1,13 @@
+# Development of MATLAB Graphical User Interface for Teaching Statics
+
+**Authors:** Nidal Al-Masoud
+
+## Abstract
+<jats:p>In this paper a Graphical User Interface (GUI) platform to supplement teaching and learning in Engineering Mechanics — Statics course is developed. The package encompasses several interrelated modules of the concepts introduced in a typical Statics class. The GUI provides a user-friendly interactive approach to solving problems and displaying the results both numerically and graphically in two- and three-dimensional spaces. In addition to visualization, GUI approach allows users to modify input data and observe the effect on the solution, thus providing students with additional insight to predict the behavior of structures under different loading scenarios.</jats:p>
+
+**Source:** https://doi.org/10.1115/imece2005-80023
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T16:01:24.867Z

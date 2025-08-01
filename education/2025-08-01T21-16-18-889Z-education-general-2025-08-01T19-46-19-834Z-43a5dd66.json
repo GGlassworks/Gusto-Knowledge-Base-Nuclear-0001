@@ -1,0 +1,13 @@
+# Evolution of SOMs’ Structure and Learning Algorithm: From Visualization of High-Dimensional Data to Clustering of Complex Data
+
+**Authors:** Marian B. Gorzałczany, Filip Rudziński
+
+## Abstract
+<jats:p>In this paper, we briefly present several modifications and generalizations of the concept of self-organizing neural networks—usually referred to as self-organizing maps (SOMs)—to illustrate their advantages in applications that range from high-dimensional data visualization to complex data clustering. Starting from conventional SOMs, Growing SOMs (GSOMs), Growing Grid Networks (GGNs), Incremental Grid Growing (IGG) approach, Growing Neural Gas (GNG) method as well as our two original solutions, i.e., Generalized SOMs with 1-Dimensional Neighborhood (GeSOMs with 1DN also referred to as Dynamic SOMs (DSOMs)) and Generalized SOMs with Tree-Like Structures (GeSOMs with T-LSs) are discussed. They are characterized in terms of (i) the modification mechanisms used, (ii) the range of network modifications introduced, (iii) the structure regularity, and (iv) the data-visualization/data-clustering effectiveness. The performance of particular solutions is illustrated and compared by means of selected data sets. We also show that the proposed original solutions, i.e., GeSOMs with 1DN (DSOMs) and GeSOMS with T-LSs outperform alternative approaches in various complex clustering tasks by providing up to     20 %     increase in the clustering accuracy. The contribution of this work is threefold. First, algorithm-oriented original computer-implementations of particular SOM’s generalizations are developed. Second, their detailed simulation results are presented and discussed. Third, the advantages of our earlier-mentioned original solutions are demonstrated.</jats:p>
+
+**Source:** https://doi.org/10.3390/a13050109
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T19:46:19.835Z

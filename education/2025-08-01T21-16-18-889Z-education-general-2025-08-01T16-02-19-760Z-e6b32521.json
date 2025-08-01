@@ -1,0 +1,13 @@
+# An educational MATLAB code for nonlinear isotropic/kinematic hardening model implementation
+
+**Authors:** Haykel Marouani, Tarek Hassine
+
+## Abstract
+<jats:p> The paper addresses the importance of incorporating material behavior models, such as plasticity and fatigue models, into the academic curricula of mechanical engineering, materials science, and structural engineering. It highlights the challenges encountered by students due to the complexity of these models and the necessary mathematical background. The primary objective is to present a systematic implementation of the Chaboche model, which integrates isotropic and kinematic hardening to simulate material behavior under cyclic loading conditions. The implementation involves employing numerical methods like the Newton–Raphson method and solving ordinary differential equations using the implicit Euler method or asymptotic approximations. The paper aims to support and inspire students, engineers, and researchers to master the implementation of material behavior models. It specifically examines the case of isotropic elastoplastic material with mixed hardening subjected to a 1-D tensile-compression test. The provided MATLAB code allows users to customize cyclic loading scenarios and analyze material responses. The article structure encompasses sections introducing the Chaboche model, detailing numerical implementation methods, integrating the model, discussing the MATLAB code (included in the appendix) and results, and concluding remarks. </jats:p>
+
+**Source:** https://doi.org/10.1177/03064190241264663
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T16:02:19.760Z

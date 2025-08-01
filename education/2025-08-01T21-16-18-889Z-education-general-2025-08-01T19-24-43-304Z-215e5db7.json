@@ -1,0 +1,13 @@
+# Runtime prediction of big data jobs: performance comparison of machine learning algorithms and analytical models
+
+**Authors:** Nasim Ahmed, Andre L. C. Barczak, Mohammad A. Rashid, Teo Susnjak
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Due to the rapid growth of available data, various platforms offer parallel infrastructure that efficiently processes big data. One of the critical issues is how to use these platforms to optimise resources, and for this reason, performance prediction has been an important topic in the last few years. There are two main approaches to the problem of predicting performance. One is to fit data into an equation based on a analytical models. The other is to use machine learning (ML) in the form of regression algorithms. In this paper, we have investigated the difference in accuracy for these two approaches. While our experiments used an open-source platform called Apache Spark, the results obtained by this research are applicable to any parallel platform and are not constrained to this technology. We found that gradient boost, an ML regressor, is more accurate than any of the existing analytical models as long as the range of the prediction follows that of the training. We have investigated analytical and ML models based on interpolation and extrapolation methods with k-fold cross-validation techniques. Using the interpolation method, two analytical models, namely 2D-plate and fully-connected models, outperform older analytical models and kernel ridge regression algorithm but not the gradient boost regression algorithm. We found the average accuracy of 2D-plate and fully-connected models using interpolation are 0.962 and 0.961. However, when using the extrapolation method, the analytical models are much more accurate than the ML regressors, particularly two of the most recently proposed models (2D-plate and fully-connected). Both models are based on the communication patterns between the nodes. We found that using extrapolation, kernel ridge, gradient boost and two proposed analytical models average accuracy is 0.466, 0.677, 0.975, and 0.981, respectively. This study shows that practitioners can benefit from analytical models by being able to accurately predict the runtime outside of the range of the training data using only a few experimental operations.</jats:p>
+
+**Source:** https://doi.org/10.1186/s40537-022-00623-1
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T19:24:43.304Z

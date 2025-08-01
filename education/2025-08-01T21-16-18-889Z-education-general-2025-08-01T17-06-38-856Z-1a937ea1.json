@@ -1,0 +1,13 @@
+# Using reinforcement learning models in social neuroscience: frameworks, pitfalls, and suggestions of best practices
+
+**Authors:** Lei Zhang, Lukas Lengersdorff, Nace Mikus, Jan Gläscher, Claus Lamm
+
+## Abstract
+<p>Recent years have witnessed a dramatic increase in the use of reinforcement learning (RL) models in social, cognitive and affective neuroscience. This approach, in combination with neuroimaging techniques such as functional magnetic resonance imaging, enables quantitative investigations into latent mechanistic processes. However, increased use of relatively complex computational approaches has led to potential misconceptions and imprecise interpretations. Here, we present a comprehensive framework for the examination of (social) decision-making with the simple Rescorla-Wagner RL model. We discuss common pitfalls in its application and provide practical suggestions. First, with simulation, we unpack the functional role of the learning rate and pinpoint what could easily go wrong when interpreting differences in the learning rate. Then, we discuss the inevitable collinearity between outcome and prediction error in RL models and provide suggestions of how to justify whether the observed neural activation is related to the prediction error rather than outcome valence. Finally, we suggest posterior predictive check is a crucial step after model comparison, and we articulate employing hierarchical modeling for parameter estimation. We aim to provide simple and scalable explanations and practical guidelines for employing RL models to assist both beginners and advanced users in better implementing and interpreting their model-based analyses.</p>
+
+**Source:** https://doi.org/10.31234/osf.io/uthw2
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T17:06:38.856Z

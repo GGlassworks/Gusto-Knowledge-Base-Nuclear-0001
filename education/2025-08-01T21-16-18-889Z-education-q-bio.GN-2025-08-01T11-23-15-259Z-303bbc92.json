@@ -1,0 +1,12 @@
+# Deep Learning for Genomics: A Concise Overview
+
+**Authors:** Tianwei Yue, Yuanxin Wang, Longxiang Zhang, Chunming Gu, Haoru Xue, Wenping Wang, Qi Lyu, Yujie Dun
+
+## Summary
+Advancements in genomic research such as high-throughput sequencing techniques have driven modern genomic studies into "big data" disciplines. This data explosion is constantly challenging conventional methods used in genomics. In parallel with the urgent demand for robust algorithms, deep learning has succeeded in a variety of fields such as vision, speech, and text processing. Yet genomics entails unique challenges to deep learning since we are expecting from deep learning a superhuman intelligence that explores beyond our knowledge to interpret the genome. A powerful deep learning model should rely on insightful utilization of task-specific knowledge. In this paper, we briefly discuss the strengths of different deep learning models from a genomic perspective so as to fit each particular task with a proper deep architecture, and remark on practical considerations of developing modern deep learning architectures for genomics. We also provide a concise review of deep learning applications in various aspects of genomic research, as well as pointing out potential opportunities and obstacles for future genomics applications.
+
+
+---
+Category: education
+Subcategory: q-bio.GN
+Collected: 2025-08-01T11:23:15.259Z
