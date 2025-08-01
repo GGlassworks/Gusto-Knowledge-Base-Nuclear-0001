@@ -1,0 +1,13 @@
+# Educational Process Mining: A Study Using a Public Educational Data Set from a Machine Learning Repository
+
+**Authors:** Guiyun Feng, Honghui Chen
+
+## Abstract
+Data mining has been successfully and widely utilized in educational information systems, and an important research field has been formed, which is educational data mining. Process mining inherits the characteristics of data mining which can not only use historical data in the system to analyze learning behavior and predict academic performance, but also build process models through event logs to extract knowledge for innovative education management. The urgent requirement of analyzing and improving the learning process and the massive growth of log events in educational information systems have led to the emergence of educational process mining. This paper will present a study that fully applies the three types of process mining including process discovery, conformance checking, and process enhancement to a publicly available educational data set from a machine learning repository. Firstly, [alpha] series algorithms, Fuzzy miner, Integer Linear Programming miner, Heuristics miner, Inductive miner and other algorithms are applied to mine the preprocessed data set. Then, the mining results are evaluated and compared with the specific evaluation metrics of the process mining algorithm, such as simplicity, fitness and precision. Finally, the mined model is enhanced with the existing information in order to achieve the goal of providing the guidance of learning path for students, the suggestions of improving teaching program for teachers and the reference of teaching project implementation for teaching management departments.
+
+**Source:** https://eric.ed.gov/?id=EJ1467892
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:25:59.702Z

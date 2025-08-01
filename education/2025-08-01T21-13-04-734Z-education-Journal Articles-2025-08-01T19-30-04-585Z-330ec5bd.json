@@ -1,0 +1,13 @@
+# Comparative Analysis of Algorithms with Data Mining Methods for Examining Attitudes towards STEM Fields
+
+**Authors:** Göktepe Körpeoglu, Seda, Göktepe Yildiz, Sevda
+
+## Abstract
+Examining students' attitudes towards STEM (science, technology, engineering, and mathematics) fields starting from middle school level is important in their career choices and future planning. However, there is a need to investigate which variables affect students' attitudes towards STEM. Here, we aimed to estimate middle school students' attitudes towards STEM with data mining algorithms using classification analysis. Data mining is one of the data analysis methods used successfully in different fields, including education, in recent years. 600 middle school students from different grade levels selected from various districts of Istanbul province participated in the study. The data collection tools of the research are the STEM Attitude Scale and Personal Information Form. The data obtained from the Personal Information Form is about the students' school type, grade level, gender, academic achievement, mother and father occupation, education level of father and mother. According to the results of the research, the K-Star algorithm from the lazy group and the Random Tree algorithm from the trees group performed the best results in classifying data. According to the decision tree technique, the dominant factor influencing middle school students' attitudes towards STEM fields is the grade levels. Besides, the factors that the K-Star algorithm finds important after grade level variable in classification are mother occupation and academic achievement level. It is hoped that this study will enlighten future research on setting an example for the use of data mining methods in educational research and determining the factors that affect students' attitudes towards STEM fields.
+
+**Source:** https://eric.ed.gov/?id=EJ1369265
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:30:04.585Z

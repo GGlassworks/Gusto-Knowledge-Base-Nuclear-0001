@@ -1,0 +1,13 @@
+# Metrics for Evaluation of Student Models
+
+**Authors:** Pelanek, Radek
+
+## Abstract
+Researchers use many different metrics for evaluation of performance of student models. The aim of this paper is to provide an overview of commonly used metrics, to discuss properties, advantages, and disadvantages of different metrics, to summarize current practice in educational data mining, and to provide guidance for evaluation of student models. In the discussion we mention the relation of metrics to parameter fitting, the impact of student models on student practice (over-practice, under-practice), and point out connections to related work on evaluation of probability forecasters in other domains. We also provide an empirical comparison of metrics. One of the conclusion of the paper is that some commonly used metrics should not be used (MAE) or should be used more critically (AUC).
+
+**Source:** https://eric.ed.gov/?id=EJ1115277
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:41:26.411Z

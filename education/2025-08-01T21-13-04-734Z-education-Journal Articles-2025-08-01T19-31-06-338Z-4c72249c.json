@@ -1,0 +1,13 @@
+# Using Data Mining Models to Predict Students&apos; Academic Performance before the Online Course Start
+
+**Authors:** Xu, Tonghui
+
+## Abstract
+The early detection of students' academic performance or final grades helps instructors prepare their online courses. In the Open University Learning Analytics Dataset, I found many online students clicked the course materials before the first day of class. This study aims to investigate how data mining models can use this student interaction data to predict their academic performance. In this study, this interaction information is called &quot;week 0&quot; data. The results suggest that &quot;week 0&quot; interaction data can be used to identify the academic success of online students and predict first assignment performance.
+
+**Source:** https://eric.ed.gov/?id=EJ1383946
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:31:06.338Z

@@ -1,0 +1,13 @@
+# Enhancing the Performance of Educational Systems Using Efficient Opinion Mining Techniques
+
+**Authors:** Mohamed, Mohamed Hegazy, Abdelgaber, Sayed, Abd-Ellatif, Laila
+
+## Abstract
+Governments and educational authorities around the world are emphasizing performance evaluation of educational systems. Opinion Mining (OM) has gained acceptance among experts in various regions, including the preparation space. The proposed model involves Two modules: the data preprocessing module and the opinion mining module. The main objective of our article is to enhance educational systems through the analysis of student comments, teacher comments and course comments. Furthermore, the proposed model uses a bundling task to make groups of packs for students from its comments. The datasets were 10,000 instances, 80% of which were for training and 20% for testing. The results showed that K-Means Algorithm had the best accuracy time /Sec of 0.03. The correctly classified 8,000 instances were equal to 96%, and incorrectly classified 2,000 instances were equal to 4%, Accuracy of the model is 95%, Recall is 94.8% and F-Measure is 93.7% between others algorithms. clustering and Association Rule Mining phases Algorithms namely Chi-Square test is good quality than Others Algorithms.
+
+**Source:** https://eric.ed.gov/?id=EJ1381106
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:30:03.377Z

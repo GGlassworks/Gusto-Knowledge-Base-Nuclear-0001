@@ -1,0 +1,13 @@
+# Applying Web Usage Mining for Personalizing Hyperlinks in Web-Based Adaptive Educational Systems
+
+**Authors:** Romero, Cristobal, Ventura, Sebastian, Zafra, Amelia, de Bra, Paul
+
+## Abstract
+Nowadays, the application of Web mining techniques in e-learning and Web-based adaptive educational systems is increasing exponentially. In this paper, we propose an advanced architecture for a personalization system to facilitate Web mining. A specific Web mining tool is developed and a recommender engine is integrated into the AHA! system in order to help the instructor to carry out the whole Web mining process. Our objective is to be able to recommend to a student the most appropriate links/Web pages within the AHA! system to visit next. Several experiments are carried out with real data provided by Eindhoven University of Technology students in order to test both the architecture proposed and the algorithms used. Finally, we have also described the meaning of several recommendations, starting from the rules discovered by the Web mining algorithms. (Contains 4 tables and 9 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ848762
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:30:04.026Z

@@ -1,0 +1,13 @@
+# Enhancing Student Performance Prediction via Educational Data Mining on Academic Data
+
+**Authors:** Zareen Alamgir, Habiba Akram, Saira Karim, Aamir Wali
+
+## Abstract
+Educational data mining is widely deployed to extract valuable information and patterns from academic data. This research explores new features that can help predict the future performance of undergraduate students and identify at-risk students early on. It answers some crucial and intuitive questions that are not addressed by previous studies. Most of the existing research is conducted on data from 2-3 years in an absolute grading scheme. We examined the effects of historical academic data of 15 years on predictive modelling. Additionally, we explore the performance of undergraduate students in a relative grading scheme and examine the effects of grades in core courses and initial semesters on future performances. As a pilot study, we analyzed the academic performance of Computer Science university students. Many exciting discoveries were made; the duration and size of the historical data play a significant role in predicting future performance, mainly due to changes in curriculum, faculty, society, and evolving trends. Furthermore, predicting grades in advanced courses based on initial pre-requisite courses is challenging in a relative grading scheme, as students' performance depends not only on their efforts but also on their peers. In short, educational data mining can come to the rescue by uncovering valuable insights from academic data to predict future performances and identify the critical areas that need significant improvement.
+
+**Source:** https://eric.ed.gov/?id=EJ1428731
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:36:21.009Z

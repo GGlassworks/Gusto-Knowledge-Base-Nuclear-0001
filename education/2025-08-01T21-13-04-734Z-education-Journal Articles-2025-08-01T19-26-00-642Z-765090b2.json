@@ -1,0 +1,13 @@
+# Association Rule Mining from an Intelligent Tutor
+
+**Authors:** Dogan, Buket, Camurcu, A. Yilmaz
+
+## Abstract
+Educational data mining is a very novel research area, offering fertile ground for many interesting data mining applications. Educational data mining can extract useful information from educational activities for better understanding and assessment of the student learning process. In this way, it is possible to explore how students learn topics in interactive learning environments such as an intelligent tutoring system (ITS). In this article, we demonstrate the use of association rule mining to extract mistakes often occurring together in the student data captured in an ITS we developed, called "intelligent tutor for computer systems course" (ITCS). Student assessment results from the ITCS were analyzed using association rule mining. This analytical process could help teachers to carry out modification to the ITCS to improve it together with the concept and sub-concept relationships obtained. We further developed two software programs to extract hidden patterns from the student assessment results on the ITCS using association rule mining. The first program analyzes and finds association rules derived from the students' incorrect answers to the concepts by single dimensional association rule mining, while the second program does so by multidimensional association rule mining. Design of these programs and the data mining results in this study are described. (Contains 1 table and 5 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ801458
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:26:00.643Z

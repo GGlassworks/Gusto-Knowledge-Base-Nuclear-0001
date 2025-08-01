@@ -1,0 +1,13 @@
+# Educational Data Mining to Predict Students&apos; Academic Performance: A Survey Study
+
+**Authors:** Batool, Saba, Rashid, Junaid, Nisar, Muhammad Wasif, Kim, Jungeun, Kwon, Hyuk-Yoon, Hussain, Amir
+
+## Abstract
+Educational data mining is an emerging interdisciplinary research area involving both education and informatics. It has become an imperative research area due to many advantages that educational institutions can achieve. Along these lines, various data mining techniques have been used to improve learning outcomes by exploring large-scale data that come from educational settings. One of the main problems is predicting the future achievements of students before taking final exams, so we can proactively help students achieve better performance and prevent dropouts. Therefore, many efforts have been made to solve the problem of student performance prediction in the context of educational data mining. In this paper, we provide readers with a comprehensive understanding of student performance prediction and compare approximately 260 studies in the last 20 years with respect to i) major factors highly affecting student performance prediction, ii) kinds of data mining techniques including prediction and feature selection algorithms, and iii) frequently used data mining tools. The findings of the comprehensive analysis show that ANN and Random Forest are mostly used data mining algorithms, while WEKA is found as a trending tool for students' performance prediction. Students' academic records and demographic factors are the best attributes to predict performance. The study proves that irrelevant features in the dataset reduce the prediction results and increase model processing time. Therefore, almost half of the studies used feature selection techniques before building prediction models. This study attempts to provide useful and valuable information to researchers interested in advancing educational data mining. The study directs future researchers to achieve highly accurate prediction results in different scenarios using different available inputs or techniques. The study also helps institutions apply data mining techniques to predict and improve student outcomes by providing additional assistance on time.
+
+**Source:** https://eric.ed.gov/?id=EJ1363934
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:30:03.781Z

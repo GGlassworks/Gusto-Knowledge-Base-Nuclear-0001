@@ -1,0 +1,13 @@
+# A Corpus Investigation on the Journal of Social Sciences of the Turkic World
+
+**Authors:** Yilmaz, Isa
+
+## Abstract
+In recent years, a rapid development in computer technologies has been witnessed and feasibility of data access has been increased. In today's world, restoring documents, or data in general, and transferring them to interested parties are ordinary tasks. The amount of restored documents has also increased expeditiously and this development has required new technologies to emerge for building knowledge from large data sets. Basic applications of text mining include gathering and processing text to extract information that embodies raw data. Thus, basic text mining applications can help researchers to reach valuable knowledge from a mass of documents. This study investigated academic articles published in &quot;bilig&quot; (&quot;Journal of Social Sciences of the Turkic World&quot;) between 1996 and 2017 to find the frequencies of words and letters used in academic Turkish. Basic text mining of 4,850,817 words in 19437 pages from 81 &quot;bilig&quot; issues was completed using a natural language processing library, Zemberek and a programming language, R.
+
+**Source:** https://eric.ed.gov/?id=EJ1181202
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:28:00.891Z

@@ -1,0 +1,13 @@
+# Recommending Learning Activities in Social Network Using Data Mining Algorithms
+
+**Authors:** Mahnane, Lamia
+
+## Abstract
+In this paper, we show how data mining algorithms (e.g. Apriori Algorithm (AP) and Collaborative Filtering (CF)) is useful in New Social Network (NSN-AP-CF). &quot;NSN-AP-CF&quot; processes the clusters based on different learning styles. Next, it analyzes the habits and the interests of the users through mining the frequent episodes by the Apriori algorithm. Finally, it groups dynamically the users based on the collaborative filtering. The participants in this study consisted of 80 university students who were asked to analyze the differences in skill level when using various learning activities. Moreover, 40 students were included in this study in order to examine the effectiveness of NSN-AP-CF. The experiment results proved that the proposed algorithm, which considers the grouping dynamically the users and the discovery of all frequent episodes, generates better precisions compared with the other algorithms (F1 = 0.649).
+
+**Source:** https://eric.ed.gov/?id=EJ1157975
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:30:03.563Z

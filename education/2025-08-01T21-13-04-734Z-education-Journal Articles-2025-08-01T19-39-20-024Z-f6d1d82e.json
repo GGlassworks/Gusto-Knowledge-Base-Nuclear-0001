@@ -1,0 +1,13 @@
+# An Intelligent Graph Mining Algorithm to Analyze Student Performance in Online Learning
+
+**Authors:** Munshi, M., Shrimali, Tarun, Gaur, Sanjay
+
+## Abstract
+Data mining approaches have been widely used to estimate student performance in online education. Various Machine Learning (ML) based data mining techniques have been developed to evaluate student performance accurately. However, they face specific issues in implementation. Hence, a novel hybrid Elman Neural with Apriori Mining (ENAM) approach was presented in this article to predict student performance in online education. The designed model was validated with the student's performance dataset. Incorporating the Elman neural system eliminates the noise data present in the dataset. Moreover, meaningful features are extracted in feature analysis and trained in the system. Then, the student's performances are sorted based on their average score and classified as good, bad, or average. In addition, a case study was developed to describe the working of the designed model. The presented approach was executed in python software, and performance metrics were estimated. Moreover, a comparative analysis was performed to prove that the proposed system earned better outcomes than existing approaches.
+
+**Source:** https://eric.ed.gov/?id=EJ1378503
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:39:20.024Z

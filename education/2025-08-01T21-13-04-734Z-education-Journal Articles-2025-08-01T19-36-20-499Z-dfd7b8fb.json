@@ -1,0 +1,13 @@
+# A Demonstration of Regression False Positive Selection in Data Mining
+
+**Authors:** Pinder, Jonathan P.
+
+## Abstract
+Business analytics courses, such as marketing research, data mining, forecasting, and advanced financial modeling, have substantial predictive modeling components. The predictive modeling in these courses requires students to estimate and test many linear regressions. As a result, false positive variable selection (&quot;type I errors&quot;) is nearly certain to occur. This article describes an in-class demonstration that shows the frequency and impact of false positives on data mining regression-based predictive modeling. In this demonstration, 500 randomly generated independent (X) variables are individually regressed against a single, randomly generated (Y) variable, and the resulting 500 p-values are sorted and examined. This experiment is repeated and the distribution of the number of variables significant at the 5% level resulting from this simulation is presented and discussed. The demonstration provides a tangible example in which students see the reality and risks of incorrectly inferring statistical significance of independent regression variables. Students have expressed a deeper understanding and appreciation of the risks of type I errors through this demonstration. This demonstration is innovative because the scale of the simulation allows the students to experience the near certainty that the correlations shown in the results are truly random.
+
+**Source:** https://eric.ed.gov/?id=EJ1033677
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:36:20.501Z

@@ -1,0 +1,13 @@
+# Using Text Mining and Data Mining Techniques for Applied Learning Assessment
+
+**Authors:** Cook, Jessica, Chen, Cuixian, Reid-Griffin, Angelia
+
+## Abstract
+In a society where first hand work experience is greatly valued many universities or institutions of higher education have designed their Quality enhancement plan (QEP) to address student applied learning. This paper is the results of a university's QEP plan, called Experiencing Transformative Education Through Applied Learning or ETEAL. This paper will highlight the research that was conducted using text mining and data mining techniques to analyze a dataset of 672 student evaluations collected from 40 different applied learning courses from fall 2013 to spring 2015, in order to evaluate the impact on instructional practice and student learning. Text mining techniques are applied through the NVivo text mining software to find the 100 most frequent terms to create a document-term matrix in Excel. Then, the document-term matrix is merged with the manual interpretation scores received to create the applied learning assessment data. Lastly, data mining techniques are applied to evaluate the performance, including Random Forest, K-nearest neighbors, Support Vector Machines (with linear and radial kernel), and 5-fold cross-validation. Our results show that the proposed text mining and data mining approach can provide prediction rates of around 67% to 85%, while the decision fusion approach can provide an improvement of 69% to 86%. Our study demonstrates that automatic quantitative analysis of student evaluations can be an effective approach to applied learning assessment. [Note: The volume number (1) and issue number (2) shown on the PDF are incorrect. The correct citation is v2 n1.]
+
+**Source:** https://eric.ed.gov/?id=EJ1214936
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:40:25.686Z

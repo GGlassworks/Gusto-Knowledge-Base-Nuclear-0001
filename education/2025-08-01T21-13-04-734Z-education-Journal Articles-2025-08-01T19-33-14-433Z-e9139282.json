@@ -1,0 +1,13 @@
+# Myth Busting: Using Data Mining to Refute Link between Transfer Students and Retention Risk
+
+**Authors:** McAleer, Brenda, Szakas, Joseph S.
+
+## Abstract
+In the past few years, universities have become much more involved in outcomes assessment. Outside of the classroom analysis of learning outcomes, an investigation is performed into the use of current data mining tools to assess the issue of student retention within the Computer Information Systems (CIS) department. Utilizing both a historical dataset of CIS students over a 10 year period, and a current student dataset, this analysis specifically deals with the following questions: 1. How can we use the past to predict retention risk of the future students? 2. Do students who transfer CIS courses (core or elective) have an increased retention risk? The data mining tool was the Oracle Data Mining™ Package used to perform tasks as classification (Naive Bayesian and support vector machine), and attribute importance.
+
+**Source:** https://eric.ed.gov/?id=EJ1146963
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:33:14.433Z

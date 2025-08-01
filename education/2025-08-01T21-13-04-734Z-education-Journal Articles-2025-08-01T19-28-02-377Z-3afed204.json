@@ -1,0 +1,13 @@
+# Binary Coded Web Access Pattern Tree in Education Domain
+
+**Authors:** Gomathi, C., Moorthi, M., Duraiswamy, K.
+
+## Abstract
+Web Access Pattern (WAP), which is the sequence of accesses pursued by users frequently, is a kind of interesting and useful knowledge in practice. Sequential Pattern mining is the process of applying data mining techniques to a sequential database for the purposes of discovering the correlation relationships that exist among an ordered list of events. WAP tree mining is a sequential pattern mining technique for web log access sequences, which first stores the original web access sequence database on a prefix tree. WAP-tree algorithm then, mines the frequent sequences from the WAP-tree by recursively re-constructing intermediate trees. In this paper, we propose efficient sequential pattern techniques called BC-WAP (Binary Coded WAP). The proposed algorithm uses Kongu Arts and Science College web logs for sequential pattern mining. It eliminates recursively reconstructing intermediate WAP trees during the mining by assigning the binary codes to each node in the WAP tree. The results of the experiments show the efficiency of the improved algorithm.
+
+**Source:** https://eric.ed.gov/?id=EJ1065428
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:28:02.378Z

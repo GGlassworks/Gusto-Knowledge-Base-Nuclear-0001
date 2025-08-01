@@ -1,0 +1,13 @@
+# Using Process Mining for Git Log Analysis of Projects in a Software Development Course
+
+**Authors:** Macak, Martin, Kruzelova, Daniela, Chren, Stanislav, Buhnova, Barbora
+
+## Abstract
+Understanding the processes in education, such as the student learning behavior within a specific course, is a key to continuous course improvement. In online learning systems, students' learning can be tracked and examined based on data collected by the systems themselves. However, it is non-trivial to decide how to extract the desired students' behavior from the limited data in traditional classroom courses. Software development courses are a domain where student behavior analysis would be especially useful, as continuous teaching improvement in this fast progressing domain is necessary. In this paper, we propose to use process mining for improvement-motivated process analysis of a software development course (web development in particular). To this end, we analyze Git logs of students' projects to understand their development processes. Process mining has been chosen as it can help us to find a descriptive model of this process. The main contribution of this paper is the detailed methodology of process mining usage for students' project development analysis, considering various commit characteristics, which are crucial in understanding student coding-behavior patterns. The process mining analysis proved to be very useful, indicating multiple directions for the course improvement, which we also include in this work as a secondary contribution. The third contribution of this work is the summary and discussion of the process mining advantages and current gaps in process mining research for this task. The data we used are made publicly available to other researchers.
+
+**Source:** https://eric.ed.gov/?id=EJ1309027
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:35:20.742Z

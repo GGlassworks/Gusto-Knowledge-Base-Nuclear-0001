@@ -1,0 +1,13 @@
+# Latent Skill Mining and Labeling from Courseware Content
+
+**Authors:** Matsuda, Noboru, Wood, Jesse, Shrivastava, Raj, Shimmei, Machi, Bier, Norman
+
+## Abstract
+A model that maps the requisite skills, or knowledge components, to the contents of an online course is necessary to implement many adaptive learning technologies. However, developing a skill model and tagging courseware contents with individual skills can be expensive and error prone. We propose a technology to automatically identify latent skills from instructional text on existing online courseware called SMART (Skill Model mining with Automated detection of Resemblance among Texts). SMART is capable of mining, labeling, and mapping skills without using an existing skill model or student learning (aka response) data. The goal of our proposed approach is to mine latent skills from assessment items included in existing courseware, provide discovered skills with human-friendly labels, and map didactic paragraph texts with skills. This way, mapping between assessment items and paragraph texts is formed. In doing so, automated skill models produced by SMART will reduce the workload of courseware developers while enabling adaptive online content at the launch of the course. In our evaluation study, we applied SMART to two existing authentic online courses. We then compared machine-generated skill models and human-crafted skill models in terms of the accuracy of predicting students' learning. We also evaluated the similarity between machine-generated and human-crafted skill models. The results show that student models based on SMART-generated skill models were equally predictive of students' learning as those based on human-crafted skill models--as validated on two OLI (Open Learning Initiative) courses. Also, SMART can generate skill models that are highly similar to human-crafted models as evidenced by the normalized mutual information (NMI) values.
+
+**Source:** https://eric.ed.gov/?id=EJ1362652
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:31:06.125Z

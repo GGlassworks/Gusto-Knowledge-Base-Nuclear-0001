@@ -1,0 +1,13 @@
+# Analysis of Depression, Anxiety, Stress Scale (DASS-42) with Methods of Data Mining
+
+**Authors:** Suleyman Alpaslan Sulak, Nigmet Koklu
+
+## Abstract
+This study employs advanced data mining techniques to investigate the DASS-42 questionnaire, a widely used psychological assessment tool. Administered to 680 students at Necmettin Erbakan University's Ahmet Kelesoglu Faculty of Education, the DASS-42 comprises three distinct subscales--depression, anxiety and stress--each consisting of 14 items. Departing from traditional statistical methodologies, the study harnesses the power of the WEKA data mining program to analyse the dataset. Employing Naive Bayes (NB), Artificial Neural Network (ANN), Logistic Regression (LR), Support Vector Machine (SVM) and Random Forest (RF) algorithms, the research unveils novel insights. The ANN method emerges as a standout performer, achieving remarkable distinctiveness scores for all subscales: depression (99.26%), anxiety (98.67%) and stress (97.35%). The study highlights the potential of data mining in enhancing psychological assessment and showcases the ANN's prowess in capturing intricate patterns within complex psychological dimensions. By charting a course beyond conventional statistical methods, this research pioneers a new frontier for employing data mining within the realm of social sciences. As a result of the study, it is recommended that teacher candidates in the teacher education process should have knowledge about depression, anxiety and stress, and relevant courses on these topics should be added to the curriculum of teacher education programs.
+
+**Source:** https://eric.ed.gov/?id=EJ1450402
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:30:04.198Z

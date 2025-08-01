@@ -1,0 +1,13 @@
+# Using Text Mining to Elucidate Mental Models of Problem Spaces for Ill-Structured Problems
+
+**Authors:** Michelle Pauley Murphy, Woei Hung
+
+## Abstract
+Constructing a consensus problem space from extensive qualitative data for an ill-structured real-life problem and expressing the result to a broader audience is challenging. To effectively communicate a complex problem space, visualization of that problem space must elucidate inter-causal relationships among the problem variables. In this article, we demonstrate extraction of a problem space through text mining in R. Text mining, an artificial intelligence form of natural language processing, synthesizes and summarizes vast quantities of verbal data. Text mining provides visualization of large narrative datasets to illustrate the structure and connections within the problem space of an ill-structured problem. The Gates Open Research data set of 11,979 verbal autopsy responses (Flaxman et al., 2018) informs the ill-structured problem space of childhood death from infectious disease in developing nations. In this article we apply text mining to automate the process of identifying connections that efficiently illustrate this problem space.
+
+**Source:** https://eric.ed.gov/?id=EJ1426786
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T19:31:05.107Z
