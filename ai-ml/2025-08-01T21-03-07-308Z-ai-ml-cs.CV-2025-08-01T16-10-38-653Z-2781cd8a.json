@@ -1,0 +1,12 @@
+# Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures
+
+**Authors:** Klara Janouskova, Mattia Rigotti, Ioana Giurgiu, Cristiano Malossi
+
+## Summary
+Labeling images for visual segmentation is a time-consuming task which can be costly, particularly in application domains where labels have to be provided by specialized expert annotators, such as civil engineering. In this paper, we propose to use attribution methods to harness the valuable interactions between expert annotators and the data to be annotated in the case of defect segmentation for visual inspection of civil infrastructures. Concretely, a classifier is trained to detect defects and coupled with an attribution-based method and adversarial climbing to generate and refine segmentation masks corresponding to the classification outputs. These are used within an assisted labeling framework where the annotators can interact with them as proposal segmentation masks by deciding to accept, reject or modify them, and interactions are logged as weak labels to further refine the classifier. Applied on a real-world dataset resulting from the automated visual inspection of bridges, our proposed method is able to save more than 50\% of annotators' time when compared to manual annotation of defects.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T16:10:38.654Z

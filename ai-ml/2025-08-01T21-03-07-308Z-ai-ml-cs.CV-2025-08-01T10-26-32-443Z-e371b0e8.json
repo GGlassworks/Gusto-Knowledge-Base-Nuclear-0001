@@ -1,0 +1,12 @@
+# Minimizing Labeling Effort for Tree Skeleton Segmentation using an Automated Iterative Training Methodology
+
+**Authors:** Keenan Granland, Rhys Newbury, David Ting, Chao Chen
+
+## Summary
+Training of convolutional neural networks for semantic segmentation requires accurate pixel-wise labeling which requires large amounts of human effort. The human-in-the-loop method reduces labeling effort; however, it requires human intervention for each image. This paper describes a general iterative training methodology for semantic segmentation, Automating-the-Loop. This aims to replicate the manual adjustments of the human-in-the-loop method with an automated process, hence, drastically reducing labeling effort. Using the application of detecting partially occluded apple tree segmentation, we compare manually labeled annotations, self-training, human-in-the-loop, and Automating-the-Loop methods in both the quality of the trained convolutional neural networks, and the effort needed to create them. The convolutional neural network (U-Net) performance is analyzed using traditional metrics and a new metric, Complete Grid Scan, which promotes connectivity and low noise. It is shown that in our application, the new Automating-the-Loop method greatly reduces the labeling effort while producing comparable performance to both human-in-the-loop and complete manual labeling methods.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:26:32.444Z

@@ -1,0 +1,12 @@
+# Enhancing Apparent Personality Trait Analysis with Cross-Modal Embeddings
+
+**Authors:** Ádám Fodor, Rachid R. Saboundji, András Lőrincz
+
+## Summary
+Automatic personality trait assessment is essential for high-quality human-machine interactions. Systems capable of human behavior analysis could be used for self-driving cars, medical research, and surveillance, among many others. We present a multimodal deep neural network with a Siamese extension for apparent personality trait prediction trained on short video recordings and exploiting modality invariant embeddings. Acoustic, visual, and textual information are utilized to reach high-performance solutions in this task. Due to the highly centralized target distribution of the analyzed dataset, the changes in the third digit are relevant. Our proposed method addresses the challenge of under-represented extreme values, achieves 0.0033 MAE average improvement, and shows a clear advantage over the baseline multimodal DNN without the introduced module.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:22:51.096Z

@@ -1,0 +1,12 @@
+# Multi-Label Classification Framework for Hurricane Damage Assessment
+
+**Authors:** Zhangding Liu, Neda Mohammadi, John E. Taylor
+
+## Summary
+Hurricanes cause widespread destruction, resulting in diverse damage types and severities that require timely and accurate assessment for effective disaster response. While traditional single-label classification methods fall short of capturing the complexity of post-hurricane damage, this study introduces a novel multi-label classification framework for assessing damage using aerial imagery. The proposed approach integrates a feature extraction module based on ResNet and a class-specific attention mechanism to identify multiple damage types within a single image. Using the Rescuenet dataset from Hurricane Michael, the proposed method achieves a mean average precision of 90.23%, outperforming existing baseline methods. This framework enhances post-hurricane damage assessment, enabling more targeted and efficient disaster response and contributing to future strategies for disaster mitigation and resilience. This paper has been accepted at the ASCE International Conference on Computing in Civil Engineering (i3CE 2025), and the camera-ready version will appear in the official conference proceedings.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T16:10:39.479Z

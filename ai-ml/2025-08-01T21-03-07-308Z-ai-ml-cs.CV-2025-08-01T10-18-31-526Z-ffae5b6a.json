@@ -1,0 +1,12 @@
+# Explainable Deepfake Video Detection using Convolutional Neural Network and CapsuleNet
+
+**Authors:** Gazi Hasin Ishrak, Zalish Mahmud, MD. Zami Al Zunaed Farabe, Tahera Khanom Tinni, Tanzim Reza, Mohammad Zavid Parvez
+
+## Summary
+Deepfake technology, derived from deep learning, seamlessly inserts individuals into digital media, irrespective of their actual participation. Its foundation lies in machine learning and Artificial Intelligence (AI). Initially, deepfakes served research, industry, and entertainment. While the concept has existed for decades, recent advancements render deepfakes nearly indistinguishable from reality. Accessibility has soared, empowering even novices to create convincing deepfakes. However, this accessibility raises security concerns.The primary deepfake creation algorithm, GAN (Generative Adversarial Network), employs machine learning to craft realistic images or videos. Our objective is to utilize CNN (Convolutional Neural Network) and CapsuleNet with LSTM to differentiate between deepfake-generated frames and originals. Furthermore, we aim to elucidate our model's decision-making process through Explainable AI, fostering transparent human-AI relationships and offering practical examples for real-life scenarios.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:31.526Z

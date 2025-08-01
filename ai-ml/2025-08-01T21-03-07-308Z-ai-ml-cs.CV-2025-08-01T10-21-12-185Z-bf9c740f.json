@@ -1,0 +1,12 @@
+# VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems
+
+**Authors:** Aadi Srivastava, Vignesh Natarajkumar, Utkarsh Bheemanaboyna, Devisree Akashapu, Nagraj Gaonkar, Archit Joshi
+
+## Summary
+The widespread and rapid adoption of AI-generated content, created by models such as Generative Adversarial Networks (GANs) and Diffusion Models, has revolutionized the digital media landscape by allowing efficient and creative content generation. However, these models also blur the difference between real images and AI-generated synthetic images, raising concerns regarding content authenticity and integrity. While many existing solutions to detect fake images focus solely on classification and higher-resolution images, they often lack transparency in their decision-making, making it difficult for users to understand why an image is classified as fake. In this paper, we present VERITAS, a comprehensive framework that not only accurately detects whether a small (32x32) image is AI-generated but also explains why it was classified that way through artifact localization and semantic reasoning. VERITAS produces human-readable explanations that describe key artifacts in synthetic images. We show that this architecture offers clear explanations of the basis of zero-shot synthetic image detection tasks. Code and relevant prompts can be found at https://github.com/V-i-g-n-e-s-h-N/VERITAS .
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:12.185Z

@@ -1,0 +1,12 @@
+# Optimizing Image Capture for Computer Vision-Powered Taxonomic Identification and Trait Recognition of Biodiversity Specimens
+
+**Authors:** Alyson East, Elizabeth G. Campolongo, Luke Meyers, S M Rayeed, Samuel Stevens, Iuliia Zarubiieva, Isadora E. Fluck, Jennifer C. Girón, Maximiliane Jousse, Scott Lowe, Kayla I Perry, Isabelle Betancourt, Noah Charney, Evan Donoso, Nathan Fox, Kim J. Landsbergen, Ekaterina Nepovinnykh, Michelle Ramirez, Parkash Singh, Khum Thapa-Magar, Matthew Thompson, Evan Waite, Tanya Berger-Wolf, Hilmar Lapp, Paula Mabee, Graham Taylor, Sydne Record
+
+## Summary
+Biological collections house millions of specimens documenting Earth's biodiversity, with digital images increasingly available through open-access platforms. Most imaging protocols were developed for human visual interpretation without considering computational analysis requirements. This paper aims to bridge the gap between current imaging practices and the potential for automated analysis by presenting key considerations for creating biological specimen images optimized for computer vision applications. We provide conceptual computer vision topics for context, addressing fundamental concerns including model generalization, data leakage, and comprehensive metadata documentation, and outline practical guidance on specimen imagine, and data storage. These recommendations were synthesized through interdisciplinary collaboration between taxonomists, collection managers, ecologists, and computer scientists. Through this synthesis, we have identified ten interconnected considerations that form a framework for successfully integrating biological specimen images into computer vision pipelines. The key elements include: (1) comprehensive metadata documentation, (2) standardized specimen positioning, (3) consistent size and color calibration, (4) protocols for handling multiple specimens in one image, (5) uniform background selection, (6) controlled lighting, (7) appropriate resolution and magnification, (8) optimal file formats, (9) robust data archiving strategies, and (10) accessible data sharing practices. By implementing these recommendations, collection managers, taxonomists, and biodiversity informaticians can generate images that support automated trait extraction, species identification, and novel ecological and evolutionary analyses at unprecedented scales. Successful implementation lies in thorough documentation of methodological choices.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:26:34.616Z

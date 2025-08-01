@@ -1,0 +1,12 @@
+# Searching for the Fakes: Efficient Neural Architecture Search for General Face Forgery Detection
+
+**Authors:** Xiao Jin, Xin-Yue Mu, Jing Xu
+
+## Summary
+As the saying goes, "seeing is believing". However, with the development of digital face editing tools, we can no longer trust what we can see. Although face forgery detection has made promising progress, most current methods are designed manually by human experts, which is labor-consuming. In this paper, we develop an end-to-end framework based on neural architecture search (NAS) for deepfake detection, which can automatically design network architectures without human intervention. First, a forgery-oriented search space is created to choose appropriate operations for this task. Second, we propose a novel performance estimation metric, which guides the search process to select more general models. The cross-dataset search is also considered to develop more general architectures. Eventually, we connect the cells in a cascaded pyramid way for final forgery classification. Compared with state-of-the-art networks artificially designed, our method achieves competitive performance in both in-dataset and cross-dataset scenarios.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:03.243Z

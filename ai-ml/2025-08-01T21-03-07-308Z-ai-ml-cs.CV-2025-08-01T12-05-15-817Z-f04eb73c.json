@@ -1,0 +1,12 @@
+# Conditional GANs For Painting Generation
+
+**Authors:** Adeel Mufti, Biagio Antonelli, Julius Monello
+
+## Summary
+We examined the use of modern Generative Adversarial Nets to generate novel images of oil paintings using the Painter By Numbers dataset. We implemented Spectral Normalization GAN (SN-GAN) and Spectral Normalization GAN with Gradient Penalty, and compared their outputs to a Deep Convolutional GAN. Visually, and quantitatively according to the Sliced Wasserstein Distance metric, we determined that the SN-GAN produced paintings that were most comparable to our training dataset. We then performed a series of experiments to add supervised conditioning to SN-GAN, the culmination of which is what we believe to be a novel architecture that can generate face paintings with user-specified characteristics.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T12:05:15.817Z

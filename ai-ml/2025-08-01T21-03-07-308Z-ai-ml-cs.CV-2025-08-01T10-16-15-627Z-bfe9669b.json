@@ -1,0 +1,12 @@
+# Ensembling convolutional neural networks for human skin segmentation
+
+**Authors:** Patryk Kuban, Michal Kawulok
+
+## Summary
+Detecting and segmenting human skin regions in digital images is an intensively explored topic of computer vision with a variety of approaches proposed over the years that have been found useful in numerous practical applications. The first methods were based on pixel-wise skin color modeling and they were later enhanced with context-based analysis to include the textural and geometrical features, recently extracted using deep convolutional neural networks. It has been also demonstrated that skin regions can be segmented from grayscale images without using color information at all. However, the possibility to combine these two sources of information has not been explored so far and we address this research gap with the contribution reported in this paper. We propose to train a convolutional network using the datasets focused on different features to create an ensemble whose individual outcomes are effectively combined using yet another convolutional network trained to produce the final segmentation map. The experimental results clearly indicate that the proposed approach outperforms the basic classifiers, as well as an ensemble based on the voting scheme. We expect that this study will help in developing new ensemble-based techniques that will improve the performance of semantic segmentation systems, reaching beyond the problem of detecting human skin.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:15.627Z

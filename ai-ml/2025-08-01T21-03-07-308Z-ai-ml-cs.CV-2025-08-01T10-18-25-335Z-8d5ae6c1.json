@@ -1,0 +1,12 @@
+# A Nearest Neighbor Network to Extract Digital Terrain Models from 3D Point Clouds
+
+**Authors:** Mohammed Yousefhussien, David J. Kelbe, Carl Salvaggio
+
+## Summary
+When 3D-point clouds from overhead sensors are used as input to remote sensing data exploitation pipelines, a large amount of effort is devoted to data preparation. Among the multiple stages of the preprocessing chain, estimating the Digital Terrain Model (DTM) model is considered to be of a high importance; however, this remains a challenge, especially for raw point clouds derived from optical imagery. Current algorithms estimate the ground points using either a set of geometrical rules that require tuning multiple parameters and human interaction, or cast the problem as a binary classification machine learning task where ground and non-ground classes are found. In contrast, here we present an algorithm that directly operates on 3D-point clouds and estimate the underlying DTM for the scene using an end-to-end approach without the need to classify points into ground and non-ground cover types. Our model learns neighborhood information and seamlessly integrates this with point-wise and block-wise global features. We validate our model using the ISPRS 3D Semantic Labeling Contest LiDAR data, as well as three scenes generated using dense stereo matching, representative of high-rise buildings, lower urban structures, and a dense old-city residential area. We compare our findings with two widely used software packages for DTM extraction, namely ENVI and LAStools. Our preliminary results show that the proposed method is able to achieve an overall Mean Absolute Error of 11.5% compared to 29% and 16% for ENVI and LAStools.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:25.335Z

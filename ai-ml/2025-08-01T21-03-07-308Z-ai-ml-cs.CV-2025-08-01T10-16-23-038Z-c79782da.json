@@ -1,0 +1,12 @@
+# Reducing Training Demands for 3D Gait Recognition with Deep Koopman Operator Constraints
+
+**Authors:** Cole Hill, Mauricio Pamplona Segundo, Sudeep Sarkar
+
+## Summary
+Deep learning research has made many biometric recognition solution viable, but it requires vast training data to achieve real-world generalization. Unlike other biometric traits, such as face and ear, gait samples cannot be easily crawled from the web to form massive unconstrained datasets. As the human body has been extensively studied for different digital applications, one can rely on prior shape knowledge to overcome data scarcity. This work follows the recent trend of fitting a 3D deformable body model into gait videos using deep neural networks to obtain disentangled shape and pose representations for each frame. To enforce temporal consistency in the network, we introduce a new Linear Dynamical Systems (LDS) module and loss based on Koopman operator theory, which provides an unsupervised motion regularization for the periodic nature of gait, as well as a predictive capacity for extending gait sequences. We compare LDS to the traditional adversarial training approach and use the USF HumanID and CASIA-B datasets to show that LDS can obtain better accuracy with less training data. Finally, we also show that our 3D modeling approach is much better than other 3D gait approaches in overcoming viewpoint variation under normal, bag-carrying and clothing change conditions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:23.038Z

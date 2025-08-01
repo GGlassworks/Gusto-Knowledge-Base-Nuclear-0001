@@ -1,0 +1,12 @@
+# Pioneer dataset and automatic recognition of Urdu handwritten characters using a deep autoencoder and convolutional neural network
+
+**Authors:** Hazrat Ali, Ahsan Ullah, Talha Iqbal, Shahid Khattak
+
+## Summary
+Automatic recognition of Urdu handwritten digits and characters, is a challenging task. It has applications in postal address reading, bank's cheque processing, and digitization and preservation of handwritten manuscripts from old ages. While there exists a significant work for automatic recognition of handwritten English characters and other major languages of the world, the work done for Urdu lan-guage is extremely insufficient. This paper has two goals. Firstly, we introduce a pioneer dataset for handwritten digits and characters of Urdu, containing samples from more than 900 individuals. Secondly, we report results for automatic recog-nition of handwritten digits and characters as achieved by using deep auto-encoder network and convolutional neural network. More specifically, we use a two-layer and a three-layer deep autoencoder network and convolutional neural network and evaluate the two frameworks in terms of recognition accuracy. The proposed framework of deep autoencoder can successfully recognize digits and characters with an accuracy of 97% for digits only, 81% for characters only and 82% for both digits and characters simultaneously. In comparison, the framework of convolutional neural network has accuracy of 96.7% for digits only, 86.5% for characters only and 82.7% for both digits and characters simultaneously. These frameworks can serve as baselines for future research on Urdu handwritten text.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:07.245Z

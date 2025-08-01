@@ -1,0 +1,12 @@
+# How Good Are We? Evaluating Cell AI Foundation Models in Kidney Pathology with Human-in-the-Loop Enrichment
+
+**Authors:** Junlin Guo, Siqi Lu, Can Cui, Ruining Deng, Tianyuan Yao, Zhewen Tao, Yizhe Lin, Marilyn Lionts, Quan Liu, Juming Xiong, Yu Wang, Shilin Zhao, Catie Chang, Mitchell Wilkes, Mengmeng Yin, Haichun Yang, Yuankai Huo
+
+## Summary
+Training AI foundation models has emerged as a promising large-scale learning approach for addressing real-world healthcare challenges, including digital pathology. While many of these models have been developed for tasks like disease diagnosis and tissue quantification using extensive and diverse training datasets, their readiness for deployment on some arguably simplest tasks, such as nuclei segmentation within a single organ (e.g., the kidney), remains uncertain. This paper seeks to answer this key question, "How good are we?", by thoroughly evaluating the performance of recent cell foundation models on a curated multi-center, multi-disease, and multi-species external testing dataset. Additionally, we tackle a more challenging question, "How can we improve?", by developing and assessing human-in-the-loop data enrichment strategies aimed at enhancing model performance while minimizing the reliance on pixel-level human annotation. To address the first question, we curated a multicenter, multidisease, and multispecies dataset consisting of 2,542 kidney whole slide images (WSIs). Three state-of-the-art (SOTA) cell foundation models-Cellpose, StarDist, and CellViT-were selected for evaluation. To tackle the second question, we explored data enrichment algorithms by distilling predictions from the different foundation models with a human-in-the-loop framework, aiming to further enhance foundation model performance with minimal human efforts. Our experimental results showed that all three foundation models improved over their baselines with model fine-tuning with enriched data. Interestingly, the baseline model with the highest F1 score does not yield the best segmentation outcomes after fine-tuning. This study establishes a benchmark for the development and deployment of cell vision foundation models tailored for real-world data applications.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:16.065Z

@@ -1,0 +1,12 @@
+# Understanding Gen Alpha Digital Language: Evaluation of LLM Safety Systems for Content Moderation
+
+**Authors:** Manisha Mehta, Fausto Giunchiglia
+
+## Summary
+This research offers a unique evaluation of how AI systems interpret the digital language of Generation Alpha (Gen Alpha, born 2010-2024). As the first cohort raised alongside AI, Gen Alpha faces new forms of online risk due to immersive digital engagement and a growing mismatch between their evolving communication and existing safety tools. Their distinct language, shaped by gaming, memes, and AI-driven trends, often conceals harmful interactions from both human moderators and automated systems. We assess four leading AI models (GPT-4, Claude, Gemini, and Llama 3) on their ability to detect masked harassment and manipulation within Gen Alpha discourse. Using a dataset of 100 recent expressions from gaming platforms, social media, and video content, the study reveals critical comprehension failures with direct implications for online safety. This work contributes: (1) a first-of-its-kind dataset capturing Gen Alpha expressions; (2) a framework to improve AI moderation systems for youth protection; (3) a multi-perspective evaluation including AI systems, human moderators, and parents, with direct input from Gen Alpha co-researchers; and (4) an analysis of how linguistic divergence increases youth vulnerability. Findings highlight the urgent need to redesign safety systems attuned to youth communication, especially given Gen Alpha reluctance to seek help when adults fail to understand their digital world. This study combines the insight of a Gen Alpha researcher with systematic academic analysis to address critical digital safety challenges.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:16.197Z

@@ -1,0 +1,12 @@
+# IO Transformer: Evaluating SwinV2-Based Reward Models for Computer Vision
+
+**Authors:** Maxwell Meyer, Jack Spruyt
+
+## Summary
+Transformers and their derivatives have achieved state-of-the-art performance across text, vision, and speech recognition tasks. However, minimal effort has been made to train transformers capable of evaluating the output quality of other models. This paper examines SwinV2-based reward models, called the Input-Output Transformer (IO Transformer) and the Output Transformer. These reward models can be leveraged for tasks such as inference quality evaluation, data categorization, and policy optimization. Our experiments demonstrate highly accurate model output quality assessment across domains where the output is entirely dependent on the input, with the IO Transformer achieving perfect evaluation accuracy on the Change Dataset 25 (CD25). We also explore modified Swin V2 architectures. Ultimately Swin V2 remains on top with a score of 95.41 % on the IO Segmentation Dataset, outperforming the IO Transformer in scenarios where the output is not entirely dependent on the input. Our work expands the application of transformer architectures to reward modeling in computer vision and provides critical insights into optimizing these models for various tasks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T12:03:26.895Z

@@ -1,0 +1,12 @@
+# FaceDig: Automated tool for placing landmarks on facial portraits for geometric morphometrics users
+
+**Authors:** Karel Kleisner, Jaroslav Trnka, Petr Turecek
+
+## Summary
+Landmark digitization is essential in geometric morphometrics, enabling the quantification of biological shapes, such as facial structures, for in-depth morphological analysis. Traditional landmarking, which identifies specific anatomical points, can be complemented by semilandmarks when precise locations are challenging to define. However, manual placement of numerous landmarks is time-consuming and prone to human error, leading to inconsistencies across studies. To address this, we introduce FaceDig, an AI-powered tool designed to automate landmark placement with human-level precision, focusing on anatomically sound facial points. FaceDig is open-source and integrates seamlessly with analytical platforms like R and Python. It was trained using one of the largest and most ethnically diverse face datasets, applying a landmark configuration optimized for 2D enface photographs. Our results demonstrate that FaceDig provides reliable landmark coordinates, comparable to those placed manually by experts. The tool's output is compatible with the widely-used TpsDig2 software, facilitating adoption and ensuring consistency across studies. Users are advised to work with standardized facial images and visually inspect the results for potential corrections. Despite the growing preference for 3D morphometrics, 2D facial photographs remain valuable due to their cultural and practical significance. Future enhancements to FaceDig will include support for profile views, further expanding its utility. By offering a standardized approach to landmark placement, FaceDig promotes reproducibility in facial morphology research and provides a robust alternative to existing 2D tools.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:40.643Z

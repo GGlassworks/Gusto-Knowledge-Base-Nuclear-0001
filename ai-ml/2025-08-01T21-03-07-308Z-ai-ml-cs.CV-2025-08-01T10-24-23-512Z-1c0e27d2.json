@@ -1,0 +1,12 @@
+# CNN-Based Classification of Persian Miniature Paintings from Five Renowned Schools
+
+**Authors:** Mojtaba Shahi, Roozbeh Rajabi, Farnaz Masoumzadeh
+
+## Summary
+This article addresses the gap in computational painting analysis focused on Persian miniature painting, a rich cultural and artistic heritage. It introduces a novel approach using Convolutional Neural Networks (CNN) to classify Persian miniatures from five schools: Herat, Tabriz-e Avval, Shiraz-e Avval, Tabriz-e Dovvom, and Qajar. The method achieves an average accuracy of over 91%. A meticulously curated dataset captures the distinct features of each school, with a patch-based CNN approach classifying image segments independently before merging results for enhanced accuracy. This research contributes significantly to digital art analysis, providing detailed insights into the dataset, CNN architecture, training, and validation processes. It highlights the potential for future advancements in automated art analysis, bridging machine learning, art history, and digital humanities, thereby aiding the preservation and understanding of Persian cultural heritage.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:23.512Z

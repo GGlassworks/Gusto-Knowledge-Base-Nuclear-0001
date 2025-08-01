@@ -1,0 +1,12 @@
+# Radar Image Reconstruction from Raw ADC Data using Parametric Variational Autoencoder with Domain Adaptation
+
+**Authors:** Michael Stephan, Thomas Stadelmayer, Avik Santra, Georg Fischer, Robert Weigel, Fabian Lurz
+
+## Summary
+This paper presents a parametric variational autoencoder-based human target detection and localization framework working directly with the raw analog-to-digital converter data from the frequency modulated continous wave radar. We propose a parametrically constrained variational autoencoder, with residual and skip connections, capable of generating the clustered and localized target detections on the range-angle image. Furthermore, to circumvent the problem of training the proposed neural network on all possible scenarios using real radar data, we propose domain adaptation strategies whereby we first train the neural network using ray tracing based model data and then adapt the network to work on real sensor data. This strategy ensures better generalization and scalability of the proposed neural network even though it is trained with limited radar data. We demonstrate the superior detection and localization performance of our proposed solution compared to the conventional signal processing pipeline and earlier state-of-art deep U-Net architecture with range-doppler images as inputs
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:10.418Z

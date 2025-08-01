@@ -1,0 +1,12 @@
+# A Framework for Pupil Tracking with Event Cameras
+
+**Authors:** Khadija Iddrisu, Waseem Shariff, Suzanne Little
+
+## Summary
+Saccades are extremely rapid movements of both eyes that occur simultaneously, typically observed when an individual shifts their focus from one object to another. These movements are among the swiftest produced by humans and possess the potential to achieve velocities greater than that of blinks. The peak angular speed of the eye during a saccade can reach as high as 700{\deg}/s in humans, especially during larger saccades that cover a visual angle of 25{\deg}. Previous research has demonstrated encouraging outcomes in comprehending neurological conditions through the study of saccades. A necessary step in saccade detection involves accurately identifying the precise location of the pupil within the eye, from which additional information such as gaze angles can be inferred. Conventional frame-based cameras often struggle with the high temporal precision necessary for tracking very fast movements, resulting in motion blur and latency issues. Event cameras, on the other hand, offer a promising alternative by recording changes in the visual scene asynchronously and providing high temporal resolution and low latency. By bridging the gap between traditional computer vision and event-based vision, we present events as frames that can be readily utilized by standard deep learning algorithms. This approach harnesses YOLOv8, a state-of-the-art object detection technology, to process these frames for pupil tracking using the publicly accessible Ev-Eye dataset. Experimental results demonstrate the framework's effectiveness, highlighting its potential applications in neuroscience, ophthalmology, and human-computer interaction.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:15.600Z

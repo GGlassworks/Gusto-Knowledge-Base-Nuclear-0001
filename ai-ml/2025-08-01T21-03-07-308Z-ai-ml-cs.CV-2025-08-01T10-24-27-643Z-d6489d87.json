@@ -1,0 +1,12 @@
+# Deep image prior inpainting of ancient frescoes in the Mediterranean Alpine arc
+
+**Authors:** Fabio Merizzi, Perrine Saillard, Oceane Acquier, Elena Morotti, Elena Loli Piccolomini, Luca Calatroni, Rosa Maria Dessì
+
+## Summary
+The unprecedented success of image reconstruction approaches based on deep neural networks has revolutionised both the processing and the analysis paradigms in several applied disciplines. In the field of digital humanities, the task of digital reconstruction of ancient frescoes is particularly challenging due to the scarce amount of available training data caused by ageing, wear, tear and retouching over time. To overcome these difficulties, we consider the Deep Image Prior (DIP) inpainting approach which computes appropriate reconstructions by relying on the progressive updating of an untrained convolutional neural network so as to match the reliable piece of information in the image at hand while promoting regularisation elsewhere. In comparison with state-of-the-art approaches (based on variational/PDEs and patch-based methods), DIP-based inpainting reduces artefacts and better adapts to contextual/non-local information, thus providing a valuable and effective tool for art historians. As a case study, we apply such approach to reconstruct missing image contents in a dataset of highly damaged digital images of medieval paintings located into several chapels in the Mediterranean Alpine Arc and provide a detailed description on how visible and invisible (e.g., infrared) information can be integrated for identifying and reconstructing damaged image regions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:27.643Z

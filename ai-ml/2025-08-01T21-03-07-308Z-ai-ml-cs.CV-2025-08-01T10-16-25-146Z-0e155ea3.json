@@ -1,0 +1,12 @@
+# Unsupervised 3D Braided Hair Reconstruction from a Single-View Image
+
+**Authors:** Jing Gao
+
+## Summary
+Reconstructing 3D braided hairstyles from single-view images remains a challenging task due to the intricate interwoven structure and complex topologies of braids. Existing strand-based hair reconstruction methods typically focus on loose hairstyles and often struggle to capture the fine-grained geometry of braided hair. In this paper, we propose a novel unsupervised pipeline for efficiently reconstructing 3D braided hair from single-view RGB images. Leveraging a synthetic braid model inspired by braid theory, our approach effectively captures the complex intertwined structures of braids. Extensive experiments demonstrate that our method outperforms state-of-the-art approaches, providing superior accuracy, realism, and efficiency in reconstructing 3D braided hairstyles, supporting expressive hairstyle modeling in digital humans.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:25.146Z

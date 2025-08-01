@@ -1,0 +1,12 @@
+# Coarse and fine-grained automatic cropping deep convolutional neural network
+
+**Authors:** Jingfei Chang
+
+## Summary
+The existing convolutional neural network pruning algorithms can be divided into two categories: coarse-grained clipping and fine-grained clipping. This paper proposes a coarse and fine-grained automatic pruning algorithm, which can achieve more efficient and accurate compression acceleration for convolutional neural networks. First, cluster the intermediate feature maps of the convolutional neural network to obtain the network structure after coarse-grained clipping, and then use the particle swarm optimization algorithm to iteratively search and optimize the structure. Finally, the optimal network tailoring substructure is obtained.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T11:38:42.325Z

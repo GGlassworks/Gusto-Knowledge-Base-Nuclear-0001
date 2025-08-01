@@ -1,0 +1,12 @@
+# Drone-based AI and 3D Reconstruction for Digital Twin Augmentation
+
+**Authors:** Alex To, Maican Liu, Muhammad Hazeeq Bin Muhammad Hairul, Joseph G. Davis, Jeannie S. A. Lee, Henrik Hesse, Hoang D. Nguyen
+
+## Summary
+Digital Twin is an emerging technology at the forefront of Industry 4.0, with the ultimate goal of combining the physical space and the virtual space. To date, the Digital Twin concept has been applied in many engineering fields, providing useful insights in the areas of engineering design, manufacturing, automation, and construction industry. While the nexus of various technologies opens up new opportunities with Digital Twin, the technology requires a framework to integrate the different technologies, such as the Building Information Model used in the Building and Construction industry. In this work, an Information Fusion framework is proposed to seamlessly fuse heterogeneous components in a Digital Twin framework from the variety of technologies involved. This study aims to augment Digital Twin in buildings with the use of AI and 3D reconstruction empowered by unmanned aviation vehicles. We proposed a drone-based Digital Twin augmentation framework with reusable and customisable components. A proof of concept is also developed, and extensive evaluation is conducted for 3D reconstruction and applications of AI for defect detection.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:16.318Z

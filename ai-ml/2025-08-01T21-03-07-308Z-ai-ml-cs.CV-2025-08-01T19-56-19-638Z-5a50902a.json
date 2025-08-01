@@ -1,0 +1,12 @@
+# DAVE: Diagnostic benchmark for Audio Visual Evaluation
+
+**Authors:** Gorjan Radevski, Teodora Popordanoska, Matthew B. Blaschko, Tinne Tuytelaars
+
+## Summary
+Audio-visual understanding is a rapidly evolving field that seeks to integrate and interpret information from both auditory and visual modalities. Despite recent advances in multi-modal learning, existing benchmarks often suffer from strong visual bias -- where answers can be inferred from visual data alone -- and provide only aggregate scores that conflate multiple sources of error. This makes it difficult to determine whether models struggle with visual understanding, audio interpretation, or audio-visual alignment. In this work, we introduce DAVE (Diagnostic Audio Visual Evaluation), a novel benchmark dataset designed to systematically evaluate audio-visual models across controlled challenges. DAVE alleviates existing limitations by (i) ensuring both modalities are necessary to answer correctly and (ii) decoupling evaluation into atomic subcategories. Our detailed analysis of state-of-the-art models reveals specific failure modes and provides targeted insights for improvement. By offering this standardized diagnostic framework, we aim to facilitate more robust development of audio-visual models. The dataset is released: https://github.com/gorjanradevski/dave
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T19:56:19.638Z

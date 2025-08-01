@@ -1,0 +1,12 @@
+# Indoor Semantic Scene Understanding using Multi-modality Fusion
+
+**Authors:** Muraleekrishna Gopinathan, Giang Truong, Jumana Abu-Khalaf
+
+## Summary
+Seamless Human-Robot Interaction is the ultimate goal of developing service robotic systems. For this, the robotic agents have to understand their surroundings to better complete a given task. Semantic scene understanding allows a robotic agent to extract semantic knowledge about the objects in the environment. In this work, we present a semantic scene understanding pipeline that fuses 2D and 3D detection branches to generate a semantic map of the environment. The 2D mask proposals from state-of-the-art 2D detectors are inverse-projected to the 3D space and combined with 3D detections from point segmentation networks. Unlike previous works that were evaluated on collected datasets, we test our pipeline on an active photo-realistic robotic environment - BenchBot. Our novelty includes rectification of 3D proposals using projected 2D detections and modality fusion based on object size. This work is done as part of the Robotic Vision Scene Understanding Challenge (RVSU). The performance evaluation demonstrates that our pipeline has improved on baseline methods without significant computational bottleneck.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:22.820Z

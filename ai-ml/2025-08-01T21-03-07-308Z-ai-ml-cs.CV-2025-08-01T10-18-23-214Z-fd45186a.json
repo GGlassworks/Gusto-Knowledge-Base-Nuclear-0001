@@ -1,0 +1,12 @@
+# Transparency Attacks: How Imperceptible Image Layers Can Fool AI Perception
+
+**Authors:** Forrest McKee, David Noever
+
+## Summary
+This paper investigates a novel algorithmic vulnerability when imperceptible image layers confound multiple vision models into arbitrary label assignments and captions. We explore image preprocessing methods to introduce stealth transparency, which triggers AI misinterpretation of what the human eye perceives. The research compiles a broad attack surface to investigate the consequences ranging from traditional watermarking, steganography, and background-foreground miscues. We demonstrate dataset poisoning using the attack to mislabel a collection of grayscale landscapes and logos using either a single attack layer or randomly selected poisoning classes. For example, a military tank to the human eye is a mislabeled bridge to object classifiers based on convolutional networks (YOLO, etc.) and vision transformers (ViT, GPT-Vision, etc.). A notable attack limitation stems from its dependency on the background (hidden) layer in grayscale as a rough match to the transparent foreground image that the human eye perceives. This dependency limits the practical success rate without manual tuning and exposes the hidden layers when placed on the opposite display theme (e.g., light background, light transparent foreground visible, works best against a light theme image viewer or browser). The stealth transparency confounds established vision systems, including evading facial recognition and surveillance, digital watermarking, content filtering, dataset curating, automotive and drone autonomy, forensic evidence tampering, and retail product misclassifying. This method stands in contrast to traditional adversarial attacks that typically focus on modifying pixel values in ways that are either slightly perceptible or entirely imperceptible for both humans and machines.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:23.214Z

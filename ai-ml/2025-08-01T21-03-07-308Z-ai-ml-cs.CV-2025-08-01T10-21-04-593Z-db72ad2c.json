@@ -1,0 +1,12 @@
+# A Comprehensive End-to-End Computer Vision Framework for Restoration and Recognition of Low-Quality Engineering Drawings
+
+**Authors:** Lvyang Yang, Jiankang Zhang, Huaiqiang Li, Longfei Ren, Chen Yang, Jingyu Wang, Dongyuan Shi
+
+## Summary
+The digitization of engineering drawings is crucial for efficient reuse, distribution, and archiving. Existing computer vision approaches for digitizing engineering drawings typically assume the input drawings have high quality. However, in reality, engineering drawings are often blurred and distorted due to improper scanning, storage, and transmission, which may jeopardize the effectiveness of existing approaches. This paper focuses on restoring and recognizing low-quality engineering drawings, where an end-to-end framework is proposed to improve the quality of the drawings and identify the graphical symbols on them. The framework uses K-means clustering to classify different engineering drawing patches into simple and complex texture patches based on their gray level co-occurrence matrix statistics. Computer vision operations and a modified Enhanced Super-Resolution Generative Adversarial Network (ESRGAN) model are then used to improve the quality of the two types of patches, respectively. A modified Faster Region-based Convolutional Neural Network (Faster R-CNN) model is used to recognize the quality-enhanced graphical symbols. Additionally, a multi-stage task-driven collaborative learning strategy is proposed to train the modified ESRGAN and Faster R-CNN models to improve the resolution of engineering drawings in the direction that facilitates graphical symbol recognition, rather than human visual perception. A synthetic data generation method is also proposed to construct quality-degraded samples for training the framework. Experiments on real-world electrical diagrams show that the proposed framework achieves an accuracy of 98.98% and a recall of 99.33%, demonstrating its superiority over previous approaches. Moreover, the framework is integrated into a widely-used power system software application to showcase its practicality.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:04.593Z

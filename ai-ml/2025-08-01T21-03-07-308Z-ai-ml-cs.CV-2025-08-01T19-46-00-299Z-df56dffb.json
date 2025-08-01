@@ -1,0 +1,12 @@
+# Virtual Testbed for Monocular Visual Navigation of Small Unmanned Aircraft Systems
+
+**Authors:** Kyung Kim, Robert C. Leishman, Scott L. Nykl
+
+## Summary
+Monocular visual navigation methods have seen significant advances in the last decade, recently producing several real-time solutions for autonomously navigating small unmanned aircraft systems without relying on GPS. This is critical for military operations which may involve environments where GPS signals are degraded or denied. However, testing and comparing visual navigation algorithms remains a challenge since visual data is expensive to gather. Conducting flight tests in a virtual environment is an attractive solution prior to committing to outdoor testing. This work presents a virtual testbed for conducting simulated flight tests over real-world terrain and analyzing the real-time performance of visual navigation algorithms at 31 Hz. This tool was created to ultimately find a visual odometry algorithm appropriate for further GPS-denied navigation research on fixed-wing aircraft, even though all of the algorithms were designed for other modalities. This testbed was used to evaluate three current state-of-the-art, open-source monocular visual odometry algorithms on a fixed-wing platform: Direct Sparse Odometry, Semi-Direct Visual Odometry, and ORB-SLAM2 (with loop closures disabled).
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T19:46:00.299Z

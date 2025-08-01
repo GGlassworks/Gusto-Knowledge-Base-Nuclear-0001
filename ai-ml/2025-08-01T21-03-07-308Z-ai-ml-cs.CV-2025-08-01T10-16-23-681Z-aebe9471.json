@@ -1,0 +1,12 @@
+# Geometric Perception based Efficient Text Recognition
+
+**Authors:** P. N. Deelaka, D. R. Jayakodi, D. Y. Silva
+
+## Summary
+Every Scene Text Recognition (STR) task consists of text localization \&amp; text recognition as the prominent sub-tasks. However, in real-world applications with fixed camera positions such as equipment monitor reading, image-based data entry, and printed document data extraction, the underlying data tends to be regular scene text. Hence, in these tasks, the use of generic, bulky models comes up with significant disadvantages compared to customized, efficient models in terms of model deployability, data privacy \&amp; model reliability. Therefore, this paper introduces the underlying concepts, theory, implementation, and experiment results to develop models, which are highly specialized for the task itself, to achieve not only the SOTA performance but also to have minimal model weights, shorter inference time, and high model reliability. We introduce a novel deep learning architecture (GeoTRNet), trained to identify digits in a regular scene image, only using the geometrical features present, mimicking human perception over text recognition. The code is publicly available at https://github.com/ACRA-FL/GeoTRNet
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:23.681Z

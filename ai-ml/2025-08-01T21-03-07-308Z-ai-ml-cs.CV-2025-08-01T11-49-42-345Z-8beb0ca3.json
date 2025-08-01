@@ -1,0 +1,12 @@
+# Null Space Properties of Neural Networks with Applications to Image Steganography
+
+**Authors:** Xiang Li, Kevin M. Short
+
+## Summary
+This paper explores the null space properties of neural networks. We extend the null space definition from linear to nonlinear maps and discuss the presence of a null space in neural networks. The null space of a given neural network can tell us the part of the input data that makes no contribution to the final prediction so that we can use it to trick the neural network. This reveals an inherent weakness in neural networks that can be exploited. One application described here leads to a method of image steganography. Through experiments on image datasets such as MNIST, we show that we can use null space components to force the neural network to choose a selected hidden image class, even though the overall image can be made to look like a completely different image. We conclude by showing comparisons between what a human viewer would see, and the part of the image that the neural network is actually using to make predictions and, hence, show that what the neural network ``sees'' is completely different than what we would expect.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T11:49:42.346Z

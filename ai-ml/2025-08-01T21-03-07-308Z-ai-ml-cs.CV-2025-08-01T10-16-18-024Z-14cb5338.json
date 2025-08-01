@@ -1,0 +1,12 @@
+# A Critical Assessment of Modern Generative Models' Ability to Replicate Artistic Styles
+
+**Authors:** Andrea Asperti, Franky George, Tiberio Marras, Razvan Ciprian Stricescu, Fabio Zanotti
+
+## Summary
+In recent years, advancements in generative artificial intelligence have led to the development of sophisticated tools capable of mimicking diverse artistic styles, opening new possibilities for digital creativity and artistic expression. This paper presents a critical assessment of the style replication capabilities of contemporary generative models, evaluating their strengths and limitations across multiple dimensions. We examine how effectively these models reproduce traditional artistic styles while maintaining structural integrity and compositional balance in the generated images. The analysis is based on a new large dataset of AI-generated works imitating artistic styles of the past, holding potential for a wide range of applications: the "AI-pastiche" dataset. The study is supported by extensive user surveys, collecting diverse opinions on the dataset and investigation both technical and aesthetic challenges, including the ability to generate outputs that are realistic and visually convincing, the versatility of models in handling a wide range of artistic styles, and the extent to which they adhere to the content and stylistic specifications outlined in prompts. This paper aims to provide a comprehensive overview of the current state of generative tools in style replication, offering insights into their technical and artistic limitations, potential advancements in model design and training methodologies, and emerging opportunities for enhancing digital artistry, human-AI collaboration, and the broader creative landscape.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:18.024Z

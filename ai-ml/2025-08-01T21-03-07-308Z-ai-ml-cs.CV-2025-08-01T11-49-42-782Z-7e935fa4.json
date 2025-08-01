@@ -1,0 +1,12 @@
+# Resolution-Invariant Image Classification based on Fourier Neural Operators
+
+**Authors:** Samira Kabri, Tim Roith, Daniel Tenbrinck, Martin Burger
+
+## Summary
+In this paper we investigate the use of Fourier Neural Operators (FNOs) for image classification in comparison to standard Convolutional Neural Networks (CNNs). Neural operators are a discretization-invariant generalization of neural networks to approximate operators between infinite dimensional function spaces. FNOs - which are neural operators with a specific parametrization - have been applied successfully in the context of parametric PDEs. We derive the FNO architecture as an example for continuous and Fr\'echet-differentiable neural operators on Lebesgue spaces. We further show how CNNs can be converted into FNOs and vice versa and propose an interpolation-equivariant adaptation of the architecture.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T11:49:42.783Z

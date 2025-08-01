@@ -1,0 +1,12 @@
+# Digit Recognition Using Convolution Neural Network
+
+**Authors:** Kajol Gupta
+
+## Summary
+In pattern recognition, digit recognition has always been a very challenging task. This paper aims to extracting a correct feature so that it can achieve better accuracy for recognition of digits. The applications of digit recognition such as in password, bank check process, etc. to recognize the valid user identification. Earlier, several researchers have used various different machine learning algorithms in pattern recognition i.e. KNN, SVM, RFC. The main objective of this work is to obtain highest accuracy 99.15% by using convolution neural network (CNN) to recognize the digit without doing too much pre-processing of dataset.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:18.214Z

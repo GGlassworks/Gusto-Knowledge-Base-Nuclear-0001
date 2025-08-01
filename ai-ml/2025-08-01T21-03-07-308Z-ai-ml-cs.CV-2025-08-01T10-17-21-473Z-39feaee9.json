@@ -1,0 +1,12 @@
+# Detecting Facial Image Manipulations with Multi-Layer CNN Models
+
+**Authors:** Alejandro Marco Montejano, Angela Sanchez Perez, Javier Barrachina, David Ortiz-Perez, Manuel Benavent-Lledo, Jose Garcia-Rodriguez
+
+## Summary
+The rapid evolution of digital image manipulation techniques poses significant challenges for content verification, with models such as stable diffusion and mid-journey producing highly realistic, yet synthetic, images that can deceive human perception. This research develops and evaluates convolutional neural networks (CNNs) specifically tailored for the detection of these manipulated images. The study implements a comparative analysis of three progressively complex CNN architectures, assessing their ability to classify and localize manipulations across various facial image modifications. Regularization and optimization techniques were systematically incorporated to improve feature extraction and performance. The results indicate that the proposed models achieve an accuracy of up to 76\% in distinguishing manipulated images from genuine ones, surpassing traditional approaches. This research not only highlights the potential of CNNs in enhancing the robustness of digital media verification tools, but also provides insights into effective architectural adaptations and training strategies for low-computation environments. Future work will build on these findings by extending the architectures to handle more diverse manipulation techniques and integrating multi-modal data for improved detection capabilities.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:17:21.473Z

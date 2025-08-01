@@ -1,0 +1,12 @@
+# Playing Tic-Tac-Toe Games with Intelligent Single-pixel Imaging
+
+**Authors:** Shuming Jiao, Jiaxiang Li, Wei Huang, Zibang Zhang
+
+## Summary
+Single-pixel imaging (SPI) is a novel optical imaging technique by replacing a two-dimensional pixelated sensor with a single-pixel detector and pattern illuminations. SPI have been extensively used for various tasks related to image acquisition and processing. In this work, a novel non-image-based task of playing Tic-Tac-Toe games interactively is merged into the framework of SPI. An optoelectronic artificial intelligent (AI) player with minimal digital computation can detect the game states, generate optimal moves and display output results mainly by pattern illumination and single-pixel detection. Simulated and experimental results demonstrate the feasibility of proposed scheme and its unbeatable performance against human players.
+
+
+---
+Category: ai-ml
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:10.374Z
