@@ -1,0 +1,13 @@
+# Digital Twin and Cybersecurity in Additive Manufacturing
+
+**Authors:** Lidong Wang
+
+## Abstract
+Additive manufacturing (AM) has been applied to automotive, aerospace, medical sectors, etc., but there are still challenges such as parts' porosity, cracks, surface roughness, intrinsic anisotropy, and residual stress because of the high level of thermal gradient. It is significant to conduct the modeling and simulation of the AM process and achieve quality products. Digital Twin (DT) can help AM with forecasting defects/errors through simulation and real-time process monitoring. DT is a concept of Industry 4.0, and its digital structure reflects the real-time behaviors of a cyber-physical or physical system. This paper introduces the progress of DT applications in AM, cyber digital twin (CDT), cybersecurity digital twin, and cybersecurity in AM, and highlights the challenges of DT and cybersecurity in AM. A case study is presented, including the flaw formation of laser powder bed fusion (LPBF) due to cyber intrusions and the flaw formation during the printing process of LPBF, the impacts of the factors of cyber resilience on the AM supply chain, and cyberattacks on various data categories of AM and their business impacts. The methods and related information in this paper not only help promote professionals' research and development in the industry, but also are very useful for faculty's research and teaching as well as students' learning in the areas of DT, AM, and cybersecurity.
+
+**Source:** https://eric.ed.gov/?id=EJ1463147
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:09.073Z
