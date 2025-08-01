@@ -1,0 +1,13 @@
+# Advanced Deep Learning Techniques for Battery Thermal Management in New Energy Vehicles
+
+**Authors:** Shaotong Qi, Yubo Cheng, Zhiyuan Li, Jiaxin Wang, Huaiyi Li, Chunwei Zhang
+
+## Abstract
+In the current era of energy conservation and emission reduction, the development of electric and other new energy vehicles is booming. With their various attributes, lithium batteries have become the ideal power source for new energy vehicles. However, lithium-ion batteries are highly sensitive to temperature changes. Excessive temperatures, either high or low, can lead to abnormal operation of the batteries, posing a threat to the safety of the entire vehicle. Therefore, developing a reliable and efficient Battery Thermal Management System (BTMS) that can monitor battery status and prevent thermal runaway is becoming increasingly important. In recent years, deep learning has gradually become widely applied in various fields as an efficient method, and it has also been applied to some extent in the development of BTMS. In this work, we discuss the basic principles of deep learning and related optimization principles and elaborate on the algorithmic principles, frameworks, and applications of various advanced deep learning methods in BTMS. We also discuss several emerging deep learning algorithms proposed in recent years, their principles, and their feasibility in BTMS applications. Finally, we discuss the obstacles faced by various deep learning algorithms in the development of BTMS and potential directions for development, proposing some ideas for progress. This paper aims to analyze the advanced deep learning technologies commonly used in BTMS and some emerging deep learning technologies and provide new insights into the current combination of deep learning technology in new energy trams to assist the development of BTMS.
+
+**Source:** https://www.semanticscholar.org/paper/ebfa3d600f94f8f8db359126656dde3c25c8c95c
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.285Z

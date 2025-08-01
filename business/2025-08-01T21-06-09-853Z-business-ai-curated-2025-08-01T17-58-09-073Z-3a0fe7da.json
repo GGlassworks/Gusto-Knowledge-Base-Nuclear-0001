@@ -1,0 +1,13 @@
+# Modified Harris Hawks Optimization Algorithm with Exploration Factor and Random Walk Strategy
+
+**Authors:** Meijia Song, H. Jia, L. Abualigah, Qingxin Liu, Zhixing Lin, Di Wu, Maryam Altalhi
+
+## Abstract
+One of the most popular population-based metaheuristic algorithms is Harris hawks optimization (HHO), which imitates the hunting mechanisms of Harris hawks in nature. Although HHO can obtain optimal solutions for specific problems, it stagnates in local optima solutions. In this paper, an improved Harris hawks optimization named ERHHO is proposed for solving global optimization problems. Firstly, we introduce tent chaotic map in the initialization stage to improve the diversity of the initialization population. Secondly, an exploration factor is proposed to optimize parameters for improving the ability of exploration. Finally, a random walk strategy is proposed to enhance the exploitation capability of HHO further and help search agent jump out the local optimal. Results from systematic experiments conducted on 23 benchmark functions and the CEC2017 test functions demonstrated that the proposed method can provide a more reliable solution than other well-known algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/56f456bac9b7891db4b570971cdce5617b82a1fe
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:09.074Z

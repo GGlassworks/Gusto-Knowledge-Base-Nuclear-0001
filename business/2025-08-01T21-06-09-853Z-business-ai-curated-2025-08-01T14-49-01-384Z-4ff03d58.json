@@ -1,0 +1,13 @@
+# Blockchain-Based Secure Data Sharing Algorithms for Cognitive Decision Management
+
+**Authors:** Franciskus Antonius, Alijoyo Lecturer, Gulnaz Fatma, B. Prabha, Vuda Sreenivasa Rao, Mohd Aarif, Ponni Valavan
+
+## Abstract
+Cognitive Decision Management in healthcare data management refers to the integration of artificial intelligence, machine learning, and cognitive computing to enhance decision-making processes. Secure data sharing is crucial in Cognitive Decision Management for healthcare as it enables seamless collaboration among stakeholders while ensuring the confidentiality, integrity, and availability of sensitive health data. This practice is essential for delivering timely and accurate insights, facilitating collaborative care, and maintaining patient privacy. Traditional approaches for secure data sharing in Cognitive Decision Management include role-based access control, encryption, and Virtual Private Networks (VPNs). Traditional approaches often face limitations such as complex key management, potential vulnerabilities in encryption algorithms, and scalability challenges in managing access controls. To overcome these limitations, this study introduces a novel approach leveraging blockchain technology. The proposed system incorporates Ethereum blockchain 2.0 for scalable and efficient healthcare data management, along with Elliptic Curve Cryptography for secure transaction verification. Blockchain ensures transparency, immutability, and decentralized control, addressing the drawbacks of traditional methods and providing a robust foundation for secure data sharing in Cognitive Decision Management within healthcare settings. Results of this study was implemented in Python tool. The throughput ranged from 450 to 520 transactions per second, showcasing system stability.
+
+**Source:** https://www.semanticscholar.org/paper/0d03a53486d42347a85a957e0bb9223d9cea32d6
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T14:49:01.385Z

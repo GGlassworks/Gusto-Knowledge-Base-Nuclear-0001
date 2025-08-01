@@ -1,0 +1,13 @@
+# Solving Engineering Optimization Problems Based on Multi-Strategy Particle Swarm Optimization Hybrid Dandelion Optimization Algorithm
+
+**Authors:** Wenjie Tang, Li Cao, Yaodan Chen, Binhe Chen, Yinggao Yue
+
+## Abstract
+In recent years, swarm intelligence optimization methods have been increasingly applied in many fields such as mechanical design, microgrid scheduling, drone technology, neural network training, and multi-objective optimization. In this paper, a multi-strategy particle swarm optimization hybrid dandelion optimization algorithm (PSODO) is proposed, which is based on the problems of slow optimization speed and being easily susceptible to falling into local extremum in the optimization ability of the dandelion optimization algorithm. This hybrid algorithm makes the whole algorithm more diverse by introducing the strong global search ability of particle swarm optimization and the unique individual update rules of the dandelion algorithm (i.e., rising, falling and landing). The ascending and descending stages of dandelion also help to introduce more changes and explorations into the search space, thus better balancing the global and local search. The experimental results show that compared with other algorithms, the proposed PSODO algorithm greatly improves the global optimal value search ability, convergence speed and optimization speed. The effectiveness and feasibility of the PSODO algorithm are verified by solving 22 benchmark functions and three engineering design problems with different complexities in CEC 2005 and comparing it with other optimization algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/619b3d42e066ffdff3c455bd30138a765d7978a3
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T15:53:27.553Z

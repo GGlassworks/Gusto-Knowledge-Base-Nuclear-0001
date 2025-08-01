@@ -1,0 +1,13 @@
+# An Improved Teaching-Learning-Based Optimization Algorithm with Reinforcement Learning Strategy for Solving Optimization Problems
+
+**Authors:** Di Wu, Shuang Wang, Qingxin Liu, L. Abualigah, H. Jia
+
+## Abstract
+This paper presents an improved teaching-learning-based optimization (TLBO) algorithm for solving optimization problems, called RLTLBO. First, a new learning mode considering the effect of the teacher is presented. Second, the Q-Learning method in reinforcement learning (RL) is introduced to build a switching mechanism between two different learning modes in the learner phase. Finally, ROBL is adopted after both the teacher and learner phases to improve the local optima avoidance ability of RLTLBO. These two strategies effectively enhance the convergence speed and accuracy of the proposed algorithm. RLTLBO is analyzed on 23 standard benchmark functions and eight CEC2017 test functions to verify the optimization performance. The results reveal that proposed algorithm provides effective and efficient performance in solving benchmark test functions. Moreover, RLTLBO is also applied to solve eight industrial engineering design problems. Compared with the basic TLBO and seven state-of-the-art algorithms, the results illustrate that RLTLBO has superior performance and promising prospects for dealing with real-world optimization problems. The source codes of the RLTLBO are publicly available at https://github.com/WangShuang92/RLTLBO.
+
+**Source:** https://www.semanticscholar.org/paper/6f2e22f36476be0b71aaf40186d290e9aea921da
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:08.125Z

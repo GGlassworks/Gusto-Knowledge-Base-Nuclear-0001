@@ -1,0 +1,13 @@
+# Advanced Big Data Management and Analytics for Ubiquitous Sensors
+
+**Authors:** P. Rao, Joonho Kwon, Sangjun Lee, L. V. Subramaniam
+
+## Abstract
+It is estimated that, by 2020, 40 zettabytes of data will be created. The convergence of pervasive sensing with locationaware and social media technologies, along with infrastructure-based sensors, will lead to the production and collection of “big data” in many areas such as transportation, healthcare, and energy. For example, today, there are 6 billion cell phone users in the world. Cell phones equipped with multiple sensors are producing large volumes of data each day. The data obtained may be structured or unstructured, ranging from GPS trajectories to text, video, still images, and others. This opens up new challenges and opportunities to address the key aspects of sensor-based big data, namely, volume, velocity, variety, and veracity. This special issue aims to foster the dissemination of knowledge for advanced issues in big data management and analytics for ubiquitous sensors. This special issue will be an open international forum for researchers to summarize their latest research results. The call for papers included a number of related topics such as distributed/parallel processing of streaming data, privacy protection and security issues in sensor-based big data, and data fusion techniques for distributed big data. The submitted manuscripts were reviewed by experts from both academia and industry. After two rounds of reviewing, the highest quality manuscripts were accepted for this special issue. The paper by I. Ha et al. proposes a parallel approach usingMapReduce for sentiment analysis of big data in social media. The paper by Y. Yu et al. presents a parallel approach using Hadoop for density-based clustering of big data. The paper by K. Omote and T. P. Thao describes a light-weight network coding scheme to provide integrity of the data when stored in cloud servers. The paper by H.-J. Jo and J. W. Yoon presents a countermeasure to prevent bruteforce attacks in high-performance computing platforms for big data analytics. The papers by H. Kang et al. and Y. Ki et al. propose new analysis-based approaches to detect malware in mobile/smart devices. Finally, the paper by S.-W. Jang G.Y. Kim presents a multiple feature-based image switching strategy in visual sensor networks.
+
+**Source:** https://www.semanticscholar.org/paper/b52d8c719fdbe33b8c77d85e4be14536c8dfef60
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T19:20:08.869Z

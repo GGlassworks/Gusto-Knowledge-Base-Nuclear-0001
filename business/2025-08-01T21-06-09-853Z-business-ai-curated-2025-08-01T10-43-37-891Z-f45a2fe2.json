@@ -1,0 +1,13 @@
+# Big Data Analytics Using Cloud Computing Based Frameworks for Power Management Systems: Status, Constraints, and Future Recommendations
+
+**Authors:** Ahmed Hadi Ali AL-Jumaili, R. C. Muniyandi, M Zahid Hasan, J. Paw, Mandeep Jit Singh
+
+## Abstract
+Traditional parallel computing for power management systems has prime challenges such as execution time, computational complexity, and efficiency like process time and delays in power system condition monitoring, particularly consumer power consumption, weather data, and power generation for detecting and predicting data mining in the centralized parallel processing and diagnosis. Due to these constraints, data management has become a critical research consideration and bottleneck. To cope with these constraints, cloud computing-based methodologies have been introduced for managing data efficiently in power management systems. This paper reviews the concept of cloud computing architecture that can meet the multi-level real-time requirements to improve monitoring and performance which is designed for different application scenarios for power system monitoring. Then, cloud computing solutions are discussed under the background of big data, and emerging parallel programming models such as Hadoop, Spark, and Storm are briefly described to analyze the advancement, constraints, and innovations. The key performance metrics of cloud computing applications such as core data sampling, modeling, and analyzing the competitiveness of big data was modeled by applying related hypotheses. Finally, it introduces a new design concept with cloud computing and eventually some recommendations focusing on cloud computing infrastructure, and methods for managing real-time big data in the power management system that solve the data mining challenges.
+
+**Source:** https://www.semanticscholar.org/paper/b5ebeccbbb614299736346c920a7032f84f198bb
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T10:43:37.892Z

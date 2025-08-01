@@ -1,0 +1,13 @@
+# Blockchain 6G-Based Wireless Network Security Management with Optimization Using Machine Learning Techniques
+
+**Authors:** Xintong Onireti, Lei Ling, Zhang Muhammad Ali, Imran, P. Chinnasamy, G. Babu, R. Ayyasamy, S. Amutha, K. Sinha, A. Balaram
+
+## Abstract
+6G mobile network technology will set new standards to meet performance goals that are too ambitious for 5G networks to satisfy. The limitations of 5G networks have been apparent with the deployment of more and more 5G networks, which certainly encourages the investigation of 6G networks as the answer for the future. This research includes fundamental privacy and security issues related to 6G technology. Keeping an eye on real-time systems requires secure wireless sensor networks (WSNs). Denial of service (DoS) attacks mark a significant security vulnerability that WSNs face, and they can compromise the system as a whole. This research proposes a novel method in blockchain 6G-based wireless network security management and optimization using a machine learning model. In this research, the deployed 6G wireless sensor network security management is carried out using a blockchain user datagram transport protocol with reinforcement projection regression. Then, the network optimization is completed using artificial democratic cuckoo glowworm remora optimization. The simulation results have been based on various network parameters regarding throughput, energy efficiency, packet delivery ratio, end–end delay, and accuracy. In order to minimise network traffic, it also offers the capacity to determine the optimal node and path selection for data transmission. The proposed technique obtained 97% throughput, 95% energy efficiency, 96% accuracy, 50% end–end delay, and 94% packet delivery ratio.
+
+**Source:** https://www.semanticscholar.org/paper/fe46a625da664db0dc2cfb26e541f86bca1f788c
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T13:04:46.315Z

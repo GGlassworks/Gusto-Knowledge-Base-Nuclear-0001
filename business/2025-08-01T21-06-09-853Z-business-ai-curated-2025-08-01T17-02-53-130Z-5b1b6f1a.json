@@ -1,0 +1,13 @@
+# A Brain-Inspired Trust Management Model to Assure Security in a Cloud Based IoT Framework for Neuroscience Applications
+
+**Authors:** M. S. M. Mahmud, M. M. Kaiser, M. A. Rahman, A. Rahman, S. Shabut, A. Al-Mamun, M. Mahmud, M. Kaiser, M. M. Rahman, M. A. Rahman, A. Shabut, Shamim Al-Mamun, A. Hussain
+
+## Abstract
+Rapid advancement of Internet of Things (IoT) and cloud computing enables neuroscientists to collect multilevel and multichannel brain data to better understand brain functions, diagnose diseases, and devise treatments. To ensure secure and reliable data communication between end-to-end (E2E) devices supported by current IoT and cloud infrastructures, trust management is needed at the IoT and user ends. This paper introduces an adaptive neuro-fuzzy inference system (ANFIS) brain-inspired trust management model (TMM) to secure IoT devices and relay nodes, and to ensure data reliability. The proposed TMM utilizes both node behavioral trust and data trust, which are estimated using ANFIS, and weighted additive methods respectively, to assess the nodes trustworthiness. In contrast to existing fuzzy based TMMs, simulation results confirm the robustness and accuracy of our proposed TMM in identifying malicious nodes in the communication network. With growing usage of cloud based IoT frameworks in Neuroscience research, integrating the proposed TMM into existing infrastructure will assure secure and reliable data communication among E2E devices.
+
+**Source:** https://www.semanticscholar.org/paper/d9f3402ecd99137ebea08cf9292b8bbb73f7cbff
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T17:02:53.131Z

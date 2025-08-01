@@ -1,0 +1,13 @@
+# A Novel Fault-Tolerant Air Traffic Management Methodology Using Autoencoder and P2P Blockchain Consensus Protocol
+
+**Authors:** S. Hashemi, S. Hashemi, R. Botez, Georges Ghazi
+
+## Abstract
+This paper presents a methodology for designing a highly reliable Air Traffic Management and Control (ATMC) methodology using Neural Networks and Peer-to-Peer (P2P) blockchain. A novel data-driven algorithm was designed for Aircraft Trajectory Prediction (ATP) based on an Autoencoder architecture. The Autoencoder was considered in this study due to its excellent fault-tolerant ability when the input data provided by the GPS is deficient. After conflict detection, P2P blockchain was used for securely decentralized decision-making. A meta-controller composed of this Autoencoder, and P2P blockchain performed the ATMC task very well. A comprehensive database of trajectories constructed using our UAS-S4 Ehécatl was used for algorithms validation. The accuracy of the ATP was evaluated for a variety of data failures, and the high-performance index confirmed the excellent efficiency of the autoencoder. Aircraft were considered in several local encounter scenarios, and their trajectories were securely managed and controlled using our in-house Smart Contract software developed on the Ethereum platform. The Sharding approach improved the P2P blockchain performance in terms of computational complexity and processing time in real-time operations. Therefore, the probability of conflicts among aircraft in a swarm environment was significantly reduced using our new methodology and algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/18eaa3103ece57bc1911344d68641b0ca2e85df8
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T13:10:31.324Z

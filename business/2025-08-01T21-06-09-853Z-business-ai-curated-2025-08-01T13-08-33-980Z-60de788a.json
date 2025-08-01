@@ -1,0 +1,13 @@
+# Blockchain for Healthcare Management Systems: A Survey on Interoperability and Security
+
+**Authors:** E. Villarreal, J. García-Alonso, E. Moguel, J. Alegría
+
+## Abstract
+n recent years it has been shown that the secure exchange of medical information significantly benefits people’s life quality, improving their care and treatment. The interoperability of the entire healthcare ecosystem is a constant challenge, and even more, with all the risks posed to the security of healthcare information. Blockchain technology is emerging as one of the main alternatives when it comes to finding a balance in the healthcare ecosystem. However, the constant development of new Blockchain technologies and the evolution of healthcare systems make it difficult to find established proposals. From an architectural point of view, the design of blockchain-based solutions requires trade-offs e.g., security and interoperability. This paper focuses on two main objectives, in the first one, it was carried out a Systematic Literature Review for exploring architectural mechanisms used to support the interoperability and security of Blockchain-based Health Management Systems. Taking into account of results, a series of scenarios were generated where these mechanisms can be used along with their context, issues, and various architectural concerns (interoperability and security). In the second objective, a high-level architecture and its validation were proposed through an experiment for the whole process of developing a Domain Specific Language, using the Model Driven Engineering methodology for specific Smart Contracts.
+
+**Source:** https://www.semanticscholar.org/paper/673c14efa5eb99f1d1b5c2f38061f265837c2e3e
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T13:08:33.981Z

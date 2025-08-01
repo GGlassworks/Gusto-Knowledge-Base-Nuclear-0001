@@ -1,0 +1,13 @@
+# Autonomous Money Supply Strategy Utilizing Control Theory
+
+**Authors:** Yuval Boneh
+
+## Abstract
+Decentralized Finance (DeFi) has reshaped the possibilities of reserve banking in the form of the Collateralized Debt Position (CDP). Key to the safety of CDPs is the money supply architecture that enables issued debt to maintain its value. In traditional markets, and with respect to the United States Dollar system, interest rates are set by the Federal Reserve in an attempt to influence the effects of excessive inflation. DeFi enables a more transparent approach that typically relies on interest rates or other debt recovery mechanisms being directly informed by asset price. This research investigates contemporary DeFi money supply and debt management strategies and their limitations. Furthermore, this paper introduces a time-weighted approach to interest rate management that implements a Proportional-Integral-Derivative control system to constantly adapt to market activities and protect the value of issued currency, while addressing observed limitations.
+
+**Source:** https://www.semanticscholar.org/paper/c5a2dade0ed3356290970bdfbd18750cbc2cd89b
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T13:32:24.856Z

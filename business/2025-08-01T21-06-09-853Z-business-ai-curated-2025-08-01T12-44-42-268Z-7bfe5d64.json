@@ -1,0 +1,13 @@
+# Algorithms for assessing the qualitative and quantitative risks of lending to small and medium-sized businesses based on fuzzy calculus
+
+**Authors:** S. Sveshnikov, Victor P. Bocharnikov, Tatjana Uvarova, Petr Kovalchuk
+
+## Abstract
+Today, crisis conditions in the economy and finance require high-quality risk assessment. In the article, the authors propose two algorithms for assessing the projects lending risks (PLRs) to small and medium-sized businesses. To assess qualitative PLRs, we proposed to use a hierarchical system of criteria, in which the importance of the criteria is described using the Sugeno fuzzy measure, and the generalized estimate of the qualitative risk is calculated using the Sugeno fuzzy integral. To evaluate quantitative PLRs, we proposed to use the characteristics of fuzzy numbers that describe the project effectiveness criteria and have an arbitrary-form membership function. In addition, to describe quantitative risks, we proposed to use the risk-function of a fuzzy number, which reflects not only the size of possible losses, but also the possibility of their occurrence. This allows you to comprehensively and objectively assess the level of risks. We have demonstrated and discussed this algorithms on the example of preparing data for making a decision on lending to a project for the production of corn syrup in Ukraine.
+
+**Source:** https://www.semanticscholar.org/paper/cdd699950063bde2f64c767f258c72df7f592431
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T12:44:42.269Z

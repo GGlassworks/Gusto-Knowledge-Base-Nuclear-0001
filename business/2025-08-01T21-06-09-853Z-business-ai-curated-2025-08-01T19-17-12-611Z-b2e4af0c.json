@@ -1,0 +1,13 @@
+# Business Process Analytics and Big Data Systems: A Roadmap to Bridge the Gap
+
+**Authors:** Sherif Sakr, Z. Maamar, Ahmed Awad, B. Benatallah, Wil M.P. van der Aalst
+
+## Abstract
+Business processes represent a cornerstone to the operation of any enterprise. They are the operational means for such organizations to fulfill their goals. Nowadays, enterprises are able to gather massive amounts of event data. These are generated as business processes are executed and stored in transaction logs, databases, e-mail correspondences, free form text on (enterprise) social media, and so on. Taping into these data, enterprises would like to weave data analytic techniques into their decision making capabilities. In recent years, the IT industry has witnessed significant advancements in the domain of Big Data analytics. Unfortunately, the business process management (BPM) community has not kept up to speed with such developments and often rely merely on traditional modeling-based approaches. New ways of effectively exploiting such data are not sufficiently used. In this paper, we advocate that a good understanding of the business process and Big Data worlds can play an effective role in improving the efficiency and the quality of various data-intensive business operations using a wide spectrum of emerging Big Data systems. Moreover, we coin the term process footprint as a wider notion of process data than that is currently perceived in the BPM community. A roadmap towards taking business process data intensive operations to the next level is shaped in this paper.
+
+**Source:** https://www.semanticscholar.org/paper/52a737c1a566cef1f52434844c8afe33e34d6deb
+
+---
+Category: business
+Subcategory: ai-curated
+Collected: 2025-08-01T19:17:12.611Z
