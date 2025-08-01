@@ -1,0 +1,12 @@
+# A Survey on Applications of Digital Human Avatars toward Virtual Co-presence
+
+**Authors:** Matthew Korban, Xin Li
+
+## Summary
+This paper investigates different approaches to build and use digital human avatars toward interactive Virtual Co-presence (VCP) environments. We evaluate the evolution of technologies for creating VCP environments and how the advancement in Artificial Intelligence (AI) and Computer Graphics affect the quality of VCP environments. We categorize different methods in the literature based on their applications and methodology and compare various groups and strategies based on their applications, contributions, and limitations. We also have a brief discussion about the approaches that other forms of human representation, rather than digital human avatars, have been utilized in VCP environments. Our goal is to fill the gap in the research domain where there is a lack of literature review investigating different approaches for creating avatar-based VCP environments. We hope this study will be useful for future research involving human representation in VCP or Virtual Reality (VR) environments. To the best of our knowledge, it is the first survey research that investigates avatar-based VCP environments. Specifically, the categorization methodology suggested in this paper for avatar-based methods is new.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:15.986Z

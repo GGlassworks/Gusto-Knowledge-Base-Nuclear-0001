@@ -1,0 +1,12 @@
+# Words That Stick: Predicting Decision Making and Synonym Engagement Using Cognitive Biases and Computational Linguistics
+
+**Authors:** Nimrod Dvir, Elaine Friedman, Suraj Commuri, Fan Yang, Jennifer Romano
+
+## Summary
+This research draws upon cognitive psychology and information systems studies to anticipate user engagement and decision-making on digital platforms. By employing natural language processing (NLP) techniques and insights from cognitive bias research, we delve into user interactions with synonyms within digital content. Our methodology synthesizes four cognitive biasesRepresentativeness, Ease-of-use, Affect, and Distributioninto the READ model. Through a comprehensive user survey, we assess the model's ability to predict user engagement, discovering that synonyms that accurately represent core ideas, are easy to understand, elicit emotional responses, and are commonly encountered, promote greater user engagement. Crucially, our work offers a fresh lens on human-computer interaction, digital behaviors, and decision-making processes. Our results highlight the promise of cognitive biases as potent indicators of user engagement, underscoring their significance in designing effective digital content across fields like education and marketing.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.956Z

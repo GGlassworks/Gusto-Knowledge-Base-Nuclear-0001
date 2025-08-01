@@ -1,0 +1,12 @@
+# AI-guided digital intervention with physiological monitoring reduces intrusive memories after experimental trauma
+
+**Authors:** Megan T. deBettencourt, Sruthi Sakthivel, Emily A. Holmes, Mark Chevillet
+
+## Summary
+Trauma prevalence is vast globally. Evidence-based digital treatments can help, but most require human guidance. Human guides provide tailored instructions and responsiveness to internal cognitive states, but limit scalability. Can generative AI and neurotechnology provide a scalable alternative? Here we test ANTIDOTE, combining AI guidance and pupillometry to automatically deliver and monitor an evidence-based digital treatment, specifically the Imagery Competing Task Intervention (ICTI), to reduce intrusive memories after psychological trauma. One hundred healthy volunteers were exposed to videos of traumatic events and randomly assigned to an intervention or active control condition. As predicted, intervention participants reported significantly fewer intrusive memories over the following week. Post-hoc assessment against clinical rubrics confirmed the AI guide delivered the intervention successfully. Additionally, pupil size tracked intervention engagement and predicted symptom reduction, providing a candidate biomarker of intervention effectiveness. These findings open a path toward rigorous AI-guided digital interventions that can scale to trauma prevalence.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.273Z

@@ -1,0 +1,12 @@
+# Ergonomics Integrated Design Methodology using Parameter Optimization, Computer-Aided Design, and Digital Human Modelling: A Case Study of a Cleaning Equipment
+
+**Authors:** Neelesh Kr. Sharma, Mayank Tiwari, Atul Thakur, Anindya K. Ganguli
+
+## Summary
+Challenges of enhancing productivity by amplifying efficiency and man-machine compatibility of equipment can be achieved by adopting advanced technologies. This study aims to present and exemplify methodology for incorporating ergonomics pro-actively into the design using computer-aided design and digital human modeling-based analysis. The cleaning equipment is parametrized to detect the critical variables. The relations are then constrained through the 3DSSPP software-based biomechanical and experimental analysis using a prototype. MATLAB and Minitab software is used for optimizing efficiency while satisfying the established constraints. The experiment showed nearly 67%, 120%, and 241% successive improvement in the mechanical advantage in comparison to their immediate predecessors. A significant (6 point) reduction in rapid entire body assessment score has been observed in the final posture while working with the manipulator. 3DSSPP suggested that the joint forces during the actuation of the manipulator were acceptable to 99% of the working population. The study demonstrated the potential of the methodology in revamping the equipment for improved ergonomic design.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:17:21.114Z

@@ -1,0 +1,12 @@
+# uTalk: Bridging the Gap Between Humans and AI
+
+**Authors:** Hussam Azzuni, Sharim Jamal, Abdulmotaleb Elsaddik
+
+## Summary
+Large Language Models (LLMs) have revolutionized various industries by harnessing their power to improve productivity and facilitate learning across different fields. One intriguing application involves combining LLMs with visual models to create a novel approach to Human-Computer Interaction. The core idea of this system is to create a user-friendly platform that enables people to utilize ChatGPT's features in their everyday lives. uTalk is comprised of technologies like Whisper, ChatGPT, Microsoft Speech Services, and the state-of-the-art (SOTA) talking head system SadTalker. Users can engage in human-like conversation with a digital twin and receive answers to any questions. Also, uTalk could generate content by submitting an image and input (text or audio). This system is hosted on Streamlit, where users will be prompted to provide an image to serve as their AI assistant. Then, as the input (text or audio) is provided, a set of operations will produce a video of the avatar with the precise response. This paper outlines how SadTalker's run-time has been optimized by 27.69% based on 25 frames per second (FPS) generated videos and 38.38% compared to our 20FPS generated videos. Furthermore, the integration and parallelization of SadTalker and Streamlit have resulted in a 9.8% improvement compared to the initial performance of the system.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:15.412Z

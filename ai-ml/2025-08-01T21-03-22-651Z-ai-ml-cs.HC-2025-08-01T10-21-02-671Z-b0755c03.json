@@ -1,0 +1,12 @@
+# User or Labor: An Interaction Framework for Human-Machine Relationships in NLP
+
+**Authors:** Ruyuan Wan, Naome Etori, Karla Badillo-Urquiola, Dongyeop Kang
+
+## Summary
+The bridging research between Human-Computer Interaction and Natural Language Processing is developing quickly these years. However, there is still a lack of formative guidelines to understand the human-machine interaction in the NLP loop. When researchers crossing the two fields talk about humans, they may imply a user or labor. Regarding a human as a user, the human is in control, and the machine is used as a tool to achieve the human's goals. Considering a human as a laborer, the machine is in control, and the human is used as a resource to achieve the machine's goals. Through a systematic literature review and thematic analysis, we present an interaction framework for understanding human-machine relationships in NLP. In the framework, we propose four types of human-machine interactions: Human-Teacher and Machine-Learner, Machine-Leading, Human-Leading, and Human-Machine Collaborators. Our analysis shows that the type of interaction is not fixed but can change across tasks as the relationship between the human and the machine develops. We also discuss the implications of this framework for the future of NLP and human-machine relationships.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:02.671Z

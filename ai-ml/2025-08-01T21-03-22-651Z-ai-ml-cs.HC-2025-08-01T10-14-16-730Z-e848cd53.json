@@ -1,0 +1,12 @@
+# InSight-R: A Framework for Risk-informed Human Failure Event Identification and Interface-Induced Risk Assessment Driven by AutoGraph
+
+**Authors:** Xingyu Xiao, Jiejuan Tong, Peng Chen, Jun Sun, Zhe Sui, Jingang Liang, Hongru Zhao, Jun Zhao, Haitao Wang
+
+## Summary
+Human reliability remains a critical concern in safety-critical domains such as nuclear power, where operational failures are often linked to human error. While conventional human reliability analysis (HRA) methods have been widely adopted, they rely heavily on expert judgment for identifying human failure events (HFEs) and assigning performance influencing factors (PIFs). This reliance introduces challenges related to reproducibility, subjectivity, and limited integration of interface-level data. In particular, current approaches lack the capacity to rigorously assess how human-machine interface design contributes to operator performance variability and error susceptibility. To address these limitations, this study proposes a framework for risk-informed human failure event identification and interface-induced risk assessment driven by AutoGraph (InSight-R). By linking empirical behavioral data to the interface-embedded knowledge graph (IE-KG) constructed by the automated graph-based execution framework (AutoGraph), the InSight-R framework enables automated HFE identification based on both error-prone and time-deviated operational paths. Furthermore, we discuss the relationship between designer-user conflicts and human error. The results demonstrate that InSight-R not only enhances the objectivity and interpretability of HFE identification but also provides a scalable pathway toward dynamic, real-time human reliability assessment in digitalized control environments. This framework offers actionable insights for interface design optimization and contributes to the advancement of mechanism-driven HRA methodologies.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.730Z

@@ -1,0 +1,12 @@
+# Bridging Voting and Deliberation with Algorithms: Field Insights from vTaiwan and Kultur Komitee
+
+**Authors:** Joshua C. Yang, Fynn Bachmann
+
+## Summary
+Democratic processes increasingly aim to integrate large-scale voting with face-to-face deliberation, addressing the challenge of reconciling individual preferences with collective decision-making. This work introduces new methods that use algorithms and computational tools to bridge online voting with face-to-face deliberation, tested in two real-world scenarios: Kultur Komitee 2024 (KK24) and vTaiwan. These case studies highlight the practical applications and impacts of the proposed methods. We present three key contributions: (1) Preference-based Clustering for Deliberation (PCD), which enables both in-depth and broad discussions in deliberative settings by computing homogeneous and heterogeneous group compositions with balanced and adjustable group sizes; (2) Human-in-the-loop MES, a practical method that enhances the Method of Equal Shares (MES) algorithm with real-time digital feedback. This builds algorithmic trust by giving participants full control over how much decision-making is delegated to the voting aggregation algorithm as compared to deliberation; and (3) the ReadTheRoom deliberation method, which uses opinion space mapping to identify agreement and divergence, along with spectrum-based preference visualisation to track opinion shifts during deliberation. This approach enhances transparency by clarifying collective sentiment and fosters collaboration by encouraging participants to engage constructively with differing perspectives. By introducing these actionable frameworks, this research extends in-person deliberation with scalable digital methods that address the complexities of modern decision-making in participatory processes.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:17.999Z

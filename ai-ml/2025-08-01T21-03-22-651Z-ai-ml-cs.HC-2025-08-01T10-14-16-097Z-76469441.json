@@ -1,0 +1,12 @@
+# Characterizing Human Actions in the Digital Platform by Temporal Context
+
+**Authors:** Akira Matsui, Emilio Ferrara
+
+## Summary
+Recent advances in digital platforms generate rich, high-dimensional logs of human behavior, and machine learning models have helped social scientists explain knowledge accumulation, communication, and information diffusion. Such models, however, almost always treat behavior as sequences of actions, abstracting the inter-temporal information among actions. To close this gap, we introduce a two-scale Action-Timing Context(ATC) framework that jointly embeds each action and its time interval. ATC obtains low-dimensional representations of actions and characterizes them with inter-temporal information. We provide three applications of ATC to real-world datasets and demonstrate that the method offers a unified view of human behavior. The presented qualitative findings demonstrate that explicitly modeling inter-temporal context is essential for a comprehensive, interpretable understanding of human activity on digital platforms.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.097Z

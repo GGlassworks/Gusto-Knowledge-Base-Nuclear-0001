@@ -1,0 +1,12 @@
+# Explainable AI for Collaborative Assessment of 2D/3D Registration Quality
+
+**Authors:** Sue Min Cho, Alexander Do, Russell H. Taylor, Mathias Unberath
+
+## Summary
+As surgery embraces digital transformation--integrating sophisticated imaging, advanced algorithms, and robotics to support and automate complex sub-tasks--human judgment of system correctness remains a vital safeguard for patient safety. This shift introduces new "operator-type" roles tasked with verifying complex algorithmic outputs, particularly at critical junctures of the procedure, such as the intermediary check before drilling or implant placement. A prime example is 2D/3D registration, a key enabler of image-based surgical navigation that aligns intraoperative 2D images with preoperative 3D data. Although registration algorithms have advanced significantly, they occasionally yield inaccurate results. Because even small misalignments can lead to revision surgery or irreversible surgical errors, there is a critical need for robust quality assurance. Current visualization-based strategies alone have been found insufficient to enable humans to reliably detect 2D/3D registration misalignments. In response, we propose the first artificial intelligence (AI) framework trained specifically for 2D/3D registration quality verification, augmented by explainability features that clarify the model's decision-making. Our explainable AI (XAI) approach aims to enhance informed decision-making for human operators by providing a second opinion together with a rationale behind it. Through algorithm-centric and human-centered evaluations, we systematically compare four conditions: AI-only, human-only, human-AI, and human-XAI. Our findings reveal that while explainability features modestly improve user trust and willingness to override AI errors, they do not exceed the standalone AI in aggregate performance. Nevertheless, future work extending both the algorithmic design and the human-XAI collaboration elements holds promise for more robust quality assurance of 2D/3D registration.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:17.135Z

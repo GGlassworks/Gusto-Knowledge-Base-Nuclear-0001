@@ -1,0 +1,12 @@
+# Evolutionary Equilibrium Analysis for Decision on Block Size in Blockchain Systems
+
+**Authors:** Jinmian Chen, Yukun Cheng, Zhiqi Xu, Yan Cao
+
+## Summary
+In a PoW-based blockchain network, mining pools (the solo miner could be regarded as a mining pool containing one miner) compete to successfully mine blocks to pursue rewards. Generally, the rewards include the fixed block subsidies and time-varying transaction fees. The transaction fees are offered by the senders whose transactions are packaged into blocks and is increasing with the block size. However, the larger size of a block brings the longer latency, resulting in a smaller probability of successfully mining. Therefore, finding the optimal block size to trade off these two factors is a complex and crucial problem for the mining pools. In this paper, we model a repeated mining competition dynamics in blockchain system as an evolutionary game to study the interactions among mining pools. In this game, each pool has two strategies: to follow the default size $\bar{B}$, i.e., the upper bound of a block size, or not follow. Because of the bounded rationality, each mining pool pursues its evolutionary stable block size (ESS) according to the mining pools' computing power and other factors by continuous learning and adjustments during the whole mining process. A study framework is built for the general evolutionary game, based on which we then theoretically explore the existence and stability of the ESSs for a case of two mining pools. Numerical experiments with real Bitcoin data are conducted to show the evolutionary decisions of mining pools and to demonstrate the theoretical findings in this paper.
+
+
+---
+Category: ai-ml
+Subcategory: cs.GT
+Collected: 2025-08-01T19:26:27.656Z

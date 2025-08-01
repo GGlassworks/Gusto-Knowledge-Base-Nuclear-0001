@@ -1,0 +1,12 @@
+# Effects of Human Avatar Representation in Virtual Reality on Inter-Brain Connection
+
+**Authors:** Enes Yigitbas, Christian Kaltschmidt
+
+## Summary
+Increasing advances in affordable consumer hardware and accessible software frameworks are now bringing Virtual Reality (VR) to the masses. Especially collaborative VR applications where different people can work together are gaining momentum. In this context, human avatars and their representations are a crucial aspect of collaborative VR applications as they represent a digital twin of the end-users and determine how one is perceived in a virtual environment. When it comes to the effect of avatar representation on the end-users of collaborative VR applications, so far mostly questionnaires have been used to assess the quality of avatar representations. A promising alternative to objectively measure the effect of avatar representation is the investigation of inter-brain connections during the usage of a collaborative VR application. However, the combination of immersive VR applications and inter-brain connections has not been fully researched yet. Thus, our work investigates how different human avatar representations (real (RL), full-body (FB), and head-hand (HH)) affect inter-brain connections. For this purpose, we have designed and conducted a hyperscanning study with eight pairs. The main results of our hyperscanning study show that the number of significant sensor pairs was the highest in the RL, medium in the FB, and lowest in the HH condition indicating that an avatar that looks more like a real human enables more significant sensor pairs to appear in an EEG analysis.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:08.266Z

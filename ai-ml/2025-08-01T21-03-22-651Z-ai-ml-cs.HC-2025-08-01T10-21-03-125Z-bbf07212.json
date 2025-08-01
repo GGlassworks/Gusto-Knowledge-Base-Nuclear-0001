@@ -1,0 +1,12 @@
+# Anticipate, Simulate, Reason (ASR): A Comprehensive Generative AI Framework for Combating Messaging Scams
+
+**Authors:** Xue Wen Tan, Kenneth See, Stanley Kok
+
+## Summary
+The rapid growth of messaging scams creates an escalating challenge for user security and financial safety. In this paper, we present the \textit{Anticipate, Simulate, Reason} (ASR) generative AI framework to enable users to proactively identify and comprehend scams within instant messaging platforms. Using large language models, ASR predicts scammer responses and delivers real-time, interpretable support to end-users. We also develop ScamGPT-J, a domain-specific language model fine-tuned on a new, high-quality dataset of scam conversations covering multiple scam types. Thorough experimental evaluation shows that the ASR framework substantially enhances scam detection, particularly in challenging contexts such as job scams, and uncovers important demographic patterns in user vulnerability and perceptions of AI-generated assistance. Our findings reveal a contradiction where those most at risk are often least receptive to AI support, emphasizing the importance of user-centered design in AI-driven fraud prevention. This work advances both the practical and theoretical foundations for interpretable and human-centered AI systems in combating evolving digital threats.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:03.125Z

@@ -1,0 +1,12 @@
+# A Human Digital Twin Architecture for Knowledge-based Interactions and Context-Aware Conversations
+
+**Authors:** Abdul Mannan Mohammed, Azhar Ali Mohammad, Jason A. Ortiz, Carsten Neumann, Grace Bochenek, Dirk Reiners, Carolina Cruz-Neira
+
+## Summary
+Recent developments in Artificial Intelligence (AI) and Machine Learning (ML) are creating new opportunities for Human-Autonomy Teaming (HAT) in tasks, missions, and continuous coordinated activities. A major challenge is enabling humans to maintain awareness and control over autonomous assets, while also building trust and supporting shared contextual understanding. To address this, we present a real-time Human Digital Twin (HDT) architecture that integrates Large Language Models (LLMs) for knowledge reporting, answering, and recommendation, embodied in a visual interface. The system applies a metacognitive approach to enable personalized, context-aware responses aligned with the human teammate's expectations. The HDT acts as a visually and behaviorally realistic team member, integrated throughout the mission lifecycle, from training to deployment to after-action review. Our architecture includes speech recognition, context processing, AI-driven dialogue, emotion modeling, lip-syncing, and multimodal feedback. We describe the system design, performance metrics, and future development directions for more adaptive and realistic HAT systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.233Z

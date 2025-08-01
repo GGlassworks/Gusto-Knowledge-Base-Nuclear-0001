@@ -1,0 +1,12 @@
+# A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams
+
+**Authors:** Shahroz Tariq, Mohan Baruwal Chhetri, Surya Nepal, Cecile Paris
+
+## Summary
+This paper introduces A2C, a multi-stage collaborative decision framework designed to enable robust decision-making within human-AI teams. Drawing inspiration from concepts such as rejection learning and learning to defer, A2C incorporates AI systems trained to recognise uncertainty in their decisions and defer to human experts when needed. Moreover, A2C caters to scenarios where even human experts encounter limitations, such as in incident detection and response in cyber Security Operations Centres (SOC). In such scenarios, A2C facilitates collaborative explorations, enabling collective resolution of complex challenges. With support for three distinct decision-making modes in human-AI teams: Automated, Augmented, and Collaborative, A2C offers a flexible platform for developing effective strategies for human-AI collaboration. By harnessing the strengths of both humans and AI, it significantly improves the efficiency and effectiveness of complex decision-making in dynamic and evolving environments. To validate A2C's capabilities, we conducted extensive simulative experiments using benchmark datasets. The results clearly demonstrate that all three modes of decision-making can be effectively supported by A2C. Most notably, collaborative exploration by (simulated) human experts and AI achieves superior performance compared to AI in isolation, underscoring the framework's potential to enhance decision-making within human-AI teams.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:22.518Z

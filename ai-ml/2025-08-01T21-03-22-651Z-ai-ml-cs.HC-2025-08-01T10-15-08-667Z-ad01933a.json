@@ -1,0 +1,12 @@
+# SwarmPlay: A Swarm of Nano-Quadcopters Playing Tic-tac-toe Board Game against a Human
+
+**Authors:** Ekaterina Karmanova, Valerii Serpiva, Stepan Perminov, Roman Ibrahimov, Aleksey Fedoseev, Dzmitry Tsetserukou
+
+## Summary
+We present a new paradigm of games, i.e. SwarmPlay, where each playing component is presented by an individual drone that has its own mobility and swarm intelligence to win against a human player. The motivation behind the research is to make the games with machines tangible and interactive. Although some research on the robotic players for board games already exists, e.g., chess, the SwarmPlay technology has the potential to offer much more engagement and interaction with a human as it proposes a multi-agent swarm instead of a single interactive robot. The proposed system consists of a robotic swarm, a workstation, a computer vision (CV), and Game Theory-based algorithms. A novel game algorithm was developed to provide a natural game experience to the user. The preliminary user study revealed that participants were highly engaged in the game with drones (69% put a maximum score on the Likert scale) and found it less artificial compared to the regular computer-based systems (77% put maximum score). The affection of the user's game perception from its outcome was analyzed and put under discussion. User study revealed that SwarmPlay has the potential to be implemented in a wider range of games, significantly improving human-drone interactivity.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:15:08.667Z

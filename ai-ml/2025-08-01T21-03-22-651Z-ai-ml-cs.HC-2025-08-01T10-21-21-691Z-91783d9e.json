@@ -1,0 +1,12 @@
+# Mutual Theory of Mind for Human-AI Communication
+
+**Authors:** Qiaosi Wang, Ashok K. Goel
+
+## Summary
+New developments are enabling AI systems to perceive, recognize, and respond with social cues based on inferences made from humans' explicit or implicit behavioral and verbal cues. These AI systems, equipped with an equivalent of human's Theory of Mind (ToM) capability, are currently serving as matchmakers on dating platforms, assisting student learning as teaching assistants, and enhancing productivity as work partners. They mark a new era in human-AI interaction (HAI) that diverges from traditional human-computer interaction (HCI), where computers are commonly seen as tools instead of social actors. Designing and understanding the human perceptions and experiences in this emerging HAI era becomes an urgent and critical issue for AI systems to fulfill human needs and mitigate risks across social contexts. In this paper, we posit the Mutual Theory of Mind (MToM) framework, inspired by our capability of ToM in human-human communications, to guide this new generation of HAI research by highlighting the iterative and mutual shaping nature of human-AI communication. We discuss the motivation of the MToM framework and its three key components that iteratively shape the human-AI communication in three stages. We then describe two empirical studies inspired by the MToM framework to demonstrate the power of MToM in guiding the design and understanding of human-AI communication. Finally, we discuss future research opportunities in human-AI interaction through the lens of MToM.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:21.691Z

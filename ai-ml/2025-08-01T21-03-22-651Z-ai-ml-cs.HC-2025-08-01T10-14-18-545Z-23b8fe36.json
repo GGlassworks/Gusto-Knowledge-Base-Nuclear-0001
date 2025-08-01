@@ -1,0 +1,12 @@
+# Toward Neurodivergent-Aware Productivity: A Systems and AI-Based Human-in-the-Loop Framework for ADHD-Affected Professionals
+
+**Authors:** Raghavendra Deshmukh
+
+## Summary
+Digital work environments in IT and knowledge-based sectors demand high levels of attention management, task juggling, and self-regulation. For adults with ADHD, these settings often amplify challenges such as time blindness, digital distraction, emotional reactivity, and executive dysfunction. These individuals prefer low-touch, easy-to-use interventions for daily tasks. Conventional productivity tools often fail to support the cognitive variability and overload experienced by neurodivergent professionals. This paper presents a framework that blends Systems Thinking, Human-in-the-Loop design, AI/ML, and privacy-first adaptive agents to support ADHD-affected users. The assistant senses tab usage, application focus, and inactivity using on-device ML. These cues are used to infer attention states and deliver nudges, reflective prompts, or accountability-based presence (body doubling) that aid regulation without disruption. Technically grounded in AI, the approach views attention as shaped by dynamic feedback loops. The result is a replicable model for adaptive, inclusive support tools in high-distraction work environments.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:18.545Z

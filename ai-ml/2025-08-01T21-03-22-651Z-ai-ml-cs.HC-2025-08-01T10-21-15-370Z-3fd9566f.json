@@ -1,0 +1,12 @@
+# Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors
+
+**Authors:** Jochen Wulf, Jurg Meierhofer, Frank Hannich
+
+## Summary
+Agentic AI systems, powered by Large Language Models (LLMs), offer transformative potential for value co-creation in technical services. However, persistent challenges like hallucinations and operational brittleness limit their autonomous use, creating a critical need for robust frameworks to guide human-AI collaboration. Drawing on established Human-AI teaming research and analogies from fields like autonomous driving, this paper develops a structured taxonomy of human-agent interaction. Based on case study research within technical support platforms, we propose a six-mode taxonomy that organizes collaboration across a spectrum of AI autonomy. This spectrum is anchored by the Human-Out-of-the-Loop (HOOTL) model for full automation and the Human-Augmented Model (HAM) for passive AI assistance. Between these poles, the framework specifies four distinct intermediate structures. These include the Human-in-Command (HIC) model, where AI proposals re-quire mandatory human approval, and the Human-in-the-Process (HITP) model for structured work-flows with deterministic human tasks. The taxonomy further delineates the Human-in-the-Loop (HITL) model, which facilitates agent-initiated escalation upon uncertainty, and the Human-on-the-Loop (HOTL) model, which enables discretionary human oversight of an autonomous AI. The primary contribution of this work is a comprehensive framework that connects this taxonomy to key contingency factors -- such as task complexity, operational risk, and system reliability -- and their corresponding conceptual architectures. By providing a systematic method for selecting and designing an appropriate level of human oversight, our framework offers practitioners a crucial tool to navigate the trade-offs between automation and control, thereby fostering the development of safer, more effective, and context-aware technical service systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:15.370Z

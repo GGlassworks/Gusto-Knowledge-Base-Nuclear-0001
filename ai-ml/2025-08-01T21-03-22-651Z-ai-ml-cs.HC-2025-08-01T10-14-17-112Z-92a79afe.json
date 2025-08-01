@@ -1,0 +1,12 @@
+# Prediction of Human Empathy based on EEG Cortical Asymmetry
+
+**Authors:** Andrea Kuijt, Maryam Alimardani
+
+## Summary
+Humans constantly interact with digital devices that disregard their feelings. However, the synergy between human and technology can be strengthened if the technology is able to distinguish and react to human emotions. Models that rely on unconscious indications of human emotions, such as (neuro)physiological signals, hold promise in personalization of feedback and adaptation of the interaction. The current study elaborated on adopting a predictive approach in studying human emotional processing based on brain activity. More specifically, we investigated the proposition of predicting self-reported human empathy based on EEG cortical asymmetry in different areas of the brain. Different types of predictive models i.e. multiple linear regression analyses as well as binary and multiclass classifications were evaluated. Results showed that lateralization of brain oscillations at specific frequency bands is an important predictor of self-reported empathy scores. Additionally, prominent classification performance was found during resting-state which suggests that emotional stimulation is not required for accurate prediction of empathy -- as a personality trait -- based on EEG data. Our findings not only contribute to the general understanding of the mechanisms of empathy, but also facilitate a better grasp on the advantages of applying a predictive approach compared to hypothesis-driven studies in neuropsychological research. More importantly, our results could be employed in the development of brain-computer interfaces that assist people with difficulties in expressing or recognizing emotions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:17.112Z

@@ -1,0 +1,12 @@
+# Developing a Fair Online Recruitment Framework Based on Job-seekers' Fairness Concerns
+
+**Authors:** Changyang He, Yue Deng, Alessandro Fabris, Bo Li, Asia Biega
+
+## Summary
+The susceptibility to biases and discrimination is a pressing issue in today's labor markets. Though digital recruitment systems play an increasingly significant role in human resources management, thus far we lack a systematic understanding of human-centered design principles for fair online hiring. This work proposes a fair recruitment framework based on job-seekers' fairness concerns shared in an online forum. Through qualitative analysis, we uncover four overarching themes of job-seekers' fairness concerns, including discrimination against sensitive attributes, interaction biases, improper interpretations of qualifications, and power imbalance. Based on these findings, we derive design implications for algorithms and interfaces in recruitment systems, integrating them into a fair recruitment framework spanning different hiring stages and fairness considerations.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:18:24.593Z

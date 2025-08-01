@@ -1,0 +1,12 @@
+# User-Like Bots for Cognitive Automation: A Survey
+
+**Authors:** Habtom Kahsay Gidey, Peter Hillmann, Andreas Karcher, Alois Knoll
+
+## Summary
+Software bots have attracted increasing interest and popularity in both research and society. Their contributions span automation, digital twins, game characters with conscious-like behavior, and social media. However, there is still a lack of intelligent bots that can adapt to web environments' variability and dynamic nature. Unlike human users, they have difficulty understanding and exploiting the affordances across multiple virtual environments. Despite the hype, bots with human user-like cognition do not currently exist. Chatbots, for instance, lack situational awareness on the digital platforms where they operate, preventing them from enacting meaningful and autonomous intelligent behavior similar to human users. In this survey, we aim to explore the role of cognitive architectures in supporting efforts towards engineering software bots with advanced general intelligence. We discuss how cognitive architectures can contribute to creating intelligent software bots. Furthermore, we highlight key architectural recommendations for the future development of autonomous, user-like cognitive bots.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:17.096Z

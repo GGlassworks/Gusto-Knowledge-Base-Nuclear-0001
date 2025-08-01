@@ -1,0 +1,12 @@
+# The Impact of Visualizing Design Gradients for Human Designers
+
+**Authors:** Matthew Guzdial, Nathan Sturtevant, Carolyn Yang
+
+## Summary
+Mixed-initiative Procedural Content Generation (PCG) refers to tools or systems in which a human designer works with an algorithm to produce game content. This area of research remains relatively under-explored, with the majority of mixed-initiative PCG level design systems using a common set of search-based PCG algorithms. In this paper, we introduce a mixed-initiative tool employing Exhaustive PCG (EPCG) for puzzle level design to further explore mixed-initiative PCG. We run an online human subject study in which individuals use the tool with an EPCG component turned on or off. Our analysis of the results demonstrates that, although a majority of users did not prefer the tool, it made the level design process significantly easier, and that the tool impacted the subjects' design process. This paper describes the study results and draws lessons for mixed-initiative PCG tool design.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:19.692Z
