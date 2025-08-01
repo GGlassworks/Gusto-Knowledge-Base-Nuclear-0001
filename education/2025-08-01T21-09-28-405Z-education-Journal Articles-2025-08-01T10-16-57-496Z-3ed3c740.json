@@ -1,0 +1,13 @@
+# Digital Body Preservation: Technique and Applications
+
+**Authors:** Vandenbossche, Vicky, Van de Velde, Joris, Avet, Stind, Willaert, Wouter, Soltvedt, Stian, Smit, Noeska, Audenaert, Emmanuel
+
+## Abstract
+High-fidelity anatomical models can be produced with three-dimensional (3D) scanning techniques and as such be digitally preserved, archived, and subsequently rendered through various media. Here, a novel methodology--digital body preservation--is presented for combining and matching scan geometry with radiographic imaging. The technique encompasses joining layers of 3D surface scans in an anatomical correct spatial relationship. To do so, a computed tomography (CT) volume is used as template to join and merge different surface scan geometries by means of nonrigid registration into a single environment. In addition, the use and applicability of the generated 3D models in digital learning modalities is presented. Finally, as computational expense is usually the main bottleneck in extended 3D applications, the influence of mesh simplification in combination with texture mapping on the quality of 3D models was investigated. The physical fidelity of the simplified meshes was evaluated in relation to their resolution and with respect to key anatomical features. Large- and medium-scale features were well preserved despite extensive 3D mesh simplification. Subtle fine-scale features, particular in curved areas demonstrated the major limitation to extensive mesh size reduction. Depending on the local topography, workable mesh sizes ranging from 10% to 3% of the original size could be obtained, making them usable in various learning applications and environments.
+
+**Source:** https://eric.ed.gov/?id=EJ1340937
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:16:57.496Z
