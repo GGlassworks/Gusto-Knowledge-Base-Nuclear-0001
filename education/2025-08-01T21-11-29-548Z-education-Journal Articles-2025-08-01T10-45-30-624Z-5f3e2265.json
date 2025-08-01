@@ -1,0 +1,13 @@
+# Algorithmic Bias in Education
+
+**Authors:** Baker, Ryan S., Hawn, Aaron
+
+## Abstract
+In this paper, we review algorithmic bias in education, discussing the causes of that bias and reviewing the empirical literature on the specific ways that algorithmic bias is known to have manifested in education. While other recent work has reviewed mathematical definitions of fairness and expanded algorithmic approaches to reducing bias, our review focuses instead on solidifying the current understanding of the concrete impacts of algorithmic bias in education--which groups are known to be impacted and which stages and agents in the development and deployment of educational algorithms are implicated. We discuss theoretical and formal perspectives on algorithmic bias, connect those perspectives to the machine learning pipeline, and review metrics for assessing bias. Next, we review the evidence around algorithmic bias in education, beginning with the most heavily-studied categories of race/ethnicity, gender, and nationality, and moving to the available evidence of bias for less-studied categories, such as socioeconomic status, disability, and military-connected status. Acknowledging the gaps in what has been studied, we propose a framework for moving from unknown bias to known bias and from fairness to equity. We discuss obstacles to addressing these challenges and propose four areas of effort for mitigating and resolving the problems of algorithmic bias in AIED systems and other educational technology.
+
+**Source:** https://eric.ed.gov/?id=EJ1353563
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:45:30.625Z

@@ -1,0 +1,13 @@
+# A Repetitive Branch-and-Bound Procedure for Minimum Within-Cluster Sums of Squares Partitioning
+
+**Authors:** Brusco, Michael J.
+
+## Abstract
+Minimization of the within-cluster sums of squares (WCSS) is one of the most important optimization criteria in cluster analysis. Although cluster analysis modules in commercial software packages typically use heuristic methods for this criterion, optimal approaches can be computationally feasible for problems of modest size. This paper presents a new branch-and-bound algorithm for minimizing WCSS. Algorithmic enhancements include an effective reordering of objects and a repetitive solution approach that precludes the need for splitting the data set, while maintaining strong bounds throughout the solution process. The new algorithm provided optimal solutions for problems with up to 240 objects and eight well-separated clusters. Poorly separated problems with no inherent cluster structure were optimally solved for up to 60 objects and six clusters. The repetitive branch-and-bound algorithm was also successfully applied to three empirical data sets from the classification literature.
+
+**Source:** https://eric.ed.gov/?id=EJ748988
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:47:04.659Z

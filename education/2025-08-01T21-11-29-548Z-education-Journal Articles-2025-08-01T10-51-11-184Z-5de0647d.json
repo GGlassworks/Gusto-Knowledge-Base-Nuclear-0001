@@ -1,0 +1,13 @@
+# SeroTacker-RoB: A Decision Rule-Based Algorithm for Reproducible Risk of Bias Assessment of Seroprevalence Studies
+
+**Authors:** Bobrovitz, Niklas, Noël, Kim, Li, Zihan, Cao, Christian, Deveaux, Gabriel, Selemon, Anabel, Clifton, David A., Yanes-Lane, Mercedes, Yan, Tingting, Arora, Rahul K.
+
+## Abstract
+Risk of bias (RoB) assessments are a core element of evidence synthesis but can be time consuming and subjective. We aimed to develop a decision rule-based algorithm for RoB assessment of seroprevalence studies. We developed the SeroTracker-RoB algorithm. The algorithm derives seven objective and two subjective critical appraisal items from the Joanna Briggs Institute Critical Appraisal Checklist for Prevalence studies and implements decision rules that determine study risk of bias based on the items. Decision rules were validated using the SeroTracker seroprevalence study database, which included non-algorithmic RoB judgments from two reviewers. We quantified efficiency as the mean difference in time for the algorithmic and non-algorithmic assessments of 80 randomly selected articles, coverage as the proportion of studies where the decision rules yielded an assessment, and reliability using intraclass correlations comparing algorithmic and non-algorithmic assessments for 2070 articles. A set of decision rules with 61 branches was developed using responses to the nine critical appraisal items. The algorithmic approach was faster than non-algorithmic assessment (mean reduction 2.32 min [SD 1.09] per article), classified 100% (n = 2070) of studies, and had good reliability compared to non-algorithmic assessment (ICC 0.77, 95% CI 0.74-0.80). We built the SeroTracker-RoB Excel Tool, which embeds this algorithm for use by other researchers. The SeroTracker-RoB decision-rule based algorithm was faster than non-algorithmic assessment with complete coverage and good reliability. This algorithm enabled rapid, transparent, and reproducible RoB evaluations of seroprevalence studies and may support evidence synthesis efforts during future disease outbreaks. This decision rule-based approach could be applied to other types of prevalence studies.
+
+**Source:** https://eric.ed.gov/?id=EJ1376524
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:51:11.184Z

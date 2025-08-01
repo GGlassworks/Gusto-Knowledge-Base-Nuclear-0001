@@ -1,0 +1,13 @@
+# Psychometric Methods to Evaluate Measurement and Algorithmic Bias in Automated Scoring
+
+**Authors:** Johnson, Matthew S., Liu, Xiang, McCaffrey, Daniel F.
+
+## Abstract
+With the increasing use of automated scores in operational testing settings comes the need to understand the ways in which they can yield biased and unfair results. In this paper, we provide a brief survey of some of the ways in which the predictive methods used in automated scoring can lead to biased, and thus unfair automated scores. After providing definitions of fairness from machine learning and a psychometric framework to study them, we demonstrate how modeling decisions, like omitting variables, using proxy measures or confounded variables, and even the optimization criterion in estimation can lead to biased and unfair automated scores. We then introduce two simple methods for evaluating bias, evaluate their statistical properties through simulation, and apply to an item from a large-scale reading assessment.
+
+**Source:** https://eric.ed.gov/?id=EJ1350373
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:47:04.546Z

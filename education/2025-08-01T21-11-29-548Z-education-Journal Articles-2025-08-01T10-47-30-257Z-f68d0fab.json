@@ -1,0 +1,13 @@
+# How to Teach Problem Solving and Algorithm Design in High Schools by Constructive Induction or How to Reach True Competences in Informatics Education
+
+**Authors:** Juraj Hromkovic, Regula Lacher
+
+## Abstract
+The design of algorithms is one of the hardest topics of high school computer science. This is mainly due to the universality of algorithms as solution methods that guarantee the calculation of a correct solution for all potentially infinitely many instances of an algorithmic problem. The goal of this paper is to present a comprehensible and robust algorithms design strategy called &quot;constructive induction&quot; that enables high school students to discover solution methods for a large variety of algorithmic problems. The concept of constructive induction is based on searching for a universal method for solving any instance of an algorithmic problem when solutions of smaller problem instances are available. In general, our approach strengthens learners in problem solving and their ability to use and develop abstract representations. Here we present a large collection of tasks that can be solved by constructive induction and show how to use this method to teach algorithm design. For some representative algorithmic tasks, we offer a detailed design of lessons in high school classes. We explain how our implementation of teaching in classrooms supports critical thinking, sustain ability of acquired knowledge, problem solving, and the ability to abstract, and so contributes to reaching deep competences in algorithmic thinking.
+
+**Source:** https://eric.ed.gov/?id=EJ1468123
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:47:30.257Z

@@ -1,0 +1,13 @@
+# A Psychometric Framework for Evaluating Fairness in Algorithmic Decision Making: Differential Algorithmic Functioning
+
+**Authors:** Youmi Suk, Kyung T. Han
+
+## Abstract
+As algorithmic decision making is increasingly deployed in every walk of life, many researchers have raised concerns about fairness-related bias from such algorithms. But there is little research on harnessing psychometric methods to uncover potential discriminatory bias inside decision-making algorithms. The main goal of this article is to propose a new framework for algorithmic fairness based on &quot;differential item functioning&quot; (DIF), which has been commonly used to measure item fairness in psychometrics. Our fairness notion, which we call &quot;differential algorithmic functioning&quot; (DAF), is defined based on three pieces of information: a decision variable, a &quot;fair&quot; variable, and a protected variable such as race or gender. Under the DAF framework, an algorithm can exhibit uniform DAF, nonuniform DAF, or neither (i.e., non-DAF). For detecting DAF, we provide modifications of well-established DIF methods: Mantel-Haenszel test, logistic regression, and residual-based DIF. We demonstrate our framework through a real dataset concerning decision-making algorithms for grade retention in K-12 education in the United States.
+
+**Source:** https://eric.ed.gov/?id=EJ1415808
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:47:29.869Z

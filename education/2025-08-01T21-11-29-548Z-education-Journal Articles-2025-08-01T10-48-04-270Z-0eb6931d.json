@@ -1,0 +1,13 @@
+# Are Algorithms Biased in Education? Exploring Racial Bias in Predicting Community College Student Success
+
+**Authors:** Kelli A. Bird, Benjamin L. Castleman, Yifeng Song
+
+## Abstract
+Predictive analytics are increasingly pervasive in higher education. However, algorithmic bias has the potential to reinforce racial inequities in postsecondary success. We provide a comprehensive and translational investigation of algorithmic bias in two separate prediction models--one predicting course completion, the second predicting degree completion. We show that if either model were used to target additional supports for &quot;at-risk&quot; students, then the algorithmic bias would lead to fewer marginal Black students receiving these resources. We also find the magnitude of algorithmic bias varies within the distribution of predicted success. With the degree completion model, the amount of bias is over 5 times higher when we define at-risk using the bottom &quot;decile&quot; than when we focus on students in the bottom &quot;half&quot; of predicted scores; in the course completion model, the reverse is true. These divergent patterns emphasize the contextual nature of algorithmic bias and attempts to mitigate it. Our results moreover suggest that algorithmic bias is due in part to currently-available administrative data being relatively less useful at predicting Black student success, particularly for new students; this suggests that additional data collection efforts have the potential to mitigate bias.
+
+**Source:** https://eric.ed.gov/?id=EJ1465940
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:48:04.270Z

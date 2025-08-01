@@ -1,0 +1,13 @@
+# Unbias Me! Mitigating Algorithmic Bias for Less-Studied Demographic Groups in the Context of Language Learning Technology
+
+**Authors:** Nathalie Rzepka, Linda Fernsel, Hans-Georg Müller, Katharina Simbeck, Niels Pinkwart
+
+## Abstract
+Algorithms and machine learning models are being used more frequently in educational settings, but there are concerns that they may discriminate against certain groups. While there is some research on algorithmic fairness, there are two main issues with the current research. Firstly, it often focuses on gender and race and ignores other groups. Secondly, studies often find algorithmic bias in educational models but don't explore ways to reduce it. This study evaluates three drop-out prediction models used in an online learning platform to teach German spelling skills. The aim is to assess the fairness of the models for (in part) less-studied demographic groups, including first spoken language, home literacy environment, parental education background, and gender. To evaluate the models, four fairness metrics are used: predictive parity, equalized odds, predictive equality, and ABROCA. The study also examines ways to reduce algorithmic bias by analyzing the models at each stage of the machine learning process. The results show that all three models had biases that affected the fairness of all four demographic groups to varying degrees. However, the study found that most biases could be mitigated during the process. The methods used to mitigate bias differed by demographic group, and some methods improved fairness for one group but worsened it for others. Therefore, the study concludes that reducing algorithmic bias for lessstudied demographic groups is possible, but finding the right method for each algorithm and demographic group is crucial.
+
+**Source:** https://eric.ed.gov/?id=EJ1437261
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:48:03.948Z
