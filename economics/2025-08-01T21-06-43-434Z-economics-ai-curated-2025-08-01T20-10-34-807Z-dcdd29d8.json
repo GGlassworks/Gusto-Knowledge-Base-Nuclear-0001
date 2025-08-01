@@ -1,0 +1,13 @@
+# Global Solutions to Master Equations for Continuous Time Heterogeneous Agent Macroeconomic Models
+
+**Authors:** Zhouzhou Gu, Mathieu Lauriere, Sebastian Merkel, Jonathan Payne
+
+## Abstract
+We propose and compare new global solution algorithms for continuous time heterogeneous agent economies with aggregate shocks. First, we approximate the agent distribution so that equilibrium in the economy can be characterized by a high, but finite, dimensional non-linear partial differential equation. We consider different approximations: discretizing the number of agents, discretizing the agent state variables, and projecting the distribution onto a finite set of basis functions. Second, we represent the value function using a neural network and train it to solve the differential equation using deep learning tools. We refer to the solution as an Economic Model Informed Neural Network (EMINN). The main advantage of this technique is that it allows us to find global solutions to high dimensional, non-linear problems. We demonstrate our algorithm by solving important models in the macroeconomics and spatial literatures (e.g. Krusell and Smith (1998), Khan and Thomas (2007), Bilal (2023)).
+
+**Source:** https://www.semanticscholar.org/paper/bcc26d1e32317aac89926f36245072f6fbb6081e
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:34.807Z

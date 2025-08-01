@@ -1,0 +1,13 @@
+# Macroeconomics and the Reality of Mixed Frequency Data
+
+**Authors:** Eric Ghysels
+
+## Abstract
+Many time series are sampled at different frequencies. When we study co-movements between such series we usually analyze the joint process sampled at a common low frequency. This has consequences in terms of potentially mis-specifying the co-movements and hence the analysis of impulse response functions—a commonly used tool for economic policy analysis. We introduce a class of mixed frequency VAR models that allows us to measure the impact of high frequency data on low frequency and vice versa. Our approach does not rely on latent processes/shocks representations. As a consequence, the mixed frequency VAR is an alternative to commonly used state space models for mixed frequency data. State space models are parameter-driven whereas mixed frequency VAR models are observation-driven models as they are formulated exclusively in terms of observable data and do not involve latent processes as well as shocks and thus avoid the need to formulate measurement equations, filtering, etc. We also propose various parsimonious parameterizations, in part inspired by recent work on MIDAS regressions. We also explicitly characterize the mis-specification of a traditional common low frequency VAR and its implied mis-specified impulse response functions. The class of mixed frequency VAR models can also characterize the timing of information releases for a mixture of sampling frequencies and the real-time updating of predictions caused by the flow of high frequency information. Various estimation procedures for mixed frequency VAR models are also proposed, both classical and Bayesian. Numerical and empirical examples quantify the consequences of ignoring mixed frequency data.
+
+**Source:** https://www.semanticscholar.org/paper/6a5dc27cebe684e9dc9aecb0ac4d01fb3590db6d
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:14:50.107Z

@@ -1,0 +1,13 @@
+# Bayesian Multivariate Time Series Methods for Empirical Macroeconomics
+
+**Authors:** G. Koop, Dimitris Korobilis
+
+## Abstract
+Macroeconomic practitioners frequently work with multivariate time series models such as VARs, factor augmented VARs as well as time-varying parameter versions of these models (including variants with multivariate stochastic volatility). These models have a large number of parameters and, thus, over-parameterization problems may arise. Bayesian methods have become increasingly popular as a way of overcoming these problems. In this monograph, we discuss VARs, factor augmented VARs and time-varying parameter extensions and show how Bayesian inference proceeds. Apart from the simplest of VARs, Bayesian inference requires the use of Markov chain Monte Carlo methods developed for state space models and we describe these algorithms. The focus is on the empirical macroeconomist and we offer advice on how to use these models and methods in practice and include empirical illustrations. A website provides Matlab code for carrying out Bayesian inference in these models.
+
+**Source:** https://www.semanticscholar.org/paper/24087ed149e49a973879fada8de995832e588b5f
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:34.269Z

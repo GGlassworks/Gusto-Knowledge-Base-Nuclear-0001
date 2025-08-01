@@ -1,0 +1,13 @@
+# The relationship between CO2 emissions and macroeconomics indicators in low and high-income countries: using artificial intelligence
+
+**Authors:** Mohamed F. Abd El-Aal
+
+## Abstract
+This paper aims to unravel the driving forces behind carbon dioxide emissions in low- and high-income countries by applying gradient boosting and random forest algorithms. The study reveals that gradient boosting demonstrates superior accuracy over random forests in low-income countries, whereas the opposite pattern is observed in high-income countries. Additionally, the study demonstrates that, according to the gradient boosting algorithm-based feature selection, the major influencers of carbon dioxide emissions in low-income countries are the agriculture sector (49.9%), the industry sector (17%), the services sector (10.4%), population size (9.8%), gross domestic product growth (7%), and foreign direct investment inflow (5.3%). Furthermore, random forest algorithm-based feature selection reveals that, in high-income countries, the key drivers of carbon dioxide emissions are the services sector (30.8%), the agriculture sector (27.1%), the industry sector (21.5%), population size (19%), foreign direct investment inflow (1.2% - A different working methodology than low-income countries), and gross domestic product growth (0.4%). Moreover, the study corroborates that low carbon dioxide emissions in low-income countries correlate positively with industrial sector growth, foreign direct investment inflow, gross domestic product, and population size but negatively correlate with the agricultural and service sectors. In the case of high-income countries, carbon dioxide emissions positively correlate with foreign direct investment inflow, industrial and agricultural sector growth, and gross domestic product while exhibiting a negative correlation with population size and service sector growth.
+
+**Source:** https://www.semanticscholar.org/paper/eccdf489d47004bf45e4f51c013f1077d07a0719
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:33.802Z
