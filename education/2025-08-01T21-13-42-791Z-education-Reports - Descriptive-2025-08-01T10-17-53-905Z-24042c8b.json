@@ -1,0 +1,13 @@
+# On the Run-Time Optimization of the Boolean Logic of a Program.
+
+**Authors:** Cadolino, C., Guazzo, M.
+
+## Abstract
+Considers problem of optimal scheduling of Boolean expression (each Boolean variable represents binary outcome of program module) on single-processor system. Optimization discussed consists of finding operand arrangement that minimizes average execution costs representing consumption of resources (elapsed time, main memory, number of input-outputs). Sixteen references and program examples are appended. (EJS)
+
+**Source:** https://eric.ed.gov/?id=EJ286913
+
+---
+Category: education
+Subcategory: Reports - Descriptive
+Collected: 2025-08-01T10:17:53.905Z

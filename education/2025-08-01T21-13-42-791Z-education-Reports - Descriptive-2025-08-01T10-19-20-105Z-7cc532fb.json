@@ -1,0 +1,13 @@
+# The Last Millimeter: Interfacing the New Public Radio Satellite System. Info. Packets No. 14.
+
+**Authors:** Pizzi, Skip
+
+## Abstract
+Public radio is about to achieve a new technological level as the new Public Radio Satellite System (PRSS) is deployed. The network will dramatically improve the capacity and quality of its interconnection system, but proper interfacing at member stations will be required to realize the full benefits of the new system. The new system uses digital transmission and includes a perceptual coding algorithm called MUSICAM, a data compression system that keeps bandwidth requirements low and audio quality high. Audio outputs will be offered in: (1) the compressed digital signal; (2) the decoded (decompressed or &quot;linear&quot;) digital audio complying with the AES/EBU interconnection standard; or (3) standard analog linear audio. Uplink stations should note that modulators do not include  MUSICAM inputs, although these may be added later. Most stations will want to use analog audio to feed live programs to their on-air consoles or for time-shifting. Details are provided about interfacing the MUSICAM output to a disk-based storage system, ancillary data interfacing, and control interfacing. The new PRSS will usher in a small revolution in the way public radio programs are distributed. One table lists additional hardware options for the new PRSS. (SLD)
+
+**Source:** https://eric.ed.gov/?id=ED386146
+
+---
+Category: education
+Subcategory: Reports - Descriptive
+Collected: 2025-08-01T10:19:20.105Z

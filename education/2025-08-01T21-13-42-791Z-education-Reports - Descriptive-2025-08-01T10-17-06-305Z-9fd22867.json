@@ -1,0 +1,13 @@
+# A Mobile Service Oriented Multiple Object Tracking Augmented Reality Architecture for Education and Learning Experiences
+
+**Authors:** Rattanarungrot, Sasithorn, White, Martin, Newbury, Paul
+
+## Abstract
+This paper describes the design of our service-oriented architecture to support mobile multiple object tracking augmented reality applications applied to education and learning scenarios. The architecture is composed of a mobile multiple object tracking augmented reality client, a web service framework, and dynamic content providers. Tracking of multiple real objects and retrieval of associated multiple media contents allows more complex augmented reality learning scenarios to be constructed that could improve students' knowledge and learning strategies on a mobile platform. It also allows students to create their own augmented reality learning environments and select preferences from acquired digital contents based on multiple object real scenes. Mobile users are able to request contextual digital contents from web service providers to augment these multiple objects in the real world. The digital contents are generally dynamically acquired digital media, e.g. 3D models, images, textual descriptive data, metadata, multimedia or even social media data. New digital contents for augmenting the real world are acquired through a service-oriented approach by accessing any appropriate web services to deliver that content to the augmented learning environment. [For the complete proceedings, see ED557171.]
+
+**Source:** https://eric.ed.gov/?id=ED557198
+
+---
+Category: education
+Subcategory: Reports - Descriptive
+Collected: 2025-08-01T10:17:06.305Z

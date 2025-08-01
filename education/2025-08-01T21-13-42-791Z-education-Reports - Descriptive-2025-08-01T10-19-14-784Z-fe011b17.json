@@ -1,0 +1,13 @@
+# A Multi-View Intelligent Editor for Digital Video Libraries.
+
+**Authors:** Myers, Brad A., Casares, Juan P., Stevens, Scott, Dabbish, Laura, Yocum, Dan, Corbett, Albert
+
+## Abstract
+Digital video is becoming increasingly ubiquitous. Most camcorders today are digital, and computers are being advertised based on their video editing capabilities. Many exciting research projects are investigating how to search, visualize, and summarize digital video, but there is little work on new ways to support the use of the video beyond just playing it. In fact, editing video is significantly more difficult than editing textual material. Silver (Simplifying Interactive Layout and Video Editing and Reuse) is an authoring tool that aims to allow novice users to edit digital video. The goal is to make editing of digital video as easy as text editing. Silver provides multiple coordinated views, including project, source, outline, subject, storyboard, textual transcript and  timeline views. Selections and edits in any view are synchronized with all other views. A variety of recognition algorithms are applied to the video and audio content and then are used to aid in the editing tasks. The Informedia Digital Library supplies the recognition algorithms and metadata used to support intelligent editing, and Informedia also provides search and a repository. The metadata includes shot boundaries and a time-synchronized transcript, which are used to support intelligent selection and intelligent cut/copy/paste. (Contains 35 references.) (Author/AEF)
+
+**Source:** https://eric.ed.gov/?id=ED459821
+
+---
+Category: education
+Subcategory: Reports - Descriptive
+Collected: 2025-08-01T10:19:14.784Z
