@@ -1,0 +1,13 @@
+# Evaluating ChatGPT-4 and Machine Learning Models for Sentiment Analysis on a Multi-Script Moroccan Arabic Corpus: Insights, Challenges, and Future Directions
+
+**Authors:**  Mohamed HANNANI,  Abdelhadi SOUDI,  Kristof Van Laerhoven
+
+## Abstract
+<jats:p xml:lang="en">The application of Large Language Models (LLMs) to low-resource languages and dialects, such as Moroccan Arabic (MA), remains a relatively unexplored area. This study evaluates the performance of ChatGPT-4, fine-tuned BERT models, FastText embeddings, and traditional machine learning approaches for sentiment analysis on MA. Using two publicly available MA datasets—the Moroccan Arabic Corpus (MAC) from X (formerly Twitter) and the Moroccan Arabic YouTube Corpus (MYC)—we assess the ability of these models to detect sentiment across different contexts. Although fine-tuned models performed well, ChatGPT-4 exhibited substantial potential for sentiment analysis, even in zero-shot scenarios. However, performance on MA was generally lower than on Modern Standard Arabic (MSA), attributed to factors such as regional variability, lack of standardization, and limited data availability. Future work should focus on expanding and standardizing MA datasets, as well as developing new methods like combining FastText and BERT embeddings with attention mechanisms to improve performance on this challenging dialect. </jats:p>
+
+**Source:** https://doi.org/10.46298/jdmdh.15092
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T10:19:54.633Z

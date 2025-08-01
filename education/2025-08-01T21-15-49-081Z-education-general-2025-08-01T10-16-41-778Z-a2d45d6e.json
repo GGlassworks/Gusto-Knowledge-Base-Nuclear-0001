@@ -1,0 +1,13 @@
+# Machine Learning Applications in Digital Humanities
+
+**Authors:** Roshni Mitra, Parthasarathi Mukhopadhyay
+
+## Abstract
+<jats:p>This research study explores the potential of machine learning tools and techniques to organize knowledge objects pertaining to various aspects of the gender spectrum (LGBTQIA+) in order to address the low-resource features of the LGBTQIA+ knowledge domain in Indian libraries. It aims to develop a semi-automated subject indexing system using an open source machine learning framework (Annif) and deploying the Homosaurus, a domain-specific vocabulary system. It develops programmatically a comprehensive training dataset from open-access bibliographic data sources with the help of data carpentry tools and NLP services from OpenAI. The study also measures the efficiencies of the automated indexing framework and investigates the potential for widespread adoption of a REST/API call-based approach for rapid indexing of a substantial number of records related to the LGBTQIA+ domain.</jats:p>
+
+**Source:** https://doi.org/10.14429/djlit.43.04.19227
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T10:16:41.778Z

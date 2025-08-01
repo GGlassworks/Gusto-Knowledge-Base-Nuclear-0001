@@ -1,0 +1,13 @@
+# Mitigating Digital Ageism in Skin Lesion Detection with Adversarial Learning
+
+**Authors:** Shehroz S. Khan, Tianyu Shi, Simon Donato-Woodger, Charlene H. Chu
+
+## Abstract
+<jats:p>Deep learning-based medical image classification models have been shown to exhibit race-, gender-, and age-related biases towards certain demographic attributes. Existing bias mitigation methods primarily focus on learning debiased models, which may not guarantee that all sensitive information is removed and usually targets discrete sensitive attributes. In order to address age-related bias in these models, we introduce a novel method called Mitigating Digital Ageism using Adversarially Learned Representation (MA-ADReL), which aims to achieve fairness for age as a sensitive continuous attribute. We propose controlling the mutual information penalty term to reduce the bias for age as a sensitive continuous attribute, and we seek to enhance the fairness without compromising the accuracy. We also employ the fusion of low- and high-resolution inputs to improve the transferable latent representation of medical images. Our method achieves an AUROC of 0.942, significantly outperforming the baseline models while reducing the bias, with an MI score of 1.89. Our experiments on two skin lesion analysis datasets indicate that MA-ADReL can significantly improve the fairness with respect to age-related bias while maintaining high accuracy.</jats:p>
+
+**Source:** https://doi.org/10.3390/a18020055
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T10:18:49.664Z
