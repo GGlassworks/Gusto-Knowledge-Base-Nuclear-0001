@@ -1,0 +1,13 @@
+# Computer Vision and the Digital Humanities
+
+**Authors:** Christoph Musik, Matthias Zeppelzauer
+
+## Abstract
+<jats:p>Automated computer vision methods and tools offer new ways of analysing audio-visual material in the realm of the Digital Humanities (DH). While there are some promising results where these tools can be applied, there are basic challenges, such as algorithmic bias and the lack of sufficient transparency, one needs to carefully use these tools in a productive and responsible way. When it comes to the socio-technical understanding of computer vision tools and methods, a major unit of sociological analysis, attentiveness, and access for configuration (for both computer vision scientists and DH scholars) is what computer science calls “ground truth”. What is specified in the ground truth is the template or rule to follow, e.g. what an object looks like. This article aims at providing scholars in the DH with knowledge about how automated tools for image analysis work and how they are constructed. Based on these insights, the paper introduces an approach called “active learning” that can help to configure these tools in ways that fit the specific requirements and research questions of the DH in a more adaptive and user-centered way. We argue that both objectives need to be addressed, as this is, by all means, necessary for a successful implementation of computer vision tools in the DH and related fields.</jats:p>
+
+**Source:** https://doi.org/10.18146/2213-0969.2018.jethc153
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T10:18:49.383Z

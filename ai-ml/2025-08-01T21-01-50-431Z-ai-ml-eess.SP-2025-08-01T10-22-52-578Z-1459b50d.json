@@ -1,0 +1,12 @@
+# Semantic optical fiber communication system
+
+**Authors:** Zhenming Yu, Hongyu Huang, Liming Cheng, Wei Zhang, Yueqiu Mu, Kun Xu
+
+## Summary
+The current optical communication systems minimize bit or symbol errors without considering the semantic meaning behind digital bits, thus transmitting a lot of unnecessary information. We propose and experimentally demonstrate a semantic optical fiber communication (SOFC) system. Instead of encoding information into bits for transmission, semantic information is extracted from the source using deep learning. The generated semantic symbols are then directly transmitted through an optical fiber. Compared with the bit-based structure, the SOFC system achieved higher information compression and a more stable performance, especially in the low received optical power regime, and enhanced the robustness against optical link impairments. This work introduces an intelligent optical communication system at the human analytical thinking level, which is a significant step toward a breakthrough in the current optical communication architecture.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T10:22:52.578Z

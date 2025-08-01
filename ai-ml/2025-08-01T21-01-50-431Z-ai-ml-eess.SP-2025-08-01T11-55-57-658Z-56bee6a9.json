@@ -1,0 +1,12 @@
+# Uncertainty Principles for the Offset Linear Canonical Transform
+
+**Authors:** Haiye Huo
+
+## Summary
+The offset linear canonical transform (OLCT) provides a more general framework for a number of well known linear integral transforms in signal processing and optics, such as Fourier transform, fractional Fourier transform, linear canonical transform. In this paper, to characterize simultaneous localization of a signal and its OLCT, we extend some different uncertainty principles (UPs), including Nazarov's UP, Hardy's UP, Beurling's UP, logarithmic UP and entropic UP, which have already been well studied in the Fourier transform domain over the last few decades, to the OLCT domain in a broader sense.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T11:55:57.658Z

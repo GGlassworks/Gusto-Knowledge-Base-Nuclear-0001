@@ -1,0 +1,14 @@
+# Detecting authorship between generative AI models and humans: a Burrows’s Delta approach
+
+**Authors:** Hongao Zhu, Lei Lei
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>The distinction between artificial intelligence (AI)- and human-generated texts has become increasingly significant with the emergence of ChatGPT and other generative AI models, which have garnered millions of users. In this study, we assess Burrows’s Delta, a well-established algorithm in authorship attribution, as a potential AI detector in argumentative essays. Our results prove that Burrows’s Delta is an effective tool for detecting AI-generated content. In addition, the accuracy of distinguishing between AI- and human-generated texts exceeds 80 per cent across varying text lengths, from short excerpts approximately 100 words to full essays of approximately 550 words. However, the accuracy is influenced by both text length and the number of features selected by Burrows’s Delta. More importantly, our findings indicate that AI exhibits distinct linguistic and stylistic authorship markers, which can be identified using conventional authorship attribution methods. We discuss these findings in relation to authorship attribution, stylometry, and the role of large language models in language teaching and learning.</jats:p>
+
+**Source:** https://doi.org/10.1093/llc/fqaf048
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T10:19:55.397Z

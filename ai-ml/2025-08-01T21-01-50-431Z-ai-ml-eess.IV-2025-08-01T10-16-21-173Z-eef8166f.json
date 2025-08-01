@@ -1,0 +1,12 @@
+# Enhanced Dermatology Image Quality Assessment via Cross-Domain Training
+
+**Authors:** Ignacio Hernández Montilla, Alfonso Medela, Paola Pasquali, Andy Aguilar, Taig Mac Carthy, Gerardo Fernández, Antonio Martorell, Enrique Onieva
+
+## Summary
+Teledermatology has become a widely accepted communication method in daily clinical practice, enabling remote care while showing strong agreement with in-person visits. Poor image quality remains an unsolved problem in teledermatology and is a major concern to practitioners, as bad-quality images reduce the usefulness of the remote consultation process. However, research on Image Quality Assessment (IQA) in dermatology is sparse, and does not leverage the latest advances in non-dermatology IQA, such as using larger image databases with ratings from large groups of human observers. In this work, we propose cross-domain training of IQA models, combining dermatology and non-dermatology IQA datasets. For this purpose, we created a novel dermatology IQA database, Legit.Health-DIQA-Artificial, using dermatology images from several sources and having them annotated by a group of human observers. We demonstrate that cross-domain training yields optimal performance across domains and overcomes one of the biggest limitations in dermatology IQA, which is the small scale of data, and leads to models trained on a larger pool of image distortions, resulting in a better management of image quality in the teledermatology process.
+
+
+---
+Category: ai-ml
+Subcategory: eess.IV
+Collected: 2025-08-01T10:16:21.173Z

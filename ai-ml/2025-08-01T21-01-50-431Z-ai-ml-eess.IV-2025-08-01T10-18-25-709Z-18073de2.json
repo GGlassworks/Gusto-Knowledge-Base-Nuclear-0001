@@ -1,0 +1,12 @@
+# VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision
+
+**Authors:** Xihua Sheng, Li Li, Dong Liu, Houqiang Li
+
+## Summary
+Almost all digital videos are coded into compact representations before being transmitted. Such compact representations need to be decoded back to pixels before being displayed to humans and - as usual - before being enhanced/analyzed by machine vision algorithms. Intuitively, it is more efficient to enhance/analyze the coded representations directly without decoding them into pixels. Therefore, we propose a versatile neural video coding (VNVC) framework, which targets learning compact representations to support both reconstruction and direct enhancement/analysis, thereby being versatile for both human and machine vision. Our VNVC framework has a feature-based compression loop. In the loop, one frame is encoded into compact representations and decoded to an intermediate feature that is obtained before performing reconstruction. The intermediate feature can be used as reference in motion compensation and motion estimation through feature-based temporal context mining and cross-domain motion encoder-decoder to compress the following frames. The intermediate feature is directly fed into video reconstruction, video enhancement, and video analysis networks to evaluate its effectiveness. The evaluation shows that our framework with the intermediate feature achieves high compression efficiency for video reconstruction and satisfactory task performances with lower complexities.
+
+
+---
+Category: ai-ml
+Subcategory: eess.IV
+Collected: 2025-08-01T10:18:25.709Z

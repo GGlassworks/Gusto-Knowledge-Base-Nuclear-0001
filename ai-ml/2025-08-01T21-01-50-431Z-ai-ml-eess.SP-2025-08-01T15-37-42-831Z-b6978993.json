@@ -1,0 +1,12 @@
+# Explainable Dual-Attention Tabular Transformer for Soil Electrical Resistivity Prediction: A Decision Support Framework for High-Voltage Substation Construction
+
+**Authors:** Warat Kongkitkul, Sompote Youwai, Warut Sakulpojworachai
+
+## Summary
+This research introduces a novel dual-attention transformer architecture for predicting soil electrical resistivity, a critical parameter for high-voltage substation construction. Our model employs attention mechanisms operating across both features and data batches, enhanced by feature embedding layers that project inputs into higher-dimensional spaces. We implements Particle Swarm Optimization for hyperparameter tuning, systematically optimizing embedding dimensions, attention heads, and neural network architecture. The proposed architecture achieves superior predictive performance (Mean Absolute Percentage Error: 0.63%) compared to recent state of the art models for tabular data. Crucially, our model maintains explainability through SHapley Additive exPlanations value analysis, revealing that fine particle content and dry density are the most influential parameters affecting soil resistivity. We developes a web-based application implementing this model to provide engineers with an accessible decision support framework that bridges geotechnical and electrical engineering requirements for the Electricity Generating Authority of Thailand. This integrated approach satisfies both structural stability and electrical safety standards, improving construction efficiency and safety compliance in high-voltage infrastructure implementation.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T15:37:42.831Z

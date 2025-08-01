@@ -1,0 +1,12 @@
+# Digital Twin Enabled Smart Control Engineering as an Industrial AI: A New Framework and A Case Study
+
+**Authors:** Jairo Viola, YangQuan Chen
+
+## Summary
+In the way towards Industry 4.0, the complexity of the industrial systems increases due to the presence of multiple agents, Cyber-Physical Systems, distributed sensing, and big data introducing unknown dynamics that affect the production goals of the manufacturing processes. Thus, Digital Twin is a breaking technology corresponding to the capacity of developing a virtual representation of any complex system in order to perform design, analysis, and behavior prediction tasks that enhance the understanding of these systems through new enabling capabilities like real-time analytics, parallel sensing, or Smart Control Engineering. In this paper, a novel framework is proposed for the design and implementation of Digital Twin applications to the development of Smart Control Engineering. The steps of this framework involve system documentation, multidomain simulation, behavioral matching, and real-time monitoring. This framework is applied to develop the Digital Twin for a real-time vision feedback infrared temperature uniformity control. The obtained results show that Digital Twin is a fundamental part of the transformation into Industry 4.0.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T10:21:15.426Z

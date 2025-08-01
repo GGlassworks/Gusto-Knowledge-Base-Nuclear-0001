@@ -1,0 +1,12 @@
+# Beneficial Investigation of Extended-Range Electric Powertrains with Dual-Motor Inputs and Multi-Speed Transmission
+
+**Authors:** Cong Thanh Nguyen, Paul D. Walker, Nong Zhang
+
+## Summary
+This paper comparatively investigates the performance of extended-range electric powertrains composed by integrating dual-motor inputs, multi-speed transmission, and engine in either series or parallel connection. Two configurations, namely dual-motor series powertrain (DMSP) and dual-motor parallel powertrain (DMPP), feature the same electric drivetrain of two downsized motors and a four-speed transmission, but their range extenders are fundamentally different. While the DMSP consists of a range extender formed by an engine-generator unit, the DMPP connects the engine through a frictional clutch. This study starts with the parameter selection that guarantees the equivalent dynamics ability of all configurations. Mathematic models are second established in detail. A model predictive control-based energy management strategy is third presented. Since the recommended configurations aim for bus application, the driving cycle CBDC and ECE15x5 are chosen for simulation. Performance indexes used for comparison include electric consumption, fuel consumption, and emissions (hydrocarbon, carbon monoxide, nitrogen oxides, and particulate matter). Compared to the conventional single-motor series powertrain, the DMSP improves all the indexes significantly, while the DMPP decreases fuel consumption further but increases most noxious exhaust emissions.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SY
+Collected: 2025-08-01T15:49:10.281Z

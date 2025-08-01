@@ -1,0 +1,12 @@
+# Manikin-Recorded Cardiopulmonary Sounds Dataset Using Digital Stethoscope
+
+**Authors:** Yasaman Torabi, Shahram Shirani, James P. Reilly
+
+## Summary
+Heart and lung sounds are crucial for healthcare monitoring. Recent improvements in stethoscope technology have made it possible to capture patient sounds with enhanced precision. In this dataset, we used a digital stethoscope to capture both heart and lung sounds, including individual and mixed recordings. To our knowledge, this is the first dataset to offer both separate and mixed cardiorespiratory sounds. The recordings were collected from a clinical manikin, a patient simulator designed to replicate human physiological conditions, generating clean heart and lung sounds at different body locations. This dataset includes both normal sounds and various abnormalities (i.e., murmur, atrial fibrillation, tachycardia, atrioventricular block, third and fourth heart sound, wheezing, crackles, rhonchi, pleural rub, and gurgling sounds). The dataset includes audio recordings of chest examinations performed at different anatomical locations, as determined by specialist nurses. Each recording has been enhanced using frequency filters to highlight specific sound types. This dataset is useful for applications in artificial intelligence, such as automated cardiopulmonary disease detection, sound classification, unsupervised separation techniques, and deep learning algorithms related to audio signal processing.
+
+
+---
+Category: ai-ml
+Subcategory: eess.AS
+Collected: 2025-08-01T10:16:11.148Z

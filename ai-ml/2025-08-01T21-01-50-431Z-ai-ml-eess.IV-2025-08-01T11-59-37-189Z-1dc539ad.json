@@ -1,0 +1,12 @@
+# Improving diagnosis and prognosis of lung cancer using vision transformers: A scoping review
+
+**Authors:** Hazrat Ali, Farida Mohsen, Zubair Shah
+
+## Summary
+Vision transformer-based methods are advancing the field of medical artificial intelligence and cancer imaging, including lung cancer applications. Recently, many researchers have developed vision transformer-based AI methods for lung cancer diagnosis and prognosis. This scoping review aims to identify the recent developments on vision transformer-based AI methods for lung cancer imaging applications. It provides key insights into how vision transformers complemented the performance of AI and deep learning methods for lung cancer. Furthermore, the review also identifies the datasets that contributed to advancing the field. Of the 314 retrieved studies, this review included 34 studies published from 2020 to 2022. The most commonly addressed task in these studies was the classification of lung cancer types, such as lung squamous cell carcinoma versus lung adenocarcinoma, and identifying benign versus malignant pulmonary nodules. Other applications included survival prediction of lung cancer patients and segmentation of lungs. The studies lacked clear strategies for clinical transformation. SWIN transformer was a popular choice of the researchers; however, many other architectures were also reported where vision transformer was combined with convolutional neural networks or UNet model. It can be concluded that vision transformer-based models are increasingly in popularity for developing AI methods for lung cancer applications. However, their computational complexity and clinical relevance are important factors to be considered for future research work. This review provides valuable insights for researchers in the field of AI and healthcare to advance the state-of-the-art in lung cancer diagnosis and prognosis. We provide an interactive dashboard on lung-cancer.onrender.com/.
+
+
+---
+Category: ai-ml
+Subcategory: eess.IV
+Collected: 2025-08-01T11:59:37.189Z

@@ -1,0 +1,12 @@
+# Diagnosis of Helicobacter pylori using AutoEncoders for the Detection of Anomalous Staining Patterns in Immunohistochemistry Images
+
+**Authors:** Pau Cano, Álvaro Caravaca, Debora Gil, Eva Musulen
+
+## Summary
+This work addresses the detection of Helicobacter pylori a bacterium classified since 1994 as class 1 carcinogen to humans. By its highest specificity and sensitivity, the preferred diagnosis technique is the analysis of histological images with immunohistochemical staining, a process in which certain stained antibodies bind to antigens of the biological element of interest. This analysis is a time demanding task, which is currently done by an expert pathologist that visually inspects the digitized samples. We propose to use autoencoders to learn latent patterns of healthy tissue and detect H. pylori as an anomaly in image staining. Unlike existing classification approaches, an autoencoder is able to learn patterns in an unsupervised manner (without the need of image annotations) with high performance. In particular, our model has an overall 91% of accuracy with 86\% sensitivity, 96% specificity and 0.97 AUC in the detection of H. pylori.
+
+
+---
+Category: ai-ml
+Subcategory: eess.IV
+Collected: 2025-08-01T10:24:35.661Z

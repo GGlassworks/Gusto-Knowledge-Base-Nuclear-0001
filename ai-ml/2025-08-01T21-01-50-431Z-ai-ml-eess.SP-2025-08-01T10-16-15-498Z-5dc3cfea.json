@@ -1,0 +1,12 @@
+# Human Detection in Realistic Through-the-Wall Environments using Raw Radar ADC Data and Parametric Neural Networks
+
+**Authors:** Wei Wang, Naike Du, Yuchao Guo, Chao Sun, Jingyang Liu, Rencheng Song, Xiuzhu Ye
+
+## Summary
+The radar signal processing algorithm is one of the core components in through-wall radar human detection technology. Traditional algorithms (e.g., DFT and matched filtering) struggle to adaptively handle low signal-to-noise ratio echo signals in challenging and dynamic real-world through-wall application environments, which becomes a major bottleneck in the system. In this paper, we introduce an end-to-end through-wall radar human detection network (TWP-CNN), which takes raw radar Analog-to-Digital Converter (ADC) signals without any preprocessing as input. We replace the conventional radar signal processing flow with the proposed DFT-based adaptive feature extraction (DAFE) module. This module employs learnable parameterized 3D complex convolution layers to extract superior feature representations from ADC signals, which is beyond the limitation of traditional preprocessing methods. Additionally, by embedding phase information from radar data within the network and employing multi-task learning, a more accurate detection is achieved. Finally, due to the absence of through-wall radar datasets containing raw ADC data, we gathered a realistic through-wall (RTW) dataset using our in-house developed through-wall radar system. We trained and validated our proposed method on this dataset to confirm its effectiveness and superiority in real through-wall detection scenarios.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T10:16:15.499Z

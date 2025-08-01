@@ -1,0 +1,12 @@
+# Gradients of Connectivity as Graph Fourier Bases of Brain Activity
+
+**Authors:** Giulia Lioi, Vincent Gripon, Abdelbasset Brahim, François Rousseau, Nicolas Farrugia
+
+## Summary
+The application of graph theory to model the complex structure and function of the brain has shed new light on its organization and function, prompting the emergence of network neuroscience. Despite the tremendous progress that has been achieved in this field, still relatively few methods exploit the topology of brain networks to analyze brain activity. Recent attempts in this direction have leveraged on graph spectral analysis and graph signal processing to decompose brain activity in connectivity eigenmodes or gradients. If results are promising in terms of interpretability and functional relevance, methodologies and terminology are sometimes confusing. The goals of this paper are twofold. First, we summarize recent contributions related to connectivity gradients and graph signal processing, and attempt a clarification of the terminology and methods used in the field, while pointing out current methodological limitations. Second, we discuss the perspective that the functional relevance of connectivity gradients could be fruitfully exploited by considering them as graph Fourier bases of brain activity.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T17:09:25.946Z

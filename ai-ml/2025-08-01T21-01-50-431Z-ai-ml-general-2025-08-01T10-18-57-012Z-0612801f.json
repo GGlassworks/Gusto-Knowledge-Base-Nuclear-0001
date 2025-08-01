@@ -1,0 +1,14 @@
+# Research trends on big data domain using text mining algorithms
+
+**Authors:** Seyed Mohammad Jafar Jalali, Han Woo Park, Iman Raeesi Vanani, Kim-Hung Pho
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>Most of the theories have considered big data as an interesting subject in the information technology domain. Big data is a term for describing huge databases that traditional methods in data processing suffer from analyzing them. Recognizing and clustering emerging topics in this area will help researchers whose aim is to work on this interesting subject. Text mining and social network analysis algorithms are utilized for identifying the emerging trends for big data domain. In this study, at first, we gathered the whole papers that are relevant to big data domain and then the word co-occurrence network was created based on the extracted keywords. Then the best clusters were identified and the relationship between keywords was recognized by the association rules technique. In conclusion, some suggestions were mentioned for future studies.</jats:p>
+
+**Source:** https://doi.org/10.1093/llc/fqaa012
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T10:18:57.012Z

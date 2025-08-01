@@ -1,0 +1,12 @@
+# Metasurface-Enabled On-Chip Multiplexed Diffractive Neural Networks in the Visible
+
+**Authors:** Xuhao Luo, Yueqiang Hu, Xin Li, Xiangnian Ou, Jiajie Lai, Na Liu, Huigao Duan
+
+## Summary
+Replacing electrons with photons is a compelling route towards light-speed, highly parallel, and low-power artificial intelligence computing. Recently, all-optical diffractive neural deep neural networks have been demonstrated. However, the existing architectures often comprise bulky components and, most critically, they cannot mimic the human brain for multitasking. Here, we demonstrate a multi-skilled diffractive neural network based on a metasurface device, which can perform on-chip multi-channel sensing and multitasking at the speed of light in the visible. The metasurface is integrated with a complementary metal oxide semiconductor imaging sensor. Polarization multiplexing scheme of the subwavelength nanostructures are applied to construct a multi-channel classifier framework for simultaneous recognition of digital and fashionable items. The areal density of the artificial neurons can reach up to 6.25x106/mm2 multiplied by the number of channels. Our platform provides an integrated solution with all-optical on-chip sensing and computing for applications in machine vision, autonomous driving, and precision medicine.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T10:16:22.582Z

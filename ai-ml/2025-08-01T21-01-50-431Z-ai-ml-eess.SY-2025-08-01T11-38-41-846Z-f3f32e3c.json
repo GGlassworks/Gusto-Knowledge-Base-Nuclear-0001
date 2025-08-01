@@ -1,0 +1,12 @@
+# General Regression Neural Networks, Radial Basis Function Neural Networks, Support Vector Machines, and Feedforward Neural Networks
+
+**Authors:** Alison Jenkins, Vinika Gupta, Mary Lenoir
+
+## Summary
+The aim of this project is to develop a code to discover the optimal sigma value that maximum the F1 score and the optimal sigma value that maximizes the accuracy and to find out if they are the same. Four algorithms which can be used to solve this problem are: Genetic Regression Neural Networks (GRNNs), Radial Based Function (RBF) Neural Networks (RBFNNs), Support Vector Machines (SVMs) and Feedforward Neural Network (FFNNs).
+
+
+---
+Category: ai-ml
+Subcategory: eess.SY
+Collected: 2025-08-01T11:38:41.846Z

@@ -1,0 +1,12 @@
+# Intelligent Operation and Maintenance and Prediction Model Optimization for Improving Wind Power Generation Efficiency
+
+**Authors:** Xun Liu, Xiaobin Wu, Jiaqi He, Rajan Das Gupta
+
+## Summary
+This study explores the effectiveness of predictive maintenance models and the optimization of intelligent Operation and Maintenance (O&amp;M) systems in improving wind power generation efficiency. Through qualitative research, structured interviews were conducted with five wind farm engineers and maintenance managers, each with extensive experience in turbine operations. Using thematic analysis, the study revealed that while predictive maintenance models effectively reduce downtime by identifying major faults, they often struggle with detecting smaller, gradual failures. Key challenges identified include false positives, sensor malfunctions, and difficulties in integrating new models with older turbine systems. Advanced technologies such as digital twins, SCADA systems, and condition monitoring have significantly enhanced turbine maintenance practices. However, these technologies still require improvements, particularly in AI refinement and real-time data integration. The findings emphasize the need for continuous development to fully optimize wind turbine performance and support the broader adoption of renewable energy.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SY
+Collected: 2025-08-01T10:16:16.996Z

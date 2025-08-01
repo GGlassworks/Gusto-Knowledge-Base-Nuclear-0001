@@ -1,0 +1,12 @@
+# An Investigation on Non-Invasive Brain-Computer Interfaces: Emotiv Epoc+ Neuroheadset and Its Effectiveness
+
+**Authors:** Md Jobair Hossain Faruk, Maria Valero, Hossain Shahriar
+
+## Summary
+In this study, we illustrate the progress of BCI research and present scores of unveiled contemporary approaches. First, we explore a decoding natural speech approach that is designed to decode human speech directly from the human brain onto a digital screen introduced by Facebook Reality Lab and University of California San Francisco. Then, we study a recently presented visionary project to control the human brain using Brain-Machine Interfaces (BMI) approach. We also investigate well-known electroencephalography (EEG) based Emotiv Epoc+ Neuroheadset to identify six emotional parameters including engagement, excitement, focus, stress, relaxation, and interest using brain signals by experimenting the neuroheadset among three human subjects where we utilize two supervised learning classifiers, Naive Bayes and Linear Regression to show the accuracy and competency of the Epoc+ device and its associated applications in neurotechnological research. We present experimental studies and the demonstration indicates 69% and 62% improved accuracy for the aforementioned classifiers respectively in reading the performance matrices of the participants. We envision that non-invasive, insertable, and low-cost BCI approaches shall be the focal point for not only an alternative for patients with physical paralysis but also understanding the brain that would pave us to access and control the memories and brain somewhere very near.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T10:16:10.123Z

@@ -1,0 +1,12 @@
+# Evaluation Kidney Layer Segmentation on Whole Slide Imaging using Convolutional Neural Networks and Transformers
+
+**Authors:** Muhao Liu, Chenyang Qi, Shunxing Bao, Quan Liu, Ruining Deng, Yu Wang, Shilin Zhao, Haichun Yang, Yuankai Huo
+
+## Summary
+The segmentation of kidney layer structures, including cortex, outer stripe, inner stripe, and inner medulla within human kidney whole slide images (WSI) plays an essential role in automated image analysis in renal pathology. However, the current manual segmentation process proves labor-intensive and infeasible for handling the extensive digital pathology images encountered at a large scale. In response, the realm of digital renal pathology has seen the emergence of deep learning-based methodologies. However, very few, if any, deep learning based approaches have been applied to kidney layer structure segmentation. Addressing this gap, this paper assesses the feasibility of performing deep learning based approaches on kidney layer structure segmetnation. This study employs the representative convolutional neural network (CNN) and Transformer segmentation approaches, including Swin-Unet, Medical-Transformer, TransUNet, U-Net, PSPNet, and DeepLabv3+. We quantitatively evaluated six prevalent deep learning models on renal cortex layer segmentation using mice kidney WSIs. The empirical results stemming from our approach exhibit compelling advancements, as evidenced by a decent Mean Intersection over Union (mIoU) index. The results demonstrate that Transformer models generally outperform CNN-based models. By enabling a quantitative evaluation of renal cortical structures, deep learning approaches are promising to empower these medical professionals to make more informed kidney layer segmentation.
+
+
+---
+Category: ai-ml
+Subcategory: eess.IV
+Collected: 2025-08-01T10:24:34.761Z

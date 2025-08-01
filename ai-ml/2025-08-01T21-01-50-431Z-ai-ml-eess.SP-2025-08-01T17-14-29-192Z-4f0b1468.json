@@ -1,0 +1,12 @@
+# ExBrainable: An Open-Source GUI for CNN-based EEG Decoding and Model Interpretation
+
+**Authors:** Ya-Lin Huang, Chia-Ying Hsieh, Jian-Xue Huang, Chun-Shu Wei
+
+## Summary
+We have developed a graphic user interface (GUI), ExBrainable, dedicated to convolutional neural networks (CNN) model training and visualization in electroencephalography (EEG) decoding. Available functions include model training, evaluation, and parameter visualization in terms of temporal and spatial representations. We demonstrate these functions using a well-studied public dataset of motor-imagery EEG and compare the results with existing knowledge of neuroscience. The primary objective of ExBrainable is to provide a fast, simplified, and user-friendly solution of EEG decoding for investigators across disciplines to leverage cutting-edge methods in brain/neuroscience research.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T17:14:29.192Z

@@ -1,0 +1,12 @@
+# A Digitalization Framework for Smart Maintenance of Historic Buildings
+
+**Authors:** Zhongjun Ni
+
+## Summary
+Smart maintenance of historic buildings involves integration of digital technologies and data analysis methods to help maintain functionalities of these buildings and preserve their heritage values. However, the maintenance of historic buildings is a long-term process. During the process, the digital transformation requires overcoming various challenges, such as stable and scalable storage and computing resources, a consistent format for organizing and representing building data, and a flexible design to integrate data analytics to deliver applications. This licentiate thesis aims to address these challenges by proposing a digitalization framework that integrates Internet of Things (IoT), cloud computing, ontology, and machine learning. IoT devices enable data collection from historic buildings to reveal their latest status. Using a public cloud platform brings stable and scalable resources for storing data, performing analytics, and deploying applications. Ontologies provide a clear and concise way to organize and represent building data, which makes it easier to understand the relationships between different building components and systems. Combined with IoT devices and ontologies, parametric digital twins can be created to evolve with their physical counterparts. Furthermore, with machine learning, digital twins can identify patterns from data and provide decision-makers with insights to achieve smart maintenance. Overall, this thesis contributes to the field of preservation of historic buildings by proposing a comprehensive digitalization framework that integrates various advanced digital technologies to provide a holistic approach to achieve smart maintenance of historic buildings.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SY
+Collected: 2025-08-01T10:21:15.148Z

@@ -1,0 +1,12 @@
+# Millimeter Wave Beam Training: A Survey
+
+**Authors:** Ish Kumar Jain
+
+## Summary
+The initial access is required to establish a connection between millimeter wave access point (AP) and users. The large isotropic pathloss at high frequencies can be mitigated by the use of highly directional antennas. However, it complicated the initial access procedures and increased the latency, defying one of the major low latency objective of 5G systems. Beam training algorithms are developed for the AP as well as for the users to find the desired beam quickly and reduce the initial access delay. But, these beam training protocols have to be run very frequently due to outage events, user's mobility and period of sleep cycles.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T13:34:26.023Z

@@ -1,0 +1,12 @@
+# combined digital drone camera and optical channel parameters for air surveillance
+
+**Authors:** Wamidh Jalil Mazher, hadeel Tariq Ibrahim
+
+## Summary
+Digital drone cameras with free-space optical (FSO) communication networks have been proposed to be promising for air surveillance. In the FSO channel, atmospheric turbulence (AT) degrades the signal. In this study, we combined the parameters of the digital drone camera and the optical channel to mitigate the AT effect. The digital drone camera parameters are indicated by the field of view and camera object distance to support this proposal. Meanwhile, the optical channel parameters, rather than the altitude, are denoted by the most critical parameter, which is the refractive index structure parameter used to characterize the effects of AT. Consequently, two lemmas are proposed and combined to present the optimum relationship between the digital drone camera and optical channel parameters. Therefore, the quality of the entire air surveillance system with a digital drone camera FSO is significantly improved. Furthermore, the analysis and optimization for practical cases were applied to support our findings. Finally, our results demonstrated that an impressive performance improvement of an air surveillance system of 17 dB is possible compared without optimization by combining digital drone camera and FSO parameters at a target outage transceiver probability of $10^-6$.
+
+
+---
+Category: ai-ml
+Subcategory: eess.IV
+Collected: 2025-08-01T10:24:48.080Z

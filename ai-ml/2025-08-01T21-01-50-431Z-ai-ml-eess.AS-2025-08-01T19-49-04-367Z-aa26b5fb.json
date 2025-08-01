@@ -1,0 +1,12 @@
+# Efficient Training for Multilingual Visual Speech Recognition: Pre-training with Discretized Visual Speech Representation
+
+**Authors:** Minsu Kim, Jeong Hun Yeo, Se Jin Park, Hyeongseop Rha, Yong Man Ro
+
+## Summary
+This paper explores sentence-level multilingual Visual Speech Recognition (VSR) that can recognize different languages with a single trained model. As the massive multilingual modeling of visual data requires huge computational costs, we propose a novel training strategy, processing with visual speech units. Motivated by the recent success of the audio speech unit, we propose to use a visual speech unit that can be obtained by discretizing the visual speech features extracted from the self-supervised visual speech model. Through analysis, we verify that the visual speech units mainly contain viseme information while suppressing non-linguistic information. By using the visual speech units as the inputs of our system, we propose to pre-train a VSR model to predict corresponding text outputs on multilingual data constructed by merging several VSR databases. As both the inputs (i.e., visual speech units) and outputs (i.e., text) are discrete, we can greatly improve the training efficiency compared to the standard VSR training. Specifically, the input data size is reduced to 0.016% of the original video inputs. In order to complement the insufficient visual information in speech recognition, we apply curriculum learning where the inputs of the system begin with audio-visual speech units and gradually change to visual speech units. After pre-training, the model is finetuned on continuous features. We set new state-of-the-art multilingual VSR performances by achieving comparable performances to the previous language-specific VSR models, with a single trained model.
+
+
+---
+Category: ai-ml
+Subcategory: eess.AS
+Collected: 2025-08-01T19:49:04.367Z

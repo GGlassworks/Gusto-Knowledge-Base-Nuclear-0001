@@ -1,0 +1,12 @@
+# Standalone, Descriptive, and Predictive Digital Twin of an Onshore Wind Farm in Complex Terrain
+
+**Authors:** Florian Stadtmann, Adil Rasheed, Tore Rasmussen
+
+## Summary
+In this work, a digital twin with standalone, descriptive, and predictive capabilities is created for an existing onshore wind farm located in complex terrain. A standalone digital twin is implemented with a virtual-reality-enabled 3D interface using openly available data on the turbines and their environment. Real SCADA data from the wind farm are used to elevate the digital twin to the descriptive level. The data are complemented with weather forecasts from a microscale model nested into Scandinavian meteorological forecasts, and wind resources are visualized inside the human-machine interface. Finally, the weather data are used to infer predictions on the hourly power production of each turbine and the whole wind farm with a 61 hours forecasting horizon. The digital twin provides a data platform and interface for power predictions with a visual explanation of the prediction, and it serves as a basis for future work on digital twins.
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T10:14:16.072Z

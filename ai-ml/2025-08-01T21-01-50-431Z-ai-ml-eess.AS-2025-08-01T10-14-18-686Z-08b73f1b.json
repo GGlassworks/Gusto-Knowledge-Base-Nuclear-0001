@@ -1,0 +1,12 @@
+# wav2vec and its current potential to Automatic Speech Recognition in German for the usage in Digital History: A comparative assessment of available ASR-technologies for the use in cultural heritage contexts
+
+**Authors:** Michael Fleck, Wolfgang Göderle
+
+## Summary
+In this case study we trained and published a state-of-the-art open-source model for Automatic Speech Recognition (ASR) for German to evaluate the current potential of this technology for the use in the larger context of Digital Humanities and cultural heritage indexation. Along with this paper we publish our wav2vec2 based speech to text model while we evaluate its performance on a corpus of historical recordings we assembled compared against commercial cloud-based and proprietary services. While our model achieves moderate results, we see that proprietary cloud services fare significantly better. As our results show, recognition rates over 90 percent can currently be achieved, however, these numbers drop quickly once the recordings feature limited audio quality or use of non-every day or outworn language. A big issue is the high variety of different dialects and accents in the German language. Nevertheless, this paper highlights that the currently available quality of recognition is high enough to address various use cases in the Digital Humanities. We argue that ASR will become a key technology for the documentation and analysis of audio-visual sources and identify an array of important questions that the DH community and cultural heritage stakeholders will have to address in the near future.
+
+
+---
+Category: ai-ml
+Subcategory: eess.AS
+Collected: 2025-08-01T10:14:18.686Z

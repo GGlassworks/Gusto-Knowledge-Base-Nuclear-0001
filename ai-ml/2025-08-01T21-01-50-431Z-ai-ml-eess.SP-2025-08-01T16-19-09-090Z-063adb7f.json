@@ -1,0 +1,12 @@
+# Comparison of signal detectors for time domain radio SETI
+
+**Authors:** Gregory Hellbourg, Andrew Xu
+
+## Summary
+The radio Search for Extra Terrestrial Intelligence (SETI) aims at identifying intelligent and communicative civilizations in the Universe through the detection of engineered transmissions. In the absence of prior knowledge concerning the expected signal, SETI detection pipelines necessitate high sensitivity, versatility, and limited computational complexity to maximize the search parameter space and minimize the probability of misses. This paper addresses the SETI detection problem as a binary hypothesis testing problem, and compares four detection schemes exploiting artificial features of the data collected by a single receiver radio telescope. After a theoretical comparison, those detectors are applied to real data collected with the Green Bank Telescope in West Virginia (USA).
+
+
+---
+Category: ai-ml
+Subcategory: eess.SP
+Collected: 2025-08-01T16:19:09.090Z
