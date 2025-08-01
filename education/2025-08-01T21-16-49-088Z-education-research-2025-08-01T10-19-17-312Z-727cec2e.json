@@ -1,0 +1,13 @@
+# MLISP.
+
+**Authors:** Smith, David Canfield
+
+## Abstract
+MLISP (meta-LISP) is a high level list-processing and symbol-manipulation language based on the programing language LISP (List Processor). MLISP programs are translated into LISP programs and then executed or compiled. MLISP exists for two purposes: (1) to facilitate the writing and understanding of LISP programs; (2) to remedy certain important deficiencies in the list-processing ability of LISP. (Author/MF)
+
+**Source:** https://eric.ed.gov/?id=ED047526
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:19:17.312Z

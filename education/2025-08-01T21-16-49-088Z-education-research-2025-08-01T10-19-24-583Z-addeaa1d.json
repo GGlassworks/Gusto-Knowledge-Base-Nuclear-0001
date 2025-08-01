@@ -1,0 +1,13 @@
+# Microprogramming Handbook. Second Edition.
+
+**Authors:** 
+
+## Abstract
+Instead of instructions residing in the main memory as in a fixed instruction computer, a micro-programable computer has a separete read-only memory which is alterable so that the system can be efficiently adapted to the application at hand. Microprogramable computers are faster than fixed instruction computers for several reasons: instruction execution times are from 5 to 30 times faster; file registers can be used for data storage, avoiding memory access cycles; subroutines are closely tailored to specific requirements and data word lengths; input/output routines can be simplified for the application; and special time-consuming algorithms (math, logic) can be easily incorporated into a microprogramed processor. This handbook surveys the field of minicomputers generally and  provides a user manual for two Microdata minicomputers. (Author/RH)
+
+**Source:** https://eric.ed.gov/?id=ED069113
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:19:24.584Z

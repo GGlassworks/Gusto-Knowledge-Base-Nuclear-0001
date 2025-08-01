@@ -1,0 +1,13 @@
+# Information Storage and Retrieval, Scientific Report No. ISR-15.
+
+**Authors:** Salton, Gerard
+
+## Abstract
+Several algorithms were investigated which would allow a user to interact with an automatic document retrieval system by requesting relevance judgments on selected sets of documents. Two viewpoints were taken in evaluation. One measured the movement of queries toward the optimum query as defined by Rocchio; the other measured the retrieval experienced by the user during the feedback process. Both methods indicated that relevance feedback was effective. When only relevant document vectors were used, the algorithms provided equally good retrieval. Algorithms using nonrelevant document vectors for feedback improved the retrieval obtained by these users without requiring additional relevance judgments. No single feedback strategy was found to give superior retrieval for all queries.  However, all relevance feedback algorithms tested improved the average retrieval obtained. (RR)
+
+**Source:** https://eric.ed.gov/?id=ED032217
+
+---
+Category: education
+Subcategory: research
+Collected: 2025-08-01T10:19:27.513Z
