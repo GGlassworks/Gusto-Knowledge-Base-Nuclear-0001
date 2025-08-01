@@ -1,0 +1,12 @@
+# New Era in Cultural Heritage Preservation: Cooperative Aerial Autonomy
+
+**Authors:** Pavel Petracek, Vit Kratky, Tomas Baca, Matej Petrlik, Martin Saska
+
+## Summary
+Digital documentation of large interiors of historical buildings is an exhausting task since most of the areas of interest are beyond typical human reach. We advocate the use of autonomous teams of multi-rotor Unmanned Aerial Vehicles (UAVs) to speed up the documentation process by several orders of magnitude while allowing for a repeatable, accurate, and condition-independent solution capable of precise collision-free operation at great heights. The proposed multi-robot approach allows for performing tasks requiring dynamic scene illumination in large-scale real-world scenarios, a process previously applicable only in small-scale laboratory-like conditions. Extensive experimental analyses range from single-UAV imaging to specialized lighting techniques requiring accurate coordination of multiple UAVs. The system's robustness is demonstrated in more than two hundred autonomous flights in fifteen historical monuments requiring superior safety while lacking access to external localization. This unique experimental campaign, cooperated with restorers and conservators, brought numerous lessons transferable to other safety-critical robotic missions in documentation and inspection tasks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:16:23.764Z

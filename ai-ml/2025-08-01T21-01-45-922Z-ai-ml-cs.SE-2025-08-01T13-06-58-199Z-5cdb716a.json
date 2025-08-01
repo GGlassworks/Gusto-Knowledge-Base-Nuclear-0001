@@ -1,0 +1,12 @@
+# Transwarp Conduit: Interoperable Blockchain Application Framework
+
+**Authors:** Shidokht Hejazi-Sepehr, Ross Kitsis, Ali Sharif
+
+## Summary
+Transwarp-Conduit (TWC) is a protocol for message transfers between two smart-contract enabled blockchains. Furthermore, we specify an application framework (leveraging the TWC protocol) that enables developers to define arbitrarily complex cross-blockchain applications, simply by deploying framework-compliant smart contracts and hosting a TWC node (daemon process).The TWC protocol is implementable without additional effort on part of the base blockchain protocol.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T13:06:58.200Z

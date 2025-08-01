@@ -1,0 +1,12 @@
+# Justiça Algorítmica: Instrumentalização, Limites Conceituais e Desafios na Engenharia de Software
+
+**Authors:** Lucas Rodrigues Valença, Ronnie de Souza Santos
+
+## Summary
+This article describes ongoing research with the aim of understanding the concept of justice in the field of software engineering, the factors that underlie the creation and instrumentalization of these concepts, and the limitations faced by software engineering when applying them. The expansion of the field of study called ``algorithmic justice'' fundamentally consists in the creation of mechanisms and procedures based on mathematical and formal procedures to conceptualize, evaluate and reduce biases and discrimination caused by algorithms. We conducted a systematic mapping in the context of justice in software engineering, comprising the metrics and definitions of algorithmic justice, as well as the procedures and techniques for fairer decision-making systems. We propose a discussion about the limitations that arise due to the understanding of justice as an attribute of software and the result of decision-making, as well as the influence that the field suffers from the construction of computational thinking, which is constantly developed around abstractions. Finally, we reflect on potential paths that could help us move beyond the limits of algorithmic justice.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T15:53:46.803Z

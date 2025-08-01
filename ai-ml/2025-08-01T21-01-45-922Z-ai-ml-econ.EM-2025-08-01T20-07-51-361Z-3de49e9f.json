@@ -1,0 +1,12 @@
+# Vector autoregression models with skewness and heavy tails
+
+**Authors:** Sune Karlsson, Stepan Mazur, Hoang Nguyen
+
+## Summary
+With uncertain changes of the economic environment, macroeconomic downturns during recessions and crises can hardly be explained by a Gaussian structural shock. There is evidence that the distribution of macroeconomic variables is skewed and heavy tailed. In this paper, we contribute to the literature by extending a vector autoregression (VAR) model to account for a more realistic assumption of the multivariate distribution of the macroeconomic variables. We propose a general class of generalized hyperbolic skew Student's t distribution with stochastic volatility for the error term in the VAR model that allows us to take into account skewness and heavy tails. Tools for Bayesian inference and model selection using a Gibbs sampler are provided. In an empirical study, we present evidence of skewness and heavy tails for monthly macroeconomic variables. The analysis also gives a clear message that skewness should be taken into account for better predictions during recessions and crises.
+
+
+---
+Category: ai-ml
+Subcategory: econ.EM
+Collected: 2025-08-01T20:07:51.361Z

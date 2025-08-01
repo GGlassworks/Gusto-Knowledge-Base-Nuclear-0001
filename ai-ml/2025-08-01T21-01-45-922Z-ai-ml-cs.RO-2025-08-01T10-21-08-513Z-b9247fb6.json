@@ -1,0 +1,12 @@
+# Mutual Adaptation in Human-Robot Co-Transportation with Human Preference Uncertainty
+
+**Authors:** Al Jaber Mahmud, Weizi Li, Xuan Wang
+
+## Summary
+Mutual adaptation can significantly enhance overall task performance in human-robot co-transportation by integrating both the robot's and human's understanding of the environment. While human modeling helps capture humans' subjective preferences, two challenges persist: (i) the uncertainty of human preference parameters and (ii) the need to balance adaptation strategies that benefit both humans and robots. In this paper, we propose a unified framework to address these challenges and improve task performance through mutual adaptation. First, instead of relying on fixed parameters, we model a probability distribution of human choices by incorporating a range of uncertain human parameters. Next, we introduce a time-varying stubbornness measure and a coordination mode transition model, which allows either the robot to lead the team's trajectory or, if a human's preferred path conflicts with the robot's plan and their stubbornness exceeds a threshold, the robot to transition to following the human. Finally, we introduce a pose optimization strategy to mitigate the uncertain human behaviors when they are leading. To validate the framework, we design and perform experiments with real human feedback. We then demonstrate, through simulations, the effectiveness of our models in enhancing task performance with mutual adaptation and pose optimization.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:21:08.513Z

@@ -1,0 +1,12 @@
+# Modality-Driven Design for Multi-Step Dexterous Manipulation: Insights from Neuroscience
+
+**Authors:** Naoki Wake, Atsushi Kanehira, Daichi Saito, Jun Takamatsu, Kazuhiro Sasabuchi, Hideki Koike, Katsushi Ikeuchi
+
+## Summary
+Multi-step dexterous manipulation is a fundamental skill in household scenarios, yet remains an underexplored area in robotics. This paper proposes a modular approach, where each step of the manipulation process is addressed with dedicated policies based on effective modality input, rather than relying on a single end-to-end model. To demonstrate this, a dexterous robotic hand performs a manipulation task involving picking up and rotating a box. Guided by insights from neuroscience, the task is decomposed into three sub-skills, 1)reaching, 2)grasping and lifting, and 3)in-hand rotation, based on the dominant sensory modalities employed in the human brain. Each sub-skill is addressed using distinct methods from a practical perspective: a classical controller, a Vision-Language-Action model, and a reinforcement learning policy with force feedback, respectively. We tested the pipeline on a real robot to demonstrate the feasibility of our approach. The key contribution of this study lies in presenting a neuroscience-inspired, modality-driven methodology for multi-step dexterous manipulation.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T17:09:24.797Z

@@ -1,0 +1,12 @@
+# Visualizing the Evolution of Twitter (X.com) Conversations: A Comprehensive Methodology Applied to AI Training Discussions on ChatGPT
+
+**Authors:** Nicole Jess, Hasan Gokberk Bayhan
+
+## Summary
+With the rise of social media platforms, especially X.com (formerly Twitter), there is a growing interest in understanding digital social networks and human digital interactions. This paper presents a comprehensive methodology for extracting, processing, and visually analyzing data from X.com, using a combination of Python and R packages, enhanced by our publicly accessible, customizable code. Our approach compiles a dynamic dataset that captures various interactions: replies, retweets, and mentions. To explore deeper insights, the data is subjected to sentiment analysis and keyword coding, indicating shifts in discourse over time. Our method is structured in three primary phases. Initially, R is employed for pulling data and the formation of social network datasets. Following this, the combination of Python and R is utilized for sentiment analysis and keyword coding, aiming to uncover the underlying emotional shifts and language transitions within topics of discussion. The final phase employs R to visualize the dynamic shifts within these social networks. These visualization tools highlight changes in user interactions and patterns of influence. For a practical demonstration, we analyzed conversations on X.com regarding the controversial proposal to halt AI development, focusing specifically on discussions about ChatGPT. By using keyword searches, leading voices in the debate were identified. Our analysis of sentiment and keywords revealed patterns in emotions and language, while visual tools illustrated the development of network connections and their influence. This study emphasizes the vital role of visual tools in understanding online social dynamics in the digital age.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SI
+Collected: 2025-08-01T10:24:23.917Z

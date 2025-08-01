@@ -1,0 +1,12 @@
+# Transformation rules for the decentralization of a blockchain-extended global process model
+
+**Authors:** Julius Köpke, Sebastian Trattnig
+
+## Summary
+Blockchains and distributed ledger technology offer promising capabilities for supporting collaborative business processes across organizations. Typically, approaches in this field fall into two categories: either executing the entire process model on the blockchain or using the blockchain primarily to enforce or monitor the exchange of messages between participants. Our work proposes a novel approach that sits between these two methods. We introduce a centralized process model extended with blockchain annotations, detailing the tasks of each participating organization and the extent to which blockchain technology is needed to secure task execution. This model also includes all critical data objects and specifies how their handling should be protected by the blockchain. This technical report outlines a systematic three-step method for automatically decentralizing this comprehensive model into individual local process models for each organization, coupled with a separate process model for the blockchain. This decentralized structure effectively replicates the original global process model. Our transformation approach is rule-based, focusing on creating a platform-inde-pendent model first, then a platform-specific model. Subsequently, we project the platform-specific model to obtain one model for the blockchain and one model for each participating organization.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T13:06:02.867Z

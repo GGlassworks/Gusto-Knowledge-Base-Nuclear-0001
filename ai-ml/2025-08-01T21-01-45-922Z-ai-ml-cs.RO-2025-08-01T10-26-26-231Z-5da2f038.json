@@ -1,0 +1,12 @@
+# Gaze-based intention estimation: principles, methodologies, and applications in HRI
+
+**Authors:** Anna Belardinelli
+
+## Summary
+Intention prediction has become a relevant field of research in Human-Machine and Human-Robot Interaction. Indeed, any artificial system (co)-operating with and along humans, designed to assist and coordinate its actions with a human partner, would benefit from first inferring the human's current intention. To spare the user the cognitive burden of explicitly uttering their goals, this inference relies mostly on behavioral cues deemed indicative of the current action. It has been long known that eye movements are highly anticipatory of the single steps unfolding during a task, hence they can serve as a very early and reliable behavioural cue for intention recognition. This review aims to draw a line between insights in the psychological literature on visuomotor control and relevant applications of gaze-based intention recognition in technical domains, with a focus on teleoperated and assistive robotic systems. Starting from the cognitive principles underlying the relationship between intentions, eye movements, and action, the use of eye tracking and gaze-based models for intent recognition in Human-Robot Interaction is considered, with prevalent methodologies and their diverse applications. Finally, special consideration is given to relevant human factors issues and current limitations to be factored in when designing such systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:26:26.231Z

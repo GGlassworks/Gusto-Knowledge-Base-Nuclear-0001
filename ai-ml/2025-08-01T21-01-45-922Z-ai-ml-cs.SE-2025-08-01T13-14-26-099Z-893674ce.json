@@ -1,0 +1,12 @@
+# A Framework for Automating Deployment and Evaluation of Blockchain Network
+
+**Authors:** Nguyen Khoi Tran, M. Ali Babar, Andrew Walters
+
+## Summary
+Blockchain network deployment and evaluation have become prevalent due to the demand for private blockchains by enterprises, governments, and edge computing systems. Whilst a blockchain network's deployment and evaluation are driven by its architecture, practitioners still need to learn and carry out many repetitive and error-prone activities to transform architecture into an operational blockchain network and evaluate it. Greater efficiency could be gained if practitioners focus solely on the architecture design, a valuable and hard-to-automate activity, and leave the implementation steps to an automation framework. This paper proposes an automation framework called NVAL (Network Deployment and Evaluation Framework), which can deploy and evaluate blockchain networks based on their architecture specifications. The key idea of NVAL is reusing and combining the existing automation scripts and utilities of various blockchain types to deploy and evaluate incoming blockchain network architectures. We propose a novel meta-model to capture blockchain network architectures as computer-readable artefacts and employ a state-space search approach to plan and conduct their deployment and evaluation. An evaluative case study shows that NVAL successfully combines seven deployment and evaluation procedures to deploy 65 networks with 12 different architectures and generate 295 evaluation datasets whilst incurring a negligible processing time overhead.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T13:14:26.099Z

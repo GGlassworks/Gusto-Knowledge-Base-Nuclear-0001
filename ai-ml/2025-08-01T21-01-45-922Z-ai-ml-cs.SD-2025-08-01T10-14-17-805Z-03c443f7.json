@@ -1,0 +1,12 @@
+# Non-uniform FIR Digital Filter Bank for Hearing Aid Application Using Frequency Response Masking Technique: A Review
+
+**Authors:** Arun Sebastian, Manu Francis, Arun Mathew
+
+## Summary
+Hearing aid is an electroacoustic device used to selectively amplify the audio sounds with an aim to make speech more intelligible for a hearing impaired person. Filter bank is one of the important parts of digital hearing aid where the sub band gains of each filter can be tuned to compensate an individuals unique hearing loss pattern. As the human perception is based on the logarithmic scale, nonuniform filter bank outperforms uniform filter bank. The main advantage of nonuniform filer bank is that it requires less number of sub-band filters, hence resulted in low hardware complexity and cost. Much effort has been devoted to design these nonuniform filter banks for hearing aid applications. This paper aimed to provide a review of previous researches based on nonuniform finite impulse response (FIR) digital filter bank for hearing aid application using frequency response masking (FRM) technique. By reviewing filter banks, we try to find the difference between fixed and variable band filter bank and to give an insight about which method is more suitable for matching most common types of hearing loss. Papers which involved methods of design, theoretical computation and simulation results of filter bank have been reviewed.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SD
+Collected: 2025-08-01T10:14:17.806Z

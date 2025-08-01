@@ -1,0 +1,12 @@
+# A Reference Architecture for Blockchain-based Peer-to-Peer IoT Applications
+
+**Authors:** Gowri Sankar Ramachandran, Bhaskar Krishnamachari
+
+## Summary
+The advent of Blockchain and Distributed Ledger Technologies enable IoT and smart city application developers to conceive new types of applications and solutions for identity management, trust, and data monetization. However, architecting blockchain-based IoT applications remain challenging due to the heterogeneous nature of blockchain platforms and lack of guidelines on how to interface existing components in the IoT ecosystem with the emerging Blockchain technology. This article explains the characteristics of blockchain and IoT technologies and presents a general reference architecture that can be used to develop many blockchain-based peer-to-peer IoT applications.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T13:03:20.545Z

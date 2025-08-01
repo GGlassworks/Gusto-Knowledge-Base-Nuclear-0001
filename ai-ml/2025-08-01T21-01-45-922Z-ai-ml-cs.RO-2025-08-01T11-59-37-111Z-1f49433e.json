@@ -1,0 +1,12 @@
+# Advances in Transformers for Robotic Applications: A Review
+
+**Authors:** Nikunj Sanghai, Nik Bear Brown
+
+## Summary
+The introduction of Transformers architecture has brought about significant breakthroughs in Deep Learning (DL), particularly within Natural Language Processing (NLP). Since their inception, Transformers have outperformed many traditional neural network architectures due to their "self-attention" mechanism and their scalability across various applications. In this paper, we cover the use of Transformers in Robotics. We go through recent advances and trends in Transformer architectures and examine their integration into robotic perception, planning, and control for autonomous systems. Furthermore, we review past work and recent research on use of Transformers in Robotics as pre-trained foundation models and integration of Transformers with Deep Reinforcement Learning (DRL) for autonomous systems. We discuss how different Transformer variants are being adapted in robotics for reliable planning and perception, increasing human-robot interaction, long-horizon decision-making, and generalization. Finally, we address limitations and challenges, offering insight and suggestions for future research directions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T11:59:37.111Z

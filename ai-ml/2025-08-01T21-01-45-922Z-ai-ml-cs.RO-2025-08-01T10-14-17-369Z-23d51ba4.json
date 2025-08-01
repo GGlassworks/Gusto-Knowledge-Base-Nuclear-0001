@@ -1,0 +1,12 @@
+# AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems
+
+**Authors:** Alexey Kotcov, Maria Dronova, Vladislav Cheremnykh, Sausar Karaf, Dzmitry Tsetserukou
+
+## Summary
+In the rapidly evolving landscape of digital content creation, the demand for fast, convenient, and autonomous methods of crafting detailed 3D reconstructions of humans has grown significantly. Addressing this pressing need, our AirNeRF system presents an innovative pathway to the creation of a realistic 3D human avatar. Our approach leverages Neural Radiance Fields (NeRF) with an automated drone-based video capturing method. The acquired data provides a swift and precise way to create high-quality human body reconstructions following several stages of our system. The rigged mesh derived from our system proves to be an excellent foundation for free-view synthesis of dynamic humans, particularly well-suited for the immersive experiences within gaming and virtual reality.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:17.369Z

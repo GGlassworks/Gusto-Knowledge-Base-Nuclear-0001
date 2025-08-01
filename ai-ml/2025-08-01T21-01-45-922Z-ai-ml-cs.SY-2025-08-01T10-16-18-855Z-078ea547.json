@@ -1,0 +1,12 @@
+# Impact of Digital Time Delay on the Stable Grid Hosting Capacity of Large-scale Centralized Photovoltaic Plant
+
+**Authors:** Jinhong Liu, Lin Zhou, Marta Molinas
+
+## Summary
+In view of the trend towards extensive application of digital controllers in the PV inverter of large-scale centralized photovoltaic (LSCPV) plant and the increasing number of grid-connected LSCPV plants, this paper investigates in detail the influence of the digital time delay of the inverter digital controller on the stable grid-hosting capacity of LSCPV plant. The studies are based on the Norton equivalent model of the grid-connected LSCPV system considering the digital time delay when modelling the digital control system of the PV inverter. Taking into account the actual situation in LSCPV plant, the stable grid-hosting capacity of LSCPV is discussed for the cases in which the PV inverters in the LSCPV plant have the same and different digital time delay values by using the root-locus method. Simulation results of the digitally controlled grid-connected LSCPV system model validates the theoretical analysis.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SY
+Collected: 2025-08-01T10:16:18.856Z

@@ -1,0 +1,12 @@
+# A Dataset of Uniswap daily transaction indices by network
+
+**Authors:** Nir Chemaya, Lin William Cong, Emma Jorgensen, Dingyue Liu, Luyao Zhang
+
+## Summary
+Decentralized Finance (DeFi) is reshaping traditional finance by enabling direct transactions without intermediaries, creating a rich source of open financial data. Layer 2 (L2) solutions are emerging to enhance the scalability and efficiency of the DeFi ecosystem, surpassing Layer 1 (L1) systems. However, the impact of L2 solutions is still underexplored, mainly due to the lack of comprehensive transaction data indices for economic analysis. This study bridges that gap by analyzing over 50 million transactions from Uniswap, a major decentralized exchange, across both L1 and L2 networks. We created a set of daily indices from blockchain data on Ethereum, Optimism, Arbitrum, and Polygon, offering insights into DeFi adoption, scalability, decentralization, and wealth distribution. Additionally, we developed an open-source Python framework for calculating decentralization indices, making this dataset highly useful for advanced machine learning research. Our work provides valuable resources for data scientists and contributes to the growth of the intelligent Web3 ecosystem.
+
+
+---
+Category: ai-ml
+Subcategory: econ.GN
+Collected: 2025-08-01T13:33:33.082Z

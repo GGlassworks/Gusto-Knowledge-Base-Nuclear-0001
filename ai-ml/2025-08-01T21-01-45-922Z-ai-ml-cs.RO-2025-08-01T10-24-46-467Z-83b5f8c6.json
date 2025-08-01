@@ -1,0 +1,12 @@
+# Human-robot co-manipulation of extended objects: Data-driven models and control from analysis of human-human dyads
+
+**Authors:** Erich Mielke, Eric Townsend, David Wingate, Marc D. Killpack
+
+## Summary
+Human teams are able to easily perform collaborative manipulation tasks. However, for a robot and human to simultaneously manipulate an extended object is a difficult task using existing methods from the literature. Our approach in this paper is to use data from human-human dyad experiments to determine motion intent which we use for a physical human-robot co-manipulation task. We first present and analyze data from human-human dyads performing co-manipulation tasks. We show that our human-human dyad data has interesting trends including that interaction forces are non-negligible compared to the force required to accelerate an object and that the beginning of a lateral movement is characterized by distinct torque triggers from the leader of the dyad. We also examine different metrics to quantify performance of different dyads. We also develop a deep neural network based on motion data from human-human trials to predict human intent based on past motion. We then show how force and motion data can be used as a basis for robot control in a human-robot dyad. Finally, we compare the performance of two controllers for human-robot co-manipulation to human-human dyad performance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:24:46.467Z

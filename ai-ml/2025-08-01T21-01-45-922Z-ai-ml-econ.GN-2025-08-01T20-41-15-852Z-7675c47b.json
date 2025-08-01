@@ -1,0 +1,12 @@
+# Aligning Large Language Model Agents with Rational and Moral Preferences: A Supervised Fine-Tuning Approach
+
+**Authors:** Wei Lu, Daniel L. Chen, Christian B. Hansen
+
+## Summary
+Understanding how large language model (LLM) agents behave in strategic interactions is essential as these systems increasingly participate autonomously in economically and morally consequential decisions. We evaluate LLM preferences using canonical economic games, finding substantial deviations from human behavior. Models like GPT-4o show excessive cooperation and limited incentive sensitivity, while reasoning models, such as o3-mini, align more consistently with payoff-maximizing strategies. We propose a supervised fine-tuning pipeline that uses synthetic datasets derived from economic reasoning to align LLM agents with economic preferences, focusing on two stylized preference structures. In the first, utility depends only on individual payoffs (homo economicus), while utility also depends on a notion of Kantian universalizability in the second preference structure (homo moralis). We find that fine-tuning based on small datasets shifts LLM agent behavior toward the corresponding economic agent. We further assess the fine-tuned agents' behavior in two applications: Moral dilemmas involving autonomous vehicles and algorithmic pricing in competitive markets. These examples illustrate how different normative objectives embedded via realizations from structured preference structures can influence market and moral outcomes. This work contributes a replicable, cost-efficient, and economically grounded pipeline to align AI preferences using moral-economic principles.
+
+
+---
+Category: ai-ml
+Subcategory: econ.GN
+Collected: 2025-08-01T20:41:15.853Z

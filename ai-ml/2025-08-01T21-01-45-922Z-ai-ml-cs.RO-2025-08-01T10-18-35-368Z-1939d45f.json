@@ -1,0 +1,12 @@
+# A Real2Sim2Real Method for Robust Object Grasping with Neural Surface Reconstruction
+
+**Authors:** Luobin Wang, Runlin Guo, Quan Vuong, Yuzhe Qin, Hao Su, Henrik Christensen
+
+## Summary
+Recent 3D-based manipulation methods either directly predict the grasp pose using 3D neural networks, or solve the grasp pose using similar objects retrieved from shape databases. However, the former faces generalizability challenges when testing with new robot arms or unseen objects; and the latter assumes that similar objects exist in the databases. We hypothesize that recent 3D modeling methods provides a path towards building digital replica of the evaluation scene that affords physical simulation and supports robust manipulation algorithm learning. We propose to reconstruct high-quality meshes from real-world point clouds using state-of-the-art neural surface reconstruction method (the Real2Sim step). Because most simulators take meshes for fast simulation, the reconstructed meshes enable grasp pose labels generation without human efforts. The generated labels can train grasp network that performs robustly in the real evaluation scene (the Sim2Real step). In synthetic and real experiments, we show that the Real2Sim2Real pipeline performs better than baseline grasp networks trained with a large dataset and a grasp sampling method with retrieval-based reconstruction. The benefit of the Real2Sim2Real pipeline comes from 1) decoupling scene modeling and grasp sampling into sub-problems, and 2) both sub-problems can be solved with sufficiently high quality using recent 3D learning algorithms and mesh-based physical simulation techniques.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:18:35.368Z

@@ -1,0 +1,12 @@
+# If Turing played piano with an artificial partner
+
+**Authors:** Dobromir Dotov, Dante Camarena, Zack Harris, Joanna Spyra, Pietro Gagliano, Laurel Trainor
+
+## Summary
+Music is an inherently social activity that allows people to share experiences and feel connected with one another. There has been little progress in designing artificial partners exhibiting a similar social experience as playing with another person. Neural network architectures that implement generative models, such as large language models, are suited for producing musical scores. Playing music socially, however, involves more than playing a score; it must complement the other musicians' ideas and keep time correctly. We addressed the question of whether a convincing social experience is made possible by a generative model trained to produce musical scores, not necessarily optimized for synchronization and continuation. The network, a variational autoencoder trained on a large corpus of digital scores, was adapted for a timed call-and-response task with a human partner. Participants played piano with a human or artificial partner-in various configurations-and rated the performance quality and first-person experience of self-other integration. Overall, the artificial partners held promise but were rated lower than human partners. The artificial partner with simplest design and highest similarity parameter was not rated differently from the human partners on some measures, suggesting that interactive rather than generative sophistication is important in enabling social AI.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SI
+Collected: 2025-08-01T10:17:22.008Z

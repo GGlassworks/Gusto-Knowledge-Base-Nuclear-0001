@@ -1,0 +1,12 @@
+# Enhanced Sound Event Localization and Detection in Real 360-degree audio-visual soundscapes
+
+**Authors:** Adrian S. Roman, Baladithya Balamurugan, Rithik Pothuganti
+
+## Summary
+This technical report details our work towards building an enhanced audio-visual sound event localization and detection (SELD) network. We build on top of the audio-only SELDnet23 model and adapt it to be audio-visual by merging both audio and video information prior to the gated recurrent unit (GRU) of the audio-only network. Our model leverages YOLO and DETIC object detectors. We also build a framework that implements audio-visual data augmentation and audio-visual synthetic data generation. We deliver an audio-visual SELDnet system that outperforms the existing audio-visual SELD baseline.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SD
+Collected: 2025-08-01T19:48:00.360Z

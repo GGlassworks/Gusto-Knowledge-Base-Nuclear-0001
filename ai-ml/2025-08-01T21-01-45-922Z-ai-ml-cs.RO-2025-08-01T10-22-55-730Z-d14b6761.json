@@ -1,0 +1,12 @@
+# DronePaint: Swarm Light Painting with DNN-based Gesture Recognition
+
+**Authors:** Valerii Serpiva, Ekaterina Karmanova, Aleksey Fedoseev, Stepan Perminov, Dzmitry Tsetserukou
+
+## Summary
+We propose a novel human-swarm interaction system, allowing the user to directly control a swarm of drones in a complex environment through trajectory drawing with a hand gesture interface based on the DNN-based gesture recognition. The developed CV-based system allows the user to control the swarm behavior without additional devices through human gestures and motions in real-time, providing convenient tools to change the swarm's shape and formation. The two types of interaction were proposed and implemented to adjust the swarm hierarchy: trajectory drawing and free-form trajectory generation control. The experimental results revealed a high accuracy of the gesture recognition system (99.75%), allowing the user to achieve relatively high precision of the trajectory drawing (mean error of 5.6 cm in comparison to 3.1 cm by mouse drawing) over the three evaluated trajectory patterns. The proposed system can be potentially applied in complex environment exploration, spray painting using drones, and interactive drone shows, allowing users to create their own art objects by drone swarms.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:22:55.730Z

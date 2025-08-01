@@ -1,0 +1,12 @@
+# Autonomous Reality Modelling for Cultural Heritage Sites employing cooperative quadrupedal robots and unmanned aerial vehicles
+
+**Authors:** Nikolaos Giakoumidis, Christos-Nikolaos Anagnostopoulos
+
+## Summary
+Nowadays, the use of advanced sensors, such as terrestrial 3D laser scanners, mobile LiDARs and Unmanned Aerial Vehicles (UAV) photogrammetric imaging, has become the prevalent practice for 3D Reality Modeling and digitization of large-scale monuments of Cultural Heritage (CH). In practice, this process is heavily related to the expertise of the surveying team, handling the laborious planning and time-consuming execution of the 3D mapping process that is tailored to the specific requirements and constraints of each site. To minimize human intervention, this paper introduces a novel methodology for autonomous 3D Reality Modeling for CH monuments by employing au-tonomous biomimetic quadrupedal robotic agents and UAVs equipped with the appropriate sensors. These autonomous robotic agents carry out the 3D RM process in a systematic and repeatable ap-proach. The outcomes of this automated process may find applications in digital twin platforms, facilitating secure monitoring and management of cultural heritage sites and spaces, in both indoor and outdoor environments.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:16:11.034Z

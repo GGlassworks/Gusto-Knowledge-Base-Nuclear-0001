@@ -1,0 +1,12 @@
+# A Semi-Formal Verification Methodology for Efficient Configuration Coverage of Highly Configurable Digital Designs
+
+**Authors:** Aman Kumar, Sebastian Simon
+
+## Summary
+Nowadays, a majority of System-on-Chips (SoCs) make use of Intellectual Property (IP) in order to shorten development cycles. When such IPs are developed, one of the main focuses lies in the high configurability of the design. This flexibility on the design side introduces the challenge of covering a huge state space of IP configurations on the verification side to ensure the functional correctness under every possible parameter setting. The vast number of possibilities does not allow a brute-force approach, and therefore, only a selected number of settings based on typical and extreme assumptions are usually verified. Especially in automotive applications, which need to follow the ISO 26262 functional safety standard, the requirement of covering all significant variants needs to be fulfilled in any case. State-of-the-Art existing verification techniques such as simulation-based verification and formal verification have challenges such as time-space explosion and state-space explosion respectively and therefore, lack behind in verifying highly configurable digital designs efficiently. This paper is focused on a semi-formal verification methodology for efficient configuration coverage of highly configurable digital designs. The methodology focuses on reduced runtime based on simulative and formal methods that allow high configuration coverage. The paper also presents the results when the developed methodology was applied on a highly configurable microprocessor IP and discusses the gained benefits.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T10:26:32.362Z

@@ -1,0 +1,12 @@
+# Composer's Assistant 2: Interactive Multi-Track MIDI Infilling with Fine-Grained User Control
+
+**Authors:** Martin E. Malandro
+
+## Summary
+We introduce Composer's Assistant 2, a system for interactive human-computer composition in the REAPER digital audio workstation. Our work upgrades the Composer's Assistant system (which performs multi-track infilling of symbolic music at the track-measure level) with a wide range of new controls to give users fine-grained control over the system's outputs. Controls introduced in this work include two types of rhythmic conditioning controls, horizontal and vertical note onset density controls, several types of pitch controls, and a rhythmic interest control. We train a T5-like transformer model to implement these controls and to serve as the backbone of our system. With these controls, we achieve a dramatic improvement in objective metrics over the original system. We also study how well our model understands the meaning of our controls, and we conduct a listening study that does not find a significant difference between real music and music composed in a co-creative fashion with our system. We release our complete system, consisting of source code, pretrained models, and REAPER scripts.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SD
+Collected: 2025-08-01T10:22:49.815Z

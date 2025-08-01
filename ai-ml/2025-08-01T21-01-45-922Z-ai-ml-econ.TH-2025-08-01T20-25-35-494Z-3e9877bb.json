@@ -1,0 +1,12 @@
+# On the Equivalence of Neural and Production Networks
+
+**Authors:** Roy Gernhardt, Bjorn Persson
+
+## Summary
+This paper identifies the mathematical equivalence between economic networks of Cobb-Douglas agents and Artificial Neural Networks. It explores two implications of this equivalence under general conditions. First, a burgeoning literature has established that network propagation can transform microeconomic perturbations into large aggregate shocks. Neural network equivalence amplifies the magnitude and complexity of this phenomenon. Second, if economic agents adjust their production and utility functions in optimal response to local conditions, market pricing is a sufficient and robust channel for information feedback leading to macro learning.
+
+
+---
+Category: ai-ml
+Subcategory: econ.TH
+Collected: 2025-08-01T20:25:35.495Z

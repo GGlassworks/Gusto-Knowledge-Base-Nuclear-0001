@@ -1,0 +1,12 @@
+# SoK: Blockchain Decentralization
+
+**Authors:** Luyao Zhang, Xinshi Ma, Yulin Liu
+
+## Summary
+Blockchain introduces decentralized trust in peer-to-peer networks, advancing security and democratizing systems. Yet, a unified definition for decentralization remains elusive. Our Systematization of Knowledge (SoK) seeks to bridge this gap, emphasizing quantification and methodological coherence. We've formulated a taxonomy defining blockchain decentralization across five facets: consensus, network, governance, wealth, and transaction. Despite the prevalent focus on consensus decentralization, our novel index, based on Shannon entropy, provides comprehensive insights. Moreover, we delve into alternative metrics like the Gini and Nakamoto Coefficients and the Herfindahl-Hirschman Index (HHI), supplemented by an open-source Python tool on GitHub. In terms of methodology, blockchain research has often bypassed stringent scientific methods. By employing descriptive, predictive, and causal methods, our study showcases the potential of structured research in blockchain. Descriptively, we observe a trend of converging decentralization levels over time. Examining DeFi platforms reveals exchange and lending applications as more decentralized than their payment and derivatives counterparts. Predictively, there's a notable correlation between Ether's returns and transaction decentralization in Ether-backed stablecoins. Causally, Ethereum's transition to the EIP-1559 transaction fee model has a profound impact on DeFi transaction decentralization. To conclude, our work outlines directions for blockchain research, emphasizing the delicate balance among decentralization facets, fostering long-term decentralization, and the ties between decentralization, security, privacy, and efficiency. We end by spotlighting challenges in grasping blockchain decentralization intricacies.
+
+
+---
+Category: ai-ml
+Subcategory: econ.GN
+Collected: 2025-08-01T13:39:01.621Z

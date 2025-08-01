@@ -1,0 +1,12 @@
+# An Extended Pattern Collection for Blockchain-based Applications
+
+**Authors:** Xiwei Xu, Cesare Pautasso, Sin Kuang Lo, Liming Zhu, Qinghua Lu, Ingo Weber
+
+## Summary
+Blockchain is an emerging technology that enables new forms of decentralized software architectures, where distributed components can reach agreements on shared system states without trusting a central integration point. Blockchain provides a shared infrastructure to execute programs, called smart contracts, and to store data. Since blockchain technologies are at an early stage, there is a lack of a systematically organized knowledge providing a holistic view on designing software systems that use blockchain. We view blockchain as a component of a bigger software system, which requires patterns for using blockchain in the design of the software architecture. In this paper, we collect a list of patterns for blockchain-based applications. The pattern collection is categorized into five categories, including interaction with external world patterns, data management patterns, security patterns, structural patterns of contracts, and user interaction patterns. Some patterns are designed considering the nature of blockchain and how blockchains can be specifically introduced within real-world applications. Others are variants of existing design patterns applied in the context of blockchain-based applications and smart contracts.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T13:03:21.028Z

@@ -1,0 +1,12 @@
+# Digital Einstein Experience: Fast Text-to-Speech for Conversational AI
+
+**Authors:** Joanna Rownicka, Kilian Sprenkamp, Antonio Tripiana, Volodymyr Gromoglasov, Timo P Kunz
+
+## Summary
+We describe our approach to create and deliver a custom voice for a conversational AI use-case. More specifically, we provide a voice for a Digital Einstein character, to enable human-computer interaction within the digital conversation experience. To create the voice which fits the context well, we first design a voice character and we produce the recordings which correspond to the desired speech attributes. We then model the voice. Our solution utilizes Fastspeech 2 for log-scaled mel-spectrogram prediction from phonemes and Parallel WaveGAN to generate the waveforms. The system supports a character input and gives a speech waveform at the output. We use a custom dictionary for selected words to ensure their proper pronunciation. Our proposed cloud architecture enables for fast voice delivery, making it possible to talk to the digital version of Albert Einstein in real-time.
+
+
+---
+Category: ai-ml
+Subcategory: eess.AS
+Collected: 2025-08-01T10:14:16.907Z

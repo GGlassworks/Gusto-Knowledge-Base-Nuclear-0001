@@ -1,0 +1,12 @@
+# GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments
+
+**Authors:** Farha Abdul Wasay, Mohammed Abdul Rahman, Hania Ghouse
+
+## Summary
+The convergence of robotics and virtual reality (VR) has enabled safer and more efficient workflows in high-risk laboratory settings, particularly virology labs. As biohazard complexity increases, minimizing direct human exposure while maintaining precision becomes essential. We propose GAMORA (Gesture Articulated Meta Operative Robotic Arm), a novel VR-guided robotic system that enables remote execution of hazardous tasks using natural hand gestures. Unlike existing scripted automation or traditional teleoperation, GAMORA integrates the Oculus Quest 2, NVIDIA Jetson Nano, and Robot Operating System (ROS) to provide real-time immersive control, digital twin simulation, and inverse kinematics-based articulation. The system supports VR-based training and simulation while executing precision tasks in physical environments via a 3D-printed robotic arm. Inverse kinematics ensure accurate manipulation for delicate operations such as specimen handling and pipetting. The pipeline includes Unity-based 3D environment construction, real-time motion planning, and hardware-in-the-loop testing. GAMORA achieved a mean positional discrepancy of 2.2 mm (improved from 4 mm), pipetting accuracy within 0.2 mL, and repeatability of 1.2 mm across 50 trials. Integrated object detection via YOLOv8 enhances spatial awareness, while energy-efficient operation (50% reduced power output) ensures sustainable deployment. The system's digital-physical feedback loop enables safe, precise, and repeatable automation of high-risk lab tasks. GAMORA offers a scalable, immersive solution for robotic control and biosafety in biomedical research environments.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:22:50.346Z

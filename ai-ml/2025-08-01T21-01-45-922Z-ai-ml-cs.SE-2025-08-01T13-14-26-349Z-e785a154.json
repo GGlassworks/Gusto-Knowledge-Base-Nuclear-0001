@@ -1,0 +1,12 @@
+# uBaaS: A Unified Blockchain as a Service Platform
+
+**Authors:** Qinghua Lu, Xiwei Xu, Yue Liu, Ingo Weber, Liming Zhu, Weishan Zhang
+
+## Summary
+Blockchain is an innovative distributed ledger technology which has attracted a wide range of interests for building the next generation of applications to address lack-of-trust issues in business. Blockchain as a service (BaaS) is a promising solution to improve the productivity of blockchain application development. However, existing BaaS deployment solutions are mostly vendor-locked: they are either bound to a cloud provider or a blockchain platform. In addition to deployment, design and implementation of blockchain-based applications is a hard task requiring deep expertise. Therefore, this paper presents a unified blockchain as a service platform (uBaaS) to support both design and deployment of blockchain-based applications. The services in uBaaS include deployment as a service, design pattern as a service and auxiliary services. In uBaaS, deployment as a service is platform agnostic, which can avoid lock-in to specific cloud platforms, while design pattern as a service applies design patterns for data management and smart contract design to address the scalability and security issues of blockchain. The proposed solutions are evaluated using a real-world quality tracing use case in terms of feasibility and scalability.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T13:14:26.349Z

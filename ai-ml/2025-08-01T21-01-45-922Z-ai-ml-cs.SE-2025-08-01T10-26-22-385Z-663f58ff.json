@@ -1,0 +1,12 @@
+# A Survey on Web Testing: On the Rise of AI and Applications in Industry
+
+**Authors:** Iva Kertusha, Gebremariem Assress, Onur Duman, Andrea Arcuri
+
+## Summary
+Web application testing is an essential practice to ensure the reliability, security, and performance of web systems in an increasingly digital world. This paper presents a systematic literature survey focusing on web testing methodologies, tools, and trends from 2014 to 2024. By analyzing \totalPapersIncluded research papers, the survey identifies key trends, demographics, contributions, tools, challenges, and innovations in this domain. In addition, the survey analyzes the experimental setups adopted by the studies, including the number of participants involved and the outcomes of the experiments. Our results show that web testing research has been highly active, with ICST as the leading venue. Most studies focus on novel techniques, emphasizing automation in black-box testing. Selenium is the most widely used tool, while industrial adoption and human studies remain comparatively limited. The findings provide a detailed overview of trends, advancements, and challenges in web testing research, the evolution of automated testing methods, the role of artificial intelligence in test case generation, and gaps in current research. Special attention was given to the level of collaboration and engagement with the industry. A positive trend in using industrial systems is observed, though many tools lack open-source availability.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T10:26:22.385Z

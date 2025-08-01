@@ -1,0 +1,12 @@
+# Predicting Hidden Links and Missing Nodes in Scale-Free Networks with Artificial Neural Networks
+
+**Authors:** Rakib Hassan Pran, Ljupco Todorovski
+
+## Summary
+There are many networks in real life which exist as form of Scale-free networks such as World Wide Web, protein-protein inter action network, semantic networks, airline networks, interbank payment networks, etc. If we want to analyze these networks, it is really necessary to understand the properties of scale-free networks. By using the properties of scale free networks, we can identify any type of anomalies in those networks. In this research, we proposed a methodology in a form of an algorithm to predict hidden links and missing nodes in scale-free networks where we combined a generator of random networks as a source of train data, on one hand, with artificial neural networks for supervised classification, on the other, we aimed at training the neural networks to discriminate between different subtypes of scale-free networks and predicted the missing nodes and hidden links among (present and missing) nodes in a given scale-free network. We chose Bela Bollobas's directed scale-free random graph generation algorithm as a generator of random networks to generate a large set of scale-free network's data.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SI
+Collected: 2025-08-01T11:44:24.730Z

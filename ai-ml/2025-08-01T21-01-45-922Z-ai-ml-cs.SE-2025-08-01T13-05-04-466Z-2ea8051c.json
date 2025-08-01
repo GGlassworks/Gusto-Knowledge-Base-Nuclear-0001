@@ -1,0 +1,12 @@
+# BGRA: A Reference Architecture for Blockchain Governance
+
+**Authors:** Yue Liu, Qinghua Lu, Guangsheng Yu, Hye-Young Paik, Liming Zhu
+
+## Summary
+Blockchain technology has been integrated into diverse software applications by enabling a decentralised architecture design. However, the defects of on-chain algorithmic mechanisms, and tedious disputes and debates in off-chain communities may affect the operation of blockchain systems. Accordingly, blockchain governance has received great interest for supporting the design, use, and maintenance of blockchain systems, hence improving the overall trustworthiness. Although much effort has been put into this research topic, there is a distinct lack of consideration for blockchain governance from the perspective of software architecture design. In this study, we propose a pattern-oriented reference architecture for governance-driven blockchain systems, which can provide guidance for future blockchain architecture design. We design the reference architecture based on an extensive review of architecture patterns for blockchain governance in academic literature and industry implementation. The reference architecture consists of four layers. We demonstrate the components in each layer, annotating with the identified patterns. A qualitative analysis of mapping two concrete blockchain architectures, Polkadot and Quorum, on the reference architecture is conducted, to evaluate the correctness and utility of proposed reference architecture.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SE
+Collected: 2025-08-01T13:05:04.466Z

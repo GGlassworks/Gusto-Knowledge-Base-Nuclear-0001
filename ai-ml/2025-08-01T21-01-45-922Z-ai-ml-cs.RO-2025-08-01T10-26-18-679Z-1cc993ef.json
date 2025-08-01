@@ -1,0 +1,12 @@
+# Benchmarking Adaptive Intelligence and Computer Vision on Human-Robot Collaboration
+
+**Authors:** Salaar Saraj, Gregory Shklovski, Kristopher Irizarry, Jonathan Vet, Yutian Ren
+
+## Summary
+Human-Robot Collaboration (HRC) is vital in Industry 4.0, using sensors, digital twins, collaborative robots (cobots), and intention-recognition models to have efficient manufacturing processes. However, Concept Drift is a significant challenge, where robots struggle to adapt to new environments. We address concept drift by integrating Adaptive Intelligence and self-labeling (SLB) to improve the resilience of intention-recognition in an HRC system. Our methodology begins with data collection using cameras and weight sensors, which is followed by annotation of intentions and state changes. Then we train various deep learning models with different preprocessing techniques for recognizing and predicting the intentions. Additionally, we developed a custom state detection algorithm for enhancing the accuracy of SLB, offering precise state-change definitions and timestamps to label intentions. Our results show that the MViT2 model with skeletal posture preprocessing achieves an accuracy of 83% on our data environment, compared to the 79% accuracy of MViT2 without skeleton posture extraction. Additionally, our SLB mechanism achieves a labeling accuracy of 91%, reducing a significant amount of time that would've been spent on manual annotation. Lastly, we observe swift scaling of model performance that combats concept drift by fine tuning on different increments of self-labeled data in a shifted domain that has key differences from the original training environment.. This study demonstrates the potential for rapid deployment of intelligent cobots in manufacturing through the steps shown in our methodology, paving a way for more adaptive and efficient HRC systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:26:18.680Z

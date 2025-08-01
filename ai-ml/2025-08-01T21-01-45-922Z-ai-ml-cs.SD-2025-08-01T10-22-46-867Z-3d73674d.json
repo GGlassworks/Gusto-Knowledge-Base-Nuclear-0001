@@ -1,0 +1,12 @@
+# Vocal Melody Construction for Persian Lyrics Using LSTM Recurrent Neural Networks
+
+**Authors:** Farshad Jafari, Farzad Didehvar, Amin Gheibi
+
+## Summary
+The present paper investigated automatic melody construction for Persian lyrics as an input. It was assumed that there is a phonological correlation between the lyric syllables and the melody in a song. A seq2seq neural network was developed to investigate this assumption, trained on parallel syllable and note sequences in Persian songs to suggest a pleasant melody for a new sequence of syllables. More than 100 pieces of Persian music were collected and converted from the printed version to the digital format due to the lack of a dataset on Persian digital music. Finally, 14 new lyrics were given to the model as input, and the suggested melodies were performed and recorded by music experts to evaluate the trained model. The evaluation was conducted using an audio questionnaire, which more than 170 persons answered. According to the answers about the pleasantness of melody, the system outputs scored an average of 3.005 from 5, while the human-made melodies for the same lyrics obtained an average score of 4.078.
+
+
+---
+Category: ai-ml
+Subcategory: cs.SD
+Collected: 2025-08-01T10:22:46.867Z

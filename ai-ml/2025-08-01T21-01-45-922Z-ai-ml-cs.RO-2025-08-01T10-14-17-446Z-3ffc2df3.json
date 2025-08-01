@@ -1,0 +1,12 @@
+# How to Integrate Digital Twin and Virtual Reality in Robotics Systems? Design and Implementation for Providing Robotics Maintenance Services in Data Centers
+
+**Authors:** Lin Xie, Hanyi Li
+
+## Summary
+In the context of Industry 4.0, the physical and digital worlds are closely connected, and robots are widely used to achieve system automation. Digital twin solutions have contributed significantly to the growth of Industry 4.0. Combining various technologies is a trend that aims to improve system performance. For example, digital twinning can be combined with virtual reality in automated systems. This paper proposes a new concept to articulate this combination, which has mainly been implemented in engineering research projects. However, there are currently no guidelines, plans, or concepts to articulate this combination. The concept will be implemented in data centers, which are crucial for enabling virtual tasks in our daily lives. Due to the COVID-19 pandemic, there has been a surge in demand for services such as e-commerce and videoconferencing. Regular maintenance is necessary to ensure uninterrupted and reliable services. Manual maintenance strategies may not be sufficient to meet the current high demand, and innovative approaches are needed to address the problem. This paper presents a novel approach to data center maintenance: real-time monitoring by an autonomous robot. The robot is integrated with digital twins of assets and a virtual reality interface that allows human personnel to control it and respond to alarms. This methodology enables faster, more cost-effective, and higher quality data center maintenance. It has been validated in a real data centre and can be used for intelligent monitoring and management through joint data sources. The method has potential applications in other automated systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:17.446Z
