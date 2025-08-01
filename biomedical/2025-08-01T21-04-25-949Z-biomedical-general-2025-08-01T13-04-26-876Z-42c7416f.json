@@ -1,0 +1,13 @@
+# Technology optimization for patient safety: a blockchain-based anesthesia record system architecture
+
+**Authors:** Roberto Orofino Giambastiani, Rodrigo Sáenz, Guido Lahitte, Juan Umaran
+
+## Abstract
+<jats:p>Patient safety is acknowledged as a primary aim of anesthesiology. Anesthesia records constitute the main document of the intraoperative course of anesthesia administration. In this paper, we postulate that anesthesia record systems should be based on an integral tamper-proof design and provide specific technology characteristics to ensure data immutability, accessibility and transparency. Issues and limitations regarding current anesthesia record technologies are reviewed. We introduce a novel anesthesia record system designed for patient safety optimization which integrates dedicated hardware, blockchain technology and decentralized storage solutions. We propose an oracle network in which anesthesiologists run independent Sybil-resistant nodes which broadcast biosensor time series to decentralized storage systems and generate proofs of existence on public blockchains. Records are biometrically signed and incorporate information on the temporo-spatial relation between the anesthetized patient and the professional in charge through a unique personal-transponder wearable device. Compatibility for data science and machine learning implementation are discussed. Finally, we evaluate future impact and technological potential.</jats:p>
+
+**Source:** https://doi.org/10.3389/fbloc.2023.1116124
+
+---
+Category: biomedical
+Subcategory: general
+Collected: 2025-08-01T13:04:26.876Z

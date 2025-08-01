@@ -1,0 +1,16 @@
+# Integrating Transformers and Many-Objective Optimization for Cancer Drug Design
+
+**Authors:** Nicholas Aksamit, Jinqiang Hou, Yifeng Li, Beatrice Ombuki-Berman
+
+## Abstract
+<jats:title>Abstract</jats:title>
+        <jats:p><jats:bold>Background</jats:bold>: Drug design is a challenging and important task that requires the generation of novel and effective molecules that can bind to specific protein targets. Artificial intelligence (AI) algorithms have recently showed promising potential to expedite the drug design process. However, existing methods adopt multi-objective approaches which limits the number of objectives. 
+<jats:bold>Results</jats:bold>: In this paper, we expand this thread of research from the many-objective perspective, by proposing a novel framework that integrates a latent Transformer-based model for molecular generation, with a drug design system that incorporates absorption, distribution, metabolism, excretion, and toxicity (ADMET) prediction, molecular docking, and many-objective metaheuristics. We compared the performance of two latent Transformer models (ReLSO and FragNet) on a molecular generation task and show that ReLSO outperforms FragNet in terms of reconstruction and latent space organization. We then explored six different many-objective metaheuristics based on evolutionary algorithms and particle swarm optimization on a drug design task involving potential drug candidates to human lysophosphatidic acid receptor 1 (LPA1), a cancer-related protein target. 
+<jats:bold>Conclusion</jats:bold>: We show that multi-objective evolutionary algorithm based on dominance and decomposition (MOEA/DD) performs the best in terms of finding molecules that satisfy many objectives, such as high binding affinity and low toxicity, and high drug-likeness. Our framework demonstrates the potential of combining Transformers and many-objective computational intelligence for cancer drug design.</jats:p>
+
+**Source:** https://doi.org/10.21203/rs.3.rs-4229436/v1
+
+---
+Category: biomedical
+Subcategory: general
+Collected: 2025-08-01T11:53:35.994Z

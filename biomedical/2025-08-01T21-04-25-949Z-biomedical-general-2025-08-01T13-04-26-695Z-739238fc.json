@@ -1,0 +1,13 @@
+# Utilizing blockchain technology for clinical trial optimization
+
+**Authors:** Yan Zhuang
+
+## Abstract
+<jats:p xml:lang="en">Clinical trials are the cornerstone of treatment discovery because they provide comprehensive scientific evidence on the safety, efficacy, and optimal use of therapeutics. However, current clinical trials are facing multiple challenges such as patient recruitment, data capture, and overall management. There are various causes of patient recruitment challenges such as inefficient advertising models, complex protocols, and distant trial sites. Data inconsistency is the main challenge of the data capture process. Source data verification, a standard method used for data monitoring, is resource-intensive that can cost up to 25 percent of the total budget. The current clinical trial management system market is fragmented and lacks thorough designs with all desired features so that nearly all respondents to management systems from the annual global survey reported dissatisfaction with the current management system. Based on these challenges, disruptive technologies such as blockchain may provide feasible solutions by utilizing its unique features. Blockchain is an open-source distributed ledger technology that was first applied in the financial sector. Its features such as public audibility, data security, immutability, anonymity, and smart contracts are a good fit for the needs of many healthcare applications. However, there are several common challenges of blockchain technology so that most blockchain designs for healthcare applications are still in the early stage of implementation. This dissertation aims at optimizing clinical trials by developing multiple applications using blockchain technology to provide feasible solutions to the current challenges. We will use real-world data to conduct large-scale simulations to evaluate the feasibility and performance of proposed blockchain models for clinical trial applications.</jats:p>
+
+**Source:** https://doi.org/10.32469/10355/90109
+
+---
+Category: biomedical
+Subcategory: general
+Collected: 2025-08-01T13:04:26.695Z

@@ -1,0 +1,13 @@
+# A Fresh Look at Tomato Leaf Disease Recognition using Vision Transformers
+
+**Authors:** Walid Abdullah, Chomyong Kim, Yunyoung Nam
+
+## Abstract
+<jats:p>Tomatoes is one of the major economically significant vegetables produced worldwide, contributing greatly to increased agricultural production and food security. However, tomato plants are unfortunately prone to a number of diseases, including several that target the leaves, which can significantly reduce crop productivity and quality. Recently, deep learning techniques have revolutionized the fields of computer vision and image analysis. By automatically learning hierarchical representations from raw pixel data. Transformer is a new deep learning technique that opens new possibilities for image understanding using self-attention mechanisms to capture global dependencies within input sequences. This approach is exemplified by the Vision Transformer (ViT). In this study, we utilize and evaluate the effectiveness of six variations of the Vision Transformer (ViT) architecture in the task of tomato leaf disease recognition. The variants include Mobile ViT, EANet, Swin ViT, ViT, Shift ViT, and Compact ViT. Utilizing a publicly available, multiple-source dataset of tomato leaf images containing various disease patterns. Performance for all models was evaluated and compared in classifying various types of tomato leaf diseases in terms of accuracy, loss, precision, recall, and F1-Score, and the results showed that. The CompactVit has achieved the best accuracy of 97% and precision of 97% and 96% for recall. While the mobile ViT has the lowest performance among all variations in tomato disease recognition, overall, ViT is showing its promise, and it can be utilized on a large scale for smart agriculture, which opens the door for further exploration of this area.</jats:p>
+
+**Source:** https://doi.org/10.61356/j.oia.2024.1274
+
+---
+Category: biomedical
+Subcategory: general
+Collected: 2025-08-01T11:53:35.687Z
