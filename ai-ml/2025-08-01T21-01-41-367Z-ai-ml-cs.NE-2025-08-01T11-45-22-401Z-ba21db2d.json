@@ -1,0 +1,12 @@
+# Coevolutionary Neural Population Models
+
+**Authors:** Nick Moran, Jordan Pollack
+
+## Summary
+We present a method for using neural networks to model evolutionary population dynamics, and draw parallels to recent deep learning advancements in which adversarially-trained neural networks engage in coevolutionary interactions. We conduct experiments which demonstrate that models from evolutionary game theory are capable of describing the behavior of these neural population systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:45:22.402Z

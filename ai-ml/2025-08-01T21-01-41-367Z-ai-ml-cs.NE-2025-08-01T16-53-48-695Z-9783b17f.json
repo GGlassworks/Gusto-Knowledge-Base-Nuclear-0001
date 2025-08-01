@@ -1,0 +1,12 @@
+# Survey of Genetic and Differential Evolutionary Algorithm Approaches to Search Documents Based On Semantic Similarity
+
+**Authors:** Chandrashekar Muniyappa, Eunjin Kim
+
+## Summary
+Identifying similar documents within extensive volumes of data poses a significant challenge. To tackle this issue, researchers have developed a variety of effective distributed computing techniques. With the advancement of computing power and the rise of big data, deep neural networks and evolutionary computing algorithms such as genetic algorithms and differential evolution algorithms have achieved greater success. This survey will explore the most recent advancements in the search for documents based on their semantic text similarity, focusing on genetic and differential evolutionary computing algorithms.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T16:53:48.696Z

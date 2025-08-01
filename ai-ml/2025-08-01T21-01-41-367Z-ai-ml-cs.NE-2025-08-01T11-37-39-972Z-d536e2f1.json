@@ -1,0 +1,12 @@
+# Survey of Dropout Methods for Deep Neural Networks
+
+**Authors:** Alex Labach, Hojjat Salehinejad, Shahrokh Valaee
+
+## Summary
+Dropout methods are a family of stochastic techniques used in neural network training or inference that have generated significant research interest and are widely used in practice. They have been successfully applied in neural network regularization, model compression, and in measuring the uncertainty of neural network outputs. While original formulated for dense neural network layers, recent advances have made dropout methods also applicable to convolutional and recurrent neural network layers. This paper summarizes the history of dropout methods, their various applications, and current areas of research interest. Important proposed methods are described in additional detail.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:37:39.972Z

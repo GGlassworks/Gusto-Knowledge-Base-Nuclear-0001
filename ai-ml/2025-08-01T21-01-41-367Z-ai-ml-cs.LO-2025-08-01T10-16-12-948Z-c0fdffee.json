@@ -1,0 +1,12 @@
+# Studying Algebraic Structures using Prover9 and Mace4
+
+**Authors:** Rob Arthan, Paulo Oliva
+
+## Summary
+In this chapter we present a case study, drawn from our research work, on the application of a fully automated theorem prover together with an automatic counter-example generator in the investigation of a class of algebraic structures. We will see that these tools, when combined with human insight and traditional algebraic methods, help us to explore the problem space quickly and effectively. The counter-example generator rapidly rules out many false conjectures, while the theorem prover is often much more efficient than a human being at verifying algebraic identities. The specific tools in our case study are Prover9 and Mace4; the algebraic structures are generalisations of Heyting algebras known as hoops. We will see how this approach helped us to discover new theorems and to find new or improved proofs of known results. We also make some suggestions for how one might deploy these tools to supplement a more conventional approach to teaching algebra.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LO
+Collected: 2025-08-01T10:16:12.948Z

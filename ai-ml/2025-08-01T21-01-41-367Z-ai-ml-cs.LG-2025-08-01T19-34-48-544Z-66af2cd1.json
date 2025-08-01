@@ -1,0 +1,12 @@
+# Causal Relationship Network of Risk Factors Impacting Workday Loss in Underground Coal Mines
+
+**Authors:** Shangsi Ren, Cameron A. Beeche, Zhiyi Shi, Maria Acevedo Garcia, Katherine Zychowski, Shuguang Leng, Pedram Roghanchi, Jiantao Pu
+
+## Summary
+This study aims to establish the causal relationship network between various factors leading to workday loss in underground coal mines using a novel causal artificial intelligence (AI) method. The analysis utilizes data obtained from the National Institute for Occupational Safety and Health (NIOSH). A total of 101,010 injury records from 3,982 unique underground coal mines spanning the years from 1990 to 2020 were extracted from the NIOSH database. Causal relationships were analyzed and visualized using a novel causal AI method called Grouped Greedy Equivalence Search (GGES). The impact of each variable on workday loss was assessed through intervention do-calculus adjustment (IDA) scores. Model training and validation were performed using the 10-fold cross-validation technique. Performance metrics, including adjacency precision (AP), adjacency recall (AR), arrowhead precision (AHP), and arrowhead recall (AHR), were utilized to evaluate the models. Findings revealed that after 2006, key direct causes of workday loss among mining employees included total mining experience, mean office employees, mean underground employees, county, and total mining experience (years). Total mining experience emerged as the most influential factor, whereas mean employees per mine exhibited the least influence. The analyses emphasized the significant role of total mining experience in determining workday loss. The models achieved optimal performance, with AP, AR, AHP, and AHR values measuring 0.694, 0.653, 0.386, and 0.345, respectively. This study demonstrates the feasibility of utilizing the new GGES method to clarify the causal factors behind the workday loss by analyzing employment demographics and injury records and establish their causal relationship network.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T19:34:48.544Z

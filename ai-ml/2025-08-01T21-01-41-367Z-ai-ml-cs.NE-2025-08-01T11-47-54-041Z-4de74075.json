@@ -1,0 +1,12 @@
+# LAYERS: Yet another Neural Network toolkit
+
+**Authors:** Roberto Paredes, José-Miguel Benedí
+
+## Summary
+Layers is an open source neural network toolkit aim at providing an easy way to implement modern neural networks. The main user target are students and to this end layers provides an easy scriptting language that can be early adopted. The user has to focus only on design details as network totpology and parameter tunning.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:47:54.041Z

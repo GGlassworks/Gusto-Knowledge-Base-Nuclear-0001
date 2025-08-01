@@ -1,0 +1,12 @@
+# Target Pose Guided Whole-body Grasping Motion Generation for Digital Humans
+
+**Authors:** Quanquan Shao, Yi Fang
+
+## Summary
+Grasping manipulation is a fundamental mode for human interaction with daily life objects. The synthesis of grasping motion is also greatly demanded in many applications such as animation and robotics. In objects grasping research field, most works focus on generating the last static grasping pose with a parallel gripper or dexterous hand. Grasping motion generation for the full arm especially for the full humanlike intelligent agent is still under-explored. In this work, we propose a grasping motion generation framework for digital human which is an anthropomorphic intelligent agent with high degrees of freedom in virtual world. Given an object known initial pose in 3D space, we first generate a target pose for whole-body digital human based on off-the-shelf target grasping pose generation methods. With an initial pose and this generated target pose, a transformer-based neural network is used to generate the whole grasping trajectory, which connects initial pose and target pose smoothly and naturally. Additionally, two post optimization components are designed to mitigates foot-skating issue and hand-object interpenetration separately. Experiments are conducted on GRAB dataset to demonstrate effectiveness of this proposed method for whole-body grasping motion generation with randomly placed unknown objects.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:16.102Z

@@ -1,0 +1,12 @@
+# Towards Automated Benchmark Support for Multi-Blockchain Interoperability-Facilitating Platforms
+
+**Authors:** Mostafa Kazemi, Abbas Yazdinejad
+
+## Summary
+Since the introduction of the first Bitcoin blockchain in 2008, different decentralized blockchain systems such as Ethereum, Hyperledger Fabric, and Corda, have emerged with public and private accessibility. It has been widely acknowledged that no single blockchain network will fit all use cases. As a result, we have observed the increasing popularity of multi-blockchain ecosystem in which customers will move toward different blockchains based on their particular requirements. Hence, the efficiency and security requirements of interactions among these heterogeneous blockchains become critical. In realization of this multi-blockchain paradigm, initiatives in building Interoperability-Facilitating Platforms (IFPs) that aim at bridging different blockchains (a.k.a. blockchain interoperability) have come to the fore. Despite current efforts, it is extremely difficult for blockchain customers (organizations, governments, companies) to understand the trade-offs between different IFPs and their suitability for different application domains before adoption. A key reason is due to a lack of fundamental and systematic approaches to assess the variables among different IFPs. To fill this gap, developing new IFP requirements specification and open-source benchmark tools to advance research in distributed, multi-blockchain interoperability, with emphasis on IFP performance and security challenges are required. In this document, we outline a research proposal study to the community to realize this gap.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NI
+Collected: 2025-08-01T13:10:49.349Z

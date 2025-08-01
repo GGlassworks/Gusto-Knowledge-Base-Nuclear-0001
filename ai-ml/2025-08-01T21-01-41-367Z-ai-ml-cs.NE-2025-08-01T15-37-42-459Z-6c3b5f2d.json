@@ -1,0 +1,12 @@
+# Electricity consumption forecasting method based on MPSO-BP neural network model
+
+**Authors:** Youshan Zhang, Liangdong Guo, Qi Li, Junhui Li
+
+## Summary
+This paper deals with the problem of the electricity consumption forecasting method. An MPSO-BP (modified particle swarm optimization-back propagation) neural network model is constructed based on the history data of a mineral company of Anshan in China. The simulation showed that the convergence of the algorithm and forecasting accuracy using the obtained model are better than those of other traditional ones, such as BP, PSO, fuzzy neural network and so on. Then we predict the electricity consumption of each month in 2017 based on the MPSO-BP neural network model.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T15:37:42.460Z

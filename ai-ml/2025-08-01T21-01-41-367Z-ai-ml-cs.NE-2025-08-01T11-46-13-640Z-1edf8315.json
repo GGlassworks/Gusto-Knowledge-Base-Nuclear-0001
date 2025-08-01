@@ -1,0 +1,12 @@
+# Ablation of a Robot's Brain: Neural Networks Under a Knife
+
+**Authors:** Peter E. Lillian, Richard Meyes, Tobias Meisen
+
+## Summary
+It is still not fully understood exactly how neural networks are able to solve the complex tasks that have recently pushed AI research forward. We present a novel method for determining how information is structured inside a neural network. Using ablation (a neuroscience technique for cutting away parts of a brain to determine their function), we approach several neural network architectures from a biological perspective. Through an analysis of this method's results, we examine important similarities between biological and artificial neural networks to search for the implicit knowledge locked away in the network's weights.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:46:13.640Z

@@ -1,0 +1,12 @@
+# Implementing Digital Twin in Field-Deployed Optical Networks: Uncertain Factors, Operational Guidance, and Field-Trial Demonstration
+
+**Authors:** Yuchen Song, Min Zhang, Yao Zhang, Yan Shi, Shikui Shen, Bingli Guo, Shanguo Huang, Danshi Wang
+
+## Summary
+Digital twin has revolutionized optical communication networks by enabling their full life-cycle management, including design, troubleshooting, optimization, upgrade, and prediction. While extensive literature exists on frameworks, standards, and applications of digital twin, there is a pressing need in implementing digital twin in field-deployed optical networks operating in real-world environments, as opposed to controlled laboratory settings. This paper addresses this challenge by examining the uncertain factors behind the inaccuracy of digital twin in field-deployed optical networks from three main challenges and proposing operational guidance for implementing accurate digital twin in field-deployed optical networks. Through the proposed guidance, we demonstrate the effective implementation of digital twin in a field-trial C+L-band optical transmission link, showcasing its capabilities in performance recovery in a fiber cut scenario.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NI
+Collected: 2025-08-01T10:21:15.874Z

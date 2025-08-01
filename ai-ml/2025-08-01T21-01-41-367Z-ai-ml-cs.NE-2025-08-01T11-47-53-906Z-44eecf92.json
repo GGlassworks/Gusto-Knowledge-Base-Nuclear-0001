@@ -1,0 +1,12 @@
+# On reaction network implementations of neural networks
+
+**Authors:** David F. Anderson, Badal Joshi, Abhishek Deshpande
+
+## Summary
+This paper is concerned with the utilization of deterministically modeled chemical reaction networks for the implementation of (feed-forward) neural networks. We develop a general mathematical framework and prove that the ordinary differential equations (ODEs) associated with certain reaction network implementations of neural networks have desirable properties including (i) existence of unique positive fixed points that are smooth in the parameters of the model (necessary for gradient descent), and (ii) fast convergence to the fixed point regardless of initial condition (necessary for efficient implementation). We do so by first making a connection between neural networks and fixed points for systems of ODEs, and then by constructing reaction networks with the correct associated set of ODEs. We demonstrate the theory by constructing a reaction network that implements a neural network with a smoothed ReLU activation function, though we also demonstrate how to generalize the construction to allow for other activation functions (each with the desirable properties listed previously). As there are multiple types of "networks" utilized in this paper, we also give a careful introduction to both reaction networks and neural networks, in order to disambiguate the overlapping vocabulary in the two settings and to clearly highlight the role of each network's properties.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:47:53.906Z

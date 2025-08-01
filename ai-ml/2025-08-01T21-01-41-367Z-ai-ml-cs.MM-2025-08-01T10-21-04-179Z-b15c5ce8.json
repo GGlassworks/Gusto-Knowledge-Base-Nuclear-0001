@@ -1,0 +1,12 @@
+# SoMin.ai: Personality-Driven Content Generation Platform
+
+**Authors:** Aleksandr Farseev, Qi Yang, Andrey Filchenkov, Kirill Lepikhin, Yu-Yi Chu-Farseeva, Daron-Benjamin Loo
+
+## Summary
+In this technical demonstration, we showcase the World's first personality-driven marketing content generation platform, called SoMin.ai. The platform combines deep multi-view personality profiling framework and style generative adversarial networks facilitating the automatic creation of content that appeals to different human personality types. The platform can be used for the enhancement of the social networking user experience as well as for content marketing routines. Guided by the MBTI personality type, automatically derived from a user social network content, SoMin.ai generates new social media content based on the preferences of other users with a similar personality type aiming at enhancing the user experience on social networking venues as well diversifying the efforts of marketers when crafting new content for digital marketing campaigns. The real-time user feedback to the platform via the platform's GUI fine-tunes the content generation model and the evaluation results demonstrate the promising performance of the proposed multi-view personality profiling framework when being applied in the content generation scenario. By leveraging content generation at a large scale, marketers will be able to execute more effective digital marketing campaigns at a lower cost.
+
+
+---
+Category: ai-ml
+Subcategory: cs.MM
+Collected: 2025-08-01T10:21:04.180Z

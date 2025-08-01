@@ -1,0 +1,12 @@
+# A Logic of Blockchain Updates
+
+**Authors:** Kai Brünnler, Dandolo Flumini, Thomas Studer
+
+## Summary
+Blockchains are distributed data structures that are used to achieve consensus in systems for cryptocurrencies (like Bitcoin) or smart contracts (like Ethereum). Although blockchains gained a lot of popularity recently, there is no logic-based model for blockchains available. We introduce BCL, a dynamic logic to reason about blockchain updates, and show that BCL is sound and complete with respect to a simple blockchain model.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LO
+Collected: 2025-08-01T11:06:49.187Z

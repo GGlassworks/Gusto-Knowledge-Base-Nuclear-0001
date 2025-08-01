@@ -1,0 +1,12 @@
+# CAVIAR: Co-simulation of 6G Communications, 3D Scenarios and AI for Digital Twins
+
+**Authors:** João Borges, Felipe Bastos, Ilan Correa, Pedro Batista, Aldebaro Klautau
+
+## Summary
+Digital twins are an important technology for advancing mobile communications, specially in use cases that require simultaneously simulating the wireless channel, 3D scenes and machine learning. Aiming at providing a solution to this demand, this work describes a modular co-simulation methodology called CAVIAR. Here, CAVIAR is upgraded to support a message passing library and enable the virtual counterpart of a digital twin system using different 6G-related simulators. The main contributions of this work are the detailed description of different CAVIAR architectures, the implementation of this methodology to assess a 6G use case of UAV-based search and rescue mission (SAR), and the generation of benchmarking data about the computational resource usage. For executing the SAR co-simulation we adopt five open-source solutions: the physical and link level network simulator Sionna, the simulator for autonomous vehicles AirSim, scikit-learn for training a decision tree for MIMO beam selection, Yolov8 for the detection of rescue targets and NATS for message passing. Results for the implemented SAR use case suggest that the methodology can run in a single machine, with the main demanded resources being the CPU processing and the GPU memory.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NI
+Collected: 2025-08-01T10:26:26.931Z

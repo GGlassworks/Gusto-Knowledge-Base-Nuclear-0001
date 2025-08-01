@@ -1,0 +1,12 @@
+# A Comprehensive Review of Spiking Neural Networks: Interpretation, Optimization, Efficiency, and Best Practices
+
+**Authors:** Kai Malcolm, Josue Casco-Rodriguez
+
+## Summary
+Biological neural networks continue to inspire breakthroughs in neural network performance. And yet, one key area of neural computation that has been under-appreciated and under-investigated is biologically plausible, energy-efficient spiking neural networks, whose potential is especially attractive for low-power, mobile, or otherwise hardware-constrained settings. We present a literature review of recent developments in the interpretation, optimization, efficiency, and accuracy of spiking neural networks. Key contributions include identification, discussion, and comparison of cutting-edge methods in spiking neural network optimization, energy-efficiency, and evaluation, starting from first principles so as to be accessible to new practitioners.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:35:48.392Z

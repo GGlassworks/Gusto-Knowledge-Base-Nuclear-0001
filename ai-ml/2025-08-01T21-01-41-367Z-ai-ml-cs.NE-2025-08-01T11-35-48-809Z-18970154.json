@@ -1,0 +1,12 @@
+# One weird trick for parallelizing convolutional neural networks
+
+**Authors:** Alex Krizhevsky
+
+## Summary
+I present a new way to parallelize the training of convolutional neural networks across multiple GPUs. The method scales significantly better than all alternatives when applied to modern convolutional neural networks.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:35:48.809Z

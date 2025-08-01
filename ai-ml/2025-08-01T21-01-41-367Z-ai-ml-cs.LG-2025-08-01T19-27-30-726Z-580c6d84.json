@@ -1,0 +1,12 @@
+# Mining-Gym: A Configurable RL Benchmarking Environment for Truck Dispatch Scheduling
+
+**Authors:** Chayan Banerjee, Kien Nguyen, Clinton Fookes
+
+## Summary
+Mining process optimization particularly truck dispatch scheduling is a critical factor in enhancing the efficiency of open pit mining operations However the dynamic and stochastic nature of mining environments characterized by uncertainties such as equipment failures truck maintenance and variable haul cycle times poses significant challenges for traditional optimization methods While Reinforcement Learning RL has shown promise in adaptive decision making for mining logistics its practical deployment requires rigorous evaluation in realistic and customizable simulation environments The lack of standardized benchmarking environments limits fair algorithm comparisons reproducibility and the real world applicability of RL based approaches in open pit mining settings To address this challenge we introduce Mining Gym a configurable open source benchmarking environment designed for training testing and comparing RL algorithms in mining process optimization Built on Discrete Event Simulation DES and seamlessly integrated with the OpenAI Gym interface Mining Gym provides a structured testbed that enables the direct application of advanced RL algorithms from Stable Baselines The framework models key mining specific uncertainties such as equipment failures queue congestion and the stochasticity of mining processes ensuring a realistic and adaptive learning environment Additionally Mining Gym features a graphical user interface GUI for intuitive mine site configuration a comprehensive data logging system a built in KPI dashboard and real time visual representation of the mine site These capabilities facilitate standardized reproducible evaluations across multiple RL strategies and baseline heuristics
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T19:27:30.727Z

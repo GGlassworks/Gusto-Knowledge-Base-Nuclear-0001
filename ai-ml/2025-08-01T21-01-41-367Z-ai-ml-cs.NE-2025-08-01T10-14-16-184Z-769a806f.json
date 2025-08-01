@@ -1,0 +1,12 @@
+# Development of a Neural Network-Based Mathematical Operation Protocol for Embedded Hexadecimal Digits Using Neural Architecture Search (NAS)
+
+**Authors:** Victor Robila, Kexin Pei, Junfeng Yang
+
+## Summary
+It is beneficial to develop an efficient machine-learning based method for addition using embedded hexadecimal digits. Through a comparison between human-developed machine learning model and models sampled through Neural Architecture Search (NAS) we determine an efficient approach to solve this problem with a final testing loss of 0.2937 for a human-developed model.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T10:14:16.184Z

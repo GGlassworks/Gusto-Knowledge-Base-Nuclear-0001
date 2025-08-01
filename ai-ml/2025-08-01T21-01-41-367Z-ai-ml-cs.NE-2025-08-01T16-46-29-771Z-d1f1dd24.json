@@ -1,0 +1,12 @@
+# MCTS guided Genetic Algorithm for optimization of neural network weights
+
+**Authors:** Akshay Hebbar
+
+## Summary
+In this research, we investigate the possibility of applying a search strategy to genetic algorithms to explore the entire genetic tree structure. Several methods aid in performing tree searches; however, simpler algorithms such as breadth-first, depth-first, and iterative techniques are computation-heavy and often result in a long execution time. Adversarial techniques are often the preferred mechanism when performing a probabilistic search, yielding optimal results more quickly. The problem we are trying to tackle in this paper is the optimization of neural networks using genetic algorithms. Genetic algorithms (GA) form a tree of possible states and provide a mechanism for rewards via the fitness function. Monte Carlo Tree Search (MCTS) has proven to be an effective tree search strategy given states and rewards; therefore, we will combine these approaches to optimally search for the best result generated with genetic algorithms.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T16:46:29.772Z

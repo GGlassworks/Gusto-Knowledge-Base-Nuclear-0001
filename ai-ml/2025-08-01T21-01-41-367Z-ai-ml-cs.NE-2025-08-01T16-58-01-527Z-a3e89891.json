@@ -1,0 +1,12 @@
+# A Genetic Algorithm for Multi-Capacity Fixed-Charge Flow Network Design
+
+**Authors:** Caleb Eardley, Dalton Gomez, Ryan Dupuis, Michael Papadopoulos, Sean Yaw
+
+## Summary
+The Multi-Capacity Fixed-Charge Network Flow (MC-FCNF) problem, a generalization of the Fixed-Charge Network Flow problem, aims to assign capacities to edges in a flow network such that a target amount of flow can be hosted at minimum cost. The cost model for both problems dictates that the fixed cost of an edge is incurred for any non-zero amount of flow hosted by that edge. This problem naturally arises in many areas including infrastructure design, transportation, telecommunications, and supply chain management. The MC-FCNF problem is NP-Hard, so solving large instances using exact techniques is impractical. This paper presents a genetic algorithm designed to quickly find high-quality flow solutions to the MC-FCNF problem. The genetic algorithm uses a novel solution representation scheme that eliminates the need to repair invalid flow solutions, which is an issue common to many other genetic algorithms for the MC-FCNF problem. The genetic algorithm's efficiency is displayed with an evaluation using real-world CO2 capture and storage infrastructure design data. The evaluation results highlight the genetic algorithm's potential for solving large-scale network design problems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T16:58:01.528Z

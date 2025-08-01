@@ -1,0 +1,12 @@
+# Dynamic Practical Byzantine Fault Tolerance and Its Blockchain System: A Large-Scale Markov Modeling
+
+**Authors:** Yan-Xia Chang, Quan-Lin Li, Qing Wang, Xing-Shuo Song
+
+## Summary
+In a practical Byzantine fault tolerance (PBFT) blockchain network, the voting nodes may always leave the network while some new nodes can also enter the network, thus the number of voting nodes is constantly changing. Such a new PBFT with dynamic nodes is called a dynamic PBFT. Clearly, the dynamic PBFT can more strongly support the decentralization and distributed structure of blockchain. However, analyzing dynamic PBFT blockchain systems will become more interesting and challenging. In this paper, we propose a large-scale Markov modeling technique to analyze the dynamic PBFT voting processes and its dynamic PBFT blockchain system. To this end, we set up a large-scale Markov process (and further a multi-dimensional Quasi-Birth-and-Death (QBD) process) and provide performance analysis for both the dynamic PBFT voting processes and the dynamic PBFT blockchain system. In particular, we obtain an effective computational method for the throughput of the complicated dynamic PBFT blockchain system. Finally, we use numerical examples to check the validity of our theoretical results and indicate how some key system parameters influence the performance measures of the dynamic PBFT voting processes and of the dynamic PBFT blockchain system. Therefore, by using the theory of multi-dimensional QBD processes and the RG-factorization technique, we hope that the methodology and results developed in this paper shed light on the study of dynamic PBFT blockchain systems such that a series of promising research can be developed potentially.
+
+
+---
+Category: ai-ml
+Subcategory: cs.PF
+Collected: 2025-08-01T13:09:54.185Z

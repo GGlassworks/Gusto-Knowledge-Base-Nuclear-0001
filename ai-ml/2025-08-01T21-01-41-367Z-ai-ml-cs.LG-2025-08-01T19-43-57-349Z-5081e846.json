@@ -1,0 +1,12 @@
+# Explainable Mixed Data Representation and Lossless Visualization Toolkit for Knowledge Discovery
+
+**Authors:** Boris Kovalerchuk, Elijah McCoy
+
+## Summary
+Developing Machine Learning (ML) algorithms for heterogeneous/mixed data is a longstanding problem. Many ML algorithms are not applicable to mixed data, which include numeric and non-numeric data, text, graphs and so on to generate interpretable models. Another longstanding problem is developing algorithms for lossless visualization of multidimensional mixed data. The further progress in ML heavily depends on success interpretable ML algorithms for mixed data and lossless interpretable visualization of multidimensional data. The later allows developing interpretable ML models using visual knowledge discovery by end-users, who can bring valuable domain knowledge which is absent in the training data. The challenges for mixed data include: (1) generating numeric coding schemes for non-numeric attributes for numeric ML algorithms to provide accurate and interpretable ML models, (2) generating methods for lossless visualization of n-D non-numeric data and visual rule discovery in these visualizations. This paper presents a classification of mixed data types, analyzes their importance for ML and present the developed experimental toolkit to deal with mixed data. It combines the Data Types Editor, VisCanvas data visualization and rule discovery system which is available on GitHub.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T19:43:57.350Z

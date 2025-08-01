@@ -1,0 +1,12 @@
+# A Technical Note on the Architectural Effects on Maximum Dependency Lengths of Recurrent Neural Networks
+
+**Authors:** Jonathan S. Kent, Michael M. Murray
+
+## Summary
+This work proposes a methodology for determining the maximum dependency length of a recurrent neural network (RNN), and then studies the effects of architectural changes, including the number and neuron count of layers, on the maximum dependency lengths of traditional RNN, gated recurrent unit (GRU), and long-short term memory (LSTM) models.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:44:25.170Z

@@ -1,0 +1,12 @@
+# Deep Generative Neural Embeddings for High Dimensional Data Visualization
+
+**Authors:** Halid Ziya Yerebakan, Gerardo Hermosillo Valadez
+
+## Summary
+We propose a visualization technique that utilizes neural network embeddings and a generative network to reconstruct original data. This method allows for independent manipulation of individual image embeddings through its non-parametric structure, providing more flexibility than traditional autoencoder approaches. We have evaluated the effectiveness of this technique in data visualization and compared it to t-SNE and VAE methods. Furthermore, we have demonstrated the scalability of our method through visualizations on the ImageNet dataset. Our technique has potential applications in human-in-the-loop training, as it allows for independent editing of embedding locations without affecting the optimization process.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T19:44:58.526Z

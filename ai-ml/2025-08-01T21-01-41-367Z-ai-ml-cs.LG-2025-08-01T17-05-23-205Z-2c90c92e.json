@@ -1,0 +1,12 @@
+# Probing artificial neural networks: insights from neuroscience
+
+**Authors:** Anna A. Ivanova, John Hewitt, Noga Zaslavsky
+
+## Summary
+A major challenge in both neuroscience and machine learning is the development of useful tools for understanding complex information processing systems. One such tool is probes, i.e., supervised models that relate features of interest to activation patterns arising in biological or artificial neural networks. Neuroscience has paved the way in using such models through numerous studies conducted in recent decades. In this work, we draw insights from neuroscience to help guide probing research in machine learning. We highlight two important design choices for probes $-$ direction and expressivity $-$ and relate these choices to research goals. We argue that specific research goals play a paramount role when designing a probe and encourage future probing studies to be explicit in stating these goals.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T17:05:23.206Z

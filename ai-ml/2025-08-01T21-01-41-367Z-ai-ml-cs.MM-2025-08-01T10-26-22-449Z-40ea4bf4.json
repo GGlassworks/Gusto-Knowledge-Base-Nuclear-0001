@@ -1,0 +1,12 @@
+# Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012
+
+**Authors:** Adam Breuer, Bryce J. Dietrich, Michael H. Crespin, Matthew Butler, J. A. Pryse, Kosuke Imai
+
+## Summary
+This paper introduces the largest and most comprehensive dataset of US presidential campaign television advertisements, available in digital format. The dataset also includes machine-searchable transcripts and high-quality summaries designed to facilitate a variety of academic research. To date, there has been great interest in collecting and analyzing US presidential campaign advertisements, but the need for manual procurement and annotation led many to rely on smaller subsets. We design a large-scale parallelized, AI-based analysis pipeline that automates the laborious process of preparing, transcribing, and summarizing videos. We then apply this methodology to the 9,707 presidential ads from the Julian P. Kanter Political Commercial Archive. We conduct extensive human evaluations to show that these transcripts and summaries match the quality of manually generated alternatives. We illustrate the value of this data by including an application that tracks the genesis and evolution of current focal issue areas over seven decades of presidential elections. Our analysis pipeline and codebase also show how to use LLM-based tools to obtain high-quality summaries for other video datasets.
+
+
+---
+Category: ai-ml
+Subcategory: cs.MM
+Collected: 2025-08-01T10:26:22.450Z

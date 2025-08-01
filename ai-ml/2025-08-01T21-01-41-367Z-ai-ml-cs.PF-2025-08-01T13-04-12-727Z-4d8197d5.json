@@ -1,0 +1,12 @@
+# Performance Evaluation, Optimization and Dynamic Decision in Blockchain Systems: A Recent Overview
+
+**Authors:** Quan-Lin Li, Yan-Xia Chang, Qing Wang
+
+## Summary
+With rapid development of blockchain technology as well as integration of various application areas, performance evaluation, performance optimization, and dynamic decision in blockchain systems are playing an increasingly important role in developing new blockchain technology. This paper provides a recent systematic overview of this class of research, and especially, developing mathematical modeling and basic theory of blockchain systems. Important examples include (a) performance evaluation: Markov processes, queuing theory, Markov reward processes, random walks, fluid and diffusion approximations, and martingale theory; (b) performance optimization: Linear programming, nonlinear programming, integer programming, and multi-objective programming; (c) optimal control and dynamic decision: Markov decision processes, and stochastic optimal control; and (d) artificial intelligence: Machine learning, deep reinforcement learning, and federated learning. So far, a little research has focused on these research lines. We believe that the basic theory with mathematical methods, algorithms and simulations of blockchain systems discussed in this paper will strongly support future development and continuous innovation of blockchain technology.
+
+
+---
+Category: ai-ml
+Subcategory: cs.PF
+Collected: 2025-08-01T13:04:12.728Z

@@ -1,0 +1,12 @@
+# Large Population Models
+
+**Authors:** Ayush Chopra
+
+## Summary
+Many of society's most pressing challenges, from pandemic response to supply chain disruptions to climate adaptation, emerge from the collective behavior of millions of autonomous agents making decisions over time. Large Population Models (LPMs) offer an approach to understand these complex systems by simulating entire populations with realistic behaviors and interactions at unprecedented scale. LPMs extend traditional modeling approaches through three key innovations: computational methods that efficiently simulate millions of agents simultaneously, mathematical frameworks that learn from diverse real-world data streams, and privacy-preserving communication protocols that bridge virtual and physical environments. This allows researchers to observe how agent behavior aggregates into system-level outcomes and test interventions before real-world implementation. While current AI advances primarily focus on creating "digital humans" with sophisticated individual capabilities, LPMs develop "digital societies" where the richness of interactions reveals emergent phenomena. By bridging individual agent behavior and population-scale dynamics, LPMs offer a complementary path in AI research illuminating collective intelligence and providing testing grounds for policies and social innovations before real-world deployment. We discuss the technical foundations and some open problems here. LPMs are implemented by the AgentTorch framework (github.com/AgentTorch/AgentTorch)
+
+
+---
+Category: ai-ml
+Subcategory: cs.MA
+Collected: 2025-08-01T10:20:59.179Z

@@ -1,0 +1,12 @@
+# From Understanding Genetic Drift to a Smart-Restart Parameter-less Compact Genetic Algorithm
+
+**Authors:** Benjamin Doerr, Weijie Zheng
+
+## Summary
+One of the key difficulties in using estimation-of-distribution algorithms is choosing the population size(s) appropriately: Too small values lead to genetic drift, which can cause enormous difficulties. In the regime with no genetic drift, however, often the runtime is roughly proportional to the population size, which renders large population sizes inefficient. Based on a recent quantitative analysis which population sizes lead to genetic drift, we propose a parameter-less version of the compact genetic algorithm that automatically finds a suitable population size without spending too much time in situations unfavorable due to genetic drift. We prove a mathematical runtime guarantee for this algorithm and conduct an extensive experimental analysis on four classic benchmark problems both without and with additive centered Gaussian posterior noise. The former shows that under a natural assumption, our algorithm has a performance very similar to the one obtainable from the best problem-specific population size. The latter confirms that missing the right population size in the original cGA can be detrimental and that previous theory-based suggestions for the population size can be far away from the right values; it also shows that our algorithm as well as a previously proposed parameter-less variant of the cGA based on parallel runs avoid such pitfalls. Comparing the two parameter-less approaches, ours profits from its ability to abort runs which are likely to be stuck in a genetic drift situation.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T16:44:36.127Z

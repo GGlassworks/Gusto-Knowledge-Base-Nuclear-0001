@@ -1,0 +1,12 @@
+# Non-linear Visual Knowledge Discovery with Elliptic Paired Coordinates
+
+**Authors:** Rose McDonald, Boris Kovalerchuk
+
+## Summary
+It is challenging for humans to enable visual knowledge discovery in data with more than 2-3 dimensions with a naked eye. This chapter explores the efficiency of discovering predictive machine learning models interactively using new Elliptic Paired coordinates (EPC) visualizations. It is shown that EPC are capable to visualize multidimensional data and support visual machine learning with preservation of multidimensional information in 2-D. Relative to parallel and radial coordinates, EPC visualization requires only a half of the visual elements for each n-D point. An interactive software system EllipseVis, which is developed in this work, processes high-dimensional datasets, creates EPC visualizations, and produces predictive classification models by discovering dominance rules in EPC. By using interactive and automatic processes it discovers zones in EPC with a high dominance of a single class. The EPC methodology has been successful in discovering non-linear predictive models with high coverage and precision in the computational experiments. This can benefit multiple domains by producing visually appealing dominance rules. This chapter presents results of successful testing the EPC non-linear methodology in experiments using real and simulated data, EPC generalized to the Dynamic Elliptic Paired Coordinates (DEPC), incorporation of the weights of coordinates to optimize the visual discovery, introduction of an alternative EPC design and introduction of the concept of incompact machine learning methodology based on EPC/DEPC.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T19:51:00.190Z

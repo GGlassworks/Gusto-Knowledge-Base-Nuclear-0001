@@ -1,0 +1,12 @@
+# Comparison of Neural Network based Soft Computing Techniques for Electromagnetic Modeling of a Microstrip Patch Antenna
+
+**Authors:** Yuvraj Singh Malhi, Navneet Gupta
+
+## Summary
+This paper presents the comparison of various neural networks and algorithms based on accuracy, quickness, and consistency for antenna modelling. Using MATLAB Nntool, 22 different combinations of networks and training algorithms are used to predict the dimensions of a rectangular microstrip antenna using dielectric constant, height of substrate, and frequency of oper-ation as input. Comparison and characterization of networks is done based on accuracy, mean square error, and training time. Algorithms, on the other hand, are analyzed by their accuracy, speed, reliability, and smoothness in the training process. Finally, these results are analyzed, and recommendations are made for each neural network and algorithm based on uses, advantages, and disadvantages. For example, it is observed that Reduced Radial Bias network is the most accurate network and Scaled Conjugate Gradient is the most reliable algorithm for electromagnetic modelling. This paper will help a researcher find the optimum network and algorithm directly without doing time-taking experimentation.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T11:49:42.629Z

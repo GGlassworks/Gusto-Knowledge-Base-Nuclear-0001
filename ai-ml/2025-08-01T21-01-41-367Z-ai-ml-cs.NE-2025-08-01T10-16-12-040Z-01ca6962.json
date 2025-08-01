@@ -1,0 +1,12 @@
+# POPPINS : A Population-Based Digital Spiking Neuromorphic Processor with Integer Quadratic Integrate-and-Fire Neurons
+
+**Authors:** Zuo-Wei Yeh, Chia-Hua Hsu, Alexander White, Chen-Fu Yeh, Wen-Chieh Wu, Cheng-Te Wang, Chung-Chuan Lo, Kea-Tiong Tang
+
+## Summary
+The inner operations of the human brain as a biological processing system remain largely a mystery. Inspired by the function of the human brain and based on the analysis of simple neural network systems in other species, such as Drosophila, neuromorphic computing systems have attracted considerable interest. In cellular-level connectomics research, we can identify the characteristics of biological neural network, called population, which constitute not only recurrent fullyconnection in network, also an external-stimulus and selfconnection in each neuron. Relying on low data bandwidth of spike transmission in network and input data, Spiking Neural Networks exhibit low-latency and low-power design. In this study, we proposed a configurable population-based digital spiking neuromorphic processor in 180nm process technology with two configurable hierarchy populations. Also, these neurons in the processor can be configured as novel models, integer quadratic integrate-and-fire neuron models, which contain an unsigned 8-bit membrane potential value. The processor can implement intelligent decision making for avoidance in real-time. Moreover, the proposed approach enables the developments of biomimetic neuromorphic system and various low-power, and low-latency inference processing applications.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T10:16:12.040Z

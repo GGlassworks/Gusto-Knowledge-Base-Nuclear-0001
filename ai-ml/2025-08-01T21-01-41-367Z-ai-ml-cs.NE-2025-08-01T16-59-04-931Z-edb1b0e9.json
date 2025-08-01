@@ -1,0 +1,12 @@
+# Gene-Machine, a new search heuristic algorithm
+
+**Authors:** Alfredo Garcia Woods
+
+## Summary
+This paper introduces Gene-Machine, an efficient and new search heuristic algorithm, based in the building-block hypothesis. It is inspired by natural evolution, but does not use some of the concepts present in genetic algorithms like population, mutation and generation. This heuristic exhibits good performance in comparison with genetic algorithms, and can be used to generate useful solutions to optimization and search problems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T16:59:04.931Z

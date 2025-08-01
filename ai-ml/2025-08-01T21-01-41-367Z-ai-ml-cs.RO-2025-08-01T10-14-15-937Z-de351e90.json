@@ -1,0 +1,12 @@
+# Virtual Reality Digital Twin and Environment for Troubleshooting Lunar-based Infrastructure Assembly Failures
+
+**Authors:** Phaedra S. Curlin, Madaline A. Muniz, Mason M. Bell, Alexis A. Muniz, Jack O. Burns
+
+## Summary
+Humans and robots will need to collaborate in order to create a sustainable human lunar presence by the end of the 2020s. This includes cases in which a human will be required to teleoperate an autonomous rover that has encountered an instrument assembly failure. To aid teleoperators in the troubleshooting process, we propose a virtual reality digital twin placed in a simulated environment. Here, the operator can virtually interact with a digital version of the rover and mechanical arm that uses the same controls and kinematic model. The user can also adopt the egocentric (a first person view through using stereoscopic passthrough) and exocentric (a third person view where the operator can virtually walk around the environment and rover as if they were on site) view. We also discuss our metrics for evaluating the differences between our digital and physical robot, as well as the experimental concept based on real and applicable missions, and future work that would compare our platform to traditional troubleshooting methods.
+
+
+---
+Category: ai-ml
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:15.937Z

@@ -1,0 +1,12 @@
+# A Coupled Neural Circuit Design for Guillain-Barre Syndrome
+
+**Authors:** Oguzhan Derebasi, Murat Isik, Oguzhan Demirag, Dilek Goksel Duru, Anup Das
+
+## Summary
+Guillain-Barre syndrome is a rare neurological condition in which the human immune system attacks the peripheral nervous system. A peripheral nervous system appears as a diffusively connected system of mathematical models of neuron models, and the system's period becomes shorter than the periods of each neural circuit. The stimuli in the conduction path that will address the myelin sheath that has lost its function are received by the axons and are conveyed externally to the target organ, aiming to solve the problem of decreased nerve conduction. In the NEURON simulation environment, one can create a neuron model and define biophysical events that take place within the system for study. In this environment, signal transmission between cells and dendrites is obtained graphically. The simulated potassium and sodium conductance are replicated adequately, and the electronic action potentials are quite comparable to those measured experimentally. In this work, we propose an analog and digital coupled neuron model comprising individual excitatory and inhibitory neural circuit blocks for a low-cost and energy-efficient system. Compared to digital design, our analog design performs in lower frequency but gives a 32.3\% decreased energy efficiency. Thus, the resulting coupled analog hardware neuron model can be a proposed model for the simulation of reduced nerve conduction. As a result, the analog coupled neuron, (even with its greater design complexity) serious contender for the future development of a wearable sensor device that could help with Guillain-Barre syndrome and other neurologic diseases.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T10:22:45.779Z
