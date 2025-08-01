@@ -1,0 +1,12 @@
+# Learning to Generate and Evaluate Fact-checking Explanations with Transformers
+
+**Authors:** Darius Feher, Abdullah Khered, Hao Zhang, Riza Batista-Navarro, Viktor Schlegel
+
+## Summary
+In an era increasingly dominated by digital platforms, the spread of misinformation poses a significant challenge, highlighting the need for solutions capable of assessing information veracity. Our research contributes to the field of Explainable Artificial Antelligence (XAI) by developing transformer-based fact-checking models that contextualise and justify their decisions by generating human-accessible explanations. Importantly, we also develop models for automatic evaluation of explanations for fact-checking verdicts across different dimensions such as \texttt{(self)-contradiction}, \texttt{hallucination}, \texttt{convincingness} and \texttt{overall quality}. By introducing human-centred evaluation methods and developing specialised datasets, we emphasise the need for aligning Artificial Intelligence (AI)-generated explanations with human judgements. This approach not only advances theoretical knowledge in XAI but also holds practical implications by enhancing the transparency, reliability and users' trust in AI-driven fact-checking systems. Furthermore, the development of our metric learning models is a first step towards potentially increasing efficiency and reducing reliance on extensive manual assessment. Based on experimental results, our best performing generative model \textsc{ROUGE-1} score of 47.77, demonstrating superior performance in generating fact-checking explanations, particularly when provided with high-quality evidence. Additionally, the best performing metric learning model showed a moderately strong correlation with human judgements on objective dimensions such as \texttt{(self)-contradiction and \texttt{hallucination}, achieving a Matthews Correlation Coefficient (MCC) of around 0.7.}
+
+
+---
+Category: education
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:11.877Z

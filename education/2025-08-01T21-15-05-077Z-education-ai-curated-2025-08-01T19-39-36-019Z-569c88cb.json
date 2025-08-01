@@ -1,0 +1,13 @@
+# Implementing AutoML in Educational Data Mining for Prediction Tasks
+
+**Authors:** Maria Tsiakmaki, Georgios Kostopoulos, S. Kotsiantis, O. Ragos
+
+## Abstract
+Educational Data Mining (EDM) has emerged over the last two decades, concerning with the development and implementation of data mining methods in order to facilitate the analysis of vast amounts of data originating from a wide variety of educational contexts. Predicting students’ progression and learning outcomes, such as dropout, performance and course grades, is regarded among the most important tasks of the EDM field. Therefore, applying appropriate machine learning algorithms for building accurate predictive models is of outmost importance for both educators and data scientists. Considering the high-dimensional input space and the complexity of machine learning algorithms, the process of building accurate and robust learning models requires advanced data science skills, while is time-consuming and error-prone in most cases. In addition, choosing the proper method for a given problem formulation and configuring the optimal parameters’ values for a specific model is a demanding task, whilst it is often very difficult to understand and explain the produced results. In this context, the main purpose of the present study is to examine the potential use of advanced machine learning strategies on educational settings from the perspective of hyperparameter optimization. More specifically, we investigate the effectiveness of automated Machine Learning (autoML) for the task of predicting students’ learning outcomes based on their participation in online learning platforms. At the same time, we limit the search space to tree-based and rule-based models in order to achieving transparent and interpretable results. To this end, a plethora of experiments were carried out, revealing that autoML tools achieve consistently superior results. Hopefully our work will help nonexpert users (e.g., educators and instructors) in the field of EDM to conduct experiments with appropriate automated parameter configurations, thus achieving highly accurate and comprehensible results.
+
+**Source:** https://www.semanticscholar.org/paper/42d21971c279c12faca678905c0934f146fef30e
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:39:36.019Z

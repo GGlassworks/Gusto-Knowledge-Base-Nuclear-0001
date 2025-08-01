@@ -1,0 +1,13 @@
+# Investigating the Performance of FASnI3‐Based Perovskite Solar Cells with Various Electron and Hole Transport Layers: Machine Learning Approach and SCAPS‐1D Analysis
+
+**Authors:** Tanvir Mahtab Khan, Sheikh Rashel Al Ahmed
+
+## Abstract
+In this study, tungsten disulfide (WS2) as an electron transport layer (ETL) and zinc phosphide (Zn3P2) as a hole transport layer (HTL) are incorporated to improve the performance of the FASnI3‐based perovskite solar cell (PSC). The solar cell capacitance simulator in one dimension (SCAPS‐1D) is used to investigate the photovoltaic (PV) performances of the heterojunction Al/FTO/WS2/FASnI3/Zn3P2/Ni solar structure. The performance metrics of proposed device with numerous ETLs and HTLs are discussed. The suggested device provides appropriate band structures, which in turn potentially reduce minority electron recombination, thereby enhancing overall performances. Influences of various physical parameters such as thickness, doping concentration, bulk defect, interface defect states, work function, and back surface recombination velocity (BSRV) on the device performances have also been analyzed. An efficiency of 29.81% is achieved at the optimum thicknesses of 0.05 µm for WS2 ETL, 1.0 µm for FASnI3 absorber, and 0.1 µm for Zn3P2 HTL. Furthermore, a machine learning algorithm is used to assess the impact of multiple semiconductor parameters, and found that defect density influences the most. This model, which has an approximate correlation coefficient (R2) of 0.937, can predict the data with precision. Therefore, these numerical outcomes will help researchers further design and manufacture a low‐cost and highly efficient FASnI3‐based PSC.
+
+**Source:** https://www.semanticscholar.org/paper/9721bcc1f90ab14ab1b21084e2b9cca6477a8d0f
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T20:00:18.164Z

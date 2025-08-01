@@ -1,0 +1,12 @@
+# Cataclysmic variables from Sloan Digital Sky Survey -- V (2020-2023) identified using machine learning
+
+**Authors:** Keith Inight, Boris T. Gänsicke, Axel Schwope, Scott F. Anderson, Elmé Breedt, Joel R. Brownstein, Sebastian Demasi, Susanne Friedrich, J. J. Hermes, Knox S. Long, Timothy Mulvany, Gautham A. Pallathadka, Mara Salvato, Simone Scaringi, Matthias R. Schreiber, Guy S. Stringfellow, John R. Thorstensen, Gagik Tovmassian, Nadia L. Zakamska
+
+## Summary
+SDSS-V is carrying out a dedicated survey for white dwarfs, single and in binaries, and we report the analysis of the spectroscopy of 504 cataclysmic variables (CVs) and CV candidates obtained during the first 34 months of observations of SDSS-V. We developed a convolutional neural network (CNN) to aid with the identification of CV candidates among the over 2 million SDSS-V spectra obtained with the BOSS spectrograph. The CNN reduced the number of spectra that required visual inspection to $\simeq2$ per cent of the total. We identified 776 CV spectra among the CNN-selected candidates, plus an additional 27 CV spectra that the CNN misclassified, but that were found serendipitously by human inspection of the data. Analysing the SDSS-V spectroscopy and ancillary data of the 504 CVs in our sample, we report 61 new CVs, spectroscopically confirm 248 and refute 13 published CV candidates, and we report 82 new or improved orbital periods. We discuss the completeness and possible selection biases of the machine learning methodology, as well as the effectiveness of targeting CV candidates within SDSS-V. Finally, we re-assess the space density of CVs, and find $1.2\times 10^{-5}\,\mathrm{pc^{-3}}$.
+
+
+---
+Category: education
+Subcategory: astro-ph.SR
+Collected: 2025-08-01T10:26:34.554Z

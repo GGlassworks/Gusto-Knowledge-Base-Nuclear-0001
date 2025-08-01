@@ -1,0 +1,12 @@
+# When Classical Chinese Meets Machine Learning: Explaining the Relative Performances of Word and Sentence Segmentation Tasks
+
+**Authors:** Chao-Lin Liu, Chang-Ting Chu, Wei-Ting Chang, Ti-Yong Zheng
+
+## Summary
+We consider three major text sources about the Tang Dynasty of China in our experiments that aim to segment text written in classical Chinese. These corpora include a collection of Tang Tomb Biographies, the New Tang Book, and the Old Tang Book. We show that it is possible to achieve satisfactory segmentation results with the deep learning approach. More interestingly, we found that some of the relative superiority that we observed among different designs of experiments may be explainable. The relative relevance among the training corpora provides hints/explanation for the observed differences in segmentation results that were achieved when we employed different combinations of corpora to train the classifiers.
+
+
+---
+Category: education
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.384Z

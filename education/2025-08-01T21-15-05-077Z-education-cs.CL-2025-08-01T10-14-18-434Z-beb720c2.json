@@ -1,0 +1,12 @@
+# A data science and machine learning approach to continuous analysis of Shakespeare's plays
+
+**Authors:** Charles Swisher, Lior Shamir
+
+## Summary
+The availability of quantitative text analysis methods has provided new ways of analyzing literature in a manner that was not available in the pre-information era. Here we apply comprehensive machine learning analysis to the work of William Shakespeare. The analysis shows clear changes in the style of writing over time, with the most significant changes in the sentence length, frequency of adjectives and adverbs, and the sentiments expressed in the text. Applying machine learning to make a stylometric prediction of the year of the play shows a Pearson correlation of 0.71 between the actual and predicted year, indicating that Shakespeare's writing style as reflected by the quantitative measurements changed over time. Additionally, it shows that the stylometrics of some of the plays is more similar to plays written either before or after the year they were written. For instance, Romeo and Juliet is dated 1596, but is more similar in stylometrics to plays written by Shakespeare after 1600. The source code for the analysis is available for free download.
+
+
+---
+Category: education
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.434Z

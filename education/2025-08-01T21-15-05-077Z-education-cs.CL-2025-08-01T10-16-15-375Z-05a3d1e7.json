@@ -1,0 +1,12 @@
+# On the Amplification of Linguistic Bias through Unintentional Self-reinforcement Learning by Generative Language Models -- A Perspective
+
+**Authors:** Minhyeok Lee
+
+## Summary
+Generative Language Models (GLMs) have the potential to significantly shape our linguistic landscape due to their expansive use in various digital applications. However, this widespread adoption might inadvertently trigger a self-reinforcement learning cycle that can amplify existing linguistic biases. This paper explores the possibility of such a phenomenon, where the initial biases in GLMs, reflected in their generated text, can feed into the learning material of subsequent models, thereby reinforcing and amplifying these biases. Moreover, the paper highlights how the pervasive nature of GLMs might influence the linguistic and cognitive development of future generations, as they may unconsciously learn and reproduce these biases. The implications of this potential self-reinforcement cycle extend beyond the models themselves, impacting human language and discourse. The advantages and disadvantages of this bias amplification are weighed, considering educational benefits and ease of future GLM learning against threats to linguistic diversity and dependence on initial GLMs. This paper underscores the need for rigorous research to understand and address these issues. It advocates for improved model transparency, bias-aware training techniques, development of methods to distinguish between human and GLM-generated text, and robust measures for fairness and bias evaluation in GLMs. The aim is to ensure the effective, safe, and equitable use of these powerful technologies, while preserving the richness and diversity of human language.
+
+
+---
+Category: education
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:15.375Z

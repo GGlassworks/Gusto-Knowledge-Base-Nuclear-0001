@@ -1,0 +1,12 @@
+# From Physics-Based Models to Predictive Digital Twins via Interpretable Machine Learning
+
+**Authors:** Michael G. Kapteyn, Karen E. Willcox
+
+## Summary
+This work develops a methodology for creating a data-driven digital twin from a library of physics-based models representing various asset states. The digital twin is updated using interpretable machine learning. Specifically, we use optimal trees---a recently developed scalable machine learning method---to train an interpretable data-driven classifier. Training data for the classifier are generated offline using simulated scenarios solved by the library of physics-based models. These data can be further augmented using experimental or other historical data. In operation, the classifier uses observational data from the asset to infer which physics-based models in the model library are the best candidates for the updated digital twin. The approach is demonstrated through the development of a structural digital twin for a 12ft wingspan unmanned aerial vehicle. This digital twin is built from a library of reduced-order models of the vehicle in a range of structural states. The data-driven digital twin dynamically updates in response to structural damage or degradation and enables the aircraft to replan a safe mission accordingly. Within this context, we study the performance of the optimal tree classifiers and demonstrate how their interpretability enables explainable structural assessments from sparse sensor measurements, and also informs optimal sensor placement.
+
+
+---
+Category: education
+Subcategory: cs.CE
+Collected: 2025-08-01T10:26:29.438Z

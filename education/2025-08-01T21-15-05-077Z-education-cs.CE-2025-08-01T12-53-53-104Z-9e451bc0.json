@@ -1,0 +1,12 @@
+# Intelligent Optimization of Mine Environmental Damage Assessment and Repair Strategies Based on Deep Learning
+
+**Authors:** Qishuo Cheng
+
+## Summary
+In recent decades, financial quantification has emerged and matured rapidly. For financial institutions such as funds, investment institutions are increasingly dissatisfied with the situation of passively constructing investment portfolios with average market returns, and are paying more and more attention to active quantitative strategy investment portfolios. This requires the introduction of active stock investment fund management models. Currently, in my country's stock fund investment market, there are many active quantitative investment strategies, and the algorithms used vary widely, such as SVM, random forest, RNN recurrent memory network, etc. This article focuses on this trend, using the emerging LSTM-GRU gate-controlled long short-term memory network model in the field of financial stock investment as a basis to build a set of active investment stock strategies, and combining it with SVM, which has been widely used in the field of quantitative stock investment. Comparing models such as RNN, theoretically speaking, compared to SVM that simply relies on kernel functions for high-order mapping and classification of data, neural network algorithms such as RNN and LSTM-GRU have better principles and are more suitable for processing financial stock data. Then, through multiple By comparison, it was finally found that the LSTM- GRU gate-controlled long short-term memory network has a better accuracy. By selecting the LSTM-GRU algorithm to construct a trading strategy based on the Shanghai and Shenzhen 300 Index constituent stocks, the parameters were adjusted and the neural layer connection was adjusted. Finally, It has significantly outperformed the benchmark index CSI 300 over the long term. The conclusion of this article is that the research results can provide certain quantitative strategy references for financial institutions to construct active stock investment portfolios.
+
+
+---
+Category: education
+Subcategory: cs.CE
+Collected: 2025-08-01T12:53:53.104Z

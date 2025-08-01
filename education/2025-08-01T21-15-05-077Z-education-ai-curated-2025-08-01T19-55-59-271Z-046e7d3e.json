@@ -1,0 +1,13 @@
+# Analysis and Visualization Implementation of Medical Big Data Resource Sharing Mechanism Based on Deep Learning
+
+**Authors:** Ying Yang, Tao Chen
+
+## Abstract
+With the development of information technology, the informationization of the medical industry is also constantly developing rapidly, and medical data is growing exponentially. In the context of “Big Data +”, people began to study the application of data visualization to medical data. Data visualization can make full use of the human sensory vision system to guide users through data analysis and present information hidden behind the data in an intuitive and easy-to-use manner. This paper first introduces the workflow of DBN, a deep learning algorithm, and summarizes the computational characteristics of the algorithm. The classification function is translated into an assembler using an instruction set-based assembly language, and the program is evaluated for performance. Secondly, based on the Hadoop ecosystem, this paper analyzes the BDMISS system for big data medical information resource sharing. Based on the system’s requirements and functional positioning, from the medical information collection and sharing, data mining and knowledge management level, the big data medical service system is constructed. Based on the semantic network and ontology theory, big data mining technology and the design of “medical cloud”, the resource sharing mechanism is analyzed. Based on the Spring MVC framework, using Echarts, HCharts and other data visualization technology, according to the design of specific modules, the visualization and display of medical data is realized, which has certain promotion effect on the research and development of medical big data visualization analysis.
+
+**Source:** https://www.semanticscholar.org/paper/6c8907d9dca0ca6b25877907bbf053429b3e49bf
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:55:59.272Z

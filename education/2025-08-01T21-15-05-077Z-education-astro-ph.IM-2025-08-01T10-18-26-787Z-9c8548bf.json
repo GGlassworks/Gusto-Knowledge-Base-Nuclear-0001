@@ -1,0 +1,12 @@
+# Advances in Machine and Deep Learning for Modeling and Real-time Detection of Multi-Messenger Sources
+
+**Authors:** E. A. Huerta, Zhizhen Zhao
+
+## Summary
+We live in momentous times. The science community is empowered with an arsenal of cosmic messengers to study the Universe in unprecedented detail. Gravitational waves, electromagnetic waves, neutrinos and cosmic rays cover a wide range of wavelengths and time scales. Combining and processing these datasets that vary in volume, speed and dimensionality requires new modes of instrument coordination, funding and international collaboration with a specialized human and technological infrastructure. In tandem with the advent of large-scale scientific facilities, the last decade has experienced an unprecedented transformation in computing and signal processing algorithms. The combination of graphics processing units, deep learning, and the availability of open source, high-quality datasets, have powered the rise of artificial intelligence. This digital revolution now powers a multi-billion dollar industry, with far-reaching implications in technology and society. In this chapter we describe pioneering efforts to adapt artificial intelligence algorithms to address computational grand challenges in Multi-Messenger Astrophysics. We review the rapid evolution of these disruptive algorithms, from the first class of algorithms introduced in early 2017, to the sophisticated algorithms that now incorporate domain expertise in their architectural design and optimization schemes. We discuss the importance of scientific visualization and extreme-scale computing in reducing time-to-insight and obtaining new knowledge from the interplay between models and data.
+
+
+---
+Category: education
+Subcategory: astro-ph.IM
+Collected: 2025-08-01T10:18:26.787Z

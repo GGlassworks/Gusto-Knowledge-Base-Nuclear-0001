@@ -1,0 +1,12 @@
+# Persian Semantic Role Labeling Using Transfer Learning and BERT-Based Models
+
+**Authors:** Saeideh Niksirat Aghdam, Sayyed Ali Hossayni, Erfan Khedersolh Sadeh, Nasim Khozouei, Behrouz Minaei Bidgoli
+
+## Summary
+Semantic role labeling (SRL) is the process of detecting the predicate-argument structure of each predicate in a sentence. SRL plays a crucial role as a pre-processing step in many NLP applications such as topic and concept extraction, question answering, summarization, machine translation, sentiment analysis, and text mining. Recently, in many languages, unified SRL dragged lots of attention due to its outstanding performance, which is the result of overcoming the error propagation problem. However, regarding the Persian language, all previous works have focused on traditional methods of SRL leading to a drop in accuracy and imposing expensive feature extraction steps in terms of financial resources, time and energy consumption. In this work, we present an end-to-end SRL method that not only eliminates the need for feature extraction but also outperforms existing methods in facing new samples in practical situations. The proposed method does not employ any auxiliary features and shows more than 16 (83.16) percent improvement in accuracy against previous methods in similar circumstances.
+
+
+---
+Category: education
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:23.818Z

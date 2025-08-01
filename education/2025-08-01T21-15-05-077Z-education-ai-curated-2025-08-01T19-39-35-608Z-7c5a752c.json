@@ -1,0 +1,13 @@
+# Review on publicly available datasets for educational data mining
+
+**Authors:** M. Mihăescu, Paul-Stefan Popescu
+
+## Abstract
+The availability of a dataset represents a critical component in educational data mining (EDM) pipelines. Once the dataset is at hand, the next steps within the research methodology regard proper research issue formulation, data analysis pipeline design and implementation and, finally, presentation of validation results. As the EDM research area is continuously growing due to the increasing number of available tools and technologies, one of the critical issues that constitute a bottleneck regards a properly documented review on publicly available datasets. This paper aims to present a succinct, yet informative, description of the most used publicly available data sources along with their associated EDM tasks, used algorithms, experimental results and main findings. We have found that there are three types of data sources: well‐known data sources, datasets used in EDM competitions and standalone EDM datasets. We conclude that the success of the future of EDM data sources will rely on their ability to manage proposed approaches and their experimental results as a dashboard of benchmarked runs. Under these circumstances, the reproducibility of data analysis pipelines and benchmarking of proposed algorithms becomes at hand for the research community such that progress in the EDM domain may be much more easily acquired. The most crucial outcome regards the possibility of continuously improving existing data analysis pipelines by tackling EDM tasks that rely on publicly available datasets and benchmarking data analysis pipelines that use open‐source implementations.
+
+**Source:** https://www.semanticscholar.org/paper/49a7629f98b1bc548833e730119843feb6760b74
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:39:35.608Z

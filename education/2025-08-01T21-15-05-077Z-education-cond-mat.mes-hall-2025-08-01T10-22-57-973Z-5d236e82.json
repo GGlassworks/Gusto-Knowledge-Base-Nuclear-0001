@@ -1,0 +1,12 @@
+# Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems
+
+**Authors:** Samuel Liu, Deji Akinwande, Dmitry Kireev, Jean Anne C. Incorvia
+
+## Summary
+Analog neuromorphic computing systems emulate the parallelism and connectivity of the human brain, promising greater expressivity and energy efficiency compared to digital systems. Though many devices have emerged as candidates for artificial neurons and artificial synapses, there have been few device candidates for artificial dendrites. In this work, we report on biocompatible graphene-based artificial dendrites (GrADs) that can implement dendritic processing. By using a dual side-gate configuration, current applied through a Nafion membrane can be used to control device conductance across a trilayer graphene channel, showing spatiotemporal responses of leaky recurrent, alpha, and gaussian dendritic potentials. The devices can be variably connected to enable higher order neuronal responses, and we show through data-driven spiking neural network classification simulations that overall spiking activity is reduced by up to 15% without accuracy loss while low frequency operation is stabilized. This positions the GrADs as strong candidates for energy efficient bio-interfaced spiking neural networks.
+
+
+---
+Category: education
+Subcategory: cond-mat.mes-hall
+Collected: 2025-08-01T10:22:57.973Z

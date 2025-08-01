@@ -1,0 +1,12 @@
+# Statistical Physics: a Short Course for Electrical Engineering Students
+
+**Authors:** Neri Merhav
+
+## Summary
+This is a set of lecture notes of a course on statistical physics and thermodynamics, which is oriented, to a certain extent, towards electrical engineering students. The main body of the lectures is devoted to statistical physics, whereas much less emphasis is given to the thermodynamics part. In particular, the idea is to let the most important results of thermodynamics (most notably, the laws of thermodynamics) to be obtained as conclusions from the derivations in statistical physics. Beyond the variety of central topics in statistical physics that are important to the general scientific education of the EE student, special emphasis is devoted to subjects that are vital to the engineering education concretely. These include, first of all, quantum statistics, like the Fermi-Dirac distribution, as well as diffusion processes, which are both fundamental for deep understanding of semiconductor devices. Another important issue for the EE student is to understand mechanisms of noise generation and stochastic dynamics in physical systems, most notably, in electric circuitry. Accordingly, the fluctuation-dissipation theorem of statistical mechanics, which is the theoretical basis for understanding thermal noise processes in systems, is presented from a signals--and--systems point of view, in a way that would hopefully be understandable and useful for an engineering student, and well connected to other courses in the electrcial engineering curriculum like courses on random priocesses. The quantum regime, in this context, is important too and hence provided as well. Finally, we touch very briefly upon some relationships between statistical mechanics and information theory, which is the theoretical basis for communications engineering, and demonstrate how statistical-mechanical approach can be useful in order for the study of information-theoretic problems.
+
+
+---
+Category: education
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:35:46.809Z

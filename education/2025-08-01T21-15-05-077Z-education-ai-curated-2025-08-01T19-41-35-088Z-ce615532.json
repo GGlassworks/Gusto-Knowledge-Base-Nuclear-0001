@@ -1,0 +1,13 @@
+# Educational Data Mining Techniques for Student Performance Prediction: Method Review and Comparison Analysis
+
+**Authors:** Yupei Zhang, Yue Yun, Rui An, Jiaqi Cui, Huan Dai, Xuequn Shang
+
+## Abstract
+Student performance prediction (SPP) aims to evaluate the grade that a student will reach before enrolling in a course or taking an exam. This prediction problem is a kernel task toward personalized education and has attracted increasing attention in the field of artificial intelligence and educational data mining (EDM). This paper provides a systematic review of the SPP study from the perspective of machine learning and data mining. This review partitions SPP into five stages, i.e., data collection, problem formalization, model, prediction, and application. To have an intuition on these involved methods, we conducted experiments on a data set from our institute and a public data set. Our educational dataset composed of 1,325 students, and 832 courses was collected from the information system, which represents a typical higher education in China. With the experimental results, discussions on current shortcomings and interesting future works are finally summarized from data collections to practices. This work provides developments and challenges in the study task of SPP and facilitates the progress of personalized education.
+
+**Source:** https://www.semanticscholar.org/paper/281825ba5c3b69747f1ef9e3b541f751cd4eb92f
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:41:35.088Z

@@ -1,0 +1,13 @@
+# A Comparative Analysis of Breast Cancer Detection and Diagnosis Using Data Visualization and Machine Learning Applications
+
+**Authors:** M. F. Ak
+
+## Abstract
+In the developing world, cancer death is one of the major problems for humankind. Even though there are many ways to prevent it before happening, some cancer types still do not have any treatment. One of the most common cancer types is breast cancer, and early diagnosis is the most important thing in its treatment. Accurate diagnosis is one of the most important processes in breast cancer treatment. In the literature, there are many studies about predicting the type of breast tumors. In this research paper, data about breast cancer tumors from Dr. William H. Walberg of the University of Wisconsin Hospital were used for making predictions on breast tumor types. Data visualization and machine learning techniques including logistic regression, k-nearest neighbors, support vector machine, naïve Bayes, decision tree, random forest, and rotation forest were applied to this dataset. R, Minitab, and Python were chosen to be applied to these machine learning techniques and visualization. The paper aimed to make a comparative analysis using data visualization and machine learning applications for breast cancer detection and diagnosis. Diagnostic performances of applications were comparable for detecting breast cancers. Data visualization and machine learning techniques can provide significant benefits and impact cancer detection in the decision-making process. In this paper, different machine learning and data mining techniques for the detection of breast cancer were proposed. Results obtained with the logistic regression model with all features included showed the highest classification accuracy (98.1%), and the proposed approach revealed the enhancement in accuracy performances. These results indicated the potential to open new opportunities in the detection of breast cancer.
+
+**Source:** https://www.semanticscholar.org/paper/73d79ae738fd4e2b0e5788b4ed069543924ed5c4
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:42:42.352Z

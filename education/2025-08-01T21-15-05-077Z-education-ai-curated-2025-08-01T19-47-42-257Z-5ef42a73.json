@@ -1,0 +1,13 @@
+# A survey of surveys on the use of visualization for interpreting machine learning models
+
+**Authors:** Angelos Chatzimparmpas, R. M. Martins, Ilir Jusufi, A. Kerren
+
+## Abstract
+Research in machine learning has become very popular in recent years, with many types of models proposed to comprehend and predict patterns and trends in data originating from different domains. As these models get more and more complex, it also becomes harder for users to assess and trust their results, since their internal operations are mostly hidden in black boxes. The interpretation of machine learning models is currently a hot topic in the information visualization community, with results showing that insights from machine learning models can lead to better predictions and improve the trustworthiness of the results. Due to this, multiple (and extensive) survey articles have been published recently trying to summarize the high number of original research papers published on the topic. But there is not always a clear definition of what these surveys cover, what is the overlap between them, which types of machine learning models they deal with, or what exactly is the scenario that the readers will find in each of them. In this article, we present a meta-analysis (i.e. a “survey of surveys”) of manually collected survey papers that refer to the visual interpretation of machine learning models, including the papers discussed in the selected surveys. The aim of our article is to serve both as a detailed summary and as a guide through this survey ecosystem by acquiring, cataloging, and presenting fundamental knowledge of the state of the art and research opportunities in the area. Our results confirm the increasing trend of interpreting machine learning with visualizations in the past years, and that visualization can assist in, for example, online training processes of deep learning models and enhancing trust into machine learning. However, the question of exactly how this assistance should take place is still considered as an open challenge of the visualization community.
+
+**Source:** https://www.semanticscholar.org/paper/3dacce6baae86dd74467e5187907b65ce1c8ca49
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:47:42.257Z

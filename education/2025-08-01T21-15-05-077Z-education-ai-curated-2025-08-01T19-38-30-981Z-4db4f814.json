@@ -1,0 +1,13 @@
+# Educational Data Mining to Support Programming Learning Using Problem-Solving Data
+
+**Authors:** Md. Mostafizer Rahman, Yutaka Watanobe, Taku Matsumoto, R. U. Kiran, Keita Nakamura
+
+## Abstract
+Computer programming has attracted a lot of attention in the development of information and communication technologies in the real world. Meeting the growing demand for highly skilled programmers in the ICT industry is one of the major challenges. In this point, online judge (OJ) systems enhance programming learning and practice opportunities in addition to classroom-based learning. Consequently, OJ systems have created a large number of problem-solving data (solution codes, logs, and scores) archives that can be valuable raw materials for programming education research. In this paper, we propose an educational data mining framework to support programming learning using unsupervised algorithms. The framework includes the following sequence of steps: (i) problem-solving data collection (logs and scores are collected from the OJ) and preprocessing; (ii) MK-means clustering algorithm is used for data clustering in Euclidean space; (iii) statistical features are extracted from each cluster; (iv) frequent pattern (FP)-growth algorithm is applied to each cluster to mine data patterns and association rules; (v) a set of suggestions are provided on the basis of the extracted features, data patterns, and rules. Different parameters are adjusted to achieve the best results for clustering and association rule mining algorithms. For the experiment, approximately 70,000 real-world problem-solving data from 537 students of a programming course (Algorithm and Data Structures) were used. In addition, synthetic data have leveraged for experiments to demonstrate the performance of MK-means algorithm. The experimental results show that the proposed framework effectively extracts useful features, patterns, and rules from problem-solving data. Moreover, these extracted features, patterns, and rules highlight the weaknesses and the scope of possible improvements in programming learning.
+
+**Source:** https://www.semanticscholar.org/paper/ed091dbf2512f19f346f06cf189ee719a5a4fb42
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:38:30.982Z

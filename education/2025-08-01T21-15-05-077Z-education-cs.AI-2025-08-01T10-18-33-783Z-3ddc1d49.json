@@ -1,0 +1,12 @@
+# Human-AI Coordination via Human-Regularized Search and Learning
+
+**Authors:** Hengyuan Hu, David J Wu, Adam Lerer, Jakob Foerster, Noam Brown
+
+## Summary
+We consider the problem of making AI agents that collaborate well with humans in partially observable fully cooperative environments given datasets of human behavior. Inspired by piKL, a human-data-regularized search method that improves upon a behavioral cloning policy without diverging far away from it, we develop a three-step algorithm that achieve strong performance in coordinating with real humans in the Hanabi benchmark. We first use a regularized search algorithm and behavioral cloning to produce a better human model that captures diverse skill levels. Then, we integrate the policy regularization idea into reinforcement learning to train a human-like best response to the human model. Finally, we apply regularized search on top of the best response policy at test time to handle out-of-distribution challenges when playing with humans. We evaluate our method in two large scale experiments with humans. First, we show that our method outperforms experts when playing with a group of diverse human players in ad-hoc teams. Second, we show that our method beats a vanilla best response to behavioral cloning baseline by having experts play repeatedly with the two agents.
+
+
+---
+Category: education
+Subcategory: cs.AI
+Collected: 2025-08-01T10:18:33.784Z

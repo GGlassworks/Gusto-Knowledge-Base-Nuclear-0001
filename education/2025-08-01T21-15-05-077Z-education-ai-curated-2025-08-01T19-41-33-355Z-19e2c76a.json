@@ -1,0 +1,13 @@
+# Educational Big Data Mining: Comparison of Multiple Machine Learning Algorithms in Predictive Modelling of Student Academic Performance
+
+**Authors:** Ting Tin Tin, Lee Shi Hock, O. Ikumapayi
+
+## Abstract
+—Utilisation of Educational Data Mining (EDM) can be useful in predicting academic performance of students to mitigate student attrition rate, allocation of resources, and aid in decision-making processes for higher education institution. This article uses a large dataset from the Programme for International Student Assessment (PISA) consisting of 612,004 participants from 79 countries, supported by the machine learning approach to predict student academic performance. Unlike most of the literature that is confined to one geographical location or with limited datasets and factors, this article studies other factors that contribute to academic success and uses student data from various backgrounds. The accuracy of the proposed model to predict student performance achieved 74%. It is discovered that Gradient Boosted Trees surpass the other classification models that were considered (Logistic Regression, Naïve Bayes, Deep Learning, Random Forest, Fast Large Margin, Generalised Linear Model, Decision Tree and Support Vector Machine). Reading skills and habits are of the highest importance in predicting the academic performance of students.
+
+**Source:** https://www.semanticscholar.org/paper/76d678a98062be44930a1972a25351cf523bcb06
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T19:41:33.356Z

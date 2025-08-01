@@ -1,0 +1,12 @@
+# Generative AI for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning
+
+**Authors:** Haowen Xu, Sisi Zlatanova, Ruiyu Liang, Ismet Canbulat
+
+## Summary
+Wildfires continue to inflict devastating human, environmental, and economic losses globally, as tragically exemplified by the 2025 Los Angeles wildfire and the urgent demand for more effective response strategies. While physics-based and deep learning models have advanced wildfire simulation, they face critical limitations in predicting and visualizing multimodal fire spread in real time, particularly in both 2D and 3D spatial domains using dynamically updated GIS data. These limitations hinder timely emergency response, infrastructure protection, and community safety. Generative AI has recently emerged as a transformative approach across research and industry. Models such as Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), Transformers, and diffusion-based architectures offer distinct advantages over traditional methods, including the integration of multimodal data, generation of diverse scenarios under uncertainty, and improved modeling of wildfire dynamics across spatial and temporal scales. This position paper advocates for the adoption of generative AI as a foundational framework for wildfire prediction. We explore how such models can enhance 2D fire spread forecasting and enable more realistic, scalable 3D simulations. Additionally, we employ a novel human-AI collaboration framework using large language models (LLMs) for automated knowledge extraction, literature synthesis, and bibliometric mapping. Looking ahead, we identify five key visions for integrating generative AI into wildfire management: multimodal approaches, AI foundation models, conversational AI systems, edge-computing-based scenario generation, and cognitive digital twins. We also address three major challenges accompanying these opportunities and propose potential solutions to support their implementation.
+
+
+---
+Category: education
+Subcategory: cs.AI
+Collected: 2025-08-01T10:21:06.691Z

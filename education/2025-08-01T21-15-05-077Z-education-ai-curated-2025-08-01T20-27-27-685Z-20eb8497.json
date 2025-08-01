@@ -1,0 +1,13 @@
+# Consumer behavior clustering of food retail chains by machine learning algorithms
+
+**Authors:** O. Liashenko, T. Kravets, Matvii Prokopenko
+
+## Abstract
+Analysis of the behavior of an economic agent is one of the central themes of microeconomics. Right now, with the comprehensive increase in the amount of data and the expansion of the computing capabilities of personal computers, there is a need to implement methods of behavioral economics in the study of human behavior. In the course of this study, a survey was created aimed at identification of patterns of behavior of the modern consumer according to his selection criteria stores and reactions to questions based on Behavioral Economics theorems. Clustering the obtained results were performed using machine learning algorithms, after which the Random Forest classification algorithm was trained. According to the results of Silhouette analysis, K-means clusters were selected as the main ones for further modeling. T-SNE algorithms, hierarchical and spectral analysis were used for additional visual representation. This study offers a tool for classifying customer preferences and analyzing current industry trends. A tool has been created to classify consumers of food retail chains in order to improve their "buyer's journey" and better understand their needs. The created tool for clustering and classification by machine learning methods can be used in business processes. To improve the result, it is necessary to choose a more representative sample, because used in this study consists of an average rationally thinking and knowledgeable individuals, which cannot be said of the average consumer not only among the older generation but also among the younger. Therefore, the next directions in the study may be to identify new ones behavioral trends in other industries; deepening understanding of food retail; use of geodata to improve analysis, etc. Potentially attractive the direction may be to add an assessment of the impact of network advertising on behavior consumers through semantics analysis and image recognition.
+
+**Source:** https://www.semanticscholar.org/paper/a63f7b7d3a213d7005f5ac4b839ece6afc4edf13
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T20:27:27.685Z

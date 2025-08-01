@@ -1,0 +1,12 @@
+# Mechanic Maker 2.0: Reinforcement Learning for Evaluating Generated Rules
+
+**Authors:** Johor Jara Gonzalez, Seth Cooper, Matthew Guzdial
+
+## Summary
+Automated game design (AGD), the study of automatically generating game rules, has a long history in technical games research. AGD approaches generally rely on approximations of human play, either objective functions or AI agents. Despite this, the majority of these approximators are static, meaning they do not reflect human player's ability to learn and improve in a game. In this paper, we investigate the application of Reinforcement Learning (RL) as an approximator for human play for rule generation. We recreate the classic AGD environment Mechanic Maker in Unity as a new, open-source rule generation framework. Our results demonstrate that RL produces distinct sets of rules from an A* agent baseline, which may be more usable by humans.
+
+
+---
+Category: education
+Subcategory: cs.AI
+Collected: 2025-08-01T10:14:18.199Z

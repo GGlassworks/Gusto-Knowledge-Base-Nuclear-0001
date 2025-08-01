@@ -1,0 +1,12 @@
+# Neural network learning dynamics in a path integral framework
+
+**Authors:** J. Balakrishnan
+
+## Summary
+A path-integral formalism is proposed for studying the dynamical evolution in time of patterns in an artificial neural network in the presence of noise. An effective cost function is constructed which determines the unique global minimum of the neural network system. The perturbative method discussed also provides a way for determining the storage capacity of the network.
+
+
+---
+Category: education
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T11:41:34.500Z
