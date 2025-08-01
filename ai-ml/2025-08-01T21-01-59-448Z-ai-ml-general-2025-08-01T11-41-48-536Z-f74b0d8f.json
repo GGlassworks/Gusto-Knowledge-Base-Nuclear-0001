@@ -1,0 +1,13 @@
+# Message Passing Neural Networks for Partial Charge Assignment to Metal-Organic Frameworks
+
+**Authors:** Ali Raza, Arni Sturluson, Cory Simon, Xiaoli Fern
+
+## Abstract
+<jats:p>Virtual screenings can accelerate and reduce the cost of discovering metal-organic frameworks (MOFs) for their applications in gas storage, separation, and sensing. In molecular simulations of gas adsorption/diffusion in MOFs, the adsorbate-MOF electrostatic interaction is typically modeled by placing partial point charges on the atoms of the MOF. For the virtual screening of large libraries of MOFs, it is critical to develop computationally inexpensive methods to assign atomic partial charges to MOFs that accurately reproduce the electrostatic potential in their pores. Herein, we design and train a message passing neural network (MPNN) to predict the atomic partial charges on MOFs under a charge neutral constraint. A set of ca. 2,250 MOFs labeled with high-fidelity partial charges, derived from periodic electronic structure calculations, serves as training examples. In an end-to-end manner, from charge-labeled crystal graphs representing MOFs, our MPNN machine-learns features of the local bonding environments of the atoms and learns to predict partial atomic charges from these features. Our trained MPNN assigns high-fidelity partial point charges to MOFs with orders of magnitude lower computational cost than electronic structure calculations. To enhance the accuracy of virtual screenings of large libraries of MOFs for their adsorption-based applications, we make our trained MPNN model and MPNN-charge-assigned computation-ready, experimental MOF structures publicly available.</jats:p><jats:p/>
+
+**Source:** https://doi.org/10.26434/chemrxiv.12298487.v1
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T11:41:48.538Z

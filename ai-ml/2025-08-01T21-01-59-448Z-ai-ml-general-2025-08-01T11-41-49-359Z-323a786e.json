@@ -1,0 +1,13 @@
+# GraphBased Risk Analysis Using Graph Neural Networks for Mapping Cyber Threat Propagation in LargeScale Networks
+
+**Authors:** S Shanthi, Sathea Sree S, M Sindhu
+
+## Abstract
+<jats:p>The increasing complexity and scale of cyber-physical systems have amplified the challenges associated with real-time cyber threat detection and mitigation. Traditional anomaly detection methods often struggle to capture the intricate dependencies and temporal dynamics of evolving cyber threats in large-scale networks. Graph Neural Networks (GNNs) have emerged as a powerful tool for modeling cyber threats; however, their scalability, computational efficiency, and real-time adaptability remain critical research challenges. This book chapter presents a comprehensive study on Graph-Based Risk Analysis using Graph Neural Networks (GNNs) and Temporal Graph Neural Networks (TGNNs) to map cyber threat propagation in large-scale networks. It explores key aspects such as dynamic graph representation, sequential modeling of attack patterns, and trade-offs between accuracy and computational efficiency in real-world cybersecurity applications, the scalability challenges of graph-based anomaly detection systems are analyzed, including computational complexity, memory constraints, and parallel processing limitations. Several optimization techniques, including graph sampling, model compression, and distributed graph learning, are discussed to enhance real-time threat detection performance. The chapter also highlights future research directions, such as federated graph learning for decentralized cybersecurity, adversarial robustness in GNNs, and energy-efficient architectures for large-scale threat monitoring. By addressing these challenges, this study provides a foundation for developing scalable, efficient, and resilient graph-based cyber risk assessment frameworks that can effectively combat emerging cyber threats in interconnected digital ecosystems.</jats:p>
+
+**Source:** https://doi.org/10.71443/9789349552029-03
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T11:41:49.360Z
