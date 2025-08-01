@@ -1,0 +1,12 @@
+# Subtractive Perceptrons for Learning Images: A Preliminary Report
+
+**Authors:** H. R. Tizhoosh, Shivam Kalra, Shalev Lifshitz, Morteza Babaie
+
+## Summary
+In recent years, artificial neural networks have achieved tremendous success for many vision-based tasks. However, this success remains within the paradigm of \emph{weak AI} where networks, among others, are specialized for just one given task. The path toward \emph{strong AI}, or Artificial General Intelligence, remains rather obscure. One factor, however, is clear, namely that the feed-forward structure of current networks is not a realistic abstraction of the human brain. In this preliminary work, some ideas are proposed to define a \textit{subtractive Perceptron} (s-Perceptron), a graph-based neural network that delivers a more compact topology to learn one specific task. In this preliminary study, we test the s-Perceptron with the MNIST dataset, a commonly used image archive for digit recognition. The proposed network achieves excellent results compared to the benchmark networks that rely on more complex topologies.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:22.458Z

@@ -1,0 +1,12 @@
+# DeepHider: A Covert NLP Watermarking Framework Based on Multi-task Learning
+
+**Authors:** Long Dai, Jiarong Mao, Xuefeng Fan, Xiaoyi Zhou
+
+## Summary
+Natural language processing (NLP) technology has shown great commercial value in applications such as sentiment analysis. But NLP models are vulnerable to the threat of pirated redistribution, damaging the economic interests of model owners. Digital watermarking technology is an effective means to protect the intellectual property rights of NLP model. The existing NLP model protection mainly designs watermarking schemes by improving both security and robustness purposes, however, the security and robustness of these schemes have the following problems, respectively: (1) Watermarks are difficult to defend against fraudulent declaration by adversary and are easily detected and blocked from verification by human or anomaly detector during the verification process. (2) The watermarking model cannot meet multiple robustness requirements at the same time. To solve the above problems, this paper proposes a novel watermarking framework for NLP model based on the over-parameterization of depth model and the multi-task learning theory. Specifically, a covert trigger set is established to realize the perception-free verification of the watermarking model, and a novel auxiliary network is designed to improve the robustness and security of the watermarking model. The proposed framework was evaluated on two benchmark datasets and three mainstream NLP models, and the results show that the framework can successfully validate model ownership with 100% validation accuracy and advanced robustness and security without compromising the host model performance.
+
+
+---
+Category: education
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:07.883Z

@@ -1,0 +1,12 @@
+# Deep Learning in the Field of Biometric Template Protection: An Overview
+
+**Authors:** Christian Rathgeb, Jascha Kolberg, Andreas Uhl, Christoph Busch
+
+## Summary
+Today, deep learning represents the most popular and successful form of machine learning. Deep learning has revolutionised the field of pattern recognition, including biometric recognition. Biometric systems utilising deep learning have been shown to achieve auspicious recognition accuracy, surpassing human performance. Apart from said breakthrough advances in terms of biometric performance, the use of deep learning was reported to impact different covariates of biometrics such as algorithmic fairness, vulnerability to attacks, or template protection. Technologies of biometric template protection are designed to enable a secure and privacy-preserving deployment of biometrics. In the recent past, deep learning techniques have been frequently applied in biometric template protection systems for various purposes. This work provides an overview of how advances in deep learning take influence on the field of biometric template protection. The interrelation between improved biometric performance rates and security in biometric template protection is elaborated. Further, the use of deep learning for obtaining feature representations that are suitable for biometric template protection is discussed. Novel methods that apply deep learning to achieve various goals of biometric template protection are surveyed along with deep learning-based attacks.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T11:21:33.788Z

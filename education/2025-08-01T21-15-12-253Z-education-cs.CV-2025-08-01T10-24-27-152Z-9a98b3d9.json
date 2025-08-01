@@ -1,0 +1,12 @@
+# Learning to Score Sign Language with Two-stage Method
+
+**Authors:** Hongli Wen, Yang Xu
+
+## Summary
+Human action recognition and performance assessment have been hot research topics in recent years. Recognition problems have mature solutions in the field of sign language, but past research in performance analysis has focused on competitive sports and medical training, overlooking the scoring assessment ,which is an important part of sign language teaching digitalization. In this paper, we analyze the existing technologies for performance assessment and adopt methods that perform well in human pose reconstruction tasks combined with motion rotation embedded expressions, proposing a two-stage sign language performance evaluation pipeline. Our analysis shows that choosing reconstruction tasks in the first stage can provide more expressive features, and using smoothing methods can provide an effective reference for assessment. Experiments show that our method provides good score feedback mechanisms and high consistency with professional assessments compared to end-to-end evaluations.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:27.153Z

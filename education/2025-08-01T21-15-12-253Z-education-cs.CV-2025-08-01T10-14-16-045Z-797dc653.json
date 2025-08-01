@@ -1,0 +1,12 @@
+# KP-RNN: A Deep Learning Pipeline for Human Motion Prediction and Synthesis of Performance Art
+
+**Authors:** Patrick Perrine, Trevor Kirkby
+
+## Summary
+Digitally synthesizing human motion is an inherently complex process, which can create obstacles in application areas such as virtual reality. We offer a new approach for predicting human motion, KP-RNN, a neural network which can integrate easily with existing image processing and generation pipelines. We utilize a new human motion dataset of performance art, Take The Lead, as well as the motion generation pipeline, the Everybody Dance Now system, to demonstrate the effectiveness of KP-RNN's motion predictions. We have found that our neural network can predict human dance movements effectively, which serves as a baseline result for future works using the Take The Lead dataset. Since KP-RNN can work alongside a system such as Everybody Dance Now, we argue that our approach could inspire new methods for rendering human avatar animation. This work also serves to benefit the visualization of performance art in digital platforms by utilizing accessible neural networks.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.045Z

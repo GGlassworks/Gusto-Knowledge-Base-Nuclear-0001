@@ -1,0 +1,12 @@
+# Machine Learning in Digital Forensics: A Systematic Literature Review
+
+**Authors:** Tahereh Nayerifard, Haleh Amintoosi, Abbas Ghaemi Bafghi, Ali Dehghantanha
+
+## Summary
+Development and exploitation of technology have led to the further expansion and complexity of digital crimes. On the other hand, the growing volume of data and, subsequently, evidence is a severe challenge in digital forensics. In recent years, the application of machine learning techniques to identify and analyze evidence has been on the rise in different digital forensics domains. This paper offers a systematic literature review of the research published in major academic databases from January 2010 to December 2021 on the application of machine learning in digital forensics, which was not presented yet to the best of our knowledge as comprehensive as this. The review also identifies the domains of digital forensics and machine learning methods that have received the most attention in the previous papers and finally introduces remaining research gaps. Our findings demonstrate that image forensics has obtained the greatest benefit from using machine learning methods, compared to other forensic domains. Moreover, CNN-based models are the most important machine learning methods that are increasingly being used in digital forensics. We present a comprehensive mind map to provide a proper perspective for valuable analytical results. Furthermore, visual analysis has been conducted based on the keywords of the papers, providing different thematic relevance topics. This research will give digital forensics investigators, machine learning developers, security researchers, and enthusiasts a broad view of the application of machine learning in digital forensics.
+
+
+---
+Category: education
+Subcategory: cs.CR
+Collected: 2025-08-01T10:16:19.102Z

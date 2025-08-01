@@ -1,0 +1,12 @@
+# Apricot variety classification using image processing and machine learning approaches
+
+**Authors:** Seyed Vahid Mirnezami, Ali HamidiSepehr, Mahdi Ghaebi
+
+## Summary
+Apricot which is a cultivated type of Zerdali (wild apricot) has an important place in human nutrition and its medical properties are essential for human health. The objective of this research was to obtain a model for apricot mass and separate apricot variety with image processing technology using external features of apricot fruit. In this study, five verities of apricot were used. In order to determine the size of the fruits, three mutually perpendicular axes were defined, length, width, and thickness. Measurements show that the effect of variety on all properties was statistically significant at the 1% probability level. Furthermore, there is no significant difference between the estimated dimensions by image processing approach and the actual dimensions. The developed system consists of a digital camera, a light diffusion chamber, a distance adjustment pedestal, and a personal computer. Images taken by the digital camera were stored as (RGB) for further analysis. The images were taken for a number of 49 samples of each cultivar in three directions. A linear equation is recommended to calculate the apricot mass based on the length and the width with R 2 = 0.97. In addition, ANFIS model with C-means was the best model for classifying the apricot varieties based on the physical features including length, width, thickness, mass, and projected area of three perpendicular surfaces. The accuracy of the model was 87.7.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:22:48.795Z

@@ -1,0 +1,12 @@
+# Generalized Jersey Number Recognition Using Multi-task Learning With Orientation-guided Weight Refinement
+
+**Authors:** Yung-Hui Lin, Yu-Wen Chang, Huang-Chia Shih, Takahiro Ogawa
+
+## Summary
+Jersey number recognition (JNR) has always been an important task in sports analytics. Improving recognition accuracy remains an ongoing challenge because images are subject to blurring, occlusion, deformity, and low resolution. Recent research has addressed these problems using number localization and optical character recognition. Some approaches apply player identification schemes to image sequences, ignoring the impact of human body rotation angles on jersey digit identification. Accurately predicting the number of jersey digits by using a multi-task scheme to recognize each individual digit enables more robust results. Based on the above considerations, this paper proposes a multi-task learning method called the angle-digit refine scheme (ADRS), which combines human body orientation angles and digit number clues to recognize athletic jersey numbers. Based on our experimental results, our approach increases inference information, significantly improving prediction accuracy. Compared to state-of-the-art methods, which can only handle a single type of sport, the proposed method produces a more diverse and practical JNR application. The incorporation of diverse types of team sports such as soccer, football, basketball, volleyball, and baseball into our dataset contributes greatly to generalized JNR in sports analytics. Our accuracy achieves 64.07% on Top-1 and 89.97% on Top-2, with corresponding F1 scores of 67.46% and 90.64%, respectively.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.560Z

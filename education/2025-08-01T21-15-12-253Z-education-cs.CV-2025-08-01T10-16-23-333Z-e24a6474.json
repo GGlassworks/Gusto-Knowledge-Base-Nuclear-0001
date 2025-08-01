@@ -1,0 +1,12 @@
+# Deep Curriculum Learning in Task Space for Multi-Class Based Mammography Diagnosis
+
+**Authors:** Jun Luo, Dooman Arefan, Margarita Zuley, Jules Sumkin, Shandong Wu
+
+## Summary
+Mammography is used as a standard screening procedure for the potential patients of breast cancer. Over the past decade, it has been shown that deep learning techniques have succeeded in reaching near-human performance in a number of tasks, and its application in mammography is one of the topics that medical researchers most concentrate on. In this work, we propose an end-to-end Curriculum Learning (CL) strategy in task space for classifying the three categories of Full-Field Digital Mammography (FFDM), namely Malignant, Negative, and False recall. Specifically, our method treats this three-class classification as a "harder" task in terms of CL, and create an "easier" sub-task of classifying False recall against the combined group of Negative and Malignant. We introduce a loss scheduler to dynamically weight the contribution of the losses from the two tasks throughout the entire training process. We conduct experiments on an FFDM datasets of 1,709 images using 5-fold cross validation. The results show that our curriculum learning strategy can boost the performance for classifying the three categories of FFDM compared to the baseline strategies for model training.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:23.334Z

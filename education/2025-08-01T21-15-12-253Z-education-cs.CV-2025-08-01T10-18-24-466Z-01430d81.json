@@ -1,0 +1,12 @@
+# Embracing Annotation Efficient Learning (AEL) for Digital Pathology and Natural Images
+
+**Authors:** Eu Wern Teh
+
+## Summary
+Jitendra Malik once said, "Supervision is the opium of the AI researcher". Most deep learning techniques heavily rely on extreme amounts of human labels to work effectively. In today's world, the rate of data creation greatly surpasses the rate of data annotation. Full reliance on human annotations is just a temporary means to solve current closed problems in AI. In reality, only a tiny fraction of data is annotated. Annotation Efficient Learning (AEL) is a study of algorithms to train models effectively with fewer annotations. To thrive in AEL environments, we need deep learning techniques that rely less on manual annotations (e.g., image, bounding-box, and per-pixel labels), but learn useful information from unlabeled data. In this thesis, we explore five different techniques for handling AEL.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:24.466Z

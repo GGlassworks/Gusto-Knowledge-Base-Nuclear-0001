@@ -1,0 +1,12 @@
+# Focusing on Students, not Machines: Grounded Question Generation and Automated Answer Grading
+
+**Authors:** Gérôme Meyer, Philip Breuer
+
+## Summary
+Digital technologies are increasingly used in education to reduce the workload of teachers and students. However, creating open-ended study or examination questions and grading their answers is still a tedious task. This thesis presents the foundation for a system that generates questions grounded in class materials and automatically grades student answers. It introduces a sophisticated method for chunking documents with a visual layout, specifically targeting PDF documents. This method enhances the accuracy of downstream tasks, including Retrieval Augmented Generation (RAG). Our thesis demonstrates that high-quality questions and reference answers can be generated from study material. Further, it introduces a new benchmark for automated grading of short answers to facilitate comparison of automated grading systems. An evaluation of various grading systems is conducted and indicates that Large Language Models (LLMs) can generalise to the task of automated grading of short answers from their pre-training tasks. As with other tasks, increasing the parameter size of the LLMs leads to greater performance. Currently, available systems still need human oversight, especially in examination scenarios.
+
+
+---
+Category: education
+Subcategory: cs.CL
+Collected: 2025-08-01T10:22:55.508Z

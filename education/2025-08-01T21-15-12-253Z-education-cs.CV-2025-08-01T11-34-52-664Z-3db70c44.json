@@ -1,0 +1,12 @@
+# Multi-level Feature Learning on Embedding Layer of Convolutional Autoencoders and Deep Inverse Feature Learning for Image Clustering
+
+**Authors:** Behzad Ghazanfari, Fatemeh Afghah
+
+## Summary
+This paper introduces Multi-Level feature learning alongside the Embedding layer of Convolutional Autoencoder (CAE-MLE) as a novel approach in deep clustering. We use agglomerative clustering as the multi-level feature learning that provides a hierarchical structure on the latent feature space. It is shown that applying multi-level feature learning considerably improves the basic deep convolutional embedding clustering (DCEC). CAE-MLE considers the clustering loss of agglomerative clustering simultaneously alongside the learning latent feature of CAE. In the following of the previous works in inverse feature learning, we show that the representation of learning of error as a general strategy can be applied on different deep clustering approaches and it leads to promising results. We develop deep inverse feature learning (deep IFL) on CAE-MLE as a novel approach that leads to the state-of-the-art results among the same category methods. The experimental results show that the CAE-MLE improves the results of the basic method, DCEC, around 7% -14% on two well-known datasets of MNIST and USPS. Also, it is shown that the proposed deep IFL improves the primary results about 9%-17%. Therefore, both proposed approaches of CAE-MLE and deep IFL based on CAE-MLE can lead to notable performance improvement in comparison to the majority of existing techniques. The proposed approaches while are based on a basic convolutional autoencoder lead to outstanding results even in comparison to variational autoencoders or generative adversarial networks.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T11:34:52.664Z

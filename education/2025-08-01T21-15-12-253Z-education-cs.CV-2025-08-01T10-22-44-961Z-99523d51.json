@@ -1,0 +1,12 @@
+# Rapid-Motion-Track: Markerless Tracking of Fast Human Motion with Deeper Learning
+
+**Authors:** Renjie Li, Chun Yu Lao, Rebecca St. George, Katherine Lawler, Saurabh Garg, Son N. Tran, Quan Bai, Jane Alty
+
+## Summary
+Objective The coordination of human movement directly reflects function of the central nervous system. Small deficits in movement are often the first sign of an underlying neurological problem. The objective of this research is to develop a new end-to-end, deep learning-based system, Rapid-Motion-Track (RMT) that can track the fastest human movement accurately when webcams or laptop cameras are used. Materials and Methods We applied RMT to finger tapping, a well-validated test of motor control that is one of the most challenging human motions to track with computer vision due to the small keypoints of digits and the high velocities that are generated. We recorded 160 finger tapping assessments simultaneously with a standard 2D laptop camera (30 frames/sec) and a high-speed wearable sensor-based 3D motion tracking system (250 frames/sec). RMT and a range of DLC models were applied to the video data with tapping frequencies up to 8Hz to extract movement features. Results The movement features (e.g. speed, rhythm, variance) identified with the new RMT system exhibited very high concurrent validity with the gold-standard measurements (97.3\% of RMT measures were within +/-0.5Hz of the Optotrak measures), and outperformed DLC and other advanced computer vision tools (around 88.2\% of DLC measures were within +/-0.5Hz of the Optotrak measures). RMT also accurately tracked a range of other rapid human movements such as foot tapping, head turning and sit-to -stand movements. Conclusion: With the ubiquity of video technology in smart devices, the RMT method holds potential to transform access and accuracy of human movement assessment.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:22:44.961Z

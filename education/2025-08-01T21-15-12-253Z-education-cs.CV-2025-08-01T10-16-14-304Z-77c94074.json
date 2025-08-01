@@ -1,0 +1,12 @@
+# Deepfake Video Forensics based on Transfer Learning
+
+**Authors:** Rahul U, Ragul M, Raja Vignesh K, Tejeswinee K
+
+## Summary
+Deeplearning has been used to solve complex problems in various domains. As it advances, it also creates applications which become a major threat to our privacy, security and even to our Democracy. Such an application which is being developed recently is the "Deepfake". Deepfake models can create fake images and videos that humans cannot differentiate them from the genuine ones. Therefore, the counter application to automatically detect and analyze the digital visual media is necessary in today world. This paper details retraining the image classification models to apprehend the features from each deepfake video frames. After feeding different sets of deepfake clips of video fringes through a pretrained layer of bottleneck in the neural network is made for every video frame, already stated layer contains condense data for all images and exposes artificial manipulations in Deepfake videos. When checking Deepfake videos, this technique received more than 87 per cent accuracy. This technique has been tested on the Face Forensics dataset and obtained good accuracy in detection.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:14.304Z

@@ -1,0 +1,12 @@
+# Efficient Realistic Data Generation Framework leveraging Deep Learning-based Human Digitization
+
+**Authors:** C. Symeonidis, P. Nousi, P. Tosidis, K. Tsampazis, N. Passalis, A. Tefas, N. Nikolaidis
+
+## Summary
+The performance of supervised deep learning algorithms depends significantly on the scale, quality and diversity of the data used for their training. Collecting and manually annotating large amount of data can be both time-consuming and costly tasks to perform. In the case of tasks related to visual human-centric perception, the collection and distribution of such data may also face restrictions due to legislation regarding privacy. In addition, the design and testing of complex systems, e.g., robots, which often employ deep learning-based perception models, may face severe difficulties as even state-of-the-art methods trained on real and large-scale datasets cannot always perform adequately due to not having been adapted to the visual differences between the virtual and the real world data. As an attempt to tackle and mitigate the effect of these issues, we present a method that automatically generates realistic synthetic data with annotations for a) person detection, b) face recognition, and c) human pose estimation. The proposed method takes as input real background images and populates them with human figures in various poses. Instead of using hand-made 3D human models, we propose the use of models generated through deep learning methods, further reducing the dataset creation costs, while maintaining a high level of realism. In addition, we provide open-source and easy to use tools that implement the proposed pipeline, allowing for generating highly-realistic synthetic datasets for a variety of tasks. A benchmarking and evaluation in the corresponding tasks shows that synthetic data can be effectively used as a supplement to real data.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:19.223Z

@@ -1,0 +1,12 @@
+# BlockMEDC: Blockchain Smart Contracts for Securing Moroccan Higher Education Digital Certificates
+
+**Authors:** Mohamed Fartitchou, Ismail Lamaakal, Khalid El Makkaoui, Zakaria El Allali, Yassine Maleh
+
+## Summary
+Morocco's Vision 2030, known as Maroc Digital 2030, aims to position the country as a regional leader in digital technology by boosting digital infrastructure, fostering innovation, and advancing digital skills. Complementing this initiative, the Pacte ESRI 2030 strategy, launched in 2023, seeks to transform the higher education, research, and innovation sectors by integrating state-of-the-art digital technologies. In alignment with these national strategies, this paper introduces BlockMEDC, a blockchain-based system for securing and managing Moroccan educational digital certificates. Leveraging Ethereum smart contracts and the InterPlanetary File System, BlockMEDC automates the issuance, management, and verification of academic credentials across Moroccan universities. The proposed system addresses key issues such as document authenticity, manual verification, and lack of interoperability, delivering a secure, transparent, and cost-effective solution that aligns with Morocco's digital transformation goals for the education sector.
+
+
+---
+Category: education
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:55.668Z

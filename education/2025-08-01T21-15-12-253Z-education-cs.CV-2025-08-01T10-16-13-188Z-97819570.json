@@ -1,0 +1,12 @@
+# Galaxy Classification: A machine learning approach for classifying shapes using numerical data
+
+**Authors:** Anusha Guruprasad
+
+## Summary
+The classification of galaxies as spirals or ellipticals is a crucial task in understanding their formation and evolution. With the arrival of large-scale astronomical surveys, such as the Sloan Digital Sky Survey (SDSS), astronomers now have access to images of a vast number of galaxies. However, the visual inspection of these images is an impossible task for humans due to the sheer number of galaxies to be analyzed. To solve this problem, the Galaxy Zoo project was created to engage thousands of citizen scientists to classify the galaxies based on their visual features. In this paper, we present a machine learning model for galaxy classification using numerical data from the Galaxy Zoo[5] project. Our model utilizes a convolutional neural network architecture to extract features from galaxy images and classify them into spirals or ellipticals. We demonstrate the effectiveness of our model by comparing its performance with that of human classifiers using a subset of the Galaxy Zoo dataset. Our results show that our model achieves high accuracy in classifying galaxies and has the potential to significantly enhance our understanding of the formation and evolution of galaxies.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:13.188Z

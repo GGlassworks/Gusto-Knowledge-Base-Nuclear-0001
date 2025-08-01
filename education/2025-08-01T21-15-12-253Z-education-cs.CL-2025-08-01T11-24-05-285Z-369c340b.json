@@ -1,0 +1,12 @@
+# Deep Learning Approach for Enhanced Cyber Threat Indicators in Twitter Stream
+
+**Authors:** Simran K, Prathiksha Balakrishna, Vinayakumar R, Soman KP
+
+## Summary
+In recent days, the amount of Cyber Security text data shared via social media resources mainly Twitter has increased. An accurate analysis of this data can help to develop cyber threat situational awareness framework for a cyber threat. This work proposes a deep learning based approach for tweet data analysis. To convert the tweets into numerical representations, various text representations are employed. These features are feed into deep learning architecture for optimal feature extraction as well as classification. Various hyperparameter tuning approaches are used for identifying optimal text representation method as well as optimal network parameters and network structures for deep learning models. For comparative analysis, the classical text representation method with classical machine learning algorithm is employed. From the detailed analysis of experiments, we found that the deep learning architecture with advanced text representation methods performed better than the classical text representation and classical machine learning algorithms. The primary reason for this is that the advanced text representation methods have the capability to learn sequential properties which exist among the textual data and deep learning architectures learns the optimal features along with decreasing the feature size.
+
+
+---
+Category: education
+Subcategory: cs.CL
+Collected: 2025-08-01T11:24:05.286Z

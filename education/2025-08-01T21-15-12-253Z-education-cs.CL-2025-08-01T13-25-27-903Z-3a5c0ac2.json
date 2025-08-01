@@ -1,0 +1,12 @@
+# Utilizing deep learning models for the identification of enhancers and super-enhancers based on genomic and epigenomic features
+
+**Authors:** Zahra Ahani, Moein Shahiki Tash, Yoel Ledo Mezquita, Jason Angel
+
+## Summary
+This paper provides an extensive examination of a sizable dataset of English tweets focusing on nine widely recognized cryptocurrencies, specifically Cardano, Binance, Bitcoin, Dogecoin, Ethereum, Fantom, Matic, Shiba, and Ripple. Our primary objective was to conduct a psycholinguistic and emotion analysis of social media content associated with these cryptocurrencies. To enable investigators to make more informed decisions. The study involved comparing linguistic characteristics across the diverse digital coins, shedding light on the distinctive linguistic patterns that emerge within each coin's community. To achieve this, we utilized advanced text analysis techniques. Additionally, our work unveiled an intriguing Understanding of the interplay between these digital assets within the cryptocurrency community. By examining which coin pairs are mentioned together most frequently in the dataset, we established correlations between different cryptocurrencies. To ensure the reliability of our findings, we initially gathered a total of 832,559 tweets from Twitter. These tweets underwent a rigorous preprocessing stage, resulting in a refined dataset of 115,899 tweets that were used for our analysis. Overall, our research offers valuable Perception into the linguistic nuances of various digital coins' online communities and provides a deeper understanding of their interactions in the cryptocurrency space.
+
+
+---
+Category: education
+Subcategory: cs.CL
+Collected: 2025-08-01T13:25:27.904Z

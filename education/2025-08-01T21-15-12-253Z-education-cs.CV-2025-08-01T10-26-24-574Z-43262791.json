@@ -1,0 +1,12 @@
+# Rapid post-disaster infrastructure damage characterisation enabled by remote sensing and deep learning technologies -- a tiered approach
+
+**Authors:** Nadiia Kopiika, Andreas Karavias, Pavlos Krassakis, Zehao Ye, Jelena Ninic, Nataliya Shakhovska, Nikolaos Koukouzas, Sotirios Argyroudis, Stergios-Aristoteles Mitoulis
+
+## Summary
+Critical infrastructure, such as transport networks and bridges, are systematically targeted during wars and suffer damage during extensive natural disasters because it is vital for enabling connectivity and transportation of people and goods, and hence, underpins national and international economic growth. Mass destruction of transport assets, in conjunction with minimal or no accessibility in the wake of natural and anthropogenic disasters, prevents us from delivering rapid recovery and adaptation. As a result, systemic operability is drastically reduced, leading to low levels of resilience. Thus, there is a need for rapid assessment of its condition to allow for informed decision-making for restoration prioritisation. A solution to this challenge is to use technology that enables stand-off observations. Nevertheless, no methods exist for automated characterisation of damage at multiple scales, i.e. regional (e.g., network), asset (e.g., bridges), and structural (e.g., road pavement) scales. We propose a methodology based on an integrated, multi-scale tiered approach to fill this capability gap. In doing so, we demonstrate how automated damage characterisation can be enabled by fit-for-purpose digital technologies. Next, the methodology is applied and validated to a case study in Ukraine that includes 17 bridges, damaged by human targeted interventions. From regional to component scale, we deploy technology to integrate assessments using Sentinel-1 SAR images, crowdsourced information, and high-resolution images for deep learning to facilitate automatic damage detection and characterisation. For the first time, the interferometric coherence difference and semantic segmentation of images were deployed in a tiered multi-scale approach to improve the reliability of damage characterisations at different scales.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:26:24.574Z

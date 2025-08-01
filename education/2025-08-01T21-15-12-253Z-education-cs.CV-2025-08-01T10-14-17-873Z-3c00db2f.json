@@ -1,0 +1,12 @@
+# Handwritten Digit Recognition using Machine and Deep Learning Algorithms
+
+**Authors:** Samay Pashine, Ritik Dixit, Rishika Kushwah
+
+## Summary
+The reliance of humans over machines has never been so high such that from object classification in photographs to adding sound to silent movies everything can be performed with the help of deep learning and machine learning algorithms. Likewise, Handwritten text recognition is one of the significant areas of research and development with a streaming number of possibilities that could be attained. Handwriting recognition (HWR), also known as Handwritten Text Recognition (HTR), is the ability of a computer to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, touch-screens and other devices [1]. Apparently, in this paper, we have performed handwritten digit recognition with the help of MNIST datasets using Support Vector Machines (SVM), Multi-Layer Perceptron (MLP) and Convolution Neural Network (CNN) models. Our main objective is to compare the accuracy of the models stated above along with their execution time to get the best possible model for digit recognition.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:17.873Z

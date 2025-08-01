@@ -1,0 +1,12 @@
+# Hiding Information in Big Data based on Deep Learning
+
+**Authors:** Dingju Zhu
+
+## Summary
+The current approach of information hiding based on deep learning model can not directly use the original data as carriers, which means the approach can not make use of the existing data in big data to hiding information. We proposed a novel method of information hiding in big data based on deep learning. Our method uses the existing data in big data as carriers and uses deep learning models to hide and extract secret messages in big data. The data amount of big data is unlimited and thus the data amount of secret messages hided in big data can also be unlimited. Before opponents want to extract secret messages from carriers, they need to find the carriers, however finding out the carriers from big data is just like finding out a box from the sea. Deep learning models are well known as deep black boxes in which the process from the input to the output is very complex, and thus the deep learning model for information hiding is almost impossible for opponents to reconstruct. The results also show that our method can hide secret messages safely, conveniently, quickly and with no limitation on the data amount.
+
+
+---
+Category: education
+Subcategory: cs.CR
+Collected: 2025-08-01T10:43:21.233Z

@@ -1,0 +1,12 @@
+# An end-to-end, interactive Deep Learning based Annotation system for cursive and print English handwritten text
+
+**Authors:** Pranav Guruprasad, Sujith Kumar S, Vigneswaran C, V. Srinivasa Chakravarthy
+
+## Summary
+With the surging inclination towards carrying out tasks on computational devices and digital mediums, any method that converts a task that was previously carried out manually, to a digitized version, is always welcome. Irrespective of the various documentation tasks that can be done online today, there are still many applications and domains where handwritten text is inevitable, which makes the digitization of handwritten documents a very essential task. Over the past decades, there has been extensive research on offline handwritten text recognition. In the recent past, most of these attempts have shifted to Machine learning and Deep learning based approaches. In order to design more complex and deeper networks, and ensure stellar performances, it is essential to have larger quantities of annotated data. Most of the databases present for offline handwritten text recognition today, have either been manually annotated or semi automatically annotated with a lot of manual involvement. These processes are very time consuming and prone to human errors. To tackle this problem, we present an innovative, complete end-to-end pipeline, that annotates offline handwritten manuscripts written in both print and cursive English, using Deep Learning and User Interaction techniques. This novel method, which involves an architectural combination of a detection system built upon a state-of-the-art text detection model, and a custom made Deep Learning model for the recognition system, is combined with an easy-to-use interactive interface, aiming to improve the accuracy of the detection, segmentation, serialization and recognition phases, in order to ensure high quality annotated data with minimal human interaction.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:13.998Z

@@ -1,0 +1,12 @@
+# Can Text-to-image Model Assist Multi-modal Learning for Visual Recognition with Visual Modality Missing?
+
+**Authors:** Tiantian Feng, Daniel Yang, Digbalay Bose, Shrikanth Narayanan
+
+## Summary
+Multi-modal learning has emerged as an increasingly promising avenue in vision recognition, driving innovations across diverse domains ranging from media and education to healthcare and transportation. Despite its success, the robustness of multi-modal learning for visual recognition is often challenged by the unavailability of a subset of modalities, especially the visual modality. Conventional approaches to mitigate missing modalities in multi-modal learning rely heavily on algorithms and modality fusion schemes. In contrast, this paper explores the use of text-to-image models to assist multi-modal learning. Specifically, we propose a simple but effective multi-modal learning framework GTI-MM to enhance the data efficiency and model robustness against missing visual modality by imputing the missing data with generative transformers. Using multiple multi-modal datasets with visual recognition tasks, we present a comprehensive analysis of diverse conditions involving missing visual modality in data, including model training. Our findings reveal that synthetic images benefit training data efficiency with visual data missing in training and improve model robustness with visual data missing involving training and testing. Moreover, we demonstrate GTI-MM is effective with lower generation quantity and simple prompt techniques.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T19:46:00.049Z

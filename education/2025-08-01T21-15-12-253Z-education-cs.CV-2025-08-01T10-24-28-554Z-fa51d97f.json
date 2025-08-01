@@ -1,0 +1,12 @@
+# Shaping History: Advanced Machine Learning Techniques for the Analysis and Dating of Cuneiform Tablets over Three Millennia
+
+**Authors:** Danielle Kapon, Michael Fire, Shai Gordin
+
+## Summary
+Cuneiform tablets, emerging in ancient Mesopotamia around the late fourth millennium BCE, represent one of humanity's earliest writing systems. Characterized by wedge-shaped marks on clay tablets, these artifacts provided insight into Mesopotamian civilization across various domains. Traditionally, the analysis and dating of these tablets rely on subjective assessment of shape and writing style, leading to uncertainties in pinpointing their exact temporal origins. Recent advances in digitization have revolutionized the study of cuneiform by enhancing accessibility and analytical capabilities. Our research uniquely focuses on the silhouette of tablets as significant indicators of their historical periods, diverging from most studies that concentrate on textual content. Utilizing an unprecedented dataset of over 94,000 images from the Cuneiform Digital Library Initiative collection, we apply deep learning methods to classify cuneiform tablets, covering over 3,000 years of history. By leveraging statistical, computational techniques, and generative modeling through Variational Auto-Encoders (VAEs), we achieve substantial advancements in the automatic classification of these ancient documents, focusing on the tablets' silhouettes as key predictors. Our classification approach begins with a Decision Tree using height-to-width ratios and culminates with a ResNet50 model, achieving a 61% macro F1-score for tablet silhouettes. Moreover, we introduce novel VAE-powered tools to enhance explainability and enable researchers to explore changes in tablet shapes across different eras and genres. This research contributes to document analysis and diplomatics by demonstrating the value of large-scale data analysis combined with statistical methods. These insights offer valuable tools for historians and epigraphists, enriching our understanding of cuneiform tablets and the cultures that produced them.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:28.555Z

@@ -1,0 +1,12 @@
+# Persian Handwritten Digit, Character and Word Recognition Using Deep Learning
+
+**Authors:** Mehdi Bonyani, Simindokht Jahangard, Morteza Daneshmand
+
+## Summary
+Digit, letter and word recognition for a particular script has various applications in todays commercial contexts. Nevertheless, only a limited number of relevant studies have dealt with Persian scripts. In this paper, deep neural networks are utilized through various DensNet architectures, as well as the Xception, are adopted, modified and further boosted through data augmentation and test time augmentation, in order to come up with an optical character recognition accounting for the particularities of the Persian language and the corresponding handwritings. Taking advantage of dividing the databases to training, validation and test sets, as well as k-fold cross validation, the comparison of the proposed method with various state-of-the-art alternatives is performed on the basis of the HODA and Sadri databases, which offer the most comprehensive collection of samples in terms of the various handwriting styles possessed by different human beings, as well as different forms each letter may take, which depend on its position within a word. On the HODA database, we achieve recognition rates of 99.72% and 89.99% for digits and characters, being 99.72%, 98.32% and 98.82% for digits, characters and words from the Sadri database, respectively.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.887Z

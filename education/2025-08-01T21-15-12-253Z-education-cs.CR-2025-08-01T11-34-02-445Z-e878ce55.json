@@ -1,0 +1,12 @@
+# Adversarial Attack Based Countermeasures against Deep Learning Side-Channel Attacks
+
+**Authors:** Ruizhe Gu, Ping Wang, Mengce Zheng, Honggang Hu, Nenghai Yu
+
+## Summary
+Numerous previous works have studied deep learning algorithms applied in the context of side-channel attacks, which demonstrated the ability to perform successful key recoveries. These studies show that modern cryptographic devices are increasingly threatened by side-channel attacks with the help of deep learning. However, the existing countermeasures are designed to resist classical side-channel attacks, and cannot protect cryptographic devices from deep learning based side-channel attacks. Thus, there arises a strong need for countermeasures against deep learning based side-channel attacks. Although deep learning has the high potential in solving complex problems, it is vulnerable to adversarial attacks in the form of subtle perturbations to inputs that lead a model to predict incorrectly. In this paper, we propose a kind of novel countermeasures based on adversarial attacks that is specifically designed against deep learning based side-channel attacks. We estimate several models commonly used in deep learning based side-channel attacks to evaluate the proposed countermeasures. It shows that our approach can effectively protect cryptographic devices from deep learning based side-channel attacks in practice. In addition, our experiments show that the new countermeasures can also resist classical side-channel attacks.
+
+
+---
+Category: education
+Subcategory: cs.CR
+Collected: 2025-08-01T11:34:02.445Z

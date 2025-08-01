@@ -1,0 +1,12 @@
+# Learning Conditionally Independent Transformations using Normal Subgroups in Group Theory
+
+**Authors:** Kayato Nishitsunoi, Yoshiyuki Ohmura, Takayuki Komatsu, Yasuo Kuniyoshi
+
+## Summary
+Humans develop certain cognitive abilities to recognize objects and their transformations without explicit supervision, highlighting the importance of unsupervised representation learning. A fundamental challenge in unsupervised representation learning is to separate different transformations in learned feature representations. Although algebraic approaches have been explored, a comprehensive theoretical framework remains underdeveloped. Existing methods decompose transformations based on algebraic independence, but these methods primarily focus on commutative transformations and do not extend to cases where transformations are conditionally independent but noncommutative. To extend current representation learning frameworks, we draw inspiration from Galois theory, where the decomposition of groups through normal subgroups provides an approach for the analysis of structured transformations. Normal subgroups naturally extend commutativity under certain conditions and offer a foundation for the categorization of transformations, even when they do not commute. In this paper, we propose a novel approach that leverages normal subgroups to enable the separation of conditionally independent transformations, even in the absence of commutativity. Through experiments on geometric transformations in images, we show that our method successfully categorizes conditionally independent transformations, such as rotation and translation, in an unsupervised manner, suggesting a close link between group decomposition via normal subgroups and transformation categorization in representation learning.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T11:55:56.831Z

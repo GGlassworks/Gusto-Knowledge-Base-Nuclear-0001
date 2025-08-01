@@ -1,0 +1,12 @@
+# Learning Generalized Transformation Equivariant Representations via Autoencoding Transformations
+
+**Authors:** Guo-Jun Qi, Liheng Zhang, Xiao Wang
+
+## Summary
+Transformation Equivariant Representations (TERs) aim to capture the intrinsic visual structures that equivary to various transformations by expanding the notion of {\em translation} equivariance underlying the success of Convolutional Neural Networks (CNNs). For this purpose, we present both deterministic AutoEncoding Transformations (AET) and probabilistic AutoEncoding Variational Transformations (AVT) models to learn visual representations from generic groups of transformations. While the AET is trained by directly decoding the transformations from the learned representations, the AVT is trained by maximizing the joint mutual information between the learned representation and transformations. This results in Generalized TERs (GTERs) equivariant against transformations in a more general fashion by capturing complex patterns of visual structures beyond the conventional linear equivariance under a transformation group. The presented approach can be extended to (semi-)supervised models by jointly maximizing the mutual information of the learned representation with both labels and transformations. Experiments demonstrate the proposed models outperform the state-of-the-art models in both unsupervised and (semi-)supervised tasks.
+
+
+---
+Category: education
+Subcategory: cs.CV
+Collected: 2025-08-01T11:55:07.418Z
