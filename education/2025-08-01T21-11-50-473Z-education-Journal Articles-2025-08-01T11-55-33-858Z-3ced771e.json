@@ -1,0 +1,13 @@
+# Pre-Trained Artificial Intelligence Language Model Represents Pragmatic Language Variability Central to Autism and Genetically Related Phenotypes
+
+**Authors:** Joseph C. Y. Lau, Emily Landau, Qingcheng Zeng, Ruichun Zhang, Stephanie Crawford, Rob Voigt, Molly Losh
+
+## Abstract
+Many individuals with autism experience challenges using language in social contexts (i.e., pragmatic language). Characterizing and understanding pragmatic variability is important to inform intervention strategies and the etiology of communication challenges in autism; however, current manual coding-based methods are often time and labor intensive, and not readily applied in ample sample sizes. This proof-of-concept methodological study employed an artificial intelligence pre-trained language model, Bidirectional Encoder Representations from Transformers, as a tool to address such challenges. We applied Bidirectional Encoder Representations from Transformers to computationally index pragmatic-related variability in autism and in genetically related phenotypes displaying pragmatic differences, namely, in parents of autistic individuals, fragile X syndrome, and FMR1 premutation. Findings suggest that without model fine-tuning, Bidirectional Encoder Representations from Transformers's Next Sentence Prediction module was able to derive estimates that differentiate autistic from non-autistic groups. Moreover, such computational estimates correlated with manually coded characterization of pragmatic abilities that contribute to conversational coherence, not only in autism but also in the other genetically related phenotypes. This study represents a step forward in evaluating the efficacy of artificial intelligence language models for capturing clinically important pragmatic differences and variability related to autism, showcasing the potential of artificial intelligence to provide automatized, efficient, and objective tools for pragmatic characterization to help advance the field.
+
+**Source:** https://eric.ed.gov/?id=EJ1469328
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:55:33.859Z

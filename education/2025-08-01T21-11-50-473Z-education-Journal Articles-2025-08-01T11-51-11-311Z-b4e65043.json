@@ -1,0 +1,13 @@
+# Introduction to Neural Transfer Learning with Transformers for Social Science Text Analysis
+
+**Authors:** Sandra Wankmüller
+
+## Abstract
+Transformer-based models for transfer learning have the potential to achieve high prediction accuracies on text-based supervised learning tasks with relatively few training data instances. These models are thus likely to benefit social scientists that seek to have as accurate as possible text-based measures, but only have limited resources for annotating training data. To enable social scientists to leverage these potential benefits for their research, this article explains how these methods work, why they might be advantageous, and what their limitations are. Additionally, three Transformer-based models for transfer learning, BERT, RoBERTa, and the Longformer, are compared to conventional machine learning algorithms on three applications. Across all evaluated tasks, textual styles, and training data set sizes, the conventional models are consistently outperformed by transfer learning with Transformers, thereby demonstrating the benefits these models can bring to text-based social science research.
+
+**Source:** https://eric.ed.gov/?id=EJ1443885
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:51:11.312Z

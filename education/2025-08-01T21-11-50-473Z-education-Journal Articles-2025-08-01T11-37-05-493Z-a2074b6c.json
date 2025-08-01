@@ -1,0 +1,13 @@
+# Scoring Graphical Responses in TIMSS 2019 Using Artificial Neural Networks
+
+**Authors:** von Davier, Matthias, Tyack, Lillian, Khorramdel, Lale
+
+## Abstract
+Automated scoring of free drawings or images as responses has yet to be used in large-scale assessments of student achievement. In this study, we propose artificial neural networks to classify these types of graphical responses from a TIMSS 2019 item. We are comparing classification accuracy of convolutional and feed-forward approaches. Our results show that convolutional neural networks (CNNs) outperform feed-forward neural networks in both loss and accuracy. The CNN models classified up to 97.53% of the image responses into the appropriate scoring category, which is comparable to, if not more accurate, than typical human raters. These findings were further strengthened by the observation that the most accurate CNN models correctly classified some image responses that had been incorrectly scored by the human raters. As an additional innovation, we outline a method to select human-rated responses for the training sample based on an application of the expected response function derived from item response theory. This paper argues that CNN-based automated scoring of image responses is a highly accurate procedure that could potentially replace the workload and cost of second human raters for international large-scale assessments (ILSAs), while improving the validity and comparability of scoring complex constructed-response items.
+
+**Source:** https://eric.ed.gov/?id=EJ1375633
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:37:05.494Z

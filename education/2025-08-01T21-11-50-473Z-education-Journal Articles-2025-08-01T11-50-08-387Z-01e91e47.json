@@ -1,0 +1,13 @@
+# Comparison of Artificial Neural Networks and Logistic Regression Analysis in PISA Science Literacy Success Prediction
+
+**Authors:** Bozak, Ali, Aybek, Eren Can
+
+## Abstract
+The present study aims to determine which analysis technique-Artificial Neural Networks (ANNs) or Logistic Regression (LR) Analysis-is better at predicting the science literacy success of the 15-year Turkish students who participated in PISA research carried out in 2015 by using learning time spent on science, test anxiety, environmental awareness, environmental optimism, epistemological beliefs, inquiry-based science teaching and learning practices, instrumental motivation, and disciplinary climate in science classes as the predictor variables. For this purpose, the data from 5895 students who participated in the PISA 2015 test were analyzed. Models were developed using LR and ANNs, and the results were compared. As a result, although the classification performance of artificial neural network is significantly better compared to LR, it is understood that practical significance is low due to the intersection of AUC confidence intervals.
+
+**Source:** https://eric.ed.gov/?id=EJ1285435
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:50:08.388Z

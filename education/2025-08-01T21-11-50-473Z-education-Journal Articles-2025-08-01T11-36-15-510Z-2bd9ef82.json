@@ -1,0 +1,13 @@
+# Predicting Student Final Performance Using Artificial Neural Networks in Online Learning Environments
+
+**Authors:** Aydogdu, Seyhmus
+
+## Abstract
+Prediction of student performance is one of the most important subjects of educational data mining. Artificial neural networks are seen to be an effective tool in predicting student performance in e-learning environments. In the studies carried out with artificial neural networks, performance predictions based on student scores are generally made, but students' use of learning management system is not focused. In this study, performances of 3518 university students, who studying and actively participating in a learning management system, were tried to be predicted by artificial neural networks in terms of gender, content score, time spent on the content, number of entries to content, homework score, number of attendance to live sessions, total time spent in live sessions, number of attendance to archived courses and total time spent in archived courses variables. Since it is difficult to interpret how much input variables in artificial neural networks contribute to predicting output variables, these networks are called black boxes. Also, in this study the amount of contribution of input variables on the prediction of output variable was also examined. The artificial neural network created as a result of the study makes a prediction with an accuracy of 80.47%. Finally, it was found that the variables of number of attendance to the live classes, the number of attendance to archived courses and the time spent in the content contributed most to the prediction of the output variable.
+
+**Source:** https://eric.ed.gov/?id=EJ1253324
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:36:15.511Z

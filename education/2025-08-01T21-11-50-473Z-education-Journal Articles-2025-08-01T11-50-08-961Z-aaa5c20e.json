@@ -1,0 +1,13 @@
+# A Comparison of Logistic Regression, Neural Networks, and Classification Trees Predicting Success of Actuarial Students
+
+**Authors:** Schumacher, Phyllis, Olinsky, Alan, Quinn, John, Smith, Richard
+
+## Abstract
+The authors extended previous research by 2 of the authors who conducted a study designed to predict the successful completion of students enrolled in an actuarial program. They used logistic regression to determine the probability of an actuarial student graduating in the major or dropping out. They compared the results of this study with those obtained previously, by re-examining the data using neural networks and classification trees, from Enterprise Miner, the SAS data mining package, which can provide a prediction of the dependent variable for all cases in the data set including those with missing values. (Contains 2 figures and 2 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ883937
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:50:08.962Z

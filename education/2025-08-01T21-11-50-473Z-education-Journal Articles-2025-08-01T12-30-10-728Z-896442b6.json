@@ -1,0 +1,13 @@
+# Providing Real-Time Response, State Recency and Temporal Consistency in Databases for Rapidly Changing Environments.
+
+**Authors:** Datta, Anindya, Viguier, Igor R.
+
+## Abstract
+In environments where the state of the system changes rapidly, such as stock trading, air traffic control, network management, and process control, databases have been proposed as the platform to develop automated control systems. Information in such systems consists of &quot;updates,&quot; reporting on the state of the environment and &quot;transactions,&quot; arriving with deadlines. Develops algorithms to install such information. (PEN)
+
+**Source:** https://eric.ed.gov/?id=EJ549362
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T12:30:10.728Z

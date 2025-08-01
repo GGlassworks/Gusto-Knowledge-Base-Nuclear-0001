@@ -1,0 +1,13 @@
+# A Quest for a One-Size-Fits-All Neural Network: Early Prediction of Students at Risk in Online Courses
+
+**Authors:** Olive, David Monllao, Huynh, Du Q., Reynolds, Mark, Dougiamas, Martin, Wiese, Damyon
+
+## Abstract
+A significant amount of research effort has been put into finding variables that can identify students at risk based on activity records available in learning management systems (LMS). These variables often depend on the context, for example, the course structure, how the activities are assessed or whether the course is entirely online or a blended course. To the best of our knowledge, a predictive model that can generalize well to many different types of courses using data available in the LMS does not currently exist in the learning analytics literature. In this study, early prediction of students at risk is tackled by training a number of neural networks to predict which students would likely submit their assignments on time based on their activity up to two days before assignments' due dates. Five different datasets that cover a total of 78,722 student enrolments in 5487 courses have been used in this study. In order to improve how well the neural networks generalize, our networks can perform different forms of feature engineering using course peers data. The different architectures of these networks have been compared to find the one with more predictive power. To validate the models trained from the networks, both new datasets and unseen examples extracted from the same datasets have been used for training. Our research show that adding contextual information results in better prediction accuracies and F1 scores. Our networks are able to give predictions with accuracies in the 67.46-81.63% range and F1 scores in the 71.30-83.09% range.
+
+**Source:** https://eric.ed.gov/?id=EJ1219149
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:43:03.165Z

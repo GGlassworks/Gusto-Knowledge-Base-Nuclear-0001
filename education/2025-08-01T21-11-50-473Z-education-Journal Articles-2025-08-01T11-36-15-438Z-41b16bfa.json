@@ -1,0 +1,13 @@
+# Explainability of Neural Networks for Child Language: Agent-First Strategy in Comprehension of Korean Active Transitive Construction
+
+**Authors:** Shin, Gyu-Ho, Mun, Seongmin
+
+## Abstract
+This study investigates how neural networks address the properties of children's linguistic knowledge, with a focus on the &quot;Agent-First&quot; strategy in comprehension of an active transitive construction in Korean. We develop various neural-network models and measure their classification performance on the test stimuli used in a behavioural experiment involving scrambling and omission of sentential components at varying degrees. Results show that, despite some compatibility of these models' performance with the children's response patterns, their performance does not fully approximate the children's utilisation of this strategy, demonstrating by-model and by-condition asymmetries. This study's findings suggest that neural networks can utilise information about formal co-occurrences to access the intended message to a certain degree, but the outcome of this process may be substantially different from how a child (as a developing processor) engages in comprehension. This implies some limits of neural networks on revealing the developmental trajectories of child language.
+
+**Source:** https://eric.ed.gov/?id=EJ1397688
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:36:15.438Z

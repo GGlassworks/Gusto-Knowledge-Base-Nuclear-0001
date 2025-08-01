@@ -1,0 +1,13 @@
+# Toward Automatic Classification of Online Discussion Messages for Social Presence
+
+**Authors:** Andre, Maverick, Mello, Rafael Ferreira, Nascimento, Andre, Lins, Rafael Dueire, Gasevic, Dragan
+
+## Abstract
+Social presence is an essential construct of the well-known Community of Inquiry (CoI) model, which is created to support design, facilitation, and analysis of asynchronous online discussions. Social presence focuses on the extent to which participants of online discussions can see each other as &quot;real persons&quot; in computer-mediated communication. In the CoI model, social presence is looked at through the affective, interactive, and cohesive categories. Previous research has obtained good results in the automatic identification of these three categories in the analysis of transcripts of asynchronous online discussions using the random forest algorithms benefiting from traditional text mining features in combination with structural features such as Coh-Metrix and linguistic inquiry and word count (LIWC). In this context, this study evaluated the performance of the state-of-the-art decision tree algorithms and the deep learning linguistic model bidirectional encoder representations from transformers (BERT) for automatic detection of social presence in online discussions. The results revealed that eXtreme gradient boosting (XGBoost) and adaptive boosting (AdaBoost) outperformed the traditional random forest classifier that was commonly used in the previous works on automatic analysis of social presence reaching 0.38, 0.79, and 0.94 for the affective, interactive, and cohesive categories, respectively. Moreover, the proposed classifiers also reached better result when compared to BERT. Finally, this study explored a broad range of features used in the automatic classification of online discussion messages according to the categories of social presence. The results showed the importance of the features provided by the well-known linguistic framework LIWC and features calculated by techniques, such as social network analysis and sentiment analysis, that had never been reported previously in the literature for the automatic detection of social presence.
+
+**Source:** https://eric.ed.gov/?id=EJ1333417
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:54:43.208Z

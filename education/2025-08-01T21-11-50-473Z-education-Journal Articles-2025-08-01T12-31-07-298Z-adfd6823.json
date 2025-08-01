@@ -1,0 +1,13 @@
+# A Model for Estimating the Occurrence of Same-Frequency Words and the Boundary between High- and Low-Frequency Words in Texts.
+
+**Authors:** Sun, Qinglan, Shaw, Debora, Davis, Charles H.
+
+## Abstract
+Proposes a model, based on a "maximum ranking method," for more simply estimating the frequency of any same-frequency words and identifying the boundary point between high-frequency and low-frequency words in a text. This model was used successfully with English and Chinese texts, demonstrating that the frequency of words and number of same-frequency words are dependent only on the vocabulary of a text, but not on its length. (AEF)
+
+**Source:** https://eric.ed.gov/?id=EJ595535
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T12:31:07.298Z

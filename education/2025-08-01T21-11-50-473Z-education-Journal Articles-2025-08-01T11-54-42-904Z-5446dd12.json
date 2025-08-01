@@ -1,0 +1,13 @@
+# MOOC-BERT: Automatically Identifying Learner Cognitive Presence From MOOC Discussion Data
+
+**Authors:** Liu, Zhi, Kong, Xi, Chen, Hao, Liu, Sannyuya, Yang, Zongkai
+
+## Abstract
+In a massive open online courses (MOOCs) learning environment, it is essential to understand students' social knowledge constructs and critical thinking for instructors to design intervention strategies. The development of social knowledge constructs and critical thinking can be represented by cognitive presence, which is a primary component of the community of inquiry model. However, identifying learners' cognitive presence is a challenging problem, and most researchers have performed this task using traditional machine learning methods that require both manual feature construction and adequate labeled data. In this article, we present a novel variant of the bidirectional encoder representations from transformers (BERT) model for cognitive presence identification, namely MOOC-BERT, which is pretrained on large-scale unlabeled discussion data collected from various MOOCs involving different disciplines. MOOC-BERT learned deep representations of unlabeled data and adopted Chinese characters as inputs without any feature engineering. The experimental results showed that MOOC-BERT outperformed the representative machine learning algorithms and deep learning models in the performance of identification and cross-course generalization. Then, MOOC-BERT was adopted to identify the unlabeled posts of the two courses. The empirical analysis results revealed the evolution and differences in MOOC learners' cognitive presence levels. These findings provide valuable insights into the effectiveness of pretraining on large-scale and multidiscipline discussion data in facilitating accurate cognitive presence identification, demonstrating the practical value of MOOC-BERT in learning analytics.
+
+**Source:** https://eric.ed.gov/?id=EJ1388788
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:54:42.905Z

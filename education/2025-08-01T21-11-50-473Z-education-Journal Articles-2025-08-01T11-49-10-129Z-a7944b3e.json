@@ -1,0 +1,13 @@
+# A Method for Improving the Pronunciation Quality of Vocal Music Students Based on Big Data Technology
+
+**Authors:** Dan Shen, Wenjia Zhao
+
+## Abstract
+With the development of internet technology, big data has been used to evaluate the singing and pronunciation quality of vocal students. However, current methods have several problems such as poor information fusion efficiency, low algorithm robustness, and low recognition accuracy under low signal-to-noise ratio. To address these issues, this article proposes a new method for evaluating sound quality based on one-dimensional convolutional neural networks. It uses sound preprocessing, BP neural networks, wavelet neural networks, and one-dimensional CNNs to improve pronunciation quality. The proposed 1D CNN network is more suitable for one-dimensional sound signals and can effectively solve problems such as feature information fusion, pitch period detection, and network construction. It can evaluate singing art sound quality with minimum errors, good robustness, and strong portability. This method can be used for the evaluation and diagnosis of voice diseases, helping to improve students' professional abilities.
+
+**Source:** https://eric.ed.gov/?id=EJ1428210
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:49:10.129Z

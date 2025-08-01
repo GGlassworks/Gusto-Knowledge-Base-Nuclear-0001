@@ -1,0 +1,13 @@
+# Automatic Classification of Chinese Programming MOOC Reviews Using Fine-Tuned BERTs and GPT-Augmented Data
+
+**Authors:** Xieling Chen, Haoran Xie, Di Zou, Lingling Xu, Fu Lee Wang
+
+## Abstract
+In massive open online course (MOOC) environments, computer-based analysis of course reviews enables instructors and course designers to develop intervention strategies and improve instruction to support learners' learning. This study aimed to automatically and effectively identify learners' concerned topics within their written reviews. First, we examined the distribution of topics in 13,660 reviews related to a Chinese programming MOOC and identified &quot;instructional skills,&quot; &quot;perceived course value,&quot; &quot;instructor characteristics,&quot; and &quot;perceived course difficulty&quot; as primary concerns among learners. Second, we proposed a GPTaug-BERT model that integrates fine-tuned bidirectional encoder representations from Transformers (BERT) models with augmented data generated using generative pre-trained Transformers (GPT) and applied it to classify learners' concerned topics automatically. Results showed that compared with machine learning and other deep learning architectures, the GPTaug-BERT model improved the F1 scores of the MOOC review topic recognition task by 7%. Third, we compared the effectiveness of the GPTaug-BERT model with the BERT-Chinese model in distinguishing between topics, showing that the GPTaug-BERT model achieved better performance with an accuracy of above 67% across all categories even for &quot;online programming tools,&quot; &quot;feedback and problem-solving,&quot; and &quot;course structure&quot; that were largely misclassified by the BERT-Chinese model. Findings offer insights into the effectiveness of combining fine-tuned BERT models with GPT-augmented data for facilitating accurate topic identification from MOOC reviews.
+
+**Source:** https://eric.ed.gov/?id=EJ1462627
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:55:33.384Z

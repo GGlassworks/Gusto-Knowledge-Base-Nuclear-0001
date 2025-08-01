@@ -1,0 +1,13 @@
+# The Effect of the Normalization Method Used in Different Sample Sizes on the Success of Artificial Neural Network Model
+
+**Authors:** Aksu, Gökhan, Güzeller, Cem Oktay, Eser, Mehmet Taha
+
+## Abstract
+In this study, it was aimed to compare different normalization methods employed in model developing process via artificial neural networks with different sample sizes. As part of comparison of normalization methods, input variables were set as: work discipline, environmental awareness, instrumental motivation, science self-efficacy, and weekly science learning time that have been covered in PISA 2015, whereas students' Science Literacy level was defined as the output variable. The amount of explained variance and the statistics about the correct classification ratios were used in the comparison of the normalization methods discussed in the study. The dataset was analyzed in Matlab2017b software and both prediction and classification algorithms were used in the study. According to the findings of the study, adjusted min-max normalization method yielded better results in terms of the amount of explained variance in different sample sizes compared to other normalization methods; no significant difference was found in correct classification rates according to the normalization method of the data, which lacked normal distribution and the possibility of overfitting should be taken into consideration when working with small samples in the modelling process of artificial neural network. In addition, it was also found that sample size had a significant effect on both classification and prediction analyzes performed with artificial neural network methods. As a result of the study, it was concluded that with a sample size over 1000, more consistent results can be obtained in the studies performed with artificial neural networks in the field of education.
+
+**Source:** https://eric.ed.gov/?id=EJ1246486
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:50:08.705Z

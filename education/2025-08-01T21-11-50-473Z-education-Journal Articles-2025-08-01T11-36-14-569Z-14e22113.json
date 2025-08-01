@@ -1,0 +1,13 @@
+# Improving the Efficiency of College Art Teaching Based on Neural Networks
+
+**Authors:** Xi Jin
+
+## Abstract
+How to develop a teaching management system to improve the teaching efficiency of art courses has become an important challenge at present. This article takes university art teaching courses as the research object, uses dynamic L-M algorithm to optimize a large number of parameters, proposes an improved neural networks evaluation model, comprehensively analyzes the main influencing factors of art course teaching effectiveness, and establishes a teaching efficiency index evaluation system. The research results indicate that equating the number of hidden layer nodes to the number of samples can improve the performance of neural networks. The improved L-M algorithm was used to train the neural networks, and the maximum error of all test samples was only 0.04, verifying the feasibility and rationality of the improved neural networks model for evaluating course teaching effectiveness. The research results provide theoretical data support for neural networks to improve the efficiency of university art education.
+
+**Source:** https://eric.ed.gov/?id=EJ1428166
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:36:14.569Z

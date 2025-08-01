@@ -1,0 +1,13 @@
+# Machine Learning in Gifted Education: A Demonstration Using Neural Networks
+
+**Authors:** Hodges, Jaret, Mohan, Soumya
+
+## Abstract
+Machine learning algorithms are used in language processing, automated driving, and for prediction. Though the theory of machine learning has existed since the 1950s, it was not until the advent of advanced computing that their potential has begun to be realized. Gifted education is a field where machine learning has yet to be utilized, even though one of the underlying problems of gifted education is classification, which is an area where learning algorithms have become exceptionally accurate. We provide a brief overview of machine learning with a focus on neural networks and supervised learning, followed by a demonstration using simulated data and neural networks for classification issues with a practical explanation of the mechanics of the neural network and associated R code. Implications for gifted education are then discussed. Finally, the limitations of supervised learning are discussed. Code used in this article can be found at https://osf.io/4pa3b/
+
+**Source:** https://eric.ed.gov/?id=EJ1228051
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:37:05.415Z

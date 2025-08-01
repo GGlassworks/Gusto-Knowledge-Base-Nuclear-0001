@@ -1,0 +1,13 @@
+# BP Neural Network-Enhanced System for Employment and Mental Health Support for College Students
+
+**Authors:** Zhengrong Deng, Hong Xiang, Weijun Tang, Hanlie Cheng, Qiang Qin
+
+## Abstract
+This paper employs BP Neural Network (BPNN) theory to evaluate innovation and entrepreneurship education in universities. It utilizes students' evaluation indexes as input vectors and determines the number of hidden layer neurons. Experimental results serve as output vectors. The BPNN method proves reasonable and feasible for vocational education course evaluation, exhibiting a 14.96% higher accuracy than traditional genetic algorithms. The paper discusses the model, configuration, characteristics, training process, algorithm enhancement, and limitations of neural networks, followed by an introduction to genetic algorithms. Through analysis of principles, basic operations, and common operators, it establishes a theoretical foundation for subsequent discussions.
+
+**Source:** https://eric.ed.gov/?id=EJ1437681
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:37:06.419Z

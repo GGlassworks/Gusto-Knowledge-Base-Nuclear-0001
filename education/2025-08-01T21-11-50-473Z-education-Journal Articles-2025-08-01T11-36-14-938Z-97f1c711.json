@@ -1,0 +1,13 @@
+# EXPLODE -- A New Model of Exploratory Learning Environment for Neural Networks to Improve Learning Outcomes
+
+**Authors:** Zoran Sevarac, Jelena Jovanovic, Vladan Devedzic, Bojan Tomic
+
+## Abstract
+The paper proposes EXPLODE, a new model of exploratory learning environment for teaching and learning neural networks. The EXPLODE model is about pedagogically instrumenting a software development environment to transform it into an exploratory learning environment for neural networks. Such an environment is particularly aimed for students who are skilled in programming and meets typical challenges in teaching and learning neural networks, related to the lack of prerequisite knowledge in mathematics. By providing such students with a familiar learning environment and allowing them to programmatically experiment with neural networks, the EXPLODE model aims at improving the students' learning outcomes and learning experience. The effectiveness of the model was evaluated in an experimental study with 77 final-year IT students. The results have shown that the students from the experimental group, that is, those who were exposed to the EXPLODE model, scored higher on the knowledge test. Furthermore, the perceived learning experience of the experimental group was better than that of the control group. The results have also suggested that the proposed model helps students better understand learning topics that require practical experience and facilitates a deeper understanding of the internal operations of neural networks.
+
+**Source:** https://eric.ed.gov/?id=EJ1406555
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:36:14.938Z

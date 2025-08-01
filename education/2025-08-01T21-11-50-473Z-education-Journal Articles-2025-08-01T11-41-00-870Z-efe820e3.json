@@ -1,0 +1,13 @@
+# Risk of Bias Assessment in Preclinical Literature Using Natural Language Processing
+
+**Authors:** Wang, Qianying, Liao, Jing, Lapata, Mirella, Macleod, Malcolm
+
+## Abstract
+We sought to apply natural language processing to the task of automatic risk of bias assessment in preclinical literature, which could speed the process of systematic review, provide information to guide research improvement activity, and support translation from preclinical to clinical research. We use 7840 full-text publications describing animal experiments with yes/no annotations for five risk of bias items. We implement a series of models including baselines (support vector machine, logistic regression, random forest), neural models (convolutional neural network, recurrent neural network with attention, hierarchical neural network) and models using BERT with two strategies (document chunk pooling and sentence extraction). We tune hyperparameters to obtain the highest F1 scores for each risk of bias item on the validation set and compare evaluation results on the test set to our previous regular expression approach. The F1 scores of best models on test set are 82.0% for random allocation, 81.6% for blinded assessment of outcome, 82.6% for conflict of interests, 91.4% for compliance with animal welfare regulations and 46.6% for reporting animals excluded from analysis. Our models significantly outperform regular expressions for four risk of bias items. For random allocation, blinded assessment of outcome, conflict of interests and animal exclusions, neural models achieve good performance; for animal welfare regulations, BERT model with a sentence extraction strategy works better. Convolutional neural networks are the overall best models. The tool is publicly available which may contribute to the future monitoring of risk of bias reporting for research improvement activities.
+
+**Source:** https://eric.ed.gov/?id=EJ1334925
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:41:00.870Z

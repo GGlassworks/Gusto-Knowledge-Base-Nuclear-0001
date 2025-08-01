@@ -1,0 +1,13 @@
+# Comparison of Intelligent Systems in Detecting a Child's Mathematical Gift
+
+**Authors:** Pavlekovic, Margita, Zekic-Susac, Marijana, Djurdjevic, Ivana
+
+## Abstract
+This paper compares the efficiency of two intelligent methods: expert systems and neural networks, in detecting children's mathematical gift at the fourth grade of elementary school. The input space for the expert system and the neural network model consisted of 60 variables describing five basic components of a child's mathematical gift identified in previous research. The expert system estimated a child's gift based on heuristically defined logic rules, while the scientifically confirmed psychological evaluation of gift based on Raven's standard progressive matrices was used at the output of neural network models. Three neural network algorithms were tested on a Croatian dataset. The results show that both the expert system and the neural network recognize more pupils as mathematically gifted than teachers do. The expert system produces the highest average hit rate, although the highest accuracy in classifying gifted children is obtained by the radial basis neural network algorithm, which also yields lower type II error. Due to the ability of expert systems to explain the result, it can be suggested that both the expert system and the neural network model have potential to serve as effective intelligent decision support tools in detecting mathematical gift in early stage, therefore enabling its further development. (Contains 3 figures and 8 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ836736
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:43:02.766Z

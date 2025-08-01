@@ -1,0 +1,13 @@
+# Investigating the Usability of a New Framework for Creating, Working and Teaching Artificial Neural Networks Using Augmented Reality (AR) and Virtual Reality (VR) Tools
+
+**Authors:** Roland Kiraly, Sandor Kiraly, Martin Palotai
+
+## Abstract
+Deep learning is a very popular topic in computer sciences courses despite the fact that it is often challenging for beginners to take their first step due to the complexity of understanding and applying Artificial Neural Networks (ANN). Thus, the need to both understand and use neural networks is appearing at an ever-increasing rate across all computer science courses. Our objectives in this project were to create a framework for creating and training neural networks for solving different problems real-life problems and for research and education, as well as to investigate the usability of our framework. To provide an easy to use framework, this research recruited five instructors who have taught ANNs at two universities. We asked thirty-one students who have previously studied neural networks to fill out an online survey about what were &quot;the major difficulties in learning NNs&quot; and the &quot;key requirements in a Visual Learning Tool including the most desired features of a visualization tool for explaining NNs&quot; they would have used during the course. We also conducted an observational study to investigate how our students would use this system to learn about ANNs. The visual presentation of ANNs created in our framework can be represented in an Augmented Reality (AR) and Virtual Reality (VR) environment thus allowing us to use a virtual space to display and manage networks. An evaluation of the effect of the AR/VR experience through a formative test and survey showed that the majority of students had a positive response to the engaging and interactive features of our framework (RKNet).
+
+**Source:** https://eric.ed.gov/?id=EJ1433221
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:49:10.479Z

@@ -1,0 +1,13 @@
+# Using Neural Networks to Predict MBA Student Success
+
+**Authors:** Naik, Bijayananda, Ragothaman, Srinivasan
+
+## Abstract
+Predicting MBA student performance for admission decisions is crucial for educational institutions. This paper evaluates the ability of three different models--neural networks, logit, and probit to predict MBA student performance in graduate programs. The neural network technique was used to classify applicants into successful and marginal student pools based on undergraduate GPA, GMAT scores, undergraduate major, age and other relevant data. The results of this study show that the neural network model performs as well as the statistical models and is a useful tool in predicting MBA student performance. Several limitations of this study are discussed.
+
+**Source:** https://eric.ed.gov/?id=EJ701993
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:36:15.347Z

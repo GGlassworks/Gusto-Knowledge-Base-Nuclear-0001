@@ -1,0 +1,13 @@
+# A New Student Modeling Technique with Convolutional Neural Networks: LearnerPrints
+
+**Authors:** Aydogdu, Seyhmus
+
+## Abstract
+Student modeling is one of the most important processes in adaptive systems. Although learning is individual, a model can be created based on patterns in student behavior. Since a student model can be created for more than one student, the use of machine learning techniques in student modeling is increasing. Artificial neural networks (ANNs), which form one group of machine learning techniques, are among the methods most frequently used in learning environments. Convolutional neural networks (CNNs), which are specific types of these networks, are used effectively for complex problems such as image processing, computer vision and speech recognition. In this study, a student model was created using a CNN due to the complexity of the learning process, and the performance of the model was examined. The student modeling technique used was named LearnerPrints. The navigation data of the students in a learning management system were used to construct the model. Training and test data were used to analyze the performance of the model. The classification results showed that CNNs can be used effectively for student modeling. The modeling was based on the students' achievement and used the students' data from the learning management system. The study found that the LearnerPrints technique classified students with an accuracy of over 80%.
+
+**Source:** https://eric.ed.gov/?id=EJ1295113
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:43:02.562Z

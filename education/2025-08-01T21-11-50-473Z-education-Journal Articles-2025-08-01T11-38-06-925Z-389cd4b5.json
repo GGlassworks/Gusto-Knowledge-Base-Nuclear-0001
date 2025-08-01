@@ -1,0 +1,13 @@
+# Visual NNet: An Educational ANN's Simulation Environment Reusing Matlab Neural Networks Toolbox
+
+**Authors:** Garcia-Roselló, Emilio, González-Dacosta, Jacinto, Lado, Maria J., Méndez, Arturo J., Garcia Pérez-Schofield, Baltasar, Ferrer, Fátima
+
+## Abstract
+Artificial Neural Networks (ANN's) are nowadays a common subject in different curricula of graduate and postgraduate studies. Due to the complex algorithms involved and the dynamic nature of ANN's, simulation software has been commonly used to teach this subject. This software has usually been developed specifically for learning purposes, because the existing general packages often lack of a convenient user interface, and are too complex or inadequate for these goals. Since ANN's algorithms, types and applications grow regularly, this solution becomes more and more complex and inefficient. In this paper, we present Visual NNet, a learning-oriented ANN's simulation environment, which overcomes this problem by reusing Matlab Neural Networks Toolbox (MNNT), a well-known, comprehensive and robust ANN implementation. Visual NNet combines an on-purpose learning oriented design with the advantages of an ANN's implementation like MNNT. Furthermore, reusing MNNT has done Visual NNet development more cost-effective, fast and reliable.
+
+**Source:** https://eric.ed.gov/?id=EJ1064301
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:38:06.926Z

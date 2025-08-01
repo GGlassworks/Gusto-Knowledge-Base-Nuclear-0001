@@ -1,0 +1,13 @@
+# Modeling Course Achievements of Elementary Education Teacher Candidates with Artificial Neural Networks
+
+**Authors:** Akgün, Ergün, Demir, Metin
+
+## Abstract
+In this study, it was aimed to predict elementary education teacher candidates' achievements in &quot;Science and Technology Education I and II&quot; courses by using artificial neural networks. It was also aimed to show the independent variables importance in the prediction. In the data set used in this study, variables of gender, type of education, field of study in high school and transcript information of 14 courses including end-of-term letter grades were collected. The fact that the artificial neural network performance in this study was R = 0.84 for the Science and Technology Education I course, and R = 0.84 for the Science and Technology Education II course shows that the network performance overlaps with the findings obtained from the related studies.
+
+**Source:** https://eric.ed.gov/?id=ED585240
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:44:50.722Z

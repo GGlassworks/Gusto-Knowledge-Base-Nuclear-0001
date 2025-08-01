@@ -1,0 +1,13 @@
+# Enhancing Learning Recommendations in MOOC Search Engines through Named Entity Recognition
+
+**Authors:** Abdelmadjid Benmachiche, Abdelhadi Sahia, Soundes Oumaima Boufaida, Khadija Rais, Makhlouf Derdour, Faiz Maazouzi
+
+## Abstract
+In the context of massive open online courses (MOOCs), searching and retrieving information can be challenging because there is a huge amount of unstructured content, which creates a problem and makes it difficult for users to quickly find relevant lessons or resources. As a result, learners and teachers face significant barriers to accessing the most useful and up-to-date information. This study focuses on the use of representation learning to improve named entity recognition (NER) by creating an innovative search engine for MOOCs, leveraging recent breakthroughs in natural language processing (NLP) and deep learning. We provide an automated NER dataset generation process that minimizes the need for extensive manual annotation and makes building scaled NER systems easier. The primary aim is to develop a cohesive and modular search platform specifically designed for MOOC environments. We intend to improve the precision and effectiveness of entity recognition in various settings by employing advanced machine-learning algorithms. Key components of this advanced search engine include Siamese networks emphasizing contrastive learning and Long Short-Term Memory (LSTM) networks for contextual language representation, Graph Neural Networks (GNN), and Convolutional Neural Networks (CNNs) to enhance the platform's capacity, analysis, and interpretation of complex data. The findings indicate that integrating representation learning with traditional supervised classification methods can significantly improve the performance of NER systems, ultimately contributing to more personalized and context-aware educational experiences. Experimental findings showcase the enhanced accuracy of the modular search engine, laying a robust groundwork for future advancements in MOOC search technologies.
+
+**Source:** https://eric.ed.gov/?id=EJ1475240
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:40:08.842Z

@@ -1,0 +1,13 @@
+# Explained: Artificial Intelligence for Propensity Score Estimation in Multilevel Educational Settings
+
+**Authors:** Collier, Zachary K., Zhang, Haobai, Liu, Liu
+
+## Abstract
+Although educational research and evaluation generally occur in multilevel settings, many analyses ignore cluster effects. Neglecting the nature of data from educational settings, especially in non-randomized experiments, can result in biased estimates with long-term consequences. Our manuscript improves the availability and understanding of artificial neural networks, an underutilized method trending in other disciplines. This method also shows promise for dealing with challenges faced by educational researchers, such as analyzing clustered data. Therefore, we simulated data to generalize the potential benefits of artificial neural networks to different data types. We also compared artificial neural networks to more familiar methods and investigated the time it demanded to perform each technique. Hence, readers can decide when it may be more appropriate to use one method instead of another.
+
+**Source:** https://eric.ed.gov/?id=EJ1334913
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:43:52.920Z

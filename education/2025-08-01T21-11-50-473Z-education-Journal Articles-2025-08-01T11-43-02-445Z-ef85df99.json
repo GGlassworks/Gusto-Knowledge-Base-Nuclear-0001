@@ -1,0 +1,13 @@
+# Prediction of Student's Mood during an Online Test Using Formula-based and Neural Network-based Method
+
+**Authors:** Moridis, Christos N., Economides, Anastasios A.
+
+## Abstract
+Building computerized mechanisms that will accurately, immediately and continually recognize a learner's affective state and activate an appropriate response based on integrated pedagogical models is becoming one of the main aims of artificial intelligence in education. The goal of this paper is to demonstrate how the various kinds of evidence could be combined so as to optimize inferences about affective states during an online self-assessment test. A formula-based method has been developed for the prediction of students' mood, and it was tested using data emanated from experiments made with 153 high school students from three different regions of a European country. The same set of data is analyzed developing a neural network method. Furthermore, the formula-based method is used as an input parameter selection module for the neural network method. The results vindicate to a great degree the formula-based method's assumptions about student's mood and indicate that neural networks and conventional algorithmic methods should not be in competition but complement each other for the development of affect recognition systems. Moreover, it becomes apparent that neural networks can provide an alternative for and improvements over tutoring systems' affect recognition methods. (Contains 2 figures and 3 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ848791
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T11:43:02.446Z
