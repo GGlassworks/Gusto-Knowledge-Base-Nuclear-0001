@@ -1,0 +1,13 @@
+# Specification Choices in Quantile Regression for Empirical Macroeconomics
+
+**Authors:** Andrea Carriero, Todd E. Clark, Massimiliano Marcellino
+
+## Abstract
+Quantile regression has become widely used in empirical macroeconomics, in particular for estimating and forecasting tail risks. This paper examines various choices in the specification of quantile regressions for macro applications, including how and to what extent to include shrinkage and whether to apply shrinkage in a classical or Bayesian framework. We focus on forecasting accuracy, measured with quantile scores and quantile‐weighted continuous ranked probability scores at a range of quantiles from the left to right tail. Across applications, we find that shrinkage is generally helpful to quantile forecast accuracy, with Bayesian quantile regression dominating frequentist quantile regression.JEL Classification: C53, E17, E37, F47
+
+**Source:** https://www.semanticscholar.org/paper/1ec9f9b66864c7eeb914470853ad039550e0d7dc
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:08:34.394Z

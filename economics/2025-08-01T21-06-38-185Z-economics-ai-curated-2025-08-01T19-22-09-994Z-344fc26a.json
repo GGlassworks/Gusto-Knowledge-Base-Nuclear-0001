@@ -1,0 +1,13 @@
+# The Optimization of Carbon Emission Prediction in Low Carbon Energy Economy Under Big Data
+
+**Authors:** Ji Luo, Wuyang Zhuo, Siyan Liu, Bingfei Xu
+
+## Abstract
+With the intensification of global climate change, low-carbon energy has become a hot topic, and governments around the world are implementing corresponding policies to promote its use. This research first establishes a Multi-universe Quantum Harmony Search-Algorithm Dynamic Fuzzy System Ensemble (MUQHS-DMFSE) composite model for carbon emission prediction. This model combines the MUQHS algorithm with the DMFSE method by designing the workflow of the MUQHS algorithm, creating a DMFSE composite prediction model, introducing a sliding factor matrix, and using the MUQHS algorithm to search for the optimal sliding factors, thus obtaining optimized prediction values. In the research on low-carbon economic development, the research applies the Data Envelopment Analysis (DEA) method and establishes Charnes-Cooper-Rhodes (CCR) and Banker-Charnes-Cooper (BCC) models to assess the technical efficiency, pure technical efficiency, and scale efficiency of decision-making units. This research also uses the BCC model to project the production frontier and calculate input redundancy and output gap rates, and evaluate low-carbon economic development. Through the establishment and application of these two models, the research achieves carbon emission prediction and low-carbon economic analysis, validating the feasibility of the research methodology. The results show that the composite model can effectively predict carbon emissions, with a Mean Absolute Percentage Error (MAPE) below 3.5% and Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) below 200 tons, demonstrating the feasibility and accuracy of the model. The research on low-carbon economic development in S Province based on the DEA method reveals the need for energy structure adjustment, clean and renewable energy promotion, control of carbon emissions, and optimization of industrial structure with a focus on developing the tertiary industry. Therefore, the use of artificial intelligence and big data analysis can provide more precise insights into the trends and patterns of low-carbon economic development, as well as more effective predictions of future energy demand and resource supply, offering high practical value and scientific significance.
+
+**Source:** https://www.semanticscholar.org/paper/3ffc3b00e6915996ca34921bde878bb84fdb9319
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T19:22:09.994Z

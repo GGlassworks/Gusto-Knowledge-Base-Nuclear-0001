@@ -1,0 +1,13 @@
+# Combined Economic Emission Dispatch of Microgrid with the Incorporation of Renewable Energy Sources Using Improved Mayfly Optimization Algorithm
+
+**Authors:** K. Nagarajan, Arul Rajagopalan, S. Angalaeswari, L. Natrayan, Wubishet Degife Mammo
+
+## Abstract
+Electricity can be provided to small-scale communities like commercial areas and villages through microgrid, one of the small-scale, advanced, and independent electricity systems out of the grid. Microgrid is an appropriate choice for specific purposes reducing emission and generation cost and increasing efficiency, reliability, and the utilization of renewable energy sources. The main objective of this paper is to elucidate the combined economic emission dispatch CEED problem in the microgrid to attain optimal generation cost. A combined cost optimization approach is examined to minimize operational cost and emission levels while satisfying the load demand of the microgrid. With this background, the authors proposed a novel improved mayfly algorithm incorporating Levy flight to resolve the combined economic emission dispatch problem encountered in microgrids. The islanded mode microgrid test system considered in this study comprises thermal power, solar-powered, and wind power generating units. The simulation results were considered for 24 hours with varying power demands. The minimization of total cost and emission is attained for four different scenarios. Optimization results obtained for all scenarios using IMA give a comparatively better reduction in system cost than MA and other optimization algorithms considered revealing the efficacy of IMA taken for comparison with the same data. The proposed IMA algorithm can solve the CEED problem in a grid-connected microgrid.
+
+**Source:** https://www.semanticscholar.org/paper/6ce485b99ec65cb412113d5fb29d3514dd006c54
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:07.820Z

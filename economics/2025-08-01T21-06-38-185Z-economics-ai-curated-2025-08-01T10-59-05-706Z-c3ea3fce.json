@@ -1,0 +1,13 @@
+# Identification and Estimation of Dynamic Causal Effects in Macroeconomics Using External Instruments
+
+**Authors:** James H. Stock, Mark W. Watson
+
+## Abstract
+An exciting development in empirical macroeconometrics is the increasing use of external sources of as-if randomness to identify the dynamic causal effects of macroeconomic shocks. This approach – the use of external instruments – is the time series counterpart of the highly successful strategy in microeconometrics of using external as-if randomness to provide instruments that identify causal effects. This lecture exposits this approach and provides conditions on instruments and control variables under which external instrument methods produce valid inference on dynamic causal effects, that is, structural impulse response functions. These conditions can help guide the search for valid instruments in applications. We consider two methods, a one-step instrumental variables regression and a two-step method that entails estimation of a vector autoregression. Under a restrictive instrument validity condition, the onestep method is valid even if the vector autoregression is not invertible, so comparing the two estimates provides a test of invertibility. Under a less restrictive condition, where multiple lagged endogenous variables are needed as control variables in the one-step method, the conditions for validity of the two methods are the same.
+
+**Source:** https://www.semanticscholar.org/paper/f40c09cefc96ba05c1dc8bccfed18169291f8658
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T10:59:05.707Z

@@ -1,0 +1,13 @@
+# The Frontier of Estimator Comparison between MLE and MEboot Estimation: Application for Optimization Management of Macroeconomics
+
+**Authors:** S. Wannapan, C. Chaiboonsri
+
+## Abstract
+One of the most difficult problems that many quantitative researchers have been trying to computationally solve is the parametric prediction. Interestingly, is the maximum likelihood estimator really the best estimator for data predictive estimating in the recent moment? This question leads the authors to conduct the mathematically experimental study by using data generating processes (DGP), entropy calculating, and cross-entropy analyses for seeking the best estimator between the maximum likelihood method (MLE) and maximum entropy bootstrapping approach (MEboot). Furthermore, the experimental solution would be employed to the real application in a macro econometrical research. Consequently, the empirical results in this paper can be the sensible tool for mathematicians or even economists to improve the data prediction in time-series analyses.
+
+**Source:** https://www.semanticscholar.org/paper/8a07b2db47eef1e651533d94b5643f004decf68f
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T20:09:35.906Z

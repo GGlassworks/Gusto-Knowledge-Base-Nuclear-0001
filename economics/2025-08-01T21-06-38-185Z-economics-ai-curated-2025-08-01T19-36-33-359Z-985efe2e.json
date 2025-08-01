@@ -1,0 +1,13 @@
+# Unsupervised Learning in NBA Injury Recovery: Advanced Data Mining to Decode Recovery Durations and Economic Impacts
+
+**Authors:** George Papageorgiou, Vangelis Sarlis, Christos Tjortjis
+
+## Abstract
+This study utilized advanced data mining and machine learning to examine player injuries in the National Basketball Association (NBA) from 2000–01 to 2022–23. By analyzing a dataset of 2296 players, including sociodemographics, injury records, and financial data, this research investigated the relationships between injury types and player recovery durations, and their socioeconomic impacts. Our methodology involved data collection, engineering, and mining; the application of techniques such as Density-Based Spatial Clustering of Applications with Noise (DBSCAN), isolation forest, and the Z score for anomaly detection; and the application of the Apriori algorithm for association rule mining. Anomaly detection revealed 189 anomalies (1.04% of cases), highlighting unusual recovery durations and factors influencing recovery beyond physical healing. Association rule mining indicated shorter recovery times for lower extremity injuries and a 95% confidence level for quick returns from “Rest” injuries, affirming the NBA’s treatment and rest policies. Additionally, economic factors were observed, with players in lower salary brackets experiencing shorter recoveries, pointing to a financial influence on recovery decisions. This study offers critical insights into sports injuries and recovery, providing valuable information for sports professionals and league administrators. This study will impact player health management and team tactics, laying the groundwork for future research on long-term injury effects and technology integration in player health monitoring.
+
+**Source:** https://www.semanticscholar.org/paper/fceaf49461336551e8494090bd9fa4de0c81dc24
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T19:36:33.360Z

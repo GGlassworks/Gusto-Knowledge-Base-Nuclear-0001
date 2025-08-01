@@ -1,0 +1,13 @@
+# Advanced Data Mining of SSD Quality Based on FP-Growth Data Analysis
+
+**Authors:** Jieh-Ren Chang, You-Shyang Chen, Chien-Ku Lin, M. Cheng
+
+## Abstract
+Storage devices in the computer industry have gradually transformed from the hard disk drive (HDD) to the solid-state drive (SSD), of which the key component is error correction in not-and (NAND) flash memory. While NAND flash memory is under development, it is still limited by the “program and erase” cycle (PE cycle). Therefore, the improvement of quality and the formulation of customer service strategy are topics worthy of discussion at this stage. This study is based on computer company A as the research object and collects more than 8000 items of SSD error data of its customers, which are then calculated with data mining and frequent pattern growth (FP-Growth) of the association rule algorithm to identify the association rule of errors by setting the minimum support degree of 90 and the minimum trust degree of 10 as the threshold. According to the rules, three improvement strategies of production control are suggested: (1) use of the association rule to speed up the judgment of the SSD error condition by customer service personnel, (2) a quality strategy, and (3) a customer service strategy.
+
+**Source:** https://www.semanticscholar.org/paper/e2e1024c4a7cb6f008ab5e2ef6a24ce603829fac
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T19:36:33.784Z
