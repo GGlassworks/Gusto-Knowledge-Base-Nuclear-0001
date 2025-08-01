@@ -1,0 +1,13 @@
+# Data Mining to Examine the Treatment of Osteomyelitis
+
+**Authors:** Hamid Zahedi
+
+## Abstract
+<jats:p>The purpose of this study is to use data mining methods to investigate the physician decisions specifically in the treatment of osteomyelitis. Two primary data sets have been used in this study; the National Inpatient Sample (NIS) and the Thomson MedStat MarketScan data. We used online sources to obtain background information about the disease and its treatment in the literature. An innovative method was used to capture the information from the web and to cluster or filter that information to find the most relevant information, using SAS Text Miner. Other important innovations in investigating the data include finding the switches of medication and comparing the date of the switch with the date of procedures. We could study these medications switched at deeper levels, but this is not necessary in our study, especially with limited access to data. We also create a model to forecast the cost of hospitalization for patients with osteomyelitis.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-61520-723-7.ch002
+
+---
+Category: biomedical
+Subcategory: general
+Collected: 2025-08-01T19:31:56.634Z

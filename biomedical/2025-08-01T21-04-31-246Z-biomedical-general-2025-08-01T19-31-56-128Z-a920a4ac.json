@@ -1,0 +1,13 @@
+# Introduction to Data Mining Methodology to Investigate Health Outcomes
+
+**Authors:** Patricia Cerrito
+
+## Abstract
+<jats:p>In this case, we provide some basic information concerning the statistical methods used throughout this text. These methods include visualization by kernel density estimation, regression and predictive models, time series, and text analysis. This case is not intended to provide extensive information concerning these techniques; references are provided for the interested reader who wants to follow up on the methodology. Some of the methodology is fairly well known while the predictive modeling and text analysis are relatively recent. One of the primary visualization techniques used is that of kernel density estimation. Since the patient base is relatively heterogeneous, we cannot assume that any health outcome is normally distributed. Kernel density estimation can find the entire population distribution so that we no longer have to rely upon averages and can relate the results more to individuals.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-61520-723-7.ch001
+
+---
+Category: biomedical
+Subcategory: general
+Collected: 2025-08-01T19:31:56.128Z

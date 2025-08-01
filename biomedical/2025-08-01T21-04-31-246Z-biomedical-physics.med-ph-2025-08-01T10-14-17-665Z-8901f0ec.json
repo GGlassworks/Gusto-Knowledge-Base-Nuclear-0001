@@ -1,0 +1,12 @@
+# Digital Twinning of the Human Ventricular Activation Sequence to Clinical 12-lead ECGs and Magnetic Resonance Imaging Using Realistic Purkinje Networks for in Silico Clinical Trials
+
+**Authors:** Julia Camps, Lucas Arantes Berg, Zhinuo Jenny Wang, Rafael Sebastian, Leto Luana Riebel, Ruben Doste, Xin Zhou, Rafael Sachetto, James Coleman, Brodie Lawson, Vicente Grau, Kevin Burrage, Alfonso Bueno-Orovio, Rodrigo Weber, Blanca Rodriguez
+
+## Summary
+Cardiac in silico clinical trials can virtually assess the safety and efficacy of therapies using human-based modelling and simulation. These technologies can provide mechanistic explanations for clinically observed pathological behaviour. Designing virtual cohorts for in silico trials requires exploiting clinical data to capture the physiological variability in the human population. The clinical characterisation of ventricular activation and the Purkinje network is challenging, especially non-invasively. Our study aims to present a novel digital twinning pipeline that can efficiently generate and integrate Purkinje networks into human multiscale biventricular models based on subject-specific clinical 12-lead electrocardiogram and magnetic resonance recordings. Essential novel features of the pipeline are the human-based Purkinje network generation method, personalisation considering ECG R wave progression as well as QRS morphology, and translation from reduced-order Eikonal models to equivalent biophysically-detailed monodomain ones. We demonstrate ECG simulations in line with clinical data with clinical image-based multiscale models with Purkinje in four control subjects and two hypertrophic cardiomyopathy patients (simulated and clinical QRS complexes with Pearson's correlation coefficients &gt; 0.7). Our methods also considered possible differences in the density of Purkinje myocardial junctions in the Eikonal-based inference as regional conduction velocities. These differences translated into regional coupling effects between Purkinje and myocardial models in the monodomain formulation. In summary, we demonstrate a digital twin pipeline enabling simulations yielding clinically-consistent ECGs with clinical CMR image-based biventricular multiscale models, including personalised Purkinje in healthy and cardiac disease conditions.
+
+
+---
+Category: biomedical
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:17.665Z

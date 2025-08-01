@@ -1,0 +1,12 @@
+# A Novel Power-optimized CMOS sEMG Device with Ultra Low-noise integrated with ConvNet (VGG16) for Biomedical Applications
+
+**Authors:** Ahmed Ayman - Mohamed Sabry
+
+## Summary
+The needle bio-potential sensors for measuring muscle and brain activity need invasive surgical targeted muscle reinnervation (TMR) and a demanding process to maintain, but surface bio-potential sensors lack clear bio-signal reading (Signal-Interference). In this research, a novel power-optimized complementary metal-oxide-semiconductor (CMOS) Surface Electromyography (sEMG) is developed to improve the efficiency and quality of captured bio-signal for biomedical application: The early diagnosis of neurological disorders (Dystonia) and a novel compatible mind-controlled prosthetic leg with human daily activities. A novel sEMG composed of CMOS Op-Amp based PIC16F877A 8-bit CMOS Flash-based Microcontroller is utilized to minimize power consumption and data processing time. sEMG Circuit is implemented with developed analog filter along with infinite impulse response (IIR) digital filter via Fast Fourier Transform (FFT), Z-transform, and difference equations. The analysis shows a significant improvement of 169.2% noise-reduction in recorded EMG signal using developed digital filter compared to analog one according to numerical root mean square error (RMSE). Moreover, digital IIR was tested in two stages: algorithmic and real-world. As a result, IIR's algorithmic (MATLAB) and real-world RMSEs were 0.03616 and 0.05224, respectively. A notable advancement of 20.8% in data processing duration in EMG signal analysis. Optimizing VGG, AlexNet, and ResNet ConvNet as trained and tested on 15 public EEG (62-electrode) and 18 subjects' observed EMG data. The results indicate that VGG16-1D is 98.43% higher. During real testing, the accuracy was 95.8 +/- 4.6% for 16 subjects (6 Amputees-10 Dystonia). This study demonstrates the potential for sEMG, paving the way for biomedical applications.
+
+
+---
+Category: biomedical
+Subcategory: q-bio.NC
+Collected: 2025-08-01T10:16:08.878Z

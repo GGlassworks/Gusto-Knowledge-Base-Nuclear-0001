@@ -1,0 +1,12 @@
+# Genetic load makes cancer cells more sensitive to common drugs: evidence from Cancer Cell Line Encyclopedia
+
+**Authors:** Ana B. Pavel, Kirill S. Korolev
+
+## Summary
+Genetic alterations initiate tumors and enable the evolution of drug resistance. The pro-cancer view of mutations is however incomplete, and several studies show that mutational load can reduce tumor fitness. Given its negative effect, genetic load should make tumors more sensitive to anticancer drugs. Here, we test this hypothesis across all major types of cancer from the Cancer Cell Line Encyclopedia, which provides genetic and expression data of 496 cell lines together with their response to 24 common anticancer drugs. We found that the efficacy of 9 out of 24 drugs showed significant association with genetic load in a pan-cancer analysis. The associations for some tissue-drug combinations were remarkably strong, with genetic load explaining up to 83% of the variance in the drug response. Overall, the role of genetic load depended on both the drug and the tissue type with 10 tissues being particularly vulnerable to genetic load. We also identified changes in gene expression associated with increased genetic load, which included cell-cycle checkpoints, DNA damage and apoptosis. Our results show that genetic load is an important component of tumor fitness and can predict drug sensitivity. Beyond being a biomarker, genetic load might be a new, unexplored vulnerability of cancer.
+
+
+---
+Category: biomedical
+Subcategory: q-bio.GN
+Collected: 2025-08-01T16:51:38.250Z

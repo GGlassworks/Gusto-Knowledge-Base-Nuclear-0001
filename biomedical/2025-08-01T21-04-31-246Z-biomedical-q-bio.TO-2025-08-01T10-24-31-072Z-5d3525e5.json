@@ -1,0 +1,12 @@
+# Integrating anatomy and electrophysiology in the healthy human heart: Insights from biventricular statistical shape analysis using universal coordinates
+
+**Authors:** Lore Van Santvliet, Elena Zappon, Matthias A. F. Gsell, Franz Thaler, Maarten Blondeel, Steven Dymarkowski, Guido Claessen, Rik Willems, Martin Urschler, Bert Vandenberk, Gernot Plank, Maarten De Vos
+
+## Summary
+A cardiac digital twin is a virtual replica of a patient-specific heart, mimicking its anatomy and physiology. A crucial step of building a cardiac digital twin is anatomical twinning, where the computational mesh of the digital twin is tailored to the patient-specific cardiac anatomy. In a number of studies, the effect of anatomical variation on clinically relevant functional measurements like electrocardiograms (ECGs) is investigated, using computational simulations. While such a simulation environment provides researchers with a carefully controlled ground truth, the impact of anatomical differences on functional measurements in real-world patients remains understudied. In this study, we develop a biventricular statistical shape model and use it to quantify the effect of biventricular anatomy on ECG-derived and demographic features, providing novel insights for the development of digital twins of cardiac electrophysiology. To this end, a dataset comprising high-resolution cardiac CT scans from 271 healthy individuals, including athletes, is utilized. Furthermore, a novel, universal, ventricular coordinate-based method is developed to establish lightweight shape correspondence. The performance of the shape model is rigorously established, focusing on its dimensionality reduction capabilities and the training data requirements. Additionally, a comprehensive synthetic cohort is made available, featuring ready-to-use biventricular meshes with fiber structures and anatomical region annotations. These meshes are well-suited for electrophysiological simulations.
+
+
+---
+Category: biomedical
+Subcategory: q-bio.TO
+Collected: 2025-08-01T10:24:31.073Z

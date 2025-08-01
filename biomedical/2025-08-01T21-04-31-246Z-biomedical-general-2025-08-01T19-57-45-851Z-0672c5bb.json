@@ -1,0 +1,13 @@
+# A comparison of data visualization tools: A case study in health-related research
+
+**Authors:** Hongtai Huang, Sreedevi Ravi, Timothy Warrington, Howe Cui, Carlson Wang, Mark McCreary, Benjamin Lauffer, Christina Lu
+
+## Abstract
+<jats:p> Data visualization tools are important tools for making health decisions based on large amounts of data. However, very few comparisons of data visualization tools have been done in the context of health-related research. This paper compares commonly available visualization tools from the perspective of a dashboard developer in the context of scientific health research using real-world data and to provide general suggestions for dashboard developers’ future visualization efforts in health-related scientific discoveries. We evaluated four commonly available visualization tools (Tableau, Spotfire, PowerBI, and R Shiny). Each tool was evaluated on visualization outcomes (comparing the generated outputs of tables, scatterplots, correlation plots, treemaps, heatmaps, and geographic maps), usability, Cloud compatibility, analytic integration, and a few other factors. All tools generated comparable visualization outcomes in our tests and were equally usable with the exception of R Shiny which is not recommended for users with limited coding experience. Every tool except R Shiny supports connections to PostgreSQL, gSheets, and Athena without additional configurations. All tools support integration with R and Python; however, PowerBI requires some additional configuration. Every tool is capable of data pre-processing and supports data transformation, null detection and outlier detection. Each tool has its own unique advantages and limitations. </jats:p>
+
+**Source:** https://doi.org/10.1177/14738716241270206
+
+---
+Category: biomedical
+Subcategory: general
+Collected: 2025-08-01T19:57:45.852Z

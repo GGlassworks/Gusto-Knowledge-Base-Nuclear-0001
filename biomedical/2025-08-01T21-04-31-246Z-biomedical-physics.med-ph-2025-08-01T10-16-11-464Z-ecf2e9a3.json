@@ -1,0 +1,12 @@
+# Applications of Artificial Intelligence in Particle Radiotherapy
+
+**Authors:** Chao Wu, Dan Nguyen, Jan Schuemann, Andrea Mairani, Yuehu Pu, Steve Jiang
+
+## Summary
+Radiotherapy, due to its technology-intensive nature and reliance on digital data and human-machine interactions, is particularly suited to benefit from artificial intelligence (AI) to improve the accuracy and efficiency of its clinical workflow. Recently, various artificial intelligence (AI) methods have been successfully developed to exploit the benefit of the inherent physical properties of particle therapy. Many reviews about AI applications in radiotherapy have already been published, but none were specifically dedicated to particle therapy. In this article, we present a comprehensive review of the recent published works on AI applications in particle therapy, which can be classified into particle therapy treatment planning, adaptive particle therapy, range and dose verification and other applications in particle therapy. Although promising results reported in these works demonstrate how AI-based methods can help exploit the intrinsic physic advantages of particle therapy, challenges remained to be address before AI applications in particle therapy enjoy widespread implementation in clinical practice.
+
+
+---
+Category: biomedical
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:16:11.464Z
