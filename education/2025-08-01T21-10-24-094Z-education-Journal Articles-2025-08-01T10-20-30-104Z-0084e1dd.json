@@ -1,0 +1,13 @@
+# Digital ITEMS Module 03: Nonparametric Item Response Theory
+
+**Authors:** Wind, Stefanie A.
+
+## Abstract
+In this digital ITEMS module, we introduce the framework of nonparametric item response theory (IRT), in particular Mokken scaling, which can be used to evaluate fundamental measurement properties with less strict assumptions than parametric IRT models. We walk through the key distinction between parametric and nonparametric models, introduce the two key nonparametric models under Mokken scaling -- the monotone homogeneity and double monotonicity model -- and discuss modern extensions of the basic models. We also describe how researchers and practitioners can use key nonparametric statistics and graphical visualization tools to evaluate the fundamental measurement properties of an assessment from a nonparametric perspective. Finally, we illustrate the key reasoning steps and associated best practices using video-based worked examples completed with the &quot;mokken&quot; package in R.
+
+**Source:** https://eric.ed.gov/?id=EJ1200969
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:20:30.104Z
