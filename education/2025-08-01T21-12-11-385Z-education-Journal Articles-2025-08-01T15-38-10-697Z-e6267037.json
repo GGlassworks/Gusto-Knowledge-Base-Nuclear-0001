@@ -1,0 +1,13 @@
+# Automated Scoring of Chinese Engineering Students' English Essays
+
+**Authors:** Liu, Ming, Wang, Yuqi, Xu, Weiwei, Liu, Li
+
+## Abstract
+The number of Chinese engineering students has increased greatly since 1999. Rating the quality of these students' English essays has thus become time-consuming and challenging. This paper presents a novel automatic essay scoring algorithm called PSOSVR, based on a machine learning algorithm, Support Vector Machine for Regression (SVR), and a computational intelligence algorithm, Particle Swarm Optimization, which optimizes the parameters of SVR kernel functions. Three groups of essays, written by chemical, electrical and computer science engineering majors respectively, were used for evaluation. The study result shows that this PSO-SVR outperforms traditional essay scoring algorithms, such as multiple linear regression, support vector machine for regression and K Nearest Neighbor algorithm. It indicates that PSO-SVR is more robust in predicting irregular datasets, because the repeated use of simple content words may result in the low score of an essay, even though the system detects higher cohesion but no spelling error.
+
+**Source:** https://eric.ed.gov/?id=EJ1117427
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T15:38:10.697Z

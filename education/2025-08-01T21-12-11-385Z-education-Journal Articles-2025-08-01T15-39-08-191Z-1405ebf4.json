@@ -1,0 +1,13 @@
+# MATLAB Meets LEGO Mindstorms--A Freshman Introduction Course into Practical Engineering
+
+**Authors:** Behrens, A., Atorf, L., Schwann, R., Neumann, B., Schnitzler, R., Balle, J., Herold, T., Telle, A., Noll, T. G., Hameyer, K., Aach, T.
+
+## Abstract
+In today's teaching and learning approaches for first-semester students, practical courses more and more often complement traditional theoretical lectures. This practical element allows an early insight into the real world of engineering, augments student motivation, and enables students to acquire soft skills early. This paper describes a new freshman introduction course into practical engineering, which has been established within the Bachelor of Science curriculum of Electrical Engineering and Information Technology of RWTH Aachen University, Germany. The course is organized as an eight-day, full-time block laboratory for over 300 freshman students, who were supervised by more than 60 tutors from 23 institutes of the Electrical Engineering Department. Based on a threefold learning concept comprising mathematical methods, MATLAB programming, and practical engineering, the students were required to transfer mathematical basics to algorithms in MATLAB in order to control LEGO Mindstorms robots. Toward this end, a new toolbox, called the &quot;RWTH-Mindstorms NXT Toolbox,&quot; was developed, which enables the robots to be controlled remotely via MATLAB from a host computer. This paper describes how the laboratory course is organized and how it induces students to think as actual engineers would in solving real-world tasks with limited resources. Evaluation results show that the project improves the students' MATLAB programming skills, enhances motivation, and enables a peer learning process. (Contains 15 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ900585
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T15:39:08.191Z
