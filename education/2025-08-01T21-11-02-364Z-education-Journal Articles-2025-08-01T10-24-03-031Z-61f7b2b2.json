@@ -1,0 +1,13 @@
+# FPGA Hardware Kit for Remote Training Platforms
+
+**Authors:** Muhammad Alhammami
+
+## Abstract
+This paper outlines the development of a Hardware Development Kit (HDK) for a remote training platform on FPGA Devices designed to provide university students pursuing degrees in electronic and informatics engineering (at the bachelor's, master's, and PhD levels) with the tools they need to learn and develop systems related to artificial intelligence, digital signal processing, image processing, digital systems, integrated and embedded systems using an FPGA chip. Through the internet or a local network, students can engage with the platform to conduct engineering experiments. The HDK is equipped with a Raspberry Pi, a screen, a camera, and LEDs to facilitate the transfer of experiment results and to aid in assessing the validity of lab experiment execution. The Raspberry Pi plays a crucial role in the HDK, providing control and monitoring, remote access, data processing, user interface, and integration with other possible systems.
+
+**Source:** https://eric.ed.gov/?id=EJ1431722
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:24:03.032Z
