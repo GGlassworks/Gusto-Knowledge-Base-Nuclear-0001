@@ -1,0 +1,13 @@
+# Deep Learning Optimization and Acceleration
+
+**Authors:** Beilei Jiang
+
+## Abstract
+<jats:p xml:lang="en">The novelty of this dissertation is the optimization and acceleration of deep neural networks aimed at real-time predictions with minimal energy consumption. It consists of cross-layer optimization, output directed dynamic quantization, and opportunistic near-data computation for deep neural network acceleration. On two datasets (CIFAR-10 and CIFAR-100), the proposed deep neural network optimization and acceleration frameworks are tested using a variety of Convolutional neural networks (e.g., LeNet-5, VGG-16, GoogLeNet, DenseNet, ResNet). Experimental results are promising when compared to other state-of-the-art deep neural network acceleration efforts in the literature.</jats:p>
+
+**Source:** https://doi.org/10.12794/metadc1986716
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:24:18.278Z

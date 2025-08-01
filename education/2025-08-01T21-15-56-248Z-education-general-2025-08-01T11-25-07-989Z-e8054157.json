@@ -1,0 +1,13 @@
+# Disease Prediction using Deep Learning Algorithms in Healthcare Sector
+
+**Authors:** Rajender Singh Chhillar
+
+## Abstract
+<jats:p>Deep Learning (DL) is a major focus of discussion in the healthcare sector. The healthcare sector in the United States generates around one trillion Gigabytes of clinical data annually. With limited resources, manually analyzing these massive amounts of data is a tremendously time-consuming. Finding useful patterns and acquiring knowledge from high-dimensional, poorly annotated, heterogeneous and complex clinical data continues to be a significant challenge in the health care sector. Latest advancements in DL have been shown as an efficacious approach to building end-to-end learning models for disease prognosis and diagnosis. In the past, discovering information from data has been accomplished through the use of conventional Machine Learning (ML) techniques. These techniques first require optimal features to be extracted from clinical data before building a disease predictive model on top of them. Problems with these techniques are that they do not scale properly with the increase in data due to a lack of domain knowledge. Firstly, this chapter explores popular DL algorithms for various types of clinical data. These algorithms can potentially prevent infectious disease, reducing operating costs, and efforts. Finally, the challenges while designing and implementing a holistic DL model have been discussed for disease prediction.</jats:p>
+
+**Source:** https://doi.org/10.36647/mlaida/2022.12.b1.ch008
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:25:07.989Z

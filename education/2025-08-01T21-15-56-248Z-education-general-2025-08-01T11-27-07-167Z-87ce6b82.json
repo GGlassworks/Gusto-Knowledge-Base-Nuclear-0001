@@ -1,0 +1,13 @@
+# Designing Frameworks for Reliability in Deep Learning Systems
+
+**Authors:** AYSE ARSLAN
+
+## Abstract
+<jats:p>There has been a great amount of progress in deep learning models in the last decade. Such models are most accurate when applied to test data drawn from the same distribution as their training set. However, in practice, the data confronting models in real-world settings rarely match the training distribution.  This study explores the use of co-design approaches for developing reliable design frameworks for deep learning systems. It aims to raise awareness on how to develop reliable ML models within the context of recommender systems. While much work needs to be done in this field, the study provides suggestions and practical tips for how to develop reliable ML models such as in the case of recommender systems</jats:p>
+
+**Source:** https://doi.org/10.47191/etj/v7i10.07
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T11:27:07.167Z
