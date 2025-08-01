@@ -1,0 +1,12 @@
+# A Spigot-Algorithm for Square-Roots: Explained and Extended
+
+**Authors:** Mayer Goldberg
+
+## Summary
+This work presents and extends a known spigot-algorithm for computing square-roots, digit-by-digit, that is suitable for calculation by hand or an abacus, using only addition and subtraction. We offer an elementary proof of correctness for the original algorithm, then present a corresponding spigot-algorithm for computing cube-roots. Finally, we generalize the algorithm, so as to find $r$-th roots, and show how to optimize the algorithm for any $r$. The resulting algorithms require only integer addition and subtraction.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DM
+Collected: 2025-08-01T10:18:32.986Z

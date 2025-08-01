@@ -1,0 +1,12 @@
+# A Survey on Mining and Analysis of Uncertain Graphs
+
+**Authors:** Suman Banerjee
+
+## Summary
+\emph{Uncertain Graph} (also known as \emph{Probabilistic Graph}) is a generic model to represent many real\mbox{-}world networks from social to biological. In recent times analysis and mining of uncertain graphs have drawn significant attention from the researchers of the data management community. Several noble problems have been introduced and efficient methodologies have been developed to solve those problems. Hence, there is a need to summarize the existing results on this topic in a self\mbox{-}organized way. In this paper, we present a comprehensive survey on uncertain graph mining focusing on mainly three aspects: (i) different problems studied, (ii) computational challenges for solving those problems, and (iii) proposed methodologies. Finally, we list out important future research directions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DB
+Collected: 2025-08-01T19:34:47.640Z

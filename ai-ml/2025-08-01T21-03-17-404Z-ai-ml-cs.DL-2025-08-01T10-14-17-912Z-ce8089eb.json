@@ -1,0 +1,12 @@
+# The Wind in Our Sails: Developing a Reusable and Maintainable Dutch Maritime History Knowledge Graph
+
+**Authors:** Stijn Schouten, Victor de Boer, Lodewijk Petram, Marieke van Erp
+
+## Summary
+Digital sources are more prevalent than ever but effectively using them can be challenging. One core challenge is that digitized sources are often distributed, thus forcing researchers to spend time collecting, interpreting, and aligning different sources. A knowledge graph can accelerate research by providing a single connected source of truth that humans and machines can query. During two design-test cycles, we convert four data sets from the historical maritime domain into a knowledge graph. The focus during these cycles is on creating a sustainable and usable approach that can be adopted in other linked data conversion efforts. Furthermore, our knowledge graph is available for maritime historians and other interested users to investigate the daily business of the Dutch East India Company through a unified portal.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:17.913Z

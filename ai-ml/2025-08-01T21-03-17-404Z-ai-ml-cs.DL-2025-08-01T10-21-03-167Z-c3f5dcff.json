@@ -1,0 +1,12 @@
+# Terminologies, mod{è}les de donn{é}es arch{é}ologiques et th{é}saurus documentaires
+
+**Authors:** Sébastien Durost, Guillaume Reich, Jean-Pierre Girard
+
+## Summary
+The HyperTh{\'e}sau and Bibracte num{\'e}rique projects have given rise to a collective effort centred on the use of vocabulary as a means of ensuring the interoperability of archaeological data throughout its life cycle. To this end, the use of the standardised form of the thesaurus -- via the Opentheso platform -- provides a tool that is already adapted to the Linked Data. Nevertheless, its use quickly raised the question of the different paradigms presiding over the elaboration of a specific vocabulary by each (group of) scientist(s). The ISO 25964 standard -- designed for the management and interoperability of indexing languages -- is flexible enough to permit the comparison and linking of different scientific or documentary ``points of view''. Their coherence through interoperability alignments nevertheless requires to interface different semantic granularities: search reporting, the description of raw data, a gateway or ''pivot'' between the two, by using a regulated cooperation methodology. The challenges that remain to be met on this path do not prevent the thesaurus tool from already being a suitable support for a complete ''human-to-machine-to-human'' interoperability, developed within the framework of the Bibracte Ville Ouverte project and exemplified through a research on the ceramics of that archaeological site.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:21:03.167Z

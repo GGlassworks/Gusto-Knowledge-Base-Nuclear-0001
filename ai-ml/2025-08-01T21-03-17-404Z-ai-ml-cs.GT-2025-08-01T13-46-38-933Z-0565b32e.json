@@ -1,0 +1,12 @@
+# Game theory on the blockchain: a model for games with smart contracts
+
+**Authors:** Mathias Hall-Andersen, Nikolaj I. Schwartzbach
+
+## Summary
+We propose a model for games in which the players have shared access to a blockchain that allows them to deploy smart contracts to act on their behalf. This changes fundamental game-theoretic assumptions about rationality since a contract can commit a player to act irrationally in specific subgames, making credible otherwise non-credible threats. This is further complicated by considering the interaction between multiple contracts which can reason about each other. This changes the nature of the game in a nontrivial way as choosing which contract to play can itself be considered a move in the game. Our model generalizes known notions of equilibria, with a single contract being equivalent to a Stackelberg equilibrium, and two contracts being equivalent to a reverse Stackelberg equilibrium. We prove a number of bounds on the complexity of computing SPE in such games with smart contracts. We show that computing an SPE is $\textsf{PSPACE}$-hard in the general case. Specifically, in games with $k$ contracts, we show that computing an SPE is $\Sigma_k^\textsf{P}$-hard for games of imperfect information. We show that computing an SPE remains $\textsf{PSPACE}$-hard in games of perfect information if we allow for an unbounded number of contracts. We give an algorithm for computing an SPE in two-contract games of perfect information that runs in time $O(m\ell)$ where $m$ is the size of the game tree and $\ell$ is the number of terminal nodes. Finally, we conjecture the problem to be $\textsf{NP}$-complete for three contracts.
+
+
+---
+Category: ai-ml
+Subcategory: cs.GT
+Collected: 2025-08-01T13:46:38.934Z

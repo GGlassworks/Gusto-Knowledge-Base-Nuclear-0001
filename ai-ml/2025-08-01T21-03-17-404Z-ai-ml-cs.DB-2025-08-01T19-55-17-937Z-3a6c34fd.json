@@ -1,0 +1,12 @@
+# Visual Diagrammatic Queries in ViziQuer: Overview and Implementation
+
+**Authors:** Jūlija Ovčiņņikiva, Agris Šostaks, Kārlis Čerāns
+
+## Summary
+Knowledge graphs (KG) have become an important data organization paradigm. The available textual query languages for information retrieval from KGs, as SPARQL for RDF-structured data, do not provide means for involving non-technical experts in the data access process. Visual query formalisms, alongside form-based and natural language-based ones, offer means for easing user involvement in the data querying process. ViziQuer is a visual query notation and tool offering visual diagrammatic means for describing rich data queries, involving optional and negation constructs, as well as aggregation and subqueries. In this paper we review the visual ViziQuer notation from the end-user point of view and describe the conceptual and technical solutions (including abstract syntax model, followed by a generation model for textual queries) that allow mapping of the visual diagrammatic query notation into the textual SPARQL language, thus enabling the execution of rich visual queries over the actual knowledge graphs. The described solutions demonstrate the viability of the model-based approach in translating complex visual notation into a complex textual one; they serve as semantics by implementation description of the ViziQuer language and provide building blocks for further services in the ViziQuer tool context.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DB
+Collected: 2025-08-01T19:55:17.937Z

@@ -1,0 +1,12 @@
+# KnowledgeShovel: An AI-in-the-Loop Document Annotation System for Scientific Knowledge Base Construction
+
+**Authors:** Shao Zhang, Yuting Jia, Hui Xu, Dakuo Wang, Toby Jia-jun Li, Ying Wen, Xinbing Wang, Chenghu Zhou
+
+## Summary
+Constructing a comprehensive, accurate, and useful scientific knowledge base is crucial for human researchers synthesizing scientific knowledge and for enabling Al-driven scientific discovery. However, the current process is difficult, error-prone, and laborious due to (1) the enormous amount of scientific literature available; (2) the highly-specialized scientific domains; (3) the diverse modalities of information (text, figure, table); and, (4) the silos of scientific knowledge in different publications with inconsistent formats and structures. Informed by a formative study and iterated with participatory design workshops, we designed and developed KnowledgeShovel, an Al-in-the-Loop document annotation system for researchers to construct scientific knowledge bases. The design of KnowledgeShovel introduces a multi-step multi-modal human-AI collaboration pipeline that aligns with users' existing workflows to improve data accuracy while reducing the human burden. A follow-up user evaluation with 7 geoscience researchers shows that KnowledgeShovel can enable efficient construction of scientific knowledge bases with satisfactory accuracy.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:19.717Z

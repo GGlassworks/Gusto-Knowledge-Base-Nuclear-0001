@@ -1,0 +1,12 @@
+# GENOME: A GENeric methodology for Ontological Modelling of Epics
+
+**Authors:** Udaya Varadarajan, Mayukh Bagchi, Amit Tiwari, M. P. Satija
+
+## Summary
+Ontological knowledge modelling of epics, though being an established research arena backed by concrete multilingual and multicultural works, still suffer from two key shortcomings. Firstly, all epic ontological models developed till date have been designed following ad-hoc methodologies, most often, combining existing general purpose ontology development methodologies. Secondly, none of the ad-hoc methodologies consider the potential reuse of existing epic ontological models for enrichment, if available. The paper presents, as a unified solution to the above shortcomings, the design and development of GENOME - the first dedicated methodology for iterative ontological modelling of epics, potentially extensible to works in different research arenas of digital humanities in general. GENOME is grounded in transdisciplinary foundations of canonical norms for epics, knowledge modelling best practices, application satisfiability norms and cognitive generative questions. It is also the first methodology (in epic modelling but also in general) to be flexible enough to integrate, in practice, the options of knowledge modelling via reuse or from scratch. The feasibility of GENOME is validated via a first brief implementation of ontological modelling of the Indian epic - Mahabharata by reusing an existing ontology. The preliminary results are promising, with the GENOME-produced model being both ontologically thorough and performance-wise competent
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:16:10.984Z

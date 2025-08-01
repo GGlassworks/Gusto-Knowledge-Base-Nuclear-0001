@@ -1,0 +1,12 @@
+# DeXTT: Deterministic Cross-Blockchain Token Transfers
+
+**Authors:** Michael Borkowski, Marten Sigwart, Philipp Frauenthaler, Taneli Hukkinen, Stefan Schulte
+
+## Summary
+Current blockchain technologies provide very limited interoperability. Restrictions with regards to asset transfers and data exchange between different blockchains reduce usability and comfort for users, and hinder novel developments within the blockchain space. As a first step towards cross-blockchain interoperability, we propose the DeXTT cross-blockchain transfer protocol, which can be used to transfer a token on any number of blockchains simultaneously in a decentralized manner. We provide a reference implementation using Solidity, and evaluate its performance. We show logarithmic scalability of DeXTT with respect to the number of participating nodes, and analyze cost requirements of the transferred tokens.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:12:41.650Z

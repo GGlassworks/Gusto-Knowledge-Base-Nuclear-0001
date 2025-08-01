@@ -1,0 +1,12 @@
+# Performance Tuning and Scaling Enterprise Blockchain Applications
+
+**Authors:** Grant Chung, Luc Desrosiers, Manav Gupta, Andrew Sutton, Kaushik Venkatadri, Ontak Wong, Goran Zugic
+
+## Summary
+Blockchain scalability can be complicated and costly. As enterprises begin to adopt blockchain technology to solve business problems, there are valid concerns if blockchain applications can support the transactional demands of production systems. In fact, the multiple distributed components and protocols that underlie blockchain applications makes performance optimization a non-trivial task. Blockchain performance optimization and scalability require a methodology to reduce complexity and cost. Furthermore, existing performance results often lack the requirements, load, and infrastructure of a production application. In this paper, we first develop a methodical approach to performance tuning enterprise blockchain applications to increase performance and transaction capacity. The methodology is applied to an enterprise blockchain-based application (leveraging Hyperledger Fabric) for performance tuning and optimization with the goal of bridging the gap between laboratory and production deployed system performance. We then present extensive results and analysis of our performance testing for on-premise and cloud deployments, in which we were able to scale the application from 30 to 3000 TPS without forking the Hyperledger Fabric source code and maintaining a reasonable infrastructure footprint. We also provide blockchain application and platform recommendations for performance improvement.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:04:12.384Z

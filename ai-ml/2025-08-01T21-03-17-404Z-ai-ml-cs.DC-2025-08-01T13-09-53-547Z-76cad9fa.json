@@ -1,0 +1,12 @@
+# The Confluence of Blockchain and 6G Network: Scenarios Analysis and Performance Assessment
+
+**Authors:** Bo Li, Shuiguang Deng, Xueqiang Yan, Schahram Dustdar
+
+## Summary
+Emerging advanced applications, such as smart cities, healthcare, and virtual reality, demand more challenging requirements on sixth-generation (6G) mobile networks, including the need for improved secrecy, greater integrity, non-repudiation, authentication, and access control. While blockchain, with its intrinsic features, is generally regarded as one of the most disruptive technological enablers for 6G functional standards, there is no comprehensive study of whether, when, and how blockchain will be used in 6G scenarios. Existing research lacks performance assessment methodology for the use of blockchain in 6G scenarios. Therefore, we abstract seven fine-grained 6G possibilities from the application layer and investigate the why, what, and when issues for 6G scenarios in this work. Moreover, we provide a methodology for evaluating the performance and scalability of blockchain-based 6G scenarios. In conclusion, we undertake comprehensive experimental to assess the performance of the Quorum blockchain and 6G scenarios. The experimental results show that a consortium blockchain with the proper settings may satisfy the performance and scalability requiremen
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:09:53.547Z

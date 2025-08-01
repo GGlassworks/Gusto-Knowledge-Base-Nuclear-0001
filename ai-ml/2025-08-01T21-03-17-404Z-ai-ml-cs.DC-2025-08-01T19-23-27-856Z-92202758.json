@@ -1,0 +1,12 @@
+# Distributed Silhouette Algorithm: Evaluating Clustering on Big Data
+
+**Authors:** Marco Gaido
+
+## Summary
+In the big data era, the key feature that each algorithm needs to have is the possibility of efficiently running in parallel in a distributed environment. The popular Silhouette metric to evaluate the quality of a clustering, unfortunately, does not have this property and has a quadratic computational complexity with respect to the size of the input dataset. For this reason, its execution has been hindered in big data scenarios, where clustering had to be evaluated otherwise. To fill this gap, in this paper we introduce the first algorithm that computes the Silhouette metric with linear complexity and can easily execute in parallel in a distributed environment. Its implementation is freely available in the Apache Spark ML library.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T19:23:27.858Z

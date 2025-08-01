@@ -1,0 +1,12 @@
+# Blockchain Data Analytics: A Scoping Literature Review and Directions for Future Research
+
+**Authors:** Marcel Bühlmann, Hans-Georg Fill, Simon Curty
+
+## Summary
+Blockchain technology has rapidly expanded beyond its original use in cryptocurrencies to a broad range of applications, creating vast amounts of immutable, decentralized data. As blockchain adoption grows, so does the need for advanced data analytics techniques to extract insights for business intelligence, fraud detection, financial analysis and many more. While previous research has examined specific aspects of blockchain data analytics, such as transaction patterns, illegal activity detection, and data management, there remains a lack of comprehensive reviews that explore the full scope of blockchain data analytics. This study addresses this gap through a scoping literature review, systematically mapping the existing research landscape, identifying key topics, and highlighting emerging trends. Using established methodologies for literature reviews, we analyze 466 publications, clustering them into six major research themes: illegal activity detection, data management, financial analysis, user analysis, community detection, and mining analysis. Our findings reveal a strong focus on detecting illicit activities and financial applications, while holistic business intelligence use cases remain underexplored. This review provides a structured overview of blockchain data analytics, identifying research gaps and proposing future directions to enhance the fields impact.
+
+
+---
+Category: ai-ml
+Subcategory: cs.ET
+Collected: 2025-08-01T13:09:54.629Z

@@ -1,0 +1,12 @@
+# Permissioned Blockchain Revisited: A Byzantine Game-Theoretical Perspective
+
+**Authors:** Dongfang Zhao
+
+## Summary
+Despite the popularity and practical applicability of blockchains, there is very limited work on the theoretical foundation of blockchains: The lack of rigorous theory and analysis behind the curtain of blockchains has severely staggered its broader applications. This paper attempts to lay out a theoretical foundation for a specific type of blockchains---the ones requiring basic authenticity from the participants, also called \textit{permissioned blockchain}. We formulate permissioned blockchain systems and operations into a game-theoretical problem by incorporating constraints implied by the wisdom from distributed computing and Byzantine systems. We show that in a noncooperative blockchain game (NBG), a Nash equilibrium can be efficiently found in a closed-form even though the game involves more than two players. Somewhat surprisingly, the simulation results of the Nash equilibrium implies that the game can reach a stable status regardless of the number of Byzantine nodes and trustworthy players. We then study a harder problem where players are allowed to form coalitions: the coalitional blockchain game (CBG). We show that although the Shapley value for a CBG can be expressed in a more succinct form, its core is empty.
+
+
+---
+Category: ai-ml
+Subcategory: cs.GT
+Collected: 2025-08-01T13:02:29.641Z

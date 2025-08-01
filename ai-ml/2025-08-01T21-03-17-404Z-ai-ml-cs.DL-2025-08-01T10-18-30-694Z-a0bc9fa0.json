@@ -1,0 +1,12 @@
+# Reducing a Set of Regular Expressions and Analyzing Differences of Domain-specific Statistic Reporting
+
+**Authors:** Tobias Kalmbach, Marcel Hoffmann, Nicolas Lell, Ansgar Scherp
+
+## Summary
+Due to the large amount of daily scientific publications, it is impossible to manually review each one. Therefore, an automatic extraction of key information is desirable. In this paper, we examine STEREO, a tool for extracting statistics from scientific papers using regular expressions. By adapting an existing regular expression inclusion algorithm for our use case, we decrease the number of regular expressions used in STEREO by about $33.8\%$. We reveal common patterns from the condensed rule set that can be used for the creation of new rules. We also apply STEREO, which was previously trained in the life-sciences and medical domain, to a new scientific domain, namely Human-Computer-Interaction (HCI), and re-evaluate it. According to our research, statistics in the HCI domain are similar to those in the medical domain, although a higher percentage of APA-conform statistics were found in the HCI domain. Additionally, we compare extraction on PDF and LaTeX source files, finding LaTeX to be more reliable for extraction.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:18:30.694Z

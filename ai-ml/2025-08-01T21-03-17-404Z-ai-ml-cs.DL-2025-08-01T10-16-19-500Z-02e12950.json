@@ -1,0 +1,12 @@
+# MOPRD: A multidisciplinary open peer review dataset
+
+**Authors:** Jialiang Lin, Jiaxin Song, Zhangping Zhou, Yidong Chen, Xiaodong Shi
+
+## Summary
+Open peer review is a growing trend in academic publications. Public access to peer review data can benefit both the academic and publishing communities. It also serves as a great support to studies on review comment generation and further to the realization of automated scholarly paper review. However, most of the existing peer review datasets do not provide data that cover the whole peer review process. Apart from this, their data are not diversified enough as the data are mainly collected from the field of computer science. These two drawbacks of the currently available peer review datasets need to be addressed to unlock more opportunities for related studies. In response, we construct MOPRD, a multidisciplinary open peer review dataset. This dataset consists of paper metadata, multiple version manuscripts, review comments, meta-reviews, author's rebuttal letters, and editorial decisions. Moreover, we propose a modular guided review comment generation method based on MOPRD. Experiments show that our method delivers better performance as indicated by both automatic metrics and human evaluation. We also explore other potential applications of MOPRD, including meta-review generation, editorial decision prediction, author rebuttal generation, and scientometric analysis. MOPRD is a strong endorsement for further studies in peer review-related research and other applications.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:16:19.501Z

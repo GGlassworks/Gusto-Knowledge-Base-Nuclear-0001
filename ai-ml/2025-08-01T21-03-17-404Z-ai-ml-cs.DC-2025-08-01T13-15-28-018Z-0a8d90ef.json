@@ -1,0 +1,12 @@
+# On the Relevance of Blockchain Evaluations on Bare Metal
+
+**Authors:** Andrei Lebedev, Vincent Gramoli
+
+## Summary
+In this paper, we present the first bare metal comparison of modern blockchains, including Algorand, Avalanche, Diem, Ethereum, Quorum and Solana. This evaluation was conducted with the recent Diablo benchmark suite, a framework to evaluate the performance of different blockchains on the same ground. By tuning network delays in our controlled environment we were able to reproduce performance trends obtained in geo-distributed settings, hence demonstrating the relevance of bare metal evaluations to better understand blockchain performance.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:15:28.018Z

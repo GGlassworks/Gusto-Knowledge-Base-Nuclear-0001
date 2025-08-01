@@ -1,0 +1,12 @@
+# A Comparative Analysis of Modeling Approaches for the Association of FAIR Digital Objects Operations
+
+**Authors:** Nicolas Blumenröhr, Jana Böhm, Philipp Ost, Marco Kulüke, Peter Wittenburg, Christophe Blanchi, Sven Bingert, Ulrich Schwardmann
+
+## Summary
+The concept of FAIR Digital Objects represents a foundational step towards realizing machine-actionable, interoperable data infrastructures across scientific and industrial domains. As digital spaces become increasingly heterogeneous, scalable mechanisms for data processing and interpretability are essential. This paper provides a comparative analysis of various typing mechanisms to associate FAIR Digital Objects with their operations, addressing the pressing need for a structured approach to manage data interactions within the FAIR Digital Objects ecosystem. By examining three core models -- record typing, profile typing, and attribute typing -- this work evaluates each model's complexity, flexibility, versatility, and interoperability, shedding light on their strengths and limitations. With this assessment, we aim to offer insights for adopting FDO frameworks that enhance data automation and promote the seamless exchange of digital resources across domains.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:21:16.005Z

@@ -1,0 +1,12 @@
+# Recent Advances of Blockchain and its Applications
+
+**Authors:** Xiao Li, Weili Wu
+
+## Summary
+Blockchain is an emerging decentralized data collection, sharing and storage technology, which have provided abundant transparent, secure, tamper-proof, secure and robust ledger services for various real-world use cases. Recent years have witnessed notable developments of blockchain technology itself as well as blockchain-adopting applications. Most existing surveys limit the scopes on several particular issues of blockchain or applications, which are hard to depict the general picture of current giant blockchain ecosystem. In this paper, we investigate recent advances of both blockchain technology and its most active research topics in real-world applications. We first review the recent developments of consensus mechanisms and storage mechanisms in general blockchain systems. Then extensive literature is conducted on blockchain enabled IoT, edge computing, federated learning and several emerging applications including healthcare, COVID-19 pandemic, social network and supply chain, where detailed specific research topics are discussed in each. Finally, we discuss the future directions, challenges and opportunities in both academia and industry.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:10:48.796Z

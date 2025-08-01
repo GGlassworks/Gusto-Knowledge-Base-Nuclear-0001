@@ -1,0 +1,12 @@
+# A Literature Review of Literature Reviews in Pattern Analysis and Machine Intelligence
+
+**Authors:** Penghai Zhao, Xin Zhang, Jiayue Cao, Ming-Ming Cheng, Jian Yang, Xiang Li
+
+## Summary
+The rapid advancements in Pattern Analysis and Machine Intelligence (PAMI) have led to an overwhelming expansion of scientific knowledge, spawning numerous literature reviews aimed at collecting and synthesizing fragmented information. This paper presents a thorough analysis of these literature reviews within the PAMI field, and tries to address three core research questions: (1) What are the prevalent structural and statistical characteristics of PAMI literature reviews? (2) What strategies can researchers employ to efficiently navigate the growing corpus of reviews? (3) What are the advantages and limitations of AI-generated reviews compared to human-authored ones? To address the first research question, we begin with a narrative overview to highlight common preferences in composing PAMI reviews, followed by a statistical analysis to quantitatively uncover patterns in these preferences. Our findings reveal several key insights. First, fewer than 20% of PAMI reviews currently comply with PRISMA standards, although this proportion is gradually increasing. Second, there is a moderate positive correlation between the quality of references and the scholarly impact of reviews, emphasizing the importance of reference selection. To further assist researchers in efficiently managing the rapidly growing number of literature reviews, we introduce four novel, real-time, article-level bibliometric indicators that facilitate the screening of numerous reviews. Finally, our comparative analysis reveals that AI-generated reviews currently fall short of human-authored ones in accurately evaluating the academic significance of newly published articles and integrating rich visual elements, which limits their practical utility. Overall, this study provides a deeper understanding of PAMI literature reviews by uncovering key trends, evaluating current practices, and highlighting areas for future improvement.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:24:47.554Z

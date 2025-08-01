@@ -1,0 +1,12 @@
+# GPU Acceleration of Sparse Neural Networks
+
+**Authors:** Aavaas Gajurel, Sushil J. Louis, Frederick C Harris
+
+## Summary
+In this paper, we use graphics processing units(GPU) to accelerate sparse and arbitrary structured neural networks. Sparse networks have nodes in the network that are not fully connected with nodes in preceding and following layers, and arbitrary structure neural networks have different number of nodes in each layers. Sparse Neural networks with arbitrary structures are generally created in the processes like neural network pruning and evolutionary machine learning strategies. We show that we can gain significant speedup for full activation of such neural networks using graphical processing units. We do a prepossessing step to determine dependency groups for all the nodes in a network, and use that information to guide the progression of activation in the neural network. Then we compute activation for each nodes in its own separate thread in the GPU, which allows for massive parallelization. We use CUDA framework to implement our approach and compare the results of sequential and GPU implementations. Our results show that the activation of sparse neural networks lends very well to GPU acceleration and can help speed up machine learning strategies which generate such networks or other processes that have similar structure.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T11:41:35.235Z

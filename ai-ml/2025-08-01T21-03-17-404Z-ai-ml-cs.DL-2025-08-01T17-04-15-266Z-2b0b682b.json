@@ -1,0 +1,12 @@
+# BrainKnow -- Extracting, Linking, and Synthesizing Neuroscience Knowledge
+
+**Authors:** Cunqing Huangfu, Kang Sun, Yi Zeng, Yuwei Wang, Dongsheng Wang, Zizhe Ruan
+
+## Summary
+The exponential growth of neuroscience literature presents a significant challenge for researchers seeking to efficiently access and utilize relevant information. To address this issue, we introduce the Brain Knowledge Engine (BrainKnow), an automated system designed to extract, link, and synthesize neuroscience knowledge from scientific publications. BrainKnow constructs a comprehensive knowledge graph encompassing 3,626,931 relationships across 37,011 neuroscience concepts, derived from 1,817,744 articles. This vast repository of knowledge is accessible through a user-friendly web interface, facilitating efficient navigation and data retrieval. BrainKnow employs advanced graph network algorithms, specifically Node2Vec, to enhance knowledge recommendation and visualization. This enables users to explore semantic relationships between concepts, predict potential new relationships, and gain a deeper understanding of the interconnectedness within neuroscience. Additionally, BrainKnow ensures real-time updates by synchronizing with PubMed, providing researchers with access to the most current information. BrainKnow serves as a valuable resource for neuroscience researchers, offering a powerful tool for exploring, synthesizing, and leveraging the vast and complex knowledge base of the field.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T17:04:15.266Z

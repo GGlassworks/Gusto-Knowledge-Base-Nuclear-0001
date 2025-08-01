@@ -1,0 +1,12 @@
+# Performance Analysis of the Libra Blockchain: An Experimental Study
+
+**Authors:** Jiashuo Zhang, Jianbo Gao, Zhenhao Wu, Wentian Yan, Qize Wu, Qingshan Li, Zhong Chen
+
+## Summary
+Since Bitcoin was first introduced in 2008, many types of cryptocurrencies have been proposed based on blockchain. However, the performance of permissionless blockchains restricts the widespread of cryptocurrency. Recently, Libra was proposed by Facebook based on a permissioned blockchain, i.e. the Libra blockchain. The vision of Libra is to become a global currency supporting financial applications, but it is doubted whether the performance of the Libra blockchain is able to support frequent micropayment scenarios. In this paper, we propose a methodology to evaluate the performance of blockchain platforms and conducted an experimental study on the Libra blockchain. The results show that the Libra blockchain can only process about one thousand transactions per second at most, and the performance drops significantly as the number of validators increases. Although it outperforms permissionless blockchain platforms, the performance of the Libra blockchain is still unsatisfactory compared to other permissioned blockchains like Hyperledger Fabric and needs to make effective improvements in order to support global micropayment in the future.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T11:06:49.942Z

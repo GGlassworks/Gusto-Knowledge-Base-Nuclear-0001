@@ -1,0 +1,12 @@
+# Scalable Multi-Chain Coordination via the Hierarchical Longest Chain Rule
+
+**Authors:** Yanni Georghiades, Karl Kreder, Jonathan Downing, Alan Orwick, Sriram Vishwanath
+
+## Summary
+This paper introduces BlockReduce, a Proof-of-Work (PoW) based blockchain system which achieves high transaction throughput through a hierarchy of merged mined blockchains, each operating in parallel on a partition the overall application state. Most notably, the full PoW available within the network is applied to all blockchains in BlockReduce, and cross-blockchain state transitions are enabled seamlessly within the core protocol. This paper shows that, given a hierarchy of blockchains and its associated security model, the protocol scales superlinearly in transaction throughput with the number of blockchains operated by the protocol.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T11:06:49.320Z

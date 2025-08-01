@@ -1,0 +1,12 @@
+# Advancing Lunar Communication through Inter-domain Space Networks and Dynamic Orchestration
+
+**Authors:** Selen Gecgel Cetin, Baris Donmez, Gunes Karabulut Kurt
+
+## Summary
+The reawakened era of lunar exploration is defined by a strategic shift from temporary visits to a sustained international and commercial presence, resulting in an unprecedented demand for a robust and continuously available communication infrastructure. The conventional direct-to-Earth communication architecture relies on limited and oversubscribed deep space networks, which are further challenged by the radiative environment and insufficient visibility in certain areas of the cislunar domain. We address these issues by proposing a foundational move toward inter-domain space network cooperation by introducing architectures based on near space networks. They can directly service lunar surface users or, via cislunar relays, by forming a resilient and multi-layered communication backbone. First, we establish a unified link analysis framework incorporating frequently disregarded environmental factors, such as the Moon's variable illumination, to provide a high-fidelity performance evaluation. Second, we assess architectures' reliability based on the outage risk, essential for quantifying the operational robustness of communication links. Finally, to manage the inherent dynamism of architectures, we propose an inter-domain space digital twin$-$a dynamic decision-making engine that performs real-time analysis to autonomously select the best communication path, ensuring high and stable reliability while simultaneously optimizing power consumption. Overall, our paper provides a holistic architectural and conceptual management framework, emphasizing the necessity of lunar communications to support a permanent human and economic foothold on the Moon.
+
+
+---
+Category: ai-ml
+Subcategory: cs.ET
+Collected: 2025-08-01T10:21:18.650Z

@@ -1,0 +1,12 @@
+# Algebraic Structure of Blockchains: A Group-Theoretical Primer
+
+**Authors:** Dongfang Zhao
+
+## Summary
+Although recent advances of blockchain systems, notably in the form of cryptocurrency, have drawn tremendous interests from both researchers and practitioners, limited studies existed toward the theoretical foundation of blockchains. This paper presents the first study on the algebraic structure of blockchains with an emphasis on the internal properties under algebraic groups. We axiomatically construct a blockchain group and derive some interesting properties that can be potentially taken into the design space and parametric analysis of real-world blockchain systems.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:08:52.311Z

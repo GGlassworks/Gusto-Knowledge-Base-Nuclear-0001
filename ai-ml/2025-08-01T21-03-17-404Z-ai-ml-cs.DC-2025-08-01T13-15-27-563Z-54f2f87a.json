@@ -1,0 +1,12 @@
+# Gromit: Benchmarking the Performance and Scalability of Blockchain Systems
+
+**Authors:** Bulat Nasrulin, Martijn De Vos, Georgy Ishmaev, Johan Pouwelse
+
+## Summary
+The growing number of implementations of blockchain systems stands in stark contrast with still limited research on a systematic comparison of performance characteristics of these solutions. Such research is crucial for evaluating fundamental trade-offs introduced by novel consensus protocols and their implementations. These performance limitations are commonly analyzed with ad-hoc benchmarking frameworks focused on the consensus algorithm of blockchain systems. However, comparative evaluations of design choices require macro-benchmarks for uniform and comprehensive performance evaluations of blockchains at the system level rather than performance metrics of isolated components. To address this research gap, we implement Gromit, a generic framework for analyzing blockchain systems. Gromit treats each system under test as a transaction fabric where clients issue transactions to validators. We use Gromit to conduct the largest blockchain study to date, involving seven representative systems with varying consensus models. We determine the peak performance of these systems with a synthetic workload in terms of transaction throughput and scalability and show that transaction throughput does not scale with the number of validators. We explore how robust the subjected systems are against network delays and reveal that the performance of permissoned blockchain is highly sensitive to network conditions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:15:27.563Z

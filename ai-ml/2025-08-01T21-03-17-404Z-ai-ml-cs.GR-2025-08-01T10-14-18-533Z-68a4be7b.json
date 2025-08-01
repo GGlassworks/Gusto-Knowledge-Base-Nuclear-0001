@@ -1,0 +1,12 @@
+# Ascribe New Dimensions to Scientific Data Visualization with VR
+
+**Authors:** Daniela Ushizima, Guilherme Melo dos Santos, Zineb Sordo, Ronald Pandolfi, Jeffrey Donatelli
+
+## Summary
+For over half a century, the computer mouse has been the primary tool for interacting with digital data, yet it remains a limiting factor in exploring complex, multi-scale scientific images. Traditional 2D visualization methods hinder intuitive analysis of inherently 3D structures. Virtual Reality (VR) offers a transformative alternative, providing immersive, interactive environments that enhance data comprehension. This article introduces ASCRIBE-VR, a VR platform of Autonomous Solutions for Computational Research with Immersive Browsing \&amp; Exploration, which integrates AI-driven algorithms with scientific images. ASCRIBE-VR enables multimodal analysis, structural assessments, and immersive visualization, supporting scientific visualization of advanced datasets such as X-ray CT, Magnetic Resonance, and synthetic 3D imaging. Our VR tools, compatible with Meta Quest, can consume the output of our AI-based segmentation and iterative feedback processes to enable seamless exploration of large-scale 3D images. By merging AI-generated results with VR visualization, ASCRIBE-VR enhances scientific discovery, bridging the gap between computational analysis and human intuition in materials research, connecting human-in-the-loop with digital twins.
+
+
+---
+Category: ai-ml
+Subcategory: cs.GR
+Collected: 2025-08-01T10:14:18.533Z

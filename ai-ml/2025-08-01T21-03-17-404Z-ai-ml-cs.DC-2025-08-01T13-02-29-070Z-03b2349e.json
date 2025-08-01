@@ -1,0 +1,12 @@
+# Blockchain Systems, Technologies and Applications: A Methodology Perspective
+
+**Authors:** Bin Cao, Zixin Wang, Long Zhang, Daquan Feng, Mugen Peng, Lei Zhang
+
+## Summary
+In the past decade, blockchain has shown a promising vision greatly to build the trust without any powerful third party in a secure, decentralized and salable manner. However, due to the wide application and future development from cryptocurrency to Internet of Things, blockchain is an extremely complex system enabling integration with mathematics, finance, computer science, communication and network engineering, etc. As a result, it is a challenge for engineer, expert and researcher to fully understand the blockchain process in a systematic view from top to down. First, this article introduces how blockchain works, the research activity and challenge, and illustrates the roadmap involving the classic methodology with typical blockchain use cases and topics. Second, in blockchain system, how to adopt stochastic process, game theory, optimization, machine learning and cryptography to study blockchain running process and design blockchain protocol/algorithm are discussed in details. Moreover, the advantage and limitation using these methods are also summarized as the guide of future work to further considered. Finally, some remaining problems from technical, commercial and political views are discussed as the open issues. The main findings of this article will provide an overview in a methodology perspective to study theoretical model for blockchain fundamentals understanding, design network service for blockchain-based mechanisms and algorithms, as well as apply blockchain for Internet of Things, etc.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:02:29.071Z

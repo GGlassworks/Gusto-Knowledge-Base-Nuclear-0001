@@ -1,0 +1,12 @@
+# Design and development of opto-neural processors for simulation of neural networks trained in image detection for potential implementation in hybrid robotics
+
+**Authors:** Sanjana Shetty
+
+## Summary
+Neural networks have been employed for a wide range of processing applications like image processing, motor control, object detection and many others. Living neural networks offer advantages of lower power consumption, faster processing, and biological realism. Optogenetics offers high spatial and temporal control over biological neurons and presents potential in training live neural networks. This work proposes a simulated living neural network trained indirectly by backpropagating STDP based algorithms using precision activation by optogenetics achieving accuracy comparable to traditional neural network training algorithms.
+
+
+---
+Category: ai-ml
+Subcategory: cs.ET
+Collected: 2025-08-01T11:35:48.471Z

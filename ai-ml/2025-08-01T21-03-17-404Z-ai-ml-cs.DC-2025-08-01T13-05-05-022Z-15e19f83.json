@@ -1,0 +1,12 @@
+# CBlockSim: A Modular High-Performance Blockchain Simulator
+
+**Authors:** Xuyang Ma, Han Wu, Du Xu, Katinka Wolter
+
+## Summary
+Blockchain has attracted much attention from both academia and industry since emerging in 2008. Due to the inconvenience of the deployment of large-scale blockchains, blockchain simulators are used to facilitate blockchain design and implementation. We evaluate state-of-the-art simulators applied to both Bitcoin and Ethereum and find that they suffer from low performance and scalability which are significant limitations. To build a more general and faster blockchain simulator, we extend an existing blockchain simulator, i.e. BlockSim. We add a network module integrated with a network topology generation algorithm and a block propagation algorithm to generate a realistic blockchain network and simulate the block propagation efficiently. We design a binary transaction pool structure and migrate BlockSim from Python to C++ so that bitwise operations can be used to accelerate the simulation and reduce memory usage. Moreover, we modularize the simulator based on five primary blockchain processes. Significant blockchain elements including consensus protocols (PoW and PoS), information propagation algorithms (Gossip) and finalization rules (Longest rule and GHOST rule) are implemented in individual modules and can be combined flexibly to simulate different types of blockchains. Experiments demonstrate that the new simulator reduces the simulation time by an order of magnitude and improves scalability, enabling us to simulate more than ten thousand nodes, roughly the size of the Bitcoin and Ethereum networks. Two typical use cases are proposed to investigate network-related issues which are not covered by most other simulators.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:05:05.022Z

@@ -1,0 +1,12 @@
+# Anatomically Detailed Simulation of Human Torso
+
+**Authors:** Seunghwan Lee, Yifeng Jiang, C. Karen Liu
+
+## Summary
+Existing digital human models approximate the human skeletal system using rigid bodies connected by rotational joints. While the simplification is considered acceptable for legs and arms, it significantly lacks fidelity to model rich torso movements in common activities such as dancing, Yoga, and various sports. Research from biomechanics provides more detailed modeling for parts of the torso, but their models often operate in isolation and are not fast and robust enough to support computationally heavy applications and large-scale data generation for full-body digital humans. This paper proposes a new torso model that aims to achieve high fidelity both in perception and in functionality, while being computationally feasible for simulation and optimal control tasks. We build a detailed human torso model consisting of various anatomical components, including facets, ligaments, and intervertebral discs, by coupling efficient finite-element and rigid-body simulations. Given an existing motion capture sequence without dense markers placed on the torso, our new model is able to recover the underlying torso bone movements. Our method is remarkably robust that it can be used to automatically "retrofit" the entire Mixamo motion database of highly diverse human motions without user intervention. We also show that our model is computationally efficient for solving trajectory optimization of highly dynamic full-body movements, without relying on any reference motion. Physiological validity of the model is validated against established literature.
+
+
+---
+Category: ai-ml
+Subcategory: cs.GR
+Collected: 2025-08-01T10:14:16.626Z

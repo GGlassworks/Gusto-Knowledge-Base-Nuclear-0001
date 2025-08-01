@@ -1,0 +1,12 @@
+# A data relocation approach for terrain surface analysis on multi-GPU systems: a case study on the total viewshed problem
+
+**Authors:** A. J. Sanchez-Fernandez, L. F. Romero, G. Bandera, S. Tabik
+
+## Summary
+Digital Elevation Models (DEMs) are important datasets for modelling the line of sight, such as radio signals, sound waves and human vision. These are commonly analyzed using rotational sweep algorithms. However, such algorithms require large numbers of memory accesses to 2D arrays which, despite being regular, result in poor data locality in memory. Here, we propose a new methodology called skewed Digital Elevation Model (sDEM), which substantially improves the locality of memory accesses and increases the inherent parallelism involved in the computation of rotational sweep-based algorithms. In particular, sDEM applies a data restructuring technique before accessing the memory and performing the computation. To demonstrate the high efficiency of sDEM, we use the problem of total viewshed computation as a case study considering different implementations for single-core, multi-core, single-GPU and multi-GPU platforms. We conducted two experiments to compare sDEM with (i) the most commonly used geographic information systems (GIS) software and (ii) the state-of-the-art algorithm. In the first experiment, sDEM is on average 8.8x faster than current GIS software despite being able to consider only few points because of their limitations. In the second experiment, sDEM is 827.3x faster than the state-of-the-art algorithm in the best case.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DS
+Collected: 2025-08-01T10:18:21.512Z

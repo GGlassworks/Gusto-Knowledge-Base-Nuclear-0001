@@ -1,0 +1,12 @@
+# Nonparametric Regression Quantum Neural Networks
+
+**Authors:** Do Ngoc Diep, Koji Nagata, Tadao Nakamura
+
+## Summary
+In two pervious papers \cite{dndiep3}, \cite{dndiep4}, the first author constructed the least square quantum neural networks (LS-QNN), and ploynomial interpolation quantum neural networks ( PI-QNN), parametrico-stattistical QNN like: leanr regrassion quantum neural networks (LR-QNN), polynomial regression quantum neural networks (PR-QNN), chi-squared quantum neural netowrks ($\chi^2$-QNN). We observed that the method works also in the cases by using nonparametric statistics. In this paper we analyze and implement the nonparametric tests on QNN such as: linear nonparametric regression quantum neural networks (LNR-QNN), polynomial nonparametric regression quantum neural networks (PNR-QNN). The implementation is constructed through the Gauss-Jordan Elimination quantum neural networks (GJE-QNN).The training rule is to use the high probability confidence regions or intervals.
+
+
+---
+Category: ai-ml
+Subcategory: cs.ET
+Collected: 2025-08-01T11:47:54.475Z

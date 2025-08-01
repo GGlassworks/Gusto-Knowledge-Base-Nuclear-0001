@@ -1,0 +1,12 @@
+# HERITRACE: Tracing Evolution and Bridging Data for Streamlined Curatorial Work in the GLAM Domain
+
+**Authors:** Arcangelo Massari, Silvio Peroni
+
+## Summary
+HERITRACE is a semantic data management system tailored for the GLAM sector. It is engineered to streamline data curation for non-technical users while also offering an efficient administrative interface for technical staff. The paper compares HERITRACE with other established platforms such as OmekaS, Semantic MediaWiki, Research Space, and CLEF, emphasizing its advantages in user friendliness, provenance management, change tracking, customization capabilities, and data integration. The system leverages SHACL for data modeling and employs the OpenCitations Data Model (OCDM) for provenance and change tracking, ensuring a harmonious blend of advanced technical features and user accessibility. Future developments include the integration of a robust authentication system and the expansion of data compatibility via the RDF Mapping Language (RML), enhancing HERITRACE's utility in digital heritage management.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:17.975Z

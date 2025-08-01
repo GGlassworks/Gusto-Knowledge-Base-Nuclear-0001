@@ -1,0 +1,12 @@
+# Neural Garment Dynamics via Manifold-Aware Transformers
+
+**Authors:** Peizhuo Li, Tuanfeng Y. Wang, Timur Levent Kesdogan, Duygu Ceylan, Olga Sorkine-Hornung
+
+## Summary
+Data driven and learning based solutions for modeling dynamic garments have significantly advanced, especially in the context of digital humans. However, existing approaches often focus on modeling garments with respect to a fixed parametric human body model and are limited to garment geometries that were seen during training. In this work, we take a different approach and model the dynamics of a garment by exploiting its local interactions with the underlying human body. Specifically, as the body moves, we detect local garment-body collisions, which drive the deformation of the garment. At the core of our approach is a mesh-agnostic garment representation and a manifold-aware transformer network design, which together enable our method to generalize to unseen garment and body geometries. We evaluate our approach on a wide variety of garment types and motion sequences and provide competitive qualitative and quantitative results with respect to the state of the art.
+
+
+---
+Category: ai-ml
+Subcategory: cs.GR
+Collected: 2025-08-01T10:14:19.855Z

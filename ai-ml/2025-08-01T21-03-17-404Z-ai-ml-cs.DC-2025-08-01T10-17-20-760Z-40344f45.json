@@ -1,0 +1,12 @@
+# Digital Twinning of a Pressurized Water Reactor Startup Operation and Partial Computational Offloading in In-network Computing-Assisted Multiaccess Edge Computing
+
+**Authors:** Ibrahim Aliyu, Awwal M. Arigi, Tai-Won Um, Jinsul Kim
+
+## Summary
+This paper addresses the challenge of representing complex human action (HA) in a nuclear power plant (NPP) digital twin (DT) and minimizing latency in partial computation offloading (PCO) in sixth-generation-enabled computing in the network (COIN) assisted multiaccess edge computing (MEC). Accurate HA representation in the DT-HA model is vital for modeling human interventions that are crucial for the safe and efficient operation of NPPs. In this context, DT-enabled COIN-assisted MEC harnesses DT (known as a cybertwin) capabilities to optimize resource allocation and reduce latency effectively. A two-stage approach is employed to address system complexity. First, a probabilistic graphical model (PGM) is introduced to capture HAs in the DT abstraction. In the PGM, HA and NPP asset-twin abstractions form coupled systems that evolve and interact through observable data and control input. Next, the underlying PCO problem is formulated as a multiuser game, where NPP assets can partially offload tasks to COIN and MEC. We propose a decentralized algorithm to optimize offloading decisions, offloading ratios, and resource allocation. The simulation results demonstrate the effectiveness of the proposed method in capturing complex HAs and optimal resource allocation in DT-enabled NPPs.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T10:17:20.760Z

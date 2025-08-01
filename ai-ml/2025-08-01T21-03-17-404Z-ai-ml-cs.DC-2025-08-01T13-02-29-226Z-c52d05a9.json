@@ -1,0 +1,12 @@
+# Trends in Development of Databases and Blockchain
+
+**Authors:** Mayank Raikwar, Danilo Gligoroski, Goran Velinov
+
+## Summary
+This work is about the mutual influence between two technologies: Databases and Blockchain. It addresses two questions: 1. How the database technology has influenced the development of blockchain technology?, and 2. How blockchain technology has influenced the introduction of new functionalities in some modern databases? For the first question, we explain how database technology contributes to blockchain technology by unlocking different features such as ACID (Atomicity, Consistency, Isolation, and Durability) transactional consistency, rich queries, real-time analytics, and low latency. We explain how the CAP (Consistency, Availability, Partition tolerance) theorem known for databases influenced the DCS (Decentralization, Consistency, Scalability) theorem for the blockchain systems. By using an analogous relaxation approach as it was used for the proof of the CAP theorem, we postulate a "DCS-satisfiability conjecture." For the second question, we review different databases that are designed specifically for blockchain and provide most of the blockchain functionality like immutability, privacy, censorship resistance, along with database features.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:02:29.226Z

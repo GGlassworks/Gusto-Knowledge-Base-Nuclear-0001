@@ -1,0 +1,12 @@
+# Data Transmissions in Blockchain enabled AGVs
+
+**Authors:** Junhan Liu, Shile Liu, Chenming Xu, Yuchen Yan
+
+## Summary
+Automated Guided Vehicles (AGVs) operate in synergy to execute specific tasks. These vehicles exchange information to ensure seamless collaboration, prevent collisions, and eliminate task redundancy. The advent of blockchain technology offers a promising avenue for establishing a secure and dependable communication infrastructure for AGVs. Nonetheless, it becomes imperative for AGVs to adopt efficient data transmission methodologies, especially when interacting with the dynamic nature of blockchain infrastructure where data undergoes frequent modifications. In the present study, we introduce a novel data transmission methodology tailored for blockchain-integrated AGVs utilizing the principles of Named Data Networking (NDN). A simulated environment was crafted and executed in NetSim, wherein multiple AGVs collaboratively endeavored to locate concealed objectives within a defined region. Upon discovery of novel elements, such as obstructions or concealed objectives, each AGV would update a collective blockchain repository. This blockchain infrastructure leverages NDN to fetch specific data blocks in response to data queries from individual AGVs. This system ensures that AGVs can navigate and scrutinize their environment with heightened efficiency, drawing upon the collective intelligence and shared experiences of the fleet.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:09:53.886Z

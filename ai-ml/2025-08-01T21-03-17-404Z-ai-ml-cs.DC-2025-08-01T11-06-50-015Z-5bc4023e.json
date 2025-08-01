@@ -1,0 +1,12 @@
+# Rateless Coded Blockchain for Dynamic IoT Networks
+
+**Authors:** Changlin Yang, Alexei Ashikhmin, Xiaodong Wang, Zibin Zheng
+
+## Summary
+A key constraint that limits the implementation of blockchain in Internet of Things (IoT) is its large storage requirement resulting from the fact that each blockchain node has to store the entire blockchain. This increases the burden on blockchain nodes, and increases the communication overhead for new nodes joining the network since they have to copy the entire blockchain. In order to reduce storage requirements without compromising on system security and integrity, coded blockchains, based on error correcting codes with fixed rates and lengths, have been recently proposed. This approach, however, does not fit well with dynamic IoT networks in which nodes actively leave and join. In such dynamic blockchains, the existing coded blockchain approaches lead to high communication overheads for new joining nodes and may have high decoding failure probability. This paper proposes a rateless coded blockchain with coding parameters adjusted to network conditions. Our goals are to minimize both the storage requirement at each blockchain node and the communication overhead for each new joining node, subject to a target decoding failure probability. We evaluate the proposed scheme in the context of real-world Bitcoin blockchain and show that both storage and communication overhead are reduced by 99.6\% with a maximum $10^{-12}$ decoding failure probability.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T11:06:50.015Z

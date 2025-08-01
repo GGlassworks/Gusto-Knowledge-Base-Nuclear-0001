@@ -1,0 +1,12 @@
+# A Comprehensive Survey on Green Blockchain: Developing the Next Generation of Energy Efficient and Sustainable Blockchain Systems
+
+**Authors:** Tiago M. Fernández-Caramés, Paula Fraga-Lamas
+
+## Summary
+Although Blockchain has been successfully used in many different fields and applications, it has been traditionally regarded as an energy-intensive technology, essentially due to the past use of inefficient consensus algorithms that prioritized security over sustainability. However, in the last years, thanks to the significant progress made on key blockchain components, their energy consumption can be decreased noticeably. To achieve this objective, this article analyzes the main components of blockchains and explores strategies to reduce their energy consumption. In this way, this article delves into each component of a blockchain system, including consensus mechanisms, network architecture, data storage and validation, smart contract execution, mining and block creation, and outlines specific strategies to decrease their energy consumption. For such a purpose, consensus mechanisms are compared, recommendations for reducing network communications energy consumption are provided, techniques for data storage and validation are suggested and diverse optimizations are proposed both for software and hardware components. Moreover, the main challenges and limitations of reducing power consumption in blockchain systems are analyzed. As a consequence, this article provides a guideline for the future researchers and developers who aim to develop the next generation of Green Blockchain solutions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:04:13.204Z

@@ -1,0 +1,12 @@
+# On Exploiting Transaction Concurrency To Speed Up Blockchains
+
+**Authors:** Daniël Reijsbergen, Tien Tuan Anh Dinh
+
+## Summary
+Consensus protocols are currently the bottlenecks that prevent blockchain systems from scaling. However, we argue that transaction execution is also important to the performance and security of blockchains. In other words, there are ample opportunities to speed up and further secure blockchains by reducing the cost of transaction execution. Our goal is to understand how much we can speed up blockchains by exploiting transaction concurrency available in blockchain workloads. To this end, we first analyze historical data of seven major public blockchains, namely Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Ethereum, Ethereum Classic, and Zilliqa. We consider two metrics for concurrency, namely the single-transaction conflict rate per block, and the group conflict rate per block. We find that there is more concurrency in UTXO-based blockchains than in account-based ones, although the amount of concurrency in the former is lower than expected. Another interesting finding is that some blockchains with larger blocks have more concurrency than blockchains with smaller blocks. Next, we propose an analytical model for estimating the transaction execution speed-up given an amount of concurrency. Using results from our empirical analysis, the model estimates that 6x speed-ups in Ethereum can be achieved if all available concurrency is exploited.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DC
+Collected: 2025-08-01T13:06:03.034Z

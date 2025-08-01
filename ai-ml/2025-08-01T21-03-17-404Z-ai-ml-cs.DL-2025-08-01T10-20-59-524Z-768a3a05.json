@@ -1,0 +1,12 @@
+# In-depth Research Impact Summarization through Fine-Grained Temporal Citation Analysis
+
+**Authors:** Hiba Arnaout, Noy Sternlicht, Tom Hope, Iryna Gurevych
+
+## Summary
+Understanding the impact of scientific publications is crucial for identifying breakthroughs and guiding future research. Traditional metrics based on citation counts often miss the nuanced ways a paper contributes to its field. In this work, we propose a new task: generating nuanced, expressive, and time-aware impact summaries that capture both praise (confirmation citations) and critique (correction citations) through the evolution of fine-grained citation intents. We introduce an evaluation framework tailored to this task, showing moderate to strong human correlation on subjective metrics such as insightfulness. Expert feedback from professors reveals a strong interest in these summaries and suggests future improvements.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T10:20:59.524Z

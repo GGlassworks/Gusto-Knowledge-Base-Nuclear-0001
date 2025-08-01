@@ -1,0 +1,12 @@
+# Modeling and Engineering Constrained Shortest Path Algorithms for Battery Electric Vehicles
+
+**Authors:** Moritz Baum, Julian Dibbelt, Dorothea Wagner, Tobias Zündorf
+
+## Summary
+We study the problem of computing constrained shortest paths for battery electric vehicles. Since battery capacities are limited, fastest routes are often infeasible. Instead, users are interested in fast routes on which the energy consumption does not exceed the battery capacity. For that, drivers can deliberately reduce speed to save energy. Hence, route planning should provide both path and speed recommendations. To tackle the resulting NP-hard optimization problem, previous work trades correctness or accuracy of the underlying model for practical running times. We present a novel framework to compute optimal constrained shortest paths (without charging stops) for electric vehicles that uses more realistic physical models, while taking speed adaptation into account. Careful algorithm engineering makes the approach practical even on large, realistic road networks: We compute optimal solutions in less than a second for typical battery capacities, matching the performance of previous inexact methods. For even faster query times, the approach can easily be extended with heuristics that provide high quality solutions within milliseconds.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DS
+Collected: 2025-08-01T15:38:41.838Z
