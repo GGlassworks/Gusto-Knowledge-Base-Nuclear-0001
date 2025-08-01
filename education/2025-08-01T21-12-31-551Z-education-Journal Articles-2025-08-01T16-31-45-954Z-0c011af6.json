@@ -1,0 +1,13 @@
+# A Simple Spreadsheet-Based Method for Relative Quantification Using Quantitative Real-Time PCR
+
+**Authors:** Ng, Hien Fuh, Ngeow, Yun Fong
+
+## Abstract
+Relative quantification is a popular analysis in gene expression studies using quantitative real-time PCR (qPCR). However, the calculation steps using the major algorithms for this analysis are rather complicated. In this study, we developed an easy-to-use spreadsheet-based method for relative quantification. The inputs from end-users are the efficiencies of both target and reference genes and the C[subscript q] values of those genes from cases and controls. This method performed normalization (with one or more reference genes), calculation of fold change of gene expression, and statistical analysis to analyze the difference between the groups in a step-by-step manner, which would allow the end-users to understand how the analysis arrived at the conclusion. Four previously published data sets with different experimental designs were used as examples. The calculated results were concordant with the results computed by the Relative Expression Software Tool (REST) 2009, a popular tool for relative quantification. Altogether, our method, which offers easy-to-understand calculation steps and does not require specialized instruments, software, or expertise to operate, would be a useful tool for students, educators, and scientists in the field of molecular biology.
+
+**Source:** https://eric.ed.gov/?id=EJ1326299
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T16:31:45.955Z
