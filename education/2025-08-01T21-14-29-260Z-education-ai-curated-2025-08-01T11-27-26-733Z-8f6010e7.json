@@ -1,0 +1,13 @@
+# An Empirical Study of Fault Triggers in Deep Learning Frameworks
+
+**Authors:** Xiaoting Du, Yulei Sui, Zhihao Liu, Jun Ai
+
+## Abstract
+Deep learning frameworks play a key rule to bridge the gap between deep learning theory and practice. With the growing of safety- and security-critical applications built upon deep learning frameworks, their reliability is becoming increasingly important. To ensure the reliability of these frameworks, several efforts have been taken to study the causes and symptoms of bugs in deep learning frameworks, however, relatively little progress has been made in investigating the fault triggering conditions of those bugs. This paper presents the first comprehensive empirical study on fault triggering conditions in three widely-used deep learning frameworks (i.e., TensorFlow, MXNET and PaddlePaddle). We have collected 3,555 bug reports from GitHub repositories of these frameworks. A bug classification is performed based on fault triggering conditions, followed by the analysis of frequency distribution of different bug types and the evolution features. The correlations between bug types and fixing time are investigated. Moreover, we have also studied the root causes of Bohrbugs and Mandelbugs and investigated the important consequences of each bug type. Finally, the analysis of regression bugs in deep learning frameworks is conducted. We have revealed 12 important findings based on our empirical results and have provided 10 implications for developers and users.
+
+**Source:** https://www.semanticscholar.org/paper/8e61408d31925479dfca19f51a996ee8fce15e0c
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:26.734Z

@@ -1,0 +1,13 @@
+# An Empirical Review of Deep Learning Frameworks for Change Detection: Model Design, Experimental Frameworks, Challenges and Research Needs
+
+**Authors:** Murari Mandal, Santosh Kumar Vipparthi
+
+## Abstract
+Visual change detection, aiming at segmentation of video frames into foreground and background regions, is one of the elementary tasks in computer vision and video analytics. The applications of change detection include anomaly detection, object tracking, traffic monitoring, human machine interaction, behavior analysis, action recognition, and visual surveillance. Some of the challenges in change detection include background fluctuations, illumination variation, weather changes, intermittent object motion, shadow, fast/slow object motion, camera motion, heterogeneous object shapes and real-time processing. Traditionally, this problem has been solved using hand-crafted features and background modelling techniques. In recent years, deep learning frameworks have been successfully adopted for robust change detection. This article aims to provide an empirical review of the state-of-the-art deep learning methods for change detection. More specifically, we present a detailed analysis of the technical characteristics of different model designs and experimental frameworks. We provide model design based categorization of the existing approaches, including the 2D-CNN, 3D-CNN, ConvLSTM, multi-scale features, residual connections, autoencoders and GAN based methods. Moreover, an empirical analysis of the evaluation settings adopted by the existing deep learning methods is presented. To the best of our knowledge, this is a first attempt to comparatively analyze the different evaluation frameworks used in the existing deep change detection methods. Finally, we point out the research needs, future directions and draw our own conclusions.
+
+**Source:** https://www.semanticscholar.org/paper/f9accb64bfd5970c5fd01ce167ae513d54cdfe97
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:26.797Z

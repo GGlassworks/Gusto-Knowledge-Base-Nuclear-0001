@@ -1,0 +1,13 @@
+# Deep Learning Methodology for Differentiating Glioma Recurrence From Radiation Necrosis Using Multimodal Magnetic Resonance Imaging: Algorithm Development and Validation
+
+**Authors:** Yang Gao, Xiong Xiao, Bangcheng Han, Guilin Li, X. Ning, Defeng Wang, Weidong (Tom) Cai, R. Kikinis, S. Berkovsky, A. Di Ieva, Liwei Zhang, N. Ji, Sidong Liu
+
+## Abstract
+Background The radiological differential diagnosis between tumor recurrence and radiation-induced necrosis (ie, pseudoprogression) is of paramount importance in the management of glioma patients. Objective This research aims to develop a deep learning methodology for automated differentiation of tumor recurrence from radiation necrosis based on routine magnetic resonance imaging (MRI) scans. Methods In this retrospective study, 146 patients who underwent radiation therapy after glioma resection and presented with suspected recurrent lesions at the follow-up MRI examination were selected for analysis. Routine MRI scans were acquired from each patient, including T1, T2, and gadolinium-contrast-enhanced T1 sequences. Of those cases, 96 (65.8%) were confirmed as glioma recurrence on postsurgical pathological examination, while 50 (34.2%) were diagnosed as necrosis. A light-weighted deep neural network (DNN) (ie, efficient radionecrosis neural network [ERN-Net]) was proposed to learn radiological features of gliomas and necrosis from MRI scans. Sensitivity, specificity, accuracy, and area under the curve (AUC) were used to evaluate performance of the model in both image-wise and subject-wise classifications. Preoperative diagnostic performance of the model was also compared to that of the state-of-the-art DNN models and five experienced neurosurgeons. Results DNN models based on multimodal MRI outperformed single-modal models. ERN-Net achieved the highest AUC in both image-wise (0.915) and subject-wise (0.958) classification tasks. The evaluated DNN models achieved an average sensitivity of 0.947 (SD 0.033), specificity of 0.817 (SD 0.075), and accuracy of 0.903 (SD 0.026), which were significantly better than the tested neurosurgeons (P=.02 in sensitivity and P<.001 in specificity and accuracy). Conclusions Deep learning offers a useful computational tool for the differential diagnosis between recurrent gliomas and necrosis. The proposed ERN-Net model, a simple and effective DNN model, achieved excellent performance on routine MRI scans and showed a high clinical applicability.
+
+**Source:** https://www.semanticscholar.org/paper/45251e4bf76c1a7700ba14d3c51aefc942068ce5
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.429Z

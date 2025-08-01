@@ -1,0 +1,13 @@
+# Towards Improved Inertial Navigation by Reducing Errors Using Deep Learning Methodology
+
+**Authors:** Hua Chen, T. Taha, V. Chodavarapu
+
+## Abstract
+Autonomous vehicles make use of an Inertial Navigation System (INS) as part of vehicular sensor fusion in many situations including GPS-denied environments such as dense urban places, multi-level parking structures, and areas with thick tree-coverage. The INS unit incorporates an Inertial Measurement Unit (IMU) to process the linear acceleration and angular velocity data to obtain orientation, position, and velocity information using mechanization equations. In this work, we describe a novel deep-learning-based methodology, using Convolutional Neural Networks (CNN), to reduce errors from MEMS IMU sensors. We develop a CNN-based approach that can learn from the responses of a particular inertial sensor while subject to inherent noise errors and provide near real-time error correction. We implement a time-division method to divide the IMU output data into small step sizes to make the IMU outputs fit the input format of the CNN. We optimize the CNN approach for higher performance and lower complexity that would allow its implementation on ultra-low power hardware such as microcontrollers. Our results show that we achieved up to 32.5% error improvement in straight-path motion and up to 38.69% error improvement in oval motion compared with the ground truth. We examined the performance of our CNN approach under various situations with IMUs of various performance grades, IMUs of the same type but different manufactured batch, and controlled, fixed, and uncontrolled vehicle motion paths.
+
+**Source:** https://www.semanticscholar.org/paper/95d3d13e4c080895b84d764c4d94c02eda9c1d7a
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.133Z

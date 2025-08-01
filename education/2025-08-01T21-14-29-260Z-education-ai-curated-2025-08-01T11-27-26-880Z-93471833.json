@@ -1,0 +1,13 @@
+# Prolificacy Assessment of Spermatozoan via State-of-the-Art Deep Learning Frameworks
+
+**Authors:** S. Chandra, M. Gourisaria, Harshvardhan Gm, Debanjan Konar, Xin Gao, Tianyang Wang, Min Xu
+
+## Abstract
+Childlessness or infertility among couples has become a global health concern. Due to the rise in infertility, couples are looking for medical supports to attain reproduction. This paper deals with diagnosing infertility among men and the major factor in diagnosing infertility among men is the Sperm Morphology Analysis (SMA). In this manuscript, we explore establishing deep learning frameworks to automate the classification problem in the fertilization of sperm cells. We investigate the performance of multiple state-of-the-art deep neural networks on the MHSMA dataset. The experimental results demonstrate that the deep learning-based framework outperforms human experts on sperm classification in terms of accuracy, throughput and reliability. We further analyse the sperm cell data by visualizing the feature activations of the deep learning models, providing a new perspective to understand the data. Finally, a comprehensive analysis is also demonstrated on the experimental results obtained and attributing them to pertinent reasons.
+
+**Source:** https://www.semanticscholar.org/paper/fd82d07467384f847e207158cb7944335b224a3f
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:26.880Z

@@ -1,0 +1,13 @@
+# A Deep Learning Methodology for Citation Count Prediction with Large-scale Biblio-Features
+
+**Authors:** Mengjun Li, Jianguo Xu, Bingfeng Ge, Jia Liu, Jiang Jiang, Qingsong Zhao
+
+## Abstract
+Recently, many efforts have been devoted to the impact of scientific papers within different citation windows. However, it is still an elusive task to predict scientific impact shortly after the publication date. In this paper, a deep learning methodology is proposed to predict long-term citation count. First, large-scale biblio-features are extracted from heterogeneous information network based on five types of links. Next, a deep learning model is designed by taking it as a regression and prediction task. Then Pearson coefficient is used to confirm the correlations between input features and future citation count. Finally, as a case study, papers of Markov Chain published in 1980 are analyzed. The result shows the proposed methodology outperforms the state-of-the-art models and gives accurate prediction of future citations.
+
+**Source:** https://www.semanticscholar.org/paper/bfdef2182dda92a79f4842848f73519329026be1
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.835Z

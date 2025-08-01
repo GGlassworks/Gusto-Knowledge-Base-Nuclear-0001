@@ -1,0 +1,13 @@
+# Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization
+
+**Authors:** Luis Muñoz-González, B. Biggio, Ambra Demontis, Andrea Paudice, Vasin Wongrassamee, Emil C. Lupu, F. Roli
+
+## Abstract
+A number of online services nowadays rely upon machine learning to extract valuable information from data collected in the wild. This exposes learning algorithms to the threat of data poisoning, i.e., a coordinate attack in which a fraction of the training data is controlled by the attacker and manipulated to subvert the learning process. To date, these attacks have been devised only against a limited class of binary learning algorithms, due to the inherent complexity of the gradient-based procedure used to optimize the poisoning points (a.k.a. adversarial training examples). In this work, we first extend the definition of poisoning attacks to multiclass problems. We then propose a novel poisoning algorithm based on the idea of back-gradient optimization, i.e., to compute the gradient of interest through automatic differentiation, while also reversing the learning procedure to drastically reduce the attack complexity. Compared to current poisoning strategies, our approach is able to target a wider class of learning algorithms, trained with gradient-based procedures, including neural networks and deep learning architectures. We empirically evaluate its effectiveness on several application examples, including spam filtering, malware detection, and handwritten digit recognition. We finally show that, similarly to adversarial test examples, adversarial training examples can also be transferred across different learning algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/0526e714f286dd4140a789a03b6d77c2267520e8
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:25:38.693Z

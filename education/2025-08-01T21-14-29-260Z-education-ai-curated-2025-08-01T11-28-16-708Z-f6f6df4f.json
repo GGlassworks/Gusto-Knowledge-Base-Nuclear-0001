@@ -1,0 +1,13 @@
+# Improving Testing of Deep-learning Systems
+
+**Authors:** Harsh Deokuliar, R. Sangwan, Y. Badr, S. Srinivasan
+
+## Abstract
+We used differential testing to generate test data to improve diversity of data points in the test dataset and then used mutation testing to check the quality of the test data in terms of diversity. Combining differential and mutation testing in this fashion improves mutation score, a test data quality metric, indicating overall improvement in testing effectiveness and quality of the test data when testing deep learning systems.
+
+**Source:** https://www.semanticscholar.org/paper/f2b95bff53047d1d4ea42d8f3ed663b52813ff78
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:28:16.708Z

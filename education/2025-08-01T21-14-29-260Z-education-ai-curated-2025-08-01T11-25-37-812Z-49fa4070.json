@@ -1,0 +1,13 @@
+# Sleep Apnea Detection From Single-Lead ECG: A Comprehensive Analysis of Machine Learning and Deep Learning Algorithms
+
+**Authors:** Mahsa Bahrami, M. Forouzanfar
+
+## Abstract
+Sleep apnea is a common sleep breathing disorder (SBD) in which patients suffer from stopping or decreasing airflow to the lungs for more than 10 sec. Accurate detection of sleep apnea episodes is an important step in devising appropriate therapies and management strategies. This article provides a comprehensive analysis of machine learning and deep learning algorithms on 70 recordings of the PhysioNet ECG Sleep Apnea v1.0.0 dataset. First, electrocardiogram signals were pre-processed and segmented and then machine learning and deep learning methods were applied for sleep apnea detection. Among conventional machine learning algorithms, linear and quadratic discriminate analyses, logistic regression, Gaussian naïve Bayes, Gaussian process, support-vector machines, $k$ -nearest neighbor, decision tree, extra tree, random forest, AdaBoost, gradient boosting, multi-layer perceptron, and majority voting were implemented. Among deep algorithms, convolutional networks (Alex-Net, VGG16, VGG19, ZF-Net), recurrent networks (LSTM, bidirectional LSTM, gated recurrent unit), and hybrid convolutional-recurrent networks were implemented. All networks were similarly modified to handle our biosignal processing task. The available data were divided into a training set to adjust the model parameters, a validation set to adjust hyperparameters, avoid overfitting, and improve the generalizability of the models, and a test set to evaluate the generalizability of the models on unseen data. This procedure was then repeated in a fivefold cross-validation scheme so that all the recordings were once located in the test set. It was found that the best detection performance is achieved by hybrid deep models where the best accuracy, sensitivity, and specificity were 88.13%, 84.26%, and 92.27%, respectively. This study provides valuable information on how different machine learning and deep learning algorithms perform in the detection of sleep apnea and can further be extended toward the detection of other sleep events. Our developed algorithms are publicly available on GitHub.
+
+**Source:** https://www.semanticscholar.org/paper/4105a1876aed4f72248d7f4f11af9fa75b5a5a78
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:25:37.813Z

@@ -1,0 +1,13 @@
+# Development of Deep Learning Methodology for Maize Seed Variety Recognition Based on Improved Swin Transformer
+
+**Authors:** Chunguang Bi, Nan Hu, Yiqiang Zou, Shuo Zhang, Suzhen Xu, Helong Yu
+
+## Abstract
+In order to solve the problems of high subjectivity, frequent error occurrence and easy damage of traditional corn seed identification methods, this paper combines deep learning with machine vision and the utilization of the basis of the Swin Transformer to improve maize seed recognition. The study was focused on feature attention and multi-scale feature fusion learning. Firstly, input the seed image into the network to obtain shallow features and deep features; secondly, a feature attention layer was introduced to give weights to different stages of features to strengthen and suppress; and finally, the shallow features and deep features were fused to construct multi-scale fusion features of corn seed images, and the seed images are divided into 19 varieties through a classifier. The experimental results showed that the average precision, recall and F1 values of the MFSwin Transformer model on the test set were 96.53%, 96.46%, and 96.47%, respectively, and the parameter memory is 12.83 M. Compared to other models, the MFSwin Transformer model achieved the highest classification accuracy results. Therefore, the neural network proposed in this paper can classify corn seeds accurately and efficiently, could meet the high-precision classification requirements of corn seed images, and provide a reference tool for seed identification.
+
+**Source:** https://www.semanticscholar.org/paper/aed7e4bc195d838735c320ac40a78f123206831b
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:01.822Z

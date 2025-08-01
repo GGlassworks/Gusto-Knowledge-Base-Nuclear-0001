@@ -1,0 +1,13 @@
+# A Logical Appliance of Deep Learning Methodology for an Intelligent Parking System for Smart Cities Using Internet of Things Association
+
+**Authors:** G. Ramkumar
+
+## Abstract
+In this work, a novel Intelligent Parking System (IPS) for Smart Cities to improve large-scale urban parking management using Internet of Things (IoT) and Deep Learning techniques is proposed. The system is based on several sensors, cameras, and RFID readers that come together to provide an accurate real-time measurement of the occupation of parking spaces. Using the ImageNet database and utilizing a three-layered deep neural network with Convolutional Neural Networks (CNNs) for image processing, and Recurrent Neural Networks (RNNs) for predictive analytics, it delivers an accuracy rate of 95%, consuming only 300 milliseconds to the completion. The data is sent to a single cloud server using NodeMCU modules that update and back up the data regularly. A mobile application serves as the interface to the system for users who can check available spaces from anywhere, book space and pay for parking. The integration advanced AI methods not only optimizes the use of parking space and minimizes traffic congestion, but also helps to building smart urban environments sustainably. Future possibilities such as deeper integration with controlled vehicles, greater interoperability with other smart city components as well as dynamic pricing and customized user experiences have the capability to take urban mobility to the next level.
+
+**Source:** https://www.semanticscholar.org/paper/9e04886116f46c0aec9c8ab1df653d945046657d
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:01.467Z

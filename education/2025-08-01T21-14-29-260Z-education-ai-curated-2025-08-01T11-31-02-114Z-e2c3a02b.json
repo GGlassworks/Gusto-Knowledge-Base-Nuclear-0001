@@ -1,0 +1,13 @@
+# Enhancing Pedestrian Tracking in Autonomous Vehicles by Using Advanced Deep Learning Techniques
+
+**Authors:** Majdi Sukkar, Madhu Shukla, Dinesh Kumar, V. Gerogiannis, A. Kanavos, Biwaranjan Acharya
+
+## Abstract
+Effective collision risk reduction in autonomous vehicles relies on robust and straightforward pedestrian tracking. Challenges posed by occlusion and switching scenarios significantly impede the reliability of pedestrian tracking. In the current study, we strive to enhance the reliability and also the efficacy of pedestrian tracking in complex scenarios. Particularly, we introduce a new pedestrian tracking algorithm that leverages both the YOLOv8 (You Only Look Once) object detector technique and the StrongSORT algorithm, which is an advanced deep learning multi-object tracking (MOT) method. Our findings demonstrate that StrongSORT, an enhanced version of the DeepSORT MOT algorithm, substantially improves tracking accuracy through meticulous hyperparameter tuning. Overall, the experimental results reveal that the proposed algorithm is an effective and efficient method for pedestrian tracking, particularly in complex scenarios encountered in the MOT16 and MOT17 datasets. The combined use of Yolov8 and StrongSORT contributes to enhanced tracking results, emphasizing the synergistic relationship between detection and tracking modules.
+
+**Source:** https://www.semanticscholar.org/paper/6f3e7fe3aff10a0768e556b5af22ba41f71e7d5b
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.114Z

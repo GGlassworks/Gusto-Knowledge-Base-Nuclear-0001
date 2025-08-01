@@ -1,0 +1,13 @@
+# Deep Learning Frameworks for Pavement Distress Classification: A Comparative Analysis
+
+**Authors:** Vishal Mandal, Abdul Rashid Mussah, Y. Adu-Gyamfi
+
+## Abstract
+Automatic detection and classification of pavement distresses is critical in timely maintaining and rehabilitating pavement surfaces. With the evolution of deep learning and high performance computing, the feasibility of vision-based pavement defect assessments has significantly improved. In this study, the authors deploy state-of-the-art deep learning algorithms based on different network backbones to detect and characterize pavement distresses. The influence of different backbone models such as CSPDarknet53, Hourglass-104 and EfficientNet were studied to evaluate their classification performance. The models were trained using 21,041 images captured across urban and rural streets of Japan, Czech Republic and India. Finally, the models were assessed based on their ability to predict and classify distresses, and tested using F1 score obtained from the statistical precision and recall values. The best performing model achieved an F1 score of 0.58 and 0.57 on two test datasets released by the IEEE Global Road Damage Detection Challenge. The source code including the trained models are made available at [1].
+
+**Source:** https://www.semanticscholar.org/paper/63982eae1a00f420fd6678444bf0c94c9e754c61
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:27.671Z

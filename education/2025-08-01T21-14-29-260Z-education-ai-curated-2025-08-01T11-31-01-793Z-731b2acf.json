@@ -1,0 +1,13 @@
+# Advanced Deep Learning Model for Predicting the Academic Performances of Students in Educational Institutions
+
+**Authors:** Laith H. Baniata, Sangwoo Kang, Mohammad A. Alsharaiah, Mohammad H. Baniata
+
+## Abstract
+Educational institutions are increasingly focused on supporting students who may be facing academic challenges, aiming to enhance their educational outcomes through targeted interventions. Within this framework, leveraging advanced deep learning techniques to develop recommendation systems becomes essential. These systems are designed to identify students at risk of underperforming by analyzing patterns in their historical academic data, thereby facilitating personalized support strategies. This research introduces an innovative deep learning model tailored for pinpointing students in need of academic assistance. Utilizing a Gated Recurrent Neural Network (GRU) architecture, the model is rich with features such as a dense layer, max-pooling layer, and the ADAM optimization method used to optimize performance. The effectiveness of this model was tested using a comprehensive dataset containing 15,165 records of student assessments collected across several academic institutions. A comparative analysis with existing educational recommendation models, like Recurrent Neural Network (RNN), AdaBoost, and Artificial Immune Recognition System v2, highlights the superior accuracy of the proposed GRU model, which achieved an impressive overall accuracy of 99.70%. This breakthrough underscores the model’s potential in aiding educational institutions to proactively support students, thereby mitigating the risks of underachievement and dropout.
+
+**Source:** https://www.semanticscholar.org/paper/ba669b8ad6386a86eb8037dca392d5a9acf571b4
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:01.794Z

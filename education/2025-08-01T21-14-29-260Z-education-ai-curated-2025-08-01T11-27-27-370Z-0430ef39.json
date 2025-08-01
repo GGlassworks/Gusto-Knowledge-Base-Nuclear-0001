@@ -1,0 +1,13 @@
+# Unveiling the Mystery of API Evolution in Deep Learning Frameworks: A Case Study of Tensorflow 2
+
+**Authors:** Zejun Zhang, Yanming Yang, Xin Xia, David Lo, Xiaoxue Ren, J. Grundy
+
+## Abstract
+API developers have been working hard to evolve APIs to provide more simple, powerful, and robust API libraries. Although API evolution has been studied for multiple domains, such as Web and Android development, API evolution for deep learning frameworks has not yet been studied. It is not very clear how and why APIs evolve in deep learning frameworks, and yet these are being more and more heavily used in industry. To fill this gap, we conduct a large-scale and in-depth study on the API evolution of Tensorflow 2, which is currently the most popular deep learning framework. We first extract 6,329 API changes by mining API documentation of Tensorflow 2 across multiple versions and mapping API changes into functional categories on the Tensorflow 2 framework to analyze their API evolution trends. We then investigate the key reasons for API changes by referring to multiple information sources, e.g., API documentation, commits and StackOverflow. Finally, we compare API evolution in non-deep learning projects to that of Tensorflow 2, and identify some key implications for users, researchers, and API developers.
+
+**Source:** https://www.semanticscholar.org/paper/e808d8b4db201efb7ef53dd6996910161803588c
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:27.370Z

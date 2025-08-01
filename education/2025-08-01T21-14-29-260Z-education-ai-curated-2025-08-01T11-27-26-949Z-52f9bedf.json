@@ -1,0 +1,13 @@
+# An Ensemble of Deep Learning Frameworks for Predicting Respiratory Anomalies
+
+**Authors:** L. Pham, D. Ngo, Khoa Tran, Hoang Van Truong, Alexander Schindler, Ian McLoughlin
+
+## Abstract
+This paper evaluates a range of deep learning frameworks for detecting respiratory anomalies from input audio. Audio recordings of respiratory cycles collected from patients are transformed into time-frequency spectrograms to serve as front-end two-dimensional features. Cropped spectrogram segments are then used to train a range of back-end deep learning networks to classify respiratory cycles into predefined medically-relevant categories. A set of those trained high-performance deep learning frameworks are then fused to obtain the best score. Our experiments on the ICBHI benchmark dataset achieve the highest ICBHI score to date of 57.3%. This is derived from a late fusion of inception based and transfer learning based deep learning frameworks, easily outperforming other state-of-the-art systems. Clinical relevance--- Respiratory disease, wheeze, crackle, inception, convolutional neural network, transfer learning.
+
+**Source:** https://www.semanticscholar.org/paper/2dbc6fdaf7ede677e17842c0ee2b999c1961417a
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:26.950Z

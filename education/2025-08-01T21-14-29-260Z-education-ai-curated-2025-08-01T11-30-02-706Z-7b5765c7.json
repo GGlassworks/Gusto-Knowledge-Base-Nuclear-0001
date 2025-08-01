@@ -1,0 +1,26 @@
+# A network-based deep learning methodology for stratification of tumor mutations
+
+**Authors:** Chuang Liu, Zhen Han, Zi-Ke Zhang, R. Nussinov, F. Cheng
+
+## Abstract
+MOTIVATION
+Tumor stratification has a wide range of biomedical and clinical applications, including diagnosis, prognosis and personalized treatment. However, cancer is always driven by the combination of mutated genes, which are highly heterogeneous across patients. Accurately subdividing the tumors into subtypes is challenging.
+
+
+RESULTS
+We developed a network-embedding based stratification (NES) methodology to identify clinically relevant patient subtypes from large-scale patients' somatic mutation profiles. The central hypothesis of NES is that two tumors would be classified into the same subtypes if their somatic mutated genes located in the similar network regions of the human interactome. We encoded the genes on the human protein-protein interactome with a network embedding approach and constructed the patients' vectors by integrating the somatic mutation profiles of 7,344 tumor exomes across 15 cancer types. We firstly adopted the lightGBM classification algorithm to train the patients' vectors. The AUC value is around 0.89 in the prediction of the patient's cancer type and around 0.78 in the prediction of the tumor stage within a specific cancer type. The high classification accuracy suggests that network embedding-based patients' features are reliable for dividing the patients. We conclude that we can cluster patients with a specific cancer type into several subtypes by using an unsupervised clustering algorithm to learn the patients' vectors. Among the 15 cancer types, the new patient clusters (subtypes) identified by the NES are significantly correlated with patient survival across 12 cancer types. In summary, this study offers a powerful network-based deep learning methodology for personalized cancer medicine.
+
+
+AVAILABILITY AND IMPLEMENTATION
+Source code and data can be downloaded from https://github.com/ChengF-Lab/NES.
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data are available at Bioinformatics online.
+
+**Source:** https://www.semanticscholar.org/paper/e2bb7af944f45e14a805bd2b21656d566f38e4ad
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.707Z

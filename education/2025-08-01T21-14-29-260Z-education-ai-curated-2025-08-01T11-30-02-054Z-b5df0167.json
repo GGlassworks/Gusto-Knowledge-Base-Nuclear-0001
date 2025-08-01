@@ -1,0 +1,13 @@
+# A Convolutional Neural Network-Based Deep Learning Methodology for Recognition of Partial Discharge Patterns from High-Voltage Cables
+
+**Authors:** Xiaosheng Peng, Fan Yang, Ganjun Wang, Yijiang Wu, Lee Li, Zhaohui Li, A. A. Bhatti, Chengke Zhou, D. Hepburn, A. Reid, M. Judd, W. H. Siew
+
+## Abstract
+It is a great challenge to differentiate partial discharge (PD) induced by different types of insulation defects in high-voltage cables. Some types of PD signals have very similar characteristics and are specifically difficult to differentiate, even for the most experienced specialists. To overcome the challenge, a convolutional neural network (CNN)-based deep learning methodology for PD pattern recognition is presented in this paper. First, PD testing for five types of artificial defects in ethylene-propylene-rubber cables is carried out in high voltage laboratory to generate signals containing PD data. Second, 3500 sets of PD transient pulses are extracted, and then 33 kinds of PD features are established. The third stage applies a CNN to the data; typical CNN architecture and the key factors which affect the CNN-based pattern recognition accuracy are described. Factors discussed include the number of the network layers, convolutional kernel size, activation function, and pooling method. This paper presents a flowchart of the CNN-based PD pattern recognition method and an evaluation with 3500 sets of PD samples. Finally, the CNN-based pattern recognition results are shown and the proposed method is compared with two more traditional analysis methods, i.e., support vector machine (SVM) and back propagation neural network (BPNN). The results show that the proposed CNN method has higher pattern recognition accuracy than SVM and BPNN, and that the novel method is especially effective for PD type recognition in cases of signals of high similarity, which is applicable for industrial applications.
+
+**Source:** https://www.semanticscholar.org/paper/ec7d804092a669eb3cfd1487afe1e70ccdba4b12
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.054Z

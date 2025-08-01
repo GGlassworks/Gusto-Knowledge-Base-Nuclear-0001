@@ -1,0 +1,13 @@
+# Deep Learning Analysis of Vibrational Spectra of Bacterial Lysate for Rapid Antimicrobial Susceptibility Testing.
+
+**Authors:** W. Thrift, Sasha Ronaghi, M. Samad, Hong Wei, D. Nguyen, Antony Superio Cabuslay, Chloe E Groome, Peter J Santiago, P. Baldi, A. Hochbaum, R. Ragan
+
+## Abstract
+Rapid antimicrobial susceptibility testing (AST) is an integral tool to mitigate the unnecessary use of powerful and broad-spectrum antibiotics that leads to the proliferation of multi-drug-resistant bacteria. Using a sensor platform composed of surface-enhanced Raman scattering (SERS) sensors with control of nanogap chemistry and machine learning algorithms for analysis of complex spectral data, bacteria metabolic profiles post antibiotic exposure are correlated with susceptibility. Deep neural network models are able to discriminate the responses of Escherichia coli and Pseudomonas aeruginosa to antibiotics from untreated cells in SERS data in 10 min after antibiotic exposure with greater than 99% accuracy. Deep learning analysis is also able to differentiate responses from untreated cells with antibiotic dosages up to 10-fold lower than the minimum inhibitory concentration observed in conventional growth assays. In addition, analysis of SERS data using a generative model, a variational autoencoder, identifies spectral features in the P. aeruginosa lysate data associated with antibiotic efficacy. From this insight, a combinatorial dataset of metabolites is selected to extend the latent space of the variational autoencoder. This culture-free dataset dramatically improves classification accuracy to select effective antibiotic treatment in 30 min. Unsupervised Bayesian Gaussian mixture analysis achieves 99.3% accuracy in discriminating between susceptible versus resistant to antibiotic cultures in SERS using the extended latent space. Discriminative and generative models rapidly provide high classification accuracy with small sets of labeled data, which enormously reduces the amount of time needed to validate phenotypic AST with conventional growth assays. Thus, this work outlines a promising approach toward practical rapid AST.
+
+**Source:** https://www.semanticscholar.org/paper/3edcf3ec18955d11ebbbff11b94c18125b3e8a8a
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:29:11.766Z

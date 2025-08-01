@@ -1,0 +1,13 @@
+# Malaria Detection Using Advanced Deep Learning Architecture
+
+**Authors:** W. Siłka, Michał Wieczorek, J. Siłka, M. Woźniak
+
+## Abstract
+Malaria is a life-threatening disease caused by parasites that are transmitted to humans through the bites of infected mosquitoes. The early diagnosis and treatment of malaria are crucial for reducing morbidity and mortality rates, particularly in developing countries where the disease is prevalent. In this article, we present a novel convolutional neural network (CNN) architecture for detecting malaria from blood samples with a 99.68% accuracy. Our method outperforms the existing approaches in terms of both accuracy and speed, making it a promising tool for malaria diagnosis in resource-limited settings. The CNN was trained on a large dataset of blood smears and was able to accurately classify infected and uninfected samples with high sensitivity and specificity. Additionally, we present an analysis of model performance on different subtypes of malaria and discuss the implications of our findings for the use of deep learning in infectious disease diagnosis.
+
+**Source:** https://www.semanticscholar.org/paper/2284d9fb94fae0d4b1f098fab5f8807c13112909
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.199Z

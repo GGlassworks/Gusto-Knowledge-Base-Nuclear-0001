@@ -1,0 +1,13 @@
+# DLBench: a comprehensive experimental evaluation of deep learning frameworks
+
+**Authors:** Radwa Elshawi, Abdul Wahab, A. Barnawi, Sherif Sakr
+
+## Abstract
+Deep Learning (DL) has achieved remarkable progress over the last decade on various tasks such as image recognition, speech recognition, and natural language processing. In general, three main crucial aspects fueled this progress: the increasing availability of large amount of digitized data, the increasing availability of affordable parallel and powerful computing resources (e.g., GPU) and the growing number of open source deep learning frameworks that facilitate and ease the development process of deep learning architectures. In practice, the increasing popularity of deep learning frameworks calls for benchmarking studies that can effectively evaluate and understand the performance characteristics of these systems. In this paper, we conduct an extensive experimental evaluation and analysis of six popular deep learning frameworks, namely, TensorFlow, MXNet, PyTorch, Theano, Chainer, and Keras, using three types of DL architectures Convolutional Neural Networks (CNN), Faster Region-based Convolutional Neural Networks (Faster R-CNN), and Long Short Term Memory (LSTM). Our experimental evaluation considers different aspects for its comparison including accuracy, training time, convergence and resource consumption patterns. Our experiments have been conducted on both CPU and GPU environments using different datasets. We report and analyze the performance characteristics of the studied frameworks. In addition, we report a set of insights and important lessons that we have learned from conducting our experiments.
+
+**Source:** https://www.semanticscholar.org/paper/e5f30b8412c7d0422354a37b2654dd8b1e6ba653
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:27.178Z

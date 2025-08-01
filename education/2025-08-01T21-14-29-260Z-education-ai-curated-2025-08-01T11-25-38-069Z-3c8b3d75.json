@@ -1,0 +1,13 @@
+# Diagnosing COVID-19 pneumonia from x-ray and CT images using deep learning and transfer learning algorithms
+
+**Authors:** H. S. Maghdid, Aras T. Asaad, K. Ghafoor, A. Sadiq, M. Khan
+
+## Abstract
+The novel coronavirus 2019 (COVID-19) first appeared in Wuhan province of China and spread quickly around the globe and became a pandemic. The gold standard for confirming COVID-19 infection is through Reverse Transcription-Polymerase Chain Reaction (RT-PCR) assay. The lack of sufficient RT-PCR testing capacity, false negative results of RT-PCR, time to get back the results and other logistical constraints enabled the epidemic to continue to spread albeit interventions like regional or complete country lockdowns. Therefore, chest radiographs such as CT and X-ray can be used to supplement PCR in combating the virus from spreading. In this work, we focus on proposing a deep learning tool that can be used by radiologists or healthcare professionals to diagnose COVID-19 cases in a quick and accurate manner. However, the lack of a publicly available dataset of X-ray and CT images makes the design of such AI tools a challenging task. To this end, this study aims to build a comprehensive dataset of X-rays and CT scan images from multiple sources as well as provides a simple but an effective COVID-19 detection technique using deep learning and transfer learning algorithms. In this vein, a simple convolution neural network (CNN) and modified pre-trained AlexNet model are applied on the prepared X-rays and CT scan images. The result of the experiments shows that the utilized models can provide accuracy up to 98% via pre-trained network and 94.1% accuracy by using the modified CNN.
+
+**Source:** https://www.semanticscholar.org/paper/b14d6745ef6441a73973b99f8c3b71367f3f607c
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:25:38.070Z

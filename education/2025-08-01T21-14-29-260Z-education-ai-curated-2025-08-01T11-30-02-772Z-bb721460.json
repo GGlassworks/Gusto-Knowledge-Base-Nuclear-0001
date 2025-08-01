@@ -1,0 +1,13 @@
+# Water quality analysis in a lake using deep learning methodology: prediction and validation
+
+**Authors:** Venkata Vara Prasad D, Lokeswari Y Venkataramana, P. S. Kumar, Prasannamedha G, Soumya K., Poornema A.J.
+
+## Abstract
+ABSTRACT Discharge of untreated waste water, municipal sewage, industrial effluents, dumping of degradable and non-degradable wastes has polluted natural water sources like river, lake, pond to a great extent, therefore, it is obligatory to test out the quality of water before consumption. With this motivation, the work explores many deep learning algorithms to estimate the Water Quality Index, which is a singular index to describe the general quality of water, and the Water Quality Class, which is a distinctive class defined on the basis of the Water Quality Index. The water samples were collected from Korattur Lake in the Chennai city. The water quality parameters such as pH, Total Dissolved Salts, turbidity, phosphate, nitrate, iron, Chemical Oxygen Demand, chloride and sodium were measured from the collected water samples. The models used for training and testing include Deep Learning models such as Artificial Neural Network, Recurrent Neural Network and Long-Short Term Memory for both binary and multi-class classification. The metrics used for evaluating the models were accuracy, precision and the execution time of the models that are used for comparing and analysing above mentioned models. From the results obtained, it was observed that LSTM yielded the highest accuracy of around 94% and also consumes the least execution time when compared with other deep learning models.
+
+**Source:** https://www.semanticscholar.org/paper/18446e93611c03a9ae52256327eeb2ef422ff191
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.772Z

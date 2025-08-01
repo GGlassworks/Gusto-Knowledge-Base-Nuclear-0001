@@ -1,0 +1,14 @@
+# Topology Optimization via Machine Learning and Deep Learning: A Review
+
+**Authors:** S. Shin, Dongju Shin, Namwoo Kang
+
+## Abstract
+
+ Topology optimization (TO) is a method of deriving an optimal design that satisfies a given load and boundary conditions within a design domain. This method enables effective design without initial design, but has been limited in use due to high computational costs. At the same time, machine learning (ML) methodology including deep learning has made great progress in the 21st century, and accordingly, many studies have been conducted to enable effective and rapid optimization by applying ML to TO. Therefore, this study reviews and analyzes previous research on ML-based TO (MLTO). Two different perspectives of MLTO are used to review studies: (1) TO and (2) ML perspectives. The TO perspective addresses “why” to use ML for TO, while the ML perspective addresses “how” to apply ML to TO. In addition, the limitations of current MLTO research and future research directions are examined.
+
+**Source:** https://www.semanticscholar.org/paper/95726fc3f28e217c081d605be383175968bc4b83
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:24:37.872Z

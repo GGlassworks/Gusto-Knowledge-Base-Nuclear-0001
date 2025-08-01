@@ -1,0 +1,13 @@
+# Context-Aware Recommendations Based on Deep Learning Frameworks
+
+**Authors:** Moshe Unger, Alexander Tuzhilin, Amit Livne
+
+## Abstract
+In this article, we suggest a novel deep learning recommendation framework that incorporates contextual information into neural collaborative filtering recommendation approaches. Since context is often represented by dynamic and high-dimensional feature space in multiple applications and services, we suggest to model contextual information in various ways for multiple purposes, such as rating prediction, generating top-k recommendations, and classification of users’ feedback. Specifically, based on the suggested framework, we propose three deep context-aware recommendation models based on explicit, unstructured, and structured latent representations of contextual data derived from various contextual dimensions (e.g., time, location, user activity). Offline evaluation on three context-aware datasets confirms that our proposed deep context-aware models surpass state-of-the-art context-aware methods. We also show that utilizing structured latent contexts in the proposed deep recommendation framework achieves significantly better performance than the other context-aware models on all datasets.
+
+**Source:** https://www.semanticscholar.org/paper/8fc5cd34e96b682bb35f885c3dde71998ca05abb
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:27.598Z

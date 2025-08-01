@@ -1,0 +1,26 @@
+# External Validation of Deep Learning Algorithms for Radiologic Diagnosis: A Systematic Review.
+
+**Authors:** Alice C. Yu, B. Mohajer, J. Eng
+
+## Abstract
+Purpose
+To assess generalizability of published deep learning (DL) algorithms for radiologic diagnosis.
+
+
+Materials and Methods
+In this systematic review, the PubMed database was searched for peer-reviewed studies of DL algorithms for image-based radiologic diagnosis that included external validation, published from January 1, 2015, through April 1, 2021. Studies using nonimaging features or incorporating non-DL methods for feature extraction or classification were excluded. Two reviewers independently evaluated studies for inclusion, and any discrepancies were resolved by consensus. Internal and external performance measures and pertinent study characteristics were extracted, and relationships among these data were examined using nonparametric statistics.
+
+
+Results
+Eighty-three studies reporting 86 algorithms were included. The vast majority (70 of 86, 81%) reported at least some decrease in external performance compared with internal performance, with nearly half (42 of 86, 49%) reporting at least a modest decrease (≥0.05 on the unit scale) and nearly a quarter (21 of 86, 24%) reporting a substantial decrease (≥0.10 on the unit scale). No study characteristics were found to be associated with the difference between internal and external performance.
+
+
+Conclusion
+Among published external validation studies of DL algorithms for image-based radiologic diagnosis, the vast majority demonstrated diminished algorithm performance on the external dataset, with some reporting a substantial performance decrease.Keywords: Meta-Analysis, Computer Applications-Detection/Diagnosis, Neural Networks, Computer Applications-General (Informatics), Epidemiology, Technology Assessment, Diagnosis, Informatics Supplemental material is available for this article. © RSNA, 2022.
+
+**Source:** https://www.semanticscholar.org/paper/cac0b8a3273325a139cb41dc4a51a9e127310226
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:25:37.892Z

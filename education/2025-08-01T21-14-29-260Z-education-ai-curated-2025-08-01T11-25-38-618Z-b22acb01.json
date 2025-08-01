@@ -1,0 +1,13 @@
+# A New Malware Classification Framework Based on Deep Learning Algorithms
+
+**Authors:** Ömer Aslan, Abdullah Asım Yılmaz
+
+## Abstract
+Recent technological developments in computer systems transfer human life from real to virtual environments. Covid-19 disease has accelerated this process. Cyber criminals’ interest has shifted in a real to virtual life as well. This is because it is easier to commit a crime in cyberspace rather than regular life. Malicious software (malware) is unwanted software which is frequently used by cyber criminals to launch cyber-attacks. Malware variants are continuing to evolve by using advanced obfuscation and packing techniques. These concealing techniques make malware detection and classification significantly challenging. Novel methods which are quite different from traditional methods must be used to effectively combat with new malware variants. Traditional artificial intelligence (AI) specifically machine learning (ML) algorithms are no longer effective in detecting all new and complex malware variants. Deep learning (DL) approach which is quite different from traditional ML algorithms can be a promising solution to the problem of detecting all variants of malware. In this study, a novel deep-learning-based architecture is proposed which can classify malware variants based on a hybrid model. The main contribution of the study is to propose a new hybrid architecture which integrates two wide-ranging pre-trained network models in an optimized manner. This architecture consists of four main stages, namely: data acquisition, the design of deep neural network architecture, training of the proposed deep neural network architecture, and evaluation of the trained deep neural network. The proposed method tested on Malimg, Microsoft BIG 2015, and Malevis datasets. The experimental results show that the suggested method can effectively classify malware with high accuracy which outperforms the state of the art methods in the literature. When proposed method tested on Malimg dataset, 97.78% accuracy is obtained which is outperformed most of the ML-based malware detection method.
+
+**Source:** https://www.semanticscholar.org/paper/bb272ddf1101f3afd89ec53ddfe9be84f77ac4c3
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:25:38.618Z

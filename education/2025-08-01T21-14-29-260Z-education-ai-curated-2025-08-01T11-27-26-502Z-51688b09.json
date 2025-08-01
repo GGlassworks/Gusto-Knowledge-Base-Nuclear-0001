@@ -1,0 +1,13 @@
+# Intelligent generation of Peking opera facial masks with deep learning frameworks
+
+**Authors:** Ming Yan, Rui Xiong, Yinghua Shen, Cong Jin, Yan Wang
+
+## Abstract
+The production of traditional Peking opera facial masks often relies on hand painting by experienced painters, which restricts the inheritance and development of this intangible cultural heritage. Current research mainly focuses on the digital reconstruction and storage of existing Peking opera facial masks, while high-quality facial mask generation technology is still in an infancy stage. In this paper, different deep learning frameworks are improved for learning features of Peking opera facial masks and generating new masks, which can effectively promote the creative application of Peking opera facial masks. First, using different data enhancement methods, an improved Style Generative Adversarial Network-2 (StyleGAN2) can learn implicit and explicit features of Peking opera facial masks and automatically generate new facial masks. In addition, an image translation framework for joint cross-domain communication under weak supervision is used to translate face sketches and color reference maps to an intermediate feature domain, and then synthesize new facial masks through an image generation network. The experimental results show that the generated Peking opera facial masks have good local randomness and excellent visual quality.
+
+**Source:** https://www.semanticscholar.org/paper/f2821010ae508f51b41746ed236e46ea50442313
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:26.502Z

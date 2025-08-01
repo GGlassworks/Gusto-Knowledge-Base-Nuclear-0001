@@ -1,0 +1,13 @@
+# Landslide Susceptibility Mapping with Deep Learning Algorithms
+
+**Authors:** Jules Maurice Habumugisha, N. Chen, Mahfuzur Rahman, Md. Monirul Islam, Hilal Ahmad, A. Elbeltagi, Gitika Sharma, Sharmina Naznin Liza, A. Dewan
+
+## Abstract
+Among natural hazards, landslides are devastating in China. However, little is known regarding potential landslide-prone areas in Maoxian County. The goal of this study was to apply four deep learning algorithms, the convolutional neural network (CNN), deep neural network (DNN), long short-term memory (LSTM) networks, and recurrent neural network (RNN) in evaluating the possibility of landslides throughout Maoxian County, Sichuan, China. A total of 1290 landslide records was developed using historical records, field observations, and remote sensing techniques. The landslide susceptibility maps showed that most susceptible areas were along the Minjiang River and in some parts of the southeastern portion of the study area. Slope, rainfall, and distance to faults were the most influential factors affecting landslide occurrence. Results revealed that proportion of landslide susceptible areas in Maoxian County was as follows: identified landslides (13.65–23.71%) and non-landslides (76.29–86.35%). The resultant maps were tested against known landslide locations using the area under the curve (AUC). This study indicated that the DNN algorithm performed better than LSTM, CNN, and RNN in identifying landslides in Maoxian County, with AUC values (for prediction accuracy) of 87.30%, 86.50%, 85.60%, and 82.90%, respectively. The results of this study are useful for future landslide risk reduction along with devising sustainable land use planning in the study area.
+
+**Source:** https://www.semanticscholar.org/paper/1ba247fd35947b7280fbfd070daa29c29ef7ced4
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:25:38.332Z

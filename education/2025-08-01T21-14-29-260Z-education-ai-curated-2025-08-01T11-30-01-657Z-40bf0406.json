@@ -1,0 +1,13 @@
+# A Deep Learning Methodology for Predicting Cybersecurity Attacks on the Internet of Things
+
+**Authors:** Omar Azib Alkhudaydi, M. Krichen, Ans D. Alghamdi
+
+## Abstract
+With the increasing severity and frequency of cyberattacks, the rapid expansion of smart objects intensifies cybersecurity threats. The vast communication traffic data between Internet of Things (IoT) devices presents a considerable challenge in defending these devices from potential security breaches, further exacerbated by the presence of unbalanced network traffic data. AI technologies, especially machine and deep learning, have shown promise in detecting and addressing these security threats targeting IoT networks. In this study, we initially leverage machine and deep learning algorithms for the precise extraction of essential features from a realistic-network-traffic BoT-IoT dataset. Subsequently, we assess the efficacy of ten distinct machine learning models in detecting malware. Our analysis includes two single classifiers (KNN and SVM), eight ensemble classifiers (e.g., Random Forest, Extra Trees, AdaBoost, LGBM), and four deep learning architectures (LSTM, GRU, RNN). We also evaluate the performance enhancement of these models when integrated with the SMOTE (Synthetic Minority Over-sampling Technique) algorithm to counteract imbalanced data. Notably, the CatBoost and XGBoost classifiers achieved remarkable accuracy rates of 98.19% and 98.50%, respectively. Our findings offer insights into the potential of the ML and DL techniques, in conjunction with balancing algorithms such as SMOTE, to effectively identify IoT network intrusions.
+
+**Source:** https://www.semanticscholar.org/paper/61039221156df7cc9dca11c5bdd533e72c2f22b8
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:01.657Z

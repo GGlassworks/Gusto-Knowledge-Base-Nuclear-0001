@@ -1,0 +1,13 @@
+# Sequence-to-function deep learning frameworks for engineered riboregulators
+
+**Authors:** Jacqueline A. Valeri, K. M. Collins, P. Ramesh, M. A. Alcantar, Bianca A. Lepe, T. Lu, Diogo M. Camacho
+
+## Abstract
+While synthetic biology has revolutionized our approaches to medicine, agriculture, and energy, the design of completely novel biological circuit components beyond naturally-derived templates remains challenging due to poorly understood design rules. Toehold switches, which are programmable nucleic acid sensors, face an analogous design bottleneck; our limited understanding of how sequence impacts functionality often necessitates expensive, time-consuming screens to identify effective switches. Here, we introduce Sequence-based Toehold Optimization and Redesign Model (STORM) and Nucleic-Acid Speech (NuSpeak), two orthogonal and synergistic deep learning architectures to characterize and optimize toeholds. Applying techniques from computer vision and natural language processing, we ‘un-box’ our models using convolutional filters, attention maps, and in silico mutagenesis. Through transfer-learning, we redesign sub-optimal toehold sensors, even with sparse training data, experimentally validating their improved performance. This work provides sequence-to-function deep learning frameworks for toehold selection and design, augmenting our ability to construct potent biological circuit components and precision diagnostics. The design of synthetic biology circuits remains challenging due to poorly understood design rules. Here the authors introduce STORM and NuSpeak, two deep-learning architectures to characterize and optimize toehold switches.
+
+**Source:** https://www.semanticscholar.org/paper/a66a098109f2e3d0605ee0fefef7b68b7a07f241
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:27:27.535Z

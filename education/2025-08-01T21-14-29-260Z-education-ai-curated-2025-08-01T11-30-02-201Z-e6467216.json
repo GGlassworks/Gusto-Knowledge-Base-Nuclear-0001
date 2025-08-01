@@ -1,0 +1,13 @@
+# Gender Recognition using Deep Learning Methodology
+
+**Authors:** Avantika Prajapati, Nagendra Patel, Upendra Singh
+
+## Abstract
+Identifying a person’s gender from their facial features is a prominent subject in computer vision. While humans can intuitively perform this task, it poses substantial challenges for machines. The research study associated with this article details a gender classification method anchored in face recognition feature vectors. Initially, input images undergo face recognition and preprocessing, leading to a standardized face format. Subsequently, the data is processed by the face recognition model to extract feature vectors, encapsulating facial attributes within a specific feature domain. Ultimately, machine learning techniques are deployed to classify these derived vectors. This research introduces a sophisticated gender classification system harnessing VGG Face, Deep Belief Networks, and shifted filter responses. Models such as CNN, VGG 16, Resnet50, Inception v3, and EfficientNet were explored, with Resnet 152 emerging as the most effective. Remarkably, the Resnet 152 models exhibit a 9% enhancement over leading competitors, and they also demonstrate superior resilience to anomalies compared to previous iterations.
+
+**Source:** https://www.semanticscholar.org/paper/8416bc8aade4ed9bb7857f1303526a16129d983c
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.202Z

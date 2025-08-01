@@ -1,0 +1,13 @@
+# Credit Card Fraud Detection Using State-of-the-art Machine Learning and Deep Learning Algorithms
+
+**Authors:** F. Alarfaj, Iqra Malik, Hikmat Ullah Khan, N. Almusallam, Muhammad Ramzan, Muzamil Ahmed
+
+## Abstract
+People can make use of credit card for online transactions as it provides efficient and easy-to-use facility. With the increase in usage of credit cards, the capacity of credit card misuse has also enhanced. Credit card frauds cause significant financial losses for both credit card holders and financial companies. In this research study, the main aim is to detect such frauds which include the accessibility of public data, high-class imbalance data and fraud nature can be changed and the false alarm is in high rates. The relevant literature presents a number of machines learning based approaches for credit card detection. Such as Extreme Learning Method, Decision Tree, Random Forest, Support Vector Machine, Logistic Regression and XG Boost. But due to low accuracy, there is still need to apply state of the art deep learning algorithms to reduce the fraud losses. The main focus has been to apply the recent development of deep learning algorithms for this purpose. Comparative analysis of both machine learning and deep learning algorithms was performed to find efficient outcomes. The detail empirical analysis is carried out using European card benchmark dataset for fraud detection. Machine learning algorithm is first applied on the data set which showed improvement in the accuracy of detection of the frauds to some extent. Later, three architectures based on convolutional neural network are applied to improve fraud detection performance. Further addition of layers further increased the accuracy of detection. A comprehensive empirical analysis has been carried out by applying variations in number of hidden layers, epochs and applying the latest models. The evaluation of research work shows the improved results achieved such as accuracy, f1-score, precision and AUC Curves having optimized values 99.9%,85.71%,93%,98% respectively. The purposed model outperforms over state of art machine learning and deep learning algorithms for credit card detection problems. In addition, we have performed experiments by balancing the data and applying deep learning algorithms to minimize the false negative rate. The proposed approaches can be implemented effectively for the real-world detection of credit card frauds.
+
+**Source:** https://www.semanticscholar.org/paper/7167729966826dddb4db2fac1d224cb7468a875f
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:25:37.376Z

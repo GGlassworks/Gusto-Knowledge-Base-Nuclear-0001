@@ -1,0 +1,13 @@
+# Short-Term Solar Irradiance Forecasting Based on a Hybrid Deep Learning Methodology
+
+**Authors:** Ke Yan, H. Shen, Lei Wang, Huiming Zhou, Meiling Xu, Yu-chang Mo
+
+## Abstract
+Accurate prediction of solar irradiance is beneficial in reducing energy waste associated with photovoltaic power plants, preventing system damage caused by the severe fluctuation of solar irradiance, and stationarizing the power output integration between different power grids. Considering the randomness and multiple dimension of weather data, a hybrid deep learning model that combines a gated recurrent unit (GRU) neural network and an attention mechanism is proposed forecasting the solar irradiance changes in four different seasons. In the first step, the Inception neural network and ResNet are designed to extract features from the original dataset. Secondly, the extracted features are inputted into the recurrent neural network (RNN) network for model training. Experimental results show that the proposed hybrid deep learning model accurately predicts solar irradiance changes in a short-term manner. In addition, the forecasting performance of the model is better than traditional deep learning models (such as long short term memory and GRU).
+
+**Source:** https://www.semanticscholar.org/paper/296ed517d564893aefad041d1ebf15f2948632a4
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.360Z

@@ -1,0 +1,13 @@
+# Usefulness of Deep Learning Analysis for the Diagnosis of Malignancy in Intraductal Papillary Mucinous Neoplasms of the Pancreas
+
+**Authors:** Takamichi Kuwahara, K. Hara, N. Mizuno, Nozomi Okuno, Shimpei Matsumoto, Masahiro Obata, Y. Kurita, Hiroki Koda, K. Toriyama, S. Onishi, M. Ishihara, Tsutomu Tanaka, M. Tajika, Y. Niwa
+
+## Abstract
+OBJECTIVES: Intraductal papillary mucinous neoplasms (IPMNs) are precursor lesions of pancreatic adenocarcinoma. Artificial intelligence (AI) is a mathematical concept whose implementation automates learning and recognizing data patterns. The aim of this study was to investigate whether AI via deep learning algorithms using endoscopic ultrasonography (EUS) images of IPMNs could predict malignancy. METHODS: This retrospective study involved the analysis of patients who underwent EUS before pancreatectomy and had pathologically confirmed IPMNs in a single cancer center. In total, 3,970 still images were collected and fed as input into the deep learning algorithm. AI value and AI malignant probability were calculated. RESULTS: The mean AI value of malignant IPMNs was significantly greater than benign IPMNs (0.808 vs 0.104, P < 0.001). The area under the receiver operating characteristic curve for the ability to diagnose malignancies of IPMNs via AI malignant probability was 0.98 (P < 0.001). The sensitivity, specificity, and accuracy of AI malignant probability were 95.7%, 92.6%, and 94.0%, respectively; its accuracy was higher than human diagnosis (56.0%) and the mural nodule (68.0%). Multivariate logistic regression analysis showed AI malignant probability to be the only independent factor for IPMN-associated malignancy (odds ratio: 295.16, 95% confidence interval: 14.13–6,165.75, P < 0.001). DISCUSSION: AI via deep learning algorithm may be a more accurate and objective method to diagnose malignancies of IPMNs in comparison to human diagnosis and conventional EUS features.
+
+**Source:** https://www.semanticscholar.org/paper/eae23b46ae69618de80ebbe2bd175c87183f8b36
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:29:11.833Z

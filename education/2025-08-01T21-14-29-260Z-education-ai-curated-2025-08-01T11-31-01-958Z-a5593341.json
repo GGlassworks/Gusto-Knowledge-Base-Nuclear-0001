@@ -1,0 +1,13 @@
+# Enhancing Melanoma Diagnosis with Advanced Deep Learning Models Focusing on Vision Transformer, Swin Transformer, and ConvNeXt
+
+**Authors:** Serra Aksoy, P. Demircioğlu, I. Bogrekci
+
+## Abstract
+Skin tumors, especially melanoma, which is highly aggressive and progresses quickly to other sites, are an issue in various parts of the world. Nevertheless, the one and only way to save lives is to detect it at its initial stages. This study explores the application of advanced deep learning models for classifying benign and malignant melanoma using dermoscopic images. The aim of the study is to enhance the accuracy and efficiency of melanoma diagnosis with the ConvNeXt, Vision Transformer (ViT) Base-16, and Swin Transformer V2 Small (Swin V2 S) deep learning models. The ConvNeXt model, which integrates principles of both convolutional neural networks and transformers, demonstrated superior performance, with balanced precision and recall metrics. The dataset, sourced from Kaggle, comprises 13,900 uniformly sized images, preprocessed to standardize the inputs for the models. Experimental results revealed that ConvNeXt achieved the highest diagnostic accuracy among the tested models. Experimental results revealed that ConvNeXt achieved an accuracy of 91.5%, with balanced precision and recall rates of 90.45% and 92.8% for benign cases, and 92.61% and 90.2% for malignant cases, respectively. The F1-scores for ConvNeXt were 91.61% for benign cases and 91.39% for malignant cases. This research points out the potential of hybrid deep learning architectures in medical image analysis, particularly for early melanoma detection.
+
+**Source:** https://www.semanticscholar.org/paper/cf439db0e071f19305ea1755aa108acdde73ed99
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:01.958Z

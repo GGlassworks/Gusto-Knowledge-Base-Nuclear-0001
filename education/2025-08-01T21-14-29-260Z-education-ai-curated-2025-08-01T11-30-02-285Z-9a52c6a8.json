@@ -1,0 +1,13 @@
+# Tomato Spotted Wilt Disease Severity Levels Detection: A Deep Learning Methodology
+
+**Authors:** Vikas Salonki, Anupam Baliyan, Vinay Kukreja, Khadim Moin Siddiqui
+
+## Abstract
+The wide variety of diseases in the tomato plant affects the quality and quantity of the production. To counteract the problem of disease in tomato plants deep learning (DL) based convolutional neural networks (CNN) model has been presented in this paper that classify the real-time and self-captured 3000 images of healthy and tomato spotted wilt (TSW) disease plants. TSW is a type of infected virus that turns the upper sides of young tomato leaves as bronze and eventually acquires prominent, necrotic spots. Binary and multi-classification of the collected dataset have been made based on three different types of severity levels of TSW disease. In the case of binary classification, the accuracy is recorded at 91.56% and on the other hand, the best accuracy of multi-classification is recorded at 95.23% in the case of middle severity level. The model shows the least accuracy 94.5% and middle accuracy 95.2% in the case of early-stage severity and late severity level respectively. The proposed work will make a significant addition to the field of employing DL techniques to detect and classify tomato diseases.
+
+**Source:** https://www.semanticscholar.org/paper/6721bf2c23cba7366ce6ed51551cf26e32bd2c8e
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.286Z

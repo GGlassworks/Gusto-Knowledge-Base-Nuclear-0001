@@ -1,0 +1,13 @@
+# Analysis of Conventional Feature Learning Algorithms and Advanced Deep Learning Models
+
+**Authors:** Toshihiro Endo
+
+## Abstract
+Representation learning or feature learning refers to a collection of methods employed in machine learning, which allows systems to autonomously determine representations needed for classifications or feature detection from unprocessed data. Representation learning algorithms are specifically crafted to acquire knowledge of conceptual features that define data. The field of state representation learning is centered on a specific type of representation learning that involves the acquisition of low-dimensional learned features that undergo temporal evolution and are subject to the influence of an agent's actions. Over the past few years, deep architecture have been widely employed for representation learning and have demonstrated exceptional performance in various tasks, including but not limited to object detection, speech recognition, and image classification. This article provides a comprehensive overview of the evolution of techniques for data representation learning. Our research focuses on the examination of conventional feature learning algorithms and advanced deep learning models. This paper presents an introduction to data representation learning history, along with a comprehensive list of available resources such as online courses, tutorials, and books. Additionally, various tool-boxes are also provided for further exploration in this field. In conclusion, this article presents remarks and future prospects for data representation learning.
+
+**Source:** https://www.semanticscholar.org/paper/39a84e13db2d0525828e977c04ce964a1f5a545e
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:31:02.367Z

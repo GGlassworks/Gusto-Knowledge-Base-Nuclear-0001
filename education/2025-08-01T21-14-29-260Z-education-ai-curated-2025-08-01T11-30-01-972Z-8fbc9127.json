@@ -1,0 +1,13 @@
+# A deep learning methodology for improved breast cancer diagnosis using multiparametric MRI
+
+**Authors:** Qiyuan Hu, H. Whitney, M. Giger
+
+## Abstract
+Multiparametric magnetic resonance imaging (mpMRI) has been shown to improve radiologists’ performance in the clinical diagnosis of breast cancer. This machine learning study develops a deep transfer learning computer-aided diagnosis (CADx) methodology to diagnose breast cancer using mpMRI. The retrospective study included clinical MR images of 927 unique lesions from 616 women. Each MR study included a dynamic contrast-enhanced (DCE)-MRI sequence and a T2-weighted (T2w) MRI sequence. A pretrained convolutional neural network (CNN) was used to extract features from the DCE and T2w sequences, and support vector machine classifiers were trained on the CNN features to distinguish between benign and malignant lesions. Three methods that integrate the sequences at different levels (image fusion, feature fusion, and classifier fusion) were investigated. Classification performance was evaluated using the receiver operating characteristic (ROC) curve and compared using the DeLong test. The single-sequence classifiers yielded areas under the ROC curves (AUCs) [95% confidence intervals] of AUCDCE = 0.85 [0.82, 0.88] and AUCT2w = 0.78 [0.75, 0.81]. The multiparametric schemes yielded AUCImageFusion = 0.85 [0.82, 0.88], AUCFeatureFusion = 0.87 [0.84, 0.89], and AUCClassifierFusion = 0.86 [0.83, 0.88]. The feature fusion method statistically significantly outperformed using DCE alone (P < 0.001). In conclusion, the proposed deep transfer learning CADx method for mpMRI may improve diagnostic performance by reducing the false positive rate and improving the positive predictive value in breast imaging interpretation.
+
+**Source:** https://www.semanticscholar.org/paper/759cc1a81da3ee31af9aac2f01be18f59cb0f449
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:01.973Z

@@ -1,0 +1,13 @@
+# A Novel Deep Learning-Based Black Fungus Disease Identification Using Modified Hybrid Learning Methodology
+
+**Authors:** S. Karthikeyan, G. Ramkumar, S. Aravindkumar, M. Tamilselvi, S. Ramesh, A. Ranjith
+
+## Abstract
+Currently, countries across the world are suffering from a prominent viral infection called COVID-19. Most countries are still facing several issues due to this disease, which has resulted in several fatalities. The first COVID-19 wave caused devastation across the world owing to its virulence and led to a massive loss in human lives, impacting the country's economy drastically. A dangerous disease called mucormycosis was discovered worldwide during the second COVID-19 wave, in 2021, which lasted from April to July. The mucormycosis disease is commonly known as “black fungus,” which belongs to the fungus family Mucorales. It is usually a rare disease, but the level of destruction caused by the disease is vast and unpredictable. This disease mainly targets people already suffering from other diseases and consuming heavy medication to counter the disease they are suffering from. This is because of the reduction in antibodies in the affected people. Therefore, the patient's body does not have the ability to act against fungus-oriented infections. This black fungus is more commonly identified in patients with coronavirus disease in certain country. The condition frequently manifests on skin, but it can also harm organs such as eyes and brain. This study intends to design a modified neural network logic for an artificial intelligence (AI) strategy with learning principles, called a hybrid learning-based neural network classifier (HLNNC). The proposed method is based on well-known techniques such as convolutional neural network (CNN) and support vector machine (SVM). This article discusses a dataset containing several eye photographs of patients with and without black fungus infection. These images were collected from the real-time records of people afflicted with COVID followed by the black fungus. This proposed HLNNC scheme identifies the black fungus disease based on the following image processing procedures: image acquisition, preprocessing, feature extraction, and classification; these procedures were performed considering the dataset training and testing principles with proper performance analysis. The results of the procedure are provided in a graphical format with the precise specification, and the efficacy of the proposed method is established.
+
+**Source:** https://www.semanticscholar.org/paper/a24ad797546194f50fa28df022cca4c609490320
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:02.495Z

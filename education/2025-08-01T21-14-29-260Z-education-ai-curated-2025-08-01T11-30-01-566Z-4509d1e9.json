@@ -1,0 +1,13 @@
+# Identification of Counterfeit Videos using Deep Learning Methodology
+
+**Authors:** Thoutam Vaishnavi
+
+## Abstract
+The rise of deep learning has ushered in a proliferation of deep fake videos, posing significant challenges to the credibility of visual content. Our research introduces a groundbreaking approach by merging Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to enhance the accuracy of deepfake prediction. This unique integration, which has not been previously implemented, significantly boosts the model's capability to discern deepfakes. The synergy of CNNs and RNNs in our methodology represents an advancement, contributing to increased accuracy in detecting synthetic content. We leverage CNNs and RNNs for an efficient solution. First, we employ a Res-Next CNN to extract distinctive features from individual video frames, effectively encoding spatial information. These features are then used in the subsequent phase, where a LSTM-RNN models temporal dynamics within the videodata.The temporal aspect is crucial in differentiating deep fake videos due to subtle inconsistencies over time. The LSTM RNN processes the feature sequence, enabling the model to identify temporal patterns unique to deep fakes. This holistic approach, combining spatial and temporal analysis, enhances the model's ability to detect even highly convincing synthetic content. Our model is trained on a comprehensive dataset with rigorous evaluations, demonstrating competitive performance through standard metrics such as accuracy, precision. Practically, our model offers real- time video analysis, automatically identifying deep fake content and mitigating potential risks. Importantly, our approach is simple and robust, suitable for deployment across diverse scenarios. In summary, our research provides an effective solution to the critical issue of deepfake detection. By synergizing CNNs and LSTM-based RNNs, we offer a practical means to uphold the integrity of visual content in an era where digital information authenticity is paramount. Keywords— Deep Learning, CNN, RNN, Deepfake, LSTM, accuracy, precision, visual content, digital information
+
+**Source:** https://www.semanticscholar.org/paper/abc8fb21f76fcb1e598a17fcb78e05e15e5b3159
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T11:30:01.566Z
