@@ -1,0 +1,13 @@
+# Constrained Optimization Problems in Cost and Managerial Accounting--Spreadsheet Tools
+
+**Authors:** Amlie, Thomas T.
+
+## Abstract
+A common problem addressed in Managerial and Cost Accounting classes is that of selecting an optimal production mix given scarce resources. That is, if a firm produces a number of different products, and is faced with scarce resources (e.g., limitations on labor, materials, or machine time), what combination of products yields the greatest profit to the firm? Solver, an optimization package included within Microsoft Excel (or Optimizer in Quattro Pro), is an ideal vehicle by which to analyze these problems. In most cost or managerial accounting texts, students are asked to address this type of question when there is only one scarce resource (e.g., &quot;Material X&quot;); such problems can be readily solved &quot;by hand&quot;. In the case of two or more scarce resources, students are usually referred to their management science classes and Linear Programming packages such as LINDO for further enlightenment, with the comment that such matters are beyond the scope of an accounting text. The purpose of this paper is to illustrate how the Solver package in Microsoft Excel can be easily used to solve optimization problems in management accounting. Although not as powerful or flexible as stand-alone packages such as LINDO, Solver's presence within a universally available spreadsheet package makes it an extraordinarily powerful teaching tool. Instead of parameters being entered into the optimization problem as constants, they can be expressed as functions of other spreadsheet cells. This interactive structure allows an instructor (or student) to create complex production environments where it can be illustrated how minor changes in one aspect of the production environment can flow through and have a profound impact on optimal production schedules.
+
+**Source:** https://eric.ed.gov/?id=EJ1052650
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:56.133Z

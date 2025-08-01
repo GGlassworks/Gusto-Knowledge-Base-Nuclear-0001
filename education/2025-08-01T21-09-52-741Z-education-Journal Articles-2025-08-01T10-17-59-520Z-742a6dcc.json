@@ -1,0 +1,13 @@
+# A Randomized Rounding Approach for Optimization of Test Sheet Composing and Exposure Rate Control in Computer-Assisted Testing
+
+**Authors:** Wang, Chu-Fu, Lin, Chih-Lung, Deng, Jien-Han
+
+## Abstract
+Testing is an important stage of teaching as it can assist teachers in auditing students' learning results. A good test is able to accurately reflect the capability of a learner. Nowadays, Computer-Assisted Testing (CAT) is greatly improving traditional testing, since computers can automatically and quickly compose a proper test sheet to meet user requirements. For example, the users can specify the number of test items to be selected in the test sheet, the average difficulty with respect to the test sheet can be restricted within a lower bound and an upper bound, and the generated test sheet is able to cover each basic concept in the scope of the testing subject. In order to design an algorithm for test sheet composing in a CAT system to meet the above objectives, we model it as a 0-1 integer optimization problem and then transform it to a dominating set selection problem of graph theory. A Multi-stage Test Sheet Composing Algorithm (MTSCA) is proposed to give a near optimal solution to this optimization problem. Due to the fact that exposure rate control is also an important issue in test sheet composing, our proposed MTSCA adopts a randomized rounding technique to reduce the average item exposure rate. The simulation results show that the performance of the MTSCA can not only achieve high average discrimination in the generated test sheet, but the item exposure rate can be properly controlled as well. (Contains 18 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ989197
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:59.520Z

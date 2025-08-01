@@ -1,0 +1,13 @@
+# Multi-Objective Parallel Test-Sheet Composition Using Enhanced Particle Swarm Optimization
+
+**Authors:** Ho, Tsu-Feng, Yin, Peng-Yeng, Hwang, Gwo-Jen, Shyu, Shyong Jian, Yean, Ya-Nan
+
+## Abstract
+For large-scale tests, such as certification tests or entrance examinations, the composed test sheets must meet multiple assessment criteria. Furthermore, to fairly compare the knowledge levels of the persons who receive tests at different times owing to the insufficiency of available examination halls or the occurrence of certain unexpected situations, a set of parallel test sheets needs to be composed, which is almost impossible to accomplish manually. To cope with this problem, an enhanced particle swarm optimization approach is proposed to efficiently compose parallel test sheets from very large item banks, while simultaneously meeting multiple assessment criteria. Moreover, a computer-assisted testing system was developed, and a series of experiments were performed to evaluate the comparative performance of the proposed approach and a genetic algorithm counterpart. (Contains 7 figures and 3 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ860444
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:59.918Z

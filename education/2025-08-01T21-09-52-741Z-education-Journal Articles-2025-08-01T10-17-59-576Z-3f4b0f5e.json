@@ -1,0 +1,13 @@
+# A Novel Optimization Based Deep Learning with Artificial Intelligence Approach to Detect Intrusion Attack in Network System
+
+**Authors:** S. Siva Shankar, Bui Thanh Hung, Prasun Chakrabarti, Tulika Chakrabarti, Gayatri Parasa
+
+## Abstract
+Modern life is increasingly influenced by networks, making cybersecurity a crucial area of study. However, due to their few resources and varied makeup, they are more vulnerable to a wide range of cyber-attacks. Such risks result in sensitive information being stolen as well as financial and reputational harm to firms. How far malicious detection techniques have advanced in the intrusion detection system (IDS) industry is difficult to quantify. Therefore, a unique IDS known optimized Artificial Intelligence approach is designed to effectively identify the intrusions. The preprocessing activity is initially carried out to improve the data quality for identifying network intrusions utilizing normalization and standardization. The Corporate Hierarchy optimization (CHO) technique is then used to choose the important features from the databases. By accurately identifying intrusions, the suggested golden eagle optimization-based Self-constructing Multi-layer Perceptron Interfaced Fuzzy system (GEO-SMPIF) solution improves privacy and security within the professional network infrastructure. The ensuing hyperparameters are adjusted optimally using GEO methods during parameter identification, and a backpropagation technique tunes the precondition parameters. Using datasets of NSL-KDD and UNSW-NB15, the Python platform creates the experimental setup. When compared to existing approaches, the analysis's findings show that the suggested method performs better at identifying intrusions with prediction performance in terms of a 99.78% of high detection rate, 99.99% of high accuracy, and 0.04 less false alarm rate in NSL-KDD and 99.70% of high detection rate, 99.97% of high accuracy and 0.065 of less false alarm rate in UNSW-NB15 dataset.
+
+**Source:** https://eric.ed.gov/?id=EJ1416151
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:59.577Z

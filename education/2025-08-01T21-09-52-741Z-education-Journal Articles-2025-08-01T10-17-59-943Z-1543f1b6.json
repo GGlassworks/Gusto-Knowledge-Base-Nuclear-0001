@@ -1,0 +1,13 @@
+# Optimizing Balanced Incomplete Block Designs for Educational Assessments
+
+**Authors:** van der Linden, Wim J., Veldkamp, Bernard P., Carlson, James E.
+
+## Abstract
+A popular design in large-scale educational assessments as well as any other type of survey is the balanced incomplete block design. The design is based on an item pool split into a set of blocks of items that are assigned to sets of "assessment booklets." This article shows how the problem of calculating an optimal balanced incomplete block design can be formulated as a problem in combinatorial optimization. Several examples of structural and practical requirements for balanced incomplete block designs are shown to be linear constraints on the optimization problem. In addition, a variety of possible objective functions to optimize the design is discussed. The technique is demonstrated using the 1996 Grade 8 Mathematics National Assessment of Educational Progress (NAEP) as a case study.
+
+**Source:** https://eric.ed.gov/?id=EJ727361
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:59.943Z

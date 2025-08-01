@@ -1,0 +1,13 @@
+# Multi-Technique Comparative Analysis of Machine Learning Algorithms for Improving the Prediction of Teams&apos; Performance
+
+**Authors:** Giannakas, Filippos, Troussas, Christos, Krouska, Akrivi, Sgouropoulou, Cleo, Voyiatzis, Ioannis
+
+## Abstract
+Working in groups is an important collaboration activity in the educational context, where a variety of factors can influence the prediction of the teams' performance. In the pertinent bibliography, several machine learning models are available for delivering predictions. In this sense, the main goal of the current research is to assess 28 different machine learning models, including a Deep Neural Network (DNN) which is structured by 4 hidden layers, for predicting teams' performance. Additionally, both data analysis and optimization of input data are also explored for their effectiveness in the improvement of the models' performance. One key finding of the present study is that the XGBoost model succeeded better prediction results, and its precision and robustness were found to be higher, compared to the other models. Additionally, data optimization was shown to be an essential procedure, since the prediction accuracy of all the models, and specifically, that of the XGBoost, improved and found to be 96% during the first phase that of the process, and 94% during the second phase that of the product. Similarly, after applying the hyperparameter tuning and data optimization, the prediction accuracy of the DNN was also improved and found to be 89.94% and 86.16%, during the same two phases. Finally, for interpreting the output of the ML models, in terms of features' importance, the Shapley Additive Explanations framework (SHAP) was used.
+
+**Source:** https://eric.ed.gov/?id=EJ1346146
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:58.224Z

@@ -1,0 +1,13 @@
+# Web-Based Virtual Lab for Learning Design, Operation, Control, and Optimization of an Anaerobic Digestion Process
+
+**Authors:** Guzmán, José Luis, Joseph, Babu
+
+## Abstract
+Virtual labs have proven to be very versatile and valuable for providing realistic experience for students in STE (Science, Technology, and Engineering) fields. As we progress from delivery of instructional material from classroom to the Internet, there is need to develop laboratory exercises to supplement the theoretical lessons. A Web-based virtual simulation model of an anaerobic digester (AD) using a flexible Javascript-based platform was developed to support courses in process control and process design. The objective was to provide a virtual laboratory experience that could be used on any device capable of accessing the Web (laptops, tablets, or smartphones) to explore multiple facets (design, operation, control, and optimization) associated with a complex biochemical system. A user-friendly interface that allows easy specification and testing of operational parameters is provided. In this article, we discuss how the model and simulation is developed and deployed along with illustrative examples of its use in a training or educational environment.
+
+**Source:** https://eric.ed.gov/?id=EJ1299310
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:18:03.876Z

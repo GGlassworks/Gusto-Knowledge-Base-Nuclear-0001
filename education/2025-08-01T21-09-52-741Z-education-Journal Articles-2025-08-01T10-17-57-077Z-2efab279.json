@@ -1,0 +1,13 @@
+# Automated Students Arabic Essay Scoring Using Trained Neural Network by e-Jaya Optimization to Support Personalized System of Instruction
+
+**Authors:** Gaheen, Marwa M., ElEraky, Rania M., Ewees, Ahmed A.
+
+## Abstract
+A personalized system of instruction is one of the strategies to personalize instruction. It is a technique that allows the student to move from one unit to another according to his own pace and his potential. Although this system is distinguished with activity and effectiveness to master the instructional subject, it lacks evaluation of the essay questions automatically. Automated essay scoring is the operation of scoring written essays by computer programs. It has been widely used in recent years. In this paper, a proposed method is presented to automatically grade students' Arabic essays to support personalized systems of instruction. It uses the elitist-Jaya (e-Jaya) optimization algorithm to train the classic artificial neural network (called eJaya-NN). The proposed method is tested over 240 student's essays. The essays are graded by two human experts in the fields then they are fed to a pre-processing phase to be converted to a digit's matrix. The results are evaluated using different measures and it is compared with some optimization algorithms. The eJaya-NN outperformed all compared algorithms and achieved the best values. Its correlation with the scores of the human experts equals 0.92 which indicates that the proposed method produces acceptable scores for the Arabic essay compared to the human experts and can effectively increase the features of personalized systems of instruction.
+
+**Source:** https://eric.ed.gov/?id=EJ1280969
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:57.077Z

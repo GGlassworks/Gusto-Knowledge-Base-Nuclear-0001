@@ -1,0 +1,13 @@
+# Bound Constrained Optimization of Sample Sizes Subject to Monetary Restrictions in Planning Multilevel Randomized Trials and Regression Discontinuity Studies
+
+**Authors:** Bulus, Metin, Dong, Nianbo
+
+## Abstract
+Sample size determination in multilevel randomized trials (MRTs) and multilevel regression discontinuity designs (MRDDs) can be complicated due to multilevel structure, monetary restrictions, differing marginal costs per treatment and control units, and range restrictions in sample size at one or more levels. These issues have sparked a set of studies under optimal design literature where scholars consider sample size determination as an allocation problem. The literature on optimal design of MRTs and MRDDs and their implementation in software packages has been scarce, scattered, and incomplete. This study unifies optimal design literature and extends currently available software under bound constrained optimal sample allocation (BCOSA) framework via bound constrained optimization technique. The BCOSA framework, introduction to the cosa R library, and an illustration that replicates and extends minimum required sample size determination for an evaluation report is provided.
+
+**Source:** https://eric.ed.gov/?id=EJ1285632
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:59.778Z

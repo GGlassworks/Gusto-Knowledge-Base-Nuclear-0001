@@ -1,0 +1,13 @@
+# Using Constrained Optimization to Increase the Representation of Students from Low-Income Neighborhoods
+
+**Authors:** Zwick, Rebecca, Ye, Lei, Isham, Steven
+
+## Abstract
+In US colleges, the scarcity of students from low-income families is a major concern. We present a novel way of boosting the percentage of qualified low-income students using constrained optimization (CO), an operations research technique. CO allows incorporation of both academic requirements and diversity goals in college admissions. The incoming class's academic credentials are maximized while constraints on class composition are imposed. In particular, the percentage of students in a certain demographic group can be required to exceed a minimum. In an illustrative analysis, we show how CO can be used to increase the proportion of admitted students from low-income neighborhoods.
+
+**Source:** https://eric.ed.gov/?id=EJ1229749
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:56.980Z

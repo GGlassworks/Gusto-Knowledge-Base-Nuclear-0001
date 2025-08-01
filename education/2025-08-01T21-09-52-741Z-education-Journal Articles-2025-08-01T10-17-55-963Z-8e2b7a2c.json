@@ -1,0 +1,13 @@
+# Integrating Asynchronous Digital Design Into the Computer Engineering Curriculum
+
+**Authors:** Smith, S. C., Al-Assadi, W. K., Di, J.
+
+## Abstract
+As demand increases for circuits with higher performance, higher complexity, and decreased feature size, asynchronous (clockless) paradigms will become more widely used in the semiconductor industry, as evidenced by the International Technology Roadmap for Semiconductors' (ITRS) prediction of a likely shift from synchronous to asynchronous design styles in order to increase circuit robustness, decrease power, and alleviate many clock-related issues. ITRS shows that asynchronous circuits accounted for 11% of chip area in 2008, compared to 7% in 2007, and estimates they will account for 23% of chip area by 2014 and 35% of chip area by 2019. To meet this growing industry need, computer engineering students should be introduced to asynchronous circuit design to make them more marketable and more prepared for the challenges faced by the digital design community for years to come. This paper introduces asynchronous logic design in the context of the familiar synchronous logic, then provides a description of course modules developed for NULL Convention Logic (NCL), an asynchronous logic paradigm that is very similar to the synchronous paradigm. This approach ensures that students can easily relate asynchronous design and optimization techniques to the corresponding synchronous techniques. The materials presented in this paper have been used in a number of undergraduate and graduate courses and have been well received by the students. (Contains 9 figures and 5 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ900588
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:55.963Z

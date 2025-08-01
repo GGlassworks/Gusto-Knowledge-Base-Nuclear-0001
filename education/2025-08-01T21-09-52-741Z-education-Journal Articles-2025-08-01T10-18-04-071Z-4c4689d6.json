@@ -1,0 +1,13 @@
+# An Active Learning Exercise for Introducing Agent-Based Modeling
+
+**Authors:** Pinder, Jonathan P.
+
+## Abstract
+Recent developments in agent-based modeling as a method of systems analysis and optimization indicate that students in business analytics need an introduction to the terminology, concepts, and framework of agent-based modeling. This article presents an active learning exercise for MBA students in business analytics that demonstrates agent-based modeling by solving a knapsack optimization problem. For the activity, students act as naïve agents by using dice to randomly selecting items for a finite capacity knapsack to maximize the value of the knapsack. Students then design a greedy heuristic to skew the probability of selection item. These pencil-and-paper models are then implemented in a spreadsheet model to demonstrate the effects of altering the agents' behavior. Finally, a binary integer programming model is examined to contrast agent-based modeling with traditional mathematical programming formulations. This exercise is innovative because it combines student engagement via active learning with an innovative, individual-based, modeling methodology.
+
+**Source:** https://eric.ed.gov/?id=EJ1061634
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:18:04.071Z

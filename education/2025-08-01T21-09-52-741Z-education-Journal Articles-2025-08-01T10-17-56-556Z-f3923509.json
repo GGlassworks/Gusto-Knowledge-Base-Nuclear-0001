@@ -1,0 +1,13 @@
+# Automated Speech Rate Measurement in Dysarthria
+
+**Authors:** Martens, Heidi, Dekens, Tomas, Van Nuffelen, Gwen, Latacz, Lukas, Verhelst, Werner, De Bodt, Marc
+
+## Abstract
+Purpose: In this study, a new algorithm for automated determination of speech rate (SR) in dysarthric speech is evaluated. We investigated how reliably the algorithm calculates the SR of dysarthric speech samples when compared with calculation performed by speech-language pathologists. Method: The new algorithm was trained and tested using Dutch speech samples of 36 speakers with no history of speech impairment and 40 speakers with mild to moderate dysarthria. We tested the algorithm under various conditions: according to speech task type (sentence reading, passage reading, and storytelling) and algorithm optimization method (speaker group optimization and individual speaker optimization). Correlations between automated and human SR determination were calculated for each condition. Results: High correlations between automated and human SR determination were found in the various testing conditions. Conclusions: The new algorithm measures SR in a sufficiently reliable manner. It is currently being integrated in a clinical software tool for assessing and managing prosody in dysarthric speech. Further research is needed to fine-tune the algorithm to severely dysarthric speech, to make the algorithm less sensitive to background noise, and to evaluate how the algorithm deals with syllabic consonants.
+
+**Source:** https://eric.ed.gov/?id=EJ1067905
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:56.557Z

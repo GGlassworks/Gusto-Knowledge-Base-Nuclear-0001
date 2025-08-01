@@ -1,0 +1,13 @@
+# Optimizing Bayesian Knowledge Tracing with Neural Network Parameter Generation
+
+**Authors:** Anirudhan Badrinath, Zachary Pardos
+
+## Abstract
+Bayesian Knowledge Tracing (BKT) is a well-established model for formative assessment, with optimization typically using expectation maximization, conjugate gradient descent, or brute force search. However, one of the flaws of existing optimization techniques for BKT models is convergence to undesirable local minima that negatively impact performance and interpretability of the BKT parameters (i.e., parameter degeneracy). Recently, deep knowledge tracing methods such as context-aware attentive knowledge tracing have proven to be state-of-the-art in performance; however, these methods often lack the inherent interpretability or understanding provided by BKT's skill-level parameter estimates and student-level mastery probability estimates. We propose a novel optimization technique for BKT models using a neural network-based parameter generation approach, OptimNN, that leverages hypernetworks and stochastic gradient descent for training BKT parameters. We extend this approach and propose BK Transformer, a transformer-based sequence modeling technique that generates temporally-evolving BKT parameters for student response correctness prediction. With both approaches, we demonstrate improved performance compared to BKT and deep KT baselines, with minimal hyperparameter tuning. Importantly, we demonstrate that these techniques, despite their state-of-the-art expressive capability, retain the interpretability of skill-level BKT parameter estimates and student-level estimates of mastery and correctness probabilities. [The page range cited on the .pdf (p1-25) is incorrect. The correct page range is p41-65.]
+
+**Source:** https://eric.ed.gov/?id=EJ1458433
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:57.193Z

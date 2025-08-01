@@ -1,0 +1,13 @@
+# E-Learning Technologies: Employing Matlab Web Server to Facilitate the Education of Mathematical Programming
+
+**Authors:** Karagiannis, P., Markelis, I., Paparrizos, K., Samaras, N., Sifaleras, A.
+
+## Abstract
+This paper presents new web-based educational software (webNetPro) for "Linear Network Programming." It includes many algorithms for "Network Optimization" problems, such as shortest path problems, minimum spanning tree problems, maximum flow problems and other search algorithms. Therefore, webNetPro can assist the teaching process of courses such as Graph Theory or Network Optimization, Algorithms or Data Structures. Since the Matlab web server is part of the underlying infrastructure, the end user need not use Matlab directly. The approach exploits transparently the benefits of the Matlab programming environment through a straightforward web interface. Furthermore, webNetPro is platform independent. Thus, it can be viewed as a powerful supplement to traditional instruction techniques and can be used without significant difficulties in distance education. Benefits and drawbacks are thoroughly described in order to support the significance of this tool in distance learning. (Contains 13 figures.)
+
+**Source:** https://eric.ed.gov/?id=EJ753932
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:18:04.242Z

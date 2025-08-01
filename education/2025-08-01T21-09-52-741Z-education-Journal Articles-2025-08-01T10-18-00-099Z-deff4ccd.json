@@ -1,0 +1,13 @@
+# Flexible Extensions to Structural Equation Models Using Computation Graphs
+
+**Authors:** Erik-Jan van Kesteren, Daniel L. Oberski
+
+## Abstract
+Structural equation modeling (SEM) is being applied to ever more complex data types and questions, often requiring extensions such as regularization or novel fitting functions. To extend SEM, researchers currently need to completely reformulate SEM and its optimization algorithm -- a challenging and time-consuming task. In this paper, we introduce the computation graph for SEM, and show that this approach can extend SEM without the need for bespoke software development. We show that both existing and novel SEM improvements follow naturally. To demonstrate, we introduce three SEM extensions: least absolute deviation estimation, Bayesian LASSO optimization, and sparse high--dimensional mediation analysis. We provide an implementation of SEM in PyTorch -- popular software in the machine learning community -- to accelerate development of structural equation models adequate for modern-day data and research questions.
+
+**Source:** https://eric.ed.gov/?id=EJ1459082
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:18:00.099Z

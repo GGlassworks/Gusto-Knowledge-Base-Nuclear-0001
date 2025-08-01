@@ -1,0 +1,13 @@
+# Financial Resource Allocation in Higher Education
+
+**Authors:** Ušpuriene, Ana, Sakalauskas, Leonidas, Dumskis, Valerijonas
+
+## Abstract
+The paper considers a problem of financial resource allocation in a higher education institution. The basic financial management instruments and the multi-stage cost minimization model created are described involving financial instruments to constraints. Both societal and institutional factors that determine the costs of educating students are examined and involved into the model, too. A financial flow planning model of an education institution (e.g., university) has been created, using two-stage or four-stage stochastic programming algorithms, with easily selected education institution's accounting data. The created model has been adapted to solve the two-stage and multi-stage financial flow optimization problem of the branch of university, and the obtained results of two-stage and multi-stage tasks have been compared. A mixed integer programming algorithm, realized in the model using CPLEX Studio 126 for optimization, can be flexibly adapted for practical needs of financial planning of education institutions.
+
+**Source:** https://eric.ed.gov/?id=EJ1158238
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:18:03.973Z

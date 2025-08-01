@@ -1,0 +1,13 @@
+# Customized Pedagogical Recommendation Using Automated Planning for Sequencing Based on Bloom&apos;s Taxonomy
+
+**Authors:** Costa, Newarney Torrezão, de Almeida, Denis José, Oliveira, Gustavo Prado, Fernandes, Márcia Aparecida
+
+## Abstract
+Personalized sequencing and recommendation of pedagogical actions in virtual learning environments are relevant aspects in promoting an effective learning process with computer-aided support. Hence, this work investigates the use of automated planning to sequence these actions according to student profiles. Actions are modeled to correspond to the cognitive process described by Bloom's taxonomy, and the student profile is set using the revised approaches to studying inventory. Both models share theoretical foundations linked to the cognitive process, and the mapping of these two theories is one of the contributions merged into this study. In planning, through use of a genetic algorithm, and the problem formulation as an optimization problem, one can correctly manage the search for good solutions, as demonstrated in this work. Through use of digital Bloom's taxonomy, one arrives at a recommend set of actions. Experiments were performed using 41 students. The results were promising and demonstrate the viability of the proposal.
+
+**Source:** https://eric.ed.gov/?id=EJ1343941
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:56.397Z

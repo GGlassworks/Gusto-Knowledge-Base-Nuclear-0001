@@ -1,0 +1,13 @@
+# Model Specification Searches in Structural Equation Modeling Using Bee Swarm Optimization
+
+**Authors:** Ulrich Schroeders, Florian Scharf, Gabriel Olaru
+
+## Abstract
+Metaheuristics are optimization algorithms that efficiently solve a variety of complex combinatorial problems. In psychological research, metaheuristics have been applied in short-scale construction and model specification search. In the present study, we propose a bee swarm optimization (BSO) algorithm to explore the structure underlying a psychological measurement instrument. The algorithm assigns items to an unknown number of nested factors in a confirmatory bifactor model, while simultaneously selecting items for the final scale. To achieve this, the algorithm follows the biological template of bees' foraging behavior: Scout bees explore new food sources, whereas onlooker bees search in the vicinity of previously explored, promising food sources. Analogously, scout bees in BSO introduce major changes to a model specification (e.g., adding or removing a specific factor), whereas onlooker bees only make minor changes (e.g., adding an item to a factor or swapping items between specific factors). Through this division of labor in an artificial bee colony, the algorithm aims to strike a balance between two opposing strategies diversification (or exploration) versus intensification (or exploitation). We demonstrate the usefulness of the algorithm to find the underlying structure in two empirical data sets (Holzinger-Swineford and short dark triad questionnaire, SDQ3). Furthermore, we illustrate the influence of relevant hyperparameters such as the number of bees in the hive, the percentage of scouts to onlookers, and the number of top solutions to be followed. Finally, useful applications of the new algorithm are discussed, as well as limitations and possible future research opportunities.
+
+**Source:** https://eric.ed.gov/?id=EJ1408294
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:59.551Z

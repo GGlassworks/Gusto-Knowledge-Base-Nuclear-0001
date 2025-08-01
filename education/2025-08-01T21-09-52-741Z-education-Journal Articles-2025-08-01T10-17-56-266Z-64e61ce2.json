@@ -1,0 +1,13 @@
+# Design Genetic Algorithm Optimization Education Software Based Fuzzy Controller for a Tricopter Fly Path Planning
+
+**Authors:** Tran, Huu-Khoa, Chiou, Juing -Shian, Peng, Shou-Tao
+
+## Abstract
+In this paper, the feasibility of a Genetic Algorithm Optimization (GAO) education software based Fuzzy Logic Controller (GAO-FLC) for simulating the flight motion control of Unmanned Aerial Vehicles (UAVs) is designed. The generated flight trajectories integrate the optimized Scaling Factors (SF) fuzzy controller gains by using GAO algorithm. The proposed controller underlines the superior tracking performance over standard Fuzzy Logic Controller. It is highly adaptive and can counteract environmental disturbances while guaranteeing global asymptotic stability and robust waypoint tracking.
+
+**Source:** https://eric.ed.gov/?id=EJ1094795
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:56.266Z

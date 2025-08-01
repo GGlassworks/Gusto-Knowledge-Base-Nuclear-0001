@@ -1,0 +1,13 @@
+# Adaptable Learning Pathway Generation with Ant Colony Optimization
+
+**Authors:** Wong, Lung-Hsiang, Looi, Chee-Kit
+
+## Abstract
+One of the new major directions in research on web-based educational systems is the notion of adaptability: the educational system adapts itself to the learning profile, preferences and ability of the student. In this paper, we look into the issues of providing adaptability with respect to learning pathways. We explore the state of the art with respective to deriving the most apt learning pathway to recommend to the learner. Our proposal suggests a novel way of modeling learning pathways that combines rule-based prescriptive planning, which could be found in many of the classic Intelligent Tutoring Systems, and Ant Colony Optimization-based inductive planning, for recommending learning paths by stochastically computing past learners' traveled paths and their performances. A web-based prototype has been developed using C# and .NET technologies. (Contains 4 figures and 4 tables.)
+
+**Source:** https://eric.ed.gov/?id=EJ857448
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T10:17:59.970Z
