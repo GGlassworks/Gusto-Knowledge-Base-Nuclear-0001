@@ -1,0 +1,12 @@
+# Rational AI: A comparison of human and AI responses to triggers of economic irrationality in poker
+
+**Authors:** C. Grace Haaf, Devansh Singh, Cinny Lin, Scofield Zou
+
+## Summary
+Humans exhibit irrational decision-making patterns in response to environmental triggers, such as experiencing an economic loss or gain. In this paper we investigate whether algorithms exhibit the same behavior by examining the observed decisions and latent risk and rationality parameters estimated by a random utility model with constant relative risk-aversion utility function. We use a dataset consisting of 10,000 hands of poker played by Pluribus, the first algorithm in the world to beat professional human players and find (1) Pluribus does shift its playing style in response to economic losses and gains, ceteris paribus; (2) Pluribus becomes more risk-averse and rational following a trigger but the humans become more risk-seeking and irrational; (3) the difference in playing styles between Pluribus and the humans on the dimensions of risk-aversion and rationality are particularly differentiable when both have experienced a trigger. This provides support that decision-making patterns could be used as "behavioral signatures" to identify human versus algorithmic decision-makers in unlabeled contexts.
+
+
+---
+Category: economics
+Subcategory: econ.TH
+Collected: 2025-08-01T20:43:24.618Z

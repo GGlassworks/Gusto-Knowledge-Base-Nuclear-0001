@@ -1,0 +1,12 @@
+# The fiscal response to revenue shocks
+
+**Authors:** Simon Berset, Martin Huber, Mark Schelker
+
+## Summary
+We study the impact of fiscal revenue shocks on local fiscal policy. We focus on the very volatile revenues from the immovable property gains tax in the canton of Zurich, Switzerland, and analyze fiscal behavior following large and rare positive and negative revenue shocks. We apply causal machine learning strategies and implement the post-double-selection LASSO estimator to identify the causal effect of revenue shocks on public finances. We show that local policymakers overall predominantly smooth fiscal shocks. However, we also find some patterns consistent with fiscal conservatism, where positive shocks are smoothed, while negative ones are mitigated by spending cuts.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:52:56.126Z

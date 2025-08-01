@@ -1,0 +1,12 @@
+# Verification Results for Age-Structured Models of Economic-Epidemics Dynamics
+
+**Authors:** Giorgio Fabbri, Fausto Gozzi, Giovanni Zanco
+
+## Summary
+In this paper we propose a macro-dynamic age-structured set-up for the analysis of epidemics/economic dynamics in continuous time. The resulting optimal control problem is reformulated in an infinite dimensional Hilbert space framework where we perform the basic steps of dynamic programming approach. Our main result is a verification theorem which allows to guess the feedback form of optimal strategies. This will be a departure point to discuss the behavior of the models of the family we introduce and their policy implications.
+
+
+---
+Category: economics
+Subcategory: econ.TH
+Collected: 2025-08-01T20:42:22.697Z

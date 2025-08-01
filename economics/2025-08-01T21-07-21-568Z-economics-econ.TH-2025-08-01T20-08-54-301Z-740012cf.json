@@ -1,0 +1,12 @@
+# Optimal Control of Prevention and Treatment in a Basic Macroeconomic-Epidemiological Model
+
+**Authors:** Davide La Torre, Tufail Malik, Simone Marsiglio
+
+## Summary
+We analyze the optimal control of disease prevention and treatment in a basic SIS model. We develop a simple macroeconomic setup in which the social planner determines how to optimally intervene, through income taxation, in order to minimize the social cost, inclusive of infection and economic costs, of the spread of an epidemic disease. The disease lowers economic production and thus income by reducing the size of the labor force employed in productive activities, tightening thus the economy's overall resources constraint. We consider a framework in which the planner uses the collected tax revenue to intervene in either prevention (aimed at reducing the rate of infection) or treatment (aimed at increasing the speed of recovery). Both optimal prevention and treatment policies allow the economy to achieve a disease-free equilibrium in the long run but their associated costs are substantially different along the transitional dynamic path. By quantifying the social costs associated with prevention and treatment we determine which policy is most cost-effective under different circumstances, showing that prevention (treatment) is desirable whenever the infectivity rate is low (high).
+
+
+---
+Category: economics
+Subcategory: econ.TH
+Collected: 2025-08-01T20:08:54.301Z

@@ -1,0 +1,12 @@
+# How to Use Data Science in Economics -- a Classroom Game Based on Cartel Detection
+
+**Authors:** Hannes Wallimann, Silvio Sticher
+
+## Summary
+We present a classroom game that integrates economics and data-science competencies. In the first two parts of the game, participants assume the roles of firms in a procurement market, where they must either adopt competitive behaviors or have the option to engage in collusion. Success in these parts hinges on their comprehension of market dynamics. In the third part of the game, participants transition to the role of competition-authority members. Drawing from recent literature on machine-learning-based cartel detection, they analyze the bids for patterns indicative of collusive (cartel) behavior. In this part of the game, success depends on data-science skills. We offer a detailed discussion on implementing the game, emphasizing considerations for accommodating diverging levels of preexisting knowledge in data science.
+
+
+---
+Category: economics
+Subcategory: econ.GN
+Collected: 2025-08-01T20:52:54.793Z

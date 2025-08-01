@@ -1,0 +1,12 @@
+# Linearly discounted economic MPC without terminal conditions for periodic optimal operation
+
+**Authors:** Lukas Schwenkel, Alexander Hadorn, Matthias A. Müller, Frank Allgöwer
+
+## Summary
+In this work, we study economic model predictive control (MPC) in situations where the optimal operating behavior is periodic. In such a setting, the performance of a standard economic MPC scheme without terminal conditions can generally be far from optimal even with arbitrarily long prediction horizons. Whereas there are modified economic MPC schemes that guarantee optimal performance, all of them are based on prior knowledge of the optimal period length or of the optimal periodic orbit itself. In contrast to these approaches, we propose to achieve optimality by multiplying the stage cost by a linear discount factor. This modification is not only easy to implement but also independent of any system- or cost-specific properties, making the scheme robust against online changes therein. Under standard dissipativity and controllability assumptions, we can prove that the resulting linearly discounted economic MPC without terminal conditions achieves optimal asymptotic average performance up to an error that vanishes with growing prediction horizons. Moreover, we can guarantee practical asymptotic stability of the optimal periodic orbit under the additional technical assumption that dissipativity holds with a continuous storage function. We complement these qualitative guarantees with a quantitative analysis of the transient and asymptotic average performance of the linearly discounted MPC scheme in a numerical simulation study.
+
+
+---
+Category: economics
+Subcategory: eess.SY
+Collected: 2025-08-01T20:42:23.897Z

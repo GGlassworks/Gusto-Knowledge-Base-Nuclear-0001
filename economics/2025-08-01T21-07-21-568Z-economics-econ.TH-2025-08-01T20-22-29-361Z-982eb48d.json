@@ -1,0 +1,12 @@
+# Discussion about the assumptions of Category Theory approach to agent-based modeling in microeconomics
+
+**Authors:** Panu Jalas
+
+## Summary
+We investigate a possible category theoretical description for agent based modeling by outlining justifications for two main principles to describe the valuations in a realistic way in microeconomics: 1) It is assumed that the valuations can be expressed as a subcategory of the category of metric space so that value differences between various objects, that agents assign to them, can be expressed with a metric that is consistent with the concept of distance in mathematical metric spaces. 2) In realistic economic models, the category of valuations does not consist of linear spaces other than in special cases. We also discuss how category theoretical concepts such as morphisms and functors can be used to express transformations within categories and relations between other categories. We then present examples how functors and morphisms could be used to describe relationships and operations, such as ownership changes, transactions, and price formation, in the context of some of the established theories in microeconomics. Finally, we discuss briefly possible applications, such as product design and price optimization.
+
+
+---
+Category: economics
+Subcategory: econ.TH
+Collected: 2025-08-01T20:22:29.361Z

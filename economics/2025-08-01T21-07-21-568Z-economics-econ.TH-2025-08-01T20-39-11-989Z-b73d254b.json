@@ -1,0 +1,12 @@
+# Integration of Behavioral Economic Models to Optimize ML performance and interpretability: a sandbox example
+
+**Authors:** Emilio Soria-Olivas, José E. Vila Gisbert, Regino Barranquero Cardeñosa, Yolanda Gomez
+
+## Summary
+This paper presents a sandbox example of how the integration of models borrowed from Behavioral Economic (specifically Protection-Motivation Theory) into ML algorithms (specifically Bayesian Networks) can improve the performance and interpretability of ML algorithms when applied to Behavioral Data. The integration of Behavioral Economics knowledge to define the architecture of the Bayesian Network increases the accuracy of the predictions in 11 percentage points. Moreover, it simplifies the training process, making unnecessary training computational efforts to identify the optimal structure of the Bayesian Network. Finally, it improves the explicability of the algorithm, avoiding illogical relations among variables that are not supported by previous behavioral cybersecurity literature. Although preliminary and limited to 0ne simple model trained with a small dataset, our results suggest that the integration of behavioral economics and complex ML models may open a promising strategy to improve the predictive power, training costs and explicability of complex ML models. This integration will contribute to solve the scientific issue of ML exhaustion problem and to create a new ML technology with relevant scientific, technological and market implications.
+
+
+---
+Category: economics
+Subcategory: econ.TH
+Collected: 2025-08-01T20:39:11.989Z

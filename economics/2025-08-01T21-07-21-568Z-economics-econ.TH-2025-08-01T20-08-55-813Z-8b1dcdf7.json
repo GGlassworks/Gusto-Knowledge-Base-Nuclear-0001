@@ -1,0 +1,12 @@
+# Causal Discovery of Macroeconomic State-Space Models
+
+**Authors:** Emmet Hall-Hoffarth
+
+## Summary
+This paper presents a set of tests and an algorithm for agnostic, data-driven selection among macroeconomic DSGE models inspired by structure learning methods for DAGs. As the log-linear state-space solution to any DSGE model is also a DAG it is possible to use associated concepts to identify a unique ground-truth state-space model which is compatible with an underlying DGP, based on the conditional independence relationships which are present in that DGP. In order to operationalise search for this ground-truth model, the algorithm tests feasible analogues of these conditional independence criteria against the set of combinatorially possible state-space models over observed variables. This process is consistent in large samples. In small samples the result may not be unique, so conditional independence tests can be combined with likelihood maximisation in order to select a single optimal model. The efficacy of this algorithm is demonstrated for simulated data, and results for real data are also provided and discussed.
+
+
+---
+Category: economics
+Subcategory: econ.TH
+Collected: 2025-08-01T20:08:55.815Z

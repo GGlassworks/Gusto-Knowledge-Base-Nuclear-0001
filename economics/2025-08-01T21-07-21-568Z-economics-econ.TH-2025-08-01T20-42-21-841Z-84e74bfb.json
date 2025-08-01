@@ -1,0 +1,12 @@
+# Modeling the out-of-equilibrium dynamics of bounded rationality and economic constraints
+
+**Authors:** Oliver Richters
+
+## Summary
+The analogies between economics and classical mechanics can be extended from constrained optimization to constrained dynamics by formalizing economic (constraint) forces and economic power in analogy to physical (constraint) forces in Lagrangian mechanics. In the differential-algebraic equation framework of General Constrained Dynamics (GCD), households, firms, banks, and the government employ forces to change economic variables according to their desire and their power to assert their interest. These ex-ante forces are completed by constraint forces from unanticipated system constraints to yield the ex-post dynamics. The flexible out-of-equilibrium model can combine Keynesian concepts such as the balance sheet approach and slow adaptation of prices and quantities with bounded rationality (gradient climbing) and interacting agents discussed in behavioral economics and agent-based models. The framework integrates some elements of different schools of thought and overcomes some restrictions inherent to optimization approaches, such as the assumption of markets operating in or close to equilibrium. Depending on the parameter choice for power relations and adaptation speeds, the model nevertheless can converge to a neoclassical equilibrium, and reacts to an austerity shock in a neoclassical or post-Keynesian way.
+
+
+---
+Category: economics
+Subcategory: econ.TH
+Collected: 2025-08-01T20:42:21.841Z

@@ -1,0 +1,12 @@
+# A Multicriteria Macroeconomic Model with Intertemporal Equity and Spatial Spillovers
+
+**Authors:** Herb Kunze, Davide La Torre, Simone Marsiglio
+
+## Summary
+We analyze a macroeconomic model with intergenerational equity considerations and spatial spillovers, which gives rise to a multicriteria optimization problem. Intergenerational equity requires to add in the definition of social welfare a long run sustainability criterion to the traditional discounted utilitarian criterion. The spatial structure allows for the possibility of heterogeneiity and spatial diffusion implies that all locations within the spatial domain are interconnected via spatial spillovers. We rely on different techniques (scalarization, $\epsilon$-constraint method and goal programming) to analyze such a spatial multicriteria problem, relying on numerical approaches to illustrate the nature of the trade-off between the discounted utilitarian and the sustainability criteria.
+
+
+---
+Category: economics
+Subcategory: econ.TH
+Collected: 2025-08-01T20:08:54.867Z
