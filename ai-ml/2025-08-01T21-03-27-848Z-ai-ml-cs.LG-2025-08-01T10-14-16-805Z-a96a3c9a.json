@@ -1,0 +1,12 @@
+# Explainable Online Lane Change Predictions on a Digital Twin with a Layer Normalized LSTM and Layer-wise Relevance Propagation
+
+**Authors:** Christoph Wehner, Francis Powlesland, Bashar Altakrouri, Ute Schmid
+
+## Summary
+Artificial Intelligence and Digital Twins play an integral role in driving innovation in the domain of intelligent driving. Long short-term memory (LSTM) is a leading driver in the field of lane change prediction for manoeuvre anticipation. However, the decision-making process of such models is complex and non-transparent, hence reducing the trustworthiness of the smart solution. This work presents an innovative approach and a technical implementation for explaining lane change predictions of layer normalized LSTMs using Layer-wise Relevance Propagation (LRP). The core implementation includes consuming live data from a digital twin on a German highway, live predictions and explanations of lane changes by extending LRP to layer normalized LSTMs, and an interface for communicating and explaining the predictions to a human user. We aim to demonstrate faithful, understandable, and adaptable explanations of lane change prediction to increase the adoption and trustworthiness of AI systems that involve humans. Our research also emphases that explainability and state-of-the-art performance of ML models for manoeuvre anticipation go hand in hand without negatively affecting predictive effectiveness.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:16.806Z

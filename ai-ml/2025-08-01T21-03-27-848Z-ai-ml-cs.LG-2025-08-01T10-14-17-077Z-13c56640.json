@@ -1,0 +1,12 @@
+# Detection of AI-Synthesized Speech Using Cepstral &amp; Bispectral Statistics
+
+**Authors:** Arun Kumar Singh, Priyanka Singh
+
+## Summary
+Digital technology has made possible unimaginable applications come true. It seems exciting to have a handful of tools for easy editing and manipulation, but it raises alarming concerns that can propagate as speech clones, duplicates, or maybe deep fakes. Validating the authenticity of a speech is one of the primary problems of digital audio forensics. We propose an approach to distinguish human speech from AI synthesized speech exploiting the Bi-spectral and Cepstral analysis. Higher-order statistics have less correlation for human speech in comparison to a synthesized speech. Also, Cepstral analysis revealed a durable power component in human speech that is missing for a synthesized speech. We integrate both these analyses and propose a machine learning model to detect AI synthesized speech.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:17.077Z

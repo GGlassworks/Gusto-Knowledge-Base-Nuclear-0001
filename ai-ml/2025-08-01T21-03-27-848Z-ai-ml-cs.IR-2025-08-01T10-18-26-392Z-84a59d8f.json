@@ -1,0 +1,12 @@
+# AI supported Topic Modeling using KNIME-Workflows
+
+**Authors:** Jamal Al Qundus, Silvio Peikert, Adrian Paschke
+
+## Summary
+Topic modeling algorithms traditionally model topics as list of weighted terms. These topic models can be used effectively to classify texts or to support text mining tasks such as text summarization or fact extraction. The general procedure relies on statistical analysis of term frequencies. The focus of this work is on the implementation of the knowledge-based topic modelling services in a KNIME workflow. A brief description and evaluation of the DBPedia-based enrichment approach and the comparative evaluation of enriched topic models will be outlined based on our previous work. DBpedia-Spotlight is used to identify entities in the input text and information from DBpedia is used to extend these entities. We provide a workflow developed in KNIME implementing this approach and perform a result comparison of topic modeling supported by knowledge base information to traditional LDA. This topic modeling approach allows semantic interpretation both by algorithms and by humans.
+
+
+---
+Category: ai-ml
+Subcategory: cs.IR
+Collected: 2025-08-01T10:18:26.392Z

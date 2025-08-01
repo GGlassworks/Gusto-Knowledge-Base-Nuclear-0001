@@ -1,0 +1,12 @@
+# Fewer Than 1% of Explainable AI Papers Validate Explainability with Humans
+
+**Authors:** Ashley Suh, Isabelle Hurley, Nora Smith, Ho Chit Siu
+
+## Summary
+This late-breaking work presents a large-scale analysis of explainable AI (XAI) literature to evaluate claims of human explainability. We collaborated with a professional librarian to identify 18,254 papers containing keywords related to explainability and interpretability. Of these, we find that only 253 papers included terms suggesting human involvement in evaluating an XAI technique, and just 128 of those conducted some form of a human study. In other words, fewer than 1% of XAI papers (0.7%) provide empirical evidence of human explainability when compared to the broader body of XAI literature. Our findings underscore a critical gap between claims of human explainability and evidence-based validation, raising concerns about the rigor of XAI research. We call for increased emphasis on human evaluations in XAI studies and provide our literature search methodology to enable both reproducibility and further investigation into this widespread issue.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:34.948Z

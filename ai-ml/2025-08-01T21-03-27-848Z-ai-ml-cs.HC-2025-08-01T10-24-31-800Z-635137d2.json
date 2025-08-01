@@ -1,0 +1,12 @@
+# Behavioural gap assessment of human-vehicle interaction in real and virtual reality-based scenarios in autonomous driving
+
+**Authors:** Sergio. Martín Serrano, Rubén Izquierdo, Iván García Daza, Miguel Ángel Sotelo, D. Fernández Llorca
+
+## Summary
+In the field of autonomous driving research, the use of immersive virtual reality (VR) techniques is widespread to enable a variety of studies under safe and controlled conditions. However, this methodology is only valid and consistent if the conduct of participants in the simulated setting mirrors their actions in an actual environment. In this paper, we present a first and innovative approach to evaluating what we term the behavioural gap, a concept that captures the disparity in a participant's conduct when engaging in a VR experiment compared to an equivalent real-world situation. To this end, we developed a digital twin of a pre-existed crosswalk and carried out a field experiment (N=18) to investigate pedestrian-autonomous vehicle interaction in both real and simulated driving conditions. In the experiment, the pedestrian attempts to cross the road in the presence of different driving styles and an external Human-Machine Interface (eHMI). By combining survey-based and behavioural analysis methodologies, we develop a quantitative approach to empirically assess the behavioural gap, as a mechanism to validate data obtained from real subjects interacting in a simulated VR-based environment. Results show that participants are more cautious and curious in VR, affecting their speed and decisions, and that VR interfaces significantly influence their actions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:24:31.800Z

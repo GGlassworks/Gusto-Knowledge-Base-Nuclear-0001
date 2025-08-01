@@ -1,0 +1,12 @@
+# Haptic Repurposing with GenAI
+
+**Authors:** Haoyu Wang
+
+## Summary
+Mixed Reality aims to merge the digital and physical worlds to create immersive human-computer interactions. Despite notable advancements, the absence of realistic haptic feedback often breaks the immersive experience by creating a disconnect between visual and tactile perceptions. This paper introduces Haptic Repurposing with GenAI, an innovative approach to enhance MR interactions by transforming any physical objects into adaptive haptic interfaces for AI-generated virtual assets. Utilizing state-of-the-art generative AI models, this system captures both 2D and 3D features of physical objects and, through user-directed prompts, generates corresponding virtual objects that maintain the physical form of the original objects. Through model-based object tracking, the system dynamically anchors virtual assets to physical props in real time, allowing objects to visually morph into any user-specified virtual object. This paper details the system's development, presents findings from usability studies that validate its effectiveness, and explores its potential to significantly enhance interactive MR environments. The hope is this work can lay a foundation for further research into AI-driven spatial transformation in immersive and haptic technologies.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:22:58.081Z

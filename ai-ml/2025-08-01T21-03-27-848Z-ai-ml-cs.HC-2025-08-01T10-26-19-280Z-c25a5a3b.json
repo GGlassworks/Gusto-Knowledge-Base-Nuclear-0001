@@ -1,0 +1,12 @@
+# Can AI and humans genuinely communicate?
+
+**Authors:** Constant Bonard
+
+## Summary
+Can AI and humans genuinely communicate? In this article, after giving some background and motivating my proposal (sections 1 to 3), I explore a way to answer this question that I call the "mental-behavioral methodology" (sections 4 and 5). This methodology follows the following three steps: First, spell out what mental capacities are sufficient for human communication (as opposed to communication more generally). Second, spell out the experimental paradigms required to test whether a behavior exhibits these capacities. Third, apply or adapt these paradigms to test whether an AI displays the relevant behaviors. If the first two steps are successfully completed, and if the AI passes the tests with human-like results, this constitutes evidence that this AI and humans can genuinely communicate. This mental-behavioral methodology has the advantage that we don't need to understand the workings of black-box algorithms, such as standard deep neural networks. This is comparable to the fact that we don't need to understand how human brains work to know that humans can genuinely communicate. This methodology also has its disadvantages and I will discuss some of them (section 6).
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:19.280Z

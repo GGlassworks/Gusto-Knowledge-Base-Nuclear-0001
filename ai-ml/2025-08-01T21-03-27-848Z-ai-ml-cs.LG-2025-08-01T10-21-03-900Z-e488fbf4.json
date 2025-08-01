@@ -1,0 +1,12 @@
+# Physiological-Model-Based Neural Network for Heart Rate Estimation during Daily Physical Activities
+
+**Authors:** Yaowen Zhang, Libera Fresiello, Peter H. Veltink, Dirk W. Donker, Ying Wang
+
+## Summary
+Heart failure (HF) poses a significant global health challenge, with early detection offering opportunities for improved outcomes. Abnormalities in heart rate (HR), particularly during daily activities, may serve as early indicators of HF risk. However, existing HR monitoring tools for HF detection are limited by their reliability on population-based averages. The estimation of individualized HR serves as a dynamic digital twin, enabling precise tracking of cardiac health biomarkers. Current HR estimation methods, categorized into physiologically-driven and purely data-driven models, struggle with efficiency and interpretability. This study introduces a novel physiological-model-based neural network (PMB-NN) framework for HR estimation based on oxygen uptake (VO2) data during daily physical activities. The framework was trained and tested on individual datasets from 12 participants engaged in activities including resting, cycling, and running. By embedding physiological constraints, which were derived from our proposed simplified human movement physiological model (PM), into the neural network training process, the PMB-NN model adheres to human physiological principles while achieving high estimation accuracy, with a median R$^2$ score of 0.8 and an RMSE of 8.3 bpm. Comparative statistical analysis demonstrates that the PMB-NN achieves performance on par with the benchmark neural network model while significantly outperforming traditional physiological model (p=0.002). In addition, our PMB-NN is adept at identifying personalized parameters of the PM, enabling the PM to generate reasonable HR estimation. The proposed framework with a precise VO2 estimation system derived from body movements enables the future possibilities of personalized and real-time cardiac monitoring during daily life physical activities.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:03.900Z

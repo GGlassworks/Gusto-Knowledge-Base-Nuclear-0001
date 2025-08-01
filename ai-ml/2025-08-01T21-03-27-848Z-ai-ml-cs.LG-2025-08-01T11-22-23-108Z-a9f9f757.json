@@ -1,0 +1,12 @@
+# Error Bounds for a Matrix-Vector Product Approximation with Deep ReLU Neural Networks
+
+**Authors:** Tilahun M. Getu
+
+## Summary
+Among the several paradigms of artificial intelligence (AI) or machine learning (ML), a remarkably successful paradigm is deep learning. Deep learning's phenomenal success has been hoped to be interpreted via fundamental research on the theory of deep learning. Accordingly, applied research on deep learning has spurred the theory of deep learning-oriented depth and breadth of developments. Inspired by such developments, we pose these fundamental questions: can we accurately approximate an arbitrary matrix-vector product using deep rectified linear unit (ReLU) feedforward neural networks (FNNs)? If so, can we bound the resulting approximation error? In light of these questions, we derive error bounds in Lebesgue and Sobolev norms that comprise our developed deep approximation theory. Guided by this theory, we have successfully trained deep ReLU FNNs whose test results justify our developed theory. The developed theory is also applicable for guiding and easing the training of teacher deep ReLU FNNs in view of the emerging teacher-student AI or ML paradigms that are essential for solving several AI or ML problems in wireless communications and signal processing; network science and graph signal processing; and network neuroscience and brain physics.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T11:22:23.120Z

@@ -1,0 +1,12 @@
+# iTRI-QA: a Toolset for Customized Question-Answer Dataset Generation Using Language Models for Enhanced Scientific Research
+
+**Authors:** Qiming Liu, Zhongzheng Niu, Siting Liu, Mao Tian
+
+## Summary
+The exponential growth of AI in science necessitates efficient and scalable solutions for retrieving and preserving research information. Here, we present a tool for the development of a customized question-answer (QA) dataset, called Interactive Trained Research Innovator (iTRI) - QA, tailored for the needs of researchers leveraging language models (LMs) to retrieve scientific knowledge in a QA format. Our approach integrates curated QA datasets with a specialized research paper dataset to enhance responses' contextual relevance and accuracy using fine-tuned LM. The framework comprises four key steps: (1) the generation of high-quality and human-generated QA examples, (2) the creation of a structured research paper database, (3) the fine-tuning of LMs using domain-specific QA examples, and (4) the generation of QA dataset that align with user queries and the curated database. This pipeline provides a dynamic and domain-specific QA system that augments the utility of LMs in academic research that will be applied for future research LM deployment. We demonstrate the feasibility and scalability of our tool for streamlining knowledge retrieval in scientific contexts, paving the way for its integration into broader multi-disciplinary applications.
+
+
+---
+Category: ai-ml
+Subcategory: cs.IR
+Collected: 2025-08-01T10:16:24.772Z

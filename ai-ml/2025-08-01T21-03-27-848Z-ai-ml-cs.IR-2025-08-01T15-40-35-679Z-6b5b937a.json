@@ -1,0 +1,12 @@
+# Single-Item Fashion Recommender: Towards Cross-Domain Recommendations
+
+**Authors:** Seyed Omid Mohammadi, Hossein Bodaghi, Ahmad Kalhor
+
+## Summary
+Nowadays, recommender systems and search engines play an integral role in fashion e-commerce. Still, many challenges lie ahead, and this study tries to tackle some. This article first suggests a content-based fashion recommender system that uses a parallel neural network to take a single fashion item shop image as input and make in-shop recommendations by listing similar items available in the store. Next, the same structure is enhanced to personalize the results based on user preferences. This work then introduces a background augmentation technique that makes the system more robust to out-of-domain queries, enabling it to make street-to-shop recommendations using only a training set of catalog shop images. Moreover, the last contribution of this paper is a new evaluation metric for recommendation tasks called objective-guided human score. This method is an entirely customizable framework that produces interpretable, comparable scores from subjective evaluations of human scorers.
+
+
+---
+Category: ai-ml
+Subcategory: cs.IR
+Collected: 2025-08-01T15:40:35.679Z

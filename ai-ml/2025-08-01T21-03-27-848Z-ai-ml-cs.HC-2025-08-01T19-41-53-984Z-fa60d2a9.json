@@ -1,0 +1,12 @@
+# Decoding Visual Imagery from EEG Signals using Visual Perception Guided Network Training Method
+
+**Authors:** Byoung-Hee Kwon, Jeong-Hyun Cho, Byeong-Hoo Lee
+
+## Summary
+An electroencephalogram is an effective approach that provides a bidirectional pathway between user and computer in a non-invasive way. In this study, we adopted the visual perception data for training the visual imagery decoding network. We proposed a visual perception-guided network training approach for decoding visual imagery. Visual perception decreases the power of the alpha frequency range of the visual cortex over time when the user performed the task, and visual imagery increases the power of the alpha frequency range of the visual cortex over time as the user performed with the task. Generated brain signals when the user performing visual imagery and visual perception have opposite brain activity tendencies, and we used these characteristics to design the proposed network. When using the proposed method, the average classification performance of visual imagery with the visual perception data was 0.7008. Our results provide the possibility of using the visual perception data as a guide of the visual imagery classification network training.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T19:41:53.985Z

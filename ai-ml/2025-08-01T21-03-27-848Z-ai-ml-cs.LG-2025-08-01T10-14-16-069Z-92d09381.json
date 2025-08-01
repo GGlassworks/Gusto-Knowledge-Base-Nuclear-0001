@@ -1,0 +1,12 @@
+# Digital Twin Graph: Automated Domain-Agnostic Construction, Fusion, and Simulation of IoT-Enabled World
+
+**Authors:** Jiadi Du, Tie Luo
+
+## Summary
+With the advances of IoT developments, copious sensor data are communicated through wireless networks and create the opportunity of building Digital Twins to mirror and simulate the complex physical world. Digital Twin has long been believed to rely heavily on domain knowledge, but we argue that this leads to a high barrier of entry and slow development due to the scarcity and cost of human experts. In this paper, we propose Digital Twin Graph (DTG), a general data structure associated with a processing framework that constructs digital twins in a fully automated and domain-agnostic manner. This work represents the first effort that takes a completely data-driven and (unconventional) graph learning approach to addresses key digital twin challenges.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:16.070Z

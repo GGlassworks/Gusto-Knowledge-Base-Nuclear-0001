@@ -1,0 +1,12 @@
+# Adversarial Random Forest Classifier for Automated Game Design
+
+**Authors:** Thomas Maurer, Matthew Guzdial
+
+## Summary
+Autonomous game design, generating games algorithmically, has been a longtime goal within the technical games research field. However, existing autonomous game design systems have relied in large part on human-authoring for game design knowledge, such as fitness functions in search-based methods. In this paper, we describe an experiment to attempt to learn a human-like fitness function for autonomous game design in an adversarial manner. While our experimental work did not meet our expectations, we present an analysis of our system and results that we hope will be informative to future autonomous game design research.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:18.389Z

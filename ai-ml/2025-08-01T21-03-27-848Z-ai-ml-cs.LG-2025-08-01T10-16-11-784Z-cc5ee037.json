@@ -1,0 +1,12 @@
+# Detecting Suspicious Events in Fast Information Flows
+
+**Authors:** Kristiaan Pelckmans, Moustafa Aboushady, Andreas Brosemyr
+
+## Summary
+We describe a computational feather-light and intuitive, yet provably efficient algorithm, named HALFADO. HALFADO is designed for detecting suspicious events in a high-frequency stream of complex entries, based on a relatively small number of examples of human judgement. Operating a sufficiently accurate detection system is vital for {\em assisting} teams of human experts in many different areas of the modern digital society. These systems have intrinsically a far-reaching normative effect, and public knowledge of the workings of such technology should be a human right. On a conceptual level, the present approach extends one of the most classical learning algorithms for classification, inheriting its theoretical properties. It however works in a semi-supervised way integrating human and computational intelligence. On a practical level, this algorithm transcends existing approaches (expert systems) by managing and boosting their performance into a single global detector. We illustrate HALFADO's efficacy on two challenging applications: (1) for detecting {\em hate speech} messages in a flow of text messages gathered from a social media platform, and (2) for a Transaction Monitoring System (TMS) in FinTech detecting fraudulent transactions in a stream of financial transactions. This algorithm illustrates that - contrary to popular belief - advanced methods of machine learning need not require neither advanced levels of computation power nor expensive annotation efforts.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:11.784Z

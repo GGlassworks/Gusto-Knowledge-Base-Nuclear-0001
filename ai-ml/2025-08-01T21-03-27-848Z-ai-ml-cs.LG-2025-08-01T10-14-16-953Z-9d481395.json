@@ -1,0 +1,12 @@
+# Encoder-Decoder Networks for Self-Supervised Pretraining and Downstream Signal Bandwidth Regression on Digital Antenna Arrays
+
+**Authors:** Rajib Bhattacharjea, Nathan West
+
+## Summary
+This work presents the first applications of self-supervised learning applied to data from digital antenna arrays. Encoder-decoder networks are pretrained on digital array data to perform a self-supervised noisy-reconstruction task called channel in-painting, in which the network infers the contents of array data that has been masked with zeros. The self-supervised step requires no human-labeled data. The encoder architecture and weights from pretraining are then transferred to a new network with a task-specific decoder, and the new network is trained on a small volume of labeled data. We show that pretraining on the unlabeled data allows the new network to perform the task of bandwidth regression on the digital array data better than an equivalent network that is trained on the same labeled data from random initialization.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:16.953Z

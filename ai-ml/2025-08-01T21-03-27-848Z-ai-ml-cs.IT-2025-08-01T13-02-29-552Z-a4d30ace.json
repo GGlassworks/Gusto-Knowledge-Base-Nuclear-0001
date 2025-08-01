@@ -1,0 +1,12 @@
+# Communication-Efficient LDPC Code Design for Data Availability Oracle in Side Blockchains
+
+**Authors:** Debarnab Mitra, Lev Tauz, Lara Dolecek
+
+## Summary
+A popular method of improving the throughput of blockchain systems is by running smaller side blockchains that push the hashes of their blocks onto a trusted blockchain. Side blockchains are vulnerable to stalling attacks where a side blockchain node pushes the hash of a block to the trusted blockchain but makes the block unavailable to other side blockchain nodes. Recently, Sheng et al. proposed a data availability oracle based on LDPC codes and a data dispersal protocol as a solution to the above problem. While showing improvements, the codes and dispersal protocol were designed disjointly which may not be optimal in terms of the communication cost associated with the oracle. In this paper, we provide a tailored dispersal protocol and specialized LDPC code construction based on the Progressive Edge Growth (PEG) algorithm, called the dispersal-efficient PEG (DE-PEG) algorithm, aimed to reduce the communication cost associated with the new dispersal protocol. Our new code construction reduces the communication cost and, additionally, is less restrictive in terms of system design.
+
+
+---
+Category: ai-ml
+Subcategory: cs.IT
+Collected: 2025-08-01T13:02:29.552Z

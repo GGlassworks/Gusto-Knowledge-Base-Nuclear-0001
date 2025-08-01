@@ -1,0 +1,12 @@
+# Page image classification for content-specific data processing
+
+**Authors:** Kateryna Lutsai, Pavel Straňák
+
+## Summary
+Digitization projects in humanities often generate vast quantities of page images from historical documents, presenting significant challenges for manual sorting and analysis. These archives contain diverse content, including various text types (handwritten, typed, printed), graphical elements (drawings, maps, photos), and layouts (plain text, tables, forms). Efficiently processing this heterogeneous data requires automated methods to categorize pages based on their content, enabling tailored downstream analysis pipelines. This project addresses this need by developing and evaluating an image classification system specifically designed for historical document pages, leveraging advancements in artificial intelligence and machine learning. The set of categories was chosen to facilitate content-specific processing workflows, separating pages requiring different analysis techniques (e.g., OCR for text, image analysis for graphics)
+
+
+---
+Category: ai-ml
+Subcategory: cs.IR
+Collected: 2025-08-01T10:24:30.744Z

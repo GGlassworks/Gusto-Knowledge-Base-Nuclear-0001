@@ -1,0 +1,12 @@
+# Enhancing spatial auditory attention decoding with neuroscience-inspired prototype training
+
+**Authors:** Zelin Qiu, Jianjun Gu, Dingding Yao, Junfeng Li
+
+## Summary
+The spatial auditory attention decoding (Sp-AAD) technology aims to determine the direction of auditory attention in multi-talker scenarios via neural recordings. Despite the success of recent Sp-AAD algorithms, their performance is hindered by trial-specific features in EEG data. This study aims to improve decoding performance against these features. Studies in neuroscience indicate that spatial auditory attention can be reflected in the topological distribution of EEG energy across different frequency bands. This insight motivates us to propose Prototype Training, a neuroscience-inspired method for Sp-AAD. This method constructs prototypes with enhanced energy distribution representations and reduced trial-specific characteristics, enabling the model to better capture auditory attention features. To implement prototype training, an EEGWaveNet that employs the wavelet transform of EEG is further proposed. Detailed experiments indicate that the EEGWaveNet with prototype training outperforms other competitive models on various datasets, and the effectiveness of the proposed method is also validated. As a training method independent of model architecture, prototype training offers new insights into the field of Sp-AAD.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T17:04:17.333Z

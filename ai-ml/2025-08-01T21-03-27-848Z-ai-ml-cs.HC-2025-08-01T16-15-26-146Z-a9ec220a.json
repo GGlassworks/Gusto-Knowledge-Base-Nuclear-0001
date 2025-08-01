@@ -1,0 +1,12 @@
+# Civil Society in the Loop: Feedback-Driven Adaptation of (L)LM-Assisted Classification in an Open-Source Telegram Monitoring Tool
+
+**Authors:** Milena Pustet, Elisabeth Steffen, Helena Mihaljević, Grischa Stanjek, Yannis Illies
+
+## Summary
+The role of civil society organizations (CSOs) in monitoring harmful online content is increasingly crucial, especially as platform providers reduce their investment in content moderation. AI tools can assist in detecting and monitoring harmful content at scale. However, few open-source tools offer seamless integration of AI models and social media monitoring infrastructures. Given their thematic expertise and contextual understanding of harmful content, CSOs should be active partners in co-developing technological tools, providing feedback, helping to improve models, and ensuring alignment with stakeholder needs and values, rather than as passive 'consumers'. However, collaborations between the open source community, academia, and civil society remain rare, and research on harmful content seldom translates into practical tools usable by civil society actors. This work in progress explores how CSOs can be meaningfully involved in an AI-assisted open-source monitoring tool of anti-democratic movements on Telegram, which we are currently developing in collaboration with CSO stakeholders.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T16:15:26.146Z

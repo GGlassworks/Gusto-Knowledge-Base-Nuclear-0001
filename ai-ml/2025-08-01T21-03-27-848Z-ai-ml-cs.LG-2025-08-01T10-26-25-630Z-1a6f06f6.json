@@ -1,0 +1,12 @@
+# A Review of Global Sensitivity Analysis Methods and a comparative case study on Digit Classification
+
+**Authors:** Zahra Sadeghi, Stan Matwin
+
+## Summary
+Global sensitivity analysis (GSA) aims to detect influential input factors that lead a model to arrive at a certain decision and is a significant approach for mitigating the computational burden of processing high dimensional data. In this paper, we provide a comprehensive review and a comparison on global sensitivity analysis methods. Additionally, we propose a methodology for evaluating the efficacy of these methods by conducting a case study on MNIST digit dataset. Our study goes through the underlying mechanism of widely used GSA methods and highlights their efficacy through a comprehensive methodology.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:26:25.631Z

@@ -1,0 +1,12 @@
+# Knowledge-based Refinement of Scientific Publication Knowledge Graphs
+
+**Authors:** Siwen Yan, Phillip Odom, Sriraam Natarajan
+
+## Summary
+We consider the problem of identifying authorship by posing it as a knowledge graph construction and refinement. To this effect, we model this problem as learning a probabilistic logic model in the presence of human guidance (knowledge-based learning). Specifically, we learn relational regression trees using functional gradient boosting that outputs explainable rules. To incorporate human knowledge, advice in the form of first-order clauses is injected to refine the trees. We demonstrate the usefulness of human knowledge both quantitatively and qualitatively in seven authorship domains.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:16.615Z

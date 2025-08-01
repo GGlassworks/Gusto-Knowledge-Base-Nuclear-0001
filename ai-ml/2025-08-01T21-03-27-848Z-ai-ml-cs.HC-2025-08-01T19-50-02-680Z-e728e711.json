@@ -1,0 +1,12 @@
+# Intelligent Canvas: Enabling Design-Like Exploratory Visual Data Analysis with Generative AI through Rapid Prototyping, Iteration and Curation
+
+**Authors:** Zijian Ding, Joel Chan
+
+## Summary
+Complex data analysis inherently seeks unexpected insights through exploratory visual analysis methods, transcending logical, step-by-step processing. However, existing interfaces such as notebooks and dashboards have limitations in exploration and comparison for visual data analysis. Addressing these limitations, we introduce a "design-like" intelligent canvas environment integrating generative AI into data analysis, offering rapid prototyping, iteration, and comparative visualization management. Our dual contributions include the integration of generative AI components into a canvas interface, and empirical findings from a user study (N=10) evaluating the effectiveness of the canvas interface.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T19:50:02.680Z

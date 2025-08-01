@@ -1,0 +1,12 @@
+# Towards Equivalent Transformation of User Preferences in Cross Domain Recommendation
+
+**Authors:** Xu Chen, Ya Zhang, Ivor Tsang, Yuangang Pan, Jingchao Su
+
+## Summary
+Cross domain recommendation (CDR) is one popular research topic in recommender systems. This paper focuses on a popular scenario for CDR where different domains share the same set of users but no overlapping items. The majority of recent methods have explored the shared-user representation to transfer knowledge across domains. However, the idea of shared-user representation resorts to learn the overlapped features of user preferences and suppresses the domain-specific features. Other works try to capture the domain-specific features by an MLP mapping but require heuristic human knowledge of choosing samples to train the mapping. In this paper, we attempt to learn both features of user preferences in a more principled way. We assume that each user's preferences in one domain can be expressed by the other one, and these preferences can be mutually converted to each other with the so-called equivalent transformation. Based on this assumption, we propose an equivalent transformation learner (ETL) which models the joint distribution of user behaviors across domains. The equivalent transformation in ETL relaxes the idea of shared-user representation and allows the learned preferences in different domains to preserve the domain-specific features as well as the overlapped features. Extensive experiments on three public benchmarks demonstrate the effectiveness of ETL compared with recent state-of-the-art methods. Codes and data are available online:~\url{https://github.com/xuChenSJTU/ETL-master}
+
+
+---
+Category: ai-ml
+Subcategory: cs.IR
+Collected: 2025-08-01T19:58:30.166Z

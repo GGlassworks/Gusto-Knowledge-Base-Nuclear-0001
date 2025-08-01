@@ -1,0 +1,12 @@
+# Causal Reasoning: Charting a Revolutionary Course for Next-Generation AI-Native Wireless Networks
+
+**Authors:** Christo Kurisummoottil Thomas, Christina Chaccour, Walid Saad, Merouane Debbah, Choong Seon Hong
+
+## Summary
+Despite the basic premise that next-generation wireless networks (e.g., 6G) will be artificial intelligence (AI)-native, to date, most existing efforts remain either qualitative or incremental extensions to existing "AI for wireless" paradigms. Indeed, creating AI-native wireless networks faces significant technical challenges due to the limitations of data-driven, training-intensive AI. These limitations include the black-box nature of the AI models, their curve-fitting nature, which can limit their ability to reason and adapt, their reliance on large amounts of training data, and the energy inefficiency of large neural networks. In response to these limitations, this article presents a comprehensive, forward-looking vision that addresses these shortcomings by introducing a novel framework for building AI-native wireless networks; grounded in the emerging field of causal reasoning. Causal reasoning, founded on causal discovery, causal representation learning, and causal inference, can help build explainable, reasoning-aware, and sustainable wireless networks. Towards fulfilling this vision, we first highlight several wireless networking challenges that can be addressed by causal discovery and representation, including ultra-reliable beamforming for terahertz (THz) systems, near-accurate physical twin modeling for digital twins, training data augmentation, and semantic communication. We showcase how incorporating causal discovery can assist in achieving dynamic adaptability, resilience, and cognition in addressing these challenges. Furthermore, we outline potential frameworks that leverage causal inference to achieve the overarching objectives of future-generation networks, including intent management, dynamic adaptability, human-level cognition, reasoning, and the critical element of time sensitivity.
+
+
+---
+Category: ai-ml
+Subcategory: cs.IT
+Collected: 2025-08-01T10:21:17.965Z

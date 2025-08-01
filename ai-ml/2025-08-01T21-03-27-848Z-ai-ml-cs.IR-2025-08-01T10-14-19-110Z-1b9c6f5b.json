@@ -1,0 +1,12 @@
+# Personality-Driven Social Multimedia Content Recommendation
+
+**Authors:** Qi Yang, Sergey Nikolenko, Alfred Huang, Aleksandr Farseev
+
+## Summary
+Social media marketing plays a vital role in promoting brand and product values to wide audiences. In order to boost their advertising revenues, global media buying platforms such as Facebook Ads constantly reduce the reach of branded organic posts, pushing brands to spend more on paid media ads. In order to run organic and paid social media marketing efficiently, it is necessary to understand the audience, tailoring the content to fit their interests and online behaviours, which is impossible to do manually at a large scale. At the same time, various personality type categorization schemes such as the Myers-Briggs Personality Type indicator make it possible to reveal the dependencies between personality traits and user content preferences on a wider scale by categorizing audience behaviours in a unified and structured manner. This problem is yet to be studied in depth by the research community, while the level of impact of different personality traits on content recommendation accuracy has not been widely utilised and comprehensively evaluated so far. Specifically, in this work we investigate the impact of human personality traits on the content recommendation model by applying a novel personality-driven multi-view content recommender system called Personality Content Marketing Recommender Engine, or PersiC. Our experimental results and real-world case study demonstrate not just PersiC's ability to perform efficient human personality-driven multi-view content recommendation, but also allow for actionable digital ad strategy recommendations, which when deployed are able to improve digital advertising efficiency by over 420% as compared to the original human-guided approach.
+
+
+---
+Category: ai-ml
+Subcategory: cs.IR
+Collected: 2025-08-01T10:14:19.110Z

@@ -1,0 +1,12 @@
+# Web Mining for Estimating Regulatory Blockchain Readiness
+
+**Authors:** Elias Iosif, Klitos Christodoulou, Andreas Vlachos
+
+## Summary
+The regulatory framework of cryptocurrencies (and, in general, blockchain tokens) is of paramount importance. This framework drives nearly all key decisions in the respective business areas. In this work, a computational model is proposed for quantitatively estimating the regulatory stance of countries with respect to cryptocurrencies. This is conducted via web mining utilizing web search engines. The proposed model is experimentally validated. In addition, unsupervised learning (clustering) is applied for better analyzing the automatically derived estimations. Overall, very good performance is achieved by the proposed algorithmic approach.
+
+
+---
+Category: ai-ml
+Subcategory: cs.IR
+Collected: 2025-08-01T13:21:53.287Z

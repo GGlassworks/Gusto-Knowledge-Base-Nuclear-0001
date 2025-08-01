@@ -1,0 +1,12 @@
+# Sample-Efficient Model-based Actor-Critic for an Interactive Dialogue Task
+
+**Authors:** Katya Kudashkina, Valliappa Chockalingam, Graham W. Taylor, Michael Bowling
+
+## Summary
+Human-computer interactive systems that rely on machine learning are becoming paramount to the lives of millions of people who use digital assistants on a daily basis. Yet, further advances are limited by the availability of data and the cost of acquiring new samples. One way to address this problem is by improving the sample efficiency of current approaches. As a solution path, we present a model-based reinforcement learning algorithm for an interactive dialogue task. We build on commonly used actor-critic methods, adding an environment model and planner that augments a learning agent to learn the model of the environment dynamics. Our results show that, on a simulation that mimics the interactive task, our algorithm requires 70 times fewer samples, compared to the baseline of commonly used model-free algorithm, and demonstrates 2~times better performance asymptotically. Moreover, we introduce a novel contribution of computing a soft planner policy and further updating a model-free policy yielding a less computationally expensive model-free agent as good as the model-based one. This model-based architecture serves as a foundation that can be extended to other human-computer interactive tasks allowing further advances in this direction.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:18:21.578Z

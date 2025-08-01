@@ -1,0 +1,12 @@
+# An HCAI Methodological Framework (HCAI-MF): Putting It Into Action to Enable Human-Centered AI
+
+**Authors:** Wei Xu, Zaifeng Gao, Marvin Dainoff
+
+## Summary
+Human-centered artificial intelligence (HCAI) is a design philosophy that prioritizes humans in the design, development, deployment, and use of AI systems, aiming to maximize AI's benefits while mitigating its negative impacts. Despite its growing prominence in literature, the lack of methodological guidance for its implementation poses challenges to HCAI practice. To address this gap, this paper proposes a comprehensive HCAI methodological framework (HCAI-MF) comprising five key components: HCAI requirement hierarchy, approach and method taxonomy, process, interdisciplinary collaboration approach, and multi-level design paradigms. A case study demonstrates HCAI-MF's practical implications, while the paper also analyzes implementation challenges. Actionable recommendations and a "three-layer" HCAI implementation strategy are provided to address these challenges and guide future evolution of HCAI-MF. HCAI-MF is presented as a systematic and executable methodology capable of overcoming current gaps, enabling effective design, development, deployment, and use of AI systems, and advancing HCAI practice.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:34.685Z

@@ -1,0 +1,12 @@
+# A Regression Framework for Predicting User's Next Location using Call Detail Records
+
+**Authors:** Mohammad Saleh Mahdizadeh, Behnam Bahrak
+
+## Summary
+With the growth of using cell phones and the increase in diversity of smart mobile devices, a massive volume of data is generated continuously in the process of using these devices. Among these data, Call Detail Records, CDR, is highly remarkable. Since CDR contains both temporal and spatial labels, mobility analysis of CDR is one of the favorite subjects of study among the researchers. The user next location prediction is one of the main problems in the field of human mobility analysis. In this paper, we propose a data processing framework to predict user next location. We propose domain-specific data processing strategies and design a deep neural network model which is based on recurrent neurons and perform regression tasks. Using this prediction framework, the error of the prediction decreases from 74% to 55% in comparison to the worst and best performing traditional models. Methods, strategies, the framework and the results of this paper can be helpful in many applications such as urban planning and digital marketing.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:22.515Z

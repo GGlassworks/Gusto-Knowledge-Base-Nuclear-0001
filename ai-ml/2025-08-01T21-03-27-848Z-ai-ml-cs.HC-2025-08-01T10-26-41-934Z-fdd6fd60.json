@@ -1,0 +1,12 @@
+# Warmth and Competence to Predict Human Preference of Robot Behavior in Physical Human-Robot Interaction
+
+**Authors:** Marcus M. Scheunemann, Raymond H. Cuijpers, Christoph Salge
+
+## Summary
+A solid methodology to understand human perception and preferences in human-robot interaction (HRI) is crucial in designing real-world HRI. Social cognition posits that the dimensions Warmth and Competence are central and universal dimensions characterizing other humans. The Robotic Social Attribute Scale (RoSAS) proposes items for those dimensions suitable for HRI and validated them in a visual observation study. In this paper we complement the validation by showing the usability of these dimensions in a behavior based, physical HRI study with a fully autonomous robot. We compare the findings with the popular Godspeed dimensions Animacy, Anthropomorphism, Likeability, Perceived Intelligence and Perceived Safety. We found that Warmth and Competence, among all RoSAS and Godspeed dimensions, are the most important predictors for human preferences between different robot behaviors. This predictive power holds even when there is no clear consensus preference or significant factor difference between conditions.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:41.934Z

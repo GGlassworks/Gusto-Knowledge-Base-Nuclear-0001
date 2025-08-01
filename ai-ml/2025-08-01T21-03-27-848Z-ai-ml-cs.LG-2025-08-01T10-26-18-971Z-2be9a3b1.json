@@ -1,0 +1,12 @@
+# Attentive Neural Processes and Batch Bayesian Optimization for Scalable Calibration of Physics-Informed Digital Twins
+
+**Authors:** Ankush Chakrabarty, Gordon Wichern, Christopher Laughman
+
+## Summary
+Physics-informed dynamical system models form critical components of digital twins of the built environment. These digital twins enable the design of energy-efficient infrastructure, but must be properly calibrated to accurately reflect system behavior for downstream prediction and analysis. Dynamical system models of modern buildings are typically described by a large number of parameters and incur significant computational expenditure during simulations. To handle large-scale calibration of digital twins without exorbitant simulations, we propose ANP-BBO: a scalable and parallelizable batch-wise Bayesian optimization (BBO) methodology that leverages attentive neural processes (ANPs).
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T10:26:18.971Z

@@ -1,0 +1,12 @@
+# Maybe, Maybe Not: A Survey on Uncertainty in Visualization
+
+**Authors:** Krisha Mehta
+
+## Summary
+Understanding and evaluating uncertainty play a key role in decision-making. When a viewer studies a visualization that demands inference, it is necessary that uncertainty is portrayed in it. This paper showcases the importance of representing uncertainty in visualizations. It provides an overview of uncertainty visualization and the challenges authors and viewers face when working with such charts. I divide the visualization pipeline into four parts, namely data collection, preprocessing, visualization, and inference, to evaluate how uncertainty impacts them. Next, I investigate the authors' methodologies to process and design uncertainty. Finally, I contribute by exploring future paths for uncertainty visualization.
+
+
+---
+Category: ai-ml
+Subcategory: cs.HC
+Collected: 2025-08-01T19:50:59.900Z
