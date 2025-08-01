@@ -1,0 +1,13 @@
+# Interactive Genetics Tutorial Project.
+
+**Authors:** 
+
+## Abstract
+The Interactive Genetics Tutorial (IGT) project and the Intelligent Tutoring System for the IGT project named MENDEL supplement genetics instruction in biology courses by providing students with experience in designing, conducting, and evaluating genetics experiments. The MENDEL software is designed to: (1) simulate genetics experiments that students would face in a "wet lab"; (2) give students advice on how to solve specific genetics problems; and (3) give problem-solving advice so that students would gradually build up a model of scientific inquiry. The MENDEL system described consists of a problem GENERATOR and expert problem SOLVER, several components of a TUTOR that carry out an hypothesis checking strategy, and several interface options of the GENERATOR component through  which all of the other systems components interact with the student. Appended material includes: the definitions of terms used in MENDEL; a sample problem and the logic of the SOLVER; an example of an ideal justification in a tutoring system; and two research reports ("MENDEL: An Intelligent Computer Tutoring System for Genetics Problem-Solving, Conjecturing, and Understanding" and "High School Students' Problem-Solving Performance on Realistic Genetics Problems"). (KR)
+
+**Source:** https://eric.ed.gov/?id=ED325331
+
+---
+Category: education
+Subcategory: Guides - Classroom - Teacher
+Collected: 2025-08-01T16:51:04.437Z

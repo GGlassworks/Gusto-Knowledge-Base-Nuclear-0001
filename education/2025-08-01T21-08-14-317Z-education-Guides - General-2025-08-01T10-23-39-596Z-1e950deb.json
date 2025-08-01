@@ -1,0 +1,13 @@
+# FORTRAN IV Digital Filter Design Programs. Digital Systems Education Project.
+
+**Authors:** Reuss, E., And Others
+
+## Abstract
+The goals of the Digital Systems Education Project (DISE) include the development and distribution of educational/instructional materials in the digital systems area. Toward that end, this document contains three reports: (1) A FORTRAN IV Design Program for Low-Pass Butterworth and Chebychev Digital Filters; (2) A FORTRAN IV Design Program for Butterworth and Chebychev Band-Pass and Band-Stop Digital Filters; and (3) Programs for Weighted Least Squares Design of Nonrecursive and Recursive Digital Filters. The first two reports give the design procedure used, a description of the program, and design examples for the respective programs. The third report describes the operation of the two programs under discussion and gives examples to illustrate their operation. (MK)
+
+**Source:** https://eric.ed.gov/?id=ED178321
+
+---
+Category: education
+Subcategory: Guides - General
+Collected: 2025-08-01T10:23:39.596Z
