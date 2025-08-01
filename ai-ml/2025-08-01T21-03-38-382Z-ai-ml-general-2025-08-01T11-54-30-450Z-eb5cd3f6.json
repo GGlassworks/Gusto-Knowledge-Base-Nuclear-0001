@@ -1,0 +1,13 @@
+# Advanced Fault Detection in Power Transformers Using Improved Wavelet Analysis and LSTM Networks Considering Current Transformer Saturation and Uncertainties
+
+**Authors:** Qusay Alhamd, Mohsen Saniei, Seyyed Ghodratollah Seifossadat, Elaheh Mashhour
+
+## Abstract
+<jats:p>Power transformers are vital and costly components in power systems, essential for ensuring a reliable and uninterrupted supply of electrical energy. Their protection is crucial for improving reliability, maintaining network stability, and minimizing operational costs. Previous studies have introduced differential protection schemes with harmonic restraint to detect internal transformer faults. However, these schemes often struggle with computational inaccuracies in fault detection due to neglecting current transformer (CT) saturation and associated uncertainties. CT saturation during internal faults can produce even harmonics, disrupting relay operations. Additionally, CT saturation during transformer energization can introduce a DC component, leading to incorrect relay activation. This paper introduces a novel feature extracted through advanced wavelet transform analysis of differential current. This feature, combined with differential current amplitude and bias current, is used to train a deep learning system based on long short-term memory (LSTM) networks. By accounting for existing uncertainties, this system accurately identifies internal transformer faults under various CT saturation and measurement uncertainty conditions. Test and validation results demonstrate the proposed method’s effectiveness and superiority in detecting internal faults in power transformers, even in the presence of CT saturation, outperforming other recent modern techniques.</jats:p>
+
+**Source:** https://doi.org/10.3390/a17090397
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T11:54:30.451Z

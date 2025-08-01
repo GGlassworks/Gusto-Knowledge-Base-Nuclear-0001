@@ -1,0 +1,14 @@
+# Generative Pre-Trained Transformers for Biologically Inspired Design
+
+**Authors:** Qihao Zhu, Xinyu Zhang, Jianxi Luo
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>Biological systems in nature have evolved for millions of years to adapt and survive the environment. Many features they developed can be inspirational and beneficial for solving technical problems in modern industries. This leads to a specific form of design-by-analogy called bio-inspired design (BID). Although BID as a design method has been proven beneficial, the gap between biology and engineering continuously hinders designers from effectively applying the method. Therefore, we explore the recent advance of artificial intelligence (AI) for a computational approach to bridge the gap. This paper proposes a generative design approach based on the pre-trained language model (PLM) to automatically retrieve and map biological analogy and generate BID in the form of natural language. The latest generative pre-trained transformer, namely GPT-3, is used as the base PLM. Three types of design concept generators are identified and fine-tuned from the PLM according to the looseness of the problem space representation. Machine evaluators are also fine-tuned to assess the correlation between the domains within the generated BID concepts. The approach is then tested via a case study in which the fine-tuned models are applied to generate and evaluate light-weighted flying car concepts inspired by nature. The results show our approach can generate BID concepts with good performance.</jats:p>
+
+**Source:** https://doi.org/10.1115/detc2022-90366
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T11:58:52.770Z

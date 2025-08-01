@@ -1,0 +1,13 @@
+# Evolution of blockchain consensus algorithms: a review on the latest milestones of blockchain consensus algorithms
+
+**Authors:** Ziad Hussein, May A. Salama, Sahar A. El-Rahman
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Blockchain technology has gained widespread adoption in recent years due to its ability to enable secure and transparent record-keeping and data transfer. A critical aspect of blockchain technology is the use of consensus algorithms, which allow distributed nodes in the network to agree on the state of the blockchain. In this review paper, we examine various consensus algorithms that are used in blockchain systems, including proof-of-work, proof-of-stake, and hybrid approaches. We go over the trade-offs and factors to think about when choosing a consensus algorithm, such as energy efficiency, decentralization, and security. We also look at the strengths and weaknesses of each algorithm as well as their potential impact on the scalability and adoption of blockchain technology.</jats:p>
+
+**Source:** https://doi.org/10.1186/s42400-023-00163-y
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T13:05:17.496Z

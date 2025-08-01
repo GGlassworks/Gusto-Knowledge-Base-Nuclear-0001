@@ -1,0 +1,19 @@
+# Enhance Image Classification Performance Via Unsupervised Pre-trained Transformers Language Models
+
+**Authors:** Dezhou Shen
+
+## Abstract
+<title>Abstract</title>
+        <p>Image classification and categorization are essential to the capability of telling the difference between images for a machine.
+  As Bidirectional Encoder Representations from Transformers became popular in many tasks of natural language processing recent years,
+  it is intuitive to use these pre-trained language models for enhancing the computer vision tasks, \eg image classification.
+  In this paper, by encoding image pixels using pre-trained transformers, then connect to a fully connected layer,
+  the classification model outperforms the Wide ResNet model and the linear-probe iGPT-L model,
+  and achieved accuracy of 99.60%～99.74% on the CIFAR-10 image set and accuracy of 99.10%～99.76% on the CIFAR-100 image set.</p>
+
+**Source:** https://doi.org/10.21203/rs.3.rs-93060/v1
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T11:55:21.256Z

@@ -1,0 +1,13 @@
+# Enhancing blockchain scalability with snake optimization algorithm: a novel approach
+
+**Authors:** Shimal S. H. Taher, Siddeeq Y. Ameen, Jihan A. Ahmed
+
+## Abstract
+<jats:p>Scalability remains a critical challenge for blockchain technology, limiting its potential for widespread adoption in high-demand transactional systems. This paper proposes an innovative solution to this challenge by applying the Snake Optimization Algorithm (SOA) to a blockchain framework, aimed at enhancing transaction throughput and reducing latency. A thorough literature review contextualizes our work within the current state of blockchain scalability efforts. We introduce a methodology that integrates SOA into the transaction validation process of a blockchain network. The effectiveness of this approach is empirically evaluated by comparing transaction processing times before and after the implementation of SOA. The results show a substantial reduction in latency, with the optimized system achieving lower average transaction times across various transaction volumes. Notably, the latency for processing batches of 10 and 100 transactions decreased from 30.29 ms to 155.66 ms–0.42 ms and 0.37 ms, respectively, post optimization. These findings indicate that SOA is exceptionally efficient in batch transaction scenarios, presenting an inverse scalability behavior that defies typical system performance degradation with increased load. Our research contributes a significant advancement in blockchain scalability, with implications for the development of more efficient and adaptable blockchain systems suitable for high throughput enterprise applications.</jats:p>
+
+**Source:** https://doi.org/10.3389/fbloc.2024.1361659
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T13:04:26.512Z
