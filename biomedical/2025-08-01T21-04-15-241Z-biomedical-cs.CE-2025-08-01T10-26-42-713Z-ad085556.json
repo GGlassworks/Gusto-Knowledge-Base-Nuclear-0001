@@ -1,0 +1,12 @@
+# Predictive Digital Twin for Optimizing Patient-Specific Radiotherapy Regimens under Uncertainty in High-Grade Gliomas
+
+**Authors:** Anirban Chaudhuri, Graham Pash, David A. Hormuth II, Guillermo Lorenzo, Michael Kapteyn, Chengyue Wu, Ernesto A. B. F. Lima, Thomas E. Yankeelov, Karen Willcox
+
+## Summary
+We develop a methodology to create data-driven predictive digital twins for optimal risk-aware clinical decision-making. We illustrate the methodology as an enabler for an anticipatory personalized treatment that accounts for uncertainties in the underlying tumor biology in high-grade gliomas, where heterogeneity in the response to standard-of-care (SOC) radiotherapy contributes to sub-optimal patient outcomes. The digital twin is initialized through prior distributions derived from population-level clinical data in the literature for a mechanistic model's parameters. Then the digital twin is personalized using Bayesian model calibration for assimilating patient-specific magnetic resonance imaging data and used to propose optimal radiotherapy treatment regimens by solving a multi-objective risk-based optimization under uncertainty problem. The solution leads to a suite of patient-specific optimal radiotherapy treatment regimens exhibiting varying levels of trade-off between the two competing clinical objectives: (i) maximizing tumor control (characterized by minimizing the risk of tumor volume growth) and (ii) minimizing the toxicity from radiotherapy. The proposed digital twin framework is illustrated by generating an in silico cohort of 100 patients with high-grade glioma growth and response properties typically observed in the literature. For the same total radiation dose as the SOC, the personalized treatment regimens lead to median increase in tumor time to progression of around six days. Alternatively, for the same level of tumor control as the SOC, the digital twin provides optimal treatment options that lead to a median reduction in radiation dose by 16.7% (10 Gy) compared to SOC total dose of 60 Gy. The range of optimal solutions also provide options with increased doses for patients with aggressive cancer, where SOC does not lead to sufficient tumor control.
+
+
+---
+Category: biomedical
+Subcategory: cs.CE
+Collected: 2025-08-01T10:26:42.714Z

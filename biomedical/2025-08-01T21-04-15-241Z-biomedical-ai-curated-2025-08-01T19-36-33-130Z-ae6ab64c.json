@@ -1,0 +1,13 @@
+# Comparative Analysis of Advanced Data Mining Methods for Enhancing Medical Diagnosis and Prognosis
+
+**Authors:** M. Al-batah, Mowafaq Salem Alzboon, Muhyeeddin Alqaraleh, Fawaz Ahmad Alzaghoul
+
+## Abstract
+Accurate and early diagnosis, coupled with precise prognosis, is critical for improving patient outcomes in various medical conditions. This paper focuses on leveraging advanced data mining techniques to address two key medical challenges: diagnosis and prognosis. Diagnosis involves differentiating between benign and malignant conditions, while prognosis aims to predict the likelihood of recurrence after treatment. Despite significant advances in medical imaging and clinical data collection, achieving high accuracy in both diagnosis and prognosis remains a challenge. This study provides a comprehensive review of state-of-the-art machine learning and data mining techniques used for medical diagnosis and prognosis, including Neural Networks, K-Nearest Neighbors (KNN), Naïve Bayes, Logistic Regression, Decision Trees, and Support Vector Machines (SVM). These methods are evaluated on their ability to process large, complex datasets and produce actionable insights for medical practitioners.We conducted a thorough comparative analysis based on key performance metrics such as accuracy, Area Under the Curve (AUC), precision, recall, and specificity. Our findings reveal that Neural Networks consistently outperform other techniques in terms of diagnostic accuracy and predictive capacity, demonstrating their robustness in handling high-dimensional and nonlinear medical data. This research underscores the potential of advanced machine learning algorithms in revolutionizing early diagnosis and effective prognosis, thus facilitating more personalized treatment plans and improved healthcare outcomes.
+
+**Source:** https://www.semanticscholar.org/paper/a248b2c56929583d06b833634e2802bdfec63a8c
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:36:33.130Z

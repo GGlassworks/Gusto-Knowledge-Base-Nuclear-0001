@@ -1,0 +1,12 @@
+# Optimal personalised treatment computation through in silico clinical trials on patient digital twins
+
+**Authors:** Stefano Sinisi, Vadim Alimguzhin, Toni Mancini, Enrico Tronci, Federico Mari, Brigitte Leeners
+
+## Summary
+In Silico Clinical Trials (ISTC), i.e., clinical experimental campaigns carried out by means of computer simulations, hold the promise to decrease time and cost for the safety and efficacy assessment of pharmacological treatments, reduce the need for animal and human testing, and enable precision medicine. In this paper we present methods and an algorithm that, by means of extensive computer simulation--based experimental campaigns (ISTC) guided by intelligent search, optimise a pharmacological treatment for an individual patient (precision medicine). e show the effectiveness of our approach on a case study involving a real pharmacological treatment, namely the downregulation phase of a complex clinical protocol for assisted reproduction in humans.
+
+
+---
+Category: biomedical
+Subcategory: cs.AI
+Collected: 2025-08-01T10:17:22.454Z

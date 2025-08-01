@@ -1,0 +1,13 @@
+# Predicting coronary artery disease: a comparison between two data mining algorithms
+
+**Authors:** H. Ayatollahi, L. Gholamhosseini, M. Salehi
+
+## Abstract
+BackgroundCardiovascular diseases (CADs) are the first leading cause of death across the world. World Health Organization has estimated that morality rate caused by heart diseases will mount to 23 million cases by 2030. Hence, the use of data mining algorithms could be useful in predicting coronary artery diseases. Therefore, the present study aimed to compare the positive predictive value (PPV) of CAD using artificial neural network (ANN) and SVM algorithms and their distinction in terms of predicting CAD in the selected hospitals.MethodsThe present study was conducted by using data mining techniques. The research sample was the medical records of the patients with coronary artery disease who were hospitalized in three hospitals affiliated to AJA University of Medical Sciences between March 2016 and March 2017 (n = 1324). The dataset and the predicting variables used in this study was the same for both data mining techniques. Totally, 25 variables affecting CAD were selected and related data were extracted. After normalizing and cleaning the data, they were entered into SPSS (V23.0) and Excel 2013. Then, R 3.3.2 was used for statistical computing.ResultsThe SVM model had lower MAPE (112.03), higher Hosmer-Lemeshow test’s result (16.71), and higher sensitivity (92.23). Moreover, variables affecting CAD (74.42) yielded better goodness of fit in SVM model and provided more accurate result than the ANN model. On the other hand, since the area under the receiver operating characteristic (ROC) curve in the SVM algorithm was more than this area in ANN model, it could be concluded that SVM model had higher accuracy than the ANN model.ConclusionAccording to the results, the SVM algorithm presented higher accuracy and better performance than the ANN model and was characterized with higher power and sensitivity. Overall, it provided a better classification for the prediction of CAD. The use of other data mining algorithms are suggested to improve the positive predictive value of the disease prediction.
+
+**Source:** https://www.semanticscholar.org/paper/8a642feb0fe39443a7626de7a300fa1a98cea509
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:13.037Z

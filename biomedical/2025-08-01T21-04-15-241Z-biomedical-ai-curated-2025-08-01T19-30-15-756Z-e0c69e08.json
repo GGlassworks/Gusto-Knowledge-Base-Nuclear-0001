@@ -1,0 +1,13 @@
+# Comparing Performance of Data Mining Algorithms in Prediction Heart Diseases
+
+**Authors:** Moloud Abdar, S. R. N. Kalhori, Tole Sutikno, Imam Much Ibnu Subroto, G. Arji
+
+## Abstract
+Heart diseases are among the nation’s leading couse of mortality and moribidity. Data mining teqniques can predict the likelihood of patients getting a heart disease. The purpose of this study is comparison of different data mining algorithm on prediction of heart diseases. This work applied and compared data mining techniques to predict the risk of heart diseases. After feature analysis, models by five algorithms including decision tree (C5.0), neural network, support vector machine (SVM), logistic regression and k-nearest neighborhood (KNN) were developed and validated. C5.0 Decision tree has been able to build a model with greatest accuracy 93.02%, KNN, SVM, Neural network have been 88.37%, 86.05% and 80.23% respectively. Produced results of decision tree can be simply interpretable and applicable; their rules can be understood easily by different clinical practitioner.
+
+**Source:** https://www.semanticscholar.org/paper/d1a907a9d7c3a209f589fb483420020102ac23b9
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:15.757Z

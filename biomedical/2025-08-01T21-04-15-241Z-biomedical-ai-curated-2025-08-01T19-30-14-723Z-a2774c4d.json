@@ -1,0 +1,13 @@
+# Empirical study of seven data mining algorithms on different characteristics of datasets for biomedical classification applications
+
+**Authors:** Yi-Yan Zhang, Yi Xin, Qin Li, Jianshe Ma, Shuai Li, Xiaodan Lv, Weiqi Lv
+
+## Abstract
+Various kinds of data mining algorithms are continuously raised with the development of related disciplines. The applicable scopes and their performances of these algorithms are different. Hence, finding a suitable algorithm for a dataset is becoming an important emphasis for biomedical researchers to solve practical problems promptly. In this paper, seven kinds of sophisticated active algorithms, namely, C4.5, support vector machine, AdaBoost, k-nearest neighbor, naïve Bayes, random forest, and logistic regression, were selected as the research objects. The seven algorithms were applied to the 12 top-click UCI public datasets with the task of classification, and their performances were compared through induction and analysis. The sample size, number of attributes, number of missing values, and the sample size of each class, correlation coefficients between variables, class entropy of task variable, and the ratio of the sample size of the largest class to the least class were calculated to character the 12 research datasets. The two ensemble algorithms reach high accuracy of classification on most datasets. Moreover, random forest performs better than AdaBoost on the unbalanced dataset of the multi-class task. Simple algorithms, such as the naïve Bayes and logistic regression model are suitable for a small dataset with high correlation between the task and other non-task attribute variables. K-nearest neighbor and C4.5 decision tree algorithms perform well on binary- and multi-class task datasets. Support vector machine is more adept on the balanced small dataset of the binary-class task. No algorithm can maintain the best performance in all datasets. The applicability of the seven data mining algorithms on the datasets with different characteristics was summarized to provide a reference for biomedical researchers or beginners in different fields.
+
+**Source:** https://www.semanticscholar.org/paper/9593a864aa3fcd20ec9f3a7cd6305f4367bcc4f4
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:14.723Z

@@ -1,0 +1,13 @@
+# CBO-IE: A Data Mining Approach for Healthcare IoT Dataset Using Chaotic Biogeography-Based Optimization and Information Entropy
+
+**Authors:** M. Ahirwar, P. Shukla, Rakesh Singhai
+
+## Abstract
+Data mining is mostly utilized for a huge variety of applications in several fields like education, medical, surveillance, and industries. The clustering is an important method of data mining, in which data elements are divided into groups (clusters) to provide better quality data analysis. The Biogeography-Based Optimization (BO) is the latest metaheuristic approach, which is applied to resolve several complex optimization problems. Here, a Chaotic Biogeography-Based Optimization approach using Information Entropy (CBO-IE) is implemented to perform clustering over healthcare IoT datasets. The main objective of CBO-IE is to provide proficient and precise data point distribution in datasets by using Information Entropy concepts and to initialize the population by using chaos theory. Both Information Entropy and chaos theory are facilitated to improve the convergence speed of BO in global search area for selecting the cluster heads and cluster members more accurately. The CBO-IE is implemented to a MATLAB 2021a tool over eight healthcare IoT datasets, and the results illustrate the superior performance of CBO-IE based on F-Measure, intracluster distance, running time complexity, purity index, statistical analysis, root mean square error, accuracy, and standard deviation as compared to previous techniques of clustering like K-Means, GA, PSO, ALO, and BO approaches.
+
+**Source:** https://www.semanticscholar.org/paper/8c28dd644219ec009890531672f938516b9b4bd9
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:29:14.503Z

@@ -1,0 +1,30 @@
+# Leveraging data visualization and a statewide health information exchange to support COVID-19 surveillance and response: Application of public health informatics
+
+**Authors:** B. Dixon, S. Grannis, C. McAndrews, A. Broyles, W. Mikels-Carrasco, A. Wiensch, Jennifer L. Williams, U. Tachinardi, P. Embí
+
+## Abstract
+OBJECTIVE
+To support public health surveillance and response to COVID-19 through rapid development and implementation of novel visualization applications for data amalgamated across sectors.
+
+
+MATERIALS AND METHODS
+We developed and implemented population-level dashboards that collate information on individuals tested for and infected with COVID-19, in partnership with state and local public health agencies as well as health systems. The dashboards are deployed on top of a statewide health information exchange. One dashboard enables authorized users working in public health agencies to surveil populations in detail, and a public version provides higher-level situational awareness to inform ongoing pandemic response efforts in communities.
+
+
+RESULTS
+Both dashboards have proved useful informatics resources. For example, the private dashboard enabled detection of a local community outbreak associated with a meat packing plant. The public dashboard provides recent trend analysis to track disease spread and community-level hospitalizations. Combined, the tools were utilized 133,637 times by 74,317 distinct users between June 21 and August 22, 2020. The tools are frequently cited by journalists and featured on social media.
+
+
+DISCUSSION
+Capitalizing on a statewide health information exchange, in partnership with health system and public health leaders, Regenstrief biomedical informatics experts rapidly developed and deployed informatics tools to support surveillance and response to COVID-19.
+
+
+CONCLUSION
+The application of public health informatics methods and tools in Indiana holds promise for other states and nations. Yet development of infrastructure and partnerships will require effort and investment after the current pandemic in preparation for the next public health emergency.
+
+**Source:** https://www.semanticscholar.org/paper/31dd59bb222621f1529cad74ac1dc41121b0bdbf
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:54:59.661Z

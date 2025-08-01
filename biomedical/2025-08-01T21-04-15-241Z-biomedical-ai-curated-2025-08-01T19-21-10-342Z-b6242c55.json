@@ -1,0 +1,13 @@
+# Current Trends of Big Data Research Using the Korean National Health Information Database
+
+**Authors:** M. Kim, K. Han, Seung‐Hwan Lee
+
+## Abstract
+Recently, medical research using big data has become very popular, and its value has become increasingly recognized. The Korean National Health Information Database (NHID) is representative of big data that combines information obtained from the National Health Insurance Service collected for claims and reimbursement of health care services and results obtained from general health examinations provided to all Korean adults. This database has several strengths and limitations. Given the large size, various laboratory data, and questionnaires obtained from medical check-ups, their longitudinal nature, and long-term accumulation of data since 2002, carefully designed studies may provide valuable information that is difficult to obtain from other forms of research. However, consideration of possible bias and careful interpretation when defining causal relationships is also important because the data were not collected for research purposes. After the NHID became publicly available, research and publications based on this database have increased explosively, especially in the field of diabetes and metabolism. This article reviews the history, structure, and characteristics of the Korean NHID. Recent trends in big data research using this database, commonly used operational diagnosis, and representative studies have been introduced. We expect further progress and expansion of big data research using the Korean NHID.
+
+**Source:** https://www.semanticscholar.org/paper/cd681170d883b1f3b4fc33f1968278c215cf8f75
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:21:10.343Z

@@ -1,0 +1,13 @@
+# Spatial analysis and evaluation of medical resource allocation in China based on geographic big data
+
+**Authors:** Sida Wan, Yanming Chen, Yijia Xiao, Qiqi Zhao, Manchun Li, Shuqi Wu
+
+## Abstract
+Background Spatial allocation of medical resources is closely related to people’s health. Thus, it is important to evaluate the abundance of medical resources regionally and explore the spatial heterogeneity of medical resource allocation. Methods Using medical geographic big data, this study analyzed 369 Chinese cities and constructed a medical resource evaluation model based on the grading of medical institutions using the Delphi method. It evaluated China’s medical resources at three levels (economic sectors, economic zones, and provinces) and discussed their spatial clustering patterns. Geographically weighted regression was used to explore the correlations between the evaluation results and population and gross domestic product (GDP). Results The spatial heterogeneity of medical resource allocation in China was significant, and the following general regularities were observed: 1) The abundance and balance of medical resources were typically better in the east than in the west, and in coastal areas compared to inland ones. 2) The average primacy ratio of medical resources in Chinese cities by province was 2.30. The spatial distribution of medical resources in the provinces was unbalanced, showing high concentrations in the primate cities. 3) The allocation of medical resources at the provincial level in China was summarized as following a single-growth pole pattern supplemented by bipolar circular allocation and balanced allocation patterns. The agglomeration patterns of medical resources in typical cities were categorized into single-center and balanced development patterns. GDP was highly correlated to the medical evaluation results, while demographic factors showed, low correlations. Large cities and their surrounding areas exhibited obvious response characteristics. Conclusions These findings provide policy-relevant guidance for improving the spatial imbalance of medical resources, strengthening regional public health systems, and promoting government coordination efforts for medical resource allocation at different levels to improve the overall functioning of the medical and health service system and bolster its balanced and synergistic development.
+
+**Source:** https://www.semanticscholar.org/paper/3693fec2ac4c116fa2521ba9434832c6f248c402
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:24:07.282Z

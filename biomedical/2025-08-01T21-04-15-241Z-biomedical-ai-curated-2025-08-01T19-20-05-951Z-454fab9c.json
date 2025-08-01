@@ -1,0 +1,13 @@
+# Advanced Big Data Mining Techniques for Early Detection of Heart Attacks in Clinical Data
+
+**Authors:** Ritesh Chaturvedi, Saloni Sharma, Suman Narne
+
+## Abstract
+Heart attacks are among the most dangerous ailments that people may develop. The key to controlling cardiovascular disease is to compare, contrast, and mine enormous volumes of data in a sequence that may be used to identify, control, and treat persistent problems, such as heart attacks. Forecasting, preventing, monitoring, and diagnosing cardiovascular diseases may be done through huge efficiency via big data analytics, which is well-known in the business sector for its useful application in regulating, comparing, and supervising enormous datasets. Big data technologies or methods used to mine massive databases for information include Hadoop, data mining, and visualization. Those fresh ideas, which have a wide range of uses, might be helpful in several industries, include medical. In this paper, we extend a big data mining pattern using a machine learning method to forecast the frequency of heart attacks from medical databases. Data preprocessing using the z- score normalization and feature extraction using Linear Discriminant Analysis (LDA) and classification using the Improved Random Forest (IRF). We generate enhanced presentation intensity with accuracy, precision, recall, and F- measure throughout the forecast model for heart disease with the IRF.
+
+**Source:** https://www.semanticscholar.org/paper/6003f45a3107407808d82f076233942bbfd8895c
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:20:05.951Z

@@ -1,0 +1,13 @@
+# Hiplot: a comprehensive and easy-to-use web service for boosting publication-ready biomedical data visualization
+
+**Authors:** Jianfeng Li, Ben-Ben Miao, Shixiang Wang, Wei Dong, Houshi Xu, Chenchen Si, W. Wang, Songqi Duan, Jiacheng Lou, Zhiwei Bao, Hailuan Zeng, Zengzeng Yang, Wen-Yan Cheng, Fei Zhao, Jianming Zeng, Xue-song Liu, Renxie Wu, Yanguang Shen, Zhuangxin Chen, Saijuan Chen, Mingjie Wang
+
+## Abstract
+Complex biomedical data generated during clinical, omics and mechanism-based experiments have increasingly been exploited through cloud- and visualization-based data mining techniques. However, the scientific community still lacks an easy-to-use web service for the comprehensive visualization of biomedical data, particularly high-quality and publication-ready graphics that allow easy scaling and updatability according to user demands. Therefore, we propose a community-driven modern web service, Hiplot (https://hiplot.org), with concise and top-quality data visualization applications for the life sciences and biomedical fields. This web service permits users to conveniently and interactively complete a few specialized visualization tasks that previously could only be conducted by senior bioinformatics or biostatistics researchers. It covers most of the daily demands of biomedical researchers with its equipped 240+ biomedical data visualization functions, involving basic statistics, multi-omics, regression, clustering, dimensional reduction, meta-analysis, survival analysis, risk modelling, etc. Moreover, to improve the efficiency in use and development of plugins, we introduced some core advantages on the client-/server-side of the website, such as spreadsheet-based data importing, cross-platform command-line controller (Hctl), multi-user plumber workers, JavaScript Object Notation-based plugin system, easy data/parameters, results and errors reproduction and real-time updates mode. Meanwhile, using demo/real data sets and benchmark tests, we explored statistical parameters, cancer genomic landscapes, disease risk factors and the performance of website based on selected native plugins. The statistics of visits and user numbers could further reflect the potential impact of this web service on relevant fields. Thus, researchers devoted to life and data sciences would benefit from this emerging and free web service.
+
+**Source:** https://www.semanticscholar.org/paper/7134e9b95c5f70312fa0e2f98a6b1436124f4e20
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:42:40.338Z

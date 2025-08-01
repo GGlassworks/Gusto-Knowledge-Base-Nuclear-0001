@@ -1,0 +1,13 @@
+# A bibliometric analysis and visualization of medical data mining research
+
+**Authors:** Yuanzhang Hu, Zeyun Yu, Xiaoen Cheng, Yue Luo, Chuanbiao Wen
+
+## Abstract
+Abstract Background: Data mining technology used in the field of medicine has been widely studied by scholars all over the world. But there is little research on medical data mining (MDM) from the perspectives of bibliometrics and visualization, and the research topics and development trends in this field are still unclear. Methods: This paper has applied bibliometric visualization software tools, VOSviewer 1.6.10 and CiteSpace V, to study the citation characteristics, international cooperation, author cooperation, and geographical distribution of the MDM. Results: A total of 1575 documents are obtained, and the most frequent document type is article (1376). SHAN NH is the most productive author, with the highest number of publications of 12, and the Gillies's article (750 times citation) is the most cited paper. The most productive country and institution in MDM is the USA (559) and US FDA (35), respectively. The Journal of Biomedical Informatics, Expert Systems with Applications and Journal of Medical Systems are the most productive journals, which reflected the nature of the research, and keywords “classification (790)” and “system (576)” have the strongest strength. The hot topics in MDM are drug discovery, medical imaging, vaccine safety, and so on. The 3 frontier topics are reporting system, precision medicine, and inflammation, and would be the foci of future research. Conclusion: The present study provides a panoramic view of data mining methods applied in medicine by visualization and bibliometrics. Analysis of authors, journals, institutions, and countries could provide reference for researchers who are fresh to the field in different ways. Researchers may also consider the emerging trends when deciding the direction of their study.
+
+**Source:** https://www.semanticscholar.org/paper/d47bebe349cf63b74ec844a40d0a9a0ada4d0984
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:37:31.120Z

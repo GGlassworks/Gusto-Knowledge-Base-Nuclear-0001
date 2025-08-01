@@ -1,0 +1,13 @@
+# Prediction of Malignant & Benign Breast Cancer: A Data Mining Approach in Healthcare Applications
+
+**Authors:** Vivek Kumar (Ph.D), B. K. Mishra, M. Mazzara, D. N. Thanh, Abhishek Verma
+
+## Abstract
+As much as data science is playing a pivotal role everywhere, healthcare also finds it prominent application. Breast Cancer is the top rated type of cancer amongst women; which took away 627,000 lives alone. This high mortality rate due to breast cancer does need attention, for early detection so that prevention can be done in time. As a potential contributor to state-of-art technology development, data mining finds a multi-fold application in predicting Brest cancer. This work focuses on different classification techniques implementation for data mining in predicting malignant and benign breast cancer. Breast Cancer Wisconsin data set from the UCI repository has been used as experimental dataset while attribute clump thickness being used as an evaluation class. The performances of these twelve algorithms: Ada Boost M 1, Decision Table, J Rip, Lazy IBK, Logistics Regression, Multiclass Classifier, Multilayer Perceptron, Naive Bayes, Random forest and Random Tree are analyzed on this data set. Keywords- Data Mining, Classification Techniques, UCI repository, Breast Cancer, Classification Algorithms
+
+**Source:** https://www.semanticscholar.org/paper/312cec166b3fde5a8a972c2dcfc266b36c08ba62
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:39:36.222Z

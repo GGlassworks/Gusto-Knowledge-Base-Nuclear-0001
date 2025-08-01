@@ -1,0 +1,13 @@
+# Performance Evaluation of Classification Data Mining Algorithms on Coronary Artery Disease Dataset
+
+**Authors:** L. J. Muhammad, Ahmed Abba Haruna, I. .. Mohammed, M. Abubakar, Bature Garba Badamasi, Jamila Musa Amshi
+
+## Abstract
+Coronary artery disease (CAD) remains one of the deadly diseases in world and it has been one of world’s major threats which need to be addressed. However, several medical and other computer related techniques had been employed and used for prediction and diagnosis of CAD. Data mining technique is one of the techniques used for the prediction and diagnosis of CAD. Yet, selecting the best data mining algorithms for the design and development of prediction/diagnosis of CAD is challenging, due to the availability of numerous data mining algorithms. However, in this study different data mining algorithms namely: C4.5, random tree, improved C4.5, BayesNes, Naïve Bayes, multilayer perception, and PART were applied on CAD dataset to determine the best algorithm for the diagnosis of CAD. Consequently, it is evident that, the improved C4.5 algorithm is the best algorithm on CAD dataset with higher percentage of accuracy, specificity, and sensitivity among the evaluated algorithms. Hence, the improved C4.5 algorithm is proved to be very efficient in predicting both healthy and unhealthy patients with respect to CAD.
+
+**Source:** https://www.semanticscholar.org/paper/7e6809010f64f503e8b7f81cdbb0d60a4419c479
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:14.184Z

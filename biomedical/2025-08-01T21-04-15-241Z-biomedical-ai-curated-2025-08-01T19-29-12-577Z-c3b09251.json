@@ -1,0 +1,13 @@
+# Stall margin evaluation and data mining based multi-objective optimization design of casing treatment for an axial compressor rotor
+
+**Authors:** Z. Chi, W. Chu, Haoguang Zhang, Ziyun Zhang
+
+## Abstract
+Casing treatment is an effective passive technology for improving the compressor stability. However, the current design methods for the casing treatment rely excessively on trial and error experiences, presenting significant challenges to actual engineering applications. In this paper, we propose a multi-objective optimization design method based on stall margin evaluation and data mining to enhance the stability of axial compressor rotors. We have developed a multi-objective optimization platform that combines geometric parameterization, mesh generation, numerical calculations, optimization algorithms, and other relevant components. To optimize six design variables and two objective functions, we have implemented two optimization strategies based on direct stall margin calculation and stall margin evaluation. The optimization results revealed that optimal casing treatment structures can be obtained by considering both compressor stability and efficiency. Furthermore, we employed data mining of self-organizing maps to explain the tradeoffs from the optimal solutions. The aerodynamic analysis demonstrated that the casing treatment enhances stability by restricting negative axial momentum of tip leakage flow and reducing passage blockage. Four categories of stall margin evaluation parameters were quantified, and their effectiveness was assessed through a correlation analysis. Finally, we used the axial momentum of the tip leakage flow-related evaluation parameter for the optimization of stall margin evaluation. Compared with direct stall margin calculation-based optimization, the evaluation of the parameter-based optimization method effectively predicted the stability enhancement of casing treatment while revealing the optimal geometric features. It suggests that the stall margin evaluation-based optimization method should be utilized in the initial optimization process of casing treatment due to its advantages in the optimization speed.
+
+**Source:** https://www.semanticscholar.org/paper/43f25c910662f548a106ce0f1b4aeb784187affe
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:29:12.577Z

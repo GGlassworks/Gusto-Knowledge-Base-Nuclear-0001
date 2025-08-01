@@ -1,0 +1,13 @@
+# Integrating data mining and transmission theory in the ecology of infectious diseases
+
+**Authors:** Barbara A. Han, Suzanne M. O’Regan, John Paul Schmidt, J. Drake
+
+## Abstract
+Abstract Our understanding of ecological processes is built on patterns inferred from data. Applying modern analytical tools such as machine learning to increasingly high dimensional data offers the potential to expand our perspectives on these processes, shedding new light on complex ecological phenomena such as pathogen transmission in wild populations. Here, we propose a novel approach that combines data mining with theoretical models of disease dynamics. Using rodents as an example, we incorporate statistical differences in the life history features of zoonotic reservoir hosts into pathogen transmission models, enabling us to bound the range of dynamical phenomena associated with hosts, based on their traits. We then test for associations between equilibrium prevalence, a key epidemiological metric and data on human outbreaks of rodent‐borne zoonoses, identifying matches between empirical evidence and theoretical predictions of transmission dynamics. We show how this framework can be generalized to other systems through a rubric of disease models and parameters that can be derived from empirical data. By linking life history components directly to their effects on disease dynamics, our mining‐modelling approach integrates machine learning and theoretical models to explore mechanisms in the macroecology of pathogen transmission and their consequences for spillover infection to humans.
+
+**Source:** https://www.semanticscholar.org/paper/50adfe43e386ab4725d872a70ca6a6fc81893d12
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:27:12.157Z

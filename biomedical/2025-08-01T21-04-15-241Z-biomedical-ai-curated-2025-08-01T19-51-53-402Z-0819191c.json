@@ -1,0 +1,13 @@
+# Evaluation of operational process variables in healthcare using process mining and data visualization techniques
+
+**Authors:** Jimmy Armas, André Coronado Torres, Misael Evangelista Pescoran, Santiago Aguirre Mayorga
+
+## Abstract
+– In this paper, a reference model is proposed for the evaluation of operational processes variables in healthcare using process mining and data visualization techniques. For this reason, the PM2 methodology is used as a reference to conduct projects oriented to the evaluation of data collected in business processes, including data visualization techniques, with the purpose of reducing the acquisition time of knowledge related to the processes of institutions of the healthcare sector. The proposed model is based on the application of a set of data visualization techniques to reduce the knowledge acquisition gap presented by process mining. The model consists of 5 stages: 1. Extraction, 2. Event processing, 3. Process mining, 4. Data visualization and 5. Evaluation of results. A testing scenario was defined in a Clinic network in Lima (Peru) to validate the proposed model and the surgery process was chosen, since it is critical for the organization. The results showed the existing bottleneck in the surgery process, between the activities of registering and preparing the patient. This allowed to take corrective measures between the activities to optimize the process cycle time. Likewise, a sequence was identified in the activities that had not been previously detected in the process documentation, these represented 2.6% difference, so the documented process was modified to achieve a 99.6% affinity.
+
+**Source:** https://www.semanticscholar.org/paper/bbb60eb1b1cc8240f302e47d231895267df96bd4
+
+---
+Category: biomedical
+Subcategory: ai-curated
+Collected: 2025-08-01T19:51:53.402Z
