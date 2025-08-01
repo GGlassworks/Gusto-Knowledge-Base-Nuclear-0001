@@ -1,0 +1,12 @@
+# An AI-Enabled Framework Within Reach for Enhancing Healthcare Sustainability and Fairness
+
+**Authors:** Bin Huang, Changchen Zhao, Zimeng Liu, Shenda Hong, Baochang Zhang, Hao Lu, Zhijun Liu, Wenjin Wang, Hui Liu
+
+## Summary
+Good health and well-being is among key issues in the United Nations 2030 Sustainable Development Goals. The rising prevalence of large-scale infectious diseases and the accelerated aging of the global population are driving the transformation of healthcare technologies. In this context, establishing large-scale public health datasets, developing medical models, and creating decision-making systems with a human-centric approach are of strategic significance. Recently, by leveraging the extraordinary number of accessible cameras, groundbreaking advancements have emerged in AI methods for physiological signal monitoring and disease diagnosis using camera sensors. These approaches, requiring no specialized medical equipment, offer convenient manners of collecting large-scale medical data in response to public health events. Therefore, we outline a prospective framework and heuristic vision for a camera-based public health (CBPH) framework utilizing visual physiological monitoring technology. The CBPH can be considered as a convenient and universal framework for public health, advancing the United Nations Sustainable Development Goals, particularly in promoting the universality, sustainability, and equity of healthcare in low- and middle-income countries or regions. Furthermore, CBPH provides a comprehensive solution for building a large-scale and human-centric medical database, and a multi-task large medical model for public health and medical scientific discoveries. It has a significant potential to revolutionize personal monitoring technologies, digital medicine, telemedicine, and primary health care in public health. Therefore, it can be deemed that the outcomes of this paper will contribute to the establishment of a sustainable and fair framework for public health, which serves as a crucial bridge for advancing scientific discoveries in the realm of AI for medicine (AI4Medicine).
+
+
+---
+Category: biomedical
+Subcategory: cs.CY
+Collected: 2025-08-01T10:21:08.311Z

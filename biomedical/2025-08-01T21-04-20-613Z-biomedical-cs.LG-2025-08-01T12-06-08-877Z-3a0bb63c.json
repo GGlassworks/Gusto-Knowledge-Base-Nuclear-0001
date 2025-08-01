@@ -1,0 +1,12 @@
+# A review of Generative Adversarial Networks (GANs) and its applications in a wide variety of disciplines -- From Medical to Remote Sensing
+
+**Authors:** Ankan Dash, Junyi Ye, Guiling Wang
+
+## Summary
+We look into Generative Adversarial Network (GAN), its prevalent variants and applications in a number of sectors. GANs combine two neural networks that compete against one another using zero-sum game theory, allowing them to create much crisper and discrete outputs. GANs can be used to perform image processing, video generation and prediction, among other computer vision applications. GANs can also be utilised for a variety of science-related activities, including protein engineering, astronomical data processing, remote sensing image dehazing, and crystal structure synthesis. Other notable fields where GANs have made gains include finance, marketing, fashion design, sports, and music. Therefore in this article we provide a comprehensive overview of the applications of GANs in a wide variety of disciplines. We first cover the theory supporting GAN, GAN variants, and the metrics to evaluate GANs. Then we present how GAN and its variants can be applied in twelve domains, ranging from STEM fields, such as astronomy and biology, to business fields, such as marketing and finance, and to arts, such as music. As a result, researchers from other fields may grasp how GANs work and apply them to their own study. To the best of our knowledge, this article provides the most comprehensive survey of GAN's applications in different fields.
+
+
+---
+Category: biomedical
+Subcategory: cs.LG
+Collected: 2025-08-01T12:06:08.878Z

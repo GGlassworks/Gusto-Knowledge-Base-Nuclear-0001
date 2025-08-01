@@ -1,0 +1,12 @@
+# Speech Emotion Recognition Using CNN and Its Use Case in Digital Healthcare
+
+**Authors:** Nishargo Nigar
+
+## Summary
+The process of identifying human emotion and affective states from speech is known as speech emotion recognition (SER). This is based on the observation that tone and pitch in the voice frequently convey underlying emotion. Speech recognition includes the ability to recognize emotions, which is becoming increasingly popular and in high demand. With the help of appropriate factors (such modalities, emotions, intensities, repetitions, etc.) found in the data, my research seeks to use the Convolutional Neural Network (CNN) to distinguish emotions from audio recordings and label them in accordance with the range of different emotions. I have developed a machine learning model to identify emotions from supplied audio files with the aid of machine learning methods. The evaluation is mostly focused on precision, recall, and F1 score, which are common machine learning metrics. To properly set up and train the machine learning framework, the main objective is to investigate the influence and cross-relation of all input and output parameters. To improve the ability to recognize intentions, a key condition for communication, I have evaluated emotions using my specialized machine learning algorithm via voice that would address the emotional state from voice with the help of digital healthcare, bridging the gap between human and artificial intelligence (AI).
+
+
+---
+Category: biomedical
+Subcategory: cs.SD
+Collected: 2025-08-01T10:18:23.245Z

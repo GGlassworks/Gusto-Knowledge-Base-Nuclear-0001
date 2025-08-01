@@ -1,0 +1,12 @@
+# A Bleeding Digital Heart: Identifying Residual Data Generation from Smartphone Applications Interacting with Medical Devices
+
+**Authors:** George Grispos, William Bradley Glisson, Peter Cooper
+
+## Summary
+The integration of medical devices in everyday life prompts the idea that these devices will increasingly have evidential value in civil and criminal proceedings. However, the investigation of these devices presents new challenges for the digital forensics community. Previous research has shown that mobile devices provide investigators with a wealth of information. Hence, mobile devices that are used within medical environments potentially provide an avenue for investigating and analyzing digital evidence from such devices. The research contribution of this paper is twofold. First, it provides an empirical analysis of the viability of using information from smartphone applications developed to complement a medical device, as digital evidence. Second, it includes documentation on the artifacts that are potentially useful in a digital forensics investigation of smartphone applications that interact with medical devices.
+
+
+---
+Category: biomedical
+Subcategory: cs.CR
+Collected: 2025-08-01T10:16:19.375Z

@@ -1,0 +1,12 @@
+# The Path to a Modular and Standards-based Digital Health Ecosystem
+
+**Authors:** Paul Schmiedmayer, Vishnu Ravi, Oliver Aalami
+
+## Summary
+Software engineering for digital health applications entails several challenges, including heterogeneous data acquisition, data standardization, software reuse, security, and privacy considerations. We explore these challenges and how our Stanford Spezi ecosystem addresses these challenges by providing a modular and standards-based open-source digital health ecosystem. Spezi enables developers to select and integrate modules according to their needs and facilitates an open-source community to democratize access to building digital health innovations.
+
+
+---
+Category: biomedical
+Subcategory: cs.SE
+Collected: 2025-08-01T10:16:14.985Z

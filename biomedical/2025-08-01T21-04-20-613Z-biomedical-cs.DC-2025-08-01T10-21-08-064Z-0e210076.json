@@ -1,0 +1,12 @@
+# Enhancing Digital Forensics Readiness In Big Data Wireless Medical Networks: A Secure Decentralised Framework
+
+**Authors:** Cephas Mpungu, Carlisle George, Glenford Mapp
+
+## Summary
+Wireless medical networks are pivotal for chronic disease management, yet the sensitive Big Data they generate presents administration challenges and cyber vulnerability. This Big Data is valuable within both healthcare and legal contexts, serving as a resource for investigating medical malpractice, civil cases, criminal activities, and network-related incidents. However, the rapid evolution of network technologies and data creates complexities in digital forensics investigations and audits. To address these issues, this paper proposes a secure decentralised framework aimed at bolstering digital forensics readiness (DFR) in Big Data wireless medical networks by identifying security threats, complexities, and gaps in current research efforts. By improving the network's resilience to cyber threats and aiding in medical malpractice investigations, this framework significantly advances digital forensics, wireless networks, and healthcare. It enhances digital forensics readiness, incident response, and the management of medical malpractice incidents in Big Data wireless medical networks. A real-world scenario-based evaluation demonstrated the framework's effectiveness in improving forensic readiness and response capabilities, validating its practical applicability and impact. A comparison of the proposed framework with existing frameworks concluded that it is an advancement in framework design for DFR, especially in regard to Big Data processing, decentralised DFR storage and scalability.
+
+
+---
+Category: biomedical
+Subcategory: cs.DC
+Collected: 2025-08-01T10:21:08.064Z

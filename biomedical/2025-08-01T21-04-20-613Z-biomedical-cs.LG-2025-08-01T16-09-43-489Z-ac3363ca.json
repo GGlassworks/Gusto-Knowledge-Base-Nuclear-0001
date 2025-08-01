@@ -1,0 +1,12 @@
+# Structural State Translation: Condition Transfer between Civil Structures Using Domain-Generalization for Structural Health Monitoring
+
+**Authors:** Furkan Luleci, F. Necati Catbas
+
+## Summary
+Using Structural Health Monitoring (SHM) systems with extensive sensing arrangements on every civil structure can be costly and impractical. Various concepts have been introduced to alleviate such difficulties, such as Population-based SHM (PBSHM). Nevertheless, the studies presented in the literature do not adequately address the challenge of accessing the information on different structural states (conditions) of dissimilar civil structures. The study herein introduces a novel framework named Structural State Translation (SST), which aims to estimate the response data of different civil structures based on the information obtained from a dissimilar structure. SST can be defined as Translating a state of one civil structure to another state after discovering and learning the domain-invariant representation in the source domains of a dissimilar civil structure. SST employs a Domain-Generalized Cycle-Generative (DGCG) model to learn the domain-invariant representation in the acceleration datasets obtained from a numeric bridge structure that is in two different structural conditions. In other words, the model is tested on three dissimilar numeric bridge models to translate their structural conditions. The evaluation results of SST via Mean Magnitude-Squared Coherence (MMSC) and modal identifiers showed that the translated bridge states (synthetic states) are significantly similar to the real ones. As such, the minimum and maximum average MMSC values of real and translated bridge states are 91.2% and 97.1%, the minimum and the maximum difference in natural frequencies are 5.71% and 0%, and the minimum and maximum Modal Assurance Criterion (MAC) values are 0.998 and 0.870. This study is critical for data scarcity and PBSHM, as it demonstrates that it is possible to obtain data from structures while the structure is actually in a different condition or state.
+
+
+---
+Category: biomedical
+Subcategory: cs.LG
+Collected: 2025-08-01T16:09:43.489Z

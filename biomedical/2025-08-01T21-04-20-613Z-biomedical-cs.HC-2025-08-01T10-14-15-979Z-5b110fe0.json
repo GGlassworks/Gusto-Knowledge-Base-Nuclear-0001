@@ -1,0 +1,12 @@
+# Generative AI-Driven Human Digital Twin in IoT-Healthcare: A Comprehensive Survey
+
+**Authors:** Jiayuan Chen, You Shi, Changyan Yi, Hongyang Du, Jiawen Kang, Dusit Niyato
+
+## Summary
+The Internet of things (IoT) can significantly enhance the quality of human life, specifically in healthcare, attracting extensive attentions to IoT-healthcare services. Meanwhile, the human digital twin (HDT) is proposed as an innovative paradigm that can comprehensively characterize the replication of the individual human body in the digital world and reflect its physical status in real time. Naturally, HDT is envisioned to empower IoT-healthcare beyond the application of healthcare monitoring by acting as a versatile and vivid human digital testbed, simulating the outcomes and guiding the practical treatments. However, successfully establishing HDT requires high-fidelity virtual modeling and strong information interactions but possibly with scarce, biased and noisy data. Fortunately, a recent popular technology called generative artificial intelligence (GAI) may be a promising solution because it can leverage advanced AI algorithms to automatically create, manipulate, and modify valuable while diverse data. This survey particularly focuses on the implementation of GAI-driven HDT in IoT-healthcare. We start by introducing the background of IoT-healthcare and the potential of GAI-driven HDT. Then, we delve into the fundamental techniques and present the overall framework of GAI-driven HDT. After that, we explore the realization of GAI-driven HDT in detail, including GAI-enabled data acquisition, communication, data management, digital modeling, and data analysis. Besides, we discuss typical IoT-healthcare applications that can be revolutionized by GAI-driven HDT, namely personalized health monitoring and diagnosis, personalized prescription, and personalized rehabilitation. Finally, we conclude this survey by highlighting some future research directions.
+
+
+---
+Category: biomedical
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:15.979Z

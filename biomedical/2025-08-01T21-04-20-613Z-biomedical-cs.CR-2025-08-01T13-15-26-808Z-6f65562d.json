@@ -1,0 +1,12 @@
+# SCALHEALTH: Scalable Blockchain Integration for Secure IoT Healthcare Systems
+
+**Authors:** Mehrzad Mohammadi, Reza Javan, Mohammad Beheshti-Atashgah, Mohammad Reza Aref
+
+## Summary
+Internet of Things (IoT) devices are capable of allowing for far-reaching access to and evaluation of patient data to monitor health and diagnose from a distance. An electronic healthcare system that checks patient data, prepares medicines and provides financial assistance is necessary. Providing safe data transmission, monitoring, decentralization, preserving patient privacy, and maintaining confidentiality are essential to an electronic healthcare system. In this study, we introduce (SCALHEALTH) which is a blockchain-based scheme of the Hyperledger Fabric consortium. In this study, we use authentication to agree on a common key for data encryption to send data confidentially. Also, sending data through IPFS is decentralized. Non-fungible token (NFT) is used to send patient prescriptions to pharmacies and insurance companies to ensure the authenticity of patient prescriptions. As the system's main body, blockchain creates authorization and validation for all devices and institutions. Also, all metadata in the system is recorded on the blockchain to maintain integrity, transparency, and timely data monitoring. The proposed study uses two types of blockchain: a health blockchain and a financial blockchain. The financial blockchain is for financial transactions and is based on Ethereum. The health blockchain also introduces a mechanism that allows several blockchains to be active in parallel, instead of only one blockchain. The prototype of this mechanism is simulated in two scenarios. In comparison to the normal state, the proposed plan has superior results.
+
+
+---
+Category: biomedical
+Subcategory: cs.CR
+Collected: 2025-08-01T13:15:26.808Z

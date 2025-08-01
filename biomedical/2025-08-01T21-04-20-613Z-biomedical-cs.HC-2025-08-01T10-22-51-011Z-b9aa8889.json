@@ -1,0 +1,12 @@
+# Validating a virtual human and automated feedback system for training doctor-patient communication skills
+
+**Authors:** Kurtis Haut, Caleb Wohn, Benjamin Kane, Tom Carroll, Catherine Guigno, Varun Kumar, Ron Epstein, Lenhart Schubert, Ehsan Hoque
+
+## Summary
+Effective communication between a clinician and their patient is critical for delivering healthcare maximizing outcomes. Unfortunately, traditional communication training approaches that use human standardized patients and expert coaches are difficult to scale. Here, we present the development and validation of a scalable, easily accessible, digital tool known as the Standardized Online Patient for Health Interaction Education (SOPHIE) for practicing and receiving feedback on doctor-patient communication skills. SOPHIE was validated by conducting an experiment with 30 participants. We found that participants who underwent SOPHIE performed significantly better than the control in overall communication, aggregate scores, empowering the patient, and showing empathy ($p &lt; 0.05$ in all cases). One day, we hope that SOPHIE will help make communication training resources more accessible by providing a scalable option to supplement existing resources.
+
+
+---
+Category: biomedical
+Subcategory: cs.HC
+Collected: 2025-08-01T10:22:51.011Z

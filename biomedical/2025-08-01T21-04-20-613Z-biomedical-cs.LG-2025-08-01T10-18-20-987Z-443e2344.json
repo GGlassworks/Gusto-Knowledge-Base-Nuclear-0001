@@ -1,0 +1,12 @@
+# Equitable Restless Multi-Armed Bandits: A General Framework Inspired By Digital Health
+
+**Authors:** Jackson A. Killian, Manish Jain, Yugang Jia, Jonathan Amar, Erich Huang, Milind Tambe
+
+## Summary
+Restless multi-armed bandits (RMABs) are a popular framework for algorithmic decision making in sequential settings with limited resources. RMABs are increasingly being used for sensitive decisions such as in public health, treatment scheduling, anti-poaching, and -- the motivation for this work -- digital health. For such high stakes settings, decisions must both improve outcomes and prevent disparities between groups (e.g., ensure health equity). We study equitable objectives for RMABs (ERMABs) for the first time. We consider two equity-aligned objectives from the fairness literature, minimax reward and max Nash welfare. We develop efficient algorithms for solving each -- a water filling algorithm for the former, and a greedy algorithm with theoretically motivated nuance to balance disparate group sizes for the latter. Finally, we demonstrate across three simulation domains, including a new digital health model, that our approaches can be multiple times more equitable than the current state of the art without drastic sacrifices to utility. Our findings underscore our work's urgency as RMABs permeate into systems that impact human and wildlife outcomes. Code is available at https://github.com/google-research/socialgood/tree/equitable-rmab
+
+
+---
+Category: biomedical
+Subcategory: cs.LG
+Collected: 2025-08-01T10:18:20.987Z

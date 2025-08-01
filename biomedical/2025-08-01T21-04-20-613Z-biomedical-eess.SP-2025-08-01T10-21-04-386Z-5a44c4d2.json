@@ -1,0 +1,12 @@
+# From Biometrics to Environmental Control: AI-Enhanced Digital Twins for Personalized Health Interventions in Healing Landscapes
+
+**Authors:** Yiping Meng, Yiming Sun
+
+## Summary
+The dynamic nature of human health and comfort calls for adaptive systems that respond to individual physiological needs in real time. This paper presents an AI-enhanced digital twin framework that integrates biometric signals, specifically electrocardiogram (ECG) data, with environmental parameters such as temperature, humidity, and ventilation. Leveraging IoT-enabled sensors and biometric monitoring devices, the system continuously acquires, synchronises, and preprocesses multimodal data streams to construct a responsive virtual replica of the physical environment. To validate this framework, a detailed case study is conducted using the MIT-BIH noise stress test dataset. ECG signals are filtered and segmented using dynamic sliding windows, followed by extracting heart rate variability (HRV) features such as SDNN, BPM, QTc, and LF/HF ratio. Relative deviation metrics are computed against clean baselines to quantify stress responses. A random forest classifier is trained to predict stress levels across five categories, and Shapley Additive exPlanations (SHAP) is used to interpret model behaviour and identify key contributing features. These predictions are mapped to a structured set of environmental interventions using a Five Level Stress Intervention Mapping, which activates multi-scale responses across personal, room, building, and landscape levels. This integration of physiological insight, explainable AI, and adaptive control establishes a new paradigm for health-responsive built environments. It lays the foundation for the future development of intelligent, personalised healing spaces.
+
+
+---
+Category: biomedical
+Subcategory: eess.SP
+Collected: 2025-08-01T10:21:04.386Z

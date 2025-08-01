@@ -1,0 +1,12 @@
+# Towards a potential paradigm shift in health data collection and analysis
+
+**Authors:** David Josef Herzog, Nitsa Judith Herzog
+
+## Summary
+Industrial Revolution 4.0 transforms healthcare systems. The first three technological revolutions changed the relationship between human and machine interaction due to the exponential growth of machine numbers. The fourth revolution put humans into a situation where heterogeneous data is produced with unmatched quantity and quality not only by traditional methods, enforced by digitization, but also by ubiquitous computing, machine-to-machine interactions and smart environment. The modern cyber-physical space underlines the role of the person in the expanding context of computerization and big data processing. In healthcare, where data collection and analysis particularly depend on human efforts, the disruptive nature of these developments is evident. Adaptation to this process requires deep scrutiny of the trends and recognition of future medical data technologies` evolution. Significant difficulties arise from discrepancies in requirements by healthcare, administrative and technology stakeholders. Black box and grey box decisions made in medical imaging and diagnostic Decision Support Software are often not transparent enough for the professional, social and medico-legal requirements. While Explainable AI proposes a partial solution for AI applications in medicine, the approach has to be wider and multiplex. LLM potential and limitations are also discussed. This paper lists the most significant issues in these topics and describes possible solutions.
+
+
+---
+Category: biomedical
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:15.521Z

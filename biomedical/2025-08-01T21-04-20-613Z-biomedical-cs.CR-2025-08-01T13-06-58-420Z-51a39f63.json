@@ -1,0 +1,12 @@
+# The Telehealth Chain: a protocol for secure and transparent telemedicine transactions on the blockchain
+
+**Authors:** Syed Sarosh Mahdi, Zaib Ullah, Gopi Battineni, Muneer Gohar Babar, Umer Daood
+
+## Summary
+Blockchain technology provides a secure and decentralized platform for storing and transferring sensitive medical data, which can be utilized to enable remote medical consultations. This paper proposes a theoretical framework for creating a blockchain-based digital entity to facilitate telemedicine services. The proposed framework utilizes blockchain technology to provide a secure and reliable platform for medical practitioners to remotely interact with patient transactions. The blockchain will serve as a one-stop digital service to secure patient data, ensure privacy, and facilitate payments. The proposed framework leverages the existing Hyperledger Fabric platform to build a secure blockchain-assisted telemedicine platform.
+
+
+---
+Category: biomedical
+Subcategory: cs.CR
+Collected: 2025-08-01T13:06:58.421Z

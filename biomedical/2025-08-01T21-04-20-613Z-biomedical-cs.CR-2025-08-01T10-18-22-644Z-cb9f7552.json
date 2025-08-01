@@ -1,0 +1,12 @@
+# Digital Healthcare in The Metaverse: Insights into Privacy and Security
+
+**Authors:** Mehdi Letafati, Safa Otoum
+
+## Summary
+In this article, we study the privacy and security aspects of the metaverse in the context of digital healthcare. Our studies include the security aspects of data collection and communications for access to the metaverse, the privacy and security threats of employing Machine Learning and Artificial Intelligence (AI/ML) algorithms for metaverse healthcare, and the privacy of social interactions among patients in the metaverse from a human-centric perspective. In this article, we aim to provide new perspectives and less-investigated solutions, which are shown to be promising mechanisms in the context of wireless communications and computer science and can be considered novel solutions to be applied to healthcare metaverse services. Topics include physical layer security (PHYSec), Semantic Metaverse Communications (SMC), Differential Privacy (DP), and Adversarial Machine Learning (AML). As a case study, we propose distributed differential privacy for the metaverse healthcare systems, where each virtual clinic perturbs its medical model vector to enhance privacy against malicious actors and curious servers. Through our experiments on the Breast Cancer Wisconsin Dataset (BCWD), we highlight the privacy-utility trade-off for different adjustable levels of privacy.
+
+
+---
+Category: biomedical
+Subcategory: cs.CR
+Collected: 2025-08-01T10:18:22.645Z

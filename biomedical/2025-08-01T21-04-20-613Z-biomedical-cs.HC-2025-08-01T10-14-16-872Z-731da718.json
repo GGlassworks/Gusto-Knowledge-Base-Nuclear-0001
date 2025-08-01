@@ -1,0 +1,12 @@
+# Incorporating Different Verbal Cues to Improve Text-Based Computer-Delivered Health Messaging
+
+**Authors:** Samuel Rhys Cox
+
+## Summary
+The ubiquity of smartphones has led to an increase in on demand healthcare being supplied. For example, people can share their illness-related experiences with others similar to themselves, and healthcare experts can offer advice for better treatment and care for remediable, terminal and mental illnesses. As well as this human-to-human communication, there has been an increased use of human-to-computer digital health messaging, such as chatbots. These can prove advantageous as they offer synchronous and anonymous feedback without the need for a human conversational partner. However, there are many subtleties involved in human conversation that a computer agent may not properly exhibit. For example, there are various conversational styles, etiquettes, politeness strategies or empathic responses that need to be chosen appropriately for the conversation. Encouragingly, computers are social actors (CASA) posits that people apply the same social norms to computers as they would do to people. On from this, previous studies have focused on applying conversational strategies to computer agents to make them embody more favourable human characteristics. However, if a computer agent fails in this regard it can lead to negative reactions from users. Therefore, in this dissertation we describe a series of studies we carried out to lead to more effective human-to-computer digital health messaging. In our first study, we use the crowd [...] Our second study investigates the effect of a health chatbot's conversational style [...] In our final study, we investigate the format used by a chatbot when [...] In summary, we have researched how to create more effective digital health interventions starting from generating health messages, to choosing an appropriate formality of messaging, and finally to formatting messages which reference a user's previous utterances.
+
+
+---
+Category: biomedical
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.873Z

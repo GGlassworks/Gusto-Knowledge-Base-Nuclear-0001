@@ -1,0 +1,12 @@
+# Deep Connection: Making Virtual Reality Artworks with Medical Scan Data
+
+**Authors:** Marilene Oliver, Gary James Joynes, Kumar Punithakumar, Peter Seres
+
+## Summary
+Deep Connection is an installation and virtual reality artwork made using full body 3D and 4D magnetic resonance scan datasets. When the user enters Deep Connection, they see a scanned body lying prone in mid-air. The user can walk around the body and inspect it. The user can dive inside and see its inner workings, its lungs, spine, brain. The user can take hold of the figure's outstretched hand: holding the hand triggers the 4D dataset, making the heart beat and the lungs breathe. When the user lets go of the hand, the heart stops beating and the lungs stop breathing. Deep Connection creates a scenario where an embodied human becomes the companion for a virtual body. This paper maps the conceptual and theoretical framework for Deep Connection such as virtual intimacy and digital mediated companionship. It also reflects on working with scanned bodies more generally in virtual reality by discussing transparency, the cyberbody versus the data body, as well as data privacy and data ethics. The paper also explains the technical and procedural aspects of the Deep Connection project with respect to acquiring scan data for the creation of virtual reality artworks.
+
+
+---
+Category: biomedical
+Subcategory: cs.MM
+Collected: 2025-08-01T10:21:10.327Z

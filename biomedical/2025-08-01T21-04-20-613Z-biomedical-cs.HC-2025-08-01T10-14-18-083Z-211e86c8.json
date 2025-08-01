@@ -1,0 +1,12 @@
+# Human vs. LLM-Based Thematic Analysis for Digital Mental Health Research: Proof-of-Concept Comparative Study
+
+**Authors:** Karisa Parkington, Bazen G. Teferra, Marianne Rouleau-Tang, Argyrios Perivolaris, Alice Rueda, Adam Dubrowski, Bill Kapralos, Reza Samavi, Andrew Greenshaw, Yanbo Zhang, Bo Cao, Yuqi Wu, Sirisha Rambhatla, Sridhar Krishnan, Venkat Bhat
+
+## Summary
+Thematic analysis provides valuable insights into participants' experiences through coding and theme development, but its resource-intensive nature limits its use in large healthcare studies. Large language models (LLMs) can analyze text at scale and identify key content automatically, potentially addressing these challenges. However, their application in mental health interviews needs comparison with traditional human analysis. This study evaluates out-of-the-box and knowledge-base LLM-based thematic analysis against traditional methods using transcripts from a stress-reduction trial with healthcare workers. OpenAI's GPT-4o model was used along with the Role, Instructions, Steps, End-Goal, Narrowing (RISEN) prompt engineering framework and compared to human analysis in Dedoose. Each approach developed codes, noted saturation points, applied codes to excerpts for a subset of participants (n = 20), and synthesized data into themes. Outputs and performance metrics were compared directly. LLMs using the RISEN framework developed deductive parent codes similar to human codes, but humans excelled in inductive child code development and theme synthesis. Knowledge-based LLMs reached coding saturation with fewer transcripts (10-15) than the out-of-the-box model (15-20) and humans (90-99). The out-of-the-box LLM identified a comparable number of excerpts to human researchers, showing strong inter-rater reliability (K = 0.84), though the knowledge-based LLM produced fewer excerpts. Human excerpts were longer and involved multiple codes per excerpt, while LLMs typically applied one code. Overall, LLM-based thematic analysis proved more cost-effective but lacked the depth of human analysis. LLMs can transform qualitative analysis in mental healthcare and clinical research when combined with human oversight to balance participant perspectives and research resources.
+
+
+---
+Category: biomedical
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:18.084Z

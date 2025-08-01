@@ -1,0 +1,12 @@
+# Adaptive Security in 6G for Sustainable Healthcare
+
+**Authors:** Ijaz Ahmad, Ijaz Ahmad, Erkki Harjula
+
+## Summary
+6G will fulfill the requirements of future digital healthcare systems through emerging decentralized computing and secure communications technologies. Digital healthcare solutions employ numerous low-power and resource-constrained connected things, such as the Internet of Medical Things (IoMT). However, the current digital healthcare solutions will face two major challenges. First, the proposed solutions are based on the traditional IoT-Cloud model that will experience latency and reliability challenges to meet the expectations and requirements of digital healthcare, while potentially inflicting heavy network load. Second, the existing digital healthcare solutions will face security challenges due to the inherent limitations of IoMT caused by the lack of resources for proper security in those devices. Therefore, in this research, we present a decentralized adaptive security architecture for the successful deployment of digital healthcare. The proposed architecture leverages the edge-cloud continuum to meet the performance, efficiency, and reliability requirements. It can adapt the security solution at run-time to meet the limited capacity of IoMT devices without compromising the security of critical data. Finally, the research outlines comprehensive methodologies for validating the proposed security architecture.
+
+
+---
+Category: biomedical
+Subcategory: cs.CR
+Collected: 2025-08-01T10:26:24.141Z

@@ -1,0 +1,12 @@
+# From slides (through tiles) to pixels: an explainability framework for weakly supervised models in pre-clinical pathology
+
+**Authors:** Marco Bertolini, Van-Khoa Le, Jake Pencharz, Andreas Poehlmann, Djork-Arné Clevert, Santiago Villalba, Floriane Montanari
+
+## Summary
+In pre-clinical pathology, there is a paradox between the abundance of raw data (whole slide images from many organs of many individual animals) and the lack of pixel-level slide annotations done by pathologists. Due to time constraints and requirements from regulatory authorities, diagnoses are instead stored as slide labels. Weakly supervised training is designed to take advantage of those data, and the trained models can be used by pathologists to rank slides by their probability of containing a given lesion of interest. In this work, we propose a novel contextualized eXplainable AI (XAI) framework and its application to deep learning models trained on Whole Slide Images (WSIs) in Digital Pathology. Specifically, we apply our methods to a multi-instance-learning (MIL) model, which is trained solely on slide-level labels, without the need for pixel-level annotations. We validate quantitatively our methods by quantifying the agreements of our explanations' heatmaps with pathologists' annotations, as well as with predictions from a segmentation model trained on such annotations. We demonstrate the stability of the explanations with respect to input shifts, and the fidelity with respect to increased model performance. We quantitatively evaluate the correlation between available pixel-wise annotations and explainability heatmaps. We show that the explanations on important tiles of the whole slide correlate with tissue changes between healthy regions and lesions, but do not exactly behave like a human annotator. This result is coherent with the model training strategy.
+
+
+---
+Category: biomedical
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:17.781Z

@@ -1,0 +1,12 @@
+# Smart Insole: A Gait Analysis Monitoring Platform Targeting Parkinson Disease Patients Based on Insoles
+
+**Authors:** Dimitrios Boucharas, Christos Androutsos, George Gkois, Vassilis Tsakanikas, Vasileios Pezoulas, Dimitrios Manousos, Vasileios Skaramagkas, Chariklia Chatzaki, Stathis Kontogiannis, Christos Spandonidis, Alexandros Pantazis, Nikolaos Tachos, Manolis Tsiknakis, Dimitrios Fotiadis
+
+## Summary
+During the preceding decades, human gait analysis has been the center of attention for the scientific community, while the association between gait analysis and overall health monitoring has been extensively reported. Technological advances further assisted in this alignment, resulting in access to inexpensive and remote healthcare services. Various assessment tools, such as software platforms and mobile applications, have been proposed by the scientific community and the market that employ sensors to monitor human gait for various purposes ranging from biomechanics to the progression of functional recovery. The framework presented herein offers a valuable digital biomarker for diagnosing and monitoring Parkinson's disease that can help clinical experts in the decision-making process leading to corrective planning or patient-specific treatment. More accurate and reliable decisions can be provided through a wide variety of integrated Artificial Intelligence algorithms and straightforward visualization techniques, including, but not limited to, heatmaps and bar plots. The framework consists of three core components: the insole pair, the mobile application, and the cloud-based platform. The insole pair deploys 16 plantar pressure sensors, an accelerometer, and a gyroscope to acquire gait data. The mobile application formulates the data for the cloud platform, which orchestrates the component interaction through the web application. Utilizing open communication protocols enables the straightforward replacement of one of the core components with a relative one (e.g., a different model of insoles), transparently from the end user, without affecting the overall architecture, resulting in a framework with the flexibility to adjust its modularity.
+
+
+---
+Category: biomedical
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:15.259Z

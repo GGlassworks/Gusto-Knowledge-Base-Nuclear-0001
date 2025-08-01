@@ -1,0 +1,12 @@
+# Cyber Attacks on Maritime Assets and their Impacts on Health and Safety Aboard: A Holistic View
+
+**Authors:** Mohammad Ammar, Irfan Ahmad Khan
+
+## Summary
+There has been an unprecedented digitization drive in the industrial sector, especially in the maritime industry. The profusion of intelligent electronic devices and IOT-enabled cyber-physical systems (CPS) has helped in the efficient use of resources and increased convenience. CPS has enabled real-time remote command and control of industrial assets. Unlike the relatively isolated legacy systems, the intertwined nature of Information Technology(IT) and Operations Technology(OT) brought by Industry 4.0 has increased the complexity of the systems, thereby increasing the attack surface. This work explores the possible consequences of these attacks from a more holistic view, focusing on high-risk assets such as offshore oil rigs, offshore wind farms, and autonomous vessels. The attacks have become more aggressive with the proliferation of such technologies, disrupting the physical process, causing fire and explosion hazards, and endangering human life and environmental health. The possible attack scenarios, the attack vectors, and their physical consequences have been discussed from the perspective of personnel safety and health, along with known security breaches of such nature. To the best of the authors' knowledge, seldom has any work been done that accentuates the possible human and environmental impacts of such attacks.
+
+
+---
+Category: biomedical
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:45.368Z

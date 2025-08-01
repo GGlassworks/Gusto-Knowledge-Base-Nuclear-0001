@@ -1,0 +1,12 @@
+# AI-in-the-loop: The future of biomedical visual analytics applications in the era of AI
+
+**Authors:** Katja Bühler, Thomas Höllt, Thomas Schulz, Pere-Pau Vázquez
+
+## Summary
+AI is the workhorse of modern data analytics and omnipresent across many sectors. Large Language Models and multi-modal foundation models are today capable of generating code, charts, visualizations, etc. How will these massive developments of AI in data analytics shape future data visualizations and visual analytics workflows? What is the potential of AI to reshape methodology and design of future visual analytics applications? What will be our role as visualization researchers in the future? What are opportunities, open challenges and threats in the context of an increasingly powerful AI? This Visualization Viewpoint discusses these questions in the special context of biomedical data analytics as an example of a domain in which critical decisions are taken based on complex and sensitive data, with high requirements on transparency, efficiency, and reliability. We map recent trends and developments in AI on the elements of interactive visualization and visual analytics workflows and highlight the potential of AI to transform biomedical visualization as a research field. Given that agency and responsibility have to remain with human experts, we argue that it is helpful to keep the focus on human-centered workflows, and to use visual analytics as a tool for integrating ``AI-in-the-loop''. This is in contrast to the more traditional term ``human-in-the-loop'', which focuses on incorporating human expertise into AI-based systems.
+
+
+---
+Category: biomedical
+Subcategory: cs.HC
+Collected: 2025-08-01T19:51:01.696Z

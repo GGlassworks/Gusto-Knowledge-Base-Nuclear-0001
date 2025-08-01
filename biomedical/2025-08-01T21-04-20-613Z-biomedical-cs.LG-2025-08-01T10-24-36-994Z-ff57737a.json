@@ -1,0 +1,12 @@
+# Predictors of disease outbreaks at continentalscale in the African region: Insights and predictions with geospatial artificial intelligence using earth observations and routine disease surveillance data
+
+**Authors:** Scott Pezanowski, Etien Luc Koua, Joseph C Okeibunor, Abdou Salam Gueye
+
+## Summary
+Objectives: Our research adopts computational techniques to analyze disease outbreaks weekly over a large geographic area while maintaining local-level analysis by incorporating relevant high-spatial resolution cultural and environmental datasets. The abundance of data about disease outbreaks gives scientists an excellent opportunity to uncover patterns in disease spread and make future predictions. However, data over a sizeable geographic area quickly outpace human cognition. Our study area covers a significant portion of the African continent (about 17,885,000 km2). The data size makes computational analysis vital to assist human decision-makers. Methods: We first applied global and local spatial autocorrelation for malaria, cholera, meningitis, and yellow fever case counts. We then used machine learning to predict the weekly presence of these diseases in the second-level administrative district. Lastly, we used machine learning feature importance methods on the variables that affect spread. Results: Our spatial autocorrelation results show that geographic nearness is critical but varies in effect and space. Moreover, we identified many interesting hot and cold spots and spatial outliers. The machine learning model infers a binary class of cases or none with the best F1 score of 0.96 for malaria. Machine learning feature importance uncovered critical cultural and environmental factors affecting outbreaks and variations between diseases. Conclusions: Our study shows that data analytics and machine learning are vital to understanding and monitoring disease outbreaks locally across vast areas. The speed at which these methods produce insights can be critical during epidemics and emergencies.
+
+
+---
+Category: biomedical
+Subcategory: cs.LG
+Collected: 2025-08-01T10:24:36.995Z

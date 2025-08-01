@@ -1,0 +1,12 @@
+# X-ray Fluoroscopy Guided Localization and Steering of Medical Microrobots through Virtual Enhancement
+
+**Authors:** Husnu Halid Alabay, Tuan-Anh Le, Hakan Ceylan
+
+## Summary
+In developing medical interventions using untethered milli- and microrobots, ensuring safety and effectiveness relies on robust methods for detection, real-time tracking, and precise localization within the body. However, the inherent non-transparency of the human body poses a significant obstacle, limiting robot detection primarily to specialized imaging systems such as X-ray fluoroscopy, which often lack crucial anatomical details. Consequently, the robot operator (human or machine) would encounter severe challenges in accurately determining the location of the robot and steering its motion. This study explores the feasibility of circumventing this challenge by creating a simulation environment that contains the precise digital replica (virtual twin) of a model microrobot operational workspace. Synchronizing coordinate systems between the virtual and real worlds and continuously integrating microrobot position data from the image stream into the virtual twin allows the microrobot operator to control navigation in the virtual world. We validate this concept by demonstrating the tracking and steering of a mobile magnetic robot in confined phantoms with high temporal resolution (&lt; 100 ms, with an average of ~20 ms) visual feedback. Additionally, our object detection-based localization approach offers the potential to reduce overall patient exposure to X-ray doses during continuous microrobot tracking without compromising tracking accuracy. Ultimately, we address a critical gap in developing image-guided remote interventions with untethered medical microrobots, particularly for near-future applications in animal models and human patients.
+
+
+---
+Category: biomedical
+Subcategory: cs.RO
+Collected: 2025-08-01T10:16:15.676Z

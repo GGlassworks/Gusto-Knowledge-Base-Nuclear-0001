@@ -1,0 +1,12 @@
+# Personalization of Affective Models to Enable Neuropsychiatric Digital Precision Health Interventions: A Feasibility Study
+
+**Authors:** Ali Kargarandehkordi, Matti Kaisti, Peter Washington
+
+## Summary
+Mobile digital therapeutics for autism spectrum disorder (ASD) often target emotion recognition and evocation, which is a challenge for children with ASD. While such mobile applications often use computer vision machine learning (ML) models to guide the adaptive nature of the digital intervention, a single model is usually deployed and applied to all children. Here, we explore the potential of model personalization, or training a single emotion recognition model per person, to improve the performance of these underlying emotion recognition models used to guide digital health therapies for children with ASD. We conducted experiments on the Emognition dataset, a video dataset of human subjects evoking a series of emotions. For a subset of 10 individuals in the dataset with a sufficient representation of at least two ground truth emotion labels, we trained a personalized version of three classical ML models on a set of 51 features extracted from each video frame. We measured the importance of each facial feature for all personalized models and observed differing ranked lists of top features across subjects, motivating the need for model personalization. We then compared the personalized models against a generalized model trained using data from all 10 participants. The mean F1-scores achieved by the personalized models were 90.48%, 92.66%, and 86.40%, respectively. By contrast, the mean F1-scores reached by non-personalized models trained on different human subjects and evaluated using the same test set were 88.55%, 91.78%, and 80.42%, respectively. The personalized models outperformed the generalized models for 7 out of 10 participants. PCA analyses on the remaining 3 participants revealed relatively facial configuration differences between emotion labels within each subject, suggesting that personalized ML will fail when the variation among data points within a subjects data is too low.
+
+
+---
+Category: biomedical
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:19.439Z

@@ -1,0 +1,12 @@
+# A Health Monitoring System Based on Flexible Triboelectric Sensors for Intelligence Medical Internet of Things and its Applications in Virtual Reality
+
+**Authors:** Junqi Mao, Puen Zhou, Xiaoyao Wang, Hongbo Yao, Liuyang Liang, Yiqiao Zhao, Jiawei Zhang, Dayan Ban, Haiwu Zheng
+
+## Summary
+The Internet of Medical Things (IoMT) is a platform that combines Internet of Things (IoT) technology with medical applications, enabling the realization of precision medicine, intelligent healthcare, and telemedicine in the era of digitalization and intelligence. However, the IoMT faces various challenges, including sustainable power supply, human adaptability of sensors and the intelligence of sensors. In this study, we designed a robust and intelligent IoMT system through the synergistic integration of flexible wearable triboelectric sensors and deep learning-assisted data analytics. We embedded four triboelectric sensors into a wristband to detect and analyze limb movements in patients suffering from Parkinson's Disease (PD). By further integrating deep learning-assisted data analytics, we actualized an intelligent healthcare monitoring system for the surveillance and interaction of PD patients, which includes location/trajectory tracking, heart monitoring and identity recognition. This innovative approach enabled us to accurately capture and scrutinize the subtle movements and fine motor of PD patients, thus providing insightful feedback and comprehensive assessment of the patients conditions. This monitoring system is cost-effective, easily fabricated, highly sensitive, and intelligent, consequently underscores the immense potential of human body sensing technology in a Health 4.0 society.
+
+
+---
+Category: biomedical
+Subcategory: eess.SP
+Collected: 2025-08-01T10:16:17.276Z

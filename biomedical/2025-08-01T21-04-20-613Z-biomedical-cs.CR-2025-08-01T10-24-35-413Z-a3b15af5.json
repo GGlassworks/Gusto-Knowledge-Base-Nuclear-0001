@@ -1,0 +1,12 @@
+# Secure Multi-Party Computation based Privacy Preserving Data Analysis in Healthcare IoT Systems
+
+**Authors:** Kevser Şahinbaş, Ferhat Ozgur Catak
+
+## Summary
+Recently, many innovations have been experienced in healthcare by rapidly growing Internet-of-Things (IoT) technology that provides significant developments and facilities in the health sector and improves daily human life. The IoT bridges people, information technology and speed up shopping. For these reasons, IoT technology has started to be used on a large scale. Thanks to the use of IoT technology in health services, chronic disease monitoring, health monitoring, rapid intervention, early diagnosis and treatment, etc. facilitates the delivery of health services. However, the data transferred to the digital environment pose a threat of privacy leakage. Unauthorized persons have used them, and there have been malicious attacks on the health and privacy of individuals. In this study, it is aimed to propose a model to handle the privacy problems based on federated learning. Besides, we apply secure multi party computation. Our proposed model presents an extensive privacy and data analysis and achieve high performance.
+
+
+---
+Category: biomedical
+Subcategory: cs.CR
+Collected: 2025-08-01T10:24:35.413Z

@@ -1,0 +1,12 @@
+# COVID-19 Smart Chatbot Prototype for Patient Monitoring
+
+**Authors:** Hannah Lei, Weiqi Lu, Alan Ji, Emmett Bertram, Paul Gao, Xiaoqian Jiang, Arko Barman
+
+## Summary
+Many COVID-19 patients developed prolonged symptoms after the infection, including fatigue, delirium, and headache. The long-term health impact of these conditions is still not clear. It is necessary to develop a way to follow up with these patients for monitoring their health status to support timely intervention and treatment. In the lack of sufficient human resources to follow up with patients, we propose a novel smart chatbot solution backed with machine learning to collect information (i.e., generating digital diary) in a personalized manner. In this article, we describe the design framework and components of our prototype.
+
+
+---
+Category: biomedical
+Subcategory: cs.CL
+Collected: 2025-08-01T10:21:09.983Z
