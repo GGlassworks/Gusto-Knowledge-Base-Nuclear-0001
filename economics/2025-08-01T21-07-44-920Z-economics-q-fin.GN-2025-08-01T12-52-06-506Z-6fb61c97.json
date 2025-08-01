@@ -1,0 +1,12 @@
+# Decentralized Token Economy Theory (DeTEcT)
+
+**Authors:** Rem Sadykhov, Geoffrey Goodell, Denis de Montigny, Martin Schoernig, Philip Treleaven
+
+## Summary
+This paper presents a pioneering approach for simulation of economic activity, policy implementation, and pricing of goods in token economies. The paper proposes a formal analysis framework for wealth distribution analysis and simulation of interactions between economic participants in an economy. Using this framework, we define a mechanism for identifying prices that achieve the desired wealth distribution according to some metric, and stability of economic dynamics. The motivation to study tokenomics theory is the increasing use of tokenization, specifically in financial infrastructures, where designing token economies is in the forefront. Tokenomics theory establishes a quantitative framework for wealth distribution amongst economic participants and implements the algorithmic regulatory controls mechanism that reacts to changes in economic conditions. In our framework, we introduce a concept of tokenomic taxonomy where agents in the economy are categorized into agent types and interactions between them. This novel approach is motivated by having a generalized model of the macroeconomy with controls being implemented through interactions and policies. The existence of such controls allows us to measure and readjust the wealth dynamics in the economy to suit the desired objectives.
+
+
+---
+Category: economics
+Subcategory: q-fin.GN
+Collected: 2025-08-01T12:52:06.507Z

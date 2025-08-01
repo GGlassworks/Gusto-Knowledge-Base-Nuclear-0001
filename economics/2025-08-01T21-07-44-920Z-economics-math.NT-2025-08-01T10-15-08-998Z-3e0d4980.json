@@ -1,0 +1,12 @@
+# The growth of digital sums of powers of 2
+
+**Authors:** David G. Radcliffe
+
+## Summary
+We give an elementary proof that the sum of the digits of $2^n$ in base 10 is greater than $\log_4 n$. In particular, the limit of the sum of digits of $2^n$ is infinite.
+
+
+---
+Category: economics
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:08.998Z

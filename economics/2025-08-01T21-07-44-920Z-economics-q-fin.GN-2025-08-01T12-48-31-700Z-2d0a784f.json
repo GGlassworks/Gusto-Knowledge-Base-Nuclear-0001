@@ -1,0 +1,12 @@
+# Mathematical analysis of long tail economy using stochastic ranking processes
+
+**Authors:** Kumiko Hattori, Tetsuya Hattori
+
+## Summary
+We present a new method of estimating the distribution of sales rates of, e.g., book titles at an online bookstore, from the time evolution of ranking data found at websites of the store. The method is based on new mathematical results on an infinite particle limit of the stochastic ranking process, and is suitable for quantitative studies of the long tail structure of online retails. We give an example of a fit to the actual data obtained from Amazon.co.jp, which gives the Pareto slope parameter of the distribution of sales rates of the book titles in the store.
+
+
+---
+Category: economics
+Subcategory: q-fin.GN
+Collected: 2025-08-01T12:48:31.701Z

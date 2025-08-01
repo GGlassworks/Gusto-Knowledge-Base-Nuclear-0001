@@ -1,0 +1,12 @@
+# Are low frequency macroeconomic variables important for high frequency electricity prices?
+
+**Authors:** Claudia Foroni, Francesco Ravazzolo, Luca Rossini
+
+## Summary
+Recent research finds that forecasting electricity prices is very relevant. In many applications, it might be interesting to predict daily electricity prices by using their own lags or renewable energy sources. However, the recent turmoil of energy prices and the Russian-Ukrainian war increased attention in evaluating the relevance of industrial production and the Purchasing Managers' Index output survey in forecasting the daily electricity prices. We develop a Bayesian reverse unrestricted MIDAS model which accounts for the mismatch in frequency between the daily prices and the monthly macro variables in Germany and Italy. We find that the inclusion of macroeconomic low frequency variables is more important for short than medium term horizons by means of point and density measures. In particular, accuracy increases by combining hard and soft information, while using only surveys gives less accurate forecasts than using only industrial production data.
+
+
+---
+Category: economics
+Subcategory: q-fin.ST
+Collected: 2025-08-01T20:17:09.632Z

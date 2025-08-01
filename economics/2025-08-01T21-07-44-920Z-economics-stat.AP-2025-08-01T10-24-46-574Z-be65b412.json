@@ -1,0 +1,12 @@
+# A finite mixture approach for the analysis of digital skills in Finland, Italy and Bulgaria: the role of socio-economic factors
+
+**Authors:** Dalila Failli, Bruno Arpino, Maria Francesca Marino
+
+## Summary
+The digital divide is the gap among population sub-groups in accessing and/or using digital technologies. For instance, older people show a lower propensity to have a broadband connection, use the Internet, and adopt new technologies than the younger ones. Motivated by the analysis of the heterogeneity in the use of digital technologies, we build a bipartite network concerning the presence of various digital skills in individuals from three different European countries: Finland, Italy, and Bulgaria. Bipartite networks provide a useful structure for representing relationships between two disjoint sets of nodes, formally called sending and receiving nodes. The goal is to perform a clustering of individuals (sending nodes) based on their digital skills (receiving nodes) for each country. In this regard, we employ a Mixture of Latent Trait Analyzers (MLTA) accounting for concomitant variables, which allows us to (i) cluster individuals according to their individual profile; (ii) analyze how socio-economic and demographic characteristics, as well as intergenerational ties, influence individual digitalization. Results show that the type of digitalization substantially depends on age, income and level of education, while the presence of children in the household seems to play an important role in the digitalization process in Italy and Finland only.
+
+
+---
+Category: economics
+Subcategory: stat.AP
+Collected: 2025-08-01T10:24:46.574Z

@@ -1,0 +1,12 @@
+# Computing Economic-Optimal and Stable Equilibria for Droop-Controlled Microgrids
+
+**Authors:** Sungho Shin, Victor M. Zavala
+
+## Summary
+We consider the problem of computing equilibria (steady-states) for droop-controlled, islanded, AC microgrids that are both economic-optimal and dynamically stable. This work is motivated by the observation that classical optimal power flow (OPF) formulations used for economic optimization might provide equilibria that are not reachable by low-level controllers (i.e., closed-loop unstable). This arises because OPF problems only enforce steady-state conditions and do not capture the dynamics. We explain this behavior by using a port-Hamiltonian microgrid representation. To overcome the limitations of OPF, the port-Hamiltonian representation can be exploited to derive a bilevel OPF formulation that seeks to optimize economics while enforcing stability. Unfortunately, bilevel optimization with a nonconvex inner problem is difficult to solve in general. As such, we propose an alternative approach (that we call probing OPF), which identifies an economic-optimal and stable equilibrium by probing a neighborhood of equilibria using random perturbations. The probing OPF is advantageous in that it is formulated as a standard nonlinear program, in that it is compatible with existing OPF frameworks, and in that it is applicable to diverse microgrid models. Experiments with the IEEE 118-bus system reveal that few probing points are required to enforce stability.
+
+
+---
+Category: economics
+Subcategory: math.OC
+Collected: 2025-08-01T20:41:19.912Z

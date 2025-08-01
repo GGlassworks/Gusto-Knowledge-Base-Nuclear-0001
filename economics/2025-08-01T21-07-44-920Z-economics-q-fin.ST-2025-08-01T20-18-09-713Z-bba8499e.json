@@ -1,0 +1,12 @@
+# Bank transactions embeddings help to uncover current macroeconomics
+
+**Authors:** Maria Begicheva, Alexey Zaytsev
+
+## Summary
+Macroeconomic indexes are of high importance for banks: many risk-control decisions utilize these indexes. A typical workflow of these indexes evaluation is costly and protracted, with a lag between the actual date and available index being a couple of months. Banks predict such indexes now using autoregressive models to make decisions in a rapidly changing environment. However, autoregressive models fail in complex scenarios related to appearances of crises. We propose to use clients' financial transactions data from a large Russian bank to get such indexes. Financial transactions are long, and a number of clients is huge, so we develop an efficient approach that allows fast and accurate estimation of macroeconomic indexes based on a stream of transactions consisting of millions of transactions. The approach uses a neural networks paradigm and a smart sampling scheme. The results show that our neural network approach outperforms the baseline method on hand-crafted features based on transactions. Calculated embeddings show the correlation between the client's transaction activity and bank macroeconomic indexes over time.
+
+
+---
+Category: economics
+Subcategory: q-fin.ST
+Collected: 2025-08-01T20:18:09.713Z

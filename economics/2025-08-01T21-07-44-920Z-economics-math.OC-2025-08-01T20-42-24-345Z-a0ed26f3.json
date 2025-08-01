@@ -1,0 +1,12 @@
+# Economic Properties of Multi-Product Supply Chains
+
+**Authors:** Philip A. Tominac, Victor M. Zavala
+
+## Summary
+We interpret multi-product supply chains (SCs) as coordinated markets; under this interpretation, a SC optimization problem is a market clearing problem that allocates resources and associated economic values (prices) to different stakeholders that bid into the market (suppliers, consumers, transportation, and processing technologies). The market interpretation allows us to establish fundamental properties that explain how physical resources (primal variables) and associated economic values (dual variables) flow in the SC. We use duality theory to explain why incentivizing markets by forcing stakeholder participation (e.g., by imposing demand satisfaction or service provision constraints) yields artificial price behavior, inefficient allocations, and economic losses. To overcome these issues, we explore market incentive mechanisms that use bids; here, we introduce the concept of a stakeholder graph (a product-based representation of a supply chain) and show that this representation allows us to naturally determine minimum bids that activate the market. These results provide guidelines to design SC formulations that properly remunerate stakeholders and to design policy that foster market transactions. The results are illustrated using an urban waste management problem for a city of 100,000 residents.
+
+
+---
+Category: economics
+Subcategory: math.OC
+Collected: 2025-08-01T20:42:24.345Z

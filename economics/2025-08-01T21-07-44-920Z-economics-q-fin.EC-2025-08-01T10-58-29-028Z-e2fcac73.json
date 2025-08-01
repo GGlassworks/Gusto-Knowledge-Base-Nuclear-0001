@@ -1,0 +1,12 @@
+# Econophysics Macroeconomic Model
+
+**Authors:** Victor Olkhov
+
+## Summary
+This paper presents macroeconomic model that is based on parallels between macroeconomic multi-agent systems and multi-particle systems. We use risk ratings of economic agents as their coordinates on economic space. Aggregates of economic or financial variables like Investment, Assets, Demand, Credits and etc. of economic agents near point x define corresponding macroeconomic variables as functions of time t and coordinates x on economic space. Parallels between multi-agent and multi-particle systems on economic space allow describe transition from economic kinetic-like to economic hydrodynamic-like approximation and derive macroeconomic hydrodynamic-like equations on economic space. Economic or financial transactions between economic agents determine evolution of macroeconomic variables This paper describes local macroeconomic approximation that takes into account transactions between economic agents with coordinates near same point x on economic space only and describes interaction between macroeconomic variables by linear differential operators. For simple model of interaction between macroeconomic variables as Demand on Investment and Interest Rate we derive hydrodynamic-like equations in a closed form. For perturbations of these macroeconomic variables we derive macroeconomic wave equations. Macroeconomic waves on economic space can propagate with exponential growth of amplitude and cause irregular time fluctuations of macroeconomic variables or induce economic crises.
+
+
+---
+Category: economics
+Subcategory: q-fin.EC
+Collected: 2025-08-01T10:58:29.029Z

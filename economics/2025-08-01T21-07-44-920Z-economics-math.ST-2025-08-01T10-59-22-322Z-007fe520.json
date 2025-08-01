@@ -1,0 +1,12 @@
+# Modeling macroeconomic time series via heavy tailed distributions
+
+**Authors:** J. A. D. Aston
+
+## Summary
+It has been shown that some macroeconomic time series, especially those where outliers could be present, can be well modelled using heavy tailed distributions for the noise components. Methods for deciding when and where heavy-tailed models should be preferred are investigated. These investigations primarily focus on automatic methods for model identification and selection. Current methods are extended to incorporate a non-Gaussian selection element, and various different criteria for deciding on which overall model should be used are examined.
+
+
+---
+Category: economics
+Subcategory: math.ST
+Collected: 2025-08-01T10:59:22.322Z

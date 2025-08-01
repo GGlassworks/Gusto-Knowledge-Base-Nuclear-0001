@@ -1,0 +1,12 @@
+# An Exploration to the Correlation Structure and Clustering of Macroeconomic Variables
+
+**Authors:** Garvit Arora, Shubhangi Tiwari, Ying Wu, Xuan Mei
+
+## Summary
+As a quantitative characterization of the complicated economy, Macroeconomic Variables (MEVs), including GDP, inflation, unemployment, income, spending, interest rate, etc., are playing a crucial role in banks' portfolio management and stress testing exercise. In recent years, especially during the COVID-19 period and the current high inflation environment, people are frequently talking about the changing "correlation structure" of MEVs. In this paper, we use a principal component based algorithm to perform unsupervised clustering on MEVs so we can quantify and better understand MEVs' correlation structure in any given period. We also demonstrate how this method can be used to visualize historical MEVs pattern changes between 2000 and 2022. Further, we use this method to compare different hypothetical and/or historical macroeconomic scenarios and present our key findings. One of these interesting observations is that, for a list of 132 transformations derived from 44 targeted MEVs that cover 5 different aspects of the U.S. economy (which takes as a subset the 10+ key MEVs published by FRB), compared to benign years where there are typically 20-25 clusters, during the great financial crisis (GFC), i.e., 2007-2010, they exhibited a more synchronized and less diversified pattern of movement, forming roughly 15 clusters. We also see this contrast in the hypothetical CCAR2023 FRB scenarios where the Severely Adverse scenario has 15 clusters and the Baseline scenario has 21 clusters. We provide our interpretation to this observation and hope this research can inspire and benefit researchers from different domains all over the world.
+
+
+---
+Category: economics
+Subcategory: q-fin.RM
+Collected: 2025-08-01T20:09:57.409Z
