@@ -1,0 +1,13 @@
+# Domain-Driven Data Mining
+
+**Authors:** Longbing Cao, Chengqi Zhang
+
+## Abstract
+<jats:p>Extant data mining is based on data-driven methodologies. It either views data mining as an autonomous data-driven, trial-and-error process or only analyzes business issues in an isolated, case-by-case manner. As a result, very often the knowledge discovered generally is not interesting to real business needs. Therefore, this article proposes a practical data mining methodology referred to as domain-driven data mining, which targets actionable knowledge discovery in a constrained environment for satisfying user preference. The domain-driven data mining consists of a DDID-PD framework that considers key components such as constraint-based context, integrating domain knowledge, human-machine cooperation, in-depth mining, actionability enhancement, and iterative refinement process. We also illustrate some examples in mining actionable correlations in Australian Stock Exchange, which show that domain-driven data mining has potential to improve further the actionability of patterns for practical use by industry and business. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59904-951-9.ch051
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T19:35:05.141Z

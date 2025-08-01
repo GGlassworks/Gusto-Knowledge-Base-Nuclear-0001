@@ -1,0 +1,14 @@
+# Neural data science: accelerating the experiment-analysis-theory cycle in large-scale neuroscience
+
+**Authors:** L Paninski, J.P Cunningham
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Modern large - scale multineuronal recording methodologies, including multielectrode arrays, calcium imaging, and optogenetic techniques, produce single - neuron resolution data of a magnitude and precision that were the realm of science fiction twenty years ago. The major bottlenecks in systems and circuit neuroscience no longer lie in simply collecting data from large neural populations, but also in <jats:italic>understanding</jats:italic> this data: developing novel scientific questions, with corresponding analysis techniques and experimental designs to fully harness these new capabilities and meaningfully interrogate these questions. Advances in methods for signal processing, network analysis, dimensionality reduction, and optimal control – developed in lockstep with advances in experimental neurotechnology - - promise major breakthroughs in multiple fundamental neuroscience problems. These trends are clear in a broad array of subfields of modern neuroscience; this review focuses on recent advances in methods for analyzing neural time - series data with single - neuronal precision.
+<jats:fig id="fig1" position="float" fig-type="figure" orientation="portrait"><jats:label>Figure 1.</jats:label><jats:caption><jats:title>The central role of data science in modern large - scale neuroscience.</jats:title><jats:p>Topics reviewed herein are indicated in black.</jats:p></jats:caption><jats:graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="196949_fig1" position="float" orientation="portrait" /></jats:fig></jats:p>
+
+**Source:** https://doi.org/10.1101/196949
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T17:01:33.838Z

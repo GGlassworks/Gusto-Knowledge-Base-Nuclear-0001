@@ -1,0 +1,13 @@
+# A Framework on Data Mining on Uncertain Data with Related Research Issues in Service Industry
+
+**Authors:** Edward Hung
+
+## Abstract
+<jats:p>There has been a large amount of research work done on mining on relational databases that store data in exact values. However, in many real-life applications such as those commonly used in service industry, the raw data are usually uncertain when they are collected or produced. Sources of uncertain data include readings from sensors (such as RFID tagged in products in retail stores), classification results (e.g., identities of products or customers) of image processing using statistical classifiers, results from predictive programs used for stock market or targeted marketing as well as predictive churn model in customer relationship management. However, since traditional databases only store exact values, uncertain data are usually transformed into exact data by, for example, taking the mean value (for quantitative attributes) or by taking the value with the highest frequency or possibility. The shortcomings are obvious: (1) by approximating the uncertain source data values, the results from the mining tasks will also be approximate and may be wrong; (2) useful probabilistic information may be omitted from the results. Research on probabilistic databases began in 1980s. While there has been a great deal of work on supporting uncertainty in databases, there is increasing work on mining on such uncertain data. By classifying uncertain data into different categories, a framework is proposed to develop different probabilistic data mining techniques that can be applied directly on uncertain data in order to produce results that preserve the accuracy. In this chapter, we introduce the framework with a scheme to categorize uncertain data with different properties. We also propose a variety of definitions and approaches for different mining tasks on uncertain data with different properties. The advances in data mining application in this aspect are expected to improve the quality of services provided in various service industries.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-4666-2455-9.ch025
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T19:37:11.822Z

@@ -1,0 +1,13 @@
+# Modeling, Querying, and Mining Uncertain XML Data
+
+**Authors:** Evgeny Kharlamov, Pierre Senellart
+
+## Abstract
+<jats:p>This chapter deals with data mining in uncertain XML data models, whose uncertainty typically comes from imprecise automatic processes. We first review the literature on modeling uncertain data, starting with well-studied relational models and moving then to their semistructured counterparts. We focus on a specific probabilistic XML model, which allows representing arbitrary finite distributions of XML documents, and has been extended to also allow continuous distributions of data values. We summarize previous work on querying this uncertain data model and show how to apply the corresponding techniques to several data mining tasks, exemplified through use cases on two running examples.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-61350-356-0.ch002
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T19:30:52.397Z

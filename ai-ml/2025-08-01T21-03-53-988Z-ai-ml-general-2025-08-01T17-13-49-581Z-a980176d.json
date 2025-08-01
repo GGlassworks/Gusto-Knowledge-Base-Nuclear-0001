@@ -1,0 +1,13 @@
+# Neural network models for spinal implementation of muscle synergies
+
+**Authors:** Yunqing Song, Masaya Hirashima, Tomohiko Takei
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Muscle synergies have been proposed as functional modules to simplify the complexity of body motor control; however, their neural implementation is still unclear. Converging evidence suggests that output projections of the spinal premotor interneurons (PreM-INs) underlie the formation of muscle synergies, but they exhibit a substantial variation across neurons and exclude standard models assuming a small number of unitary “modules” in the spinal cord. Here we compared neural network models for muscle synergies to seek a biologically plausible model that reconciles previous clinical and electrophysiological findings. We examined three neural network models: one with random connections (non-synergy model), one with a small number of spinal synergies (simple synergy model), and one with a large number of spinal neurons representing muscle synergies with a certain variation (population synergy model). We found that the simple and population synergy models emulate the robustness of muscle synergies against cortical stroke observed in human stroke patients. Furthermore, the size of the spinal variation of the population synergy matched well with the variation in spinal PreM-INs recorded in monkeys. These results suggest that a spinal population with moderate variation is a biologically plausible model for the neural implementation of muscle synergies.</jats:p>
+
+**Source:** https://doi.org/10.1101/2021.10.27.466061
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T17:13:49.581Z
