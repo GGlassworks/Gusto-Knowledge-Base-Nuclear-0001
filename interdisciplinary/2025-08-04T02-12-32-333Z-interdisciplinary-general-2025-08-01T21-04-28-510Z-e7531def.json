@@ -1,0 +1,13 @@
+# Introduction
+
+**Authors:** Thomas Bäck
+
+## Abstract
+<p>The conversation between Alice and the Cat gives a perfect characterization of the meandering path full of dead ends, sharp curves and hurdles one has to follow when doing research. After three and a half years, my first section of this path through wonderland ends up with the work presented here. In its final form, it deals with Evolutionary Algorithms (for parameter optimization purposes) and puts particular emphasis on extensions and analysis of Genetic Algorithms, a special instance of this class of algorithms. The structure of this research, however, has grown over the years and is just slightly related to Classifier Systems, the original starting point of my work. These contain Genetic Algorithms as a component for rule-discovery, and as Classifier Systems turned out to lack theoretical understanding almost completely, the concentration of interest on Genetic Algorithms was a natural step and provided the basis of this work. The book is divided into two parts that reflect the emphasis on Genetic Algorithms (part II) and the general framework of Evolutionary Algorithms that Genetic Algorithms fit into (part I). Part I concentrates on the development of a general description of Evolutionary Algorithms, i.e. search algorithms gleaned from organic evolution. These algorithms were developed more than thirty years ago in the “ancient” times of computer science, when researchers came up with the ideas to solve problems by trying to imitate the intelligent capabilities of individual brains and populations. The former approach, emphasizing an individual’s intelligence, led to the development of research topics such as artificial neural networks and knowledge-based symbolic artificial intelligence. The latter emphasized the collective learning properties exhibited by populations of individuals, which benefit from a high diversity of their genetic material. Modeling organic evolution provides the basis for a variety of concepts such as genotype, genetic code, phenotype, self-adaptation, etc., which are incorporated into Evolutionary Algorithms. Consequently, the necessary prerequisites to understand the relations between algorithmic realizations and biological reality are provided in chapter 1. In addition to this, chapter 1 clarifies the relationship between global random search algorithms and Evolutionary Algorithms, Artificial Intelligence and Evolutionary Algorithms, and computational complexity and Evolutionary Algorithms.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780195099713.003.0004
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:04:28.511Z

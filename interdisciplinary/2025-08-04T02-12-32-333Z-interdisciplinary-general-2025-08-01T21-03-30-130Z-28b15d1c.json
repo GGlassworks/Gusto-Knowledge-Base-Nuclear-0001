@@ -1,0 +1,13 @@
+# Algorithms for Calculating Generalized Trigonometric Functions
+
+**Authors:** Ivanna Dronyuk
+
+## Abstract
+<jats:p>In this paper, algorithms for calculating different types of generalized trigonometric and hyperbolic functions are developed and presented. The main attention is focused on the Ateb-functions, which are the inverse functions to incomplete Beta-functions. The Ateb-functions can generalize every kind of implementation where trigonometric and hyperbolic functions are used. They have been successfully applied to vibration motion modeling, data protection, signal processing, and others. In this paper, the Fourier transform’s generalization for periodic Ateb-functions in the form of Ateb-transform is determined. Continuous and discrete Ateb-transforms are constructed. Algorithms for their calculation are created. Also, Ateb-transforms with one and two parameters are considered, and algorithms for their realization are built. The quantum calculus generalization for hyperbolic Ateb-functions is constructed. Directions for future research are highlighted.</jats:p>
+
+**Source:** https://doi.org/10.3390/a18020060
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:03:30.131Z

@@ -1,0 +1,13 @@
+# Specific Evolutionary Algorithms
+
+**Authors:** Thomas Bäck
+
+## Abstract
+<p>In this chapter, an outline of an Evolutionary Algorithm is formulated that is sufficiently general to cover at least the three different main stream algorithms mentioned before, namely, Evolution Strategies, Genetic Algorithms, and Evolutionary Programming. As in the previous chapter, algorithms are formulated in a language obtained by mixing pseudocode and mathematical notations, thus allowing for a high-level description which concentrates on the main components. These are: A population of individuals which is manipulated by genetic operators — especially mutation and recombination, but others may also be incorporated — and undergoes a fitness-based selection process, where fitness of an individual depends on its quality with respect to the optimization task.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780195099713.003.0007
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:03:28.284Z

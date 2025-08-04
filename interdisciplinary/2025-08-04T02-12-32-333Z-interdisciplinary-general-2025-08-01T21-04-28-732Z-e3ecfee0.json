@@ -1,0 +1,13 @@
+# Mutation
+
+**Authors:** Thomas Bäck
+
+## Abstract
+<p>In section 1.1.3 it was clarified that a variety of different, more or less drastic changes of the genome are summarized under the term mutation by geneticists and evolutionary biologists. Several mutation events are within the bounds of possibility, ranging from single base pair changes to genomic mutations. The phenotypic effect of genotypic mutations, however, can hardly be predicted from knowledge about the genotypic change. In general, advantageous mutations have a relatively small effect on the phenotype, i.e., their expression does not deviate very much (in phenotype space) from the expression of the unmutated genotype ([Fut90], p. 85). More drastic phenotypic changes are usually lethal or become extinct due to a reduced capability of reproduction. The discussion, to which extent evolution based on phenotypic macro-mutations in the sense of “hopeful monsters” is important to facilitate the process of speciation, is still ongoing (such macromutations have been observed and classified for the fruitfly Drosophila melangonaster, see [Got89], p. 286). Actually, only a few data sets are available to assess the phylogenetic significance of macro-mutations completely, but small phenotypical effects of mutation are clearly observed to be predominant. This is the main argument justifying the use of normally distributed mutations with expectation zero in Evolutionary Programming and Evolution Strategies. It reflects the emphasis of both algorithms on modeling phenotypic rather than genotypic change. The model of mutation is quite different in Genetic Algorithms, where bit reversal events (see section 2.3.2) corresponding with single base pair mutations in biological reality implement a model of evolution on the basis of genotypic changes. As observed in nature, the mutation rate used in Genetic Algorithms is very small (cf. section 2.3.2). In contrast to the biological model, it is neither variable by external influences nor controlled (at least partially) by the genotype itself (cf. section 1.1.3). Holland defined the role of mutation in Genetic Algorithms to be a secondary one, of little importance in comparison to crossover (see [Hol75], p. 111): . . . Summing up: Mutation is a “background” operator, assuring that the crossover operator has a full range of alleles so that the adaptive plan is not trapped on local optima. . . .</p>
+
+**Source:** https://doi.org/10.1093/oso/9780195099713.003.0012
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:04:28.733Z
