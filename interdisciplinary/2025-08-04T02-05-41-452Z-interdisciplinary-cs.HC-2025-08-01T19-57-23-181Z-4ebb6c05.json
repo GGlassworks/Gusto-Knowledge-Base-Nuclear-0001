@@ -1,0 +1,12 @@
+# AccuStripes: Adaptive Binning for the Visual Comparison of Univariate Data Distributions
+
+**Authors:** Anja Heim, Eduard Gröller, Christoph Heinzl
+
+## Summary
+Understanding and comparing distributions of data (e.g., regarding their modes, shapes, or outliers) is a common challenge in many scientific disciplines. Typically, this challenge is addressed using side-by-side comparisons of histograms or density plots. However, comparing multiple density plots is mentally demanding. Uniform histograms often represent distributions imprecisely since missing values, outliers, or modes are hidden by a grouping of equal size. In this paper, a novel type of overview visualization for the comparison of univariate data distributions is presented: AccuStripes (i.e., accumulated stripes) is a new visual metaphor encoding accumulations of data distributions according to adaptive binning using color coded stripes of irregular width. We provide detailed insights about challenges of binning. Specifically, we explore different adaptive binning concepts such as Bayesian Blocks binning and Jenks Natural Breaks binning for the computation of binning boundaries, in terms of their capabilities to represent the datasets as accurately as possible. In addition, we discuss issues arising with the representation of designs for the comparative visualization of distributions: To allow for a comparison of many distributions, their accumulated representations are plotted below each other in a stacked mode. Based on our findings, we propose three different layouts for comparative visualization of multiple distributions. The usefulness of AccuStripes is investigated using a statistical evaluation of the binning methods. Using a similarity metric from cluster analysis, it is shown, which binning method statistically yields the best grouping results. Through a user study we evaluate, which binning strategy visually represents the distribution in the most intuitive form and investigate, which layout allows the user the comparison of many distributions in the most effortless way.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:57:23.181Z

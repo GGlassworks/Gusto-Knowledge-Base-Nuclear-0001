@@ -1,0 +1,12 @@
+# On the Need of Analog Signals and Systems for Digital-Twin Representations
+
+**Authors:** Holger Boche, Ullrich J. Mönich, Yannik N. Böck, Frank H. P. Fitzek
+
+## Summary
+We consider the task of converting different digital descriptions of analog bandlimited signals and systems into each other, with a rigorous application of mathematical computability theory. Albeit very fundamental, the problem appears in the scope of digital twinning, an emerging concept in the field of digital processing of analog information that is regularly mentioned as one of the key enablers for next-generation cyber-physical systems and their areas of application. In this context, we prove that essential quantities such as the peak-to-average power ratio and the bounded-input/bounded-output norm, which determine the behavior of the real-world analog system, cannot generally be determined from the system's digital twin, depending on which of the above-mentioned descriptions is chosen. As a main result, we characterize the algorithmic strength of Shannon's sampling type representation as digital twin implementation and also introduce a new digital twin implementation of analog signals and systems. We show there exist two digital descriptions, both of which uniquely characterize a certain analog system, such that one description can be algorithmically converted into the other, but not vice versa.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T10:15:10.168Z

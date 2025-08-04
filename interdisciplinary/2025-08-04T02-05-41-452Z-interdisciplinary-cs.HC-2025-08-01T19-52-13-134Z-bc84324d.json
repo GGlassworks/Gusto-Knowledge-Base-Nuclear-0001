@@ -1,0 +1,12 @@
+# Using Counterfactuals to Improve Causal Inferences from Visualizations
+
+**Authors:** David Borland, Arran Zeyu Wang, David Gotz
+
+## Summary
+Traditional approaches to data visualization have often focused on comparing different subsets of data, and this is reflected in the many techniques developed and evaluated over the years for visual comparison. Similarly, common workflows for exploratory visualization are built upon the idea of users interactively applying various filter and grouping mechanisms in search of new insights. This paradigm has proven effective at helping users identify correlations between variables that can inform thinking and decision-making. However, recent studies show that consumers of visualizations often draw causal conclusions even when not supported by the data. Motivated by these observations, this article highlights recent advances from a growing community of researchers exploring methods that aim to directly support visual causal inference. However, many of these approaches have their own limitations which limit their use in many real-world scenarios. This article therefore also outlines a set of key open challenges and corresponding priorities for new research to advance the state of the art in visual causal inference.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:52:13.135Z

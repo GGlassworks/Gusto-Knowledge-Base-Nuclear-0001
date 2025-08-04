@@ -1,0 +1,12 @@
+# Comparing Nodes of Multivariate Graphs Through Dynamic Layout Adaptations
+
+**Authors:** Philip Berger, Sebastian Beleites, Christian Tominski
+
+## Summary
+Visual comparison is an important task in the analysis of multivariate graphs. However, comparison of topological features of a graph with respect to its data attributes for different portions of the data remains challenging because there is no single visual representation that would suit the dynamic nature of comparative analyses. To facilitate the visual comparison in node-link diagrams, we propose the comparison lens as a focus+context approach for dynamic layout adaptation. The core idea is to start with a topology-driven layout and locally inject an attribute-driven layout based on the multivariate similarity of node attributes. This facilitates comparison tasks on a local level while preserving the user's overall mental map of the graph topology. Additional visual enhancements, including color-coding, reduction of edge clutter, and radial guides, further support the comparison. To fit the lens to different comparison situations, it can be configured via user-controllable parameters. To demonstrate the utility of our approach, we use it for comparison in a real-world dataset of soccer players.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:57:21.878Z

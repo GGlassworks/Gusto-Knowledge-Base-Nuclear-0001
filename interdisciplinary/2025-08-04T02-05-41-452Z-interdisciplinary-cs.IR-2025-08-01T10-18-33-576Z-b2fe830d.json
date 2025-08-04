@@ -1,0 +1,12 @@
+# Document Embeddings vs. Keyphrases vs. Terms: An Online Evaluation in Digital Library Recommender Systems
+
+**Authors:** Andrew Collins, Joeran Beel
+
+## Summary
+Many recommendation algorithms are available to digital library recommender system operators. The effectiveness of algorithms is largely unreported by way of online evaluation. We compare a standard term-based recommendation approach to two promising approaches for related-article recommendation in digital libraries: document embeddings, and keyphrases. We evaluate the consistency of their performance across multiple scenarios. Through our recommender-as-a-service Mr. DLib, we delivered 33.5M recommendations to users of Sowiport and Jabref over the course of 19 months, from March 2017 to October 2018. The effectiveness of the algorithms differs significantly between Sowiport and Jabref (Wilcoxon rank-sum test; p &lt; 0.05). There is a ~400% difference in effectiveness between the best and worst algorithm in both scenarios separately. The best performing algorithm in Sowiport (terms) is the worst performing in Jabref. The best performing algorithm in Jabref (keyphrases) is 70% worse in Sowiport, than Sowiport`s best algorithm (click-through rate; 0.1% terms, 0.03% keyphrases).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T10:18:33.577Z

@@ -1,0 +1,12 @@
+# Advanced Gaze Analytics Dashboard
+
+**Authors:** Gavindya Jayawardena, Vikas Ashok, Sampath Jayarathna
+
+## Summary
+Eye movements can provide informative cues to understand human visual scan/search behavior and cognitive load during varying tasks. Visualizations of real-time gaze measures during tasks, provide an understanding of human behavior as the experiment is being conducted. Even though existing eye tracking analysis tools provide calculation and visualization of eye-tracking data, none of them support real-time visualizations of advanced gaze measures, such as ambient or focal processing, or eye-tracked measures of cognitive load. In this paper, we present an eye movements analytics dashboard that enables visualizations of various gaze measures, fixations, saccades, cognitive load, ambient-focal attention, and gaze transitions analysis by extracting eye movements from participants utilizing common off-the-shelf eye trackers. We validate the proposed eye movement visualizations by using two publicly available eye-tracking datasets. We showcase that, the proposed dashboard could be utilized to visualize advanced eye movement measures generated using multiple data sources.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:52:11.312Z

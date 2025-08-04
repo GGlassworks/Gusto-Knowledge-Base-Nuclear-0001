@@ -1,0 +1,12 @@
+# Towards Automatic Grading of D3.js Visualizations
+
+**Authors:** Matthew Hull, Connor Guerin, Justin Chen, Susanta Routray, Duen Horng Chau
+
+## Summary
+Manually grading D3 data visualizations is a challenging endeavor, and is especially difficult for large classes with hundreds of students. Grading an interactive visualization requires a combination of interactive, quantitative, and qualitative evaluation that are conventionally done manually and are difficult to scale up as the visualization complexity, data size, and number of students increase. We present a first-of-its kind automatic grading method for D3 visualizations that scalably and precisely evaluates the data bindings, visual encodings, interactions, and design specifications used in a visualization. Our method has shown potential to enhance students' learning experience, enabling them to submit their code frequently and receive rapid feedback to better inform iteration and improvement to their code and visualization design. Our method promotes consistent grading and enables instructors to dedicate more focus to assist students in gaining visualization knowledge and experience. We have successfully deployed our method and auto-graded D3 submissions from more than 1000 undergraduate and graduate students in Georgia Tech's CSE6242 Data and Visual Analytics course, and received positive feedback and encouragement for expanding its adoption.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:56:20.378Z

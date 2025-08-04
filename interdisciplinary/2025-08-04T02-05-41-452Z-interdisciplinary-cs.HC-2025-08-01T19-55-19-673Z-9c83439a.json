@@ -1,0 +1,12 @@
+# Exploring D3 Implementation Challenges on Stack Overflow
+
+**Authors:** Leilani Battle, Danni Feng, Kelli Webber
+
+## Summary
+Visualization languages help to standardize the process of designing effective visualizations, one of the most prominent being D3. However, few researchers have analyzed at scale how users incorporate these languages into existing visualization programming processes, i.e., implementation workflows. In this paper, we present an analysis of the experiences of D3 users as observed through Stack Overflow, summarizing common D3 implementation workflows and challenges discussed online. Our results show how the visualization community may be limiting its understanding of users' visualization implementation challenges by ignoring the larger context in which languages such as D3 are used. Based on our findings, we suggest new research directions to enhance the user experience with visualization languages. All our data and code are available at: https://osf.io/fup48/.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:55:19.673Z

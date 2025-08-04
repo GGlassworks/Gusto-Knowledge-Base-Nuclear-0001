@@ -1,0 +1,12 @@
+# Supporting Human Memory by Reconstructing Personal Episodic Narratives from Digital Traces
+
+**Authors:** Varvara Kalokyri, Alexander Borgida, Amélie Marian
+
+## Summary
+Numerous applications capture in digital form aspects of people's lives. The resulting data, which we call Personal Digital Traces - PDTs, can be used to help reconstruct people's episodic memories and connect to their past personal events. This reconstruction has several applications, from helping patients with neurodegenerative diseases recall past events to gathering clues from multiple sources to identify recent contacts and places visited - a critical new application for the current health crisis. This paper takes steps towards integrating, connecting and summarizing the heterogeneous collection of data into episodic narratives using scripts - prototypical plans for everyday activities. Specifically, we propose a matching algorithm that groups several digital traces from many different sources into script instances (episodes), and we provide a technique for ranking the likelihood of candidate episodes. We report on the results of a study based on the personal data of real users, which gives evidence that our episode reconstruction technique 1) successfully integrates and combines traces from different sources into coherent episodes, and 2) augments users' memory of their past actions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T10:14:16.890Z

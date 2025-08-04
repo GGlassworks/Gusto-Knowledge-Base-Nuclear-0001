@@ -1,0 +1,12 @@
+# Vistrust: a Multidimensional Framework and Empirical Study of Trust in Data Visualizations
+
+**Authors:** Hamza Elhamdadi, Adam Stefkovics, Johanna Beyer, Eric Moerth, Cindy Xiong Bearfield, Carolina Nobre
+
+## Summary
+Trust is an essential aspect of data visualization, as it plays a crucial role in the interpretation and decision-making processes of users. While research in social sciences outlines the multi-dimensional factors that can play a role in trust formation, most data visualization trust researchers employ a single-item scale to measure trust. We address this gap by proposing a comprehensive, multidimensional conceptualization and operationalization of trust in visualization. We do this by applying general theories of trust from social sciences, as well as synthesizing and extending earlier work and factors identified by studies in the visualization field. We apply a two-dimensional approach to trust in visualization, to distinguish between cognitive and affective elements, as well as between visualization and data-specific trust antecedents. We use our framework to design and run a large crowd-sourced study to quantify the role of visual complexity in establishing trust in science visualizations. Our study provides empirical evidence for several aspects of our proposed theoretical framework, most notably the impact of cognition, affective responses, and individual differences when establishing trust in visualizations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:47:59.799Z

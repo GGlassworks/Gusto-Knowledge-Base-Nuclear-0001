@@ -1,0 +1,12 @@
+# Knowledge Rocks:Adding Knowledge Assistance to Visualization Systems
+
+**Authors:** Anna-Pia Lohfink, Simon D. Duque Anton, Heike Leitte, Christoph Garth
+
+## Summary
+We present Knowledge Rocks, an implementation strategy and guideline for augmenting visualization systems to knowledge-assisted visualization systems, as defined by the KAVA model. Visualization systems become more and more sophisticated. Hence, it is increasingly important to support users with an integrated knowledge base in making constructive choices and drawing the right conclusions. We support the effective reactivation of visualization software resources by augmenting them with knowledge-assistance. To provide a general and yet supportive implementation strategy, we propose an implementation process that bases on an application-agnostic architecture. This architecture is derived from existing knowledge-assisted visualization systems and the KAVA model. Its centerpiece is an ontology that is able to automatically analyze and classify input data, linked to a database to store classified instances. We discuss design decisions and advantages of the KR framework and illustrate its broad area of application in diverse integration possibilities of this architecture into an existing visualization system. In addition, we provide a detailed case study by augmenting an it-security system with knowledge-assistance facilities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:55:18.577Z

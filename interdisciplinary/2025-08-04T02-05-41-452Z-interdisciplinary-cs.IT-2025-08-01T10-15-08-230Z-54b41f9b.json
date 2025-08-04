@@ -1,0 +1,12 @@
+# A Digital Twin Empowered Lightweight Model Sharing Scheme for Multi-Robot Systems
+
+**Authors:** Kai Xiong, Zhihong Wang, Supeng Leng, Jianhua He
+
+## Summary
+Multi-robot system for manufacturing is an Industry Internet of Things (IIoT) paradigm with significant operational cost savings and productivity improvement, where Unmanned Aerial Vehicles (UAVs) are employed to control and implement collaborative productions without human intervention. This mission-critical system relies on 3-Dimension (3-D) scene recognition to improve operation accuracy in the production line and autonomous piloting. However, implementing 3-D point cloud learning, such as Pointnet, is challenging due to limited sensing and computing resources equipped with UAVs. Therefore, we propose a Digital Twin (DT) empowered Knowledge Distillation (KD) method to generate several lightweight learning models and select the optimal model to deploy on UAVs. With a digital replica of the UAVs preserved at the edge server, the DT system controls the model sharing network topology and learning model structure to improve recognition accuracy further. Moreover, we employ network calculus to formulate and solve the model sharing configuration problem toward minimal resource consumption, as well as convergence. Simulation experiments are conducted over a popular point cloud dataset to evaluate the proposed scheme. Experiment results show that the proposed model sharing scheme outperforms the individual model in terms of computing resource consumption and recognition accuracy.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T10:15:08.230Z

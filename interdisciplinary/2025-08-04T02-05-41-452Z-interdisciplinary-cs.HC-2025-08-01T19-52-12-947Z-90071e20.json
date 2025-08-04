@@ -1,0 +1,12 @@
+# Generic Approach to Visualization of Time Series Data
+
+**Authors:** Sathya Krishnan Suresh, Shunmugapriya P
+
+## Summary
+Time series is a collection of data instances that are ordered according to a time stamp. Stock prices, temperature, etc are examples of time series data in real life. Time series data are used for forecasting sales, predicting trends. Visualization is the process of visually representing data or the relationship between features of a data either in a two-dimensional plot or a three-dimensional plot. Visualizing the time series data constitutes an important part of the process for working with a time series dataset. Visualizing the data not only helps in the modelling process but it can also be used to identify trends and features that cause those trends. In this work, we take a real-life time series dataset and analyse how the target feature relates to other features of the dataset through visualization. From the work that has been carried out, we present an effective method of visualization for time series data which will be much useful for machine learning modelling with such datasets.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:52:12.947Z

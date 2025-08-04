@@ -1,0 +1,12 @@
+# A Survey on Visualization Approaches in Political Science for Social and Political Factors: Progress to Date and Future Opportunities
+
+**Authors:** Dongyun Han, Abdullah-Al-Raihan Nayeem, Jason Windett, Yaoyao Dai, Benjamin Radford, Isaac Cho
+
+## Summary
+Politics is the set of activities related to strategic decision-making in groups. Political scientists study the strategic interactions between states, institutions, politicians, and citizens; they seek to understand the causes and consequences of those decisions and interactions. While some decisions might alleviate social problems, others might lead to disasters such as war and conflict. Data visualization approaches have the potential to assist political scientists in their studies by providing visual contexts. However, political researchers' perspectives on data visualization are unclear. This paper examines political scientists' perspectives on visualization and how they apply data visualization in their research. We discovered a growing trend in the use of graphs in political science journals. However, we also found a knowledge gap between the political science and visualization domains, such as effective visualization techniques for tasks and the use of color studied by visualization researchers. To reduce this gap, we survey visualization techniques applicable to the political scientists' research and report the visual analytics systems implemented for and evaluated by political scientists. At the end of this paper, we present an outline of future opportunities, including research topics and methodologies, for multidisciplinary research in political science and data analytics. Through this paper, we expect visualization researchers to get a better grasp of the political science domain, as well as broaden the possibility of future visualization approaches from a multidisciplinary perspective.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:51:00.360Z

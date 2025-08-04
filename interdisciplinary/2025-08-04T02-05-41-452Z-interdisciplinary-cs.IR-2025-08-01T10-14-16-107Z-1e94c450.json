@@ -1,0 +1,12 @@
+# Challenges in Implementing a Recommender System for Historical Research in the Humanities
+
+**Authors:** Florian Atzenhofer-Baumgartner, Bernhard C. Geiger, Christoph Trattner, Georg Vogeler, Dominik Kowald
+
+## Summary
+This extended abstract describes the challenges in implementing recommender systems for digital archives in the humanities, focusing on Monasterium.net, a platform for historical legal documents. We discuss three key aspects: (i) the unique characteristics of so-called charters as items for recommendation, (ii) the complex multi-stakeholder environment, and (iii) the distinct information-seeking behavior of scholars in the humanities. By examining these factors, we aim to contribute to the development of more effective and tailored recommender systems for (digital) humanities research.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T10:14:16.107Z

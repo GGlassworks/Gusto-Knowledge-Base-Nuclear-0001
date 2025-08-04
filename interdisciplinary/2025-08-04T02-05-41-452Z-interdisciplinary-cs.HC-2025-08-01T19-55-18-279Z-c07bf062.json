@@ -1,0 +1,12 @@
+# Requirements-Driven Visualizations for Big Data Analytics: a Model-Driven approach
+
+**Authors:** Ana Lavalle, Alejandro Maté, Juan Trujillo
+
+## Summary
+Choosing the right Visualization techniques is critical in Big Data Analytics. However, decision makers are not experts on visualization and they face up with enormous difficulties in doing so. There are currently many different (i) Big Data sources and also (ii) many different visual analytics to be chosen. Every visualization technique is not valid for every Big Data source and is not adequate for every context. In order to tackle this problem, we propose an approach, based on the Model Driven Architecture (MDA) to facilitate the selection of the right visual analytics to non-expert users. The approach is based on three different models: (i) a requirements model based on goal-oriented modeling for representing information requirements, (ii) a data representation model for representing data which will be connected to visualizations and, (iii) a visualization model for representing visualization details regardless of their implementation technology. Together with these models, a set of transformations allow us to semi-automatically obtain the corresponding implementation avoiding the intervention of the non-expert users. In this way, the great advantage of our proposal is that users no longer need to focus on the characteristics of the visualization, but rather, they focus on their information requirements and obtain the visualization that is better suited for their needs. We show the applicability of our proposal through a case study focused on a tax collection organization from a real project developed by the Spin-off company Lucentia Lab.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:55:18.280Z

@@ -1,0 +1,12 @@
+# Searching the Visual Style and Structure of D3 Visualizations
+
+**Authors:** Enamul Hoque, Maneesh Agrawala
+
+## Summary
+We present a search engine for D3 visualizations that allows queries based on their visual style and underlying structure. To build the engine we crawl a collection of 7860 D3 visualizations from the Web and deconstruct each one to recover its data, its data-encoding marks and the encodings describing how the data is mapped to visual attributes of the marks. We also extract axes and other non-data-encoding attributes of marks (e.g., typeface, background color). Our search engine indexes this style and structure information as well as metadata about the webpage containing the chart. We show how visualization developers can search the collection to find visualizations that exhibit specific design characteristics and thereby explore the space of possible designs. We also demonstrate how researchers can use the search engine to identify commonly used visual design patterns and we perform such a demographic design analysis across our collection of D3 charts. A user study reveals that visualization developers found our style and structure based search engine to be significantly more useful and satisfying for finding different designs of D3 charts, than a baseline search engine that only allows keyword search over the webpage containing a chart.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:54:15.637Z

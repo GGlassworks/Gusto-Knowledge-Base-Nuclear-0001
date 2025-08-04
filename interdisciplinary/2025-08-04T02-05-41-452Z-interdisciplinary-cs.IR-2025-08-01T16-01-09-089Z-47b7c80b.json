@@ -1,0 +1,12 @@
+# Towards More Accountable Search Engines: Online Evaluation of Representation Bias
+
+**Authors:** Aldo Lipani, Florina Piroi, Emine Yilmaz
+
+## Summary
+Information availability affects people's behavior and perception of the world. Notably, people rely on search engines to satisfy their need for information. Search engines deliver results relevant to user requests usually without being or making themselves accountable for the information they deliver, which may harm people's lives and, in turn, society. This potential risk urges the development of evaluation mechanisms of bias in order to empower the user in judging the results of search engines. In this paper, we give a possible solution to measuring representation bias with respect to societal features for search engines and apply it to evaluating the gender representation bias for Google's Knowledge Graph Carousel for listing occupations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T16:01:09.089Z

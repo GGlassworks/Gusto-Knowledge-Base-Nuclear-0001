@@ -1,0 +1,12 @@
+# A systematic data characteristic understanding framework towards physical-sensor big data challenges
+
+**Authors:** Zhipeng Ma, Bo Nørregaard Jørgensen, Zheng Grace Ma
+
+## Summary
+Big data present new opportunities for modern society while posing challenges for data scientists. Recent advancements in sensor networks and the widespread adoption of IoT have led to the collection of physical-sensor data on an enormous scale. However, significant challenges arise in high-quality big data analytics. To uncover big data challenges and enhance data quality, it is essential to quantitatively unveil data characteristics. Furthermore, the existing studies lack analysis of the specific time-related characteristics. Enhancing the efficiency and precision of data analytics through the big data lifecycle requires a comprehensive understanding of data characteristics to address the hidden big data challenges. To fill in the research gap, this paper proposes a systematic data characteristic framework based on a 6Vs model. The framework aims to unveil the data characteristics in terms of data volume, variety, velocity, veracity, value, and variability through a set of statistical indicators. This model improves the objectivity of data characteristic understanding by relying solely on data-driven indicators. The indicators related to time-related characteristics in physical-sensor data are also included. Furthermore, the big data challenges are linked to each dimension of the 6Vs model to gain a quantitative understanding of the data challenges. Finally, a pipeline is developed to implement the proposed framework, and two case studies are conducted to illustrate the process of understanding the physical-sensor data characteristics and making recommendations for data preprocessing to address the big data challenges. The proposed framework is able to analyze the characteristics of all physical-sensor data, therefore, identifying potential challenges in subsequent analytics, and providing recommendations for data preprocessing.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T10:43:21.497Z

@@ -1,0 +1,12 @@
+# How to evaluate data visualizations across different levels of understanding
+
+**Authors:** Alyxander Burns, Cindy Xiong, Steven Franconeri, Alberto Cairo, Narges Mahyar
+
+## Summary
+Understanding a visualization is a multi-level process. A reader must extract and extrapolate from numeric facts, understand how those facts apply to both the context of the data and other potential contexts, and draw or evaluate conclusions from the data. A well-designed visualization should support each of these levels of understanding. We diagnose levels of understanding of visualized data by adapting Bloom's taxonomy, a common framework from the education literature. We describe each level of the framework and provide examples for how it can be applied to evaluate the efficacy of data visualizations along six levels of knowledge acquisition - knowledge, comprehension, application, analysis, synthesis, and evaluation. We present three case studies showing that this framework expands on existing methods to comprehensively measure how a visualization design facilitates a viewer's understanding of visualizations. Although Bloom's original taxonomy suggests a strong hierarchical structure for some domains, we found few examples of dependent relationships between performance at different levels for our three case studies. If this level-independence holds across new tested visualizations, the taxonomy could serve to inspire more targeted evaluations of levels of understanding that are relevant to a communication goal.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:48:00.722Z

@@ -1,0 +1,12 @@
+# Misinformed by Visualization: What Do We Learn From Misinformative Visualizations?
+
+**Authors:** Leo Yu-Ho Lo, Ayush Gupta, Kento Shigyo, Aoyu Wu, Enrico Bertini, Huamin Qu
+
+## Summary
+Data visualization is powerful in persuading an audience. However, when it is done poorly or maliciously, a visualization may become misleading or even deceiving. Visualizations give further strength to the dissemination of misinformation on the Internet. The visualization research community has long been aware of visualizations that misinform the audience, mostly associated with the terms "lie" and "deceptive." Still, these discussions have focused only on a handful of cases. To better understand the landscape of misleading visualizations, we open-coded over one thousand real-world visualizations that have been reported as misleading. From these examples, we discovered 74 types of issues and formed a taxonomy of misleading elements in visualizations. We found four directions that the research community can follow to widen the discussion on misleading visualizations: (1) informal fallacies in visualizations, (2) exploiting conventions and data literacy, (3) deceptive tricks in uncommon charts, and (4) understanding the designers' dilemma. This work lays the groundwork for these research directions, especially in understanding, detecting, and preventing them.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:53:16.383Z

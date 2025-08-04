@@ -1,0 +1,12 @@
+# VMC: A Grammar for Visualizing Statistical Model Checks
+
+**Authors:** Ziyang Guo, Alex Kale, Matthew Kay, Jessica Hullman
+
+## Summary
+Visualizations play a critical role in validating and improving statistical models. However, the design space of model check visualizations is not well understood, making it difficult for authors to explore and specify effective graphical model checks. VMC defines a model check visualization using four components: (1) samples of distributions of checkable quantities generated from the model, including predictive distributions for new data and distributions of model parameters; (2) transformations on observed data to facilitate comparison; (3) visual representations of distributions; and (4) layouts to facilitate comparing model samples and observed data. We contribute an implementation of VMC as an R package. We validate VMC by reproducing a set of canonical model check examples, and show how using VMC to generate model checks reduces the edit distance between visualizations relative to existing visualization toolkits. The findings of an interview study with three expert modelers who used VMC highlight challenges and opportunities for encouraging exploration of correct, effective model check visualizations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:57:23.947Z

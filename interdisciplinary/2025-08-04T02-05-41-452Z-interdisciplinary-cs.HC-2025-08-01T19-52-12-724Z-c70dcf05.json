@@ -1,0 +1,12 @@
+# Vis4Vis: Visualization for (Empirical) Visualization Research
+
+**Authors:** Daniel Weiskopf
+
+## Summary
+Appropriate evaluation is a key component in visualization research. It is typically based on empirical studies that assess visualization components or complete systems. While such studies often include the user of the visualization, empirical research is not necessarily restricted to user studies but may also address the technical performance of a visualization system such as its computational speed or memory consumption. Any such empirical experiment faces the issue that the underlying visualization is becoming increasingly sophisticated, leading to an increasingly difficult evaluation in complex environments. Therefore, many of the established methods of empirical studies can no longer capture the full complexity of the evaluation. One promising solution is the use of data-rich observations that we can acquire during studies to obtain more reliable interpretations of empirical research. For example, we have been witnessing an increasing availability and use of physiological sensor information from eye tracking, electrodermal activity sensors, electroencephalography, etc. Other examples are various kinds of logs of user activities such as mouse, keyboard, or touch interaction. Such data-rich empirical studies promise to be especially useful for studies in the wild and similar scenarios outside of the controlled laboratory environment. However, with the growing availability of large, complex, time-dependent, heterogeneous, and unstructured observational data, we are facing the new challenge of how we can analyze such data. This challenge can be addressed by establishing the subfield of visualization for visualization (Vis4Vis): visualization as a means of analyzing and communicating data from empirical studies to advance visualization research.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:52:12.725Z

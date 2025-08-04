@@ -1,0 +1,12 @@
+# Mining Asymmetric Intertextuality
+
+**Authors:** Pak Kin Lau, Stuart Michael McManus
+
+## Summary
+This paper introduces a new task in Natural Language Processing (NLP) and Digital Humanities (DH): Mining Asymmetric Intertextuality. Asymmetric intertextuality refers to one-sided relationships between texts, where one text cites, quotes, or borrows from another without reciprocation. These relationships are common in literature and historical texts, where a later work references aclassical or older text that remain static. We propose a scalable and adaptive approach for mining asymmetric intertextuality, leveraging a split-normalize-merge paradigm. In this approach, documents are split into smaller chunks, normalized into structured data using LLM-assisted metadata extraction, and merged during querying to detect both explicit and implicit intertextual relationships. Our system handles intertextuality at various levels, from direct quotations to paraphrasing and cross-document influence, using a combination of metadata filtering, vector similarity search, and LLM-based verification. This method is particularly well-suited for dynamically growing corpora, such as expanding literary archives or historical databases. By enabling the continuous integration of new documents, the system can scale efficiently, making it highly valuable for digital humanities practitioners in literacy studies, historical research and related fields.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T10:14:18.513Z

@@ -1,0 +1,12 @@
+# VisActs: Describing Intent in Communicative Visualization
+
+**Authors:** Keshav Dasu, Yun-Hsin Kuo, Kwan-Liu Ma
+
+## Summary
+Data visualization can be defined as the visual communication of information. One important barometer for the success of a visualization is whether the intents of the communicator(s) are faithfully conveyed. The processes of constructing and displaying visualizations have been widely studied by our community. However, due to the lack of consistency in this literature, there is a growing acknowledgment of a need for frameworks and methodologies for classifying and formalizing the communicative component of visualization. This work focuses on intent and introduces how this concept in communicative visualization mirrors concepts in linguistics. We construct a mapping between the two spaces that enables us to leverage relevant frameworks to apply to visualization. We describe this translation as using the philosophy of language as a base for explaining communication in visualization. Furthermore, we illustrate the benefits and point out several prospective research directions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:51:02.137Z

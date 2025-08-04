@@ -1,0 +1,12 @@
+# Which One Changes More? A Novel Radial Visualization for State Change Comparison
+
+**Authors:** Shaolun Ruan, Yong Wang, Qiang Guan
+
+## Summary
+It is common to compare state changes of multiple data items and identify which data items have changed more in various applications (e.g., annual GDP growth of different countries and daily increase of new COVID-19 cases in different regions). Grouped bar charts and slope graphs can visualize both state changes and their initial and final states of multiple data items, and are thus widely used for state change comparison. But they leverage implicit bar differences or line slopes to indicate state changes, which has been proven less effective for visual comparison. Both visualizations also suffer from visual scalability issues when an increasing number of data items need to be compared. This paper fills the research gap by proposing a novel radial visualization called Intercept Graph to facilitate visual comparison of multiple state changes. It consists of inner and outer axes, and leverages the lengths of line segments intercepted by the inner axis to explicitly encode the state changes. Users can interactively adjust the inner axis to filter large changes of their interest and magnify the difference of relatively-similar state changes, enhancing its visual scalability and comparison accuracy. We extensively evaluate the Intercept Graph in comparison with baseline methods through two usage scenarios, quantitative metric evaluations, and well-designed crowdsourcing user studies with 50 participants. Our results demonstrate the usefulness and effectiveness of the Intercept Graph.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:57:22.056Z

@@ -1,0 +1,12 @@
+# Big data searching using words
+
+**Authors:** Santanu Acharjee, Ripunjoy Choudhury
+
+## Summary
+Big data analytics is one of the most promising areas of new research and development in computer science, enterprises, e-commerce, and defense. For many organizations, big data is considered one of their most important strategic assets. This explosive growth has made it necessary to develop effective techniques for examining and analyzing big data from mathematical perspectives. Among various methods of analyzing big data, topological data analysis (TDA) is now considered one of the useful tools. However, there is no fundamental concept related to the topological structure in big data. In this paper, we present fundamental concepts related to the neighborhood structures of words in big data search, laying the groundwork for developing topological frameworks for big data in the future. We also introduce the notion of big data primal within the context of big data search and explore how neighborhood structures, combined with the Jaccard similarity coefficient, can be utilized to detect anomalies in search behavior.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T10:41:07.142Z

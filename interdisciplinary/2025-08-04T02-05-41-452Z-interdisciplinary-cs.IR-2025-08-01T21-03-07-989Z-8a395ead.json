@@ -1,0 +1,12 @@
+# Rethinking Recommender Systems: Cluster-based Algorithm Selection
+
+**Authors:** Andreas Lizenberger, Ferdinand Pfeifer, Bastian Polewka
+
+## Summary
+Cluster-based algorithm selection deals with selecting recommendation algorithms on clusters of users to obtain performance gains. No studies have been attempted for many combinations of clustering approaches and recommendation algorithms. We want to show that clustering users prior to algorithm selection increases the performance of recommendation algorithms. Our study covers eight datasets, four clustering approaches, and eight recommendation algorithms. We select the best performing recommendation algorithm for each cluster. Our work shows that cluster-based algorithm selection is an effective technique for optimizing recommendation algorithm performance. For five out of eight datasets, we report an increase in nDCG@10 between 19.28% (0.032) and 360.38% (0.191) compared to algorithm selection without prior clustering.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T21:03:07.990Z

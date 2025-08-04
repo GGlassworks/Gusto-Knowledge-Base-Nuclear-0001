@@ -1,0 +1,12 @@
+# Visual Arrangements of Bar Charts Influence Comparisons in Viewer Takeaways
+
+**Authors:** Cindy Xiong, Vidya Setlur, Benjamin Bach, Kylie Lin, Eunyee Koh, Steven Franconeri
+
+## Summary
+Well-designed data visualizations can lead to more powerful and intuitive processing by a viewer. To help a viewer intuitively compare values to quickly generate key takeaways, visualization designers can manipulate how data values are arranged in a chart to afford particular comparisons. Using simple bar charts as a case study, we empirically tested the comparison affordances of four common arrangements: vertically juxtaposed, horizontally juxtaposed, overlaid, and stacked. We asked participants to type out what patterns they perceived in a chart, and coded their takeaways into types of comparisons. In a second study, we asked data visualization design experts to predict which arrangement they would use to afford each type of comparison and found both alignments and mismatches with our findings. These results provide concrete guidelines for how both human designers and automatic chart recommendation systems can make visualizations that help viewers extract the 'right' takeaway.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:57:22.282Z

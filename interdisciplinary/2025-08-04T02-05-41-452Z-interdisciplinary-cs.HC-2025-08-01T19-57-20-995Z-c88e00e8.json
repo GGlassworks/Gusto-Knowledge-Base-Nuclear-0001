@@ -1,0 +1,12 @@
+# Comparison Conundrum and the Chamber of Visualizations: An Exploration of How Language Influences Visual Design
+
+**Authors:** Aimen Gaba, Vidya Setlur, Arjun Srinivasan, Jane Hoffswell, Cindy Xiong
+
+## Summary
+The language for expressing comparisons is often complex and nuanced, making supporting natural language-based visual comparison a non-trivial task. To better understand how people reason about comparisons in natural language, we explore a design space of utterances for comparing data entities. We identified different parameters of comparison utterances that indicate what is being compared (i.e., data variables and attributes) as well as how these parameters are specified (i.e., explicitly or implicitly). We conducted a user study with sixteen data visualization experts and non-experts to investigate how they designed visualizations for comparisons in our design space. Based on the rich set of visualization techniques observed, we extracted key design features from the visualizations and synthesized them into a subset of sixteen representative visualization designs. We then conducted a follow-up study to validate user preferences for the sixteen representative visualizations corresponding to utterances in our design space. Findings from these studies suggest guidelines and future directions for designing natural language interfaces and recommendation tools to better support natural language comparisons in visual analytics.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:57:20.996Z

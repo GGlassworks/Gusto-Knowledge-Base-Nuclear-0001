@@ -1,0 +1,12 @@
+# Semantic Annotation and Querying Framework based on Semi-structured Ayurvedic Text
+
+**Authors:** Hrishikesh Terdalkar, Arnab Bhattacharya, Madhulika Dubey, Ramamurthy S, Bhavna Naneria Singh
+
+## Summary
+Knowledge bases (KB) are an important resource in a number of natural language processing (NLP) and information retrieval (IR) tasks, such as semantic search, automated question-answering etc. They are also useful for researchers trying to gain information from a text. Unfortunately, however, the state-of-the-art in Sanskrit NLP does not yet allow automated construction of knowledge bases due to unavailability or lack of sufficient accuracy of tools and methods. Thus, in this work, we describe our efforts on manual annotation of Sanskrit text for the purpose of knowledge graph (KG) creation. We choose the chapter Dhanyavarga from Bhavaprakashanighantu of the Ayurvedic text Bhavaprakasha for annotation. The constructed knowledge graph contains 410 entities and 764 relationships. Since Bhavaprakashanighantu is a technical glossary text that describes various properties of different substances, we develop an elaborate ontology to capture the semantics of the entity and relationship types present in the text. To query the knowledge graph, we design 31 query templates that cover most of the common question patterns. For both manual annotation and querying, we customize the Sangrahaka framework previously developed by us. The entire system including the dataset is available from https://sanskrit.iitk.ac.in/ayurveda/ . We hope that the knowledge graph that we have created through manual annotation and subsequent curation will help in development and testing of NLP tools in future as well as studying of the Bhavaprakasanighantu text.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T10:21:17.608Z

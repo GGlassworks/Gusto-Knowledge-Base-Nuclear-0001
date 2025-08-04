@@ -1,0 +1,12 @@
+# Extracting and visualizing a new classification system for Colombia's National Administrative Department of Statistics. A visual analytics framework case study
+
+**Authors:** Pierre Raimbaud, Jaime Camilo Espitia Castillo, John Guerra-Gomez
+
+## Summary
+In a world filled with data, it is expected for a nation to take decisions informed by data. However, countries need to first collect and publish such data in a way meaningful for both citizens and policy makers. A good thematic classification could be instrumental in helping users navigate and find the right resources on a rich data repository as the one collected by Colombia's National Administrative Department of Statistics (DANE). The Visual Analytics Framework is a methodology for conducting visual analysis developed by T. Munzner et al. [T. Munzner, Visualization Analysis and Design, A K Peters Visualization Series, 1, 2014] that could help with this task. This paper presents a case study applying such framework conducted to help the DANE better visualize their data repository, and present a more understandable classification of it. It describes three main analysis tasks identified, the proposed solutions and the collection of insights generated from them.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:51:01.907Z

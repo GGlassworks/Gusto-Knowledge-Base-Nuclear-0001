@@ -1,0 +1,12 @@
+# Visualization of missing data: a state-of-the-art survey
+
+**Authors:** Sarah Alsufyani, Matthew Forshaw, Sara Johansson Fernstad
+
+## Summary
+Missing data, the data value that is not recorded for a variable, occurs in almost all statistical analyses and may be caused by many reasons, such as lack of collection or a lack of documentation. Researchers need to adequately deal with this issue to provide a valid analysis. The visualization of missing values plays an important role in supporting the investigation and understanding of the missing data patterns. While some techniques and tools for visualization of missing values are available, it is still a challenge to select the right visualization that will fulfil the user requirements for visualizing missing data. This paper provides an overview and state-of-the-art report (STAR) of research literature focusing on missing values visualization. To the best of our knowledge, this is the first survey paper with a focus on missing data visualization. The goal of this paper is to encourage visualization researchers to increase their involvement with Missing data visualization.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:53:16.912Z

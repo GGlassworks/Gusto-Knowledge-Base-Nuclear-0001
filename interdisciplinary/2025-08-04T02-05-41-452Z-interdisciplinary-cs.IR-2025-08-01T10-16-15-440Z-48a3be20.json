@@ -1,0 +1,12 @@
+# Combining topic modelling and citation network analysis to study case law from the European Court on Human Rights on the right to respect for private and family life
+
+**Authors:** M. Mohammadi, L. M. Bruijn, M. Wieling, M. Vols
+
+## Summary
+As legal case law databases such as HUDOC continue to grow rapidly, it has become essential for legal researchers to find efficient methods to handle such large-scale data sets. Such case law databases usually consist of the textual content of cases together with the citations between them. This paper focuses on case law from the European Court of Human Rights on Article 8 of the European Convention of Human Rights, the right to respect private and family life, home and correspondence. In this study, we demonstrate and compare the potential of topic modelling and citation network to find and organize case law on Article 8 based on their general themes and citation patterns, respectively. Additionally, we explore whether combining these two techniques leads to better results compared to the application of only one of the methods. We evaluate the effectiveness of the combined method on a unique manually collected and annotated dataset of Aricle 8 case law on evictions. The results of our experiments show that our combined (text and citation-based) approach provides the best results in finding and grouping case law, providing scholars with an effective way to extract and analyse relevant cases on a specific issue.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IR
+Collected: 2025-08-01T10:16:15.440Z
