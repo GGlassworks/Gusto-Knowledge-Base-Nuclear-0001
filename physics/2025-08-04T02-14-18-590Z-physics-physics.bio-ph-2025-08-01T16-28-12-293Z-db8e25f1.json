@@ -1,0 +1,12 @@
+# A twenty-first century statistical physics of life
+
+**Authors:** Pankaj Mehta
+
+## Summary
+The molecular biology revolution of the last seventy five years has transformed our view of living systems. Scientific explanations of biological phenomena are now synonymous with the identification of the genes, proteins, and signaling molecules involved. The hegemony of the molecular paradigm has only become more pronounced as new technologies allow us to make measurements at scale. Combining this wealth of data with new ``artificial intelligence'' techniques is viewed as the future of biology. Here, we challenge this emerging ``common sense'', laying out a roadmap for developing a theoretical understanding of life. We argue that a twenty-first century theoretical biology must be founded on a new type of statistical physics suited to the living world. Rather than merely constructing statistical models, a statistical theory requires developing ``quantitative abstractions'' for understanding the gene-organism-environment triad. This necessitates overcoming four major challenges that distinguish living matter: (1) living systems are composed of a large number of heterogeneous parts rather than a large number of identical objects; (2) living systems control and manipulate the physical world in a manner that is extremely different from the ways considered in traditional statistical physics; (3) living systems necessarily operate out of equilibrium; (4) living systems are evolved objects with a function, resulting in new types of constraints that must be imposed on probabilistic ensembles. We conclude by discussing a few key themes that we view as promising directions for developing a statistical physics of life: typicality, localized biological control, a linear response of complex systems with non-reciprocal interactions, biological resource allocation, and learning and adaptation in overparameterized systems.
+
+
+---
+Category: physics
+Subcategory: physics.bio-ph
+Collected: 2025-08-01T16:28:12.293Z

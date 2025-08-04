@@ -1,0 +1,12 @@
+# A direct comparison of high-speed methods for the numerical Abel transform
+
+**Authors:** Daniel D. Hickstein, Stephen T. Gibson, Roman Yurchak, Dhrubajyoti D. Das, Mikhail Ryazanov
+
+## Summary
+The Abel transform is a mathematical operation that transforms a cylindrically symmetric three-dimensional (3D) object into its two-dimensional (2D) projection. The inverse Abel transform reconstructs the 3D object from the 2D projection. Abel transforms have wide application across numerous fields of science, especially chemical physics, astronomy, and the study of laser-plasma plumes. Consequently, many numerical methods for the Abel transform have been developed, which makes it challenging to select the ideal method for a specific application. In this work eight transform methods have been incorporated into a single, open-source Python software package (PyAbel) to provide a direct comparison of the capabilities, advantages, and relative computational efficiency of each transform method. Most of the tested methods provide similar, high-quality results. However, the computational efficiency varies across several orders of magnitude. By optimizing the algorithms, we find that some transform methods are sufficiently fast to transform 1-megapixel images at more than 100 frames per second on a desktop personal computer. In addition, we demonstrate the transform of gigapixel images.
+
+
+---
+Category: physics
+Subcategory: physics.chem-ph
+Collected: 2025-08-01T12:04:24.653Z

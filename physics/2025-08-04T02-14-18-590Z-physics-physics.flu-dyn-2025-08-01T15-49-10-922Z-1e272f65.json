@@ -1,0 +1,12 @@
+# Review on the conversion of thermoacoustic power into electricity
+
+**Authors:** Michael A. G. Timmer, Kees de Blok, Theo H. van der Meer
+
+## Summary
+Thermoacoustic engines convert heat energy into high amplitude acoustic waves and subsequently into electric power. This article provides a review of the four main methods to convert the (thermo)acoustic power into electricity. First, loudspeakers and linear alternators are discussed in a section on electromagnetic devices. This is followed by sections on piezoelectric transducers, magnetohydrodynamic generators, and bidirectional turbines. Each segment provides a literature review of the given technology for the field of thermoacoustics, focusing on possible configurations, operating characteristics, output performance, and analytical and numerical methods to study the devices. This information is used as an input to discuss the performance and feasibility of each method, and to identify challenges that should be overcome for a more successful implementation in thermoacoustic engines. The work is concluded by a comparison of the four technologies, concentrating on the possible areas of application, the conversion efficiency, maximum electrical power output and more generally the suggested focus for future work in the field.
+
+
+---
+Category: physics
+Subcategory: physics.flu-dyn
+Collected: 2025-08-01T15:49:10.922Z

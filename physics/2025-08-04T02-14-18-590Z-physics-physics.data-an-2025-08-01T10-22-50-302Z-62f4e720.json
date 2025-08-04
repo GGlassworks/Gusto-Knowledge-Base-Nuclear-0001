@@ -1,0 +1,12 @@
+# Data-driven inference of hidden nodes in networks
+
+**Authors:** Danh-Tai Hoang, Junghyo Jo, Vipul Periwal
+
+## Summary
+The explosion of activity in finding interactions in complex systems is driven by availability of copious observations of complex natural systems. However, such systems, e.g. the human brain, are rarely completely observable. Interaction network inference must then contend with hidden variables affecting the behavior of the observed parts of the system. We present a novel data-driven approach for model inference with hidden variables. From configurations of observed variables, we identify the observed-to-observed, hidden-to-observed, observed-to-hidden, and hidden-to-hidden interactions, the configurations of hidden variables, and the number of hidden variables. We demonstrate the performance of our method by simulating a kinetic Ising model, and show that our method outperforms existing methods. Turning to real data, we infer the hidden nodes in a neuronal network in the salamander retina and a stock market network. We show that predictive modeling with hidden variables is significantly more accurate than that without hidden variables. Finally, an important hidden variable problem is to find the number of clusters in a dataset. We apply our method to classify MNIST handwritten digits. We find that there are about 60 clusters which are roughly equally distributed amongst the digits.
+
+
+---
+Category: physics
+Subcategory: physics.data-an
+Collected: 2025-08-01T10:22:50.302Z

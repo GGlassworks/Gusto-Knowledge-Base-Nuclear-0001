@@ -1,0 +1,12 @@
+# A discussion on the critical electric Rayleigh number for AC electrokinetic flow of binary fluids in a divergent microchannel
+
+**Authors:** Jinan Pang, Yu Han, Bo Sun, Wei Zhao
+
+## Summary
+Electrokinetic (EK) flow is a type of flow driven or manipulated by electric body forces, influenced by various factors such as electric field intensity, electric field form, frequency, electric permittivity/conductivity, fluid viscosity and etc. The diversity of dimensionless control parameters, such as the electric Rayleigh number, complicates the comparison of EK flow stability. Consequently, comparing the performance and cost of micromixers or reactors based on EK flow is challenging, posing an obstacle to their industrial and engineering applications. In this investigation, we theoretically derived a new electric Rayleigh number ($Ra_e$) that quantifies the relationship among electric body forces, fluid viscosity, and ion diffusivity, based on a tanh model of electric conductivity distribution. The calculation results indicate that the new $Ra_e$ exhibits richer variation with the control parameters and better consistency with previous experimental reports. We further conducted experimental studies on the critical electric Rayleigh number ($Ra_{ec}$) of AC EK flow of binary fluids in a divergent microchannel. The experimental variations align well with the theoretical predictions, particularly the existence of an optimal AC frequency and electric conductivity ratio, demonstrating that the tanh model can better elucidate the underlying physics of EK flow. With the new electric Rayleigh number, we found that EK flow in the designed divergent microchannel has a much smaller $Ra_{ec}$ than previously reported, indicating that EK flow is more unstable and thus more suitable for applications in micromixers or reactors in industry and engineering.
+
+
+---
+Category: physics
+Subcategory: physics.flu-dyn
+Collected: 2025-08-01T15:34:51.293Z

@@ -1,0 +1,12 @@
+# Law of the leading digits and the ideological struggle for numbers
+
+**Authors:** Tariq Ahmad Mir
+
+## Summary
+Benford's law states that the occurrence of significant digits in many data sets is not uniform but tends to follow a logarithmic distribution such that the smaller digits appear as first significant digits more frequently than the larger ones. We investigate here numerical data on the country-wise adherent distribution of seven major world religions i.e. Christianity, Islam, Buddhism, Hinduism, Sikhism, Judaism and Baha'ism to see if the proportion of the leading digits occurring in the distribution conforms to Benford's law. We find that the adherent data of all the religions, except Christianity, excellently does conform to Benford's law. Furthermore, unlike the adherent data on Christianity, the significant digit distribution of the three major Christian denominations i.e. Catholicism, Protestantism and Orthodoxy obeys the law. Thus in spite of their complexity general laws can be established for the evolution of the religious groups.
+
+
+---
+Category: physics
+Subcategory: physics.data-an
+Collected: 2025-08-01T10:24:47.757Z

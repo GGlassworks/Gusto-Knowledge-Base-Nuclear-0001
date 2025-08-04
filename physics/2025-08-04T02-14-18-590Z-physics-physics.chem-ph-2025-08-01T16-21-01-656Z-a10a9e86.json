@@ -1,0 +1,12 @@
+# Asymptotology of Chemical Reaction Networks
+
+**Authors:** A. N. Gorban, O. Radulescu, A. Y. Zinovyev
+
+## Summary
+The concept of the limiting step is extended to the asymptotology of multiscale reaction networks. Complete theory for linear networks with well separated reaction rate constants is developed. We present algorithms for explicit approximations of eigenvalues and eigenvectors of kinetic matrix. Accuracy of estimates is proven. Performance of the algorithms is demonstrated on simple examples. Application of algorithms to nonlinear systems is discussed.
+
+
+---
+Category: physics
+Subcategory: physics.chem-ph
+Collected: 2025-08-01T16:21:01.656Z

@@ -1,0 +1,12 @@
+# Markov Field Models: scaling molecular kinetics approaches to large molecular machines
+
+**Authors:** Tim Hempel, Simon Olsson, Frank Noé
+
+## Summary
+With recent advances in structural biology, including experimental techniques and deep learning-enabled high-precision structure predictions, molecular dynamics methods that scale up to large biomolecular systems are required. Current state-of-the-art approaches in molecular dynamics modeling focus on encoding global configurations of molecular systems as distinct states. This paradigm commands us to map out all possible structures and sample transitions between them, a task that becomes impossible for large-scale systems such as biomolecular complexes. To arrive at scalable molecular models, we suggest moving away from global state descriptions to a set of coupled models that each describe the dynamics of local domains or sites of the molecular system. We describe limitations in the current state-of-the-art global-state Markovian modeling approaches and then introduce Markov Field Models as an umbrella term that includes models from various scientific communities, including Independent Markov Decomposition, Ising and Potts Models, and (Dynamic) Graphical Models, and evaluate their use for computational molecular biology. Finally, we give a few examples of early adoptions of these ideas for modeling molecular kinetics and thermodynamics.
+
+
+---
+Category: physics
+Subcategory: physics.bio-ph
+Collected: 2025-08-01T16:27:05.972Z

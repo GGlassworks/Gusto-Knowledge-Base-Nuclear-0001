@@ -1,0 +1,12 @@
+# Two gesture-computing approaches by using electromagnetic waves
+
+**Authors:** Yukun Guo, Jingzhi Li, Hongyu Liu, Xianchao Wang
+
+## Summary
+We are concerned with a novel sensor-based gesture input/instruction technology which enables human beings to interact with computers conveniently. The human being wears an emitter on the finger or holds a digital pen that generates a time harmonic point charge. The inputs/instructions are performed through moving the finger or the digital pen. The computer recognizes the instruction by determining the motion trajectory of the dynamic point charge from the collected electromagnetic field measurement data. The identification process is mathematically modelled as a dynamic inverse source problem for time-dependent Maxwell's equations. From a practical point of view, the point source should be assumed to move in an unknown inhomogeneous background medium, which models the human body and the surroundings. Moreover, a salient feature is that the electromagnetic radiated data are only collected in a limited aperture. For the inverse problem, we develop, from the respectively deterministic and stochastic viewpoints, a dynamic direct sampling method and a modified particle filter method. Both approaches can effectively recover the motion trajectory. Rigorous theoretical justifications are presented for the mathematical modelling and the proposed recovery methods. Extensive numerical experiments are conducted to illustrate the promising features of the two proposed recognition approaches.
+
+
+---
+Category: physics
+Subcategory: physics.class-ph
+Collected: 2025-08-01T10:14:17.082Z

@@ -1,0 +1,12 @@
+# Investigating the theoretical performance of Cs$_2$TiBr$_6$-based perovskite solar cell with La-doped BaSnO$_3$ and CuSbS$_2$ as the charge transport layers
+
+**Authors:** Kumar Shivesh, Intekhab Alam, A. K. Kushwaha, Manish Kumar, S. V. Singh
+
+## Summary
+A lead-free, completely inorganic, and non-toxic Cs2TiBr6-based double perovskite solar cell (PSC) was simulated via SCAPS 1-D. La-doped BaSnO3 (LBSO) was applied as the electron transport layer (ETL) unprecedentedly in the simulation study of PSCs, while CuSbS2 was utilized as the hole transport layer (HTL). wxAMPS was used to validate the results of SCAPS simulations. Moreover, the first-principle density function theory (DFT) calculations were performed for validating the 1.6 eV bandgap of the Cs2TiBr6 absorber. To enhance the device performance, we analyzed and optimized various parameters of the PSC using SCAPS. The optimum thickness, defect density, and bandgap of the absorber were 1000 nm, 1013 cm-3, and 1.4 eV, respectively. Furthermore, the optimum thickness, hole mobility, and electron affinity of the HTL were 400 nm, 102 cm2V-1s-1, and 4.1 eV, respectively. However, the ETL thickness had a negligible effect on the device's efficiency. The optimized values of doping density for the absorber layer, HTL, and ETL were 1015, 1020, and 1021 cm-3, respectively. Herein, the effect of different HTLs was analyzed by matching up the built-in voltage (Vbi) in respect of the open-circuit voltage (VOC). It was found that the Vbi was directly proportional to the VOC, and CuSbS2 was the champion in terms of efficiency for the PSC. The optimum work function of metal contact and temperature of the PSC were 5.9 eV and 300 K, respectively. After the final optimization, the device achieved an exhilarating PCE of 29.13%.
+
+
+---
+Category: physics
+Subcategory: physics.app-ph
+Collected: 2025-08-01T19:59:30.937Z

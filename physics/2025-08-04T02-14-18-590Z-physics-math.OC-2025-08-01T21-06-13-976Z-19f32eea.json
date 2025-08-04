@@ -1,0 +1,12 @@
+# A New Hybrid Classical-Quantum Algorithm for Continuous Global Optimization Problems
+
+**Authors:** Pedro Lara, Renato Portugal, Carlile Lavor
+
+## Summary
+Grover's algorithm can be employed in global optimization methods providing, in some cases, a quadratic speedup over classical algorithms. This paper describes a new method for continuous global optimization problems that uses a classical algorithm for finding a local minimum and Grover's algorithm to escape from this local minimum. Simulations with testbed functions and comparisons with algorithms from the literature are presented.
+
+
+---
+Category: physics
+Subcategory: math.OC
+Collected: 2025-08-01T21:06:13.977Z

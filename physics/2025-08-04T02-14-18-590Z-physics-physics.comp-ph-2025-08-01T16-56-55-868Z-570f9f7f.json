@@ -1,0 +1,12 @@
+# Genetic algorithms for the numerical solution of variational problems without analytic trial functions
+
+**Authors:** Carlos D. Toledo
+
+## Summary
+A coding of functions that allows a genetic algorithm to minimize functionals without analytic trial functions is presented and implemented for solving numerically some instances of variational problems from physics.
+
+
+---
+Category: physics
+Subcategory: physics.comp-ph
+Collected: 2025-08-01T16:56:55.868Z

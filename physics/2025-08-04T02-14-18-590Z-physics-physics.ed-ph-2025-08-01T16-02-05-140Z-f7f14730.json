@@ -1,0 +1,12 @@
+# From Playground Swings to Sway Control of Cranes: An Active Pendulum Experiment
+
+**Authors:** Adrian Stein, Tarik Parcic, Tarunraj Singh
+
+## Summary
+Dynamics is a core discipline in Mechanical and Aerospace Engineering programs and with the ubiquitous nature of control in modern day applications, the field of mechatronics has gained popularity. Mechatronics refers to the field of engineering which integrates the engineering disciplines of mechanical, control, electronics and computing. To create a testbed to illustrate a tabletop mechatronics system, the paper details the design, and fabrication of an active pendulum whose length can be changed in real-time using solenoids. This permits illustrating two concepts: (1) damping of pendulum oscillations which emulates the sway of a crane and (2) amplification of the oscillations which emulates the pumping of a playground swing. The paper describes the steps prior to experimental validation which include: modeling, system identification, signal processing, and controller implementation. Numerical simulations are used to prototype the controller and eventually to compare the simulation results to the experimental ones. The results of all the experiments illustrate a close match between the simulated and experimental results. To permit reproduction of the experiment, the design details and code to implement the controllers are posted in a public repository.
+
+
+---
+Category: physics
+Subcategory: physics.ed-ph
+Collected: 2025-08-01T16:02:05.140Z

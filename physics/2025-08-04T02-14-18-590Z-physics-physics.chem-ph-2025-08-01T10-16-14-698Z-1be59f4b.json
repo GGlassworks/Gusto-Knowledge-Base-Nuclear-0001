@@ -1,0 +1,12 @@
+# Automated patent extraction powers generative modeling in focused chemical spaces
+
+**Authors:** Akshay Subramanian, Kevin P. Greenman, Alexis Gervaix, Tzuhsiung Yang, Rafael Gómez-Bombarelli
+
+## Summary
+Deep generative models have emerged as an exciting avenue for inverse molecular design, with progress coming from the interplay between training algorithms and molecular representations. One of the key challenges in their applicability to materials science and chemistry has been the lack of access to sizeable training datasets with property labels. Published patents contain the first disclosure of new materials prior to their publication in journals, and are a vast source of scientific knowledge that has remained relatively untapped in the field of data-driven molecular design. Because patents are filed seeking to protect specific uses, molecules in patents can be considered to be weakly labeled into application classes. Furthermore, patents published by the US Patent and Trademark Office (USPTO) are downloadable and have machine-readable text and molecular structures. In this work, we train domain-specific generative models using patent data sources by developing an automated pipeline to go from USPTO patent digital files to the generation of novel candidates with minimal human intervention. We test the approach on two in-class extracted datasets, one in organic electronics and another in tyrosine kinase inhibitors. We then evaluate the ability of generative models trained on these in-class datasets on two categories of tasks (distribution learning and property optimization), identify strengths and limitations, and suggest possible explanations and remedies that could be used to overcome these in practice.
+
+
+---
+Category: physics
+Subcategory: physics.chem-ph
+Collected: 2025-08-01T10:16:14.698Z

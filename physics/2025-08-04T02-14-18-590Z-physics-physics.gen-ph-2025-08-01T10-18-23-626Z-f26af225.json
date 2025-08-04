@@ -1,0 +1,12 @@
+# Reducing Average and Peak Temperatures of VLSI CMOS Digital Circuits by Means of Heuristic Scheduling Algorithm
+
+**Authors:** Wladyslaw Szczesniak
+
+## Summary
+This paper presents a BPD (Balanced Power Dissipation) heuristic scheduling algorithm applied to VLSI CMOS digital circuits/systems in order to reduce the global computational demand and provide balanced power dissipation of computational units of the designed digital VLSI CMOS system during the task assignment stage. It results in reduction of the average and peak temperatures of VLSI CMOS digital circuits. The elaborated algorithm is based on balanced power dissipation of local computational (processing) units and does not deteriorate the throughput of the whole VLSI CMOS digital system.
+
+
+---
+Category: physics
+Subcategory: physics.gen-ph
+Collected: 2025-08-01T10:18:23.626Z

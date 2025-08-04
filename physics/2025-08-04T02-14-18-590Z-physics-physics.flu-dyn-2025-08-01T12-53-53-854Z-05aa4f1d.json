@@ -1,0 +1,12 @@
+# Quantitative Evaluation of SPH in TIG Spot Welding
+
+**Authors:** Stefan Rhys Jeske, Marek Simon, Oleksii Semenov, Jan Kruska, Oleg Mokrov, Rahul Sharma, Uwe Reisgen, Jan Bender
+
+## Summary
+While the application of the Smoothed Particle Hydrodynamics (SPH) method for the modeling of welding processes has become increasingly popular in recent years, little is yet known about the quantitative predictive capability of this method. We propose a novel SPH model for the simulation of the tungsten inert gas (TIG) spot welding process and conduct a thorough comparison between our SPH implementation and two Finite Element Method (FEM) based models. In order to be able to quantitatively compare the results of our SPH simulation method with grid based methods we additionally propose an improved particle to grid interpolation method based on linear least-squares with an optional hole-filling pass which accounts for missing particles. We show that SPH is able to yield excellent results, especially given the observed deviations between the investigated FEM methods and as such, we validate the accuracy of the method for an industrially relevant engineering application.
+
+
+---
+Category: physics
+Subcategory: physics.flu-dyn
+Collected: 2025-08-01T12:53:53.854Z

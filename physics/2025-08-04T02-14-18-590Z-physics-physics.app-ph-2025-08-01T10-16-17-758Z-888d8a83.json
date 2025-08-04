@@ -1,0 +1,12 @@
+# Digitized metamaterial absorber-based compressive reflector antenna for high sensing capacity imaging
+
+**Authors:** Ali Molaei, Juan Heredia-Juesas, Galia Ghazi, James Vlahakis, Jose Martinez-Lorenzo
+
+## Summary
+Conventional multistatic radar systems using microwave and millimeter-wave (mm-wave) frequencies seek to reconstruct the target in the imaging domain, employing many transmitting and receiving antenna elements. These systems are suboptimal, in that they do not take into consideration the large mutual information existing between the measurements. This work reports a new mm-wave radar system for high sensing capacity applications. The system is composed of a Compressive Reflector Antenna (CRA), whose surface is specially tailored by digitized Metamaterial Absorbers (MMAs). The MMA elements are designed to have a highly frequency-dispersive response in the operating band of the radar. This enables the CRA to create highly uncorrelated spatial and spectral codes in the imaging region. A semi-analytic method based on Drude-Lorentz model is used to approximate the reflection response of the MMAs. The performance of the developed radar system is evaluated in active mm-wave sensing systems by imaging PEC scatterers and an extended human-size model in the near-field of the radar. A computational method based on physical optics is established for solving the numerical examples. For reconstructing the image using compressive sensing techniques, a norm-1 regularized iterative algorithm based on the Alternating Direction Method of Multipliers (ADMM) and a Nesterov-based algorithm (NESTA) were applied.
+
+
+---
+Category: physics
+Subcategory: physics.app-ph
+Collected: 2025-08-01T10:16:17.758Z

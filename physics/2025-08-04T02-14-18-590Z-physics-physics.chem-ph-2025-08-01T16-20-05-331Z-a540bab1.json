@@ -1,0 +1,12 @@
+# Engines with ideal efficiency and nonzero power for sublinear transport laws
+
+**Authors:** Jesper Koning, Joseph O. Indekeu
+
+## Summary
+It is known that an engine with ideal efficiency ($\eta =1$ for a chemical engine and $e = e_{\rm Carnot}$ for a thermal one) has zero power because a reversible cycle takes an infinite time. However, at least from a theoretical point of view, it is possible to conceive (irreversible) engines with nonzero power that can reach ideal efficiency. Here this is achieved by replacing the usual linear transport law by a sublinear one and taking the step-function limit for the particle current (chemical engine) or heat current (thermal engine) versus the applied force. It is shown that in taking this limit exact thermodynamic inequalities relating the currents to the entropy production are not violated.
+
+
+---
+Category: physics
+Subcategory: physics.chem-ph
+Collected: 2025-08-01T16:20:05.332Z

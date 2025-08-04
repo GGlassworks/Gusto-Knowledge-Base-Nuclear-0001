@@ -1,0 +1,12 @@
+# Rapid Determination of Multiple Reaction Pathways in Molecular Systems: The Soft-Ratcheting Algorithm
+
+**Authors:** Daniel M. Zuckerman, Thomas B. Woolf
+
+## Summary
+We discuss the ``soft-ratcheting'' algorithm which generates targeted stochastic trajectories in molecular systems with scores corresponding to their probabilities. The procedure, which requires no initial pathway guess, is capable of rapidly determining multiple pathways between known states. Monotonic progress toward the target state is not required. The soft-ratcheting algorithm is applied to an all-atom model of alanine dipeptide, whose unbiased trajectories are assumed to follow overdamped Langevin dynamics. All possible pathways on the two-dimensional dihedral surface are determined. The associated probability scores, though not optimally distributed at present, may provide a mechanism for estimating reaction rates.
+
+
+---
+Category: physics
+Subcategory: physics.chem-ph
+Collected: 2025-08-01T16:30:11.168Z

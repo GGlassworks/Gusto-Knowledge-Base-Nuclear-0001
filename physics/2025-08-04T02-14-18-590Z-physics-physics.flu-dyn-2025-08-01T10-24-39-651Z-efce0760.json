@@ -1,0 +1,12 @@
+# Study on Dynamic Solidification of Digital Droplets and Random Behaviors during the Recalescence Process in a Spiral-shaped Milli-reactor
+
+**Authors:** Yulin Wang, Z. L. Wang
+
+## Summary
+In this study, we designed a spiral-shaped milli-reactor with a T-junction microchannel to generate digital droplets for studying and observing the digital freezing process of droplets. During the study of the recalescence and solidification processes of digital droplets dynamically moving in microchannels, we found that although the digital generation of droplets in our channel aligns well with the literature, achieving the digitalization of the droplet freezing process is very challenging. Even the initial phase of freezing (the recalescence process) exhibits significant randomness. A key feature of the randomness in the freezing process is the nucleation position of droplets within the channel, which significantly impacts the digital characteristics and hinders digital freezing. During the investigation of freezing randomness, we identified five distinct nucleation profiles, which largely determine the evolution of the freezing front and the duration of the recalescence phase. However, upon studying the motion velocity of the freezing front, we found that these velocities are temperature-dependent. This aligns with the results of our phase-field simulations and experimental findings, indicating that the release of latent heat during the recalescence process is stable. Additionally, the randomness in freezing may also stem from the deformation of droplets during the solidification process. In this study, we identified two distinct solidification modes during the freezing phase: one initiating from the droplet's head or tail and the other starting from the middle, with the latter causing significant droplet deformation. Through statistical analysis, we further explored the influence of flow rate variation on the digital clustering of droplet freezing and discovered flow rate parameters that optimize freezing digitalization.
+
+
+---
+Category: physics
+Subcategory: physics.flu-dyn
+Collected: 2025-08-01T10:24:39.651Z

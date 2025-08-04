@@ -1,0 +1,12 @@
+# OPES: On-the-fly Probability Enhanced Sampling Method
+
+**Authors:** Michele Invernizzi
+
+## Summary
+Molecular simulations are playing an ever increasing role, finding applications in fields as varied as physics, chemistry, biology and material science. However, many phenomena of interest take place on time scales that are out of reach of standard molecular simulations. This is known as the sampling problem and over the years several enhanced sampling methods have been developed to mitigate this issue. We propose a unified approach that puts on the same footing the two most popular families of enhanced sampling methods, and paves the way for novel combined approaches. The on-the-fly probability enhanced sampling method provides an efficient implementation of such generalized approach, while also focusing on simplicity and robustness.
+
+
+---
+Category: physics
+Subcategory: physics.comp-ph
+Collected: 2025-08-01T16:40:33.183Z

@@ -1,0 +1,12 @@
+# Elastohydrodynamics and kinetics of protein patterning in the immunological synapse
+
+**Authors:** Andreas Carlson, L. Mahadevan
+
+## Summary
+The cellular basis for the adaptive immune response during antigen recognition relies on a specialized protein interface known as the immunological synapse (IS). Understanding the biophysical basis for protein patterning by deciphering the quantitative rules for their formation and motion is an important aspect of characterizing immune cell recognition and thence the rules for immune system activation. We propose a minimal mathematical model for the physical basis of membrane protein patterning in the IS, which encompass membrane mechanics, protein binding kinetics and motion, and fluid flow in the synaptic cleft. Our theory leads to simple predictions for the spatial and temporal scales of protein cluster formation, growth and arrest as a function of membrane stiffness, rigidity and kinetics of the adhesive proteins, and the fluid in the synaptic cleft. Numerical simulations complement these scaling laws by quantifying the nucleation, growth and stabilization of proteins domains on the size of the cell. Direct comparison with experiment shows that passive elastohydrodynamics and kinetics of protein binding in the synaptic cleft can describe the short-time formation and organization of protein clusters, without evoking any active processes in the cytoskeleton. Despite the apparent complexity of the process, our analysis highlights the role of just two dimensionless parameters that characterize the spatial and temporal evolution of the protein pattern: a ratio of membrane elasticity to protein elasticity, and the ratio of a hydrodynamic time scale for fluid flow relative to the protein binding rate, and we present a simple phase diagram that encompasses the variety of patterns that can arise.
+
+
+---
+Category: physics
+Subcategory: physics.bio-ph
+Collected: 2025-08-01T17:17:47.432Z

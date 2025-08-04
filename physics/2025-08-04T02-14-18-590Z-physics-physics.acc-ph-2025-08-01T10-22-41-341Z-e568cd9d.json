@@ -1,0 +1,12 @@
+# Human-System Interface Style Guide for ACORN Digital Control System
+
+**Authors:** Rachael Hill, Madelyn Polzin, Zachary Spielman, Casey Kovesdi, Dr Katya Le Blanc
+
+## Summary
+The purpose of this style guide is to assist developers in designing effective and consistent-looking user interfaces for accelerator control rooms. A similar purpose is to help developers avoid the creation of user interfaces that needlessly stray from the accepted standard set forth in this document. This way, all interfaces combined will look congruous. This is especially beneficial for development that spans multiple years by many different contributors. This document is intended as a ready reference source for all user interface design for the Fermilab accelerator complex.
+
+
+---
+Category: physics
+Subcategory: physics.acc-ph
+Collected: 2025-08-01T10:22:41.341Z

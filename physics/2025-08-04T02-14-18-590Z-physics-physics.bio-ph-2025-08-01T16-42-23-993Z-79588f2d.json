@@ -1,0 +1,12 @@
+# Serine Proteases: an Ab Initio Molecular Dynamics Study
+
+**Authors:** L. De Santis, P. Carloni
+
+## Summary
+In serine proteases (SP's), the H-bond between His-57 and Asp-102, and that between Gly-193 and the transition state intermediate play a crucial role for enzymatic function. To shed light on the nature of these interactions, we have carried out ab initio molecular dynamics simulations on complexes representing adducts between the reaction intermediate and elastase (one protein belonging to the SP family). Our calculations indicate the presence of a low--barrier H-bond between His-57 and Asp-102, in complete agreement with NMR experiments on enzyme--transition state analog complexes. Comparison with an ab initio molecular dynamics simulation on a model of the substrate--enzyme adduct indicates that the Gly-193--induced strong stabilization of the intermediate is accomplished by charge/dipole interactions and not by H-bonding as previously suggested. Inclusion of the protein electric field in the calculations does not affect significantly the charge distribution.
+
+
+---
+Category: physics
+Subcategory: physics.bio-ph
+Collected: 2025-08-01T16:42:23.994Z

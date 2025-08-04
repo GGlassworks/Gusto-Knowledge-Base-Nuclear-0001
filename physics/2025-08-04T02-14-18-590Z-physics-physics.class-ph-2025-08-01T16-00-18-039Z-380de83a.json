@@ -1,0 +1,12 @@
+# Neighbourhood watch in mechanics: non-local models and convolution
+
+**Authors:** Thomas Nagel, Tymofiy Gerasimov, Dominik Kern
+
+## Summary
+This paper is intended to serve as a low-hurdle introduction to non-locality for graduate students and researchers with an engineering mechanics or physics background who did not have a formal introduction to the underlying mathematical basis. We depart from simple examples motivated by structural mechanics to form a physical intuition and demonstrate non-locality using concepts familiar to most engineers. We then show how concepts of non-locality are at the core of one of the moste active current research fields in applied mechanics, namely in phase-field modelling of fracture. From a mathematical perspective, these developments rest on the concept of convolution both in its discrete and in its continuous form. The previous mechanical examples may thus serve as an intuitive explanation of what convolution implies from a physical perspective. In the supplementary material we highlight a broader range of applications of the concepts of non-locality and convolution in other branches of science and engineering by generalizing from the examples explained in detail in the main body of the article.
+
+
+---
+Category: physics
+Subcategory: physics.class-ph
+Collected: 2025-08-01T16:00:18.040Z

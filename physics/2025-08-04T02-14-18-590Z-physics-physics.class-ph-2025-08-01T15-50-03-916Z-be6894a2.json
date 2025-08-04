@@ -1,0 +1,12 @@
+# One-particle engine with a porous piston
+
+**Authors:** Carlos E. Álvarez, Manuel Camargo, Gabriel Téllez
+
+## Summary
+We propose a variation of the classical Szilard engine that uses a porous piston. Such an engine requires neither information about the position of the particle, nor the removal and subsequent insertion of the piston when resetting the engine to continue doing work by lifting a mass against a gravitational field. Though the engine operates in contact with a single thermal reservoir, the reset mechanism acts as a second reservoir, dissipating energy when a mass that has been lifted by the engine is removed to initiate a new operation cycle.
+
+
+---
+Category: physics
+Subcategory: physics.class-ph
+Collected: 2025-08-01T15:50:03.917Z

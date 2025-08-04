@@ -1,0 +1,12 @@
+# Electric field control for experiments with atoms in Rydberg states
+
+**Authors:** Aishik Panja, Yupeng Wang, Xinghan Wang, Junjie Wang, Sarthak Subhankar, Qi-Yu Liang
+
+## Summary
+Atoms excited to Rydberg states have recently emerged as a valuable resource in neutral atom platforms for quantum computation, quantum simulation, and quantum information processing. Atoms in Rydberg states have large polarizabilities, making them highly sensitive to electric fields. Therefore, stray electric fields can decohere these atoms, in addition to compromising the fidelity of engineered interactions between them. It is therefore essential to cancel these stray electric fields. Here we present a novel, simple, and highly-compact electrode assembly, implemented in a glass cell-based vacuum chamber design, for stray electric field cancellation. The electrode assembly allows for full 3D control of the electric field in the vicinity of the atoms while blocking almost no optical access. We experimentally demonstrate the cancellation of stray electric fields to better than 10 mV/cm using this electrode assembly.
+
+
+---
+Category: physics
+Subcategory: physics.atom-ph
+Collected: 2025-08-01T15:47:05.643Z

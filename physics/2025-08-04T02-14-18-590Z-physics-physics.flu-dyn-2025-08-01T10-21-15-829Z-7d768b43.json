@@ -1,0 +1,12 @@
+# PoroTwin: A digital twin for a FluidFlower rig
+
+**Authors:** Eirik Keilegavlen, Eivind Fonn, Kjetil Johannessen, Kristoffer Eikehaug, Jakub Both, Martin Fernø, Trond Kvamsdal, Adil Rasheed, Jan M. Nordbotten
+
+## Summary
+We present a framework for integrated experiments and simulations of tracer transport in heterogeneous porous media using digital twin technology. The physical asset in our setup is a meter-scale FluidFlower rig. The digital twin consists of a traditional physics-based forward simulation tool and a correction technique which compensates for mismatches between simulation results and observations. The latter augments the range of the physics-based simulation and allows us to bridge the gap between simulation and experiments in a quantitative sense. We describe the setup of the physical and digital twin, including data transfer protocols using cloud technology. The accuracy of the digital twin is demonstrated on a case with artificially high diffusion that must be compensated by the correction approach, as well as by simulations in geologically complex media. The digital twin is then applied to control tracer transport by manipulating fluid injection and production in the experimental rig, thereby enabling two-way coupling between the physical and digital twins.
+
+
+---
+Category: physics
+Subcategory: physics.flu-dyn
+Collected: 2025-08-01T10:21:15.830Z
