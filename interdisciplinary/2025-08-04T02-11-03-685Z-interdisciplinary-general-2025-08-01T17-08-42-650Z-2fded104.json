@@ -1,0 +1,13 @@
+# Cross validation coordinate meta-analysis: contrast analysis
+
+**Authors:** C.R. Tench
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Coordinate based meta-analysis (CBMA) can be used to estimate where a future neuroimaging study testing a particular hypothesis might report summary results (activation foci, for example). However, current methods cannot be validated for all possible analyses because of empirical features that might not be appropriate. Furthermore, the use of voxel-wise null hypothesis significance testing (NHST) in the algorithms is not in keeping with meta-analysis, where statistical significance is secondary to the primary aim of effect estimation.</jats:p><jats:p>Cross-validation coordinate analysis (CVCA) has been described, which can eliminate the need for the empirical use of spatial uncertainty and avoid voxel-wise p values. The result is an estimated effect that is not based on voxel-wise statistical significance, and which allows the uncertainty to reduce with larger numbers of studies as expected.</jats:p><jats:p>Here an additional function of CVCA is detailed, which uses cross-validation to contrast two different meta-analyses produced using two sets of studies (<jats:italic>A &amp; B</jats:italic>) to identify differences. Such contrast analysis is common in CBMA. The results are a contrast image with regions that differentiate studies<jats:italic>A</jats:italic>from studies<jats:italic>B</jats:italic>.</jats:p><jats:p>Software to perform CVCA is freely available.</jats:p>
+
+**Source:** https://doi.org/10.1101/2024.12.16.628634
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:08:42.650Z

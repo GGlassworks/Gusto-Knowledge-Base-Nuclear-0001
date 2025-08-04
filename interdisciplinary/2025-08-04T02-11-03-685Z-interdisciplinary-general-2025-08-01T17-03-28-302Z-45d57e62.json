@@ -1,0 +1,13 @@
+# An Improved Electromagnetic Field Optimization for the Global Optimization Problems
+
+**Authors:** Alkin Yurtkuran
+
+## Abstract
+<jats:p>Electromagnetic field optimization (EFO) is a relatively new physics-inspired population-based metaheuristic algorithm, which simulates the behavior of electromagnets with different polarities and takes advantage of a nature-inspired ratio, known as the golden ratio. In EFO, the population consists of electromagnetic particles made of electromagnets corresponding to variables of an optimization problem and is divided into three fields: positive, negative, and neutral. In each iteration, a new electromagnetic particle is generated based on the attraction-repulsion forces among these electromagnetic fields, where the repulsion force helps particle to avoid the local optimal point, and the attraction force leads to find global optimal. This paper introduces an improved version of the EFO called improved electromagnetic field optimization (iEFO). Distinct from the EFO, the iEFO has two novel modifications: new solution generation function for the electromagnets and adaptive control of algorithmic parameters. In addition to these major improvements, the boundary control and randomization procedures for the newly generated electromagnets are modified. In the computational studies, the performance of the proposed iEFO is tested against original EFO, existing physics-inspired algorithms, and state-of-the-art meta-heuristic algorithms as artificial bee colony algorithm, particle swarm optimization, and differential evolution. Obtained results are verified with statistical testing, and results reveal that proposed iEFO outperforms the EFO and other considered competitor algorithms by providing better results.</jats:p>
+
+**Source:** https://doi.org/10.1155/2019/6759106
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:03:28.303Z

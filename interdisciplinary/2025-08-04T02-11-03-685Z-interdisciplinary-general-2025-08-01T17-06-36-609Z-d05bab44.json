@@ -1,0 +1,13 @@
+# Extending mathematical frameworks to investigate neuronal dynamics in the presence of microglial ensheathment
+
+**Authors:** Nellie Garcia, Gregory Handy
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Recent experimental evidence has shown that glial cells, including microglia and astrocytes, can ensheathe synapses, positioning them to disrupt neurotransmitter flow between pre- and post-synaptic terminals. This study extends micro- and network-scale theoretical models to explore how varying degrees of synaptic ensheathment affect synaptic communication and network dynamics. Consistent with previous studies, our microscale model shows that ensheathment accelerates synaptic transmission while reducing its strength and reliability, with the potential to effectively switch off synaptic connections. Building on these findings, we integrate an “effective” glial cell model into a large-scale neuronal network. Specifically, we analyze a network with highly heterogeneous synaptic strengths and time constants, where glial proximity parametrizes synaptic parameters. Unlike previous models that assumed normal parameter distributions, our model uses parameters drawn from distinct distributions. This framework is applied to large networks of exponential integrate-and-fire neurons, extending linear response theory to analyze not only firing rate distributions but also noise correlations across the network. Despite the significant heterogeneity in the system, a mean-field approximation accurately captures network statistics. We demonstrate the utility of our model by reproducing experimental findings, showing that microglial ensheathment leads to post-anesthesia hyperactivity in excitatory neurons of mice. Furthermore, we explore how glial ensheathment may be used in the visual cortex to target specific neuronal subclasses, tuning higher-order network statistics.</jats:p>
+
+**Source:** https://doi.org/10.1101/2024.10.07.617090
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:06:36.609Z

@@ -1,0 +1,13 @@
+# Shared Component Analysis
+
+**Authors:** Alain de Cheveigné
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>This paper proposes Shared Component Analysis (SCA) as an alternative to Principal Component Analysis (PCA) for the purpose of dimensionality reduction of neuroimaging data. The trend towards larger numbers of recording sensors, pixels or voxels leads to richer data, with finer spatial resolution, but it also inflates the cost of storage and computation and the risk of overfitting. PCA can be used to select a subset of orthogonal components that explain a large fraction of variance in the data. This implicitly equates variance with relevance, and for neuroimaging data such as electroencephalography (EEG) or magnetoencephalography (MEG) that assumption may be inappropriate if (latent) sources of interest are weak relative to competing sources. SCA instead assumes that components that contribute to observable signals on multiple sensors are of likely interest, as may be the case for deep sources within the brain as a result of current spread. In SCA, steps of normalization and PCA are applied iteratively, linearly transforming the data such that components more widely shared across channels appear first in the component series. The paper explains the motivation, defines the algorithm, evaluates the outcome, and sketches a wider strategy for dimensionality reduction of which this algorithm is an example. SCA is intended as a plug-in replacement for PCA for the purpose of dimensionality reduction.</jats:p>
+
+**Source:** https://doi.org/10.1101/2020.07.23.218560
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:08:44.704Z

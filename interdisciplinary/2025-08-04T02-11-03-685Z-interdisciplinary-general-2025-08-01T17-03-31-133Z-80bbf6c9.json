@@ -1,0 +1,13 @@
+# Application of Improved Manta Ray Foraging Optimization Algorithm in Coverage Optimization of Wireless Sensor Networks
+
+**Authors:** Fang Zhu, Wenhao Wang, Shan Li
+
+## Abstract
+<jats:p>For the shortcomings of the manta ray foraging optimization (MRFO) algorithm, like slow convergence speed and difficult to escape from the local optimum, an improved manta ray foraging algorithm based on Latin hypercube sampling and group learning is proposed. Firstly, the Latin hypercube sampling (LHS) method is introduced to initialize the population. It divides the search space evenly so that the initial population covers the whole search space to maintain the diversity of the initial population. Secondly, in the exploration stage of cyclone foraging, the Levy flight strategy is introduced to avoid premature convergence. Before the somersault foraging stage, the adaptive t-distribution mutation operator is introduced to update the population to increase the diversity of the population and avoid falling into the local optimum. Finally, for the updated population, it is divided into leader group and follower group according to fitness. The follower group learns from the leader group, and the leader group learns from each other through differential evolution to further improve the population quality and search accuracy. 15 standard test functions are selected for comparative tests in low and high dimensions. The test results show that the improved algorithm can effectively improve the convergence speed and optimization accuracy of the original algorithm. Moreover, the improved algorithm is applied to wireless sensor network (WSN) coverage optimization. The experimental results show that the improved algorithm increases the network coverage by about 3% compared with the original algorithm, and makes the optimized node distribution more reasonable.</jats:p>
+
+**Source:** https://doi.org/10.1155/2022/3082933
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:03:31.133Z

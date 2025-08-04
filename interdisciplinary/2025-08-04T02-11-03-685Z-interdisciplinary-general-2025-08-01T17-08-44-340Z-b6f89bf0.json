@@ -1,0 +1,13 @@
+# An Evaluation of Representational Similarity Analysis for Model Selection and Assessment in Computational Neuroscience
+
+**Authors:** Luke Chen
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>An important goal in neuroscience is to determine what types of information are represented across brain regions. Often, a computational model is used to extract stimulus features that are hypothesized to be represented within a particular brain region. Any particular study tries to assess the relationship between the features extracted by the computational model and the measured activity from a brain region. In recent years, several approaches to studying this relationship have been developed in the field of cognitive neuroscience. A simple and widely used approach is representational similarity analysis (RSA). This approach attempts to quantify similarities between the representational space of a computational model and a set of brain responses. RSA begins with an estimate of the stimulus-by-stimulus representational similarity (or dissimilarity) matrix computed from a set of stimulus-evoked brain responses. Then, a stimulus-by-stimulus representational similarity matrix is obtained from a computational model. RSA computes the similarity of these similarity matrices. However, there exists little work assessing the validity of RSA. In this paper, we show that RSA actually makes very strong assumptions about the relationship between representational spaces and brain responses. When these assumptions are violated, RSA can fail to detect significant relationships. More worryingly, when used for model selection RSA can lead researchers to the wrong answer. In contrast, we show that standard encoding models that use regression methods perform better than RSA.</jats:p>
+
+**Source:** https://doi.org/10.1101/2023.09.18.558316
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:08:44.340Z

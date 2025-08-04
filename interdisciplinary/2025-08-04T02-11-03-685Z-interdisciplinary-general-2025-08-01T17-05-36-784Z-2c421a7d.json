@@ -1,0 +1,13 @@
+# Models of Decision-Making Over Time
+
+**Authors:** Paul Cisek, David Thura
+
+## Abstract
+<p>Making a good decision often takes time, and in general, taking more time improves the chances of making the right choice. During the past several decades, the process of making decisions in time has been described through a class of models in which sensory evidence about choices is accumulated until the total evidence for one of the choices reaches some threshold, at which point commitment is made and movement initiated. Thus, if sensory evidence is weak (and noise in the signal increases the probability of an error), then it takes longer to reach that threshold than if sensory evidence is strong (thus helping filter out the noise). Crucially, the setting of the threshold can be increased to emphasize accuracy or lowered to emphasize speed. Such accumulation-to-bound models have been highly successful in explaining behavior in a very wide range of tasks, from perceptual discrimination to deliberative thinking, and in providing a mechanistic explanation for the observation that neural activity during decision-making tends to build up over time. However, like any model, they have limitations, and recent studies have motivated several important modifications to their basic assumptions. In particular, recent theoretical and experimental work suggests that the process of accumulation favors novel evidence, that the threshold decrease over time, and that the result yields improved decision-making in real, natural situations.</p>
+
+**Source:** https://doi.org/10.1093/acrefore/9780190264086.013.346
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:05:36.785Z
