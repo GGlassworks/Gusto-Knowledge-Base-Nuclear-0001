@@ -1,0 +1,12 @@
+# Quantum Kernel t-Distributed Stochastic Neighbor Embedding
+
+**Authors:** Yoshiaki Kawase, Kosuke Mitarai, Keisuke Fujii
+
+## Summary
+Data visualization is important in understanding the characteristics of data that are difficult to see directly. It is used to visualize loss landscapes and optimization trajectories to analyze optimization performance. Popular optimization analysis is performed by visualizing a loss landscape around the reached local or global minimum using principal component analysis. However, this visualization depends on the variational parameters of a quantum circuit rather than quantum states, which makes it difficult to understand the mechanism of optimization process through the property of quantum states. Here, we propose a quantum data visualization method using quantum kernels, which enables us to offer fast and highly accurate visualization of quantum states. In our numerical experiments, we visualize hand-written digits dataset and apply $k$-nearest neighbor algorithm to the low-dimensional data to quantitatively evaluate our proposed method compared with a classical kernel method. As a result, our proposed method achieves comparable accuracy to the state-of-the-art classical kernel method, meaning that the proposed visualization method based on quantum machine learning does not degrade the separability of the input higher dimensional data. Furthermore, we visualize the optimization trajectories of finding the ground states of transverse field Ising model and successfully find the trajectory characteristics. Since quantum states are higher dimensional objects that can only be seen via observables, our visualization method, which inherits the similarity of quantum data, would be useful in understanding the behavior of quantum circuits and algorithms.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T19:44:57.936Z

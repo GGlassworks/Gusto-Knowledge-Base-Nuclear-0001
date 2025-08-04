@@ -1,0 +1,12 @@
+# Applications of the Adversary Method in Quantum Query Algorithms
+
+**Authors:** Aleksandrs Belovs
+
+## Summary
+In the thesis, we use a recently developed tight characterisation of quantum query complexity, the adversary bound, to develop new quantum algorithms and lower bounds. Our results are as follows: * We develop a new technique for the construction of quantum algorithms: learning graphs. * We use learning graphs to improve quantum query complexity of the triangle detection and the $k$-distinctness problems. * We prove tight lower bounds for the $k$-sum and the triangle sum problems. * We construct quantum algorithms for some subgraph-finding problems that are optimal in terms of query, time and space complexities. * We develop a generalisation of quantum walks that connects electrical properties of a graph and its quantum hitting time. We use it to construct a time-efficient quantum algorithm for 3-distinctness.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T21:15:59.130Z

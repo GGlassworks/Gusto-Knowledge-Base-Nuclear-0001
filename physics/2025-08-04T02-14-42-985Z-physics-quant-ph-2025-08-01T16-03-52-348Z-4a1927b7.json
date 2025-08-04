@@ -1,0 +1,12 @@
+# Non-Markovian thermal operations boosting the performance of quantum heat engines
+
+**Authors:** Krzysztof Ptaszyński
+
+## Summary
+It is investigated whether non-Markovianity, i.e., the memory effects resulting from the coupling of the system to its environment, can be beneficial for the performance of quantum heat engines. Specifically, two physical models are considered. The first one is a well known single-qubit Otto engine; the non-Markovian behaviour is there implemented by replacing standard thermalization strokes with so-called extremal thermal operations which cannot be realized without the memory effects. The second one is a three-stroke engine in which the cycle consists of two extremal thermal operations and a single qubit rotation. It is shown that the non-Markovian Otto engine can generate more work-per-cycle for a given efficiency than its Markovian counterpart, whereas performance of both setups is superior to the three-stroke engine. Furthermore, both the non-Markovian Otto engine and the three-stroke engine can reduce the work fluctuations in comparison with the Markovian Otto engine, with their relative advantage depending on the performance target. This demonstrates the beneficial influence of non-Markovianity on both the average performance and the stability of operation of quantum heat engines.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:03:52.348Z

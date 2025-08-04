@@ -1,0 +1,12 @@
+# Quantum vs classical genetic algorithms: A numerical comparison shows faster convergence
+
+**Authors:** Rubén Ibarrondo, Giancarlo Gatti, Mikel Sanz
+
+## Summary
+Genetic algorithms are heuristic optimization techniques inspired by Darwinian evolution. Quantum computation is a new computational paradigm which exploits quantum resources to speed up information processing tasks. Therefore, it is sensible to explore the potential enhancement in the performance of genetic algorithms by introducing quantum degrees of freedom. Along this line, a modular quantum genetic algorithm has recently been proposed, with individuals encoded in independent registers comprising exchangeable quantum subroutines [arXiv:2203.15039], which leads to different variants. Here, we address the numerical benchmarking of these algorithms against classical genetic algorithms, a comparison missing from previous literature. To overcome the severe limitations of simulating quantum algorithms, our approach focuses on measuring the effect of quantum resources on the performance. In order to isolate the effect of the quantum resources in the performance, the classical variants have been selected to resemble the fundamental characteristics of the quantum genetic algorithms. Under these conditions, we encode an optimization problem in a two-qubit Hamiltonian and face the problem of finding its ground state. A numerical analysis based on a sample of 200 random cases shows that some quantum variants outperform all classical ones in convergence speed towards a near-to-optimal result. Additionally, we have considered a diagonal Hamiltonian and the Hamiltonian of the hydrogen molecule to complete the analysis with two relevant use-cases. If this advantage holds for larger systems, quantum genetic algorithms would provide a new tool to address optimization problems with quantum computers.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:59:04.204Z

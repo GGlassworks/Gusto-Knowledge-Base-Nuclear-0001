@@ -1,0 +1,12 @@
+# The Unitary Transformation in Quantum Teleportation
+
+**Authors:** Zheng-Chuan Wang
+
+## Summary
+In the well known treatment of quantum teleportation, the receiver should convert the state of his EPR particle into the replica of the unknown quantum state by one of four possible unitary transformations. However, the importance of these unitary transformations must be emphasized. We will show in this paper that the receiver can not transform the state of his particle into an exact replica of the unknown state which the sender want to transfer if he have not a proper implementation of these unitary transformations. In the procedure of converting state, the inevitable coupling between EPR particle and environment which is needed by the implementation of unitary transformations will reduce the accuracy of the replica.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T12:02:37.193Z

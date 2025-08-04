@@ -1,0 +1,12 @@
+# Implementation of a Quantum Engine Fuelled by Information
+
+**Authors:** John P. S. Peterson, Roberto S. Sarthour, Raymond Laflamme
+
+## Summary
+Here, we show the implementation of a complete cycle of a quantum engine fuelled by information. This engine is a quantum version of the Szilard engine, where information is used to extract heat from the environment and fully convert it into work. In our experiment, this work is used to make a weight, initially in the ground state, reach its excited state. We measure the energy and the state of each component of the engine, after each step of the cycle, and compare them with the theoretical prediction to show that the cycle is implemented with high precision. We also perform experiments to show that the engine is well isolated from the environment after the heat extraction, and we measure the entropy of the weight to show the full conversion of heat into work. Thus, we successfully demonstrate that information can be used as a fuel for single-reservoir engines.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:02:03.516Z

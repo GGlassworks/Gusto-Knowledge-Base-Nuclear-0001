@@ -1,0 +1,12 @@
+# Digital quantum simulation framework for energy transport in an open quantum system
+
+**Authors:** Pragati Gupta, C. M. Chandrashekar
+
+## Summary
+Quantum effects such as the environment assisted quantum transport (ENAQT) displayed in photosynthetic Fenna-Mathews-Olson (FMO) complex has been simulated on analog quantum simulators. Digital quantum simulations offer greater universality and flexibility over analog simulations. However, digital quantum simulations of open quantum systems face a theoretical challenge; one does not know the solutions of the continuous time master equation for developing quantum gate operators. We give a theoretical framework for digital quantum simulation of ENAQT by introducing new quantum evolution operators. We develop the dynamical equation for the operators and prove that it is an analytical solution of the master equation. As an example, using the dynamical equations, we simulate the FMO complex in the digital setting, reproducing theoretical and experimental evidence of the dynamics. The framework gives an optimal method for {quantum circuit} implementation, giving a log reduction in complexity over known methods. The generic framework can be extrapolated to study other open quantum systems.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T10:21:15.479Z

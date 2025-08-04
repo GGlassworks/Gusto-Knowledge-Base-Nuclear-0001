@@ -1,0 +1,12 @@
+# Quantum Request-Answer Game with Buffer Model for Online Algorithms
+
+**Authors:** Kamil Khadiev
+
+## Summary
+We consider online algorithms as a request-answer game. An adversary that generates input requests, and an online algorithm answers. We consider a generalized version of the game that has a buffer of limited size. The adversary loads data to the buffer, and the algorithm has random access to elements of the buffer. We consider quantum and classical (deterministic or randomized) algorithms for the model. In the paper, we provide a specific problem (The Most Frequent Keyword Problem) and a quantum algorithm that works better than any classical (deterministic or randomized) algorithm in terms of competitive ratio. At the same time, for the problem, classical online algorithms in the standard model are equivalent to the classical algorithms in the request-answer game with buffer model.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T21:08:09.934Z

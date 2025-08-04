@@ -1,0 +1,12 @@
+# Molecular Quantum Computing by an Optimal Control Algorithm for Unitary Transformations
+
+**Authors:** Jose P. Palao, Ronnie Kosloff
+
+## Summary
+Quantum computation is based on implementing selected unitary transformations which represent algorithms. A generalized optimal control theory is used to find the driving field that generates a prespecified unitary transformation. The approach is illustrated in the implementation of one and two qubits gates in model molecular systems.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T12:02:37.690Z

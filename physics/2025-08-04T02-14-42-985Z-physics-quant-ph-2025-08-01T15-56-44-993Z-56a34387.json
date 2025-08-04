@@ -1,0 +1,12 @@
+# Bath engineering enhanced quantum critical engines
+
+**Authors:** Revathy B. S., Victor Mukherjee, Uma Divakaran
+
+## Summary
+Driving a quantum system across quantum critical points leads to non-adiabatic excitations in the system. This in turn may adversely affect the functioning of a quantum machine which uses a quantum critical substance as its working medium. Here we propose a bath-engineered quantum engine (BEQE), in which we use the Kibble--Zurek mechanism and critical scaling laws to formulate a protocol for enhancing the performance of finite-time quantum engines operating close to quantum phase transitions. In the case of free fermionic systems, BEQE enables finite-time engines to outperform engines operating in the presence of shortcuts to adiabaticity, and even infinite-time engines under suitable conditions, thus showing the remarkable advantages offered by this technique. Open questions remain regarding the use of BEQE based on non-integrable models.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T15:56:44.994Z

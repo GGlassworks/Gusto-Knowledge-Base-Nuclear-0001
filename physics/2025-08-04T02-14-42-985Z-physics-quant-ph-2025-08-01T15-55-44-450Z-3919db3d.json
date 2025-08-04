@@ -1,0 +1,12 @@
+# Exploring the role of criticality in the quantum Otto cycle fueled by the anisotropic quantum Rabi-Stark model
+
+**Authors:** He-Guang Xu, Jiasen Jin, Norton G. de Almeida, G. D. de Moraes Neto
+
+## Summary
+Quantum heat machines, encompassing heat engines, refrigerators, heaters, and accelerators, represent the forefront of quantum thermodynamics, offering a novel paradigm for converting heat energy into useful mechanical work. Leveraging quantum mechanical principles, these machines promise superior efficiency and performance compared to classical counterparts, with potential applications in renewable energy and quantum computing. This paper investigates a quantum Otto engine operating in both ideal and finite-time scenarios, employing a two-level system interacting with a harmonic oscillator within the framework of the anisotropic quantum Rabi-Stark model (AQRSM) as the working medium. This model is notable for exhibiting both first-order and continuous quantum phase transitions. By focusing on quantum heat engines, our study reveals that these phase transitions critically modulate the efficiency and power of AQRSM-based engines, outperforming quantum engines fueled by working medium with harmonic spectrum. Additionally, we explore the impacts of quantum friction and conduct limit cycle analysis in finite-time operations, providing insights into optimizing quantum heat engines for practical implementation.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T15:55:44.450Z

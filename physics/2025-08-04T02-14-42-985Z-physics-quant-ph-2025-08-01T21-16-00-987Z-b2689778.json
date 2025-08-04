@@ -1,0 +1,12 @@
+# Developing Mathematical Oracle Functions for Grover Quantum Search Algorithm
+
+**Authors:** Cesar Borisovich Pronin, Andrey Vladimirovich Ostroukh
+
+## Summary
+This article highlights some of the key operating principles of Grover algorithm. These principles were used to develop a new oracle function, that illustrates the possibility of using Grover algorithm for solving more realistic and specific search problems, like searching for a solution to a simple mathematical equation.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T21:16:00.991Z

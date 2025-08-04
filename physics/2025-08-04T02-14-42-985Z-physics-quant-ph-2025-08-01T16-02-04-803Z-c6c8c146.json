@@ -1,0 +1,12 @@
+# Experimental investigation of a quantum Otto heat engine with shortcuts to adiabaticity implemented using counter-adiabatic driving
+
+**Authors:** Krishna Shende, Matreyee Kandpal, Arvind, Kavita Dorai
+
+## Summary
+The finite time operation of a quantum Otto heat engine leads to a trade-off between efficiency and output power, which is due to the deviation of the system from the adiabatic path. This trade-off caveat can be bypassed by using the shortcut-to-adiabaticity protocol. We experimentally implemented a quantum Otto heat engine using spin-1/2 nuclei on a nuclear magnetic resonance (NMR) quantum processor. We investigated its performance using the shortcut-to-adiabaticity technique via counter-adiabatic driving with the inclusion of the cost to perform the shortcut. We use two different metrics that incorporate the cost of shortcut-to-adiabaticity to define engine efficiency and experimentally analyze which one is more appropriate for the NMR platform. We found a significant improvement in the performance of the quantum Otto heat engine driven by shortcut-to-adiabaticity, as compared to the non-adiabatic heat engine.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:02:04.804Z

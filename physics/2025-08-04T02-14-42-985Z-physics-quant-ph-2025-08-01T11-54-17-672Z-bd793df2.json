@@ -1,0 +1,12 @@
+# Quantum Radon Transform and Its Application
+
+**Authors:** Guangsheng Ma, Hongbo Li, Jiman Zhao
+
+## Summary
+This paper extends the Radon transform, a classical image processing tool for fast tomography and denoising, to the quantum computing platform. A new kind of periodic discrete Radon transform (PDRT), called quantum Radon transform (QRT), is proposed. The QRT has a quantum implementation that is exponentially faster than the classical Radon transform. Based on the QRT, we design an efficient quantum image denoising algorithm. The simulation results show that QRT preserves the good denoising capability as in the classical PDRT. Also, a quantum algorithm for interpolation-based discrete Radon transform (IDRT) is proposed, which can be used for fast line detection. Both the quantum extension of IDRT and the line detection algorithm can provide polynomial speedups over the classical counterparts.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T11:54:17.672Z

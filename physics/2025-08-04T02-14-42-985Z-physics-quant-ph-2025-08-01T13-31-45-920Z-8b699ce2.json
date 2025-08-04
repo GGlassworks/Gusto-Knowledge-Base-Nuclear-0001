@@ -1,0 +1,12 @@
+# Cyclic Quantum Causal Models
+
+**Authors:** Jonathan Barrett, Robin Lorenz, Ognyan Oreshkov
+
+## Summary
+Causal reasoning is essential to science, yet quantum theory challenges it. Quantum correlations violating Bell inequalities defy satisfactory causal explanations within the framework of classical causal models. What is more, a theory encompassing quantum systems and gravity is expected to allow causally nonseparable processes featuring operations in indefinite causal order, defying that events be causally ordered at all. The first challenge has been addressed through the recent development of intrinsically quantum causal models, allowing causal explanations of quantum processes -- provided they admit a definite causal order, i.e. have an acyclic causal structure. This work addresses causally nonseparable processes and offers a causal perspective on them through extending quantum causal models to cyclic causal structures. Among other applications of the approach, it is shown that all unitarily extendible bipartite processes are causally separable and that for unitary processes, causal nonseparability and cyclicity of their causal structure are equivalent.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T13:31:45.921Z

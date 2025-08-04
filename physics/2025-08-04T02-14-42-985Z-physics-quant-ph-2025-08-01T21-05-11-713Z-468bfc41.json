@@ -1,0 +1,12 @@
+# Generalized quantum Arimoto-Blahut algorithm and its application to quantum information bottleneck
+
+**Authors:** Masahito Hayashi, Geng Liu
+
+## Summary
+We generalize the quantum Arimoto-Blahut algorithm by Ramakrishnan et al. (IEEE Trans. IT, 67, 946 (2021)) to a function defined over a set of density matrices with linear constraints so that our algorithm can be applied to optimizations of quantum operations. This algorithm has wider applicability. Hence, we apply our algorithm to the quantum information bottleneck with three quantum systems, which can be used for quantum learning. We numerically compare our obtained algorithm with the existing algorithm by Grimsmo and Still (Phys. Rev. A, 94, 012338 (2016)). Our numerical analysis shows that our algorithm is better than their algorithm.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T21:05:11.714Z

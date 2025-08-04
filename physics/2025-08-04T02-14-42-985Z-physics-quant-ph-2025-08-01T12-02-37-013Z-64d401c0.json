@@ -1,0 +1,12 @@
+# Quantum Wave Atom Transforms
+
+**Authors:** Marianna Podzorova, Yi-Kai Liu
+
+## Summary
+This paper constructs the first quantum algorithm for wavelet packet transforms with a tree structure, sometimes called wave atom transforms. Classically, wave atoms are used to construct sparse representations of differential operators, which enable fast numerical algorithms for partial differential equations. Compared to previous work, our quantum algorithm can implement a larger class of wavelet and wave atom transforms, by using an efficient representation for a larger class of possible tree structures. Our quantum implementation has $O(\mathrm{poly}(n))$ gate complexity for the transform of dimension $2^n$, while classical implementations have $O(n 2^n)$ floating point operations. The result can be used to improve existing quantum algorithms for solving hyperbolic partial differential equations.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T12:02:37.013Z

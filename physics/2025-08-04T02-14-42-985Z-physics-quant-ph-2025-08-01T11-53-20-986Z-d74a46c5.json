@@ -1,0 +1,12 @@
+# Group Sparse Matrix Optimization for Efficient Quantum State Transformation
+
+**Authors:** Lai Kin Man, Xin Wang
+
+## Summary
+Finding ways to transform a quantum state to another is fundamental to quantum information processing. In this paper, we apply the sparse matrix approach to the quantum state transformation problem. In particular, we present a new approach for searching for unitary matrices for quantum state transformation by directly optimizing the objective problem using the Alternating Direction Method of Multipliers (ADMM). Moreover, we consider the use of group sparsity as an alternative sparsity choice in quantum state transformation problems. Our approach incorporates sparsity constraints into quantum state transformation by formulating it as a non-convex problem. It establishes a useful framework for efficiently handling complex quantum systems and achieving precise state transformations.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T11:53:20.986Z

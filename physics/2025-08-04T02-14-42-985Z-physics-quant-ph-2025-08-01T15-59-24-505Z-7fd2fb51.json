@@ -1,0 +1,12 @@
+# A Review of Quantum Scientific Computing Algorithms for Engineering Problems
+
+**Authors:** Osama Muhammad Raisuddin, Suvranu De
+
+## Summary
+Quantum computing, leveraging quantum phenomena like superposition and entanglement, is emerging as a transformative force in computing technology, promising unparalleled computational speed and efficiency crucial for engineering applications. This advancement presents both opportunities and challenges, requiring engineers to familiarize themselves with quantum principles, applications, and complexities. This paper systematically explores the foundational concepts of quantum mechanics and their implications for computational advancements, emphasizing the superiority of quantum algorithms in solving engineering problems. It identifies areas where gate-based quantum computing has the potential to outperform classical methods despite facing scalability and coherence issues. By offering clear examples with minimal reliance on in-depth quantum physics or hardware specifics, the aim is to make quantum computing accessible to engineers, addressing the steep learning curve and fostering its practical adoption for complex problem-solving and technological advancement as quantum hardware becomes more robust and reliable.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T15:59:24.506Z

@@ -1,0 +1,12 @@
+# A photonic quantum engine driven by superradiance
+
+**Authors:** Jinuk Kim, Seung-hoon Oh, Daeho Yang, Junki Kim, Moonjoo Lee, Kyungwon An
+
+## Summary
+Performance of nano- and micro-scale heat engines can be improved with a help from quantum mechanical phenomena. Recently, heat reservoirs with quantum coherence have been proposed to enhance engine performance beyond the Carnot limit even with a single reservoir. However, no physical realizations have been achieved so far. Here, we report the first proof-of-principle experimental demonstration of a photonic quantum engine driven by superradiance employing a single heat reservoir composed of atoms and photonic vacuum. Reservoir atoms prepared in a quantum coherent superposition state underwent superradiance while traversing the cavity. This led to about 40-fold increase of the effective engine temperature, resulting in a near-unity engine efficiency. Moreover, the observed engine output power grew quadratically with respect to the atomic injection rate. Our work can be utilized in quantum mechanical heat transfer as well as in boosting engine powers, opening a pathway to development of photomechanical devices that run on quantum coherence embedded in heat baths.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:01:09.293Z

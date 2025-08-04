@@ -1,0 +1,12 @@
+# Quantum computing with differentiable quantum transforms
+
+**Authors:** Olivia Di Matteo, Josh Izaac, Tom Bromley, Anthony Hayes, Christina Lee, Maria Schuld, Antal Száva, Chase Roberts, Nathan Killoran
+
+## Summary
+We present a framework for differentiable quantum transforms. Such transforms are metaprograms capable of manipulating quantum programs in a way that preserves their differentiability. We highlight their potential with a set of relevant examples across quantum computing (gradient computation, circuit compilation, and error mitigation), and implement them using the transform framework of PennyLane, a software library for differentiable quantum programming. In this framework, the transforms themselves are differentiable and can be parametrized and optimized, which opens up the possibility of improved quantum resource requirements across a spectrum of tasks.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T11:55:57.153Z

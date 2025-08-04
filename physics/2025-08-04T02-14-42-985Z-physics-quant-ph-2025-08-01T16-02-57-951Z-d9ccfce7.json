@@ -1,0 +1,12 @@
+# Performance evaluation of invariant-based inverse engineering by quantum speed limit
+
+**Authors:** Takuya Hatomura
+
+## Summary
+Quantum speed limits for two time-evolved states are introduced and applied to overlap between true dynamics and approximate dynamics. In particular, we point out that the present idea is suitable for invariant-based inverse engineering, i.e., the worst case performance of invariant-based inverse engineering can be evaluated by using a designed time-evolved state. As demonstrations, we apply the present method to stimulated Raman adiabatic passage and quantum annealing, and then we find that the present idea brings valuable insight to control scheduling.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:02:57.951Z

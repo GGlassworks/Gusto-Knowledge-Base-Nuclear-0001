@@ -1,0 +1,12 @@
+# An engineer's brief introduction to microwave quantum optics and a single-port state-space representation
+
+**Authors:** Malida O. Hecht, Antonio J. Cobarrubia, Kyle M. Sundqvist
+
+## Summary
+Classical microwave circuit theory is incapable of representing some phenomena at the quantum level. To include quantum statistical effects when treating microwave networks, various theoretical treatments can be employed such as quantum input-output network (QION) theory and SLH theory. However, these require a reformulation of classical microwave theory. To make these topics comprehensible to an electrical engineer, we demonstrate some underpinnings of microwave quantum optics in terms of microwave engineering. For instance, we equate traveling-wave phasors in a transmission line ($V_0^+$) directly to bosonic field operators. Furthermore, we extend QION to include a state-space representation and a transfer function for a single port quantum network. This serves as a case study to highlight how microwave methodologies can be applied in open quantum systems. Although the same conclusion could be found from a full SLH theory treatment, our method was derived directly from first principles of QION.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T15:43:28.385Z

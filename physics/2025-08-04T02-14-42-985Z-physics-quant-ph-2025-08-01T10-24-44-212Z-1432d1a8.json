@@ -1,0 +1,12 @@
+# Scaling silicon-based quantum computing using CMOS technology: State-of-the-art, Challenges and Perspectives
+
+**Authors:** M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
+
+## Summary
+Complementary metal-oxide semiconductor (CMOS) technology has radically reshaped the world by taking humanity to the digital age. Cramming more transistors into the same physical space has enabled an exponential increase in computational performance, a strategy that has been recently hampered by the increasing complexity and cost of miniaturization. To continue achieving significant gains in computing performance, new computing paradigms, such as quantum computing, must be developed. However, finding the optimal physical system to process quantum information, and scale it up to the large number of qubits necessary to build a general-purpose quantum computer, remains a significant challenge. Recent breakthroughs in nanodevice engineering have shown that qubits can now be manufactured in a similar fashion to silicon field-effect transistors, opening an opportunity to leverage the know-how of the CMOS industry to address the scaling challenge. In this article, we focus on the analysis of the scaling prospects of quantum computing systems based on CMOS technology.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T10:24:44.213Z

@@ -1,0 +1,12 @@
+# Szilard Engines as Quantum Thermodynamical Systems
+
+**Authors:** Maryam Ashrafi, Kyle J. Ray, Fabio Anza, James P. Crutchfield
+
+## Summary
+We analyze an engine whose working fluid consists of a single quantum particle, paralleling Szilard's construction of a classical single-particle engine. Following his resolution of Maxwell's Second Law paradox using the latter, which turned on physically instantiating the demon (control subsystem), the quantum engine's design mirrors the classically-chaotic Szilard Map that operates a thermodynamic cycle of measurement, thermal-energy extraction, and memory reset. Focusing on the thermodynamic costs to observe and control the particle and comparing these in the quantum and classical limits, we detail the thermodynamic tradeoffs behind Landauer's Principle for information-processing-induced thermodynamic dissipation in the quantum and classical regimes. In particular, and as found with the classical engine, we show that the sum of the thermodynamic costs over a cycle obeys a generalized Landauer Principle, exactly balancing energy extraction from the heat bath. Thus, the quantum engine obeys the Second Law. However, the quantum engine does so via substantially different mechanisms: classically measurement and erasure determine the thermodynamics, while in the quantum implementation the cost of partition insertion is key.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:02:03.974Z

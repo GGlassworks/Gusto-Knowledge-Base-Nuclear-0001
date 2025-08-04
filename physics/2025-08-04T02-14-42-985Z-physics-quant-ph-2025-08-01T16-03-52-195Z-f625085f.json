@@ -1,0 +1,12 @@
+# Proposal for Composite Quantum Electromagnetically Induced Transparency Heat Engine Coupled by a Nanomechanical Mirror
+
+**Authors:** Rejjak Laskar
+
+## Summary
+This paper introduces a quantum heat engine model that utilizes an ultracold atomic gas coupled with a nanomechanical mirror. The mirror's vibration induces an opto-mechanical sideband in the control field, affecting the behavior of the cold gas and subsequently influencing the output radiation of the engine. The model incorporates mirror vibration while omitting cavity confinement, establishing a bridge between a multi-level atom-laser interacting system that plays with coherences and the mechanical vibration of the nanomechanical mirror, which jointly function as heat engines. Three distinct heat engine configurations are proposed: the first involves a vibration-free three-level $\Lambda$-type system, the second introduces nanomechanical vibration to the three-level $\Lambda$-type system, and the third constitutes a composite engine that combines the previous setups along with nanomechanical vibration. The spectral brightness of a three-level heat engine is diminished with mirror vibration, whereas for a composite heat engine, there is a slight enhancement in the brightness peak. However, the maximum brightness is attained when there is no vibration. Comparisons between the proposed model and an ideal system are made regarding entropy balance, adhering to the constraints of the second law of thermodynamics. The model observed that when subjected to mirror vibration, the proposed heat engines diverged from the characteristics expected in an ideal heat engine.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:03:52.196Z

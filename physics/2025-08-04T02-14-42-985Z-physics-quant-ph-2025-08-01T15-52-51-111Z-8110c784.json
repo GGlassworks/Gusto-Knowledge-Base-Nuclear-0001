@@ -1,0 +1,12 @@
+# Efficiency at maximum power of a Carnot quantum information engine
+
+**Authors:** Paul Fadler, Alexander Friedenberger, Eric Lutz
+
+## Summary
+Optimizing the performance of thermal machines is an essential task of thermodynamics. We here consider the optimization of information engines that convert information about the state of a system into work. We concretely introduce a generalized finite-time Carnot cycle for a quantum information engine and optimize its power output in the regime of low dissipation. We derive a general formula for its efficiency at maximum power valid for arbitrary working media. We further investigate the optimal performance of a qubit information engine subjected to weak energy measurements.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T15:52:51.111Z

@@ -1,0 +1,12 @@
+# A Novel Quantum Algorithm for Ant Colony Optimization
+
+**Authors:** Qian Qiu, Mohan Wu, Qichun Sun, Xiaogang Li, Hua Xu
+
+## Summary
+Quantum ant colony optimization (QACO) has drew much attention since it combines the advantages of quantum computing and ant colony optimization (ACO) algorithms and overcomes some limitations of the traditional ACO algorithm. However, due to the hardware resource limitations of currently available quantum computers, such as the limited number of qubits, lack of high-fidelity gating operation, and low noisy tolerance, the practical application of the QACO is quite challenging. In this paper, we introduce a hybrid quantum-classical algorithm by combining the clustering algorithm with QACO algorithm, so that this extended QACO can handle large-scale optimization problems, which makes the practical application of QACO based on available quantum computation resource possible. To verify the effectiveness and performance of the algorithm, we tested the developed QACO algorithm with the Travelling Salesman Problem (TSP) as benchmarks. The developed QACO algorithm shows better performance under multiple data set. In addition, the developed QACO algorithm also manifests the robustness to noise of calculation process, which is typically a major barrier for practical application of quantum computers. Our work shows that the combination of the clustering algorithm with QACO has effectively extended the application scenario of QACO in current NISQ era of quantum computing.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T21:05:12.917Z

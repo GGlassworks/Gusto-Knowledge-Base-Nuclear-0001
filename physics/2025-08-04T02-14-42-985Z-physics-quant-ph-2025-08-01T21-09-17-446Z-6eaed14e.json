@@ -1,0 +1,12 @@
+# Quantum algorithms through graph composition
+
+**Authors:** Arjan Cornelissen
+
+## Summary
+In this work, we introduce the graph composition framework, a generalization of the st-connectivity framework for generating quantum algorithms, where the availability of each of the graph's edges is computed by a span program. We provide an exact characterization of the resulting witness sizes in terms of effective resistances of related graphs. We also provide less-powerful, but easier-to-use upper bounds on these witness sizes. We give generic time-efficient implementations of algorithms generated through the graph composition framework, in the quantum read-only memory model, which is a weaker assumption than the more common quantum random-access model. Along the way, we simplify the span program algorithm, and remove the dependence of its analysis on the effective spectral gap lemma. We unify the quantum algorithmic frameworks that are based on span programs or the quantum adversary bound. In particular, we show how the st-connectivity framework subsumes the learning graph framework, the weighted-decision-tree framework, and a zero-error version of the latter. We show that the graph composition framework subsumes part of the quantum divide and conquer framework, and that it is itself subsumed by the multidimensional quantum walk framework. Moreover, we show that the weighted-decision-tree complexity is quadratically related to deterministic query complexity, and to the GT-bound with polynomial exponent 3/2. For the latter, we also provide a matching separation. We apply our techniques to give improved algorithms for various string-search problems, namely the Dyck-language recognition problem of depth 3, the 3-increasing subsequence problem, and the OR $\circ$ pSEARCH problem. We also simplify existing quantum algorithms for the space-efficient directed st-connectivity problem, the pattern-matching problem and the infix-search problem.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T21:09:17.448Z

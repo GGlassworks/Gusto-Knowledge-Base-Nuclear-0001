@@ -1,0 +1,12 @@
+# Introduction to Variational Quantum Algorithms
+
+**Authors:** Michał Stęchły
+
+## Summary
+This document is a pdf version of the series of blogposts about variational quantum algorithms (VQA) I originally posted on my blog Musty Thoughts. It provides an explanation of the basic variational algorithms, such as Variational Quantum Eigensolver (VQE) and Quantum Approximate Optimization Algorithm (QAOA), as well as a more general framework for VQAs. It also describes some more advanced techniques that can be used to make these algorithms more efficient, as well as the challenges associated with using them.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T21:13:42.428Z

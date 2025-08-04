@@ -1,0 +1,12 @@
+# Collective effects on the performance and stability of quantum heat engines
+
+**Authors:** Leonardo da Silva Souza, Gonzalo Manzano, Rosario Fazio, Fernando Iemini
+
+## Summary
+Recent predictions for quantum-mechanical enhancements in the operation of small heat engines have raised renewed interest in their study from both a fundamental perspective and in view of applications. One essential question is whether collective effects may help to carry enhancements over larger scales, when increasing the number of systems composing the working substance of the engine. Such enhancements may consider not only power and efficiency, that is its performance, but, additionally, its constancy, i.e. the stability of the engine with respect to unavoidable environmental fluctuations. We explore this issue by introducing a many-body quantum heat engine model composed by spin pairs working in continuous operation. We study how power, efficiency and constancy scale with the number of spins composing the engine and introduce a well-defined macroscopic limit where analytical expressions are obtained. Our results predict power enhancements, both in finite-size and macroscopic cases, for a broad range of system parameters and temperatures, without compromising the engine efficiency, accompanied by coherence-enhanced constancy for finite sizes. We discuss these quantities in connection to Thermodynamic Uncertainty Relations (TUR).
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T15:51:56.243Z

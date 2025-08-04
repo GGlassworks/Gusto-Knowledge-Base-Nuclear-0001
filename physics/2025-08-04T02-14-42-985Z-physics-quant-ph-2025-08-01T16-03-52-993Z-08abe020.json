@@ -1,0 +1,12 @@
+# Performance of quantum heat engines under the influence of long-range interactions
+
+**Authors:** Qian Wang
+
+## Summary
+We examine a quantum heat engine with an interacting many-body working medium consisting of the long-range Kitaev chain to explore the role of long-range interactions in the performance of the quantum engine. By analytically studying two type of thermodynamic cycles, namely Otto cycle and Stirling cycle, we demonstrate that the work output and efficiency of long-range interacting heat engine can be boosted by long-range interactions, in comparison to the short-range counterpart. We further show that in the Otto cycle, there exist an optimal condition for which the largest enhancement of work output and efficiency can be achieved simultaneously by the long-range interactions. But, for the Stirling cycle, the condition that gives the largest enhancement in work output does not lead to the largest enhancement in efficiency. We also investigate how the parameter regimes under which the engine performance is enhanced by the long-range interactions is evolved with decrease in the range of interaction.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:03:52.993Z

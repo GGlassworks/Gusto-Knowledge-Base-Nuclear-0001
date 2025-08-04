@@ -1,0 +1,12 @@
+# A genetic algorithm for finding pulse sequences for NMR quantum computing
+
+**Authors:** M. J. Rethinam, A. K. Javali, E. C. Behrman, J. E. Steck, S. R. Skinner
+
+## Summary
+We present a genetic algorithm for finding a set of pulse sequences, or rotations, for a given quantum logic gate, as implemented by NMR. We demonstrate the utility of the method by showing that shorter sequences than have been previously published can be found for both a CNOT and for the central part of Shor's algorithm (for N=15.) Artificial intelligence techniques like the genetic algorithm here presented have an enormous potential for simplifying the implementation of working quantum computers.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T16:56:56.739Z
