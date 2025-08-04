@@ -1,0 +1,13 @@
+# A Comprehensive Survey on Cloud Data Mining (CDM) Frameworks and Algorithms
+
+**Authors:** H. Barua, K. Mondal
+
+## Abstract
+Data mining is used for finding meaningful information out of a vast expanse of data. With the advent of Big Data concept, data mining has come to much more prominence. Discovering knowledge out of a gigantic volume of data efficiently is a major concern as the resources are limited. Cloud computing plays a major role in such a situation. Cloud data mining fuses the applicability of classical data mining with the promises of cloud computing. This allows it to perform knowledge discovery out of huge volumes of data with efficiency. This article presents the existing frameworks, services, platforms, and algorithms for cloud data mining. The frameworks and platforms are compared among each other based on similarity, data mining task support, parallelism, distribution, streaming data processing support, fault tolerance, security, memory types, storage systems, and others. Similarly, the algorithms are grouped on the basis of parallelism type, scalability, streaming data mining support, and types of data managed. We have also provided taxonomies on the basis of data mining techniques such as clustering, classification, and association rule mining. We also have attempted to discuss and identify the major applications of cloud data mining. The various taxonomies for cloud data mining frameworks, platforms, and algorithms have been identified. This article aims at gaining better insight into the present research realm and directing the future research toward efficient cloud data mining in future cloud systems.
+
+**Source:** https://www.semanticscholar.org/paper/3384b6513180c3aff1bc27bb7f34074d68596d3d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:09:57.252Z

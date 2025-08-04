@@ -1,0 +1,13 @@
+# Methodology for Comparing Evolutionary Algorithms for Optimization of Water Distribution Systems
+
+**Authors:** A. Marchi, G. Dandy, A. Wilkins, Hayley Rohrlach
+
+## Abstract
+AbstractIn recent years, a number of evolutionary algorithms have been proposed for optimizing the design and operation of water distribution systems (WDSs). These evolutionary algorithms include genetic algorithms, ant colony optimization, particle swarm optimization, the shuffled leaping frog algorithm, and differential evolution. Although there have been some comparisons made of the performance of the various algorithms, very few of these comparisons have been carried out in a completely rigorous manner. The main aim of this paper is to introduce a methodology for the rigorous comparison of various algorithms for the optimum design of water distribution systems. The methodology involves comparing the various algorithms in terms of (1) the best solution obtained; (2) the speed of convergence; and (3) the spread and consistency of the solutions obtained over a number of random starting seeds and numbers of evaluations. As a demonstration of the methodology, the techniques of genetic algorithms (GA), part...
+
+**Source:** https://www.semanticscholar.org/paper/a97ef94319bb22d42a25f9d365c986faa3480726
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:13:23.787Z

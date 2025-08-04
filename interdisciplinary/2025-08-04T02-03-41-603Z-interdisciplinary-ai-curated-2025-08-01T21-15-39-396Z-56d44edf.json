@@ -1,0 +1,13 @@
+# Survey of Channel Allocation Algorithms Research for Cellular Systems
+
+**Authors:** M. P. Mishra, P. Saxena
+
+## Abstract
+In recent years, we have witnessed a huge interest in the study of channel allocation and handoff strategies for cellu lar systems to ensure continuous services that guarantee QoS to mobile users. In this paper, we have a detailed d iscussion of different categories of wireless channel allocation schemes. The basic purpose of the study is to provide a comprehensive review of d ifferent categories of channel allocation algorith ms in cellu lar systems and to recommend future direct ions of research in the area. The paper g ives a survey of published papers for discussing channel allocation schemes for cellular system. The QoS is always a major concern fo r the services offered through cellular systems and it is observed that there are always trade-offs among various parameters of the QoS of these services. There are many published papers which have taken care of d ifferent QoS parameters such as call b locking probability, call dropping probability along with other performance parameters. This paper provides details of the d ifferent categories of channel allocation schemes including static channel allocation, dynamic channel allocation and hybrid channel allocation studied in literature. A lso in this paper, we explore the different channel allocation strategies, including the scenarios in which channel allocation strategies based on centralized channel control, distributed channel control, mutual exclusion algorith ms and genetic algorith ms, are used. Also, we have summarizes trade-offs between different channel allocation schemes in terms of their co mplexity and performance. In this paper, channel allocation in different context of co mplex situations such as the ones arising in offering mu ltimed ia based services and other arising in the channel allocation for mobile base station systems and use of power management in channel allocation are exp lained. This paper also examines different handoff handling provision and prioritizat ion schemes proposed in the literature for cellu lar systems.
+
+**Source:** https://www.semanticscholar.org/paper/cab3fd9014318d13884cbeaf25875da8081da9ef
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:15:39.397Z

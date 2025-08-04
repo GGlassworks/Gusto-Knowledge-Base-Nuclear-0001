@@ -1,0 +1,13 @@
+# Voxelisation Algorithms and Data Structures: A Review
+
+**Authors:** M. Aleksandrov, S. Zlatanova, D. Heslop
+
+## Abstract
+Voxel-based data structures, algorithms, frameworks, and interfaces have been used in computer graphics and many other applications for decades. There is a general necessity to seek adequate digital representations, such as voxels, that would secure unified data structures, multi-resolution options, robust validation procedures and flexible algorithms for different 3D tasks. In this review, we evaluate the most common properties and algorithms for voxelisation of 2D and 3D objects. Thus, many voxelisation algorithms and their characteristics are presented targeting points, lines, triangles, surfaces and solids as geometric primitives. For lines, we identify three groups of algorithms, where the first two achieve different voxelisation connectivity, while the third one presents voxelisation of curves. We can say that surface voxelisation is a more desired voxelisation type compared to solid voxelisation, as it can be achieved faster and requires less memory if voxels are stored in a sparse way. At the same time, we evaluate in the paper the available voxel data structures. We split all data structures into static and dynamic grids considering the frequency to update a data structure. Static grids are dominated by SVO-based data structures focusing on memory footprint reduction and attributes preservation, where SVDAG and SSVDAG are the most advanced methods. The state-of-the-art dynamic voxel data structure is NanoVDB which is superior to the rest in terms of speed as well as support for out-of-core processing and data management, which is the key to handling large dynamically changing scenes. Overall, we can say that this is the first review evaluating the available voxelisation algorithms for different geometric primitives as well as voxel data structures.
+
+**Source:** https://www.semanticscholar.org/paper/bb5066d85f762e15716b2df57fc93f8bb380ab9b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:09:59.037Z

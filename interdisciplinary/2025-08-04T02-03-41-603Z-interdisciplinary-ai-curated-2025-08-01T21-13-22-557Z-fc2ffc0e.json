@@ -1,0 +1,29 @@
+# Evolution of the ESA CCI Soil Moisture climate data records and their underlying merging methodology
+
+**Authors:** A. Gruber, T. Scanlon, Robin van der Schalie, W. Wagner, W. Dorigo
+
+## Abstract
+Abstract. The European Space Agency's Climate Change Initiative
+for Soil Moisture (ESA CCI SM) merging algorithm generates consistent
+quality-controlled long-term (1978–2018) climate data records for soil
+moisture, which serves thousands of scientists and data users worldwide. It
+harmonises and merges soil moisture retrievals from multiple satellites into
+(i) an active-microwave-based-only product, (ii) a passive-microwave-based-only product and (iii) a combined
+active–passive product, which are sampled to daily global images on a
+0.25∘ regular grid. Since its first release in 2012 the algorithm has
+undergone substantial improvements which have so far not been thoroughly
+reported in the scientific literature. This paper fills this gap by reviewing
+and discussing the science behind the three major ESA CCI SM merging
+algorithms, versions 2 (https://doi.org/10.5285/3729b3fbbb434930bf65d82f9b00111c;
+Wagner et al., 2018), 3 (https://doi.org/10.5285/b810601740bd4848b0d7965e6d83d26c;
+Dorigo et al., 2018) and 4 (https://doi.org/10.5285/dce27a397eaf47e797050c220972ca0e;
+Dorigo et al., 2019), and provides an outlook on the expected improvements
+planned for the next algorithm, version 5.
+
+
+**Source:** https://www.semanticscholar.org/paper/879a1756a7e218e4c23511ac84b61ab181ab640a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:13:22.558Z

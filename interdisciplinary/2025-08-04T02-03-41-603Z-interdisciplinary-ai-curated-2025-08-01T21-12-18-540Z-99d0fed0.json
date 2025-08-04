@@ -1,0 +1,13 @@
+# Lectures on modern convex optimization - analysis, algorithms, and engineering applications
+
+**Authors:** A. Ben-Tal, Arkadiaei Semenovich Nemirovskiaei
+
+## Abstract
+This is a book devoted to well-structured and thus efficiently solvable convex optimization problems, with emphasis on conic quadratic and semidefinite programming. The authors present the basic theory underlying these problems as well as their numerous applications in engineering, including synthesis of filters, Lyapunov stability analysis, and structural design. The authors also discuss the complexity issues and provide an overview of the basic theory of state-of-the-art polynomial time interior point methods for linear, conic quadratic, and semidefinite programming. The book's focus on well-structured convex problems in conic form allows for unified theoretical and algorithmical treatment of a wide spectrum of important optimization problems arising in applications.
+
+**Source:** https://www.semanticscholar.org/paper/18e46c9643693de49f26ff92ed18f24ad4c84f7c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:12:18.541Z

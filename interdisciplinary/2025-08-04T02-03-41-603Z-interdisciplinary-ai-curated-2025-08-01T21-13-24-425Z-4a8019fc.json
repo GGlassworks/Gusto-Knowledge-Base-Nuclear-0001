@@ -1,0 +1,13 @@
+# Genetic Algorithms
+
+**Authors:** William F Fulkerson
+
+## Abstract
+. Given an image, there is no unique measure to quantitatively judge the quality of an image enhancement operator. It is also not clear which measure is to be used for the given image. The present work expresses the problem as a multi-objective optimization problem and a methodology has been proposed based on multi-objective genetic algo-rithm (MOGA). The methodology exploits the eﬀectiveness of MOGA for searching global optimal solutions in selecting an appropriate image enhancement operator.
+
+**Source:** https://www.semanticscholar.org/paper/05288a51acac242d8a77d6c4f855d99244af842b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:13:24.426Z

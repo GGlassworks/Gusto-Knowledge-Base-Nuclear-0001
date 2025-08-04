@@ -1,0 +1,12 @@
+# A New Approach to Galaxy Morphology: I. Analysis of the Sloan Digital Sky Survey Early Data Release
+
+**Authors:** Roberto Abraham, Sidney van den Bergh, Preethi Nair
+
+## Summary
+In this paper we present a new statistic for quantifying galaxy morphology based on measurements of the Gini coefficient of galaxy light distributions. This statistic is easy to measure and is commonly used in econometrics to measure how wealth is distributed in human populations. When applied to galaxy images, the Gini coefficient provides a quantitative measure of the inequality with which a galaxy's light is distributed amongst its constituent pixels. We measure the Gini coefficient of local galaxies in the Early Data Release of the Sloan Digital Sky Survey and demonstrate that this quantity is closely correlated with measurements of central concentration, but with significant scatter. This scatter is almost entirely due to variations in the mean surface brightness of galaxies. By exploring the distribution of galaxies in the three-dimensional parameter space defined by the Gini coefficient, central concentration, and mean surface brightness, we show that all nearby galaxies lie on a well-defined two-dimensional surface (a slightly warped plane) embedded within a three-dimensional parameter space. By associating each galaxy sample with the equation of this plane, we can encode the morphological composition of the entire SDSS g-band sample using the following three numbers: 22.451, 5.366, 7.010. The i-band sample is encoded as: 22.149, 5.373, and 7.627.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph
+Collected: 2025-08-01T10:24:34.321Z

@@ -1,0 +1,12 @@
+# Automated crater detection with human level performance
+
+**Authors:** Christopher Lee, James Hogan
+
+## Summary
+Crater cataloging is an important yet time-consuming part of geological mapping. We present an automated Crater Detection Algorithm (CDA) that is competitive with expert-human researchers and hundreds of times faster. The CDA uses multiple neural networks to process digital terrain model and thermal infra-red imagery to identify and locate craters across the surface of Mars. We use additional post-processing filters to refine and remove potential false crater detections, improving our precision and recall by 10% compared to Lee (2019). We now find 80% of known craters above 3km in diameter, and identify 7,000 potentially new craters (13% of the identified craters). The median differences between our catalog and other independent catalogs is 2-4% in location and diameter, in-line with other inter-catalog comparisons. The CDA has been used to process global terrain maps and infra-red imagery for Mars, and the software and generated global catalog are available at https://doi.org/10.5683/SP2/CFUNII.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph.EP
+Collected: 2025-08-01T10:18:24.238Z

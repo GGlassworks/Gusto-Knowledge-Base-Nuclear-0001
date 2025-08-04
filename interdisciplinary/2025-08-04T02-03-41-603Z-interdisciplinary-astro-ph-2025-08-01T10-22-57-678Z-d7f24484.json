@@ -1,0 +1,12 @@
+# Cancellation of GLONASS signals from Radio Astronomy Data
+
+**Authors:** S W Ellingson, J D Bunton, J F Bell
+
+## Summary
+Astronomers use the 1612 MHz OH spectral line emission as a unique window on properties of evolved stars, galactic dynamics, and putative proto-planetary disk systems around young stars. In recent years, experiments using this OH line have become more difficult because radio telescopes are very sensitive to transmissions from the GLONASS satellite system. The weak astronomical signals are often undetectable in the presence of these unwanted human generated signals. In this paper we demonstrate that GLONASS narrow band signals may be removed using digital signal processing in a manner that is robust and non-toxic to the weak astronomy signals, without using a reference antenna. We present results using real astronomy data and outline the steps required to implement useful systems on radio telescopes.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph
+Collected: 2025-08-01T10:22:57.678Z

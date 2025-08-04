@@ -1,0 +1,13 @@
+# OpenMM 7: Rapid development of high performance algorithms for molecular dynamics
+
+**Authors:** P. Eastman, Jason M. Swails, J. Chodera, R. McGibbon, Yutong Zhao, Kyle A. Beauchamp, Lee‐Ping Wang, Andrew C. Simmonett, M. Harrigan, Chaya D. Stern, Rafal P. Wiewiora, B. Brooks, V. Pande
+
+## Abstract
+OpenMM is a molecular dynamics simulation toolkit with a unique focus on extensibility. It allows users to easily add new features, including forces with novel functional forms, new integration algorithms, and new simulation protocols. Those features automatically work on all supported hardware types (including both CPUs and GPUs) and perform well on all of them. In many cases they require minimal coding, just a mathematical description of the desired function. They also require no modification to OpenMM itself and can be distributed independently of OpenMM. This makes it an ideal tool for researchers developing new simulation methods, and also allows those new methods to be immediately available to the larger community.
+
+**Source:** https://www.semanticscholar.org/paper/91d4c8e1167f50b90a4f3f936af5a57bec7a3058
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:16:56.183Z

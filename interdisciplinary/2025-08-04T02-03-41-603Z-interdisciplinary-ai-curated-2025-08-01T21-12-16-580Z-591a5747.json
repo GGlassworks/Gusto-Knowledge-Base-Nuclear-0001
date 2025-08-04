@@ -1,0 +1,13 @@
+# Model-Based Battery Thermal Fault Diagnostics: Algorithms, Analysis, and Experiments
+
+**Authors:** Satadru Dey, H. Perez, S. Moura
+
+## Abstract
+Safety and reliability remain critical issues for lithium-ion (Li-ion) batteries. Out of many possible degradation modes, thermal faults constitute a significant part of critical causes that lead to battery degradation and failure. Therefore, it is extremely important to diagnose these thermal faults in real time to ensure battery safety. Motivated by this fact, we propose a partial differential equation (PDE) model-based real-time scheme in this paper for diagnosing thermal faults in Li-ion batteries. The objective of the diagnostic scheme is to detect and estimate the size of the thermal fault. We utilize a distributed parameter 1-D thermal model for cylindrical battery cells in conjunction with PDE observer-based techniques to design the scheme. Furthermore, we apply threshold-based technique to ensure robustness against modeling and measurement uncertainties. The effectiveness of the scheme is illustrated by: 1) analytical convergence verification of the PDE observers under heathy and faulty conditions utilizing Lyapunov stability theory; 2) extensive simulation case studies; 3) robustness analysis against model parametric uncertainties; and 4) experimental studies on a commercial Li-ion battery cell.
+
+**Source:** https://www.semanticscholar.org/paper/305a4b92d2b248f881219ec811be1db440d982ed
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:12:16.581Z

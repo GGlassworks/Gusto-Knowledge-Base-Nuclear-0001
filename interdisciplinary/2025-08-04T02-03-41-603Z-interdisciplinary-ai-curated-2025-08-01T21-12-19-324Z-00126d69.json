@@ -1,0 +1,13 @@
+# Methods and Algorithms for Correlation Analysis in R
+
+**Authors:** D. Makowski, Mattan S. Ben-Shachar, Indrajeet Patil, D. Lüdecke
+
+## Abstract
+Correlations tests are arguably one of the most commonly used statistical procedures, and are used as a basis in many applications such as exploratory data analysis, structural modelling, data engineering etc. In this context, we present correlation, a toolbox for the R language (R Core Team, 2019) and part of the easystats collection, focused on correlation analysis. Its goal is to be lightweight, easy to use, and allows for the computation of many different kinds of correlations, such as:
+
+**Source:** https://www.semanticscholar.org/paper/f35e1e920e7d85dd4b54aadc1b4dc57dadf15778
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:12:19.325Z

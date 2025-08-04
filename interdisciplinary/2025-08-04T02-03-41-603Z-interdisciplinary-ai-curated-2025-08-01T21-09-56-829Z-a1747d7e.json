@@ -1,0 +1,24 @@
+# Large language models for automated Q&A involving legal documents: a survey on algorithms, frameworks and applications
+
+**Authors:** Xiaoxian Yang, Zhifeng Wang, Qi Wang, Ke Wei, Kaiqi Zhang, Jiangang Shi
+
+## Abstract
+Purpose
+This study aims to adopt a systematic review approach to examine the existing literature on law and LLMs.It involves analyzing and synthesizing relevant research papers, reports and scholarly articles that discuss the use of LLMs in the legal domain. The review encompasses various aspects, including an analysis of LLMs, legal natural language processing (NLP), model tuning techniques, data processing strategies and frameworks for addressing the challenges associated with legal question-and-answer (Q&A) systems. Additionally, the study explores potential applications and services that can benefit from the integration of LLMs in the field of intelligent justice.
+
+Design/methodology/approach
+This paper surveys the state-of-the-art research on law LLMs and their application in the field of intelligent justice. The study aims to identify the challenges associated with developing Q&A systems based on LLMs and explores potential directions for future research and development. The ultimate goal is to contribute to the advancement of intelligent justice by effectively leveraging LLMs.
+
+Findings
+To effectively apply a law LLM, systematic research on LLM, legal NLP and model adjustment technology is required.
+
+Originality/value
+This study contributes to the field of intelligent justice by providing a comprehensive review of the current state of research on law LLMs.
+
+
+**Source:** https://www.semanticscholar.org/paper/87f2db760cb864deb8c9f2cce93bd4dc2984969d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:09:56.835Z

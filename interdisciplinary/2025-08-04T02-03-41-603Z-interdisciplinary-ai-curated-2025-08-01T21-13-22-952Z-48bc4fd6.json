@@ -1,0 +1,13 @@
+# A Database and Evaluation Methodology for Optical Flow
+
+**Authors:** Simon Baker, D. Scharstein, J. P. Lewis, S. Roth, Michael J. Black, R. Szeliski
+
+## Abstract
+The quantitative evaluation of optical flow algorithms by Barron et al. (1994) led to significant advances in performance. The challenges for optical flow algorithms today go beyond the datasets and evaluation methods proposed in that paper. Instead, they center on problems associated with complex natural scenes, including nonrigid motion, real sensor noise, and motion discontinuities. We propose a new set of benchmarks and evaluation methods for the next generation of optical flow algorithms. To that end, we contribute four types of data to test different aspects of optical flow algorithms: (1) sequences with nonrigid motion where the ground-truth flow is determined by tracking hidden fluorescent texture, (2) realistic synthetic sequences, (3) high frame-rate video used to study interpolation error, and (4) modified stereo sequences of static scenes. In addition to the average angular error used by Barron et al., we compute the absolute flow endpoint error, measures for frame interpolation error, improved statistics, and results at motion discontinuities and in textureless regions. In October 2007, we published the performance of several well-known methods on a preliminary version of our data to establish the current state of the art. We also made the data freely available on the web at http://vision.middlebury.edu/flow/. Subsequently a number of researchers have uploaded their results to our website and published papers using the data. A significant improvement in performance has already been achieved. In this paper we analyze the results obtained to date and draw a large number of conclusions from them.
+
+**Source:** https://www.semanticscholar.org/paper/804836b8ad86ef8042e3dcbd45442a52f031ee03
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:13:22.954Z

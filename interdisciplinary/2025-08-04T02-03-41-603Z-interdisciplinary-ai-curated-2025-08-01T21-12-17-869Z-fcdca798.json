@@ -1,0 +1,13 @@
+# Numerical Methods for Conservation Laws: From Analysis to Algorithms
+
+**Authors:** J. Hesthaven
+
+## Abstract
+The modeling of many problems in the applied sciences and engineering is based on concepts of conservation of mass, momentum and energy, leading to systems of conservation laws. Prominent examples are the Maxwell equations of electromagnetics, the Euler and Navier-Stokes equations of fluid dynamics and equations of elasticity and the systems of magnetohydrodynamics of plasma physics. In this course we develop, analyse and apply computational methods suitable for solving systems of conservation laws. We begin by discussing fundamental properties of conservation laws, including their ability to generate non-smooth solutions shocks from smooth initial conditions, leading to the introduction of weak solutions and entropy conditions. We initiate the discussion of computational methods by finite difference methods for conservation laws and introduce the concept of monotone schemes and the consequences of this. This is followed by a thorough discussion of finite volume methods, including Godunov's methods, monotone fluxes, accuracy, and stability of such methods. We then begin the discussion of methods of higher order accuracy, first by understanding why higher order accuracy is of interest. This sets the stage for the introduction of limiter based schemes with a particular emphasis on the MUSCL scheme. Subsequently, we discuss in detail essentially non-oscillatory (ENO) and weighted essentially non-oscillatory (WENO) methods and their fundamental properties. Higher order in time is achieved through the development of strongly stable Runge-Kutta methods (SSP-RK). As a final extension to more geneal problems, we develop discontinuous Galerkin methods as a very general and robust high-order accurate extension of finite volume methods. We study these methods in some detail, including their mathematical properties. Throughout the course there will be an emphasis on mastering mathematical as well as computational aspects of the different methods.
+
+**Source:** https://www.semanticscholar.org/paper/ca46c28ef834d57af1a0ce1d6393cca1c8395acb
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:12:17.870Z

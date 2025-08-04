@@ -1,0 +1,17 @@
+# Anytime Heuristic Search: Frameworks and Algorithms
+
+**Authors:** J. Thayer, Wheeler Ruml
+
+## Abstract
+
+ 
+ Anytime search is a pragmatic approach for trading solution cost and solving time. It can also be used for solving problems within a time bound. Three frameworks for constructing anytime algorithms from bounded suboptimal search have been proposed: continuing search, repairing search, and restarting search, but what combination of suboptimal search and anytime framework performs best? An extensive empirical evaluation results in several novel algorithms and reveals that the relative performance of frameworks is essentially fixed, with the repairing framework having the strongest overall performance. As part of our study, we present two enhancements to Anytime Window A* that allow it to solve a wider range of problems and hastens its convergance on optimal solutions.
+ 
+
+
+**Source:** https://www.semanticscholar.org/paper/8719e5b880c1e6cb810ee58bfbe498c681fe3d62
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:09:59.622Z

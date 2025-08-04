@@ -1,0 +1,13 @@
+# Metaheuristic Algorithms on Feature Selection: A Survey of One Decade of Research (2009-2019)
+
+**Authors:** Prachi Agrawal, Hattan F. Abutarboush, T. Ganesh, A. W. Mohamed
+
+## Abstract
+Feature selection is a critical and prominent task in machine learning. To reduce the dimension of the feature set while maintaining the accuracy of the performance is the main aim of the feature selection problem. Various methods have been developed to classify the datasets. However, metaheuristic algorithms have achieved great attention in solving numerous optimization problem. Therefore, this paper presents an extensive literature review on solving feature selection problem using metaheuristic algorithms which are developed in the ten years (2009-2019). Further, metaheuristic algorithms have been classified into four categories based on their behaviour. Moreover, a categorical list of more than a hundred metaheuristic algorithms is presented. To solve the feature selection problem, only binary variants of metaheuristic algorithms have been reviewed and corresponding to their categories, a detailed description of them explained. The metaheuristic algorithms in solving feature selection problem are given with their binary classification, name of the classifier used, datasets and the evaluation metrics. After reviewing the papers, challenges and issues are also identified in obtaining the best feature subset using different metaheuristic algorithms. Finally, some research gaps are also highlighted for the researchers who want to pursue their research in developing or modifying metaheuristic algorithms for classification. For an application, a case study is presented in which datasets are adopted from the UCI repository and numerous metaheuristic algorithms are employed to obtain the optimal feature subset.
+
+**Source:** https://www.semanticscholar.org/paper/f0d4ddf7167d03d0992844bc29f4c1586f37841e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:15:40.244Z

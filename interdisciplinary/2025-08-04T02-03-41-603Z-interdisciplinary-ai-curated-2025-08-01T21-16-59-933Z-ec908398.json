@@ -1,0 +1,13 @@
+# Development of sEMG sensors and algorithms for silent speech recognition
+
+**Authors:** Geoffrey S. Meltzner, J. Heaton, Yunbin Deng, G. De Luca, Serge H. Roy, Joshua C. Kline
+
+## Abstract
+Objective. Speech is among the most natural forms of human communication, thereby offering an attractive modality for human–machine interaction through automatic speech recognition (ASR). However, the limitations of ASR—including degradation in the presence of ambient noise, limited privacy and poor accessibility for those with significant speech disorders—have motivated the need for alternative non-acoustic modalities of subvocal or silent speech recognition (SSR). Approach. We have developed a new system of face- and neck-worn sensors and signal processing algorithms that are capable of recognizing silently mouthed words and phrases entirely from the surface electromyographic (sEMG) signals recorded from muscles of the face and neck that are involved in the production of speech. The algorithms were strategically developed by evolving speech recognition models: first for recognizing isolated words by extracting speech-related features from sEMG signals, then for recognizing sequences of words from patterns of sEMG signals using grammar models, and finally for recognizing a vocabulary of previously untrained words using phoneme-based models. The final recognition algorithms were integrated with specially designed multi-point, miniaturized sensors that can be arranged in flexible geometries to record high-fidelity sEMG signal measurements from small articulator muscles of the face and neck. Main results. We tested the system of sensors and algorithms during a series of subvocal speech experiments involving more than 1200 phrases generated from a 2200-word vocabulary and achieved an 8.9%-word error rate (91.1% recognition rate), far surpassing previous attempts in the field. Significance. These results demonstrate the viability of our system as an alternative modality of communication for a multitude of applications including: persons with speech impairments following a laryngectomy; military personnel requiring hands-free covert communication; or the consumer in need of privacy while speaking on a mobile phone in public.
+
+**Source:** https://www.semanticscholar.org/paper/a4c433a55a5071ec31bea12a5af66c7fbcf32da9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:16:59.934Z

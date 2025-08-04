@@ -1,0 +1,13 @@
+# Semiring Frameworks and Algorithms for Shortest-Distance Problems
+
+**Authors:** Mehryar Mohri
+
+## Abstract
+We define general algebraic frameworks for shortest-distance problems based on the structure of semirings. We give a generic algorithm for finding single-source shortest distances in a weighted directed graph when the weights satisfy the conditions of our general semiring framework. The same algorithm can be used to solve efficiently classical shortest paths problems or to find the k-shortest distances in a directed graph. It can be used to solve single-source shortest-distance problems in weighted directed acyclic graphs over any semiring. We examine several semirings and describe some specific instances of our generic algorithms to illustrate their use and compare them with existing methods and algorithms. The proof of the soundness of all algorithms is given in detail, including their pseudocode and a full analysis of their running time complexity.
+
+**Source:** https://www.semanticscholar.org/paper/3860e0242db9b618def3425ab59724711c0345c5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:10:00.726Z

@@ -1,0 +1,12 @@
+# A Fuzzy Logic Based Algorithm for Finding Astronomical Objects in Wide-Angle Frames
+
+**Authors:** Lior Shamir, Robert J. Nemiroff
+
+## Summary
+Accurate automatic identification of astronomical objects in an imperfect world of non-linear wide-angle optics, imperfect optics, inaccurately pointed telescopes, and defect-ridden cameras is not always a trivial first step. In the past few years, this problem has been exacerbated by the rise of digital imaging, providing vast digital streams of astronomical images and data. In the modern age of increasing bandwidth, human identifications are many times impracticably slow. In order to perform an automatic computer-based analysis of astronomical frames, a quick and accurate identification of astronomical objects is required. Such identification must follow a rigorous transformation from topocentric celestial coordinates into image coordinates on a CCD frame. This paper presents a fuzzy logic based algorithm that estimates needed coordinate transformations in a practical setting. Using a training set of reference stars, the algorithm statically builds a fuzzy logic model. At runtime, the algorithm uses this model to associate stellar objects visible in the frames to known-catalogued objects, and generates files that contain photometry information of objects visible in the frame. Use of this algorithm facilitates real-time monitoring of stars and bright transients, allowing identifications and alerts to be issued more reliably. The algorithm is being implemented by the Night Sky Live all-sky monitoring global network and has shown itself significantly more reliable than the previously used non-fuzzy logic algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph
+Collected: 2025-08-01T10:18:21.281Z

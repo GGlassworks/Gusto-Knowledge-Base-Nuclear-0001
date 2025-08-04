@@ -1,0 +1,13 @@
+# SciPy 1.0: fundamental algorithms for scientific computing in Python
+
+**Authors:** Pauli Virtanen, R. Gommers, T. Oliphant, Matt Haberland, Tyler Reddy, D. Cournapeau, Evgeni Burovski, Pearu Peterson, Warren Weckesser, Jonathan Bright, S. J. van der Walt, M. Brett, Joshua Wilson, K. Millman, N. Mayorov, Andrew R. J. Nelson, E. Jones, Robert Kern, Eric Larson, C. Carey, İlhan Polat, Yu Feng, Eric W. Moore, J. Vanderplas, D. Laxalde, Josef Perktold, R. Cimrman, Ian Henriksen, E. Quintero, Charles R. Harris, A. Archibald, Antônio H. Ribeiro, Fabian Pedregosa, P. van Mulbregt, Aditya Alessandro Pietro Alex Andreas Andreas Anthony Ant Vijaykumar Bardelli Rothberg Hilboll Kloeckner Sco, A. Vijaykumar, Alessandro Pietro Bardelli, Alex Rothberg, A. Hilboll, Andre Kloeckner, A. Scopatz, Antony Lee, Ariel S. Rokem, C. N. Woods, Chad Fulton, Charles Masson, C. Häggström, Clark Fitzgerald, D. Nicholson, David R. Hagen, D. Pasechnik, E. Olivetti, Eric Martin, Eric Wieser, Fabrice Silva, F. Lenders, Florian Wilhelm, G. Young, Gavin A. Price, G. Ingold, Gregory E. Allen, Gregory R. Lee, H. Audren, I. Probst, J. Dietrich, J. Silterra, James T. Webber, J. Slavič, J. Nothman, J. Buchner, Johannes Kulick, Johannes L. Schönberger, J. V. De Miranda Cardoso, J. Reimer, J. Harrington, Juan Rodríguez, Juan Nunez-Iglesias, Justin Kuczynski, K. Tritz, M. Thoma, M. Newville, Matthias Kümmerer, Maximilian Bolingbroke, Michael Tartre, M. Pak, Nathaniel J. Smith, N. Nowaczyk, Nikolay Shebanov, O. Pavlyk, P. A. Brodtkorb, Perry Lee, R. McGibbon, Roman Feldbauer, Sam Lewis, S. Tygier, Scott Sievert, S. Vigna, Stefan Peterson, S. More, Tadeusz Pudlik, T. Oshima, T. Pingel, T. Robitaille, Thomas Spura, T. Jones, T. Cera, Tim Leslie, Tiziano Zito, Tom Krauss, U. Upadhyay, Y. Halchenko, Y. Vázquez-Baeza
+
+## Abstract
+SciPy is an open-source scientific computing library for the Python programming language. Since its initial release in 2001, SciPy has become a de facto standard for leveraging scientific algorithms in Python, with over 600 unique code contributors, thousands of dependent packages, over 100,000 dependent repositories and millions of downloads per year. In this work, we provide an overview of the capabilities and development practices of SciPy 1.0 and highlight some recent technical developments. This Perspective describes the development and capabilities of SciPy 1.0, an open source scientific computing library for the Python programming language.
+
+**Source:** https://www.semanticscholar.org/paper/854eca61a57d2c1ea1019663caf022bc8fd0b909
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-04T01:58:07.968Z
