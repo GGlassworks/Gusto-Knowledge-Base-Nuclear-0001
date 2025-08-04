@@ -1,0 +1,13 @@
+# A Solidity implementation of TAVS
+
+**Authors:** Antonio M. Larriba, Damián López
+
+## Abstract
+<jats:p>We present a Solidity smart contract implementation of the TAVS e-voting protocol. The Two Authorities Electronic Voting Scheme (TAVS) is a voting scheme that achieves universal verifiability with a reduced time-complexity both for the elector and the voting system. TAVS security derives from the RSA cryptosystem it employs, and the assumption of two entities that do not share information. We present a Solidity implementation which replaces one of these entities with an immutable smart contract in Ethereum based networks. By doing so, our implementation extends the security properties of TAVS and achieves a higher degree of resilience, verifiability, and availability. We open source the code of the implementation.</jats:p>
+
+**Source:** https://doi.org/10.3389/fbloc.2023.1105119
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T13:13:48.960Z
