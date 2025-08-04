@@ -1,0 +1,13 @@
+# L⁻¹T⁻¹ETL
+
+**Authors:** Donny Winston
+
+## Abstract
+<p>A lot of extract-transform-load (ETL) work requires unloading and un-transforming first. Rather than \(ETL\), it’s \(L_A^{-1}T_A^{-1}ET_BL_B\). What the data provider did is \(A\). What you want to do is \(B\). The data provider gave you a “dump” of their data. You don’t know what it means. If you did, you could extract (subset) from it according to your needs – filter entities by some meaningful criteria and collect selected attributes.</p>
+
+**Source:** https://doi.org/10.59350/hzxpe-she63
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:58:49.389Z

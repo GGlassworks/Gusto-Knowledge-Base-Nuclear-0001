@@ -1,0 +1,13 @@
+# E-ETL: Framework for Managing Evolving ETL Workflows
+
+**Authors:** Artur Wojciechowski
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Data warehouses integrate external data sources (EDSs), which very often change their data structures (schemas). In many cases, such changes cause an erroneous execution of an already deployed ETL workow. Structural changes of EDSs are frequent, therefore an automatic reparation of an ETL workow, after such changes, is of a high importance. This paper presents a framework, called E-ETL, for handling the evolution of an ETL layer. Detection of changes in EDSs causes a repa- ration of the fragment of ETL workow which interacts with the changed EDSs. The proposed framework was developed as a module external to a standard commercial or open-source ETL engine, accessing the engine by means of API. The innovation of this framework consists in: (1) the algorithms for semi-automatic reparation of an ETL workow and (2) its ability to interact with various ETL engines that provide API.</jats:p>
+
+**Source:** https://doi.org/10.2478/fcds-2013-0005
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:58:47.331Z
