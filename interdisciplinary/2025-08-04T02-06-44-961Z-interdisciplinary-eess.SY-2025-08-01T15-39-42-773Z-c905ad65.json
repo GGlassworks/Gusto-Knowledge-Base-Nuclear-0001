@@ -1,0 +1,12 @@
+# Analysis and Modeling of the Hybrid Vessel's Electrical Power System
+
+**Authors:** Matthijs Mosselaar, Zoran Malbašić, Aihui Fu, Aleksandra Lekić
+
+## Summary
+With the maritime industry poised on the cusp of a hybrid revolution, the design and analysis of advanced vessel systems have become paramount for engineers. This paper presents AC and DC electrical hybrid power system models in ETAP, the simulation software that can be adapted to engineer future hybrid vessels. These models are also a step towards a digital twin model that can help in troubleshooting and preventing issues, reducing risk and engineering time. The testing of the models is focused on time domain analysis, short-circuit currents, and protection \&amp; coordination. The models are based on actual vessels and manufacturer parameters are used where available.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T15:39:42.774Z

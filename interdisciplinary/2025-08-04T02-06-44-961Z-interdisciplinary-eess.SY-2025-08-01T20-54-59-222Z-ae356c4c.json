@@ -1,0 +1,12 @@
+# Comparative Withholding Behavior Analysis of Historical Energy Storage Bids in California
+
+**Authors:** Neal Ma, Ningkun Zheng, Ning Qi, Bolun Xu
+
+## Summary
+The rapid growth of battery energy storage in wholesale electricity markets calls for a deeper understanding of storage operators' bidding strategies and their market impacts. This study examines energy storage bidding data from the California Independent System Operator (CAISO) between July 1, 2023, and October 1, 2024, with a primary focus on economic withholding strategies. Our analysis reveals that storage bids are closely aligned with day-ahead and real-time market clearing prices, with notable bid inflation during price spikes. Statistical tests demonstrate a strong correlation between price spikes and capacity withholding, indicating that operators can anticipate price surges and use market volatility to increase profitability. Comparisons with optimal hindsight bids further reveal a clear daily periodic bidding pattern, highlighting extensive economic withholding. These results underscore potential market inefficiencies and highlight the need for refined regulatory measures to address economic withholding as storage capacity in the market continues to grow.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T20:54:59.223Z

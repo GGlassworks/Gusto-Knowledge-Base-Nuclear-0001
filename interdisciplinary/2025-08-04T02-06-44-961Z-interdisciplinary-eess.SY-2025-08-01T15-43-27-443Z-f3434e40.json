@@ -1,0 +1,12 @@
+# Partitioning Distribution Networks for Integrated Electrification Planning
+
+**Authors:** Olamide Oladeji, Pedro Ciller Cutillas, Fernando de Cuadra, Ignacio Perez-Arriaga
+
+## Summary
+In many developing countries, access to electricity remains a significant challenge. Electrification planners in these countries often have to make important decisions on the mode of electrification and the planning of electrical networks for those without access, while under resource constraints. An integrated approach to electrification planning in which traditional grid electrification is complemented off-the-grid technologies such as off-grid microgrids and stand-alone systems can enable the economic provision of electricity access in these regions. This integrated planning approach can be facilitated by determining the least-cost mode of electrification - i.e by electric grid extension or off-grid systems - for non-electrified consumers in a region under analysis, while considering technical, economic and environmental constraints. Computational clustering methods the identification of consumer clusters (either as clusters of off-grid microgrids, stand-alone systems or grid-extension projects) can be undertaken using computational clustering methods. This paper presents a novel computational approach to achieve this purpose. This methodology involves exploiting the grid network that connects all consumers, by greedily partitioning the network to identify clusters of consumers to be electrified by grid-extension and off-grid microgrid systems. Using test cases and sensitivity analyses, we implement and benchmark this top-down approach with those obtained from a bottom-up clustering methodology used by the Reference Electrification Model, a model obtainable in literature. Results presented show that the alternative top-down methodology proposed can compare favorably, in terms of global electrification costs, with a bottom-up approach to rural electrification planning.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T15:43:27.444Z

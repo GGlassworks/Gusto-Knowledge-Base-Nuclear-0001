@@ -1,0 +1,12 @@
+# A Methodology for Transformer Ratio Adjustment in Small-Size Rotary Transformers
+
+**Authors:** Saeed Hajmohammadi, MohammadSadegh KhajueeZadeh, Farid Tootoonchian, Sajjad Mohammadi
+
+## Summary
+This study addresses a neglected challenge that has been hidden in the Rotary Transformer (RT) field: the possibility of a discrepancy between transformer ratio and turn number ratio in small-size transformers. Previous investigations have shown that in the geometry design of RTs, as well as their resonant circuit design, the transformer ratio has been regarded as the same as the turn number ratio. This estimation is logical and true when a large-size RT is investigated. However, in small-size RTs, the magnitudes of leakage and magnetization inductances are significantly close, which leads to a difference between transformer ratio and turn number ratio. Accordingly, the absence of an exact methodology for transformer ratio calculation brought us to conduct this investigation. In this regard, a transformer ratio adjustment is suggested after proposing a low-error magnetic model. Its accuracy is high enough to consider different air gaps and subsequently calculate inductance with reference to 3D finite element analysis (3D-FEA). Finally, we take advantage of a test bench to show the exactness and proficiency of the suggested transformer ratio adjustment.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T11:58:38.638Z

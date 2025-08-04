@@ -1,0 +1,12 @@
+# Improving transferability between different engineering stages in the development of automated material flow modules
+
+**Authors:** Daniel Regulin, Thomas Aicher, Birgit Vogel-Heuser
+
+## Summary
+For improving flexibility and robustness of the engineering of automated production systems (aPS) in case of extending, reducing or modifying parts, several approaches propose an encapsulation and clustering of related functions, e.g. from the electrical, mechanical or software engineering, based on a modular architecture. Considering the development of these modules, there are different stages, e.g. module planning or functional engineering, which have to be completed. A reference model that addresses the different stages for the engineering of aPS is proposed by AutomationML. Due to these different stages and the integration of several engineering disciplines, e.g. mechanical, electrical/electronic or software engineering, information not limited to one discipline are stored redundantly increasing the effort to transfer information and the risk of inconsistency. Although, data formats for the storage and exchange of plant engineering information exist, e.g. AutomationML, fixed domain specific structures and relations of the information, e.g. for automated material flow systems (aMFS), are missing. This paper presents the integration of a meta model into the development of modules for aMFS to improve the transferability and consistency of information between the different engineering stages and the increasing level of detail from the coarse-grained plant planning to the fine-grained functional engineering.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T15:39:43.096Z

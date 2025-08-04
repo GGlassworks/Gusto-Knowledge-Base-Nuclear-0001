@@ -1,0 +1,12 @@
+# Analysis of human steering behavior differences in human-in-control and autonomy-in-control driving
+
+**Authors:** Rene Mai, Agung Julius, Sandipan Mishra
+
+## Summary
+Steering models (such as the generalized two-point model) predict human steering behavior well when the human is in direct control of a vehicle. In vehicles under autonomous control, human control inputs are not used; rather, an autonomous controller applies steering and acceleration commands to the vehicle. For example, human steering input may be used for state estimation rather than direct control. We show that human steering behavior changes when the human no longer directly controls the vehicle and the two are instead working in a shared autonomy paradigm. Thus, when a vehicle is not under direct human control, steering models like the generalized two-point model do not predict human steering behavior. We also show that the error between predicted human steering behavior and actual human steering behavior reflects a fundamental difference when the human directly controls the vehicle compared to when the vehicle is autonomously controlled. Moreover, we show that a single distribution describes the error between predicted human steering behavior and actual human steering behavior when the human's steering inputs are used for state estimation and the vehicle is autonomously controlled, indicating there may be a underlying model for human steering behavior under this type of shared autonomous control. Future work includes determining this shared autonomous human steering model and demonstrating its performance.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:24:46.528Z

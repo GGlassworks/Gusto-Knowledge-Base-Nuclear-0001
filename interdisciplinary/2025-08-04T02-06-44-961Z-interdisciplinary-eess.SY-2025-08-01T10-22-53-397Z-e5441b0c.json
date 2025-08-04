@@ -1,0 +1,12 @@
+# Continuity of Thresholded Mode-Switched ODEs and Digital Circuit Delay Models
+
+**Authors:** Arman Ferdowsi, Matthias Függer, Thomas Nowak, Ulrich Schmid
+
+## Summary
+Thresholded mode-switched ODEs are restricted dynamical systems that switch ODEs depending on digital input signals only, and produce a digital output signal by thresholding some internal signal. Such systems arise in recent digital circuit delay models, where the analog signals within a gate are governed by ODEs that change depending on the digital inputs. We prove the continuity of the mapping from digital input signals to digital output signals for a large class of thresholded mode-switched ODEs. This continuity property is known to be instrumental for ensuring the faithfulness of the model w.r.t. propagating short pulses. We apply our result to several instances of such digital delay models, thereby proving them to be faithful.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:22:53.397Z

@@ -1,0 +1,12 @@
+# A Digital Twin Approach for Adaptive Compliance in Cyber-Physical Systems: Case of Smart Warehouse Logistics
+
+**Authors:** Nan Zhang, Rami Bahsoon, Nikos Tziritas, Georgios Theodoropoulos
+
+## Summary
+Engineering regulatory compliance in complex Cyber-Physical Systems (CPS), such as smart warehouse logistics, is challenging due to the open and dynamic nature of these systems, scales, and unpredictable modes of human-robot interactions that can be best learnt at runtime. Traditional offline approaches for engineering compliance often involve modelling at a higher, more abstract level (e.g. using languages like SysML). These abstract models only support analysis in offline-designed and simplified scenarios. However, open and complex systems may be unpredictable, and their behaviours are difficult to be fully captured by abstract models. These systems may also involve other business goals, possibly conflicting with regulatory compliance. To overcome these challenges, fine-grained simulation models are promising to complement abstract models and support accurate runtime predictions and performance evaluation with trade-off analysis. The novel contribution of this work is a Digital Twin-oriented architecture for adaptive compliance leveraging abstract goal modelling, fine-grained agent-based modelling and runtime simulation for managing compliance trade-offs. A case study from smart warehouse logistics is used to demonstrate the approach considering safety and productivity trade-offs.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:22:43.857Z

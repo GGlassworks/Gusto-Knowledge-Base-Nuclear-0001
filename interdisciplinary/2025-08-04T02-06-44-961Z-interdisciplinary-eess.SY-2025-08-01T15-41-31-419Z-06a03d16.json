@@ -1,0 +1,12 @@
+# A novel ML-fuzzy control system for optimizing PHEV fuel efficiency and extending electric range under diverse driving conditions
+
+**Authors:** Mehrdad Raeesi, Saba Mansour, Sina Changizian
+
+## Summary
+Aiming for a greener transportation future, this study introduces an innovative control system for plug-in hybrid electric vehicles (PHEVs) that utilizes machine learning (ML) techniques to forecast energy usage in the pure electric mode of the vehicle and optimize power allocation across different operational modes, including pure electric, series hybrid, parallel hybrid, and internal combustion operation. The fuzzy logic decision-making process governs the vehicle control system. The performance was assessed under various driving conditions. Key findings include a significant enhancement in pure electric mode efficiency, achieving an extended full-electric range of approximately 84 kilometers on an 80% utilization of a 20-kWh battery pack. During the WLTC driving cycle, the control system reduced fuel consumption to 2.86 L/100km, representing a 20% reduction in gasoline-equivalent fuel consumption. Evaluations of vehicle performance at discrete driving speeds, highlighted effective energy management, with the vehicle battery charging at lower speeds and discharging at higher speeds, showing optimized energy recovery and consumption strategies. Initial battery charge levels notably influenced vehicle performance. A 90% initial charge enabled prolonged all-electric operation, minimizing fuel consumption to 2 L/100km less than that of the base control system. Real-world driving pattern analysis revealed significant variations, with shorter, slower cycles requiring lower fuel consumption due to prioritized electric propulsion, while longer, faster cycles increased internal combustion engine usage. The control system also adapted to different battery state of health (SOH) conditions, with higher SOH facilitating extended electric mode usage, reducing total fuel consumption by up to 2.87 L/100km.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T15:41:31.420Z

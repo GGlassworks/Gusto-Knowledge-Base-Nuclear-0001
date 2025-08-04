@@ -1,0 +1,12 @@
+# Automated data-driven creation of the Digital Twin of a brownfield plant
+
+**Authors:** Dominik Braun, Wolfgang Schloegl, Michael Weyrich
+
+## Summary
+The success of the reconfiguration of existing manufacturing systems, so called brownfield systems, heavily relies on the knowledge about the system. Reconfiguration can be planned, supported and simplified with the Digital Twin of the system providing this knowledge. However, digital models as the basis of a Digital Twin are usually missing for these plants. This article presents a data-driven approach to gain knowledge about a brownfield system to create the digital models of a Digital Twin and their relations. Finally, a proof of concept shows that process data and position data as data sources deliver the relations between the models of the Digital Twin.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:22:54.725Z

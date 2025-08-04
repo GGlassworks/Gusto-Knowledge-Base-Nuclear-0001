@@ -1,0 +1,12 @@
+# Allocation of locally generated electricity in renewable energy communities
+
+**Authors:** Miguel Manuel de Villena, Samy Aittahar, Sebastien Mathieu, Ioannis Boukas, Eric Vermeulen, Damien Ernst
+
+## Summary
+Local electricity markets represent a way of supplementing traditional retailing contracts for end consumers -- among these markets, the renewable energy community has gained momentum over the last few years. This paper proposes a practical and readily to be adopted modelling solution for these communities, one that allows their members to share the economic benefits derived from them. The proposed solution relies on an \emph{ex-post} allocation of the electricity that is generated within energy communities (i.e., local electricity) based on the optimisation of \emph{repartition keys}. Repartition keys are therefore optimally computed to represent the proportion of total local electricity to be allocated to each community member, and aim to minimise the sum of electricity bills of all community members. Since the optimisation takes place \emph{ex-post} the repartition keys do not modify the actual electricity flows, but rather the financial flows of the community members. Then, the billing process of the community will take these keys into account to correctly send the electricity bills to each member. Building on this concept, we also introduce two additions to the basic algorithm to enhance the stability of the community, which a global bill minimisation may fail to ensure (e.g., very asymmetrical solutions between members may lead to some of them opting out).
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T15:38:41.728Z

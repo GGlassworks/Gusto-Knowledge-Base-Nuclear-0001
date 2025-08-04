@@ -1,0 +1,12 @@
+# Framework to model virtual factories: a digital twin view
+
+**Authors:** Ali Ahmad Malik
+
+## Summary
+The digital twin has emerged as a technology to predict the undesirables, and ensure desired performance of complex systems. Although digital twins have got attention in the manufacturing research spectrum, yet their industrial application has been limited. Virtual simulations are considered an integral part of a digital twin, but a challenge is the lack of structured approaches to creating simulation models that can be extended as a digital twin. At the same time, the virtual models need to be accurate and flexible enough to be updated along the life cycle of the factory as desired in a digital twin. This paper presents a framework for virtual modeling of factories that can be extended as a digital twin. The case of a manufacturing company is presented to model and simulate a manufacturing system in a structured yet flexible way.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:21:08.878Z

@@ -1,0 +1,12 @@
+# High-Fidelity Model of Stand-Alone Diesel Electric Generator with Hybrid Turbine-Governor Configuration for Microgrid Studies
+
+**Authors:** Chinmay Shah, Mariko Shirazi, Richard Wies, Phylicia Cicilio, Timothy Hansen, Reinaldo Tonkoski
+
+## Summary
+Diesel electric generators are an inherent part of remote hybrid microgrids found in remote regions of the world that provide primary frequency response (PFR) to restore system frequency during load or generation changes. However, with inverter-based resources (IBR) integration into microgrids, the IBR control provides a fast frequency response (FFR) to restore the system frequency. Hence, supplementing PFR with FFR requires a sophisticated control system and a high fidelity diesel electric generator model to design these control systems. In this work, a high-fidelity model of a diesel electric generator is developed. Its parameters are tuned using a surrogate optimization algorithm by emulating its response during a load change to a 400 kVA Caterpillar C-15 diesel generator, similar to those found in remote microgrids. The diesel electric generator model consists of a synchronous machine, DC4B excitation with V/Hz limiter, and a proposed modified IEEE GGOV1 engine-governor model (GGOV1D). The performance of the GGOV1D is compared with simple, Woodward DEGOV, and a standard IEEE GGOV1 engine-governor model. Results show that error in the diesel electric generator's response to load changes using the GGOV1D model is lower with an improved frequency response during the arresting and rebound period than the other engine-governor models.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T15:38:41.144Z

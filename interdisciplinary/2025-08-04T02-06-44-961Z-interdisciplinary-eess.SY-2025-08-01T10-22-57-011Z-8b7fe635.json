@@ -1,0 +1,12 @@
+# Reliability and Safety Modeling of a Digital Feed Water Control System
+
+**Authors:** Shawkat S. Khairullah, Ahmed A. Mostfa
+
+## Summary
+Much digital instrumentation and control systems embedded in the critical medical healthcare equipment aerospace devices and nuclear industry have obvious consequence of different failure modes. These failures can affect the behavior of the overall safety critical digital system and its ability to deliver its dependability attributes if any defected area that could be a hardware component or software code embedded inside the digital system is not detected and repaired appropriately. The safety and reliability analysis of safety critical systems can be accomplished with Markov modeling techniques which could express the dynamic and regenerative behavior of the digital control system. Certain states in the system represent system failure while others represent fault free behavior or correct operation in the presence of faults. This paper presents the development of a safety and reliability modeling of a digital feedwater control system using Markov based chain models. All the Markov states and the transitions between these states were assumed and calculated from the control logic for the digital control system. Finally based on the simulation results of modeling the digital feedwater control system the system does meet its reliability requirement with the probability of being in fully operational states is 0.99 over a 6 months time.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:22:57.011Z
