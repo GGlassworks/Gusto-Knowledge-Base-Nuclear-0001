@@ -1,0 +1,13 @@
+# Usage and comparison of artificial intelligence algorithms for determination of growth and development by cervical vertebrae stages in orthodontics
+
+**Authors:** Hatice Kök, Ayşe Merve Acılar, Mehmet Said İzgi
+
+## Abstract
+Growth and development can be determined by cervical vertebrae stages that were defined on the cephalometric radiograph. Artificial intelligence has the ability to perform a variety of activities, such as prediction-classification in many areas of life, by using different algorithms, In this study, we aimed to determine cervical vertebrae stages (CVS) for growth and development periods by the frequently used seven artificial intelligence classifiers, and to compare the performance of these algorithms with each other. Cephalometric radiographs, that were obtained from 300 individuals aged between 8 and 17 years were included in our study. Nineteen reference points were defined on second, third, and 4th cervical vertebrae, and 20 different linear measurements were taken. Seven algorithms of artificial intelligence that are frequently used in the field of classification were selected and compared. These algorithms are k-nearest neighbors (k-NN), Naive Bayes (NB), decision tree (Tree), artificial neural networks (ANN), support vector machine (SVM), random forest (RF), and logistic regression (Log.Regr.) algorithms. According to confusion matrices decision tree, CSV1 (97.1%)–CSV2 (90.5%), SVM: CVS3 (73.2%)–CVS4 (58.5%), and kNN: CVS 5 (60.9%)–CVS 6 (78.7%) were the algorithms with the highest accuracy in determining cervical vertebrae stages. The ANN algorithm was observed to have the second-highest accuracy values (93%, 89.7%, 68.8%, 55.6%, and 78%, respectively) in determining all stages except CVS5 (47.4% third highest accuracy value). According to the average rank of the algorithms in predicting the CSV classes, ANN was the most stable algorithm with its 2.17 average rank. In our experimental study, kNN and Log.Regr. algorithms had the lowest accuracy values. SVM-RF-Tree and NB algorithms had varying accuracy values. ANN could be the preferred method for determining CVS.
+
+**Source:** https://www.semanticscholar.org/paper/b3b116adb0e97f4278f51274f30be4def3c4aa44
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T21:16:59.191Z

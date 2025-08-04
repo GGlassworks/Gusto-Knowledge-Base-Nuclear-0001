@@ -1,0 +1,13 @@
+# Recent Methodology-Based Gradient-Based Optimizer for Economic Load Dispatch Problem
+
+**Authors:** S. Deb, D. Abdelminaam, Mokhtar Said, Essam H. Houssein
+
+## Abstract
+Economic load dispatch (ELD) in power system problems involves scheduling the power generating units to minimize cost and satisfy system constraints. Although previous works propose solutions to reduce CO2 emission and production cost, an optimal allocation needs to be considered on both cost and emission—leading to combined economic and emission dispatch (CEED). Metaheuristic optimization algorithms perform relatively well on ELD problems. The gradient-based optimizer (GBO) is a new metaheuristic algorithm inspired by Newton’s method that integrates both the gradient search rule and local escaping operator. The GBO maintains a good balance between exploration and exploitation. Also, the possibility of the GBO getting stuck in local optima and premature convergence is rare. This paper tests the performance of GBO in solving ELD and CEED problems. We test the performance of GBO on ELD for various scenarios such as ELD with transmission losses, CEED and CEED with valve point effect. The experimental results revealed that GBO has been obtained better results compared to eight other metaheuristic algorithms such as Slime mould algorithm (SMA), Elephant herding optimization (EHO), Monarch butterfly optimization (MBO), Moth search algorithm (MSA), Earthworm optimization algorithm (EWA), Artificial Bee Colony (ABC) Algorithm, Tunicate Swarm Algorithm (TSA) and Chimp Optimization Algorithm (ChOA). Therefore, the simulation results showed the competitive performance of GBO as compared to other benchmark algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/a857d377f5e98f8a36eea46819b63ac164d0ba50
+
+---
+Category: economics
+Subcategory: ai-curated
+Collected: 2025-08-01T21:13:24.874Z
