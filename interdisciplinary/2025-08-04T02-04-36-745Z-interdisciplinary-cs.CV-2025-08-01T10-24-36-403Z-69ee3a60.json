@@ -1,0 +1,12 @@
+# The Labeled Multiple Canonical Correlation Analysis for Information Fusion
+
+**Authors:** Lei Gao, Rui Zhang, Lin Qi, Enqing Chen, Ling Guan
+
+## Summary
+The objective of multimodal information fusion is to mathematically analyze information carried in different sources and create a new representation which will be more effectively utilized in pattern recognition and other multimedia information processing tasks. In this paper, we introduce a new method for multimodal information fusion and representation based on the Labeled Multiple Canonical Correlation Analysis (LMCCA). By incorporating class label information of the training samples,the proposed LMCCA ensures that the fused features carry discriminative characteristics of the multimodal information representations, and are capable of providing superior recognition performance. We implement a prototype of LMCCA to demonstrate its effectiveness on handwritten digit recognition,face recognition and object recognition utilizing multiple features,bimodal human emotion recognition involving information from both audio and visual domains. The generic nature of LMCCA allows it to take as input features extracted by any means,including those by deep learning (DL) methods. Experimental results show that the proposed method enhanced the performance of both statistical machine learning (SML) methods, and methods based on DL.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:36.403Z

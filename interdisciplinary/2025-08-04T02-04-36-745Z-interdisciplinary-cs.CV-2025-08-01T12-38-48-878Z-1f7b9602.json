@@ -1,0 +1,12 @@
+# F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation
+
+**Authors:** Hengzhi Chen, Liqian Feng, Wenhua Wu, Xiaogang Zhu, Shawn Leo, Kun Hu
+
+## Summary
+Semantic segmentation of ultra-high-resolution (UHR) remote sensing imagery is critical for applications like environmental monitoring and urban planning but faces computational and optimization challenges. Conventional methods either lose fine details through downsampling or fragment global context via patch processing. While multi-branch networks address this trade-off, they suffer from computational inefficiency and conflicting gradient dynamics during training. We propose F2Net, a frequency-aware framework that decomposes UHR images into high- and low-frequency components for specialized processing. The high-frequency branch preserves full-resolution structural details, while the low-frequency branch processes downsampled inputs through dual sub-branches capturing short- and long-range dependencies. A Hybrid-Frequency Fusion module integrates these observations, guided by two novel objectives: Cross-Frequency Alignment Loss ensures semantic consistency between frequency components, and Cross-Frequency Balance Loss regulates gradient magnitudes across branches to stabilize training. Evaluated on DeepGlobe and Inria Aerial benchmarks, F2Net achieves state-of-the-art performance with mIoU of 80.22 and 83.39, respectively. Our code will be publicly available.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T12:38:48.878Z

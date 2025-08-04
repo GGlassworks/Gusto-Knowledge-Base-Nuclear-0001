@@ -1,0 +1,12 @@
+# Digital and Physical Face Attacks: Reviewing and One Step Further
+
+**Authors:** Chenqi Kong, Shiqi Wang, Haoliang Li
+
+## Summary
+With the rapid progress over the past five years, face authentication has become the most pervasive biometric recognition method. Thanks to the high-accuracy recognition performance and user-friendly usage, automatic face recognition (AFR) has exploded into a plethora of practical applications over device unlocking, checking-in, and financial payment. In spite of the tremendous success of face authentication, a variety of face presentation attacks (FPA), such as print attacks, replay attacks, and 3D mask attacks, have raised pressing mistrust concerns. Besides physical face attacks, face videos/images are vulnerable to a wide variety of digital attack techniques launched by malicious hackers, causing potential menace to the public at large. Due to the unrestricted access to enormous digital face images/videos and disclosed easy-to-use face manipulation tools circulating on the internet, non-expert attackers without any prior professional skills are able to readily create sophisticated fake faces, leading to numerous dangerous applications such as financial fraud, impersonation, and identity theft. This survey aims to build the integrity of face forensics by providing thorough analyses of existing literature and highlighting the issues requiring further attention. In this paper, we first comprehensively survey both physical and digital face attack types and datasets. Then, we review the latest and most advanced progress on existing counter-attack methodologies and highlight their current limits. Moreover, we outline possible future research directions for existing and upcoming challenges in the face forensics community. Finally, the necessity of joint physical and digital face attack detection has been discussed, which has never been studied in previous surveys.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:26:44.642Z

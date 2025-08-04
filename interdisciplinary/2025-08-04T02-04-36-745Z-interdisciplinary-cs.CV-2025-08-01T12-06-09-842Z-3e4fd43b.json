@@ -1,0 +1,12 @@
+# A Novel Measure to Evaluate Generative Adversarial Networks Based on Direct Analysis of Generated Images
+
+**Authors:** Shuyue Guan, Murray Loew
+
+## Summary
+The Generative Adversarial Network (GAN) is a state-of-the-art technique in the field of deep learning. A number of recent papers address the theory and applications of GANs in various fields of image processing. Fewer studies, however, have directly evaluated GAN outputs. Those that have been conducted focused on using classification performance, e.g., Inception Score (IS) and statistical metrics, e.g., Fr\'echet Inception Distance (FID). Here, we consider a fundamental way to evaluate GANs by directly analyzing the images they generate, instead of using them as inputs to other classifiers. We characterize the performance of a GAN as an image generator according to three aspects: 1) Creativity: non-duplication of the real images. 2) Inheritance: generated images should have the same style, which retains key features of the real images. 3) Diversity: generated images are different from each other. A GAN should not generate a few different images repeatedly. Based on the three aspects of ideal GANs, we have designed the Likeness Score (LS) to evaluate GAN performance, and have applied it to evaluate several typical GANs. We compared our proposed measure with two commonly used GAN evaluation methods: IS and FID, and four additional measures. Furthermore, we discuss how these evaluations could help us deepen our understanding of GANs and improve their performance.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T12:06:09.842Z

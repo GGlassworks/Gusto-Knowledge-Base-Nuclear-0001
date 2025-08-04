@@ -1,0 +1,12 @@
+# Tracking Transforming Objects: A Benchmark
+
+**Authors:** You Wu, Yuelong Wang, Yaxin Liao, Fuliang Wu, Hengzhou Ye, Shuiwang Li
+
+## Summary
+Tracking transforming objects holds significant importance in various fields due to the dynamic nature of many real-world scenarios. By enabling systems accurately represent transforming objects over time, tracking transforming objects facilitates advancements in areas such as autonomous systems, human-computer interaction, and security applications. Moreover, understanding the behavior of transforming objects provides valuable insights into complex interactions or processes, contributing to the development of intelligent systems capable of robust and adaptive perception in dynamic environments. However, current research in the field mainly focuses on tracking generic objects. In this study, we bridge this gap by collecting a novel dedicated Dataset for Tracking Transforming Objects, called DTTO, which contains 100 sequences, amounting to approximately 9.3K frames. We provide carefully hand-annotated bounding boxes for each frame within these sequences, making DTTO the pioneering benchmark dedicated to tracking transforming objects. We thoroughly evaluate 20 state-of-the-art trackers on the benchmark, aiming to comprehend the performance of existing methods and provide a comparison for future research on DTTO. With the release of DTTO, our goal is to facilitate further research and applications related to tracking transforming objects.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T12:00:37.813Z

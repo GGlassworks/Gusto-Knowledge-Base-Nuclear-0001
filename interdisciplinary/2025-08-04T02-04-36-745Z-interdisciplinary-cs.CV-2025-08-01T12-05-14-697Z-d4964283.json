@@ -1,0 +1,12 @@
+# GAN You Do the GAN GAN?
+
+**Authors:** Joseph Suarez
+
+## Summary
+Generative Adversarial Networks (GANs) have become a dominant class of generative models. In recent years, GAN variants have yielded especially impressive results in the synthesis of a variety of forms of data. Examples include compelling natural and artistic images, textures, musical sequences, and 3D object files. However, one obvious synthesis candidate is missing. In this work, we answer one of deep learning's most pressing questions: GAN you do the GAN GAN? That is, is it possible to train a GAN to model a distribution of GANs? We release the full source code for this project under the MIT license.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T12:05:14.698Z

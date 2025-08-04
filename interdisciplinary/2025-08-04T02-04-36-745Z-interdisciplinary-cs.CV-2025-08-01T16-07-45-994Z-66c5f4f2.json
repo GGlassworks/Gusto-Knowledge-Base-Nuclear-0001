@@ -1,0 +1,12 @@
+# One-class Damage Detector Using Deeper Fully-Convolutional Data Descriptions for Civil Application
+
+**Authors:** Takato Yasuno, Masahiro Okano, Junichiro Fujii
+
+## Summary
+Infrastructure managers must maintain high standards to ensure user satisfaction during the lifecycle of infrastructures. Surveillance cameras and visual inspections have enabled progress in automating the detection of anomalous features and assessing the occurrence of deterioration. However, collecting damage data is typically time consuming and requires repeated inspections. The one-class damage detection approach has an advantage in that normal images can be used to optimize model parameters. Additionally, visual evaluation of heatmaps enables us to understand localized anomalous features. The authors highlight damage vision applications utilized in the robust property and localized damage explainability. First, we propose a civil-purpose application for automating one-class damage detection reproducing a fully convolutional data description (FCDD) as a baseline model. We have obtained accurate and explainable results demonstrating experimental studies on concrete damage and steel corrosion in civil engineering. Additionally, to develop a more robust application, we applied our method to another outdoor domain that contains complex and noisy backgrounds using natural disaster datasets collected using various devices. Furthermore, we propose a valuable solution of deeper FCDDs focusing on other powerful backbones to improve the performance of damage detection and implement ablation studies on disaster datasets. The key results indicate that the deeper FCDDs outperformed the baseline FCDD on datasets representing natural disaster damage caused by hurricanes, typhoons, earthquakes, and four-event disasters.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T16:07:45.995Z

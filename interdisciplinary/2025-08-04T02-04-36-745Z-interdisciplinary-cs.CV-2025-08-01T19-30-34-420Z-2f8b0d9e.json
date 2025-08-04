@@ -1,0 +1,12 @@
+# SimMining-3D: Altitude-Aware 3D Object Detection in Complex Mining Environments: A Novel Dataset and ROS-Based Automatic Annotation Pipeline
+
+**Authors:** Mehala Balamurali, Ehsan Mihankhah
+
+## Summary
+Accurate and efficient object detection is crucial for safe and efficient operation of earth-moving equipment in mining. Traditional 2D image-based methods face limitations in dynamic and complex mine environments. To overcome these challenges, 3D object detection using point cloud data has emerged as a comprehensive approach. However, training models for mining scenarios is challenging due to sensor height variations, viewpoint changes, and the need for diverse annotated datasets. This paper presents novel contributions to address these challenges. We introduce a synthetic dataset SimMining 3D [1] specifically designed for 3D object detection in mining environments. The dataset captures objects and sensors positioned at various heights within mine benches, accurately reflecting authentic mining scenarios. An automatic annotation pipeline through ROS interface reduces manual labor and accelerates dataset creation. We propose evaluation metrics accounting for sensor-to-object height variations and point cloud density, enabling accurate model assessment in mining scenarios. Real data tests validate our models effectiveness in object prediction. Our ablation study emphasizes the importance of altitude and height variation augmentations in improving accuracy and reliability. The publicly accessible synthetic dataset [1] serves as a benchmark for supervised learning and advances object detection techniques in mining with complimentary pointwise annotations for each scene. In conclusion, our work bridges the gap between synthetic and real data, addressing the domain shift challenge in 3D object detection for mining. We envision robust object detection systems enhancing safety and efficiency in mining and related domains.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T19:30:34.420Z

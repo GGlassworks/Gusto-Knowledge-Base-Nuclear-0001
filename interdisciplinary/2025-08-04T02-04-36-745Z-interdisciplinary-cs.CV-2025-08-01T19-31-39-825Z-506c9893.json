@@ -1,0 +1,12 @@
+# MINI: Mining Implicit Novel Instances for Few-Shot Object Detection
+
+**Authors:** Yuhang Cao, Jiaqi Wang, Yiqi Lin, Dahua Lin
+
+## Summary
+Learning from a few training samples is a desirable ability of an object detector, inspiring the explorations of Few-Shot Object Detection (FSOD). Most existing approaches employ a pretrain-transfer paradigm. The model is first pre-trained on base classes with abundant data and then transferred to novel classes with a few annotated samples. Despite the substantial progress, the FSOD performance is still far behind satisfactory. During pre-training, due to the co-occurrence between base and novel classes, the model is learned to treat the co-occurred novel classes as backgrounds. During transferring, given scarce samples of novel classes, the model suffers from learning discriminative features to distinguish novel instances from backgrounds and base classes. To overcome the obstacles, we propose a novel framework, Mining Implicit Novel Instances (MINI), to mine the implicit novel instances as auxiliary training samples, which widely exist in abundant base data but are not annotated. MINI comprises an offline mining mechanism and an online mining mechanism. The offline mining mechanism leverages a self-supervised discriminative model to collaboratively mine implicit novel instances with a trained FSOD network. Taking the mined novel instances as auxiliary training samples, the online mining mechanism takes a teacher-student framework to simultaneously update the FSOD network and the mined implicit novel instances on the fly. Extensive experiments on PASCAL VOC and MS-COCO datasets show MINI achieves new state-of-the-art performance on any shot and split. The significant performance improvements demonstrate the superiority of our method.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T19:31:39.825Z

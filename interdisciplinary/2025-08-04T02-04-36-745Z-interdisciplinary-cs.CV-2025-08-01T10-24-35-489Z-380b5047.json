@@ -1,0 +1,12 @@
+# A study on the deviations in performance of FNNs and CNNs in the realm of grayscale adversarial images
+
+**Authors:** Durga Shree Nagabushanam, Steve Mathew, Chiranji Lal Chowdhary
+
+## Summary
+Neural Networks are prone to having lesser accuracy in the classification of images with noise perturbation. Convolutional Neural Networks, CNNs are known for their unparalleled accuracy in the classification of benign images. But our study shows that they are extremely vulnerable to noise addition while Feed-forward Neural Networks, FNNs show very less correspondence with noise perturbation, maintaining their accuracy almost undisturbed. FNNs are observed to be better at classifying noise-intensive, single-channeled images that are just sheer noise to human vision. In our study, we have used the hand-written digits dataset, MNIST with the following architectures: FNNs with 1 and 2 hidden layers and CNNs with 3, 4, 6 and 8 convolutions and analyzed their accuracies. FNNs stand out to show that irrespective of the intensity of noise, they have a classification accuracy of more than 85%. In our analysis of CNNs with this data, the deceleration of classification accuracy of CNN with 8 convolutions was half of that of the rest of the CNNs. Correlation analysis and mathematical modelling of the accuracy trends act as roadmaps to these conclusions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:35.490Z

@@ -1,0 +1,12 @@
+# Jointly Understand Your Command and Intention:Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis
+
+**Authors:** Xuehao Gao, Yang Yang, Shaoyi Du, Guo-Jun Qi, Junwei Han
+
+## Summary
+As two intimate reciprocal tasks, scene-aware human motion synthesis and analysis require a joint understanding between multiple modalities, including 3D body motions, 3D scenes, and textual descriptions. In this paper, we integrate these two paired processes into a Co-Evolving Synthesis-Analysis (CESA) pipeline and mutually benefit their learning. Specifically, scene-aware text-to-human synthesis generates diverse indoor motion samples from the same textual description to enrich human-scene interaction intra-class diversity, thus significantly benefiting training a robust human motion analysis system. Reciprocally, human motion analysis would enforce semantic scrutiny on each synthesized motion sample to ensure its semantic consistency with the given textual description, thus improving realistic motion synthesis. Considering that real-world indoor human motions are goal-oriented and path-guided, we propose a cascaded generation strategy that factorizes text-driven scene-specific human motion generation into three stages: goal inferring, path planning, and pose synthesizing. Coupling CESA with this powerful cascaded motion synthesis model, we jointly improve realistic human motion synthesis and robust human motion analysis in 3D scenes.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:47.706Z

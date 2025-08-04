@@ -1,0 +1,12 @@
+# Unbiased Auxiliary Classifier GANs with MINE
+
+**Authors:** Ligong Han, Anastasis Stathopoulos, Tao Xue, Dimitris Metaxas
+
+## Summary
+Auxiliary Classifier GANs (AC-GANs) are widely used conditional generative models and are capable of generating high-quality images. Previous work has pointed out that AC-GAN learns a biased distribution. To remedy this, Twin Auxiliary Classifier GAN (TAC-GAN) introduces a twin classifier to the min-max game. However, it has been reported that using a twin auxiliary classifier may cause instability in training. To this end, we propose an Unbiased Auxiliary GANs (UAC-GAN) that utilizes the Mutual Information Neural Estimator (MINE) to estimate the mutual information between the generated data distribution and labels. To further improve the performance, we also propose a novel projection-based statistics network architecture for MINE. Experimental results on three datasets, including Mixture of Gaussian (MoG), MNIST and CIFAR10 datasets, show that our UAC-GAN performs better than AC-GAN and TAC-GAN. Code can be found on the project website.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T12:05:15.479Z

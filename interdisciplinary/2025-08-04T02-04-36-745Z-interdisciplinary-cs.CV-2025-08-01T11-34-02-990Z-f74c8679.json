@@ -1,0 +1,12 @@
+# Cross multiscale vision transformer for deep fake detection
+
+**Authors:** Akhshan P, Taneti Sanjay, Chandrakala S
+
+## Summary
+The proliferation of deep fake technology poses significant challenges to digital media authenticity, necessitating robust detection mechanisms. This project evaluates deep fake detection using the SP Cup's 2025 deep fake detection challenge dataset. We focused on exploring various deep learning models for detecting deep fake content, utilizing traditional deep learning techniques alongside newer architectures. Our approach involved training a series of models and rigorously assessing their performance using metrics such as accuracy.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T11:34:02.990Z

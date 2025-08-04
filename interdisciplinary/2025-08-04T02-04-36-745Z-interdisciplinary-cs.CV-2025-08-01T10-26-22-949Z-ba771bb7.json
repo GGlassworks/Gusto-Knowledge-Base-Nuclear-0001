@@ -1,0 +1,12 @@
+# Cross-Database Liveness Detection: Insights from Comparative Biometric Analysis
+
+**Authors:** Oleksandr Kuznetsov, Dmytro Zakharov, Emanuele Frontoni, Andrea Maranesi, Serhii Bohucharskyi
+
+## Summary
+In an era where biometric security serves as a keystone of modern identity verification systems, ensuring the authenticity of these biometric samples is paramount. Liveness detection, the capability to differentiate between genuine and spoofed biometric samples, stands at the forefront of this challenge. This research presents a comprehensive evaluation of liveness detection models, with a particular focus on their performance in cross-database scenarios, a test paradigm notorious for its complexity and real-world relevance. Our study commenced by meticulously assessing models on individual datasets, revealing the nuances in their performance metrics. Delving into metrics such as the Half Total Error Rate, False Acceptance Rate, and False Rejection Rate, we unearthed invaluable insights into the models' strengths and weaknesses. Crucially, our exploration of cross-database testing provided a unique perspective, highlighting the chasm between training on one dataset and deploying on another. Comparative analysis with extant methodologies, ranging from convolutional networks to more intricate strategies, enriched our understanding of the current landscape. The variance in performance, even among state-of-the-art models, underscored the inherent challenges in this domain. In essence, this paper serves as both a repository of findings and a clarion call for more nuanced, data-diverse, and adaptable approaches in biometric liveness detection. In the dynamic dance between authenticity and deception, our work offers a blueprint for navigating the evolving rhythms of biometric security.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:26:22.949Z

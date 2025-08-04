@@ -1,0 +1,12 @@
+# Multi-view knowledge distillation transformer for human action recognition
+
+**Authors:** Ying-Chen Lin, Vincent S. Tseng
+
+## Summary
+Recently, Transformer-based methods have been utilized to improve the performance of human action recognition. However, most of these studies assume that multi-view data is complete, which may not always be the case in real-world scenarios. Therefore, this paper presents a novel Multi-view Knowledge Distillation Transformer (MKDT) framework that consists of a teacher network and a student network. This framework aims to handle incomplete human action problems in real-world applications. Specifically, the multi-view knowledge distillation transformer uses a hierarchical vision transformer with shifted windows to capture more spatial-temporal information. Experimental results demonstrate that our framework outperforms the CNN-based method on three public datasets.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T11:55:57.240Z

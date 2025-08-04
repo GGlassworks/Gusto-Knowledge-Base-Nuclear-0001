@@ -1,0 +1,12 @@
+# Few-shot crack image classification using clip based on bayesian optimization
+
+**Authors:** Yingchao Zhang, Cheng Liu
+
+## Summary
+This study proposes a novel few-shot crack image classification model based on CLIP and Bayesian optimization. By combining multimodal information and Bayesian approach, the model achieves efficient classification of crack images in a small number of training samples. The CLIP model employs its robust feature extraction capabilities to facilitate precise classification with a limited number of samples. In contrast, Bayesian optimisation enhances the robustness and generalization of the model, while reducing the reliance on extensive labelled data. The results demonstrate that the model exhibits robust performance across a diverse range of dataset scales, particularly in the context of small sample sets. The study validates the potential of the method in civil engineering crack classification.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T16:07:46.150Z

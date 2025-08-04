@@ -1,0 +1,12 @@
+# Segmentation and Analysis of a Sketched Truss Frame Using Morphological Image Processing Techniques
+
+**Authors:** Mirsalar Kamari, Oguz Gunes
+
+## Summary
+Development of computational tools to analyze and assess the building capacities has had a major impact in civil engineering. The interaction with the structural software packages is becoming easier and the modeling tools are becoming smarter by automating the users role during their interaction with the software. One of the difficulties and the most time consuming steps involved in the structural modeling is defining the geometry of the structure to provide the analysis. This paper is dedicated to the development of a methodology to automate analysis of a hand sketched or computer generated truss frame drawn on a piece of paper. First, we focus on the segmentation methodologies for hand sketched truss components using the morphological image processing techniques, and then we provide a real time analysis of the truss. We visualize and augment the results on the input image to facilitate the public understanding of the truss geometry and internal forces. MATLAB is used as the programming language for the image processing purposes, and the truss is analyzed using Sap2000 API to integrate with MATLAB to provide a convenient structural analysis. This paper highlights the potential of the automation of the structural analysis using image processing to quickly assess the efficiency of structural systems. Further development of this framework is likely to revolutionize the way that structures are modeled and analyzed.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T16:13:29.370Z

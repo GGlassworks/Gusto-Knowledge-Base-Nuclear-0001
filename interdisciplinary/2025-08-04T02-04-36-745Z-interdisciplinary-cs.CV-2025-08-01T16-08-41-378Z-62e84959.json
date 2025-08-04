@@ -1,0 +1,12 @@
+# Iris Liveness Detection Competition (LivDet-Iris) -- The 2023 Edition
+
+**Authors:** Patrick Tinsley, Sandip Purnapatra, Mahsa Mitcheff, Aidan Boyd, Colton Crum, Kevin Bowyer, Patrick Flynn, Stephanie Schuckers, Adam Czajka, Meiling Fang, Naser Damer, Xingyu Liu, Caiyong Wang, Xianyun Sun, Zhaohua Chang, Xinyue Li, Guangzhe Zhao, Juan Tapia, Christoph Busch, Carlos Aravena, Daniel Schulz
+
+## Summary
+This paper describes the results of the 2023 edition of the ''LivDet'' series of iris presentation attack detection (PAD) competitions. New elements in this fifth competition include (1) GAN-generated iris images as a category of presentation attack instruments (PAI), and (2) an evaluation of human accuracy at detecting PAI as a reference benchmark. Clarkson University and the University of Notre Dame contributed image datasets for the competition, composed of samples representing seven different PAI categories, as well as baseline PAD algorithms. Fraunhofer IGD, Beijing University of Civil Engineering and Architecture, and Hochschule Darmstadt contributed results for a total of eight PAD algorithms to the competition. Accuracy results are analyzed by different PAI types, and compared to human accuracy. Overall, the Fraunhofer IGD algorithm, using an attention-based pixel-wise binary supervision network, showed the best-weighted accuracy results (average classification error rate of 37.31%), while the Beijing University of Civil Engineering and Architecture's algorithm won when equal weights for each PAI were given (average classification rate of 22.15%). These results suggest that iris PAD is still a challenging problem.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T16:08:41.379Z

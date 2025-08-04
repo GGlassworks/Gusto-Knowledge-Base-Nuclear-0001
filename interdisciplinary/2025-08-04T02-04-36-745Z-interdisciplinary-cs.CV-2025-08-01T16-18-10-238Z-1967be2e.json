@@ -1,0 +1,12 @@
+# Event-based Civil Infrastructure Visual Defect Detection: ev-CIVIL Dataset and Benchmark
+
+**Authors:** Udayanga G. W. K. N. Gamage, Xuanni Huo, Luca Zanatta, T Delbruck, Cesar Cadena, Matteo Fumagalli, Silvia Tolu
+
+## Summary
+Small Unmanned Aerial Vehicle (UAV) based visual inspections are a more efficient alternative to manual methods for examining civil structural defects, offering safe access to hazardous areas and significant cost savings by reducing labor requirements. However, traditional frame-based cameras, widely used in UAV-based inspections, often struggle to capture defects under low or dynamic lighting conditions. In contrast, Dynamic Vision Sensors (DVS), or event-based cameras, excel in such scenarios by minimizing motion blur, enhancing power efficiency, and maintaining high-quality imaging across diverse lighting conditions without saturation or information loss. Despite these advantages, existing research lacks studies exploring the feasibility of using DVS for detecting civil structural defects.Moreover, there is no dedicated event-based dataset tailored for this purpose. Addressing this gap, this study introduces the first event-based civil infrastructure defect detection dataset, capturing defective surfaces as a spatio-temporal event stream using DVS.In addition to event-based data, the dataset includes grayscale intensity image frames captured simultaneously using an Active Pixel Sensor (APS). Both data types were collected using the DAVIS346 camera, which integrates DVS and APS sensors.The dataset focuses on two types of defects: cracks and spalling, and includes data from both field and laboratory environments. The field dataset comprises 318 recording sequences,documenting 458 distinct cracks and 121 distinct spalling instances.The laboratory dataset includes 362 recording sequences, covering 220 distinct cracks and 308 spalling instances.Four realtime object detection models were evaluated on it to validate the dataset effectiveness.The results demonstrate the dataset robustness in enabling accurate defect detection and classification,even under challenging lighting conditions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T16:18:10.238Z

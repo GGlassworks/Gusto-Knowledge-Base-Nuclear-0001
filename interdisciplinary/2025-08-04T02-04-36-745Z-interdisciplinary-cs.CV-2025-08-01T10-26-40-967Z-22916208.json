@@ -1,0 +1,12 @@
+# Human Modelling and Pose Estimation Overview
+
+**Authors:** Pawel Knap
+
+## Summary
+Human modelling and pose estimation stands at the crossroads of Computer Vision, Computer Graphics, and Machine Learning. This paper presents a thorough investigation of this interdisciplinary field, examining various algorithms, methodologies, and practical applications. It explores the diverse range of sensor technologies relevant to this domain and delves into a wide array of application areas. Additionally, we discuss the challenges and advancements in 2D and 3D human modelling methodologies, along with popular datasets, metrics, and future research directions. The main contribution of this paper lies in its up-to-date comparison of state-of-the-art (SOTA) human pose estimation algorithms in both 2D and 3D domains. By providing this comprehensive overview, the paper aims to enhance understanding of 3D human modelling and pose estimation, offering insights into current SOTA achievements, challenges, and future prospects within the field.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:26:40.967Z

@@ -1,0 +1,12 @@
+# A Comparative Study of Coarse to Dense 3D Indoor Scene Registration Algorithms
+
+**Authors:** Abdenour Amamra, Khalid Boumaza
+
+## Summary
+3D alignment has become a very important part of 3D scanning technology. For instance, we can divide the alignment process into four steps: key point detection, key point description, initial pose estimation, and alignment refinement. Researchers have contributed several approaches to the literature for each step, which suggests a natural need for a comparative study for an educated more appropriate choice. In this work, we propose a description and an evaluation of the different methods used for 3D registration with special focus on RGB-D data to find the best combinations that permit a complete and more accurate 3D reconstruction of indoor scenes with cheap depth cameras.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T15:44:27.375Z

@@ -1,0 +1,12 @@
+# HERO: Human Reaction Generation from Videos
+
+**Authors:** Chengjun Yu, Wei Zhai, Yuhang Yang, Yang Cao, Zheng-Jun Zha
+
+## Summary
+Human reaction generation represents a significant research domain for interactive AI, as humans constantly interact with their surroundings. Previous works focus mainly on synthesizing the reactive motion given a human motion sequence. This paradigm limits interaction categories to human-human interactions and ignores emotions that may influence reaction generation. In this work, we propose to generate 3D human reactions from RGB videos, which involves a wider range of interaction categories and naturally provides information about expressions that may reflect the subject's emotions. To cope with this task, we present HERO, a simple yet powerful framework for Human rEaction geneRation from videOs. HERO considers both global and frame-level local representations of the video to extract the interaction intention, and then uses the extracted interaction intention to guide the synthesis of the reaction. Besides, local visual representations are continuously injected into the model to maximize the exploitation of the dynamic properties inherent in videos. Furthermore, the ViMo dataset containing paired Video-Motion data is collected to support the task. In addition to human-human interactions, these video-motion pairs also cover animal-human interactions and scene-human interactions. Extensive experiments demonstrate the superiority of our methodology. The code and dataset will be publicly available at https://jackyu6.github.io/HERO.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:26:32.712Z

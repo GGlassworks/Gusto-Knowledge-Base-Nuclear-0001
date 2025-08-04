@@ -1,0 +1,12 @@
+# Digital Humanities Readiness Assessment Framework: DHuRAF
+
+**Authors:** Hossein Hassani, Emir Turajlić, Kemal Taljanović
+
+## Summary
+This research suggests a framework, Digital Humanities Readiness Assessment Framework (DHuRAF), to assess the maturity level of the required infrastructure for Digital Humanities studies (DH) in different communities. We use a similar approach to the Basic Language Resource Kit (BLARK) in developing the suggested framework. DH as a fairly new field, which has emerged at an intersection of digital technologies and humanities, currently has no framework based on which one could assess the status of the essential elements required for conducting research in a specific language or community. DH offers new research opportunities and challenges in the humanities, computer science and its relevant technologies, hence such a framework could provide a starting point for educational strategists, researchers, and software developers to understand the prerequisites for their tasks and to have a statistical base for their decisions and plans. The suggested framework has been applied in the context of Kurdish DH, considering Kurdish as a less-resourced language. We have also applied the method to the Gaelic language in the Scottish community. Although the research has focused on less-resourced and minority languages, it concludes that DHuRAF has the potential to be generalized in a variety of different contexts. Furthermore, despite significant reliance on Natural Language Processing (NLP) and computational utilities, the research showed that DH could also be used as an essential resource pool to leverage the NLP study of less-resourced and minority languages.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:16.118Z

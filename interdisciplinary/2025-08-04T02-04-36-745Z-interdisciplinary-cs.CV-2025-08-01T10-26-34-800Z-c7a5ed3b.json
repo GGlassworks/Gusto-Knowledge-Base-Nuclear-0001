@@ -1,0 +1,12 @@
+# THOR: Text to Human-Object Interaction Diffusion via Relation Intervention
+
+**Authors:** Qianyang Wu, Ye Shi, Xiaoshui Huang, Jingyi Yu, Lan Xu, Jingya Wang
+
+## Summary
+This paper addresses new methodologies to deal with the challenging task of generating dynamic Human-Object Interactions from textual descriptions (Text2HOI). While most existing works assume interactions with limited body parts or static objects, our task involves addressing the variation in human motion, the diversity of object shapes, and the semantic vagueness of object motion simultaneously. To tackle this, we propose a novel Text-guided Human-Object Interaction diffusion model with Relation Intervention (THOR). THOR is a cohesive diffusion model equipped with a relation intervention mechanism. In each diffusion step, we initiate text-guided human and object motion and then leverage human-object relations to intervene in object motion. This intervention enhances the spatial-temporal relations between humans and objects, with human-centric interaction representation providing additional guidance for synthesizing consistent motion from text. To achieve more reasonable and realistic results, interaction losses is introduced at different levels of motion granularity. Moreover, we construct Text-BEHAVE, a Text2HOI dataset that seamlessly integrates textual descriptions with the currently largest publicly available 3D HOI dataset. Both quantitative and qualitative experiments demonstrate the effectiveness of our proposed model.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:26:34.800Z

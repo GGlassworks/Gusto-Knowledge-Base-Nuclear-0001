@@ -1,0 +1,12 @@
+# EMOTHAW: A novel database for emotional state recognition from handwriting
+
+**Authors:** Laurence Likforman-Sulem, Anna Esposito, Marcos Faundez-Zanuy, Stephan Clemençon, Gennaro Cordasco
+
+## Summary
+The detection of negative emotions through daily activities such as handwriting is useful for promoting well-being. The spread of human-machine interfaces such as tablets makes the collection of handwriting samples easier. In this context, we present a first publicly available handwriting database which relates emotional states to handwriting, that we call EMOTHAW. This database includes samples of 129 participants whose emotional states, namely anxiety, depression and stress, are assessed by the Depression Anxiety Stress Scales (DASS) questionnaire. Seven tasks are recorded through a digitizing tablet: pentagons and house drawing, words copied in handprint, circles and clock drawing, and one sentence copied in cursive writing. Records consist in pen positions, on-paper and in-air, time stamp, pressure, pen azimuth and altitude. We report our analysis on this database. From collected data, we first compute measurements related to timing and ductus. We compute separate measurements according to the position of the writing device: on paper or in-air. We analyse and classify this set of measurements (referred to as features) using a random forest approach. This latter is a machine learning method [2], based on an ensemble of decision trees, which includes a feature ranking process. We use this ranking process to identify the features which best reveal a targeted emotional state. We then build random forest classifiers associated to each emotional state. Our results, obtained from cross-validation experiments, show that the targeted emotional states can be identified with accuracies ranging from 60% to 71%.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:24:40.331Z

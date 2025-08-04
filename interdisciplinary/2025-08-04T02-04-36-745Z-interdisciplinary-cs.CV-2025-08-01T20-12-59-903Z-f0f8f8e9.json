@@ -1,0 +1,12 @@
+# Development Of A Fire Detection System On Satellite Images
+
+**Authors:** Sergey Yarushev, Alexey Averkin
+
+## Summary
+This paper discusses the development of a convolutional architecture of a deep neural network for the recognition of wildfires on satellite images. Based on the results of image classification, a fuzzy cognitive map of the analysis of the macroeconomic situation was built. The paper also considers the prospect of using hybrid cognitive models for forecasting macroeconomic indicators based on fuzzy cognitive maps using data on recognized wildfires on satellite images.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T20:12:59.903Z

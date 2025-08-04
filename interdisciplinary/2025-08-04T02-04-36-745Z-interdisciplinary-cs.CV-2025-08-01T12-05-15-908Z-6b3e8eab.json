@@ -1,0 +1,12 @@
+# KG-GAN: Knowledge-Guided Generative Adversarial Networks
+
+**Authors:** Che-Han Chang, Chun-Hsien Yu, Szu-Ying Chen, Edward Y. Chang
+
+## Summary
+Can generative adversarial networks (GANs) generate roses of various colors given only roses of red petals as input? The answer is negative, since GANs' discriminator would reject all roses of unseen petal colors. In this study, we propose knowledge-guided GAN (KG-GAN) to fuse domain knowledge with the GAN framework. KG-GAN trains two generators; one learns from data whereas the other learns from knowledge with a constraint function. Experimental results demonstrate the effectiveness of KG-GAN in generating unseen flower categories from seen categories given textual descriptions of the unseen ones.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T12:05:15.908Z
