@@ -1,0 +1,13 @@
+# The Application of Ant Colony Algorithms to Improving the Operation of Traction Rectifier Transformers
+
+**Authors:** Barbara Kulesz, Andrzej Sikora, Adam Zielonka
+
+## Abstract
+<jats:p>In this paper, we discuss a technical issue occurring in electric traction. Tram traction may use DC voltage; this is obtained by rectifying AC voltage supplied by the power grid. In the simplest design— one which is commonly used—only diode uncontrolled rectifiers are used. The rectified voltage is not smooth; it always contains a pulsating (AC) component. The amount of pulsation varies. It depends, among other factors, on the design of the transformer-rectifier set. In the 12-pulse system, we use a three-winding transformer, consisting of one primary winding and two secondary windings: one is delta-connected and the other is star-connected. The unbalance of secondary windings is an extra factor increasing the pulsation of DC voltage. To equalize secondary side voltages, a tap changer may be used. The setting of the tap changer is the question resolved in this paper; it is optimized by application of the ACO (ant colony optimization algorithm). We have analyzed different supply voltage variants, and in particular, distorted voltage containing 5th and 7th harmonics. The results of ant colony optimization application are described in this paper.</jats:p>
+
+**Source:** https://doi.org/10.3390/computers8020028
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T11:54:31.447Z

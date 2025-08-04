@@ -1,0 +1,13 @@
+# A Multinomial DGA Classifier for Incipient Fault Detection in Oil-Impregnated Power Transformers
+
+**Authors:** George Odongo, Richard Musabe, Damien Hanyurwimfura
+
+## Abstract
+<jats:p>This study investigates the use of machine-learning approaches to interpret Dissolved Gas Analysis (DGA) data to find incipient faults early in oil-impregnated transformers. Transformers are critical pieces of equipment in transmitting and distributing electrical energy. The failure of a single unit disturbs a huge number of consumers and suppresses economic activities in the vicinity. Because of this, it is important that power utility companies accord high priority to condition monitoring of critical assets. The analysis of dissolved gases is a technique popularly used for monitoring the condition of transformers dipped in oil. The interpretation of DGA data is however inconclusive as far as the determination of incipient faults is concerned and depends largely on the expertise of technical personnel. To have a coherent, accurate, and clear interpretation of DGA, this study proposes a novel multinomial classification model christened KosaNet that is based on decision trees. Actual DGA data with 2912 entries was used to compute the performance of KosaNet against other algorithms with multiclass classification ability namely the decision tree, k-NN, Random Forest, Naïve Bayes, and Gradient Boost. Investigative results show that KosaNet demonstrated an improved DGA classification ability particularly when classifying multinomial data.</jats:p>
+
+**Source:** https://doi.org/10.3390/a14040128
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T11:54:30.130Z

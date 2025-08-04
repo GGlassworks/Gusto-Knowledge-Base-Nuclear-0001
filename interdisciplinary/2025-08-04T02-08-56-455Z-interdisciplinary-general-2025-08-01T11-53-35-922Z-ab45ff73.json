@@ -1,0 +1,13 @@
+# Load Sharing Optimization of Transformers Using Embedded Automation
+
+**Authors:** Koshiya Nareshbhai
+
+## Abstract
+<jats:p>Transformers are critical, high-value components of the power system that operate continuously to supply electrical loads. Due to their constant operation and fixed capacity, sudden increases in demand can lead to overloading, resulting in overheating and insulation damage, ultimately causing supply interruptions. To mitigate this risk, this research proposes an embedded automation-based load sharing system for transformers operating in parallel. The approach enables auxiliary (slave) transformers to dynamically share excess load when the main transformer reaches its rated capacity. Utilizing microcontroller-based monitoring and control units, the system continuously evaluates voltage, current, and load conditions in real-time. When overloading is detected, the automation system activates standby transformers to distribute the load evenly, thus avoiding damage and maintaining uninterrupted power supply. The embedded system employs intelligent decision-making logic and communication protocols to coordinate between units seamlessly. Implementation of this method enhances system reliability, prevents outages due to transformer stress, and extends equipment life. This research contributes to smart energy distribution by offering a cost-effective and scalable solution to transformer overloading through intelligent load sharing.</jats:p>
+
+**Source:** https://doi.org/10.36948/ijfmr.2025.v07i03.47136
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T11:53:35.923Z

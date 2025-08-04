@@ -1,0 +1,13 @@
+# Shape Transformers for Material and Shape Selection
+
+**Authors:** Damiano Pasini
+
+## Abstract
+<jats:p>This paper presents a method for selecting materials, cross-section shapes, and combinations thereof. The novelty of the method is the definition of Shape Transformers. These parameters are dimensionless measures of the geometric quantities of a cross-section. They describe the shape properties of a cross-section regardless of size and are thus invariant to any scaling imposed on the cross-section size. Shape Transformers are valuable with modelling the equation of mechanics and with the development of selection charts for optimum design. The rationale of the approach is that the fundamental equations of mechanics can be expressed by a product of four separable factors: the functional requirements, the material properties, the Shape Transformers, and the geometric quantities of a rectangle as defined by its cross-section size. This permits general expressions of performance indices to be derived for any scaling transformation. For example, indices for selecting materials and cross-sectional shapes that minimize the mass of beams are given for stiffness design. The last part of the paper illustrates how Shape Transformers facilitate a graphical exploration of performance data. The whole range of cross-sectional shapes can be visualized at a glance for each material. Lines of iso-performance enable efficiency comparison of materials and/or shapes for a given cross-section scaling. Shape Transformers assist design choices and give insight into optimum selection.</jats:p>
+
+**Source:** https://doi.org/10.1115/detc2005-84894
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T11:58:52.246Z

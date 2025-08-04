@@ -1,0 +1,13 @@
+# Disassembly of Distribution Transformers Based on Multimodal Data Recognition and Collaborative Processing
+
+**Authors:** Li Wang, Feng Chen, Yujia Hu, Zhiyao Zheng, Kexin Zhang
+
+## Abstract
+<jats:p>As power system equipment gradually ages, the automated disassembly of transformers has become a critical area of research to enhance both efficiency and safety. This paper presents a transformer disassembly system designed for power systems, leveraging multimodal perception and collaborative processing. By integrating 2D images and 3D point cloud data captured by RGB-D cameras, the system enables the precise recognition and efficient disassembly of transformer covers and internal components through multimodal data fusion, deep learning models, and control technologies. The system employs an enhanced YOLOv8 model for positioning and identifying screw-fastened covers while also utilizing the STDC network for segmentation and cutting path planning of welded covers. In addition, the system captures 3D point cloud data of the transformer’s interior using multi-view RGB-D cameras and performs multimodal semantic segmentation and object detection via the ODIN model, facilitating the high-precision identification and cutting of complex components such as windings, studs, and silicon steel sheets. Experimental results show that the system achieves a recognition accuracy of 99% for both cover and internal component disassembly, with a disassembly success rate of 98%, demonstrating its high adaptability and safety in complex industrial environments.</jats:p>
+
+**Source:** https://doi.org/10.3390/a17120595
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T11:54:30.874Z

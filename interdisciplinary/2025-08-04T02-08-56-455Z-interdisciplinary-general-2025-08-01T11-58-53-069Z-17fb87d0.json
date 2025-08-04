@@ -1,0 +1,13 @@
+# Methodology for determining the degree of magnetic induction of transformers with a sinusoidal magnetic flux
+
+**Authors:** S. M. Plotnikov
+
+## Abstract
+<jats:p>The research presented in the article is aimed at reducing losses in the magnetic circuits of electrical machines. These losses amount to up to 5 % of the generated electricity, do not depend on the load and can increase over the life of the equipment. To effectively design and construct transformers with low no-load losses, total losses in steel are minimized by optimizing the crystal grain size and thickness of core sheets, improving the steel texture and magnetic circuit design, etc. However, the hysteresis, classical eddy current and anomalous eddy current components of losses in steel react in different directions to these measures, which does not effectively minimize total losses. To determine the three components of losses, a modernized method of three frequencies is proposed, which takes into account the dependence of the hysteresis loss coefficient on frequency. A formula for correcting this coefficient is derived. It is shown that the indicator of the degree of magnetic induction given in most modern scientific sources in the expression for eddy current anomalous losses has become irrelevant. A method for calculating this indicator for the core of a specific transformer is presented, which uses the loss components and total losses in steel found by the method of three frequencies and the total losses in steel at a reduced primary voltage. For the transformer under study, the degree of magnetic induction in anomalous losses was 1.88. The results obtained can be used in the design of dry and oil transformers of different powers operating with a sinusoidal magnetic flux.</jats:p>
+
+**Source:** https://doi.org/10.32446/10.32446/0368-1025it.2024-1-35-39
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T11:58:53.069Z

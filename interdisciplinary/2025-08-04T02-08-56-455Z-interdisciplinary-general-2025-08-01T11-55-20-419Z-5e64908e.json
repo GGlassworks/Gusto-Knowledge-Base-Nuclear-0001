@@ -1,0 +1,15 @@
+# Basics of Large Language Models - transformers to LLMs
+
+**Authors:** Andrew Green
+
+## Abstract
+<jats:p>We will introduce Large Language Models (LLMs), focusing on their core architecture, training methodologies, practical applications, and some important considerations. We begin with a brief exploration of the transformer architecture, examining how architectural choices and scaling laws have shaped modern language models. We then investigate key training paradigms, with particular emphasis on Reinforcement Learning from Human Feedback (RLHF) and instruction tuning, while briefly touching on emerging approaches like Direct Preference Optimisation (DPO). The discussion progresses through the evolution of knowledge integration techniques, from basic context stuffing to Retrieval-Augmented Generation (RAG), highlighting their practical implications. 
+
+We will discuss the critical issue of hallucinations in LLM outputs, providing concrete examples and verification strategies. To conclude, a quick overview of the current software landscape and immediate future developments in the field, and a look ahead to the rest of the webinar series.</jats:p>
+
+**Source:** https://doi.org/10.6019/tol.basics-llm-w.2025.00001.1
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T11:55:20.419Z

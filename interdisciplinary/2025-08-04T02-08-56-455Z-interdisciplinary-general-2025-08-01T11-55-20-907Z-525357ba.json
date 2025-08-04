@@ -1,0 +1,14 @@
+# Scaling Down Transformers: Investigating Emergent Phenomena in Tiny Models
+
+**Authors:** Abhas Kumar Sinha
+
+## Abstract
+<title>Abstract</title>
+        <p>In this paper, we investigate the emergent learning capabilities of autoregressive models, particularly Generative Pre-trained Transformers (GPTs), with a focus on how these models learn and generalize from sparse datasets. Our findings show that increasing the number of training epochs enhances emergent abilities, where different loss reductions correlate with distinct task distributions in the pretraining dataset. We demonstrate how GPT models decompose sparse data into latent patterns, allowing them to learn new distribution information and extrapolate these patterns to improve cross-task predictions. For instance, the model achieves nearly 65% accuracy with just 50 samples (out of 1680 possible samples) when encoding two synthetic languages, and reaches accuracies of 93.5%, 99.75%, and 99.25% with 100, 200, and 300 samples (out of 11880 possible samples), respectively, from a larger dataset. Additionally, we highlight the influence of prompt design, dataset characteristics, and latent variables on pattern recognition and task performance. These results advance the understanding of large language models' emergent learning abilities, offering insights into their generalization power across diverse tasks.</p>
+
+**Source:** https://doi.org/10.21203/rs.3.rs-5277468/v1
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T11:55:20.907Z
