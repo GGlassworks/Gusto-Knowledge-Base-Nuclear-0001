@@ -1,0 +1,12 @@
+# Reduced digital nets
+
+**Authors:** Vishnupriya Anupindi, Peter Kritzer
+
+## Summary
+In the recent papers ``The fast reduced QMC matrix-vector product'' (J. Comput. Appl. Math. 440, 115642, 2024) and ``Column reduced digital nets'' (submitted), it was proposed to use QMC rules based on reduced digital nets which provide a speed-up in the computation of QMC vector-matrix products that may occur in practical applications. In this paper, we provide upper bounds on the quality parameter of row reduced and column-row reduced digital nets, which are helpful for the error analysis of using reduced point sets as integration nodes in a QMC rule. We also give remarks on further aspects and comparisons of row reduced, column reduced, and column-row reduced digital net.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T10:16:18.366Z

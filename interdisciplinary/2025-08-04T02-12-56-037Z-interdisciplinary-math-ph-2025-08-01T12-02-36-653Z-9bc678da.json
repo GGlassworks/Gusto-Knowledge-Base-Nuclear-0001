@@ -1,0 +1,12 @@
+# Implementing Bogoliubov Transformations Beyond the Shale-Stinespring Condition
+
+**Authors:** Sascha Lill
+
+## Summary
+We provide two extensions of a dense subspace of Fock space, such that Bogoliubov transformations become implementable on them, even though they violate the Shale-Stinespring condition, so they are not implementable on Fock space. Both the bosonic and fermionic case are covered. Conditions for implementability in the extended sense are stated and proved. From these, we derive conditions for a quadratic Hamiltonian to be diagonalizable by a Bogoliubov transformation that is implementable in the extended sense. Three examples illustrate situations, in which an implementation in the extended sense is possible although the Shale-Stinespring condition fails to hold.
+
+
+---
+Category: interdisciplinary
+Subcategory: math-ph
+Collected: 2025-08-01T12:02:36.653Z

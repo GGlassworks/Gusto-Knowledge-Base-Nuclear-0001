@@ -1,0 +1,12 @@
+# Middle Laplace transform and middle convolution for linear Pfaffian systems with irregular singularities
+
+**Authors:** Shunya Adachi
+
+## Summary
+We introduce a transformation of linear Pfaffian systems, which we call the middle Laplace transform, as a formulation of the Laplace transform from the perspective of Katz theory. While the definition of the middle Laplace transform is purely algebraic, its categorical interpretation is also provided. We then show the fundamental properties (invertibility, irreducibility) of the middle Laplace transform. As an application of the middle Laplace transform, we define the middle convolution for linear Pfaffian systems with irregular singularities. This gives a generalization of Haraoka's middle convolution, which was defined for linear Pfaffian systems with logarithmic singularities. The fundamental properties (additivity, irreducibility) of the middle convolution follow from the properties of the middle Laplace transform.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.CA
+Collected: 2025-08-01T11:52:31.401Z

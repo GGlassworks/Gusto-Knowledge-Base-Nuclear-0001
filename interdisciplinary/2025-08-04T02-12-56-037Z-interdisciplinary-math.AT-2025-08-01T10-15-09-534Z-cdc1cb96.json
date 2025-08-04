@@ -1,0 +1,12 @@
+# The Digital Hopf Construction
+
+**Authors:** Gregory Lupton, John Oprea, Nicholas A. Scoville
+
+## Summary
+Various concepts and constructions in homotopy theory have been defined in the digital setting. Although there have been several attempts at a definition of a fibration in the digital setting, robust examples of these digital fibrations are few and far between. In this paper, we develop a digital Hopf fibration within the category of tolerance spaces. By widening our category to that of tolerance spaces, we are able to give a construction of this digital Hopf fibration which mimics the smooth setting.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.AT
+Collected: 2025-08-01T10:15:09.534Z

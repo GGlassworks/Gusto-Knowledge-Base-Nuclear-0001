@@ -1,0 +1,12 @@
+# Dispersion of digital $(0,m,2)$-nets
+
+**Authors:** Ralph Kritzinger
+
+## Summary
+We study the dispersion of digital $(0,m,2)$-nets; i.e. the size of the largest axes-parallel box within such point sets. Digital nets are an important class of low-discrepancy point sets. We prove tight lower and upper bounds for certain subclasses of digital nets where the generating matrices are of triangular form and compute the dispersion of special nets such as the Hammersley point set exactly.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.MG
+Collected: 2025-08-01T10:15:09.605Z

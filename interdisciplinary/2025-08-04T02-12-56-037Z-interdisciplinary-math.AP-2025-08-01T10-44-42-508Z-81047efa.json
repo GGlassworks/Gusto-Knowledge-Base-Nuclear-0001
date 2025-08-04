@@ -1,0 +1,12 @@
+# Gradient estimates for singular $p$-Laplace type equations with measure data
+
+**Authors:** Hongjie Dong, Hanye Zhu
+
+## Summary
+We are concerned with interior and global gradient estimates for solutions to a class of singular quasilinear elliptic equations with measure data, whose prototype is given by the $p$-Laplace equation $-\Delta_p u=\mu$ with $p\in (1,2)$. The cases when $p\in \big(2-\frac 1 n,2\big)$ and $p\in \big(\frac{3n-2}{2n-1},2-\frac{1}{n}\big]$ were studied in [9] and [22], respectively. In this paper, we improve the results in [22] and address the open case when $p\in \big(1,\frac{3n-2}{2n-1}\big]$. Interior and global modulus of continuity estimates of the gradients of solutions are also established.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.AP
+Collected: 2025-08-01T10:44:42.508Z

@@ -1,0 +1,12 @@
+# Non-distributive relatives of ETL and NFL
+
+**Authors:** Daniil Kozhemiachenko
+
+## Summary
+In this paper, we devise non-distributive relatives of Exactly True Logic (ETL) by Pietz and Riveccio and its dual (NFL) Non-Falsity Logic by Shramko, Zaitsev and Belikov. We consider two pre-orders which are algebraic counterparts of the ETL's and NFL's entailment relations on the De Morgan lattice $\mathbf{4}$. We generalise these pre-orders and determine which distributive properties that hold on $\mathbf{4}$ are not forced by either of the pre-orders. We then construct relatives of ETL and NFL but lack such distributive properties. For these logics, we also devise a truth table semantics which uses non-distributive lattice $\mathbf{M3}$ as their lattice of truth values. We also provide analytic tableaux systems that work with sequents of the form $\phi\vdash\chi$. We also prove the correctness and completeness results for these proof systems and provide a neat generalisation for non-distributive ETL- and NFL-like logics built over a certain family of non-distributive modular lattices.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.LO
+Collected: 2025-08-01T19:58:28.170Z

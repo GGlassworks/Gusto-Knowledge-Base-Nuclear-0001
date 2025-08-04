@@ -1,0 +1,12 @@
+# Exceptional digit frequencies and expansions in non-integer bases
+
+**Authors:** Simon Baker
+
+## Summary
+In this paper we study the set of digit frequencies that are realised by elements of the set of $\beta$-expansions. The main result of this paper demonstrates that as $\beta$ approaches $1,$ the set of digit frequencies that occur amongst the set of $\beta$-expansions fills out the simplex. As an application of our main result, we obtain upper bounds for the local dimension of certain biased Bernoulli convolutions.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.DS
+Collected: 2025-08-01T10:16:19.705Z

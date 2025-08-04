@@ -1,0 +1,12 @@
+# An efficient end-to-end computational framework for the generation of ECG calibrated volumetric models of human atrial electrophysiology
+
+**Authors:** Elena Zappon, Luca Azzolin, Matthias A. F. Gsell, Franz Thaler, Anton J. Prassl, Robert Arnold, Karli Gillette, Mohammadreza Kariman, Martin Manninger-Wünscher, Daniel Scherr, Aurel Neic, Martin Urschler, Christoph M. Augustin, Edward J. Vigmond, Gernot Plank
+
+## Summary
+Computational models of atrial electrophysiology (EP) are increasingly utilized for applications such as the development of advanced mapping systems, personalized clinical therapy planning, and the generation of virtual cohorts and digital twins. These models have the potential to establish robust causal links between simulated in silico behaviors and observed human atrial EP, enabling safer, cost-effective, and comprehensive exploration of atrial dynamics. However, current state-of-the-art approaches lack the fidelity and scalability required for regulatory-grade applications, particularly in creating high-quality virtual cohorts or patient-specific digital twins. Challenges include anatomically accurate model generation, calibration to sparse and uncertain clinical data, and computational efficiency within a streamlined workflow. This study addresses these limitations by introducing novel methodologies integrated into an automated end-to-end workflow for generating high-fidelity digital twin snapshots and virtual cohorts of atrial EP. These innovations include: (i) automated multi-scale generation of volumetric biatrial models with detailed anatomical structures and fiber architecture; (ii) a robust method for defining space-varying atrial parameter fields; (iii) a parametric approach for modeling inter-atrial conduction pathways; and (iv) an efficient forward EP model for high-fidelity electrocardiogram computation. We evaluated this workflow on a cohort of 50 atrial fibrillation patients, producing high-quality meshes suitable for reaction-eikonal and reaction-diffusion models and demonstrating the ability to simulate atrial ECGs under parametrically controlled conditions. These advancements represent a critical step toward scalable, precise, and clinically applicable digital twin models and virtual cohorts, enabling enhanced patient-specific predictions and therapeutic planning.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T10:14:19.452Z

@@ -1,0 +1,12 @@
+# Digital Nets and Sequences for Quasi-Monte Carlo Methods
+
+**Authors:** Hee Sun Hong
+
+## Summary
+Quasi-Monte Carlo methods are a way of improving the efficiency of Monte Carlo methods. Digital nets and sequences are one of the low discrepancy point sets used in quasi-Monte Carlo methods. This thesis presents the three new results pertaining to digital nets and sequences: implementing randomized digital nets, finding the distribution of the discrepancy of scrambled digital nets, and obtaining better quality of digital nets through evolutionary computation. Finally, applications of scrambled and non-scrambled digital nets are provided.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T10:16:10.439Z

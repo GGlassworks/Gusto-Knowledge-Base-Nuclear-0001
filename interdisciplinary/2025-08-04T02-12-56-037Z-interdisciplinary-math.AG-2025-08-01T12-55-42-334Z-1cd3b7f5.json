@@ -1,0 +1,12 @@
+# Derived Grassmannians and derived Schur functors
+
+**Authors:** Qingyuan Jiang
+
+## Summary
+This paper develops two theories, the geometric theory of derived Grassmannians (and flag schemes) and the algebraic theory of derived Schur (and Weyl) functors, and establishes their connection, a derived generalization of the Borel-Weil-Bott theorem. More specifically: (1) The theory of derived Grassmannians and flag schemes is the natural extension of the theory of derived projectivizations [arXiv:2202.11636] and generalizes Grothendieck's theory of Grassmannians and flag schemes of sheaves to the case of complexes. We establish their fundamental properties and study various natural morphisms among them. (2) The theory of derived Schur and Weyl functors extends the classical theory of Schur and Weyl module functors studied in $\mathrm{GL}_n(\mathbb{Z})$-representation theory to the case of complexes. We show that these functors have excellent functorial properties and satisfy derived generalizations of classical formulae such as Cauchy's decomposition formula, direct-sum decomposition formula and Littlewood-Richardson rule. We also generalize various results from the case of derived symmetric powers to derived Schur functors, such as Illusie-Lurie's d\'ecalage isomorphism. (3) These two theories are connected by a derived version of the Borel-Weil-Bott theorem, which generalizes the classical Borel-Weil-Bott theorem and calculates the derived pushforwards of tautological perfect complexes on derived flag schemes in terms of derived Schur functors when the complexes have perfect-amplitude $\le 1$ and positive ranks.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.AG
+Collected: 2025-08-01T12:55:42.335Z

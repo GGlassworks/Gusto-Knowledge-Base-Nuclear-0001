@@ -1,0 +1,12 @@
+# NNSC-Cobordism of Bartnik Data in High Dimensions
+
+**Authors:** Xue Hu, Yuguang Shi
+
+## Summary
+In this short note, we formulate three problems relating to nonnegative scalar curvature (NNSC) fill-ins. Loosely speaking, the first two problems focus on: When are $(n-1)$-dimensional Bartnik data $\big(\Sigma_i ^{n-1}, \gamma_i, H_i\big)$, $i=1,2$, NNSC-cobordant? (i.e., there is an $n$-dimensional compact Riemannian manifold $\big(\Omega^n, g\big)$ with scalar curvature $R(g)\geq 0$ and the boundary $\partial \Omega=\Sigma_{1} \cup \Sigma_{2}$ such that $\gamma_i$ is the metric on $\Sigma_i ^{n-1}$ induced by $g$, and $H_i$ is the mean curvature of $\Sigma_i$ in $\big(\Omega^n, g\big)$). If $\big(\mathbb{S}^{n-1},\gamma_{\rm std},0\big)$ is positive scalar curvature (PSC) cobordant to $\big(\Sigma_1 ^{n-1}, \gamma_1, H_1\big)$, where $\big(\mathbb{S}^{n-1}, \gamma_{\rm std}\big)$ denotes the standard round unit sphere then $\big(\Sigma_1 ^{n-1}, \gamma_1, H_1\big)$ admits an NNSC fill-in. Just as Gromov's conjecture is connected with positive mass theorem, our problems are connected with Penrose inequality, at least in the case of $n=3$. Our third problem is on $\Lambda\big(\Sigma^{n-1}, \gamma\big)$ defined below.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.DG
+Collected: 2025-08-01T10:41:06.484Z

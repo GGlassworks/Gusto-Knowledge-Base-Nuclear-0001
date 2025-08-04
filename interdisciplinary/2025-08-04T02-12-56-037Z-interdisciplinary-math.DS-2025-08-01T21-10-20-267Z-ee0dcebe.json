@@ -1,0 +1,12 @@
+# A new algorithm that generates the image of the attractor of a generalized iterated function system
+
+**Authors:** Radu Miculescu, Alexandru Mihail, Silviu-Aurelian Urziceanu
+
+## Summary
+We provide a new algorithm (called the grid algorithm) designed to generate the image of the attractor of a generalized iterated function system on a finite dimensional space and we compare it with the deterministic algorithm regarding generalized iterated function systems presented by P. Jaros, L. Maslanka and F. Strobin in [Algorithms generating images of attractors of generalized iterated function systems, Numer. Algorithms, 73 (2016), 477-499].
+
+
+---
+Category: interdisciplinary
+Subcategory: math.DS
+Collected: 2025-08-01T21:10:20.268Z

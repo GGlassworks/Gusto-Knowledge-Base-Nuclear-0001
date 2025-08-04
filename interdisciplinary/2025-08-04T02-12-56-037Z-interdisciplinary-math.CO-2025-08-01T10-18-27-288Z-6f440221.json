@@ -1,0 +1,12 @@
+# A Space Efficient Algorithm for the Calculation of the Digit Distribution in the Kolakoski Sequence
+
+**Authors:** Johan Nilsson
+
+## Summary
+With standard algorithms for generating the classical Kolakoski sequence, the numerical calculation of the digit distribution requires a linear amount of space. Here, we present an algorithm for calculating the distribution of the digits in the classical Kolakoski sequence, that only requires a logarithmic amount of space and still runs in linear time. The algorithm is easily adaptable to generalised Kolakoski sequences.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.CO
+Collected: 2025-08-01T10:18:27.289Z

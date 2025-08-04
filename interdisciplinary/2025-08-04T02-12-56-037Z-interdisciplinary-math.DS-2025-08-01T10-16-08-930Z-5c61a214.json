@@ -1,0 +1,12 @@
+# Dynamic Human Body Models in Vehicle Safety: An Overview
+
+**Authors:** Niklas Fahse, Matthew Millard, Fabian Kempter, Steffen Maier, Michael Roller, Jörg Fehr
+
+## Summary
+Significant trends in the vehicle industry are autonomous driving, micromobility, electrification and the increased use of shared mobility solutions. These new vehicle automation and mobility classes lead to a larger number of occupant positions, interiors and load directions. As safety systems interact with and protect occupants, it is essential to place the human, with its variability and vulnerability, at the center of the design and operation of these systems. Digital human body models (HBMs) can help meet these requirements and are therefore increasingly being integrated into the development of new vehicle models. This contribution provides an overview of current HBMs and their applications in vehicle safety in different driving modes. The authors briefly introduce the underlying mathematical methods and present a selection of HBMs to the reader. An overview table with guideline values for simulation times, common applications and available variants of the models is provided. To provide insight into the broad application of HBMs, the authors present three case studies in the field of vehicle safety: (i) in-crash finite element simulations and injuries of riders on a motorcycle; (ii) scenario-based assessment of the active pre-crash behavior of occupants with the Madymo multibody HBM; (iii) prediction of human behavior in a take-over scenario using the EMMA model.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.DS
+Collected: 2025-08-01T10:16:08.931Z

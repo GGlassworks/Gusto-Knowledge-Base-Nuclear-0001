@@ -1,0 +1,12 @@
+# Range Description for an Attenuated Conical Radon Transform with Fixed Central Axis and Opening Angle
+
+**Authors:** Gihyeon Jeon
+
+## Summary
+The conical Radon transform is an integral transform that maps a given function $f$ to its integral over a conical surface. In this study, we invesgate the conical Radon transform with a fixed central axis and opening angle, considering the attenuation of radiation within the transform. Specifically, we explore the attenuated conical Radon transform. In this paper, we provide the range conditions for the attenuated conical Radon transform and its auxiliary transform. Range description of an operator is an important topic in mathematics, and it is useful for understanding the transform, completing incomplete data, improving reconstuction algorithm, correcting measurement error. The range conditions of attenuated conical Radon transforms are given in terms of the hyperbolic differential operator.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.FA
+Collected: 2025-08-01T11:50:43.218Z

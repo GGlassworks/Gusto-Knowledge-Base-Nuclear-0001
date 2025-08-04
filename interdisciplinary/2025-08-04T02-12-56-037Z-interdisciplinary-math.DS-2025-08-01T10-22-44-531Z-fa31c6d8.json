@@ -1,0 +1,12 @@
+# Multifractal analysis of the convergence exponents for the digits in $d$-decaying Gauss like dynamical systems
+
+**Authors:** Kunkun Song, Mengjie Zhang
+
+## Summary
+Let $\{a_n(x)\}_{n\geq1}$ be the sequence of digits of $x\in(0,1)$ in infinite iterated function systems with polynomial decay of the derivative. We first study the multifractal spectrum of the convergence exponent defined by the sequence of the digits $\{a_n(x)\}_{n\geq1}$ and the weighted products of distinct digits with finite numbers respectively, and then calculate the Hausdorff dimensions of the intersection of sets defined by the convergence exponent of the weighted product of distinct digits with finite numbers and sets of points whose digits are non-decreasing in such iterated function systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.DS
+Collected: 2025-08-01T10:22:44.531Z

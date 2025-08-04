@@ -1,0 +1,12 @@
+# An investigation into the application of genetic programming to combinatorial game theory
+
+**Authors:** Melissa A. Huggan, Craig Tennenhouse
+
+## Summary
+Genetic programming is the practice of evolving formulas using crossover and mutation of genes representing functional operations. Motivated by genetic evolution we develop and solve two combinatorial games, and we demonstrate some advantages and pitfalls of using genetic programming to investigate Grundy values. We conclude by investigating a combinatorial game whose ruleset and starting positions are inspired by genetic structures.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.CO
+Collected: 2025-08-01T16:43:26.958Z

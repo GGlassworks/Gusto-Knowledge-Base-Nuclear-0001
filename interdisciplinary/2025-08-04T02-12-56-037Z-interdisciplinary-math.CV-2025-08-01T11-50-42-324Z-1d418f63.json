@@ -1,0 +1,12 @@
+# The Fourier and Hilbert transforms under the Bargmann transform
+
+**Authors:** Xing-Tang Dong, Kehe Zhu
+
+## Summary
+There is a canonical unitary transformation from $L^2(\R)$ onto the Fock space $F^2$, called the Bargmann transform. We study the action of the Bargmann transform on several classical integral operators on $L^2(\R)$, including the fractional Fourier transform, the fractional Hilbert transform, and the wavelet transform.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.CV
+Collected: 2025-08-01T11:50:42.324Z

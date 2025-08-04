@@ -1,0 +1,12 @@
+# The emergence of chaos in population game dynamics induced by comparisons
+
+**Authors:** Jakub Bielawski, Łukasz Cholewa, Fryderyk Falniowski
+
+## Summary
+Precise description of population game dynamics introduced by revision protocols - an economic model describing the agent's propensity to switch to a better-performing strategy - is of importance in economics and social sciences in general. In this setting innovation or imitation of others is the force which drives the evolution of the economic system. As the continuous-time game dynamics is relatively well understood, the same cannot be said about revision driven dynamics in the discrete time. We investigate the behavior of agents in a $2\times 2$ anti-coordination game with symmetric random matching and a unique mixed Nash equilibrium. In continuous time the Nash equilibrium is attracting and induces a global evolutionary stable state. We show that in the discrete time one can construct (either innovative or imitative) revision protocol and choose a level of the time step, under which the game dynamics is Li-Yorke chaotic, inducing complex and unpredictable behavior of the system, precluding stable predictions of equilibrium. Moreover, we reveal that this unpredictability is encoded into any imitative revision protocol. Furthermore, we show that for any such game there exists a perturbed pairwise proportional imitation protocol introducing chaotic behavior of the agents for sufficiently large time step.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.DS
+Collected: 2025-08-01T20:55:00.189Z

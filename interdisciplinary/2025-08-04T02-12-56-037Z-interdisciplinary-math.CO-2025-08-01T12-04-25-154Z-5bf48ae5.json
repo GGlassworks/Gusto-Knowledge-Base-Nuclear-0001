@@ -1,0 +1,12 @@
+# Transformations on hypergraph families
+
+**Authors:** Sean Trinity Vittadello
+
+## Summary
+We present a new general theory of function-based hypergraph transformations on finite families of finite hypergraphs. A function-based hypergraph transformation formalises the action of structurally modifying hypergraphs from a family in a consistent manner. The mathematical form of the transformations facilitates their analysis and incorporation into larger mathematical structures, and concurs with the function-based nature of modelling in the physical world. Since quotients of hypergraphs afford their simplification and comparison, we also discuss the notion of a quotient hypergraph transformation induced by an equivalence relation on the vertex set of a hypergraph family. Finally, we demonstrate function-based hypergraph transformations with two fundamental classes of examples involving the addition or deletion of hyperedges or hypergraphs.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.CO
+Collected: 2025-08-01T12:04:25.155Z

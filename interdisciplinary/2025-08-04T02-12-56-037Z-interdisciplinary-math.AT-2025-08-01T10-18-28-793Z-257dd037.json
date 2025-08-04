@@ -1,0 +1,12 @@
+# The Topological Complexity of Spaces of Digital Jordan Curves
+
+**Authors:** Shelley Kandola
+
+## Summary
+This research is motivated by studying image processing algorithms through a topological lens. The images we focus on here are those that have been segmented by digital Jordan curves as a means of image compression. The algorithms of interest are those that continuously morph one digital image into another digital image. Digital Jordan curves have been studied in a variety of forms for decades now. Our contribution to this field is interpreting the set of digital Jordan curves that can exist within a given digital plane as a finite topological space. Computing the topological complexity of this space determines the minimal number of continuous motion planning rules required to transform one image into another, and determining the motion planners associated to topological complexity provides the specific algorithms for doing so. The main result of Section 3 is that our space of digital Jordan curves is connected, hence, its topological complexity is finite. To build up to that, we use Section 2 to prove some results about paths and distance functions that are obvious in Hausdorff spaces, yet surprisingly elusive in $T_0$ spaces. We end with Section 4, in which we study applications of these results. In particular, we prove that our interpretation of the space of digital Jordan curves is the only topologically correct interpretation. This article is an adaptation of the author's Ph.D. dissertation.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.AT
+Collected: 2025-08-01T10:18:28.793Z

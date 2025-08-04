@@ -1,0 +1,12 @@
+# Enhanced Digital Halftoning via Weighted Sigma-Delta Modulation
+
+**Authors:** Felix Krahmer, Anna Veselovska
+
+## Summary
+In this paper, we study error diffusion techniques for digital halftoning from the perspective of 1-bit Sigma-Delta quantization. We introduce a method to generate Sigma-Delta schemes for two-dimensional signals as a weighted combination of its one-dimensional counterparts and show that various error diffusion schemes proposed in the literature can be represented in this framework via Sigma-Delta schemes of first order. Under the model of two-dimensional bandlimited signals, which is motivated by a mathematical model of human visual perception, we derive quantitative error bounds for such weighted Sigma-Delta schemes. We see these bounds as a step towards a mathematical understanding of the good empirical performance of error diffusion, even though they are formulated in the supremum norm, which is known to not fully capture the visual similarity of images. Motivated by the correspondence between existing error diffusion algorithms and first-order Sigma-Delta schemes, we study the performance of the analogous weighted combinations of second-order Sigma-Delta schemes and show that they exhibit a superior performance in terms of guaranteed error decay for two-dimensional bandlimited signals. In extensive numerical simulations for real world images, we demonstrate that with some modifications to enhance stability this superior performance also translates to the problem of digital halftoning. More concretely, we find that certain second-order weighted Sigma-Delta schemes exhibit competitive performance for digital halftoning of real world images in terms of the Feature Similarity Index (FSIM), a state-of-the-art measure for image quality assessment.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T10:14:18.861Z

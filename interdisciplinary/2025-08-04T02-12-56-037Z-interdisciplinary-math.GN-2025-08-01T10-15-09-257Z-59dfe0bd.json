@@ -1,0 +1,12 @@
+# Introduction to the theory of digital spaces
+
+**Authors:** Alexander V. Evako
+
+## Summary
+This book provides an introduction to the theory of digital (molecular) spaces (TDS). Digital spaces are combinatorial models of continuous spaces. TDS is one of alternative branches of digital topology that studies constructing and modifying 2, 3 and n-dimensional digital image arrays in a computer and its memory. Demands for mathematical theory of multidimensional spaces built of finite number of points appeared in connection with the use of many dimensional images in computer programs. This work presents, as examples, digital models of n-dimensional Euclidean spaces, n-dimensional spheres, a torus, a projective plane, etc. Methods of TMS can work successfully in such areas as biology, chemistry, industry, medicine, etc. The book is organized as follows. Digital models of continuous spaces are the intersection graphs of special locally centered lamp covers of continuous spaces. Digital models are represented by graphs, algebraic matrices and a set of unit cubes in n-dimensional Euclidean space. The main mathematical characteristics of digital models of continuous spaces, such as the dimension, the Euler characteristic, the homology groups and others, are the same as those of their continuous counterparts. Contractible transformations of digital spaces, that change the number of elements, do not change the mathematical characteristics and properties of digital spaces. The main goal is to construct digital models of continuous spaces and to explain how to use the new methods to work with mathematical objects. The emphasis is on introducing the readers to the basics and conceptual understanding of what TDS is.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.GN
+Collected: 2025-08-01T10:15:09.257Z

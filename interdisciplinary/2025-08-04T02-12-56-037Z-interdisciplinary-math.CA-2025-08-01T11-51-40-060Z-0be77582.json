@@ -1,0 +1,12 @@
+# A Short Survey on Arithmetic Transforms and the Arithmetic Hartley Transform
+
+**Authors:** R. J. Cintra, H. M. de Oliveira
+
+## Summary
+Arithmetic complexity has a main role in the performance of algorithms for spectrum evaluation. Arithmetic transform theory offers a method for computing trigonometrical transforms with minimal number of multiplications. In this paper, the proposed algorithms for the arithmetic Fourier transform are surveyed. A new arithmetic transform for computing the discrete Hartley transform is introduced: the Arithmetic Hartley transform. The interpolation process is shown to be the key element of the arithmetic transform theory.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.CA
+Collected: 2025-08-01T11:51:40.061Z

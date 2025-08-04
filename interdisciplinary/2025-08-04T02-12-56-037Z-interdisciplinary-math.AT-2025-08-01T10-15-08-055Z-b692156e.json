@@ -1,0 +1,12 @@
+# Digital homotopy relations and digital homology theories
+
+**Authors:** P. Christopher Staecker
+
+## Summary
+In this paper we prove results relating to two homotopy relations and four homology theories developed in the topology of digital images. We introduce a new type of homotopy relation for digitally continuous functions which we call "strong homotopy." Both digital homotopy and strong homotopy are natural digitizations of classical topological homotopy: the difference between them is analogous to the difference between digital 4-adjacency and 8-adjacency in the plane. We also consider four different digital homology theories: a simplicial homology theory by Arslan et al which is the homology of the clique complex, a singular simplicial homology theory by D. W. Lee, a cubical homology theory by Jamil and Ali, and a new kind of cubical homology for digital images with $c_1$-adjacency which is easily computed, and generalizes a construction by Karaca \&amp; Ege. We show that the two simplicial homology theories are isomorphic to each other, but distinct from the two cubical theories. We also show that homotopic maps have the same induced homomorphisms in the cubical homology theory, and strong homotopic maps additionally have the same induced homomorphisms in the simplicial theory.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.AT
+Collected: 2025-08-01T10:15:08.055Z

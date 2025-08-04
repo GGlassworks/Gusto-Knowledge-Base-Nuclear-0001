@@ -1,0 +1,12 @@
+# $G$-deviations of polygons and their applications in Electric Power Engineering
+
+**Authors:** Taras Banakh, Olena Hryniv, Vasyl Hudym
+
+## Summary
+For any metric space $X$ endowed with the action of a group $G$, and two $n$-gons $\vec x=(x_1,\dots,x_n)\in X^n$ and $\vec y=(y_1,\dots,y_n)\in X^n$ in $X$, we introduce the $G$-deviation $d(G\vec x,\vec y\,)$ of $\vec x$ from $\vec y$ as the distance in $X^n$ from $\vec y$ to the $G$-orbit $G\vec x$ of $\vec x$ in the $n$-th power $X^n$ of $X$. For some groups $G$ of affine transformations of the complex plane, we deduce simple-to-apply formulas for calculating the $G$-derviation between $n$-gons on the complex plane. We apply these formulas for defining new measures of asymmetry of triangles. These new measures can be applied in Electric Power Engineering for evaluating the quality of 3-phase electric power. One of such measures, namely the affine deviation, is espressible via the unbalance degree, which is a standard characteristic of quality of three-phase electric power.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.GT
+Collected: 2025-08-01T15:48:04.879Z

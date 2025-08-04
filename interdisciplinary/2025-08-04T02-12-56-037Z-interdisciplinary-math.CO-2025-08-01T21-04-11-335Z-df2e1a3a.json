@@ -1,0 +1,12 @@
+# The polynomial algorithm for graphs' isomorphism testing
+
+**Authors:** Aleksandr Golubchik
+
+## Summary
+A polynomial algorithm for graphs' isomorphism testing is constructed in assumption that there exists a corresponding polynomial algorithm for graphs with trivial automorphism group.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.CO
+Collected: 2025-08-01T21:04:11.336Z
