@@ -1,0 +1,13 @@
+# Sparse feedback structures for control of civil systems
+
+**Authors:** Reuben D. Verdoljak, Lauren E. Linderman
+
+## Abstract
+Modern structural control systems use centralized, wired sensor feedback to impart counter forces based on measurement of the response. However, centralized systems can be sensitive to sensor failure, controller failure, and the reliability of sensor links. The recent study of wireless control systems has encouraged decentralized control approaches to overcome wireless structural control challenges, including limiting the wireless communication required and the associated slow sampling rate and time delays in the control system. Decentralized control offers the additional advantages of multiple independent controllers and small subsets of measurement feedback. Previous decentralized structural control algorithms, both Ad‐Hoc and Heuristic, enforce a spatial sparsity pattern during the design, which is assumed a priori. Therefore, the optimal feedback structure is not considered in the design. This work explores a decentralized optimal LQR design algorithm where the sparsity of the feedback gain is incorporated into the objective function. The control approach is compared with previous decentralized control techniques on 5‐ and 20‐story control benchmark structures fitted with active or semi‐active systems. Additionally, the sparsity and control requirements are compared with centralized designs to gain insight on the overall performance of sparse feedback systems. The optimal sparse feedback design offers the best balance of performance, measurement feedback, and control effort. Additionally, the feedback structure identified is not easily identifiable a priori in the reduced order model of the 20‐story structure, highlighting the significance of particular measurements in this feedback framework. Copyright © 2016 John Wiley & Sons, Ltd.
+
+**Source:** https://www.semanticscholar.org/paper/7772a007534f7cb1275bf05b1808c95206a4d7d2
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:12:12.084Z

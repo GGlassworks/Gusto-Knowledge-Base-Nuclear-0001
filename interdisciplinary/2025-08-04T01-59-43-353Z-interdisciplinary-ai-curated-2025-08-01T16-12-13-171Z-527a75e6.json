@@ -1,0 +1,13 @@
+# Java Inspection Framework: Developing Field Inspection Support Systems for Civil Systems Inspection
+
+**Authors:** J. Sunkpho, J. Garrett
+
+## Abstract
+In order to provide useful and practical computing support for inspectors in the field performing inspection activities, computer systems have to be designed and customized to recognize the specific task and context of the inspection. Unfortunately, the development of field inspection support systems is difficult and still suffers from a lack of more general design knowledge. Effort is wasted when implementing different applications that share some common aspects. This paper presents a partial solution to the difficult problem of developing field inspection support systems—a modular and customizable software environment to facilitate the construction of such applications.
+
+**Source:** https://www.semanticscholar.org/paper/2a6995615e248ddfbf080167fef72bbbfba92e20
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:12:13.171Z

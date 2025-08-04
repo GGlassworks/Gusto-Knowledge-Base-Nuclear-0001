@@ -1,0 +1,13 @@
+# Modal parameter identification for closely spaced modes of civil structures based on an upgraded stochastic subspace methodology
+
+**Authors:** Wen-Hwa Wu, Sheng-Wei Wang, Chien-Chou Chen, G. Lai
+
+## Abstract
+Abstract Based on a recently developed stochastic subspace identification methodology equipped with an alternative stabilization diagram and a hierarchical sifting process, this research aims to improve this approach for more efficiently identifying the modal parameters of civil structures with closely spaced modes. The concept of a doubly folded stabilization diagram is proposed to combine the advantages of both the conventional and alternative stabilization diagrams for achieving better computational efficiency. In addition, the hierarchical sifting process is further refined to more properly handle closely spaced modes. The investigated cases for the occurrence of extremely close modes in civil engineering structures include axially symmetric stay cables, a symmetric cable-stayed bridge with respect to the pylon, and a uniformly arranged office building. Applying the upgraded SSI methodology established in this study, it is demonstrated that the modal parameter identification of civil engineering structures with extremely close modes can be elevated to an advanced level with a frequency space index at the order of 0.1%. Such an accurate identification and distinction is particularly important in the practical applications of structural health monitoring to prevent the false alarms resulting from the confusion of two extremely close modes. Furthermore, this approach also performs well in the determination of mode shape vectors for closely spaced modes to provide an excellent tool for observing their corresponding orthogonality property and high sensitivity.
+
+**Source:** https://www.semanticscholar.org/paper/e84363cb094c87ac0298a6c50379b4991f7fe403
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:14:12.932Z

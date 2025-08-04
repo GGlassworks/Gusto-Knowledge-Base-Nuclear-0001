@@ -1,0 +1,13 @@
+# Visual monitoring of civil infrastructure systems via camera-equipped Unmanned Aerial Vehicles (UAVs): a review of related works
+
+**Authors:** Youngjib Ham, Kevin K. Han, Jacob J. Lin, M. Golparvar-Fard
+
+## Abstract
+Over the past few years, the application of camera-equipped Unmanned Aerial Vehicles (UAVs) for visually monitoring construction and operation of buildings, bridges, and other types of civil infrastructure systems has exponentially grown. These platforms can frequently survey construction sites, monitor work-in-progress, create documents for safety, and inspect existing structures, particularly for hard-to-reach areas. The purpose of this paper is to provide a concise review of the most recent methods that streamline collection, analysis, visualization, and communication of the visual data captured from these platforms, with and without using Building Information Models (BIM) as a priori information. Specifically, the most relevant works from Civil Engineering, Computer Vision, and Robotics communities are presented and compared in terms of their potential to lead to automatic construction monitoring and civil infrastructure condition assessment.
+
+**Source:** https://www.semanticscholar.org/paper/315702651d8f1f7531a909c17425881f5e472be7
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:10:20.837Z

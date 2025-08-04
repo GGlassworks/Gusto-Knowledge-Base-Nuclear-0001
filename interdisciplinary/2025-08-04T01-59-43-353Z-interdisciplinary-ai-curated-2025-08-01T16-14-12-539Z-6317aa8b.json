@@ -1,0 +1,13 @@
+# Towards vibration-based damage detection of civil engineering structures: overview, challenges, and future prospects
+
+**Authors:** Ali Zar, Zahoor Hussain, Muhammad Akbar, T. Rabczuk, Zhibin Lin, Shuang Li, Bilal Ahmed
+
+## Abstract
+In this paper, we delve into the evolving landscape of vibration-based structural damage detection (SDD) methodologies, emphasizing the pivotal role civil structures play in society's wellbeing and progress. While the significance of monitoring the resilience, durability, and overall health of these structures remains paramount, the methodology employed is continually evolving. Our focus encompasses not just the transformation brought by the advent of artificial intelligence but also the nuanced challenges and future directions that emerge from this integration. We shed light on the inherent nonlinearities civil engineering structures face, the limitations of current validation metrics, and the conundrums introduced by inverse analysis. Highlighting machine learning's (ML) transformative role, we discuss how techniques such as artificial neural networks and support vector machine's have expanded the SDD's scope. Deep learning's (DL) contributions, especially the innovative capabilities of convolutional neural network in raw data feature extraction, are elaborated upon, juxtaposed with the potential pitfalls, like data overfitting. We propose future avenues for the field, such as blending undamaged real-world data with simulated damage scenarios and a tilt towards unsupervised algorithms. By synthesizing these insights, our review offers an updated perspective on the amalgamation of traditional SDD techniques with ML and DL, underlining their potential in fostering more robust civil infrastructures.
+
+**Source:** https://www.semanticscholar.org/paper/0dee111f271ce3fd18bf7946853c8d4ff6beb4c9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:14:12.539Z

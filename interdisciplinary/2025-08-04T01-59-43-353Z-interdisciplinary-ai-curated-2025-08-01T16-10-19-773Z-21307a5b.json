@@ -1,0 +1,13 @@
+# Digital Twin for Civil Engineering Systems: An Exploratory Review for Distributed Sensing Updating
+
+**Authors:** Mattia Francesco Bado, D. Tonelli, Francesca Poli, D. Zonta, J. Casas
+
+## Abstract
+We live in an environment of ever-growing demand for transport networks, which also have ageing infrastructure. However, it is not feasible to replace all the infrastructural assets that have surpassed their service lives. The commonly established alternative is increasing their durability by means of Structural Health Monitoring (SHM)-based maintenance and serviceability. Amongst the multitude of approaches to SHM, the Digital Twin model is gaining increasing attention. This model is a digital reconstruction (the Digital Twin) of a real-life asset (the Physical Twin) that, in contrast to other digital models, is frequently and automatically updated using data sampled by a sensor network deployed on the latter. This tool can provide infrastructure managers with functionalities to monitor and optimize their asset stock and to make informed and data-based decisions, in the context of day-to-day operative conditions and after extreme events. These data not only include sensor data, but also include regularly revalidated structural reliability indices formulated on the grounds of the frequently updated Digital Twin model. The technology can be even pushed as far as performing structural behavioral predictions and automatically compensating for them. The present exploratory review covers the key Digital Twin aspects—its usefulness, modus operandi, application, etc.—and proves the suitability of Distributed Sensing as its network sensor component.
+
+**Source:** https://www.semanticscholar.org/paper/217fb6a3ce86db36b7792357c5c2a3849e813363
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:10:19.773Z

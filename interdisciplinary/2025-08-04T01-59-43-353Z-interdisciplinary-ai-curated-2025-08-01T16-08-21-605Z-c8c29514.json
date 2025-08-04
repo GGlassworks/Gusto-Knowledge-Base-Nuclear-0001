@@ -1,0 +1,13 @@
+# A review of optimization techniques and algorithms used for FRP applications in civil engineering
+
+**Authors:** Amany S. Ramadan, Elbadr O. Elgendi
+
+## Abstract
+Optimization problems aim to minimize or maximize an objective function while fulfilling related constraints. This objective function may be a single or multi-objective optimization. Many studies have been conducted on using these optimization problems in civil and construction engineering, especially for the various machine learning techniques and algorithms that have been developed for fiber reinforced polymer (FRP) applications in the rehabilitation and design of RC structures. FRP is considered the most effective and superior technique for strengthening and retrofitting due to its significant benefits over traditional methods, which have numerous drawbacks, as well as the importance of structural strengthening as a cost-effective and practical option. In this research, an insight into how to apply algorithms and machine learning approaches to optimize FRP applications in civil and construction engineering is presented, as well as a detailed analysis of the various optimization strategies used and their findings. A total of 18 case studies from previous research were discussed and critically evaluated, and they were categorized into six groups according to the algorithm or machine learning technique utilized. Based on the case studies investigated in this study, the genetic algorithm was found to be the optimal algorithm utilized for optimizing FRP applications. The result of this research provides a useful guideline for future researchers and specialists.
+
+**Source:** https://www.semanticscholar.org/paper/0e5f163bc3e0844f9bcde76b96dfb23cf99667d9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:08:21.606Z

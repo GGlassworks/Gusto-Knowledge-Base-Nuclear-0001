@@ -1,0 +1,14 @@
+# Design of a tensegrity servo-actuated structure for civil applications
+
+**Authors:** Cecilia Scoccia, L. Carbonari, G. Palmieri, M. Callegari, M. Rossi, P. Munafò, F. Marchione, G. Chiappini
+
+## Abstract
+
+ The use of glass elements in civil engineering is spreading in the last years beyond merely aesthetic functions for their ease of installation and production. Nonetheless, the structural performance of such materials in any condition of use is object of investigation. In this scenario, the paper analyses the performance of an innovative concept of tensegrity floor (Patent no 0001426973) characterized by a particular steel-glass adhesive junction that permits a profitable structural cooperation between such basically different materials. As known, at the base of the effectiveness of tensegrity structures lies the correct tensioning of metal strands which are devoted at keeping the rigid elements compressed. The tensioning level is then responsible of the actual deformation of the structure, which is of course of uttermost importance while speaking of civil applications. To address this issue with the adequate level of confidence required by construction practice, a mechatronic servo-system is proposed, aimed at maintaining, and modifying when needed, the stress state of the metal cables to adjust the deformation of the upper plane in response to varying loads. Three different actuation schemes, with different levels of realization complexity, are analysed and compared in simulated environment by means of a hybrid multibody-finite elements model.
+
+**Source:** https://www.semanticscholar.org/paper/05b217ea5bf9b372165826485a8fab8a6be30482
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:07:27.667Z

@@ -1,0 +1,13 @@
+# 4D Trajectory Optimization of Commercial Flight for Green Civil Aviation
+
+**Authors:** Yong Tian, Xiuqi He, Yan Xu, Lili Wan, Bojia Ye
+
+## Abstract
+For the current development of green civil aviation, this study aims to optimize the green four-dimensional (4D) trajectory of commercial flight by taking into account conventional cost and environmental cost. Some fundamental models, efficient processing methodologies, and conventional objectives are proposed to construct the framework of trajectory optimization. Based on the environmental cost including greenhouse gas cost and harmful gas cost, green objective functions are presented. The $\text{A}^\ast $ algorithm and the trapezoidal collocation method are employed to optimize the lateral path and vertical profile for 4D optimization trajectory generation. A case study for the A320 from Barcelona Airport to Frankfurt Airport yields the results that the optimal costs can be obtained under different objectives and the total cost can be more optimized by adjusting the weights of environmental cost and conventional cost. The study builds an aided tool for 4D trajectory optimization and demonstrates that environmental factors and conventional factors should be taken into comprehensive consideration when constructing the flight trajectory in the future, as well as it can underpin the green and sustainable development of the air transport industry.
+
+**Source:** https://www.semanticscholar.org/paper/06821c64e0867a7a10bd468cc80878a09c21880c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:08:22.610Z

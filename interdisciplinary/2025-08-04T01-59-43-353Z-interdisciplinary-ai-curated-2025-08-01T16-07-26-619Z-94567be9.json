@@ -1,0 +1,13 @@
+# Unmanned Aerial Vehicle Communications for Civil Applications: A Review
+
+**Authors:** M. Ghamari, Pablo Rangel, Mehrübe Mehrübeoglu, G. Tewolde, R. Sherratt
+
+## Abstract
+The use of drones, formally known as unmanned aerial vehicles (UAVs), has significantly increased across a variety of applications over the past few years. This is due to the rapid advancement towards the design and production of inexpensive and dependable UAVs and the growing request for the utilization of such platforms particularly in civil applications. With their intrinsic attributes such as high mobility, rapid deployment and flexible altitude, UAVs have the potential to be utilized in many wireless system applications. On the one hand, UAVs are able to operate as flying mobile terminals within wireless/cellular networks to support a variety of missions such as goods delivery, search and rescue, precision agriculture monitoring, and remote sensing. On the other hand, UAVs can be utilized as aerial base stations to increase wireless communication coverage, reliability, and the capacity of wireless systems without additional investment in wireless systems infrastructure. The aim of this article is to review the current applications of UAVs for civil and commercial purposes. The focus of this paper is on the challenges and communication requirements associated with UAV-based communication systems. This article initially classifies UAVs in terms of various parameters, some of which can impact UAVs’ communication performance. It then provides an overview of aerial networking and investigates UAVs routing protocols specifically, which are considered as one of the challenges in UAV communication. This article later investigates the use of UAV networks in a variety of civil applications and considers many challenges and communication demands of these applications. Subsequently, different types of simulation platforms are investigated from a communication and networking viewpoint. Finally, it identifies areas of future research.
+
+**Source:** https://www.semanticscholar.org/paper/c9511441e3e549cb63b8d079ced9a3d71aeca818
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:07:26.620Z

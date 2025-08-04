@@ -1,0 +1,13 @@
+# Space Weather Services for Civil Aviation - Challenges and Solutions
+
+**Authors:** K. Kauristie, J. Andries, Peter Beck, J. Berdermann, D. Berghmans, C. Cesaroni, E. D. Donder, J. Patoul, M. Dierckxsens, E. Doornbos, M. Gibbs, Krista Hammond, H. Haralambous, A. Harri, E. Henley, M. Kriegel, Tiera Laitinen, M. Latocha, Y. Maneva, L. Perrone, E. Pica, L. Rodriguez, V. Romano, D. Sabbagh, L. Spogli, I. Stanislawska, L. Tomasik, M. Tshisaphungo, K. Dam, B. V. D. Oord, P. Vanlommel, T. Verhulst, V. Wilken, A. Zalizovski, K. Österberg
+
+## Abstract
+This paper presents a review on the PECASUS service, which provides advisories on enhanced space weather activity for civil aviation. The advisories are tailored according to the Standards and Recommended Practices of the International Civil Aviation Organization (ICAO). Advisories are disseminated in three impact areas: radiation levels at flight altitudes, GNSS-based navigation and positioning, and HF communication. The review, which is based on the experiences of the authors from two years of running pilot ICAO services, describes empirical models behind PECASUS products and lists ground- and space-based sensors, providing inputs for the models and 24/7 manual monitoring activities. As a concrete example of PECASUS performance, its products for a post-storm ionospheric F2-layer depression event are analyzed in more detail. As PECASUS models are particularly tailored to describe F2-layer thinning, they reproduce observations more accurately than the International Reference Ionosphere model (IRI(STORM)), but, on the other hand, it is recognized that the service performance is much affected by the coverage of its input data. Therefore, more efforts will be directed toward systematic measuring of the availability, timeliness and quality of the data provision in the next steps of the service development.
+
+**Source:** https://www.semanticscholar.org/paper/60472a44f587ff85c407a8f25185d6ac2a73bf70
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:10:21.055Z
