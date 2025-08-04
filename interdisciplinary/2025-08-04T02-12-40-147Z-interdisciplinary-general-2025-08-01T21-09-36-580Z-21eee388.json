@@ -1,0 +1,13 @@
+# Nature-Inspired Algorithms in Wireless Sensor Networks
+
+**Authors:** Ajay Kaushik, S. Indu, Daya Gupta
+
+## Abstract
+<jats:p>Wireless sensor networks (WSNs) are becoming increasingly popular due to their applications in a wide variety of areas. Sensor nodes in a WSN are battery operated which outlines the need of some novel protocols that allows the limited sensor node battery to be used in an efficient way. The authors propose the use of nature-inspired algorithms to achieve energy efficient and long-lasting WSN. Multiple nature-inspired techniques like BBO, EBBO, and PSO are proposed in this chapter to minimize the energy consumption in a WSN. A large amount of data is generated from WSNs in the form of sensed information which encourage the use of big data tools in WSN domain. WSN and big data are closely connected since the large amount of data emerging from sensors can only be handled using big data tools. The authors describe how the big data can be framed as an optimization problem and the optimization problem can be effectively solved using nature-inspired algorithms. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-5225-5852-1.ch010
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:09:36.581Z

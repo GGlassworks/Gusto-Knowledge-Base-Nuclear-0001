@@ -1,0 +1,13 @@
+# An Overview of Ant Colony Optimization Algorithms for Dynamic Optimization Problems
+
+**Authors:** Alireza Rezvanian, S. Mehdi Vahidipour, Ali Sadollah
+
+## Abstract
+<jats:p>Swarm intelligence is a relatively recent approach for solving optimization problems that usually adopts the social behavior of birds and animals. The most popular class of swarm intelligence is ant colony optimization (ACO), which simulates the behavior of ants in seeking and moving food. This chapter aim to briefly overview the important role of ant colony optimization methods in solving optimization problems in time-varying and dynamic environments. To this end, we describe concisely the dynamic optimization problems, challenges, methods, benchmarks, measures, and a brief review of methodologies designed using the ACO and its variants. Finally, a short bibliometric analysis is given for the ACO and its variants for solving dynamic optimization problems.</jats:p>
+
+**Source:** https://doi.org/10.5772/intechopen.111839
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:06:32.542Z

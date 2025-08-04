@@ -1,0 +1,13 @@
+# OPTIMIZATION ALGORITHMS OVERVIEW FOR COURSESCHEDULING
+
+**Authors:** M. Zhuniskhanov, R. Suliyev
+
+## Abstract
+<jats:p>Today we have a lot of optimization algorithms that can be used for course scheduling, but the main question is which of them fulfills our requirements better and what are the advantages of one from the others. Since course scheduling is an NP-problem, in this article we will look at a few of algorithms that are used to solve different problems and have proved themselves only on the best side and compare their main advantages. When comparing, we will rely not only on the accuracy of the results, but also on the speed of solving complex problems, and on solving complex conditions.</jats:p>
+
+**Source:** https://doi.org/10.47344/sdubnts.v55i2.540
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:06:31.942Z

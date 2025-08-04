@@ -1,0 +1,13 @@
+# GASP: Genetic Algorithms for Service Placement in Fog Computing Systems
+
+**Authors:** Claudia Canali, Riccardo Lancellotti
+
+## Abstract
+<jats:p>Fog computing is becoming popular as a solution to support applications based on geographically distributed sensors that produce huge volumes of data to be processed and filtered with response time constraints. In this scenario, typical of a smart city environment, the traditional cloud paradigm with few powerful data centers located far away from the sources of data becomes inadequate. The fog computing paradigm, which provides a distributed infrastructure of nodes placed close to the data sources, represents a better solution to perform filtering, aggregation, and preprocessing of incoming data streams reducing the experienced latency and increasing the overall scalability. However, many issues still exist regarding the efficient management of a fog computing architecture, such as the distribution of data streams coming from sensors over the fog nodes to minimize the experienced latency. The contribution of this paper is two-fold. First, we present an optimization model for the problem of mapping data streams over fog nodes, considering not only the current load of the fog nodes, but also the communication latency between sensors and fog nodes. Second, to address the complexity of the problem, we present a scalable heuristic based on genetic algorithms. We carried out a set of experiments based on a realistic smart city scenario: the results show how the performance of the proposed heuristic is comparable with the one achieved through the solution of the optimization problem. Then, we carried out a comparison among different genetic evolution strategies and operators that identify the uniform crossover as the best option. Finally, we perform a wide sensitivity analysis to show the stability of the heuristic performance with respect to its main parameters.</jats:p>
+
+**Source:** https://doi.org/10.3390/a12100201
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:10:44.472Z

@@ -1,0 +1,13 @@
+# An Empirical Comparison
+
+**Authors:** Thomas Bäck
+
+## Abstract
+<p>Given the discussions about Evolutionary Algorithms from the previous chapters, we shall now apply them to the artificial topologies just presented. This will be done by simply running the algorithms in their standard forms (according to the definitions of standard forms as given in sections 2.1.6, 2.2.6, and 2.3.6) for a reasonable number of function evaluations on these problems. The experiment compares an algorithm that self-adapts n standard deviations and uses recombination (the Evolution Strategy), an algorithm that self-adapts n standard deviations and renounces recombination (meta-Evolutionary Programming), and an algorithm that renounces self-adaptation but stresses the role of recombination (the Genetic Algorithm). Furthermore, all algorithms rely on different selection mechanisms. With respect to the level of self-adaptation, the choice of the Evolution Strategy and Evolutionary Programming variants is fair, while the Genetic Algorithm leaves us no choice (i.e., no self-adaptation mechanism is used within the standard Genetic Algorithm). Concerning the population size the number of offspring individuals (λ) is adjusted to a common value of λ = 100 in order to achieve comparability of population sizes while at the same time limiting the computational requirements to a justifiable amount. This results in the following three algorithmic instances that are compared here (using the standard notation introduced in chapter 2): • ES(n,0,rdI, s(15,100)): An Evolution Strategy that self-adapts n standard deviations but does not use correlated mutations. Recombination is discrete on object variables and global intermediate on standard deviations, and the algorithm uses a (15,100)-selection mechanism. • mEP(6,10,100): A meta-Evolutionary Programming algorithm that — by default — self-adapts n variances and controls mutation of variances by a meta-parameter ζ = 6. The tournament size for selection and the population size amount to q = 10 and μ = 100, respectively. • GA(30,0.001,r{0.6, 2}, 5,100): A Genetic Algorithm that evolves a population of μ = 100 bitstrings of length l = 30 • n, each. The scaling window size for linear dynamic scaling is set to ω = 5. Proportional selection, a two-point crossover operator with application rate 0.6 and a mutation operator with bit-reversal probability 1.0·10−3 complete the algorithm.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780195099713.003.0009
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:04:29.956Z

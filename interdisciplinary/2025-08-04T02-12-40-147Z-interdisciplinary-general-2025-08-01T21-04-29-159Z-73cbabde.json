@@ -1,0 +1,13 @@
+# Artificial Landscapes
+
+**Authors:** Thomas Bäck
+
+## Abstract
+<p>In order to facilitate an empirical comparison of the performance of Evolution Strategies, Evolutionary Programming, and Genetic Algorithms, a test environment for these algorithms must be provided in the form of several objective functions f : IRn → IR. Finding an appropriate and representative set of test problems is not an easy task, since any particular combination of properties represented by a test function does not allow for generalized performance statements. However, there is evidence from a vast number of applications that Evolutionary Algorithms are robust in the sense that they give reasonable performance over a wide range of different topologies. Here, a set of test functions that are completely artificial and simple is used, i.e., they are stated in a closed, analytical form and have no direct background from any practical application. Instead, they allow for a detailed analysis of certain special characteristics of the topology, e.g. unimodality or multimodality, continuous or discontinuous cases, and others. If any prediction is drawn up for the behavior of Evolutionary Algorithms depending on such strong topological characteristics, the appropriate idealized test function provides a good instrument to test such hypotheses. Furthermore, since many known test sets have some functions in common, at least a minimal level of comparability of results is often guaranteed. Finally, before we can expect an algorithm to be successful in the case of hard problems, it has to demonstrate that it does not fail to work on simple problems. On the other hand, the (public relations) effect of using artificial topologies is vanishingly small, since the test functions used are of no industrial relevance. This way, researchers working with such test functions can never rest on their industrial laurels. A more legitimate objection against artificial topologies may be that they are possibly not representative of the “average complexity” of real-world problems, and that some regularity features of their topology may inadmissibly speed up the search. However, most test function sets incorporate even multimodal functions of remarkable complexity, such that only the regularity argument counts against using an artifical function set.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780195099713.003.0008
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:04:29.160Z

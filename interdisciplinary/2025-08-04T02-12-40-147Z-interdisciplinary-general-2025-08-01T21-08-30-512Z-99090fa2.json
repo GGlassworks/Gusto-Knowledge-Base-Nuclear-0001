@@ -1,0 +1,13 @@
+# Metropolis-Hastings Algorithms for DSGE Models
+
+**Authors:** Edward P. Herbst, Frank Schorfheide
+
+## Abstract
+<p>This chapter talks about the most widely used method to generate draws from posterior distributions of a DSGE model: the random walk MH (RWMH) algorithm. The DSGE model likelihood function in combination with the prior distribution leads to a posterior distribution that has a fairly regular elliptical shape. In turn, the draws from a simple RWMH algorithm can be used to obtain an accurate numerical approximation of posterior moments. However, in many other applications, particularly those involving medium- and large-scale DSGE models, the posterior distributions could be very non-elliptical. Irregularly shaped posterior distributions are often caused by identification problems or misspecification. In lieu of the difficulties caused by irregularly shaped posterior surfaces, the chapter reviews various alternative MH samplers, which use alternative proposal distributions.</p>
+
+**Source:** https://doi.org/10.23943/princeton/9780691161082.003.0004
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:08:30.513Z

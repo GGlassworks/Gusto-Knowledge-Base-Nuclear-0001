@@ -1,0 +1,13 @@
+# Binary Cockroach Swarm Optimization for Combinatorial Optimization Problem
+
+**Authors:** Ibidun Obagbuwa, Ademola Abidoye
+
+## Abstract
+<jats:p>The Cockroach Swarm Optimization (CSO) algorithm is inspired by cockroach social behavior. It is a simple and efficient meta-heuristic algorithm and has been applied to solve global optimization problems successfully. The original CSO algorithm and its variants operate mainly in continuous search space and cannot solve binary-coded optimization problems directly. Many optimization problems have their decision variables in binary. Binary Cockroach Swarm Optimization (BCSO) is proposed in this paper to tackle such problems and was evaluated on the popular Traveling Salesman Problem (TSP), which is considered to be an NP-hard Combinatorial Optimization Problem (COP). A transfer function was employed to map a continuous search space CSO to binary search space. The performance of the proposed algorithm was tested firstly on benchmark functions through simulation studies and compared with the performance of existing binary particle swarm optimization and continuous space versions of CSO. The proposed BCSO was adapted to TSP and applied to a set of benchmark instances of symmetric TSP from the TSP library. The results of the proposed Binary Cockroach Swarm Optimization (BCSO) algorithm on TSP were compared to other meta-heuristic algorithms.</jats:p>
+
+**Source:** https://doi.org/10.3390/a9030059
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:06:34.120Z

@@ -1,0 +1,13 @@
+# Summary and Outlook
+
+**Authors:** Thomas Bäck
+
+## Abstract
+<p>Within the total of seven chapters presented here on the topic of Evolutionary Algorithms there are a number of crude but nevertheless powerful simplifications of the model of organic evolution. Chapter 1 clarified that Evolutionary Algorithms, if they are interpreted as global optimization algorithms, are not to be confused with the oversimplified concept of uniform random search. Instead, they rely on keeping the history insofar as the subsequent generation is created at each step of the evolution process from the current generation maintained by the algorithm. In other words: Evolutionary Algorithms are representatives of the mathematical concept of a Markov process (respectively chain, in discrete spaces). Concerning the convergence reliability of Evolutionary Algorithms, the theoretical property of global convergence with a probability of one holds for all variants that use an elitist selection method and guarantee a reachability property of mutation which is basically assured by working with nonzero mutation rate in Genetic Algorithms (respectively with nonzero standard deviation in Evolution Strategies and Evolutionary Programming). These results are summarized in theorem 7, 10, and 13, which are based on the general convergence theorem 3 for global random search algorithms respectively on well-known results on absorbing Markov chains. In contrast to convergence reliability investigations where the focus is on the explorative character of the search, convergence velocity analysis emphasizes the exploitation of information collected about a promising region or point in the search space. Both properties are contradictory and cause a trade-off that dominates behavior and control of Evolutionary Algorithms. Nevertheless, convergence velocity investigations so far were known only for Evolution Strategies (see section 2.1.7) but can easily be transferred to standard Evolutionary Programming as demonstrated in section 2.2.7. The result provides a clear indication that the step-size control of standard EP is useless for even moderately large dimensions of the search space and for objective functions that possess a non-vanishing global optimum. More advanced versions of Evolutionary Programming overcome this problem by a self-adaptive control of strategy parameters quite similar to the technique used in Evolution Strategies.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780195099713.003.0014
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:04:29.762Z
