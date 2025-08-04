@@ -1,0 +1,12 @@
+# Towards Digital Nature: Bridging the Gap between Turing Machine Objects and Linguistic Objects in LLMMs for Universal Interaction of Object-Oriented Descriptions
+
+**Authors:** Yoichi Ochiai, Naruya Kondo, Tatsuki Fushimi
+
+## Summary
+In this paper, we propose a novel approach to establish a connection between linguistic objects and classes in Large Language Model Machines (LLMMs) such as GPT3.5 and GPT4, and their counterparts in high level programming languages like Python. Our goal is to promote the development of Digital Nature: a worldview where digital and physical realities are seamlessly intertwined and can be easily manipulated by computational means. To achieve this, we exploit the inherent abstraction capabilities of LLMMs to build a bridge between human perception of the real world and the computational processes that mimic it. This approach enables ambiguous class definitions and interactions between objects to be realized in programming and ubiquitous computing scenarios. By doing so, we aim to facilitate seamless interaction between Turing Machine objects and Linguistic Objects, paving the way for universally accessible object oriented descriptions. We demonstrate a method for automatically transforming real world objects and their corresponding simulations into language simulable worlds using LLMMs, thus advancing the digital twin concept. This process can then be extended to high level programming languages, making the implementation of these simulations more accessible and practical. In summary, our research introduces a groundbreaking approach to connect linguistic objects in LLMMs with high level programming languages, allowing for the efficient implementation of real world simulations. This ultimately contributes to the realization of Digital Nature, where digital and physical worlds are interconnected, and objects and simulations can be effortlessly manipulated through computational means.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.670Z

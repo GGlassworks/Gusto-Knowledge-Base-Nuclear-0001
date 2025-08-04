@@ -1,0 +1,12 @@
+# Recognizing Complex Gestures on Minimalistic Knitted Sensors: Toward Real-World Interactive Systems
+
+**Authors:** Denisa Qori McDonald, Richard Valett, Lev Saunders, Genevieve Dion, Ali Shokoufandeh
+
+## Summary
+Developments in touch-sensitive textiles have enabled many novel interactive techniques and applications. Our digitally-knitted capacitive active sensors can be manufactured at scale with little human intervention. Their sensitive areas are created from a single conductive yarn, and they require only few connections to external hardware. This technique increases their robustness and usability, while shifting the complexity of enabling interactivity from the hardware to computational models. This work advances the capabilities of such sensors by creating the foundation for an interactive gesture recognition system. It uses a novel sensor design, and a neural network-based recognition model to classify 12 relatively complex, single touch point gesture classes with 89.8% accuracy, unfolding many possibilities for future applications. We also demonstrate the system's applicability and robustness to real-world conditions through its performance while being worn and the impact of washing and drying on the sensor's resistance.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:14.386Z

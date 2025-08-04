@@ -1,0 +1,12 @@
+# AutoGraph: A Knowledge-Graph Framework for Modeling Interface Interaction and Automating Procedure Execution in Digital Nuclear Control Rooms
+
+**Authors:** Xingyu Xiao, Jiejuan Tong, Jun Sun, Zhe Sui, Jingang Liang, Hongru Zhao, Jun Zhao, Haitao Wang
+
+## Summary
+Digitalization in nuclear power plant (NPP) control rooms is reshaping how operators interact with procedures and interface elements. However, existing computer-based procedures (CBPs) often lack semantic integration with human-system interfaces (HSIs), limiting their capacity to support intelligent automation and increasing the risk of human error, particularly under dynamic or complex operating conditions. In this study, we present AutoGraph, a knowledge-graph-based framework designed to formalize and automate procedure execution in digitalized NPP environments.AutoGraph integrates (1) a proposed HTRPM tracking module to capture operator interactions and interface element locations; (2) an Interface Element Knowledge Graph (IE-KG) encoding spatial, semantic, and structural properties of HSIs; (3) automatic mapping from textual procedures to executable interface paths; and (4) an execution engine that maps textual procedures to executable interface paths. This enables the identification of cognitively demanding multi-action steps and supports fully automated execution with minimal operator input. We validate the framework through representative control room scenarios, demonstrating significant reductions in task completion time and the potential to support real-time human reliability assessment. Further integration into dynamic HRA frameworks (e.g., COGMIF) and real-time decision support systems (e.g., DRIF) illustrates AutoGraph extensibility in enhancing procedural safety and cognitive performance in complex socio-technical systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:17.292Z

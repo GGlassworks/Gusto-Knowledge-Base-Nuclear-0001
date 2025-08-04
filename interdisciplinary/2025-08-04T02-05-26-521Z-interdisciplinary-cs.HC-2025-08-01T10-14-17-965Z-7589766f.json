@@ -1,0 +1,12 @@
+# DSS: Synthesizing long Digital Ink using Data augmentation, Style encoding and Split generation
+
+**Authors:** Aleksandr Timofeev, Anastasiia Fadeeva, Andrei Afonin, Claudiu Musat, Andrii Maksai
+
+## Summary
+As text generative models can give increasingly long answers, we tackle the problem of synthesizing long text in digital ink. We show that the commonly used models for this task fail to generalize to long-form data and how this problem can be solved by augmenting the training data, changing the model architecture and the inference procedure. These methods use contrastive learning technique and are tailored specifically for the handwriting domain. They can be applied to any encoder-decoder model that works with digital ink. We demonstrate that our method reduces the character error rate on long-form English data by half compared to baseline RNN and by 16% compared to the previous approach that aims at addressing the same problem. We show that all three parts of the method improve recognizability of generated inks. In addition, we evaluate synthesized data in a human study and find that people perceive most of generated data as real.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:17.965Z

@@ -1,0 +1,12 @@
+# Realizing Immersive Communications in Human Digital Twin by Edge Computing Empowered Tactile Internet: Visions and Case Study
+
+**Authors:** Hao Xiang, Changyan Yi, Kun Wu, Jiayuan Chen, Jun Cai, Dusit Niyato, Xuemin, Shen
+
+## Summary
+Human digital twin (HDT) is expected to revolutionize the future human lifestyle and prompts the development of advanced human-centric applications (e.g., Metaverse) by bridging physical and virtual spaces. However, the fulfillment of HDT poses stringent demands on the pervasive connectivity, real-time feedback, multi-modal data transmission and ultra-high reliability, which urge the need of enabling immersive communications. In this article, we shed light on the design of an immersive communication framework for HDT by edge computing empowered tactile Internet (namely IC-HDT-ECoTI). Aiming at offering strong interactions and extremely immersive quality of experience, we introduce the system architecture of IC-HDT-ECoTI, and analyze its major design requirements and challenges. Moreover, we present core guidelines and detailed steps for system implementations. In addition, we conduct an experimental study based on our recently built testbed, which shows a particular use case of IC-HDT-ECoTI in physical therapy, and the obtained results indicate that the proposed framework can significantly improve the effectiveness of the system. Finally, we conclude this article with a brief discussion of open issues and future directions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:17.682Z

@@ -1,0 +1,12 @@
+# Human Perception of LLM-generated Text Content in Social Media Environments
+
+**Authors:** Kristina Radivojevic, Matthew Chou, Karla Badillo-Urquiola, Paul Brenner
+
+## Summary
+Emerging technologies, particularly artificial intelligence (AI), and more specifically Large Language Models (LLMs) have provided malicious actors with powerful tools for manipulating digital discourse. LLMs have the potential to affect traditional forms of democratic engagements, such as voter choice, government surveys, or even online communication with regulators; since bots are capable of producing large quantities of credible text. To investigate the human perception of LLM-generated content, we recruited over 1,000 participants who then tried to differentiate bot from human posts in social media discussion threads. We found that humans perform poorly at identifying the true nature of user posts on social media. We also found patterns in how humans identify LLM-generated text content in social media discourse. Finally, we observed the Uncanny Valley effect in text dialogue in both user perception and identification. This indicates that despite humans being poor at the identification process, they can still sense discomfort when reading LLM-generated content.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.773Z

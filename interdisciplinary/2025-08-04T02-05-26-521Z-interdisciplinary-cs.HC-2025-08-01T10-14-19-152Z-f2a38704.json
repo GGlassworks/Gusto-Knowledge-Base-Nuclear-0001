@@ -1,0 +1,12 @@
+# A Digital Human Model for Symptom Progression of Vestibular Motion Sickness based on Subjective Vertical Conflict Theory
+
+**Authors:** Shota Inoue, Hailong Liu, Takahiro Wada
+
+## Summary
+Digital human models of motion sickness have been actively developed, among which models based on subjective vertical conflict (SVC) theory are the most actively studied. These models facilitate the prediction of motion sickness in various scenarios such as riding in a car. Most SVC theory models predict the motion sickness incidence (MSI), which is defined as the percentage of people who would vomit with the given specific motion stimulus. However, no model has been developed to describe milder forms of discomfort or specific symptoms of motion sickness, even though predicting milder symptoms is important for applications in automobiles and daily use vehicles. Therefore, the purpose of this study was to build a computational model of symptom progression of vestibular motion sickness based on SVC theory. We focused on a model of vestibular motion sickness with six degrees-of-freedom (6DoF) head motions. The model was developed by updating the output part of the state-of-the-art SVC model, termed the 6DoF-SVC (IN1) model, from MSI to the MIsery SCale (MISC), which is a subjective rating scale for symptom progression. We conducted an experiment to measure the progression of motion sickness during a straight fore-aft motion. It was demonstrated that our proposed method, with the parameters of the output parts optimized by the experimental results, fits well with the observed MISC.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:19.152Z

@@ -1,0 +1,12 @@
+# No Need to Sacrifice Data Quality for Quantity: Crowd-Informed Machine Annotation for Cost-Effective Understanding of Visual Data
+
+**Authors:** Christopher Klugmann, Rafid Mahmood, Guruprasad Hegde, Amit Kale, Daniel Kondermann
+
+## Summary
+Labeling visual data is expensive and time-consuming. Crowdsourcing systems promise to enable highly parallelizable annotations through the participation of monetarily or otherwise motivated workers, but even this approach has its limits. The solution: replace manual work with machine work. But how reliable are machine annotators? Sacrificing data quality for high throughput cannot be acceptable, especially in safety-critical applications such as autonomous driving. In this paper, we present a framework that enables quality checking of visual data at large scales without sacrificing the reliability of the results. We ask annotators simple questions with discrete answers, which can be highly automated using a convolutional neural network trained to predict crowd responses. Unlike the methods of previous work, which aim to directly predict soft labels to address human uncertainty, we use per-task posterior distributions over soft labels as our training objective, leveraging a Dirichlet prior for analytical accessibility. We demonstrate our approach on two challenging real-world automotive datasets, showing that our model can fully automate a significant portion of tasks, saving costs in the high double-digit percentage range. Our model reliably predicts human uncertainty, allowing for more accurate inspection and filtering of difficult examples. Additionally, we show that the posterior distributions over soft labels predicted by our model can be used as priors in further inference processes, reducing the need for numerous human labelers to approximate true soft labels accurately. This results in further cost reductions and more efficient use of human resources in the annotation process.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:11.854Z

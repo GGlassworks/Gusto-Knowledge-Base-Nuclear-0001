@@ -1,0 +1,12 @@
+# NewsUnfold: Creating a News-Reading Application That Indicates Linguistic Media Bias and Collects Feedback
+
+**Authors:** Smi Hinterreiter, Martin Wessel, Fabian Schliski, Isao Echizen, Marc Erich Latoschik, Timo Spinde
+
+## Summary
+Media bias is a multifaceted problem, leading to one-sided views and impacting decision-making. A way to address digital media bias is to detect and indicate it automatically through machine-learning methods. However, such detection is limited due to the difficulty of obtaining reliable training data. Human-in-the-loop-based feedback mechanisms have proven an effective way to facilitate the data-gathering process. Therefore, we introduce and test feedback mechanisms for the media bias domain, which we then implement on NewsUnfold, a news-reading web application to collect reader feedback on machine-generated bias highlights within online news articles. Our approach augments dataset quality by significantly increasing inter-annotator agreement by 26.31% and improving classifier performance by 2.49%. As the first human-in-the-loop application for media bias, the feedback mechanism shows that a user-centric approach to media bias data collection can return reliable data while being scalable and evaluated as easy to use. NewsUnfold demonstrates that feedback mechanisms are a promising strategy to reduce data collection expenses and continuously update datasets to changes in context.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:09.502Z

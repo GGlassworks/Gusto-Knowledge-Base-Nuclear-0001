@@ -1,0 +1,12 @@
+# HEDS 3.0: The Human Evaluation Data Sheet Version 3.0
+
+**Authors:** Anya Belz, Craig Thomson
+
+## Summary
+This paper presents version 3.0 of the Human Evaluation Datasheet (HEDS). This update is the result of our experience using HEDS in the context of numerous recent human evaluation experiments, including reproduction studies, and of feedback received. Our main overall goal was to improve clarity, and to enable users to complete the datasheet more consistently and comparably. The HEDS 3.0 package consists of the digital data sheet, documentation, and code for exporting completed data sheets as latex files, all available from the HEDS GitHub.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.618Z

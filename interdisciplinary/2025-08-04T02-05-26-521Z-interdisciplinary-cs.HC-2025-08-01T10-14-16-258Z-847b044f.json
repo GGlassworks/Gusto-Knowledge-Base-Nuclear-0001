@@ -1,0 +1,12 @@
+# Deep ANN-based Touch-less 3D Pad for Digit Recognition
+
+**Authors:** Pramit Kumar Pal, Debarshi Dutta, Attreyee Mandal, Dipshika Das
+
+## Summary
+The Covid-19 pandemic has changed the way humans interact with their environment. Common touch surfaces such as elevator switches and ATM switches are hazardous to touch as they are used by countless people every day, increasing the chance of getting infected. So, a need for touch-less interaction with machines arises. In this paper, we propose a method of recognizing the ten decimal digits (0-9) by writing the digits in the air near a sensing printed circuit board using a human hand. We captured the movement of the hand by a sensor based on projective capacitance and classified it into digits using an Artificial Neural Network. Our method does not use pictures, which significantly reduces the computational requirements and preserves users' privacy. Thus, the proposed method can be easily implemented in public places.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.258Z

@@ -1,0 +1,12 @@
+# Practical and Rich User Digitization
+
+**Authors:** Karan Ahuja
+
+## Summary
+A long-standing vision in computer science has been to evolve computing devices into proactive assistants that enhance our productivity, health and wellness, and many other facets of our lives. User digitization is crucial in achieving this vision as it allows computers to intimately understand their users, capturing activity, pose, routine, and behavior. Today's consumer devices - like smartphones and smartwatches provide a glimpse of this potential, offering coarse digital representations of users with metrics such as step count, heart rate, and a handful of human activities like running and biking. Even these very low-dimensional representations are already bringing value to millions of people's lives, but there is significant potential for improvement. On the other end, professional, high-fidelity comprehensive user digitization systems exist. For example, motion capture suits and multi-camera rigs that digitize our full body and appearance, and scanning machines such as MRI capture our detailed anatomy. However, these carry significant user practicality burdens, such as financial, privacy, ergonomic, aesthetic, and instrumentation considerations, that preclude consumer use. In general, the higher the fidelity of capture, the lower the user's practicality. Most conventional approaches strike a balance between user practicality and digitization fidelity. My research aims to break this trend, developing sensing systems that increase user digitization fidelity to create new and powerful computing experiences while retaining or even improving user practicality and accessibility, allowing such technologies to have a societal impact. Armed with such knowledge, our future devices could offer longitudinal health tracking, more productive work environments, full body avatars in extended reality, and embodied telepresence experiences, to name just a few domains.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.427Z

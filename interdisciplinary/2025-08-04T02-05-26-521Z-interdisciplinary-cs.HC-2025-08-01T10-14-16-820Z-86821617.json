@@ -1,0 +1,12 @@
+# Quantifying attention via dwell time and engagement in a social media browsing environment
+
+**Authors:** Ziv Epstein, Hause Lin, Gordon Pennycook, David Rand
+
+## Summary
+Modern computational systems have an unprecedented ability to detect, leverage and influence human attention. Prior work identified user engagement and dwell time as two key metrics of attention in digital environments, but these metrics have yet to be integrated into a unified model that can advance the theory andpractice of digital attention. We draw on work from cognitive science, digital advertising, and AI to propose a two-stage model of attention for social media environments that disentangles engagement and dwell. In an online experiment, we show that attention operates differently in these two stages and find clear evidence of dissociation: when dwelling on posts (Stage 1), users attend more to sensational than credible content, but when deciding whether to engage with content (Stage 2), users attend more to credible than sensational content. These findings have implications for the design and development of computational systems that measure and model human attention, such as newsfeed algorithms on social media.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.820Z

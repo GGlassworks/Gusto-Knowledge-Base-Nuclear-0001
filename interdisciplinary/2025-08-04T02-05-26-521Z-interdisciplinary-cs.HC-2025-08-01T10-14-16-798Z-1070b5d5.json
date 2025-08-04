@@ -1,0 +1,12 @@
+# Visualizing a Large Spatiotemporal Collection of Historic Photography with a Generous Interface
+
+**Authors:** Taylor Arnold, Nathaniel Ayers, Justin Madron, Robert Nelson, Lauren Tilton
+
+## Summary
+Museums, libraries, and other cultural institutions continue to prioritize and build web-based visualization systems that increase access and discovery to digitized archives. Prominent examples exist that illustrate impressive visualizations of a particular feature of a collection. For example, interactive maps showing geographic spread or timelines capturing the temporal aspects of collections. By way of a case study, this paper presents a new web-based visualization system that allows users to simultaneously explore a large collection of images along several different dimensions---spatial, temporal, visual, textual, and through additional metadata fields including the photographer name---guided by the concept of generous interfaces. The case study is a complete redesign of a previously released digital, public humanities project called Photogrammar (2014). The paper highlights the redesign's interactive visualizations that are now possible by the affordances of newly available software. All of the code is open-source in order to allow for re-use of the codebase to other collections with a similar structure.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.798Z

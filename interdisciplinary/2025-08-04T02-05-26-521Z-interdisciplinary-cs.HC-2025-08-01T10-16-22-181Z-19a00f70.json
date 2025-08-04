@@ -1,0 +1,12 @@
+# Submitting surveys via a conversational interface: an evaluation of user acceptance and approach effectiveness
+
+**Authors:** Irene Celino, Gloria Re Calegari
+
+## Summary
+Conversational interfaces are currently on the rise: more and more applications rely on a chat-like interaction pattern to increase their acceptability and to improve user experience. Also in the area of questionnaire design and administration, interaction design is increasingly looked at as an important ingredient of a digital solution. For those reasons, we designed and developed a conversational survey tool to administer questionnaires with a colloquial form through a chat-like Web interface. In this paper, we present the evaluation results of our approach, taking into account both the user point of view - by assessing user acceptance and preferences in terms of survey compilation experience - and the survey design perspective - by investigating the effectiveness of a conversational survey in comparison to a traditional questionnaire. We show that users clearly appreciate the conversational form and prefer it over a traditional approach and that, from a data collection point of view, the conversational method shows the same reliability and a higher response quality with respect to a traditional questionnaire.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:22.181Z

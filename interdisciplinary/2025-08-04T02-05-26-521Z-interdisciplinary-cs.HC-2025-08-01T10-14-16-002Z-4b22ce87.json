@@ -1,0 +1,12 @@
+# Self-Adaptive Digital Assistance Systems for Work 4.0
+
+**Authors:** Enes Yigitbas, Stefan Sauer, Gregor Engels
+
+## Summary
+In the era of digital transformation, new technological foundations and possibilities for collaboration, production as well as organization open up many opportunities to work differently in the future. The digitization of workflows results in new forms of working which is denoted by the term Work 4.0. In the context of Work 4.0, digital assistance systems play an important role as they give users additional situation-specific information about a workflow or a product via displays, mobile devices such as tablets and smartphones, or data glasses. Furthermore, such digital assistance systems can be used to provide instructions and technical support in the working process as well as for training purposes. However, existing digital assistance systems are mostly created focusing on the "design for all" paradigm neglecting the situation-specific tasks, skills, preferences, or environments of an individual human worker. To overcome this issue, we present a monitoring and adaptation framework for supporting self-adaptive digital assistance systems for Work 4.0. Our framework supports context monitoring as well as UI adaptation for augmented (AR) and virtual reality (VR)-based digital assistance systems. The benefit of our framework is shown based on exemplary case studies from different domains, e.g. context-aware maintenance application in AR or warehouse management training in VR.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.002Z

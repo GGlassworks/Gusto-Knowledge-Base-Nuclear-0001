@@ -1,0 +1,12 @@
+# Gesture Recognition for Feedback Based Mixed Reality and Robotic Fabrication: A Case Study of the UnLog Tower
+
+**Authors:** Alexander Htet Kyaw, Lawson Spencer, Sasa Zivkovic, Leslie Lok
+
+## Summary
+Mixed Reality (MR) platforms enable users to interact with three-dimensional holographic instructions during the assembly and fabrication of highly custom and parametric architectural constructions without the necessity of two-dimensional drawings. Previous MR fabrication projects have primarily relied on digital menus and custom buttons as the interface for user interaction with the MR environment. Despite this approach being widely adopted, it is limited in its ability to allow for direct human interaction with physical objects to modify fabrication instructions within the MR environment. This research integrates user interactions with physical objects through real-time gesture recognition as input to modify, update or generate new digital information enabling reciprocal stimuli between the physical and the virtual environment. Consequently, the digital environment is generative of the user's provided interaction with physical objects to allow seamless feedback in the fabrication process. This research investigates gesture recognition for feedback-based MR workflows for robotic fabrication, human assembly, and quality control in the construction of the UnLog Tower.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:18.720Z

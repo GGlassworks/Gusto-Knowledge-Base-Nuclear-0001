@@ -1,0 +1,12 @@
+# Systems-theoretic Hazard Analysis of Digital Human-System Interface Relevant to Reactor Trip
+
+**Authors:** Edward Chen, Han Bao, Tate Shorthill, Hongbin Zhang, Nam Dinh
+
+## Summary
+Human-system interface is one of the key advanced design features applied to modern digital instrumentation and control systems of nuclear power plants. The conventional design is based on a compact workstation-based system within the control room. The compact workstation provides both a strategic operating environment while also a convenient display for plant status information necessary to the operator. The control environment is further enhanced through display panels, visual and auditory alarms, and procedure systems. However, just like the legacy control, the HSI should incorporate diversity to demonstrate sufficient defense-in-depth protection against common cause failures of the safety system. Furthermore, the vulnerability of the HSI is affected by a plethora of factors, such as human error, cyberattacks, software common cause failures, etc., that complicate the design and analysis. Therefore, this work aims to identify and evaluate existing system vulnerabilities to support the licensing, deployment and operation of HSI designs, especially the functions that are relevant to a reactor trip. We performed a systematic hazard analysis to investigate potential vulnerabilities within the HSI design using the novel redundancy-guided systems-theoretic hazard analysis. This method was developed and demonstrated by Idaho National Laboratory under a project initiated by the Risk-Informed Systems Analysis Pathway of the U.S. Department of Energy's Light Water Reactor Sustainability Program. The goal of the project is to develop a strong technical basis for risk assessment strategies to support effective, reliable, and licensable digital instrumentation and control technologies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.689Z

@@ -1,0 +1,12 @@
+# Literal Encoding: Text is a first-class data encoding
+
+**Authors:** Richard Brath
+
+## Summary
+Digital humanities are rooted in text analysis. However, most visualization paradigms use only categoric, ordered or quantitative data. Literal text must be considered a base data type to encode into visualizations. Literal text offers functional, perceptual, cognitive, semantic and operational benefits. These are briefly illustrated with a subset of sample visualizations focused on semantic word sequences, indicating benefits over standard graphs, maps, treemaps, bar charts and narrative layouts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:17.488Z

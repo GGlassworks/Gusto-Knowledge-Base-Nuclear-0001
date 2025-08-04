@@ -1,0 +1,12 @@
+# Environmental (in)considerations in the Design of Smartphone Settings
+
+**Authors:** Thomas Thibault, Léa Mosesso, Camille Adam, Aurélien Tabard, Anaëlle Beignon, Nolwenn Maudet
+
+## Summary
+Designing for sufficiency is one of many approaches that could foster more moderate and sustainable digital practices. Based on the Sustainable Information and Communication Technologies (ICT) and Human-Computer Interaction (HCI) literature, we identify five environmental settings categories. However, our analysis of three mobile OS and nine representative applications shows an overall lack of environmental concerns in settings design, leading us to identify six pervasive anti-patterns. Environmental settings, where they exist, are set on the most intensive option by default. They are not presented as such, are not easily accessible, and offer little explanation of their impact. Instead, they encourage more intensive use. Based on these findings, we create a design workbook that explores design principles for environmental settings: presenting the environmental potential of settings; shifting to environmentally neutral states; previewing effects to encourage moderate use; rethinking defaults; facilitating settings access and; exploring more frugal settings. Building upon this workbook, we discuss how settings can tie individual behaviors to systemic factors.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:25.271Z

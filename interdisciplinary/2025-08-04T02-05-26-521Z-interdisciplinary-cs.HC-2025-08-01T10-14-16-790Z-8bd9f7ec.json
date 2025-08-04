@@ -1,0 +1,12 @@
+# CoAug-MR: An MR-based Interactive Office Workstation Design System via Augmented Multi-Person Collaboration
+
+**Authors:** Lin Wang, Kuk-Jin Yoon
+
+## Summary
+Digital prototyping and evaluation using 3D modeling and digital human models are becoming more practical for customizing products to the preference of a user. However, the 3D modeling is less accessible to casual users, and digital human models suffer from insufficient body data and less intuitive illustration on how people use the product or how it accommodates to their body. Recently, VR-supported 'Do It Yourself' design has achieved real-time ergonomic evaluation with users themselves by capturing their poses, however, it lacks reliability and quality of design. In this paper, we explore a multi-person interactive design approach that enables designers, users, and even ergonomists to collaborate to achieve effective and reliable design and prototyping tasks. Mixed Reality that utilizes Hololens and motion tracking devices had been developed to provide instant design feedback and evaluation and to experience prototyping in physical space. We evaluate the system based on the usability study, where casual users and designers are engaged in the interactive process of designing items with respect to the body information, the preference, and the environment.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.792Z

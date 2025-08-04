@@ -1,0 +1,12 @@
+# Digital Dotted Lines: Design and Evaluation of a Prototype for Digitally Signing Documents Using Identity Wallets
+
+**Authors:** Yorick Last, Jorrit Geels, Hanna Schraffenberger
+
+## Summary
+Documents are largely stored and shared digitally. Yet, digital documents are still commonly signed using (copies of) handwritten signatures, which are sensitive to fraud. Though secure, cryptography-based signature solutions exist, they are hardly used due to usability issues. This paper proposes to use digital identity wallets for securely and intuitively signing digital documents with verified personal data. Using expert feedback, we implemented this vision in an interactive prototype. The prototype was assessed in a moderated usability test (N = 15) and a subsequent unmoderated remote usability test (N = 99). While participants generally expressed satisfaction with the system, they also misunderstood how to interpret the signature information displayed by the prototype. Specifically, signed documents were also trusted when the document was signed with irrelevant personal data of the signer. We conclude that such unwarranted trust forms a threat to usable digital signatures and requires attention by the usable security community.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:15.963Z

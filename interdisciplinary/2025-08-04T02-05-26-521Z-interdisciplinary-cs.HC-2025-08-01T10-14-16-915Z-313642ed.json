@@ -1,0 +1,12 @@
+# Digital Nudging with Recommender Systems: Survey and Future Directions
+
+**Authors:** Mathias Jesse, Dietmar Jannach
+
+## Summary
+Recommender systems are nowadays a pervasive part of our online user experience, where they either serve as information filters or provide us with suggestions for additionally relevant content. These systems thereby influence which information is easily accessible to us and thus affect our decision-making processes though the automated selection and ranking of the presented content. Automated recommendations can therefore be seen as digital nudges, because they determine different aspects of the choice architecture for users. In this work, we examine the relationship between digital nudging and recommender systems, topics that so far were mostly investigated in isolation. Through a systematic literature search, we first identified 87 nudging mechanisms, which we categorize in a novel taxonomy. A subsequent analysis then shows that only a small part of these nudging mechanisms was previously investigated in the context of recommender systems. This indicates that there is a huge potential to develop future recommender systems that leverage the power of digital nudging in order to influence the decision-making of users. In this work, we therefore outline potential ways of integrating nudging mechanisms into recommender systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.916Z

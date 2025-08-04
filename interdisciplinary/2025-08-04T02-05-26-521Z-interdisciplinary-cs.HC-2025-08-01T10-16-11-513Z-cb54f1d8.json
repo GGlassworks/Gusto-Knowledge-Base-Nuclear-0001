@@ -1,0 +1,12 @@
+# GAVIN: Gaze-Assisted Voice-Based Implicit Note-taking
+
+**Authors:** Anam Ahmad Khan, Joshua Newn, Ryan Kelly, Namrata Srivastava, James Bailey, Eduardo Velloso
+
+## Summary
+Annotation is an effective reading strategy people often undertake while interacting with digital text. It involves highlighting pieces of text and making notes about them. Annotating while reading in a desktop environment is considered trivial but, in a mobile setting where people read while hand-holding devices, the task of highlighting and typing notes on a mobile display is challenging. In this paper, we introduce GAVIN, a gaze-assisted voice note-taking application, which enables readers to seamlessly take voice notes on digital documents by implicitly anchoring them to text passages. We first conducted a contextual enquiry focusing on participants' note-taking practices on digital documents. Using these findings, we propose a method which leverages eye-tracking and machine learning techniques to annotate voice notes with reference text passages. To evaluate our approach, we recruited 32 participants performing voice note-taking. Following, we trained a classifier on the data collected to predict text passage where participants made voice notes. Lastly, we employed the classifier to built GAVIN and conducted a user study to demonstrate the feasibility of the system. This research demonstrates the feasibility of using gaze as a resource for implicit anchoring of voice notes, enabling the design of systems that allow users to record voice notes with minimal effort and high accuracy.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:11.514Z

@@ -1,0 +1,12 @@
+# "Don't Downvote A\$\$\$\$\$\$s!!": An Exploration of Reddit's Advice Communities
+
+**Authors:** Emily Cannon, Bianca Crouse, Souvick Ghosh, Nicholas Rihn, Kristen Chua
+
+## Summary
+Advice forums are a crowdsourced way to reinforce cultural norms and moral behavior. Sites like Reddit contain massive amounts of natural language human interaction, with rules and norms unique to each individual subreddit community. To explore this data, we created a dataset with top 1000 posts from each of two such forums, r/AmItheAsshole and r/relationships, and extracted natural language features including sentiment, similarity, word frequency, and demographics using both algorithmic and manual methods. Further, we developed a method to extract demographic information from the subreddits, examined how the post authors' self-disclosures reflect the unique communities in which their posts are shared, and discussed how the authors' language use choices might be related to broader social patterns. We observed some differences between the subreddits in terms of word frequency, demographics disclosure, and gendered language. In general, both subreddits had more female posters than male, and posters tended to use more words about their opposite gender than the same. Gender-diverse posters were uncommon. Implications for future research include a more careful, inclusive focus on identity and disclosure and how that interacts with advice-seeking behavior in online communities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:18:31.006Z

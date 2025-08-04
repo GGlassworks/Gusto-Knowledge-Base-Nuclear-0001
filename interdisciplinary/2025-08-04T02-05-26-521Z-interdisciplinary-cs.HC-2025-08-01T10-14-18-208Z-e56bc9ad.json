@@ -1,0 +1,12 @@
+# Leveraging Large Language Models for Generating Mobile Sensing Strategies in Human Behavior Modeling
+
+**Authors:** Nan Gao, Zhuolei Yu, Yue Xu, Chun Yu, Yuntao Wang, Flora D. Salim, Yuanchun Shi
+
+## Summary
+Mobile sensing plays a crucial role in generating digital traces to understand human daily lives. However, studying behaviours like mood or sleep quality in smartphone users requires carefully designed mobile sensing strategies such as sensor selection and feature construction. This process is time-consuming, burdensome, and requires expertise in multiple domains. Furthermore, the resulting sensing framework lacks generalizability, making it difficult to apply to different scenarios. In the research, we propose an automated mobile sensing strategy for human behaviour understanding. First, we establish a knowledge base and consolidate rules for data collection and effective feature construction. Then, we introduce the multi-granular human behaviour representation and design procedures for leveraging large language models to generate strategies. Our approach is validated through blind comparative studies and usability evaluation. Ultimately, our approach holds the potential to revolutionise the field of mobile sensing and its applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:18.208Z

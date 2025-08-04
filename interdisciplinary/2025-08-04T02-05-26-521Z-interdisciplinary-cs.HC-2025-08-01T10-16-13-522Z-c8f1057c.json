@@ -1,0 +1,12 @@
+# Generative Intelligence Systems in the Flow of Group Emotions
+
+**Authors:** Fernando Koch, Jessica Nahulan, Jeremy Fox, Martin Keen
+
+## Summary
+Emotional cues frequently arise and shape group dynamics in interactive settings where multiple humans and artificial agents communicate through shared digital channels. While artificial agents lack intrinsic emotional states, they can simulate affective behavior using synthetic modalities such as text or speech. This work introduces a model for orchestrating emotion contagion, enabling agents to detect emotional signals, infer group mood patterns, and generate targeted emotional responses. The system captures human emotional exchanges and uses this insight to produce adaptive, generative responses that influence group affect in real time. The model supports applications in collaborative, educational, and social environments by shifting affective computing from individual-level reactions to coordinated, group-level emotion modulation. We present the system architecture and provide experimental results that illustrate its effectiveness in sensing and steering group mood dynamics.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:13.522Z

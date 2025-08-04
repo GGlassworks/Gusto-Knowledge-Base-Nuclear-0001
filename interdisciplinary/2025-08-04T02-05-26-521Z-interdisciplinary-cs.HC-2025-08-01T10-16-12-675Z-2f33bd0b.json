@@ -1,0 +1,12 @@
+# Live Emoji: Semantic Emotional Expressiveness of 2D Live Animation
+
+**Authors:** Zhenjie Zhao
+
+## Summary
+Live animation of 2D characters has recently become a popular way for storytelling, and has potential application scenarios like tele-present agents or robots. As an extension of human-human communication, there is a need for augmenting the emotional communication experience of live animation. In this paper, we explore the emotional expressiveness issue of 2D live animation. In particular, we propose a descriptive emotion command model to bind a triggering action, the semantic meaning, psychology measurements, and behaviors of an emotional expression. Based on the model, we designed and implemented a proof-of-concept 2D live animation system, where a novel visual programming tool for editing the behaviors of 2D digital characters, and an emotion command recommendation algorithm are proposed. Through a user evaluation, we showcase the usability of our system and its potential for boosting creativity and enhancing the emotional communication experience.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:16:12.675Z

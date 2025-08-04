@@ -1,0 +1,12 @@
+# Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities
+
+**Authors:** Alejandro Benito-Santos, Roberto Therón
+
+## Summary
+In this paper, we present Pilaster (https://visusal.github.io/pilaster/), a collection of citation metadata extracted from publications in visualization for the digital humanities. The collection is generated from a seed set of relevant publications from which we extracted cited works, including journal and conference papers, books, theses, or blog posts, among other resources. The main aim of this work revolves around three main points: first, the collection may serve as an entry point to the discipline for digital humanists and visualization scholars without previous experience in the field. Second, Pilaster can be regarded as a meeting point for more established visualization or humanities scholars seeking to collaborate in the development of novel research ideas and related visualization design studies in the context of the humanities. Third, and given the large amount of visualization design spaces that were captured, we believe the dataset has the potential to become the starting point for future studies aimed at understanding the particularities of problem-driven visualization research in this and other contexts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.089Z

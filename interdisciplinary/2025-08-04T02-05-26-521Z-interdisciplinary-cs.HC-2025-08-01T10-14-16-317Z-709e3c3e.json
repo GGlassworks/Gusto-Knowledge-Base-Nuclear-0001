@@ -1,0 +1,12 @@
+# Data in context: How digital transformation can support human reasoning in cyber-physical production systems
+
+**Authors:** Romy Müller, Franziska Kessler, David W. Humphrey, Julian Rahm
+
+## Summary
+In traditional production plants, current technologies do not provide sufficient context to support information integration and interpretation. Digital transformation technologies have the potential to support contextualization, but it is unclear how this can be achieved. The present article reviews psychological literature in four areas relevant to contextualization: information sampling, integration, categorization, and causal reasoning. Characteristic biases and limitations of human information processing are discussed. Based on this literature, we derive functional requirements for digital transformation technologies, focusing on the cognitive activities they should support. We then present a selection of technologies that have the potential to foster contextualization. These technologies enable the modelling of system relations, the integration of data from different sources, and the connection of the present situation with historical data. We illustrate how these technologies can support contextual reasoning and highlight challenges that should be addressed when designing human-technology cooperation in cyber-physical production systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:14:16.317Z
