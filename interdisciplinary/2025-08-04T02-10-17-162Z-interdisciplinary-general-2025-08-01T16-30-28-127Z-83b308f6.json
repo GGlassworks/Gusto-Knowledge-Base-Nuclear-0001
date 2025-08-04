@@ -1,0 +1,13 @@
+# Optimization of classifier ensemble diversity
+
+**Authors:** Leif E. Peterson
+
+## Abstract
+<jats:p xml:lang="en">Ensemble diversity was investigated for 12 classifiers and 16 datasets using a generalization error and ambiguity decomposition of the model bias-variance relationship. Diversity was optimized using a genetic algorithm and particle swarm optimization. Classifiers with the greatest contribution to ensemble diversity were learning vector quantization, naïve Bayes classifier, and supervised neural gas, whereas the supervised artificial neural network (SANN) and support vector machines (SVM) classifiers were among the least informative for diversity. An important observation was that classifiers with the greatest optimized employment weights in diverse ensembles also had the greatest association between individual unoptimized diversity, D, and number of classes among datasets, with little association with dataset number of objects or features. The SANN and SVM classifiers had a significant association with the number of objects in datasets and were employed infrequently in diverse ensembles. In conclusion, the diversity of a classifier is more dependent on the number of classes of datasets and less dependent on the number of objects or features. A greater ensemble employment weight for a classifier also occurs when its range of generalization error and ambiguity over all datasets overlap.</jats:p>
+
+**Source:** https://doi.org/10.20935/acadmolbiogen7288
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:30:28.127Z

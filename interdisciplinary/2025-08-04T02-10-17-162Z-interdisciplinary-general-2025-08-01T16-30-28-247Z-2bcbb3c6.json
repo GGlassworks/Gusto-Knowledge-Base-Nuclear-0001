@@ -1,0 +1,13 @@
+# A Multistaged Hyperparallel Optimization of the Fuzzy-Logic Mechanistic Model of Molecular Regulation
+
+**Authors:** Paul Aiyetan
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:sec><jats:title>Motivation</jats:title><jats:p>Although it circumvents hyperparameter estimation of ordinary differential equation (ODE) based models and the complexities of many other models, the computational time complexity of a fuzzy logic regulatory model inference problem, particularly at higher order of interactions, quickly approaches those of computationally intractable problems. This undermines the benefits inherent in the simplicity and strength of the fuzzy logic-based molecular regulatory inference approach.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>For a sample inference problem – molecular regulation of vorinostat resistance in the HCT116 colon cancer cell lines, our modeled, designed and implemented “multistaged-hyperparallel” optimization approach significantly shortened the time to model inference from about 485.6 hours (20.2 days) to approximately 9.6 hours (0.4 days), compared to an optimized version of a previous implementation.</jats:p></jats:sec><jats:sec><jats:title>Availability</jats:title><jats:p>The multistaged-hyperparallel method is implemented as a plugin in the JFuzzyMachine tool, freely available at the GitHub repository locations<jats:ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://github.com/paiyetan/jfuzzymachine">https://github.com/paiyetan/jfuzzymachine</jats:ext-link>and<jats:ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://github.com/paiyetan/jfuzzymachine/releases/tag/v1.7.21">https://github.com/paiyetan/jfuzzymachine/releases/tag/v1.7.21</jats:ext-link>. Source codes and binaries are freely available at the specified URLs.</jats:p></jats:sec><jats:sec><jats:title>Contact</jats:title><jats:p><jats:email>paiyetan@gmu.edu</jats:email></jats:p></jats:sec>
+
+**Source:** https://doi.org/10.1101/2020.09.28.315986
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:30:28.248Z
