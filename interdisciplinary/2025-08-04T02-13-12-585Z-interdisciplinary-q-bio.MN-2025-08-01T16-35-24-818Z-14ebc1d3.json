@@ -1,0 +1,12 @@
+# Discovery methods for systematic analysis of causal molecular networks in modern omics datasets
+
+**Authors:** Jack Kelly, Carlo Berzuini, Bernard Keavney, Maciej Tomaszewski, Hui Guo
+
+## Summary
+With the increasing availability and size of multi-omics datasets, investigating the casual relationships between molecular phenotypes has become an important aspect of exploring underlying biology and genetics. This paper aims to introduce and review the available methods for building large-scale causal molecular networks that have been developed in the past decade. Existing methods have their own strengths and limitations so there is no one best approach, and it is instead down to the discretion of the researcher. This review also aims to discuss some of the current limitations to biological interpretation of these networks, and important factors to consider for future studies on molecular networks.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:35:24.818Z

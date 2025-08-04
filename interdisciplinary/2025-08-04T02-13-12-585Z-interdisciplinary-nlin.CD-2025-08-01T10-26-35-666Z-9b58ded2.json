@@ -1,0 +1,12 @@
+# Theoretical Design and FPGA-Based Implementation of Higher-Dimensional Digital Chaotic Systems
+
+**Authors:** Qianxue Wang, Simin Yu, Chengqing Li, Jinhu Lü, Xiaole Fang, Christophe Guyeux, Jacques M. Bahi
+
+## Summary
+Traditionally, chaotic systems are built on the domain of infinite precision in mathematics. However, the quantization is inevitable for any digital devices, which causes dynamical degradation. To cope with this problem, many methods were proposed, such as perturbing chaotic states and cascading multiple chaotic systems. This paper aims at developing a novel methodology to design the higher-dimensional digital chaotic systems (HDDCS) in the domain of finite precision. The proposed system is based on the chaos generation strategy controlled by random sequences. It is proven to satisfy the Devaney's definition of chaos. Also, we calculate the Lyapunov exponents for HDDCS. The application of HDDCS in image encryption is demonstrated via FPGA platform. As each operation of HDDCS is executed in the same fixed precision, no quantization loss occurs. Therefore, it provides a perfect solution to the dynamical degradation of digital chaos.
+
+
+---
+Category: interdisciplinary
+Subcategory: nlin.CD
+Collected: 2025-08-01T10:26:35.666Z

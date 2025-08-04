@@ -1,0 +1,12 @@
+# Patterns on logistic map: back to front
+
+**Authors:** João Valle, Odemir M. Bruno
+
+## Summary
+Recently patterns were found in the least significant digits in the logistic map orbits in the chaotic regime. However, the dynamic of these digits was not explored in deep. We propose a new interpretation of the patterns found in the least significant digits of the logistic map in a chaotic regime, based on exploring the digits' dynamics. We explored these digits by the dynamic iteration method for low positions. When the dynamic of the least significant digits was explored, periodic and fixed digits were found with dynamic analogs to fixed and periodic points of discrete systems. Periodic digits designated well-established period sizes, which are independent of parameter control or initial condition. Fixed digits have attraction and stability characteristics, such as fixed points. This analysis demonstrates that the logistic map's least significant digits have characteristic dynamics.
+
+
+---
+Category: interdisciplinary
+Subcategory: nlin.CD
+Collected: 2025-08-01T10:22:49.943Z

@@ -1,0 +1,12 @@
+# A Molecular Implementation of the Least Mean Squares Estimator
+
+**Authors:** Christoph Zechner, Mustafa Khammash
+
+## Summary
+In order to function reliably, synthetic molecular circuits require mechanisms that allow them to adapt to environmental disturbances. Least mean squares (LMS) schemes, such as commonly encountered in signal processing and control, provide a powerful means to accomplish that goal. In this paper we show how the traditional LMS algorithm can be implemented at the molecular level using only a few elementary biomolecular reactions. We demonstrate our approach using several simulation studies and discuss its relevance to synthetic biology.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:27:04.902Z

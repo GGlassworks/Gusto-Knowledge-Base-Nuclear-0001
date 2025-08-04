@@ -1,0 +1,12 @@
+# Bond Graph Modelling of Chemiosmotic Biomolecular Energy Transduction
+
+**Authors:** Peter Gawthrop
+
+## Summary
+Engineering systems modelling and analysis based on the bond graph approach has been applied to biomolecular systems. In this context, the notion of a Faraday-equivalent chemical potential is introduced which allows chemical potential to be expressed in an analogous manner to electrical volts thus allowing engineering intuition to be applied to biomolecular systems. Redox reactions, and their representation by half-reactions, are key components of biological systems which involve both electrical and chemical domains. A bond graph interpretation of redox reactions is given which combines bond graphs with the Faraday- equivalent chemical potential. This approach is particularly relevant when the biomolecular system implements chemoelectrical transduction - for example chemiosmosis within the key metabolic pathway of mitochondria: oxidative phosphorylation. An alternative way of implementing computational modularity using bond graphs is introduced and used to give a physically based model of the mitochondrial electron transport chain. To illustrate the overall approach, this model is analysed using the Faraday-equivalent chemical potential approach and engineering intuition is used to guide affinity equalisation: a energy based analysis of the mitochondrial electron transport chain.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T15:47:06.354Z

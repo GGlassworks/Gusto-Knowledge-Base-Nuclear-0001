@@ -1,0 +1,12 @@
+# Geometric combinatorics and computational molecular biology: branching polytopes for RNA sequences
+
+**Authors:** Elizabeth Drellich, Andrew Gainer-Dewar, Heather A. Harrington, Qijun He, Christine Heitsch, Svetlana Poznanović
+
+## Summary
+Questions in computational molecular biology generate various discrete optimization problems, such as DNA sequence alignment and RNA secondary structure prediction. However, the optimal solutions are fundamentally dependent on the parameters used in the objective functions. The goal of a parametric analysis is to elucidate such dependencies, especially as they pertain to the accuracy and robustness of the optimal solutions. Techniques from geometric combinatorics, including polytopes and their normal fans, have been used previously to give parametric analyses of simple models for DNA sequence alignment and RNA branching configurations. Here, we present a new computational framework, and proof-of-principle results, which give the first complete parametric analysis of the branching portion of the nearest neighbor thermodynamic model for secondary structure prediction for real RNA sequences.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.BM
+Collected: 2025-08-01T16:30:10.789Z

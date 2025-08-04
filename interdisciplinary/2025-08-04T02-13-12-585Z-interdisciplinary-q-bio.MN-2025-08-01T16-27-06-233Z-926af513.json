@@ -1,0 +1,12 @@
+# Synthetic Biology in Leishmaniasis: Design,simulation and validation of constructed Genetic circuit
+
+**Authors:** Dixita Limbachiya
+
+## Summary
+Building circuits and studying their behavior in cells is a major goal of systems and synthetic biology. Synthetic biology enables the precise control of cellular states for systems studies, the discovery of novel parts, control strategies, and interactions for the design of robust synthetic systems. To the best of our knowledge,there are no literature reports for the synthetic circuit construction for protozoan parasites. This paper describes the construction of genetic circuit for the targeted enzyme inositol phosphorylceramide synthase belonging to the protozoan parasite Leishmania. To explore the dynamic nature of the circuit designed, simulation was done followed by circuit validation by qualitative and quantitative approaches. The genetic circuit designed for inositol phosphorylceramide synthase shows responsiveness, oscillatory and bistable behavior, together with intrinsic robustness.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:27:06.234Z

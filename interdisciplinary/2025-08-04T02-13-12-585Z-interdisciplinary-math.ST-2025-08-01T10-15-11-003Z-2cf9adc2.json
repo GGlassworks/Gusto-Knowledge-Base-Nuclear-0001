@@ -1,0 +1,12 @@
+# Benford-Newcomb Subsequences for Fraud Detection
+
+**Authors:** Aaron Carl Smith
+
+## Summary
+Benford's law is frequently used to evaluate the likihood that data is misrepresentative. Typically statistical tests measure the likihood. Another method of employing Benford's law is to compare the frequency of leading digits to the probabilities of leading digits over a subset of the natural numbers. This paper proposes using the probabilities of leading digits from uniform, natural numbers to establish interval criteria for when to look more closely into the possibility of misrepresentative data.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.ST
+Collected: 2025-08-01T10:15:11.003Z

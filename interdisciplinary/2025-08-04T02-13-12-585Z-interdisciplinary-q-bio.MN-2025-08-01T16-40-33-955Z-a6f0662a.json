@@ -1,0 +1,12 @@
+# Stochastic Synchronization of Genetic Oscillator Networks
+
+**Authors:** Chunguang Li, Luonan Chen, Kazuyuki Aihara
+
+## Summary
+The study of synchronization among genetic oscillators is essential for the understanding of the rhythmic phenomena of living organisms at both molecular and cellular levels. Genetic networks are intrinsically noisy due to natural random intra- and inter-cellular fluctuations. Therefore, it is important to study the effects of noise perturbation on the synchronous dynamics of genetic oscillators. From the synthetic biology viewpoint, it is also important to implement biological systems that minimizing the negative influence of the perturbations. In this paper, based on systems biology approach, we provide a general theoretical result on the synchronization of genetic oscillators with stochastic perturbations. By exploiting the specific properties of many genetic oscillator models, we provide an easy-verified sufficient condition for the stochastic synchronization of coupled genetic oscillators, based on the Lur'e system approach in control theory. A design principle for minimizing the influence of noise is also presented. To demonstrate the effectiveness of our theoretical results, a population of coupled repressillators is adopted as a numerical example. In summary, we present an efficient theoretical method for analyzing the synchronization of genetic oscillator networks, which is helpful for understanding and testing the synchronization phenomena in biological organisms. Besides, the results are actually applicable to general oscillator networks.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:40:33.956Z

@@ -1,0 +1,12 @@
+# Factor Models for Cancer Signatures
+
+**Authors:** Zura Kakushadze, Willie Yu
+
+## Summary
+We present a novel method for extracting cancer signatures by applying statistical risk models (http://ssrn.com/abstract=2732453) from quantitative finance to cancer genome data. Using 1389 whole genome sequenced samples from 14 cancers, we identify an "overall" mode of somatic mutational noise. We give a prescription for factoring out this noise and source code for fixing the number of signatures. We apply nonnegative matrix factorization (NMF) to genome data aggregated by cancer subtype and filtered using our method. The resultant signatures have substantially lower variability than those from unfiltered data. Also, the computational cost of signature extraction is cut by about a factor of 10. We find 3 novel cancer signatures, including a liver cancer dominant signature (96% contribution) and a renal cell carcinoma signature (70% contribution). Our method accelerates finding new cancer signatures and improves their overall stability. Reciprocally, the methods for extracting cancer signatures could have interesting applications in quantitative finance.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.GN
+Collected: 2025-08-01T12:42:27.652Z

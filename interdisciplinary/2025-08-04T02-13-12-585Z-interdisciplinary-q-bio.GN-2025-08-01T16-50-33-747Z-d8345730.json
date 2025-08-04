@@ -1,0 +1,12 @@
+# Causes and Consequences of genetic background effects illuminated by integrative genomic analysis
+
+**Authors:** Christopher H. Chandler, Sudarshan Chari, David Tack, Ian Dworkin
+
+## Summary
+The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic background dependence of the scallopedE3 allele on the Drosophila melanogaster wing, we generated multiple novel genome level datasets from a mapping by introgression experiment and a tagged RNA gene expression dataset. In addition we used whole genome re-sequencing of the parental lines two commonly used laboratory strains to predict polymorphic transcription factor binding sites for SD. We integrated these data with previously published genomic datasets from expression microarrays and a modifier mutation screen. By searching for genes showing a congruent signal across multiple datasets, we were able to identify a robust set of candidate loci contributing to the background dependent effects of mutations in sd. We also show that the majority of background-dependent modifiers previously reported are caused by higher-order epistasis, not quantitative non-complementation. These findings provide a useful foundation for more detailed investigations of genetic background dependence in this system, and this approach is likely to prove useful in exploring the genetic basis of other traits as well.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.GN
+Collected: 2025-08-01T16:50:33.747Z

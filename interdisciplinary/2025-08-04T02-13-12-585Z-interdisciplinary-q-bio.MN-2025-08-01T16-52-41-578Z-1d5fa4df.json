@@ -1,0 +1,12 @@
+# Predicting genetic interactions from Boolean models of biological networks
+
+**Authors:** Laurence Calzone, Emmanuel Barillot, Andrei Zinovyev
+
+## Summary
+Genetic interaction can be defined as a deviation of the phenotypic quantitative effect of a double gene mutation from the effect predicted from single mutations using a simple (e.g., multiplicative or linear additive) statistical model. Experimentally characterized genetic interaction networks in model organisms provide important insights into relationships between different biological functions. We describe a computational methodology allowing to systematically and quantitatively characterize a Boolean mathematical model of a biological network in terms of genetic interactions between all loss of function and gain of function mutations with respect to all model phenotypes or outputs. We use the probabilistic framework defined in MaBoSS software, based on continuous time Markov chains and stochastic simulations. In addition, we suggest several computational tools for studying the distribution of double mutants in the space of model phenotype probabilities. We demonstrate this methodology on three published models for each of which we derive the genetic interaction networks and analyze their properties. We classify the obtained interactions according to their class of epistasis, dependence on the chosen initial conditions and phenotype. The use of this methodology for validating mathematical models from experimental data and designing new experiments is discussed.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:52:41.578Z

@@ -1,0 +1,12 @@
+# A review of DNA restriction-free overlapping sequence cloning techniques for synthetic biology
+
+**Authors:** Isabella Frighetto Bomfiglio, Isabelli Seiler de Medeiros Mendes, Diego Bonatto
+
+## Summary
+DNA cloning methods are fundamental tools in molecular biology, synthetic biology, and genetic engineering that enable precise DNA manipulation for various scientific and biotechnological applications. This review systematically summarizes the major restriction-free overlapping sequence cloning (RFOSC) techniques currently used in synthetic biology and examines their development, efficiency, practicality, and specific applications. In vitro methods, including Gibson Assembly, Circular Polymerase Extension Cloning (CPEC), Polymerase Incomplete Primer Extension (PIPE), Overlap Extension Cloning (OEC), Flap Endonuclease Cloning (FEN-Cloning), and commercially available techniques such as TOPO and In-Fusion, have been discussed alongside hybrid approaches such as Ligation-Independent Cloning (LIC), Sequence-Independent Cloning (SLIC), and T5 Exonuclease-Dependent Assembly (TEDA). Additionally, in vivo methods leveraging host recombination machinery, including Yeast Homologous Recombination (YHR), In Vivo Assembly (IVA), Transformation-Associated Recombination (TAR), and innovative approaches such as Multiple-Round In Vivo Site-Specific Assembly (MISSA) and Phage Enzyme-Assisted Direct Assembly (PEDA), are critically evaluated. The review highlights that method selection should consider the scale, complexity, cost, and specific needs of individual research projects, noting that no single technique is universally optimal. Future trends suggest the increased integration of enzymatic efficiency, host versatility, and automation, broadening the accessibility and capabilities of DNA assembly technologies.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.BM
+Collected: 2025-08-01T16:30:12.263Z

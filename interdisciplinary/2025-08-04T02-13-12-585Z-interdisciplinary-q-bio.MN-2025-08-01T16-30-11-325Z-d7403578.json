@@ -1,0 +1,12 @@
+# Kinetic Model of Translational Autoregulation
+
+**Authors:** Vivian Tyng, Michael E. Kellman
+
+## Summary
+We investigate dynamics of a kinetic model of inhibitory autoregulation as exemplified when a protein inhibits its own production by interfering with its messenger RNA, known in molecular biology as translational autoregulation. We first show how linear models without feedback set the stage with a nonequilibrium steady state that constitutes the target of the regulation. However, regulation in the simple linear model is far from optimal. The negative feedback mechanism whereby the protein "jams" the mRNA greatly enhances the effectiveness of the control, with response to perturbation that is targeted, rapid, and metabolically efficient. Understanding the full dynamics of the system phase space is essential to understanding the autoregulation process.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:30:11.325Z

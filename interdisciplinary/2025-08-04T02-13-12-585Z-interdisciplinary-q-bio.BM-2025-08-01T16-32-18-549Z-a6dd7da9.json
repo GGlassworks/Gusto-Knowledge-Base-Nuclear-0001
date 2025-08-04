@@ -1,0 +1,12 @@
+# Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure
+
+**Authors:** Ian Dunn, David Ryan Koes
+
+## Summary
+Diffusion generative models have emerged as a powerful framework for addressing problems in structural biology and structure-based drug design. These models operate directly on 3D molecular structures. Due to the unfavorable scaling of graph neural networks (GNNs) with graph size as well as the relatively slow inference speeds inherent to diffusion models, many existing molecular diffusion models rely on coarse-grained representations of protein structure to make training and inference feasible. However, such coarse-grained representations discard essential information for modeling molecular interactions and impair the quality of generated structures. In this work, we present a novel GNN-based architecture for learning latent representations of molecular structure. When trained end-to-end with a diffusion model for de novo ligand design, our model achieves comparable performance to one with an all-atom protein representation while exhibiting a 3-fold reduction in inference time.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.BM
+Collected: 2025-08-01T16:32:18.550Z

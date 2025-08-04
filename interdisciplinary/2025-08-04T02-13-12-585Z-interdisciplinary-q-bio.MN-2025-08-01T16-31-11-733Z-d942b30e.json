@@ -1,0 +1,12 @@
+# Higher order molecular organisation as a source of biological function
+
+**Authors:** Thomas Gaudelet, Noel Malod-Dognin, Natasa Przulj
+
+## Summary
+Molecular interactions have widely been modelled as networks. The local wiring patterns around molecules in molecular networks are linked with their biological functions. However, networks model only pairwise interactions between molecules and cannot explicitly and directly capture the higher order molecular organisation, such as protein complexes and pathways. Hence, we ask if hypergraphs (hypernetworks), that directly capture entire complexes and pathways along with protein-protein interactions (PPIs), carry additional functional information beyond what can be uncovered from networks of pairwise molecular interactions. The mathematical formalism of a hypergraph has long been known, but not often used in studying molecular networks due to the lack of sophisticated algorithms for mining the underlying biological information hidden in the wiring patterns of molecular systems modelled as hypernetworks. We propose a new, multi-scale, protein interaction hypernetwork model that utilizes hypergraphs to capture different scales of protein organization, including PPIs, protein complexes and pathways. In analogy to graphlets, we introduce hypergraphlets, small, connected, non-isomorphic, induced sub-hypergraphs of a hypergraph, to quantify the local wiring patterns of these multi-scale molecular hypergraphs and to mine them for new biological information. We apply them to model the multi-scale protein networks of baker yeast and human and show that the higher order molecular organisation captured by these hypergraphs is strongly related to the underlying biology. Importantly, we demonstrate that our new models and data mining tools reveal different, but complementary biological information compared to classical PPI networks. We apply our hypergraphlets to successfully predict biological functions of uncharacterised proteins.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:31:11.733Z

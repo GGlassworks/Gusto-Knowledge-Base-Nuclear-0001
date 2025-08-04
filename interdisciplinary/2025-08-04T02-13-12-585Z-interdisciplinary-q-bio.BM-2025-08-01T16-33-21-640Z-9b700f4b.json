@@ -1,0 +1,12 @@
+# PharMolixFM: All-Atom Foundation Models for Molecular Modeling and Generation
+
+**Authors:** Yizhen Luo, Jiashuo Wang, Siqi Fan, Zaiqing Nie
+
+## Summary
+Structural biology relies on accurate three-dimensional biomolecular structures to advance our understanding of biological functions, disease mechanisms, and therapeutics. While recent advances in deep learning have enabled the development of all-atom foundation models for molecular modeling and generation, existing approaches face challenges in generalization due to the multi-modal nature of atomic data and the lack of comprehensive analysis of training and sampling strategies. To address these limitations, we propose PharMolixFM, a unified framework for constructing all-atom foundation models based on multi-modal generative techniques. Our framework includes three variants using state-of-the-art multi-modal generative models. By formulating molecular tasks as a generalized denoising process with task-specific priors, PharMolixFM achieves robust performance across various structural biology applications. Experimental results demonstrate that PharMolixFM-Diff achieves competitive prediction accuracy in protein-small-molecule docking (83.9% vs. 90.2% RMSD &lt; 2{\AA}, given pocket) with significantly improved inference speed. Moreover, we explore the empirical inference scaling law by introducing more sampling repeats or steps. Our code and model are available at https://github.com/PharMolix/OpenBioMed.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.BM
+Collected: 2025-08-01T16:33:21.641Z

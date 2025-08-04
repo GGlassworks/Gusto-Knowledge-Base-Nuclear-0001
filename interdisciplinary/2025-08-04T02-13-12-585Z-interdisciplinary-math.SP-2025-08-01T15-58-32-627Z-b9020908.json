@@ -1,0 +1,12 @@
+# Exact Eigenvalues and Eigenvectors for Some n-Dimensional Matrices
+
+**Authors:** Quanling Deng
+
+## Summary
+Building on previous work that provided analytical solutions to generalised matrix eigenvalue problems arising from numerical discretisations, this paper develops exact eigenvalues and eigenvectors for a broader class of $n$-dimensional matrices, focusing on non-symmetric and non-persymmetric matrices. These matrices arise in one-dimensional Laplacian eigenvalue problems with mixed boundary conditions and in a few quantum mechanics applications where standard Toeplitz-plus-Hankel matrix forms do not suffice. By extending analytical methodologies to these broader matrix categories, the study not only widens the scope of applicable matrices but also enhances computational methodologies, leading to potentially more accurate and efficient solutions in physics and engineering simulations.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.SP
+Collected: 2025-08-01T15:58:32.627Z

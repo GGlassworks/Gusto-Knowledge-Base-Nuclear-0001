@@ -1,0 +1,12 @@
+# Semimartingale detection and goodness-of-fit tests
+
+**Authors:** Adam D. Bull
+
+## Summary
+In quantitative finance, we often fit a parametric semimartingale model to asset prices. To ensure our model is correct, we must then perform goodness-of-fit tests. In this paper, we give a new goodness-of-fit test for volatility-like processes, which is easily applied to a variety of semimartingale models. In each case, we reduce the problem to the detection of a semimartingale observed under noise. In this setting, we then describe a wavelet-thresholding test, which obtains adaptive and near-optimal detection rates.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.ST
+Collected: 2025-08-01T12:41:31.180Z

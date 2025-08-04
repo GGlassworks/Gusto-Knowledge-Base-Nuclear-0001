@@ -1,0 +1,12 @@
+# A Pattern Discovery-Based Method for Detecting Multi-Locus Genetic Association
+
+**Authors:** Zhong Li, Aris Floratos, David Wang, Andrea Califano
+
+## Summary
+Methods to effectively detect multi-locus genetic association are becoming increasingly relevant in the genetic dissection of complex trait in humans. Current approaches typically consider a limited number of hypotheses, most of which are related to the effect of a single locus or of a relatively small number of neighboring loci on a chromosomal region. We have developed a novel method that is specifically designed to detect genetic association involving multiple disease-susceptibility loci, possibly on different chromosomes. Our approach relies on the efficient discovery of patterns comprising spatially unrestricted polymorphic markers and on the use of appropriate test statistics to evaluate pattern-trait association. Power calculations using multi-locus disease models demonstrate significant gain of power by using this method in detecting multi-locus genetic association when compared to a standard single marker analysis method. When analyzing a Schizophrenia dataset, we confirmed a previously identified gene-gene interaction. In addition, a less conspicuous association involving different markers on the same two genes was also identified, implicating genetic heterogeneity.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.GN
+Collected: 2025-08-01T16:58:01.649Z

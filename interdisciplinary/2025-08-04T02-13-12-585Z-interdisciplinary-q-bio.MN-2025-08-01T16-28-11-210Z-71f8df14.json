@@ -1,0 +1,12 @@
+# Stochastic approximations of higher-molecular by bi-molecular reactions
+
+**Authors:** Tomislav Plesa
+
+## Summary
+Biochemical reactions involving three or more reactants, called higher-molecular reactions, play an important role in theoretical systems and synthetic biology. In particular, such reactions underpin a variety of important bio-dynamical phenomena, such as multi-stability/multi-modality, oscillations, bifurcations, and noise-induced effects. However, only reactions with at most two reactants, called bi-molecular reactions, are experimentally feasible. To bridge the gap, in this paper we put forward an algorithm for systematically approximating arbitrary higher-molecular reactions with bi-molecular ones, while preserving the underlying stochastic dynamics. Properties of the algorithm and convergence are established via singular perturbation theory. The algorithm is applied to a variety of higher-molecular biochemical networks, and is shown to play an important role in nucleic-acid-based synthetic biology.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:28:11.210Z

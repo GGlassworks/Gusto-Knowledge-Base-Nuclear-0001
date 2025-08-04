@@ -1,0 +1,12 @@
+# Random Forest as a Tumour Genetic Marker Extractor
+
+**Authors:** Raquel Pérez-Arnal, Dario Garcia-Gasulla, David Torrents, Ferran Parés, Ulises Cortés, Jesús Labarta, Eduard Ayguadé
+
+## Summary
+Finding tumour genetic markers is essential to biomedicine due to their relevance for cancer detection and therapy development. In this paper, we explore a recently released dataset of chromosome rearrangements in 2,586 cancer patients, where different sorts of alterations have been detected. Using a Random Forest classifier, we evaluate the relevance of several features (some directly available in the original data, some engineered by us) related to chromosome rearrangements. This evaluation results in a set of potential tumour genetic markers, some of which are validated in the bibliography, while others are potentially novel.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.GN
+Collected: 2025-08-01T16:58:02.097Z

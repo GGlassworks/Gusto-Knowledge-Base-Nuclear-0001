@@ -1,0 +1,12 @@
+# A scaling limit for additive functionals
+
+**Authors:** Thibaud Taillefumier, Gordan Zitkovic
+
+## Summary
+Inspired by models for synchronous spiking activity in neuroscience, we consider a scaling-limit framework for sequences of strong Markov processes. Within this framework, we establish the convergence of certain additive functionals toward L\'evy subordinators, which are of interest in synchronous input drive modeling in neuronal models. After proving an abstract theorem in full generality, we provide detailed and explicit conclusions in the case of reflected one-dimensional diffusions. Specializing even further, we provide an in-depth analysis of the limiting behavior of a sequence of integrated Wright-Fisher diffusions. In neuroscience, such diffusions serve to parametrize synchrony in doubly-stochastic models of spiking activity. Additional explicit examples involving the Feller diffusion and the Brownian motion with drift are also given.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.PR
+Collected: 2025-08-01T17:06:19.969Z

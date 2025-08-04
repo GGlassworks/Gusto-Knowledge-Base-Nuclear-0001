@@ -1,0 +1,12 @@
+# Assembling large, complex environmental metagenomes
+
+**Authors:** Adina Chuang Howe, Janet Jansson, Stephanie A. Malfatti, Susannah G. Tringe, James M. Tiedje, C. Titus Brown
+
+## Summary
+The large volumes of sequencing data required to sample complex environments deeply pose new challenges to sequence analysis approaches. De novo metagenomic assembly effectively reduces the total amount of data to be analyzed but requires significant computational resources. We apply two pre-assembly filtering approaches, digital normalization and partitioning, to make large metagenome assemblies more comput\ ationaly tractable. Using a human gut mock community dataset, we demonstrate that these methods result in assemblies nearly identical to assemblies from unprocessed data. We then assemble two large soil metagenomes from matched Iowa corn and native prairie soils. The predicted functional content and phylogenetic origin of the assembled contigs indicate significant taxonomic differences despite similar function. The assembly strategies presented are generic and can be extended to any metagenome; full source code is freely available under a BSD license.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.GN
+Collected: 2025-08-01T10:24:43.371Z
