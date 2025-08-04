@@ -1,0 +1,13 @@
+# Generic HTR Models for Medieval Manuscripts. The CREMMALab Project
+
+**Authors:** Ariane Pinche
+
+## Abstract
+<jats:p xml:lang="en">In the Humanities, the emergence of digital methods has opened up research questions to quantitative analysis. This is why HTR technology is increasingly involved in humanities research projects following precursors such as the Himanis project. However, many research teams have limited resources, either financially or in terms of their expertise in artificial intelligence. It may therefore be difficult to integrate handwritten text recognition into their project pipeline if they need to train a model or to create data from scratch. The goal here is not to explain how to build or improve a new HTR engine, nor to find a way to automatically align a preexisting corpus with an image to quickly create ground truths for training. This paper aims to help humanists easily develop an HTR model for medieval manuscripts, create and gather training data by knowing the issues underlying their choices. The objective is also to show the importance of the constitution of consistent data as a prerequisite to allow their gathering and to train efficient HTR models. We will present an overview of our work and experiment in the CREMMALab project (2021-2022), showing first how we ensure the consistency of the data and then how we have developed a generic model for medieval French manuscripts from the 13 th to the 15 th century, ready to be shared (more than 94% accuracy) and/or fine-tuned by other projects.</jats:p>
+
+**Source:** https://doi.org/10.46298/jdmdh.10252
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:19:54.935Z
