@@ -1,0 +1,13 @@
+# Data Analysis, Simulation and Visualization for Environmentally Safe Maritime Data
+
+**Authors:** Manolis Maragoudakis
+
+## Abstract
+<jats:p>Marine transportation in Aegean Sea, a part of the Mediterranean Sea that serves as gateway between three continents has recently seen a significant increase. Despite the commercial benefits to the region, there are certain issues related to the preservation of the local ecosystem and safety. This danger is further deteriorated by the absence of regulations on allowed waterways. Marine accidents could cause a major ecological disaster in the area and pose big socio-economic impacts in Greece. Monitoring marine traffic data is of major importance and one of the primary goals of the current research. Real-time monitoring and alerting can be extremely useful to local authorities, companies, NGO’s and the public in general. Apart from real-time applications, the knowledge discovery from historical data is also significant. Towards this direction, a data analysis and simulation framework for maritime data has been designed and developed. The framework analyzes historical data about ships and area conditions, of varying time and space granularity, measures critical parameters that could influence the levels of hazard in certain regions and clusters such data according to their similarity. Upon this unsupervised step, the degree of hazard is estimated and along with other important parameters is fed into a special type of Bayesian network, in order to infer on future situations, thus, simulating future data based on past conditions. Another innovative aspect of this work is the modeling of shipping traffic as a social network, whose analysis could provide useful and informative visualizations. The use of such a system is particularly beneficial for multiple stakeholders, such as the port authorities, the ministry of Mercantile Marine, etc. mainly due to the fact that specific policy options can be evaluated and re-designed based on feedback from our framework.</jats:p>
+
+**Source:** https://doi.org/10.3390/a12010027
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:46:16.686Z

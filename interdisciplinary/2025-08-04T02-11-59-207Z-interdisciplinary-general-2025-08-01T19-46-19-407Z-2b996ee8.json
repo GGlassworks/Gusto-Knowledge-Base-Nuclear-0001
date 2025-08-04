@@ -1,0 +1,13 @@
+# On the Role of Clustering and Visualization Techniques in Gene Microarray Data
+
+**Authors:** Angelo Ciaramella, Antonino Staiano
+
+## Abstract
+<jats:p>As of today, bioinformatics is one of the most exciting fields of scientific research. There is a wide-ranging list of challenging problems to face, i.e., pairwise and multiple alignments, motif detection/discrimination/classification, phylogenetic tree reconstruction, protein secondary and tertiary structure prediction, protein function prediction, DNA microarray analysis, gene regulation/regulatory networks, just to mention a few, and an army of researchers, coming from several scientific backgrounds, focus their efforts on developing models to properly address these problems. In this paper, we aim to briefly review some of the huge amount of machine learning methods, developed in the last two decades, suited for the analysis of gene microarray data that have a strong impact on molecular biology. In particular, we focus on the wide-ranging list of data clustering and visualization techniques able to find homogeneous data groupings, and also provide the possibility to discover its connections in terms of structure, function and evolution.</jats:p>
+
+**Source:** https://doi.org/10.3390/a12060123
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:46:19.415Z

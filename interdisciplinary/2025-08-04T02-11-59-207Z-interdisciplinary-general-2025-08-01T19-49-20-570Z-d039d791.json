@@ -1,0 +1,13 @@
+# 3D Point Cloud-Based Tree Canopy Visualization for a Smart Deployment of Mobile Communication Systems
+
+**Authors:** Yunus Egi, Engin Eyceyurt
+
+## Abstract
+<jats:p>Mobile communication is one of the most important parameters of smart cities in terms of maintaining connectivity and interaction between humans and smart systems. However, In the deployment process of Mobile Communication Systems (MCS), Radio Frequency (RF) engineers use location depended empirical Signal Strength Path Loss (SSPL) models ending up with poor signal strength and slow data connection. This is due to the fact that empirical propagation models usually are restrained by the environment and do not implement state of the art technologies, including Unmanned Aerial Vehicles (UAV), Light Detection and Ranging (LiDAR), Image Processing, and Machine Learning to increase efficiency. Terrains involving buildings, hills, trees, mountains, and human-made structures are considered irregular terrains by telecommunication engineers. Irregular terrains, specifically trees, significantly affect MCS’s efficiency because of their complex pattern resulting in erroneous signal fading via multi-path reflection and absorption. Therefore, a virtual 3D environment is required to extract the required 3D terrain pattern and elevation data from the environment. Once this data is processed in the machine learning algorithm, an adaptive propagation model can be formed and can significantly improve SSPL prediction accuracy for MCS. This chapter presents 3D point cloud visualization via sensor fusion and 2D image color classification techniques, which lead to a novel propagation model for the smart deployment of MCS. The proposed system’s main contribution is to develop an intelligent environment that eliminates limitations and minimizes related signal fading prediction errors. In addition, having better connectivity and efficiency will resolve the communication problem of smart cities. The chapter also provides a case study that significantly outperforms other empirical models with an accuracy of 95.4%.</jats:p>
+
+**Source:** https://doi.org/10.5772/intechopen.96179
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:49:20.571Z
