@@ -1,0 +1,14 @@
+# Stylometric analysis of characters in Shakespeare’s plays
+
+**Authors:** Jacques Savoy
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>Playwrights and screenwriters compose dialogues with characters from both genders. Assuming that men and women speak or write differently, can a great author take account of this difference? Previous studies have ascertained some stylistic markers that can discriminate between men and women either in writing or oral productions. The main aim of this study is to verify whether in Shakespeare’s plays female figures are talking in a distinct way compared with male ones. First, this study confirms the effectiveness of a set of predefined stylistic features using a tweet dataset extracted from CLEF-PAN corpora. Second, we demonstrate that the two genders present distinct styles when analyzing twenty-nine of Shakespeare’s plays, demonstrating that the author adopts a distinct style for each gender. Our experiments are grounded on two efficient classifiers (logistic regression and random forest) able to automatically identify short passages (500 or 1,000 word-tokens) corresponding to either a male or a female utterance with an accuracy of around 80%.</jats:p>
+
+**Source:** https://doi.org/10.1093/llc/fqac092
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:25:19.525Z

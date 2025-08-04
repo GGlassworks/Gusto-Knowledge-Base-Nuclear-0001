@@ -1,0 +1,14 @@
+# Principal components analysis in stylometry
+
+**Authors:** Hugh Craig
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>Principal components analysis (PCA) has been one of the staple methods used in stylometry. In a 2021 article, Pervez Rizvi casts doubt on this method and argues that some widely cited results based on it should be set aside. In the current article, I show that none of Rizvi’s theoretical claims or experimental results stand up to examination. Rizvi argues that discarding the principal components beyond the first two makes the method unreliable, but permutation testing of PCAs shows that the top components in these trials are significant and robust, and the results across many experiments show the combination of the first and second component to be effective in classification. Rizvi argues that PCA components must be treated separately, and much of his critique of the PCA method is based on this standpoint, but this is not the practice in the work presented in the publications he cites or in the wider literature. Rizvi is unable to replicate a chart in an article by Craig, but his replication, unlike the original, does not account for the widely varying sizes of samples in his data. The current article shows that Rizvi’s claims are misguided and that using PCA in the Burrows tradition to find and formalize authorial discriminations in text samples from plays of the Shakespearean era is efficacious and robust.</jats:p>
+
+**Source:** https://doi.org/10.1093/llc/fqad083
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:25:18.258Z
