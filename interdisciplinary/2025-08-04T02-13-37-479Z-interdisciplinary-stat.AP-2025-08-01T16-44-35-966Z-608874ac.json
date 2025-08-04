@@ -1,0 +1,12 @@
+# Detection boundary and Higher Criticism approach for rare and weak genetic effects
+
+**Authors:** Zheyang Wu, Yiming Sun, Shiquan He, Judy Cho, Hongyu Zhao, Jiashun Jin
+
+## Summary
+Genome-wide association studies (GWAS) have identified many genetic factors underlying complex human traits. However, these factors have explained only a small fraction of these traits' genetic heritability. It is argued that many more genetic factors remain undiscovered. These genetic factors likely are weakly associated at the population level and sparsely distributed across the genome. In this paper, we adapt the recent innovations on Tukey's Higher Criticism (Tukey [The Higher Criticism (1976) Princeton Univ.]; Donoho and Jin [Ann. Statist. 32 (2004) 962-994]) to SNP-set analysis of GWAS, and develop a new theoretical framework in large-scale inference to assess the joint significance of such rare and weak effects for a quantitative trait. In the core of our theory is the so-called detection boundary, a curve in the two-dimensional phase space that quantifies the rarity and strength of genetic effects. Above the detection boundary, the overall effects of genetic factors are strong enough for reliable detection. Below the detection boundary, the genetic factors are simply too rare and too weak for reliable detection. We show that the HC-type methods are optimal in that they reliably yield detection once the parameters of the genetic effects fall above the detection boundary and that many commonly used SNP-set methods are suboptimal. The superior performance of the HC-type approach is demonstrated through simulations and the analysis of a GWAS data set of Crohn's disease.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T16:44:35.967Z

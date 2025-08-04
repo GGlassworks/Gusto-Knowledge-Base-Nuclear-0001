@@ -1,0 +1,12 @@
+# Data Mining for Longitudinal Data under Multicollinearity and Time Dependence using Penalized Generalized Estimating Equations
+
+**Authors:** Adriaan Blommaert, Niel Hens, Philippe Beutels
+
+## Summary
+Penalized generalized estimating equations with Elastic Net or L2-Smoothly Clipped Absolute Deviation penalization are proposed to simultaneously select the most important variables and estimate their effects for longitudinal Gaussian data when multicollinearity is present. The method is able to consistently select and estimate the main effects even when strong correlations are present. In addition, the potential pitfall of time-dependent covariates is clarified. Both asymptotic theory and simulation results reveal the effectiveness of penalization as a data mining tool for longitudinal data, especially when a large number of variables is present. The method is illustrated by mining for the main determinants of life expectancy in Europe.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T19:26:30.625Z

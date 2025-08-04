@@ -1,0 +1,12 @@
+# Mendelian randomization with fine-mapped genetic data: choosing from large numbers of correlated instrumental variables
+
+**Authors:** Stephen Burgess, Verena Zuber, Elsa Valdes-Marquez, Benjamin B Sun, Jemma C Hopewell
+
+## Summary
+Mendelian randomization uses genetic variants to make causal inferences about the effect of a risk factor on an outcome. With fine-mapped genetic data, there may be hundreds of genetic variants in a single gene region any of which could be used to assess this causal relationship. However, using too many genetic variants in the analysis can lead to spurious estimates and inflated Type 1 error rates. But if only a few genetic variants are used, then the majority of the data is ignored and estimates are highly sensitive to the particular choice of variants. We propose an approach based on summarized data only (genetic association and correlation estimates) that uses principal components analysis to form instruments. This approach has desirable theoretical properties: it takes the totality of data into account and does not suffer from numerical instabilities. It also has good properties in simulation studies: it is not particularly sensitive to varying the genetic variants included in the analysis or the genetic correlation matrix, and it does not have greatly inflated Type 1 error rates. Overall, the method gives estimates that are not so precise as those from variable selection approaches (such as using a conditional analysis or pruning approach to select variants), but are more robust to seemingly arbitrary choices in the variable selection step. Methods are illustrated by an example using genetic associations with testosterone for 320 genetic variants to assess the effect of sex hormone-related pathways on coronary artery disease risk, in which variable selection approaches give inconsistent inferences.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:51:37.548Z

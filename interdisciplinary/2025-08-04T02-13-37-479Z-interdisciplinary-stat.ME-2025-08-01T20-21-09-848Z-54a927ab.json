@@ -1,0 +1,12 @@
+# Instrumental Variable Bayesian Model Averaging via Conditional Bayes Factors
+
+**Authors:** Anna Karl, Alex Lenkoski
+
+## Summary
+We develop a method to perform model averaging in two-stage linear regression systems subject to endogeneity. Our method extends an existing Gibbs sampler for instrumental variables to incorporate a component of model uncertainty. Direct evaluation of model probabilities is intractable in this setting. We show that by nesting model moves inside the Gibbs sampler, model comparison can be performed via conditional Bayes factors, leading to straightforward calculations. This new Gibbs sampler is only slightly more involved than the original algorithm and exhibits no evidence of mixing difficulties. We conclude with a study of two different modeling challenges: incorporating uncertainty into the determinants of macroeconomic growth, and estimating a demand function by instrumenting wholesale on retail prices.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T20:21:09.848Z

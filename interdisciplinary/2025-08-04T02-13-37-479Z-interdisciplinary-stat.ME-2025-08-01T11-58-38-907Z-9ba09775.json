@@ -1,0 +1,12 @@
+# Transformed sufficient dimension reduction
+
+**Authors:** Tao Wang, Xu Guo, Peirong Xu, Lixing Zhu
+
+## Summary
+A novel general framework is proposed in this paper for dimension reduction in regression to fill the gap between linear and fully nonlinear dimension reduction. The main idea is to transform first each of the raw predictors monotonically, and then search for a low-dimensional projection in the space defined by the transformed variables. Both user-specified and data-driven transformations are suggested. In each case, the methodology is discussed first in a general manner, and a representative method, as an example, is then proposed and evaluated by simulation. The proposed methods are applied to a real data set for illustration.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T11:58:38.908Z

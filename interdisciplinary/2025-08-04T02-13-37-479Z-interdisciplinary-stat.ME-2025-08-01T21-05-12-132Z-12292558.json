@@ -1,0 +1,12 @@
+# The functional mean-shift algorithm for mode hunting and clustering in infinite dimensions
+
+**Authors:** Mattia Ciollaro, Christopher Genovese, Jing Lei, Larry Wasserman
+
+## Summary
+We introduce the functional mean-shift algorithm, an iterative algorithm for estimating the local modes of a surrogate density from functional data. We show that the algorithm can be used for cluster analysis of functional data. We propose a test based on the bootstrap for the significance of the estimated local modes of the surrogate density. We present two applications of our methodology. In the first application, we demonstrate how the functional mean-shift algorithm can be used to perform spike sorting, i.e. cluster neural activity curves. In the second application, we use the functional mean-shift algorithm to distinguish between original and fake signatures.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T21:05:12.133Z

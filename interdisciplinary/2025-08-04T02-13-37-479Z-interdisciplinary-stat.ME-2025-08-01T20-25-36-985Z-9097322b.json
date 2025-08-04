@@ -1,0 +1,12 @@
+# Fast and Accurate Variational Inference for Models with Many Latent Variables
+
+**Authors:** Rubén Loaiza-Maya, Michael Stanley Smith, David J. Nott, Peter J. Danaher
+
+## Summary
+Models with a large number of latent variables are often used to fully utilize the information in big or complex data. However, they can be difficult to estimate using standard approaches, and variational inference methods are a popular alternative. Key to the success of these is the selection of an approximation to the target density that is accurate, tractable and fast to calibrate using optimization methods. Most existing choices can be inaccurate or slow to calibrate when there are many latent variables. Here, we propose a family of tractable variational approximations that are more accurate and faster to calibrate for this case. It combines a parsimonious parametric approximation for the parameter posterior, with the exact conditional posterior of the latent variables. We derive a simplified expression for the re-parameterization gradient of the variational lower bound, which is the main ingredient of efficient optimization algorithms used to implement variational estimation. To do so only requires the ability to generate exactly or approximately from the conditional posterior of the latent variables, rather than to compute its density. We illustrate using two complex contemporary econometric examples. The first is a nonlinear multivariate state space model for U.S. macroeconomic variables. The second is a random coefficients tobit model applied to two million sales by 20,000 individuals in a large consumer panel from a marketing study. In both cases, we show that our approximating family is considerably more accurate than mean field or structured Gaussian approximations, and faster than Markov chain Monte Carlo. Last, we show how to implement data sub-sampling in variational inference for our approximation, which can lead to a further reduction in computation time. MATLAB code implementing the method for our examples is included in supplementary material.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T20:25:36.985Z

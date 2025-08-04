@@ -1,0 +1,12 @@
+# A more robust boosting algorithm
+
+**Authors:** Yoav Freund
+
+## Summary
+We present a new boosting algorithm, motivated by the large margins theory for boosting. We give experimental evidence that the new algorithm is significantly more robust against label noise than existing boosting algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ML
+Collected: 2025-08-01T21:03:08.729Z

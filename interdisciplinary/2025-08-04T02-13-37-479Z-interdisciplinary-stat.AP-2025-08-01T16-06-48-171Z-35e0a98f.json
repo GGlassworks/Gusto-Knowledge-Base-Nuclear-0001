@@ -1,0 +1,12 @@
+# Causal Diagrams for Structural Engineers
+
+**Authors:** M. Z. Naser
+
+## Summary
+Causal diagrams are logic and graphical tools that depict assumptions about presumed causal relations. Such diagrams have proven effective in tackling a variety of problems in social sciences and epidemiology research yet remain foreign to civil engineers. Unlike the traditional means of examining relationships via multivariable regression, causal diagrams can identify the presence of confounders, colliders, and mediators. Thus, this paper hopes to introduce the big ideas behind causal diagrams (specifically, directed acyclic graphs (DAGs)) and how to create and apply such diagrams to several civil engineering problems. Findings from the presented case studies indicate that civil engineers can successfully use causal diagrams to improve their understanding of complex causation relations, thereby accelerating research and practical efforts.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T16:06:48.172Z

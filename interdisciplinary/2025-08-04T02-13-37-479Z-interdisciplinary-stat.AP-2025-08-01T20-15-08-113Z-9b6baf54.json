@@ -1,0 +1,12 @@
+# VARX-L: Structured Regularization for Large Vector Autoregressions with Exogenous Variables
+
+**Authors:** William Nicholson, David Matteson, Jacob Bien
+
+## Summary
+The vector autoregression (VAR) has long proven to be an effective method for modeling the joint dynamics of macroeconomic time series as well as forecasting. A major shortcoming of the VAR that has hindered its applicability is its heavy parameterization: the parameter space grows quadratically with the number of series included, quickly exhausting the available degrees of freedom. Consequently, forecasting using VARs is intractable for low-frequency, high-dimensional macroeconomic data. However, empirical evidence suggests that VARs that incorporate more component series tend to result in more accurate forecasts. Conventional methods that allow for the estimation of large VARs either tend to require ad hoc subjective specifications or are computationally infeasible. Moreover, as global economies become more intricately intertwined, there has been substantial interest in incorporating the impact of stochastic, unmodeled exogenous variables. Vector autoregression with exogenous variables (VARX) extends the VAR to allow for the inclusion of unmodeled variables, but it similarly faces dimensionality challenges. We introduce the VARX-L framework, a structured family of VARX models, and provide methodology that allows for both efficient estimation and accurate forecasting in high-dimensional analysis. VARX-L adapts several prominent scalar regression regularization techniques to a vector time series context in order to greatly reduce the parameter space of VAR and VARX models. We also highlight a compelling extension that allows for shrinking toward reference models, such as a vector random walk. We demonstrate the efficacy of VARX-L in both low- and high-dimensional macroeconomic forecasting applications and simulated data examples. Our methodology is easily reproducible in a publicly available R package.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T20:15:08.113Z

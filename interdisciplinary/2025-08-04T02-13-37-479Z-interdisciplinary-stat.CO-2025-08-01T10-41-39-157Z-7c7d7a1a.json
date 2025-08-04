@@ -1,0 +1,12 @@
+# Big Data and model-based survey sampling
+
+**Authors:** Deldossi Laura, Tommasi Chiara
+
+## Summary
+Big Data are huge amounts of digital information that are automatically accrued or merged from several sources and rarely result from properly planned surveys. A Big Dataset is herein conceived of as a collection of information concerning a finite population. We suggest selecting a sample of observations to get the inferential goal. We assume a super-population model has generated the Big Dataset. With this assumption, we can apply the theory of optimal design to draw a sample from the Big Dataset that contains the majority of the information about the unknown parameters.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.CO
+Collected: 2025-08-01T10:41:39.158Z

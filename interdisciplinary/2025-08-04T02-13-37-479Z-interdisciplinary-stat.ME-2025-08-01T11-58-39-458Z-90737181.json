@@ -1,0 +1,12 @@
+# Some Reliability Properties of Transformed-Transformer Family of Distributions
+
+**Authors:** Nil Kamal Hazra, Pradip Kundu, Asok K. Nanda
+
+## Summary
+The Transformed-Transformer family of distributions are the resulting family of distributions as transformed from a random variable $T$ through another transformer random variable $X$ using a weight function $\omega$ of the cumulative distribution function of $X$. In this paper, we study different stochastic ageing properties, as well as different stochastic orderings of this family of distributions. We discuss the results with several well known distributions.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T11:58:39.458Z

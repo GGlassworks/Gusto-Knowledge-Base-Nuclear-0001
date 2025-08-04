@@ -1,0 +1,12 @@
+# Participation bias in the estimation of heritability and genetic correlation
+
+**Authors:** Shuang Song, Stefania Benonisdottir, Jun S. Liu, Augustine Kong
+
+## Summary
+It is increasingly recognized that participation bias can pose problems for genetic studies. Recently, to overcome the challenge that genetic information of non-participants is unavailable, it is shown that by comparing the IBD (identity by descent) shared and not-shared segments among the participants, one can estimate the genetic component underlying participation. That, however, does not directly address how to adjust estimates of heritability and genetic correlation for phenotypes correlated with participation. Here, for phenotypes whose mean differences between population and sample are known, we demonstrate a way to do so by adopting a statistical framework that separates out the genetic and non-genetic correlations between participation and these phenotypes. Crucially, our method avoids making the assumption that the effect of the genetic component underlying participation is manifested entirely through these other phenotypes. Applying the method to 12 UK Biobank phenotypes, we found 8 have significant genetic correlations with participation, including body mass index, educational attainment, and smoking status. For most of these phenotypes, without adjustments, estimates of heritability and the absolute value of genetic correlation would have underestimation biases.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:43:28.178Z

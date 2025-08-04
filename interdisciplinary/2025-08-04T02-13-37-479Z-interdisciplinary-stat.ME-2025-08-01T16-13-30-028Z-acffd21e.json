@@ -1,0 +1,12 @@
+# Approximate Bayesian Conditional Copulas
+
+**Authors:** Clara Grazian, Luciana Dalla Valle, Brunero Liseo
+
+## Summary
+Copula models are flexible tools to represent complex structures of dependence for multivariate random variables. According to Sklar's theorem (Sklar, 1959), any d-dimensional absolutely continuous density can be uniquely represented as the product of the marginal distributions and a copula function which captures the dependence structure among the vector components. In real data applications, the interest of the analyses often lies on specific functionals of the dependence, which quantify aspects of it in a few numerical values. A broad literature exists on such functionals, however extensions to include covariates are still limited. This is mainly due to the lack of unbiased estimators of the copula function, especially when one does not have enough information to select the copula model. Recent advances in computational methodologies and algorithms have allowed inference in the presence of complicated likelihood functions, especially in the Bayesian approach, whose methods, despite being computationally intensive, allow us to better evaluate the uncertainty of the estimates. In this work, we present several Bayesian methods to approximate the posterior distribution of functionals of the dependence, using nonparametric models which avoid the selection of the copula function. These methods are compared in simulation studies and in two realistic applications, from civil engineering and astrophysics.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:13:30.028Z

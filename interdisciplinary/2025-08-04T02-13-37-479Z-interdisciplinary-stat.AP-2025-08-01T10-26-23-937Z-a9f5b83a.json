@@ -1,0 +1,12 @@
+# Mixed-Response State-Space Model for Analyzing Multi-Dimensional Digital Phenotypes
+
+**Authors:** Tianchen Xu, Yuan Chen, Donglin Zeng, Yuanjia Wang
+
+## Summary
+Digital technologies (e.g., mobile phones) can be used to obtain objective, frequent, and real-world digital phenotypes from individuals. However, modeling these data poses substantial challenges since observational data are subject to confounding and various sources of variabilities. For example, signals on patients' underlying health status and treatment effects are mixed with variation due to the living environment and measurement noises. The digital phenotype data thus shows extensive variabilities between- and within-patient as well as across different health domains (e.g., motor, cognitive, and speaking). Motivated by a mobile health study of Parkinson's disease (PD), we develop a mixed-response state-space (MRSS) model to jointly capture multi-dimensional, multi-modal digital phenotypes and their measurement processes by a finite number of latent state time series. These latent states reflect the dynamic health status and personalized time-varying treatment effects and can be used to adjust for informative measurements. For computation, we use the Kalman filter for Gaussian phenotypes and importance sampling with Laplace approximation for non-Gaussian phenotypes. We conduct comprehensive simulation studies and demonstrate the advantage of MRSS in modeling a mobile health study that remotely collects real-time digital phenotypes from PD patients.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T10:26:23.937Z

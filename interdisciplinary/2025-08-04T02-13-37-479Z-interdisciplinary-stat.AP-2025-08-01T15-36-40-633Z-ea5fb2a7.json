@@ -1,0 +1,12 @@
+# Modeling of Electrical Resistivity of Soil Based on Geotechnical Properties
+
+**Authors:** Bandar Alsharari, Andriy Olenko, Hossam Abuel-Naga
+
+## Summary
+Determining the relationship between the electrical resistivity of soil and its geotechnical properties is an important engineering problem. This study aims to develop methodology for finding the best model that can be used to predict the electrical resistivity of soil, based on knowing its geotechnical properties. The research develops several linear models, three non-linear models, and three artificial neural network models (ANN). These models are applied to the experimental data set comprises 864 observations and five variables. The results show that there are significant exponential negative relationships between the electrical resistivity of soil and its geotechnical properties. The most accurate prediction values are obtained using the ANN model. The cross-validation analysis confirms the high precision of the selected predictive model. This research is the first rigorous systematic analysis and comparison of difference methodologies in ground electrical resistivity studies. It provides practical guidelines and examples of design, development and testing non-linear relationships in engineering intelligent systems and applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T15:36:40.634Z

@@ -1,0 +1,12 @@
+# The Power of Batching in Multiple Hypothesis Testing
+
+**Authors:** Tijana Zrnic, Daniel L. Jiang, Aaditya Ramdas, Michael I. Jordan
+
+## Summary
+One important partition of algorithms for controlling the false discovery rate (FDR) in multiple testing is into offline and online algorithms. The first generally achieve significantly higher power of discovery, while the latter allow making decisions sequentially as well as adaptively formulating hypotheses based on past observations. Using existing methodology, it is unclear how one could trade off the benefits of these two broad families of algorithms, all the while preserving their formal FDR guarantees. To this end, we introduce $\text{Batch}_{\text{BH}}$ and $\text{Batch}_{\text{St-BH}}$, algorithms for controlling the FDR when a possibly infinite sequence of batches of hypotheses is tested by repeated application of one of the most widely used offline algorithms, the Benjamini-Hochberg (BH) method or Storey's improvement of the BH method. We show that our algorithms interpolate between existing online and offline methodology, thus trading off the best of both worlds.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T10:49:56.829Z

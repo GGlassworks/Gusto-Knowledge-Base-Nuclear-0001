@@ -1,0 +1,12 @@
+# Smooth and probabilistic PARAFAC model with auxiliary covariates
+
+**Authors:** Leying Guan
+
+## Summary
+In immunological and clinical studies, matrix-valued time-series data clustering is increasingly popular. Researchers are interested in finding low-dimensional embedding of subjects based on potentially high-dimensional longitudinal features and investigating relationships between static clinical covariates and the embedding. These studies are often challenging due to high dimensionality, as well as the sparse and irregular nature of sample collection along the time dimension. We propose a smoothed probabilistic PARAFAC model with covariates (SPACO) to tackle these two problems while utilizing auxiliary covariates of interest. We provide intensive simulations to test different aspects of SPACO and demonstrate its use on an immunological data set from patients with SARs-CoV-2 infection.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T17:16:38.587Z

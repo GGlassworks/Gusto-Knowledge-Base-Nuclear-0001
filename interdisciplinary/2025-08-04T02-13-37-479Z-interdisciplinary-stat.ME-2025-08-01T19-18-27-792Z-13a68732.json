@@ -1,0 +1,12 @@
+# Distributed Design for Causal Inferences on Big Observational Data
+
+**Authors:** Yumin Zhang, Arman Sabbaghi
+
+## Summary
+A fundamental issue in causal inference for Big Observational Data is confounding due to covariate imbalances between treatment groups. This can be addressed by designing the data prior to analysis. Existing design methods, developed for traditional observational studies with single designers, can yield unsatisfactory designs with suboptimum covariate balance for Big Observational Data due to their inability to accommodate the massive dimensionality, heterogeneity, and volume of the Big Data. We propose a new framework for the distributed design of Big Observational Data amongst collaborative designers. Our framework first assigns subsets of the high-dimensional and heterogeneous covariates to multiple designers. The designers then summarize their covariates into lower-dimensional quantities, share their summaries with the others, and design the study in parallel based on their assigned covariates and the summaries they receive. The final design is selected by comparing balance measures for all covariates across the candidates. We perform simulation studies and analyze datasets from the 2016 Atlantic Causal Inference Conference Data Challenge to demonstrate the flexibility and power of our framework for constructing designs with good covariate balance from Big Observational Data.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T19:18:27.792Z

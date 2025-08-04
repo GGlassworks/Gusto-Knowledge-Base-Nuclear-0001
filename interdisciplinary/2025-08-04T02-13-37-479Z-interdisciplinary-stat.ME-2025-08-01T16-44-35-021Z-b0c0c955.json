@@ -1,0 +1,12 @@
+# Statistical Inference for Genetic Relatedness Based on High-Dimensional Logistic Regression
+
+**Authors:** Rong Ma, Zijian Guo, T. Tony Cai, Hongzhe Li
+
+## Summary
+This paper studies the problem of statistical inference for genetic relatedness between binary traits based on individual-level genome-wide association data. Specifically, under the high-dimensional logistic regression models, we define parameters characterizing the cross-trait genetic correlation, the genetic covariance and the trait-specific genetic variance. A novel weighted debiasing method is developed for the logistic Lasso estimator and computationally efficient debiased estimators are proposed. The rates of convergence for these estimators are studied and their asymptotic normality is established under mild conditions. Moreover, we construct confidence intervals and statistical tests for these parameters, and provide theoretical justifications for the methods, including the coverage probability and expected length of the confidence intervals, as well as the size and power of the proposed tests. Numerical studies are conducted under both model generated data and simulated genetic data to show the superiority of the proposed methods. By analyzing a real data set on autoimmune diseases, we demonstrate its ability to obtain novel insights about the shared genetic architecture between ten pediatric autoimmune diseases.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:44:35.021Z

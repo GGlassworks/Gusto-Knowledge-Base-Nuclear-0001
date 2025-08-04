@@ -1,0 +1,12 @@
+# A weighted U statistic for association analysis considering genetic heterogeneity
+
+**Authors:** Changshuai Wei, Robert C. Elston, Qing Lu
+
+## Summary
+Converging evidence suggests that common complex diseases with the same or similar clinical manifestations could have different underlying genetic etiologies. While current research interests have shifted toward uncovering rare variants and structural variations predisposing to human diseases, the impact of heterogeneity in genetic studies of complex diseases has been largely overlooked. Most of the existing statistical methods assume the disease under investigation has a homogeneous genetic effect and could, therefore, have low power if the disease undergoes heterogeneous pathophysiological and etiological processes. In this paper, we propose a heterogeneity weighted U (HWU) method for association analyses considering genetic heterogeneity. HWU can be applied to various types of phenotypes (e.g., binary and continuous) and is computationally effcient for high- dimensional genetic data. Through simulations, we showed the advantage of HWU when the underlying genetic etiology of a disease was heterogeneous, as well as the robustness of HWU against different model assumptions (e.g., phenotype distributions). Using HWU, we conducted a genome-wide analysis of nicotine dependence from the Study of Addiction: Genetics and Environments (SAGE) dataset. The genome-wide analysis of nearly one million genetic markers took 7 hours, identifying heterogeneous effects of two new genes (i.e., CYP3A5 and IKBKB) on nicotine dependence.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:48:26.396Z

@@ -1,0 +1,12 @@
+# Superheat: An R package for creating beautiful and extendable heatmaps for visualizing complex data
+
+**Authors:** Rebecca L Barter, Bin Yu
+
+## Summary
+The technological advancements of the modern era have enabled the collection of huge amounts of data in science and beyond. Extracting useful information from such massive datasets is an ongoing challenge as traditional data visualization tools typically do not scale well in high-dimensional settings. An existing visualization technique that is particularly well suited to visualizing large datasets is the heatmap. Although heatmaps are extremely popular in fields such as bioinformatics for visualizing large gene expression datasets, they remain a severely underutilized visualization tool in modern data analysis. In this paper we introduce superheat, a new R package that provides an extremely flexible and customizable platform for visualizing large datasets using extendable heatmaps. Superheat enhances the traditional heatmap by providing a platform to visualize a wide range of data types simultaneously, adding to the heatmap a response variable as a scatterplot, model results as boxplots, correlation information as barplots, text information, and more. Superheat allows the user to explore their data to greater depths and to take advantage of the heterogeneity present in the data to inform analysis decisions. The goal of this paper is two-fold: (1) to demonstrate the potential of the heatmap as a default visualization method for a wide range of data types using reproducible examples, and (2) to highlight the customizability and ease of implementation of the superheat package in R for creating beautiful and extendable heatmaps. The capabilities and fundamental applicability of the superheat package will be explored via three case studies, each based on publicly available data sources and accompanied by a file outlining the step-by-step analytic pipeline (with code).
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T19:51:02.340Z

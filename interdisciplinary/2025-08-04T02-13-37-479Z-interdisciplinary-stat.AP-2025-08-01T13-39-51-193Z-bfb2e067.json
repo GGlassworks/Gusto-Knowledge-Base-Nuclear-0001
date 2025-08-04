@@ -1,0 +1,12 @@
+# Large Scale Automated Forecasting for Monitoring Network Safety and Security
+
+**Authors:** Roi Naveiro, Simón Rodríguez, David Ríos Insua
+
+## Summary
+Real time large scale streaming data pose major challenges to forecasting, in particular defying the presence of human experts to perform the corresponding analysis. We present here a class of models and methods used to develop an automated, scalable and versatile system for large scale forecasting oriented towards safety and security monitoring. Our system provides short and long term forecasts and uses them to detect safety and security issues in relation with multiple internet connected devices well in advance they might take place.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T13:39:51.194Z

@@ -1,0 +1,12 @@
+# Stress Testing Network Reconstruction via Graphical Causal Model
+
+**Authors:** Helder Rojas, David Dias
+
+## Summary
+An resilience optimal evaluation of financial portfolios implies having plausible hypotheses about the multiple interconnections between the macroeconomic variables and the risk parameters. In this paper, we propose a graphical model for the reconstruction of the causal structure that links the multiple macroeconomic variables and the assessed risk parameters, it is this structure that we call Stress Testing Network (STN). In this model, the relationships between the macroeconomic variables and the risk parameter define a "relational graph" among their time-series, where related time-series are connected by an edge. Our proposal is based on the temporal causal models, but unlike, we incorporate specific conditions in the structure which correspond to intrinsic characteristics this type of networks. Using the proposed model and given the high-dimensional nature of the problem, we used regularization methods to efficiently detect causality in the time-series and reconstruct the underlying causal structure. In addition, we illustrate the use of model in credit risk data of a portfolio. Finally, we discuss its uses and practical benefits in stress testing.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T20:08:52.671Z

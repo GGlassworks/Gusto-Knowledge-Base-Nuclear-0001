@@ -1,0 +1,12 @@
+# Misspecification in mixed-model based association analysis
+
+**Authors:** Willem Kruijer
+
+## Summary
+Additive genetic variance in natural populations is commonly estimated using mixed models, in which the covariance of the genetic effects is modeled by a genetic similarity matrix derived from a dense set of markers. An important but usually implicit assumption is that the presence of any non-additive genetic effect only increases the residual variance, and does not affect estimates of additive genetic variance. Here we show that this is only true for panels of unrelated individuals. In case there is genetic relatedness, the combination of population structure and epistatic interactions can lead to inflated estimates of additive genetic variance.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T16:43:27.680Z

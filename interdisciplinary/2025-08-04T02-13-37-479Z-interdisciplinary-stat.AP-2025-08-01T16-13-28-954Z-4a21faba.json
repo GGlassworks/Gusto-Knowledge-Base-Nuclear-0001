@@ -1,0 +1,12 @@
+# Democratizing Aviation Emissions Estimation: Development of an Open-Source, Data-Driven Methodology
+
+**Authors:** Andy Eskenazi, Landon Butler, Arnav Joshi, Megan Ryerson
+
+## Summary
+Through an aviation emissions estimation tool that is both publicly-accessible and comprehensive, researchers, planners, and community advocates can help shape a more sustainable and equitable U.S. air transportation system. To this end, we develop an open-source, data-driven methodology to calculate the system-wide emissions of the U.S. domestic civil aviation industry. This process utilizes and integrates six different public datasets provided by the Bureau of Transportation Statistics (BTS), the Federal Aviation Agency (FAA), EUROCONTROL, and the International Civil Aviation Organization (ICAO). At the individual flight level, our approach examines the specific aircraft type, equipped engine, and time in stage of flight to produce a more granular estimate than competing approaches. Enabled by our methodology, we then calculate system-wide emissions, considering four different greenhouse gases (CO2, NOx, CO, HC) during the Landing, Take-off (LTO) and Climb, Cruise, and Descent (CCD) flight cycles. Our results elucidate that emissions on a particular route can vary significantly due to aircraft and engine choice, and that emission rates differ significantly from airline to airline. We also find that CO2 alone is not a sufficient proxy for emissions, as NOx, when converted to its CO2-equivalency, exceeds CO2 during both LTO and CCD.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T16:13:28.955Z

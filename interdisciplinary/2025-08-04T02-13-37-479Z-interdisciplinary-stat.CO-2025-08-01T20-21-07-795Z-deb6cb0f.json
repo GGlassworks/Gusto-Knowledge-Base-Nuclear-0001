@@ -1,0 +1,12 @@
+# Variational inference for steady-state BVARs
+
+**Authors:** Oskar Gustafsson, Mattias Villani
+
+## Summary
+The steady-state Bayesian vector autoregression (BVAR) makes it possible to incorporate prior information about the long-run mean of the process. This has been shown in many studies to substantially improve forecasting performance, and the model is routinely used for forecasting and macroeconomic policy analysis at central banks and other financial institutions. Steady-steady BVARs are estimated using Gibbs sampling, which is time-consuming for the increasingly popular large-scale BVAR models with many variables. We propose a fast variational inference (VI) algorithm for approximating the parameter posterior and predictive distribution of the steady-state BVAR, as well as log predictive scores for model comparison. We use simulated and real US macroeconomic data to show that VI produces results that are very close to those from Gibbs sampling. The computing time of VI can be orders of magnitude lower than Gibbs sampling, in particular for log predictive scores, and VI is shown to scale much better with the number of time series in the system.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.CO
+Collected: 2025-08-01T20:21:07.796Z

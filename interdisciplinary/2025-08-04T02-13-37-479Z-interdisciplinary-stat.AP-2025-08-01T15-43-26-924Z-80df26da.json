@@ -1,0 +1,12 @@
+# Winning the Big Data Technologies Horizon Prize: Fast and reliable forecasting of electricity grid traffic by identification of recurrent fluctuations
+
+**Authors:** Jose M. G. Vilar
+
+## Summary
+This paper provides a description of the approach and methodology I used in winning the European Union Big Data Technologies Horizon Prize on data-driven prediction of electricity grid traffic. The methodology relies on identifying typical short-term recurrent fluctuations, which is subsequently refined through a regression-of-fluctuations approach. The key points and strategic considerations that led to selecting or discarding different methodological aspects are also discussed. The criteria include adaptability to changing conditions, reliability with outliers and missing data, robustness to noise, and efficiency in implementation.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T15:43:26.925Z

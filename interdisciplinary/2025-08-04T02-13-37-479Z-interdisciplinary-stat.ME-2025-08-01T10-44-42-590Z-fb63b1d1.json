@@ -1,0 +1,12 @@
+# Sampling techniques for big data analysis in finite population inference
+
+**Authors:** Jae Kwang Kim, Zhonglei Wang
+
+## Summary
+In analyzing big data for finite population inference, it is critical to adjust for the selection bias in the big data. In this paper, we propose two methods of reducing the selection bias associated with the big data sample. The first method uses a version of inverse sampling by incorporating auxiliary information from external sources, and the second one borrows the idea of data integration by combining the big data sample with an independent probability sample. Two simulation studies show that the proposed methods are unbiased and have better coverage rates than their alternatives. In addition, the proposed methods are easy to implement in practice.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T10:44:42.590Z

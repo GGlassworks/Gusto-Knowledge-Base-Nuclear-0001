@@ -1,0 +1,12 @@
+# Dynamic graphical models: Theory, structure and counterfactual forecasting
+
+**Authors:** Mike West, Luke Vrotsos
+
+## Summary
+Simultaneous graphical dynamic linear models (SGDLMs) provide advances in flexibility, parsimony and scalability of multivariate time series analysis, with proven utility in forecasting. Core theoretical aspects of such models are developed, including new results linking dynamic graphical and latent factor models. Methodological developments extend existing Bayesian sequential analyses for model marginal likelihood evaluation and counterfactual forecasting. The latter, involving new Bayesian computational developments for missing data in SGDLMs, is motivated by causal applications. A detailed example illustrating the models and new methodology concerns global macroeconomic time series with complex, time-varying cross-series relationships and primary interests in potential causal effects.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T20:15:08.347Z

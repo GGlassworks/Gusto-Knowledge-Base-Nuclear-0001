@@ -1,0 +1,12 @@
+# Differential Network Analysis: A Statistical Perspective
+
+**Authors:** Ali Shojaie
+
+## Summary
+Networks effectively capture interactions among components of complex systems, and have thus become a mainstay in many scientific disciplines. Growing evidence, especially from biology, suggest that networks undergo changes over time, and in response to external stimuli. In biology and medicine, these changes have been found to be predictive of complex diseases. They have also been used to gain insight into mechanisms of disease initiation and progression. Primarily motivated by biological applications, this article provides a review of recent statistical machine learning methods for inferring networks and identifying changes in their structures.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:29:08.131Z

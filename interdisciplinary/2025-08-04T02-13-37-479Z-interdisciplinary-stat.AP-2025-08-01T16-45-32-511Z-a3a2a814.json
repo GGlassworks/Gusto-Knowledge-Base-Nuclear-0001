@@ -1,0 +1,12 @@
+# A simulations approach for meta-analysis of genetic association studies based on additive genetic model
+
+**Authors:** Majnu John, Todd Lencz, Anil K Malhotra, Christoph U Correll, Jian-Ping Zhang
+
+## Summary
+Genetic association studies are becoming an important component of medical research. To cite one instance, pharmacogenomics which is gaining prominence as a useful tool for personalized medicine is heavily reliant on results from genetic association studies. Meta-analysis of genetic association studies is being increasingly used to assess phenotypic differences between genotype groups. When the underlying genetic model is assumed to be dominant or recessive, assessing the phenotype differences based on summary statistics, reported for individual studies in a meta-analysis, is a valid strategy. However, when the genetic model is additive, a similar strategy based on summary statistics will lead to biased results. This fact about the additive model is one of the things that we establish in this paper, using simulations. The main goal of this paper is to present an alternate strategy for the additive model based on simulating data for the individual studies. We show that the alternate strategy is far superior to the strategy based on summary statistics.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T16:45:32.512Z

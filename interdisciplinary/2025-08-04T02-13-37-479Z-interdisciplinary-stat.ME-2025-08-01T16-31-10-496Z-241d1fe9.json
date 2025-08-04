@@ -1,0 +1,12 @@
+# The EM Algorithm and the Rise of Computational Biology
+
+**Authors:** Xiaodan Fan, Yuan Yuan, Jun S. Liu
+
+## Summary
+In the past decade computational biology has grown from a cottage industry with a handful of researchers to an attractive interdisciplinary field, catching the attention and imagination of many quantitatively-minded scientists. Of interest to us is the key role played by the EM algorithm during this transformation. We survey the use of the EM algorithm in a few important computational biology problems surrounding the "central dogma"; of molecular biology: from DNA to RNA and then to proteins. Topics of this article include sequence motif discovery, protein sequence alignment, population genetics, evolutionary models and mRNA expression microarray data analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:31:10.496Z

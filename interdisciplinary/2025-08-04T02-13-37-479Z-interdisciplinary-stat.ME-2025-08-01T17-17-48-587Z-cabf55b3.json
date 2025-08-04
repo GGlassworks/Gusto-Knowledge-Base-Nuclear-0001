@@ -1,0 +1,12 @@
+# Inference for natural mediation effects under case-cohort sampling with applications in identifying COVID-19 vaccine correlates of protection
+
+**Authors:** David Benkeser, Iván Díaz, Jialu Ran
+
+## Summary
+Combating the SARS-CoV2 pandemic will require the fast development of effective preventive vaccines. Regulatory agencies may open accelerated approval pathways for vaccines if an immunological marker can be established as a mediator of a vaccine's protection. A rich source of information for identifying such correlates are large-scale efficacy trials of COVID-19 vaccines, where immune responses are measured subject to a case-cohort sampling design. We propose two approaches to estimation of mediation parameters in the context of case-cohort sampling designs. We establish the theoretical large-sample efficiency of our proposed estimators and evaluate them in a realistic simulation to understand whether they can be employed in the analysis of COVID-19 vaccine efficacy trials.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T17:17:48.587Z

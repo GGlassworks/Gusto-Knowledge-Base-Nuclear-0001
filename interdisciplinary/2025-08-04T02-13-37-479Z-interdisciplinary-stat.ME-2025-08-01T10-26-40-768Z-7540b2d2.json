@@ -1,0 +1,12 @@
+# Docs are ROCs: A simple off-the-shelf approach for estimating average human performance in diagnostic studies
+
+**Authors:** Luke Oakden-Rayner, Lyle Palmer
+
+## Summary
+Estimating average human performance has been performed inconsistently in research in diagnostic medicine. This has been particularly apparent in the field of medical artificial intelligence, where humans are often compared against AI models in multi-reader multi-case studies, and commonly reported metrics such as the pooled or average human sensitivity and specificity will systematically underestimate the performance of human experts. We present the use of summary receiver operating characteristic curve analysis, a technique commonly used in the meta-analysis of diagnostic test accuracy studies, as a sensible and methodologically robust alternative. We describe the motivation for using these methods and present results where we apply these meta-analytic techniques to a handful of prominent medical AI studies.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T10:26:40.768Z

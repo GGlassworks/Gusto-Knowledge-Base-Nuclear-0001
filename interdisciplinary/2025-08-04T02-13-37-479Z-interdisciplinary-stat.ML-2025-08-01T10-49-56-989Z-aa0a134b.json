@@ -1,0 +1,12 @@
+# Automatic Discovery of Privacy-Utility Pareto Fronts
+
+**Authors:** Brendan Avent, Javier Gonzalez, Tom Diethe, Andrei Paleyes, Borja Balle
+
+## Summary
+Differential privacy is a mathematical framework for privacy-preserving data analysis. Changing the hyperparameters of a differentially private algorithm allows one to trade off privacy and utility in a principled way. Quantifying this trade-off in advance is essential to decision-makers tasked with deciding how much privacy can be provided in a particular application while maintaining acceptable utility. Analytical utility guarantees offer a rigorous tool to reason about this trade-off, but are generally only available for relatively simple problems. For more complex tasks, such as training neural networks under differential privacy, the utility achieved by a given algorithm can only be measured empirically. This paper presents a Bayesian optimization methodology for efficiently characterizing the privacy--utility trade-off of any differentially private algorithm using only empirical measurements of its utility. The versatility of our method is illustrated on a number of machine learning tasks involving multiple models, optimizers, and datasets.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ML
+Collected: 2025-08-01T10:49:56.989Z

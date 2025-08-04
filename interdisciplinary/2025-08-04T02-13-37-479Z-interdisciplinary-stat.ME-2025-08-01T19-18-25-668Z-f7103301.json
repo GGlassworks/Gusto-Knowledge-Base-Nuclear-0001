@@ -1,0 +1,12 @@
+# Integrating Big Data and Survey Data for Efficient Estimation of the Median
+
+**Authors:** Ryan Covey
+
+## Summary
+An ever-increasing deluge of big data is becoming available to national statistical offices globally, but it is well documented that statistics produced by big data alone often suffer from selection bias and are not usually representative of the population at large. In this paper, we construct a new design-based estimator of the median by integrating big data and survey data. Our estimator is asymptotically unbiased and has a smaller variance than a median estimator produced using survey data alone.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T19:18:25.669Z

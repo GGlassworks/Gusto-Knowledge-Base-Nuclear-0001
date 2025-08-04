@@ -1,0 +1,12 @@
+# Simulation in Statistics
+
+**Authors:** Christian P. Robert
+
+## Summary
+Simulation has become a standard tool in statistics because it may be the only tool available for analysing some classes of probabilistic models. We review in this paper simulation tools that have been specifically derived to address statistical challenges and, in particular, recent advances in the areas of adaptive Markov chain Monte Carlo (MCMC) algorithms, and approximate Bayesian calculation (ABC) algorithms.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.CO
+Collected: 2025-08-01T21:13:45.196Z

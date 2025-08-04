@@ -1,0 +1,12 @@
+# Wavelet-based genetic association analysis of functional phenotypes arising from high-throughput sequencing assays
+
+**Authors:** Heejung Shim, Matthew Stephens
+
+## Summary
+Understanding how genetic variants influence cellular-level processes is an important step towards understanding how they influence important organismal-level traits, or "phenotypes", including human disease susceptibility. To this end scientists are undertaking large-scale genetic association studies that aim to identify genetic variants associated with molecular and cellular phenotypes, such as gene expression, transcription factor binding, or chromatin accessibility. These studies use high-throughput sequencing assays (e.g. RNA-seq, ChIP-seq, DNase-seq) to obtain high-resolution data on how the traits vary along the genome in each sample. However, typical association analyses fail to exploit these high-resolution measurements, instead aggregating the data at coarser resolutions, such as genes, or windows of fixed length. Here we develop and apply statistical methods that better exploit the high-resolution data. The key idea is to treat the sequence data as measuring an underlying "function" that varies along the genome, and then, building on wavelet-based methods for functional data analysis, test for association between genetic variants and the underlying function. Applying these methods to identify genetic variants associated with chromatin accessibility (dsQTLs) we find that they identify substantially more associations than a simpler window-based analysis, and in total we identify 772 novel dsQTLs not identified by the original analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:52:41.857Z

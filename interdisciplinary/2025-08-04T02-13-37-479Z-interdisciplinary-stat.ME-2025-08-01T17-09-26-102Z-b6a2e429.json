@@ -1,0 +1,12 @@
+# Lost in the Shuffle: Testing Power in the Presence of Errorful Network Vertex Labels
+
+**Authors:** Ayushi Saxena, Vince Lyzinski
+
+## Summary
+Two-sample network hypothesis testing is an important inference task with applications across diverse fields such as medicine, neuroscience, and sociology. Many of these testing methodologies operate under the implicit assumption that the vertex correspondence across networks is a priori known. This assumption is often untrue, and the power of the subsequent test can degrade when there are misaligned/label-shuffled vertices across networks. This power loss due to shuffling is theoretically explored in the context of random dot product and stochastic block model networks for a pair of hypothesis tests based on Frobenius norm differences between estimated edge probability matrices or between adjacency matrices. The loss in testing power is further reinforced by numerous simulations and experiments, both in the stochastic block model and in the random dot product graph model, where the power loss across multiple recently proposed tests in the literature is considered. Lastly, the impact that shuffling can have in real-data testing is demonstrated in a pair of examples from neuroscience and from social network analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T17:09:26.103Z

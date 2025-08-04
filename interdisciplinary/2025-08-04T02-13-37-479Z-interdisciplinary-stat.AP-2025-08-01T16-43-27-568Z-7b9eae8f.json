@@ -1,0 +1,12 @@
+# GemTools: A fast and efficient approach to estimating genetic ancestry
+
+**Authors:** Lambertus Klei, Brian P. Kent, Nadine Melhem, Bernie Devlin, Kathryn Roeder
+
+## Summary
+To uncover the genetic basis of complex disease, individuals are often measured at a large number of genetic variants (usually SNPs) across the genome. GemTools provides computationally efficient tools for modeling genetic ancestry based on SNP genotypes. The main algorithm creates an eigenmap based on genetic similarities, and then clusters subjects based on their map position. This process is continued iteratively until each cluster is relatively homogeneous. For genetic association studies, GemTools matches cases and controls based on genetic similarity.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T16:43:27.568Z

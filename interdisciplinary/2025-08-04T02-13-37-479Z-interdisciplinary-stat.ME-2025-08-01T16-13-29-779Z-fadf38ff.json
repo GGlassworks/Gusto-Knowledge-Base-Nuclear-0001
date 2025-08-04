@@ -1,0 +1,12 @@
+# Covariance-free Bi-fidelity Control Variates Importance Sampling for Rare Event Reliability Analysis
+
+**Authors:** Promit Chakroborty, Somayajulu L. N. Dhulipala, Michael D. Shields
+
+## Summary
+Multifidelity modeling has been steadily gaining attention as a tool to address the problem of exorbitant model evaluation costs that makes the estimation of failure probabilities a significant computational challenge for complex real-world problems, particularly when failure is a rare event. To implement multifidelity modeling, estimators that efficiently combine information from multiple models/sources are necessary. In past works, the variance reduction techniques of Control Variates (CV) and Importance Sampling (IS) have been leveraged for this task. In this paper, we present the CVIS framework; a creative take on a coupled CV and IS estimator for bifidelity reliability analysis. The framework addresses some of the practical challenges of the CV method by using an estimator for the control variate mean and side-stepping the need to estimate the covariance between the original estimator and the control variate through a clever choice for the tuning constant. The task of selecting an efficient IS distribution is also considered, with a view towards maximally leveraging the bifidelity structure and maintaining expressivity. Additionally, a diagnostic is provided that indicates both the efficiency of the algorithm as well as the relative predictive quality of the models utilized. Finally, the behavior and performance of the framework is explored through analytical and numerical examples.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:13:29.779Z

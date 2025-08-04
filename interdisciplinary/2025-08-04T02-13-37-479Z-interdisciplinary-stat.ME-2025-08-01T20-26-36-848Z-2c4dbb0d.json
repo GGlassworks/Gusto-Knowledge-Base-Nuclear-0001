@@ -1,0 +1,12 @@
+# Feasible contact tracing
+
+**Authors:** Aparajithan Venkateswaran, Jishnu Das, Tyler H. McCormick
+
+## Summary
+Contact tracing is one of the most important tools for preventing the spread of infectious diseases, but as the experience of COVID-19 showed, it is also next-to-impossible to implement when the disease is spreading rapidly. We show how to substantially improve the efficiency of contact tracing by combining standard microeconomic tools that measure heterogeneity in how infectious a sick person is with ideas from machine learning about sequential optimization. Our contributions are twofold. First, we incorporate heterogeneity in individual infectiousness in a multi-armed bandit to establish optimal algorithms. At the heart of this strategy is a focus on learning. In the typical conceptualization of contact tracing, contacts of an infected person are tested to find more infections. Under a learning-first framework, however, contacts of infected persons are tested to ascertain whether the infected person is likely to be a "high infector" and to find additional infections only if it is likely to be highly fruitful. Second, we demonstrate using three administrative contact tracing datasets from India and Pakistan during COVID-19 that this strategy improves efficiency. Using our algorithm, we find 80% of infections with just 40% of contacts while current approaches test twice as many contacts to identify the same number of infections. We further show that a simple strategy that can be easily implemented in the field performs at nearly optimal levels, allowing for, what we call, feasible contact tracing. These results are immediately transferable to contact tracing in any epidemic.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T20:26:36.848Z

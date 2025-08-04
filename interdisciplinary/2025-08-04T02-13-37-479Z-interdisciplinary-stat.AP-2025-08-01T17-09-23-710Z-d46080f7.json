@@ -1,0 +1,12 @@
+# Time, Frequency &amp; Time-Varying Causality Measures in Neuroscience
+
+**Authors:** Sezen Cekic, Didier Grandjean, Olivier Renaud
+
+## Summary
+This article proposes a systematic methodological review and objective criticism of existing methods enabling the derivation of time-varying Granger-causality statistics in neuroscience. The increasing interest and the huge number of publications related to this topic calls for this systematic review which describes the very complex methodological aspects. The capacity to describe the causal links between signals recorded at different brain locations during a neuroscience experiment is of primary interest for neuroscientists, who often have very precise prior hypotheses about the relationships between recorded brain signals that arise at a specific time and in a specific frequency band. The ability to compute a time-varying frequency-specific causality statistic is therefore essential. Two steps are necessary to achieve this: the first consists of finding a statistic that can be interpreted and that directly answers the question of interest. The second concerns the model that underlies the causality statistic and that has this time-frequency specific causality interpretation. In this article, we will review Granger-causality statistics with their spectral and time-varying extensions.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T17:09:23.711Z

@@ -1,0 +1,12 @@
+# An Improved and Extended Bayesian Synthetic Control
+
+**Authors:** Sean Pinkney
+
+## Summary
+An improved and extended Bayesian synthetic control model is presented, expanding upon the latent factor model in Tuomaala 2019. The changes we make include 1) standardization of the data prior to model fit - which improves efficiency and generalization across different data sets; 2) adding time varying covariates; 3) adding the ability to have multiple treated units; 4) fitting the latent factors within the Bayesian model; and, 5) a sparsity inducing prior to automatically tune the number of latent factors. We demonstrate the similarity of estimates to two traditional synthetic control studies in Abadie, Diamond, and Hainmueller 2010 and Abadie, Diamond, and Hainmueller 2015 and extend to multiple target series with a new example of estimating digital website visitation from changes in data collection due to digital privacy laws.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T10:26:38.672Z

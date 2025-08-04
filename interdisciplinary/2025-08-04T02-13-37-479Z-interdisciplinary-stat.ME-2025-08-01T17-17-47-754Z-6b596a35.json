@@ -1,0 +1,12 @@
+# A Nearest-Neighbor Based Nonparametric Test for Viral Remodeling in Heterogeneous Single-Cell Proteomic Data
+
+**Authors:** Trambak Banerjee, Bhaswar B. Bhattacharya, Gourab Mukherjee
+
+## Summary
+An important problem in contemporary immunology studies based on single-cell protein expression data is to determine whether cellular expressions are remodeled post infection by a pathogen. One natural approach for detecting such changes is to use non-parametric two-sample statistical tests. However, in single-cell studies, direct application of these tests is often inadequate because single-cell level expression data from uninfected populations often contains attributes of several latent sub-populations with highly heterogeneous characteristics. As a result, viruses often infect these different sub-populations at different rates in which case the traditional nonparametric two-sample tests for checking similarity in distributions are no longer conservative. We propose a new nonparametric method for Testing Remodeling Under Heterogeneity (TRUH) that can accurately detect changes in the infected samples compared to possibly heterogeneous uninfected samples. Our testing framework is based on composite nulls and is designed to allow the null model to encompass the possibility that the infected samples, though unaltered by the virus, might be dominantly arising from under-represented sub-populations in the baseline data. The TRUH statistic, which uses nearest neighbor projections of the infected samples into the baseline uninfected population, is calibrated using a novel bootstrap algorithm. We demonstrate the non-asymptotic performance of the test via simulation experiments and derive the large sample limit of the test statistic, which provides theoretical support towards consistent asymptotic calibration of the test. We use the TRUH statistic for studying remodeling in tonsillar T cells under different types of HIV infection and find that unlike traditional tests, TRUH based statistical inference conforms to the biologically validated immunological theories on HIV infection.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T17:17:47.755Z

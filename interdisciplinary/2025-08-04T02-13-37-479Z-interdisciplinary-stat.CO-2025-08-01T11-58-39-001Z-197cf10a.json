@@ -1,0 +1,12 @@
+# Estimating Box-Cox power transformation parameter via goodness of fit tests
+
+**Authors:** Ozgur Asar, Ozlem Ilk, Osman Dag
+
+## Summary
+Box-Cox power transformation is a commonly used methodology to transform the distribution of a non-normal data into a normal one. Estimation of the transformation parameter is crucial in this methodology. In this study, the estimation process is hold via a searching algorithm and is integrated into well-known seven goodness of fit tests for normal distribution. An artificial covariate method is also included for comparative purposes. Simulation studies are implemented to compare the effectiveness of the proposed methods. The methods are also illustrated on two different real life data applications. Moreover, an R package AID is proposed for implementation.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.CO
+Collected: 2025-08-01T11:58:39.001Z

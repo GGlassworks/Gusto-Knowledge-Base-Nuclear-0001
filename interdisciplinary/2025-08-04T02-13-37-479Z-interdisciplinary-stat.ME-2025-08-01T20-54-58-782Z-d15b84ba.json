@@ -1,0 +1,12 @@
+# On Comparison Of Experts
+
+**Authors:** Itay Kavaler, Rann Smorodinsky
+
+## Summary
+A policy maker faces a sequence of unknown outcomes. At each stage two (self-proclaimed) experts provide probabilistic forecasts on the outcome in the next stage. A comparison test is a protocol for the policy maker to (eventually) decide which of the two experts is better informed. The protocol takes as input the sequence of pairs of forecasts and actual realizations and (weakly) ranks the two experts. We propose two natural properties that such a comparison test must adhere to and show that these essentially uniquely determine the comparison test. This test is a function of the derivative of the induced pair of measures at the realization.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T20:54:58.783Z

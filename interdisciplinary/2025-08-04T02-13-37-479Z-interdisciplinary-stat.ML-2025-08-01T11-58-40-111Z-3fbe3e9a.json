@@ -1,0 +1,12 @@
+# Variable transformations in consistent loss functions
+
+**Authors:** Hristos Tyralis, Georgia Papacharalampous
+
+## Summary
+Loss functions constructed by applying transformations to the realization and prediction variables of (strictly) consistent loss functions have been extensively studied empirically, yet their theoretical foundations remain unexplored. To address this gap, we establish formal characterizations of (strict) consistency for such transformed loss functions and their corresponding elicitable functionals. Our analysis focuses on two interrelated cases: (a) transformations applied solely to the realization variable and (b) bijective transformations applied jointly to both the realization and prediction variables. These cases extend the well-established framework of transformations applied exclusively to the prediction variable, as formalized by Osband's revelation principle. We further develop analogous characterizations for (strict) identification functions. The resulting theoretical framework is broadly applicable to statistical and machine learning methodologies. When applied to Bregman and expectile loss functions, our framework enables two key advancements: (a) the interpretation of empirical findings from models trained with transformed loss functions and (b) the systematic construction of novel identifiable and elicitable functionals, including the g-transformed expectation and g-transformed expectile. By unifying theoretical insights with practical applications, this work advances principled methodologies for designing loss functions in complex predictive tasks. Applications of the framework to simulated and real-world data illustrate its practical utility in diverse settings.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ML
+Collected: 2025-08-01T11:58:40.112Z

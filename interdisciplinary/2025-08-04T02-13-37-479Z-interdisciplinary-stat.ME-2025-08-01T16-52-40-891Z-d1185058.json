@@ -1,0 +1,12 @@
+# Distinguishing correlation from causation using genome-wide association studies
+
+**Authors:** Luke J. O'Connor, Alkes L. Price
+
+## Summary
+Genome-wide association studies (GWAS) have emerged as a rich source of genetic clues into disease biology, and they have revealed strong genetic correlations among many diseases and traits. Some of these genetic correlations may reflect causal relationships. We developed a method to quantify causal relationships between genetically correlated traits using GWAS summary association statistics. In particular, our method quantifies what part of the genetic component of trait 1 is also causal for trait 2 using mixed fourth moments $E(\alpha_1^2\alpha_1\alpha_2)$ and $E(\alpha_2^2\alpha_1\alpha_2)$ of the bivariate effect size distribution. If trait 1 is causal for trait 2, then SNPs affecting trait 1 (large $\alpha_1^2$) will have correlated effects on trait 2 (large $\alpha_1\alpha_2$), but not vice versa. We validated this approach in extensive simulations. Across 52 traits (average $N=331$k), we identified 30 putative genetically causal relationships, many novel, including an effect of LDL cholesterol on decreased bone mineral density. More broadly, we demonstrate that it is possible to distinguish between genetic correlation and causation using genetic association data.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:52:40.892Z

@@ -1,0 +1,12 @@
+# Clustering and Classification of Genetic Data Through U-Statistics
+
+**Authors:** Gabriela Bettella Cybis, Marcio Valk, Silvia Regina Costa Lopes
+
+## Summary
+Genetic data are frequently categorical and have complex dependence structures that are not always well understood. For this reason, clustering and classification based on genetic data, while highly relevant, are challenging statistical problems. Here we consider a highly versatile U-statistics based approach built on dissimilarities between pairs of data points for nonparametric clustering. In this work we propose statistical tests to assess group homogeneity taking into account the multiple testing issues, and a clustering algorithm based on dissimilarities within and between groups that highly speeds up the homogeneity test. We also propose a test to verify classification significance of a sample in one of two groups. A Monte Carlo simulation study is presented to evaluate power of the classification test, considering different group sizes and degree of separation. Size and power of the homogeneity test are also analyzed through simulations that compare it to competing methods. Finally, the methodology is applied to three different genetic datasets: global human genetic diversity, breast tumor gene expression and Dengue virus serotypes. These applications showcase this statistical framework's ability to answer diverse biological questions while adapting to the specificities of the different datatypes.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T16:52:42.430Z

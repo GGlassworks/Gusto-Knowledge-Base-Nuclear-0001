@@ -1,0 +1,12 @@
+# Comparison of REML methods for the study of phenome-wide genetic variation
+
+**Authors:** Damian Pavlyshyn, Iain M. Johnstone, Jacqueline L. Sztepanacz
+
+## Summary
+It is now well documented that genetic covariance between functionally related traits leads to an uneven distribution of genetic variation across multivariate trait combinations, and possibly a large part of phenotype-space that is inaccessible to evolution. How the size of this nearly-null genetic space translates to the broader phenome level is unknown. High dimensional phenotype data to address these questions are now within reach, however, incorporating these data into genetic analyses remains a challenge. Multi-trait genetic analyses, of more than a handful of traits, are slow and often fail to converge when fit with REML. This makes it challenging to estimate the genetic covariance ($\mathbf{G}$) underlying thousands of traits, let alone study its properties. We present a previously proposed REML algorithm that is feasible for high dimensional genetic studies in the specific setting of a balanced nested half-sib design, common of quantitative genetics. We show that it substantially outperforms other common approaches when the number of traits is large, and we use it to investigate the bias in estimated eigenvalues of $\mathbf{G}$ and the size of the nearly-null genetic subspace. We show that the high-dimensional biases observed are qualitatively similar to those substantiated by asymptotic approximation in a simpler setting of a sample covariance matrix based on i.i.d. vector observation, and that interpreting the estimated size of the nearly-null genetic subspace requires considerable caution in high-dimensional studies of genetic variation. Our results provide the foundation for future research characterizing the asymptotic approximation of estimated genetic eigenvalues, and a statistical null distribution for phenome-wide studies of genetic variation.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T16:43:27.795Z

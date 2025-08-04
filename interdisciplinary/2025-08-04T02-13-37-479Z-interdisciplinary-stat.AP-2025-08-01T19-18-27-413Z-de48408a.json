@@ -1,0 +1,12 @@
+# Goodness-of-Fit Tests for Large Datasets
+
+**Authors:** Taras Lazariv, Christoph Lehmann
+
+## Summary
+Nowadays, data analysis in the world of Big Data is connected typically to data mining, descriptive or exploratory statistics, e.~g.\ cluster analysis, classification or regression analysis. Aside these techniques there is a huge area of methods from inferential statistics that are rarely considered in connection with Big Data. Nevertheless, inferential methods are also of use for Big Data analysis, especially for quantifying uncertainty. The article at hand will provide some insights to methodological and technical issues referring inferential methods in the Big Data area in order to bring together Big Data and inferential statistics, as it comes along with its difficulties. We present an approach that allows testing goodness-of-fit without model assumptions and relying on the empirical distribution. Especially, the method is able to utilize information from large datasets. Thereby, the approach is based on a clear theoretical background. We concentrate on the widely-used Kolmogorov-Smirnov test that is applied for testing goodness-of-fit in statistics. Our approach can be parallelized easily, which makes it applicable to distributed datasets particularly on a compute cluster. By this contribution, we turn to an audience that is interested in the technical and methodological backgrounds while implementing especially inferential statistical methods with Big Data tools as e. g. Spark.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.AP
+Collected: 2025-08-01T19:18:27.414Z

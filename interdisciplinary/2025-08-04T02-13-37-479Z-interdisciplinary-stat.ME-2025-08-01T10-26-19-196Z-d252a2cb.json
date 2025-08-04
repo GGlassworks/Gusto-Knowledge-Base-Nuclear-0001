@@ -1,0 +1,12 @@
+# 3D mean Projective Shape Difference for Face Differentiation from Multiple Digital Camera Images
+
+**Authors:** K. D. Yao, V. Patrangenaru, D. Lester
+
+## Summary
+We give a nonparametric methodology for hypothesis testing for equality of extrinsic mean objects on a manifold embedded in a numerical spaces. The results obtained in the general setting are detailed further in the case of 3D projective shapes represented in a space of symmetric matrices via the quadratic Veronese-Whitney (VW) embedding. Large sample and nonparametric bootstrap confidence regions are derived for the common VW-mean of random projective shapes for finite 3D configurations. As an example, the VW MANOVA testing methodology is applied to the multi-sample mean problem for independent projective shapes of $3D$ facial configurations retrieved from digital images, via Agisoft PhotoScan technology.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T10:26:19.196Z

@@ -1,0 +1,12 @@
+# A New Projection Pursuit Index for Big Data
+
+**Authors:** Yajie Duan, Javier Cabrera, Birol Emir
+
+## Summary
+Visualization of extremely large datasets in static or dynamic form is a huge challenge because most traditional methods cannot deal with big data problems. A new visualization method for big data is proposed based on Projection Pursuit, Guided Tour and Data Nuggets methods, that will help display interesting hidden structures such as clusters, outliers, and other nonlinear structures in big data. The Guided Tour is a dynamic graphical tool for high-dimensional data combining Projection Pursuit and Grand Tour methods. It displays a dynamic sequence of low-dimensional projections obtained by using Projection Pursuit (PP) index functions to navigate the data space. Different PP indices have been developed to detect interesting structures of multivariate data but there are computational problems for big data using the original guided tour with these indices. A new PP index is developed to be computable for big data, with the help of a data compression method called Data Nuggets that reduces large datasets while maintaining the original data structure. Simulation studies are conducted and a real large dataset is used to illustrate the proposed methodology. Static and dynamic graphical tools for big data can be developed based on the proposed PP index to detect nonlinear structures.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T19:18:26.033Z

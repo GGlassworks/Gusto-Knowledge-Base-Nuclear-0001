@@ -1,0 +1,12 @@
+# Optimal Cut-Point Estimation for Functional Digital Biomarkers: Application to Diabetes Risk Stratification via Continuous Glucose Monitoring
+
+**Authors:** Oscar Lado-Baleato, Carla Díaz-Louza, Francisco Gude, Marcos Matabuena
+
+## Summary
+Establishing optimal cut-offs for clinical biomarkers is a fundamental statistical problem in epidemiology, clinical trials, and drug discovery. While there is extensive literature regarding the definition of optimal cut-offs for scalar biomarkers, methodologies for analyzing random statistical objects in the more complex spaces associated with random functions and graphs - something increasingly required in the field of modern digital health applications - are lacking. This paper proposes a new, general, simple methodology for defining optimal cut-offs for random objects residing in separable Hilbert spaces. Its underlying motivation is the need to create new, digital health rules for the detection of diabetes mellitus, and thus better exploit the continuous high-dimensional functional information provided by continuous glucose monitors (CGM). A functional cut-off for identifying diabetes is offered, based on glucose distributional representations from CGM time series. This work may be a valuable resource for researchers interested in defining and validating new digital biomarkers for biosensor time series
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ME
+Collected: 2025-08-01T10:26:20.191Z
