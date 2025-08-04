@@ -1,0 +1,12 @@
+# GNSS Signal Authentication via Power and Distortion Monitoring
+
+**Authors:** Kyle D. Wesson, Jason N. Gross, Todd E. Humphreys, Brian L. Evans
+
+## Summary
+We propose a simple low-cost technique that enables civil Global Positioning System (GPS) receivers and other civil global navigation satellite system (GNSS) receivers to reliably detect carry-off spoofing and jamming. The technique, which we call the Power-Distortion detector, classifies received signals as interference-free, multipath-afflicted, spoofed, or jammed according to observations of received power and correlation function distortion. It does not depend on external hardware or a network connection and can be readily implemented on many receivers via a firmware update. Crucially, the detector can with high probability distinguish low-power spoofing from ordinary multipath. In testing against over 25 high-quality empirical data sets yielding over 900,000 separate detection tests, the detector correctly alarms on all malicious spoofing or jamming attacks while maintaining a &lt;0.6% single-channel false alarm rate.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T16:17:15.197Z

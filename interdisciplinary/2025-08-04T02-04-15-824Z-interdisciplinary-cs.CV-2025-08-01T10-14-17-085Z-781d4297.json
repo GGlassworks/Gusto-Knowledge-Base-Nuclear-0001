@@ -1,0 +1,12 @@
+# ViDA-MAN: Visual Dialog with Digital Humans
+
+**Authors:** Tong Shen, Jiawei Zuo, Fan Shi, Jin Zhang, Liqin Jiang, Meng Chen, Zhengchen Zhang, Wei Zhang, Xiaodong He, Tao Mei
+
+## Summary
+We demonstrate ViDA-MAN, a digital-human agent for multi-modal interaction, which offers realtime audio-visual responses to instant speech inquiries. Compared to traditional text or voice-based system, ViDA-MAN offers human-like interactions (e.g, vivid voice, natural facial expression and body gestures). Given a speech request, the demonstration is able to response with high quality videos in sub-second latency. To deliver immersive user experience, ViDA-MAN seamlessly integrates multi-modal techniques including Acoustic Speech Recognition (ASR), multi-turn dialog, Text To Speech (TTS), talking heads video generation. Backed with large knowledge base, ViDA-MAN is able to chat with users on a number of topics including chit-chat, weather, device control, News recommendations, booking hotels, as well as answering questions via structured knowledge.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:17.085Z

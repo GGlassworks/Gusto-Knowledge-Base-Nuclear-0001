@@ -1,0 +1,12 @@
+# There Is a Digital Art History
+
+**Authors:** Leonardo Impett, Fabian Offert
+
+## Summary
+In this paper, we revisit Johanna Drucker's question, "Is there a digital art history?" -- posed exactly a decade ago -- in the light of the emergence of large-scale, transformer-based vision models. While more traditional types of neural networks have long been part of digital art history, and digital humanities projects have recently begun to use transformer models, their epistemic implications and methodological affordances have not yet been systematically analyzed. We focus our analysis on two main aspects that, together, seem to suggest a coming paradigm shift towards a "digital" art history in Drucker's sense. On the one hand, the visual-cultural repertoire newly encoded in large-scale vision models has an outsized effect on digital art history. The inclusion of significant numbers of non-photographic images allows for the extraction and automation of different forms of visual logics. Large-scale vision models have "seen" large parts of the Western visual canon mediated by Net visual culture, and they continuously solidify and concretize this canon through their already widespread application in all aspects of digital life. On the other hand, based on two technical case studies of utilizing a contemporary large-scale visual model to investigate basic questions from the fields of art history and urbanism, we suggest that such systems require a new critical methodology that takes into account the epistemic entanglement of a model and its applications. This new methodology reads its corpora through a neural model's training data, and vice versa: the visual ideologies of research datasets and training datasets become entangled.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.421Z

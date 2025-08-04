@@ -1,0 +1,12 @@
+# Evolutionary Approach to S-box Generation: Optimizing Nonlinear Substitutions in Symmetric Ciphers
+
+**Authors:** Oleksandr Kuznetsov, Nikolay Poluyanenko, Emanuele Frontoni, Marco Arnesano, Oleksii Smirnov
+
+## Summary
+This study explores the application of genetic algorithms in generating highly nonlinear substitution boxes (S-boxes) for symmetric key cryptography. We present a novel implementation that combines a genetic algorithm with the Walsh-Hadamard Spectrum (WHS) cost function to produce 8x8 S-boxes with a nonlinearity of 104. Our approach achieves performance parity with the best-known methods, requiring an average of 49,399 iterations with a 100% success rate. The study demonstrates significant improvements over earlier genetic algorithm implementations in this field, reducing iteration counts by orders of magnitude. By achieving equivalent performance through a different algorithmic approach, our work expands the toolkit available to cryptographers and highlights the potential of genetic methods in cryptographic primitive generation. The adaptability and parallelization potential of genetic algorithms suggest promising avenues for future research in S-box generation, potentially leading to more robust, efficient, and innovative cryptographic systems. Our findings contribute to the ongoing evolution of symmetric key cryptography, offering new perspectives on optimizing critical components of secure communication systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T16:56:57.503Z

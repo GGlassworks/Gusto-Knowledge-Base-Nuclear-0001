@@ -1,0 +1,12 @@
+# Full Restoration of Visual Encrypted Color Images
+
+**Authors:** Simeon Persson, Kristian Várnai
+
+## Summary
+While strictly black and white images have been the basis for visual cryptography, there has been a lack of an easily implemented format for colour images. This paper establishes a simple, yet secure way of implementing visual cryptography with colour, assuming a binary data representation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T19:55:16.963Z

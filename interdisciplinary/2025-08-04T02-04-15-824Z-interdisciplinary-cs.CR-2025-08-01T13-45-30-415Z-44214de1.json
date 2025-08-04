@@ -1,0 +1,12 @@
+# Vulnerabilities of smart contracts and mitigation schemes: A Comprehensive Survey
+
+**Authors:** Wejdene Haouari, Abdelhakim Senhaji Hafid, Marios Fokaefs
+
+## Summary
+Ethereum smart contracts are highly powerful, immutable, and able to retain massive amounts of tokens. However, smart contracts keep attracting attackers to benefit from smart contract flaws and Ethereum unexpected behavior. Thus, methodologies and tools have been proposed to help implement secure smart contracts and to evaluate the security of smart contracts already deployed. Most related surveys focus on tools without discussing the logic behind them. in addition, they assess the tools based on papers rather than testing the tools and collecting community feedback. Other surveys lack guidelines on how to use tools specific to smart contract functionalities. This paper presents a literature review combined with an experimental report that aims to assist developers in developing secure smarts, with a novel emphasis on the challenges and vulnerabilities introduced by NFT fractionalization by addressing the unique risks of dividing NFT ownership into tradeable units called fractions. It provides a list of frequent vulnerabilities and corresponding mitigation solutions. In addition, it evaluates the community most widely used tools by executing and testing them on sample smart contracts. Finally, a comprehensive guide on implementing secure smart contracts is presented.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T13:45:30.416Z

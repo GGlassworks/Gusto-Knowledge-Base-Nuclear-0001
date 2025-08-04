@@ -1,0 +1,12 @@
+# A No-Reference Quality Assessment Method for Digital Human Head
+
+**Authors:** Yingjie Zhou, Zicheng Zhang, Wei Sun, Xiongkuo Min, Xianghe Ma, Guangtao Zhai
+
+## Summary
+In recent years, digital humans have been widely applied in augmented/virtual reality (A/VR), where viewers are allowed to freely observe and interact with the volumetric content. However, the digital humans may be degraded with various distortions during the procedure of generation and transmission. Moreover, little effort has been put into the perceptual quality assessment of digital humans. Therefore, it is urgent to carry out objective quality assessment methods to tackle the challenge of digital human quality assessment (DHQA). In this paper, we develop a novel no-reference (NR) method based on Transformer to deal with DHQA in a multi-task manner. Specifically, the front 2D projections of the digital humans are rendered as inputs and the vision transformer (ViT) is employed for the feature extraction. Then we design a multi-task module to jointly classify the distortion types and predict the perceptual quality levels of digital humans. The experimental results show that the proposed method well correlates with the subjective ratings and outperforms the state-of-the-art quality assessment methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:15.793Z

@@ -1,0 +1,12 @@
+# Psychophysical Evaluation of Human Performance in Detecting Digital Face Image Manipulations
+
+**Authors:** Robert Nichols, Christian Rathgeb, Pawel Drozdowski, Christoph Busch
+
+## Summary
+In recent years, increasing deployment of face recognition technology in security-critical settings, such as border control or law enforcement, has led to considerable interest in the vulnerability of face recognition systems to attacks utilising legitimate documents, which are issued on the basis of digitally manipulated face images. As automated manipulation and attack detection remains a challenging task, conventional processes with human inspectors performing identity verification remain indispensable. These circumstances merit a closer investigation of human capabilities in detecting manipulated face images, as previous work in this field is sparse and often concentrated only on specific scenarios and biometric characteristics. This work introduces a web-based, remote visual discrimination experiment on the basis of principles adopted from the field of psychophysics and subsequently discusses interdisciplinary opportunities with the aim of examining human proficiency in detecting different types of digitally manipulated face images, specifically face swapping, morphing, and retouching. In addition to analysing appropriate performance measures, a possible metric of detectability is explored. Experimental data of 306 probands indicate that detection performance is widely distributed across the population and detection of certain types of face image manipulations is much more challenging than others.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.092Z

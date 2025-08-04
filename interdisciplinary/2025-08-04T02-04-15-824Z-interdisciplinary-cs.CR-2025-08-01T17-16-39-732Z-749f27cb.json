@@ -1,0 +1,12 @@
+# An Immunology-Inspired Network Security Architecture
+
+**Authors:** Quan Yu, Jing Ren, Jiyan Zhang, Siyang Liu, Yinjin Fu, Ying Li, Linru Ma, Jian Jing, Wei Zhang
+
+## Summary
+The coming 5G networks have been enabling the creation of a wide variety of new services and applications which demand a new network security architecture. Immunology is the study of the immune system in vertebrates (including humans) which protects us from infection through various lines of defence. By studying the resemblance between the immune system and network security system, we acquire some inspirations from immunology and distill some guidelines for the design of network security architecture. We present a philosophical design principle, that is maintaining the balance between security and availability. Then, we derive two methodological principles: 1) achieving situation-awareness and fast response through community cooperation among heterogeneous nodes, and 2) Enhancing defense capability through consistently contesting with invaders in a real environment and actively mutating/evolving attack strategies. We also present a reference architecture designed based on the principles.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T17:16:39.732Z

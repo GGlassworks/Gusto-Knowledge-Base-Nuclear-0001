@@ -1,0 +1,12 @@
+# An Overview of Privacy Dimensions on Industrial Internet of Things (IIoT)
+
+**Authors:** Vasiliki Demertzi, Stavros Demertzis, Konstantinos Demertzis
+
+## Summary
+Thanks to rapid technological developments, new innovative solutions and practical applications of the Industrial Internet of Things (IIoT) are being created, upgrading the structures of many industrial enterprises. IIoT brings the physical and digital environment together with minimal human intervention and profoundly transforms the economy and modern business. Data flowing through IIoT feed artificial intelligence tools, which perform intelligent functions such as performance tuning of interconnected machines, error correction, and preventive maintenance. However, IIoT deployments are vulnerable to sophisticated security threats at various levels of the connectivity and communications infrastructure they incorporate. The complex and often heterogeneous nature of chaotic IIoT infrastructures means that availability, confidentiality and integrity are difficult to guarantee. This can lead to potential mistrust of network operations, concerns about privacy breaches or loss of vital personal data and sensitive information of network end-users. This paper examines the privacy requirements of an IIoT ecosystem in industry standards. Specifically, it describes the industry privacy dimensions of the protection of natural persons through the processing of personal data by competent authorities for the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties. In addition, it presents an overview of the state-of-the-art methodologies and solutions for industrial privacy threats. Finally, it analyses the privacy requirements and suggestions for an ideal secure and private IIoT environment.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:26:22.156Z

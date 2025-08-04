@@ -1,0 +1,12 @@
+# Can process mining help in anomaly-based intrusion detection?
+
+**Authors:** Yinzheng Zhong, Alexei Lisitsa
+
+## Summary
+In this paper, we consider the naive applications of process mining in network traffic comprehension, traffic anomaly detection, and intrusion detection. We standardise the procedure of transforming packet data into an event log. We mine multiple process models and analyse the process models mined with the inductive miner using ProM and the fuzzy miner using Disco. We compare the two types of process models extracted from event logs of differing sizes. We contrast the process models with the RFC TCP state transition diagram and the diagram by Bishop et al. We analyse the issues and challenges associated with process mining in intrusion detection and explain why naive process mining with network data is ineffective.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T19:27:30.531Z

@@ -1,0 +1,12 @@
+# μgat: Improving Single-Page Document Parsing by Providing Multi-Page Context
+
+**Authors:** Fabio Quattrini, Carmine Zaccagnino, Silvia Cascianelli, Laura Righi, Rita Cucchiara
+
+## Summary
+Regesta are catalogs of summaries of other documents and, in some cases, are the only source of information about the content of such full-length documents. For this reason, they are of great interest to scholars in many social and humanities fields. In this work, we focus on Regesta Pontificum Romanum, a large collection of papal registers. Regesta are visually rich documents, where the layout is as important as the text content to convey the contained information through the structure, and are inherently multi-page documents. Among Digital Humanities techniques that can help scholars efficiently exploit regesta and other documental sources in the form of scanned documents, Document Parsing has emerged as a task to process document images and convert them into machine-readable structured representations, usually markup language. However, current models focus on scientific and business documents, and most of them consider only single-paged documents. To overcome this limitation, in this work, we propose {\mu}gat, an extension of the recently proposed Document parsing Nougat architecture, which can handle elements spanning over the single page limits. Specifically, we adapt Nougat to process a larger, multi-page context, consisting of the previous and the following page, while parsing the current page. Experimental results, both qualitative and quantitative, demonstrate the effectiveness of our proposed approach also in the case of the challenging Regesta Pontificum Romanorum.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:17.276Z

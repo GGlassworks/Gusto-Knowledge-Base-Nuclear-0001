@@ -1,0 +1,12 @@
+# Perceptual Quality Assessment for Digital Human Heads
+
+**Authors:** Zicheng Zhang, Yingjie Zhou, Wei Sun, Xiongkuo Min, Yuzhe Wu, Guangtao Zhai
+
+## Summary
+Digital humans are attracting more and more research interest during the last decade, the generation, representation, rendering, and animation of which have been put into large amounts of effort. However, the quality assessment of digital humans has fallen behind. Therefore, to tackle the challenge of digital human quality assessment issues, we propose the first large-scale quality assessment database for three-dimensional (3D) scanned digital human heads (DHHs). The constructed database consists of 55 reference DHHs and 1,540 distorted DHHs along with the subjective perceptual ratings. Then, a simple yet effective full-reference (FR) projection-based method is proposed to evaluate the visual quality of DHHs. The pretrained Swin Transformer tiny is employed for hierarchical feature extraction and the multi-head attention module is utilized for feature fusion. The experimental results reveal that the proposed method exhibits state-of-the-art performance among the mainstream FR metrics. The database is released at https://github.com/zzc-1998/DHHQA.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:15.842Z

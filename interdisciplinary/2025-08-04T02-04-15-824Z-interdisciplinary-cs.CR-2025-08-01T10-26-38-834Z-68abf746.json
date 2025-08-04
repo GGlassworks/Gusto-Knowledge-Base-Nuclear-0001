@@ -1,0 +1,12 @@
+# Logic and Reduction Operation based Hardware Trojans in Digital Design
+
+**Authors:** Mayukhmali Das, Sounak Dutta, Sayan Chatterjee
+
+## Summary
+In this paper, we will demonstrate Hardware Trojan Attacks on four different digital designs implemented on FPGA. The hardware trojan is activated based on special logical and reduction-based operations on vectors which makes the trojan-activity as silent and effective as possible. In this paper, we have introduced 5 novel trojan attack methodologies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:26:38.835Z

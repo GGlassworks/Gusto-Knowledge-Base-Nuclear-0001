@@ -1,0 +1,12 @@
+# Comparative Analysis Of Color Models For Human Perception And Visual Color Difference
+
+**Authors:** Aruzhan Burambekova, Pakizar Shamoi
+
+## Summary
+Color is integral to human experience, influencing emotions, decisions, and perceptions. This paper presents a comparative analysis of various color models' alignment with human visual perception. The study evaluates color models such as RGB, HSV, HSL, XYZ, CIELAB, and CIELUV to assess their effectiveness in accurately representing how humans perceive color. We evaluate each model based on its ability to accurately reflect visual color differences and dominant palette extraction compatible with the human eye. In image processing, accurate assessment of color difference is essential for applications ranging from digital design to quality control. Current color difference metrics do not always match how people see colors, causing issues in accurately judging subtle differences. Understanding how different color models align with human visual perception is crucial for various applications in image processing, digital media, and design.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.053Z

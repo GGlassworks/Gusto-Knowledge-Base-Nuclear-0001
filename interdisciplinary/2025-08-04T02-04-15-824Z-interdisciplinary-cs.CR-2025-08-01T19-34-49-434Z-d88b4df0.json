@@ -1,0 +1,12 @@
+# Preserving Data Confidentiality in Association Rule Mining Using Data Share Allocator Algorithm
+
+**Authors:** D. Dhinakaran, P. M. Joe Prathap
+
+## Summary
+These days, investigations of information are becoming essential for various associations all over the globe. By and large, different associations need to perform information examinations on their joined data sets. Privacy and security have become a relentless concern wherein business experts do not desire to contribute their classified transaction data. Therefore, there is a requirement to build a proficient methodology that can process the broad mixture of data and convert those data into meaningful knowledge for the user without forfeiting the security and privacy of individuals crude information. We devised two unique protocols for frequent mining itemsets in horizontally partitioned datasets while maintaining privacy. In such a scenario, data possessors outwork mining tasks on their multiparty data by preserving privacy. The proposed framework model encompasses two or more data possessors who encrypt their information and dispense their encrypted data to two or more clouds by a data share allocator algorithm. This methodology protects the data possessor raw data from other data possessors and the other clouds. To guarantee data privacy, we plan a proficient enhanced homomorphic encryption conspire. Our approach ensures privacy during communication and accumulation of data and guarantees no information or data adversity and no incidental consequences for data utility.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T19:34:49.435Z

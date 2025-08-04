@@ -1,0 +1,12 @@
+# Leveraging Decentralization to Extend the Digital Evidence Acquisition Window: Case Study on BitTorrent Sync
+
+**Authors:** Mark Scanlon, Jason Farina, Nhien An Le Khac, Tahar Kechadi
+
+## Summary
+File synchronization services such as Dropbox, Google Drive, Microsoft OneDrive, Apple iCloud, etc., are becoming increasingly popular in today's always-connected world. A popular alternative to the aforementioned services is BitTorrent Sync. This is a decentralized/cloudless file synchronization service and is gaining significant popularity among Internet users with privacy concerns over where their data is stored and who has the ability to access it. The focus of this paper is the remote recovery of digital evidence pertaining to files identified as being accessed or stored on a suspect's computer or mobile device. A methodology for the identification, investigation, recovery and verification of such remote digital evidence is outlined. Finally, a proof-of-concept remote evidence recovery from BitTorrent Sync shared folder highlighting a number of potential scenarios for the recovery and verification of such evidence.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:26:28.006Z

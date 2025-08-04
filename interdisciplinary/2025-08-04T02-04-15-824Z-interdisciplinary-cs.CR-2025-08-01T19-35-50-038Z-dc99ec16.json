@@ -1,0 +1,12 @@
+# K-Nearest Neighbor Classification over Semantically Secure Encrypted Relational Data
+
+**Authors:** Gunjan Mishra, Kalyani Pathak, Yash Mishra, Pragati Jadhav, Vaishali Keshervani
+
+## Summary
+Data mining has various real-time applications in fields such as finance telecommunications, biology, and government. Classification is a primary task in data mining. With the rise of cloud computing, users can outsource and access their data from anywhere, offloading data and it is processing to the cloud. However, in public cloud environments while data is often encrypted, the cloud service provider typically controls the encryption keys, meaning they can potentially access the data at any time. This situation makes traditional privacy-preserving classification systems inadequate. The recommended protocol ensures data privacy, protects user queries, and conceals access patterns. Given that encrypted data on the cloud cannot be directly mined, we focus on a secure k nearest neighbor classification algorithm for encrypted, outsourced data. This approach maintains the privacy of user queries and data access patterns while allowing effective data mining operations to be conducted securely in the cloud. With cloud computing, particularly in public cloud environments, the encryption of data necessitates advanced methods like secure k nearest neighbor algorithms to ensure privacy and functionality in data mining. This innovation protects sensitive information and user privacy, addressing the challenges posed by traditional systems where cloud providers control encryption keys.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T19:35:50.038Z

@@ -1,0 +1,12 @@
+# The Quartic Public Key Transformation
+
+**Authors:** Gunjan Talati, Subhash Kak
+
+## Summary
+This paper presents the quartic public key transformation which can be used for public key applications if side information is also used. This extends an earlier work where the cubic transformation was similarly used. Such a transformation can be used in multiparty communications protocols.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T11:52:30.490Z

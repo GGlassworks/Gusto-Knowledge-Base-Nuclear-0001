@@ -1,0 +1,12 @@
+# Template-Free Single-View 3D Human Digitalization with Diffusion-Guided LRM
+
+**Authors:** Zhenzhen Weng, Jingyuan Liu, Hao Tan, Zhan Xu, Yang Zhou, Serena Yeung-Levy, Jimei Yang
+
+## Summary
+Reconstructing 3D humans from a single image has been extensively investigated. However, existing approaches often fall short on capturing fine geometry and appearance details, hallucinating occluded parts with plausible details, and achieving generalization across unseen and in-the-wild datasets. We present Human-LRM, a diffusion-guided feed-forward model that predicts the implicit field of a human from a single image. Leveraging the power of the state-of-the-art reconstruction model (i.e., LRM) and generative model (i.e Stable Diffusion), our method is able to capture human without any template prior, e.g., SMPL, and effectively enhance occluded parts with rich and realistic details. Our approach first uses a single-view LRM model with an enhanced geometry decoder to get the triplane NeRF representation. The novel view renderings from the triplane NeRF provide strong geometry and color prior, from which we generate photo-realistic details for the occluded parts using a diffusion model. The generated multiple views then enable reconstruction with high-quality geometry and appearance, leading to superior overall performance comparing to all existing human reconstruction methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.767Z

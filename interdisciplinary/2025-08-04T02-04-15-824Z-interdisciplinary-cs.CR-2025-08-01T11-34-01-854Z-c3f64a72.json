@@ -1,0 +1,12 @@
+# FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses
+
+**Authors:** Isaac Baglin, Xiatian Zhu, Simon Hadfield
+
+## Summary
+Federated Learning is a privacy preserving decentralized machine learning paradigm designed to collaboratively train models across multiple clients by exchanging gradients to the server and keeping private data local. Nevertheless, recent research has revealed that the security of Federated Learning is compromised, as private ground truth data can be recovered through a gradient inversion technique known as Deep Leakage. While these attacks are crafted with a focus on applications in Federated Learning, they generally are not evaluated in realistic scenarios. This paper introduces the FEDLAD Framework (Federated Evaluation of Deep Leakage Attacks and Defenses), a comprehensive benchmark for evaluating Deep Leakage attacks and defenses within a realistic Federated context. By implementing a unified benchmark that encompasses multiple state-of-the-art Deep Leakage techniques and various defense strategies, our framework facilitates the evaluation and comparison of the efficacy of these methods across different datasets and training states. This work highlights a crucial trade-off between privacy and model accuracy in Federated Learning and aims to advance the understanding of security challenges in decentralized machine learning systems, stimulate future research, and enhance reproducibility in evaluating Deep Leakage attacks and defenses.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T11:34:01.855Z

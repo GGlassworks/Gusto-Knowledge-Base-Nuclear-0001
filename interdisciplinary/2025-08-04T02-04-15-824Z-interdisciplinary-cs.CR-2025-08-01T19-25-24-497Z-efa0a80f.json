@@ -1,0 +1,12 @@
+# Partial Selfish Mining for More Profits
+
+**Authors:** Jiaping Yu, Shang Gao, Rui Song, Zhiping Cai, Bin Xiao
+
+## Summary
+Mining attacks aim to gain an unfair share of extra rewards in the blockchain mining. Selfish mining can preserve discovered blocks and strategically release them, wasting honest miners' computing resources and getting higher profits. Previous mining attacks either conceal the mined whole blocks (hiding or discarding), or release them completely in a particular time slot (e.g., causing a fork). In this paper, we extend the mining attack's strategy space to partial block sharing, and propose a new and feasible Partial Selfish Mining (PSM) attack. We show that by releasing partial block data publicly and attracting rational miners to work on attacker's private branch, attackers and these attracted miners can gain an unfair share of mining rewards. We then propose Advanced PSM (A-PSM) attack that can further improve attackers' profits to be no less than the selfish mining. Both theoretical and experimental results show that PSM attackers can be more profitable than selfish miners under a certain range of mining power and network conditions. A-PSM attackers can gain even higher profits than both selfish mining and honest mining with attracted rational miners.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T19:25:24.497Z

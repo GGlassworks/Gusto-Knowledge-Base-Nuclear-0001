@@ -1,0 +1,12 @@
+# Audiogram Digitization Tool for Audiological Reports
+
+**Authors:** François Charih, James R. Green
+
+## Summary
+A number of private and public insurers compensate workers whose hearing loss can be directly attributed to excessive exposure to noise in the workplace. The claim assessment process is typically lengthy and requires significant effort from human adjudicators who must interpret hand-recorded audiograms, often sent via fax or equivalent. In this work, we present a solution developed in partnership with the Workplace Safety Insurance Board of Ontario to streamline the adjudication process. In particular, we present the first audiogram digitization algorithm capable of automatically extracting the hearing thresholds from a scanned or faxed audiology report as a proof-of-concept. The algorithm extracts most thresholds within 5 dB accuracy, allowing to substantially lessen the time required to convert an audiogram into digital format in a semi-supervised fashion, and is a first step towards the automation of the adjudication process. The source code for the digitization algorithm and a desktop-based implementation of our NIHL annotation portal is publicly available on GitHub (https://github.com/GreenCUBIC/AudiogramDigitization).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.938Z

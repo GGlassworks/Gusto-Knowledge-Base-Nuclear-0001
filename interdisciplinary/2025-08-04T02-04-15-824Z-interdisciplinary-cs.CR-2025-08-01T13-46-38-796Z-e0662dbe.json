@@ -1,0 +1,12 @@
+# Attribute-Based Access Control for Smart Cities: A Smart Contract-Driven Framework
+
+**Authors:** Yuanyu Zhang, Mirei Yutaka, Masahiro Sasabe, Shoji Kasahara
+
+## Summary
+Efficient and reliable access control in smart cities is critical for the protection of various resources for decision making and task execution. Existing centralized access control schemes suffer from the limitations of single point of failure, low reliability and poor scalability. This paper therefore proposes a distributed and reliable access control framework for smart cities by combining the blockchain smart contract technology and the Attribute-Based Access Control (ABAC) model. The framework consists of one Policy Management Contract (PMC) for managing the ABAC policies, one Subject Attribute Management Contract (SAMC) for managing the attributes of subjects (i.e., entities accessing resources), one Object Attribute Management Contract (OAMC) for managing the attributes of objects (i.e., resources being accessed), and one Access Control Contract (ACC) for performing the access control. To show the feasibility of the proposed framework, we construct a local private Ethereum blockchain system to implement the four smart contracts and also conduct experiments to evaluate the monetary cost as well as to compare the proposed framework with an existing Access Control List (ACL)-based scheme. The experimental results show that although the proposed scheme consumes more money than the ACL-based scheme at the deployment stage, it introduces less monetary cost during the system running especially for large-scale smart cities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T13:46:38.796Z

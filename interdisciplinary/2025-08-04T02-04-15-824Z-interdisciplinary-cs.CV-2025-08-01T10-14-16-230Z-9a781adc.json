@@ -1,0 +1,12 @@
+# Human vs. LMMs: Exploring the Discrepancy in Emoji Interpretation and Usage in Digital Communication
+
+**Authors:** Hanjia Lyu, Weihong Qi, Zhongyu Wei, Jiebo Luo
+
+## Summary
+Leveraging Large Multimodal Models (LMMs) to simulate human behaviors when processing multimodal information, especially in the context of social media, has garnered immense interest due to its broad potential and far-reaching implications. Emojis, as one of the most unique aspects of digital communication, are pivotal in enriching and often clarifying the emotional and tonal dimensions. Yet, there is a notable gap in understanding how these advanced models, such as GPT-4V, interpret and employ emojis in the nuanced context of online interaction. This study intends to bridge this gap by examining the behavior of GPT-4V in replicating human-like use of emojis. The findings reveal a discernible discrepancy between human and GPT-4V behaviors, likely due to the subjective nature of human interpretation and the limitations of GPT-4V's English-centric training, suggesting cultural biases and inadequate representation of non-English cultures.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.230Z

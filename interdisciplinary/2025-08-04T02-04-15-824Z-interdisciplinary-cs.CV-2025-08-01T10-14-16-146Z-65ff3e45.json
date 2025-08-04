@@ -1,0 +1,12 @@
+# Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments
+
+**Authors:** Wenjing Gong, Xinyue Ye, Keshu Wu, Suphanut Jamonnak, Wenyu Zhang, Yifan Yang, Xiao Huang
+
+## Summary
+Extreme heat events exacerbated by climate change pose significant challenges to urban resilience and planning. This study introduces a climate-responsive digital twin framework integrating the Spatiotemporal Vision Transformer (ST-ViT) model to enhance heat stress forecasting and decision-making. Using a Texas campus as a testbed, we synthesized high-resolution physical model simulations with spatial and meteorological data to develop fine-scale human thermal predictions. The ST-ViT-powered digital twin enables efficient, data-driven insights for planners, policymakers, and campus stakeholders, supporting targeted heat mitigation strategies and advancing climate-adaptive urban design.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.146Z

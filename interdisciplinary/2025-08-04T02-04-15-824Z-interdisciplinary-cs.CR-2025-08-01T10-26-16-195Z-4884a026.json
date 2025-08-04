@@ -1,0 +1,12 @@
+# All About Phishing: Exploring User Research through a Systematic Literature Review
+
+**Authors:** Sanchari Das, Andrew Kim, Zachary Tingle, Christena Nippert-Eng
+
+## Summary
+Phishing is a well-known cybersecurity attack that has rapidly increased in recent years. It poses legitimate risks to businesses, government agencies, and all users due to sensitive data breaches, subsequent financial and productivity losses, and social and personal inconvenience. Often, these attacks use social engineering techniques to deceive end-users, indicating the importance of user-focused studies to help prevent future attacks. We provide a detailed overview of phishing research that has focused on users by conducting a systematic literature review of peer-reviewed academic papers published in ACM Digital Library. Although published work on phishing appears in this data set as early as 2004, we found that of the total number of papers on phishing (N = 367) only 13.9% (n = 51) focus on users by employing user study methodologies such as interviews, surveys, and in-lab studies. Even within this small subset of papers, we note a striking lack of attention to reporting important information about methods and participants (e.g., the number and nature of participants), along with crucial recruitment biases in some of the research.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:26:16.195Z

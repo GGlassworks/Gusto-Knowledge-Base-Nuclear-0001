@@ -1,0 +1,12 @@
+# Multi-color image compression-encryption algorithm based on chaotic system and fuzzy transform
+
+**Authors:** M. Zarebnia, R. Kianfar, R. Parvaz
+
+## Summary
+In this paper an algorithm for multi-color image compression-encryption is introduced. For compression step fuzzy transform based on exponential b-spline function is used. In encryption step, a novel combination chaotic system based on Sine and Tent systems is proposed. Also in the encryption algorithm, 3D shift based on chaotic system is introduced. The simulation results and security analysis show that the proposed algorithm is secure and efficient.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T21:10:19.712Z

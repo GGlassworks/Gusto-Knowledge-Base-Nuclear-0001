@@ -1,0 +1,12 @@
+# A Forensic Audit of the Tor Browser Bundle
+
+**Authors:** Matt Muir, Petra Leimich, William J Buchanan
+
+## Summary
+The increasing use of encrypted data within file storage and in network communications leaves investigators with many challenges. One of the most challenging is the Tor protocol, as its main focus is to protect the privacy of the user, in both its local footprint within a host and over a network connection. The Tor browser, though, can leave behind digital artefacts which can be used by an investigator. This paper outlines an experimental methodology and provides results for evidence trails which can be used within real-life investigations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:26:38.613Z

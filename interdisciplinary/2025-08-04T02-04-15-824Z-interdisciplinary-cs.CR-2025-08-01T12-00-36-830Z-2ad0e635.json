@@ -1,0 +1,12 @@
+# SoK: Leveraging Transformers for Malware Analysis
+
+**Authors:** Pradip Kunwar, Kshitiz Aryal, Maanak Gupta, Mahmoud Abdelsalam, Elisa Bertino
+
+## Summary
+The introduction of transformers has been an important breakthrough for AI research and application as transformers are the foundation behind Generative AI. A promising application domain for transformers is cybersecurity, in particular the malware domain analysis. The reason is the flexibility of the transformer models in handling long sequential features and understanding contextual relationships. However, as the use of transformers for malware analysis is still in the infancy stage, it is critical to evaluate, systematize, and contextualize existing literature to foster future research. This Systematization of Knowledge (SoK) paper aims to provide a comprehensive analysis of transformer-based approaches designed for malware analysis. Based on our systematic analysis of existing knowledge, we structure and propose taxonomies based on: (a) how different transformers are adapted, organized, and modified across various use cases; and (b) how diverse feature types and their representation capabilities are reflected. We also provide an inventory of datasets used to explore multiple research avenues in the use of transformers for malware analysis and discuss open challenges with future research directions. We believe that this SoK paper will assist the research community in gaining detailed insights from existing work and will serve as a foundational resource for implementing novel research using transformers for malware analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T12:00:36.830Z

@@ -1,0 +1,12 @@
+# Algorithm for SIS and MultiSIS problems
+
+**Authors:** Igor Semaev
+
+## Summary
+SIS problem has numerous applications in cryptography. Known algorithms for solving that problem are exponential in complexity. A new algorithm is suggested in this note, its complexity is sub-exponential for a range of parameters.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T21:05:13.401Z

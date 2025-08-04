@@ -1,0 +1,12 @@
+# Carl-Hauser -- Open Source Image Matching Algorithms Benchmarking Framework
+
+**Authors:** Vincent Falconieri
+
+## Summary
+Security analysts need to classify, search and correlate numerous images. Automatic classification tools improve the efficiency of such tasks. Many Image-Matching algorithms are presented in the litterature. The present paper introduces and provides a Open-Source benchmarking and evaluation tool for these algorithms. Is this paper, the framework evaluates algorithms on illustrative datasets, which are constituted of phishing and onion websites. Datasets are provided as Open-Data.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T21:09:17.213Z

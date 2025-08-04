@@ -1,0 +1,12 @@
+# Black-box Adversaries from Latent Space: Unnoticeable Attacks on Human Pose and Shape Estimation
+
+**Authors:** Zhiying Li, Guanggang Geng, Yeying Jin, Zhizhi Guo, Bruce Gu, Jidong Huo, Zhaoxin Fan, Wenjun Wu
+
+## Summary
+Expressive human pose and shape (EHPS) estimation is vital for digital human generation, particularly in live-streaming applications. However, most existing EHPS models focus primarily on minimizing estimation errors, with limited attention on potential security vulnerabilities. Current adversarial attacks on EHPS models often require white-box access (e.g., model details or gradients) or generate visually conspicuous perturbations, limiting their practicality and ability to expose real-world security threats. To address these limitations, we propose a novel Unnoticeable Black-Box Attack (UBA) against EHPS models. UBA leverages the latent-space representations of natural images to generate an optimal adversarial noise pattern and iteratively refine its attack potency along an optimized direction in digital space. Crucially, this process relies solely on querying the model's output, requiring no internal knowledge of the EHPS architecture, while guiding the noise optimization toward greater stealth and effectiveness. Extensive experiments and visual analyses demonstrate the superiority of UBA. Notably, UBA increases the pose estimation errors of EHPS models by 17.27%-58.21% on average, revealing critical vulnerabilities. These findings underscore the urgent need to address and mitigate security risks associated with digital human generation systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.704Z

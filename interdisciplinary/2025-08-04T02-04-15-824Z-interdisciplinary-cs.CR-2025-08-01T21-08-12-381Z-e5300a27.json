@@ -1,0 +1,12 @@
+# Algorithm for searching bridges of specified types in the protection graph for Take-Grant protection model
+
+**Authors:** Denis Brechka
+
+## Summary
+The article contains the algorithm for searching a certain kind of bridges in the protection graph of Take-Grant model. The proposed algorithm is based on a classical breadth-first search algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T21:08:12.382Z

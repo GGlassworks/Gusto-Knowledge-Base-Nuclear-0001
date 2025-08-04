@@ -1,0 +1,12 @@
+# Latents2Semantics: Leveraging the Latent Space of Generative Models for Localized Style Manipulation of Face Images
+
+**Authors:** Snehal Singh Tomar, A. N. Rajagopalan
+
+## Summary
+With the metaverse slowly becoming a reality and given the rapid pace of developments toward the creation of digital humans, the need for a principled style editing pipeline for human faces is bound to increase manifold. We cater to this need by introducing the Latents2Semantics Autoencoder (L2SAE), a Generative Autoencoder model that facilitates highly localized editing of style attributes of several Regions of Interest (ROIs) in face images. The L2SAE learns separate latent representations for encoded images' structure and style information. Thus, allowing for structure-preserving style editing of the chosen ROIs. The encoded structure representation is a multichannel 2D tensor with reduced spatial dimensions, which captures both local and global structure properties. The style representation is a 1D tensor that captures global style attributes. In our framework, we slice the structure representation to build strong and disentangled correspondences with different ROIs. Consequentially, style editing of the chosen ROIs amounts to a simple combination of (a) the ROI-mask generated from the sliced structure representation and (b) the decoded image with global style changes, generated from the manipulated (using Gaussian noise) global style and unchanged structure tensor. Style editing sans additional human supervision is a significant win over SOTA style editing pipelines because most existing works require additional human effort (supervision) post-training for attributing semantic meaning to style edits. We also do away with iterative-optimization-based inversion or determining controllable latent directions post-training, which requires additional computationally expensive operations. We provide qualitative and quantitative results for the same over multiple applications, such as selective style editing and swapping using test images sampled from several datasets.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:17.148Z

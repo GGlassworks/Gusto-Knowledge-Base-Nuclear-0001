@@ -1,0 +1,12 @@
+# EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View
+
+**Authors:** Zhaorong Wang, Yoshihiro Kanamori, Yuki Endo
+
+## Summary
+Generalizable neural radiance field (NeRF) enables neural-based digital human rendering without per-scene retraining. When combined with human prior knowledge, high-quality human rendering can be achieved even with sparse input views. However, the inference of these methods is still slow, as a large number of neural network queries on each ray are required to ensure the rendering quality. Moreover, occluded regions often suffer from artifacts, especially when the input views are sparse. To address these issues, we propose a generalizable human NeRF framework that achieves high-quality and real-time rendering with sparse input views by extensively leveraging human prior knowledge. We accelerate the rendering with a two-stage sampling reduction strategy: first constructing boundary meshes around the human geometry to reduce the number of ray samples for sampling guidance regression, and then volume rendering using fewer guided samples. To improve rendering quality, especially in occluded regions, we propose an occlusion-aware attention mechanism to extract occlusion information from the human priors, followed by an image space refinement network to improve rendering quality. Furthermore, for volume rendering, we adopt a signed ray distance function (SRDF) formulation, which allows us to propose an SRDF loss at every sample position to improve the rendering quality further. Our experiments demonstrate that our method outperforms the state-of-the-art methods in rendering quality and has a competitive rendering speed compared with speed-prioritized novel view synthesis methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.724Z

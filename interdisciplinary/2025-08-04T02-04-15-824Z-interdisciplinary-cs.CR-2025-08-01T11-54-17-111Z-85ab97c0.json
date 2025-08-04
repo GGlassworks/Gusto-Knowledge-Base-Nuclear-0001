@@ -1,0 +1,12 @@
+# Generalized NLFSR Transformation Algorithms and Cryptanalysis of the Class of Espresso-like Stream Ciphers
+
+**Authors:** Ge Yao, Udaya Parampalli
+
+## Summary
+Lightweight stream ciphers are highly demanded in IoT applications. In order to optimize the hardware performance, a new class of stream cipher has been proposed. The basic idea is to employ a single Galois NLFSR with maximum period to construct the cipher. As a representative design of this kind of stream ciphers, Espresso is based on a 256-bit Galois NLFSR initialized by a 128-bit key. The $2^{256}-1$ maximum period is assured because the Galois NLFSR is transformed from a maximum length LFSR. However, we propose a Galois-to-Fibonacci transformation algorithm and successfully transform the Galois NLFSR into a Fibonacci LFSR with a nonlinear output function. The transformed cipher is broken by the standard algebraic attack and the R\o njom-Helleseth attack with complexity $\mathcal{O}(2^{68.44})$ and $\mathcal{O}(2^{66.86})$ respectively. The transformation algorithm is derived from a new Fibonacci-to-Galois transformation algorithm we propose in this paper. Compare to existing algorithms, proposed algorithms are more efficient and cover more general use cases. Moreover, the transformation result shows that the Galois NLFSR used in any Espresso-like stream ciphers can be easily transformed back into the original Fibonacci LFSR. Therefore, this kind of design should be avoided in the future.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T11:54:17.111Z

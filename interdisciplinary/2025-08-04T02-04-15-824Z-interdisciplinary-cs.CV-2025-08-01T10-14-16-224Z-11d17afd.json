@@ -1,0 +1,12 @@
+# Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions
+
+**Authors:** Christian Rathgeb, Robert Nichols, Mathias Ibsen, Pawel Drozdowski, Christoph Busch
+
+## Summary
+We investigate the potential of fusing human examiner decisions for the task of digital face manipulation detection. To this end, various decision fusion methods are proposed incorporating the examiners' decision confidence, experience level, and their time to take a decision. Conducted experiments are based on a psychophysical evaluation of digital face image manipulation detection capabilities of humans in which different manipulation techniques were applied, i.e. face morphing, face swapping and retouching. The decisions of 223 participants were fused to simulate crowds of up to seven human examiners. Experimental results reveal that (1) despite the moderate detection performance achieved by single human examiners, a high accuracy can be obtained through decision fusion and (2) a weighted fusion which takes the examiners' decision confidence into account yields the most competitive detection performance.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.224Z
