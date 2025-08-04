@@ -1,0 +1,13 @@
+# An FPGA-Based High-Frequency Trading System for 10 Gigabit Ethernet with a Latency of 433 ns
+
+**Authors:** Yi-Chieh Kao, Hung-An Chen, Hsi-Pin Ma
+
+## Abstract
+High-frequency trading (HFT) systems require extremely low latency in response to market feeds to make profits. In order to reduce latency, the system is implemented with a 10 gigabit Ethernet physical transceiver with a low latency of 25 ns, custom network stack parsing and packaging, partial financial protocol decoding and encoding, order book handling and custom trading strategy. The hardware test and functional verification of the trading system use Taiwan futures trading environment provided by Yuanta Futures. The latency from the internal market packet analysis to the ordering packet triggered is approximately 433 ns.
+
+**Source:** https://www.semanticscholar.org/paper/28171fb96e43d1fe560fe8e3be639e8791596f98
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:03.055Z

@@ -1,0 +1,13 @@
+# A novel machine learning ensemble forecasting model based on mixed frequency technology and multi-objective optimization for carbon trading price
+
+**Authors:** Zejun Li, Jun Long, Lue Li
+
+## Abstract
+Carbon trading prices are crucial for carbon emissions and transparent carbon market pricing. Previous studies mainly focused on data mining in the prediction direction to quantify carbon trading prices. Although the prospect of high-frequency data forecasting mechanisms is considerable, more mixed-frequency ensemble forecasting is needed for carbon trading prices. Therefore, this article designs a new type of ensemble prediction model to increase the scope of model research. The module is divided into three parts: data denoising, mixed frequency and machine learning, multi-objective optimization, and ensemble forecasting. Precisely, the data preprocessing technology enhanced by adopting a self-attention mechanism can better remove noise and extract effective features. Furthermore, mixed frequency technology is introduced into the machine learning model to achieve more comprehensive and efficient prediction, and a new evaluation criterion is proposed to measure the optimal submodel. Finally, the ensemble model based on deep learning strategy can effectively integrate the advantages of high-frequency and low-frequency data in complex datasets. At the same time, a new multi-objective optimization algorithm is proposed to optimize the parameters of the ensemble model, significantly improving the predictive ability of the integrated module. The results of four experiments and the Mean Absolute Percent Error index of the proposed model improved by 28.3526% compared to machine learning models, indicating that the ensemble model established can effectively address the time distribution characteristics and uncertainty issues predicted by carbon trading price models, which helps to mitigate climate change and develop a low-carbon economy.
+
+**Source:** https://www.semanticscholar.org/paper/acb5739578755dc4c5fe6410b9df2031e45beb0c
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:39:27.395Z

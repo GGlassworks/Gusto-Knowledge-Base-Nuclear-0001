@@ -1,0 +1,13 @@
+# High Frequency Trading (HFT) and Market Quality Research : An Evaluation of the Alternative HFT Proxies
+
+**Authors:** S. Hossain
+
+## Abstract
+We examine the soundness of high-frequency trading (HFT) proxies that are widely defined on the limit order book (LOB) information. We use a unique TRTH (Thomson Reuters Tick History) millisecond time-stamped intraday trades and quotes dataset enriched with 10 levels of LOB depth messages for 149 highly fragmented LSE listed stocks for the period 2005 to 2016. We explore a sharp uptrend in HFT activities and accompanying improvement in market liquidity in the European market. We show that alternative HFT proxies built on LOB are not equally powerful. The HFT proxy defined on the five best LOB prices (the mid point of a typical limit order book) provides a better HFT identification than the one popularly defined on the first best prices (BBO). We suggest that picking the LOB information beyond a certain level (e.g., the best five prices) of market depth in developing HFT proxy is counterintuitive. Evidence indicates that high-frequency traders (HFTs) participate in both competitive (narrow) and passive (wider) quoting as a market making strategy; however, they do not participate in passive quoting excessively.
+
+**Source:** https://www.semanticscholar.org/paper/e76f545edd9e30ee4e3a116110105cb04c8a4d51
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:36:39.100Z

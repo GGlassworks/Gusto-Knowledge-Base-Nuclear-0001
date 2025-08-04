@@ -1,0 +1,13 @@
+# High Frequency Trading in FinTech age: AI with Speed
+
+**Authors:** Jasmina Arifovic, Xue-zhong He, Lijian Wei
+
+## Abstract
+High-frequency trading (HFT) based on artificial intelligence (AI) has been quickly adopted as market practice and its impact on investors' trading behavior and financial market has raised an increasing concern about managing AI in finance. Due to the extreme diversity and complexity of FinTech innovations, a 2019 article in Nature calls an urgent need to examine machine behaviors for better managing AI so that we are able "to control their actions, reap their benefits and minimize their harms". With more advanced development of trading technology and AI, HFT competition leads to trading speed arms race in financial markets, raising concerns and heated debates on ambiguous impact of HFT on welfare, trading behaviors, and market quality. To this end, we incorporate trading speed and asymmetry information to a dynamic limit order market. By employing a genetic algorithm with a classifier system as an adaptive learning tool, we examine the effect of AI with speed on trading behaviors, market liquidity and price efficiency. We show that in a world where traders with different information and trading speeds trade based on AI, increasing the trading speed of high frequency (HF) traders can lead to a trade-off between their information and speed advantage and their competition. By trading faster, the information and speed advantage makes HF traders more profitable from increasing liquidity consumption, while their trading releases more information, making slow traders more informative and therefore improving price efficiency. However, when the trading speed of HF traders is too fast, the competition among them dominates their information and speed advantage, reducing their order profits, liquidity consumption and price efficiency. This generates an inverse U-shaped relationship between HF traders' trading speed and their order profit, market price efficiency and liquidity consumption. The profit incentive that makes HF traders avoid trading too quickly provides an economic mechanism on HFT to improve price efficiency. The results provide predictive understandings and implications for investors and regulators to managing AI trading in the future AI-dominant financial markets: underlined by the economic mechanism, traders will continuously benefit from AI trading to optimize their trading and reduce trading speed arms race, which in general improve market information efficiency.
+
+**Source:** https://www.semanticscholar.org/paper/c25f15ae2caad2b814449f99c1104c886d10b709
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:35:51.298Z

@@ -1,0 +1,13 @@
+# Identifying High Frequency Trading Activity without Proprietary Data
+
+**Authors:** Bidisha Chakrabarty, Carole Comerton-Forde, Roberto Pascual Gascó
+
+## Abstract
+Public trade and quote databases do not typically include high frequency trader (HFT) identifiers, so researchers develop proxies. We assess the reliability of the commonly used proxies by benchmarking them against measures using proprietary data with HFT identifiers. All proxies are highly correlated among themselves and can identify HFT activities in general and their liquiditydemanding and supplying functions. Even during unusually high and/or low HFT liquiditydemand or supply episodes the proxies perform well. The reliability of the proxies does not depend on the time windows used to aggregate data. Hasbrouck and Saar’s 2013, Strategic Runs proxy best isolates HFT-specific activities. These results can help researchers identify HFT activity in the absence of proprietary data. JEL classification: G10
+
+**Source:** https://www.semanticscholar.org/paper/1b1c057d41f80c5ed503e0769e1de0cec4780284
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:36:40.168Z

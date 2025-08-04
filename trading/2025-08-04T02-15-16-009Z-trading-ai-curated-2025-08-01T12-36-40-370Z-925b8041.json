@@ -1,0 +1,13 @@
+# Impact of High-Frequency Trading with an Order Book Imbalance Strategy on Agent-Based Stock Markets
+
+**Authors:** Isao Yagi, Mahiro Hoshino, Takanobu Mizuta
+
+## Abstract
+It is known that there is a positive correlation between order book imbalance and future returns. Although some previous studies using actual trading data have suggested that high-frequency trading (HFT) may take this characteristic into account, HFT firms have not disclosed their specific strategies. Furthermore, there has been a long-standing debate in the empirical research field as to whether HFT is the cause of flash crashes, but no final conclusion has been reached. In the present study, we analysed the impacts of HFT taking into account the correlation between order book imbalance and future returns on a stable market and on a market with a flash crash, using agent-based simulations, which are said to be capable of analysing events in their essence. We also analysed how HFT investment performance differs between those two market conditions. The results showed that HFT has the effect of further stabilizing the market when the market is stable but does not take place during flash crashes and so is unable to affect the market either for the good or the bad. The results also suggest that the proposed HFT’s performance is more sensitive to market price fluctuations than conventional HFT (i.e., HFT following a position market-making strategy) and tends to have high risk and high returns.
+
+**Source:** https://www.semanticscholar.org/paper/96b864d228a788de3733edfaa367b4618a742855
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:36:40.370Z

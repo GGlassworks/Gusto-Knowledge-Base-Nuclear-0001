@@ -1,0 +1,13 @@
+# Design and Implementation of Algorithmic Stock Trading
+
+**Authors:** Piers Blackmun, Sahar Al-Sudani, D. Al-Jumeily
+
+## Abstract
+The act of trading in the financial markets from a discretionary standpoint comes with a vast number of pitfalls that lead to participants achieving poor returns on their investments. With trading being a psychologically intense activity, the paper presents development of trading algorithms that will not only eliminate the psychological barriers to trading but do so in a way that ensures that significant returns on investments are made, with these returns being evaluated by testing the strategies on past historical price data of various assets. Findings noted that the algorithms performances varied depending on the market circumstances with certain strategies only being applicable to either strong or weak market conditions. The implication of these findings opens the door to new discussions since the algorithms developed resided outside of the traditional high frequency trading model which are the most prominent trading applications found on the markets. This unconventional algorithmic approach to the markets verifies a way of obtaining significant returns without the requisite of having low latency, thus enabling one to compete with the more sophisticated algorithms developed and used by the major financial institutions without the need for human intervention or any additional resources.
+
+**Source:** https://www.semanticscholar.org/paper/a32e90a46e4dca71aeb82c2ecdbc8ae588c9d130
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:38:32.066Z

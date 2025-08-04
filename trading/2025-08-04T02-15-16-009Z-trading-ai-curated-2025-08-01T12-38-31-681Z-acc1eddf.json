@@ -1,0 +1,13 @@
+# Hardware based Order Book Design in High Frequency Algo Trading
+
+**Authors:** M. Mohamed Asan Basiri
+
+## Abstract
+The Order Book is an inevitable electronic document used in various business trading and financial sectors to store the track of financial transactions. Since the High Frequency Algo Trading demands fast response, hardware is the best choice as compared with software based designs. This paper proposes the hardware implementation of the Order Book architecture using $45 nm$ CMOS technology, where the Order Book details are stored in the hardware Buffer. Also, the same proposed Order Book architecture is implemented with Artix-7 FPGA evaluation board, where the Order Book details are stored in the Block RAM (BRAM).
+
+**Source:** https://www.semanticscholar.org/paper/875d564b93d352264b5b805f05a97c63b0b206e8
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:38:31.681Z

@@ -1,0 +1,13 @@
+# Adversarial attacks on machine learning systems for high-frequency trading
+
+**Authors:** Micah Goldblum, Avi Schwarzschild, N. Cohen, T. Balch, Ankit B. Patel, T. Goldstein
+
+## Abstract
+Algorithmic trading systems are often completely automated, and deep learning is increasingly receiving attention in this domain. Nonetheless, little is known about the robustness properties of these models. We study valuation models for algorithmic trading from the perspective of adversarial machine learning. We introduce new attacks specific to this domain with size constraints that minimize attack costs. We further discuss how these attacks can be used as an analysis tool to study and evaluate the robustness properties of financial models. Finally, we investigate the feasibility of realistic adversarial attacks in which an adversarial trader fools automated trading systems into making inaccurate predictions.
+
+**Source:** https://www.semanticscholar.org/paper/a1ba46409345aa2d9aeb205fba75e117148abad3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:31:14.871Z

@@ -1,0 +1,13 @@
+# Optimization of High-Frequency Trading Strategies Using Deep Reinforcement Learning
+
+**Authors:** Guanghe Cao, Yitian Zhang, Qi Lou, Gaike Wang
+
+## Abstract
+This study presents a new method for optimising high-risk trading (HFT) strategies using deep learning (DRL). We propose a multi-time DRL framework integrating advanced neural network architectures with sophisticated business data processing techniques. The framework employs a combination of convolutional neural networks for manual order analysis, short-term memory networks for time series processing, and a multi-head listening mechanism for body fusion. We formulate the HFT problem based on Markov Decision Processes and use the Proximal Policy Optimization algorithm for training. The model is evaluated using tick-by-tick data from the NASDAQ exchange, including ten liquid stocks in 6 months. The experimental results show the superiority of our method, achieving a Sharpe ratio of 3.42, outperforming the learning model and machine learning based on benchmarks up to 33%. The proposed strategy has demonstrated strong performance across a wide range of regulatory markets and has shown potential for strategic objectives. Sensitivity analysis confirms the model's stability across a range of hyperparameters. Our findings suggest that the DRL-based approach can improve HFT performance and provide better market adaptation and risk management. This research leads to the continuous evolution of algorithmic trading strategies and shows the potential of AI-driven approaches in financial markets.
+
+**Source:** https://www.semanticscholar.org/paper/ff1c438156ac89c89fb4e9ca11793ff7b6da2f4b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:02.230Z

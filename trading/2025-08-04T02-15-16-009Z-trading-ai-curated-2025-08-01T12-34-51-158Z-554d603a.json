@@ -1,0 +1,13 @@
+# Deep learning for spatio‐temporal modeling: Dynamic traffic flows and high frequency trading
+
+**Authors:** M. Dixon, Nicholas G. Polson, Vadim O. Sokolov
+
+## Abstract
+Deep learning applies hierarchical layers of hidden variables to construct nonlinear high dimensional predictors. Our goal is to develop and train deep learning architectures for spatio-temporal modeling. Training a deep architecture is achieved by stochastic gradient descent (SGD) and drop-out (DO) for parameter regularization with a goal of minimizing out-of-sample predictive mean squared error. To illustrate our methodology, we predict the sharp discontinuities in traffic flow data, and secondly, we develop a classification rule to predict short-term futures market prices as a function of the order book depth. Finally, we conclude with directions for future research.
+
+**Source:** https://www.semanticscholar.org/paper/5056eda796ba01a49d7c7e8d14e9f9bced796274
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:51.159Z

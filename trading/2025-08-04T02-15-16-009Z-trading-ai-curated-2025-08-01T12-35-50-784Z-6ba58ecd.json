@@ -1,0 +1,13 @@
+# Transforming High-Frequency Trading Predictions with CNN-LSTM Networks
+
+**Authors:** S. Priya, Priyanga S, Sri Surya Shobith Kamisetty, Venkata Sai Vinay Neelapala, Nithila G
+
+## Abstract
+High-Frequency Trading (HFT) has transformed financial markets by enabling rapid and automated trading. However, the prediction of critical market metrics, such as trading volumes, remains a challenge due to the noisy and complex nature of financial data. This paper presents a hybrid Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) model designed specifically for predicting trading volumes in the NIFTY50 index using high-resolution, minutelevel Yahoo Finance data. By combining CNN's spatial feature extraction capabilities with LSTM's temporal modeling strengths, the proposed approach effectively captures the intricate patterns and sequential dependencies inherent in high-frequency trading datasets. Comprehensive data preprocessing, including noise reduction and temporal segmentation, coupled with advanced cross-validation techniques, ensures robust performance across market conditions. Comprehensive evaluations using metrics such as Mean Squared Error (MSE), Mean Absolute Percentage Error (MAPE), and Coefficient of Determination (R2) demonstrate the model's efficacy in capturing intricate financial dynamics. This work underscores the potential of hybrid deep learning models in enhancing predictive analytics for high-frequency trading applications in emerging markets.
+
+**Source:** https://www.semanticscholar.org/paper/19d690fa65ff9c95823344422b9fbd4e259a4d6e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:35:50.785Z

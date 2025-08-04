@@ -1,0 +1,13 @@
+# Building Agentic AI-Oriented High-Frequency Trading Architectures in C#: Low-Latency Design Patterns
+
+**Authors:** Sri Rama Chandra Charan Teja Tadi
+
+## Abstract
+High-frequency trading requires infrastructure that combines speed, accuracy, and responsiveness to respond in microseconds to volatile market activity. The strategy is to create smart, low-latency backend infrastructure using C# that integrates autonomous agents as their hub of executing and calibrating trades in real time. These agents facilitate responsive decision-making and continuous system calibration, providing an unparalleled edge over conventional rule-based systems. The design exploits low-overhead design patterns, efficient memory management, and .NET-native concurrency models to meet the performance and reliability requirements needed in uncertain trading environments. By combining intelligent automation with performance-aware engineering, the system provides scalable, fault-tolerant, and high-throughput execution infrastructure suitable for fast-paced financial markets.
+
+**Source:** https://www.semanticscholar.org/paper/5a7de0dfef3a554e4c9e612e53f35378c778725f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:35:50.697Z

@@ -1,0 +1,13 @@
+# Automatic High-Frequency Trading: An Application to Emerging Chilean Stock Market
+
+**Authors:** Broderick Crawford, Ricardo Soto, M. A. S. Martín, Hanns de la Fuente Mella, Carlos Castro, F. Paredes
+
+## Abstract
+This research seeks to design, implement, and test a fully automatic high-frequency trading system that operates on the Chilean stock market, so that it is able to generate positive net returns over time. A system that implements high-frequency trading (HFT) is presented through advanced computer tools as an NP-Complete type problem in which it is necessary to optimize the profitability of stock purchase and sale operations. The research performs individual tests of the algorithms implemented, reviewing the theoretical net return (profitability) that can be applied on the last day, month, and semester of real market data. Finally, the research determines which of the variants of the implemented system performs best, using the net returns as a basis for comparison. The use of particle swarm optimization as an optimization algorithm is shown to be an effective solution since it is able to optimize a set of disparate variables but is bounded to a specific domain, resulting in substantial improvement in the final solution.
+
+**Source:** https://www.semanticscholar.org/paper/34d8007df5ed66b3d43fa73c86a439f51c4bd5a7
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:35:51.386Z

@@ -1,0 +1,13 @@
+# AI-Driven Risk Management and Fraud Detection in High-Frequency Trading Environments
+
+**Authors:** Yash Jani
+
+## Abstract
+: High-frequency trading (HFT) environments, characterized by the rapid execution of trades and large volumes of data, demand sophisticated and real-time risk management and fraud detection solutions. Traditional systems need help to keep up with the velocity and complexity of data, leaving gaps that can be exploited. This paper proposes an AI-driven architecture leveraging machine learning models to enhance risk management and fraud detection in HFT environments. Implemented using Amazon SageMaker for AI/ML processing, the architecture is designed to be scalable, efficient, and capable of real-time decision-making. The study presents the detailed architecture, discusses each component's role, and evaluates the system's performance in mitigating risks and detecting fraud in live trading scenarios.
+
+**Source:** https://www.semanticscholar.org/paper/90b0a1bd0bfa3273e59c415fcc42afd58b6092dd
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:33:02.854Z

@@ -1,0 +1,13 @@
+# Quantum Variational Autoencoders for Predictive Analytics in High Frequency Trading Enhancing Market Anomaly Detection
+
+**Authors:** Jamshaid Basit, Danish Hanif, Madiha Arshad
+
+## Abstract
+High-frequency trading (HFT) markets, characterized by high and frequent price fluctuations, necessitate the use of anomaly detection mechanisms to monitor the market and ensure the efficacy of the trading system. This paper aims to discuss the possibility of improving predictive analytics in HFT using quantum computing with the help of the Quantum Variational Autoencoder (QL-VAE). As a result, we propose a new direction for further research on quantum VAEs in HFT that involves their direct comparison with classical VAEs. The application of quantum models for mastering the intensive data flow of HFT is conditioned by the advantages of quantum computation in comparison to classical ones, which are more suitable for handling multidimensional data arrangements and intricate topologies. Our detailed study methodology involved examining various aspects of HFT data, such as order book features and stock price characteristics. We normalized all the data and reduced some of its dimensions. We established quantum VAEs using Pennylane, and configured the classical VAEs using TensorFlow.  When it comes to market anomalies, the results of the comparative analysis showed higher accuracy, recall, and F1 rate in quantum VAEs compared to classical models when it comes to the analysis of market anomalies. Therefore, the quantum model's ability to handle high-dimensional data makes it a better fit for HFT than classical methods. These studies suggest that quantum VAEs could significantly improve anomaly detection in the financial market.
+
+**Source:** https://www.semanticscholar.org/paper/3e3a06c00b0ef6c012ba9fdc9f8e18bcb7767c16
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:50.585Z

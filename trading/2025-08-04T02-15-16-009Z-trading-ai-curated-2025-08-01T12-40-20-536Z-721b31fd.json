@@ -1,0 +1,13 @@
+# High-Frequency Trading Algorithm Optimization Based on Deep Reinforcement Learning and Generative Adversarial Network
+
+**Authors:** Ruibo Wu
+
+## Abstract
+This work proposes a method for high-frequency trading algorithm optimization with the use of deep reinforcement learning and generative adversarial networks, followed by testing in real market conditions. For this paper, we will combine a Deep Q Network with a GAN to train our trading model in creating tactics within a reinforcement learning setting. Simultaneously, we utilize GAN's generator and discriminator architectures to mimic and produce authentic market data, thus enhancing the precision of trading choices. Experimental data indicates that the novel algorithm, utilizing deep reinforcement learning and GAN technology, demonstrates notable enhancements in yield and risk management in both the stock market and foreign exchange market. In comparison to the conventional high-frequency trading algorithm, the new algorithm shows superior annualized returns. There have been notable enhancements in both maximum drawdown and volatility. Furthermore, the consistent performance of the new algorithm in various market conditions confirms its strength and potential for practical use. This study offers innovative techniques and resources for high-frequency trading. It also offers useful lessons and data backing for future research, with significance in both theory and practice.
+
+**Source:** https://www.semanticscholar.org/paper/3987c295990a89811561c3bdf3775dcafd5c4dc7
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:40:20.536Z

@@ -1,0 +1,13 @@
+# Drawdown-based risk indicators for high-frequency financial volumes
+
+**Authors:** G. D’Amico, Bice di Basilio, F. Petroni
+
+## Abstract
+In stock markets, trading volumes serve as a crucial variable, acting as a measure for a security’s liquidity level. To evaluate liquidity risk exposure, we examine the process of volume drawdown and measures of crash-recovery within fluctuating time frames. These moving time windows shield our financial indicators from being affected by the massive transaction volume, a characteristic of the opening and closing of stock markets. The empirical study is conducted on the high-frequency financial volumes of Tesla, Netflix, and Apple, spanning from April to September 2022. First, we model the financial volume time series for each stock using a semi-Markov model, known as the weighted-indexed semi-Markov chain (WISMC) model. Second, we calculate both real and synthetic drawdown-based risk indicators for comparison purposes. The findings reveal that our risk measures possess statistically different distributions, contingent on the selected time windows. On a global scale, for all assets, financial risk indicators calculated on data derived from the WISMC model closely align with the real ones in terms of Kullback–Leibler divergence.
+
+**Source:** https://www.semanticscholar.org/paper/dd57e94bc527350b8085db16d043bcfbc2546a5b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:40:21.209Z

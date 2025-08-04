@@ -1,0 +1,13 @@
+# High-Frequency Cryptocurrency Trading Strategy using Tweet Sentiment Analysis
+
+**Authors:** Zhijun Chen
+
+## Abstract
+Sentiments are extracted from tweets with the hashtag of cryptocurrencies to predict the price and sentiment prediction model generates the parameters for optimization procedure to make decision and re-allocate the portfolio in the further step. Moreover, after the process of prediction, the evaluation, which is conducted with RMSE, MAE and R2, select the KNN and CART model for the prediction of Bitcoin and Ethereum respectively. During the process of portfolio optimization, this project is trying to use predictive prescription to robust the uncertainty and meanwhile take full advantages of auxiliary data such as sentiments. For the outcome of optimization, the portfolio allocation and returns fluctuate acutely as the illustration of figure.
+
+**Source:** https://www.semanticscholar.org/paper/ab28365fd29bf415c661521d0aab435e85448a39
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:39:27.140Z

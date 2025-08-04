@@ -1,0 +1,13 @@
+# Enhancing High-Frequency Trading with Deep Reinforcement Learning Using Advanced Positional Awareness Under a Directional Changes Paradigm
+
+**Authors:** George Rayment, Michael Kampouridis
+
+## Abstract
+Deep reinforcement learning (DRL) offers the potential to make intelligent trading decisions in high frequency trading strategies in the foreign exchange (FX) market at a fraction of the time it takes humans. In this work, we use an event-based time sampling method referred to as directional changes (DC), which samples data only when there is a significant change in price, to build a DRL-based trading system. The enhanced price representation through DC sampling, combined with positional features reflecting the agent's trading account, provides the DRL agent with information about its exposure to market changes. With this representation of the environment we can train a DRL agent to profitably trade the FX market at high frequencies. Tick data from fourteen FX currency pairs is sampled using the DC framework and then split into windows to form 784 datasets. The novel trading system called PADRL, uses Proximal Policy Optimisation (PPO) to train agents that can autonomously generate considerable levels of profit without rule-based interjections. The resultant agents are compared to four different benchmarks including Buy and Hold, an existing successful DC-based DRL strategy (FDRL) and two popular technical analysis based strategies (MACD and RSI). Strategy performance is measured across three different performance metrics (namely Total Return, Maximum Drawdown and Calmar Ratio), with the novel PADRL system significantly outperforming them all for Total Return and Calmar Ratio.
+
+**Source:** https://www.semanticscholar.org/paper/114ff2b6379923884624042fb79f63fa34370cbf
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:35:50.075Z

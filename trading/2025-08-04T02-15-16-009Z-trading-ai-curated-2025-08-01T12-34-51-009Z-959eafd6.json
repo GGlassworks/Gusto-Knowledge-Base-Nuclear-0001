@@ -1,0 +1,13 @@
+# High-frequency CSI300 futures trading volume predicting through the neural network
+
+**Authors:** Xiaojie Xu, Yun Zhang
+
+## Abstract
+PurposeFor policymakers and participants of financial markets, predictions of trading volumes of financial indices are important issues. This study aims to address such a prediction problem based on the CSI300 nearby futures by using high-frequency data recorded each minute from the launch date of the futures to roughly two years after constituent stocks of the futures all becoming shortable, a time period witnessing significantly increased trading activities.Design/methodology/approachIn order to answer questions as follows, this study adopts the neural network for modeling the irregular trading volume series of the CSI300 nearby futures: are the research able to utilize the lags of the trading volume series to make predictions; if this is the case, how far can the predictions go and how accurate can the predictions be; can this research use predictive information from trading volumes of the CSI300 spot and first distant futures for improving prediction accuracy and what is the corresponding magnitude; how sophisticated is the model; and how robust are its predictions?FindingsThe results of this study show that a simple neural network model could be constructed with 10 hidden neurons to robustly predict the trading volume of the CSI300 nearby futures using 1–20 min ahead trading volume data. The model leads to the root mean square error of about 955 contracts. Utilizing additional predictive information from trading volumes of the CSI300 spot and first distant futures could further benefit prediction accuracy and the magnitude of improvements is about 1–2%. This benefit is particularly significant when the trading volume of the CSI300 nearby futures is close to be zero. Another benefit, at the cost of the model becoming slightly more sophisticated with more hidden neurons, is that predictions could be generated through 1–30 min ahead trading volume data.Originality/valueThe results of this study could be used for multiple purposes, including designing financial index trading systems and platforms, monitoring systematic financial risks and building financial index price forecasting.
+
+**Source:** https://www.semanticscholar.org/paper/31cf14c15a321b32607c74edb5195bede54f6117
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:51.009Z

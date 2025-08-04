@@ -1,0 +1,13 @@
+# Low-Frequency Trading with High-Frequency Measures: Is it Profitable?
+
+**Authors:** O. Komarov
+
+## Abstract
+Are high-frequency realized measures profitable for low-frequency investment? I compare the profitability of the same investment strategy against two implementations of its trading signals: one that conventionally uses daily returns (LF) and the other that takes advantage of high-frequency (HF) returns. I use different lengths of the formation period to verify if the HF implementation can leverage the superior amount of observations. Although economic differences favour the HF implementation, the evidence is not statistically significant. Nonetheless, the HF implementation is more robust to the choice of parameters and provides, for the most illiquid stocks, strong economic benefits that are inversely increasing in the length of the formation period.
+
+**Source:** https://www.semanticscholar.org/paper/317bf5cdee6ef559346ca6436905cb4ce54fb852
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:38:31.837Z

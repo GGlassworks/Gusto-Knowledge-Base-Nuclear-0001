@@ -1,0 +1,17 @@
+# Maker-Taker Fee, Liquidity Competition, and High Frequency Trading
+
+**Authors:** Yiping Lin, P. Swan, F. Harris
+
+## Abstract
+This paper analyzes how a maker-taker fee reduction affects market competition, liquidity, and high frequency trading. The purposes are threefold: 
+1) whether reducing the exchange maker-taker fee attracts liquidity from off-exchange venues; 
+2) holding the net exchange fee relatively constant, whether the components of the maker-taker fee change matter; and 
+3) how HFT responds to the rebate/fee change. 
+By using the Nasdaq maker-taker fee experiment and difference-in-differences methodology, we find that the unilateral maker-taker fee reduction in one lit exchange did not gain market share from off-exchange trading venues; instead, a redistribution of market share among existing lit exchanges occurred. Overall, market share shifted from Nasdaq to other lit exchanges with the highest rebate payment. The experiment demonstrates that in addition to the net fee, the components of the maker-taker fee change matter in competitive fragmented markets. The reduced maker rebate lowers quote quality and the percentage of incoming orders routed to Nasdaq. However, in an offsetting manner, it improves the fill rate and speed of fill because of the reduced taker fee. Further, market efficiency declines. Thanks to the improved relative position of a market in routing tables, adverse selection costs thus decline. This raises standard measures of market liquidity, while liquidity supplier profits decrease. As the fee and rebate reduce, high frequency traders tend to switch from adding to removing liquidity.
+
+**Source:** https://www.semanticscholar.org/paper/209bd401163e40e82918f92836ca62f353be282d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:51.390Z

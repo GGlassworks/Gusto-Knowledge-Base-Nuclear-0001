@@ -1,0 +1,13 @@
+# Towards Developing High Frequency Trading Systems
+
+**Authors:** B. Vanstone, Tobias Hahn
+
+## Abstract
+This paper introduces an approach to developing high frequency trading systems. Further, it demonstrates the techniques described using high frequency FX data as a case study. The foreign exchange (FX) spot markets are well suited to high frequency speculative trading. They are highly liquid, leveraged, and trade 24 hours a day, 5 days a week. The framework describes the processes to follow for determining the applicability and robustness of known or suspected stylised facts to speculative trading, and, it also formalizes the technique of dimension-reduction in high frequency financial datasets. Confirmation of stylized facts and dimension reduction are key first steps in the subsequent development of specific trading rules.
+
+**Source:** https://www.semanticscholar.org/paper/2e6dfdc78c963355193741f24be0d0a7ed19e2e2
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:33:02.246Z

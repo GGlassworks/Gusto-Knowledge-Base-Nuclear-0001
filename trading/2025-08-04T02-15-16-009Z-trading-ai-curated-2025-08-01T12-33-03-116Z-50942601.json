@@ -1,0 +1,13 @@
+# High‐frequency trading from an evolutionary perspective: Financial markets as adaptive systems
+
+**Authors:** Viktor Manahov, R. Hudson, Andrew Urquhart
+
+## Abstract
+The recent rapid growth of algorithmic high‐frequency trading strategies makes it a very interesting time to revisit the long‐standing debates about the efficiency of stock prices and the best way to model the actions of market participants. To evaluate the evolution of stock price predictability at the millisecond timeframe and to examine whether it is consistent with the newly formed adaptive market hypothesis, we develop three artificial stock markets using a strongly typed genetic programming (STGP) trading algorithm. We simulate real‐life trading by applying STGP to millisecond data of the three highest capitalized stocks: Apple, Exxon Mobil, and Google and observe that profit opportunities at the millisecond time frame are better modelled through an evolutionary process involving natural selection, adaptation, learning, and dynamic evolution than by using conventional analytical techniques. We use combinations of forecasting techniques as benchmarks to demonstrate that different heuristics enable artificial traders to be ecologically rational, making adaptive decisions that combine forecasting accuracy with speed.
+
+**Source:** https://www.semanticscholar.org/paper/47a6fff03efc10bcb5467852854254458fa84a4e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:33:03.116Z

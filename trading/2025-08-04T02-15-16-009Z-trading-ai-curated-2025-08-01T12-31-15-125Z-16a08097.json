@@ -1,0 +1,13 @@
+# Deep Probabilistic Modelling of Price Movements for High-Frequency Trading
+
+**Authors:** Ye-Sheen Lim, D. Gorse
+
+## Abstract
+In this paper we propose a deep recurrent architecture for the probabilistic modelling of high-frequency market prices, important for the risk management of automated trading systems. Our proposed architecture incorporates probabilistic mixture models into deep recurrent neural networks. The resulting deep mixture models simultaneously address several practical challenges important in the development of automated high-frequency trading strategies that were previously neglected in the literature: 1) probabilistic forecasting of the price movements; 2) single objective prediction of both the direction and size of the price movements. We train our models on high-frequency Bitcoin market data and evaluate them against benchmark models obtained from the literature. We show that our model outperforms the benchmark models in both a metric-based test and in a simulated trading scenario.
+
+**Source:** https://www.semanticscholar.org/paper/25a6c41fadc0264219c4f4692794d1c00d47fca5
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:31:15.125Z

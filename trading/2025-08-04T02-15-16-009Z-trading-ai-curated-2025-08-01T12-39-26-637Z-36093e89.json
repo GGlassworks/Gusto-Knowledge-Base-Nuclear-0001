@@ -1,0 +1,24 @@
+# The Optimal Threshold Selection for High-Frequency Pairs Trading via Supervised Machine Learning Algorithms
+
+**Authors:** Mahmut Bağcı, Pınar Kaya Soylu
+
+## Abstract
+
+ A high frequency pairs trading (HFPT) algorithm is built by the integration of pairs trading and threshold rebalancing algorithm. The determination of optimal threshold (OT) for the HFPT is crucial to maximize its profitability, and this study suggests a procedure to classify OT ranges by supervised machine learning (ML) techniques. In this regard, a sample dataset is created for ML applications. In this dataset, the target variables (OT values) are computed by the application of HFPT algorithm to real price data of 50 crypto-assets, and input variables (features) are calculated as portfolio mean, variance, skewness, kurtosis, value at risk, and correlation coefficient of the pairs. Before classification process, the pairs (or portfolios) are divided into three sub-groups (as positively, weakly and negatively correlated), and then OT values are classified by 6 ML methods. Comparing the evaluation metrics for ML methods, it is observed that the best accuracy, precision and 
+ 
+ $$F_1$$
+ 
+ 
+ F
+ 1
+ 
+ 
+ 
+ -scores are obtained by the Random Forest (RF) classifier for all portfolio groups in two-class, three-class and four-class classification. Also, it is seen that the right classification performance of ML methods on positively and negatively correlated pairs are better than weakly correlated pairs. Furthermore, the success of RF classifier is verified with a test dataset that contains price series of 50 crypto-assets in January and February 2024. The applicability of OT range classification procedure in practical exchange markets is also demonstrated, and it is shown that the HFPT algorithm can yield reasonable profits when threshold selected in predicted range.
+
+**Source:** https://www.semanticscholar.org/paper/26e83784b86c23dd58ae110663839826003ddda1
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:39:26.637Z

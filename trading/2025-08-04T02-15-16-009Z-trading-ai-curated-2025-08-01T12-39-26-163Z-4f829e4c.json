@@ -1,0 +1,13 @@
+# Performance Evaluation of High Frequency Trading using a Deep Learning
+
+**Authors:** Woosik Lee
+
+## Abstract
+Compared to the past financial markets, large investment banks, hedge funds and institutional investors in modern financial markets use powerful computer programs to execute a large number of trades in less than a millionth of a second anywhere in the world. Even though more sophisticated computer algorithm trading systems should be available to market participants upon request, there are limitations to understand market dynamics and market signals and accurate execution logic with optimal speed. This study compares and analyzes the high-frequency trading performance based on the deep learning model according to the stochastic gradient descent algorithm. The main result shows that high-frequency trading performance based on deep learning was likely to learn trading rules. The total cumulative return based on the high-frequency trading strategy based on the deep neural network was able to obtain a high return compared to the return of the underlying asset and showed long-lasting characteristics. Second, Adam, which is generally known to have excellent performance, showed relatively poor performance compared to RMSprop and AdaGrad in deep neural network learning performance for high-frequency data of euro/dollar exchange rates.
+
+**Source:** https://www.semanticscholar.org/paper/fe2f4307b9791040c3743d0f1ab5daee5adcba59
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:39:26.163Z

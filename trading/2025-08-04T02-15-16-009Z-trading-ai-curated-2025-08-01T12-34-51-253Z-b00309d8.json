@@ -1,0 +1,28 @@
+# High-frequency trading and the weekly natural gas storage report
+
+**Authors:** Matthew Brigida, William R. Pratt
+
+## Abstract
+
+Purpose
+This paper aims to investigate the quickness, and test the accuracy, of liquidity taking high-frequency traders (HFT). This gives us important insights into a class of market participant who has come to be very influential in present markets.
+
+
+Design/methodology/approach
+The authors use the weekly natural gas (NG) storage report for the test because the information contained in the release often has a large effect on prices. Moreover, the NG market is heavily traded and liquid, and prone to high volatility. These factors make trading in this market attractive to HFT. The authors test for the profitability of those who trade in the first milliseconds after the report’s release; and for information leakage prior to the report.
+
+
+Findings
+The authors find those who trade within the first 50 ms accurately incorporate the information contained in the storage report into prices, and earn the majority of profits. In fact, HFT profits are decreasing in the time it takes them to trade after the announcement (measured to 200 ms). Further tests find no evidence of informed trading prior to the release of the report, and so the HFT reaction to the report incorporates the information contained therein into prices.
+
+
+Originality/value
+This is one of the few analyzes of the profitability of liquidity-taking HFT, and the only analysis that uses millisecond NG data. The data used is the exchanges original FIX/FAST messages.
+
+
+**Source:** https://www.semanticscholar.org/paper/c7bd69bb3455d42534cbf9fedf1530e34349b5b3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:51.254Z

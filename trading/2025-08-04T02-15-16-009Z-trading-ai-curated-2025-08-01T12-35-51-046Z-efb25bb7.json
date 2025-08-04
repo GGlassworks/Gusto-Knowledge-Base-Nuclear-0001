@@ -1,0 +1,13 @@
+# Quantum Machine Learning Approaches for Real-Time Market Pattern Recognition in High-Frequency Trading: A Banking Sector Application
+
+**Authors:** Hari Krishn Gupta, Naveen Kumar Vayyasi, Jagadeesh Thiruveedula
+
+## Abstract
+Recognizing market trends in HFT gets simpler and faster thanks to quantum machine learning (QML) which also has the power to exceed classical model boundaries. Using quantum kernel methods and variational quantum circuits, QML can analyze high-dimensional financial information such as tick-by-tick data and order book samples, in the superposition state simultaneously. Comparative work proves that quantum-enhanced models have better accuracy, can detect patterns better and perform faster decisions on near-term quantum devices than classical ones. To be useful in banking-sector HFT, QML needs to easily connect with all existing internal information flows and trades. Essentially, users need to address hardware noise, guard against decoherence on NISQ machines, balance circuit complexity with tight time goals and guarantee scalable training for a quantum-classical mix. Latest progress in handling errors, such as zero-noise extrapolation, and adapting features has shown that models become stronger under realistic kinds of noise, although greater development is necessary to reach a production-ready level of reliability. Here, we bring together the most current work in QML for HFT, including different approaches, both software and hardware and ways to add quantum components to classical optimization loops. Outcomes from benchmarking are discussed, as well as the differing designs in kernel and variational approaches and significant parts of regulations related to quantum-assisted trading. In conclusion, a plan for more detailed studies is given, underlining how important consistent performance measures, detachable frameworks that can be used together and cooperation between technical fields are to get QML from research trials to compliant solutions in high-speed stock markets.
+
+**Source:** https://www.semanticscholar.org/paper/2974d9ca7ca868f1f5655c6f8c42d4f28cde7a3b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:35:51.047Z

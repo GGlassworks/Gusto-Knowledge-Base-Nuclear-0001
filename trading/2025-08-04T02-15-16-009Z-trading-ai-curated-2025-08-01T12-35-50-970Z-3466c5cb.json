@@ -1,0 +1,13 @@
+# Enhancing Empirical Asset Pricing Models: A Computational Approach to Cleaning High-Frequency Trading Data Using Outlier Detection Algorithms
+
+**Authors:** Xiaohan Wang
+
+## Abstract
+This article discusses the problems and possible solutions for HFT data in empirical asset price models. The Capital Asset Pricing Model (CAPM) and Fama-French three-factor model are validated with high-frequency data before and after cleaning the data using advanced outlier detection methods. It use the compute tools like Isolation Forest, DBSCAN, and RPCA to spot and correct the inaccurate data points that often distort financial models. Models accuracy and robustness were improved dramatically following the data cleaning, with CAPM and Fama-French models receiving an accuracy enhancement of 0.75 to 0.89 and 0.78 to 0.85, respectively. The paper also examines classical data cleaning processes versus computational methods and the efficiency of the latter. The impact for financial modeling and asset management is far-reaching, with a message that better data means better choices and more predictable models. These results provide evidence of the importance of advanced data cleaning in high frequency trading and their ability to enhance decision making in financial markets.
+
+**Source:** https://www.semanticscholar.org/paper/7389638a74f9f9a5a89d8a9da2639f2faae4b4ce
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:35:50.970Z

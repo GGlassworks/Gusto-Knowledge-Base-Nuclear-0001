@@ -1,0 +1,14 @@
+# Revisiting the trading activity of high-frequency trading firms around ultra-fast flash events
+
+**Authors:** Christophe Desagre, Floris Laly, Mikael Petitjean
+
+## Abstract
+
+ We investigate high-frequency traders’ behavior in the context of the fastest and most extreme price movements (EPMs) that can be observed in the market, specifically ultra-fast flash events, challenging the methodologies employed in the academic and practitioner literature for identifying sudden liquidity black holes. To refine the price-shock identification methodology, we introduce a new approach called sequence-based flash events (SFEs), which relies on tick sequences instead of predetermined fixed-time intervals within which all flash events in the sample are assumed to occur. This alternative methodology offers the advantage of pinpointing the exact time and duration of a crash, which, in turn, provides a way to more accurately define the observation windows around it. We compare our sample of SFEs with both the so-called “mini flash crashes”, as identified by the Nanex detection algorithm, and the so-called EPMs, as identified by Brogaard et al. (2018). We use close and open prices, as well as high and low prices. Based on our sample of SFEs, we find no evidence that HFTs trigger extreme price shocks. However, we find that HFTs exacerbate SFEs by increasing the net imbalance in the direction of these shocks as they occur. Finally, we show that the choice of the price-shock identification methodology is critical. Thus, we urge regulators to exercise caution and avoid hasty conclusions regarding HFTs’ contribution to price stability in stressful market conditions.
+
+**Source:** https://www.semanticscholar.org/paper/721685249f4b7b971acb149bfadec71aa1835766
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:50.908Z

@@ -1,0 +1,13 @@
+# Competition among Liquidity Providers with Access to High-Frequency Trading Technology
+
+**Authors:** Dion Bongaerts, Mark Van Achter
+
+## Abstract
+We analyze how liquidity provision by high-frequency traders (HFTs) affects market stability, echoing recent regulatory concerns. Our model features a limit order market with informed trading and endogenous entry and exit. Liquidity is provided by traditional liquidity providers and HFTs with superior speed and/or information processing technology. Speed technology by itself leads to efficient resource allocation and maximizes liquidity. Information processing technology by itself generates mild inefficiencies due to a lemons problem. Yet, the combination of the two can lead to the implementation of inefficient speed technology, oligopolistic rents, or an amplified lemons problem with occasional market freezes.
+
+**Source:** https://www.semanticscholar.org/paper/5f3a21cc9a39692677c9f1d6b6f9eadc54cd0d48
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:38:31.127Z

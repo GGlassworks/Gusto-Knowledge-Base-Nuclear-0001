@@ -1,0 +1,13 @@
+# Risk-Adjusted Performance of Random Forest Models in High-Frequency Trading
+
+**Authors:** Akash Deep, Abootaleb Shirvani, C. Monico, Svetlozar Rachev, Frank J. Fabozzi
+
+## Abstract
+Because of the theoretical challenges posed by the Efficient Market Hypothesis with respect to technical analysis, the effectiveness of technical indicators in high-frequency trading remains inadequately explored, particularly at the minute-level frequency, where the effects of the microstructure of the market dominate. This study evaluates the integration of traditional technical indicators with Random Forest regression models using minute-level SPY data, analyzing 13 distinct model configurations. Our empirical results reveal a stark contrast between in-sample and out-of-sample performance, with R2 values deteriorating from 0.749–0.812 during training to negative values in testing. A feature importance analysis demonstrates that primary price-based features dominate the predictions made by the model, accounting for over 60% of the importance, while established technical indicators, such as RSI and Bollinger Bands, account for only 14–15%. Although the indicator-enhanced models achieved superior risk-adjusted metrics, with Rachev ratios between 0.919 and 0.961, they consistently underperformed a simple buy-and-hold strategy, generating returns ranging from −2.4% to −3.9%. These findings challenge conventional assumptions about the usefulness of technical indicators in algorithmic trading, suggesting that in high-frequency contexts, they may be more relevant to risk management rather than to predicting returns. For practitioners and researchers, our findings indicate that successful high-frequency trading strategies should focus on adaptive feature selection and regime-specific modeling rather than relying on traditional technical indicators, as well as indicating the critical importance of robust out-of-sample testing in the development of a model.
+
+**Source:** https://www.semanticscholar.org/paper/38e7681d81e7f5b109224545a95f42c8dba9ddd1
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:02.475Z

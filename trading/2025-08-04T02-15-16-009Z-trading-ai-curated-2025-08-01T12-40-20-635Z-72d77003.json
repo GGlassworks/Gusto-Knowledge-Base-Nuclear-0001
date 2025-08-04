@@ -1,0 +1,13 @@
+# Forecasting Financial Markets Using High-Frequency Trading Data: Examination with Strongly Typed Genetic Programming
+
+**Authors:** Viktor Manahov, Hanxiong Zhang
+
+## Abstract
+ABSTRACT Market regulators around the world are still debating whether high-frequency trading (HFT) plays a positive or negative role in market quality. We develop an artificial futures market populated with high-frequency traders (HFTs) and institutional traders using Strongly Typed Genetic Programming (STGP) trading algorithm. We simulate real-life futures trading at the millisecond time frame by applying STGP to E-Mini S&P 500 data stamped at the millisecond interval. A direct forecasting comparison between HFTs and institutional traders indicate the superiority of the former. We observe that the negative implications of high-frequency trading in futures markets can be mitigated by introducing a minimum resting trading period of less than 50 milliseconds. Overall, we contribute to the e-commerce literature by showing that minimum resting trading order period of less than 50 milliseconds could lead to HFTs facing a queuing risk resulting in a less harmful market quality effect. One practical implication of our study is that we demonstrate that market regulators and/or e-commerce practitioners can apply artificial intelligence tools such as STGP to conduct trading behavior-based profiling. This can be used to detect the occurrence of new HFT strategies and examine their impact on the futures market.
+
+**Source:** https://www.semanticscholar.org/paper/206a6ba2e6e51e9394bb873923a479b822b90b07
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:40:20.635Z

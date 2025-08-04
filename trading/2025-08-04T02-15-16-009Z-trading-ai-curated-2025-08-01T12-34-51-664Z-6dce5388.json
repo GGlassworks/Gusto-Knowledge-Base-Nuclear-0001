@@ -1,0 +1,13 @@
+# Aggressive and Defensive High‑Frequency Trading and its Impact on Liquidity of German Stock Market
+
+**Authors:** J. Hruška
+
+## Abstract
+Algorithmic trading and especially high frequency trading is the concern of the current research studies as well as legislative authorities. It is also the subject of criticism mostly from low frequency traders and long-term institutional investors. This is due to several cases of market manipulation and flash crashes in the previous years. Advocates of this trading mechanism claim that it has large positive influence on the market, such as liquidity growth by lowering spreads and others. This paper is focused on testing the relationship between market liquidity of shares traded on Frankfurt Stock Exchange and HFT activity on European stock markets. Author proposes own methodology for measuring dynamics in HFT activity, without knowledge of original market messages. Liquidity is measured by various from of price spreads. Econometrical methods for panel regression are used to determine these relations. Results of this paper will reveal the relevance of the HFT trader’s main argument about creating liquidity and hence reducing market risks related with high spreads and low number of limit orders.
+
+**Source:** https://www.semanticscholar.org/paper/2ecaf2ce45665476fddcf59e93bd6d8a0e464ece
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:51.664Z

@@ -1,0 +1,13 @@
+# A Study of Monte Carlo Tree Search-Based Model for High Frequency Trading
+
+**Authors:** Yu-Yi Chuang, Yi-Cheng Liao, Chih-Hsiang Chang, Chien-Feng Huang
+
+## Abstract
+In the fields of financial research and applications, predicting stock prices is a challenging task. However, with the advancement of artificial intelligence algorithms, many studies have succeeded, to some degree, in predicting changes in stock prices. More recently, the study for high-frequency trading using microscopic trading information has become one of the most popular lines of research in the financial technology sector. In this work, we propose a novel Monte Carlo Tree Search methodology, along with machine learning technologies, for the prediction of price movement of stocks, and device a corresponding trading HFT strategy. The experimental results demonstrate that the effectiveness of the proposed model. We thus expect this proposed methodology to advance the current state of machine learning in HFT environments.
+
+**Source:** https://www.semanticscholar.org/paper/989dfee5f7c5e3f0f4b06d4afb23ac009d47d6fe
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:50.757Z

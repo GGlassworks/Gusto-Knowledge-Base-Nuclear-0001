@@ -1,0 +1,13 @@
+# Analysis of the Impact of High-Frequency Trading on Artificial Market Liquidity
+
+**Authors:** Isao Yagi, Y. Masuda, T. Mizuta
+
+## Abstract
+Many empirical studies have discussed market liquidity, which is regarded as a measure of a booming financial market. Further, various indicators for objectively evaluating market liquidity have also been proposed and their merits have been discussed. In recent years, the impact of high-frequency traders (HFTs) on financial markets has been a focal concern, but no studies have systematically discussed their relationship with major market liquidity indicators, including volume, tightness, resiliency, and depth. In this study, we used agent-based simulations to compare the major liquidity indicators in an artificial market where an HFT participated was compared to one where no HFT participated. The results showed that all liquidity indicators in the market where an HFT participated improved more than those in the market where no HFT participated. Furthermore, as a result of investigating the correlations between the major liquidity indicators in our simulations and the extant empirical literature, we found that market liquidity can be measured not only by the major liquidity indicators but also by execution rate. Therefore, it is suggested that it could be appropriate to employ execution rate as a novel liquidity indicator in future studies.
+
+**Source:** https://www.semanticscholar.org/paper/bf48bb95d56a4769467294ec0e936120d51ec488
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:02.738Z

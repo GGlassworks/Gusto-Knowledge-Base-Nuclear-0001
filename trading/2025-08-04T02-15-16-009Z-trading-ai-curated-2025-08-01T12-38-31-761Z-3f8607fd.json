@@ -1,0 +1,13 @@
+# Large-caps liquidity provision, market liquidity and high-frequency market makers’ trading behaviour
+
+**Authors:** Mingfa Ding, Sandy Suardi, Caihong Xu, D. Zhang
+
+## Abstract
+This paper exploits the introduction of the liquidity provision scheme (LPS) in NASDAQ Stockholm (NOMX) to assess how the implementation of LPS affects market liquidity and the trading behaviors of high-frequency market makers. Unlike the traditional designated market makers (DMM) that target the liquidity supply of small and less traded stocks, LPS is implemented for large-caps and liquid stocks. LPS requires participants to submit buy and sell orders at the European best bid and offer quotes with a size larger than 50,000 Swedish Krona on each trade side. LPS delivers liquidity improvements by reducing order processing costs in the large-cap and cross-listed stocks in the NOMX and Chi-X markets, with no evidence of market liquidity migration from Chi-X to NOMX. As market makers registered with LPS are likely high-frequency traders, LPS stabilizes market liquidity as market makers’ decisions to supply or demand liquidity become less sensitive to market conditions like the spread and order imbalance.
+
+**Source:** https://www.semanticscholar.org/paper/a8a9eb152e48420af9130760a350e670201e5bec
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:38:31.761Z

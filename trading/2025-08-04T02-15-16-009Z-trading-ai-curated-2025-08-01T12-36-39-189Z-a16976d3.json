@@ -1,0 +1,13 @@
+# Research on a quantitative trading strategy based on high-frequency trading
+
+**Authors:** Chang Liu, Huilin Shan, Zhihao Tian, Hangyu Cheng
+
+## Abstract
+This article aims to develop a quantitative trading strategy that maximizes profits while finding the best balance of risk and return. We built a high-frequency trading strategy model to maximize profits. We first used the Apriori algorithm to find frequency item sets in historical data before fitting the best daily dynamic position adjustment functions for gold and bitcoin using mathematical statistics and other methods based on price movements. Then we can trade to increase and decrease positions in gold and bitcoin based on the positions suggested by the dynamic position adjustment function. We also simulated three investors with different risk preferences trading using this high-frequency trading model for up to five years and obtained return of 266.05 %, 152.51 %, and 33.29 %, respectively.
+
+**Source:** https://www.semanticscholar.org/paper/98e6e06a6616d5ffb61eae06fb927786c0d00a28
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:36:39.193Z

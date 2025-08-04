@@ -1,0 +1,13 @@
+# Geometric brownian motion: an alternative to high-frequency trading for small investors
+
+**Authors:** E. Abensur, D. Moreira, Aline Cristina Rodrigues De Faria
+
+## Abstract
+High-frequency trading (HFT) involves short-term, high-volume market operations to capture profits. To a large extent, these operations take advantage of early access to information using fast and sophisticated technological tools running on supercomputers. However, high-frequency trading is inaccessible to small investors because of its high cost. For this reason, price prediction models can substitute high-frequency trading in order to anticipate stock market movements. This study is the first to analyze the possibility of applying Geometric Brownian Motion (GBM) to forecast prices in intraday trading of stocks negotiated on two different stock markets: (i) the Brazilian stock market (B3), considered as a low liquidity market and (ii) the American stock market (NYSE), a high liquidity market. This work proposed an accessible framework that can be used for small investors. The portfolios formed by Geometric Brownian Motion were tested using a traditional risk measure (mean-variance). The hypothesis tests showed evidences of promising results for financial management.
+
+**Source:** https://www.semanticscholar.org/paper/85b1f1398f77a22c10d8260f119717f6bc90cd85
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:31:15.041Z

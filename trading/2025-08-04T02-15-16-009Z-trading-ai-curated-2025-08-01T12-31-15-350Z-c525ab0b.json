@@ -1,0 +1,13 @@
+# Novel modelling strategies for high-frequency stock trading data
+
+**Authors:** Xuekui Zhang, Yuying Huang, Ke-Li Xu, Li Xing
+
+## Abstract
+Full electronic automation in stock exchanges has recently become popular, generating high-frequency intraday data and motivating the development of near real-time price forecasting methods. Machine learning algorithms are widely applied to mid-price stock predictions. Processing raw data as inputs for prediction models (e.g., data thinning and feature engineering) can primarily affect the performance of the prediction methods. However, researchers rarely discuss this topic. This motivated us to propose three novel modelling strategies for processing raw data. We illustrate how our novel modelling strategies improve forecasting performance by analyzing high-frequency data of the Dow Jones 30 component stocks. In these experiments, our strategies often lead to statistically significant improvement in predictions. The three strategies improve the F1 scores of the SVM models by 0.056, 0.087, and 0.016, respectively.
+
+**Source:** https://www.semanticscholar.org/paper/9debeb7de82fcd0d7a1f5112bc9cbd9b13c63ecc
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:31:15.350Z

@@ -1,0 +1,13 @@
+# Quantum Prisoner’s Dilemma and High Frequency Trading on the Quantum Cloud
+
+**Authors:** F. Khan, N. Bao
+
+## Abstract
+High-frequency trading (HFT) offers an excellent use case and a potential killer application of the commercially available, first generation quasi-quantum computers. To this end, we offer here a simple game-theoretic model of HFT as the famous two player game, Prisoner’s Dilemma. We explore the implementation of HFT as an instance of Prisoner’s Dilemma on the (quasi) quantum cloud using the Eisert, Wilkens, and Lewenstein quantum mediated communication protocol, and how this implementation can not only increase transaction speed but also improve the lot of the players in HFT. Using cooperative game-theoretic reasoning, we also note that in the near future when the internet is properly quantum, players will be able to achieve Pareto-optimality in HFT as an instance of reinforced machine learning.
+
+**Source:** https://www.semanticscholar.org/paper/0e7f53dc957b0fe4d451b85f3c86bc1b2db80790
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:38:31.026Z

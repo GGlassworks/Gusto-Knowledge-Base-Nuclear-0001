@@ -1,0 +1,13 @@
+# Multi-Agent Reinforcement Learning for High-Frequency Trading Strategy Optimization
+
+**Authors:** Ming Wei, Shikai Wang, Yanli Pu, Jiang Wu
+
+## Abstract
+This study presents a novel multi-agent reinforcement learning (MARL) framework for optimizing high-frequency trading strategies. The proposed approach leverages the StarCraft Multi-Agent Challenge (SMAC) environment, adapted for financial markets, to simulate complex trading scenarios. We implement a Value Decomposition Network (VDN) architecture combined with the Multi-Agent Proximal Policy Optimization (MAPPO) algorithm to coordinate multiple trading agents. The framework is evaluated using high-frequency limit order book data from the FI-2010 dataset, augmented with derived features to capture market microstructure dynamics. Experimental results demonstrate that our MARL-based strategy significantly outperforms traditional algorithmic trading approaches and single-agent reinforcement learning models. The strategy achieves a Sharpe ratio of 2.87 and a maximum drawdown of 12.3%, showcasing superior risk-adjusted returns and robust risk management. Comparative analysis reveals a 9.8% improvement in annualized returns over a single-agent Deep Q-Network approach. Furthermore, the implementation of our strategy shows a positive impact on market quality metrics, including a 2.3% decrease in effective spread and a 15% reduction in price impact. These findings suggest that the proposed MARL framework not only enhances trading performance but also contributes to market stability and efficiency in high-frequency trading environments.
+
+**Source:** https://www.semanticscholar.org/paper/6ea9a11fcea9cc5b0c651e2ad473dcb62648709e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:02.562Z
