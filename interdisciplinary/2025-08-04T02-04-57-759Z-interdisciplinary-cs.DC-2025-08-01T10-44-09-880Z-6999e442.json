@@ -1,0 +1,12 @@
+# Geospatial Big Data Handling with High Performance Computing: Current Approaches and Future Directions
+
+**Authors:** Zhenlong Li
+
+## Summary
+Geospatial big data plays a major role in the era of big data, as most data today are inherently spatial, collected with ubiquitous location-aware sensors. Efficiently collecting, managing, storing, and analyzing geospatial data streams enables development of new decision-support systems and provides unprecedented opportunities for business, science, and engineering. However, handling the "Vs" (volume, variety, velocity, veracity, and value) of big data is a challenging task. This is especially true for geospatial big data, since the massive datasets must be analyzed in the context of space and time. High performance computing (HPC) provides an essential solution to geospatial big data challenges. This chapter first summarizes four key aspects for handling geospatial big data with HPC and then briefly reviews existing HPC-related platforms and tools for geospatial big data processing. Lastly, future research directions in using HPC for geospatial big data handling are discussed.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T10:44:09.881Z

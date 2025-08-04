@@ -1,0 +1,12 @@
+# Privacy-Preserving Clustering of Unstructured Big Data for Cloud-Based Enterprise Search Solutions
+
+**Authors:** SM Zobaed, Mohsen Amini Salehi
+
+## Summary
+Cloud-based enterprise search services (e.g., Amazon Kendra) are enchanting to big data owners by providing them with convenient search solutions over their enterprise big datasets. However, individuals and businesses that deal with confidential big data (eg, credential documents) are reluctant to fully embrace such services, due to valid concerns about data privacy. Solutions based on client-side encryption have been explored to mitigate privacy concerns. Nonetheless, such solutions hinder data processing, specifically clustering, which is pivotal in dealing with different forms of big data. For instance, clustering is critical to limit the search space and perform real-time search operations on big datasets. To overcome the hindrance in clustering encrypted big data, we propose privacy-preserving clustering schemes for three forms of unstructured encrypted big datasets, namely static, semi-dynamic, and dynamic datasets. To preserve data privacy, the proposed clustering schemes function based on statistical characteristics of the data and determine (A) the suitable number of clusters and (B) appropriate content for each cluster. Experimental results obtained from evaluating the clustering schemes on three different datasets demonstrate between 30% to 60% improvement on the clusters' coherency compared to other clustering schemes for encrypted data. Employing the clustering schemes in a privacy-preserving enterprise search system decreases its search time by up to 78%, while increases the search accuracy by up to 35%.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T19:23:28.316Z

@@ -1,0 +1,12 @@
+# Automatic approach for generating ETL operators
+
+**Authors:** Wided Bakari, Mouez Ali, Hanene Ben-Abdallah
+
+## Summary
+This article addresses the generation of the ETL operators(Extract-Transform-Load) for supplying a Data Warehouse from a relational data source. As a first step, we add new rules to those proposed by the authors of [1], these rules deal with the combination of ETL operators. In a second step, we propose an automatic approach based on model transformations to generate the ETL operations needed for loading a data warehouse. This approach offers the possibility to set some designer requirements for loading.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:58:26.469Z

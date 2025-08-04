@@ -1,0 +1,12 @@
+# Smart Contracts on the Move
+
+**Authors:** Enrique Fynn, Alysson Bessani, Fernando Pedone
+
+## Summary
+Blockchain systems have received much attention and promise to revolutionize many services. Yet, despite their popularity, current blockchain systems exist in isolation, that is, they cannot share information. While interoperability is crucial for blockchain to reach widespread adoption, it is difficult to achieve due to differences among existing blockchain technologies. This paper presents a technique to allow blockchain interoperability. The core idea is to provide a primitive operation to developers so that contracts and objects can switch from one blockchain to another, without breaking consistency and violating key blockchain properties. To validate our ideas, we implemented our protocol in two popular blockchain clients that use the Ethereum virtual machine. We discuss how to build applications using the proposed protocol and show examples of applications based on real use cases that can move across blockchains. To analyze the system performance we use a real trace from one of the most popular Ethereum applications and replay it in a multi-blockchain environment.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T13:12:42.012Z

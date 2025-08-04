@@ -1,0 +1,12 @@
+# Kaleido: An Efficient Out-of-core Graph Mining System on A Single Machine
+
+**Authors:** Cheng Zhao, Zhibin Zhang, Peng Xu, Tianqi Zheng, Xueqi Cheng
+
+## Summary
+Graph mining is one of the most important categories of graph algorithms. However, exploring the subgraphs of an input graph produces a huge amount of intermediate data. The 'think like a vertex' programming paradigm, pioneered by Pregel, cannot readily formulate mining problems, which is designed to produce graph computation problems like PageRank. Existing mining systems like Arabesque and RStream need large amounts of computing and memory resources. In this paper, we present Kaleido, an efficient single machine, out-of-core graph mining system which treats disks as an extension of memory. Kaleido treats intermediate data in graph mining tasks as a tensor and adopts a succinct data structure for the intermediate data. Kaleido utilizes the eigenvalue of the adjacency matrix of a subgraph to efficiently solve the subgraph isomorphism problems with an acceptable constraint that the vertex number of a subgraph is less than 9. Kaleido implements half-memory-half-disk storage for storing large intermediate data, which treats the disk as an extension of the memory. Comparing with two state-of-the-art mining systems, Arabesque and RStream, Kaleido outperforms them by a GeoMean 12.3$\times$ and 40.0$\times$ respectively.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T19:32:43.646Z

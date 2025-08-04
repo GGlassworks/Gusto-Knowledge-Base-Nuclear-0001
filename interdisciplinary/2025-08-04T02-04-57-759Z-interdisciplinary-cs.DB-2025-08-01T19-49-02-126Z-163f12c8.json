@@ -1,0 +1,12 @@
+# Provenance for Interactive Visualizations
+
+**Authors:** Fotis Psallidas, Eugene Wu
+
+## Summary
+We highlight the connections between data provenance and interactive visualizations. To do so, we first incrementally add interactions to a visualization and show how these interactions are readily expressible in terms of provenance. We then describe how an interactive visualization system that natively supports provenance can be easily extended with novel interactions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:49:02.127Z

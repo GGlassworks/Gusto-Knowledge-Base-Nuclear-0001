@@ -1,0 +1,12 @@
+# Video Big Data Analytics in the Cloud: Research Issues and Challenges
+
+**Authors:** Aftab Alam, Shah Khalid, Muhammad Numan Khan, Tariq Habib Afridi, Irfan Ullah, Young-Koo Lee
+
+## Summary
+On the rise of distributed computing technologies, video big data analytics in the cloud have attracted researchers and practitioners' attention. The current technology and market trends demand an efficient framework for video big data analytics. However, the current work is too limited to provide an architecture on video big data analytics in the cloud, including managing and analyzing video big data, the challenges, and opportunities. This study proposes a service-oriented layered reference architecture for intelligent video big data analytics in the cloud. Finally, we identify and articulate several open research issues and challenges, which have been raised by the deployment of big data technologies in the cloud for video big data analytics. This paper provides the research studies and technologies advancing video analyses in the era of big data and cloud computing. This is the first study that presents the generalized view of the video big data analytics in the cloud to the best of our knowledge.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T10:41:07.253Z

@@ -1,0 +1,12 @@
+# A Novel Approach to Analyze Fashion Digital Archive from Humanities
+
+**Authors:** Satoshi Takahashi, Keiko Yamaguchi, Asuka Watanabe
+
+## Summary
+Fashion styles adopted every day are an important aspect of culture, and style trend analysis helps provide a deeper understanding of our societies and cultures. To analyze everyday fashion trends from the humanities perspective, we need a digital archive that includes images of what people wore in their daily lives over an extended period. In fashion research, building digital fashion image archives has attracted significant attention. However, the existing archives are not suitable for retrieving everyday fashion trends. In addition, to interpret how the trends emerge, we need non-fashion data sources relevant to why and how people choose fashion. In this study, we created a new fashion image archive called Chronicle Archive of Tokyo Street Fashion (CAT STREET) based on a review of the limitations in the existing digital fashion archives. CAT STREET includes images showing the clothing people wore in their daily lives during the period 1970--2017, which contain timestamps and street location annotations. We applied machine learning to CAT STREET and found two types of fashion trend patterns. Then, we demonstrated how magazine archives help us interpret how trend patterns emerge. These empirical analyses show our approach's potential to discover new perspectives to promote an understanding of our societies and cultures through fashion embedded in consumers' daily lives.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:16.026Z

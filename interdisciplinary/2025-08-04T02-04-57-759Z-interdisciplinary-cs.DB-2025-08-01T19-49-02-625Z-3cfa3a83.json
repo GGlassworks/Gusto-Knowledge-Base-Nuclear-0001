@@ -1,0 +1,12 @@
+# Mr. Plotter: Unifying Data Reduction Techniques in Storage and Visualization Systems
+
+**Authors:** Sam Kumar, Michael P Andersen, David E. Culler
+
+## Summary
+As the rate of data collection continues to grow rapidly, developing visualization tools that scale to immense data sets is a serious and ever-increasing challenge. Existing approaches generally seek to decouple storage and visualization systems, performing just-in-time data reduction to transparently avoid overloading the visualizer. We present a new architecture in which the visualizer and data store are tightly coupled. Unlike systems that read raw data from storage, the performance of our system scales linearly with the size of the final visualization, essentially independent of the size of the data. Thus, it scales to massive data sets while supporting interactive performance (sub-100 ms query latency). This enables a new class of visualization clients that automatically manage data, quickly and transparently requesting data from the underlying database without requiring the user to explicitly initiate queries. It lays a groundwork for supporting truly interactive exploration of big data and opens new directions for research on scalable information visualization systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:49:02.625Z

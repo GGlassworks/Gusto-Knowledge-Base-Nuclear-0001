@@ -1,0 +1,12 @@
+# Is Journal Citation Indicator a good metric for Art &amp; Humanities Journals currently?
+
+**Authors:** Yu Liao, Li Li, Zhesi Shen
+
+## Summary
+Probably Not. Journal Citation Indicator (JCI) was introduced to address the limitations of traditional metrics like the Journal Impact Factor (JIF), particularly its inability to normalize citation impact across different disciplines. This study reveals that JCI faces significant challenges in field normalization for Art &amp; Humanities journals, as evidenced by much lower correlations with a more granular, paper-level metric, CNCI-CT. A detailed analysis of Architecture journals highlights how journal-level misclassification and the interdisciplinary nature of content exacerbate these issues, leading to less reliable evaluations. We recommend improving journal classification systems or adopting paper-level normalization methods, potentially supported by advanced AI techniques, to enhance the accuracy and effectiveness of JCI for Art &amp; Humanities disciplines.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:16.621Z

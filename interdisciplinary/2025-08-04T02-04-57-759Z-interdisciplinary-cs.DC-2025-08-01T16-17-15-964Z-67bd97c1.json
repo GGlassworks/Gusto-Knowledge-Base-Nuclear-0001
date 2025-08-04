@@ -1,0 +1,12 @@
+# A comparison of techniques for solving the Poisson equation in CFD
+
+**Authors:** Nick Brown
+
+## Summary
+CFD is a ubiquitous technique central to much of computational simulation such as that required by aircraft design. Solving of the Poisson equation occurs frequently in CFD and there are a number of possible approaches one may leverage. The dynamical core of the MONC atmospheric model is one example of CFD which requires the solving of the Poisson equation to determine pressure terms. Traditionally this aspect of the model has been very time consuming and-so it is important to consider how we might reduce the runtime cost. In this paper we survey the different approaches implemented in MONC to perform the pressure solve. Designed to take advantage of large scale, modern, HPC machines, we are concerned with the computation and communication behaviour of the available techniques and in this text we focus on direct FFT and indirect iterative methods. In addition to describing the implementation of these techniques we illustrate on up to 32768 processor cores of a Cray XC30 both the performance and scalability of our approaches. Raw runtime is not the only measure so we also make some comments around the stability and accuracy of solution. The result of this work are a number of techniques, optimised for large scale HPC systems, and an understanding of which is most appropriate in different situations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T16:17:15.965Z

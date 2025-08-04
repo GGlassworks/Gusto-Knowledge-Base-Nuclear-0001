@@ -1,0 +1,12 @@
+# Grafana plugin for visualising vote based consensus mechanisms, and network P2P overlay networks
+
+**Authors:** Daniil Baldouski, Aleksandar Tošić
+
+## Summary
+In this paper, we present a plugin for visualising vote based consensus mechanisms primarily aimed to help engineers understand and debug blockchain and distributed ledger protocols. Both tools are built as Grafana plugins and make no assumptions on the data storage implementation. The plugins can be configured via Grafana plugin configuration interface to fit the specifics of the protocol implementation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T16:02:03.275Z

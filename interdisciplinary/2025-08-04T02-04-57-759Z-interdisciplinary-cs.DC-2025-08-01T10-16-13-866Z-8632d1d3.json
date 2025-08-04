@@ -1,0 +1,12 @@
+# High fusion computers: The IoTs, edges, data centers, and humans-in-the-loop as a computer
+
+**Authors:** Wanling Gao, Lei Wang, Mingyu Chen, Jin Xiong, Chunjie Luo, Wenli Zhang, Yunyou Huang, Weiping Li, Guoxin Kang, Chen Zheng, Biwei Xie, Shaopeng Dai, Qian He, Hainan Ye, Yungang Bao, Jianfeng Zhan
+
+## Summary
+Emerging and future applications rely heavily upon systems consisting of Internet of Things (IoT), edges, data centers, and humans-in-the-loop. Significantly different from warehouse-scale computers that serve independent concurrent user requests, this new class of computer systems directly interacts with the physical world, considering humans an essential part and performing safety-critical and mission-critical operations; their computations have intertwined dependencies between not only adjacent execution loops but also actions or decisions triggered by IoTs, edge, datacenters, or humans-in-the-loop; the systems must first satisfy the accuracy metric in predicting, interpreting, or taking action before meeting the performance goal under different cases. This article argues we need a paradigm shift to reconstruct the IoTs, edges, data centers, and humans-in-the-loop as a computer rather than a distributed system. We coin a new term, high fusion computers (HFCs), to describe this class of systems. The fusion in the term has two implications: fusing IoTs, edges, data centers, and humans-in-the-loop as a computer, fusing the physical and digital worlds through HFC systems. HFC is a pivotal case of the open-source computer systems initiative. We laid out the challenges, plan, and call for uniting our community's wisdom and actions to address the HFC challenges. Everything, including the source code, will be publicly available from the project homepage: https://www.computercouncil.org/HFC/.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T10:16:13.866Z

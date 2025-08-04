@@ -1,0 +1,12 @@
+# A GPU Implementation for Two-Dimensional Shallow Water Modeling
+
+**Authors:** Kerry A. Seitz Jr., Alex Kennedy, Owen Ransom, Bassam A. Younis, John D. Owens
+
+## Summary
+In this paper, we present a GPU implementation of a two-dimensional shallow water model. Water simulations are useful for modeling floods, river/reservoir behavior, and dam break scenarios. Our GPU implementation shows vast performance improvements over the original Fortran implementation. By taking advantage of the GPU, researchers and engineers will be able to study water systems more efficiently and in greater detail.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T15:47:06.465Z

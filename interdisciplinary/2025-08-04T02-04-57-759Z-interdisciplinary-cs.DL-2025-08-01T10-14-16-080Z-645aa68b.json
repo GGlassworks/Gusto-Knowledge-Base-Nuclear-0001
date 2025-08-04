@@ -1,0 +1,12 @@
+# A Workflow for GLAM Metadata Crosswalk
+
+**Authors:** Arianna Moretti, Ivan Heibi, Silvio Peroni
+
+## Summary
+The acquisition of physical artifacts not only involves transferring existing information into the digital ecosystem but also generates information as a process itself, underscoring the importance of meticulous management of FAIR data and metadata. In addition, the diversity of objects within the cultural heritage domain is reflected in a multitude of descriptive models. The digitization process expands the opportunities for exchange and joint utilization, granted that the descriptive schemas are made interoperable in advance. To achieve this goal, we propose a replicable workflow for metadata schema crosswalks that facilitates the preservation and accessibility of cultural heritage in the digital ecosystem. This work presents a methodology for metadata generation and management in the case study of the digital twin of the temporary exhibition "The Other Renaissance - Ulisse Aldrovandi and the Wonders of the World". The workflow delineates a systematic, step-by-step transformation of tabular data into RDF format, to enhance Linked Open Data. The methodology adopts the RDF Mapping Language (RML) technology for converting data to RDF with a human contribution involvement. This last aspect entails an interaction between digital humanists and domain experts through surveys leading to the abstraction and reformulation of domain-specific knowledge, to be exploited in the process of formalizing and converting information.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:16.080Z

@@ -1,0 +1,12 @@
+# A Formalism and Library for Database Visualization
+
+**Authors:** Eugene Wu, Xiang Yu Tuang, Antonio Li, Vareesh Bainwala
+
+## Summary
+Existing data visualization formalisms are restricted to single-table inputs, which makes existing visualization grammars like Vega-lite or ggplot2 tedious to use, have overly complex APIs, and unsound when visualization multi-table data. This paper presents the first visualization formalism to support databases as input -- in other words, *database visualization*. A visualization specification is defined as a mapping from database constraints (e.g., schemas, types, foreign keys) to visual representations of those constraints, and we state that a visualization is *faithful* if it visually preserves the underlying database constraints. This formalism explains how visualization designs are the result of implicit data modeling decisions. We further develop a javascript library called dvl and use a series of case studies to show its expressiveness over specialized visualization systems and existing grammar-based languages.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:49:03.282Z

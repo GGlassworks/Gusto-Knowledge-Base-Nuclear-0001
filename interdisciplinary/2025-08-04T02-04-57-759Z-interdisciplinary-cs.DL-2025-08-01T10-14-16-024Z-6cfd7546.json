@@ -1,0 +1,12 @@
+# Representing provenance and track changes of cultural heritage metadata in RDF: a survey of existing approaches
+
+**Authors:** Arcangelo Massari, Silvio Peroni, Francesca Tomasi, Ivan Heibi
+
+## Summary
+In the realm of Digital Humanities, the management of cultural heritage metadata is pivotal for ensuring data trustworthiness. Provenance information - contextual metadata detailing the origin and history of data - plays a crucial role in this process. However, tracking provenance and changes in metadata using the Resource Description Framework (RDF) presents significant challenges due to the limitations of foundational Semantic Web technologies. This article offers a comprehensive review of existing models and approaches for representing provenance and tracking changes in RDF, with a specific focus on cultural heritage metadata. It examines W3C standard proposals such as RDF Reification and n-ary relations, along with various alternative systems. Through an in-depth analysis, the study identifies Named Graphs, RDF*, the Provenance Ontology (PROV-O), Dublin Core (DC), Conjectural Graphs, and the OpenCitations Data Model (OCDM) as the most effective solutions. These models are evaluated based on their compliance with RDF standards, scalability, and applicability across different domains. The findings underscore the importance of selecting the appropriate model to ensure robust and reliable management of provenance in RDF datasets, thereby contributing to the ongoing discourse on provenance representation in the Digital Humanities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:16.024Z

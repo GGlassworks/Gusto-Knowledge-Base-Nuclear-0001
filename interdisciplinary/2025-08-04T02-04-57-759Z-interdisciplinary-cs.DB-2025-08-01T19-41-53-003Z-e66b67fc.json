@@ -1,0 +1,12 @@
+# Database Theory + X: Database Visualization
+
+**Authors:** Eugene Wu
+
+## Summary
+We draw a connection between data modeling and visualization, namely that a visualization specification defines a mapping from database constraints to visual representations of those constraints. Using this formalism, we show how many visualization design decisions are, in fact, data modeling choices and extend data visualization from single-dataset visualizations to database visualization
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:41:53.004Z

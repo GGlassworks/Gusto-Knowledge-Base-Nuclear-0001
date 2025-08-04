@@ -1,0 +1,12 @@
+# A Creativity Survey of Parallel Sorting Algorithm
+
+**Authors:** Tianyi Yu, Wei Li
+
+## Summary
+Sorting is one of the most fundamental problems in the field of computer science. With the rapid development of manycore processors, it shows great importance to design efficient parallel sort algorithm on manycore architecture. This paper studies the parallel memory sorting method on modern hardware, and summarizes its research status and progress. Classify the research problems, research methods and measurement methods of the target papers and references. In the end, we summarize all the researches and list the directions not researched and innovative places. Keywords: Sorting Algorithm, Parallel Algorithm, Parallel Optimization, CPU, GPU, Memory Hierarchy
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T21:14:52.744Z

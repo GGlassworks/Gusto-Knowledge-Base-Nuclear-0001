@@ -1,0 +1,12 @@
+# KGMM -- A Maturity Model for Scholarly Knowledge Graphs based on Intertwined Human-Machine Collaboration
+
+**Authors:** Hassan Hussein, Allard Oelen, Oliver Karras, Sören Auer
+
+## Summary
+Knowledge Graphs (KG) have gained increasing importance in science, business and society in the last years. However, most knowledge graphs were either extracted or compiled from existing sources. There are only relatively few examples where knowledge graphs were genuinely created by an intertwined human-machine collaboration. Also, since the quality of data and knowledge graphs is of paramount importance, a number of data quality assessment models have been proposed. However, they do not take the specific aspects of intertwined human-machine curated knowledge graphs into account. In this work, we propose a graded maturity model for scholarly knowledge graphs (KGMM), which specifically focuses on aspects related to the joint, evolutionary curation of knowledge graphs for digital libraries. Our model comprises 5 maturity stages with 20 quality measures. We demonstrate the implementation of our model in a large scale scholarly knowledge graph curation effort.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:16.320Z

@@ -1,0 +1,12 @@
+# METL: a modern ETL pipeline with a dynamic mapping matrix
+
+**Authors:** Christian Haase, Timo Röseler, Mattias Seidel
+
+## Summary
+Modern ETL streaming pipelines extract data from various sources and forward it to multiple consumers, such as data warehouses (DW) and analytical systems that leverage machine learning (ML). However, the increasing number of systems that are connected to such pipelines requires new solutions for data integration. The canonical (or common) data model (CDM) offers such an integration. It is particular useful for integrating microservice systems into ETL pipelines. (Villaca et al 2020, Oliveira et al 2019) However, a mapping to a CDM is complex. (Lemcke et al 2012) There are three complexity problems, namely the size of the required mapping matrix, the automation of updates of the matrix in response to changes in the extraction sources and the time efficiency of the mapping. In this paper, we present a new solution for these problems. More precisely, we present a new dynamic mapping matrix (DMM), which is based on permutation matrices that are obtained by block-partitioning the full mapping matrix. We show that the DMM can be used for automated updates in response to schema changes, for parallel computation in near real-time and for highly efficient compacting. For the solution, we draw on research into matrix partitioning (Quinn 2004) and dynamic networks (Haase et al 2021). The DMM has been implemented into an app called Message ETL (METL). METL is the key part of a new ETL streaming pipeline at EOS that conducts the transformation to a CDM. The ETL pipeline is based on Kafka-streams. It extracts data from more than 80 microservices with log-based Change Data Capture (CDC) with Debezium and loads the data to a DW and an ML platform. EOS is part of the Otto-Group, the second-largest e-commerce provider in Europe.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T19:58:28.924Z

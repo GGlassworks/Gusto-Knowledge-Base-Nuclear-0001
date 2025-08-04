@@ -1,0 +1,12 @@
+# Requirements for a Digital Library System: A Case Study in Digital Humanities (Technical Report)
+
+**Authors:** Hermann Kroll, Christin K. Kreutz, Mathias Jehn, Thomas Risse
+
+## Summary
+Archives of libraries contain many materials, which have not yet been made available to the public. The prioritization of which content to provide and especially how to design effective access paths depend on potential users' needs. As a case study we interviewed researchers working on topics related to one German philosopher to map out their information interaction workflow. Additionally, we deeply analyze study participants' requirements for a digital library system. Moreover, we discuss how existing methods may meet their requirements and which implications these methods may have in a practical digital library setting, e.g., computational costs and hallucinations. In brief, this paper contributes the findings of our digital humanities case study resulting in system requirements.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:15.930Z

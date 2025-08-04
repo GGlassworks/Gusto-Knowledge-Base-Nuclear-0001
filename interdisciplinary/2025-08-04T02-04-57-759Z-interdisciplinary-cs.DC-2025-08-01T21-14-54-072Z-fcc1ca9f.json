@@ -1,0 +1,12 @@
+# Improving the Space-Time Efficiency of Processor-Oblivious Matrix Multiplication Algorithms
+
+**Authors:** Yuan Tang
+
+## Summary
+Classic cache-oblivious parallel matrix multiplication algorithms achieve optimality either in time or space, but not both, which promotes lots of research on the best possible balance or tradeoff of such algorithms. We study modern processor-oblivious runtime systems and figure out several ways to improve algorithm's time bound while still bounding space and cache requirements to be asymptotically optimal. By our study, we give out sublinear time, optimal work, space and cache algorithms for both general matrix multiplication on a semiring and Strassen-like fast algorithm. Our experiments also show such algorithms have empirical advantages over classic counterparts. Our study provides new insights and research angles on how to optimize cache-oblivious parallel algorithms from both theoretical and empirical perspectives.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T21:14:54.073Z

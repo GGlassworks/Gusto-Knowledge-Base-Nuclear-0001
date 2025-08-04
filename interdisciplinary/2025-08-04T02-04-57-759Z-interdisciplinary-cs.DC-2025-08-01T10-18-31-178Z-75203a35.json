@@ -1,0 +1,12 @@
+# Large-scale Data Modelling in Hive and Distributed Query Processing using MapReduce and Tez
+
+**Authors:** Abzetdin Adamov
+
+## Summary
+Huge amounts of data being generated continuously by digitally interconnected systems of humans, organizations and machines. Data comes in variety of formats including structured, unstructured and semi-structured, what makes it impossible to apply the same standard approaches, techniques and algorithms to manage and process this data. Fortunately, the enterprise level distributed platform named Hadoop Ecosystem exists. This paper explores Apache Hive component that provides full stack data managements functionality in terms of Data Definition, Data Manipulation and Data Processing. Hive is a data warehouse system, which works with structured data stored in tables. Since, Hive works on top the Hadoop HDSFS, it benefits from extraordinary feature of HDFS including Fault Tolerance, Reliability, High Availability, Scalability, etc. In addition, Hive can take advantage of distributed computing power of the cluster through assigning jobs to MapReduce, Tez and Spark engines to run complex queries. The paper is focused on studying of Hive Data Model and analysis of processing performance done by MapReduce and Tez.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T10:18:31.179Z

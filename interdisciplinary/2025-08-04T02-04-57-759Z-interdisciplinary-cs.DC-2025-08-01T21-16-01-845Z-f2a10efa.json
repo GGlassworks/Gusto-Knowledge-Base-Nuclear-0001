@@ -1,0 +1,12 @@
+# Engineering Massively Parallel MST Algorithms
+
+**Authors:** Peter Sanders, Matthias Schimek
+
+## Summary
+We develop and extensively evaluate highly scalable distributed-memory algorithms for computing minimum spanning trees (MSTs). At the heart of our solutions is a scalable variant of Boruvka's algorithm. For partitioned graphs with many local edges, we improve this with an effective form of contracting local parts of the graph during a preprocessing step. We also adapt the filtering concept of the best practical sequential algorithm to develop a massively parallel Filter-Boruvka algorithm that is very useful for graphs with poor locality and high average degree. Our experiments indicate that our algorithms scale well up to at least 65 536 cores and are up to 800 times faster than previous distributed MST algorithms.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T21:16:01.847Z

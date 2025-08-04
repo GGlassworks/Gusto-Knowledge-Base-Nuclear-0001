@@ -1,0 +1,12 @@
+# Towards Top-$K$ Non-Overlapping Sequential Patterns
+
+**Authors:** Zefeng Chen, Wensheng Gan, Gengsen Huang, Yan Li, Zhenlian Qi
+
+## Summary
+Sequential pattern mining (SPM) has excellent prospects and application spaces and has been widely used in different fields. The non-overlapping SPM, as one of the data mining techniques, has been used to discover patterns that have requirements for gap constraints in some specific mining tasks, such as bio-data mining. And for the non-overlapping sequential patterns with gap constraints, the Nettree structure has been proposed to efficiently compute the support of the patterns. For pattern mining, users usually need to consider the threshold of minimum support (\textit{minsup}). This is especially difficult in the case of large databases. Although some existing algorithms can mine the top-$k$ patterns, they are approximate algorithms with fixed lengths. In this paper, a precise algorithm for mining \underline{T}op-$k$ \underline{N}on-\underline{O}verlapping \underline{S}equential \underline{P}atterns (TNOSP) is proposed. The top-$k$ solution of SPM is an effective way to discover the most frequent non-overlapping sequential patterns without having to set the \textit{minsup}. As a novel pattern mining algorithm, TNOSP can precisely search the top-$k$ patterns of non-overlapping sequences with different gap constraints. We further propose a pruning strategy named \underline{Q}ueue \underline{M}eta \underline{S}et \underline{P}runing (QMSP) to improve TNOSP's performance. TNOSP can reduce redundancy in non-overlapping sequential mining and has better performance in mining precise non-overlapping sequential patterns. The experimental results and comparisons on several datasets have shown that TNOSP outperformed the existing algorithms in terms of precision, efficiency, and scalability.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:40:53.442Z

@@ -1,0 +1,12 @@
+# Metadata Enrichment of Long Text Documents using Large Language Models
+
+**Authors:** Manika Lamba, You Peng, Sophie Nikolov, Glen Layne-Worthey, J. Stephen Downie
+
+## Summary
+In this project, we semantically enriched and enhanced the metadata of long text documents, theses and dissertations, retrieved from the HathiTrust Digital Library in English published from 1920 to 2020 through a combination of manual efforts and large language models. This dataset provides a valuable resource for advancing research in areas such as computational social science, digital humanities, and information science. Our paper shows that enriching metadata using LLMs is particularly beneficial for digital repositories by introducing additional metadata access points that may not have originally been foreseen to accommodate various content types. This approach is particularly effective for repositories that have significant missing data in their existing metadata fields, enhancing search results and improving the accessibility of the digital repository.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:16.408Z

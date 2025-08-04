@@ -1,0 +1,12 @@
+# BigBird: Big Data Storage and Analytics at Scale in Hybrid Cloud
+
+**Authors:** Saurabh Deochake, Vrushali Channapattan, Gary Steelman
+
+## Summary
+Implementing big data storage at scale is a complex and arduous task that requires an advanced infrastructure. With the rise of public cloud computing, various big data management services can be readily leveraged. As a critical part of Twitter's "Project Partly Cloudy", the cold storage data and analytics systems are being moved to the public cloud. This paper showcases our approach in designing a scalable big data storage and analytics management framework using BigQuery in Google Cloud Platform while ensuring security, privacy, and data protection. The paper also discusses the limitations on the public cloud resources and how they can be effectively overcome when designing a big data storage and analytics solution at scale. Although the paper discusses the framework implementation in Google Cloud Platform, it can easily be applied to all major cloud providers.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T19:22:29.636Z

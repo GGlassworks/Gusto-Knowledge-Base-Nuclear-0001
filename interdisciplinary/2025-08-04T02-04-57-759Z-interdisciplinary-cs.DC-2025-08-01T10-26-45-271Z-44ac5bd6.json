@@ -1,0 +1,12 @@
+# Enabling Portability and Reusability of Open Science Infrastructures
+
+**Authors:** Giuseppe Grieco, Ivan Heibi, Arcangelo Massari, Arianna Moretti, Silvio Peroni
+
+## Summary
+This paper presents a methodology for designing a containerized and distributed open science infrastructure to simplify its reusability, replicability, and portability in different environments. The methodology is depicted in a step-by-step schema based on four main phases: (1) Analysis, (2) Design, (3) Definition, and (4) Managing and provisioning. We accompany the description of each step with existing technologies and concrete examples of application.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T10:26:45.272Z

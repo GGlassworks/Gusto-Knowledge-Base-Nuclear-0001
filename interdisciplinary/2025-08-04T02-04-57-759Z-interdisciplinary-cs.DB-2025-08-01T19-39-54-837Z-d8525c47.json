@@ -1,0 +1,12 @@
+# Group-Based Privacy Preservation Techniques for Process Mining
+
+**Authors:** Majid Rafiei, Wil M. P. van der Aalst
+
+## Summary
+Process mining techniques help to improve processes using event data. Such data are widely available in information systems. However, they often contain highly sensitive information. For example, healthcare information systems record event data that can be utilized by process mining techniques to improve the treatment process, reduce patient's waiting times, improve resource productivity, etc. However, the recorded event data include highly sensitive information related to treatment activities. Responsible process mining should provide insights about the underlying processes, yet, at the same time, it should not reveal sensitive information. In this paper, we discuss the challenges regarding directly applying existing well-known group-based privacy preservation techniques, e.g., k-anonymity, l-diversity, etc, to event data. We provide formal definitions of attack models and introduce an effective group-based privacy preservation technique for process mining. Our technique covers the main perspectives of process mining including control-flow, time, case, and organizational perspectives. The proposed technique provides interpretable and adjustable parameters to handle different privacy aspects. We employ real-life event data and evaluate both data utility and result utility to show the effectiveness of the privacy preservation technique. We also compare this approach with other group-based approaches for privacy-preserving event data publishing.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:39:54.838Z

@@ -1,0 +1,12 @@
+# Online and Real-time Object Tracking Algorithm with Extremely Small Matrices
+
+**Authors:** Jesmin Jahan Tithi, Sriram Aananthakrishnan, Fabrizio Petrini
+
+## Summary
+Online and Real-time Object Tracking is an interesting workload that can be used to track objects (e.g., car, human, animal) in a series of video sequences in real-time. For simple object tracking on edge devices, the output of object tracking could be as simple as drawing a bounding box around a detected object and in some cases, the input matrices used in such computation are quite small (e.g., 4x7, 3x3, 5x5, etc). As a result, the amount of actual work is low. Therefore, a typical multi-threading based parallelization technique can not accelerate the tracking application; instead, a throughput based parallelization technique where each thread operates on independent video sequences is more rewarding. In this paper, we share our experience in parallelizing a Simple Online and Real-time Tracking (SORT) application on shared-memory multicores.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T10:16:16.501Z

@@ -1,0 +1,12 @@
+# How centralized is decentralized? Comparison of wealth distribution in coins and tokens
+
+**Authors:** Bartosz Kuśmierz, Roman Overko
+
+## Summary
+Rapidly growing distributed ledger technologies (DLTs) have recently received attention among researchers in both industry and academia. While a lot of existing analysis (mainly) of the Bitcoin and Ethereum networks is available, the lack of measurements for other crypto projects is observed. This article addresses questions about tokenomics and wealth distributions in cryptocurrencies. We analyze the time-dependent statistical properties of top cryptocurrency holders for 14 different distributed ledger projects. The provided metrics include approximated Zipf coefficient, Shannon entropy, Gini coefficient, and Nakamoto coefficient. We show that there are quantitative differences between the coins (cryptocurrencies operating on their own independent network) and tokens (which operate on top of a smart contract platform). Presented results show that coins and tokens have different values of approximated Zipf coefficient and centralization levels. This work is relevant for DLTs as it might be useful in modeling and improving the committee selection process, especially in decentralized autonomous organizations (DAOs) and delegated proof of stake (DPoS) blockchains.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DC
+Collected: 2025-08-01T13:29:56.923Z
