@@ -1,0 +1,13 @@
+# Comparison of Phase-Shifting Transformers Properties
+
+**Authors:** Paweł Albrechtowicz, Bartosz Rozegnał, Piotr Cisek
+
+## Abstract
+<jats:p>This article presents different phase shifting transformers (PSTs) types and their influence on the transmitted active power and energy parameters. Typical PSTs, both symmetrical (SPST) and asymmetrical (APST), are compared to the asymmetrical controllable PST (ACPST). The ACPST allows for regulating both quadrature and longitudinal voltage, which makes this type interesting in practical applications and power flow optimizations. The collected data enable a direct comparison of these PSTs’ properties. APST allows high power transfer, but the voltage increase in some cases cannot be acceptable. SPST type in taken tests has the best properties concerning the transferred power, output voltage, and internal voltage drop. ACPST, in its primary mode, can be efficiently used as a substitute for the SPST. However, in some range of injected quadrature voltages, it can achieve even better properties than the SPST. The laboratory and simulation tests allow the development of the ACPST regulation to achieve the best properties among other PSTs, with the possibility to operate, e.g., on the constant ACPST output voltage, in quasi-symmetrical mode and any other, which may be needed in power systems.</jats:p>
+
+**Source:** https://doi.org/10.3390/en15176224
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T12:04:39.108Z

@@ -1,0 +1,13 @@
+# Development and Research of Power Electronic Converters for Adjustable Transformers
+
+**Authors:** Mārcis Priedītis
+
+## Abstract
+<jats:p>The Thesis is devoted to research of for injection transformer (IT) electronic control methods for IT which are based on high-frequency AC pulse regulation in electrical circuits with the purpose to change AC electrical parameters (amplitude, rms value, phase shift) in IT control circuits. As such pulse control methods of AC systems have been rarely studied, the work pays more attention to the in-depth study of these methods, developing both calculation methods based on the basic harmonic determination of modulated AC and AC and their effect on the electrical load circuit operating parameters. In this way unipolar, bipolar and interphase modulation systems using bi-directional electronic semiconductor switches have been studied. A calculation methodology for the LC filtering system of modulated voltage signals has been developed which is based on the above-mentioned basic harmonic influence method. The transmission of such modulated regulatory influence signals through the IT system and the possibilities to provide an extended influence on the possibility of changes in IT load parameters are also considered. The paper discusses the possibilities to create new modulation-based electronic control and conversion systems for various AC applications, such as single-phase-two-phase and single-phase-three-phase voltage splitting systems. All the proposed technical solutions have been tested with computer models, and the results agree well with the theoretical calculations, which allows us to consider that the technical proposals are applicable in practice.</jats:p>
+
+**Source:** https://doi.org/10.7250/9789934226151
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T12:01:50.119Z

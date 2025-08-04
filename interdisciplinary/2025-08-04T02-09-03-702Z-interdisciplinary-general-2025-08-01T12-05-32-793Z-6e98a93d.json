@@ -1,0 +1,13 @@
+# Fundamentals of GANs
+
+**Authors:** Manjushree Nayak, Subhakanta Panda
+
+## Abstract
+<jats:p>In 2014, Ian Goodfellow and colleagues introduced Generative Adversarial Networks (GANs), transforming AI by enabling the creation of highly realistic synthetic data, including text, music, and images. GANs consist of two neural networks: the generator, which creates data samples starting from random noise and improves them iteratively, and the discriminator, which distinguishes between real and generated data, providing feedback to enhance the generator's realism. This adversarial process drives both networks to improve until the generator produces high-quality synthetic data. GANs excel in representing complex data distributions without explicit probabilistic models, ideal for tasks like image generation. However, GAN training is challenging, with issues like training instability and mode collapse. Researchers have developed strategies like regularization techniques and architectural adjustments to address these problems. Despite challenges, GANs are widely used in computer vision, natural language processing, music creation, drug discovery, and privacy preservation.</jats:p>
+
+**Source:** https://doi.org/10.4018/979-8-3693-7152-7.ch007
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T12:05:32.793Z
