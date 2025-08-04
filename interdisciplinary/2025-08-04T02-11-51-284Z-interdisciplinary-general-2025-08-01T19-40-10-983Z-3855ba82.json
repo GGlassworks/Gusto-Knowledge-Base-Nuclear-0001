@@ -1,0 +1,13 @@
+# Privacy Preserving Data Mining, Concepts, Techniques, and Evaluation Methodologies
+
+**Authors:** Igor Nai Fovino
+
+## Abstract
+<jats:p>Intense work in the area of data mining technology and in its applications to several domains has resulted in the development of a large variety of techniques and tools able to automatically and intelligently transform large amounts of data in knowledge relevant to users. However, as with other kinds of useful technologies, the knowledge discovery process can be misused. It can be used, for example, by malicious subjects in order to reconstruct sensitive information for which they do not have an explicit access authorization. This type of “attack” cannot easily be detected, because, usually, the data used to guess the protected information, is freely accessible. For this reason, many research efforts have been recently devoted to addressing the problem of privacy preserving in data mining. The mission of this chapter is therefore to introduce the reader in this new research field and to provide the proper instruments (in term of concepts, techniques and example) in order to allow a critical comprehension of the advantages, the limitations and the open issues of the Privacy Preserving Data Mining Techniques.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59904-645-7.ch012
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:40:10.983Z

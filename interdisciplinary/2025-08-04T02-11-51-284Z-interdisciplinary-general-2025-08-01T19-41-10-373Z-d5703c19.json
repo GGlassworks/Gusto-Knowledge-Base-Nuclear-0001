@@ -1,0 +1,13 @@
+# Pattern Comparison in Data Mining
+
+**Authors:** Irene Ntoutsi, Nikos Pelekis, Yannis Theodoridis
+
+## Abstract
+<jats:p>Many patterns are available nowadays due to the widespread use of knowledge discovery in databases (KDD), as a result of the overwhelming amount of data. This “flood” of patterns imposes new challenges regarding their management. Pattern comparison, which aims at evaluating how close to each other two patterns are, is one of these challenges resulting in a variety of applications. In this chapter we investigate issues regarding the pattern comparison problem and present an overview of the work performed so far in this domain. Due to heterogeneity of data mining patterns, we focus on the most popular pattern types, namely frequent itemsets and association rules, clusters and clusterings, and decision trees. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59904-951-9.ch017
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:41:10.373Z

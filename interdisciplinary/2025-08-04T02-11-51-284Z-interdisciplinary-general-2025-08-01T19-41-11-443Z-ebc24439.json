@@ -1,0 +1,13 @@
+# Comparison of Linguistic Summaries and Fuzzy Functional Dependencies Related to Data Mining
+
+**Authors:** Miroslav Hudec, Miljan Vučetić, Mirko Vujošević
+
+## Abstract
+<jats:p>Data mining methods based on fuzzy logic have been developed recently and have become an increasingly important research area. In this chapter, the authors examine possibilities for discovering potentially useful knowledge from relational database by integrating fuzzy functional dependencies and linguistic summaries. Both methods use fuzzy logic tools for data analysis, acquiring, and representation of expert knowledge. Fuzzy functional dependencies could detect whether dependency between two examined attributes in the whole database exists. If dependency exists only between parts of examined attributes' domains, fuzzy functional dependencies cannot detect its characters. Linguistic summaries are a convenient method for revealing this kind of dependency. Using fuzzy functional dependencies and linguistic summaries in a complementary way could mine valuable information from relational databases. Mining intensities of dependencies between database attributes could support decision making, reduce the number of attributes in databases, and estimate missing values. The proposed approach is evaluated with case studies using real data from the official statistics. Strengths and weaknesses of the described methods are discussed. At the end of the chapter, topics for further research activities are outlined.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-4666-6078-6.ch008
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:41:11.444Z

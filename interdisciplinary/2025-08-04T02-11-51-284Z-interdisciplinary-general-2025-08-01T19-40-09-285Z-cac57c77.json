@@ -1,0 +1,13 @@
+# Evaluation of Data Mining Methods
+
+**Authors:** Paolo Giudici
+
+## Abstract
+<jats:p>Several classes of computational and statistical methods for data mining are available. Each class can be parameterised so that models within the class differ in terms of such parameters (see, for instance, Giudici, 2003; Hastie et al., 2001; Han &amp; Kamber, 2000; Hand et al., 2001; Witten &amp; Frank, 1999): for example, the class of linear regression models, which differ in the number of explanatory variables; the class of Bayesian networks, which differ in the number of conditional dependencies (links in the graph); the class of tree models, which differ in the number of leaves; and the class multi-layer perceptrons, which differ in terms of the number of hidden strata and nodes. Once a class of models has been established the problem is to choose the “best” model from it. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59140-557-3.ch088
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:40:09.286Z

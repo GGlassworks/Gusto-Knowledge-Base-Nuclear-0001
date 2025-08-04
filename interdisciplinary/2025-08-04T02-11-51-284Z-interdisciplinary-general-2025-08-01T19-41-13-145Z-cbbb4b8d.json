@@ -1,0 +1,13 @@
+# Data Mining Classification Comparison (Naïve Bayes and C4.5 Algorithms)
+
+**Authors:** Andysah Putera Utama Siahaan
+
+## Abstract
+<p>The development of data miningis inseparable from the recent developments in information technology that enables the accumulation of large amounts of data. For example, a shopping mall that records every sales transaction of goods using various POS (point of sales). Database data from these sales could reach a large storage capacity, even more being added each day, especially when the shopping center will develop into a nationwide network. The development of the internet at the moment also has a share large enough in the accumulation of data occurs. But the rapid growth of data accumulation it has created conditions that are often referred to as "data rich but information poor" because the data collected cannot be used optimally for useful applications. Not infrequently the data set was left just seemed to be a "grave data". There are several techniques used in data mining which includes association, classification, and clustering. In this paper, the author will do a comparison between the performance of the technical classification methods naïve Bayes and C4.5 algorithms.</p>
+
+**Source:** https://doi.org/10.31227/osf.io/8hc6v
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:41:13.146Z
