@@ -1,0 +1,12 @@
+# Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation
+
+**Authors:** Yihan Wu, Brandon Y. Feng, Heng Huang
+
+## Summary
+In this paper, we introduce an innovative method of safeguarding user privacy against the generative capabilities of Neural Radiance Fields (NeRF) models. Our novel poisoning attack method induces changes to observed views that are imperceptible to the human eye, yet potent enough to disrupt NeRF's ability to accurately reconstruct a 3D scene. To achieve this, we devise a bi-level optimization algorithm incorporating a Projected Gradient Descent (PGD)-based spatial deformation. We extensively test our approach on two common NeRF benchmark datasets consisting of 29 real-world scenes with high-quality images. Our results compellingly demonstrate that our privacy-preserving method significantly impairs NeRF's performance across these benchmark datasets. Additionally, we show that our method is adaptable and versatile, functioning across various perturbation strengths and NeRF architectures. This work offers valuable insights into NeRF's vulnerabilities and emphasizes the need to account for such potential privacy risks when developing robust 3D scene reconstruction algorithms. Our study contributes to the larger conversation surrounding responsible AI and generative machine learning, aiming to protect user privacy and respect creative ownership in the digital age.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:26.623Z

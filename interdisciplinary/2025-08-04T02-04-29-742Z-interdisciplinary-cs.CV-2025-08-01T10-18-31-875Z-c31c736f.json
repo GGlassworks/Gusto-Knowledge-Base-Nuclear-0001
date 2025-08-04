@@ -1,0 +1,12 @@
+# Vision-Cloud Data Fusion for ADAS: A Lane Change Prediction Case Study
+
+**Authors:** Yongkang Liu, Ziran Wang, Kyungtae Han, Zhenyu Shou, Prashant Tiwari, John H. L. Hansen
+
+## Summary
+With the rapid development of intelligent vehicles and Advanced Driver-Assistance Systems (ADAS), a new trend is that mixed levels of human driver engagements will be involved in the transportation system. Therefore, necessary visual guidance for drivers is vitally important under this situation to prevent potential risks. To advance the development of visual guidance systems, we introduce a novel vision-cloud data fusion methodology, integrating camera image and Digital Twin information from the cloud to help intelligent vehicles make better decisions. Target vehicle bounding box is drawn and matched with the help of the object detector (running on the ego-vehicle) and position information (received from the cloud). The best matching result, a 79.2% accuracy under 0.7 intersection over union threshold, is obtained with depth images served as an additional feature source. A case study on lane change prediction is conducted to show the effectiveness of the proposed data fusion methodology. In the case study, a multi-layer perceptron algorithm is proposed with modified lane change prediction approaches. Human-in-the-loop simulation results obtained from the Unity game engine reveal that the proposed model can improve highway driving performance significantly in terms of safety, comfort, and environmental sustainability.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:31.875Z

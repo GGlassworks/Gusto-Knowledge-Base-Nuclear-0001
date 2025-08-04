@@ -1,0 +1,12 @@
+# Finetuning Vision-Language Models as OCR Systems for Low-Resource Languages: A Case Study of Manchu
+
+**Authors:** Yan Hon Michael Chung, Donghyeok Choi
+
+## Summary
+Manchu, a critically endangered language essential for understanding early modern Eastern Eurasian history, lacks effective OCR systems that can handle real-world historical documents. This study develops high-performing OCR systems by fine-tuning three open-source vision-language models (LLaMA-3.2-11B, Qwen2.5-VL-7B, Qwen2.5-VL-3B) on 60,000 synthetic Manchu word images using parameter-efficient training. LLaMA-3.2-11B achieved exceptional performance with 98.3\% word accuracy and 0.0024 character error rate on synthetic data, while crucially maintaining 93.1\% accuracy on real-world handwritten documents. Comparative evaluation reveals substantial advantages over traditional approaches: while a CRNN baseline achieved 99.8\% synthetic accuracy, it suffered severe degradation to 72.5\% on real documents. Our approach demonstrates effective synthetic-to-real domain transfer, providing a cost-effective solution deployable on accessible infrastructure. This work establishes a transferable framework for endangered language OCR that removes technical and financial barriers in digital humanities, enabling historians and linguists to process historical archives without specialized computing resources. Code and model weights are available at https://github.com/mic7ch1/ManchuAI-OCR.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:12.224Z

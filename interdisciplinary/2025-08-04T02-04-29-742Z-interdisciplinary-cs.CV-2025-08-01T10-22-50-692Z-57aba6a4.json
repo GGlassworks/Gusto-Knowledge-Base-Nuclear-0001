@@ -1,0 +1,12 @@
+# 3DBooSTeR: 3D Body Shape and Texture Recovery
+
+**Authors:** Alexandre Saint, Anis Kacem, Kseniya Cherenkova, Djamila Aouada
+
+## Summary
+We propose 3DBooSTeR, a novel method to recover a textured 3D body mesh from a textured partial 3D scan. With the advent of virtual and augmented reality, there is a demand for creating realistic and high-fidelity digital 3D human representations. However, 3D scanning systems can only capture the 3D human body shape up to some level of defects due to its complexity, including occlusion between body parts, varying levels of details, shape deformations and the articulated skeleton. Textured 3D mesh completion is thus important to enhance 3D acquisitions. The proposed approach decouples the shape and texture completion into two sequential tasks. The shape is recovered by an encoder-decoder network deforming a template body mesh. The texture is subsequently obtained by projecting the partial texture onto the template mesh before inpainting the corresponding texture map with a novel approach. The approach is validated on the 3DBodyTex.v2 dataset.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:22:50.692Z

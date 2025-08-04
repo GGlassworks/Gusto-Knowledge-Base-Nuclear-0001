@@ -1,0 +1,12 @@
+# PIFu for the Real World: A Self-supervised Framework to Reconstruct Dressed Human from Single-view Images
+
+**Authors:** Zhangyang Xiong, Dong Du, Yushuang Wu, Jingqi Dong, Di Kang, Linchao Bao, Xiaoguang Han
+
+## Summary
+It is very challenging to accurately reconstruct sophisticated human geometry caused by various poses and garments from a single image. Recently, works based on pixel-aligned implicit function (PIFu) have made a big step and achieved state-of-the-art fidelity on image-based 3D human digitization. However, the training of PIFu relies heavily on expensive and limited 3D ground truth data (i.e. synthetic data), thus hindering its generalization to more diverse real world images. In this work, we propose an end-to-end self-supervised network named SelfPIFu to utilize abundant and diverse in-the-wild images, resulting in largely improved reconstructions when tested on unconstrained in-the-wild images. At the core of SelfPIFu is the depth-guided volume-/surface-aware signed distance fields (SDF) learning, which enables self-supervised learning of a PIFu without access to GT mesh. The whole framework consists of a normal estimator, a depth estimator, and a SDF-based PIFu and better utilizes extra depth GT during training. Extensive experiments demonstrate the effectiveness of our self-supervised framework and the superiority of using depth as input. On synthetic data, our Intersection-Over-Union (IoU) achieves to 93.5%, 18% higher compared with PIFuHD. For in-the-wild images, we conduct user studies on the reconstructed results, the selection rate of our results is over 68% compared with other state-of-the-art methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:00.534Z

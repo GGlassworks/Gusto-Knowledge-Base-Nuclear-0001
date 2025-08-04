@@ -1,0 +1,12 @@
+# Two-stage Synthetic Supervising and Multi-view Consistency Self-supervising based Animal 3D Reconstruction by Single Image
+
+**Authors:** Zijian Kuang, Lihang Ying, Shi Jin, Li Cheng
+
+## Summary
+Pixel-aligned Implicit Function (PIFu) effectively captures subtle variations in body shape within a low-dimensional space through extensive training with human 3D scans, its application to live animals presents formidable challenges due to the difficulty of obtaining animal cooperation for 3D scanning. To address this challenge, we propose the combination of two-stage supervised and self-supervised training to address the challenge of obtaining animal cooperation for 3D scanning. In the first stage, we leverage synthetic animal models for supervised learning. This allows the model to learn from a diverse set of virtual animal instances. In the second stage, we use 2D multi-view consistency as a self-supervised training method. This further enhances the model's ability to reconstruct accurate and realistic 3D shape and texture from largely available single-view images of real animals. The results of our study demonstrate that our approach outperforms state-of-the-art methods in both quantitative and qualitative aspects of bird 3D digitization. The source code is available at https://github.com/kuangzijian/drifu-for-animals.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:23.971Z

@@ -1,0 +1,12 @@
+# Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image Attacking
+
+**Authors:** Qianyu Guo, Jiaming Fu, Yawen Lu, Dongming Gan
+
+## Summary
+In Virtual Reality (VR), adversarial attack remains a significant security threat. Most deep learning-based methods for physical and digital adversarial attacks focus on enhancing attack performance by crafting adversarial examples that contain large printable distortions that are easy for human observers to identify. However, attackers rarely impose limitations on the naturalness and comfort of the appearance of the generated attack image, resulting in a noticeable and unnatural attack. To address this challenge, we propose a framework to incorporate style transfer to craft adversarial inputs of natural styles that exhibit minimal detectability and maximum natural appearance, while maintaining superior attack capabilities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:20:59.445Z

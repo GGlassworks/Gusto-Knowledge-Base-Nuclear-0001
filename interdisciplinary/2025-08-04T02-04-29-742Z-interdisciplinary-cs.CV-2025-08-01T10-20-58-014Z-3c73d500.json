@@ -1,0 +1,12 @@
+# Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment
+
+**Authors:** Jesudara Omidokun, Darlington Egeonu, Bochen Jia, Liang Yang
+
+## Summary
+This study presents an innovative computer vision framework designed to analyze human movements in industrial settings, aiming to enhance biomechanical analysis by integrating seamlessly with existing software. Through a combination of advanced imaging and modeling techniques, the framework allows for comprehensive scrutiny of human motion, providing valuable insights into kinematic patterns and kinetic data. Utilizing Convolutional Neural Networks (CNNs), Direct Linear Transform (DLT), and Long Short-Term Memory (LSTM) networks, the methodology accurately detects key body points, reconstructs 3D landmarks, and generates detailed 3D body meshes. Extensive evaluations across various movements validate the framework's effectiveness, demonstrating comparable results to traditional marker-based models with minor differences in joint angle estimations and precise estimations of weight and height. Statistical analyses consistently support the framework's reliability, with joint angle estimations showing less than a 5-degree difference for hip flexion, elbow flexion, and knee angle methods. Additionally, weight estimation exhibits an average error of less than 6 % for weight and less than 2 % for height when compared to ground-truth values from 10 subjects. The integration of the Biomech-57 landmark skeleton template further enhances the robustness and reinforces the framework's credibility. This framework shows significant promise for meticulous biomechanical analysis in industrial contexts, eliminating the need for cumbersome markers and extending its utility to diverse research domains, including the study of specific exoskeleton devices' impact on facilitating the prompt return of injured workers to their tasks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:20:58.014Z

@@ -1,0 +1,12 @@
+# Semi-Supervised Image-Based Narrative Extraction: A Case Study with Historical Photographic Records
+
+**Authors:** Fausto German, Brian Keith, Mauricio Matus, Diego Urrutia, Claudio Meneses
+
+## Summary
+This paper presents a semi-supervised approach to extracting narratives from historical photographic records using an adaptation of the narrative maps algorithm. We extend the original unsupervised text-based method to work with image data, leveraging deep learning techniques for visual feature extraction and similarity computation. Our method is applied to the ROGER dataset, a collection of photographs from the 1928 Sacambaya Expedition in Bolivia captured by Robert Gerstmann. We compare our algorithmically extracted visual narratives with expert-curated timelines of varying lengths (5 to 30 images) to evaluate the effectiveness of our approach. In particular, we use the Dynamic Time Warping (DTW) algorithm to match the extracted narratives with the expert-curated baseline. In addition, we asked an expert on the topic to qualitatively evaluate a representative example of the resulting narratives. Our findings show that the narrative maps approach generally outperforms random sampling for longer timelines (10+ images, p &lt; 0.05), with expert evaluation confirming the historical accuracy and coherence of the extracted narratives. This research contributes to the field of computational analysis of visual cultural heritage, offering new tools for historians, archivists, and digital humanities scholars to explore and understand large-scale image collections. The method's ability to generate meaningful narratives from visual data opens up new possibilities for the study and interpretation of historical events through photographic evidence.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:32.467Z

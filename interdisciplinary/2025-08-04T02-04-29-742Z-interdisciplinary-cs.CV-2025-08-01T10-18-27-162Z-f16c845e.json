@@ -1,0 +1,12 @@
+# Visually Imperceptible Adversarial Patch Attacks on Digital Images
+
+**Authors:** Yaguan Qian, Jiamin Wang, Bin Wang, Shaoning Zeng, Zhaoquan Gu, Shouling Ji, Wassim Swaileh
+
+## Summary
+The vulnerability of deep neural networks (DNNs) to adversarial examples has attracted more attention. Many algorithms have been proposed to craft powerful adversarial examples. However, most of these algorithms modified the global or local region of pixels without taking network explanations into account. Hence, the perturbations are redundant, which are easily detected by human eyes. In this paper, we propose a novel method to generate local region perturbations. The main idea is to find a contributing feature region (CFR) of an image by simulating the human attention mechanism and then add perturbations to CFR. Furthermore, a soft mask matrix is designed on the basis of an activation map to finely represent the contributions of each pixel in CFR. With this soft mask, we develop a new loss function with inverse temperature to search for optimal perturbations in CFR. Due to the network explanations, the perturbations added to CFR are more effective than those added to other regions. Extensive experiments conducted on CIFAR-10 and ILSVRC2012 demonstrate the effectiveness of the proposed method, including attack success rate, imperceptibility, and transferability.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:27.162Z

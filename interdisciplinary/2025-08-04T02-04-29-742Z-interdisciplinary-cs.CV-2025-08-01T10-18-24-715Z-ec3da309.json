@@ -1,0 +1,12 @@
+# Probabilistic Oriented Object Detection in Automotive Radar
+
+**Authors:** Xu Dong, Pengluo Wang, Pengyue Zhang, Langechuan Liu
+
+## Summary
+Autonomous radar has been an integral part of advanced driver assistance systems due to its robustness to adverse weather and various lighting conditions. Conventional automotive radars use digital signal processing (DSP) algorithms to process raw data into sparse radar pins that do not provide information regarding the size and orientation of the objects. In this paper, we propose a deep-learning based algorithm for radar object detection. The algorithm takes in radar data in its raw tensor representation and places probabilistic oriented bounding boxes around the detected objects in bird's-eye-view space. We created a new multimodal dataset with 102544 frames of raw radar and synchronized LiDAR data. To reduce human annotation effort we developed a scalable pipeline to automatically annotate ground truth using LiDAR as reference. Based on this dataset we developed a vehicle detection pipeline using raw radar data as the only input. Our best performing radar detection model achieves 77.28\% AP under oriented IoU of 0.3. To the best of our knowledge, this is the first attempt to investigate object detection with raw radar data for conventional corner automotive radars.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:24.715Z

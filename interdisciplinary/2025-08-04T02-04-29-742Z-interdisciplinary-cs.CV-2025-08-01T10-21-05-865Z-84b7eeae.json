@@ -1,0 +1,12 @@
+# Shape2Animal: Creative Animal Generation from Natural Silhouettes
+
+**Authors:** Quoc-Duy Tran, Anh-Tuan Vo, Dinh-Khoi Vo, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le
+
+## Summary
+Humans possess a unique ability to perceive meaningful patterns in ambiguous stimuli, a cognitive phenomenon known as pareidolia. This paper introduces Shape2Animal framework to mimics this imaginative capacity by reinterpreting natural object silhouettes, such as clouds, stones, or flames, as plausible animal forms. Our automated framework first performs open-vocabulary segmentation to extract object silhouette and interprets semantically appropriate animal concepts using vision-language models. It then synthesizes an animal image that conforms to the input shape, leveraging text-to-image diffusion model and seamlessly blends it into the original scene to generate visually coherent and spatially consistent compositions. We evaluated Shape2Animal on a diverse set of real-world inputs, demonstrating its robustness and creative potential. Our Shape2Animal can offer new opportunities for visual storytelling, educational content, digital art, and interactive media design. Our project page is here: https://shape2image.github.io
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:05.866Z

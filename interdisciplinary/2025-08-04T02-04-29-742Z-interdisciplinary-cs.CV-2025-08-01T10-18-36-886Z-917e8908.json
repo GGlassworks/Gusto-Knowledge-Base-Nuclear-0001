@@ -1,0 +1,12 @@
+# Effective persistent homology of digital images
+
+**Authors:** Ana Romero, Julio Rubio, Francis Sergeraert
+
+## Summary
+In this paper, three Computational Topology methods (namely effective homology, persistent homology and discrete vector fields) are mixed together to produce algorithms for homological digital image processing. The algorithms have been implemented as extensions of the Kenzo system and have shown a good performance when applied on some actual images extracted from a public dataset.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:36.886Z

@@ -1,0 +1,12 @@
+# A New GNG Graph-Based Hand Gesture Recognition Approach
+
+**Authors:** Narges Mirehi, Maryam Tahmasbi
+
+## Summary
+Hand Gesture Recognition (HGR) is of major importance for Human-Computer Interaction (HCI) applications. In this paper, we present a new hand gesture recognition approach called GNG-IEMD. In this approach, first, we use a Growing Neural Gas (GNG) graph to model the image. Then we extract features from this graph. These features are not geometric or pixel-based, so do not depend on scale, rotation, and articulation. The dissimilarity between hand gestures is measured with a novel Improved Earth Mover\textquotesingle s Distance (IEMD) metric. We evaluate the performance of the proposed approach on challenging public datasets including NTU Hand Digits, HKU, HKU multi-angle, and UESTC-ASL and compare the results with state-of-the-art approaches. The experimental results demonstrate the performance of the proposed approach.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:22.408Z

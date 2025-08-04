@@ -1,0 +1,12 @@
+# AGAR: Attention Graph-RNN for Adaptative Motion Prediction of Point Clouds of Deformable Objects
+
+**Authors:** Pedro Gomes, Silvia Rossi, Laura Toni
+
+## Summary
+This paper focuses on motion prediction for point cloud sequences in the challenging case of deformable 3D objects, such as human body motion. First, we investigate the challenges caused by deformable shapes and complex motions present in this type of representation, with the ultimate goal of understanding the technical limitations of state-of-the-art models. From this understanding, we propose an improved architecture for point cloud prediction of deformable 3D objects. Specifically, to handle deformable shapes, we propose a graph-based approach that learns and exploits the spatial structure of point clouds to extract more representative features. Then we propose a module able to combine the learned features in an adaptative manner according to the point cloud movements. The proposed adaptative module controls the composition of local and global motions for each point, enabling the network to model complex motions in deformable 3D objects more effectively. We tested the proposed method on the following datasets: MNIST moving digits, the Mixamo human bodies motions, JPEG and CWIPC-SXR real-world dynamic bodies. Simulation results demonstrate that our method outperforms the current baseline methods given its improved ability to model complex movements as well as preserve point cloud shape. Furthermore, we demonstrate the generalizability of the proposed framework for dynamic feature learning, by testing the framework for action recognition on the MSRAction3D dataset and achieving results on-par with state-of-the-art methods
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:06.513Z

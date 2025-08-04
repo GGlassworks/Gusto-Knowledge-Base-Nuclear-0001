@@ -1,0 +1,12 @@
+# Digital Twin: Acquiring High-Fidelity 3D Avatar from a Single Image
+
+**Authors:** Ruizhe Wang, Chih-Fan Chen, Hao Peng, Xudong Liu, Oliver Liu, Xin Li
+
+## Summary
+We present an approach to generate high fidelity 3D face avatar with a high-resolution UV texture map from a single image. To estimate the face geometry, we use a deep neural network to directly predict vertex coordinates of the 3D face model from the given image. The 3D face geometry is further refined by a non-rigid deformation process to more accurately capture facial landmarks before texture projection. A key novelty of our approach is to train the shape regression network on facial images synthetically generated using a high-quality rendering engine. Moreover, our shape estimator fully leverages the discriminative power of deep facial identity features learned from millions of facial images. We have conducted extensive experiments to demonstrate the superiority of our optimized 2D-to-3D rendering approach, especially its excellent generalization property on real-world selfie images. Our proposed system of rendering 3D avatars from 2D images has a wide range of applications from virtual/augmented reality (VR/AR) and telepsychiatry to human-computer interaction and social networks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:22.488Z

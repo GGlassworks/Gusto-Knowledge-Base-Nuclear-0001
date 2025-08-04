@@ -1,0 +1,12 @@
+# Human Pose Estimation using Motion Priors and Ensemble Models
+
+**Authors:** Norimichi Ukita
+
+## Summary
+Human pose estimation in images and videos is one of key technologies for realizing a variety of human activity recognition tasks (e.g., human-computer interaction, gesture recognition, surveillance, and video summarization). This paper presents two types of human pose estimation methodologies; 1) 3D human pose tracking using motion priors and 2) 2D human pose estimation with ensemble modeling.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:22:57.142Z

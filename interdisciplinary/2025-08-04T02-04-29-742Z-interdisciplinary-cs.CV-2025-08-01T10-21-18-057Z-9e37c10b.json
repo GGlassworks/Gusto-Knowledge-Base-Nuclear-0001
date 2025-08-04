@@ -1,0 +1,12 @@
+# SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion
+
+**Authors:** Ziyun Qian, Zeyu Xiao, Xingliang Jin, Dingkang Yang, Mingcheng Li, Zhenyi Wu, Dongliang Kou, Peng Zhai, Lihua Zhang
+
+## Summary
+Motion style transfer is a significant research direction in the field of computer vision, enabling virtual digital humans to rapidly switch between different styles of the same motion, thereby significantly enhancing the richness and realism of movements. It has been widely applied in multimedia scenarios such as films, games, and the metaverse. However, most existing methods adopt a two-stream structure, which tends to overlook the intrinsic relationship between content and style motions, leading to information loss and poor alignment. Moreover, when handling long-range motion sequences, these methods fail to effectively learn temporal dependencies, ultimately resulting in unnatural generated motions. To address these limitations, we propose a Unified Motion Style Diffusion (UMSD) framework, which simultaneously extracts features from both content and style motions and facilitates sufficient information interaction. Additionally, we introduce the Motion Style Mamba (MSM) denoiser, the first approach in the field of motion style transfer to leverage Mamba's powerful sequence modelling capability. Better capturing temporal relationships generates more coherent stylized motion sequences. Third, we design a diffusion-based content consistency loss and a style consistency loss to constrain the framework, ensuring that it inherits the content motion while effectively learning the characteristics of the style motion. Finally, extensive experiments demonstrate that our method outperforms state-of-the-art (SOTA) methods qualitatively and quantitatively, achieving more realistic and coherent motion style transfer.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:18.058Z

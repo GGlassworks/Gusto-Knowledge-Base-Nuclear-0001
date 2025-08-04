@@ -1,0 +1,12 @@
+# Finger Biometric Recognition With Feature Selection
+
+**Authors:** Asish Bera, Debotosh Bhattacharjee, Mita Nasipuri
+
+## Summary
+Biometrics is indispensable in this modern digital era for secure automated human authentication in various fields of machine learning and pattern recognition. Hand geometry is a promising physiological biometric trait with ample deployed application areas for identity verification. Due to the intricate anatomic foundation of the thumb and substantial inter-finger posture variation, satisfactory performances cannot be achieved while the thumb is included in the contact-free environment. To overcome the hindrances associated with the thumb, four finger-based (excluding the thumb) biometric approaches have been devised. In this chapter, a four-finger based biometric method has been presented. Again, selection of salient features is essential to reduce the feature dimensionality by eliminating the insignificant features. Weights are assigned according to the discriminative efficiency of the features to emphasize on the essential features. Two different strategies namely, the global and local feature selection methods are adopted based on the adaptive forward-selection and backward-elimination (FoBa) algorithm. The identification performances are evaluated using the weighted k-nearest neighbor (wk-NN) and random forest (RF) classifiers. The experiments are conducted using the selected feature subsets over the 300 subjects of the Bosphorus hand database. The best identification accuracy of 98.67%, and equal error rate (EER) of 4.6% have been achieved using the subset of 25 features which are selected by the rank-based local FoBa algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:36.192Z

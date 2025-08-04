@@ -1,0 +1,12 @@
+# Handwritten Digit Recognition Using Improved Bounding Box Recognition Technique
+
+**Authors:** Arkaprabha Basu, M. Sathya
+
+## Summary
+The project comes with the technique of OCR (Optical Character Recognition) which includes various research sides of computer science. The project is to take a picture of a character and process it up to recognize the image of that character like a human brain recognize the various digits. The project contains the deep idea of the Image Processing techniques and the big research area of machine learning and the building block of the machine learning called Neural Network. There are two different parts of the project. Training part comes with the idea of to train a child by giving various sets of similar characters but not the totally same and to say them the output of this is this. Like this idea one has to train the newly built neural network with so many characters. This part contains some new algorithm which is self-created and upgraded as the project need. The testing part contains the testing of a new dataset .This part always comes after the part of the training .At first one has to teach the child how to recognize the character .Then one has to take the test whether he has given right answer or not. If not, one has to train him harder by giving new dataset and new entries. Just like that one has to test the algorithm also. There are many parts of statistical modeling and optimization techniques which come into the project requiring a lot of modeling concept of statistics like optimizer technique and filtering process, that how the mathematics and prediction behind that filtering or the algorithms comes after or which result one actually needs to and ultimately for the prediction of a predictive model creation. Machine learning algorithm is built by concepts of prediction and programming.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:28.218Z

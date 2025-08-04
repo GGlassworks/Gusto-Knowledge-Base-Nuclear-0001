@@ -1,0 +1,12 @@
+# Attack Anything: Blind DNNs via Universal Background Adversarial Attack
+
+**Authors:** Jiawei Lian, Shaohui Mei, Xiaofei Wang, Yi Wang, Lefan Wang, Yingjie Lu, Mingyang Ma, Lap-Pui Chau
+
+## Summary
+It has been widely substantiated that deep neural networks (DNNs) are susceptible and vulnerable to adversarial perturbations. Existing studies mainly focus on performing attacks by corrupting targeted objects (physical attack) or images (digital attack), which is intuitively acceptable and understandable in terms of the attack's effectiveness. In contrast, our focus lies in conducting background adversarial attacks in both digital and physical domains, without causing any disruptions to the targeted objects themselves. Specifically, an effective background adversarial attack framework is proposed to attack anything, by which the attack efficacy generalizes well between diverse objects, models, and tasks. Technically, we approach the background adversarial attack as an iterative optimization problem, analogous to the process of DNN learning. Besides, we offer a theoretical demonstration of its convergence under a set of mild but sufficient conditions. To strengthen the attack efficacy and transferability, we propose a new ensemble strategy tailored for adversarial perturbations and introduce an improved smooth constraint for the seamless connection of integrated perturbations. We conduct comprehensive and rigorous experiments in both digital and physical domains across various objects, models, and tasks, demonstrating the effectiveness of attacking anything of the proposed method. The findings of this research substantiate the significant discrepancy between human and machine vision on the value of background variations, which play a far more critical role than previously recognized, necessitating a reevaluation of the robustness and reliability of DNNs. The code will be publicly available at https://github.com/JiaweiLian/Attack_Anything
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:17:21.813Z

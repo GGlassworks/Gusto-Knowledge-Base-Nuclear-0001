@@ -1,0 +1,12 @@
+# Joint Temporal Pooling for Improving Skeleton-based Action Recognition
+
+**Authors:** Shanaka Ramesh Gunasekara, Wanqing Li, Jack Yang, Philip Ogunbona
+
+## Summary
+In skeleton-based human action recognition, temporal pooling is a critical step for capturing spatiotemporal relationship of joint dynamics. Conventional pooling methods overlook the preservation of motion information and treat each frame equally. However, in an action sequence, only a few segments of frames carry discriminative information related to the action. This paper presents a novel Joint Motion Adaptive Temporal Pooling (JMAP) method for improving skeleton-based action recognition. Two variants of JMAP, frame-wise pooling and joint-wise pooling, are introduced. The efficacy of JMAP has been validated through experiments on the popular NTU RGB+D 120 and PKU-MMD datasets.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:24.504Z

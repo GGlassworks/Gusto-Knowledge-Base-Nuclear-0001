@@ -1,0 +1,12 @@
+# Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On
+
+**Authors:** Daiheng Gao, Xu Chen, Xindi Zhang, Qi Wang, Ke Sun, Bang Zhang, Liefeng Bo, Qixing Huang
+
+## Summary
+Fabricating and designing 3D garments has become extremely demanding with the increasing need for synthesizing realistic dressed persons for a variety of applications, e.g. 3D virtual try-on, digitalization of 2D clothes into 3D apparel, and cloth animation. It thus necessitates a simple and straightforward pipeline to obtain high-quality texture from simple input, such as 2D reference images. Since traditional warping-based texture generation methods require a significant number of control points to be manually selected for each type of garment, which can be a time-consuming and tedious process. We propose a novel method, called Cloth2Tex, which eliminates the human burden in this process. Cloth2Tex is a self-supervised method that generates texture maps with reasonable layout and structural consistency. Another key feature of Cloth2Tex is that it can be used to support high-fidelity texture inpainting. This is done by combining Cloth2Tex with a prevailing latent diffusion model. We evaluate our approach both qualitatively and quantitatively and demonstrate that Cloth2Tex can generate high-quality texture maps and achieve the best visual effects in comparison to other methods. Project page: tomguluson92.github.io/projects/cloth2tex/
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:23.008Z

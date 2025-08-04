@@ -1,0 +1,12 @@
+# ODPG: Outfitting Diffusion with Pose Guided Condition
+
+**Authors:** Seohyun Lee, Jintae Park, Sanghyeok Park
+
+## Summary
+Virtual Try-On (VTON) technology allows users to visualize how clothes would look on them without physically trying them on, gaining traction with the rise of digitalization and online shopping. Traditional VTON methods, often using Generative Adversarial Networks (GANs) and Diffusion models, face challenges in achieving high realism and handling dynamic poses. This paper introduces Outfitting Diffusion with Pose Guided Condition (ODPG), a novel approach that leverages a latent diffusion model with multiple conditioning inputs during the denoising process. By transforming garment, pose, and appearance images into latent features and integrating these features in a UNet-based denoising model, ODPG achieves non-explicit synthesis of garments on dynamically posed human images. Our experiments on the FashionTryOn and a subset of the DeepFashion dataset demonstrate that ODPG generates realistic VTON images with fine-grained texture details across various poses, utilizing an end-to-end architecture without the need for explicit garment warping processes. Future work will focus on generating VTON outputs in video format and on applying our attention mechanism, as detailed in the Method section, to other domains with limited data.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:24.690Z

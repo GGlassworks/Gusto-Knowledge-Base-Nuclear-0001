@@ -1,0 +1,12 @@
+# Real-Time Activity Recognition and Intention Recognition Using a Vision-based Embedded System
+
+**Authors:** Sahar Darafsh, Saeed Shiry Ghidary, Morteza Saheb Zamani
+
+## Summary
+With the rapid increase in digital technologies, most fields of study include recognition of human activity and intention recognition, which are essential in smart environments. In this study, we equipped the activity recognition system with the ability to recognize intentions by affecting the pace of movement of individuals in the representation of images. Using this technology in various environments such as elevators and automatic doors will lead to identifying those who intend to pass the automatic door from those who are passing by. This system, if applied in elevators and automatic doors, will save energy and increase efficiency. For this study, data preparation is applied to combine the spatial and temporal features with the help of digital image processing principles. Nevertheless, unlike previous studies, only one AlexNet neural network is used instead of two-stream convolutional neural networks. Our embedded system was implemented with an accuracy of 98.78% on our intention recognition dataset. We also examined our data representation approach on other datasets, including HMDB-51, KTH, and Weizmann, and obtained accuracy of 78.48%, 97.95%, and 100%, respectively. The image recognition and neural network models were simulated and implemented using Xilinx simulators for the Xilinx ZCU102 board. The operating frequency of this embedded system is 333 MHz, and it works in real-time with 120 frames per second (fps).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:22:49.606Z

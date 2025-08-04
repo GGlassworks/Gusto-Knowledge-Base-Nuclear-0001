@@ -1,0 +1,12 @@
+# Principal component-based image segmentation: a new approach to outline in vitro cell colonies
+
+**Authors:** Delmon Arous, Stefan Schrunner, Ingunn Hanson, Nina F. J. Edin, Eirik Malinen
+
+## Summary
+The in vitro clonogenic assay is a technique to study the ability of a cell to form a colony in a culture dish. By optical imaging, dishes with stained colonies can be scanned and assessed digitally. Identification, segmentation and counting of stained colonies play a vital part in high-throughput screening and quantitative assessment of biological assays. Image processing of such pictured/scanned assays can be affected by image/scan acquisition artifacts like background noise and spatially varying illumination, and contaminants in the suspension medium. Although existing approaches tackle these issues, the segmentation quality requires further improvement, particularly on noisy and low contrast images. In this work, we present an objective and versatile machine learning procedure to amend these issues by characterizing, extracting and segmenting inquired colonies using principal component analysis, k-means clustering and a modified watershed segmentation algorithm. The intention is to automatically identify visible colonies through spatial texture assessment and accordingly discriminate them from background in preparation for successive segmentation. The proposed segmentation algorithm yielded a similar quality as manual counting by human observers. High F1 scores (&gt;0.9) and low root-mean-square errors (around 14%) underlined good agreement with ground truth data. Moreover, it outperformed a recent state-of-the-art method. The methodology will be an important tool in future cancer research applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:35.861Z

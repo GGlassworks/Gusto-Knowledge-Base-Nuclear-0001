@@ -1,0 +1,12 @@
+# Improving digital signal interpolation: L2-optimal kernels with kernel-invariant interpolation speed
+
+**Authors:** Oleg S. Pianykh
+
+## Summary
+Interpolation is responsible for digital signal resampling and can significantly degrade the original signal quality if not done properly. For many years, optimal interpolation algorithms were sought within constrained classes of interpolation kernel functions. We derive a new family of unconstrained L2-optimal interpolation kernels, and compare their properties to the previously known. Although digital images are used to illustrate this work, our L2-optimal kernels can be applied to interpolate any digital signals.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:17:22.729Z

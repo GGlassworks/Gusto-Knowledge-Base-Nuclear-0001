@@ -1,0 +1,12 @@
+# DiffFit: Disentangled Garment Warping and Texture Refinement for Virtual Try-On
+
+**Authors:** Xiang Xu
+
+## Summary
+Virtual try-on (VTON) aims to synthesize realistic images of a person wearing a target garment, with broad applications in e-commerce and digital fashion. While recent advances in latent diffusion models have substantially improved visual quality, existing approaches still struggle with preserving fine-grained garment details, achieving precise garment-body alignment, maintaining inference efficiency, and generalizing to diverse poses and clothing styles. To address these challenges, we propose DiffFit, a novel two-stage latent diffusion framework for high-fidelity virtual try-on. DiffFit adopts a progressive generation strategy: the first stage performs geometry-aware garment warping, aligning the garment with the target body through fine-grained deformation and pose adaptation. The second stage refines texture fidelity via a cross-modal conditional diffusion model that integrates the warped garment, the original garment appearance, and the target person image for high-quality rendering. By decoupling geometric alignment and appearance refinement, DiffFit effectively reduces task complexity and enhances both generation stability and visual realism. It excels in preserving garment-specific attributes such as textures, wrinkles, and lighting, while ensuring accurate alignment with the human body. Extensive experiments on large-scale VTON benchmarks demonstrate that DiffFit achieves superior performance over existing state-of-the-art methods in both quantitative metrics and perceptual evaluations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:25.174Z

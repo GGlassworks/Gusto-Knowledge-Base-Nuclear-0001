@@ -1,0 +1,12 @@
+# Windowed-FourierMixer: Enhancing Clutter-Free Room Modeling with Fourier Transform
+
+**Authors:** Bruno Henriques, Benjamin Allaert, Jean-Philippe Vandeborre
+
+## Summary
+With the growing demand for immersive digital applications, the need to understand and reconstruct 3D scenes has significantly increased. In this context, inpainting indoor environments from a single image plays a crucial role in modeling the internal structure of interior spaces as it enables the creation of textured and clutter-free reconstructions. While recent methods have shown significant progress in room modeling, they rely on constraining layout estimators to guide the reconstruction process. These methods are highly dependent on the performance of the structure estimator and its generative ability in heavily occluded environments. In response to these issues, we propose an innovative approach based on a U-Former architecture and a new Windowed-FourierMixer block, resulting in a unified, single-phase network capable of effectively handle human-made periodic structures such as indoor spaces. This new architecture proves advantageous for tasks involving indoor scenes where symmetry is prevalent, allowing the model to effectively capture features such as horizon/ceiling height lines and cuboid-shaped rooms. Experiments show the proposed approach outperforms current state-of-the-art methods on the Structured3D dataset demonstrating superior performance in both quantitative metrics and qualitative results. Code and models will be made publicly available.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:24.148Z

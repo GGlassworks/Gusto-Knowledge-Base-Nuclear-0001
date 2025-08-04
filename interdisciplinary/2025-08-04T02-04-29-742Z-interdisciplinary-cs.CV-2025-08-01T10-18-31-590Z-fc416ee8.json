@@ -1,0 +1,12 @@
+# HABD: a houma alliance book ancient handwritten character recognition database
+
+**Authors:** Xiaoyu Yuan, Xiaohua Huang, Zibo Zhang, Yabo Sun
+
+## Summary
+The Houma Alliance Book, one of history's earliest calligraphic examples, was unearthed in the 1970s. These artifacts were meticulously organized, reproduced, and copied by the Shanxi Provincial Institute of Cultural Relics. However, because of their ancient origins and severe ink erosion, identifying characters in the Houma Alliance Book is challenging, necessitating the use of digital technology. In this paper, we propose a new ancient handwritten character recognition database for the Houma alliance book, along with a novel benchmark based on deep learning architectures. More specifically, a collection of 26,732 characters samples from the Houma Alliance Book were gathered, encompassing 327 different types of ancient characters through iterative annotation. Furthermore, benchmark algorithms were proposed by combining four deep neural network classifiers with two data augmentation methods. This research provides valuable resources and technical support for further studies on the Houma Alliance Book and other ancient characters. This contributes to our understanding of ancient culture and history, as well as the preservation and inheritance of humanity's cultural heritage.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:31.590Z

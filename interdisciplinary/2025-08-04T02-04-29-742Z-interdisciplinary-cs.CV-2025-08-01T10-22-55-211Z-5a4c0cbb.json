@@ -1,0 +1,12 @@
+# Tag-based annotation creates better avatars
+
+**Authors:** Minghao Liu, Zeyu Cheng, Shen Sang, Jing Liu, James Davis
+
+## Summary
+Avatar creation from human images allows users to customize their digital figures in different styles. Existing rendering systems like Bitmoji, MetaHuman, and Google Cartoonset provide expressive rendering systems that serve as excellent design tools for users. However, twenty-plus parameters, some including hundreds of options, must be tuned to achieve ideal results. Thus it is challenging for users to create the perfect avatar. A machine learning model could be trained to predict avatars from images, however the annotators who label pairwise training data have the same difficulty as users, causing high label noise. In addition, each new rendering system or version update requires thousands of new training pairs. In this paper, we propose a Tag-based annotation method for avatar creation. Compared to direct annotation of labels, the proposed method: produces higher annotator agreements, causes machine learning to generates more consistent predictions, and only requires a marginal cost to add new rendering systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:22:55.211Z

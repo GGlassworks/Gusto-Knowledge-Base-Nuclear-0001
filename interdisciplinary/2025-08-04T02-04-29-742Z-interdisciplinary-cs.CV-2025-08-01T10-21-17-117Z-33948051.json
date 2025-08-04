@@ -1,0 +1,12 @@
+# Geometric Digital Twinning of Industrial Facilities: Retrieval of Industrial Shapes
+
+**Authors:** Eva Agapaki, Ioannis Brilakis
+
+## Summary
+This paper devises, implements and benchmarks a novel shape retrieval method that can accurately match individual labelled point clusters (instances) of existing industrial facilities with their respective CAD models. It employs a combination of image and point cloud deep learning networks to classify and match instances to their geometrically similar CAD model. It extends our previous research on geometric digital twin generation from point cloud data, which currently is a tedious, manual process. Experiments with our joint network reveal that it can reliably retrieve CAD models at 85.2\% accuracy. The proposed research is a fundamental framework to enable the geometric Digital Twin (gDT) pipeline and incorporate the real geometric configuration into the Digital Twin.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:21:17.118Z

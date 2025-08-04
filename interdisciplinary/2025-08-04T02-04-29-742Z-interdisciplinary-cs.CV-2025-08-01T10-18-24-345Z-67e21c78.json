@@ -1,0 +1,12 @@
+# Overhead MNIST: A Benchmark Satellite Dataset
+
+**Authors:** David Noever, Samantha E. Miller Noever
+
+## Summary
+The research presents an overhead view of 10 important objects and follows the general formatting requirements of the most popular machine learning task: digit recognition with MNIST. This dataset offers a public benchmark extracted from over a million human-labelled and curated examples. The work outlines the key multi-class object identification task while matching with prior work in handwriting, cancer detection, and retail datasets. A prototype deep learning approach with transfer learning and convolutional neural networks (MobileNetV2) correctly identifies the ten overhead classes with an average accuracy of 96.7%. This model exceeds the peak human performance of 93.9%. For upgrading satellite imagery and object recognition, this new dataset benefits diverse endeavors such as disaster relief, land use management, and other traditional remote sensing tasks. The work extends satellite benchmarks with new capabilities to identify efficient and compact algorithms that might work on-board small satellites, a practical task for future multi-sensor constellations. The dataset is available on Kaggle and Github.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:18:24.345Z

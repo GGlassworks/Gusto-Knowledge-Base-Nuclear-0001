@@ -1,0 +1,12 @@
+# Bengali Document Layout Analysis with Detectron2
+
+**Authors:** Md Ataullha, Mahedi Hassan Rabby, Mushfiqur Rahman, Tahsina Bintay Azam
+
+## Summary
+Document digitization is vital for preserving historical records, efficient document management, and advancing OCR (Optical Character Recognition) research. Document Layout Analysis (DLA) involves segmenting documents into meaningful units like text boxes, paragraphs, images, and tables. Challenges arise when dealing with diverse layouts, historical documents, and unique scripts like Bengali, hindered by the lack of comprehensive Bengali DLA datasets. We improved the accuracy of the DLA model for Bengali documents by utilizing advanced Mask R-CNN models available in the Detectron2 library. Our evaluation involved three variants: Mask R-CNN R-50, R-101, and X-101, both with and without pretrained weights from PubLayNet, on the BaDLAD dataset, which contains human-annotated Bengali documents in four categories: text boxes, paragraphs, images, and tables. Results show the effectiveness of these models in accurately segmenting Bengali documents. We discuss speed-accuracy tradeoffs and underscore the significance of pretrained weights. Our findings expand the applicability of Mask R-CNN in document layout analysis, efficient document management, and OCR research while suggesting future avenues for fine-tuning and data augmentation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:23.064Z
