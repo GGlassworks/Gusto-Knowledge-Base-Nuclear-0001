@@ -1,0 +1,13 @@
+# Sig-SDEs model for quantitative finance
+
+**Authors:** Imanol Perez Arribas, C. Salvi, Lukasz Szpruch
+
+## Abstract
+Mathematical models, calibrated to data, have become ubiquitous to make key decision processes in modern quantitative finance. In this work, we propose a novel framework for data-driven model selection by integrating a classical quantitative setup with a generative modelling approach. Leveraging the properties of the signature, a well-known path-transform from stochastic analysis that recently emerged as leading machine learning technology for learning time-series data, we develop the Sig-SDE model. Sig-SDE provides a new perspective on neural SDEs and can be calibrated to exotic financial products that depend, in a non-linear way, on the whole trajectory of asset prices. Furthermore, we our approach enables to consistently calibrate under the pricing measure Q and real-world measure P. Finally, we demonstrate the ability of Sig-SDE to simulate future possible market scenarios needed for computing risk profiles or hedging strategies. Importantly, this new model is underpinned by rigorous mathematical analysis, that under appropriate conditions provides theoretical guarantees for convergence of the presented algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/501e463beadc85020e01ba467197218c5b0eb502
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:41:13.721Z

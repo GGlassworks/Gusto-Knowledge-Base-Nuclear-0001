@@ -1,0 +1,13 @@
+# The Evolution of Reinforcement Learning in Quantitative Finance: A Survey
+
+**Authors:** Nikolaos Pippas, C. Turkay, Elliot A. Ludvig
+
+## Abstract
+Reinforcement Learning (RL) has experienced significant advancement over the past decade, prompting a growing interest in applications within finance. This survey critically evaluates 167 publications, exploring diverse RL applications and frameworks in finance. Financial markets, marked by their complexity, multi-agent nature, information asymmetry, and inherent randomness, serve as an intriguing test-bed for RL. Traditional finance offers certain solutions, and RL advances these with a more dynamic approach, incorporating machine learning methods, including transfer learning, meta-learning, and multi-agent solutions. This survey dissects key RL components through the lens of Quantitative Finance. We uncover emerging themes, propose areas for future research, and critique the strengths and weaknesses of existing methods.
+
+**Source:** https://www.semanticscholar.org/paper/342a3e1b9bc9c09fc549efd44bbe825048792901
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:41:13.033Z

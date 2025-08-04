@@ -1,0 +1,13 @@
+# Gradient boosting for quantitative finance
+
+**Authors:** Jesse Davis, Laurens Devos, S. Reyners, W. Schoutens
+
+## Abstract
+In this paper, we discuss how tree-based machine learning techniques can be used in the context of derivatives pricing. Gradient boosted regression trees are employed to learn the pricing map for a couple of classical, time-consuming problems in quantitative finance. In particular, we illustrate this methodology by reducing computation times for pricing exotic derivative products and American options. Once the gradient boosting model is trained, it is used to make fast predictions of new prices. We show that this approach leads to speed-ups of several orders of magnitude, while the loss of accuracy is very acceptable from a practical point of view. Besides the predictive performance of machine learning methods, financial regulators attach more and more importance to the interpretability of pricing models. For both applications, we therefore look under the hood of the gradient boosting model and try to reveal how the price is constructed and interpreted.
+
+**Source:** https://www.semanticscholar.org/paper/eea37e633273aeb8cf3f20200fa9d961ae853150
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:41:14.121Z

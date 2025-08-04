@@ -1,0 +1,13 @@
+# Extrapolation and generative algorithms for three applications in finance
+
+**Authors:** P. LeFloch, J. Mercier, Shohruh Miryusupov
+
+## Abstract
+For three applications of central interest in finance, we demonstrate the relevance of numerical algorithms based on reproducing kernel Hilbert space (RKHS) techniques. Three use cases are investigated. First, we show that extrapolating from a few pricer examples leads to sufficiently accurate and computationally efficient results so that our algorithm can serve as a pricing framework. The second use case concerns reverse stress testing, which is formulated as an inversion function problem and is treated here via an optimal transport technique in combination with the notions of kernel-based encoders, decoders, and generators. Third, we show that standard techniques for time series analysis can be enhanced by using the proposed generative algorithms. Namely, we use our algorithm in order to extend the validity of any given quantitative model, so that our approach allows for conditional analysis as well as for escaping the �Gaussian world�. This latter property is illustrated with a strategy of portfolio investment.
+
+**Source:** https://www.semanticscholar.org/paper/d012056f87d423cc352bedfd15f4e7ad6eb11a23
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:43:00.520Z

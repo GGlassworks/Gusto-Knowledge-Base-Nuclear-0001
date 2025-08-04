@@ -1,0 +1,13 @@
+# A Class of Mesh-Free Algorithms for Some Problems Arising in Finance and Machine Learning
+
+**Authors:** P. LeFloch, J. Mercier
+
+## Abstract
+We introduce a numerical methodology, referred to as the transport-based mesh-free method , which allows us to deal with continuous, discrete, or statistical models in the same unified framework, and leads us to a broad class of numerical algorithms recently implemented in a Python library (namely, CodPy). Specifically, we propose a mesh-free discretization technique based on the theory of reproducing kernels and the theory of transport mappings, in a way that is reminiscent of Lagrangian methods in computational fluid dynamics. We introduce kernel-based discretizations of a variety of differential and discrete operators (gradient, divergence, Laplacian, Leray projection, extrapolation, interpolation, polar factorization). The proposed algorithms are nonlinear in nature and enjoy quantitative error estimates based on the notion of discrepancy error, which allows one to evaluate the relevance and accuracy of, both, the given data and the numerical solutions. Our strategy is relevant when a large number of degrees of freedom are present as is the case in mathematical finance and machine learning. We consider the Fokker–Planck–Kolmogorov system (relevant for problems arising in finance and material dynamics) and a class of neural networks based on support vector machines.
+
+**Source:** https://www.semanticscholar.org/paper/767f20868557339dc85db2b173893f1474afc0e8
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:44:42.425Z

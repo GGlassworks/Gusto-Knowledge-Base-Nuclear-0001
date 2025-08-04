@@ -1,0 +1,13 @@
+# Fast Learning in Quantitative Finance with Extreme Learning Machine
+
+**Authors:** Liexin Cheng, Xue Cheng, Shuaiqiang Liu
+
+## Abstract
+A critical factor in adopting machine learning for time-sensitive financial tasks is computational speed, including model training and inference. This paper demonstrates that a broad class of such problems, especially those previously addressed using deep neural networks, can be efficiently solved using single-layer neural networks without iterative gradient-based training. This is achieved through the extreme learning machine (ELM) framework. ELM utilizes a single-layer network with randomly initialized hidden nodes and output weights obtained via convex optimization, enabling rapid training and inference. We present various applications in both supervised and unsupervised learning settings, including option pricing, intraday return prediction, volatility surface fitting, and numerical solution of partial differential equations. Across these examples, ELM demonstrates notable improvements in computational efficiency while maintaining comparable accuracy and generalization compared to deep neural networks and classical machine learning methods. We also briefly discuss theoretical aspects of ELM implementation and its generalization capabilities.
+
+**Source:** https://www.semanticscholar.org/paper/5d3a1b471187a4b9e6e3d7ebfc1d8710deb426e6
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:43:50.323Z

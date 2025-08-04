@@ -1,0 +1,13 @@
+# An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges
+
+**Authors:** S. Sahu, A. Mokhade, N. Bokde
+
+## Abstract
+Forecasting the behavior of the stock market is a classic but difficult topic, one that has attracted the interest of both economists and computer scientists. Over the course of the last couple of decades, researchers have investigated linear models as well as models that are based on machine learning (ML), deep learning (DL), reinforcement learning (RL), and deep reinforcement learning (DRL) in order to create an accurate predictive model. Machine learning algorithms can now extract high-level financial market data patterns. Investors are using deep learning models to anticipate and evaluate stock and foreign exchange markets due to the advantage of artificial intelligence. Recent years have seen a proliferation of the deep reinforcement learning algorithm’s application in algorithmic trading. DRL agents, which combine price prediction and trading signal production, have been used to construct several completely automated trading systems or strategies. Our objective is to enable interested researchers to stay current and easily imitate earlier findings. In this paper, we have worked to explain the utility of Machine Learning, Deep Learning, Reinforcement Learning, and Deep Reinforcement Learning in Quantitative Finance (QF) and the Stock Market. We also outline potential future study paths in this area based on the overview that was presented before.
+
+**Source:** https://www.semanticscholar.org/paper/2288a23c7ee48101537d31bd62cc74275c95a23a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:41:13.175Z

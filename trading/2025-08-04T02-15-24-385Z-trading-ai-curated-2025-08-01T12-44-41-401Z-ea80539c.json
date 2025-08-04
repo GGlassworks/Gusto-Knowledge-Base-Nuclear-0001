@@ -1,0 +1,13 @@
+# A Standardized, and Extensible Framework for Comparative Analysis of Quantitative Finance Algorithms - An Open-Source Solution, and Examples of Baseline Experiments with Discussion
+
+**Authors:** Alasdair Macindoe, Ognjen Arandjelovic
+
+## Abstract
+Quantitative finance has been receiving an increasing amount of attention, both from industry and research communities. Yet there is no standardized framework which would allow for a straightforward and repeatable comparison of different investment strategies, leading to a lack of clarity on the state of the art and thereby limiting progress in understanding the field. In the present work we introduce a novel, open-source framework which aims at addressing the crucial limitation. In particular, as our first contribution we describe a highly flexible and readily extensible framework which through its modularity and 'agnosticism', is capable of dealing with diverse types of data and research questions. We summarize its design and functionalities, and as an additional contribution present a number of baseline experiments on examples of publicly available financial data sets. We hope that the two contributions will serve to provide a degree of standardization of experimental analyses in the field, increase our understanding of the state of the art, as well as drive future efforts in increasing the repeatability and transparency of research efforts. Lastly, we also described several examples of experiments which demonstrate the use of the framework, and will include the full corresponding source code in the release.
+
+**Source:** https://www.semanticscholar.org/paper/c6f73a6e4a601f73e56b70689c92f0ac4c9cea72
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:44:41.401Z

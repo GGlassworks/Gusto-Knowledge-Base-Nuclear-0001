@@ -1,0 +1,13 @@
+# Modeling with fuzzy transforms — A new tool of data mining and quantitative finance
+
+**Authors:** I. Perfilieva
+
+## Abstract
+The theory of fuzzy (F)-transforms relates to a modern mathematical modeling. It provides a (dimensionally) reduced and robust representation of original data. It is based on a granulation of a domain (fuzzy partition) and gives a tractable image of an original data. The main characteristics with respect to input data: size reduction, noise removal, invariance to geometrical transformations, knowledge transfer from conventional mathematics, fast computation. The F-transform has been applied to: image processing, computer vision, on-line pattern recognition in big data bases, time series analysis and forecasting, mathematical finance, numerical methods for differential equations, deep learning neural networks. In this contribution, we show that the technique of F-transforms fully agrees with the technique of dimensionality reduction, based on Laplacian eigenmaps. In the application part, we give an overview of the F-transform applications to mathematical finance.
+
+**Source:** https://www.semanticscholar.org/paper/0161bc2f61e85c935498af0a3e5ac02321f0651a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:42:10.336Z

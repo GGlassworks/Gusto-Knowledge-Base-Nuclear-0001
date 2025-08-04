@@ -1,0 +1,13 @@
+# Optimization of Quantitative Financial Trading Strategies Based on Machine Learning: Prediction and Decision Models for Stock and Derivatives Markets
+
+**Authors:** Zidu Wang, Yintian Yang
+
+## Abstract
+Machine learning has become a cornerstone of quantitative finance, which allows for data-driven forecasting, strategy optimization, and trading-by-dot decision making. It analyzes the application of machine learning models such as recurrent neural networks (RNNs), long short term memory (LSTM) networks, and reinforcement learning (RL) in order to generate optimal predictive models and adaptive trading techniques. The research is based on historical stock and derivative market data and follows a rigorous process that includes data preprocessing, feature engineering and model training using random forests and gradient boosting. Our experimental evidence shows that LSTM performs better on long-term trends and ensemble models on short-term trends. The RL model significantly enhances risk adjusted returns, with higher Sharpe ratios and lower drawdowns than standard strategies, suggesting real-time market flexibility. The study highlights the positive effects of machine learning in improving trading performance, which will be applicable to other trading scenarios.
+
+**Source:** https://www.semanticscholar.org/paper/62c4e8ae031fe16a3f5f2851de45332eb644c83c
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:43:50.416Z

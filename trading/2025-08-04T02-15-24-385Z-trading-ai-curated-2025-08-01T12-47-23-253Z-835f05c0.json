@@ -1,0 +1,13 @@
+# Research on finance Credit Risk Quantification Model Based on Machine Learning Algorithm
+
+**Authors:** Junliang Wang, Jiahao Xu, Qishuo Cheng, Rathna Kumar
+
+## Abstract
+ Machine learning is a branch of artificial intelligence (AI) technology that enables systems to learn and make predictions and decisions without the need for explicit programming. Machine learning algorithms learn patterns and relationships from data and are able to gradually improve their accuracy.This paper mainly introduces the application of deep learning in financial academia and the financial industry, with a particular focus on the application of machine learning and deep learning in financial quantitative trading. The paper mentions the complexity and challenges of financial markets and the difficulties machine learning faces in processing financial time series data, such as overfitting, non-stationarity, heteroscedasticity and autocorrelation. To overcome these challenges, the paper explores machine learning model design in financial quantitative trading and risk prediction, including data transformation and model construction. In the related work part, it introduces the history and development of quantitative investment, as well as the application of quantitative investment, such as high-frequency trading, arbitrage strategy and commodity trading advisory strategy. It then focuses on the application of machine learning in financial quantification, including the use of supervised and unsupervised learning in stock price forecasting and trading strategy generation. The paper also compares traditional quantitative strategies with machine learning strategies and discusses the advantages of machine learning in solving high-dimensional and non-linear problems. The methodology section introduces the application of the random forest model in financial quantification, including the model principle, feature importance calculation and experimental design. Through the pre-processing, feature selection and model construction of the credit risk prediction dataset, the construction and evaluation process of the random forest model is demonstrated. Finally, the performance of the random forest model is evaluated and compared with other models to demonstrate its advantages and applicability in financial quantification.
+
+**Source:** https://www.semanticscholar.org/paper/6b7d2502a3a538ebe89f91bcedaadeef57a2b951
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:47:23.253Z

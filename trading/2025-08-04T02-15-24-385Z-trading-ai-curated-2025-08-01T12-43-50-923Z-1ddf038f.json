@@ -1,0 +1,13 @@
+# Prediction and Portfolio Optimization in Quantitative Trading Using Machine Learning Techniques
+
+**Authors:** G. Patil
+
+## Abstract
+Abstract: Quantitative trading is an automated procedure in which trading techniques and judgments are performed using mathematical models. Quantitative trading involves a vast spectrum of computational methods, such as statistics, physics, or machine learning to diagnose, forecast, and benefit big data in finance for acquisition. This work analyses the body components of a quantitative trading technique. Machine learning presents many consequential benefits over conventional algorithmic trading. Machine learning executes numerous trading techniques consistently and acclimates to real-time demands. To illustrate how machine learning techniques can meet quantitative trading, linear regression and asset vector regression pinnacles are utilized to predict stock tendency. In accumulation, numerous optimization strategies are used to optimize the recovery and manage hazards in trading. One typical attribute of both forecast measures is they virtually executed short-term predictions with high precision and repayment. However, in the short-term forecast, the linear regression instance outmatches corresponded to the support vector regression model. Predictability is extensively enhanced by adding specialized needles to the dataset, preferably by accommodating cost and importance. Despite the gap between prediction modelling and authentic trading, the suggested trading technique accomplished a higher retrieval than the S&P 500 ETF-SPY.
+
+**Source:** https://www.semanticscholar.org/paper/3e159028af57273db4079990f37c2c4af00b765d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:43:50.924Z

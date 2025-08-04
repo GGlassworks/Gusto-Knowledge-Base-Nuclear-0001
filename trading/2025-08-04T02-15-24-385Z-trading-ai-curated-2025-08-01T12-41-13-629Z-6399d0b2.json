@@ -1,0 +1,13 @@
+# Statistical Machine Learning for Quantitative Finance
+
+**Authors:** M. Ludkovski
+
+## Abstract
+We survey the active interface of statistical learning methods and quantitative finance models. Our focus is on the use of statistical surrogates, also known as functional approximators, for learning input–output relationships relevant for financial tasks. Given the disparate terminology used among statisticians and financial mathematicians, we begin by reviewing the main ingredients of surrogate construction and the motivating financial tasks. We then summarize the major surrogate types, including (deep) neural networks, Gaussian processes, gradient boosting machines, smoothing splines, and Chebyshev polynomials. The second half of the article dives deeper into the major applications of statistical learning in finance, covering ( a) parametric option pricing, ( b) learning the implied/local volatility surface, ( c) learning option sensitivities, ( d) American option pricing, and ( e) model calibration. We also briefly detail statistical learning for stochastic control and reinforcement learning, two areas of research exploding in popularity in quantitative finance. Expected final online publication date for the Annual Review of Statistics and Its Application, Volume 10 is March 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+**Source:** https://www.semanticscholar.org/paper/7d67f46b78884c86b18c16464287d726d71653d3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:41:13.630Z

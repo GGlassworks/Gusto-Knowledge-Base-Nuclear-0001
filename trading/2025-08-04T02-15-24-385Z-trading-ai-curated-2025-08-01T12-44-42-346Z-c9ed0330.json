@@ -1,0 +1,13 @@
+# On the information content of explainable artificial intelligence for quantitative approaches in finance
+
+**Authors:** Theo Berger
+
+## Abstract
+We simulate economic data to apply state-of-the-art machine learning algorithms and analyze the economic precision of competing concepts for model agnostic explainable artificial intelligence (XAI) techniques. Also, we assess empirical data and provide a discussion of the competing approaches in comparison with econometric benchmarks, when the data-generating process is unknown. The simulation assessment provides evidence that the applied XAI techniques provide similar economic information on relevant determinants when the data generating process is linear. We find that the adequate choice of XAI technique is crucial when the data generating process is unknown. In comparison to econometric benchmark models, the application of boosted regression trees in combination with Shapley values combines both a superior fit to the data and innovative interpretable insights into non-linear impact factors. Therefore it describes a promising alternative to the econometric benchmark approach.
+
+**Source:** https://www.semanticscholar.org/paper/58231c1670710307c979a9e2f166f6eeabecb5ab
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:44:42.346Z

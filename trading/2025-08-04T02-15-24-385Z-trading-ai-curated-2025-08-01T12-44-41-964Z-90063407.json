@@ -1,0 +1,13 @@
+# Quantitative Classification Model for the Degree of Transformation of Enterprise Business Finance Integration Based on Machine Learning Algorithms
+
+**Authors:** Jing Li, Jiaxi Liu, Lizhao Wang, Peihong Huang
+
+## Abstract
+This study focuses on the quantitative classification of the degree of transformation of enterprise business finance integration, and proposes a classification framework based on improved machine learning algorithms, aiming to provide an objective and comparable quantitative analysis method for this field. In terms of model selection, this study systematically evaluated various mainstream classification models including XGBoost, Random Forest, SVM, and BP Neural Network. The experimental results show that in the quantitative classification task of the degree of transformation of business finance integration, the random forest model performs the best in the comparative model, with a classification accuracy of 93.8%, and also leads other comparative models in key performance indicators such as precision, recall, and F1 score. It is worth noting that the improved model proposed in this study further improved the classification performance, with an accuracy 1.4 percentage points higher than the optimal random forest model, reaching 95.2%. At the same time, the improved model also comprehensively surpassed the random forest model in accuracy, recall, and F1 score. These results fully demonstrate that the improved model proposed in this study has significant advantages in the quantitative classification analysis of the degree of transformation of business finance integration, and can provide higher accuracy classification results. Therefore, this model provides a powerful quantitative tool support for scientific evaluation and effective promotion of the process of enterprise financial integration transformation.
+
+**Source:** https://www.semanticscholar.org/paper/3af6d5d33cab6a6e0a153a9ba6769370870d6f12
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:44:41.964Z

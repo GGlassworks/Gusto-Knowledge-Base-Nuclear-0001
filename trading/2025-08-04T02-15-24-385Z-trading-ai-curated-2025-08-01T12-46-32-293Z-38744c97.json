@@ -1,0 +1,13 @@
+# Denoising Diffusion Probabilistic Model for Realistic Financial Correlation Matrices
+
+**Authors:** Szymon Kubiak, Tillman Weyde, Oleksandr Galkin, Daniel Philps, Ram Gopal
+
+## Abstract
+Financial correlation matrices play a vital role in various quantitative finance applications, but generating synthetic correlation matrices that accurately reflect market structures and stylized facts remains challenging. We introduce a novel application of denoising diffusion probabilistic models (DDPMs) for this task, proposing both unconditional (DM) and conditional (CDM) models. Our experimental evaluation demonstrates the superior performance of our models in generating correlation matrices that closely resemble empirical data while capturing differences across market regimes. We also present a case study highlighting the utility of our approach in assessing asset allocation frameworks and enhancing risk modeling by augmenting empirical datasets with synthetic data. Our findings showcase DDPMs’ potential in mitigating limitations of scarce financial data, enabling robust quantitative modeling and analysis.
+
+**Source:** https://www.semanticscholar.org/paper/01a87d73194342ca3b68f698e404f4f5e4cae486
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:46:32.293Z

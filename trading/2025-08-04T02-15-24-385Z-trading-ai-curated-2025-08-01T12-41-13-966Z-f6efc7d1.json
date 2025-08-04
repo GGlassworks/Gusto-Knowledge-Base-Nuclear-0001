@@ -1,0 +1,13 @@
+# Machine Learning for Quantitative Finance Applications: A Survey
+
+**Authors:** F. Rundo, F. Trenta, Agatino Luigi Di Stallo, S. Battiato
+
+## Abstract
+The analysis of financial data represents a challenge that researchers had to deal with. The rethinking of the basis of financial markets has led to an urgent demand for developing innovative models to understand financial assets. In the past few decades, researchers have proposed several systems based on traditional approaches, such as autoregressive integrated moving average (ARIMA) and the exponential smoothing model, in order to devise an accurate data representation. Despite their efficacy, the existing works face some drawbacks due to poor performance when managing a large amount of data with intrinsic complexity, high dimensionality and casual dynamicity. Furthermore, these approaches are not suitable for understanding hidden relationships (dependencies) between data. This paper proposes a review of some of the most significant works providing an exhaustive overview of recent machine learning (ML) techniques in the field of quantitative finance showing that these methods outperform traditional approaches. Finally, the paper also presents comparative studies about the effectiveness of several ML-based systems.
+
+**Source:** https://www.semanticscholar.org/paper/4aba42ade2569170e038375d092d14322aca8132
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:41:13.967Z

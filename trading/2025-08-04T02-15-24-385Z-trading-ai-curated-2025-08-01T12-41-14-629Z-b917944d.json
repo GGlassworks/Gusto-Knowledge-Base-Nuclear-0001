@@ -1,0 +1,13 @@
+# QuantCloud: Enabling Big Data Complex Event Processing for Quantitative Finance Through a Data-Driven Execution
+
+**Authors:** Peng Zhang, Xiang Shi, S. Khan
+
+## Abstract
+Quantitative Finance (QF) utilizes increasingly sophisticated mathematic models and advanced computer techniques to predict the movement of global markets, and price the derivatives and other assets. Being able to react quickly and intelligently to fast-changing markets is a decisive success factor for trading companies. To date, the rise of QF requires an integrated toolchain of enabling technologies to carry out complex event processing on the explosive growth and diversified forms of market metadata, in pursuit of a microsecond latency on an Exabyte-level dataset. Inspired by this, we present a data-driven execution paradigm that untangles the dependencies of complex processing events and integrate the paradigm with a big data infrastructure that streams time series data. This integrated platform is termed as the QuantCloud platform. Essentially, QuantCloud executes the complex event processing in a data-driven mode and manages large amounts of diversified market data in a data-parallel mode. To show its practicability and performance, we develop a prototype and benchmark by applying real-world QF research models on the New York Stock Exchange (NYSE) data. Using this prototype, we demonstrate this platform with an application to: (i) data cleaning and aggregating (including the computing of logarithmic returns from tick data and the finding the medians of grouped data) and (ii) data modeling: the autoregressive-moving average (ARMA) model. The performance results show that (a) this platform obtains a high throughput (usually in the order of millions of tick messages per second) and a sub-microsecond latency; (b) it fully executes data-dependent tasks through a data-driven execution; and (c) it implements a modular design approach for rapidly developing these data-crunching methods and QF research models. This platform resulting from an aggregated effort of the data-driven execution and big data infrastructure, offers the financial engineers with new insights and enhanced capabilities for effective and efficient incorporation of big data complex event processing technologies in their workflow.
+
+**Source:** https://www.semanticscholar.org/paper/b255bc0b959fe46252c85f53820b62ebb770afee
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:41:14.630Z

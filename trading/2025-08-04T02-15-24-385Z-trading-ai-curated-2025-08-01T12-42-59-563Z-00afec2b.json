@@ -1,0 +1,13 @@
+# QuantCloud: A Software with Automated Parallel Python for Quantitative Finance Applications
+
+**Authors:** P. Zhang, Yu-Xiang Gao, Xiang Shi
+
+## Abstract
+Quantitative Finance is a field that replies on data analysis and big data enabling software to discover market signals. In this, a decisive factor is the speed that concerns execution speed and software development speed. So, an efficient software plays a key role in helping trading firms. Inspired by this, we present a novel software: QuantCloud to integrate a parallel Python system with a C++-coded Big Data system. C++ is used to implement this big data system and Python is used to code the user methods. The automated parallel execution of Python codes is built upon a coprocess-based parallel strategy. We test our software using two popular algorithms: moving-window and autoregressive moving-average (ARMA). We conduct an extensive comparative study between Intel Xeon E5 and Xeon Phi processors. The results show that our method achieved a nearly linear speedup for executing Python codes in parallel, prefect for today's multicore processors.
+
+**Source:** https://www.semanticscholar.org/paper/5cd8a8c8b6b8baad7e7e604ffa510b6a05a09cd4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:42:59.563Z

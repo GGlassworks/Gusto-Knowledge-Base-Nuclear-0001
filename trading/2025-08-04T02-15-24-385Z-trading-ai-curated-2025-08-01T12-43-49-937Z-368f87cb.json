@@ -1,0 +1,13 @@
+# Deep Reinforcement Learning for Quantitative Finance: Time Series Forecasting using Proximal Policy Optimization
+
+**Authors:** David Chiumera
+
+## Abstract
+Investment and financial management has existed as a field of study for quite some time, with roots in practical application. One of the approaches used in order to assist with investment decision making is the broad area of modelling. Modelling approaches can be found within multiple distinct, but still related, unique fields. These include statistics, machine learning, deep learning, reinforcement learning, discrete mathematics, dynamic programming, and many more. Not only are there multiple modelling approaches belonging to multiple different fields, but there are also different unique problems in investment management. In this work, the focus is on price prediction and concurrent strategy building. The modelling approach chosen for this is of the deep reinforcement learning type, and actor-critic class. Specifically, in this work the proximal policy optimization (PPO) architecture is employed individually on each stock’s market history in order to try and solve the price prediction problem. A custom RL environment was built to run the proposed experimental sequence and to test which parameter values should be used in regards to learning rate, discount factor, feature space, action space, and look-back length. These values were subsequently used for experiments on different datasets, exploring the portability of the model, effect of transfer learning, as well as portability of the parameter configuration. The results show our experimental sequence was successful at determining optimal values for training and that the PPO model can be effectively used for the price prediction problem, and in some instances outperform a practical B&H strategy.
+
+**Source:** https://www.semanticscholar.org/paper/a76f1980f87234580b7b86af315d7a11cba33218
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:43:49.938Z

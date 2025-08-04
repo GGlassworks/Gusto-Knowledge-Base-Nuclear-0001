@@ -1,0 +1,13 @@
+# Research on Network Intelligent Finance Data Mining and Analysis System and Quantitative Model
+
+**Authors:** Yaling Chen, Zhengdong Hu
+
+## Abstract
+Based on time series data mining, this paper studies financial data analysis systems and quantitative models to improve the service quality of financial data, improve the management efficiency of financial data, and provide financial data managers with more convenient services. When the financial data analysis system was designed, the system was divided into six modules: data collection and update function, financial consulting information management function, financial risk control management function, intelligent mining and analysis function, financial data monitoring function, and stock correlation comparison function. Among them, a data mining risk control model based on time series is established during intelligent mining. In this paper, the method of financial data prediction uses the long and short time memory algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/4aee40998a61d4171f6c773e474cd993d383dc4d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:47:23.082Z

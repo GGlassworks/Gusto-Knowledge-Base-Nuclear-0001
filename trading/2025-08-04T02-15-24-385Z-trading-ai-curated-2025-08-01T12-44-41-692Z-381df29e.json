@@ -1,0 +1,13 @@
+# Text mining arXiv: a look through quantitative finance papers
+
+**Authors:** Michele Leonardo Bianchi
+
+## Abstract
+This paper explores articles hosted on the arXiv preprint server with the aim of uncovering valuable insights hidden in this vast collection of research. Employing text mining techniques and through the application of natural language processing methods, I xamine the contents of quantitative finance papers posted in arXiv from 1997 to 2022. I extract and analyze, without relying on ad hoc software or proprietary databases, crucial information from the entire documents, including the references, to understand the topic trends over time and to find out the most cited researchers and journals in this domain. Additionally, I compare numerous algorithms for performing topic modeling, including state-of-the-art approaches.
+
+**Source:** https://www.semanticscholar.org/paper/f1ee5dee720a714a100a826e335115f7b48510f4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:44:41.692Z

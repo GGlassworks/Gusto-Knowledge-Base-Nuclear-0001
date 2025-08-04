@@ -1,0 +1,13 @@
+# Fusion of multifactor modeling and supervised learning algorithms in quantitative finance: a comparative analysis of predictive and explanatory power
+
+**Authors:** Yuqi Li
+
+## Abstract
+Abstract Finance serves as the lifeblood of the real economy’s development, fundamentally aimed at bolstering the real economy and mitigating financial risks. This paper investigates the application of machine learning technologies in finance, organizing a detailed classification and analysis of associated risks within the sector. Specifically, the study employs the Conditional Value at Risk (CoVaR) to quantify systemic financial risks. It introduces both the Fama-French three-factor and five-factor models for constructing multifactor financial models. It assesses the significance and regression coefficients of risk factors within these models to provide a comparative analysis. Moreover, this research develops an early warning model for financial risk by incorporating financial risk measurement indices into the XGBoost machine learning framework. It utilizes the SHAP (Shapley Additive exPlanations) explanatory framework to elucidate the key features influencing financial risk. This comprehensive approach not only enhances the understanding of financial risk dynamics but also advances the predictive capabilities of financial risk management. It was found that the modified R² increased from 36.52% to 56.25% after adding the IMU factor to the three-factor model, and the coefficient of SMB decreased from 0.135 to −0.215 the larger the size of the enterprise. The accuracy of the financial risk early warning model was 96.35%, and the probability of being predicted by the model to be a high-risk sample was lower when the value of the characteristic INDI was taken as [0,0.125]. Financial institutions can enhance their risk prevention ability by combining the financial risk factors obtained from the multifactor model with the supervised learning algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/4a2258fcd1c97edd0701aa88464bf6675c40ac88
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:44:41.496Z

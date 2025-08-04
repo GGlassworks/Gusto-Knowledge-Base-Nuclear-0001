@@ -1,0 +1,13 @@
+# Machine learning for quantitative finance: fast derivative pricing, hedging and fitting
+
+**Authors:** Jan De Spiegeleer, D. Madan, S. Reyners, W. Schoutens
+
+## Abstract
+In this paper, we show how we can deploy machine learning techniques in the context of traditional quant problems. We illustrate that for many classical problems, we can arrive at speed-ups of several orders of magnitude by deploying machine learning techniques based on Gaussian process regression. The price we have to pay for this extra speed is some loss of accuracy. However, we show that this reduced accuracy is often well within reasonable limits and hence very acceptable from a practical point of view. The concrete examples concern fitting and estimation. In the fitting context, we fit sophisticated Greek profiles and summarize implied volatility surfaces. In the estimation context, we reduce computation times for the calculation of vanilla option values under advanced models, the pricing of American options and the pricing of exotic options under models beyond the Black–Scholes setting.
+
+**Source:** https://www.semanticscholar.org/paper/0a76317f02098e81b735b13722ae8c799169f5e0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:41:14.555Z
