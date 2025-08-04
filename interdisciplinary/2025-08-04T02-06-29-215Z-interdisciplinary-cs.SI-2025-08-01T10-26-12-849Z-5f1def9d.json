@@ -1,0 +1,12 @@
+# A Bibliometric Horizon Scanning Methodology for Identifying Emerging Topics in the Scientific Literature
+
+**Authors:** Artjay Javier, Beth Masimore, John Chase, F. G. Serpa, John T. Rigsby, Avory Bryant, Jeffrey Solka, Ryan J. Zelnio
+
+## Summary
+A bibliometric methodology for scanning for emerging science and technology areas is described, where topics in the science, technology and innovation enterprise are discovered using Latent Dirichlet Allocation, their growth rates are modeled using first-order rate kinetics, and research specialization of various entities in these topics is measured using the location quotient. Multiple interactive visualization interfaces that integrate these results together to assist human analysts are developed. This methodology is demonstrated by analyzing the last five years of publications, patents and grants (~ 14 million documents) showing, for example, that deep learning for machine vision is the fastest growing area, and that China has a stronger focus than the U.S. in this area.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T10:26:12.849Z

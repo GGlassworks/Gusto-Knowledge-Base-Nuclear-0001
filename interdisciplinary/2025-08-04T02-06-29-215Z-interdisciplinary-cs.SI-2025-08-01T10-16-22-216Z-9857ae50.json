@@ -1,0 +1,12 @@
+# Variable-Based Network Analysis of Datasets on Data Exchange Platforms
+
+**Authors:** Teruaki Hayashi, Yukio Ohsawa
+
+## Summary
+Recently, data exchange platforms have emerged in the digital economy to enable better resource allocation in a data-driven society, which requires cross-organizational data collaborations. Understanding the characteristics of the data on these platforms is important for their application; however, the structures of such platforms have not been extensively investigated. In this study, we apply a network approach with a novel variable-based structural analysis to the metadata of datasets on two data platform services. It was noted that the structures of the data networks are locally dense and highly assortative, similar to human-related net-works. Even though the data on these platforms are designed and collected differently, depending on the use objectives, the variables of heterogeneous data exhibit a power distribution, and the data networks exhibit multi-scaling behavior. Furthermore, we found that the data collection strategies of the platforms are related to the variety of variables, density of the networks, and their robustness from the viewpoint of sustainability and social acceptability of the data platforms.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T10:16:22.216Z

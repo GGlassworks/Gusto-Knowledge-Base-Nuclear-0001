@@ -1,0 +1,12 @@
+# Entity Graphs for Exploring Online Discourse
+
+**Authors:** Nicholas Botzer, Tim Weninger
+
+## Summary
+Vast amounts of human communication occurs online. These digital traces of natural human communication along with recent advances in natural language processing technology provide for computational analysis of these discussions. In the study of social networks the typical perspective is to view users as nodes and concepts as flowing through and among the user-nodes within the social network. In the present work we take the opposite perspective: we extract and organize massive amounts of group discussion into a concept space we call an entity graph where concepts and entities are static and human communicators move about the concept space via their conversations. Framed by this perspective we performed several experiments and comparative analysis on large volumes of online discourse from Reddit. In quantitative experiments, we found that discourse was difficult to predict, especially as the conversation carried on. We also developed an interactive tool to visually inspect conversation trails over the entity graph; although they were difficult to predict, we found that conversations, in general, tended to diverge to a vast swath of topics initially, but then tended to converge to simple and popular concepts as the conversation progressed. An application of the spreading activation function from the field of cognitive psychology also provided compelling visual narratives from the data.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T10:14:19.748Z

@@ -1,0 +1,12 @@
+# Set-Asides in USDA Food Procurement Auctions
+
+**Authors:** Ni Yan, WenTing Tao
+
+## Summary
+We study the partial and full set-asides and their implication for changes in bidding behavior in first-price sealed-bid auctions in the context of United States Department of Agriculture (USDA) food procurement auctions. Using five years of bid data on different beef products, we implement weighted least squares regression models to show that partial set-aside predicts decreases in both offer prices and winning prices among large and small business bidders. Full set-aside predicts a small increase in offer prices and winning prices among small businesses. With these predictions, we infer that net profit of small businesses is unlikely to increase when set-asides are present.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:52:56.627Z

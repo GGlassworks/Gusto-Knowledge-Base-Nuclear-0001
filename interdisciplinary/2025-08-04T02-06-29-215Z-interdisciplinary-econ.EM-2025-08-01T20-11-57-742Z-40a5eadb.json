@@ -1,0 +1,12 @@
+# On Bayesian Filtering for Markov Regime Switching Models
+
+**Authors:** Nigar Hashimzade, Oleg Kirsanov, Tatiana Kirsanova, Junior Maih
+
+## Summary
+This paper presents a framework for empirical analysis of dynamic macroeconomic models using Bayesian filtering, with a specific focus on the state-space formulation of Dynamic Stochastic General Equilibrium (DSGE) models with multiple regimes. We outline the theoretical foundations of model estimation, provide the details of two families of powerful multiple-regime filters, IMM and GPB, and construct corresponding multiple-regime smoothers. A simulation exercise, based on a prototypical New Keynesian DSGE model, is used to demonstrate the computational robustness of the proposed filters and smoothers and evaluate their accuracy and speed for a selection of filters from each family. We show that the canonical IMM filter is faster and is no less, and often more, accurate than its competitors within IMM and GPB families, the latter including the commonly used Kim and Nelson (1999) filter. Using it with the matching smoother improves the precision in recovering unobserved variables by about 25 percent. Furthermore, applying it to the U.S. 1947-2023 macroeconomic time series, we successfully identify significant past policy shifts including those related to the post-Covid-19 period. Our results demonstrate the practical applicability and potential of the proposed routines in macroeconomic analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:11:57.742Z

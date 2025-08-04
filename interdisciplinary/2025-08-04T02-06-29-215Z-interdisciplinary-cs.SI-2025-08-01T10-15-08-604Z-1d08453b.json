@@ -1,0 +1,12 @@
+# Computational Propaganda Theory and Bot Detection System: Critical Literature Review
+
+**Authors:** Manita Pote
+
+## Summary
+According to the classical definition, propaganda is the management of collective attitudes by manipulation of significant symbols. However this definition has changed to computational propaganda, the way manipulation takes place in digital medium. Computational propaganda is the use of algorithms, automation and human curation to purposefully distribute misleading information over social media networks to manipulate public opinion, for political polarization etc. Digital media platforms have introduced new modalities of propaganda such as the use of social bots and state-organized 'troll armies' for social astroturfing to simulate public support or opposition towards a particular topic. Along with this digital media has blurred the line between different forms of propaganda. Hence existing conceptual and epistemological frameworks in propaganda studies need a revision. One of the methods to detect the computational propaganda is to identify automation and bots. Many supervised machine learning based frameworks have been proposed for bot detection but these systems can only identify single accounts, not the coordinated activities of botnets and also these systems depend on the data structure provided by the social media platforms. Similarly, current systems have not included the image features in their detection system. Most of the systems are mainly built for Twitter while there are still uncharted areas of research in other social media platforms. Therefore, there are many unexplored research questions and methods in bot detection systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T10:15:08.604Z

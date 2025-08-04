@@ -1,0 +1,12 @@
+# Estimation of Impulse-Response Functions with Dynamic Factor Models: A New Parametrization
+
+**Authors:** Juho Koistinen, Bernd Funovits
+
+## Summary
+We propose a new parametrization for the estimation and identification of the impulse-response functions (IRFs) of dynamic factor models (DFMs). The theoretical contribution of this paper concerns the problem of observational equivalence between different IRFs, which implies non-identification of the IRF parameters without further restrictions. We show how the previously proposed minimal identification conditions are nested in the new framework and can be further augmented with overidentifying restrictions leading to efficiency gains. The current standard practice for the IRF estimation of DFMs is based on principal components, compared to which the new parametrization is less restrictive and allows for modelling richer dynamics. As the empirical contribution of the paper, we develop an estimation method based on the EM algorithm, which incorporates the proposed identification restrictions. In the empirical application, we use a standard high-dimensional macroeconomic dataset to estimate the effects of a monetary policy shock. We estimate a strong reaction of the macroeconomic variables, while the benchmark models appear to give qualitatively counterintuitive results. The estimation methods are implemented in the accompanying R package.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:19:08.089Z

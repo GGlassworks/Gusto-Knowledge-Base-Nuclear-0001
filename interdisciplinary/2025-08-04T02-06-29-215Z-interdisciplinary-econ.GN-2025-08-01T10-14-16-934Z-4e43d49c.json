@@ -1,0 +1,12 @@
+# Predicting Political Ideology from Digital Footprints
+
+**Authors:** Michael Kitchener, Nandini Anantharama, Simon D. Angus, Paul A. Raschky
+
+## Summary
+This paper proposes a new method to predict individual political ideology from digital footprints on one of the world's largest online discussion forum. We compiled a unique data set from the online discussion forum reddit that contains information on the political ideology of around 91,000 users as well as records of their comment frequency and the comments' text corpus in over 190,000 different subforums of interest. Applying a set of statistical learning approaches, we show that information about activity in non-political discussion forums alone, can very accurately predict a user's political ideology. Depending on the model, we are able to predict the economic dimension of ideology with an accuracy of up to 90.63% and the social dimension with and accuracy of up to 82.02%. In comparison, using the textual features from actual comments does not improve predictive accuracy. Our paper highlights the importance of revealed digital behaviour to complement stated preferences from digital communication when analysing human preferences and behaviour using online data.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T10:14:16.934Z

@@ -1,0 +1,12 @@
+# An integrated debris environment assessment model
+
+**Authors:** Akhil Rao, Francesca Letizia
+
+## Summary
+Launch behaviors are a key determinant of the orbital environment. Physical and economic forces such as fragmentations and changing launch costs, or policies like post-mission disposal (PMD) compliance requirements, will alter the relative attractiveness of different orbits and lead operators to adjust their launch behaviors. However, integrating models of adaptive launch behavior with models of the debris environment remains an open challenge. We present a statistical framework for integrating theoretically-grounded models of launch behavior with evolutionary models of the low-Earth orbit (LEO) environment. We implement this framework using data on satellite launches, the orbital environment, launch vehicle prices, sectoral revenues, and government budgets over 2007-2020. The data are combined with a multi-shell and multi-species Particle-in-a-Box (PIB) model of the debris environment and a two-stage budgeting model of commercial, civil government, and defense decisions to allocate new launches across orbital shells. We demonstrate the framework's capabilities in three counterfactual scenarios: unexpected fragmentation events in highly-used regions, a sharp decrease in the cost of accessing lower parts of LEO, and increasing compliance with 25-year PMD guidelines. Substitution across orbits based on their evolving characteristics and the behavior of other operators induces notable changes in the debris environment relative to models without behavioral channels.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:45:27.699Z

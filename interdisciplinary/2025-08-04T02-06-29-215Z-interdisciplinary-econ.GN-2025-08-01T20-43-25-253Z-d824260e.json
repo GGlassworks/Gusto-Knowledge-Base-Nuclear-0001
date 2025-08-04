@@ -1,0 +1,12 @@
+# Modeling Managerial Search Behavior based on Simon's Concept of Satisficing
+
+**Authors:** Friederike Wall
+
+## Summary
+Computational models of managerial search often build on backward-looking search based on hill-climbing algorithms. Regardless of its prevalence, there is some evidence that this family of algorithms does not universally represent managers' search behavior. Against this background, the paper proposes an alternative algorithm that captures key elements of Simon's concept of satisficing which received considerable support in behavioral experiments. The paper contrasts the satisficing-based algorithm to two variants of hill-climbing search in an agent-based model of a simple decision-making organization. The model builds on the framework of NK fitness landscapes which allows controlling for the complexity of the decision problem to be solved. The results suggest that the model's behavior may remarkably differ depending on whether satisficing or hill-climbing serves as an algorithmic representation for decision-makers' search. Moreover, with the satisficing algorithm, results indicate oscillating aspiration levels, even to the negative, and intense - and potentially destabilizing - search activities when intra-organizational complexity increases. Findings may shed some new light on prior computational models of decision-making in organizations and point to avenues for future research.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:43:25.253Z

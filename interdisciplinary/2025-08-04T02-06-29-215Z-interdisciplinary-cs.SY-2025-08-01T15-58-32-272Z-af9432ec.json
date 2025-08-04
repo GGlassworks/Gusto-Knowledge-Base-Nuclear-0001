@@ -1,0 +1,12 @@
+# Ensemble Kalman Filters (EnKF) for State Estimation and Prediction of Two-time Scale Nonlinear Systems with Application to Gas Turbine Engines
+
+**Authors:** Najmeh Daroogheh, Nader Meskin, Khashayar Khorasani
+
+## Summary
+In this paper, we propose and develop a methodology for nonlinear systems health monitoring by modeling the damage and degradation mechanism dynamics as "slow" states that are augmented with the system "fast" dynamical states. This augmentation results in a two-time scale nonlinear system that is utilized for development of health estimation and prediction modules within a health monitoring framework. Towards this end, a two-time scale filtering approach is developed based on the ensemble Kalman filtering (EnKF) approach by taking advantage of the model reduction concept. The performance of our proposed two-time scale ensemble Kalman filters is shown to be superior and less computationally intensive in terms of the equivalent flop (EF) complexity metric when compared to well-known particle filtering (PF) approaches. Our proposed methodology is then applied to a gas turbine engine that is affected by erosion of the turbine as the degradation phenomenon and damage mechanism. Extensive comparative studies are conducted to validate and demonstrate the advantages and capabilities of our proposed framework and methodology.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SY
+Collected: 2025-08-01T15:58:32.272Z

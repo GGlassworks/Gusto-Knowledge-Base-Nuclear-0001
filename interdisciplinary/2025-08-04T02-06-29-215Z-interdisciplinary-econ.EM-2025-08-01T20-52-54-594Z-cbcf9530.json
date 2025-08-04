@@ -1,0 +1,12 @@
+# A step-by-step guide to design, implement, and analyze a discrete choice experiment
+
+**Authors:** Daniel Pérez-Troncoso
+
+## Summary
+Discrete Choice Experiments (DCE) have been widely used in health economics, environmental valuation, and other disciplines. However, there is a lack of resources disclosing the whole procedure of carrying out a DCE. This document aims to assist anyone wishing to use the power of DCEs to understand people's behavior by providing a comprehensive guide to the procedure. This guide contains all the code needed to design, implement, and analyze a DCE using only free software.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:52:54.595Z

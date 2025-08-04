@@ -1,0 +1,12 @@
+# A Data Fusion Approach for Ride-sourcing Demand Estimation: A Discrete Choice Model with Sampling and Endogeneity Corrections
+
+**Authors:** Rico Krueger, Michel Bierlaire, Prateek Bansal
+
+## Summary
+Ride-sourcing services offered by companies like Uber and Didi have grown rapidly in the last decade. Understanding the demand for these services is essential for planning and managing modern transportation systems. Existing studies develop statistical models for ride-sourcing demand estimation at an aggregate level due to limited data availability. These models lack foundations in microeconomic theory, ignore competition of ride-sourcing with other travel modes, and cannot be seamlessly integrated into existing individual-level (disaggregate) activity-based models to evaluate system-level impacts of ride-sourcing services. In this paper, we present and apply an approach for estimating ride-sourcing demand at a disaggregate level using discrete choice models and multiple data sources. We first construct a sample of trip-based mode choices in Chicago, USA by enriching household travel survey with publicly available ride-sourcing and taxi trip records. We then formulate a multivariate extreme value-based discrete choice with sampling and endogeneity corrections to account for the construction of the estimation sample from multiple data sources and endogeneity biases arising from supply-side constraints and surge pricing mechanisms in ride-sourcing systems. Our analysis of the constructed dataset reveals insights into the influence of various socio-economic, land use and built environment features on ride-sourcing demand. We also derive elasticities of ride-sourcing demand relative to travel cost and time. Finally, we illustrate how the developed model can be employed to quantify the welfare implications of ride-sourcing policies and regulations such as terminating certain types of services and introducing ride-sourcing taxes.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:37:16.255Z

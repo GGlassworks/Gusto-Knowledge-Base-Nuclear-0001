@@ -1,0 +1,12 @@
+# Analyzing a Complex Game for the South China Sea Fishing Dispute using Response Surface Methodologies
+
+**Authors:** Michael Macgregor Perry
+
+## Summary
+The South China Sea (SCS) is one of the most economically valuable resources on the planet, and as such has become a source of territorial disputes between its bordering nations. Among other things, states compete to harvest the multitude of fish species in the SCS. In an effort to gain a competitive advantage states have turned to increased maritime patrols, as well as the use of "maritime militias," which are fishermen armed with martial assets to resist the influence of patrols. This conflict suggests a game of strategic resource allocation where states allocate patrols intelligently to earn the greatest possible utility. The game, however, is quite computationally challenging when considering its size (there are several distinct fisheries in the SCS), the nonlinear nature of biomass growth, and the influence of patrol allocations on costs imposed on fishermen. Further, uncertainty in player behavior attributed to modeling error requires a robust analysis to fully capture the dispute's dynamics. To model such a complex scenario, this paper employs a response surface methodology to assess optimal patrolling strategies and their impact on realized utilities. The methodology developed successfully finds strategies which are more robust to behavioral uncertainty than a more straight-forward method.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:48:31.535Z

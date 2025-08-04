@@ -1,0 +1,12 @@
+# Regime-Switching Density Forecasts Using Economists' Scenarios
+
+**Authors:** Graziano Moramarco
+
+## Summary
+We propose an approach for generating macroeconomic density forecasts that incorporate information on multiple scenarios defined by experts. We adopt a regime-switching framework in which sets of scenarios ("views") are used as Bayesian priors on economic regimes. Predictive densities coming from different views are then combined by optimizing objective functions of density forecasting. We illustrate the approach with an empirical application to quarterly real-time forecasts of U.S. GDP growth, in which we exploit the Fed's macroeconomic scenarios used for bank stress tests. We show that the approach achieves good accuracy in terms of average predictive scores and good calibration of forecast distributions. Moreover, it can be used to evaluate the contribution of economists' scenarios to density forecast performance.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:07:52.751Z

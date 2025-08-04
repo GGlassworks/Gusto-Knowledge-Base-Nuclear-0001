@@ -1,0 +1,12 @@
+# Multidimensional dynamic factor models
+
+**Authors:** Matteo Barigozzi, Filippo Pellegrino
+
+## Summary
+This paper generalises dynamic factor models for multidimensional dependent data. In doing so, it develops an interpretable technique to study complex information sources ranging from repeated surveys with a varying number of respondents to panels of satellite images. We specialise our results to model microeconomic data on US households jointly with macroeconomic aggregates. This results in a powerful tool able to generate localised predictions, counterfactuals and impulse response functions for individual households, accounting for traditional time-series complexities depicted in the state-space literature. The model is also compatible with the growing focus of policymakers for real-time economic analysis as it is able to process observations online, while handling missing values and asynchronous data releases.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:27:49.331Z

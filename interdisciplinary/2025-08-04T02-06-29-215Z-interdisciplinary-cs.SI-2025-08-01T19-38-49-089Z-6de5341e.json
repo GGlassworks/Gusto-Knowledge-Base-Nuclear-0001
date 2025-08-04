@@ -1,0 +1,12 @@
+# Frequent Pattern Mining in Continuous-time Temporal Networks
+
+**Authors:** Ali Jazayeri, Christopher C. Yang
+
+## Summary
+Networks are used as highly expressive tools in different disciplines. In recent years, the analysis and mining of temporal networks have attracted substantial attention. Frequent pattern mining is considered an essential task in the network science literature. In addition to the numerous applications, the investigation of frequent pattern mining in networks directly impacts other analytical approaches, such as clustering, quasi-clique and clique mining, and link prediction. In nearly all the algorithms proposed for frequent pattern mining in temporal networks, the networks are represented as sequences of static networks. Then, the inter- or intra-network patterns are mined. This type of representation imposes a computation-expressiveness trade-off to the mining problem. In this paper, we propose a novel representation that can preserve the temporal aspects of the network losslessly. Then, we introduce the concept of constrained interval graphs (CIGs). Next, we develop a series of algorithms for mining the complete set of frequent temporal patterns in a temporal network data set. We also consider four different definitions of isomorphism to allow noise tolerance in temporal data collection. Implementing the algorithm for three real-world data sets proves the practicality of the proposed algorithm and its capability to discover unknown patterns in various settings.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T19:38:49.090Z

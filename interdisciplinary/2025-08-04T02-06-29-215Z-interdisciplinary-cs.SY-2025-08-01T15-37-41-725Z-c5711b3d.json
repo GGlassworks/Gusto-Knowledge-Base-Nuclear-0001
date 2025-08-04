@@ -1,0 +1,12 @@
+# Recent Progress in Optimization of Multiband Electrical Filters
+
+**Authors:** Andrei Bogatyrëv
+
+## Summary
+The best uniform rational approximation of the \emph{sign} function on two intervals was explicitly found by Russian mathematician E.I. Zolotar\"ev in 1877. The progress in math eventually led to the progress in technology: half a century later German electrical engineer and physicist W.Cauer has invented low- and high-pass electrical filters known today as elliptic or Cauer-Zolotar\"ev filters and possessing the unbeatable quality. We discuss a recently developed approach for the solution of optimization problem naturally arising in the synthesis of multi-band (analogue, digital or microwave) electrical filters. The approach is based on techniques from algebraic geometry and generalizes the effective representation of Zolotar\"ev fraction.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SY
+Collected: 2025-08-01T15:37:41.726Z

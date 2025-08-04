@@ -1,0 +1,12 @@
+# Land use change in agricultural systems: an integrated ecological-social simulation model of farmer decisions and cropping system performance based on a cellular automata approach
+
+**Authors:** Diego Ferraro, Daniela Blanco, Sebastián Pessah, Rodrigo Castro
+
+## Summary
+Agricultural systems experience land-use changes that are driven by population growth and intensification of technological inputs. This results in land-use and cover change (LUCC) dynamics representing a complex landscape transformation process. In order to study the LUCC process we developed a spatially explicit agent-based model in the form of a Cellular Automata implemented with the Cell-DEVS formalism. The resulting model called AgroDEVS is used for predicting LUCC dynamics along with their associated economic and environmental changes. AgroDEVS is structured using behavioral rules and functions representing a) crop yields, b) weather conditions, c) economic profit, d) farmer preferences, e) technology level adoption and f) natural resources consumption based on embodied energy accounting. Using data from a typical location of the Pampa region (Argentina) for the 1988-2015 period, simulation exercises showed that the economic goals were achieved, on average, each 6 out of 10 years, but the environmental thresholds were only achieved in 1.9 out of 10 years. In a set of 50-years simulations, LUCC patterns quickly converge towards the most profitable crop sequences, with no noticeable tradeoff between the economic and environmental conditions.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:52:55.492Z

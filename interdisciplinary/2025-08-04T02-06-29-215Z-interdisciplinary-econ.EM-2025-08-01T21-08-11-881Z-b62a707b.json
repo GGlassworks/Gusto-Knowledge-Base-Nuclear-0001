@@ -1,0 +1,12 @@
+# Efficient Score Computation and Expectation-Maximization Algorithm in Regime-Switching Models
+
+**Authors:** Chaojun Li, Shi Qiu
+
+## Summary
+This study proposes an efficient algorithm for score computation for regime-switching models, and derived from which, an efficient expectation-maximization (EM) algorithm. Different from existing algorithms, this algorithm does not rely on the forward-backward filtering for smoothed regime probabilities, and only involves forward computation. Moreover, the algorithm to compute score is readily extended to compute the Hessian matrix.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T21:08:11.883Z

@@ -1,0 +1,12 @@
+# BVARs and Stochastic Volatility
+
+**Authors:** Joshua Chan
+
+## Summary
+Bayesian vector autoregressions (BVARs) are the workhorse in macroeconomic forecasting. Research in the last decade has established the importance of allowing time-varying volatility to capture both secular and cyclical variations in macroeconomic uncertainty. This recognition, together with the growing availability of large datasets, has propelled a surge in recent research in building stochastic volatility models suitable for large BVARs. Some of these new models are also equipped with additional features that are especially desirable for large systems, such as order invariance -- i.e., estimates are not dependent on how the variables are ordered in the BVAR -- and robustness against COVID-19 outliers. Estimation of these large, flexible models is made possible by the recently developed equation-by-equation approach that drastically reduces the computational cost of estimating large systems. Despite these recent advances, there remains much ongoing work, such as the development of parsimonious approaches for time-varying coefficients and other types of nonlinearities in large BVARs.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:16:08.761Z

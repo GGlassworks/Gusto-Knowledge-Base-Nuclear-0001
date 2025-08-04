@@ -1,0 +1,12 @@
+# Convex Stochastic Dominance in Bayesian Localization, Filtering and Controlled Sensing POMDPs
+
+**Authors:** Vikram Krishnamurthy
+
+## Summary
+This paper provides conditions on the observation probability distribution in Bayesian localization and optimal filtering so that the conditional mean estimate satisfies convex stochastic dominance. Convex dominance allows us to compare the unconditional mean square error between two optimal Bayesian state estimators over arbitrary time horizons instead of using brute force Monte-Carlo computations. The proof uses two key ideas from microeconomics, namely, integral precision dominance and aggregation of single crossing.The convex dominance result is then used to give sufficient conditions so that the optimal policy of a controlled sensing two-state partially observed Markov decision process (POMDP) is lower bounded by a myopic policy. Numerical examples are presented where the Shannon capacity of the observation distribution using one sensor dominates that of another, and convex dominance holds but Blackwell dominance does not hold. These illustrate the usefulness of the main result in localization, filtering and controlled sensing applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SY
+Collected: 2025-08-01T20:25:36.242Z

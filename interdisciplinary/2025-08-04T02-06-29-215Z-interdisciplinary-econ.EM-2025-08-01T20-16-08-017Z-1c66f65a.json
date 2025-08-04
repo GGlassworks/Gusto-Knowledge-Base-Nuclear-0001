@@ -1,0 +1,12 @@
+# Efficient Estimation of State-Space Mixed-Frequency VARs: A Precision-Based Approach
+
+**Authors:** Joshua C. C. Chan, Aubrey Poon, Dan Zhu
+
+## Summary
+State-space mixed-frequency vector autoregressions are now widely used for nowcasting. Despite their popularity, estimating such models can be computationally intensive, especially for large systems with stochastic volatility. To tackle the computational challenges, we propose two novel precision-based samplers to draw the missing observations of the low-frequency variables in these models, building on recent advances in the band and sparse matrix algorithms for state-space models. We show via a simulation study that the proposed methods are more numerically accurate and computationally efficient compared to standard Kalman-filter based methods. We demonstrate how the proposed method can be applied in two empirical macroeconomic applications: estimating the monthly output gap and studying the response of GDP to a monetary policy shock at the monthly frequency. Results from these two empirical applications highlight the importance of incorporating high-frequency indicators in macroeconomic models.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:16:08.018Z

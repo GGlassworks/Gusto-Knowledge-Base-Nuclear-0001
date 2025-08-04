@@ -1,0 +1,12 @@
+# Spectral Toolkit of Algorithms for Graphs: Technical Report (1)
+
+**Authors:** Peter Macgregor, He Sun
+
+## Summary
+Spectral Toolkit of Algorithms for Graphs (STAG) is an open-source library for efficient spectral graph algorithms, and its development starts in September 2022. We have so far finished the component on local graph clustering, and this technical report presents a user's guide to STAG, showcase studies, and several technical considerations behind our development.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T21:16:01.248Z

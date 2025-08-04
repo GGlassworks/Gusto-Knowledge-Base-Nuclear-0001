@@ -1,0 +1,12 @@
+# Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?
+
+**Authors:** Verónica Bäcker-Peral, Vitaly Meursault, Christopher Severen
+
+## Summary
+Multimodal LLMs offer a watershed change for the digitization of historical tables, enabling low-cost processing centered on domain expertise rather than technical skills. We rigorously validate an LLM-based pipeline on a new panel of historical county-level vehicle registrations. This pipeline is 100 times less expensive than outsourcing, reduces critical parsing errors from 40% to 0.3%, and matches human-validated gold standard data with an $R^2$ of 98.6%. Analyses of growth and persistence in vehicle adoption are statistically indistinguishable whether using LLM or gold standard data. LLM-based digitization unlocks complex historical tables, enabling new economic analyses and broader researcher participation.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T10:14:17.048Z

@@ -1,0 +1,12 @@
+# From Electric Circuits to Chemical Networks
+
+**Authors:** Luca Cardelli, Mirco Tribastone, Max Tschaikowski
+
+## Summary
+Electric circuits manipulate electric charge and magnetic flux via a small set of discrete components to implement useful functionality over continuous time-varying signals represented by currents and voltages. Much of the same functionality is useful to biological organisms, where it is implemented by a completely different set of discrete components (typically proteins) and signal representations (typically via concentrations). We describe how to take a linear electric circuit and systematically convert it to a chemical reaction network of the same functionality, as a dynamical system. Both the structure and the components of the electric circuit are dissolved in the process, but the resulting chemical network is intelligible. This approach provides access to a large library of well-studied devices, from analog electronics, whose chemical network realization can be compared to natural biochemical networks, or used to engineer synthetic biochemical networks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SY
+Collected: 2025-08-01T15:47:05.776Z

@@ -1,0 +1,12 @@
+# A stakeholder-oriented multi-criteria optimization model for decentral multi-energy systems
+
+**Authors:** Nils Körber, Maximilian Röhrig, Andreas Ulbig
+
+## Summary
+The decarbonization of municipal and district energy systems requires economic and ecologic efficient transformation strategies in a wide spectrum of technical options. Especially under the consideration of multi-energy systems, which connect energy domains such as heat and electricity supply, expansion and operational planning of so-called decentral multi-energy systems (DMES) holds a multiplicity of complexities. This motivates the use of optimization problems, which reach their limitations with regard to computational feasibility in combination with the required level of detail. With an increased focus on DMES implementation, this problem is aggravated since, moving away from the traditional system perspective, a user-centered, market-integrated perspective is assumed. Besides technical concepts it requires the consideration of market regimes, e.g. self-consumption and the broader energy sharing. This highlights the need for DMES optimization models which cover a microeconomic perspective under consideration of detailed technical options and energy regulation, in order to understand mutual technical and socio-economic and -ecologic interactions of energy policies. In this context we present a stakeholder-oriented multi-criteria optimization model for DMES, which addresses technical aspects, as well as market and services coverage towards a real-world implementation. The current work bridges a gap between the required modelling level of detail and computational feasibility of DMES expansion and operation optimization. Model detail is achieved by the application of a hybrid combination of mathematical methods in a nested multi-level decomposition approach, including a Genetic Algorithm, Benders Decomposition and Lagrange Relaxation. This also allows for distributed computation on multi-node high performance computer clusters.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:36:18.268Z

@@ -1,0 +1,12 @@
+# A Picture for the Words! Textual Visualization in Big Data Analytics
+
+**Authors:** Cherilyn Conner, Jim Samuel, Andrey Kretinin, Yana Samuel, Lee Nadeau
+
+## Summary
+Data Visualization has become an important aspect of big data analytics and has grown in sophistication and variety. We specifically identify the need for an analytical framework for data visualization with textual information. Data visualization is a powerful mechanism to represent data, but the usage of specific graphical representations needs to be better understood and classified to validate appropriate representation in the contexts of textual data and avoid distorted depictions of underlying textual data. We identify prominent textual data visualization approaches and discuss their characteristics. We discuss the use of multiple graph types in textual data visualization, including the use of quantity, sense, trend and context textual data visualization. We create an explanatory classification framework to position textual data visualization in a unique way so as to provide insights and assist in appropriate method or graphical representation classification.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T19:47:59.985Z

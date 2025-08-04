@@ -1,0 +1,12 @@
+# Time will tell - Recovering Preferences when Choices are Noisy
+
+**Authors:** Carlos Alos-Ferrer, Ernst Fehr, Nick Netzer
+
+## Summary
+The ability to uncover preferences from choices is fundamental for both positive economics and welfare analysis. Overwhelming evidence shows that choice is stochastic, which has given rise to random utility models as the dominant paradigm in applied microeconomics. However, as is well known, it is not possible to infer the structure of preferences in the absence of assumptions on the structure of noise. This makes it impossible to empirically test the structure of noise independently from the structure of preferences. Here, we show that the difficulty can be bypassed if data sets are enlarged to include response times. A simple condition on response time distributions (a weaker version of first order stochastic dominance) ensures that choices reveal preferences without assumptions on the structure of utility noise. Sharper results are obtained if the analysis is restricted to specific classes of models. Under symmetric noise, response times allow to uncover preferences for choice pairs outside the data set, and if noise is Fechnerian, even choice probabilities can be forecast out of sample. We conclude by showing that standard random utility models from economics and standard drift-diffusion models from psychology necessarily generate data sets fulfilling our sufficient condition on response time distributions.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:31:06.933Z

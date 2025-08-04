@@ -1,0 +1,12 @@
+# Individual Causal Inference Using Panel Data With Multiple Outcomes
+
+**Authors:** Wei Tian
+
+## Summary
+Policy evaluation in empirical microeconomics has been focusing on estimating the average treatment effect and more recently the heterogeneous treatment effects, often relying on the unconfoundedness assumption. We propose a method based on the interactive fixed effects model to estimate treatment effects at the individual level, which allows both the treatment assignment and the potential outcomes to be correlated with the unobserved individual characteristics. This method is suitable for panel datasets where multiple related outcomes are observed for a large number of individuals over a small number of time periods. Monte Carlo simulations show that our method outperforms related methods. To illustrate our method, we provide an example of estimating the effect of health insurance coverage on individual usage of hospital emergency departments using the Oregon Health Insurance Experiment data.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:37:14.809Z

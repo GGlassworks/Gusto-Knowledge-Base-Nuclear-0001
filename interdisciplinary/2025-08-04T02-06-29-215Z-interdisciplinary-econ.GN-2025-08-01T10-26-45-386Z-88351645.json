@@ -1,0 +1,12 @@
+# A Rule-Based Methodology for Company Identification: Application to the Downstream Space Sector
+
+**Authors:** Kenza Bousedra, Pierre Pelletier
+
+## Summary
+This paper proposes an original methodology based on Named Entity Recognition (NER) to identify companies involved in downstream space activities, i.e., companies that provide services or products exploiting data and technology from space. Using a rule-based approach, the method leverages a corpus of texts from digitized French press articles to extract company names related to the downstream space segment. This approach allowed the detection of 88 new downstream space companies, enriching the existing database of the sector by 33\%. The paper details the identification process and provides guidelines for future replications, applying the method to other geographic areas, or adapting it to other industries where new entrants are challenging to identify using traditional activity classifications.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T10:26:45.387Z

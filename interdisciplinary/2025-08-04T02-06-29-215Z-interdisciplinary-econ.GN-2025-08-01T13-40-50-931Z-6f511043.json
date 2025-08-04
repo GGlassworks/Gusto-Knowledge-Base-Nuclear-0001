@@ -1,0 +1,12 @@
+# Private MEV Protection RPCs: Benchmark Stud
+
+**Authors:** Paul Janicot, Alex Vinyas
+
+## Summary
+Decentralized Finance (DeFi) on Ethereum has undergone significant transformations since its emergence during the DeFi summer of 2020. With the introduction of Proof of Stake (PoS) and Proposer-Builder Separation (PBS), the transaction supply chain on Ethereum has shifted from relying entirely on the public mempool for DeFi interactions to an astonishing 80% usage of private RPCs. These private RPCs submit transactions directly to builders, skipping the public mempool, while conducting Order Flow Auctions (OFAs) to capture MEV backrun rebates and gas rebates. Our findings reveal that not all RPCs OFAs produce the same outcomes. These insights underscore the significant implications of OFA design choices on transaction efficiency and execution quality, and thus why an order flow originators should pay close attention to which OFA they use.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T13:40:50.932Z

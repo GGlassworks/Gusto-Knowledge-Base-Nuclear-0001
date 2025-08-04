@@ -1,0 +1,12 @@
+# Random Subspace Local Projections
+
+**Authors:** Viet Hoang Dinh, Didier Nibbering, Benjamin Wong
+
+## Summary
+We show how random subspace methods can be adapted to estimating local projections with many controls. Random subspace methods have their roots in the machine learning literature and are implemented by averaging over regressions estimated over different combinations of subsets of these controls. We document three key results: (i) Our approach can successfully recover the impulse response functions across Monte Carlo experiments representative of different macroeconomic settings and identification schemes. (ii) Our results suggest that random subspace methods are more accurate than other dimension reduction methods if the underlying large dataset has a factor structure similar to typical macroeconomic datasets such as FRED-MD. (iii) Our approach leads to differences in the estimated impulse response functions relative to benchmark methods when applied to two widely studied empirical applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:19:08.254Z

@@ -1,0 +1,12 @@
+# Estimation of a Heterogeneous Demand Function with Berkson Errors
+
+**Authors:** Richard Blundell, Joel Horowitz, Matthias Parey
+
+## Summary
+Berkson errors are commonplace in empirical microeconomics. In consumer demand this form of measurement error occurs when the price an individual pays is measured by the (weighted) average price paid by individuals in a specified group (e.g., a county), rather than the true transaction price. We show the importance of such measurement errors for the estimation of demand in a setting with nonseparable unobserved heterogeneity. We develop a consistent estimator using external information on the true distribution of prices. Examining the demand for gasoline in the U.S., we document substantial within-market price variability, and show that there are significant spatial differences in the magnitude of Berkson errors across regions of the U.S. Accounting for Berkson errors is found to be quantitatively important for estimating price effects and for welfare calculations. Imposing the Slutsky shape constraint greatly reduces the sensitivity to Berkson errors.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:35:13.968Z

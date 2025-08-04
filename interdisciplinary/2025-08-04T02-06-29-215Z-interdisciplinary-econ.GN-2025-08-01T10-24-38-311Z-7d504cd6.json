@@ -1,0 +1,12 @@
+# Application of accelerated life testing in human reliability analysis
+
+**Authors:** Rasoul Jamshidi, Mohammad Ebrahim Sadeghi
+
+## Summary
+As manufacturers and technologies become more complicated, manufacturing errors such as machine failure and human error have also been considered more over the past. Since machines and humans are not error-proof, managing the machines and human errors is a significant challenge in manufacturing systems. There are numerous methods for investigating human errors, fatigue, and reliability that categorized under Human Reliability Analysis (HRA) methods. HRA methods use some qualitative factors named Performance Shaping Factors (PSFs) to estimate Human Error Probability (HEP). Since the PSFs can be considered as the acceleration factors in Accelerated Life Test (ALT). We developed a method for Accelerated Human Fatigue Test (AHFT) to calculate human fatigue, according to fatigue rate and other effective factors. The proposed method reduces the time and cost of human fatigue calculation. AHFT first extracts the important factors affecting human fatigue using Principal Component Analysis (PCA) and then uses the accelerated test to calculate the effect of PSFs on human fatigue. The proposed method has been applied to a real case, and the provided results show that human fatigue can be calculated more effectively using the proposed method.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T10:24:38.311Z

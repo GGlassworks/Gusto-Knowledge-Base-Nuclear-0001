@@ -1,0 +1,12 @@
+# Testing for Threshold Effects in Presence of Heteroskedasticity and Measurement Error with an application to Italian Strikes
+
+**Authors:** Francesco Angelini, Massimiliano Castellani, Simone Giannerini, Greta Goracci
+
+## Summary
+Many macroeconomic time series are characterised by nonlinearity both in the conditional mean and in the conditional variance and, in practice, it is important to investigate separately these two aspects. Here we address the issue of testing for threshold nonlinearity in the conditional mean, in the presence of conditional heteroskedasticity. We propose a supremum Lagrange Multiplier approach to test a linear ARMA-GARCH model against the alternative of a TARMA-GARCH model. We derive the asymptotic null distribution of the test statistic and this requires novel results since the difficulties of working with nuisance parameters, absent under the null hypothesis, are amplified by the non-linear moving average, combined with GARCH-type innovations. We show that tests that do not account for heteroskedasticity fail to achieve the correct size even for large sample sizes. Moreover, we show that the TARMA specification naturally accounts for the ubiquitous presence of measurement error that affects macroeconomic data. We apply the results to analyse the time series of Italian strikes and we show that the TARMA-GARCH specification is consistent with the relevant macroeconomic theory while capturing the main features of the Italian strikes dynamics, such as asymmetric cycles and regime-switching.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T10:59:23.388Z

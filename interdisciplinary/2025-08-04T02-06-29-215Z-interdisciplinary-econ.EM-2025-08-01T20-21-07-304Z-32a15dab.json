@@ -1,0 +1,12 @@
+# Structural Periodic Vector Autoregressions
+
+**Authors:** Daniel Dzikowski, Carsten Jentsch
+
+## Summary
+While seasonality inherent to raw macroeconomic data is commonly removed by seasonal adjustment techniques before it is used for structural inference, this approach might distort valuable information contained in the data. As an alternative method to commonly used structural vector autoregressions (SVAR) for seasonally adjusted macroeconomic data, this paper offers an approach in which the periodicity of not seasonally adjusted raw data is modeled directly by structural periodic vector autoregressions (SPVAR) that are based on periodic vector autoregressions (PVAR) as the reduced form model. In comparison to a VAR, the PVAR does allow not only for periodically time-varying intercepts, but also for periodic autoregressive parameters and innovations variances, respectively. As this larger flexibility leads also to an increased number of parameters, we propose linearly constrained estimation techniques. Overall, SPVARs allow to capture seasonal effects and enable a direct and more refined analysis of seasonal patterns in macroeconomic data, which can provide useful insights into their dynamics. Moreover, based on such SPVARs, we propose a general concept for structural impulse response analyses that takes seasonal patterns directly into account. We provide asymptotic theory for estimators of periodic reduced form parameters and structural impulse responses under flexible linear restrictions. Further, for the construction of confidence intervals, we propose residual-based (seasonal) bootstrap methods that allow for general forms of seasonalities in the data and prove its bootstrap consistency. A real data application on industrial production, inflation and federal funds rate is presented, showing that useful information about the data structure can be lost when using common seasonal adjustment methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.EM
+Collected: 2025-08-01T20:21:07.305Z

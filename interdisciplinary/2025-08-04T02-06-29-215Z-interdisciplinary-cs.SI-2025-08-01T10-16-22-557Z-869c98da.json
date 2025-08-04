@@ -1,0 +1,12 @@
+# A comparative study of Bot Detection techniques methods with an application related to Covid-19 discourse on Twitter
+
+**Authors:** Marzia Antenore, Jose M. Camacho-Rodriguez, Emanuele Panizzi
+
+## Summary
+Bot Detection is an essential asset in a period where Online Social Networks(OSN) is a part of our lives. This task becomes more relevant in crises, as the Covid-19 pandemic, where there is an incipient risk of proliferation of social bots, producing a possible source of misinformation. In order to address this issue, it has been compared different methods to detect automatically social bots on Twitter using Data Selection. The techniques utilized to elaborate the bot detection models include the utilization of features as the tweets metadata or the Digital Fingerprint of the Twitter accounts. In addition, it was analyzed the presence of bots in tweets from different periods of the first months of the Covid-19 pandemic, using the bot detection technique which best fits the scope of the task. Moreover, this work includes also analysis over aspects regarding the discourse of bots and humans, such as sentiment or hashtag utilization.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T10:16:22.557Z

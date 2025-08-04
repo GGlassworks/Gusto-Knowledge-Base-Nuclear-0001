@@ -1,0 +1,12 @@
+# Rudder Augmented Trajectory Correction for Small UAV to Minimize Lateral Image Errors
+
+**Authors:** Thomas Fisher, Rajnikant Sharma
+
+## Summary
+Civil applications for unmanned aerial vehicles (UAVs) have increased rapidly over the last few years. In the realm of civil applications, many aircraft carry cameras that are physically fixed to the airframe. While this yields a simple and robust remote sensing platform, the imagery quality diminishes with increasing attitude errors. A rudder augmented trajectory correction method for small unmanned aerial vehicles is discussed in this paper. The goal of this type of controller is to minimize the lateral image errors of body fixed non-gimbaled cameras. We present a comparison to current aileron only trajectory correction autopilots. Simulation and flight test results are presented that show significant reduction in the roll angle present during trajectory correction resulting in a large effect on total flight line image deviations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SY
+Collected: 2025-08-01T16:19:09.364Z

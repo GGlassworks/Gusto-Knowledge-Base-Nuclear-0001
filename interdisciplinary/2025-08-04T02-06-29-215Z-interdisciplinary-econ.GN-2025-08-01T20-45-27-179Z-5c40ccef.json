@@ -1,0 +1,12 @@
+# An Agent-Based Extension to Sector-Wise Input-Output Recovery Models
+
+**Authors:** Jan Hurt, Stefan Thurner, Peter Klimek
+
+## Summary
+Dynamic input-output models are standard tools for understanding inter-industry dependencies and how economies respond to shocks like disasters and pandemics. However, traditional approaches often assume fixed prices, limiting their ability to capture realistic economic behavior. Here, we introduce an adaptive extension to dynamic input-output recovery models where producers respond to shocks through simultaneous price and quantity adjustments. Our framework preserves the economic constraints of the Leontief input-output model while converging towards equilibrium configurations based on sector-specific behavioral parameters. When applied to input-output data, the model allows us to compute behavioral metrics indicating whether specific sectors predominantly favor price or quantity adjustments. Using the World Input-Output Database, we identify strong, consistent regional and sector-specific behavioral patterns. These findings provide insights into how different regions employ distinct strategies to manage shocks, thereby influencing economic resilience and recovery dynamics.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:45:27.180Z
