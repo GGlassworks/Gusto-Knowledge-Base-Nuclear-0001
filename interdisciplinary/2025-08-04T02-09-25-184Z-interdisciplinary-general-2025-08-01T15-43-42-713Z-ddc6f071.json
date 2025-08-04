@@ -1,0 +1,13 @@
+# A novel load shedding methodology to mitigate voltage instability in power system
+
+**Authors:** H. Chappa, T. Thakur
+
+## Abstract
+<jats:p>Aim. A novel technique for detecting imminent voltage instability is proposed in this paper, accompanied by a novel load shedding approach to protect the system from voltage instability. Methodology. The proposed methodology utilizes the computation of nodal reactive power loss to voltage sensitivities with load increments in the system. Originality. The nodal reactive power loss to voltage sensitivity is a novel computation and is explored to detect the likelihood of voltage instability in this work. Results. If the system is experiencing an unprecedented load growth and if all the measures reach their limits, then load shedding is the last resort to safeguard the system against instability. The sudden change in nodal reactive power loss to voltage sensitivities is utilized to devise the quantity of load to be cut in the system. Practical value. The time-based simulations performed in New England 39 bus test system (NE-39 bus), the simulated results show that nodal reactive power loss to voltage sensitivities can be used as a trusted indicator for early diagnosing of menacing voltage instability and the timely implementation of load shedding developed from nodal reactive power loss to voltage sensitivities on the system ensures voltage stability.</jats:p>
+
+**Source:** https://doi.org/10.20998/2074-272x.2022.3.09
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:43:42.713Z

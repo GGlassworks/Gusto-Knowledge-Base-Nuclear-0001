@@ -1,0 +1,13 @@
+# A new model for the selection of web development frameworks: application to PHP frameworks
+
+**Authors:** Khaoula Benmoussa, Majida Laaziri, Samira Khoulji, Kerkeb Mohamed Larbi, Abir El Yamami
+
+## Abstract
+<jats:p>&lt;p&gt;The use of a framework is often essential for medium and large scale developments, but is also of interest for small developments. PHP has evolved as the scripting language the most chosen by developers, which has generated an explosion of PHP frameworks. There is a big debate about what the best PHP frameworks are, because the simple fact is that not all frameworks are built for everyone. Indeed, not all frameworks meet the same needs, and several frameworks can be used together in certain situations. Choosing the right framework, however, can sometimes be difficult. In order to make the selection process easier, we propose a pragmatic and complete model to compare and evaluate the main PHP frameworks. This model is based on a set of comparison criteria based on the Intrinsic durability, industrialized solution, technical adaptability, strategy, technical architecture and Speed criteria. Results show that the values of these criteria allow developers to easily and properly choose the framwork that best meets their needs&lt;/p&gt;</jats:p>
+
+**Source:** https://doi.org/10.11591/ijece.v9i1.pp695-703
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:40:53.651Z

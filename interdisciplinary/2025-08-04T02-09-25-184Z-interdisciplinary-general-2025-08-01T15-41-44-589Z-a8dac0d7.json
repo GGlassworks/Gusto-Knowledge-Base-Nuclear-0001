@@ -1,0 +1,13 @@
+# Improved Control of the Web Winding System Based on a Super-Twisting Observer
+
+**Authors:** Abdelmajid Akil, Abdelwahed Touati, Mourad Zegrari, Radouane Majdoul, Nabila Rabbah
+
+## Abstract
+<jats:p>The web winding system (WWS) presents a difficult problem at the level of control because of the strong nonlinearities of the models and the effects of internal or external disturbances. To improve the dynamic performance and robustness of the control of WWS, a robust control method based on the first and second order sliding mode algorithm is proposed in this work. The stability of the controllers is proved by the theory of Lyapunov stability using an appropriate switching function. In addition, an observer of super twisting tensions is suggested. The developed method allows a direct estimate "on line" of the tension. Finally, computer simulations are developed to show the performance of the sliding mode control and the proposed nonlinear observer.</jats:p>
+
+**Source:** https://doi.org/10.35940/ijrte.c4651.098319
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:41:44.590Z
