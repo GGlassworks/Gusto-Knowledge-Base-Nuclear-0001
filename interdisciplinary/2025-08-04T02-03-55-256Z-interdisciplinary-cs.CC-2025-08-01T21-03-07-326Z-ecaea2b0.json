@@ -1,0 +1,12 @@
+# Formalizing the notions of non-interactive and interactive algorithms
+
+**Authors:** C. A. Middelburg
+
+## Summary
+An earlier paper gives an account of a quest for a satisfactory formalization of the classical informal notion of an algorithm. That notion only covers algorithms that are deterministic and non-interactive. In this paper, an attempt is made to generalize the results of that quest first to a notion of an algorithm that covers both deterministic and non-deterministic algorithms that are non-interactive and then further to a notion of an algorithm that covers both deterministic and non-deterministic algorithms that are interactive. The notions of an non-interactive proto-algorithm and an interactive proto-algorithm are introduced. Non-interactive algorithms and interactive algorithms are expected to be equivalence classes of non-interactive proto-algorithms and interactive proto-algorithms, respectively, under an appropriate equivalence relation. On both non-interactive proto-algorithms and interactive proto-algorithms, three equivalence relations are defined. Two of them are deemed to be bounds for an appropriate equivalence relation and the third is likely an appropriate one.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CC
+Collected: 2025-08-01T21:03:07.328Z

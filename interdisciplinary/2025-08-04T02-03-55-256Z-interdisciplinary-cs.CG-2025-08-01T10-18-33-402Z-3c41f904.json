@@ -1,0 +1,12 @@
+# Digital Convex + Unimodular Mapping =8-Connected (All Points but One 4-Connected)
+
+**Authors:** Crombez Loïc
+
+## Summary
+In two dimensional digital geometry, two lattice points are 4-connected (resp. 8-connected) if their Euclidean distance is at most one (resp. $\sqrt{2}$). A set $S \subset Z^2$ is 4-connected (resp. 8-connected) if for all pair of points $p_1, p_2$ in $S$ there is a path connecting $p_1$ to $p_2$ such that every edge consists of a 4-connected (resp. 8-connected) pair of points. The original definition of digital convexity which states that a set $S \subset Z^d$ is digital convex if $\conv(S) \cap Z^d= S$, where $\conv(S)$ denotes the convex hull of $S$ does not guarantee connectivity. However, multiple algorithms assume connectivity. In this paper, we show that in two dimensional space, any digital convex set $S$ of $n$ points is unimodularly equivalent to a 8-connected digital convex set $C$. In fact, the resulting digital convex set $C$ is 4-connected except for at most one point which is 8-connected to the rest of the set. The matrix of $SL_2(Z)$ defining the affine isomorphism of $Z^2$ between the two unimodularly equivalent lattice polytopes $S$ and $C$ can be computed in roughly $O(n)$ time. We also show that no similar result is possible in higher dimension.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CG
+Collected: 2025-08-01T10:18:33.402Z

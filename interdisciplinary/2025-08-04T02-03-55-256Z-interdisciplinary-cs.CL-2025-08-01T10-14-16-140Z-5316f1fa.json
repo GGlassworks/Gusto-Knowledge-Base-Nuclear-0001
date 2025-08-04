@@ -1,0 +1,12 @@
+# Historical Ink: 19th Century Latin American Spanish Newspaper Corpus with LLM OCR Correction
+
+**Authors:** Laura Manrique-Gómez, Tony Montes, Arturo Rodríguez-Herrera, Rubén Manrique
+
+## Summary
+This paper presents two significant contributions: First, it introduces a novel dataset of 19th-century Latin American newspaper texts, addressing a critical gap in specialized corpora for historical and linguistic analysis in this region. Second, it develops a flexible framework that utilizes a Large Language Model for OCR error correction and linguistic surface form detection in digitized corpora. This semi-automated framework is adaptable to various contexts and datasets and is applied to the newly created dataset.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:16.140Z

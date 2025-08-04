@@ -1,0 +1,12 @@
+# Peeling Digital Potatoes
+
+**Authors:** Loïc Crombez, Guilherme D. da Fonseca, Yan Gérard
+
+## Summary
+The potato-peeling problem (also known as convex skull) is a fundamental computational geometry problem and the fastest algorithm to date runs in $O(n^8)$ time for a polygon with $n$ vertices that may have holes. In this paper, we consider a digital version of the problem. A set $K \subset \mathbb{Z}^2$ is digital convex if $conv(K) \cap \mathbb{Z}^2 = K$, where $conv(K)$ denotes the convex hull of $K$. Given a set $S$ of $n$ lattice points, we present polynomial time algorithms to the problems of finding the largest digital convex subset $K$ of $S$ (digital potato-peeling problem) and the largest union of two digital convex subsets of $S$. The two algorithms take roughly $O(n^3)$ and $O(n^9)$ time, respectively. We also show that those algorithms provide an approximation to the continuous versions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CG
+Collected: 2025-08-01T10:18:28.625Z

@@ -1,0 +1,12 @@
+# Reversible Squaring Circuit For Low Power Digital Signal Processing
+
+**Authors:** Pradeep Singla, Devraj Gautam
+
+## Summary
+With the high demand of low power digital systems, energy dissipation in the digital system is one of the limiting factors. Reversible logic is one of the alternate to reduce heat/energy dissipation in the digital circuits and have a very significant importance in bioinformatics, optical information processing, CMOS design etc. In this paper the authors propose the design of new 2- bit binary Squaring circuit used in most of the digital signal processing hardware using Feynman &amp; MUX gate. The proposed squaring circuit having less garbage outputs, constant inputs, Quantum cost and Total logical calculation i.e. less delay as compared to the traditional method of squaring operation by reversible multiplier. The simulating results and quantized results are also shown in the paper which shows the greatest improvement in the design against the previous methodology.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.AR
+Collected: 2025-08-01T10:26:28.270Z

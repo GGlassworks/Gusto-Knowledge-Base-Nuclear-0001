@@ -1,0 +1,12 @@
+# Scaling Analysis in a Multi-Energy System
+
+**Authors:** Jan Soeren Schwarz, Minh Cong Pham, Quoc Tuan Tran, Kai Heussen
+
+## Summary
+This paper presents a scaling study on the planning phase of a multi-energy system (MES), which is becoming increasingly prominent in the energy sector. The research aims to investigate the interactions and challenges associated with integrating heat and electrical systems and scaling their components. In this context, interaction between these two domains are investigated and the size of the distributed energy resources in the MES is scaled to examine the impact of sizing on the integrating networks and their controlling system. To achieve this, the paper uses sensitivity analysis and a meta-modeling technique, both incorporated in a toolbox for scaling analysis. These methodologies are validated through simulations, and the results obtained from the simulations can contribute to the advancement of MESs and their implementation in laboratory and field testing.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:43:26.789Z

@@ -1,0 +1,12 @@
+# A Chisel Framework for Flexible Design Space Exploration through a Functional Approach
+
+**Authors:** Bruno Ferres, Olivier Muller, Frédéric Rousseau
+
+## Summary
+As the need for efficient digital circuits is ever growing in the industry, the design of such systems remains daunting, requiring both expertise and time. In an attempt to close the gap between software development and hardware design, powerful features such as functional and object-oriented programming have been used to define new languages, known as Hardware Construction Languages. In this article, we investigate the usage of such languages - more precisely, of Chisel - in the context of Design Space Exploration, and propose a novel design methodology to build custom and adaptable design flows. We apply a functional approach to define flexible strategies for design space exploration, based on combinations of basic exploration steps, and provide a proof-of-concept framework along with a library of basic strategies. We demonstrate our methodology through several use cases, illustrating how various metrics of interest can be considered to build exploration processes - in particular, we provide a quality of service-driven exploration example. The methodology presented in this work makes use of designers' expertise to reduce the time required for hardware design, in particular for Design Space Exploration, and its application should ease digital design and enhance hardware developpers' productivity.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.AR
+Collected: 2025-08-01T10:26:36.659Z

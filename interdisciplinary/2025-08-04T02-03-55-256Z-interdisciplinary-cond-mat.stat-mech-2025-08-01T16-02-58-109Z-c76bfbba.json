@@ -1,0 +1,12 @@
+# Efficiency and Fluctuation in Tight-Coupling Model of Molecular Motor
+
+**Authors:** Hidetsugu Sakaguchi
+
+## Summary
+A simple tight-coupling model of a molecular chemical engine is proposed. The efficiency of the chemical engine and its average velocity can be explicitly calculated. The diffusion constant is evaluated approximately using the fluctuation theorem. Langevin simulations with stochastic boundary conditions are performed and the numerical results are compared with theoretical calculations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T16:02:58.109Z

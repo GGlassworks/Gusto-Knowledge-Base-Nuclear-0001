@@ -1,0 +1,12 @@
+# Genetic algorithm dynamics on a rugged landscape
+
+**Authors:** Stefan Bornholdt
+
+## Summary
+The genetic algorithm is an optimization procedure motivated by biological evolution and is successfully applied to optimization problems in different areas. A statistical mechanics model for its dynamics is proposed based on the parent-child fitness correlation of the genetic operators, making it applicable to general fitness landscapes. It is compared to a recent model based on a maximum entropy ansatz. Finally it is applied to modeling the dynamics of a genetic algorithm on the rugged fitness landscape of the NK model.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T16:46:30.030Z

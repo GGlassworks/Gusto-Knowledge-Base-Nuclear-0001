@@ -1,0 +1,12 @@
+# Electric Field Propagation Through Singular Value Decomposition
+
+**Authors:** David Yevick
+
+## Summary
+We demonstrate that the singular value decomposition algorithm in conjunction with the fast Fourier transform or finite difference procedures provides a straightforward and accurate method for rapidly propagating electric fields in the one-way Helmholtz formalism.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:34:51.589Z

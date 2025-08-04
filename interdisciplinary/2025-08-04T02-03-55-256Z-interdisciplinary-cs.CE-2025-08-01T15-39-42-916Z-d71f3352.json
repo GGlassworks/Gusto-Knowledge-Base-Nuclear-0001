@@ -1,0 +1,12 @@
+# LLM-Enhanced Feature Engineering for Multi-Factor Electricity Price Predictions
+
+**Authors:** Haochen Xue, Chenghao Liu, Chong Zhang, Yuxuan Chen, Angxiao Zong, Zhaodong Wu, Yulong Li, Jiayi Liu, Kaiyu Liang, Zhixiang Lu, Ruobing Li, Jionglong Su
+
+## Summary
+Accurately forecasting electricity price volatility is crucial for effective risk management and decision-making. Traditional forecasting models often fall short in capturing the complex, non-linear dynamics of electricity markets, particularly when external factors like weather conditions and market volatility are involved. These limitations hinder their ability to provide reliable predictions in markets with high volatility, such as the New South Wales (NSW) electricity market. To address these challenges, we introduce FAEP, a Feature-Augmented Electricity Price Prediction framework. FAEP leverages Large Language Models (LLMs) combined with advanced feature engineering to enhance prediction accuracy. By incorporating external features such as weather data and price volatility jumps, and utilizing Retrieval-Augmented Generation (RAG) for effective feature extraction, FAEP overcomes the shortcomings of traditional approaches. A hybrid XGBoost-LSTM model in FAEP further refines these augmented features, resulting in a more robust prediction framework. Experimental results demonstrate that FAEP achieves state-of-art (SOTA) performance compared to other electricity price prediction models in the Australian New South Wale electricity market, showcasing the efficiency of LLM-enhanced feature engineering and hybrid machine learning architectures.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:39:42.916Z

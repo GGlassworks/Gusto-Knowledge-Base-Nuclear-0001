@@ -1,0 +1,12 @@
+# Automated SAR ADC Sizing Using Analytical Equations
+
+**Authors:** Zhongyi Li, Zhuofu Tao, Yanze Zhou, Yichen Shi, Zhiping Yu, Ting-Jung Lin, Lei He
+
+## Summary
+Conventional analog and mixed-signal (AMS) circuit designs heavily rely on manual effort, which is time-consuming and labor-intensive. This paper presents a fully automated design methodology for Successive Approximation Register (SAR) Analog-to-Digital Converters (ADCs) from performance specifications to complete transistor sizing. To tackle the high-dimensional sizing problem, we propose a dual optimization scheme. The system-level optimization iteratively partitions the overall requirements and analytically maps them to subcircuit design specifications, while local optimization loops determines the subcircuits' design parameters. The dependency graph-based framework serializes the simulations for verification, knowledge-based calculations, and transistor sizing optimization in topological order, which eliminates the need for human intervention. We demonstrate the effectiveness of the proposed methodology through two case studies with varying performance specifications, achieving high SNDR and low power consumption while meeting all the specified design constraints.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.AR
+Collected: 2025-08-01T10:17:21.685Z

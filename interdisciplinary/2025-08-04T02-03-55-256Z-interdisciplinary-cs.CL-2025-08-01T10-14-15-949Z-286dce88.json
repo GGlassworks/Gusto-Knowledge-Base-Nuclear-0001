@@ -1,0 +1,12 @@
+# How Lexical Gold Standards Have Effects On The Usefulness Of Text Analysis Tools For Digital Scholarship
+
+**Authors:** Jussi Karlgren
+
+## Summary
+This paper describes how the current lexical similarity and analogy gold standards are built to conform to certain ideas about what the models they are designed to evaluate are used for. Topical relevance has always been the most important target notion for information access tools and related language technology technologies, and while this has proven a useful starting point for much of what information technology is used for, it does not always align well with other uses to which technologies are being put, most notably use cases from digital scholarship in the humanities or social sciences. This paper argues for more systematic formulation of requirements from the digital humanities and social sciences and more explicit description of the assumptions underlying model design.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:15.949Z

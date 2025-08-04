@@ -1,0 +1,12 @@
+# Kaemika app, Integrating protocols and chemical simulation
+
+**Authors:** Luca Cardelli
+
+## Summary
+Kaemika is an app available on the four major app stores. It provides deterministic and stochastic simulation, supporting natural chemical notation enhanced with recursive and conditional generation of chemical reaction networks. It has a liquid-handling protocol sublanguage compiled to a virtual digital microfluidic device. Chemical and microfluidic simulations can be interleaved for full experimental-cycle modeling. A novel and unambiguous representation of directed multigraphs is used to lay out chemical reaction networks in graphical form.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T16:20:03.734Z

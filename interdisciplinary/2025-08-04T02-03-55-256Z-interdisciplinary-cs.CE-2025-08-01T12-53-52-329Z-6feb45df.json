@@ -1,0 +1,12 @@
+# An Algorithm for Alignment-free Sequence Comparison using Logical Match
+
+**Authors:** Sanil Shanker KP, Elizabeth Sherly, Jim Austin
+
+## Summary
+This paper proposes an algorithm for alignment-free sequence comparison using Logical Match. Here, we compute the score using fuzzy membership values which generate automatically from the number of matches and mismatches. We demonstrate the method with both the artificial and real datum. The results show the uniqueness of the proposed method by analyzing DNA sequences taken from NCBI databank with a novel computational time.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T12:53:52.330Z

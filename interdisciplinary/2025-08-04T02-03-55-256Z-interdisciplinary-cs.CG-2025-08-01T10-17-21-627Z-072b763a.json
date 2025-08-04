@@ -1,0 +1,12 @@
+# Optimal Bounds for Weak Consistent Digital Rays in 2D
+
+**Authors:** Matt Gibson-Lopez, Serge Zamarripa
+
+## Summary
+Representation of Euclidean objects in a digital space has been a focus of research for over 30 years. Digital line segments are particularly important as other digital objects depend on their definition (e.g., digital convex objects or digital star-shaped objects). It may be desirable for the digital line segment systems to satisfy some nice properties that their Euclidean counterparts also satisfy. The system is a consistent digital line segment system (CDS) if it satisfies five properties, most notably the subsegment property (the intersection of any two digital line segments should be connected) and the prolongation property (any digital line segment should be able to be extended into a digital line). It is known that any CDS must have $\Omega(\log n)$ Hausdorff distance to their Euclidean counterparts, where $n$ is the number of grid points on a segment. In fact this lower bound even applies to consistent digital rays (CDR) where for a fixed $p \in \mathbb{Z}^2$, we consider the digital segments from $p$ to $q$ for each $q \in \mathbb{Z}^2$. In this paper, we consider families of weak consistent digital rays (WCDR) where we maintain four of the CDR properties but exclude the prolongation property. In this paper, we give a WCDR construction that has optimal Hausdorff distance to the exact constant. That is, we give a construction whose Hausdorff distance is 1.5 under the $L_\infty$ metric, and we show that for every $\epsilon &gt; 0$, it is not possible to have a WCDR with Hausdorff distance at most $1.5 - \epsilon$.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CG
+Collected: 2025-08-01T10:17:21.628Z

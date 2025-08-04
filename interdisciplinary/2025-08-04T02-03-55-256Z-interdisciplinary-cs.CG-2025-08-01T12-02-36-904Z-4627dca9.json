@@ -1,0 +1,12 @@
+# Efficient computation of topological integral transforms
+
+**Authors:** Vadim Lebovici, Steve Oudot, Hugo Passe
+
+## Summary
+Topological integral transforms have found many applications in shape analysis, from prediction of clinical outcomes in brain cancer to analysis of barley seeds. Using Euler characteristic as a measure, these objects record rich geometric information on weighted polytopal complexes. While some implementations exist, they only enable discretized representations of the transforms, and they do not handle weighted complexes (such as for instance images). Moreover, recent hybrid transforms lack an implementation. In this paper, we introduce Eucalc, a novel implementation of three topological integral transforms -- the Euler characteristic transform, the Radon transform, and hybrid transforms -- for weighted cubical complexes. Leveraging piecewise linear Morse theory and Euler calculus, the algorithms significantly reduce computational complexity by focusing on critical points. Our software provides exact representations of transforms, handles both binary and grayscale images, and supports multi-core processing. It is publicly available as a C++ library with a Python wrapper. We present mathematical foundations, implementation details, and experimental evaluations, demonstrating Eucalc's efficiency.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CG
+Collected: 2025-08-01T12:02:36.904Z

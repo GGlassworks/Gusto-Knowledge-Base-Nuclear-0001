@@ -1,0 +1,12 @@
+# SimJEB: Simulated Jet Engine Bracket Dataset
+
+**Authors:** Eamon Whalen, Azariah Beyene, Caitlin Mueller
+
+## Summary
+This paper introduces the Simulated Jet Engine Bracket Dataset (SimJEB): a new, public collection of crowdsourced mechanical brackets and accompanying structural simulations. SimJEB is applicable to a wide range of geometry processing tasks; the complexity of the shapes in SimJEB offer a challenge to automated geometry cleaning and meshing, while categorical labels and structural simulations facilitate classification and regression (i.e. engineering surrogate modeling). In contrast to existing shape collections, SimJEB's models are all designed for the same engineering function and thus have consistent structural loads and support conditions. On the other hand, SimJEB models are more complex, diverse, and realistic than the synthetically generated datasets commonly used in parametric surrogate model evaluation. The designs in SimJEB were derived from submissions to the GrabCAD Jet Engine Bracket Challenge: an open engineering design competition with over 700 hand-designed CAD entries from 320 designers representing 56 countries. Each model has been cleaned, categorized, meshed, and simulated with finite element analysis according to the original competition specifications. The result is a collection of 381 diverse, high-quality and application-focused designs for advancing geometric deep learning, engineering surrogate modeling, automated cleaning and related geometry processing tasks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:51:55.254Z

@@ -1,0 +1,12 @@
+# Adjoint Variable Method for Transient Nonlinear Electroquasistatic Problems
+
+**Authors:** M. Greta Ruppert, Yvonne Späck-Leigsnering, Julian Buschbaum, Herbert De Gersem
+
+## Summary
+Many optimization problems in electrical engineering consider a large number of design parameters. A sensitivity analysis identifies the design parameters with the strongest influence on the problem of interest. This paper introduces the adjoint variable method as an efficient approach to study sensitivities of nonlinear electroquasistatic problems in time domain. In contrast to the more common direct sensitivity method, the adjoint variable method has a computational cost nearly independent of the number of parameters. The method is applied to study the sensitivity of the field grading material parameters on the performance of a 320 kV cable joint specimen, which is modeled as a Finite Element nonlinear transient electroquasistatic problem. Special attention is paid to the treatment of quantities of interest, which are evaluated at specific points in time or space. It is shown that shown that the method is a valuable tool to study this strongly nonlinear and highly transient technical example.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:48:06.029Z

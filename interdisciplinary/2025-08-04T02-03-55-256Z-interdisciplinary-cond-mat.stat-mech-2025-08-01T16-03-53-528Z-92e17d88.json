@@ -1,0 +1,12 @@
+# A geometric bound on the efficiency of irreversible thermodynamic cycles
+
+**Authors:** Adam G. Frim, Michael R. DeWeese
+
+## Summary
+Stochastic thermodynamics has revolutionized our understanding of heat engines operating in finite time. Recently, numerous studies have considered the optimal operation of thermodynamic cycles acting as heat engines with a given profile in thermodynamic space (e.g. $P-V$ space in classical thermodynamics), with a particular focus on the Carnot engine. In this work, we use the lens of thermodynamic geometry to explore the full space of thermodynamic cycles with continuously-varying bath temperature in search of optimally shaped cycles acting in the slow-driving regime. We apply classical isoperimetric inequalities to derive a universal geometric bound on the efficiency of any irreversible thermodynamic cycle and explicitly construct efficient heat engines operating in finite time that nearly saturate this bound for a specific model system. Given the bound, these optimal cycles perform more efficiently than all other thermodynamic cycles operating as heat engines in finite time, including notable cycles, such as those of Carnot, Stirling, and Otto. For example, in comparison to recent experiments, this corresponds to orders of magnitude improvement in the efficiency of engines operating in certain time regimes. Our results suggest novel design principles for future mesoscopic heat engines and are ripe for experimental investigation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T16:03:53.528Z

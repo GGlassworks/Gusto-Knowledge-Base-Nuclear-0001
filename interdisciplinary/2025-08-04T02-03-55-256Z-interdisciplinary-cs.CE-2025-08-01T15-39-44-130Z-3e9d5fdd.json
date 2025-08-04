@@ -1,0 +1,12 @@
+# An electromechanically coupled beam model for dielectric elastomer actuators
+
+**Authors:** Dengpeng Huang, Sigrid Leyendecker
+
+## Summary
+In this work, the Cosserat formulation of geometrically exact beam dynamics is extended by adding the electric potential as an additional degree of freedom to account for the electromechanical coupling in the Dielectric Elastomer Actuators (DEAs). To be able to generate complex beam deformations via dielectric actuator, a linear distribution of electric potential on the beam cross section is proposed. Based on this electric potential, the electric field and the strain-like electrical variable are defined for the beam, where the strain-like electrical variable is work-conjugated to the electric displacement. The electromechanically coupled strain energy for the beam is derived consistently from continuum electromechanics, which leads to the direct application of the material models in the continuum to the beam model. The electromechanically coupled problem in beam dynamics is first spatially semidiscretized by 1D finite elements and then solved via variational time integration. By applying different electrical boundary conditions, different deformations of the beam are obtained in the numerical examples, including contraction, shear, bending and torsion. The damping effect induced by the viscosity as well as the total energy of the beam are evaluated. The deformations of the electromechanically coupled beam model are compared with the results of the 3D finite element model, where a good agreement of the deformations in the beam model and that in the 3D finite element model is observed. However, less degrees of freedom are required to resolve the complex deformations in the beam model.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:39:44.130Z

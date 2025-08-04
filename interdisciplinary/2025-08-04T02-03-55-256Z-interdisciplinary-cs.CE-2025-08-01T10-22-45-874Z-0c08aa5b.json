@@ -1,0 +1,12 @@
+# Revisiting Digital Twins: Origins, Fundamentals and Practices
+
+**Authors:** Jiehan Zhou, Shouhua Zhang, Mu Gu
+
+## Summary
+The Digital Twins (DT) has quickly become a hot topic since it was proposed. It not only appears in all kinds of commercial propaganda, but also is widely quoted by academic circles. However, there are misstatements and misuse of the term DT in business and academy. This paper revisits Digital Twins and defines it to be a more advanced system/product/service modelling and simulation environment that combines the most modern Information Communication Technology (ICTs) and engineering mechanisms digitization, and characterized by system/product/service life cycle management, physically geometric visualization, real-time sensing and measurement of system operating conditions, predictability of system performance/safety/lifespan, complete engineering mechanisms-based simulations. The idea of Digital Twins originates from modelling and simulation practices of engineering informatization, including Virtual Manufacturing (VM), Model Predictive Control (MPC), and Building Information Model (BIM). Based on the two-element VM model, we propose a three-element model to represent Digital Twins. Digital Twins does not have its own unique technical characteristics; the existing practices of Digital Twins are extensions of the engineering informatization embracing modern ICTs. These insights clarify the origin of Digital Twins and its technical essentials.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T10:22:45.874Z

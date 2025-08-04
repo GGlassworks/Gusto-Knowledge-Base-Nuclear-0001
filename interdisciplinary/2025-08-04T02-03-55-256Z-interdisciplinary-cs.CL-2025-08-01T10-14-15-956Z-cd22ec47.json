@@ -1,0 +1,12 @@
+# Multilevel Browsing of Folksonomy-Based Digital Collections
+
+**Authors:** Joaquín Gayoso-Cabada, Daniel Rodríguez-Cerezo, José-Luis Sierra
+
+## Summary
+This paper describes how to extend the usual one-level tag selection navigation paradigm in folksonomy-based digital collections to a multilevel browsing one, according to which it is possible to incrementally narrow down the set of selected objects in a collection by sequentially adding more and more filtering tags. For this purpose, we present a browsing strategy based on finite automata. Also, we provide some experimental results concerning the application of the approach in Clavy, a system for managing digital collections with reconfigurable structures in digital humanities and educational settings.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:15.957Z

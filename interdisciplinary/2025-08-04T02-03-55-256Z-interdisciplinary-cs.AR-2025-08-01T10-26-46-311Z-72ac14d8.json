@@ -1,0 +1,12 @@
+# A DSP shared is a DSP earned: HLS Task-Level Multi-Pumping for High-Performance Low-Resource Designs
+
+**Authors:** Giovanni Brignone, Mihai T. Lazarescu, Luciano Lavagno
+
+## Summary
+High-level synthesis (HLS) enhances digital hardware design productivity through a high abstraction level. Even if the HLS abstraction prevents fine-grained manual register-transfer level (RTL) optimizations, it also enables automatable optimizations that would be unfeasible or hard to automate at RTL. Specifically, we propose a task-level multi-pumping methodology to reduce resource utilization, particularly digital signal processors (DSPs), while preserving the throughput of HLS kernels modeled as dataflow graphs (DFGs) targeting field-programmable gate arrays. The methodology exploits the HLS resource sharing to automatically insert the logic for reusing the same functional unit for different operations. In addition, it relies on multi-clock DFG s to run the multi-pumped tasks at higher frequencies. The methodology scales the pipeline initiation interval (II) and the clock frequency constraints of resource-intensive tasks by a multi-pumping factor (M). The looser II allows sharing the same resource among M different operations, while the tighter clock frequency preserves the throughput. We verified that our methodology opens a new Pareto front in the throughput and resource space by applying it to open-source HLS designs using state-of-the-art commercial HLS and implementation tools by Xilinx. The multi-pumped designs require up to 40% fewer DSP resources at the same throughput as the original designs optimized for performance (i.e., running at the maximum clock frequency) and achieve up to 50% better throughput using the same DSP s as the original designs optimized for resources with a single clock.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.AR
+Collected: 2025-08-01T10:26:46.312Z

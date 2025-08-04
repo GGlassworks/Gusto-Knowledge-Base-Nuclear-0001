@@ -1,0 +1,12 @@
+# TFW2V: An Enhanced Document Similarity Method for the Morphologically Rich Finnish Language
+
+**Authors:** Quan Duong, Mika Hämäläinen, Khalid Alnajjar
+
+## Summary
+Measuring the semantic similarity of different texts has many important applications in Digital Humanities research such as information retrieval, document clustering and text summarization. The performance of different methods depends on the length of the text, the domain and the language. This study focuses on experimenting with some of the current approaches to Finnish, which is a morphologically rich language. At the same time, we propose a simple method, TFW2V, which shows high efficiency in handling both long text documents and limited amounts of data. Furthermore, we design an objective evaluation method which can be used as a framework for benchmarking text similarity approaches.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:16.181Z

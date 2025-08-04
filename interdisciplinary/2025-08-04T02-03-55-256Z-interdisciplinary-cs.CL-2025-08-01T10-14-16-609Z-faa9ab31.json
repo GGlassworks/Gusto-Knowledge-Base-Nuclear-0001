@@ -1,0 +1,12 @@
+# JeSemE: A Website for Exploring Diachronic Changes in Word Meaning and Emotion
+
+**Authors:** Johannes Hellrich, Sven Buechel, Udo Hahn
+
+## Summary
+We here introduce a substantially extended version of JeSemE, an interactive website for visually exploring computationally derived time-variant information on word meanings and lexical emotions assembled from five large diachronic text corpora. JeSemE is designed for scholars in the (digital) humanities as an alternative to consulting manually compiled, printed dictionaries for such information (if available at all). This tool uniquely combines state-of-the-art distributional semantics with a nuanced model of human emotions, two information streams we deem beneficial for a data-driven interpretation of texts in the humanities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:16.609Z

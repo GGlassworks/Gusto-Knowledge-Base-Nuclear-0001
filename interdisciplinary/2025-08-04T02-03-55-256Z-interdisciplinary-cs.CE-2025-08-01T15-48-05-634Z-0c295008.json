@@ -1,0 +1,12 @@
+# A novel class of electro-mechanical metamaterials for stress reduction through electric fields
+
+**Authors:** Mischa Blaszczyk, Klaus Hackl
+
+## Summary
+While most previous developed metamaterials only consider a single physical effect, we introduce a novel class of electro-mechanical metamaterials, which allows a direct controllable reduction of the total stress by applying an electric field counteracting the mechanical stress. The solution of the resulting minimization problem yields a relation involving the eigenvalues of the mechanical stress tensor. Additionally, we evaluate the constrained cases allowing only tensile or compressive stresses, respectively, and consider the plane stress problem. We show numerical results for all cases and discuss, to what extent a stress reduction is possible.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:48:05.635Z

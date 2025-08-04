@@ -1,0 +1,12 @@
+# Language Models reach higher Agreement than Humans in Historical Interpretation
+
+**Authors:** Fabio Celli, Georgios Spathulas
+
+## Summary
+This paper compares historical annotations by humans and Large Language Models. The findings reveal that both exhibit some cultural bias, but Large Language Models achieve a higher consensus on the interpretation of historical facts from short texts. While humans tend to disagree on the basis of their personal biases, Large Models disagree when they skip information or produce hallucinations. These findings have significant implications for digital humanities, enabling large-scale annotation and quantitative analysis of historical data. This offers new educational and research opportunities to explore historical interpretations from different Language Models, fostering critical thinking about bias.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:16.170Z

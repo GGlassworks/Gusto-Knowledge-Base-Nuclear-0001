@@ -1,0 +1,12 @@
+# Electre-Score: A first outranking based method for scoring actions
+
+**Authors:** José Rui Figueira, Salvatore Greco, Bernard Roy
+
+## Summary
+In this paper we present (to the best of our knowledge) the first outranking method to assign a score to each alternative. It is a method of the Electre family, and we will call it Electre-Score. Contrarily to the Multi-Attribute Value Theory methods, Electre-Score does not construct a value function for each criterion, and then proceeds to the aggregation into a single value. It rather, makes use of the outranking relations to make a comparison with reference sets of actions (to which a score is assigned) and proposes a score range to each alternative, instead of a single value. This is a more robust way of proceeding given the fragility of a single score. The sets of limiting profiles are defined with the help of Electre Tri-nB and the reference scores are assigned to them through the application of the deck of cards technique. The fact of being able to use outranking relations, makes it also possible to take into account the imperfect knowledge of data and avoids systematic compensatory effects. Some fundamental theoretical results guaranteeing the consistency of the method and an illustrative example are also provided in this paper.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:49:10.419Z

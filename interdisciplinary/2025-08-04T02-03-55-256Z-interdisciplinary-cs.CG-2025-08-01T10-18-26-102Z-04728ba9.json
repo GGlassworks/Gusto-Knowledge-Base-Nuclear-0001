@@ -1,0 +1,12 @@
+# Efficient Algorithms to Test Digital Convexity
+
+**Authors:** Loïc Crombez, Guilherme D. da Fonseca, Yan Gérard
+
+## Summary
+A set $S \subset \mathbb{Z}^d$ is digital convex if $conv(S) \cap \mathbb{Z}^d = S$, where $conv(S)$ denotes the convex hull of $S$. In this paper, we consider the algorithmic problem of testing whether a given set $S$ of $n$ lattice points is digital convex. Although convex hull computation requires $\Omega(n \log n)$ time even for dimension $d = 2$, we provide an algorithm for testing the digital convexity of $S\subset \mathbb{Z}^2$ in $O(n + h \log r)$ time, where $h$ is the number of edges of the convex hull and $r$ is the diameter of $S$. This main result is obtained by proving that if $S$ is digital convex, then the well-known quickhull algorithm computes the convex hull of $S$ in linear time. In fixed dimension $d$, we present the first polynomial algorithm to test digital convexity, as well as a simpler and more practical algorithm whose running time may not be polynomial in $n$ for certain inputs.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CG
+Collected: 2025-08-01T10:18:26.103Z

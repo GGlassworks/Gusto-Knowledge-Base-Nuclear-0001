@@ -1,0 +1,12 @@
+# Deformable Models for Surgical Simulation: A Survey
+
+**Authors:** Jinao Zhang, Yongmin Zhong, Chengfan Gu
+
+## Summary
+This paper presents a survey of the state-of-the-art deformable models studied in the literature concerning soft tissue deformable modeling for interactive surgical simulation. It first introduces the challenges of surgical simulation, followed by discussions and analyses on the deformable models, which are classified into three categories: the heuristic modeling methodology, continuum-mechanical methodology, and other methodologies. It also examines linear and nonlinear deformable modeling, model internal forces, and numerical time integrations, together with modeling of soft tissue anisotropy, viscoelasticity, and compressibility. Finally, various issues in the existing deformable models are discussed to outline the remaining challenges of deformable models in surgical simulation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:58:31.403Z

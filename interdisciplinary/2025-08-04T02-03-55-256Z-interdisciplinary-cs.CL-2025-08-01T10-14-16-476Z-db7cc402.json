@@ -1,0 +1,12 @@
+# Large Language Models are as persuasive as humans, but how? About the cognitive effort and moral-emotional language of LLM arguments
+
+**Authors:** Carlos Carrasco-Farre
+
+## Summary
+Large Language Models (LLMs) are already as persuasive as humans. However, we know very little about how they do it. This paper investigates the persuasion strategies of LLMs, comparing them with human-generated arguments. Using a dataset of 1,251 participants in an experiment, we analyze the persuasion strategies of LLM-generated and human-generated arguments using measures of cognitive effort (lexical and grammatical complexity) and moral-emotional language (sentiment and moral analysis). The study reveals that LLMs produce arguments that require higher cognitive effort, exhibiting more complex grammatical and lexical structures than human counterparts. Additionally, LLMs demonstrate a significant propensity to engage more deeply with moral language, utilizing both positive and negative moral foundations more frequently than humans. In contrast with previous research, no significant difference was found in the emotional content produced by LLMs and humans. These findings contribute to the discourse on AI and persuasion, highlighting the dual potential of LLMs to both enhance and undermine informational integrity through communication strategies for digital persuasion.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:16.476Z

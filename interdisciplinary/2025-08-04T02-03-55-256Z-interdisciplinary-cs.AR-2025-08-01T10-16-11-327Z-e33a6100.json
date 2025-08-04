@@ -1,0 +1,12 @@
+# SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support
+
+**Authors:** Haikang Diao, Haoyi Zhang, Jiahao Song, Haoyang Luo, Yibo Lin, Runsheng Wang, Yuan Wang, Xiyuan Tang
+
+## Summary
+Digital computing-in-memory (DCIM) has been a popular solution for addressing the memory wall problem in recent years. However, the DCIM design still heavily relies on manual efforts, and the optimization of DCIM is often based on human experience. These disadvantages limit the time to market while increasing the design difficulty of DCIMs. This work proposes a design space exploration-guided automatic DCIM compiler (SEGA-DCIM) with multiple precision support, including integer and floating-point data precision operations. SEGA-DCIM can automatically generate netlists and layouts of DCIM designs by leveraging a template-based method. With a multi-objective genetic algorithm (MOGA)-based design space explorer, SEGA-DCIM can easily select appropriate DCIM designs for a specific application considering the trade-offs among area, power, and delay. As demonstrated by the experimental results, SEGA-DCIM offers solutions with wide design space, including integer and floating-point precision designs, while maintaining competitive performance compared to state-of-the-art (SOTA) DCIMs.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.AR
+Collected: 2025-08-01T10:16:11.327Z

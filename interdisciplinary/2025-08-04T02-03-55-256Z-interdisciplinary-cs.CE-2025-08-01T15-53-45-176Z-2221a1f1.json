@@ -1,0 +1,12 @@
+# Accelerated Relaxation Engines for Optimizing to Minimum Energy Path
+
+**Authors:** Sandra Liz Simon, Nitin Kaistha, Vishal Agarwal
+
+## Summary
+In the last few decades, several novel algorithms have been designed for finding critical points on PES and the minimum energy paths connecting them. This has led to considerably improve our understanding of reaction mechanisms and kinetics of the underlying processes. These methods implicitly rely on computation of energy and forces on the PES, which are usually obtained by computationally demanding wave-function or density-function based ab initio methods. To mitigate the computational cost, efficient optimization algorithms are needed. Herein, we present two new optimization algorithms: adaptively accelerated relaxation engine (AARE), an enhanced molecular dynamics (MD) scheme, and accelerated conjugate-gradient method (Acc-CG), an improved version of the traditional conjugate gradient (CG) algorithm. We show the efficacy of these algorithms for unconstrained optimization on 2D and 4D test functions. Additionally, we also show the efficacy of these algorithms for optimizing an elastic band of images to the minimum energy path on two analytical potentials (LEPS-I and LEPS-II) and for HCN/CNH isomerization reaction. In all cases, we find that the new algorithms outperforms the standard and popular fast inertial relaxation engine (FIRE).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T15:53:45.177Z

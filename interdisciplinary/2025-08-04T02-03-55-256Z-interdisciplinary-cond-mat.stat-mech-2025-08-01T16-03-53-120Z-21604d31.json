@@ -1,0 +1,12 @@
+# Optimal engine performance using inference for non-identical finite source and sink
+
+**Authors:** Preety Aneja, Harsh Katyayan, Ramandeep S. Johal
+
+## Summary
+We quantify the prior information to infer the optimal characteristics for a constrained thermodynamic process of maximum work extraction for a pair of non-identical finite systems. The total entropy of the whole system remains conserved. The ignorance is assumed about the final temperature of the finite systems and then a prior distribution is assigned to the unknown temperatures. We derive the estimates of efficiency for this reversible model of heat engine with incomplete information. The estimates show good agreement with efficiency at optimal work for arbitrary sizes of systems, however the estimates become exact when one of the reservoir becomes very large in comparison to the other.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T16:03:53.120Z

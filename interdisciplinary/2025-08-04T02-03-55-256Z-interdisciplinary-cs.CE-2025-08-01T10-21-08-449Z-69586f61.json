@@ -1,0 +1,12 @@
+# Knowledge Graphs in the Digital Twin: A Systematic Literature Review About the Combination of Semantic Technologies and Simulation in Industrial Automation
+
+**Authors:** Franz Georg Listl, Daniel Dittler, Gary Hildebrandt, Valentin Stegmaier, Nasser Jazdi, Michael Weyrich
+
+## Summary
+The ongoing digitization of the industrial sector has reached a pivotal juncture with the emergence of Digital Twins, offering a digital representation of physical assets and processes. One key aspect of those digital representations are simulation models, enabling a deeper insight in the assets current state and its characteristics. This paper asserts that the next evolutionary step in this digitization journey involves the integration of intelligent linkages between diverse simulation models within the Digital Twin framework. Crucially, for the Digital Twin to be a scalable and cost-effective solution, there is a pressing need for automated adaption, (re-)configuration, and generation of simulation models. Recognizing the inherent challenges in achieving such automation, this paper analyses the utilization of knowledge graphs as a potentially very suitable technological solution. Knowledge graphs, acting as interconnected and interrelated databases, provide a means of seamlessly integrating different data sources, facilitating the efficient integration and automated adaption of data and (simulation) models in the Digital Twin. We conducted a comprehensive literature review to analyze the current landscape of knowledge graphs in the context of Digital Twins with focus on simulation models. By addressing the challenges associated with scalability and maintenance, this research contributes to the effective adaption of Digital Twins in the industrial sector, paving the way for enhanced efficiency, adaptability, and resilience in the face of evolving technological landscapes.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CE
+Collected: 2025-08-01T10:21:08.450Z
