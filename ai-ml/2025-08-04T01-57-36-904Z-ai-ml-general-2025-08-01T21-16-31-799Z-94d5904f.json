@@ -1,0 +1,13 @@
+# Advances in Artificial Neural Networks – Methodological Development and Application
+
+**Authors:** Yanbo Huang
+
+## Abstract
+<jats:p>Artificial neural networks as a major soft-computing technology have been extensively studied and applied during the last three decades. Research on backpropagation training algorithms for multilayer perceptron networks has spurred development of other neural network training algorithms for other networks such as radial basis function, recurrent network, feedback network, and unsupervised Kohonen self-organizing network. These networks, especially the multilayer perceptron network with a backpropagation training algorithm, have gained recognition in research and applications in various scientific and engineering areas. In order to accelerate the training process and overcome data over-fitting, research has been conducted to improve the backpropagation algorithm. Further, artificial neural networks have been integrated with other advanced methods such as fuzzy logic and wavelet analysis, to enhance the ability of data interpretation and modeling and to avoid subjectivity in the operation of the training algorithm. In recent years, support vector machines have emerged as a set of high-performance supervised generalized linear classifiers in parallel with artificial neural networks. A review on development history of artificial neural networks is presented and the standard architectures and algorithms of artificial neural networks are described. Furthermore, advanced artificial neural networks will be introduced with support vector machines, and limitations of ANNs will be identified. The future of artificial neural network development in tandem with support vector machines will be discussed in conjunction with further applications to food science and engineering, soil and water relationship for crop management, and decision support for precision agriculture. Along with the network structures and training algorithms, the applications of artificial neural networks will be reviewed as well, especially in the fields of agricultural and biological engineering.</jats:p>
+
+**Source:** https://doi.org/10.3390/algor2030973
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T21:16:31.800Z

@@ -1,0 +1,12 @@
+# Multi-User Remote lab: Timetable Scheduling Using Simplex Nondominated Sorting Genetic Algorithm
+
+**Authors:** Seid Miad Zandavi, Vera Chung, Ali Anaissi
+
+## Summary
+The scheduling of multi-user remote laboratories is modeled as a multimodal function for the proposed optimization algorithm. The hybrid optimization algorithm, hybridization of the Nelder-Mead Simplex algorithm and Non-dominated Sorting Genetic Algorithm (NSGA), is proposed to optimize the timetable problem for the remote laboratories to coordinate shared access. The proposed algorithm utilizes the Simplex algorithm in terms of exploration, and NSGA for sorting local optimum points with consideration of potential areas. The proposed algorithm is applied to difficult nonlinear continuous multimodal functions, and its performance is compared with hybrid Simplex Particle Swarm Optimization, Simplex Genetic Algorithm, and other heuristic algorithms.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T21:06:15.379Z

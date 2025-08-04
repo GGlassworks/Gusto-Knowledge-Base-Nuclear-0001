@@ -1,0 +1,12 @@
+# GOOSE Algorithm: A Powerful Optimization Tool for Real-World Engineering Challenges and Beyond
+
+**Authors:** Rebwar Khalid Hamad, Tarik A. Rashid
+
+## Summary
+This study proposes the GOOSE algorithm as a novel metaheuristic algorithm based on the goose's behavior during rest and foraging. The goose stands on one leg and keeps his balance to guard and protect other individuals in the flock. The GOOSE algorithm is benchmarked on 19 well-known benchmark test functions, and the results are verified by a comparative study with genetic algorithm (GA), particle swarm optimization (PSO), dragonfly algorithm (DA), and fitness dependent optimizer (FDO). In addition, the proposed algorithm is tested on 10 modern benchmark functions, and the gained results are compared with three recent algorithms, such as the dragonfly algorithm, whale optimization algorithm (WOA), and salp swarm algorithm (SSA). Moreover, the GOOSE algorithm is tested on 5 classical benchmark functions, and the obtained results are evaluated with six algorithms, such as fitness dependent optimizer (FDO), FOX optimizer, butterfly optimization algorithm (BOA), whale optimization algorithm, dragonfly algorithm, and chimp optimization algorithm (ChOA). The achieved findings attest to the proposed algorithm's superior performance compared to the other algorithms that were utilized in the current study. The technique is then used to optimize Welded beam design and Economic Load Dispatch Problem, three renowned real-world engineering challenges, and the Pathological IgG Fraction in the Nervous System. The outcomes of the engineering case studies illustrate how well the suggested approach can optimize issues that arise in the real-world.
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T21:06:13.577Z

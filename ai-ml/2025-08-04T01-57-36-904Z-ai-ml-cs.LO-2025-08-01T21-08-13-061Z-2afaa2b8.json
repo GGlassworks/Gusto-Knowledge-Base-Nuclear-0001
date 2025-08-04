@@ -1,0 +1,12 @@
+# Leveraging the Power of Graph Algorithms: Efficient Algorithms for Computer-Aided Verification
+
+**Authors:** Alexander Svozil
+
+## Summary
+The goal of the thesis is to leverage fast graph algorithms and modern algorithmic techniques for problems in model checking and synthesis on graphs, MDPs, and game graphs. The results include symbolic algorithms, a well-known class of algorithms in model checking that trades limited access to the input model for an efficient representation. In particular, we present the following results: Algorithms for game graphs with mean-payoff B\"uchi objectives and mean-payoff coB\"uchi objectives which match one of the best running time bounds for mean-payoff objectives. A near-linear time randomized algorithm for Streett objectives in graphs and MDPs. A sub-cubic time algorithm for bounded B\"uchi objectives in graphs and a cubic time algorithm for game graphs. Conditional lower bounds for queries of reachability objectives in game graphs and MDPs. Linear and near-linear time algorithms for sequential reachability objectives in graphs and MDPs respectively. The first quasi-polynomial time symbolic algorithm for parity objectives in game graphs. We break a long-standing running time bound for MEC decomposition from the '90s by providing a sub-quadratic time symbolic algorithm.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LO
+Collected: 2025-08-01T21:08:13.062Z

@@ -1,0 +1,12 @@
+# Trends in Neural Architecture Search: Towards the Acceleration of Search
+
+**Authors:** Youngkee Kim, Won Joon Yun, Youn Kyu Lee, Soyi Jung, Joongheon Kim
+
+## Summary
+In modern deep learning research, finding optimal (or near optimal) neural network models is one of major research directions and it is widely studied in many applications. In this paper, the main research trends of neural architecture search (NAS) are classified as neuro-evolutionary algorithms, reinforcement learning based algorithms, and one-shot architecture search approaches. Furthermore, each research trend is introduced and finally all the major three trends are compared. Lastly, the future research directions of NAS research trends are discussed.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LG
+Collected: 2025-08-01T21:14:54.543Z

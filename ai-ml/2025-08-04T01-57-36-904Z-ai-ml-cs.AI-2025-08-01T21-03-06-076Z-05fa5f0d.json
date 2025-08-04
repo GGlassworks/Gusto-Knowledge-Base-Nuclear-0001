@@ -1,0 +1,12 @@
+# Critic Algorithms using Cooperative Networks
+
+**Authors:** Debangshu Banerjee, Kavita Wagh
+
+## Summary
+An algorithm is proposed for policy evaluation in Markov Decision Processes which gives good empirical results with respect to convergence rates. The algorithm tracks the Projected Bellman Error and is implemented as a true gradient based algorithm. In this respect this algorithm differs from TD($\lambda$) class of algorithms. This algorithm tracks the Projected Bellman Algorithm and is therefore different from the class of residual algorithms. Further the convergence of this algorithm is empirically much faster than GTD2 class of algorithms which aim at tracking the Projected Bellman Error. We implemented proposed algorithm in DQN and DDPG framework and found that our algorithm achieves comparable results in both of these experiments
+
+
+---
+Category: ai-ml
+Subcategory: cs.AI
+Collected: 2025-08-01T21:03:06.079Z

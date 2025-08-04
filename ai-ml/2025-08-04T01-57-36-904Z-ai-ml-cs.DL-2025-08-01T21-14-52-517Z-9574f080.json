@@ -1,0 +1,12 @@
+# Research Scholar Interest Mining Method based on Load Centrality
+
+**Authors:** Yang Jiang, Zhe Xue, Ang Li
+
+## Summary
+In the era of big data, it is possible to carry out cooperative research on the research results of researchers through papers, patents and other data, so as to study the role of researchers, and produce results in the analysis of results. For the important problems found in the research and application of reality, this paper also proposes a research scholar interest mining algorithm based on load centrality (LCBIM), which can accurately solve the problem according to the researcher's research papers and patent data. Graphs of creative algorithms in various fields of the study aggregated ideas, generated topic graphs by aggregating neighborhoods, used the generated topic information to construct with similar or similar topic spaces, and utilize keywords to construct one or more topics. The regional structure of each topic can be used to closely calculate the weight of the centrality research model of the node, which can analyze the field in the complete coverage principle. The scientific research cooperation based on the load rate center proposed in this paper can effectively extract the interests of scientific research scholars from papers and corpus.
+
+
+---
+Category: ai-ml
+Subcategory: cs.DL
+Collected: 2025-08-01T21:14:52.518Z

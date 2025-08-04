@@ -1,0 +1,12 @@
+# Critical Analysis: Bat Algorithm based Investigation and Application on Several Domains
+
+**Authors:** Shahla U. Umar, Tarik A. Rashid
+
+## Summary
+In recent years several swarm optimization algorithms, such as Bat Algorithm (BA) have emerged, which was proposed by Xin-She Yang in 2010. The idea of the algorithm was taken from the echolocation ability of bats. Purpose: The purpose of this study is to provide the reader with a full study of the Bat Algorithm, including its limitations, the fields that the algorithm has been applied, versatile optimization problems in different domains, and all the studies that assess its performance against other meta-heuristic algorithms. Approach: Bat Algorithm is given in-depth in terms of backgrounds, characteristics, limitations, it has also displayed the algorithms that hybridized with BA (K-Medoids, Back-propagation neural network, Harmony Search Algorithm, Differential Evaluation Strategies, Enhanced Particle Swarm Optimization, and Cuckoo Search Algorithm) and their theoretical results, as well as to the modifications that have been performed of the algorithm (Modified Bat Algorithm (MBA), Enhanced Bat Algorithm (EBA), Bat Algorithm with Mutation (BAM), Uninhabited Combat Aerial Vehicle-Bat algorithm with Mutation (UCAV-BAM), Nonlinear Optimization)... Findings: Shed light on the advantages and disadvantages of this algorithm through all the researches that dealt with the algorithm in addition to the fields and applications it has addressed in the hope that it will help scientists understand and develop it. Originality/value: As far as the research community knowledge, there is no comprehensive survey study conducted on this algorithm cover{\i}ng all its aspects. Keywords: Swarm Intelligence; Nature-Inspired Algorithms; Metaheuristic Algorithms; Optimization Algorithms; Bat Algorithm.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NE
+Collected: 2025-08-01T21:03:07.547Z

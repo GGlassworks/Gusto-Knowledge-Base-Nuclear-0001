@@ -1,0 +1,13 @@
+# Development of Digital Training Twins in the Aircraft Maintenance Ecosystem
+
+**Authors:** Igor Kabashkin
+
+## Abstract
+<jats:p>This paper presents an integrated digital training twin framework for adaptive aircraft maintenance education, combining real-time competence modeling, algorithmic orchestration, and cloud–edge deployment architectures. The proposed system dynamically evaluates learner skill gaps and assigns individualized training resources through a multi-objective optimization function that balances skill alignment, Bloom’s cognitive level, fidelity tier, and time efficiency. A modular orchestration engine incorporates reinforcement learning agents for policy refinement, federated learning for privacy-preserving skill analytics, and knowledge graph-based curriculum models for dependency management. Simulation results were conducted on the Pneumatic Systems training module. The system’s validation matrix provides full-cycle traceability of instructional decisions, supporting regulatory audit-readiness and institutional reporting. The digital training twin ecosystem offers a scalable, regulation-compliant, and data-driven solution for next-generation aviation maintenance training, with demonstrated operational efficiency, instructional precision, and extensibility for future expansion.</jats:p>
+
+**Source:** https://doi.org/10.3390/a18070411
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T21:16:32.037Z

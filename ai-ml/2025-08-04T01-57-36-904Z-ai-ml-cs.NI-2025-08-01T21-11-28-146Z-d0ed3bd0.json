@@ -1,0 +1,12 @@
+# Control Analysis of Packet Transmission Algorithms: Study on Fairness and Stability
+
+**Authors:** Lokesh Bommisetty
+
+## Summary
+This document is a study of fairness, feedback and stability notions of different packet transmission algorithms. We start the discussion with defining two scalable control algorithms namely primal and dual algorithm. We discuss the dual algorithm model and then understand the fair dual algorithm. Further, we discuss different notions of fairness under fair dual algorithm those correspond to TCP and RCP congestion control protocols. Feedback parameters are analyzed in each of these fairness algorithms and thus their stability is studied.
+
+
+---
+Category: ai-ml
+Subcategory: cs.NI
+Collected: 2025-08-01T21:11:28.147Z

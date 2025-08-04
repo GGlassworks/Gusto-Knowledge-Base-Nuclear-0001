@@ -1,0 +1,13 @@
+# An introduction to domain decomposition methods - algorithms, theory, and parallel implementation
+
+**Authors:** V. Dolean, P. Jolivet, F. Nataf
+
+## Abstract
+The purpose of this book is to offer an overview of the most popular domain decomposition methods for partial differential equations (PDEs). These methods are widely used for numerical simulations in solid mechanics, electromagnetism, flow in porous media, etc., on parallel machines from tens to hundreds of thousands of cores. The appealing feature of domain decomposition methods is that, contrary to direct methods, they are naturally parallel. The authors focus on parallel linear solvers. The authors present all popular algorithms, both at the PDE level and at the discrete level in terms of matrices, along with systematic scripts for sequential implementation in a free open-source finite element package as well as some parallel scripts. Also included is a new coarse space construction (two-level method) that adapts to highly heterogeneous problems. Audience: This book is intended for those working in domain decomposition methods, parallel computing, and iterative methods, in particular those who need to implement parallel solvers for PDEs. It will also be of interest to mechanical, civil, and aeronautical engineers, physical and environmental scientists, and physicists in need of parallel PDE solvers.
+
+**Source:** https://www.semanticscholar.org/paper/734694eefa2b1cb2967e8c6a4a78e75566a3ffdc
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T21:04:53.032Z

@@ -1,0 +1,13 @@
+# Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms
+
+**Authors:** M. Collins
+
+## Abstract
+We describe new algorithms for training tagging models, as an alternative to maximum-entropy models or conditional random fields (CRFs). The algorithms rely on Viterbi decoding of training examples, combined with simple additive updates. We describe theory justifying the algorithms through a modification of the proof of convergence of the perceptron algorithm for classification problems. We give experimental results on part-of-speech tagging and base noun phrase chunking, in both cases showing improvements over results for a maximum-entropy tagger.
+
+**Source:** https://www.semanticscholar.org/paper/5a7958b418bceb48a315384568091ab1898b1640
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T21:08:54.959Z

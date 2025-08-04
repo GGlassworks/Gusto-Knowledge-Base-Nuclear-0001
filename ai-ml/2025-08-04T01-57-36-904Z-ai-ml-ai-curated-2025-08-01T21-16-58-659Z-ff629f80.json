@@ -1,0 +1,13 @@
+# Improved genetic algorithms for deterministic optimization and optimization under uncertainty-Part I: Algorithms Development
+
+**Authors:** W. Xu, U. Diwekar
+
+## Abstract
+This paper proposes three new variants of genetic algorithm to solve deterministic and stochastic optimization problems. In these algorithms, a new and efficient sampling technique, Hammersley sequence sampling (HSS), is utilized in the initial population generation and population updating. Additionally for stochastic optimization problems, HSS is also used for propagation of parametric uncertainties through the model. The better uniformity properties of HSS are exploited in developing the efficient genetic algorithm (EGA) to solve deterministic optimization problems. A case study has been performed in this work to show that EGA has better performance than its traditional counterpart, in which the random number generator from Monte Carlo sampling is commonly employed. For stochastic optimization problems, the Hammersley stochastic genetic algorithm (HSGA) coupled with better confidence interval of the samples has been introduced. Case studies show that the new algorithm outperforms (1) the stochastic genetic algorithm (SGA) which employs Monte Carlo sampling and (2) the efficient stochastic genetic algorithm (ESGA), where HSS is used together with Monte Carlo confidence intervals. This is due to the uniformity and faster convergence properties of HSS utilized in HSGA. The exercise demonstrates that HSGA has the best performance while SGA displays the worst performance. The second part in this series of papers describes two solvent selection models, and solvent selection with and without uncertainty is solved using the new algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/cef839a600d608840d67fa6e451e71893d619347
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T21:16:58.663Z

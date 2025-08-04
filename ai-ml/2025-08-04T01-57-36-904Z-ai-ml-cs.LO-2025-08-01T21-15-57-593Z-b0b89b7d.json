@@ -1,0 +1,12 @@
+# Yet Another Efficient Unification Algorithm
+
+**Authors:** Alin Suciu
+
+## Summary
+The unification algorithm is at the core of the logic programming paradigm, the first unification algorithm being developed by Robinson [5]. More efficient algorithms were developed later [3] and I introduce here yet another efficient unification algorithm centered on a specific data structure, called the Unification Table.
+
+
+---
+Category: ai-ml
+Subcategory: cs.LO
+Collected: 2025-08-01T21:15:57.594Z

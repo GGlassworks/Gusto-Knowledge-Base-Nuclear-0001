@@ -1,0 +1,12 @@
+# Do-AIQ: A Design-of-Experiment Approach to Quality Evaluation of AI Mislabel Detection Algorithm
+
+**Authors:** J. Lian, K. Choi, B. Veeramani, A. Hu, L. Freeman, E. Bowen, X. Deng
+
+## Summary
+The quality of Artificial Intelligence (AI) algorithms is of significant importance for confidently adopting algorithms in various applications such as cybersecurity, healthcare, and autonomous driving. This work presents a principled framework of using a design-of-experimental approach to systematically evaluate the quality of AI algorithms, named as Do-AIQ. Specifically, we focus on investigating the quality of the AI mislabel data algorithm against data poisoning. The performance of AI algorithms is affected by hyperparameters in the algorithm and data quality, particularly, data mislabeling, class imbalance, and data types. To evaluate the quality of the AI algorithms and obtain a trustworthy assessment on the quality of the algorithms, we establish a design-of-experiment framework to construct an efficient space-filling design in a high-dimensional constraint space and develop an effective surrogate model using additive Gaussian process to enable the emulation of the quality of AI algorithms. Both theoretical and numerical studies are conducted to justify the merits of the proposed framework. The proposed framework can set an exemplar for AI algorithm to enhance the AI assurance of robustness, reproducibility, and transparency.
+
+
+---
+Category: ai-ml
+Subcategory: stat.ML
+Collected: 2025-08-01T21:09:16.347Z

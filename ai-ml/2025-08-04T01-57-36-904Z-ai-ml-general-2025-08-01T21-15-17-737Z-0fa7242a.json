@@ -1,0 +1,13 @@
+# Official International Mahjong: A New Playground for AI Research
+
+**Authors:** Yunlong Lu, Wenxin Li, Wenlong Li
+
+## Abstract
+<jats:p>Games have long been benchmarks and testbeds for AI research. In recent years, with the development of new algorithms and the boost in computational power, many popular games played by humans have been solved by AI systems. Mahjong is one of the most popular games played in China and has been spread worldwide, which presents challenges for AI research due to its multi-agent nature, rich hidden information, and complex scoring rules, but it has been somehow overlooked in the community of game AI research. In 2020 and 2022, we held two AI competitions of Official International Mahjong, the standard variant of Mahjong rules, in conjunction with a top-tier AI conference called IJCAI. We are the first to adopt the duplicate format in evaluating Mahjong AI agents to mitigate the high variance in this game. By comparing the algorithms and performance of AI agents in the competitions, we conclude that supervised learning and reinforcement learning are the current state-of-the-art methods in this game and perform much better than heuristic methods based on human knowledge. We also held a human-versus-AI competition and found that the top AI agent still could not beat professional human players. We claim that this game can be a new benchmark for AI research due to its complexity and popularity among people.</jats:p>
+
+**Source:** https://doi.org/10.3390/a16050235
+
+---
+Category: ai-ml
+Subcategory: general
+Collected: 2025-08-01T21:15:17.739Z

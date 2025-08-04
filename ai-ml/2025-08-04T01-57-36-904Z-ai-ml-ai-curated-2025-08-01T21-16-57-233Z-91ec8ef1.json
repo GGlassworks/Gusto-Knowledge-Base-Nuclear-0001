@@ -1,0 +1,13 @@
+# Bias in artificial intelligence algorithms and recommendations for mitigation
+
+**Authors:** L. Nazer, Razan Zatarah, Shai Waldrip, J. Ke, M. Moukheiber, A. Khanna, Rachel S. Hicklen, Lama Moukheiber, D. Moukheiber, Haobo Ma, P. Mathur
+
+## Abstract
+The adoption of artificial intelligence (AI) algorithms is rapidly increasing in healthcare. Such algorithms may be shaped by various factors such as social determinants of health that can influence health outcomes. While AI algorithms have been proposed as a tool to expand the reach of quality healthcare to underserved communities and improve health equity, recent literature has raised concerns about the propagation of biases and healthcare disparities through implementation of these algorithms. Thus, it is critical to understand the sources of bias inherent in AI-based algorithms. This review aims to highlight the potential sources of bias within each step of developing AI algorithms in healthcare, starting from framing the problem, data collection, preprocessing, development, and validation, as well as their full implementation. For each of these steps, we also discuss strategies to mitigate the bias and disparities. A checklist was developed with recommendations for reducing bias during the development and implementation stages. It is important for developers and users of AI-based algorithms to keep these important considerations in mind to advance health equity for all populations.
+
+**Source:** https://www.semanticscholar.org/paper/f7dda3cd6a26f514f367f2280fe6844f5e5c8a2f
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T21:16:57.234Z

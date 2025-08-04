@@ -1,0 +1,13 @@
+# Difficulties in Fair Performance Comparison of Multi-Objective Evolutionary Algorithms [Research Frontier]
+
+**Authors:** H. Ishibuchi, Lie Meng Pang, Ke Shang
+
+## Abstract
+The performance of a newly designed evolutionary algorithm is usually evaluated by computational experiments in comparison with existing algorithms. However, comparison results depend on experimental setting; thus, fair comparison is difficult. Fair comparison of multi-objective evolutionary algorithms is even more difficult since solution sets instead of solutions are evaluated. In this paper, the following four issues are discussed for fair comparison of multi-objective evolutionary algorithms: (i) termination condition, (ii) population size, (iii) performance indicators, and (iv) test problems. Whereas many other issues related to computational experiments such as the choice of a crossover operator and the specification of its probability can be discussed for each algorithm separately, all the above four issues should be addressed for all algorithms simultaneously. For each issue, its strong effects on comparison results are first clearly demonstrated. Then, the handling of each issue for fair comparison is discussed. Finally, future research topics related to each issue are suggested.
+
+**Source:** https://www.semanticscholar.org/paper/4119d3bbf8b8d8fd7e47fe2967a10d9db91bad0a
+
+---
+Category: ai-ml
+Subcategory: ai-curated
+Collected: 2025-08-01T21:15:37.027Z
