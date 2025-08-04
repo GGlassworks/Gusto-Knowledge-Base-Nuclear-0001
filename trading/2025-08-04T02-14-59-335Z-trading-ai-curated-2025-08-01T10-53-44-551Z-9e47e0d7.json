@@ -1,0 +1,13 @@
+# The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response
+
+**Authors:** Eric Budish, P. Cramton, John J. Shim
+
+## Abstract
+We argue that the continuous limit order book is a flawed market design and propose that financial exchanges instead use frequent batch auctions: uniform-price sealed-bid double auctions conducted at frequent but discrete time intervals, e.g., every 1 second. Our argument has four parts. First, we use millisecond-level direct-feed data from exchanges to show that the continuous limit order book market design does not really “work” in continuous time: market correlations completely break down at high-frequency time horizons. Second, we show that this correlation breakdown creates frequent technical arbitrage opportunities, available to whomever is fastest, which in turn creates an arms race to exploit such opportunities. Third, we develop a simple new theory model motivated by these empirical facts. The model shows that the arms race is not only socially wasteful ‐ a prisoner’s dilemma built directly into the market design ‐ but moreover that its cost is ultimately borne by investors via wider spreads and thinner markets. Last, we show that frequent batch auctions eliminate the arms race, both because they reduce the value of tiny speed advantages and because they transform competition on speed into competition on price. Consequently, frequent batch auctions lead to narrower spreads, deeper markets, and increased social welfare.
+
+**Source:** https://www.semanticscholar.org/paper/ab490960df8dc315cc5b4a089c7ce206ea5f7746
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:44.551Z

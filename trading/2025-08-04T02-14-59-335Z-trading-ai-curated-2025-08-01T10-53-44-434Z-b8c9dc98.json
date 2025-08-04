@@ -1,0 +1,13 @@
+# Neural Networks for Portfolio Analysis in High-Frequency Trading
+
+**Authors:** Xinwei Cao, Chen Peng, Yuhua Zheng, Shuai Li, Tran Thu Ha, V. Shutyaev, V. Katsikis, P. Stanimirović
+
+## Abstract
+High-frequency trading proposes new challenges to classical portfolio selection problems. Especially, the timely and accurate solution of portfolios is highly demanded in financial market nowadays. This article makes progress along this direction by proposing novel neural networks with softmax equalization to address the problem. To the best of our knowledge, this is the first time that softmax technique is used to deal with equation constraints in portfolio selections. Theoretical analysis shows that the proposed method is globally convergent to the optimum of the optimization formulation of portfolio selection. Experiments based on real stock data verify the effectiveness of the proposed solution. It is worth mentioning that the two proposed models achieve 5.50% and 5.47% less cost, respectively, than the solution obtained by using MATLAB dedicated solvers, which demonstrates the superiority of the proposed strategies.
+
+**Source:** https://www.semanticscholar.org/paper/1370cc1e1d0dfd4b18f24637685a3472e2a8de05
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:44.434Z

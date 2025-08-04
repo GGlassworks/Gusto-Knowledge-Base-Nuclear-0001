@@ -1,0 +1,13 @@
+# High-Frequency Trading in Bond Returns: A Comparison Across Alternative Methods and Fixed-Income Markets
+
+**Authors:** D. Alaminos, M. B. Salas, M. A. Fernández-Gámez
+
+## Abstract
+A properly performing and efficient bond market is widely considered important for the smooth functioning of trading systems in general. An important feature of the bond market for investors is its liquidity. High-frequency trading employs sophisticated algorithms to explore numerous markets, such as fixed-income markets. In this trading, transactions are processed more quickly, and the volume of trades rises significantly, improving liquidity in the bond market. This paper presents a comparison of neural networks, fuzzy logic, and quantum methodologies for predicting bond price movements through a high-frequency strategy in advanced and emerging countries. Our results indicate that, of the selected methods, QGA, DRCNN and DLNN-GA can correctly interpret the expected bond future price direction and rate changes satisfactorily, while QFuzzy tend to perform worse in forecasting the future direction of bond prices. Our work has a large potential impact on the possible directions of the strategy of algorithmic trading for investors and stakeholders in fixed-income markets and all methodologies proposed in this study could be great options policy to explore other financial markets.
+
+**Source:** https://www.semanticscholar.org/paper/cf9eeab7d222f7bfdd5728034568975235584124
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:17.497Z

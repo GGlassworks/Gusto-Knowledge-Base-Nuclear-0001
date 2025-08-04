@@ -1,0 +1,13 @@
+# A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading
+
+**Authors:** Yuze Li, Shouyang Wang, Yunjie Wei, Qing Zhu
+
+## Abstract
+The gold market plays a vital role in the world economy. Due to its complex and nonstationary nature, predicting the price of gold is particularly challenging. In this study, a new hybrid forecasting approach named variational mode decomposition (VMD)-iterated cumulative sums of squares (ICSS)-bidirectional gated recurrent unit (BiGRU) is proposed by integrating BiGRU deep learning model, VMD, and iterated cumulative sum of squares algorithm. The forecasting framework is able to extract the inner factors and patterns within the gold futures market movements, decompose its correlation with external markets and detect shifts within market conditions in order to accurately predict price movements in the gold futures market. The experimental results show that the hybrid forecasting approach can improve the prediction performance significantly in comparison to the benchmarks. Furthermore, we extend the proposed hybrid forecasting approach to generate trading strategies and test trading performance of the gold futures market. The testing results over an out-of-sample period of 11 years (2008–2019) indicate that the strategy generated based on the prediction of the proposed approach displays high levels of consistency in generating positive returns and outperforms several other common trading strategies under various market conditions. The approach also shows consistent better results when generalized to the spot gold market, providing practical guidance for minimizing investment risk and hedging strategies in the gold commodity market.
+
+**Source:** https://www.semanticscholar.org/paper/f8f84f8b111da35b25af86fc7be91f599de01842
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:17.438Z

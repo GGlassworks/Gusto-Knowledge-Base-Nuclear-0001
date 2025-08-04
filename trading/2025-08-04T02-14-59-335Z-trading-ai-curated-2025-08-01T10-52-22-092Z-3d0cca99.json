@@ -1,0 +1,13 @@
+# Optimal starting times, stopping times and risk measures for algorithmic trading
+
+**Authors:** M. Labadie, Charles-Albert Lehalle
+
+## Abstract
+We derive explicit recursive formulas for Target Close (TC) and Implementation Shortfall (IS) in the Almgren-Chriss framework. We explain how to compute the optimal starting and stopping times for IS and TC, respectively, given a minimum trading size. We also show how to add a minimum participation rate constraint (Percentage of Volume, PVol) for both TC and IS. We also study an alternative set of risk measures for the optimisation of algorithmic trading curves. We assume a self-similar process (e.g. Levy process, fractional Brownian motion or fractal process) and define a new risk measure, the p-variation, which reduces to the variance if the process is a Brownian motion. We deduce the explicit formula for the TC and IS algorithms under a self-similar process. We show that there is an equivalence between self-similar models and a family of risk measures called p-variations: assuming a self-similar process and calibrating empirically the parameter p for the p-variation yields the same result as assuming a Brownian motion and using the p-variation as risk measure instead of the variance. We also show that p can be seen as a measure of the aggressiveness: p increases if and only if the TC algorithm starts later and executes faster. From the explicit expression of the TC algorithm one can compute the sensitivities of the curve with respect to the parameters up to any order. As an example, we compute the first order sensitivity with respect to both a local and a global surge of volatility. Finally, we show how the parameter p of the p-variation can be implied from the optimal starting time of TC, and that under this framework p can be viewed as a measure of the joint impact of market impact (i.e. liquidity) and volatility.
+
+**Source:** https://www.semanticscholar.org/paper/ebb9731a930db4d7bafe9b8fd98729e145b0ce37
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:22.092Z

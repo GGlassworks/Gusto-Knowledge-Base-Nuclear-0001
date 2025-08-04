@@ -1,0 +1,13 @@
+# R-DDQN: Optimizing Algorithmic Trading Strategies Using a Reward Network in a Double DQN
+
+**Authors:** Chujin Zhou, Yuling Huang, Kai Cui, Xiaoping Lu
+
+## Abstract
+Algorithmic trading is playing an increasingly important role in the financial market, achieving more efficient trading strategies by replacing human decision-making. Among numerous trading algorithms, deep reinforcement learning is gradually replacing traditional high-frequency trading strategies and has become a mainstream research direction in the field of algorithmic trading. This paper introduces a novel approach that leverages reinforcement learning with human feedback (RLHF) within the double DQN algorithm. Traditional reward functions in algorithmic trading heavily rely on expert knowledge, posing challenges in their design and implementation. To tackle this, the reward-driven double DQN (R-DDQN) algorithm is proposed, integrating human feedback via a reward function network trained on expert demonstrations. Additionally, a classification-based training method is employed for optimizing the reward function network. The experiments, conducted on datasets including HSI, IXIC, SP500, GOOGL, MSFT, and INTC, show that the proposed method outperforms all baselines across six datasets and achieves a maximum cumulative return of 1502% within 24 months.
+
+**Source:** https://www.semanticscholar.org/paper/fb195a735cdddc27b7b5dd56dc11ed55fa9d6a2b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:21.504Z

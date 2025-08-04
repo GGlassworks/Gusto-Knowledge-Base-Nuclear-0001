@@ -1,0 +1,13 @@
+# Algorithm-Based Low-Frequency Trading Using a Stochastic Oscillator and William%R: A Case Study on the U.S. and Korean Indices
+
+**Authors:** C. Paik, Jinhee Choi, Ivan Ureta Vaquero
+
+## Abstract
+Using stochastics in stock market analysis is widely accepted for index estimation and ultra-high-frequency trading. However, previous studies linking index estimation to actual trading without applying low-frequency trading are limited. This study applied William%R to the existing research and used fixed parameters to remove noise from stochastics. We propose contributing to stock market stakeholders by finding an easy-to-apply algorithmic trading methodology for individual and pension fund investors. The algorithm constructed two oscillators with fixed parameters to identify when to enter and exit the index and achieved good results against the benchmark. We tested two ETFs, SPY (S&P 500) and EWY (MSCI Korea), from 2010 to 2022. Over the 12-year study period, our model showed it can outperform the benchmark index, having a high hit ratio of over 80%, a maximum drawdown in the low single digits, and a trading frequency of 1.5 trades per year. The results of our empirical research show that this methodology simplifies the process for investors to effectively implement market timing strategies in their investment decisions.
+
+**Source:** https://www.semanticscholar.org/paper/d85f86c8e7289a86723a40d8d97db50a7a9b1f8b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:50:15.236Z

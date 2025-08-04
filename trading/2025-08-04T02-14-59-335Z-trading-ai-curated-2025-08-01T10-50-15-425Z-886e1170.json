@@ -1,0 +1,13 @@
+# Intra-Daily Volume Modeling and Prediction for Algorithmic Trading
+
+**Authors:** C. Brownlees, F. Cipollini, G. Gallo
+
+## Abstract
+The explosion of algorithmic trading has been one the most recent prominent trends in the financial industry. Algorithmic trading consists of automated trading strategies that attempt to minimize transaction costs by optimally placing transactions orders. The key ingredient of many of these strategies are intra-daily volume predictions. This work proposes a dynamic model for intra-daily volume forecasting that captures salient features of the series such as intra-daily periodicity and volume asymmetry. Results show that the proposed methodology is able to significantly outperform common volume forecasting methods and delivers significantly more precise predictions in a VWAP tracking trading exercise.
+
+**Source:** https://www.semanticscholar.org/paper/f749eb6508c2f4439715a0f807b73b07defe7353
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:50:15.425Z

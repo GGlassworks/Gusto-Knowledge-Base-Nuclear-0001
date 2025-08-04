@@ -1,0 +1,13 @@
+# Performance Comparison of Three Automated Trading Systems (MACD, PIVOT and SMA) by Means of the d-Backtest PS Implementation
+
+**Authors:** D. Vezeris, C. Schinas
+
+## Abstract
+ Abstract —State-of-the-art trading systems are automated and are executed on computers through trading platforms. They generate and execute trades, based on optimized parameters and algorithmic trading strategies. In the current research, such software for automated trading systems was developed, utilizing the following technical indicators, the MACD (oscillator), the SMA (moving average) and the PIVOT points (price crossover).The systems traded on hourly timeframes, using historical data of closing prices over weekly based periods of parameters' optimization and using the d-Backtest PS method. Through this research, and the interpretation and evaluation of results, two findings or rather conclusions were drawn. These findings are presented sequentially as follows: In terms of profitability, the adaptive MACD trading system was the most effective one, followed by PIVOT trading system and the SMA was ranked as the least profitable trading system. There is a weak correlation of back testing periods among the above trading systems.
+
+**Source:** https://www.semanticscholar.org/paper/6903835114b96120632da5f024b3a2632c1cf7ba
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:21.916Z

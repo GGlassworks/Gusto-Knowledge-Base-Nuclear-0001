@@ -1,0 +1,13 @@
+# Machine Learning and Speed in High-Frequency Trading
+
+**Authors:** Jasmina Arifovic, Xue-zhong He, Lijian Wei
+
+## Abstract
+The creative destruction wrought by high-frequency algorithmic tradinghas raised increasing concerns about the eect of machine learning behaviorsand ultra high-frequency trading in&nbsp;finnancial markets. By employing a geneticalgorithm with a classifer system as an adaptive learning tool, we address someof these concerns by studying a dynamic limit order market model with asymmetricinformation and varying speeds of high-frequency trading (HFT). We showthat HFT benefits&nbsp;&nbsp;uninformed traders, improves information effciency but reducesmarket liquidity. We find that there is a trade-off where a competition effect erodesthe information and speed advantages of high-frequency traders, increasing tradingspeeds of HF traders, reduces market liquidity but generates a hump-shaped relationshipto the protability of high-frequency traders and information eciency.This research finds there may be potential benefits&nbsp;&nbsp;to throttling the trading speedarms race to improve market efficiency. We also find that strategic algorithmictrading compensates for diminishments in speed advantages, providing an insighton machine behavior in the FinTech age.
+
+**Source:** https://www.semanticscholar.org/paper/c7c0ff2e1abe06209c9760a88dc1496554329cb8
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:44.963Z

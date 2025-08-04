@@ -1,0 +1,13 @@
+# From ML-Infused Algorithms to Financial Agents, transforming Algorithmic Trading Excellence: A Comprehensive Study
+
+**Authors:** Tanaya Patil
+
+## Abstract
+Algorithmic trading has become a crucial component of modern financial markets, using advanced computational methods to execute trades quickly and accurately. This study explores the integration of machine learning (ML) techniques into algorithmic trading to optimize strategies and improve market performance. It examines the innovative use of ARIMA for buy/sell decisions, moving average based signals, and Random Forest classifiers. Analysis of the performances of the above-mentioned algorithms for stock price decisions of classification and prediction have been carried out with the results displayed in a graphical form to analyze them better. It has been inferred that the statistical technique of the method of moving averages outperforms all the other algorithms for stock price or time series prediction. Building upon these results, this study extends its scope by incorporating an automated financial agent developed using the Alpaca API to monitor Britannia stock. The agent employs a strategy based on a 5-minute moving average of closing prices, executing buy orders when the price is 10 cents above the average and selling when it is 10 cents below the average while holding a position. Furthermore, the paper highlights key challenges facing Algorithmic Trading and outlines potential future research directions in this field.
+
+**Source:** https://www.semanticscholar.org/paper/53dabeee015f14e2b791e7baeaa6407818d4f1ff
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:47.142Z

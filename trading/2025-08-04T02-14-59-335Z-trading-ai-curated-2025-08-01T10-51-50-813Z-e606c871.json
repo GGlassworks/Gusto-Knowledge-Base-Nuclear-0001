@@ -1,0 +1,13 @@
+# Deep Reinforcement Learning Robots for Algorithmic Trading: Considering Stock Market Conditions and U.S. Interest Rates
+
+**Authors:** Ji-Heon Park, Jae-Hwan Kim, Jun-Ho Huh
+
+## Abstract
+With the development of artificial intelligence, there have been many attempts to incorporate artificial intelligence into algorithmic trading. In particular, reinforcement learning, which aims to solve dynamic decision-making problems, is attracting attention because of its high utilization in algorithmic trading. In this paper, we will implement a simple Deep Reinforcement Learning (DRL) trading robot to check the performance of DRL. In addition, we tried to find out how much performance improvement can be achieved by comparing a robot that learned a single stock data with a robot that learned stock data, market index, and interest rate data. This paper aims to develop a stock investment robot using a Proximal Policy Optimization (PPO) reinforcement learning algorithm and analyze the performance of the robot. The first robot used only the stock data of APPL INC, a single stock, as input, and the second robot used stock data of APPL INC and the S&P 500 index together with US interest rate data as input data. Afterward, the stock investment performance of the two robots for APPL INC was comparatively analyzed using the test data.
+
+**Source:** https://www.semanticscholar.org/paper/686792428a807337a1f7726bb549d561942987cb
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:51:50.813Z

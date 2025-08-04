@@ -1,0 +1,13 @@
+# Multi-Agent Reinforcement Learning-Based Trading Decision-Making in Platooning-Assisted Vehicular Networks
+
+**Authors:** Tingting Xiao, Chen Chen, M. Dong, K. Ota, Lei Liu, S. Dustdar
+
+## Abstract
+Utilizing the stable underlying and cloud-native functions of vehicle platoons allows for flexible resource provisioning in environments with limited infrastructure, particularly for dynamic and compute-intensive applications. To maximize this potential, we propose the creation of a trading market to encourage interactions between service supporters (vehicle platoons) and requesters (task vehicles). Current trading decisions based on game and negotiations can lead to unpredicted handover costs and increased communication overhead in dynamic environments. Moreover, existing research tends to overlook a mutually beneficial trading philosophy by focusing on either the service supporters’ profitability or the user experience of resource-restrained requesters. Addressing these issues, we introduce a multi-objective optimization problem to model environmental dynamics and uncertainty, aiming to maximize both platoons’ and task vehicles’ long-term utilities while maintaining a satisfactory service access ratio. To tackle the problem within acceptable time frames, we develop a global-local training architecture, incorporating a hybrid action space and prioritized sampling into a multi-agent reinforcement learning algorithm that utilizes a twin delayed deep deterministic gradient (GL-HPMATD3). This approach facilitates consensus in the trading market on key issues, including service request selection, resource allocation, and trading pricing. Through extensive experimentation and comparison, we demonstrate our mechanism’s superior performance in convergence, service access ratio, player utility, execution latency, and trading pricing relative to several state-of-the-art and baseline methods.
+
+**Source:** https://www.semanticscholar.org/paper/62e9362ab52edaa1e64fed23e7da72794393b3b8
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:18.298Z

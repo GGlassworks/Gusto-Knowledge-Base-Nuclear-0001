@@ -1,0 +1,13 @@
+# Financial Technical Indicator and Algorithmic Trading Strategy Based on Machine Learning and Alternative Data
+
+**Authors:** Andrea Frattini, Ilaria Bianchini, Alessio Garzonio, L. Mercuri
+
+## Abstract
+The aim of this paper is to introduce a two-step trading algorithm, named TI-SiSS. In the first step, using some technical analysis indicators and the two NLP-based metrics (namely Sentiment and Popularity) provided by FinScience and based on relevant news spread on social media, we construct a new index, named Trend Indicator. We exploit two well-known supervised machine learning methods for the newly introduced index: Extreme Gradient Boosting and Light Gradient Boosting Machine. The Trend Indicator, computed for each stock in our dataset, is able to distinguish three trend directions (upward/neutral/downward). Combining the Trend Indicator with other technical analysis indexes, we determine automated rules for buy/sell signals. We test our procedure on a dataset composed of 527 stocks belonging to American and European markets adequately discussed in the news.
+
+**Source:** https://www.semanticscholar.org/paper/a652a44ad4a423bda302d7ed9975e301bcdf858e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:47.464Z

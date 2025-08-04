@@ -1,0 +1,14 @@
+# Dark Pool Trading and Information Acquisition
+
+**Authors:** Jonathan Brogaard, Jing Pan
+
+## Abstract
+
+ Theory suggests that dark pools may facilitate or discourage information acquisition. We find that more dark pool trading leads to greater information acquisition. We measure information acquisition using stock price dynamics around earnings announcements. To overcome endogeneity concerns, we exploit a large exogenous decrease to dark pool trading that results from the implementation of the Security and Exchange Commission’s (SEC’s) Tick Size Pilot Program. The results cannot be explained by lit venue liquidity, algorithmic trading, or informational efficiency. A battery of additional tests, such as documenting a shift in SEC EDGAR searches, supports the information acquisition interpretation.
+
+**Source:** https://www.semanticscholar.org/paper/453e86c95b19fdc34aac3daa7fe5747af81df968
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:22.302Z

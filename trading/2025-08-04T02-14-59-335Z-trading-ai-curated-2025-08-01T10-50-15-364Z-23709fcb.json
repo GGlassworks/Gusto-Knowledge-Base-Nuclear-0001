@@ -1,0 +1,13 @@
+# Hybrid data decomposition-based deep learning for Bitcoin prediction and algorithm trading
+
+**Authors:** Yuze Li, Shang Jiang, Xuerong Li, Shouyang Wang
+
+## Abstract
+In recent years, Bitcoin has received substantial attention as potentially high-earning investment. However, its volatile price movement exhibits great financial risks. Therefore, how to accurately predict and capture changing trends in the Bitcoin market is of substantial importance to investors and policy makers. However, empirical works in the Bitcoin forecasting and trading support systems are at an early stage. To fill this void, this study proposes a novel data decomposition-based hybrid bidirectional deep-learning model in forecasting the daily price change in the Bitcoin market and conducting algorithmic trading on the market. Two primary steps are involved in our methodology framework, namely, data decomposition for inner factors extraction and bidirectional deep learning for forecasting the Bitcoin price. Results demonstrate that the proposed model outperforms other benchmark models, including econometric models, machine-learning models, and deep-learning models. Furthermore, the proposed model achieved higher investment returns than all benchmark models and the buy-and-hold strategy in a trading simulation. The robustness of the model is verified through multiple forecasting periods and testing intervals.
+
+**Source:** https://www.semanticscholar.org/paper/7e5f3009e6522ea5d2cb1e3f8ca9268679a7c534
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:50:15.365Z

@@ -1,0 +1,13 @@
+# Algorithmic Trading Strategy Using Technical Indicators
+
+**Authors:** Pranay D. Kumbhare, Lokendra Kolhe, Sakshi Dani, Pooja Fandade, Dipti Theng
+
+## Abstract
+The stock market holds great importance for the economic progress of any country, despite its inherently unpredictable and volatile nature. Factors such as political considerations, investor decisions, news, and other externalities contribute to its uncertainty. Thousands of people invest in the stock market on a daily basis, and the outcomes of these investments can vary greatly, with some investors experiencing financial gains while others suffer losses. Given the high demand for stock price predictions, research on the stock market is crucial. Effective forecasting systems can assist traders by providing valuable information such as future pricing projections. It is challenging for stock market investors and traders to fully comprehend the dynamics of stock price changes, making the development of automated procedures for making significant predictions of future stock prices a worthwhile endeavour. In this research, a method for forecasting stock trends through the use of technical indicators Average Directional Index, Supertrend and Fibonacci Pivot Points, later we have increased the accuracy using LSTM. The system employs historical pricing data to make predictions about stock trends. The proposed framework is designed to analyse individual stocks of a company by incorporating mathematical technical indicators. The objective of this study is to enhance profitability and minimize the potential for losses in trading. This paper examines key technical indicators in the context of a profitable and successful trading strategy for the Nifty.
+
+**Source:** https://www.semanticscholar.org/paper/7474f801e1806a269d73e5ba9c0c3931133eb729
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:51:51.053Z

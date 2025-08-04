@@ -1,0 +1,13 @@
+# Review of Recent Research Directions and Practical Implementation of Low-Frequency Algorithmic Trading
+
+**Authors:** Talal Al-Sulaiman
+
+## Abstract
+Financial trading has undergone substantial technological evolution, with automation taking center stage, leading to approximately 80% of US market trades being executed by computer systems, predominantly by large financial institutions. The rise of algorithmic trading, poised to engage smaller entities, international markets, and individual traders, drives this article’s exploration of research in this field. Providing a comprehensive overview, it outlines the evolution of trading practices and defines algorithmic trading as a computer-powered tool aiding investment decisions. The article details the steps involved in algorithmic trading, covering opportunity identification, quantitative research, implementation, testing phases, and continuous monitoring. It also examines prevalent programming languages and open-source platforms facilitating algorithm development. Focusing on trading frequencies across financial instruments, it delves into high-frequency trading as a subset, alongside methodologies like technical and fundamental analysis, time series analysis, option trading strategies, and machine learning techniques used in algorithm creation. Categorized by trading frequencies, analytical approaches, involved financial instruments, and analysis objectives, the reviewed papers contribute insights into algorithmic trading’s diverse landscape and methodologies, offering valuable perspectives for industry participants and researchers alike.
+
+**Source:** https://www.semanticscholar.org/paper/a3b06ea0674aa34874fc5f258d07c1c67764a583
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:51:50.886Z

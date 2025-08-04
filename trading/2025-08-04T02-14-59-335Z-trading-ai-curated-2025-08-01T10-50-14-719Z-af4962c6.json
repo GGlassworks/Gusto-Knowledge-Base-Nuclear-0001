@@ -1,0 +1,13 @@
+# What Happened to the Rest? A Principled Approach to Clean-Up Costs in Algorithmic Trading
+
+**Authors:** P. Kolm, Nicholas Westray
+
+## Abstract
+This article proposes a practical and computationally efficient methodology to assign a value for clean-up cost, the opportunity cost associated with the cancelled portion of an order. Unbiased estimation of clean-up costs is an essential component in performing accurate transaction cost analysis in algorithmic trading. We illustrate with an example drawn from practice. The approach is introduced in the context of cleaning up orders in algorithmic trading. However, it is straightforward to modify it for other settings where market data needs to be properly adjusted for realized impact. This new approach will be of interest to academics and practitioners alike.
+
+**Source:** https://www.semanticscholar.org/paper/657227a15251d1fb2d0a24a4f2d1ce699d3f28f5
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:50:14.719Z

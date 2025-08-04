@@ -1,0 +1,13 @@
+# Q-Learning and SARSA: A Comparison between Two Intelligent Stochastic Control Approaches for Financial Trading
+
+**Authors:** M. Corazza, A. Sangalli
+
+## Abstract
+The purpose of this paper is to solve a stochastic control problem consisting of optimizing the management of a trading system. Two model free machine learning algorithms based on Reinforcement Learning method are compared: the Q-Learning and the SARSA ones. Both these models optimize their behaviours in real time on the basis of the reactions they get from the environment in which operate. This idea is based on a new emerging theory about the market efficiency, the Adaptive Market Hypothesis. We apply the algorithms on single stock price time series using simple state variables. These algorithms operate selecting an action among three possible ones: buy, sell and stay out from the market. We perform several applications based on different parameter settings that are tested on an artificial daily stock prices time series and on different real ones from Italian stock market. Furthermore, performances are both gross and net of transaction costs.
+
+**Source:** https://www.semanticscholar.org/paper/1018b88b4e66ac6721d9f52c089756d1d7d3033c
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:18.352Z

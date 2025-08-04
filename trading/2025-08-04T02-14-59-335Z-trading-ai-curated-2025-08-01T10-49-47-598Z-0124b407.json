@@ -1,0 +1,13 @@
+# Algorithmic Trading Using Continuous Action Space Deep Reinforcement Learning
+
+**Authors:** Naseh Majidi, Mahdieh Shamsi, F. Marvasti
+
+## Abstract
+Price movement prediction has always been one of the traders' concerns in financial market trading. In order to increase their profit, they can analyze the historical data and predict the price movement. The large size of the data and complex relations between them lead us to use algorithmic trading and artificial intelligence. This paper aims to offer an approach using Twin-Delayed DDPG (TD3) and the daily close price in order to achieve a trading strategy in the stock and cryptocurrency markets. Unlike previous studies using a discrete action space reinforcement learning algorithm, the TD3 is continuous, offering both position and the number of trading shares. Both the stock (Amazon) and cryptocurrency (Bitcoin) markets are addressed in this research to evaluate the performance of the proposed algorithm. The achieved strategy using the TD3 is compared with some algorithms using technical analysis, reinforcement learning, stochastic, and deterministic strategies through two standard metrics, Return and Sharpe ratio. The results indicate that employing both position and the number of trading shares can improve the performance of a trading system based on the mentioned metrics.
+
+**Source:** https://www.semanticscholar.org/paper/f88f56576f65f36604ab6306c162ab88d37640fa
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:47.599Z

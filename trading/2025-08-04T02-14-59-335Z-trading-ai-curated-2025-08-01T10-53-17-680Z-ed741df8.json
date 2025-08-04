@@ -1,0 +1,13 @@
+# Is Algorithmic Trading Distinctively Different? Assessing its Behavior in Comparison to Informed, Momentum and Noise Traders
+
+**Authors:** Markus Gsell
+
+## Abstract
+The concept of Algorithmic Trading emulates via electronic means a brokers core competency of slicing a big order into a multiplicity of smaller orders and of timing these orders to minimize market impact. Based on mathematical models and considering historical and real-time market data, algorithms determine ex ante or continuously the optimum size of the (next) slice and its time of submission to the market. Algorithmic trading models are gaining market share worldwide. As this might impact the order flow on the markets it is self-evident to investigate whether algorithmic trading can be categorized in the traditional way or whether it represents a new category of stylized trader. The paper assesses the upcoming sophisticated trading strategy of algorithmic trading against the background of the traditional categories of stylized traders in the literature, i.e. informed traders, momentum traders and noise traders. As a conclusion, in order to assess the of impact algorithmic trading on financial markets, the set-up of a new simulation model incorporating agents representing the specific properties and the trading behavior of algorithmic trading is proposed.
+
+**Source:** https://www.semanticscholar.org/paper/af18a8cc24c55ed331b00e7c7b44d133313f23b0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:17.681Z

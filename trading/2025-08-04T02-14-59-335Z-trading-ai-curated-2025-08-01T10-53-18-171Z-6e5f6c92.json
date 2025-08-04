@@ -1,0 +1,13 @@
+# An Algorithm for Modelling Rolling Intrinsic Battery Trading on the Continuous Intraday Market
+
+**Authors:** Leo Semmelmann, Jannik Dresselhaus, Kim K. Miskiw, Jan Ludwig, Christof Weinhardt
+
+## Abstract
+We introduce a novel rolling intrinsic algorithm to model battery-based trading on the continuous intraday market. Our approach leverages a discretization method with a subsequent step-wise optimization based on continuous price updates and complete uncertainty about future prices. We show the high potential of generating additional profits in the continuous intraday market in comparison to using an ID3-based representation of trading, which is frequently used in literature. Thereby, we realistically model actual trading behavior on the intraday market. We publish our code open-source to contribute to the further analysis of battery storage systems on the intraday market.
+
+**Source:** https://www.semanticscholar.org/paper/5cdce0dbca8fc572be38d33b0c74f2f2f0ff6f18
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:18.172Z

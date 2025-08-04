@@ -1,0 +1,13 @@
+# A High-Frequency Algorithmic Trading Strategy for Cryptocurrency
+
+**Authors:** Au Vo, Chris Yost-Bremm
+
+## Abstract
+ABSTRACT Cryptocurrency such as Bitcoin is a rapidly developing phenomenon in financial technology with considerable research interest but is understudied. In this research article, we use a Design Science Research paradigm to create a high-frequency trading strategy at the minute level for Bitcoin using six exchanges as our Information Technology artifact. We created financial indicators and utilized a machine learning (ML) algorithm to create our strategy. We provided two sets of evaluation. First, we evaluated this strategy against another popular ML algorithm and found our algorithm performed better on the average. Second, we analyzed the economic benefits using the strategy against out-of-sample trading in foreign exchange currency. We presented both descriptive and prescriptive contributions to Design Science Research via the development and testing of our artifacts.
+
+**Source:** https://www.semanticscholar.org/paper/c50d32689b8d945cce3a0dc4444facea2807139c
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:51:51.317Z

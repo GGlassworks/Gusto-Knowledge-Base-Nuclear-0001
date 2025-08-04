@@ -1,0 +1,13 @@
+# Factors Affecting Market Participant Decision Making in the Spanish Intraday Electricity Market: Auctions vs. Continuous Trading
+
+**Authors:** Shilpa Bindu, José Pablo Chaves Ávila, L. Olmos
+
+## Abstract
+Intraday markets can be organized as continuous trading or discrete auction sessions. While many studies have attempted to compare the liquidity of these two models, additional external factors specific to each system, such as the balancing market design and number of bidding zones, affect overall market liquidity. In this regard, the Spanish hybrid intraday markets seem like an excellent case study to compare the two market models. Since the two intraday models are implemented in the same system (the Spanish one), the same conditions apply to their implementation. However, a direct comparison of liquidity is still challenging due to two factors: (1) differences exist in market architecture (timing, pricing scheme, bidding formats, etc.) between the two models, which create preferences among market players for one or the other; (2) the opportunistic behavior of market players in the system responding to the market price signals may affect the liquidity dynamics. We demonstrate the relevance of these two factors coming into play in the Spanish intraday markets, first carrying out a qualitative analysis of the market architecture of both models and then empirically analyzing a market manipulation attempt, which we refer to as the 15:10 rush. Our analysis points towards the need for more efficient regulation governing the interaction of the continuous intraday market with intraday auction markets and the potential risks from increased algorithmic trading.
+
+**Source:** https://www.semanticscholar.org/paper/17d8c2a3ddc23e39a687397ce8dc09bdf1088ab3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:18.233Z

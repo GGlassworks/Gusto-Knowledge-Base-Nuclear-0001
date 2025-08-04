@@ -1,0 +1,13 @@
+# Mbt-gym: Reinforcement learning for model-based limit order book trading
+
+**Authors:** Joseph Jerome, Leandro Sánchez-Betancourt, Rahul Savani, Martin Herdegen
+
+## Abstract
+Within the mathematical finance literature there is a rich catalogue of mathematical models for studying algorithmic trading problems such as market making and optimal execution. This paper introduces mbt_gym, a Python module that provides a suite of gym environments for training reinforcement learning (RL) agents to solve such model-based trading problems in limit order books. The module is set up in an extensible way to allow the combination of different aspects of different models. It supports highly efficient implementations of vectorised environments to allow faster training of RL agents. In this paper, we motivate the use of RL to solve such model-based limit order book problems, we explain the design of our gym environment, and then demonstrate its use and resulting insights from solving standard and novel problems. Finally, we lay out a roadmap for further development and use of our module for research into limit-order-book trading.
+
+**Source:** https://www.semanticscholar.org/paper/37bdf3c01ae493a6a3325d2799b71062c2550c4e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:51:51.639Z

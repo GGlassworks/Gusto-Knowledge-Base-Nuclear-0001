@@ -1,0 +1,13 @@
+# Machine learning for algorithmic trading
+
+**Authors:** T. Kondratieva, L. Prianishnikova, I. Razveeva
+
+## Abstract
+The purpose of the study is to confirm the feasibility of using machine learning methods to predict the behavior of the foreign exchange market. The article examines the theoretical and practical aspects of the implementation of artificial neural networks in the process of Internet trading. We studied the features of constructing automated trading advisors that perform trading operations based on the forecast of neural networks in combination with indicator signals. As a result, a hybrid system has been built that has a high-precision forecast and allows you to make a profit with the correct selection of parameters.
+
+**Source:** https://www.semanticscholar.org/paper/fbce32abb79e8fc88fcbad7377cf035fdd9327de
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:21.750Z

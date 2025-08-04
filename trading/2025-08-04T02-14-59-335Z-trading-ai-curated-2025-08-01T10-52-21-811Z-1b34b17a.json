@@ -1,0 +1,13 @@
+# Automated trading systems statistical and machine learning methods and hardware implementation: a survey
+
+**Authors:** Boming Huang, Y. Huan, Lida Xu, Lirong Zheng, Z. Zou
+
+## Abstract
+ABSTRACT Automated trading, which is also known as algorithmic trading, is a method of using a predesigned computer program to submit a large number of trading orders to an exchange. It is substantially a real-time decision-making system which is under the scope of Enterprise Information System (EIS). With the rapid development of telecommunication and computer technology, the mechanisms underlying automated trading systems have become increasingly diversified. Considerable effort has been exerted by both academia and trading firms towards mining potential factors that may generate significantly higher profits. In this paper, we review studies on trading systems built using various methods and empirically evaluate the methods by grouping them into three types: technical analyses, textual analyses and high-frequency trading. Then, we evaluate the advantages and disadvantages of each method and assess their future prospects.
+
+**Source:** https://www.semanticscholar.org/paper/4e6da7e6dfe8d029a6652b4af097c94e704bcda4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:21.811Z

@@ -1,0 +1,13 @@
+# Low-Latency Hardware Accelerator for Improved Engle-Granger Cointegration in Pairs Trading
+
+**Authors:** Shuang Liang, Siyuan Lu, Jun Lin, Zhongfeng Wang
+
+## Abstract
+Pairs trading is a solidly profitable strategy in the algorithmic trading area, and an important step of this strategy is selecting pairs of stocks. Compared with other existing pairs selection approaches, the Engle-Granger cointegration is more stable and reliable. Nowadays, as trading is becoming faster and faster in stock markets all over the world, it is necessary to accelerate the pairs selection process to increase potential profits. However, intensive computations and complicated data flow in the cointegration approach bring challenges to hardware acceleration. In this paper, for the first time, we propose an efficient and hardware-friendly computing scheme to accelerate the Engle-Granger cointegration. Besides, a novel algorithmic strength reduction strategy and approximation methods are used to significantly reduce the complexity of the proposed scheme. Based on the improved algorithm, both FPGA and ASIC accelerators are developed. The implementation results show that our FPGA and ASIC accelerators perform <inline-formula> <tex-math notation="LaTeX">$36\times $ </tex-math></inline-formula> and <inline-formula> <tex-math notation="LaTeX">$207\times $ </tex-math></inline-formula> faster than GPU, respectively. Thus, our design can significantly reduce the latency of the pairs selection process, and make more profit for investors and traders.
+
+**Source:** https://www.semanticscholar.org/paper/a8f0e45303d56ef830aa16ff68fbf659c06a2582
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:22.354Z

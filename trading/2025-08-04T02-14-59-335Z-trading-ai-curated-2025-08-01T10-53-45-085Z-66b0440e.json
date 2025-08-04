@@ -1,0 +1,13 @@
+# Improved PBFT algorithm for high-frequency trading scenarios of alliance blockchain
+
+**Authors:** Song Tang, Zhiqiang Wang, Jian Jiang, Suli Ge, Gaifang Tan
+
+## Abstract
+With the continuous development of blockchain technology, the application scenarios of alliance blockchain are also increasing. The consensus algorithm can achieve distributed consensus among nodes in the network. At present, the practical byzantine fault tolerance algorithm (PBFT) consensus algorithm commonly used in alliance blockchain requires all nodes in the network to participate in the consensus process. Experiments show that when the number of consensus nodes in the system exceeds 100, the bandwidth consumption and consensus delay will greatly increase, resulting in the inability of PBFT to be applied. In scenes with many nodes. How to improve the performance of alliance blockchains safely and efficiently has become an urgent problem to be solved at present. For the PBFT commonly used in alliance blockchains, there are some problems, such as large communication overhead, simple selection of master nodes, and inability to expand and exit nodes dynamically in the network. This paper proposes an improved algorithm tPBFT (trust-based practical Byzantine algorithm), which is suitable for high-frequency trading scenarios of consortium chains. By introducing a trust equity scoring mechanism between nodes in the network, the list of consensus nodes can be dynamically adjusted. tPBFT simplifies the pre-prepare stage of the PBFT consensus process, and realizes the verification of the hash transaction list in the reply stage, thereby reducing the interaction overhead between network nodes. Theoretical analysis and experiments show that when the number of nodes in the network is greater than 30, with the further increase of the number of nodes, the improved tPBFT algorithm has a relatively large performance in terms of node communication overhead, consensus efficiency and scalability outperforms the PBFT algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/be3f053cd65e98a3a4cfb85fd12192ae4fbf30cb
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:45.086Z

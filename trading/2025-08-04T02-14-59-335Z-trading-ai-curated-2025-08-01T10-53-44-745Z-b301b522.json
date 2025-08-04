@@ -1,0 +1,13 @@
+# Reinforcement Learning for Stock Prediction and High-Frequency Trading With T+1 Rules
+
+**Authors:** Weipeng Zhang, Tao Yin, Yunan Zhao, Bing Han, Huanxi Liu
+
+## Abstract
+The high-frequency trading framework for the price trend prediction model and trading strategy has been a popular approach for T+0 trading in the stock market. The prediction model is used to predict price trends, and the trading strategy is used to determine the price and volume of the order. Most trading strategies consist of multiple trading logic associated with certain tuning parameters. These parameters significantly affect the profitability of high-frequency trading frameworks. There are two main disadvantages of this framework: 1) the price trend prediction model can not adapt to the current market data distribution, and 2) the trading strategy can not adapt to the current market conditions automatically. Thus, the framework cannot always maintain positive revenue. To address this problem, we propose a novel dynamic parameter optimization algorithm based on reinforcement learning for stock prediction and trading, and to generate an adaptive trading framework. First, we use a rolling model training method for stock price trend prediction. Second, we regard each set of strategy parameters as action and devise an inverse reinforcement learning algorithm for the reward function to accurately estimate the reward of each action. Because of the T+1 trading rules of the Chinese stock market, we consider the constraint of limited short position in the reward function. Finally, a reward-enhanced upper confidence bound (UCB) selection algorithm is proposed to automatically optimize the parameters of the trading logic in real-time trading. The experimental results show that our method achieves competitive performance in the Chinese stock market.
+
+**Source:** https://www.semanticscholar.org/paper/cc17953de50c6d07fc6c6368dafe3cf50b11ae6a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:44.746Z

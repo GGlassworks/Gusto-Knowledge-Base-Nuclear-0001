@@ -1,0 +1,13 @@
+# A Ratiocinative Concept of Algorithmic Trading using MACD Indicator
+
+**Authors:** Parthkumar Kanani, Jenish Karasariya, Narendra Zadafiya, Amit Nayak
+
+## Abstract
+Algorithmic trading, otherwise known as black-box trading or plain machine-driven trading, can be referred as computing machine for making different trading-orders, using specific algorithmic program along with considering various aspects of the orders such as the time, buying or selling price and number of quantities to trade, or solely commencing the trade excluding human intercession. A rule-based trading approach is represented by this research by incorporating the concepts of MACD indicator and Exponential Moving Average (EMA). The study contains several things, starting from the need of algo-trading, the solution it offers and the multiple indicators using which the pure machine-based trading is possible and finally, the implementation of MACD indicator and other nomenclature of it performing which, one can enhance their trading skills.
+
+**Source:** https://www.semanticscholar.org/paper/e26fe58c8c20c2ffd5e7896cc35393acfc4ead6b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:21.624Z

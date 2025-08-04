@@ -1,0 +1,13 @@
+# High Frequency Trading and Price Discovery
+
+**Authors:** Jonathan Brogaard, T. Hendershott, Ryan Riordan
+
+## Abstract
+We examine the role of high-frequency traders (HFTs) in price discovery and price efficiency. Overall HFTs facilitate price efficiency by trading in the direction of permanent price changes and in the opposite direction of transitory pricing errors, both on average and on the highest volatility days. This is done through their liquidity demanding orders. In contrast, HFTs' liquidity supplying orders are adversely selected. The direction of HFTs' trading predicts price changes over short horizons measured in seconds. The direction of HFTs' trading is correlated with public information, such as macro news announcements, market-wide price movements, and limit order book imbalances.
+
+**Source:** https://www.semanticscholar.org/paper/90ac67bdffd4278ee0efe6fc54918c0dd50fe978
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:44.320Z

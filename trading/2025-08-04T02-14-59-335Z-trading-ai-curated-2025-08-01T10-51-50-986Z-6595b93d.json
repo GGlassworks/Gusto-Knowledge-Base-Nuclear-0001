@@ -1,0 +1,13 @@
+# Optimization of Cryptocurrency Algorithmic Trading Strategies Using the Decomposition Approach
+
+**Authors:** Sherin M. Omran, Wessam H. El-Behaidy, A. Youssif
+
+## Abstract
+A cryptocurrency is a non-centralized form of money that facilitates financial transactions using cryptographic processes. It can be thought of as a virtual currency or a payment mechanism for sending and receiving money online. Cryptocurrencies have gained wide market acceptance and rapid development during the past few years. Due to the volatile nature of the crypto-market, cryptocurrency trading involves a high level of risk. In this paper, a new normalized decomposition-based, multi-objective particle swarm optimization (N-MOPSO/D) algorithm is presented for cryptocurrency algorithmic trading. The aim of this algorithm is to help traders find the best Litecoin trading strategies that improve their outcomes. The proposed algorithm is used to manage the trade-offs among three objectives: the return on investment, the Sortino ratio, and the number of trades. A hybrid weight assignment mechanism has also been proposed. It was compared against the trading rules with their standard parameters, MOPSO/D, using normalized weighted Tchebycheff scalarization, and MOEA/D. The proposed algorithm could outperform the counterpart algorithms for benchmark and real-world problems. Results showed that the proposed algorithm is very promising and stable under different market conditions. It could maintain the best returns and risk during both training and testing with a moderate number of trades.
+
+**Source:** https://www.semanticscholar.org/paper/c8c6c362e4d6d24897402af878df4e724cedf2a1
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:51:50.986Z

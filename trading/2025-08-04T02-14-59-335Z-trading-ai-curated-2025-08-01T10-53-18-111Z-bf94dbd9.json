@@ -1,0 +1,13 @@
+# A Comparison among Reinforcement Learning Algorithms in Financial Trading Systems
+
+**Authors:** M. Corazza, G. Fasano, R. Gusso, R. Pesenti
+
+## Abstract
+In this work we analyze and implement different Reinforcement Learning (RL) algorithms in financial trading system applications. RL-based algorithms applied to financial systems aim to find an optimal policy, that is an optimal mapping between the variables describing the state of the system and the actions available to an agent, by interacting with the system itself in order to maximize a cumulative return. In this contribution we compare the results obtained considering different on-policy (SARSA) and off-policy (Q-Learning, Greedy-GQ) RL algorithms applied to daily trading in the Italian stock market. We consider both computational issues related to the implementation of the algorithms, and issues originating from practical application to real stock markets, in an effort to improve previous results while keeping a simple and understandable structure of the used models.
+
+**Source:** https://www.semanticscholar.org/paper/f233db96b4251bb7ad056d5a31c8eaa8b9389803
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:18.111Z

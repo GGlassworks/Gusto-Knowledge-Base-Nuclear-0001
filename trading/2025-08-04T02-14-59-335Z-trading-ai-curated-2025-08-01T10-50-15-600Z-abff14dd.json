@@ -1,0 +1,13 @@
+# Generative adversarial networks for financial trading strategies fine-tuning and combination
+
+**Authors:** Adriano Soares Koshiyama, Nikan B. Firoozye, P. Treleaven
+
+## Abstract
+Systematic trading strategies are algorithmic procedures that allocate assets aiming to optimize a certain performance criterion. To obtain an edge in a highly competitive environment, an analyst needs to appropriately fine-tune their strategy, or discover how to combine weak signals in novel alpha creating manners. Both aspects, namely fine-tuning and combination, have been extensively researched using several methods, but emerging techniques such as Generative Adversarial Networks can have an impact on such aspects. Therefore, our work proposes the use of Conditional Generative Adversarial Networks (cGANs) for trading strategy calibration and aggregation. To this end, we provide a full methodology on: (i) the training and selection of a cGAN for time series data; (ii) how each sample is used for strategy calibration; and (iii) how all generated samples can be used for ensemble modelling. To provide evidence that our approach is well grounded, we have designed an experiment with multiple trading strategies, encompassing 579 assets. We compared cGAN with an ensemble scheme and model validation methods, both suited for time series. Our results suggest that cGANs are a suitable alternative for strategy calibration and combination, providing outperformance when the traditional techniques fail to generate any alpha.
+
+**Source:** https://www.semanticscholar.org/paper/efe911fa67483e4977ed3b27e3c84b7ff7f1e21b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:50:15.601Z

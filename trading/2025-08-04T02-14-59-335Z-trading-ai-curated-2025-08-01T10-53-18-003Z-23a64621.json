@@ -1,0 +1,15 @@
+# Backtesting of Algorithmic Cryptocurrency Trading Strategies
+
+**Authors:** J. Spörer
+
+## Abstract
+This thesis presents a tool for backtesting algorithmic trading strategies for cryptocurrencies. The tool, called quantbacktest, provides a convenient way to automatically run comparisons of multi-dimensional parameter spaces for algorithmic trading strategies. The tool supports any algorithmic strategy to be simulated and any parameter spaces to be tested and optimized with minimal adjustments. Also, arbitrary trading frequencies can be tested, from intraday to long-term strategies. 
+ 
+Many standard return metrics, risk metrics, and robustness test functionalities come out-of-the-box in CSV format and as diagrams. Users can provide signals and price data via CSV or Excel files. Signal processing does not require a technical (code-level) understanding of the backtesting tool on behalf of the user.
+
+**Source:** https://www.semanticscholar.org/paper/fba2b4e1b7b30f453cb54898322c1af421db5c12
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:18.003Z

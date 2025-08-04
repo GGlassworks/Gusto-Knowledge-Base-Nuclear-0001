@@ -1,0 +1,13 @@
+# High Frequency Trading and the New-Market Makers
+
+**Authors:** A. Menkveld
+
+## Abstract
+This paper characterizes the trading strategy of a large high frequency trader (HFT). The HFT incurs a loss on its inventory but earns a profit on the bid–ask spread. Sharpe ratio calculations show that performance is very sensitive to cost of capital assumptions. The HFT employs a cross-market strategy as half of its trades materialize on the incumbent market and the other half on a small, high-growth entrant market. Its trade participation rate in these markets is 8.1% and 64.4%, respectively. In both markets, four out of five of its trades are passive i.e., its price quote was consumed by others.
+
+**Source:** https://www.semanticscholar.org/paper/d2a0d291c1a3028e4d1d5605efcece6dd6653ac5
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:45.151Z

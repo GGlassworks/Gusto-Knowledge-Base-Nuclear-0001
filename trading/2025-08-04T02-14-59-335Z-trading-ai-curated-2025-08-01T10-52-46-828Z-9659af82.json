@@ -1,0 +1,13 @@
+# A Novel Algorithmic Trading Approach Based on Reinforcement Learning
+
+**Authors:** Li Xucheng, Peng Zhihao
+
+## Abstract
+Algorithmic trading has gained great popularity due to the rapidly increasing computing power of modern day computers. In order to reduce trading latency, market participants and academic researchers are constantly looking for better novel and successful approaches to help them to achieve greater success. In this paper, a novel reinforcement learning approach is proposed which defines the algorithmic trading problem under the framework of the classic reinforcement learning problem, aiming to optimize the agent's performance in an unknown environment. By using state-of-the-art techniques based on least-squares temporal difference learning, an algorithmic trading system is built to support the reinforcement learning process. Evaluation of the approach is done with data from the foreign exchange market and results shows that it is profitable, easy to be expanded in the future.
+
+**Source:** https://www.semanticscholar.org/paper/e560b397d84c58a10bd6d93334979eb5a5f33007
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:52:46.829Z

@@ -1,0 +1,13 @@
+# On a Data-Driven Optimization Approach to the PID-Based Algorithmic Trading
+
+**Authors:** V. Azhmyakov, I. Shirokov, Yuri Dernov, Luz Adriana Guzman Trujillo
+
+## Abstract
+This paper proposes an optimal trading algorithm based on a novel application of conventional control engineering (CE). We consider a fundamental CE concept, namely, the feedback control, and apply it to algorithmic trading (AT). The concrete feedback control strategy is designed in a form of the celebrated proportional–integral–derivative (PID) model. The highly fluctuating nature of the modern financial markets has led to the adoption of a model-free realization of the generic PID framework. The control theoretical methodology we propose is combined with the advanced statistics for the historical market data. We obtain a specific log-normal probability distribution function (pdf) associated with the specific quantities associated with the available stock data. The empirical log-normal pdf mentioned above enables the necessary PID gains optimization. For this aim, we apply the data-driven optimization approaches and consider the corresponding Monte Carlo solution procedure. The optimized PID trading algorithm we propose is also studied in the Fourier analysis framework. This equivalent frequency domain representation involves a new concept in financial engineering, namely, the “stock market energy” concept. For the evaluation, we implement the proposed PID optimal trading algorithm and develop a Python-based prototype software. We finally apply the corresponding prototype software to a data set from the Binance BTC/USDT (Bitcoin/Tether) stock market. The experimental result illustrates the implementability of the proposed optimal PID trading scheme and also shows the effectiveness of the proposed CE methods in the modern AT.
+
+**Source:** https://www.semanticscholar.org/paper/7432efbe0fff4f2ad53e91d9df694d7bf4b4fa97
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:50:14.592Z
