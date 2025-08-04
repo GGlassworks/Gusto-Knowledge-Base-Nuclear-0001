@@ -1,0 +1,13 @@
+# A Blockchain-Based Method for Optimizing the Routing of High-Frequency Carbon-Trading Payment Channels
+
+**Authors:** Yu Song, Ao Xiong, Xuesong Qiu, Shaoyong Guo, Dong Wang, Da Li, Xin Zhang, Yue Kuang
+
+## Abstract
+Carbon trading is an effective way to achieve carbon neutrality. It is a market mechanism aimed at reducing global greenhouse gas emissions and carbon dioxide emissions. Blockchain technology can be applied to the carbon-trading scenario using characteristics that guarantee the security, decentralization, data immutability, and data traceability of the carbon-trading process. It would be difficult to implement carbon trading on blockchains for all enterprises and individuals, as the current performance of blockchains does not meet the requirements. There has been extensive research conducted on blockchain performance optimization, and the off-chain payment channel is one of the more mature solutions. This approach involves the transfer of transactions to off-chain transactions, thus avoiding high transaction fees. Existing research has addressed the problem of routing security and efficiency, with less emphasis on factors such as routing transaction costs, node reputation, and routing path considerations. This paper researches the optimization of payment routing in Payment Channel Networks (PCNs) and proposes the Multi-Factor Routing Payment Scheme (MFPS), which integrates factors such as the node reputation, transaction fee cost, and distance to select the route for payment transactions. In order to improve the success ratio of routing transactions, the transaction-splitting algorithm is proposed. To ensure the security and privacy of the transaction process, the Asymmetric Time-Lock Contract (ATLC) protocol is proposed. The results of extensive experimental simulations show that the MFPS proposed in this paper outperforms the ShortestPath, Cheapest, and SplitDistance algorithms. It achieves an approximately 13.8%∼49% improvement in the transaction success ratio and reduces the average transaction processing cost. The security and privacy measures can defend against wormhole and double-flower attacks and exhibit better performance in terms of computational verification and message overhead.
+
+**Source:** https://www.semanticscholar.org/paper/211c9640f88dba51c0b213124f45631b0f4ebb0a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T18:35:44.504Z

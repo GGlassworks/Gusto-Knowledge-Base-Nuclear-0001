@@ -1,0 +1,13 @@
+# Data security techniques in cloud computing based on machine learning algorithms and cryptographic algorithms: Lightweight algorithms and genetics algorithms
+
+**Authors:** Fursan Thabit, Ozgu Can, Rizwan Uz, Zaman Wani, Mohammed Ali Qasem, S. B. Thorat, Hoda A. Alkhzaimi
+
+## Abstract
+Cloud computing (CC) refers to the on‐demand availability of network resources, particularly data storage and processing power, without requiring special or direct administration by users. CC, which just made its debut as a collection of public and private data centers, provides clients with a unified platform throughout the Internet. Cloud computing has revolutionized the world, opening up new horizons with bright potential due to its performance, accessibility, low cost, and many other benefits. Due to the exponential rise of cloud computing, systems based on cloud computing now require an effective data security mechanism. Comprehensive security policies, corporate security culture, and cloud security solutions are used to ensure the level of cloud data security. Many techniques exist to protect data communication in the cloud environment, including encryption. Encryption algorithms play an important role in information security systems and various cloud computing‐based systems. Current researchers have focused on lightweight cryptography, genetics‐based cryptography, and machine learning (ML) algorithms for security in CC. This review study analyses CC security threats, problems, and solutions that use one or more algorithms. The work discusses several lightweight cryptographies, genetics‐based cryptography and different ML algorithms that are used to overcome cloud security issues, including supervised, unsupervised, semi‐supervised, and reinforcement learning. Moreover, we enlist future research directions to secure CC models.
+
+**Source:** https://www.semanticscholar.org/paper/b3e6c4b68c1d181913a25a764213dcb077855281
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T16:48:07.514Z

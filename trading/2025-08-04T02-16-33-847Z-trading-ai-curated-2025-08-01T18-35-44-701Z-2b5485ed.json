@@ -1,0 +1,13 @@
+# Design of High-Frequency Trading Algorithm Based on Machine Learning
+
+**Authors:** Boyue Fang, Yutong Feng
+
+## Abstract
+Based on iterative optimization and activation function in deep learning, we proposed a new analytical framework of high-frequency trading information, that reduced structural loss in the assembly of Volume-synchronized probability of Informed Trading ($VPIN$), Generalized Autoregressive Conditional Heteroscedasticity (GARCH) and Support Vector Machine (SVM) to make full use of the order book information. Amongst the return acquisition procedure in market-making transactions, uncovering the relationship between discrete dimensional data from the projection of high-dimensional time-series would significantly improve the model effect. $VPIN$ would prejudge market liquidity, and this effectiveness backtested with CSI300 futures return.
+
+**Source:** https://www.semanticscholar.org/paper/1788df835a41ed3b82a6bc2affca5ec78504fbcd
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T18:35:44.702Z

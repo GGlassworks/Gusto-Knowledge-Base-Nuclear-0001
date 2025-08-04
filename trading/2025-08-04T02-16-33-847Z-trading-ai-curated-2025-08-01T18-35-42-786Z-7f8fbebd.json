@@ -1,0 +1,13 @@
+# Research on high-frequency trading strategies optimization based on deep learning
+
+**Authors:** Haocheng Tian
+
+## Abstract
+High-frequency trading is derived from programmatic trading and market maker mechanisms, and unlike low-frequency trading, it uses ultra-high-speed computers to acquire and analyze high-frequency trading data in the market, so as to identify price change patterns and quickly execute trades to complete the change of hands. In this work, we focused on optimizing high-frequency trading strategies using deep reinforcement learning. Specifically, we employ a dual deep Q network model, which consists of two deep neural networks that are used to generate action value estimates and provide target action values, respectively. The advantage of this structure is that it reduces bias in the estimation process, thereby improving the stability and efficiency of learning. The input layer of the model receives multi-dimensional features of market data, such as price, volume, order depth, etc., which are normalized and then fed into the network. The hidden layer includes multiple layers of fully connected layers to enhance the nonlinear representation of the model and the ability to handle complex market dynamics. We have also introduced batch normalization and dropout layers in the network to prevent overfitting merges and improve the generalization ability of the model. Eventually, the output layer generates action values corresponding to each possible trading action, deciding to buy, sell, or hold a position. In the experimental analysis, this study verifies the superiority of the proposed model in processing high-frequency trading data and executing trading decisions by comparing it with traditional trading strategies and other machine learning methods.
+
+**Source:** https://www.semanticscholar.org/paper/66c20f3d2910a3acca8ddc8e0da660fe920ddf33
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T18:35:42.786Z

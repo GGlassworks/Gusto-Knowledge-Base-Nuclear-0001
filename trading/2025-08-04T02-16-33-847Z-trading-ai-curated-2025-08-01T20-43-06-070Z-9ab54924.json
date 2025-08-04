@@ -1,0 +1,13 @@
+# Mobile Data Trading: Behavioral Economics Analysis and Algorithm Design
+
+**Authors:** Student Member Ieee Junlin Yu, M. H. Cheung, Fellow Ieee Jianwei Huang, F. I. H. Vincent Poor
+
+## Abstract
+Motivated by the recently launched mobile data trading markets (e.g., China Mobile Hong Kong’s 2nd exChange Market), in this paper, the mobile data trading problem is studied under future data demand uncertainty. A brokerage-based market is introduced, in which sellers and buyers propose their selling and buying quantities, respectively, to the trading platform that matches the market supply and demand. To understand the users’ realistic trading behaviors, a prospect theory (PT) model from behavioral economics is proposed, which includes the widely adopted expected utility theory (EUT) as a special case. Although the PT modeling leads to a challenging non-convex optimization problem, the optimal solution can be characterized by exploiting the unimodal structure of the objective function. Building upon this analysis, an algorithm is designed to help estimate the users’ risk preference and provide trading recommendations dynamically, considering the latest market and usage information. It is shown via simulations that the risk preferences have a significant impact on a user’s decision and outcome: a risk-averse dominant user can guarantee a higher minimum profit in the trading, while a risk-seeking dominant user can achieve a higher maximum profit. By comparing with the EUT benchmark, it is shown that a PT user with a low reference point is more willing to buy mobile data. Moreover, compared with an EUT user, a PT user is more willing to buy mobile data when the probability of large data demand is low.
+
+**Source:** https://www.semanticscholar.org/paper/ffb7c0862aebd2855456434b4670209b089f33cf
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T20:43:06.071Z

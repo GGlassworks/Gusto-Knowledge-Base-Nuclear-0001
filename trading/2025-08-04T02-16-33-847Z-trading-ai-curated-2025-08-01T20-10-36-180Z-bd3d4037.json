@@ -1,0 +1,13 @@
+# State space modelling in macroeconomics and finance using SsfPack in S+Finmetrics
+
+**Authors:** E. Zivot, Jeffrey Wang, S. J. Koopman
+
+## Abstract
+This paper surveys some common state space models used in macroeconomics and flnance and shows how to specify and estimate these models using the SsfPack algorithms implemented in the S-PLUS module S+FinMetrics. Examples include recursive regression models, time varying parameter models, exact autoregressive moving average models and calculation of the Beveridge-Nelson decomposition, unobserved components models, stochastic volatility models, and term structure models.
+
+**Source:** https://www.semanticscholar.org/paper/81a52cdb95289bbe8dcecf7c74f5823ba8e3bec5
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:36.181Z

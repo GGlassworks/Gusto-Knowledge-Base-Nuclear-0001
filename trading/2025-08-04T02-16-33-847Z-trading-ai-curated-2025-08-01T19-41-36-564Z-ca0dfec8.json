@@ -1,0 +1,13 @@
+# Comparison of Data Mining Methods for the Signal Detection of Adverse Drug Events with a Hierarchical Structure in Postmarketing Surveillance
+
+**Authors:** Goeun Park, Heesun Jung, S. Heo, I. Jung
+
+## Abstract
+There are several different proposed data mining methods for the postmarketing surveillance of drug safety. Adverse events are often classified into a hierarchical structure. Our objective was to compare the performance of several of these different data mining methods for adverse drug events data with a hierarchical structure. We generated datasets based on the World Health Organization’s Adverse Reaction Terminology (WHO-ART) hierarchical structure. We evaluated different data mining methods for signal detection, including several frequentist methods such as reporting odds ratio (ROR), proportional reporting ratio (PRR), information component (IC), the likelihood ratio test-based method (LRT), and Bayesian methods such as gamma Poisson shrinker (GPS), Bayesian confidence propagating neural network (BCPNN), the new IC method, and the simplified Bayesian method (sB), as well as the tree-based scan statistic through an extensive simulation study. We also applied the methods to real data on two diabetes drugs, voglibose and acarbose, from the Korea Adverse event reporting system. Only the tree-based scan statistic method maintained the type I error rate at the desired level. Likelihood ratio test-based methods and Bayesian methods tended to be more conservative than other methods in the simulation study and detected fewer signals in the real data example. No method was superior to the others in terms of the statistical power and sensitivity of detecting true signals. It is recommended that those conducting drug‒adverse event surveillance use not just one method, but make a decision based on several methods.
+
+**Source:** https://www.semanticscholar.org/paper/e0e0aa45978d75c67eb64ada6a70f404c094b063
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T19:41:36.564Z

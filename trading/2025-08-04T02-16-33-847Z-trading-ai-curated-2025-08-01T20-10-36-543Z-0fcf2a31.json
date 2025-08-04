@@ -1,0 +1,13 @@
+# Financial Market Forecasting using Macro-Economic Variables and RNN
+
+**Authors:** Sachu Jose Binoy, Jibrael Jos
+
+## Abstract
+Stock market forecasting is widely recognized as one of the most important and difficult business challenges in time series forecasting. This is mainly due to its noise. The use of RNN algorithms for funding has attracted interest from traders and scientists. The best technique for learning long-term memory sequences is to use long and short networks. Based on the literature, it is acknowledged that LSTM neural networks outperform all other models. Macroeconomics is a discipline of economics that studies the behavior of the economy as a whole. Macroeconomic factors are economic, natural, geopolitical, or other variables that influence the economy of a country. This study studies and test several macroeconomic variables and their significance on stock market forecasting. In macroeconomics, we have series that are updated once a month or even once a quarter, with data that is rarely more than a few hundred characters long. The amount of data given can sometimes be insufficient for algorithms to uncover hidden patterns and generate meaningful results. Depending on the prediction needs, we proposed a feasible LSTM design and training algorithm. According to the findings of this study, the inclusion of macroeconomic variable has a significant impact on stock price prediction.
+
+**Source:** https://www.semanticscholar.org/paper/58ca6755f96ae87b41701f09c3a34456a704dd98
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:36.544Z

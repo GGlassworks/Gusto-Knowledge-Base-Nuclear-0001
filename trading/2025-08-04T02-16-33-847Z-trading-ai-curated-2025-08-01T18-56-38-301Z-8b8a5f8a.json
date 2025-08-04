@@ -1,0 +1,13 @@
+# A Deep Learning Approach with Extensive Sentiment Analysis for Quantitative Investment
+
+**Authors:** Wang Li, Chaozhu Hu, Youxi Luo
+
+## Abstract
+Recently, deep-learning-based quantitative investment is playing an increasingly important role in the field of finance. However, due to the complexity of the stock market, establishing effective quantitative investment methods is facing challenges from various aspects because of the complexity of the stock market. Existing research has inadequately utilized stock news information, overlooking significant details within news content. By constructing a deep hybrid model for comprehensive analysis of historical trading data and news information, complemented by momentum trading strategies, this paper introduces a novel quantitative investment approach. For the first time, we fully consider two dimensions of news, including headlines and contents, and further explore their combined impact on modeling stock price. Our approach initially employs fundamental analysis to screen valuable stocks. Subsequently, we built technical factors based on historical trading data. We then integrated news headlines and content summarized through language models to extract semantic information and representations. Lastly, we constructed a deep neural model to capture global features by combining technical factors with semantic representations, enabling stock prediction and trading decisions. Empirical results conducted on over 4000 stocks from the Chinese stock market demonstrated that incorporating news content enriched semantic information and enhanced objectivity in sentiment analysis. Our proposed method achieved an annualized return rate of 32.06% with a maximum drawdown rate of 5.14%. It significantly outperformed the CSI 300 index, indicating its applicability to guiding investors in making more effective investment strategies and realizing considerable returns.
+
+**Source:** https://www.semanticscholar.org/paper/9e064f86a50151206ff3b78410df12d678289496
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T18:56:38.301Z

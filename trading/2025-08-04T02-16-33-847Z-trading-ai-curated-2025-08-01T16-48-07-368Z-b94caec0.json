@@ -1,0 +1,13 @@
+# Application of Genetics Algorithms in Cryptography
+
+**Authors:** P. Pekarcik, E. Chovancová, Martin Chovanec, Martin Stancel
+
+## Abstract
+One of the most essential subfields of modern IT is undoubtedly cybersecurity. The cybersecurity practice, also known as cryptology, combines various disciplines like computer science, computer engineering, and mathematics to create complex algorithms. In our work, we combine cryptology with the field of genetics algorithms to develop new encryption algorithms. Firstly, we introduced the fundamental theories of these two fields. It aims to teach basic knowledge of using genetic algorithms to select specific parts of encryption algorithms (chromosomes) and combine them to produce new encryption algorithms (offspring). The standard flow of the genetic algorithm is divided into the initial population’s creation process, evaluation, fitness score assignments, selection, crossover, and mutation. We will take a deeper look at the process of assignments of fitness score and crossover. These processes ’ new design, implementation, and testing allow us to reach the results presented.
+
+**Source:** https://www.semanticscholar.org/paper/cf64cacc5f7887b3e6e0aa864f3630f5a2baf276
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T16:48:07.368Z

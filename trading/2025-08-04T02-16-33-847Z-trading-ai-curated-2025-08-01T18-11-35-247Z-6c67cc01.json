@@ -1,0 +1,13 @@
+# Immunology-Based Sustainable Portfolio Management
+
+**Authors:** S. Raudys, A. Raudys, Z. Pabarskaite, A. Liubaviciute
+
+## Abstract
+Immunological principles can be used to build a sustainable investment portfolio. The theory of immunology states that information about recognized pathogens is stored in the memory of the immune system. Information about previous illnesses can be helpful when the pathogen re-enters the body. Real-time analysis of 11 automated financial trading datasets confirmed this phenomenon in financial time series. Therefore, in order to increase the sustainability of the portfolio, we propose to train the portfolio with the most similar segments of historical data. The segment size and offset may vary depending on the data set and time.
+
+**Source:** https://www.semanticscholar.org/paper/37b49710e3de227b302e56668ba23d4b4437e0db
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T18:11:35.248Z

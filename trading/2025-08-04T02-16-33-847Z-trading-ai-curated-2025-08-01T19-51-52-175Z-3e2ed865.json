@@ -1,0 +1,13 @@
+# An Analysis and Visualization Methodology for Identifying and Testing Market Structure
+
+**Authors:** Stephen L. France, S. Ghose
+
+## Abstract
+We introduce a method for identifying, analyzing, and visualizing submarkets in product categories. We give an overview of the market structure and competitive submarket literature and then describe a classic model for testing competitive submarkets along with associated extensions. In the era of big data and with the increasing availability of large-scale consumer purchase data, there is a need for techniques that can interpret these data and use them to help make managerial decisions. We introduce a statistical likelihood based technique for both identifying and testing market structure. We run a series of experiments on generated data and show that our method is better at identifying market structure from brand substitution data than a range of methods described in the marketing literature. We introduce tools for holdout validation, complexity control, and testing managerial hypotheses. We describe a method for visualization of submarket solutions, and we give several traditional consumer product examples and in addition give an example to show how market structure can be analyzed from online review data.Data, as supplemental material, are available at http://dx.doi.org/10.1287/mksc.2015.0958 .
+
+**Source:** https://www.semanticscholar.org/paper/3464cc7531ce38dae5cd6f4adce5f68ebecc9046
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T19:51:52.175Z
