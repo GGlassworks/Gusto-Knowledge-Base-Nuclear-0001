@@ -1,0 +1,12 @@
+# Following the footsteps of giants: Modeling the mobility of historically notable individuals using Wikipedia
+
+**Authors:** Lorenzo Lucchini, Sara Tonelli, Bruno Lepri
+
+## Summary
+The steady growth of digitized historical information is continuously stimulating new different approaches to the fields of Digital Humanities and Computational Social Science. In this work, we use Natural Language Processing techniques to retrieve large amounts of historical information from Wikipedia. In particular, the pages of a set of historically notable individuals are processed to catch the locations and the date of people's movements. This information is then structured in a geographical network of mobility patterns. We analyze the mobility of historically notable individuals from different perspectives to better understand the role of migrations and international collaborations in the context of innovation and cultural development. In this work, we first present some general characteristics of the dataset from a social and geographical perspective. Then, we build a spatial network of cities, and we model and quantify the tendency to explore by a set of people that can be considered historically and culturally notable. In this framework, we show that by using a multilevel radiation model for human mobility, we are able to catch important features of migration's behavior. Results show that the choice of the target migration place for historically and culturally relevant people is limited to a small number of locations and that it depends on the discipline a notable is interested in and on the number of opportunities she/he can find there.
+
+
+---
+Category: physics
+Subcategory: cs.SI
+Collected: 2025-08-01T10:21:02.098Z

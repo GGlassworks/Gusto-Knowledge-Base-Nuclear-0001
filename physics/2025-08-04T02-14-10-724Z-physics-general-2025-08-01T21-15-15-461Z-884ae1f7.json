@@ -1,0 +1,13 @@
+# An Improved Multiobjective Particle Swarm Optimization Based on Culture Algorithms
+
+**Authors:** Chunhua Jia, Hong Zhu
+
+## Abstract
+<jats:p>In this paper, we propose a new approach to raise the performance of multiobjective particle swam optimization. The personal guide and global guide are updated using three kinds of knowledge extracted from the population based on cultural algorithms. An epsilon domination criterion has been employed to enhance the convergence and diversity of the approximate Pareto front. Moreover, a simple polynomial mutation operator has been applied to both the population and the non-dominated archive. Experiments on two series of bench test suites have shown the effectiveness of the proposed approach. A comparison with several other algorithms that are considered good representatives of particle swarm optimization solutions has also been conducted, in order to verify the competitive performance of the proposed algorithm in solve multiobjective optimization problems.</jats:p>
+
+**Source:** https://doi.org/10.3390/a10020046
+
+---
+Category: physics
+Subcategory: general
+Collected: 2025-08-01T21:15:15.462Z

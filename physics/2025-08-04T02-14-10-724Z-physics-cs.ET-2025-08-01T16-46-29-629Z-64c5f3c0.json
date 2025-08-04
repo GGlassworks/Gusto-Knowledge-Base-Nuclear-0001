@@ -1,0 +1,12 @@
+# EAQGA: A Quantum-Enhanced Genetic Algorithm with Novel Entanglement-Aware Crossovers
+
+**Authors:** Mohammad Kashfi Haghighi, Matthieu Fortin-Deschênes, Christophe Pere, Mickaël Camus
+
+## Summary
+Genetic algorithms are highly effective optimization techniques for many computationally challenging problems, including combinatorial optimization tasks like portfolio optimization. Quantum computing has also shown potential in addressing these complex challenges. Combining these approaches, quantum genetic algorithms leverage the principles of superposition and entanglement to enhance the performance of classical genetic algorithms. In this work, we propose a novel quantum genetic algorithm introducing an innovative crossover strategy to generate quantum circuits from a binary solution. We incorporate a heuristic method to encode entanglement patterns from parent solutions into circuits for the next generation. Our algorithm advances quantum genetic algorithms by utilizing a limited number of entanglements, enabling efficient exploration of optimal solutions without significantly increasing circuit depth, making it suitable for near-term applications. We test this approach on a portfolio optimization problem using an IBM 127 qubits Eagle processor (ibm_quebec) and simulators. Compared to state-of-the-art algorithms, our results show that the proposed method improves fitness values by 33.6% over classical genetic algorithm and 37.2% over quantum-inspired genetic algorithm, using the same iteration counts and population sizes with real quantum hardware employing 100 qubits. These findings highlight the potential of current quantum computers to address real-world utility-scale combinatorial optimization problems.
+
+
+---
+Category: physics
+Subcategory: cs.ET
+Collected: 2025-08-01T16:46:29.630Z

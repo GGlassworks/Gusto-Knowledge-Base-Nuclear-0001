@@ -1,0 +1,13 @@
+# Introductory Quantum Algorithms
+
+**Authors:** Phillip Kaye, Raymond Laflamme, Michele Mosca
+
+## Abstract
+<p>In this chapter we will describe some of the early quantum algorithms. These algorithms are simple and illustrate the main ingredients behind the more useful and powerful quantum algorithms we describe in the subsequent chapters. Since quantum algorithms share some features with classical probabilistic algorithms, we will start with a comparison of the two algorithmic paradigms. Classical probabilistic algorithms were introduced in Chapter 1. In this section we will see how quantum computation can be viewed as a generalization of probabilistic computation. We begin by considering a simple probabilistic computation. Figure 6.1 illustrates the first two steps of such a computation on a register that can be in one of the four states, labelled by the integers 0, 1, 2, and 3. Initially the register is in the state 0. After the first step of the computation, the register is in the state j with probability p0,j . For example, the probability that the computation is in state 2 after the first step is p0,2. In the second step of the computation, the register goes from state j to state k with probability qj,k. For example, in the second step the computation proceeds from state 2 to state 3 with probability q2,3. Suppose we want to find the total probability that the computation ends up in state 3 after the second step. This is calculated by first determining the probability associated with each computation ‘path’ that could end up at the state 3, and then by adding the probabilities for all such paths. There are four computation paths that can leave the computation in state 3 after the first step. The computation can proceed from state 0 to state j and then from state j to state 3, for any of the four j ∊ {0, 1, 2, 3}. The probability associated with any one of these paths is obtained by multiplying the probability p0,j of the transition from state 0 to state j, with the probability qj,3 of the transition from state j to state 3.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780198570004.003.0009
+
+---
+Category: physics
+Subcategory: general
+Collected: 2025-08-01T09:52:35.038Z

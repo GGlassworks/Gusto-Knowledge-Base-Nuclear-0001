@@ -1,0 +1,12 @@
+# Human Mobility in the Metaverse
+
+**Authors:** Kishore Vasan, Marton Karsai, Albert-Laszlo Barabasi
+
+## Summary
+The metaverse promises a shift in the way humans interact with each other, and with their digital and physical environments. The lack of geographical boundaries and travel costs in the metaverse prompts us to ask if the fundamental laws that govern human mobility in the physical world apply. We collected data on avatar movements, along with their network mobility extracted from NFT purchases. We find that despite the absence of commuting costs, an individuals inclination to explore new locations diminishes over time, limiting movement to a small fraction of the metaverse. We also find a lack of correlation between land prices and visitation, a deviation from the patterns characterizing the physical world. Finally, we identify the scaling laws that characterize meta mobility and show that we need to add preferential selection to the existing models to explain quantitative patterns of metaverse mobility. Our ability to predict the characteristics of the emerging meta mobility network implies that the laws governing human mobility are rooted in fundamental patterns of human dynamics, rather than the nature of space and cost of movement.
+
+
+---
+Category: physics
+Subcategory: cs.SI
+Collected: 2025-08-01T10:14:17.364Z

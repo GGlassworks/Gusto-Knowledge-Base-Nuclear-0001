@@ -1,0 +1,12 @@
+# Quantum computing in civil engineering: Potentials and Limitations
+
+**Authors:** Joern Ploennigs, Markus Berger, Martin Mevissen, Kay Smarsly
+
+## Summary
+Quantum computing is a new computational paradigm with the potential to solve certain computationally challenging problems much faster than traditional approaches. Civil engineering encompasses many computationally challenging problems, which leads to the question of how well quantum computing is suitable for solving civil engineering problems and how much impact and implications to the field of civil engineering can be expected when deploying quantum computing for solving these problems. To address these questions, we will, in this paper, first introduce the fundamentals of quantum computing. Thereupon, we will analyze the problem classes to elucidate where quantum computing holds the potential to outperform traditional computers and, focusing on the limitations, where quantum computing is not considered the most suitable solution. Finally, we will review common complex computation use cases in civil engineering and evaluate the potential and the limitations of being improved by quantum computing.
+
+
+---
+Category: physics
+Subcategory: cs.ET
+Collected: 2025-08-01T16:18:09.314Z

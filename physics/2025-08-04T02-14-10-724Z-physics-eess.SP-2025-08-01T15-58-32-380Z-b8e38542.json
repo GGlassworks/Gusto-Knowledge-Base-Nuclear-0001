@@ -1,0 +1,12 @@
+# Locality sensitive hashing via mechanical behavior
+
+**Authors:** Emma Lejeune, Peerasait Prachaseree
+
+## Summary
+From healing wounds to maintaining homeostasis in cyclically loaded tissue, living systems have a phenomenal ability to sense, store, and respond to mechanical stimuli. Broadly speaking, there is significant interest in designing engineered systems to recapitulate this incredible functionality. In engineered systems, we have seen significant recent computationally driven advances in sensing and control. And, there has been a growing interest - inspired in part by the incredible distributed and emergent functionality observed in the natural world - in exploring the ability of engineered systems to perform computation through mechanisms that are fundamentally driven by physical laws. In this work, we focus on a small segment of this broad and evolving field: locality sensitive hashing via mechanical behavior. Specifically, we will address the question: can mechanical information (i.e., loads) be transformed by mechanical systems (i.e., converted into sensor readouts) such that the mechanical system meets the requirements for a locality sensitive hash function? Overall, we not only find that mechanical systems are able to perform this function, but also that different mechanical systems vary widely in their efficacy at this task. Looking forward, we view this work as a starting point for significant future investigation into the design and optimization of mechanical systems for conveying mechanical information for downstream computing.
+
+
+---
+Category: physics
+Subcategory: eess.SP
+Collected: 2025-08-01T15:58:32.381Z

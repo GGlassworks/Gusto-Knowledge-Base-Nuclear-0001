@@ -1,0 +1,12 @@
+# Physics-Informed Graph Convolutional Networks: Towards a generalized framework for complex geometries
+
+**Authors:** Marien Chenaud, José Alves, Frédéric Magoulès
+
+## Summary
+Since the seminal work of [9] and their Physics-Informed neural networks (PINNs), many efforts have been conducted towards solving partial differential equations (PDEs) with Deep Learning models. However, some challenges remain, for instance the extension of such models to complex three-dimensional geometries, and a study on how such approaches could be combined to classical numerical solvers. In this work, we justify the use of graph neural networks for these problems, based on the similarity between these architectures and the meshes used in traditional numerical techniques for solving partial differential equations. After proving an issue with the Physics-Informed framework for complex geometries, during the computation of PDE residuals, an alternative procedure is proposed, by combining classical numerical solvers and the Physics-Informed framework. Finally, we propose an implementation of this approach, that we test on a three-dimensional problem on an irregular geometry.
+
+
+---
+Category: physics
+Subcategory: cs.LG
+Collected: 2025-08-01T16:10:39.345Z

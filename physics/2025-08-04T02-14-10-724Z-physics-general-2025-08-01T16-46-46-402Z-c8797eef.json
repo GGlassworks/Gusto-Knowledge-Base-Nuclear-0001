@@ -1,0 +1,13 @@
+# Comparison between Conventional GA and Quantum-inspired GA on Genetics Design through Multi-Objective Optimization
+
+**Authors:** Phattharaphon Khammun
+
+## Abstract
+<jats:p>The objective of this project is to study trade-off between conventional genetic algorithms (GA) and quantum-inspired genetic algorithms (QGA) on genetic design through multi-objective optimization. First, we implemented a GA model based on a previous work. Second, we developed a QGA model for multi-objective optimization using the same strategies as in the GA model. We finally compared and analyzed the results obtained from both models. We conclude that the QGA approach can find optimal solutions as well as GA. Although the QGA solutions were more diverse, most of them were dominated. Therefore, the strategies used in the QGA method are still needed to be improved by adding some mechanisms to generate more nondominated solutions.</jats:p>
+
+**Source:** https://doi.org/10.58837/chula.sp.2020.38
+
+---
+Category: physics
+Subcategory: general
+Collected: 2025-08-01T16:46:46.403Z

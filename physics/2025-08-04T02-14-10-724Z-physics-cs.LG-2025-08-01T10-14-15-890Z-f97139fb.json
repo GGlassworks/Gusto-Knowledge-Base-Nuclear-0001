@@ -1,0 +1,12 @@
+# From Digital Humanities to Quantum Humanities: Potentials and Applications
+
+**Authors:** Johanna Barzen
+
+## Summary
+Quantum computers are becoming real. Therefore, it is promising to use their potentials in different applications areas, which includes research in the humanities. Due to an increasing amount of data that needs to be processed in the digital humanities the use of quantum computers can contribute to this research area. To give an impression on how beneficial such involvement of quantum computers can be when analyzing data from the humanities, a use case from the media science is presented. Therefore, both the theoretical basis and the tooling support for analyzing the data from our digital humanities project MUSE is described. This includes a data analysis pipeline, containing e.g. various approaches for data preparation, feature engineering, clustering, and classification where several steps can be realized classically, but also supported by quantum computers.
+
+
+---
+Category: physics
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:15.890Z

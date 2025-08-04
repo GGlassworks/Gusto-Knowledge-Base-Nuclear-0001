@@ -1,0 +1,12 @@
+# 1-2-3 Reproducibility for Quantum Software Experiments
+
+**Authors:** Wolfgang Mauerer, Stefanie Scherzinger
+
+## Summary
+Various fields of science face a reproducibility crisis. For quantum software engineering as an emerging field, it is therefore imminent to focus on proper reproducibility engineering from the start. Yet the provision of reproduction packages is almost universally lacking. Actionable advice on how to build such packages is rare, particularly unfortunate in a field with many contributions from researchers with backgrounds outside computer science. In this article, we argue how to rectify this deficiency by proposing a 1-2-3~approach to reproducibility engineering for quantum software experiments: Using a meta-generation mechanism, we generate DOI-safe, long-term functioning and dependency-free reproduction packages. They are designed to satisfy the requirements of professional and learned societies solely on the basis of project-specific research artefacts (source code, measurement and configuration data), and require little temporal investment by researchers. Our scheme ascertains long-term traceability even when the quantum processor itself is no longer accessible. By drastically lowering the technical bar, we foster the proliferation of reproduction packages in quantum software experiments and ease the inclusion of non-CS researchers entering the field.
+
+
+---
+Category: physics
+Subcategory: cs.SE
+Collected: 2025-08-01T16:00:17.922Z

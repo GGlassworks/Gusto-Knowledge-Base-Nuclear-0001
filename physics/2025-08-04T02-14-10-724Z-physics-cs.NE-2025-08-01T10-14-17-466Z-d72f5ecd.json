@@ -1,0 +1,12 @@
+# Optical Generative Models
+
+**Authors:** Shiqi Chen, Yuhang Li, Hanlong Chen, Aydogan Ozcan
+
+## Summary
+Generative models cover various application areas, including image, video and music synthesis, natural language processing, and molecular design, among many others. As digital generative models become larger, scalable inference in a fast and energy-efficient manner becomes a challenge. Here, we present optical generative models inspired by diffusion models, where a shallow and fast digital encoder first maps random noise into phase patterns that serve as optical generative seeds for a desired data distribution; a jointly-trained free-space-based reconfigurable decoder all-optically processes these generative seeds to create novel images (never seen before) following the target data distribution. Except for the illumination power and the random seed generation through a shallow encoder, these optical generative models do not consume computing power during the synthesis of novel images. We report the optical generation of monochrome and multi-color novel images of handwritten digits, fashion products, butterflies, and human faces, following the data distributions of MNIST, Fashion MNIST, Butterflies-100, and Celeb-A datasets, respectively, achieving an overall performance comparable to digital neural network-based generative models. To experimentally demonstrate optical generative models, we used visible light to generate, in a snapshot, novel images of handwritten digits and fashion products. These optical generative models might pave the way for energy-efficient, scalable and rapid inference tasks, further exploiting the potentials of optics and photonics for artificial intelligence-generated content.
+
+
+---
+Category: physics
+Subcategory: cs.NE
+Collected: 2025-08-01T10:14:17.467Z

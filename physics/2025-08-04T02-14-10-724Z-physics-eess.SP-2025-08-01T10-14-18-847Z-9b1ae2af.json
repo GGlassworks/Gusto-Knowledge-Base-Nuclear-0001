@@ -1,0 +1,12 @@
+# A Design of FPGA Based Small Animal PET Real Time Digital Signal Processing and Correction Logic
+
+**Authors:** Jiaming Lu, Lei Zhao, Peipei Deng, Bowen Li, Kairen Chen, Shubin Liu, Qi An
+
+## Summary
+Small animal Positron Emission Tomography (PET) is dedicated to small animal imaging. Animals used in experiments, such as rats and monkeys, are often much smaller than human bodies, which requires higher position and energy precision of the PET imaging system. Besides, Flexibility, high efficiency are also the major demands of a practical PET system. These requires a high-quality analog front-end and a digital signal processing logic with high efficiency and compatibility of multiple data processing modes. The digital signal processing logic of the small animal PET system presented in this paper implements 32-channel signal processing in a single Xilinx Artix-7 family of Field-Programmable Gate Array (FPGA). The logic is designed to support three online modes which are regular package mode, flood map and energy spectrum histogram. Several functions are integrated, including two-dimensional (2D) raw position calculation, crystal identification, events filtering, etc. Besides, a series of online corrections are also integrated, such as photon peak correction to 511 keV and timing offset correction with crystal granularity. A Gigabit Ethernet interface is utilized for data transfer, Look-Up Tables (LUTs) configuration and commands issuing. The pipe-line logic processes the signals at 125 MHz with a rate of 1,000,000 events/s. A series of initial tests are conducted. The results indicate that the digital processing logic achieves the expectations.
+
+
+---
+Category: physics
+Subcategory: eess.SP
+Collected: 2025-08-01T10:14:18.847Z

@@ -1,0 +1,12 @@
+# Computational landscape of user behavior on social media
+
+**Authors:** David Darmon, William Rand, Michelle Girvan
+
+## Summary
+With the increasing abundance of 'digital footprints' left by human interactions in online environments, e.g., social media and app use, the ability to model complex human behavior has become increasingly possible. Many approaches have been proposed, however, most previous model frameworks are fairly restrictive. We introduce a new social modeling approach that enables the creation of models directly from data with minimal a priori restrictions on the model class. In particular, we infer the minimally complex, maximally predictive representation of an individual's behavior when viewed in isolation and as driven by a social input. We then apply this framework to a heterogeneous catalog of human behavior collected from fifteen thousand users on the microblogging platform Twitter. The models allow us to describe how a user processes their past behavior and their social inputs. Despite the diversity of observed user behavior, most models inferred fall into a small subclass of all possible finite-state processes. Thus, our work demonstrates that user behavior, while quite complex, belies simple underlying computational structures.
+
+
+---
+Category: physics
+Subcategory: cs.SI
+Collected: 2025-08-01T10:14:19.538Z

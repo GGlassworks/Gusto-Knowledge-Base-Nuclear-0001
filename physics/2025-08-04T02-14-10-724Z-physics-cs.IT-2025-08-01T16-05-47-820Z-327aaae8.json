@@ -1,0 +1,12 @@
+# Limits of Detecting Extraterrestrial Civilizations
+
+**Authors:** Ian George, Xinan Chen, Lav R. Varshney
+
+## Summary
+The search for extraterrestrial intelligence (SETI) is a scientific endeavor which struggles with unique issues -- a strong indeterminacy in what data to look for and when to do so. This has led to attempts at finding both fundamental limits of the communication between extraterrestrial intelligence and human civilizations, as well as benchmarks so as to predict what kinds of signals we might most expect. Previous work has been formulated in terms of the information-theoretic task of communication, but we instead argue it should be viewed as a detection problem, specifically one-shot (asymmetric) hypothesis testing. With this new interpretation, we develop fundamental limits as well as provide simple examples of how to use this framework to analyze and benchmark different possible signals from extraterrestrial civilizations. We show that electromagnetic signaling for detection requires much less power than for communication, that detection as a function of power can be non-linear, and that much of the analysis in this framework may be addressed using computationally efficient optimization problems, thereby demonstrating tools for further inquiry.
+
+
+---
+Category: physics
+Subcategory: cs.IT
+Collected: 2025-08-01T16:05:47.820Z

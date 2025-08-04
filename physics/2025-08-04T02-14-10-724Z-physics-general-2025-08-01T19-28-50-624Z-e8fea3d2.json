@@ -1,0 +1,13 @@
+# Data Mining Optimization Using Sample Bootstrapping and Particle Swarm Optimization in the Credit Approval Classification
+
+**Authors:** Andre Alvi Agustian, Achmad Bisri
+
+## Abstract
+<jats:p>Credit approval is a process carried out by the bank or credit provider company. Where the process is carried out based on credit requests and credit proposals from the borrower. Credit approval is often difficult for banks or credit providers. Where the number of requests and classifications must be made on various data submitted. This study aims to enable banks or credit card issuing companies to carry out credit approval processes effectively and accurately in determining the status of the submissions that have been made. This research uses data mining techniques. This study uses a Credit Approval dataset from UCI Machine Learning, where there is a class imbalance in the dataset. 14 attributes are used as system inputs. This study uses the C4.5 and Naive Bayes algorithms where optimization is needed using Sample Bootstrapping and Particle Swarm Optimization (PSO) in the algorithm so that the results of the research produce good accuracy and are included in the good classification. After using the optimization, it produces an accuracy rate of C4.5 which is initially 85.99% and the AUC value of 0.904 becomes 94.44% with the AUC value of 0.969 and Naive Bayes which initially has an accuracy value of 83.09% with an AUC value of 0.916 to 90 , 10% with an AUC value of 0.944.</jats:p>
+
+**Source:** https://doi.org/10.24014/ijaidm.v2i1.6299
+
+---
+Category: physics
+Subcategory: general
+Collected: 2025-08-01T19:28:50.624Z

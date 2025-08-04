@@ -1,0 +1,13 @@
+# Hybrid Quantum Algorithms and Quantum Software Development Frameworks
+
+**Authors:** Ravindra Ramouthar, Huseyin Seker
+
+## Abstract
+<jats:p>The choreography of quantum mechanical phenomena has catalysed accelerated advances in the emergence of a quantum computational substrate paradigm that yields the potential to solve some of humanities most complex problems through quantum computing speedup requires exponential computational power that exceeds that of today’s most powerful super-computers, to confront the world’s most intractable computational challenges in environment, agriculture, health, energy, climate, materials science, precision medicine, autonomous vehicles in smart cities, renewable energy and problems humanity has not yet even imagined. Current quantum computational substrates are limited by circuit depth, noise processes, qubit count, and fault tolerant quantum computational substrates unlikely to be available in the near term. Hybrid quantum algorithms/Variational Quantum Algorithms (VQAs), operate by using a classical optimizer to orchestrate the parameters of a quantum circuit, have become a prominent approach to address these limitations. However, several challenges manifest that include the training, speedup. accuracy, and impactful practical application of VQAs. This paper reviews novel new frontiers in current VQAs, provides an analysis of VQAs, their strengths and limitations, and outlines potential applications in the quest towards yielding practical quantum advantage. Secondly, this paper also reviews and provides an assessment of quantum software development frameworks.</jats:p>
+
+**Source:** https://doi.org/10.14293/pr2199.000298.v1
+
+---
+Category: physics
+Subcategory: general
+Collected: 2025-08-01T21:09:33.439Z

@@ -1,0 +1,12 @@
+# Decoding Musical Evolution Through Network Science
+
+**Authors:** Niccolo' Di Marco, Edoardo Loru, Alessandro Galeazzi, Matteo Cinelli, Walter Quattrociocchi
+
+## Summary
+Music has always been central to human culture, reflecting and shaping traditions, emotions, and societal changes. Technological advancements have transformed how music is created and consumed, influencing tastes and the music itself. In this study, we use Network Science to analyze musical complexity. Drawing on $\approx20,000$ MIDI files across six macro-genres spanning nearly four centuries, we represent each composition as a weighted directed network to study its structural properties. Our results show that Classical and Jazz compositions have higher complexity and melodic diversity than recently developed genres. However, a temporal analysis reveals a trend toward simplification, with even Classical and Jazz nearing the complexity levels of modern genres. This study highlights how digital tools and streaming platforms shape musical evolution, fostering new genres while driving homogenization and simplicity.
+
+
+---
+Category: physics
+Subcategory: cs.SD
+Collected: 2025-08-01T10:24:45.539Z

@@ -1,0 +1,12 @@
+# Physics Successfully Implements Lagrange Multiplier Optimization
+
+**Authors:** Sri Krishna Vadlamani, Tianyao Patrick Xiao, Eli Yablonovitch
+
+## Summary
+Optimization is a major part of human effort. While being mathematical, optimization is also built into physics. For example, physics has the principle of Least Action, the principle of Minimum Entropy Generation, and the Variational Principle. Physics also has physical annealing which, of course, preceded computational Simulated Annealing. Physics has the Adiabatic Principle, which in its quantum form is called Quantum Annealing. Thus, physical machines can solve the mathematical problem of optimization, including constraints. Binary constraints can be built into the physical optimization. In that case the machines are digital in the same sense that a flip-flop is digital. A wide variety of machines have had recent success at optimizing the Ising magnetic energy. We demonstrate in this paper that almost all those machines perform optimization according to the Principle of Minimum Entropy Generation as put forth by Onsager. Further, we show that this optimization is in fact equivalent to Lagrange multiplier optimization for constrained problems. We find that the physical gain coefficients which drive those systems actually play the role of the corresponding Lagrange Multipliers.
+
+
+---
+Category: physics
+Subcategory: cs.ET
+Collected: 2025-08-01T10:17:19.777Z

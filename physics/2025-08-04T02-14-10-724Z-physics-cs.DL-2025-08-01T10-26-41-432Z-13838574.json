@@ -1,0 +1,12 @@
+# Link prediction for interdisciplinary collaboration via co-authorship network
+
+**Authors:** Haeran Cho, Yi Yu
+
+## Summary
+We analyse the Publication and Research (PURE) data set of University of Bristol collected between $2008$ and $2013$. Using the existing co-authorship network and academic information thereof, we propose a new link prediction methodology, with the specific aim of identifying potential interdisciplinary collaboration in a university-wide collaboration network.
+
+
+---
+Category: physics
+Subcategory: cs.DL
+Collected: 2025-08-01T10:26:41.433Z

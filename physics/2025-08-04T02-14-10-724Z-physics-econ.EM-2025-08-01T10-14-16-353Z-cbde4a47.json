@@ -1,0 +1,12 @@
+# House Price Modeling with Digital Census
+
+**Authors:** Enwei Zhu, Stanislav Sobolevsky
+
+## Summary
+Urban house prices are strongly associated with local socioeconomic factors. In literature, house price modeling is based on socioeconomic variables from traditional census, which is not real-time, dynamic and comprehensive. Inspired by the emerging concept of "digital census" - using large-scale digital records of human activities to measure urban population dynamics and socioeconomic conditions, we introduce three typical datasets, namely 311 complaints, crime complaints and taxi trips, into house price modeling. Based on the individual housing sales data in New York City, we provide comprehensive evidence that these digital census datasets can substantially improve the modeling performances on both house price levels and changes, regardless whether traditional census is included or not. Hence, digital census can serve as both effective alternatives and complements to traditional census for house price modeling.
+
+
+---
+Category: physics
+Subcategory: econ.EM
+Collected: 2025-08-01T10:14:16.353Z

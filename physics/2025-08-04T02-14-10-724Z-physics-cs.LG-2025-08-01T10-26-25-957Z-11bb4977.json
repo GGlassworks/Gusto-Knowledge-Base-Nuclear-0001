@@ -1,0 +1,12 @@
+# Unsupervised embedding of trajectories captures the latent structure of scientific migration
+
+**Authors:** Dakota Murray, Jisung Yoon, Sadamori Kojaku, Rodrigo Costas, Woo-Sung Jung, Staša Milojević, Yong-Yeol Ahn
+
+## Summary
+Human migration and mobility drives major societal phenomena including epidemics, economies, innovation, and the diffusion of ideas. Although human mobility and migration have been heavily constrained by geographic distance throughout the history, advances and globalization are making other factors such as language and culture increasingly more important. Advances in neural embedding models, originally designed for natural language, provide an opportunity to tame this complexity and open new avenues for the study of migration. Here, we demonstrate the ability of the model word2vec to encode nuanced relationships between discrete locations from migration trajectories, producing an accurate, dense, continuous, and meaningful vector-space representation. The resulting representation provides a functional distance between locations, as well as a digital double that can be distributed, re-used, and itself interrogated to understand the many dimensions of migration. We show that the unique power of word2vec to encode migration patterns stems from its mathematical equivalence with the gravity model of mobility. Focusing on the case of scientific migration, we apply word2vec to a database of three million migration trajectories of scientists derived from the affiliations listed on their publication records. Using techniques that leverage its semantic structure, we demonstrate that embeddings can learn the rich structure that underpins scientific migration, such as cultural, linguistic, and prestige relationships at multiple levels of granularity. Our results provide a theoretical foundation and methodological framework for using neural embeddings to represent and understand migration both within and beyond science.
+
+
+---
+Category: physics
+Subcategory: cs.LG
+Collected: 2025-08-01T10:26:25.958Z

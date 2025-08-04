@@ -1,0 +1,12 @@
+# Fast and Functional Structured Data Generators Rooted in Out-of-Equilibrium Physics
+
+**Authors:** Alessandra Carbone, Aurélien Decelle, Lorenzo Rosset, Beatriz Seoane
+
+## Summary
+In this study, we address the challenge of using energy-based models to produce high-quality, label-specific data in complex structured datasets, such as population genetics, RNA or protein sequences data. Traditional training methods encounter difficulties due to inefficient Markov chain Monte Carlo mixing, which affects the diversity of synthetic data and increases generation times. To address these issues, we use a novel training algorithm that exploits non-equilibrium effects. This approach, applied on the Restricted Boltzmann Machine, improves the model's ability to correctly classify samples and generate high-quality synthetic data in only a few sampling steps. The effectiveness of this method is demonstrated by its successful application to four different types of data: handwritten digits, mutations of human genomes classified by continental origin, functionally characterized sequences of an enzyme protein family, and homologous RNA sequences from specific taxonomies.
+
+
+---
+Category: physics
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:23.894Z

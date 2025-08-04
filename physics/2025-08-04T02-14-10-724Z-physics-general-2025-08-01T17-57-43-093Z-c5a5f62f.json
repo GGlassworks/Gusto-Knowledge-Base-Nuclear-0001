@@ -1,0 +1,13 @@
+# A Swarm Optimization Genetic Algorithm Based on Quantum-Behaved Particle Swarm Optimization
+
+**Authors:** Tao Sun, Ming-hai Xu
+
+## Abstract
+<jats:p>Quantum-behaved particle swarm optimization (QPSO) algorithm is a variant of the traditional particle swarm optimization (PSO). The QPSO that was originally developed for continuous search spaces outperforms the traditional PSO in search ability. This paper analyzes the main factors that impact the search ability of QPSO and converts the particle movement formula to the mutation condition by introducing the rejection region, thus proposing a new binary algorithm, named swarm optimization genetic algorithm (SOGA), because it is more like genetic algorithm (GA) than PSO in form. SOGA has crossover and mutation operator as GA but does not need to set the crossover and mutation probability, so it has fewer parameters to control. The proposed algorithm was tested with several nonlinear high-dimension functions in the binary search space, and the results were compared with those from BPSO, BQPSO, and GA. The experimental results show that SOGA is distinctly superior to the other three algorithms in terms of solution accuracy and convergence.</jats:p>
+
+**Source:** https://doi.org/10.1155/2017/2782679
+
+---
+Category: physics
+Subcategory: general
+Collected: 2025-08-01T17:57:43.094Z
