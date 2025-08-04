@@ -1,0 +1,14 @@
+# Toward a new generation of databases and database applications for describing ancient manuscripts
+
+**Authors:** Patrick Andrist
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>This article analyses the reasons why current manuscript databases provide unsatisfying results about a codex’s historical layers and why they fall short when scanned for data with a date limit. It links this primarily to the fact that the data model (how the information is organized internally) and the description model (how the information is organized in the description presented to the users) are too closely and rigidly aligned. It advocates for developing a new model that would first allow users to define and save their own structural and historical interpretation of a codex, and use this when displaying or searching manuscripts. Secondly, users should be able to select the description model according to which manuscript information is displayed, including new and more detailed description models.</jats:p>
+
+**Source:** https://doi.org/10.1093/llc/fqab022
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:16:41.261Z

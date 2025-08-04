@@ -1,0 +1,15 @@
+# “Sampo” Model and Semantic Portals for Digital Humanities on the Semantic Web
+
+**Authors:** Eero Hyvönen
+
+## Abstract
+<jats:p>
+This paper presents the vision and longstanding work in Finland on creating a national Cultural Heritage ontology infrastructure and semantic portals based on Linked Data on the Semantic Web. In particular, the “Sampo” series of semantic portals is considered, including CultureSampo (2009), TravelSampo (2011), BookSampo (2011), WarSampo (2015), BiographySampo (2018), NameSampo (2019), WarWictimSampo (2019), FindSampo (2019), MMM (2020), LawSampo (2020), AcademySampo (2020), and ParliamentSampo (2022). They all share the “Sampo model” for publishing Cultural Heritage content the Semantic Web that typically involves three components: 1) A “business model” for harmonizing, aggregating, and publishing heterogeneous, distributed contents based on a shared ontology infrastructure. 2) An approach to interface design, where the data can be re-used and accessed independently from multiple application perspectives, while the data resides in a single SPARQL endpoint. 3) A two-step model for accessing and analyzing the data where the focus of interest is first filtered out using faceted semantic search, and then visualized or analyzed by ready-to-use Digital Humanities tools of the portal. This model has been proven useful in practise: Sampo portals have attracted lots users from tens of thousands to millions depending on the Sampo. It is argued that the next step ahead could be portals for serendipitous knowledge discovery where the tools, based on AI techniques, are able to find automatically serendipitous, “interesting” phenomena and research questions in the data, and even solve problems with explanations.
+</jats:p>
+
+**Source:** https://doi.org/10.5617/dhnbpub.11209
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:17:42.537Z

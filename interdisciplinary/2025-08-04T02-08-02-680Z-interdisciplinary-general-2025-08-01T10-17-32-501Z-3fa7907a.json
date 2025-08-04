@@ -1,0 +1,13 @@
+# THE RELATIONSHIP BETWEEN THE AFRICAN BUFFALO OPTIMIZATION AND DIGITAL HUMANITIES
+
+**Authors:** Julius Beneoluchi Odili
+
+## Abstract
+<jats:p>The African Buffalo Optimization (ABO) is a swarm optimization technique developed in 2015 by Odili and Kahar. It obtained its inspiration from the movement of cape buffalos across the wide African rainforests and savannah using basically two sounds: /waaa/ and /maaa/. Since its development, the algorithm has been applied to a wide range of applications ranging from numerical function optimization, tuning of the Peripheral, Integral, Derivative parameters of Automatic Voltage Regulators, Travelling salesman problem etc. Despite the enormous potential benefits of combining stochastic optimization algorithms and Digital Humanities (DH), there is a lack of research exploring this intersection. DH data, such as historical texts, images, and artifacts etc. often require complex analysis and visualization techniques. Traditional methods may not effectively capture the nuances and complexities of these data. In this study, the relationship between the African Buffalo Optimization and Digital Humanities is explored with the aim of attracting digital humanities researchers’ attention to the enormous potentials available to the research community in swarm optimization algorithms like the ABO algorithm. Deploying Java programming language, this study implements the ABO algorithm to the various aspects of DH such as text analysis, digital pedagogy, cultural analytics, digital preservation, digital scholarship, digital museums and curation as well as digital edition and publishing. It was discovered that the ABO is good in optimizing topic modelling for literary analysis, sentiment analysis for historical text analysis and entity recognition for cultural trend analysis. In addition, the algorithm is effective in digital cultural analytics, digital pedagogy and scholarship. The successful implementation in this study proved to be a good contribution as it unravels the close relationship between the two disciplines that seemed to have nothing in common. In view of our findings, we recommend that global researchers in DH should explore the diverse opportunities inherent in swarm optimization algorithms to further DH scholarship and research.</jats:p>
+
+**Source:** https://doi.org/10.15282/ijsecs.11.1.2025.3.0135
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:17:32.502Z

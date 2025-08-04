@@ -1,0 +1,13 @@
+# Interactive Compression of Digital Data
+
+**Authors:** Bruno Carpentieri
+
+## Abstract
+<jats:p>If we can use previous knowledge of the source (or the knowledge of a source that is correlated to the one we want to compress) to exploit the compression process then we can have significant gains in compression. By doing this in the fundamental source coding theorem we can substitute entropy with conditional entropy and we have a new theoretical limit that allows for better compression. To do this, when data compression is used for data transmission, we can assume some degree of interaction between the compressor and the decompressor that can allow a more efficient usage of the previous knowledge they both have of the source. In this paper we review previous work that applies interactive approaches to data compression and discuss this possibility.</jats:p>
+
+**Source:** https://doi.org/10.3390/a3010063
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:19:02.056Z

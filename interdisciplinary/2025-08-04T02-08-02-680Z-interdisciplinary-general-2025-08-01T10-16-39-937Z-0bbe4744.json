@@ -1,0 +1,14 @@
+# Building linked lexicography applications with LexO-server
+
+**Authors:** Andrea Bellandi
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>The adoption of Semantic Web technologies in the lexicographic field, has been driven by the need to ensure the construction of lexical resources that are interoperable and can be shared and reused by the scientific communities. In this context, the OntoLex W3C working group proposed the OntoLex-Lemon model aimed at providing rich linguistic grounding for ontologies. It includes the representation of morphological and syntactic properties of lexical entries as well as their meaning with respect to an ontology or vocabulary. This article aims at presenting LexO-server, a set of REST services for the management of OntoLex-Lemon modeled lexical resources. LexO-server comes as a software backend providing data access and manipulation to frontend developers. The set of services are general enough to make possible the construction of applications oriented at different tasks, such as editing, linking, dictionary making, linguistic annotation, or NLP ones. As a demonstration of the versatility and the potential of LexO-server, we will present three web applications that rely on it.</jats:p>
+
+**Source:** https://doi.org/10.1093/llc/fqac095
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:16:39.937Z

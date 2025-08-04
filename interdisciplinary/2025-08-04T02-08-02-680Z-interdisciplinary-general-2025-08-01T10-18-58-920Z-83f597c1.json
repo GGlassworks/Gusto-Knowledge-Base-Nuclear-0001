@@ -1,0 +1,13 @@
+# Biological Algorithms for Digital Manufacture
+
+**Authors:** Louise Wotton
+
+## Abstract
+<jats:p>&lt;p&gt;Computational simulations are generally built upon a form or design that is near or mostly complete. Agent-based simulations are ones where the rules and behaviours are designed, creating an unpredictable output. In this research, these rules are derived from the complex systems in nature, utilising cross-disciplinary principles between architecture and biology. The abstraction of data and rules from biological structures are used to inform computational rule-sets for modelling 3D printed structures.  The simulations in this paper explore the concept of emergence: where systems have an irreducible complexity and adaptability - a series of smaller parts combined acting as a whole. The concept of agent-based simulations as a form of emergence is a tool used greatly within many areas of research as a speculative method to build form and space.  Computation rule-sets define a design intent for each simulation, demonstrating the ability to use agent-based systems and a spatial design driver. Informing the agents with design intent, allows them to adapt to their environment and to the ability and limitations of a freeform 3D printer.  The focus in this project is the design of emergent principles in nature and how they can be applied to optimize structures for use with digital fabrication methods, thus producing a new approach to designing fabricated forms.  Using a design by research approach, this research demonstrates the potential of free-form 3D printing as a technique for an integrated fabrication system. It outlines computational design techniques including the simulation of emergent phenomena to define a digital workflow that supports the integration of both emergent structures and free-form printing.&lt;/p&gt;</jats:p>
+
+**Source:** https://doi.org/10.26686/wgtn.17139461
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:18:58.921Z
