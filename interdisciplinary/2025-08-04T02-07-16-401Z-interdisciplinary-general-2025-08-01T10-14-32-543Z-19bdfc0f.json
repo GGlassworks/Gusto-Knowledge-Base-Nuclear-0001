@@ -1,0 +1,14 @@
+# Can machine translation of literary texts fool stylometry?
+
+**Authors:** Jan Rybicki
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>This article uses standard authorship-attribution stylometry to tell machine translations made with DeepL and Google Translate from human translations. This is done using a Burrows-like distance measure procedure of cluster analysis, later visualized through network analysis. Using a corpus of French literary classics translated into English by humans and machines as illustration, this article shows that, in most cases, translations of each text were very similar irrespective of the type of translator. Discrepancies in this respect were only found between translations of authors writing in very complex style (Proust). On the other hand, sentence length distribution compared with the Dynamic Time Warping Distance method was much more indicative of whether translations were made by humans or by machines.</jats:p>
+
+**Source:** https://doi.org/10.1093/llc/fqaf010
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:14:32.543Z
