@@ -1,0 +1,13 @@
+# Proposed methodology for online frequency response analysis based on magnetic coupling to detect winding deformations in transformers
+
+**Authors:** Yangchun Cheng, J. Bi, W. Chang, Yuan Xu, Xiaohua Pan, Xianwei Ma, Shuai Chang
+
+## Abstract
+Frequency response analysis is widely used as a method for the offline diagnosis of winding deformations in power transformers. To apply it to a working transformer, people need to determine how to inject the excitation signal and measure the response signal for windings that bear a rated voltage and current. In this study, a method to obtain the frequency response curve online is proposed. It uses the principle of magnetic field coupling to inject a frequency sweep signal into the windings through a Rogowski coil. Another Rogowski coil sensor placed at the root of a high-voltage bushing is used to measure the response current signal. Experiments on a 72.5 kV bushing show that metal accessories of the bushing have no influence on the injection or the measurement. The feasibility of this method was verified by experiments on charged 110/35/10 kV transformers at a factory and a working 35 kV transformer in a power station. The results show that it is safe to install the Rogowski coil at the root of the high-voltage bushing. The excitation signal can be injected into live windings and the response signal is measurable. Strong electromagnetic power frequency noise can be reduced and the frequency response curve can be measured online.
+
+**Source:** https://www.semanticscholar.org/paper/4280b17b2ed3d3dab4e127c185743a054e6ee696
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:39.245Z

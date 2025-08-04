@@ -1,0 +1,13 @@
+# Control schemes for micro-grid application—A simulation and experimental approach for Electrical Engineering Project
+
+**Authors:** Somashree Pathy, C. Subramani, R. Sridhar
+
+## Abstract
+The knowledge gain of micro-grid operation control schemes for micro-grid application is important for graduate and undergraduate students. In this paper, the issues on photovoltaic integrated to grid system and the control schemes are discussed from basics and the level of students’ understanding. Initially the basic photovoltaic modeling, maximum power point tracking techniques, and grid synchronization are presented. For grid synchronization, the mostly used synchronous reference frame-phase locked loop is considered here. For the understanding of the students, the control schemes are applied in three different cases with the help of MATLAB Simulink and the results are analyzed. The authors hope that the electrical engineering students may gain the knowledge about the effective use of solar energy and also grid synchronization technique for a reliable power supply to the critical loads in the topic control schemes on photovoltaic integrated grid system and proceed for their project or research work. The suggested scheme is duly simulated in MATLAB Simulink environment and also realized as a hardware prototype; the simulation and hardware results reveal that the suggested approach provides clear directions for a resilient operation of a micro-grid that embodies necessary renewable sources and storage elements.
+
+**Source:** https://www.semanticscholar.org/paper/bbd8b318650eb66133ced0800bc2426e190c35db
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:35:28.834Z

@@ -1,0 +1,13 @@
+# A Methodology for the Calculation of Typical Gas Concentration Values and Sampling Intervals in the Power Transformers of a Distribution System Operator
+
+**Authors:** S. Bustamante, M. Mañana, A. Arroyo, R. Martínez, A. Laso
+
+## Abstract
+Predictive maintenance strategies in power transformers aim to assess the risk through the calculation and monitoring of the health index of the power transformers. The parameter most used in predictive maintenance and to calculate the health index of power transformers is the dissolved gas analysis (DGA). The current tendency is the use of online DGA monitoring equipment while continuing to perform analyses in the laboratory. Although the DGA is well known, there is a lack of published experimental data beyond that in the guides. This study used the nearest-rank method for obtaining the typical gas concentration values and the typical rates of gas increase from a transformer population to establish the optimal sampling interval and alarm thresholds of the continuous monitoring devices for each power transformer. The percentiles calculated by the nearest-rank method were within the ranges of the percentiles obtained using the R software, so this simple method was validated for this study. The results obtained show that the calculated concentration limits are within the range of or very close to those proposed in IEEE C57.104-2019 and IEC 60599:2015. The sampling intervals calculated for each transformer were not correct in all cases since the trend of the historical DGA samples modified the severity of the calculated intervals.
+
+**Source:** https://www.semanticscholar.org/paper/25ed85199c88e505714bcda8e70ce2fc1776727e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:39.465Z

@@ -1,0 +1,13 @@
+# Automated Ruleset Generation for "HTTPS Everywhere": Challenges, Implementation, and Insights
+
+**Authors:** Fares Alharbi, Gautam Siddharth Kashyap, B. Allehyani
+
+## Abstract
+This paper details the implementation of a Web crawler aimed at automating ruleset construction for “HTTPS Everywhere,” with a goal to convert HTTP URLs to secure HTTPS equivalents for enhanced communication security. Developed within a seven-month timeframe, the crawler faced challenges in verifying HTTPS support, varying based on SSL certificate existence and validity. Successful ruleset creation and testing in Firefox and Chrome, adhering to stylistic standards, demonstrated the potential for effective development. The paper explores improving productivity through alternative libraries like Scrapy and Scrapy Cloud. While certain goals, such as in-depth cryptocurrency analysis and web crawler background reading, were unmet due to time constraints, valuable insights were gained. The conclusion underscores the difficulties, successes, and promises of automating ruleset generation through web crawlers for “HTTPS Everywhere,” offering valuable recommendations for advancing web security.
+
+**Source:** https://www.semanticscholar.org/paper/0eed96082ac9ab660c4bb25d8035c0db05a714d9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T13:28:47.553Z

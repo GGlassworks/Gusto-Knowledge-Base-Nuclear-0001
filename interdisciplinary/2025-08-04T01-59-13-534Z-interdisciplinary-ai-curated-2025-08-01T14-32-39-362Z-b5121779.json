@@ -1,0 +1,13 @@
+# Diagnostic technique for analysing the internal faults within power transformers based on sweep frequency response using adjusted R-square methodology
+
+**Authors:** O. Gouda, S. H. El-hoshy
+
+## Abstract
+The sweep frequency response analysis (SFRA) technique is based on measuring the power transformer electrical transfer functions over a wide frequency range to identify the abnormal areas prior to serious failure. This study presents the proposed diagnostic adjusted R-square technique to identify the transformer faults using the SFRA technique. The SFRA measurements are ranged up to and beyond 1 MHz. The proposed technique is used to calculate the relative factor for adjusted R-square coefficient between the actual data and new measurement data sets. The results of the proposed method are evaluated and compared with existing Chinese Standard factor DL/T 911-2016 and CCF factor of IEEE Std. C57.149™ Standard indicates that the suggested methodology is more reliable to identify and analyse the internal faults of the transformers. This technique is considered to be effective indicator to predict the internal physical condition inside the transformer, which moves the field forward.
+
+**Source:** https://www.semanticscholar.org/paper/9eca5c63de8cde739a693306583b04d39794ab1d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:39.363Z

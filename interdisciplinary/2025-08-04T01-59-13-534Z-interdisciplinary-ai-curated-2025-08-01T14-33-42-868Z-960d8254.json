@@ -1,0 +1,13 @@
+# Transformers for molecular property prediction: Lessons learned from the past five years
+
+**Authors:** Afnan Sultan, Jochen Sieg, M. Mathea, Andrea Volkamer
+
+## Abstract
+Molecular Property Prediction (MPP) is vital for drug discovery, crop protection, and environmental science. Over the last decades, diverse computational techniques have been developed, from using simple physical and chemical properties and molecular fingerprints in statistical models and classical machine learning to advanced deep learning approaches. In this review, we aim to distill insights from current research on employing transformer models for MPP. We analyze the currently available models and explore key questions that arise when training and fine-tuning a transformer model for MPP. These questions encompass the choice and scale of the pretraining data, optimal architecture selections, and promising pretraining objectives. Our analysis highlights areas not yet covered in current research, inviting further exploration to enhance the field's understanding. Additionally, we address the challenges in comparing different models, emphasizing the need for standardized data splitting and robust statistical analysis.
+
+**Source:** https://www.semanticscholar.org/paper/a95085c326a7773552ac82629ffc405be371422b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:33:42.868Z

@@ -1,0 +1,13 @@
+# Comparative analysis of methods for solving optimization problems in agricultural engineering
+
+**Authors:** V. Zubina
+
+## Abstract
+To design intelligent transport and technical means, it is necessary to improve the methodological provisions and software for multi-criteria optimization of the functional properties of innovative mobile energy means. The right choice of optimization methods is necessary to design a reliable mathematical model. A comparative analysis of methods for optimizing problem solving for agricultural engineering showed the applicability of single-criterion methods in optimizing simple design parameters of single-purpose problems (development of parts, technical and technological characteristics of individual objects). Multicriteria optimization methods are applicable to solving problems with the defi nition of several objective functions with a large number of functional and criterion constraints, as well as variable parameters, where each parameter is not inferior in importance and relevance to each other (agricultural enterprise management, design of mobile power vehicles, combines and other agricultural machines). Vector optimization methods are applicable for solving a multicriteria optimization problem with a set of possible (permissible) solutions (designing elements of units, machine units and equipment for agricultural production). The authors have analyzed the existing software tools for solving optimization problems. They have found it necessary to develop software tools taking into account simultaneously up to 20 criterial and functional constraints, up to 50 variable parameters and more than three equally important objective functions, where each parameter has no precedence over the others.
+
+**Source:** https://www.semanticscholar.org/paper/e22cfb24f5771714886b5184ff076eddf987ac18
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:08.601Z

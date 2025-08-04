@@ -1,0 +1,13 @@
+# An incremental attribute reduction algorithm based on the matrix dimension reduction method
+
+**Authors:** Yunyun Ma, Ting Quan
+
+## Abstract
+In view of the dynamic change of decision system data in practical problems, the concept of attribute importance function is proposed, which eff ectively avoids the defi ciency of considering only each attribute based on importance reduction algorithm. In the calculation process of matrix reduction algorithm, the sample combination explosion between big data causes huge time consumption. The matrix dimension reduction processing method is proposed, which greatly improves the effi ciency and accuracy of calculation. Finally, an incremental reduction algorithm based on matrix dimensionality reduction is presented, and the correctness of the algorithm is tested. Meanwhile, the results of the four algorithms are compared to verify the eff ectiveness of the algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/ad491dbc33e4b91a237a7e5e3ca68f0a9fe2f695
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T13:35:00.960Z

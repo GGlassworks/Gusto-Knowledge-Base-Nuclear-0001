@@ -1,0 +1,13 @@
+# Enhancing Automatic Modulation Recognition for IoT Applications Using Transformers
+
+**Authors:** Narges Rashvand, Kenneth Witham, Gabriel Maldonado, Vinit Katariya, Nishanth Marer Prabhu, G. Schirner, Hamed Tabkhi
+
+## Abstract
+Automatic modulation recognition (AMR) is vital for accurately identifying modulation types within incoming signals, a critical task for optimizing operations within edge devices in IoT ecosystems. This paper presents an innovative approach that leverages Transformer networks, initially designed for natural language processing, to address the challenges of efficient AMR. Our Transformer network architecture is designed with the mindset of real-time edge computing on IoT devices. Four tokenization techniques are proposed and explored for creating proper embeddings of RF signals, specifically focusing on overcoming the limitations related to the model size often encountered in IoT scenarios. Extensive experiments reveal that our proposed method outperformed advanced deep learning techniques, achieving the highest recognition accuracy. Notably, our model achieved an accuracy of 65.75 on the RML2016 and 65.80 on the CSPB.ML.2018+ dataset.
+
+**Source:** https://www.semanticscholar.org/paper/ebe04853f44307886837f5e52db999a829fa9c9a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:33:42.576Z

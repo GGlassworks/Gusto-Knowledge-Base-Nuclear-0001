@@ -1,0 +1,13 @@
+# Methodology to locate and quantify radial winding deformation in power transformers
+
+**Authors:** S. Mitchell, J. Welsh
+
+## Abstract
+Frequency response analysis (FRA) is a tool that can be used to detect changes within the structural geometry of a transformer. One application of FRA is to detect winding displacement after the transformer experiences an overcurrent event. This paper proposes a methodology which will facilitate both locating and quantifying winding deformation. The procedure is based on the fitting of a Gray Box transformer model to FRA measurements which were recorded both before and after the fault. Subtle variation in key parameters of the model can then be used to quantify winding deformation severity. The research will demonstrate the applicability of this approach to a wide range of transformer applications by using FRA from a modified 1.3 MVA distribution transformer, and assessing the change in key parameters relative to the emulated buckling introduced to the windings. The authors propose that this approach is ideally suited for use within an automated diagnostic system which will locate, diagnose and quantify winding deformation within power transformers.
+
+**Source:** https://www.semanticscholar.org/paper/ba544c5a0817b0028880bceb7bb61d7eb2d10113
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:39.909Z

@@ -1,0 +1,13 @@
+# Decentralized credit scoring: Black box 3.0
+
+**Authors:** Nizan Geslevich Packin, Yafit Lev-Aretz
+
+## Abstract
+Much like traditional credit scoring, decentralized credit scoring calculates a borrower's creditworthiness, but the fully automated process is executed on the blockchain by Decentralized Finance (DeFi) platforms. Originally, DeFi emerged as an alternative to the centralized traditional finance (TradFi) system; however, decentralized credit scoring combines DeFi data and traditional data that include a wide range of information sources, from traditional credit reports to social media information. Despite their fairness‐oriented narrative, an examination of the business models of the protocols and entities operating in this space reveals that these hybrid scores are subject to the same algorithmic distortions that have been observed in traditional and alternative credit scoring models. Moreover, decentralized credit scores present their own distinctive set of fairness issues. Particularly, both upgrade to smart contracts and their reliance on external algorithms, known as oracles, which feed outside data, introduce heightened potential for error and bias in the credit scoring process. These “black box 3.0” issues can result in opaque automation of biased processes and perpetuate social injustices, requiring regulatory intervention to strengthen the linkage points between DeFi and TradFi and better protect consumers from the black box 3.0 consequences of decentralized credit scores.
+
+**Source:** https://www.semanticscholar.org/paper/b78ad3875cac96839c97146025caad3c0578cde3
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T13:35:00.854Z

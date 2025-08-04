@@ -1,0 +1,13 @@
+# Evaluation of Methodology for Lightning Impulse Voltage Distribution over High-Voltage Windings of Inductive Voltage Transformers
+
+**Authors:** Bojan Trkulja, Ana Drandić, V. Milardić, I. Žiger
+
+## Abstract
+Knowledge of lightning impulse (LI) voltage distribution over transformer windings during the design stage of the transformer is very important. Specific design differences in inductive voltage transformers make the transient analysis approach different to the approach to the power transformers. In this paper, a methodology for acquiring lightning impulse voltage distribution over high-voltage (HV) winding of inductive voltage transformers is presented and evaluated. Resistance, inductance, and capacitance matrices are calculated using the integral and boundary element methods (BEM) approach. Additionally, in order to improve the capacitance matrix solver, adaptive cross approximation (ACA) is applied. These parameters are then used to solve the equivalent circuit model in time domain. In order to evaluate the methodology, an experimental and numerical investigation of the layer discretisation, iron core influence, and accuracy of the proposed methodology is performed. The comparison of numerical results with measurements confirms the validity of the methodology.
+
+**Source:** https://www.semanticscholar.org/paper/b3f366638da3fbf62ff2f65dc199dfb62e800a74
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:39.037Z

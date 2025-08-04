@@ -1,0 +1,13 @@
+# Advanced Discontinuous Modulation for Thermally Compensated Modular Smart Transformers
+
+**Authors:** Youngjong Ko, V. Raveendran, Markus Andresen, Marco Liserre
+
+## Abstract
+Smart transformers (STs) are challenged by high-reliability requirements. Particularly, modular STs consist of a large number of power semiconductors, and unevenly distributed thermal stress results in different remaining useful lifetimes of the devices in the different building blocks. This problem can be addressed with discontinuous modulation for the medium-voltage-side converter, but results in a coupled thermal stress with the isolated dc–dc cells. For overcoming this drawback, this article proposes an advanced discontinuous modulation, which enables to manipulate thermal stress in different cells independently. The algorithm is analyzed with respect to its capability in thermal stress manipulation and validated experimentally with junction temperature measurements. In addition, this article investigates the impact of the algorithm on the overall system's efficiency as well as potential lifetime of the power semiconductors in the different building blocks.
+
+**Source:** https://www.semanticscholar.org/paper/e25477ad1da3fb426c8789946ec87b4e15282982
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:33:41.369Z

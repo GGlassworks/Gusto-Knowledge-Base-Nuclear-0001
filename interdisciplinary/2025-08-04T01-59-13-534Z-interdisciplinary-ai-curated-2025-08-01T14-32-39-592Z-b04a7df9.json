@@ -1,0 +1,13 @@
+# Partial discharge localisation methodology for power transformers based on improved acoustic propagation route search algorithm
+
+**Authors:** Yan-Bo Wang, Yu-Hang Fan, Shao-Rui Qin, Ding-Ge Chang, X. Shao, H. Mu, Guanjun Zhang
+
+## Abstract
+The localisation of partial discharge (PD) sources using the acoustic emission (AE) technique has attracted increasing research attention. The complicated propagation routes and wave-type conversion in power transformer can induce considerable localisation error. In this paper, the catadioptric phenomenon of AE wave propagation is explained in detail. With the incident angle varying, the wave type of the direct wave in tank wall could convert and the velocity will change accordingly. A transformer model is established in which each node refers to a suspected PD position and a shortest route search algorithm is proposed to calculate the shortest path between two nodes in this model. However, the fastest route is most significant to PD localisation rather than the shortest route when TDOA method is used. As a result, an improved propagation route search (IPRS) algorithm, which can recreate the propagation process and calculate the fastest AE routes, is proposed to localise the PD origin. To verify the feasibility of the IPRS algorithm, localisation experiments were performed in 35 and 110 kV transformers, respectively. Compared with other present localisation methods, such as the Chan algorithm, the genetic algorithm and the imperial competitive algorithm, the proposed algorithm can effectively reduce localisation error.
+
+**Source:** https://www.semanticscholar.org/paper/5dd9154c7dfa543abc7ab951e703f256336be651
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T14:32:39.592Z

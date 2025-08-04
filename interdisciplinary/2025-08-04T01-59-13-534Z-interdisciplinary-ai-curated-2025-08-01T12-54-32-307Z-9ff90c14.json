@@ -1,0 +1,13 @@
+# Comparison of Two Quantitative Strategies: Momentum and Mean-reversion
+
+**Authors:** Junya Li
+
+## Abstract
+With the development of finance and computers, the field of quantitative finance is gradually gaining attention and research. In this paper, two classic trading strategies are chosen for comparisons (namely momentum strategy and mean reversion strategy) to select the performance of Tesla and Gold in the last decade as the research object. The Tesla and Gold both performances better in momentum strategy than in the mean-reversion strategy. According to the analysis, it demonstrates that volatile stocks are more likely to generate greater profits with a momentum strategy. However, volatile equities may not regress well to the mean price, or the rate of regression may be irregular, rendering a strategy based on mean reversion ineffective. This study presents a sample for comparing momentum and mean reversion techniques and develops the features of stocks that are suited for both momentum and mean reversion strategies. These results shed light on guiding further exploration of quantitative strategy.
+
+**Source:** https://www.semanticscholar.org/paper/84c6039a9a78f48a5a7b5bb6d34c6248b5a44621
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:54:32.307Z

@@ -1,0 +1,13 @@
+# DCrowd: A Decentralized Service Model for Credible Crowdsourcing Based on Game Theory and Smart Contracts
+
+**Authors:** Huajian Wang, Huan Zhou, Guogui Yang, Tao Xiao
+
+## Abstract
+Crowdsourcing provides a new way of group intelligence interaction in recent years. Traditional crowdsourcing service models rely on centralized third-party platforms, which are bottlenecks in credibility. Blockchain is a potential solution. We therefore propose DCrowd, a Decentralized and Credible crowdsourcing model based on game theory and smart contracts. The workers in DCrowd are organized in a decentralized manner. However, information on the blockchain is open, which may cause data leakage and privacy issues. To tackle the data transparency issue, a commitment scheme is leveraged for data submission among workers. Then, an unbiased random selection algorithm is further designed to select independent workers from the dispersed worker pool to avoid possible collusion. Through the Nash equilibrium principle, it is proved that workers in DCrowd have to perform honestly to maximize their rewards. Finally, the feasibility of our model design is demonstrated through experiments on Ethereum.
+
+**Source:** https://www.semanticscholar.org/paper/e58e4c8d73d0bb8db9f9482e1ecd8d0aa93d6bb7
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:29:33.539Z

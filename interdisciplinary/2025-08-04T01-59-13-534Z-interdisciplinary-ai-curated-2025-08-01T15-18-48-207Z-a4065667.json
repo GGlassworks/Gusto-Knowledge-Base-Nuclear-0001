@@ -1,0 +1,13 @@
+# LLM4Fuzz: Guided Fuzzing of Smart Contracts with Large Language Models
+
+**Authors:** Chaofan Shou, Jing Liu, Doudou Lu, Koushik Sen
+
+## Abstract
+As blockchain platforms grow exponentially, millions of lines of smart contract code are being deployed to manage extensive digital assets. However, vulnerabilities in this mission-critical code have led to significant exploitations and asset losses. Thorough automated security analysis of smart contracts is thus imperative. This paper introduces LLM4Fuzz to optimize automated smart contract security analysis by leveraging large language models (LLMs) to intelligently guide and prioritize fuzzing campaigns. While traditional fuzzing suffers from low efficiency in exploring the vast state space, LLM4Fuzz employs LLMs to direct fuzzers towards high-value code regions and input sequences more likely to trigger vulnerabilities. Additionally, LLM4Fuzz can leverage LLMs to guide fuzzers based on user-defined invariants, reducing blind exploration overhead. Evaluations of LLM4Fuzz on real-world DeFi projects show substantial gains in efficiency, coverage, and vulnerability detection compared to baseline fuzzing. LLM4Fuzz also uncovered five critical vulnerabilities that can lead to a loss of more than $247k.
+
+**Source:** https://www.semanticscholar.org/paper/37caf0e6aa88936501e01a8558ddb543a4665646
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:18:48.208Z
