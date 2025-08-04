@@ -1,0 +1,13 @@
+# FPGA Implementation of Real-Time Ethernet for Motion Control
+
+**Authors:** Chen Youdong, Xing Chunxiang, Tao Yong, Sun Kai
+
+## Abstract
+<jats:p> This paper provides an applicable implementation of real-time Ethernet named CASNET, which modifies the Ethernet medium access control (MAC) to achieve the real-time requirement for motion control. CASNET is the communication protocol used for motion control system. Verilog hardware description language (VHDL) has been used in the MAC logic design. The designed MAC serves as one of the intellectual properties (IPs) and is applicable to various industrial controllers. The interface of the physical layer is RJ45. The other layers have been implemented by using C programs. The real-time Ethernet has been implemented by using field programmable gate array (FPGA) technology and the proposed solution has been tested through the cycle time, synchronization accuracy, and Wireshark testing. </jats:p>
+
+**Source:** https://doi.org/10.1155/2013/682085
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:02:20.202Z

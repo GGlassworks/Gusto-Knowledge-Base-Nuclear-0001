@@ -1,0 +1,13 @@
+# Size/Layout Optimization of Truss Structures Using Shuffled Shepherd Optimization Method
+
+**Authors:** Ali Kaveh, Ataollah Zaerreza
+
+## Abstract
+<jats:p>The main purpose of this paper is to investigate the ability of the recently developed multi-community meta-heuristic optimization algorithm, shuffled shepherd optimization algorithm (SSOA), in layout optimization of truss structures. The SSOA is inspired by mimicking the behavior of shepherd in nature. In this algorithm, agents are first divided into communities which are called herd and then optimization process, inspired by the shepherd’s behavior in nature, is operated on each community. The new position of agents is obtained using elitism technique. Then communities are merged for sharing the information. The results of SSOA in layout optimization show that SSOA is competitive with other considered meta-heuristic algorithms.</jats:p>
+
+**Source:** https://doi.org/10.3311/ppci.15726
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:08:01.176Z

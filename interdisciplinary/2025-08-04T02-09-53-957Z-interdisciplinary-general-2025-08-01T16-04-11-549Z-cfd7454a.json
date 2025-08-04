@@ -1,0 +1,13 @@
+# Comparison of Performance and Computational Complexity of Nonlinear Active Noise Control Algorithms
+
+**Authors:** Mouayad A. Sahib, Raja Kamil
+
+## Abstract
+<jats:p>Research on nonlinear active noise control (NANC) revolves around the investigation of the sources of nonlinearity as well as the performance and computational load of the nonlinear algorithms. The nonlinear sources could originate from the noise process, primary and secondary propagation paths, and actuators consisting of loudspeaker, microphone or amplifier. Several NANCs including Volterra filtered-x least mean square (VFXLMS), bilinear filtered-x least mean square (BFXLMS), and filtered-s least mean square (FSLMS) have been utilized to overcome these nonlinearities effects. However, the relative performance and computational complexities of these algorithm in comparison to FXLMS algorithm have not been carefully studied. In this paper, systematic comparisons of the FXLMS against the nonlinear algorithms are evaluated in overcoming various nonlinearity sources. The evaluation of the algorithms performance is standardized in terms of the normalized mean square error while the computational complexity is calculated based on the number of multiplications and additions in a single iteration. Computer simulations show that the performance of the FXLMS is more than 80% of the most effective nonlinear algorithm for each type of nonlinearity sources at the fraction of computational load. The simulation results also suggest that it is more advantageous to use FXLMS for practical implementation of NANC.</jats:p>
+
+**Source:** https://doi.org/10.5402/2011/925085
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:04:11.549Z
