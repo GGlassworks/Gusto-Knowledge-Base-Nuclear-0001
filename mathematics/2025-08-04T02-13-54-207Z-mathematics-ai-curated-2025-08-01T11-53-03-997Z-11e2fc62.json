@@ -1,0 +1,13 @@
+# Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration
+
+**Authors:** Cong Gao, Xingtong Liu, Wenhao Gu, Benjamin Killeen, Mehran Armand, R. Taylor, M. Unberath
+
+## Abstract
+Differentiable rendering is a technique to connect 3D scenes with corresponding 2D images. Since it is differentiable, processes during image formation can be learned. Previous approaches to differentiable rendering focus on mesh-based representations of 3D scenes, which is inappropriate for medical applications where volumetric, voxelized models are used to represent anatomy. We propose a novel Projective Spatial Transformer module that generalizes spatial transformers to projective geometry, thus enabling differentiable volume rendering. We demonstrate the usefulness of this architecture on the example of 2D/3D registration between radiographs and CT scans. Specifically, we show that our transformer enables end-to-end learning of an image processing and projection model that approximates an image similarity function that is convex with respect to the pose parameters, and can thus be optimized effectively using conventional gradient descent. To the best of our knowledge, we are the first to describe the spatial transformers in the context of projective transmission imaging, including rendering and pose estimation. We hope that our developments will benefit related 3D research applications. The source code is available at https://github.com/gaocong13/Projective-Spatial-Transformers.
+
+**Source:** https://www.semanticscholar.org/paper/0124c3ebb067c3e751afca802d8c05619fda3021
+
+---
+Category: mathematics
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:04.001Z

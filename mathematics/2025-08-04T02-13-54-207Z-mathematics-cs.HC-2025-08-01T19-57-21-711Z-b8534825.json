@@ -1,0 +1,12 @@
+# View Composition Algebra for Ad Hoc Comparison
+
+**Authors:** Eugene Wu
+
+## Summary
+Comparison is a core task in visual analysis. Although there are numerous guidelines to help users design effective visualizations to aid known comparison tasks, there are few techniques available when users want to make ad hoc comparisons between marks, trends, or charts during data exploration and visual analysis. For instance, to compare voting count maps from different years, two stock trends in a line chart, or a scatterplot of country GDPs with a textual summary of the average GDP. Ideally, users can directly select the comparison targets and compare them, however what elements of a visualization should be candidate targets, which combinations of targets are safe to compare, and what comparison operations make sense? This paper proposes a conceptual model that lets users compose combinations of values, marks, legend elements, and charts using a set of composition operators that summarize, compute differences, merge, and model their operands. We further define a View Composition Algebra (VCA) that is compatible with datacube-based visualizations, derive an interaction design based on this algebra that supports ad hoc visual comparisons, and illustrate its utility through several use cases.
+
+
+---
+Category: mathematics
+Subcategory: cs.HC
+Collected: 2025-08-01T19:57:21.711Z

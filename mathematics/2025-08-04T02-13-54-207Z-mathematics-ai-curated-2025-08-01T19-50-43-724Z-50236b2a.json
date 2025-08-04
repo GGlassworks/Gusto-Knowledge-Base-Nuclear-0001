@@ -1,0 +1,13 @@
+# Topology Density Map for Urban Data Visualization and Analysis
+
+**Authors:** Zezheng Feng, Haotian Li, Wei Zeng, Shuang-Hua Yang, Huamin Qu
+
+## Abstract
+Density map is an effective visualization technique for depicting the scalar field distribution in 2D space. Conventional methods for constructing density maps are mainly based on Euclidean distance, limiting their applicability in urban analysis that shall consider road network and urban traffic. In this work, we propose a new method named Topology Density Map, targeting for accurate and intuitive density maps in the context of urban environment. Based on the various constraints of road connections and traffic conditions, the method first constructs a directed acyclic graph (DAG) that propagates nonlinear scalar fields along 1D road networks. Next, the method extends the scalar fields to a 2D space by identifying key intersecting points in the DAG and calculating the scalar fields for every point, yielding a weighted Voronoi diagram like effect of space division. Two case studies demonstrate that the Topology Density Map supplies accurate information to users and provides an intuitive visualization for decision making. An interview with domain experts demonstrates the feasibility, usability, and effectiveness of our method.
+
+**Source:** https://www.semanticscholar.org/paper/e81bedfa18f6bb659406db8af615d28a0fda03cc
+
+---
+Category: mathematics
+Subcategory: ai-curated
+Collected: 2025-08-01T19:50:43.724Z

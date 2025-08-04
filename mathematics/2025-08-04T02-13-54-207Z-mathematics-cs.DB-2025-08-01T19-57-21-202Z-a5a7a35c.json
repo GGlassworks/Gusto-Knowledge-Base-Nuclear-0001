@@ -1,0 +1,12 @@
+# Extending the View Composition Algebra to Hierarchical Data
+
+**Authors:** Eugene Wu
+
+## Summary
+Comparison is a core task in visual analysis. Although there are numerous guidelines to help users design effective visualizations to aid known comparison tasks, there are few formalisms that define the semantics of comparison operations in a way that can serve as the basis for a grammar of comparison interactions. Recent work proposed a formalism called View Composition Algebra (VCA) that enables ad hoc comparisons between any combination of marks, trends, or charts in a visualization interface. However, VCA limits comparisons to visual representations of data that have an identical schema, or where the schemas form a strict subset relationship (e.g., comparing price per state with price, but not with price per county). In contrast, the majority of real-world data - temporal, geographical, organizational - are hierarchical. To bridge this gap, this paper presents an extension to VCA (called VCAH) that enables ad hoc comparisons between visualizations of hierarchical data. VCAH leverages known hierarchical relationships to enable ad hoc comparison of data at different hierarchical granularities. We illustrate applications to hierarchical and Tableau visualizations.
+
+
+---
+Category: mathematics
+Subcategory: cs.DB
+Collected: 2025-08-01T19:57:21.203Z

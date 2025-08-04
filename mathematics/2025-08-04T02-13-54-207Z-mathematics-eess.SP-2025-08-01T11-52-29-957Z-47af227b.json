@@ -1,0 +1,12 @@
+# Circular Convolution and Product Theorem for Affine Discrete Fractional Fourier Transform
+
+**Authors:** Amir R. Nafchi, Eric Hamke, Cristina Pereyra, Ramiro Jordan
+
+## Summary
+The Fractional Fourier Transform is a ubiquitous signal processing tool in basic and applied sciences. The Fractional Fourier Transform generalizes every property and application of the Fourier Transform. Despite the practical importance of the discrete fractional Fourier transform, its applications in digital communications have been elusive. The convolution property of the discrete Fourier transform plays a vital role in designing multi-carrier modulation systems. Here we report a closed-form affine discrete fractional Fourier transform and we show the circular convolution property for it. The proposed approach is versatile and generalizes the discrete Fourier transform and can find applications in Fourier based signal processing tools.
+
+
+---
+Category: mathematics
+Subcategory: eess.SP
+Collected: 2025-08-01T11:52:29.961Z

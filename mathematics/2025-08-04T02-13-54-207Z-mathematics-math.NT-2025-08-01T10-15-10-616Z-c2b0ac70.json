@@ -1,0 +1,12 @@
+# Rational digit systems over finite fields and Christol's Theorem
+
+**Authors:** Manuel Joseph C. Loquias, Mohamed Mkaouar, Klaus Scheicher, Jörg M. Thuswaldner
+
+## Summary
+Let $P, Q\in \mathbb{F}_q[X]\setminus\{0\}$ be two coprime polynomials over the finite field $\mathbb{F}_q$ with $\operatorname{deg}{P} &gt; \operatorname{deg}{Q}$. We represent each polynomial $w$ over $\mathbb{F}_q$ by \[w=\sum_{i=0}^k\frac{s_i}{Q}{\left(\frac{P}{Q}\right)}^i\] using a rational base $P/Q$ and digits $s_i\in\mathbb{F}_q[X]$ satisfying $\operatorname{deg}{s_i} &lt; \operatorname{deg}{P}$. Digit expansions of this type are also defined for formal Laurent series over $\mathbb{F}_q$. We prove uniqueness and automatic properties of these expansions. Although the $\omega$-language of the possible digit strings is not regular, we are able to characterize the digit expansions of algebraic elements. In particular, we give a version of Christol's Theorem by showing that the digit string of the digit expansion of a formal Laurent series is automatic if and only if the series is algebraic over $\mathbb{F}_q[X]$. Finally, we study relations between digit expansions of formal Laurent series and a finite fields version of Mahler's $3/2$-problem.
+
+
+---
+Category: mathematics
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:10.617Z

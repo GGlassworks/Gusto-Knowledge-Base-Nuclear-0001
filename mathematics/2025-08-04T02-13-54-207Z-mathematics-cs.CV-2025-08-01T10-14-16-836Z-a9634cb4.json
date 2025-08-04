@@ -1,0 +1,12 @@
+# Geometry-Aware Video Quality Assessment for Dynamic Digital Human
+
+**Authors:** Zicheng Zhang, Yingjie Zhou, Wei Sun, Xiongkuo Min, Guangtao Zhai
+
+## Summary
+Dynamic Digital Humans (DDHs) are 3D digital models that are animated using predefined motions and are inevitably bothered by noise/shift during the generation process and compression distortion during the transmission process, which needs to be perceptually evaluated. Usually, DDHs are displayed as 2D rendered animation videos and it is natural to adapt video quality assessment (VQA) methods to DDH quality assessment (DDH-QA) tasks. However, the VQA methods are highly dependent on viewpoints and less sensitive to geometry-based distortions. Therefore, in this paper, we propose a novel no-reference (NR) geometry-aware video quality assessment method for DDH-QA challenge. Geometry characteristics are described by the statistical parameters estimated from the DDHs' geometry attribute distributions. Spatial and temporal features are acquired from the rendered videos. Finally, all kinds of features are integrated and regressed into quality values. Experimental results show that the proposed method achieves state-of-the-art performance on the DDH-QA database.
+
+
+---
+Category: mathematics
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:16.836Z

@@ -1,0 +1,12 @@
+# Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations -- A Proof-of-Concept in the Alzette Catchment
+
+**Authors:** Thanh Huy Nguyen, Sukriti Bhattacharya, Jefferson S. Wong, Yoanne Didry, Duc Long Phan, Thomas Tamisier, Patrick Matgen
+
+## Summary
+Floods pose significant risks to human lives, infrastructure, and the environment. Timely and accurate flood forecasting plays a pivotal role in mitigating these risks. This study presents a proof-of-concept for a Digital Twin framework aimed at improving flood forecasting in the Alzette Catchment, Luxembourg. The approach integrates satellite-based Earth observations, specifically Sentinel-1 flood probability maps, into a particle filter-based data assimilation (DA) process to enhance flood predictions. By combining the GloFAS global flood monitoring and GloFAS streamflow forecasts products with DA using a high-resolution LISFLOOD-FP hydrodynamic model, the Digital Twin can provide daily flood forecasts for up to 30 days with reduced prediction uncertainties. Using the 2021 flood event as a case study, we evaluate the performance of the Digital Twin in assimilating EO data to refine hydraulic model simulations and issue accurate forecasts. While some limitations, such as uncertainties in GloFAS discharge forecasts, remain large, the approach successfully improves forecast accuracy compared to open-loop simulations. Future developments will focus on constructing more adaptively the hazard catalog, and reducing inherent uncertainties related to GloFAS streamflow forecasts and Sentinel-1 flood maps, to further enhance predictive capability. The framework demonstrates potential for advancing real-time flood forecasting and strengthening flood resilience.
+
+
+---
+Category: mathematics
+Subcategory: eess.IV
+Collected: 2025-08-01T10:14:18.929Z

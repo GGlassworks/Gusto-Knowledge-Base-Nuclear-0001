@@ -1,0 +1,12 @@
+# KeyNode-Driven Geometry Coding for Real-World Scanned Human Dynamic Mesh Compression
+
+**Authors:** Huong Hoang, Truong Nguyen, Pamela Cosman
+
+## Summary
+The compression of real-world scanned 3D human dynamic meshes is an emerging research area, driven by applications such as telepresence, virtual reality, and 3D digital streaming. Unlike synthesized dynamic meshes with fixed topology, scanned dynamic meshes often not only have varying topology across frames but also scan defects such as holes and outliers, increasing the complexity of prediction and compression. Additionally, human meshes often combine rigid and non-rigid motions, making accurate prediction and encoding significantly more difficult compared to objects that exhibit purely rigid motion. To address these challenges, we propose a compression method designed for real-world scanned human dynamic meshes, leveraging embedded key nodes. The temporal motion of each vertex is formulated as a distance-weighted combination of transformations from neighboring key nodes, requiring the transmission of solely the key nodes' transformations. To enhance the quality of the KeyNode-driven prediction, we introduce an octree-based residual coding scheme and a Dual-direction prediction mode, which uses I-frames from both directions. Extensive experiments demonstrate that our method achieves significant improvements over the state-of-the-art, with an average bitrate savings of 58.43% across the evaluated sequences, particularly excelling at low bitrates.
+
+
+---
+Category: mathematics
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.270Z

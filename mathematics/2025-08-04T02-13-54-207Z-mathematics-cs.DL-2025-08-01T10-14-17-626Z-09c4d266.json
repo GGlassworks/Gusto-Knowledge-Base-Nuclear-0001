@@ -1,0 +1,12 @@
+# Web Maps and Their Algebra
+
+**Authors:** Valeria Fionda, Claudio Gutierrez, Giuseppe Pirró
+
+## Summary
+A map is an abstract visual representation of a region, taken from a given space, usually designed for final human consumption. Traditional cartography focuses on the mapping of Euclidean spaces by using some distance metric. In this paper we aim at mapping the Web space by leveraging its relational nature. We introduce a general mathematical framework for maps and an algebra and discuss the feasibility of maps suitable for interpretation not only by humans but also by machines.
+
+
+---
+Category: mathematics
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:17.626Z

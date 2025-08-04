@@ -1,0 +1,12 @@
+# Proofs of life: molecular-biology reasoning simulates cell behaviors from first principles
+
+**Authors:** René Vestergaard, Emmanuel Pietriga
+
+## Summary
+We axiomatize the molecular-biology reasoning style, show compliance of the standard reference: Ptashne, A Genetic Switch, and present proof-theory-induced technologies to help infer phenotypes and to predict life cycles from genotypes. The key is to note that `reductionist discipline' entails constructive reasoning: any proof of a compound property can be decomposed to proofs of constituent properties. Proof theory makes explicit the inner structure of the axiomatized reasoning style and allows the permissible dynamics to be presented as a mode of computation that can be executed and analyzed. Constructivity and execution guarantee simulation when working over domain-specific languages. Here, we exhibit phenotype properties for genotype reasons: a molecular-biology argument is an open-system concurrent computation that results in compartment changes and is performed among processes of physiology change as determined from the molecular programming of given DNA. Life cycles are the possible sequentializations of the processes. A main implication of our construction is that formal correctness provides a complementary perspective on science that is as fundamental there as for pure mathematics. The bulk of the presented work has been verified formally correct by computer.
+
+
+---
+Category: mathematics
+Subcategory: q-bio.OT
+Collected: 2025-08-01T16:28:12.165Z

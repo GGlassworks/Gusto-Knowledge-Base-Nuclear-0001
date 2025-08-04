@@ -1,0 +1,12 @@
+# Comparison theorems for invariant measures of random dynamical systems
+
+**Authors:** Tomoki Inoue
+
+## Summary
+We study a random dynamical system such that one transformation is randomly selected from a family of transformations and then applied on each iteration. For such random dynamical systems, we consider estimates of absolutely continuous invariant measures. Since the random dynamical systems are made by complicated compositions of many deterministic maps and probability density functions, it is difficult to estimate the invariant measures. To get rid of this difficulty, we present fundamental comparison theorems which make easier the estimates of invariant measures of random maps. We also demonstrate how to apply the comparison theorems to random maps with indifferent fixed points and/or with unbounded derivatives.
+
+
+---
+Category: mathematics
+Subcategory: math.DS
+Collected: 2025-08-01T12:04:25.719Z

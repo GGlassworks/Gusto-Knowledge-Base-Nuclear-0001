@@ -1,0 +1,12 @@
+# Proof of Correctness and Time Complexity Analysis of a Maximum Distance Transform Algorithm
+
+**Authors:** Mihir Sahasrabudhe, Siddhartha Chandra
+
+## Summary
+The distance transform algorithm is popular in computer vision and machine learning domains. It is used to minimize quadratic functions over a grid of points. Felzenszwalb and Huttenlocher (2004) describe an O(N) algorithm for computing the minimum distance transform for quadratic functions. Their algorithm works by computing the lower envelope of a set of parabolas defined on the domain of the function. In this work, we describe an average time O(N) algorithm for maximizing this function by computing the upper envelope of a set of parabolas. We study the duality of the minimum and maximum distance transforms, give a correctness proof of the algorithm and its runtime, and discuss potential applications.
+
+
+---
+Category: mathematics
+Subcategory: cs.CG
+Collected: 2025-08-01T11:54:17.494Z

@@ -1,0 +1,12 @@
+# Implementation of Endomorphisms of the CAR Algebra
+
+**Authors:** Carsten Binnenhei
+
+## Summary
+The implementation of non-surjective Bogoliubov transformations in Fock states over CAR algebras is investigated. Such a transformation is implementable by a Hilbert space of isometries if and only if the well-known Shale-Stinespring condition is met. In this case, the dimension of the implementing Hilbert space equals the square root of the Watatani index of the associated inclusion of CAR algebras, and both are determined by the Fredholm index of the corresponding one-particle operator. Explicit expressions for the implementing operators are obtained, and the connected components of the semigroup of implementable transformations are described.
+
+
+---
+Category: mathematics
+Subcategory: math-ph
+Collected: 2025-08-01T12:02:36.562Z

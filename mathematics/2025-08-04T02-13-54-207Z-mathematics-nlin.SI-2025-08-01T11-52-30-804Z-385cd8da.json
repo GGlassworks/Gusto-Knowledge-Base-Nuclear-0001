@@ -1,0 +1,12 @@
+# Max-Plus Algebra for Complex Variables and Its Application to Discrete Fourier Transformation
+
+**Authors:** Tetsu Yajima, Keisuke Nakajima, Naruyoshi Asano
+
+## Summary
+A generalization of the max-plus transformation, which is known as a method to derive cellular automata from integrable equations, is proposed for complex numbers. Operation rules for this transformation is also studied for general number of complex variables. As an application, the max-plus transformation is applied to the discrete Fourier transformation. Stretched coordinates are introduced to obtain the max-plus transformation whose imaginary part coinsides with a phase of the discrete Fourier transformation.
+
+
+---
+Category: mathematics
+Subcategory: nlin.SI
+Collected: 2025-08-01T11:52:30.805Z

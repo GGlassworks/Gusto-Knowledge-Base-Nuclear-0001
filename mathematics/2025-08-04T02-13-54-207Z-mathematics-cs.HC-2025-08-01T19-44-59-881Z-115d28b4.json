@@ -1,0 +1,12 @@
+# GraphTrials: Visual Proofs of Graph Properties
+
+**Authors:** Henry Förster, Felix Klesen, Tim Dwyer, Peter Eades, Seok-Hee Hong, Stephen G. Kobourov, Giuseppe Liotta, Kazuo Misue, Fabrizio Montecchiani, Alexander Pastukhov, Falk Schreiber
+
+## Summary
+Graph and network visualization supports exploration, analysis and communication of relational data arising in many domains: from biological and social networks, to transportation and powergrid systems. With the arrival of AI-based question-answering tools, issues of trustworthiness and explainability of generated answers motivate a greater role for visualization. In the context of graphs, we see the need for visualizations that can convince a critical audience that an assertion about the graph under analysis is valid. The requirements for such representations that convey precisely one specific graph property are quite different from standard network visualization criteria which optimize general aesthetics and readability. In this paper, we aim to provide a comprehensive introduction to visual proofs of graph properties and a foundation for further research in the area. We present a framework that defines what it means to visually prove a graph property. In the process, we introduce the notion of a visual certificate, that is, a specialized faithful graph visualization that leverages the viewer's perception, in particular, pre-attentive processing (e.g. via pop-out effects), to verify a given assertion about the represented graph. We also discuss the relationships between visual complexity, cognitive load and complexity theory, and propose a classification based on visual proof complexity. Finally, we provide examples of visual certificates for problems in different visual proof complexity classes.
+
+
+---
+Category: mathematics
+Subcategory: cs.HC
+Collected: 2025-08-01T19:44:59.881Z

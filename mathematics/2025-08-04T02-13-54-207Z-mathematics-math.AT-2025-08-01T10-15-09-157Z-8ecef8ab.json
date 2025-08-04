@@ -1,0 +1,12 @@
+# Homotopy Theory in Digital Topology
+
+**Authors:** Gregory Lupton, John Oprea, Nicholas Scoville
+
+## Summary
+Digital topology is part of the ongoing endeavour to understand and analyze digitized images. With a view to supporting this endeavour, many notions from algebraic topology have been introduced into the setting of digital topology. But some of the most basic notions from homotopy theory remain largely absent from the digital topology literature. We embark on a development of homotopy theory in digital topology, and define such fundamental notions as function spaces, path spaces, and cofibrations in this setting. We establish digital analogues of basic homotopy-theoretic properties such as the homotopy extension property for cofibrations, and the homotopy lifting property for certain evaluation maps that correspond to path fibrations in the topological setting. We indicate that some depth may be achieved by using these homotopy-theoretic notions to give a preliminary treatment of Lusternik-Schnirelmann category in the digital topology setting. This topic provides a connection between digital topology and critical points of functions on manifolds, as well as other topics from topological dynamics.
+
+
+---
+Category: mathematics
+Subcategory: math.AT
+Collected: 2025-08-01T10:15:09.157Z

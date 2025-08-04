@@ -1,0 +1,12 @@
+# Topology Optimization Methods for 3D Structural Problems: A Comparative Study
+
+**Authors:** Daniel Yago, Juan Cante, Oriol Lloberas-Valls, Javier Oliver
+
+## Summary
+The work provides an exhaustive comparison of some representative families of topology optimization methods for 3D structural optimization, such as the Solid Isotropic Material with Penalization (SIMP), the Level-set, the Bidirectional Evolutionary Structural Optimization (BESO), and the Variational Topology Optimization (VARTOP) methods. The main differences and similarities of these approaches are then highlighted from an algorithmic standpoint. The comparison is carried out via the study of a set of numerical benchmark cases using industrial-like fine-discretization meshes (around 1 million finite elements), and Matlab as the common computational platform, to ensure fair comparisons. Then, the results obtained for every benchmark case with the different methods are compared in terms of computational cost, topology quality, achieved minimum value of the objective function, and robustness of the computations (convergence in objective function and topology). Finally, some quantitative and qualitative results are presented, from which, an attempt of qualification of the methods, in terms of their relative performance, is done.
+
+
+---
+Category: mathematics
+Subcategory: cs.CE
+Collected: 2025-08-01T12:53:53.952Z

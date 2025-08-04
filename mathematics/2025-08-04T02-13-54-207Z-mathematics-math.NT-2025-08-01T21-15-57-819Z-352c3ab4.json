@@ -1,0 +1,12 @@
+# Development of sieve of Eratosthenes and sieve of Sundaram's proof
+
+**Authors:** Ahmed Diab
+
+## Summary
+We make two algorithms that generate all prime numbers up to a given limit, they are a development of sieve of Eratosthenes algorithm, we use two formulas to achieve this development, where all the multiples of prime number 2 are eliminated in the first formula, and all the multiples of prime numbers 2 and 3 are eliminated in the second formula. Using the first algorithm we proof sieve of Sundaram's algorithm, then we improve it to be more efficient prime generating algorithm. We will show the difference in performance between all the algorithms we will make and sieve of Eratosthenes algorithm in terms of run time.
+
+
+---
+Category: mathematics
+Subcategory: math.NT
+Collected: 2025-08-01T21:15:57.820Z

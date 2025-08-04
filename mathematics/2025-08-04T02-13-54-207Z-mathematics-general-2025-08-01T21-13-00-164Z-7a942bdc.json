@@ -1,0 +1,13 @@
+# A Transfer Matrix Norm-Based Framework for Multimaterial Topology Optimization: Methodology and MATLAB Implementation
+
+**Authors:** Giacomo Galuppini, Paolo Venini
+
+## Abstract
+<jats:p>This paper introduces a novel method for the topology optimization of multi-material structures. The core innovation lies in minimizing an appropriate norm of the transfer matrix that links external loads to system outputs. Several formulations of structural compliance are considered within a framework that accommodates both single and multiple inputs and outputs. The multimaterial interpolation scheme follows the approach proposed by Yi and collaborators, which is adapted to the general topology optimization framework proposed by Venini and collaborators. While the proposed method is inherently capable of addressing the dynamic response of multimaterial structures, this study focuses exclusively on static topology optimization. The extension to dynamic topology optimization is deferred to a fortcoming study, which requires a multimaterial interpolation of inertial properties that is currently in an advanced development stage. Finally, a series of numerical case studies illustrate the key features of the proposed approach.</jats:p>
+
+**Source:** https://doi.org/10.3390/a18050282
+
+---
+Category: mathematics
+Subcategory: general
+Collected: 2025-08-01T21:13:00.168Z

@@ -1,0 +1,12 @@
+# Understanding and adjusting the selection bias from a proof-of-concept study to a more confirmatory study
+
+**Authors:** Yongming Qu, Yu Du, Ying Zhang, Lei Shen
+
+## Summary
+It has long been noticed that the efficacy observed in small early phase studies is generally better than that observed in later larger studies. Historically, the inflation of the efficacy results from early proof-of-concept studies is either ignored, or adjusted empirically using a frequentist or Bayesian approach. In this article, we systematically explained the underlying reason for the inflation of efficacy results in small early phase studies from the perspectives of measurement error models and selection bias. A systematic method was built to adjust the early phase study results from both frequentist and Bayesian perspectives. A hierarchical model was proposed to estimate the distribution of the efficacy for a portfolio of compounds, which can serve as the prior distribution for the Bayesian approach. We showed through theory that the systematic adjustment provides an unbiased estimator for the true mean efficacy for a portfolio of compounds. The adjustment was applied to paired data for the efficacy in early small and later larger studies for a set of compounds in diabetes and immunology. After the adjustment, the bias in the early phase small studies seems to be diminished.
+
+
+---
+Category: mathematics
+Subcategory: stat.ME
+Collected: 2025-08-01T17:17:49.508Z
