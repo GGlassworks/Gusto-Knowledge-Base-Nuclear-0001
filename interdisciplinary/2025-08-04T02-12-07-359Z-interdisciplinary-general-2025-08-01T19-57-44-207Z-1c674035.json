@@ -1,0 +1,13 @@
+# High-dimensional data analysis with subspace comparison using matrix visualization
+
+**Authors:** Junpeng Wang, Xiaotong Liu, Han-Wei Shen
+
+## Abstract
+<jats:p> Due to the intricate relationship between different dimensions of high-dimensional data, subspace analysis is often conducted to decompose dimensions and give prominence to certain subsets of dimensions, i.e. subspaces. Exploring and comparing subspaces are important to reveal the underlying features of subspaces, as well as to portray the characteristics of individual dimensions. To date, most of the existing high-dimensional data exploration and analysis approaches rely on dimensionality reduction algorithms (e.g. principal component analysis and multi-dimensional scaling) to project high-dimensional data, or their subspaces, to two-dimensional space and employ scatterplots for visualization. However, the dimensionality reduction algorithms are sometimes difficult to fine-tune and scatterplots are not effective for comparative visualization, making subspace comparison hard to perform. In this article, we aggregate high-dimensional data or their subspaces by computing pair-wise distances between all data items and showing the distances with matrix visualizations to present the original high-dimensional data or subspaces. Our approach enables effective visual comparisons among subspaces, which allows users to further investigate the characteristics of individual dimensions by studying their behaviors in similar subspaces. Through subspace comparisons, we identify dominant, similar, and conforming dimensions in different subspace contexts of synthetic and real-world high-dimensional data sets. Additionally, we present a prototype that integrates parallel coordinates plot and matrix visualization for high-dimensional data exploration and incremental dimensionality analysis, which also allows users to further validate the dimension characterization results derived from the subspace comparisons. </jats:p>
+
+**Source:** https://doi.org/10.1177/1473871617733996
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:57:44.207Z

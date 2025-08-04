@@ -1,0 +1,13 @@
+# Implementation of CRNN Method for Lung Cancer Detection based on Microarray Data
+
+**Authors:** Azka Khoirunnisa, - Adiwijaya, Didit Adytia
+
+## Abstract
+<jats:p>Lung Cancer is one of the cancer types with the most significant mortality rate, mainly because of the disease's slow detection. Therefore, the early identification of this disease is crucial. However, the primary issue of microarray is the curse of dimensionality. This problem is related to the characteristic of microarray data, which has a small sample size yet many attributes. Moreover, this problem could lower the accuracy of cancer detection systems. Various machines and deep learning techniques have been researched to solve this problem. This paper implemented a deep learning method named Convolutional Recurrent Neural Network (CRNN) to build the Lung Cancer detection system. Convolutional neural networks (CNN) are used to extract features, and recurrent neural networks (RNN) are used to summarize the derived features. CNN and RNN methods are combined in CRNN to derive the advantages of each of the methods. Several previous research uses CRNN to build a Lung Cancer detection system using medical image biomarkers (MRI or CT scan). Thus, the researchers concluded that CRNN achieved higher accuracy than CNN and RNN independently. Moreover, CRNN was implemented in this research by using a microarray-based Lung Cancer dataset. Furthermore, different drop-out values are compared to determine the best drop-out value for the system. Thus, the result shows that CRNN gave a higher accuracy than CNN and RNN. The CRNN method achieved the highest accuracy of 91%, while the CNN and RNN methods achieved 83% and 71% accuracy, respectively.</jats:p>
+
+**Source:** https://doi.org/10.30630/joiv.7.2.1339
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:55:38.443Z

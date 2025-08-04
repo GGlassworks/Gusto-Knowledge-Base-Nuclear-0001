@@ -1,0 +1,13 @@
+# Comparison of Data Visualization, Outlier Detection and Data Dimensionality Reduction Methods
+
+**Authors:** Xingyu Zhao
+
+## Abstract
+<jats:p>With the deepening of the digital age of information, people's daily data is getting larger and larger, and it is more and more difficult to quantify and process. At this time, the data processing means becomes particularly important. This paper compares and analyzes some methods from data visualization to data dimensionality reduction to outlier detection. In this paper, two different types of datasets, ModelNet40, and red wine quality, are used to introduce the visualization method of the Farthest Point Sampling (FPS). This method can have a clear visual effect on the data dimension and scale, and allow users to observe the structure, type, and scale of the data. In data dimensionality reduction, the study uses Principal Component Analysis (PCA), T-Distributed Stochastic Neighbor Embedding (t-SNE), Triplets Manifold Approximation and Projection (TriMAP), Uniform Manifold Approximation and Projection (UMAP), Pairwise Controlled Manifold Approximation Projection (PaCMAP), and Autoencoder to compare their dimensionality reduction effects. Through these methods, this paper finds that different methods have different effects on different datasets. Therefore, in data dimensionality reduction, it can get twice the result with half the effort by choosing the appropriate method. Finally, this paper also detects outliers. Outliers in datasets will make it difficult for people to process data and make subsequent results inaccurate, so it is necessary to identify outliers. This paper involves methods such as isolation forest and Density-Based Spatial Clustering of Applications with Noise (DBSCAN). Through this paper, the methods of different datasets are analyzed and summarized.</jats:p>
+
+**Source:** https://doi.org/10.54097/wgchmc87
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:57:45.376Z

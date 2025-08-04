@@ -1,0 +1,13 @@
+# Implementation of Big Data Information System Using Open-Source Metabase for Civil Registration and Vital Statistics Data Visualization in Surabaya
+
+**Authors:** Rizqi Putri Nourma Budiarti, Sritrusta Sukaridhoto, Ubaidillah Zuhdi, Alfandino Rasyid, Agus Imam Sonhaji
+
+## Abstract
+<jats:p>Civil registration involves the mandatory and continuous documentation of important life events of a country's population under local legal requirements. In many countries, these documents are required to access government services such as education, healthcare, social services, formal employment, insurance benefits, and inheritance rights. Indonesia should prioritize building a comprehensive Civil Registration and Vital Statistics (CRVS) using a big data information system to ensure every individual has a legal identity, can access government services, and collect accurate and reliable statistics on vital events through geospatial maps. Surabaya, a city in Indonesia, still needs a comprehensive Civil Registration and Vital Statistics (CRVS) system. We produce many informative visualizations from the query and modeling processes in Metabase. Based on the PIECES framework, this application's importance level is 4.56 or 91.25%, meaning the application is important, and the satisfaction level is 4.29 or 85.76%, meaning the application is satisfied for the respondents. This research provides a brief overview of how Metabase works and how it can be used to generate visualizations of job-type data. It demonstrates the ease with which visualizations can be changed and customized. It had a good affordability point, making its implementation easier and more beneficial. It also emphasizes the importance of having a powerful tool like Metabase for data analysis and decision-making, especially for the dispendukcapil as a civil registration agency.</jats:p>
+
+**Source:** https://doi.org/10.62527/joiv.7.4.1722
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:55:37.250Z

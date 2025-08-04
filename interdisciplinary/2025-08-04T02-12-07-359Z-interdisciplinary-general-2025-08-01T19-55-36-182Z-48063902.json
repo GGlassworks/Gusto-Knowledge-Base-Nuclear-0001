@@ -1,0 +1,13 @@
+# LLSDA: Design and implementation of lightning location data analysis, and visualization
+
+**Authors:** Rong Fan, JingXiao Li, MingYuan Liu
+
+## Abstract
+<jats:p>&lt;p&gt;Visualization of lightning location data is a necessary step in analyzing and researching lightning activity patterns. This article uses C# and the cross-platform .NET framework to develop a lightning location data analysis class library and the data-driven client to help lightning researchers improve work efficiency and avoid repeated wheel invention. Lightning Location System Data Analyzer (LLSDA) is a suite of software tools that includes a .NET class library for software developers and a desktop application for end users. LLSDA supports a wide range of lightning location data formats, such as the University of Washington (University of Washington) Global Lightning Location System (WWLLN) and Beijing Huayun Dongfang ADTD Lightning Location System data format, and maintains scalability, allowing the addition of other lightning location data Format. The class library can easily read, parse, and analyze lightning location data, and combined with third-party frameworks can realize grid analysis. The desktop application can be combined with MeteoInfo (a geographic information system open-source project) for secondary development. It has a good GUI and is an open-source tool suite for viewing and visualizing lightning location system datasets.  &lt;/p&gt;</jats:p>
+
+**Source:** https://doi.org/10.36227/techrxiv.23615019.v1
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:55:36.183Z

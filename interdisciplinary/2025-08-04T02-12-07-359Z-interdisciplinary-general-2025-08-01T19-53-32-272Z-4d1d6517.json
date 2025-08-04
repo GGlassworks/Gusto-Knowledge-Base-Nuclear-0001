@@ -1,0 +1,13 @@
+# Plotting graphs and data visualization
+
+**Authors:** Daniel H. Baker
+
+## Abstract
+<p>This chapter highlights the importance of displaying data in a clear and interpretable way for the purpose of scientific communication. It tackles some principles of data visualization that involve different conditions, axes, variability, and data. The <italic>ggplot2</italic> package is recognized as the most popular plotting package in <italic>R</italic>, which is part of the <italic>tidyverse</italic> suite of packages created by the makers of <italic>RStudio</italic>. The <italic>ggplot2</italic> functions use a plotting grammar, whereby a plot is constructed by adding layers of components. The chapter then discusses how to export graphs, and also how to combine several graphs into a multipart figure within <italic>R</italic> and without the need for additional software. It explains the considerations of atypical colour vision and uniformity when choosing a colour palette for plotting.</p>
+
+**Source:** https://doi.org/10.1093/hesc/9780192896599.003.0018
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:53:32.272Z

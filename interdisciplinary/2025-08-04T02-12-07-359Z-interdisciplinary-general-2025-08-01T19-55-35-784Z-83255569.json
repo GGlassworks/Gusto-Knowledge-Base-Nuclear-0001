@@ -1,0 +1,13 @@
+# JavaScript Implementation of Scagnostics and Its Applications
+
+**Authors:** Vung Pham, Tommy Dang
+
+## Abstract
+<jats:p>Scagnostics is a set of features that characterizes the 2D distributions in the underlying data. Various real-world applications have been using Scagnostics visual features to detect unusual bivariate data correlations. Concomitantly, many applications are required to be implemented on web platforms due to their accessibility and convenience. Therefore, this chapter discusses a recent JavaScript implementation of Scagnostics, an extension to higher dimensional data, and its applications in detecting abnormalities in bivariate and multivariate time series data. Its implementation in JavaScript supports the tremendous demand for visual features in the web environment. Likewise, its higher dimensional implementations allow generating Scagnostics features for the rapidly growing multivariate data. Finally, conventional ScagnosticsJS computations involve time-consuming algorithms, and they are sensitive to slight changes in the underlying data. Therefore, this chapter also discusses a recent attempt to tackle these issues using machine learning to estimate the Scagnostics scores.</jats:p>
+
+**Source:** https://doi.org/10.5772/intechopen.97490
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:55:35.784Z

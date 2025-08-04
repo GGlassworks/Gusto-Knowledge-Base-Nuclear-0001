@@ -1,0 +1,13 @@
+# Comparison of Visualization Methods for an Atlas of Gene Expression Data Sets
+
+**Authors:** Jarkko Venna, Samuel Kaski
+
+## Abstract
+<jats:p> This paper has two intertwined goals: (i) to study the feasibility of an atlas of gene expression data sets as a visual interface to expression databanks, and (ii) to study which dimensionality reduction methods would be suitable for visualizing very high-dimensional data sets. Several new methods have been recently proposed for the estimation of data manifolds or embeddings, but they have so far not been compared in the task of visualization. In visualizations the dimensionality is constrained, in addition to the data itself, by the presentation medium. It turns out that an older method, curvilinear component analysis, outperforms the new ones in terms of trustworthiness of the projections. In a sample databank on gene expression, the main sources of variation were the differences between data sets, different labs, and different measurement methods. This hints at a need for better methods for making the data sets commensurable, in accordance with earlier studies. The good news is that the visualized overview, expression atlas, reveals many of these subsets. Hence, we conclude that dimensionality reduction even from 1339 to 2 can produce a useful interface to gene expression databanks. </jats:p>
+
+**Source:** https://doi.org/10.1057/palgrave.ivs.9500153
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:57:44.369Z

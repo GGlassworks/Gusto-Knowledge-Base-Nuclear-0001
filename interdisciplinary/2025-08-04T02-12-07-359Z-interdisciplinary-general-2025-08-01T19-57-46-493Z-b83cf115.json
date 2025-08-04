@@ -1,0 +1,13 @@
+# Data Dimension Reduction and Visualization with Application to Multi-Dimensional Gearbox Diagnostics Data: Comparison of Several Methods
+
+**Authors:** Anna Bartkowiak, Radoslaw Zimroz
+
+## Abstract
+<jats:p>In recent years we face the growing interest in building automated diagnosis systems detecting ‘normal’ or ‘abnormal’ functioning of a system. But little is known about the distribution and shape of the data describing 'normal' functioning. The shape of the data is of paramount importance in determining the mathematical model of the data serving for the diagnosis. We got real industrial data by gathering vibration signals of a gearbox working in a mine excavator operating in time-varying conditions. The main considered problems are: what is the shape of the recorded 15-dimensional data and what kind of outliers may be found there? We have used for this purpose pseudo grand tour, PCA and simple auto-associative neural network. The methods used proved to be very effective in answering our questions.</jats:p>
+
+**Source:** https://doi.org/10.4028/www.scientific.net/ssp.180.177
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:57:46.493Z
