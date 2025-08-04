@@ -1,0 +1,13 @@
+# Comparison of visualization tools for single-cell RNAseq data
+
+**Authors:** Batuhan Cakir, M. Prete, N. Huang, Stijn van Dongen, Pınar Pir, V. Kiselev
+
+## Abstract
+Abstract In the last decade, single cell RNAseq (scRNAseq) datasets have grown in size from a single cell to millions of cells. Due to its high dimensionality, it is not always feasible to visualize scRNAseq data and share it in a scientific report or an article publication format. Recently, many interactive analysis and visualization tools have been developed to address this issue and facilitate knowledge transfer in the scientific community. In this study, we review several of the currently available scRNAseq visualization tools and benchmark the subset that allows to visualize the data on the web and share it with others. We consider the memory and time required to prepare datasets for sharing as the number of cells increases, and additionally review the user experience and features available in the web interface. To address the problem of format compatibility we have also developed a user-friendly R package, sceasy, which allows users to convert their own scRNAseq datasets into a specific data format for visualization.
+
+**Source:** https://www.semanticscholar.org/paper/c12080aa9aa558d8e8c3a1a589b62984de2e1bd7
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:58:07.062Z

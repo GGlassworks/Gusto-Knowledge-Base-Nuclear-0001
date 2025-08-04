@@ -1,0 +1,13 @@
+# Efficient simulation and integrated likelihood estimation in state space models
+
+**Authors:** Joshua C. C. Chan, Ivan Jeliazkov
+
+## Abstract
+We consider the problem of implementing simple and efficient Markov chain Monte Carlo (MCMC) estimation algorithms for state space models. A conceptually transparent derivation of the posterior distribution of the states is discussed, which also leads to an efficient simulation algorithm that is modular, scalable and widely applicable. We also discuss a simple approach for evaluating the integrated likelihood, defined as the density of the data given the parameters but marginal of the state vector. We show that this high-dimensional integral can be easily evaluated with minimal computational and conceptual difficulty. Two empirical applications in macroeconomics demonstrate that the methods are versatile and computationally undemanding. In one application, involving a time-varying parameter model, we show that the methods allow for efficient handling of large state vectors. In our second application, involving a dynamic factor model, we introduce a new blocking strategy which results in improved MCMC mixing at little cost. The results demonstrate that the framework is simple, flexible and efficient.
+
+**Source:** https://www.semanticscholar.org/paper/1ce31f5c0167779822199345169163d0dc1853e5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:36.374Z

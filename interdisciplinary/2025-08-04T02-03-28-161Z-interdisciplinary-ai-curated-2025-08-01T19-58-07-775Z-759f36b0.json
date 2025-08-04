@@ -1,0 +1,18 @@
+# ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualization
+
+**Authors:** Guangchuang Yu, Li-Gen Wang, Qing‐Yu He
+
+## Abstract
+UNLABELLED
+ChIPseeker is an R package for annotating ChIP-seq data analysis. It supports annotating ChIP peaks and provides functions to visualize ChIP peaks coverage over chromosomes and profiles of peaks binding to TSS regions. Comparison of ChIP peak profiles and annotation are also supported. Moreover, it supports evaluating significant overlap among ChIP-seq datasets. Currently, ChIPseeker contains 15 000 bed file information from GEO database. These datasets can be downloaded and compare with user's own data to explore significant overlap datasets for inferring co-regulation or transcription factor complex for further investigation.
+
+
+AVAILABILITY AND IMPLEMENTATION
+ChIPseeker is released under Artistic-2.0 License. The source code and documents are freely available through Bioconductor (http://www.bioconductor.org/packages/release/bioc/html/ChIPseeker.html).
+
+**Source:** https://www.semanticscholar.org/paper/a0981aa771c866347e6af83a817651e206b7c89a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:58:07.775Z

@@ -1,0 +1,13 @@
+# Bayesian State Space Models in Macroeconometrics
+
+**Authors:** J. Chan, Rodney W. Strachan
+
+## Abstract
+State space models play an important role in macroeconometric analysis and the Bayesian approach has been shown to have many advantages. This paper outlines recent developments in state space modelling applied to macroeconomics using Bayesian methods. We outline the directions of recent research, specifically the problems being addressed and the solutions proposed. After presenting a general form for the linear Gaussian model, we discuss the interpretations and virtues of alternative estimation routines and their outputs. This discussion includes the Kalman filter and smoother, and precision based algorithms. As the advantages of using large models have become better understood, a focus has developed on dimension reduction and computational advances to cope with high-dimensional parameter spaces. We give an overview of a number of recent advances in these directions. <br>Many models suggested by economic theory are either non-linear or non-Gaussian, or both. We discuss work on the particle filtering approach to such models as well as other techniques that use various approximations - to either the time t state and measurement equations or to the full posterior for the states - to obtain draws.
+
+**Source:** https://www.semanticscholar.org/paper/15a95754eeee5f54fcee9156525c03fb9a78eabc
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:37.295Z

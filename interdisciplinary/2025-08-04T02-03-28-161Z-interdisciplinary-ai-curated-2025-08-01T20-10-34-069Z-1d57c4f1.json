@@ -1,0 +1,13 @@
+# Recursive blocked algorithms for linear systems with Kronecker product structure
+
+**Authors:** Minhong Chen, D. Kressner
+
+## Abstract
+Recursive blocked algorithms have proven to be highly efficient at the numerical solution of the Sylvester matrix equation and its generalizations. In this work, we show that these algorithms extend in a seamless fashion to higher-dimensional variants of generalized Sylvester matrix equations, as they arise from the discretization of PDEs with separable coefficients or the approximation of certain models in macroeconomics. By combining recursions with a mechanism for merging dimensions, an efficient algorithm is derived that outperforms existing approaches based on Sylvester solvers.
+
+**Source:** https://www.semanticscholar.org/paper/c0e77fe5018adbb38769e00fb9b39182dac221c6
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:34.070Z

@@ -1,0 +1,16 @@
+# A Data Warehouse Architecture Proposal and ETL Analysis, Case study of an Albanian Banking System
+
+**Authors:** De Millo, Nevila Baci, Shpresim Tahiraj
+
+## Abstract
+The increasing phenomenon of information overload is a direct result of the ongoing trend to reduce the cost of data distribution while the development of data processing platforms is not fast enough. Therefore, sending packets of data is not a big issue, but processing an increasing amount of data is a big challenge. 
+Data Warehouse is a concept born in the late ‘80s and has been improved decade after decade with the growth of technology. Despite many application areas, the data warehouse concept is still new and unknown to Albanian businesses and companies with a large amount of data to store and analyze. 
+This paper aims to provide an in-depth analysis of the concept of a data warehouse, the different architectures applied, and the Extract, Transform Load (ETL) process. The ETL process as a concept consists of extracting the data from a source, transforming them into different formats or dimensions, and then loading them somewhere to be checked for analysis or other purposes. 
+In this paper, we can find different definitions of the data warehouse, where it can be implemented, the different architectures according to the need of the users, and how the ETL process works. The last chapter implements a data warehouse for the banking system seen from a Management Information Systems perspective followed by an application of a step-by-step ETL procedure.
+
+**Source:** https://www.semanticscholar.org/paper/14c2a1a59e1e0df79c81781138846394c63c1aff
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:00:15.841Z

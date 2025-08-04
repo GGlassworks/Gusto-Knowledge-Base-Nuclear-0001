@@ -1,0 +1,13 @@
+# Scalar Field Comparison with Topological Descriptors: Properties and Applications for Scientific Visualization
+
+**Authors:** Lin Yan, Talha Bin Masood, Raghavendra Sridharamurthy, F. Rasheed, V. Natarajan, I. Hotz, Bei Wang
+
+## Abstract
+In topological data analysis and visualization, topological descriptors such as persistence diagrams, merge trees, contour trees, Reeb graphs, and Morse–Smale complexes play an essential role in capturing the shape of scalar field data. We present a state‐of‐the‐art report on scalar field comparison using topological descriptors. We provide a taxonomy of existing approaches based on visualization tasks associated with three categories of data: single fields, time‐varying fields, and ensembles. These tasks include symmetry detection, periodicity detection, key event/feature detection, feature tracking, clustering, and structure statistics. Our main contributions include the formulation of a set of desirable mathematical and computational properties of comparative measures, and the classification of visualization tasks and applications that are enabled by these measures.
+
+**Source:** https://www.semanticscholar.org/paper/71579298890938f88bb54a3a6d0d22355e9052f9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:58:08.122Z

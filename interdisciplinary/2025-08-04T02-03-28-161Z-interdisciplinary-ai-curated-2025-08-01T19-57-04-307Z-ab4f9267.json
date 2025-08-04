@@ -1,0 +1,13 @@
+# Visualization Generation with Large Language Models: An Evaluation
+
+**Authors:** Guozheng Li, Xinyu Wang, Gerile Aodeng, Shunyuan Zheng, Yu Zhang, Chuangxin Ou, Song Wang, Chi Harold Liu
+
+## Abstract
+Analysts frequently need to create visualizations in the data analysis process to obtain and communicate insights. To reduce the burden of creating visualizations, previous research has developed various approaches for analysts to create visualizations from natural language queries. Recent studies have demonstrated the capabilities of large language models in natural language understanding and code generation tasks. The capabilities imply the potential of using large language models to generate visualization specifications from natural language queries. In this paper, we evaluate the capability of a large language model to generate visualization specifications on the task of natural language to visualization (NL2VIS). More specifically, we have opted for GPT-3.5 and Vega-Lite to represent large language models and visualization specifications, respectively. The evaluation is conducted on the nvBench dataset. In the evaluation, we utilize both zero-shot and few-shot prompt strategies. The results demonstrate that GPT-3.5 surpasses previous NL2VIS approaches. Additionally, the performance of few-shot prompts is higher than that of zero-shot prompts. We discuss the limitations of GPT-3.5 on NL2VIS, such as misunderstanding the data attributes and grammar errors in generated specifications. We also summarized several directions, such as correcting the ground truth and reducing the ambiguities in natural language queries, to improve the NL2VIS benchmark.
+
+**Source:** https://www.semanticscholar.org/paper/800bb1ad43778ed7682e21ffbf9b2d12ffdd08c9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:57:04.307Z

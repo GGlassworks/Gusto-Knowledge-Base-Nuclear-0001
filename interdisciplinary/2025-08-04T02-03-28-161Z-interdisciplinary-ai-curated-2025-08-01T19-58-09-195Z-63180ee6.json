@@ -1,0 +1,13 @@
+# Peptigram: A Web-Based Application for Peptidomics Data Visualization.
+
+**Authors:** Jean Manguy, Peter Jehl, E. Dillon, Norman E. Davey, D. Shields, T. A. Holton
+
+## Abstract
+Tandem mass spectrometry (MS/MS) techniques, developed for protein identification, are increasingly being applied in the field of peptidomics. Using this approach, the set of protein fragments observed in a sample of interest can be determined to gain insights into important biological processes such as signaling and other bioactivities. As the peptidomics era progresses, there is a need for robust and convenient methods to inspect and analyze MS/MS derived data. Here, we present Peptigram, a novel tool dedicated to the visualization and comparison of peptides detected by MS/MS. The principal advantage of Peptigram is that it provides visualizations at both the protein and peptide level, allowing users to simultaneously visualize the peptide distributions of one or more samples of interest, mapped to their parent proteins. In this way rapid comparisons between samples can be made in terms of their peptide coverage and abundance. Moreover, Peptigram integrates and displays key sequence features from external databases and links with peptide analysis tools to offer the user a comprehensive peptide discovery resource. Here, we illustrate the use of Peptigram on a data set of milk hydrolysates. For convenience, Peptigram is implemented as a web application, and is freely available for academic use at http://bioware.ucd.ie/peptigram .
+
+**Source:** https://www.semanticscholar.org/paper/385710c4857a2ffee79f49edc146a7c63662f0c5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:58:09.196Z

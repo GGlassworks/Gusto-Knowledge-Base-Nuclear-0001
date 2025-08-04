@@ -1,0 +1,13 @@
+# AN ETL PATTERN FOR LOG CONFIGURATION AND ANALYSIS
+
+**Authors:** Bruno Oliveira, Óscar Oliveira, Telmo Matos, Vasco Santos, O. Belo
+
+## Abstract
+In many scenarios, such as the ones related to Data Warehousing Extract-Transform-Load (ETL) processes, logging techniques are usually applied for capturing event metrics across system levels for system auditing and system recovery. The diversity of strategies and architectures of the toolset used to support the ETL implementation introduces another layer of complexity, both for system development and audit. Although a valuable system diagnosis resource for the development team, logging is generally underestimated, being used only when the system reveals unexpected behaviours and not to drive the ETL system evolution. We believe that the use of logs for steering ETL development and maintenance can improve significantly global system quality. However, this approach is only effective if flexible and efficient logging systems exist. In this paper, we describe a Log Pattern used in a pattern-oriented approach for ETL systems development, which provides a configurable and flexible component for using to drive ETL development and maintenance phases.
+
+**Source:** https://www.semanticscholar.org/paper/2a43c542b0cb4ccb4c57ec94c13ad49955450481
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:00:16.722Z

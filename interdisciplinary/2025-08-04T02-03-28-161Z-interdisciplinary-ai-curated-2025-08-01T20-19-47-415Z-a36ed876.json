@@ -1,0 +1,14 @@
+# Forecasting under Long Memory
+
+**Authors:** U. Hassler, Marc-Oliver Pohle
+
+## Abstract
+
+ Motivated by the mixed evidence in the literature on forecasting long memory processes, we show that methods based on fractional integration are superior to alternatives not accounting for long memory by simulations and applications to classical long memory time series from macroeconomics and finance. Furthermore, we analyze the optimal implementation of these methods, among others comparing parametric and local and global semiparametric estimators of the long memory parameter, providing asymptotic theory on different mean estimators and assessing the use of a fixed long memory parameter to overcome the inherent difficulties of its estimation.
+
+**Source:** https://www.semanticscholar.org/paper/2c49783640faf62476000c4d8d2703df86ed390b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:19:47.415Z

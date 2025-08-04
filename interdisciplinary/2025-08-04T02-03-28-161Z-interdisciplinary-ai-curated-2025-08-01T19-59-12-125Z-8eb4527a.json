@@ -1,0 +1,26 @@
+# An ETL-process design for data harmonization to participate in international research with German real-world data based on FHIR and OMOP CDM
+
+**Authors:** Yuan Peng, Elisa Henke, Ines Reinecke, Michéle Zoch, M. Sedlmayr, Franziska Bathelt
+
+## Abstract
+BACKGROUND
+International studies are increasingly needed in order to gain more unbiased evidence from real-world data. To achieve this goal across the European Union, the EMA set up the DARWIN EU project based on OMOP CDM established by the OHDSI community. The harmonization of heterogeneous local health data in OMOP CDM is an essential step to participate in such networks. Using the widespread communication standard HL7 FHIR can reduce the complexity of the transformation process to OMOP CDM. Enabling German university hospitals to participate in such networks requires an Extract, Transform and Load (ETL)-process that satisfies the following criteria: 1) transforming German patient data from FHIR to OMOP CDM, 2) processing huge amount of data at once and 3) flexibility to cope with changes in FHIR profiles.
+
+
+METHOD
+A mapping of German patient data from FHIR to OMOP CDM was accomplished, validated by an interdisciplinary team and checked through the OHDSI Data Quality Dashboard (DQD). To satisfy criteria 2-3, we decided to use SpringBatch-Framework according to its chunk-oriented design and reusable functions for processing large amounts of data.
+
+
+RESULTS
+We have successfully developed an ETL-process that fulfills the defined criteria of transforming German patient data from FHIR into OMOP CDM. To measure the validity of the mapping conformance and performance of the ETL-process, it was tested with 392,022 FHIR resources. The ETL execution lasted approximately-one minute and the DQD result shows 99% conformance in OMOP CDM.
+
+
+CONCLUSIONS
+Our ETL-process has been successfully tested and integrated at 10 German university hospitals. The data harmonization utilizing international recognized standards like FHIR and OMOP fosters their ability to participate in international observational studies. Additionally, the ETL process can help to prepare more German hospitals with their data harmonization journey based on existing standards.
+
+**Source:** https://www.semanticscholar.org/paper/72f746c2094ec825d0fcd743cf8838a9c15545e3
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:59:12.126Z

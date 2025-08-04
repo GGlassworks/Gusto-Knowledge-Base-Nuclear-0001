@@ -1,0 +1,13 @@
+# Spatial ETL for 3D Building Modelling Based on Unmanned Aerial Vehicle Data in Semi-Urban Areas
+
+**Authors:** U. Drescek, M. Fras, J. Tekavec, A. Lisec
+
+## Abstract
+This paper provides the innovative approach of using a spatial extract, transform, load (ETL) solution for 3D building modelling, based on an unmanned aerial vehicle (UAV) photogrammetric point cloud. The main objective of the paper is to present the holistic workflow for 3D building modelling, emphasising the benefits of using spatial ETL solutions for this purpose. Namely, despite the increasing demands for 3D city models and their geospatial applications, the generation of 3D city models is still challenging in the geospatial domain. Advanced geospatial technologies provide various possibilities for the mass acquisition of geospatial data that is further used for 3D city modelling, but there is a huge difference in the cost and quality of input data. While aerial photogrammetry and airborne laser scanning involve high costs, UAV photogrammetry has brought new opportunities, including for small and medium-sized companies, by providing a more flexible and low-cost source of spatial data for 3D modelling. In our data-driven approach, we use a spatial ETL solution to reconstruct a 3D building model from a dense image matching point cloud which was obtained beforehand from UAV imagery. The results are 3D building models in a semantic vector format consistent with the OGC CityGML standard, Level of Detail 2 (LOD2). The approach has been tested on selected buildings in a simple semi-urban area. We conclude that spatial ETL solutions can be efficiently used for 3D building modelling from UAV data, where the data process model developed allows the developer to easily control and manipulate each processing step.
+
+**Source:** https://www.semanticscholar.org/paper/5462b55deaa88a83a1801808c11af3c33b9696f3
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:59:13.549Z

@@ -1,0 +1,13 @@
+# Scalarization via utility functions in multi-objective optimization
+
+**Authors:** Lorenzo Lampariello, Simone Sagratella, Valerio Giuseppe Sasso, Vladimir Shikhman
+
+## Abstract
+We study a general scalarization approach via utility functions in multi-objective optimization. It consists of maximizing utility which is obtained from the objectives' bargaining with regard to a disagreement reference point. The theoretical framework for a broad class of utility functions from microeconomics is developed. For that, we associate a utility-dependent single-objective optimization problem with the given multi-objective optimization problem. We show that Pareto optimal points of the latter can be recovered by solving the former. In particular, Cobb-Douglas, Leontief, and CES utility functions are considered. We prove that any Pareto optimal point can be obtained as a solution of scalarization via one of the mentioned utility functions. Further, we propose a numerical scheme to solve utility-dependent single-objective optimization problems. Here, the main difficulty comes from the necessity to address constraints which are associated with a disagreement reference point. Our crucial observation is that the explicit treatment of these additional constraints may be avoided. This is the case if the Slater condition is satisfied and the utility function under consideration has the so-called barrier property. Under these assumptions, we prove the convergence of our scheme to Pareto optimal points. Numerical experiments on real-world financial datasets in a portfolio selection context confirm the efficiency of our scalarization approach via utility functions.
+
+**Source:** https://www.semanticscholar.org/paper/d297d03d73177da89f1ac92315f9fa0e680828f9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:26:15.123Z

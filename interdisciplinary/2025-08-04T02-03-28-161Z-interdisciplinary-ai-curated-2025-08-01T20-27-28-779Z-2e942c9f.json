@@ -1,0 +1,13 @@
+# Parameterized Voter Relevance in Facility Location Games with Tree-Shaped Invitation Graphs
+
+**Authors:** Ryoto Ando, Kei Kimura, Taiki Todo, Makoto Yokoo
+
+## Abstract
+Diffusion mechanism design, which investigate how to incentivise agents to invite as many colleagues to a multi-agent decision making as possible, is a new research paradigm at the intersection between microeconomics and computer science. In this paper we extend traditional facility location games into the model of diffusion mechanism design. Our objective is to completely understand to what extent of anonymity/voter-relevance we can achieve, along with strategy-proofness and Pareto efficiency when voters strategically invite collegues. We define a series of anonymity properties applicable to the diffusion mechanism design model, as well as parameterized voter-relevance properties for guaranteeing reasonably-fair decision making. We obtained two impossibility theorems and two existence theorems, which partially answer the question we have raised in the beginning of the paper
+
+**Source:** https://www.semanticscholar.org/paper/9fe276f1c26e609a258464b762890be26756d3fb
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:27:28.779Z

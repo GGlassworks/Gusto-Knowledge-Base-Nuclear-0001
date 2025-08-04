@@ -1,0 +1,13 @@
+# Data Visualization and Analyzation of COVID-19
+
+**Authors:** Fahima Khanam, I. Nowrin, M. Rubaiyat, Hossain Mondal
+
+## Abstract
+Since December 2019 the world is experiencing a deadly disease caused by a novel coronavirus termed as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease associated with this virus is known as COVID-19. This paper focuses on COVID-19 based on freely available datasets including the ones in Kaggle repository. Data analytics is provided on a number of aspects of COVID-19 including the symptoms of this disease, the difference of COVID-19 with other diseases caused by severe acute respiratory syndrome (SARS), Middle East respiratory syndrome (MERS), and swine flu. The impact of temperature on the spread of COVID-19 is also discussed based on the datasets. Moreover, data visualization is provided on the comparison of infections in males/females which shows that males are more prone to this disease and the older people are more at risk. Based on the data, the pattern in the increase of confirmed cases is found to be an exponential curve in nature. Finally, the relative number of confirmed, recovered and death cases in different countries are shown with data visualization.
+
+**Source:** https://www.semanticscholar.org/paper/6ca0f45312e8fa7034a98eb4b2ea69a1a4f7ab42
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:58:07.946Z

@@ -1,0 +1,13 @@
+# Use of ETL Subsystems for Real-Time Data-Warehouse using MS SQL Server Tool
+
+**Authors:** Mayuri Kirange D.D.Patil
+
+## Abstract
+Data warehousing is gaining in eminence as organizations become awake of the benefits of decision oriented and business intelligence oriented data bases.  Informed decision-making is required for competitive success in the new global marketplace, which is fraught with uncertainty and rapid technology changes. Achieving Real-Time Data Warehousing is highly dependent on the choice of a process in data warehousing technology known as Extract, Transform, and Load (ETL). This process involves: 1) Extracting data from outside sources; 2) Transforming it to fit operational needs; and 3) Loading it into the end target (database or data warehouse). Not all ETL’s are equal when it comes to quality and performance. As such, optimizing the ETL processes for real time decision making is becoming ever increasingly crucial to today's decision-making process. An effective ETL leads to effective business decisions and yields extraordinary decision-making outcomes. This study overviews the theory behind ETL and raises a research vision for its evolution, with the aim of improving the difficult but necessary data management work required for the development of advanced analytics and business intelligence. SQL Server Integration services (SSIS-MS Sql server tool) is a platform for data integration and workflow applications. It features a fast and flexible data-warehousing tool used for data extraction, transformation, and loading (ETL). The tool may also be used to automate maintenance of SQL Server databases and updates to multidimensional cube data. SQL Server Reporting Services (SSRS- MS Sql server tool) is a server-based report generation software system from Microsoft. Administered via a web interface, it can be used to prepare and deliver a variety of interactive and printed reports.
+
+**Source:** https://www.semanticscholar.org/paper/aef64de9acf77ef4194ff621f1caa6247ba812da
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:00:17.339Z

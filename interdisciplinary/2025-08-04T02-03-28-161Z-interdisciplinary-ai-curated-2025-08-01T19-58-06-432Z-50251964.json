@@ -1,0 +1,13 @@
+# Single Cell App: An App for Single Cell RNA-sequencing Data Visualization, Comparison and Discovery
+
+**Authors:** Mathew G. Lewsey, C. Yi, O. Berkowitz, Felipe Ayora, Maurice Bernado, J. Whelan
+
+## Abstract
+The Single Cell App is a cloud-based application that allows visualisation and comparison of scRNA-seq data and is scalable according to use. Users upload their own or publicly available scRNA-seq datasets after pre-processing to be visualised using a web browser. The data can be viewed in two colour modes, Cluster - representing cell identity, and Values – level of expression, and data queried using keyword or gene identification number(s). Using the app to compare four different studies we determined that some genes frequently used as cell-type markers are in fact study specific. Phosphate transporter and hormone response genes were exemplary investigated with the app. This showed that the apparent cell specific expression of PHO1;H3 differed between GFP-tagging and scRNA-seq studies. Some phosphate transporter genes were induced by protoplasting, they retained cell specificity, indicating that cell specific stress responses (i.e. protoplasting). Examination of the cell specificity of hormone response genes revealed that 132 hormone responsive genes display restricted expression and that the jasmonate response gene TIFY8 is expressed in endodermal cells which differs from previous reports. It also appears that JAZ repressors have cell-type specific functions. These differences, identified using the Single Cell App, highlight the need for resources to enable researchers to find common and different patterns of cell specific gene expression. Thus, the Single Cell App enables researchers to form new hypothesis, perform comparative studies, allows for easy re-use of data for this emerging technology to provide novel avenues to crop improvement.
+
+**Source:** https://www.semanticscholar.org/paper/ca96ea2784920a28f07ee8b003fc9c0b493bdb04
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:58:06.433Z

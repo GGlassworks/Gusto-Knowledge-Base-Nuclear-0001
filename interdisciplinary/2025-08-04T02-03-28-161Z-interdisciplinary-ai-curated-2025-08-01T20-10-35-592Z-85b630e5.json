@@ -1,0 +1,13 @@
+# When Inequality Matters for Macro and Macro Matters for Inequality
+
+**Authors:** S. Ahn, Greg Kaplan, Benjamin Moll, T. Winberry, Christian K. Wolf
+
+## Abstract
+We develop an efficient and easy to use computational method for solving a wide class of general equilibrium heterogeneous agent models with aggregate shocks together with an open source suite of codes that implement our algorithms in an easy to use toolbox. Our method extends standard linearization techniques and is designed to work in cases when inequality matters for the dynamics of macroeconomic aggregates. We present two applications that analyze a two asset incomplete markets model parameterized to match the distribution of income, wealth, and marginal propensities to consume. First, we show that our model is consistent with two key features of aggregate consumption dynamics that are difficult to match with representative agent models: (1) the sensitivity of aggregate consumption to predictable changes in aggregate income, and (2) the relative smoothness of aggregate consumption. Second, we extend the model to feature capital-skill complementarity and show how factor-specific productivity shocks shape dynamics of income and consumption inequality.
+
+**Source:** https://www.semanticscholar.org/paper/709a0fc8c59a554b351ec1f6d1ab0adaa4a7079e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:35.592Z

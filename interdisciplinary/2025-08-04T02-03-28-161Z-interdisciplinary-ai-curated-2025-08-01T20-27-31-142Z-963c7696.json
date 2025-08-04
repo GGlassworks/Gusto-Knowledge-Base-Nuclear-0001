@@ -1,0 +1,13 @@
+# Multi-layer Decomposition of Optimal Resource Sharing Problems
+
+**Authors:** Nurullah Karakoç, A. Scaglione, A. Nedić
+
+## Abstract
+We describe a distributed framework for resource sharing problems that we face in communications, microeconomics and various networking applications. In particular, we consider a hierarchical multi-layer decomposition for network utility maximization (NUM), where functionalities are assigned to different layers. The proposed methodology creates solutions having central management and distributed computations. The technique aims to respond to the dynamics of the network by decreasing the communication cost, while shifting more computational load to the edges of the network. The main contribution of this work is the provision of a detailed analysis under the assumption that the network changes are in the same time-scale with the convergence time of the algorithms used for local computations. For this scenario, assuming strong concavity and smoothness of the users' objective functions, we present convergence rates for each layer.
+
+**Source:** https://www.semanticscholar.org/paper/6152fc4874c44b2e578331985f8671b652283503
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:27:31.143Z

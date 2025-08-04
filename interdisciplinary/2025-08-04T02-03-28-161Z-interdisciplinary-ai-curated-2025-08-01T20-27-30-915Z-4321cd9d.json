@@ -1,0 +1,13 @@
+# Generating Tractable Cubic Cost Functions
+
+**Authors:** S. Swinton, Hanzhe Zhang
+
+## Abstract
+Classes in microeconomics typically use cubic cost functions, because they can exhibit marginal costs that fall as output increases to some efficient level, and then rise thereafter. Cubic cost functions embody economies of scale, making it easy to illustrate that concept with quadratic average cost curves. However, designing problems with cubic cost functions is harder than it looks, because well behaved functions must meet several mathematical and economic restrictions. Yet as instructors develop more online assignments and exam questions, they face the need to produce varied problems that support the same learning objectives. This article explains the restrictions needed to generate well behaved cubic cost functions. It proceeds to show how to generate random parameters for well-behaved, cubic cost functions for problems that meet common student learning objectives. An associated workbook contains the algorithms described here.
+
+**Source:** https://www.semanticscholar.org/paper/843444c26c1b1a2d1689d73418b99f0520100f5c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:27:30.915Z

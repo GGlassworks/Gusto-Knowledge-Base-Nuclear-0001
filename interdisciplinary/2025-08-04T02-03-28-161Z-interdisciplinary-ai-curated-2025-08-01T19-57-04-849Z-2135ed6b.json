@@ -1,0 +1,13 @@
+# An evaluation-guided approach for effective data visualization on tablets
+
+**Authors:** Peter S. Games, Alark Joshi
+
+## Abstract
+There is a rising trend of data analysis and visualization tasks being performed on a tablet device. Apps with interactive data visualization capabilities are available for a wide variety of domains. We investigate whether users grasp how to effectively interpret and interact with visualizations. We conducted a detailed user evaluation to study the abilities of individuals with respect to analyzing data on a tablet through an interactive visualization app. Based upon the results of the user evaluation, we find that most subjects performed well at understanding and interacting with simple visualizations, specifically tables and line charts. A majority of the subjects struggled with identifying interactive widgets, recognizing interactive widgets with overloaded functionality, and understanding visualizations which do not display data for sorted attributes. Based on our study, we identify guidelines for designers and developers of mobile data visualization apps that include recommendations for effective data representation and interaction.
+
+**Source:** https://www.semanticscholar.org/paper/58ce14c97cc8e44ff4b08060b754db8fe6a71fd8
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:57:04.849Z

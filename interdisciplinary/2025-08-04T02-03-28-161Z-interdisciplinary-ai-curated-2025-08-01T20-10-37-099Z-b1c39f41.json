@@ -1,0 +1,13 @@
+# Bayesian Estimation of DSGE Models
+
+**Authors:** 
+
+## Abstract
+Dynamic stochastic general equilibrium (DSGE) models have become one of the workhorses of modern macroeconomics and are extensively used for academic research as well as forecasting and policy analysis at central banks. This book introduces readers to state-of-the-art computational techniques used in the Bayesian analysis of DSGE models. The book covers Markov chain Monte Carlo techniques for linearized DSGE models, novel sequential Monte Carlo methods that can be used for parameter inference, and the estimation of nonlinear DSGE models based on particle filter approximations of the likelihood function. The theoretical foundations of the algorithms are discussed in depth, and detailed empirical applications and numerical illustrations are provided. The book also gives invaluable advice on how to tailor these algorithms to specific applications and assess the accuracy and reliability of the computations. Bayesian Estimation of DSGE Models is essential reading for graduate students, academic researchers, and practitioners at policy institutions.
+
+**Source:** https://www.semanticscholar.org/paper/8bffa3cd57feb07194e79547c118442925cfddb7
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:10:37.100Z

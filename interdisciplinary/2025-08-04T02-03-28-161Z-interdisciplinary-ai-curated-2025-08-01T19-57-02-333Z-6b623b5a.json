@@ -1,0 +1,13 @@
+# Discrepancies in Mental Workload Estimation: Self-Reported versus EEG-Based Measures in Data Visualization Evaluation
+
+**Authors:** Soobin Yim, Sangbong Yoo, Chanyoung Yoon, Chanyoung Jung, Chansoo Kim, Yun Jang, Ghulam Jilani Quadri
+
+## Abstract
+Accurate assessment of mental workload (MW) is crucial for understanding cognitive processes during visualization tasks. While EEG-based measures are emerging as promising alternatives to conventional assessment techniques, such as selfreport measures, studies examining consistency across these different methodologies are limited. In a preliminary study, we observed indications of potential discrepancies between EEGbased and self-reported MW measures. Motivated by these preliminary observations, our study further explores the discrepancies between EEG-based and self-reported MW assessment methods through an experiment involving visualization tasks. In the experiment, we employ two benchmark tasks: the Visualization Literacy Assessment Test (VLAT) and a Spatial Visualization (SV) task. EEG signals are recorded from participants using a 32-channel system at a sampling rate of 128 Hz during the visualization tasks. For each participant, MW is estimated using an EEG-based model built on a Graph Attention Network (GAT) architecture, and these estimates are compared with conventional MW measures to examine potential discrepancies. Our findings reveal notable discrepancies between task difficulty and EEG-based MW estimates, as well as between EEG-based and self-reported MW measures across varying task difficulty levels. Additionally, the observed patterns suggest the presence of unconscious cognitive effort that may not be captured by selfreport alone.
+
+**Source:** https://www.semanticscholar.org/paper/813b7a93dc15e6373cbaf4acdb335a794c0d03ee
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:57:02.334Z

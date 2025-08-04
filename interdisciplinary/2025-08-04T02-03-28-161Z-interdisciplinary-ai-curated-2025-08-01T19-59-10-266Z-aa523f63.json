@@ -1,0 +1,13 @@
+# Design of a low-cost, environment friendly perovskite solar cell with synergic effect of graphene oxide-based HTL and CH3NH3GeI3 as ETL
+
+**Authors:** Akhilesh Kumar Chaudhary, S. Verma, R. Chauhan
+
+## Abstract
+This research explores a novel, environment friendly perovskite solar cell (PSC) featuring a lead-free CH3NH3SnI3 absorber layer, capitalizing on tin’s analogous electronic configuration and chemical properties to lead. Tin-based perovskite exhibits similar optoelectronic features to lead-based perovskite, such as high absorption coefficient and long carrier diffusion length and tin’s higher abundance than lead renders it a cost-effective and promising alternative for PSCs. The proposed PSC employs an FTO/CH3NH3GeI3/CH3NH3SnI3/GO/C structure, incorporating graphene oxide (GO) as the hole transport layer (HTL) and CH3NH3GeI3 as the electron transport layer (ETL). Graphene oxide, renowned for its exceptional electrical conductivity and low processing costs, enables efficient hole transfer, while the use of CH3NH3GeI3 as ETL not only ensures seamless electron transfer due to its compatible crystallographic structure with CH3NH3SnI3 but also mitigates interface defects, making it a critical aspect of the design. Carbon is used as the back contact, providing a cost-effective option to increase sustainability. The absorber layer parameters, such as the thickness of the absorber layer and acceptor density, are optimized. The effects of defect density, interface defects of HTL/absorber and ETL/absorber, as well as series and shunt resistance, are also analyzed. By optimizing absorber layer parameters, the solar cell attains a power conversion efficiency (PCE) of 24.11% and a fill factor exceeding 85% within the visible light spectrum range, showcasing the potential for a high-performance, environment friendly, and cost-effective solar cell substitute. Device simulations were performed using the SCAPS-1D tool.
+
+**Source:** https://www.semanticscholar.org/paper/39f91b3484578184308404419e92e2b69fc1ffa0
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:59:10.267Z

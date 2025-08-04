@@ -1,0 +1,13 @@
+# Data Integration in ETL Using TALEND
+
+**Authors:** Sreemathy J, Infant Joseph V, N. S, C. I, Gokula Rm
+
+## Abstract
+Data Integration is the process of combining data from different sources to support Data Analytics in organizations. The best definition of data integration is given by IBM, stating “Data Integration is the combination of technical processes and business processes used to combine data from disparate sources into valuable and meaningful information.” The important terms here are “combine data… into valuable and meaningful data” where it's about making the data more organized and useful. There are various methods of combining data into an integrated view. This paper describes the various steps involved in integrating data from various sources using the ETL process - The Extract, Transform and Load process, how the Talend Open Studio acting as a Data Integration and ETL tool helps in transforming heterogeneous data into homogeneous data for easy analysis and how all the integrated data is stored in a Data Warehouse to provide Business Intelligence users with suitable data for easy analysis.
+
+**Source:** https://www.semanticscholar.org/paper/8170f70509f1bc3c362c434ccf3d3ea73ae4ac2b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:59:13.229Z

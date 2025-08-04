@@ -1,0 +1,13 @@
+# Interval Dominance based Structural Results for Markov Decision Process
+
+**Authors:** V. Krishnamurthy
+
+## Abstract
+Structural results impose sufficient conditions on the model parameters of a Markov decision process (MDP) so that the optimal policy is an increasing function of the underlying state. The classical assumptions for MDP structural results require supermodularity of the rewards and transition probabilities. However, supermodularity does not hold in many applications. This paper uses a sufficient condition for interval dominance (called I) proposed in the microeconomics literature, to obtain structural results for MDPs under more general conditions. We present several MDP examples where supermodularity does not hold, yet I holds, and so the optimal policy is monotone; these include sigmoidal rewards (arising in prospect theory for human decision making), bi-diagonal and perturbed bi-diagonal transition matrices (in optimal allocation problems). We also consider MDPs with TP3 transition matrices and concave value functions. Finally, reinforcement learning algorithms that exploit the differential sparse structure of the optimal monotone policy are discussed.
+
+**Source:** https://www.semanticscholar.org/paper/9353e42407a258e18bdea3d05e6a93592bd57f1c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:27:29.809Z

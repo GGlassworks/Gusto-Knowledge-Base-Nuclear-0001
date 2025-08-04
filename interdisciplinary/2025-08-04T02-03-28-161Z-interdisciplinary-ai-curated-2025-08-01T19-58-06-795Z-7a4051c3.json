@@ -1,0 +1,13 @@
+# COMPARISON OF SELECTED METHODS OF MULTI-PARAMETER DATA VISUALIZATION USED FOR CLASSIFICATION OF COALS
+
+**Authors:** Dariusz Jamróz, T. Niedoba
+
+## Abstract
+Methods of multi-parameter data visualization through the transformation of multidimensional space into two-dimensional one allow to present multidimensional data on computer screen, thus making it possible to conduct a qualitative analysis of this data in the most natural way for human - by a sense of sight. In the paper a comparison was made to show the efficiency of selected seven methods of multidimensional visualization and further, to analyze data describing various coal type samples. Each of the methods was verified by checking how precisely a coal type can be classified when a given method is applied. For this purpose, a special criterion was designed to allow an evaluation of the results obtained by means of each of these methods. Detailed information included presentation of methods, elaborated algorithms, accepted parameters for best results as well the results. The framework for the comparison of the analyzed multi-parameter visualization methods includes: observational tunnels method multidimensional scaling MDS, principal component analysis PCA, relevance maps, autoassociative neural networks, Kohonen maps and parallel coordinates method.
+
+**Source:** https://www.semanticscholar.org/paper/226b69cb743b8033d71a20c12db5cd406fba210e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:58:06.796Z

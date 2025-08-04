@@ -1,0 +1,13 @@
+# Glanceable Visualization: Studies of Data Comparison Performance on Smartwatches
+
+**Authors:** Tanja Blascheck, Lonni Besançon, A. Bezerianos, Bongshin Lee, Petra Isenberg
+
+## Abstract
+We present the results of two perception studies to assess how quickly people can perform a simple data comparison task for small-scale visualizations on a smartwatch. The main goal of these studies is to extend our understanding of design constraints for smartwatch visualizations. Previous work has shown that a vast majority of smartwatch interactions last under 5 s. It is still unknown what people can actually perceive from visualizations during such short glances, in particular with such a limited display space of smartwatches. To shed light on this question, we conducted two perception studies that assessed the lower bounds of task time for a simple data comparison task. We tested three chart types common on smartwatches: bar charts, donut charts, and radial bar charts with three different data sizes: 7, 12, and 24 data values. In our first study, we controlled the differences of the two target bars to be compared, while the second study varied the difference randomly. For both studies, we found that participants performed the task on average in <300 ms for the bar chart, <220 ms for the donut chart, and in < 1780 ms for the radial bar chart. Thresholds in the second study per chart type were on average 1.14-1.35× higher than in the first study. Our results show that bar and donut charts should be preferred on smartwatch displays when quick data comparisons are necessary.
+
+**Source:** https://www.semanticscholar.org/paper/a91face58ac52b67b62dd0c17625e381f6c8522b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:58:07.419Z

@@ -1,0 +1,13 @@
+# Testing for time-varying Granger causality
+
+**Authors:** Christopher F. Baum, S. Hurn, Jesús Otero
+
+## Abstract
+The concept of Granger causality is an important tool in applied macroeconomics. Recently, recursive econometric methods have been developed to analyze the temporal stability of Granger-causal relationships. This article offers an implementation of these recursive procedures in Stata. An empirical example illustrates their use in analyzing the temporal stability of Granger causality among key U.S. macroeconomic series.
+
+**Source:** https://www.semanticscholar.org/paper/58eec0fde7554333819435f59d13f19e24bbaa16
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:19:45.568Z

@@ -1,0 +1,13 @@
+# Overview of ETL Tools and Talend-Data Integration
+
+**Authors:** J. Sreemathy, 2. Brindha, Selva Nagalakshmi, 4. Suvekha, Karthick Ragul, 6. Praveennandha
+
+## Abstract
+Business intelligence (BI) leverages software and services to transform data into useful insights. The term business intelligence also refers to a range of tools that provide quick insights about an organization’s current state, based on present data. In business Intelligence an ETL (Extract, Transform, and Load) tool helps to extract the data from one or more sources, cleanse it and loads the date into data warehouse. In data integration techniques, the ETL method is important. The method of integrating data from one or more sources and displaying it to users in a single and functional format is known as data integration. This paper explains the different steps involved in integration of data from different sources and making the data more useful and organized using Talend Open Studio ETL tool and we present an analytical analysis of the ETL method, an open source Talend Studio, in this article. Despite their domination over the vast majority of technological solutions, open source systems, according to the comparative research conducted for this report, still need to be evolved in order to be viable.
+
+**Source:** https://www.semanticscholar.org/paper/4c5d1c98644fc642076467c4f37e3c266642639a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:59:12.890Z
