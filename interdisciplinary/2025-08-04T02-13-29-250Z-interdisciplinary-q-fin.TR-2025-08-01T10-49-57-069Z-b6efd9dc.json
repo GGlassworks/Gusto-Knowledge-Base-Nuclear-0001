@@ -1,0 +1,12 @@
+# Optimizing Broker Performance Evaluation through Intraday Modeling of Execution Cost
+
+**Authors:** Zoltan Eisler, Johannes Muhle-Karbe
+
+## Summary
+Minimizing execution costs for large orders is a fundamental challenge in finance. Firms often depend on brokers to manage their trades due to limited internal resources for optimizing trading strategies. This paper presents a methodology for evaluating the effectiveness of broker execution algorithms using trading data. We focus on two primary cost components: a linear cost that quantifies short-term execution quality and a quadratic cost associated with the price impact of trades. Using a model with transient price impact, we derive analytical formulas for estimating these costs. Furthermore, we enhance estimation accuracy by introducing novel methods such as weighting price changes based on their expected impact content. Our results demonstrate substantial improvements in estimating both linear and impact costs, providing a robust and efficient framework for selecting the most cost-effective brokers.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.TR
+Collected: 2025-08-01T10:49:57.070Z

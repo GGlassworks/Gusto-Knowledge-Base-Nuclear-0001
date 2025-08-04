@@ -1,0 +1,12 @@
+# A Bayesian Model of the Litigation Game
+
+**Authors:** Enrique Guerra-Pujol
+
+## Summary
+Over a century ago, Oliver Wendell Holmes invited scholars to look at the law through the lens of probability theory: "The prophecies of what the courts will do in fact, and nothing more pretentious, are what I mean by the law." Yet few legal scholars have taken up this intriguing invitation. As such, in place of previous approaches to the study of law, this paper presents a non-normative, mathematical approach to law and the legal process. Specifically, we present a formal Bayesian model of civil and criminal litigation, or what we refer to as the litigation game; that is, instead of focusing on the rules of civil or criminal procedure or substantive legal doctrine, we ask and attempt to answer a mathematical question: what is the posterior probability that a defendant in a civil or criminal trial will be found liable, given that the defendant has, in fact, committed a wrongful act?
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.EC
+Collected: 2025-08-01T16:05:47.952Z

@@ -1,0 +1,12 @@
+# RKappa: Software for Analyzing Rule-Based Models
+
+**Authors:** Anatoly Sorokin, Oksana Sorokina, J. Douglas Armstrong
+
+## Summary
+RKappa is a framework for the development, simulation and analysis of rule-base models within the mature statistically empowered R environment. It is designed for model editing, parameter identification, simulation, sensitivity analysis and visualisation. The framework is optimised for high-performance computing platforms and facilitates analysis of large-scale systems biology models where knowledge of exact mechanisms is limited and parameter values are uncertain. The RKappa software is an open source (GLP3 license) package for R, which is freely available online ( https://github.com/lptolik/R4Kappa ).
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:33:20.906Z

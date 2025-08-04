@@ -1,0 +1,12 @@
+# Multi-kernel property in high-frequency price dynamics under Hawkes model
+
+**Authors:** Kyungsub Lee
+
+## Summary
+This study investigates and uses multi-kernel Hawkes models to describe a high-frequency mid-price process. Each kernel represents a different responsive speed of market participants. Using the conditional Hessian, we examine whether the numerical optimizer effectively finds the global maximum of the log-likelihood function under complicated modeling. Empirical studies that use stock prices in the US equity market show the existence of multi-kernels classified as ultra-high-frequency (UHF), very-high-frequency (VHF), and high-frequency (HF). We estimate the conditional expectations of arrival times and the degree of contribution to the high-frequency activities for each kernel.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:28:47.656Z

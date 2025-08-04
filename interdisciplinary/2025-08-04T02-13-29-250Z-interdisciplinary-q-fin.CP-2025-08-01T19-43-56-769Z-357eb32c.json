@@ -1,0 +1,12 @@
+# Macroprudential oversight, risk communication and visualization
+
+**Authors:** Peter Sarlin
+
+## Summary
+This paper discusses the role of risk communication in macroprudential oversight and of visualization in risk communication. Beyond the soar in data availability and precision, the transition from firm-centric to system-wide supervision imposes vast data needs. Moreover, except for internal communication as in any organization, broad and effective external communication of timely information related to systemic risks is a key mandate of macroprudential supervisors, further stressing the importance of simple representations of complex data. This paper focuses on the background and theory of information visualization and visual analytics, as well as techniques within these fields, as potential means for risk communication. We define the task of visualization in risk communication, discuss the structure of macroprudential data, and review visualization techniques applied to systemic risk. We conclude that two essential, yet rare, features for supporting the analysis of big data and communication of risks are analytical visualizations and interactive interfaces. For visualizing the so-called macroprudential data cube, we provide the VisRisk platform with three modules: plots, maps and networks. While VisRisk is herein illustrated with five web-based interactive visualizations of systemic risk indicators and models, the platform enables and is open to the visualization of any data from the macroprudential data cube.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.CP
+Collected: 2025-08-01T19:43:56.769Z

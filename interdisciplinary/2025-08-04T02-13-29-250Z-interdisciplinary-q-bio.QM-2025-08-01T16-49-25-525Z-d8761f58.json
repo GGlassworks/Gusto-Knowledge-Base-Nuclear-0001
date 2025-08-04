@@ -1,0 +1,12 @@
+# Genetic InfoMax: Exploring Mutual Information Maximization in High-Dimensional Imaging Genetics Studies
+
+**Authors:** Yaochen Xie, Ziqian Xie, Sheikh Muhammad Saiful Islam, Degui Zhi, Shuiwang Ji
+
+## Summary
+Genome-wide association studies (GWAS) are used to identify relationships between genetic variations and specific traits. When applied to high-dimensional medical imaging data, a key step is to extract lower-dimensional, yet informative representations of the data as traits. Representation learning for imaging genetics is largely under-explored due to the unique challenges posed by GWAS in comparison to typical visual representation learning. In this study, we tackle this problem from the mutual information (MI) perspective by identifying key limitations of existing methods. We introduce a trans-modal learning framework Genetic InfoMax (GIM), including a regularized MI estimator and a novel genetics-informed transformer to address the specific challenges of GWAS. We evaluate GIM on human brain 3D MRI data and establish standardized evaluation protocols to compare it to existing approaches. Our results demonstrate the effectiveness of GIM and a significantly improved performance on GWAS.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:49:25.525Z

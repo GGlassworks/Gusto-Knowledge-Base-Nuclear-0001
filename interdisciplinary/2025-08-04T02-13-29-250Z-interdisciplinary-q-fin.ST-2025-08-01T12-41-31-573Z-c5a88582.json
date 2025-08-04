@@ -1,0 +1,12 @@
+# Quantitative comparisons between finitary posterior distributions and Bayesian posterior distributions
+
+**Authors:** Federico Bassetti
+
+## Summary
+The main object of Bayesian statistical inference is the determination of posterior distributions. Sometimes these laws are given for quantities devoid of empirical value. This serious drawback vanishes when one confines oneself to considering a finite horizon framework. However, assuming infinite exchangeability gives rise to fairly tractable {\it a posteriori} quantities, which is very attractive in applications. Hence, with a view to a reconciliation between these two aspects of the Bayesian way of reasoning, in this paper we provide quantitative comparisons between posterior distributions of finitary parameters and posterior distributions of allied parameters appearing in usual statistical models.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:41:31.574Z

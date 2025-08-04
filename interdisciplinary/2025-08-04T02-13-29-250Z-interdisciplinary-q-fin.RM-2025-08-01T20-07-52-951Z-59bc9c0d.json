@@ -1,0 +1,12 @@
+# Risk factor aggregation and stress testing
+
+**Authors:** Natalie Packham
+
+## Summary
+Stress testing refers to the application of adverse financial or macroeconomic scenarios to a portfolio. For this purpose, financial or macroeconomic risk factors are linked with asset returns, typically via a factor model. We expand the range of risk factors by adapting dimension-reduction techniques from unsupervised learning, namely PCA and autoencoders. This results in aggregated risk factors, encompassing a global factor, factors representing broad geographical regions, and factors specific to cyclical and defensive industries. As the adapted PCA and autoencoders provide an interpretation of the latent factors, this methodology is also valuable in other areas where dimension-reduction and explainability are crucial.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.RM
+Collected: 2025-08-01T20:07:52.951Z

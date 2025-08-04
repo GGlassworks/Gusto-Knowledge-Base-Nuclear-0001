@@ -1,0 +1,12 @@
+# Hybrid digital-analog simulation of many-body dynamics with superconducting qubits
+
+**Authors:** D. V. Babukhin, A. A. Zhukov, W. V. Pogosov
+
+## Summary
+In recent years, there has been a significant progress in the development of digital quantum processors. The state-of-the-art quantum devices are imperfect, and fully-algorithmic fault-tolerant quantum computing is a matter of future. Until technology develops to the state with practical error correction, computational approaches other than the standard digital one can be used to avoid execution of the most noisy quantum operations. We demonstrate how a hybrid digital-analog approach allows simulating dynamics of a transverse-field Ising model without standard two-qubit gates, which are currently one of the most problematic building blocks of quantum circuits. We use qubit-qubit crosstalks (couplings) of IBM superconducting quantum processors to simulate Trotterized dynamics of spin clusters and then we compare the obtained results with the results of conventional digital computation based on two-qubit gates from the universal set. The comparison shows that digital-analog approach significantly outperforms standard digital approach for this simulation problem, despite of the fact that crosstalks in IBM quantum processors are small. We argue that the efficiency of digital-analog quantum computing can be improved with the help of more specialized processors, so that they can be used to efficiently implement other quantum algorithms. This indicates the prospect of a digital-to-analog strategy for near-term noisy intermediate-scale quantum computers.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T10:18:32.709Z

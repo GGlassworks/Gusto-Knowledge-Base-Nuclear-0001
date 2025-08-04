@@ -1,0 +1,12 @@
+# Three fundamental problems in risk modeling on big data: an information theory view
+
+**Authors:** Jiamin Yu
+
+## Summary
+Since Claude Shannon founded Information Theory, information theory has widely fostered other scientific fields, such as statistics, artificial intelligence, biology, behavioral science, neuroscience, economics, and finance. Unfortunately, actuarial science has hardly benefited from information theory. So far, only one actuarial paper on information theory can be searched by academic search engines. Undoubtedly, information and risk, both as Uncertainty, are constrained by entropy law. Today's insurance big data era means more data and more information. It is unacceptable for risk management and actuarial science to ignore information theory. Therefore, this paper aims to exploit information theory to discover the performance limits of insurance big data systems and seek guidance for risk modeling and the development of actuarial pricing systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.RM
+Collected: 2025-08-01T10:41:39.402Z

@@ -1,0 +1,12 @@
+# Practical Resources for Enhancing the Reproducibility of Mechanistic Modeling in Systems Biology
+
+**Authors:** Michael L. Blinov, John H. Gennari, Jonathan R. Karr, Ion I. Moraru, David P. Nickerson, Herbert M. Sauro
+
+## Summary
+Although reproducibility is a core tenet of the scientific method, it remains challenging to reproduce many results. Surprisingly, this also holds true for computational results in domains such as systems biology where there have been extensive standardization efforts. For example, Tiwari et al. recently found that they could only repeat 50% of published simulation results in systems biology. Toward improving the reproducibility of computational systems research, we identified several resources that investigators can leverage to make their research more accessible, executable, and comprehensible by others. In particular, we identified several domain standards and curation services, as well as powerful approaches pioneered by the software engineering industry that we believe many investigators could adopt. Together, we believe these approaches could substantially enhance the reproducibility of systems biology research. In turn, we believe enhanced reproducibility would accelerate the development of more sophisticated models that could inform precision medicine and synthetic biology.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:32:18.360Z

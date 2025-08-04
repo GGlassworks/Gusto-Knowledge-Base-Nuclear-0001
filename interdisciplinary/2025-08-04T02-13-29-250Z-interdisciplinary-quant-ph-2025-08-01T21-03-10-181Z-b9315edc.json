@@ -1,0 +1,12 @@
+# Distributed Phase Estimation Algorithm and Distributed Shor's Algorithm
+
+**Authors:** Ligang Xiao, Daowen Qiu, Le Luo, Paulo Mateus
+
+## Summary
+Shor's algorithm is one of the most significant quantum algorithms. Shor's algorithm can factor large integers with a certain success probability in polynomial time. However, Shor's algorithm requires an unbearable amount of qubits in the NISQ (Noisy Intermediate-scale Quantum) era. To reduce the resources required for Shor's algorithm, in this paper we first propose a new distributed phase estimation algorithm. Our distributed phase estimation algorithm does not require quantum communication and it reduces the number of qubits of a single node compared to the traditional phase estimation algorithm (non-iterative version). Then we apply our distributed phase estimation algorithm to form a distributed order-finding algorithm for Shor's algorithm. Compared with the traditional Shor's algorithm (non-iterative version), the maximum number of qubits required by a single node of our dristributed order-finding algorithm is reduced by $(2-\dfrac{2}{k})L-\log_2k-O(1)$ when factoring an $L$-bit integer ($k$ is the number of compute nodes). The communication complexity of our distributed order-finding algorithm is $O(kL)$.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T21:03:10.184Z

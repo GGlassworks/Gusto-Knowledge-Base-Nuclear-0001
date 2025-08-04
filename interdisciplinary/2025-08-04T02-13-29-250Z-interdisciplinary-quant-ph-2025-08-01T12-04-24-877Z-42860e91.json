@@ -1,0 +1,12 @@
+# Comparison of unitary transforms
+
+**Authors:** Erika Andersson, Igor Jex, Stephen M. Barnett
+
+## Summary
+We analyze the problem of comparing unitary transformations. The task is to decide, with minimal resources and maximal reliability, whether two given unitary transformations are identical or different. It is possible to make such comparisons without obtaining any information about the individual transformations. Different comparison strategies are presented and compared with respect to their efficiency. With an interferometric setup, it is possible to compare two unitary transforms using only one test particle. Another strategy makes use of a two-particle singlet state. This strategy is more efficient than using a non-entangled two-particle test state, thus demonstrating the benefit of entanglement. Generalisations to higher dimensional transforms and to more than two transformations are made.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T12:04:24.878Z

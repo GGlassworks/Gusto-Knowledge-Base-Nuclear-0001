@@ -1,0 +1,12 @@
+# Regulating stochastic clocks
+
+**Authors:** Zhe Fei, Weixuan Xia
+
+## Summary
+Stochastic clocks represent a class of time change methods for incorporating trading activity into continuous-time financial models, with the ability to deal with typical asymmetrical and tail risks in financial returns. In this paper we propose a significant improvement of stochastic clocks for the same objective but without decreasing the number of trades or changing the trading intensity. Our methodology targets any L\'{e}vy subordinator, or more generally any process of nonnegative independent increments, and is based on various choices of regulating kernels motivated from repeated averaging. By way of a hyperparameter linked to the degree of regulation, arbitrarily large skewness and excess kurtosis of returns can be easily achieved. Generic-time Laplace transforms, characterizing triplets, and cumulants of the regulated clocks and subsequent mixed models are analyzed, serving purposes ranging from statistical estimation and option price calibration to simulation techniques. Under specified jump--diffusion processes and tempered stable processes, a robust moment-based estimation procedure with profile likelihood is developed and a comprehensive empirical study involving S\&amp;P500 and Bitcoin daily returns is conducted to demonstrate a series of desirable effects of the proposed methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:48:32.059Z

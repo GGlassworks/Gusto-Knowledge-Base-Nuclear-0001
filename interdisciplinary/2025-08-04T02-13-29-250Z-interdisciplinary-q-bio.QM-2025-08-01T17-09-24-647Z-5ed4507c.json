@@ -1,0 +1,12 @@
+# Efficient gPC-based quantification of probabilistic robustness for systems in neuroscience
+
+**Authors:** Uros Sutulovic, Daniele Proverbio, Rami Katz, Giulia Giordano
+
+## Summary
+Robustness analysis is very important in biology and neuroscience, to unravel behavioural patterns of systems that are conserved despite large parametric uncertainties. To make studies of probabilistic robustness more efficient and scalable when addressing complex models in neuroscience, we propose an alternative to computationally expensive Monte Carlo (MC) methods by introducing and analysing the generalised polynomial chaos (gPC) framework for uncertainty quantification. We consider both intrusive and non-intrusive gPC approaches, which turn out to be scalable and allow for a fast comprehensive exploration of parameter spaces. Focusing on widely used models of neural dynamics as case studies, we explore the trade-off between efficiency and accuracy of gPC methods, and we adopt the proposed methodology to investigate parametric uncertainties in models that feature multiple dynamic regimes.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T17:09:24.647Z

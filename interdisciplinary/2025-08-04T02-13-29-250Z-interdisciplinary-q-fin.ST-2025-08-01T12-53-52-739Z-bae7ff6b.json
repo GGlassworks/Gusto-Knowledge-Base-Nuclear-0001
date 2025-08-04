@@ -1,0 +1,12 @@
+# Factorial Moments in Complex Systems
+
+**Authors:** Laurent Schoeffel
+
+## Summary
+Factorial moments are convenient tools in particle physics to characterize the multiplicity distributions when phase-space resolution ($\Delta$) becomes small. They include all correlations within the system of particles and represent integral characteristics of any correlation between these particles. In this letter, we show a direct comparison between high energy physics and quantitative finance results. Both for physics and finance, we illustrate that correlations between particles lead to a broadening of the multiplicity distribution and to dynamical fluctuations when the resolution becomes small enough. From the generating function of factorial moments, we make a prediction on the gap probability for sequences of returns of positive or negative signs. The gap is defined as the number of consecutive positive returns after a negative return, thus this is a gap in negative return. Inversely for a gap in positive return. Then, the gap probability is shown to be exponentially suppressed within the gap size. We confirm this prediction with data.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:53:52.739Z

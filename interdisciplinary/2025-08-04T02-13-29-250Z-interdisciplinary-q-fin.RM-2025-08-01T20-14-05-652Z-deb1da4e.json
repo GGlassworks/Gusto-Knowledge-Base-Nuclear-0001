@@ -1,0 +1,12 @@
+# Endogenous Derivation and Forecast of Lifetime PDs
+
+**Authors:** Volodymyr Perederiy
+
+## Summary
+This paper proposes a simple technical approach for the analytical derivation of Point-in-Time PD (probability of default) forecasts, with minimal data requirements. The inputs required are the current and future Through-the-Cycle PDs of the obligors, their last known default rates, and a measurement of the systematic dependence of the obligors. Technically, the forecasts are made from within a classical asset-based credit portfolio model, with the additional assumption of a simple (first/second order) autoregressive process for the systematic factor. This paper elaborates in detail on the practical issues of implementation, especially on the parametrization alternatives. We also show how the approach can be naturally extended to low-default portfolios with volatile default rates, using Bayesian methodology. Furthermore, expert judgments on the current macroeconomic state, although not necessary for the forecasts, can be embedded into the model using the Bayesian technique. The resulting PD forecasts can be used for the derivation of expected lifetime credit losses as required by the newly adopted accounting standard IFRS 9. In doing so, the presented approach is endogenous, as it does not require any exogenous macroeconomic forecasts, which are notoriously unreliable and often subjective. Also, it does not require any dependency modeling between PDs and macroeconomic variables, which often proves to be cumbersome and unstable.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.RM
+Collected: 2025-08-01T20:14:05.653Z

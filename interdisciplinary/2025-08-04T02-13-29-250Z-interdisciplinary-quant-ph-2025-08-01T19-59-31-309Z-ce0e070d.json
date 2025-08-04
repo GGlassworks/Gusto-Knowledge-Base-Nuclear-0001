@@ -1,0 +1,12 @@
+# Gauge-invariant Wigner equation for electromagnetic fields: Strong and weak formulation
+
+**Authors:** Clemens Etl, Mauro Ballicchia, Mihail Nedjalkov, Hans Kosina
+
+## Summary
+Gauge-invariant Wigner theory describes the quantum-mechanical evolution of charged particles in the presence of an electromagnetic field in phase space, which is spanned by position and kinetic momentum. This approach is independent of the chosen potentials, as it depends only on the electric and magnetic field variables. Several approaches to derive a gauge-invariant Wigner evolution equation have been reported, which are generally complex. This work presents a new formulation for a single electron in a general electromagnetic field based solely on differential operators that simplify existing formulations. A gauge-dependent equation is derived first using Moyal's equation. A transformation of the Wigner function, introduced by Stratonovich, is then used to make the equation gauge-invariant, which gives us a strong formulation of the problem. This equation can be transformed into its weak form, which proves that both formulations are equivalent. An analysis of the different properties of the gauge-dependent and gauge-invariant formulations is given, as well as the different requirements for the regularity and asymptotic behavior of the strong and weak formulations.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T19:59:31.309Z

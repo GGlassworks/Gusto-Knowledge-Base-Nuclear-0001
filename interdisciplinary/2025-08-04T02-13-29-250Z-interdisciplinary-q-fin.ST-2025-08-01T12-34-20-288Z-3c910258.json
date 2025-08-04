@@ -1,0 +1,12 @@
+# Overnight GARCH-Itô Volatility Models
+
+**Authors:** Donggyu Kim, Minseok Shin, Yazhen Wang
+
+## Summary
+Various parametric volatility models for financial data have been developed to incorporate high-frequency realized volatilities and better capture market dynamics. However, because high-frequency trading data are not available during the close-to-open period, the volatility models often ignore volatility information over the close-to-open period and thus may suffer from loss of important information relevant to market dynamics. In this paper, to account for whole-day market dynamics, we propose an overnight volatility model based on It\^o diffusions to accommodate two different instantaneous volatility processes for the open-to-close and close-to-open periods. We develop a weighted least squares method to estimate model parameters for two different periods and investigate its asymptotic properties. We conduct a simulation study to check the finite sample performance of the proposed model and method. Finally, we apply the proposed approaches to real trading data.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:34:20.288Z

@@ -1,0 +1,12 @@
+# Limit Order Book Simulations: A Review
+
+**Authors:** Konark Jain, Nick Firoozye, Jonathan Kochems, Philip Treleaven
+
+## Summary
+Limit Order Books (LOBs) serve as a mechanism for buyers and sellers to interact with each other in the financial markets. Modelling and simulating LOBs is quite often necessary for calibrating and fine-tuning the automated trading strategies developed in algorithmic trading research. The recent AI revolution and availability of faster and cheaper compute power has enabled the modelling and simulations to grow richer and even use modern AI techniques. In this review we examine the various kinds of LOB simulation models present in the current state of the art. We provide a classification of the models on the basis of their methodology and provide an aggregate view of the popular stylized facts used in the literature to test the models. We additionally provide a focused study of price impact's presence in the models since it is one of the more crucial phenomena to model in algorithmic trading. Finally, we conduct a comparative analysis of various qualities of fits of these models and how they perform when tested against empirical data.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.TR
+Collected: 2025-08-01T10:49:57.311Z

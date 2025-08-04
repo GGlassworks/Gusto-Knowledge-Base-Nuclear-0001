@@ -1,0 +1,12 @@
+# Fees in AMMs: A quantitative study
+
+**Authors:** Abe Alexander, Lars Fritz
+
+## Summary
+In the ever evolving landscape of decentralized finance automated market makers (AMMs) play a key role: they provide a market place for trading assets in a decentralized manner. For so-called bluechip pairs, arbitrage activity provides a major part of the revenue generation of AMMs but also a major source of loss due to the so-called 'informed orderflow'. Finding ways to minimize those losses while still keeping uninformed trading activity alive is a major problem in the field. In this paper we will investigate the mechanics of said arbitrage and try to understand how AMMs can maximize the revenue creation or in other words minimize the losses. To that end, we model the dynamics of arbitrage activity for a concrete implementation of a pool and study its sensitivity to the choice of fee aiming to maximize the revenue for the AMM. We identify dynamical fees that mimic the directionality of the price due to asymmetric fee choices as a promising avenue to mitigate losses to toxic flow. This work is based on and extends a recent article by some of the authors.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.ST
+Collected: 2025-08-01T12:52:06.110Z

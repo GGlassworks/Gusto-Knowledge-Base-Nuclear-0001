@@ -1,0 +1,12 @@
+# Stability of the genetic code and optimal parameters of amino acids
+
+**Authors:** V. R. Chechetkin, V. V. Lobzin
+
+## Summary
+The standard genetic code is known to be much more efficient in minimizing adverse effects of misreading errors and one-point mutations in comparison with a random code having the same structure, i.e. the same number of codons coding for each particular amino acid. We study the inverse problem, how the code structure affects the optimal physico-chemical parameters of amino acids ensuring the highest stability of the genetic code. It is shown that the choice of two or more amino acids with given properties determines unambiguously all the others. In this sense the code structure determines strictly the optimal parameters of amino acids. In the code with the structure of the standard genetic code the resulting values for hydrophobicity obtained in the scheme leave one out and in the scheme with fixed maximum and minimum parameters correlate significantly with the natural scale. This indicates the co-evolution of the genetic code and physico-chemical properties of amino acids.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:59:05.072Z

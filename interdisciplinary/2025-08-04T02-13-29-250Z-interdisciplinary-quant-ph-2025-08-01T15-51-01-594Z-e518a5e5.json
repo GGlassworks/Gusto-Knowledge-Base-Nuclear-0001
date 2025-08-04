@@ -1,0 +1,12 @@
+# Stochastic Thermodynamic Cycles of a Mesoscopic Thermoelectric Engine
+
+**Authors:** R David Mayrhofer, Cyril Elouard, Janine Splettstoesser, Andrew N Jordan
+
+## Summary
+We analyze a steady-state thermoelectric engine, whose working substance consists of two capacitively coupled quantum dots. One dot is tunnel-coupled to a hot reservoir serving as a heat source, the other one to two electrically biased reservoirs at a colder temperature, such that work is extracted under the form of a steady-state current against the bias. In single realizations of the dynamics of this steady-state engine autonomous, 4-stroke cycles can be identified. The cycles are purely stochastic, in contrast to mechanical autonomous engines which exhibit self-oscillations. In particular, these cycles fluctuate in direction and duration, and occur in competition with other spurious cycles. Using a stochastic thermodynamic approach, we quantify the cycle fluctuations and relate them to the entropy produced during individual cycles. We identify the cycle mainly responsible for the engine performance and quantify its statistics with tools from graph theory. We show that such stochastic cycles are made possible because the work extraction mechanism is itself stochastic instead of the periodic time dependence in the working-substance Hamiltonian which can be found in conventional mechanical engines. Our investigation brings new perspectives about the connection between cyclic and steady-state engines.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T15:51:01.594Z

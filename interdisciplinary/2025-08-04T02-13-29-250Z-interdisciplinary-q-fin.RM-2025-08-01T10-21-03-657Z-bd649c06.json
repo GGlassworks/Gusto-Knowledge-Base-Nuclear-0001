@@ -1,0 +1,12 @@
+# Value-at-Risk and Expected Shortfall for the major digital currencies
+
+**Authors:** Stavros Stavroyiannis
+
+## Summary
+Digital currencies and cryptocurrencies have hesitantly started to penetrate the investors, and the next step will be the regulatory risk management framework. We examine the Value-at-Risk and Expected Shortfall properties for the major digital currencies, Bitcoin, Ethereum, Litecoin, and Ripple. The methodology used is GARCH modelling followed by Filtered Historical Simulation. We find that digital currencies are subject to a higher risk, therefore, to higher sufficient buffer and risk capital to cover potential losses.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.RM
+Collected: 2025-08-01T10:21:03.657Z

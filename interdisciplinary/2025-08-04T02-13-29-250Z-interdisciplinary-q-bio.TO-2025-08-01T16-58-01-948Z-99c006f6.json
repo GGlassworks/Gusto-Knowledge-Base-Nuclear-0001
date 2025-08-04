@@ -1,0 +1,12 @@
+# Average fold-change of genetic pathways in biological transitions
+
+**Authors:** Sandra Costa, Joan Nieves, Augusto Gonzalez
+
+## Summary
+A biological transition from a state N to a state T is characterized by a rearrangement of the gene expression profile in the system, quantitatively measured through the differential expression of genes. In contrast, changes in genetic pathways are usually evaluated by means of hypothesis testing schemes. We introduce a quantitative measure in order to evaluate the average fold-change of genetic pathways in biological transitions and applied it to characterize in general grounds the transition from a normal tissue to a tumor. Additionally, we study the transformation from primary to metastatic melanoma. Gene expression data from the TCGA portal for 16 tumors and the Reactome compilation of pathways are used for this purpose.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.TO
+Collected: 2025-08-01T16:58:01.948Z

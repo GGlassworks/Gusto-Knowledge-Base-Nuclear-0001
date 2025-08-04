@@ -1,0 +1,12 @@
+# Bayesian Parameter Estimation for Dynamical Models in Systems Biology
+
+**Authors:** Nathaniel J. Linden, Boris Kramer, Padmini Rangamani
+
+## Summary
+Dynamical systems modeling, particularly via systems of ordinary differential equations, has been used to effectively capture the temporal behavior of different biochemical components in signal transduction networks. Despite the recent advances in experimental measurements, including sensor development and '-omics' studies that have helped populate protein-protein interaction networks in great detail, modeling in systems biology lacks systematic methods to estimate kinetic parameters and quantify associated uncertainties. This is because of multiple reasons, including sparse and noisy experimental measurements, lack of detailed molecular mechanisms underlying the reactions, and missing biochemical interactions. Additionally, the inherent nonlinearities with respect to the states and parameters associated with the system of differential equations further compound the challenges of parameter estimation. In this study, we propose a comprehensive framework for Bayesian parameter estimation and complete quantification of the effects of uncertainties in the data and models. We apply these methods to a series of signaling models of increasing mathematical complexity. Systematic analysis of these dynamical systems showed that parameter estimation depends on data sparsity, noise level, and model structure, including the existence of multiple steady states. These results highlight how focused uncertainty quantification can enrich systems biology modeling and enable additional quantitative analyses for parameter estimation.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:33:22.192Z

@@ -1,0 +1,12 @@
+# A minimal electrical model of the human heart
+
+**Authors:** João Olívia, Rui Dilão
+
+## Summary
+We develop a minimal whole-heart model that describes cardiac electrical conduction and simulate a basic three-lead electrocardiogram (ECG). We compare our 3-lead ECG model with clinical data from a Norwegian athlete database. The results demonstrate a strong correlation with the ECGs recorded for these athletes. We simulate various pathologies of the heart's electrical conduction system, including ventricular tachycardia, atrioventricular nodal reentrant tachycardia, accessory pathways, and ischaemia-related arrhythmias, showing that the 3-lead ECGs align with the clinical data. This minimal model serves as a computationally efficient digital twin of the heart.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.TO
+Collected: 2025-08-01T10:22:44.230Z

@@ -1,0 +1,12 @@
+# Decentralized lending and its users: Insights from Compound
+
+**Authors:** Kanis Saengchote
+
+## Summary
+Permissionless blockchains offer an information environment where users can interact privately without fear of censorship. Financial services can be programmatically coded via smart contracts to automate transactions without the need for human intervention or knowing user identity. This new paradigm is known as decentralized finance (DeFi). We investigate Compound (a leading DeFi lending protocol) to show how it works in this novel information environment, who its users are, and what factors determine their participation. On-chain transaction data shows that loan durations are short (31 days on average), and many users borrow to support leveraged investment strategies (yield farming). We show that systemic risk in DeFi arises from concentration and interconnection, and how traditional risk management practices can be challenging for DeFi.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.GN
+Collected: 2025-08-01T13:37:14.955Z

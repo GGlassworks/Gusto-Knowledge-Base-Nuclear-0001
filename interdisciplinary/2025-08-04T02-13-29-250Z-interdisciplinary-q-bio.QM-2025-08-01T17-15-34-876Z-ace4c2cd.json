@@ -1,0 +1,12 @@
+# Bayesian Modeling of Language-Evoked Event-Related Potentials
+
+**Authors:** Davide Turco, Conor Houghton
+
+## Summary
+Bayesian hierarchical models are well-suited to analyzing the often noisy data from electroencephalography experiments in cognitive neuroscience: these models provide an intuitive framework to account for structures and correlations in the data, and they allow a straightforward handling of uncertainty. In a typical neurolinguistic experiment, event-related potentials show only very small effect sizes and frequentist approaches to data analysis fail to establish the significance of some of these effects. Here, we present a Bayesian approach to analyzing event-related potentials using as an example data from an experiment which relates word surprisal and neural response. Our model is able to estimate the effect of word surprisal on most components of the event-related potential and provides a richer description of the data. The Bayesian framework also allows easier comparison between estimates based on surprisal values calculated using different language models.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T17:15:34.877Z

@@ -1,0 +1,12 @@
+# Limit Order Book Dynamics and Order Size Modelling Using Compound Hawkes Process
+
+**Authors:** Konark Jain, Nick Firoozye, Jonathan Kochems, Philip Treleaven
+
+## Summary
+Hawkes Process has been used to model Limit Order Book (LOB) dynamics in several ways in the literature however the focus has been limited to capturing the inter-event times while the order size is usually assumed to be constant. We propose a novel methodology of using Compound Hawkes Process for the LOB where each event has an order size sampled from a calibrated distribution. The process is formulated in a novel way such that the spread of the process always remains positive. Further, we condition the model parameters on time of day to support empirical observations. We make use of an enhanced non-parametric method to calibrate the Hawkes kernels and allow for inhibitory cross-excitation kernels. We showcase the results and quality of fits for an equity stock's LOB in the NASDAQ exchange and compare them against several baselines. Finally, we conduct a market impact study of the simulator and show the empirical observation of a concave market impact function is indeed replicated.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.TR
+Collected: 2025-08-01T12:48:31.957Z

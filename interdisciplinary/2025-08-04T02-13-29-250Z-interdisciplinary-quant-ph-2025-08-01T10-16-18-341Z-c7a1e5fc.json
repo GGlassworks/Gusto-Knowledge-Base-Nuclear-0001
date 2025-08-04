@@ -1,0 +1,12 @@
+# Digitization of a random signal from the interference of laser pulses
+
+**Authors:** Roman Shakhovoy
+
+## Summary
+In the study of quantum random number generators (QRNGs), the problem of random signal digitization is often not considered in detail. However, in the context of a standalone QRNG device, this issue is very important. In this paper, we consider the problem of digitizing laser pulses with random intensity and analyze various approaches used to estimate the contribution of classical noise. A simple method for determining the quantum reduction factor suitable for digitization with an analog-to-digital converter is proposed.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T10:16:18.342Z

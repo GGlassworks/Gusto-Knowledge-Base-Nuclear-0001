@@ -1,0 +1,12 @@
+# Optimal hedging with variational preferences under convex risk measures
+
+**Authors:** Marcelo Righi
+
+## Summary
+We expose a theoretical hedging optimization framework with variational preferences under convex risk measures. We explore a general dual representation for the composition between risk measures and utilities. We study the properties of the optimization problem as a convex and monotone map per se. We also derive results for optimality and indifference pricing conditions. We also explore particular examples inside our setup.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.MF
+Collected: 2025-08-01T12:43:16.652Z

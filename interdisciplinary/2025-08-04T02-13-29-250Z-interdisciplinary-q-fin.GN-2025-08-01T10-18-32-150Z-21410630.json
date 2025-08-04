@@ -1,0 +1,12 @@
+# Decentralised Multi-Manager Fund Framework
+
+**Authors:** Arman Abgaryan, Utkarsh Sharma, Joshua Tobkin
+
+## Summary
+We introduce a decentralised, algorithmic framework for permissionless, multi-strategy capital allocation via tokenised, automated vaults. The system is designed to function analogously to a multi-strategy asset management company, but implemented entirely on-chain through a modular architecture comprising four interacting layers. The first, the capitalisation layer, composed of vaults that facilitate multi-asset deposits, tokenises investor participation, and specifies high level risk limits and admissible venues for deployment. The second, the strategy layer, enables the submission of strategies by human developers or autonomous agents, creating a decentralised marketplace governed by a validation mechanism incorporating adversarial and gamified elements. The third, the execution layer, operationalises strategy deployment using the host blockchain network's services. The fourth layer, the validated allocation layer, assesses and allocates capital among validated strategies, dynamically rebalancing toward those exhibiting superior risk-adjusted performance. In the framework, each admitted strategy acts as a manager for the "fund", encapsulated in a smart contract vault that issues transferable V-Tokens, conveying fractional ownership of the real-time portfolio operated by the vault. The system is designed to be open to participation by both human and AI agents, who collectively perform the roles of capital allocators, strategy developers, and validated allocators. The resulting structure is a self-regulating asset management ecosystem capable of decentralised, cooperative optimisation across traditional and digital financial domains. This framework is facilitated by a host chain network, which offers native automation and data oracle services enabling vault entities to autonomously operate on-chain, paving the way for being self sufficient in dynamic allocation of capital.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.GN
+Collected: 2025-08-01T10:18:32.150Z

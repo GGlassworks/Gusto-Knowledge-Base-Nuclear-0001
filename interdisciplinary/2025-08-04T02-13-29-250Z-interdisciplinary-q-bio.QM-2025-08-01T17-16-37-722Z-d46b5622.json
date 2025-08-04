@@ -1,0 +1,12 @@
+# Modeling COVID-19 vaccine-induced immunological memory development and its links to antibody level and infectiousness
+
+**Authors:** Xin Gao, Jianwei Li, Dianjie Li
+
+## Summary
+COVID-19 vaccines have proven to be effective against SARS-CoV-2 infection. However, the dynamics of vaccine-induced immunological memory development and neutralizing antibodies generation are not fully understood, limiting vaccine development and vaccination regimen determination. Herein, we constructed a mathematical model to characterize the vaccine-induced immune response based on fitting the viral infection and vaccination datasets. With the example of CoronaVac, we revealed the association between vaccine-induced immunological memory development and neutralizing antibody levels. The establishment of the intact immunological memory requires more than 6 months after the first and second doses, after that a booster shot can induce high levels neutralizing antibodies. By introducing the maximum viral load and recovery time after viral infection, we quantitatively studied the protective effect of vaccines against viral infection. Accordingly, we optimized the vaccination regimen, including dose and vaccination timing, and predicted the effect of the fourth dose. Last, by combining the viral transmission model, we showed the suppression of virus transmission by vaccination, which may be instructive for the development of public health policies.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T17:16:37.723Z

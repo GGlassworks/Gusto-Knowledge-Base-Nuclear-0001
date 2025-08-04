@@ -1,0 +1,12 @@
+# Feasibility Analysis of Grover-meets-Simon Algorithm
+
+**Authors:** Qianru Zhu, Huiqin Xie, Qiqing Xia, Li Yang
+
+## Summary
+Quantum algorithm is a key tool for cryptanalysis. At present, people are committed to building powerful quantum algorithms and tapping the potential of quantum algorithms, so as to further analyze the security of cryptographic algorithms under quantum computing. Recombining classical quantum algorithms is one of the current ideas to construct quantum algorithms. However, they cannot be easily combined, the feasibility of quantum algorithms needs further analysis in quantum environment. This paper reanalyzes the existing combined algorithm Grover-meets-Simon algorithm in terms of the principle of deferred measurement. First of all, due to the collapse problem caused by the measurement, we negate the measurement process of Simon's algorithm during the process of the Grover-meets-Simon algorithm. Second, since the output of the unmeasured Simon algorithm is quantum linear systems of equations, we discuss the solution of quantum linear systems of equations and find it feasible to consider the deferred measurement of the parallel Simon algorithm alone. Finally, since the Grover-meets-Simon algorithm involves an iterative problem, we reconsider the feasibility of the algorithm when placing multiple measurements at the end. According to the maximum probability of success and query times, we get that the Grover-meets-Simon algorithm is not an effective attack algorithm when putting the measurement process of the Simon algorithm in the iterative process at the end of Grover-meets-Simon algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T21:10:20.025Z

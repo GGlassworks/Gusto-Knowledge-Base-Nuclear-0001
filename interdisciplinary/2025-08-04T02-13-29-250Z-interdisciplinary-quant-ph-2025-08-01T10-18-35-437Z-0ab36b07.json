@@ -1,0 +1,12 @@
+# Superconducting qubits at the utility scale: the potential and limitations of modularity
+
+**Authors:** S. N. Saadatmand, Tyler L. Wilson, Mark J. Hodson, Mark Field, Simon J. Devitt, Madhav Krishnan Vijayan, Alan Robertson, Thinh P. Le, Jannis Ruh, Alexandru Paler, Arshpreet Singh Maan, Ioana Moflic, Athena Caesura, Josh Y. Mutus
+
+## Summary
+The development of fault-tolerant quantum computers (FTQCs) is receiving increasing attention within the quantum computing community. Like conventional digital computers, FTQCs, which utilize error correction and millions of physical qubits, have the potential to address some of humanity's grand challenges. However, accurate estimates of the tangible scale of future FTQCs, based on transparent assumptions, are uncommon. How many physical qubits are necessary to solve a practical problem intractable for classical hardware? What costs arise from distributing quantum computation across multiple machines? This paper presents an architectural model of a potential FTQC based on superconducting qubits, divided into discrete modules and interconnected via coherent links. We employ a resource estimation framework and software tool to assess the physical resources required to execute specific quantum algorithms compiled into their graph-state form and arranged onto a modular superconducting hardware architecture. Our tool can predict the size, power consumption, and execution time of these algorithms as they approach the utility scale based on explicit assumptions about the physical layout, thermal load, and modular connectivity of the system. Using this tool, we assess the total resources in the proposed modular architecture and highlight the impact of trade-offs, intermodule connectivity, latency, and space-time resource requirements.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T10:18:35.438Z

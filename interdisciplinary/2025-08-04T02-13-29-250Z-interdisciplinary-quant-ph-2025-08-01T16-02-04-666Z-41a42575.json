@@ -1,0 +1,12 @@
+# Spin-mechanical thermal machines
+
+**Authors:** Mohamed Hatifi, Anshuman Nayak, Jason Twamley
+
+## Summary
+We introduce a method to construct a quantum battery and a quantum Otto heat engine using a Nitrogen-Vacancy (NV) center spin coupled to a mechanical oscillator in a highly detuned regime. By precisely controlling the NV spin, we enable efficient energy exchange despite significant detuning, challenging conventional assumptions. This leads to a robust mechanical quantum battery and a cooling scheme driving the oscillator toward its ground state. Leveraging this, we implement a quantum Otto engine that produces mechanical work at maximum efficiency without decoupling from the hot bath, paving the way for practical quantum thermal machines.
+
+
+---
+Category: interdisciplinary
+Subcategory: quant-ph
+Collected: 2025-08-01T16:02:04.666Z

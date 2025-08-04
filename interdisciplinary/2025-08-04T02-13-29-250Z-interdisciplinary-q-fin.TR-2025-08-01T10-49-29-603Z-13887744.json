@@ -1,0 +1,12 @@
+# Order flow and price formation
+
+**Authors:** Fabrizio Lillo
+
+## Summary
+I present an overview of some recent advancements on the empirical analysis and theoretical modeling of the process of price formation in financial markets as the result of the arrival of orders in a limit order book exchange. After discussing critically the possible modeling approaches and the observed stylized facts of order flow, I consider in detail market impact and transaction cost of trades executed incrementally over an extended period of time, by comparing model predictions and recent extensive empirical results. I also discuss how the simultaneous presence of many algorithmic trading executions affects the quality and cost of trading.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-fin.TR
+Collected: 2025-08-01T10:49:29.604Z
