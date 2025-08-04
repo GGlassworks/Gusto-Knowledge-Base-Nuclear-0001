@@ -1,0 +1,12 @@
+# Simultaneous face detection and 360 degree headpose estimation
+
+**Authors:** Hoang Nguyen Viet, Linh Nguyen Viet, Tuan Nguyen Dinh, Duc Tran Minh, Long Tran Quoc
+
+## Summary
+With many practical applications in human life, including manufacturing surveillance cameras, analyzing and processing customer behavior, many researchers are noticing face detection and head pose estimation on digital images. A large number of proposed deep learning models have state-of-the-art accuracy such as YOLO, SSD, MTCNN, solving the problem of face detection or HopeNet, FSA-Net, RankPose model used for head pose estimation problem. According to many state-of-the-art methods, the pipeline of this task consists of two parts, from face detection to head pose estimation. These two steps are completely independent and do not share information. This makes the model clear in setup but does not leverage most of the featured resources extracted in each model. In this paper, we proposed the Multitask-Net model with the motivation to leverage the features extracted from the face detection model, sharing them with the head pose estimation branch to improve accuracy. Also, with the variety of data, the Euler angle domain representing the face is large, our model can predict with results in the 360 Euler angle domain. Applying the multitask learning method, the Multitask-Net model can simultaneously predict the position and direction of the human head. To increase the ability to predict the head direction of the model, we change there presentation of the human face from the Euler angle to vectors of the Rotation matrix.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:15.277Z

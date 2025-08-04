@@ -1,0 +1,12 @@
+# GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling
+
+**Authors:** Pinxin Liu, Luchuan Song, Junhua Huang, Haiyang Liu, Chenliang Xu
+
+## Summary
+Generating full-body human gestures based on speech signals remains challenges on quality and speed. Existing approaches model different body regions such as body, legs and hands separately, which fail to capture the spatial interactions between them and result in unnatural and disjointed movements. Additionally, their autoregressive/diffusion-based pipelines show slow generation speed due to dozens of inference steps. To address these two challenges, we propose GestureLSM, a flow-matching-based approach for Co-Speech Gesture Generation with spatial-temporal modeling. Our method i) explicitly model the interaction of tokenized body regions through spatial and temporal attention, for generating coherent full-body gestures. ii) introduce the flow matching to enable more efficient sampling by explicitly modeling the latent velocity space. To overcome the suboptimal performance of flow matching baseline, we propose latent shortcut learning and beta distribution time stamp sampling during training to enhance gesture synthesis quality and accelerate inference. Combining the spatial-temporal modeling and improved flow matching-based framework, GestureLSM achieves state-of-the-art performance on BEAT2 while significantly reducing inference time compared to existing methods, highlighting its potential for enhancing digital humans and embodied agents in real-world applications. Project Page: https://andypinxinliu.github.io/GestureLSM
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:20.937Z

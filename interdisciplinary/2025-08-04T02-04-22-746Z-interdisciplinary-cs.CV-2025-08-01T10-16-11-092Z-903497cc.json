@@ -1,0 +1,12 @@
+# Interpreting Hand gestures using Object Detection and Digits Classification
+
+**Authors:** Sangeetha K, Balaji VS, Kamalesh P, Anirudh Ganapathy PS
+
+## Summary
+Hand gestures have evolved into a natural and intuitive means of engaging with technology. The objective of this research is to develop a robust system that can accurately recognize and classify hand gestures representing numbers. The proposed approach involves collecting a dataset of hand gesture images, preprocessing and enhancing the images, extracting relevant features, and training a machine learning model. The advancement of computer vision technology and object detection techniques, in conjunction with OpenCV's capability to analyze and comprehend hand gestures, presents a chance to transform the identification of numerical digits and its potential applications. The advancement of computer vision technology and object identification technologies, along with OpenCV's capacity to analyze and interpret hand gestures, has the potential to revolutionize human interaction, boosting people's access to information, education, and employment opportunities. Keywords: Computer Vision, Machine learning, Deep Learning, Neural Networks
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:11.093Z

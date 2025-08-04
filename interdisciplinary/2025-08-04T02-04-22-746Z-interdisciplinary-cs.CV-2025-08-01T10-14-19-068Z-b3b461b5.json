@@ -1,0 +1,12 @@
+# Classification of Documents Extracted from Images with Optical Character Recognition Methods
+
+**Authors:** Omer Aydin
+
+## Summary
+Over the past decade, machine learning methods have given us driverless cars, voice recognition, effective web search, and a much better understanding of the human genome. Machine learning is so common today that it is used dozens of times a day, possibly unknowingly. Trying to teach a machine some processes or some situations can make them predict some results that are difficult to predict by the human brain. These methods also help us do some operations that are often impossible or difficult to do with human activities in a short time. For these reasons, machine learning is so important today. In this study, two different machine learning methods were combined. In order to solve a real-world problem, the manuscript documents were first transferred to the computer and then classified. We used three basic methods to realize the whole process. Handwriting or printed documents have been digitalized by a scanner or digital camera. These documents have been processed with two different Optical Character Recognition (OCR) operation. After that generated texts are classified by using Naive Bayes algorithm. All project was programmed in Microsoft Visual Studio 12 platform on Windows operating system. C# programming language was used for all parts of the study. Also, some prepared codes and DLLs were used.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:19.068Z

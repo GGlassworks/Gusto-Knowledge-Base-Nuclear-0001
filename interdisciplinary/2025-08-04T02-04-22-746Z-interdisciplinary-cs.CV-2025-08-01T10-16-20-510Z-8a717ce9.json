@@ -1,0 +1,12 @@
+# Towards High-Frequency Tracking and Fast Edge-Aware Optimization
+
+**Authors:** Akash Bapat
+
+## Summary
+This dissertation advances the state of the art for AR/VR tracking systems by increasing the tracking frequency by orders of magnitude and proposes an efficient algorithm for the problem of edge-aware optimization. AR/VR is a natural way of interacting with computers, where the physical and digital worlds coexist. We are on the cusp of a radical change in how humans perform and interact with computing. Humans are sensitive to small misalignments between the real and the virtual world, and tracking at kilo-Hertz frequencies becomes essential. Current vision-based systems fall short, as their tracking frequency is implicitly limited by the frame-rate of the camera. This thesis presents a prototype system which can track at orders of magnitude higher than the state-of-the-art methods using multiple commodity cameras. The proposed system exploits characteristics of the camera traditionally considered as flaws, namely rolling shutter and radial distortion. The experimental evaluation shows the effectiveness of the method for various degrees of motion. Furthermore, edge-aware optimization is an indispensable tool in the computer vision arsenal for accurate filtering of depth-data and image-based rendering, which is increasingly being used for content creation and geometry processing for AR/VR. As applications increasingly demand higher resolution and speed, there exists a need to develop methods that scale accordingly. This dissertation proposes such an edge-aware optimization framework which is efficient, accurate, and algorithmically scales well, all of which are much desirable traits not found jointly in the state of the art. The experiments show the effectiveness of the framework in a multitude of computer vision tasks such as computational photography and stereo.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:20.510Z

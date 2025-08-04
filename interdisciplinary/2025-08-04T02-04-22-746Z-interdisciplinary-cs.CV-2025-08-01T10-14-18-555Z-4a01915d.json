@@ -1,0 +1,12 @@
+# On anthropomorphic decision making in a model observer
+
+**Authors:** Ali R. N. Avanaki, Kathryn S. Espig, Tom R. L. Kimpe, Andrew D. A. Maidment
+
+## Summary
+By analyzing human readers' performance in detecting small round lesions in simulated digital breast tomosynthesis background in a location known exactly scenario, we have developed a model observer that is a better predictor of human performance with different levels of background complexity (i.e., anatomical and quantum noise). Our analysis indicates that human observers perform a lesion detection task by combining a number of sub-decisions, each an indicator of the presence of a lesion in the image stack. This is in contrast to a channelized Hotelling observer, where the detection task is conducted holistically by thresholding a single decision variable, made from an optimally weighted linear combination of channels. However, it seems that the sub-par performance of human readers compared to the CHO cannot be fully explained by their reliance on sub-decisions, or perhaps we do not consider a sufficient number of sub-decisions. To bridge the gap between the performances of human readers and the model observer based upon sub-decisions, we use an additive noise model, the power of which is modulated with the level of background complexity. The proposed model observer better predicts the fast drop in human detection performance with background complexity.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.555Z

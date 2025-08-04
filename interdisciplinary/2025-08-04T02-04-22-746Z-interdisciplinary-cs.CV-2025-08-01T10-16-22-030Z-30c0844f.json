@@ -1,0 +1,12 @@
+# docExtractor: An off-the-shelf historical document element extraction
+
+**Authors:** Tom Monnier, Mathieu Aubry
+
+## Summary
+We present docExtractor, a generic approach for extracting visual elements such as text lines or illustrations from historical documents without requiring any real data annotation. We demonstrate it provides high-quality performances as an off-the-shelf system across a wide variety of datasets and leads to results on par with state-of-the-art when fine-tuned. We argue that the performance obtained without fine-tuning on a specific dataset is critical for applications, in particular in digital humanities, and that the line-level page segmentation we address is the most relevant for a general purpose element extraction engine. We rely on a fast generator of rich synthetic documents and design a fully convolutional network, which we show to generalize better than a detection-based approach. Furthermore, we introduce a new public dataset dubbed IlluHisDoc dedicated to the fine evaluation of illustration segmentation in historical documents.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:22.030Z

@@ -1,0 +1,12 @@
+# Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding
+
+**Authors:** Yuhang Liu, Boyi Sun, Guixu Zheng, Yishuo Wang, Jing Wang, Fei-Yue Wang
+
+## Summary
+LiDAR sensors play a crucial role in various applications, especially in autonomous driving. Current research primarily focuses on optimizing perceptual models with point cloud data as input, while the exploration of deeper cognitive intelligence remains relatively limited. To address this challenge, parallel LiDARs have emerged as a novel theoretical framework for the next-generation intelligent LiDAR systems, which tightly integrate physical, digital, and social systems. To endow LiDAR systems with cognitive capabilities, we introduce the 3D visual grounding task into parallel LiDARs and present a novel human-computer interaction paradigm for LiDAR systems. We propose Talk2LiDAR, a large-scale benchmark dataset tailored for 3D visual grounding in autonomous driving. Additionally, we present a two-stage baseline approach and an efficient one-stage method named BEVGrounding, which significantly improves grounding accuracy by fusing coarse-grained sentence and fine-grained word embeddings with visual features. Our experiments on Talk2Car-3D and Talk2LiDAR datasets demonstrate the superior performance of BEVGrounding, laying a foundation for further research in this domain.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:13.212Z

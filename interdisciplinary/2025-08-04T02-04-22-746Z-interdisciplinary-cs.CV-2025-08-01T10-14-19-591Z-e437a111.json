@@ -1,0 +1,12 @@
+# A Meta-Bayesian Model of Intentional Visual Search
+
+**Authors:** Maell Cullen, Jonathan Monney, M. Berk Mirza, Rosalyn Moran
+
+## Summary
+We propose a computational model of visual search that incorporates Bayesian interpretations of the neural mechanisms that underlie categorical perception and saccade planning. To enable meaningful comparisons between simulated and human behaviours, we employ a gaze-contingent paradigm that required participants to classify occluded MNIST digits through a window that followed their gaze. The conditional independencies imposed by a separation of time scales in this task are embodied by constraints on the hierarchical structure of our model; planning and decision making are cast as a partially observable Markov Decision Process while proprioceptive and exteroceptive signals are integrated by a dynamic model that facilitates approximate inference on visual information and its latent causes. Our model is able to recapitulate human behavioural metrics such as classification accuracy while retaining a high degree of interpretability, which we demonstrate by recovering subject-specific parameters from observed human behaviour.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:19.591Z

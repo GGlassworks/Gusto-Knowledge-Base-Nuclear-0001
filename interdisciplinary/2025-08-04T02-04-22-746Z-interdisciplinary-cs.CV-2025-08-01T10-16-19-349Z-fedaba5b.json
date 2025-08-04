@@ -1,0 +1,12 @@
+# Incorporating Crowdsourced Annotator Distributions into Ensemble Modeling to Improve Classification Trustworthiness for Ancient Greek Papyri
+
+**Authors:** Graham West, Matthew I. Swindall, Ben Keener, Timothy Player, Alex C. Williams, James H. Brusuelas, John F. Wallin
+
+## Summary
+Performing classification on noisy, crowdsourced image datasets can prove challenging even for the best neural networks. Two issues which complicate the problem on such datasets are class imbalance and ground-truth uncertainty in labeling. The AL-ALL and AL-PUB datasets - consisting of tightly cropped, individual characters from images of ancient Greek papyri - are strongly affected by both issues. The application of ensemble modeling to such datasets can help identify images where the ground-truth is questionable and quantify the trustworthiness of those samples. As such, we apply stacked generalization consisting of nearly identical ResNets with different loss functions: one utilizing sparse cross-entropy (CXE) and the other Kullback-Liebler Divergence (KLD). Both networks use labels drawn from a crowd-sourced consensus. This consensus is derived from a Normalized Distribution of Annotations (NDA) based on all annotations for a given character in the dataset. For the second network, the KLD is calculated with respect to the NDA. For our ensemble model, we apply a k-nearest neighbors model to the outputs of the CXE and KLD networks. Individually, the ResNet models have approximately 93% accuracy, while the ensemble model achieves an accuracy of &gt; 95%, increasing the classification trustworthiness. We also perform an analysis of the Shannon entropy of the various models' output distributions to measure classification uncertainty. Our results suggest that entropy is useful for predicting model misclassifications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:19.349Z

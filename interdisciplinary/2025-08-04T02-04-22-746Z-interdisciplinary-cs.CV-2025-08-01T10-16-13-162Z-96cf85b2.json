@@ -1,0 +1,12 @@
+# DI-Net : Decomposed Implicit Garment Transfer Network for Digital Clothed 3D Human
+
+**Authors:** Xiaojing Zhong, Yukun Su, Zhonghua Wu, Guosheng Lin, Qingyao Wu
+
+## Summary
+3D virtual try-on enjoys many potential applications and hence has attracted wide attention. However, it remains a challenging task that has not been adequately solved. Existing 2D virtual try-on methods cannot be directly extended to 3D since they lack the ability to perceive the depth of each pixel. Besides, 3D virtual try-on approaches are mostly built on the fixed topological structure and with heavy computation. To deal with these problems, we propose a Decomposed Implicit garment transfer network (DI-Net), which can effortlessly reconstruct a 3D human mesh with the newly try-on result and preserve the texture from an arbitrary perspective. Specifically, DI-Net consists of two modules: 1) A complementary warping module that warps the reference image to have the same pose as the source image through dense correspondence learning and sparse flow learning; 2) A geometry-aware decomposed transfer module that decomposes the garment transfer into image layout based transfer and texture based transfer, achieving surface and texture reconstruction by constructing pixel-aligned implicit functions. Experimental results show the effectiveness and superiority of our method in the 3D virtual try-on task, which can yield more high-quality results over other existing methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:13.162Z

@@ -1,0 +1,12 @@
+# Protégé: Learn and Generate Basic Makeup Styles with Generative Adversarial Networks (GANs)
+
+**Authors:** Jia Wei Sii, Chee Seng Chan
+
+## Summary
+Makeup is no longer confined to physical application; people now use mobile apps to digitally apply makeup to their photos, which they then share on social media. However, while this shift has made makeup more accessible, designing diverse makeup styles tailored to individual faces remains a challenge. This challenge currently must still be done manually by humans. Existing systems, such as makeup recommendation engines and makeup transfer techniques, offer limitations in creating innovative makeups for different individuals "intuitively" -- significant user effort and knowledge needed and limited makeup options available in app. Our motivation is to address this challenge by proposing Prot\'eg\'e, a new makeup application, leveraging recent generative model -- GANs to learn and automatically generate makeup styles. This is a task that existing makeup applications (i.e., makeup recommendation systems using expert system and makeup transfer methods) are unable to perform. Extensive experiments has been conducted to demonstrate the capability of Prot\'eg\'e in learning and creating diverse makeups, providing a convenient and intuitive way, marking a significant leap in digital makeup technology!
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:08.688Z

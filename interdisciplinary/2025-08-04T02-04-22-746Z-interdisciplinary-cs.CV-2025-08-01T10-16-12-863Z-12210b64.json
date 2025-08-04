@@ -1,0 +1,12 @@
+# Tag-Based Annotation for Avatar Face Creation
+
+**Authors:** An Ngo, Daniel Phelps, Derrick Lai, Thanyared Wong, Lucas Mathias, Anish Shivamurthy, Mustafa Ajmal, Minghao Liu, James Davis
+
+## Summary
+Currently, digital avatars can be created manually using human images as reference. Systems such as Bitmoji are excellent producers of detailed avatar designs, with hundreds of choices for customization. A supervised learning model could be trained to generate avatars automatically, but the hundreds of possible options create difficulty in securing non-noisy data to train a model. As a solution, we train a model to produce avatars from human images using tag-based annotations. This method provides better annotator agreement, leading to less noisy data and higher quality model predictions. Our contribution is an application of tag-based annotation to train a model for avatar face creation. We design tags for 3 different facial facial features offered by Bitmoji, and train a model using tag-based annotation to predict the nose.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:12.863Z

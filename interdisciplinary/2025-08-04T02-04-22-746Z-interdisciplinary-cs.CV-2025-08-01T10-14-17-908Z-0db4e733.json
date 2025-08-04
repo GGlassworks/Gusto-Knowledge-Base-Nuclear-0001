@@ -1,0 +1,12 @@
+# Digital and Physical-World Attacks on Remote Pulse Detection
+
+**Authors:** Jeremy Speth, Nathan Vance, Patrick Flynn, Kevin W. Bowyer, Adam Czajka
+
+## Summary
+Remote photoplethysmography (rPPG) is a technique for estimating blood volume changes from reflected light without the need for a contact sensor. We present the first examples of presentation attacks in the digital and physical domains on rPPG from face video. Digital attacks are easily performed by adding imperceptible periodic noise to the input videos. Physical attacks are performed with illumination from visible spectrum LEDs placed in close proximity to the face, while still being difficult to perceive with the human eye. We also show that our attacks extend beyond medical applications, since the method can effectively generate a strong periodic pulse on 3D-printed face masks, which presents difficulties for pulse-based face presentation attack detection (PAD). The paper concludes with ideas for using this work to improve robustness of rPPG methods and pulse-based face PAD.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:17.908Z

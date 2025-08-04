@@ -1,0 +1,12 @@
+# Biomechanics-Guided Residual Approach to Generalizable Human Motion Generation and Estimation
+
+**Authors:** Zixi Kang, Xinghan Wang, Yadong Mu
+
+## Summary
+Human pose, action, and motion generation are critical for applications in digital humans, character animation, and humanoid robotics. However, many existing methods struggle to produce physically plausible movements that are consistent with biomechanical principles. Although recent autoregressive and diffusion models deliver impressive visual quality, they often neglect key biodynamic features and fail to ensure physically realistic motions. Reinforcement Learning (RL) approaches can address these shortcomings but are highly dependent on simulation environments, limiting their generalizability. To overcome these challenges, we propose BioVAE, a biomechanics-aware framework with three core innovations: (1) integration of muscle electromyography (EMG) signals and kinematic features with acceleration constraints to enable physically plausible motion without simulations; (2) seamless coupling with diffusion models for stable end-to-end training; and (3) biomechanical priors that promote strong generalization across diverse motion generation and estimation tasks. Extensive experiments demonstrate that BioVAE achieves state-of-the-art performance on multiple benchmarks, bridging the gap between data-driven motion synthesis and biomechanical authenticity while setting new standards for physically accurate motion generation and pose estimation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:19.957Z

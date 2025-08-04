@@ -1,0 +1,12 @@
+# Modeling Photographic Composition via Triangles
+
+**Authors:** Zihan Zhou, Siqiong He, Jia Li, James Z. Wang
+
+## Summary
+The capacity of automatically modeling photographic composition is valuable for many real-world machine vision applications such as digital photography, image retrieval, image understanding, and image aesthetics assessment. The triangle technique is among those indispensable composition methods on which professional photographers often rely. This paper proposes a system that can identify prominent triangle arrangements in two major categories of photographs: natural or urban scenes, and portraits. For the natural or urban scene pictures, the focus is on the effect of linear perspective. For portraits, we carefully examine the positioning of human subjects in a photo. We show that line analysis is highly advantageous for modeling composition in both categories. Based on the detected triangles, new mathematical descriptors for composition are formulated and used to retrieve similar images. Leveraging the rich source of high aesthetics photos online, similar approaches can potentially be incorporated in future smart cameras to enhance a person's photo composition skills.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:21.630Z

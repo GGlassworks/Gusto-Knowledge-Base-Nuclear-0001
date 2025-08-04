@@ -1,0 +1,12 @@
+# JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting
+
+**Authors:** Zhoutao Sun, Xukun Shen, Yong Hu, Yuyou Zhong, Xueyang Zhou
+
+## Summary
+Since hands are the primary interface in daily interactions, modeling high-quality digital human hands and rendering realistic images is a critical research problem. Furthermore, considering the requirements of interactive and rendering applications, it is essential to achieve real-time rendering and driveability of the digital model without compromising rendering quality. Thus, we propose Jointly 3D Gaussian Hand (JGHand), a novel joint-driven 3D Gaussian Splatting (3DGS)-based hand representation that renders high-fidelity hand images in real-time for various poses and characters. Distinct from existing articulated neural rendering techniques, we introduce a differentiable process for spatial transformations based on 3D key points. This process supports deformations from the canonical template to a mesh with arbitrary bone lengths and poses. Additionally, we propose a real-time shadow simulation method based on per-pixel depth to simulate self-occlusion shadows caused by finger movements. Finally, we embed the hand prior and propose an animatable 3DGS representation of the hand driven solely by 3D key points. We validate the effectiveness of each component of our approach through comprehensive ablation studies. Experimental results on public datasets demonstrate that JGHand achieves real-time rendering speeds with enhanced quality, surpassing state-of-the-art methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:11.249Z

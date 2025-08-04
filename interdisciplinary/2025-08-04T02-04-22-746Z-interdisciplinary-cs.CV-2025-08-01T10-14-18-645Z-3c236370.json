@@ -1,0 +1,12 @@
+# EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation
+
+**Authors:** Rang Meng, Yan Wang, Weipeng Wu, Ruobing Zheng, Yuming Li, Chenguang Ma
+
+## Summary
+Human animation recently has advanced rapidly, achieving increasingly realistic and vivid results, especially with the integration of large-scale video generation models. However, the slow inference speed and high computational cost of these large models bring significant challenges for practical applications. Additionally, various tasks in human animation, such as lip-syncing, audio-driven full-body animation, and video generation from start and end frames, often require different specialized models. The introduction of large video models has not alleviated this dilemma. This raises an important question: Can we make human animation Faster, Higher in quality, Stronger in generalization, and make various tasks Together in one model? To address this, we dive into video generation models and discover that the devil lies in the details: Inspired by MAE, we propose a novel unified Multi-Task paradigm for human animation, treating diverse generation tasks as spatial-temporal local reconstructions, requiring modifications only on the input side; Given the interplay and division among multi-modal conditions including text, image, and audio, we introduce a multi-modal decoupled cross-attention module to fuse multi-modals in a divide-and-conquer manner; We propose a new SFT+Reward alternating training paradigm, enabling the minimal model with 1.3B parameters to achieve generation quality comparable to models with 10 times the parameters count. Through these innovations, our work paves the way for efficient, high-quality, and versatile digital human generation, addressing both performance and practicality challenges in the field. Extensive experiments demonstrate that EchoMimicV3 outperforms existing models in both facial and semi-body video generation, providing precise text-based control for creating videos in a wide range of scenarios.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.645Z

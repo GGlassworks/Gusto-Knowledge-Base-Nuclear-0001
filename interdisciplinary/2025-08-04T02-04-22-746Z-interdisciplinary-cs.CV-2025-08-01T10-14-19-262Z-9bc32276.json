@@ -1,0 +1,12 @@
+# Human Attention Detection Using AM-FM Representations
+
+**Authors:** Wenjing Shi
+
+## Summary
+Human activity detection from digital videos presents many challenges to the computer vision and image processing communities. Recently, many methods have been developed to detect human activities with varying degree of success. Yet, the general human activity detection problem remains very challenging, especially when the methods need to work 'in the wild' (e.g., without having precise control over the imaging geometry). The thesis explores phase-based solutions for (i) detecting faces, (ii) back of the heads, (iii) joint detection of faces and back of the heads, and (iv) whether the head is looking to the left or the right, using standard video cameras without any control on the imaging geometry. The proposed phase-based approach is based on the development of simple and robust methods that rely on the use of Amplitude Modulation- Frequency Modulation (AM-FM) models. The approach is validated using video frames extracted from the Advancing Out-of-school Learning in Mathematics and Engineering (AOLME) project. The dataset consisted of 13,265 images from ten students looking at the camera, and 6,122 images from five students looking away from the camera. For the students facing the camera, the method was able to correctly classify 97.1% of them looking to the left and 95.9% of them looking to the right. For the students facing the back of the camera, the method was able to correctly classify 87.6% of them looking to the left and 93.3% of them looking to the right. The results indicate that AM-FM based methods hold great promise for analyzing human activity videos.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:19.262Z

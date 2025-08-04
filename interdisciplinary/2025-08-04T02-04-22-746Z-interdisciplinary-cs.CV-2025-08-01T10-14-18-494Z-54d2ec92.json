@@ -1,0 +1,12 @@
+# EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections
+
+**Authors:** Francesc Net, Lluis Gomez
+
+## Summary
+The intersection of Artificial Intelligence and Digital Humanities enables researchers to explore cultural heritage collections with greater depth and scale. In this paper, we present EUFCC-CIR, a dataset designed for Composed Image Retrieval (CIR) within Galleries, Libraries, Archives, and Museums (GLAM) collections. Our dataset is built on top of the EUFCC-340K image labeling dataset and contains over 180K annotated CIR triplets. Each triplet is composed of a multi-modal query (an input image plus a short text describing the desired attribute manipulations) and a set of relevant target images. The EUFCC-CIR dataset fills an existing gap in CIR-specific resources for Digital Humanities. We demonstrate the value of the EUFCC-CIR dataset by highlighting its unique qualities in comparison to other existing CIR datasets and evaluating the performance of several zero-shot CIR baselines.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.494Z

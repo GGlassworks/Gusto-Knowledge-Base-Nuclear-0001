@@ -1,0 +1,12 @@
+# Modeling Human Skeleton Joint Dynamics for Fall Detection
+
+**Authors:** Sania Zahan, Ghulam Mubashar Hassan, Ajmal Mian
+
+## Summary
+The increasing pace of population aging calls for better care and support systems. Falling is a frequent and critical problem for elderly people causing serious long-term health issues. Fall detection from video streams is not an attractive option for real-life applications due to privacy issues. Existing methods try to resolve this issue by using very low-resolution cameras or video encryption. However, privacy cannot be ensured completely with such approaches. Key points on the body, such as skeleton joints, can convey significant information about motion dynamics and successive posture changes which are crucial for fall detection. Skeleton joints have been explored for feature extraction but with image recognition models that ignore joint dependency across frames which is important for the classification of actions. Moreover, existing models are over-parameterized or evaluated on small datasets with very few activity classes. We propose an efficient graph convolution network model that exploits spatio-temporal joint dependencies and dynamics of human skeleton joints for accurate fall detection. Our method leverages dynamic representation with robust concurrent spatio-temporal characteristics of skeleton joints. We performed extensive experiments on three large-scale datasets. With a significantly smaller model size than most existing methods, our proposed method achieves state-of-the-art results on the large scale NTU datasets.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:08.979Z

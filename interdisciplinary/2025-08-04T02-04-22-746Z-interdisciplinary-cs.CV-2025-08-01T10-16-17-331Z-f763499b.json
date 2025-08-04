@@ -1,0 +1,12 @@
+# mmEgoHand: Egocentric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMU
+
+**Authors:** Yizhe Lv, Tingting Zhang, Zhijian Wang, Yunpeng Song, Han Ding, Jinsong Han, Fei Wang
+
+## Summary
+Recent advancements in millimeter-wave (mmWave) radar have demonstrated its potential for human action recognition and pose estimation, offering privacy-preserving advantages over conventional cameras while maintaining occlusion robustness, with promising applications in human-computer interaction and wellness care. However, existing mmWave systems typically employ fixed-position configurations, restricting user mobility to predefined zones and limiting practical deployment scenarios. We introduce mmEgoHand, a head-mounted egocentric system for hand pose estimation to support applications such as gesture recognition, VR interaction, skill digitization and assessment, and robotic teleoperation. mmEgoHand synergistically integrates mmWave radar with inertial measurement units (IMUs) to enable dynamic perception. The IMUs actively compensate for radar interference induced by head movements, while our novel end-to-end Transformer architecture simultaneously estimates 3D hand keypoint coordinates through multi-modal sensor fusion. This dual-modality framework achieves spatial-temporal alignment of mmWave heatmaps with IMUs, overcoming viewpoint instability inherent in egocentric sensing scenarios. We further demonstrate that intermediate hand pose representations substantially improve performance in downstream task, e.g., VR gesture recognition. Extensive evaluations with 10 subjects performing 8 gestures across 3 distinct postures -- standing, sitting, lying -- achieve 90.8% recognition accuracy, outperforming state-of-the-art solutions by a large margin. Dataset and code are available at https://github.com/WhisperYi/mmVR.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:17.331Z

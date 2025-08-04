@@ -1,0 +1,12 @@
+# Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis
+
+**Authors:** Tong Sha, Wei Zhang, Tong Shen, Zhoujun Li, Tao Mei
+
+## Summary
+Deep person generation has attracted extensive research attention due to its wide applications in virtual agents, video conferencing, online shopping and art/movie production. With the advancement of deep learning, visual appearances (face, pose, cloth) of a person image can be easily generated or manipulated on demand. In this survey, we first summarize the scope of person generation, and then systematically review recent progress and technical trends in deep person generation, covering three major tasks: talking-head generation (face), pose-guided person generation (pose) and garment-oriented person generation (cloth). More than two hundred papers are covered for a thorough overview, and the milestone works are highlighted to witness the major technical breakthrough. Based on these fundamental tasks, a number of applications are investigated, e.g., virtual fitting, digital human, generative data augmentation. We hope this survey could shed some light on the future prospects of deep person generation, and provide a helpful foundation for full applications towards digital human.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:18.418Z

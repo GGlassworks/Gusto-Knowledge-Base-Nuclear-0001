@@ -1,0 +1,12 @@
+# RealVVT: Towards Photorealistic Video Virtual Try-on via Spatio-Temporal Consistency
+
+**Authors:** Siqi Li, Zhengkai Jiang, Jiawei Zhou, Zhihong Liu, Xiaowei Chi, Haoqian Wang
+
+## Summary
+Virtual try-on has emerged as a pivotal task at the intersection of computer vision and fashion, aimed at digitally simulating how clothing items fit on the human body. Despite notable progress in single-image virtual try-on (VTO), current methodologies often struggle to preserve a consistent and authentic appearance of clothing across extended video sequences. This challenge arises from the complexities of capturing dynamic human pose and maintaining target clothing characteristics. We leverage pre-existing video foundation models to introduce RealVVT, a photoRealistic Video Virtual Try-on framework tailored to bolster stability and realism within dynamic video contexts. Our methodology encompasses a Clothing &amp; Temporal Consistency strategy, an Agnostic-guided Attention Focus Loss mechanism to ensure spatial consistency, and a Pose-guided Long Video VTO technique adept at handling extended video sequences.Extensive experiments across various datasets confirms that our approach outperforms existing state-of-the-art models in both single-image and video VTO tasks, offering a viable solution for practical applications within the realms of fashion e-commerce and virtual fitting environments.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CV
+Collected: 2025-08-01T10:16:20.869Z
