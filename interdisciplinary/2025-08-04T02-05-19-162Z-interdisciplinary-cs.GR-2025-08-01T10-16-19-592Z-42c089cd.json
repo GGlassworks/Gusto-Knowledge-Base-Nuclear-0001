@@ -1,0 +1,12 @@
+# GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration
+
+**Authors:** Rendong Zhang, Alexandra Watkins, Nilanjan Sarkar
+
+## Summary
+Photorealistic avatars have become essential for immersive applications in virtual reality (VR) and augmented reality (AR), enabling lifelike interactions in areas such as training simulations, telemedicine, and virtual collaboration. These avatars bridge the gap between the physical and digital worlds, improving the user experience through realistic human representation. However, existing avatar creation techniques face significant challenges, including high costs, long creation times, and limited utility in virtual applications. Manual methods, such as MetaHuman, require extensive time and expertise, while automatic approaches, such as NeRF-based pipelines often lack efficiency, detailed facial expression fidelity, and are unable to be rendered at a speed sufficent for real-time applications. By involving several cutting-edge modern techniques, we introduce an end-to-end 3D Gaussian Splatting (3DGS) avatar creation pipeline that leverages monocular video input to create a scalable and efficient photorealistic avatar directly compatible with the Unity game engine. Our pipeline incorporates a novel Gaussian splatting technique with customized preprocessing that enables the user of "in the wild" monocular video capture, detailed facial expression reconstruction and embedding within a fully rigged avatar model. Additionally, we present a Unity-integrated Gaussian Splatting Avatar Editor, offering a user-friendly environment for VR/AR application development. Experimental results validate the effectiveness of our preprocessing pipeline in standardizing custom data for 3DGS training and demonstrate the versatility of Gaussian avatars in Unity, highlighting the scalability and practicality of our approach.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:16:19.592Z

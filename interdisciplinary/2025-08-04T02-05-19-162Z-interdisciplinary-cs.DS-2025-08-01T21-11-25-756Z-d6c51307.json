@@ -1,0 +1,12 @@
+# Beyond Worst-case Analysis of Multicore Caching Strategies
+
+**Authors:** Shahin Kamali, Helen Xu
+
+## Summary
+Every processor with multiple cores sharing a cache needs to implement a cache-replacement algorithm. Previous work demonstrated that the competitive ratio of a large class of online algorithms, including Least-Recently-Used (LRU), grows with the length of the input. Furthermore, even offline algorithms like Furthest-In-Future, the optimal algorithm in single-core caching, cannot compete in the multicore setting. These negative results motivate a more in-depth comparison of multicore caching algorithms via alternative analysis measures. Specifically, the power of the adversary to adapt to online algorithms suggests the need for a direct comparison of online algorithms to each other. In this paper, we introduce cyclic analysis, a generalization of bijective analysis introduced by Angelopoulos and Schweitzer [JACM'13]. Cyclic analysis captures the advantages of bijective analysis while offering flexibility that makes it more useful for comparing algorithms for a variety online problems. In particular, we take the first steps beyond worst-case analysis for analysis of multicore caching algorithms. We use cyclic analysis to establish relationships between multicore caching algorithms, including the advantage of LRU over all other multicore caching algorithms in the presence of locality of reference.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:11:25.757Z

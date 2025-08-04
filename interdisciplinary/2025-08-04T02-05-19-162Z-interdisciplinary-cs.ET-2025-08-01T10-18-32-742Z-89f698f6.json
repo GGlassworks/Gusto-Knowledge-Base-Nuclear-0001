@@ -1,0 +1,12 @@
+# Design Flow of Digital Microfluidic Biochips Towards Improving Fault-Tolerance
+
+**Authors:** Alireza Abdoli
+
+## Summary
+Given the ever-increasing advances of digital microfluidic biochips and their application in a wide range of areas including bio-chemistry experiments, diagnostics, and monitoring purposes like air and water quality control and etc., development of automated design flow algorithms for digital microfluidic biochips is of great importance. During the course of last decade there have been numerous researches on design, adaptation and optimization of algorithms for automation of digital microfluidic biochips synthesis flow. However, the initial assumption of researchers about absence of faults and deficiencies before and during execution of bio-assays has been proven always not to be the case. Thus, during the past few years researchers have placed great focus on fault-tolerance and fault-recovery of digital microfluidic biochips. In this dissertation we initially introduce proposed architectures for pin-constrained digital microfluidic biochips; the proposed architectures are designed with the aim of improving overall functionality and also at the same time ameliorating fault-tolerance of digital microfluidic biochips in mind. Next, we explain fault-tolerance concepts within the context of pin-constrained digital microfluidic biochips; then we attempt to investigate fault-tolerance of the proposed digital microfluidic architectures versus the base architecture in presence of faults occurrences affecting mixing modules and splitting/storage/detection (SSD) modules.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.ET
+Collected: 2025-08-01T10:18:32.743Z

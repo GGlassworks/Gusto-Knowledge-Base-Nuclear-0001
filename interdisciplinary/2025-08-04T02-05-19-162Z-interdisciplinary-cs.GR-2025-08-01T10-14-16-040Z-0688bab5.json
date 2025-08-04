@@ -1,0 +1,12 @@
+# Human Centric Accessibility Graph For Environment Analysis
+
+**Authors:** Mathew Schwartz
+
+## Summary
+Understanding design decisions in relation to the future occupants of a building is a crucial part of good design. However, limitations in tools and expertise hinder meaningful human-centric decisions during the design process. In this paper, a novel Spatial Human Accessibility graph for Planning and Environment Analysis (SHAPE) is introduced that brings together the technical challenges of discrete representations of digital models, with human-based metrics for evaluating the environment. SHAPE: does not need labeled geometry as input, works with multi-level buildings, captures surface variations (e.g., slopes in a terrain), and can be used with existing graph theory (e.g., gravity, centrality) techniques. SHAPE uses ray-casting to perform a search, generating a dense graph of all accessible locations within the environment and storing the type of travel required in a graph (e.g., up a slope, down a step). The ability to simultaneously evaluate and plan paths from multiple human factors is shown to work on digital models across room, building, and topography scales. The results enable designers and planners to evaluate options of the built environment in new ways, and at higher fidelity, that will lead to more human-friendly and accessible environments.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:14:16.041Z

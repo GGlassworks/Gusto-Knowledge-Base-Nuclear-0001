@@ -1,0 +1,12 @@
+# Implementation of exponential and parametrized algorithms in the AGAPE project
+
+**Authors:** Pascal Berthomé, Jean-François Lalande, Vincent Levorato
+
+## Summary
+This technical report describes the implementation of exact and parametrized exponential algorithms, developed during the French ANR Agape during 2010-2012. The developed algorithms are distributed under the CeCILL license and have been written in Java using the Jung graph library.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:16:00.480Z

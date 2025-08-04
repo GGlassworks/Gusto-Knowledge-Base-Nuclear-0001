@@ -1,0 +1,12 @@
+# CAD-Coder:Text-Guided CAD Files Code Generation
+
+**Authors:** Changqi He, Shuhan Zhang, Liguo Zhang, Jiajun Miao
+
+## Summary
+Computer-aided design (CAD) is a way to digitally create 2D drawings and 3D models of real-world products. Traditional CAD typically relies on hand-drawing by experts or modifications of existing library files, which doesn't allow for rapid personalization. With the emergence of generative artificial intelligence, convenient and efficient personalized CAD generation has become possible. However, existing generative methods typically produce outputs that lack interactive editability and geometric annotations, limiting their practical applications in manufacturing. To enable interactive generative CAD, we propose CAD-Coder, a framework that transforms natural language instructions into CAD script codes, which can be executed in Python environments to generate human-editable CAD files (.Dxf). To facilitate the generation of editable CAD sketches with annotation information, we construct a comprehensive dataset comprising 29,130 Dxf files with their corresponding script codes, where each sketch preserves both editability and geometric annotations. We evaluate CAD-Coder on various 2D/3D CAD generation tasks against existing methods, demonstrating superior interactive capabilities while uniquely providing editable sketches with geometric annotations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:16:24.987Z

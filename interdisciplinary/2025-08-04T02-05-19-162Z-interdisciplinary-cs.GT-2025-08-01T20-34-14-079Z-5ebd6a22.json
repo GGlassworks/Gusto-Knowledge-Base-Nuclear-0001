@@ -1,0 +1,12 @@
+# Participatory Budgeting: Models and Approaches
+
+**Authors:** Haris Aziz, Nisarg Shah
+
+## Summary
+Participatory budgeting is a democratic approach to deciding the funding of public projects, which has been adopted in many cities across the world. We present a survey of research on participatory budgeting emerging from the computational social choice literature, which draws ideas from computer science and microeconomic theory. We present a mathematical model for participatory budgeting, which charts existing models across different axes including whether the projects are treated as "divisible" or "indivisible" and whether there are funding limits on individual projects. We then survey various approaches and methods from the literature, giving special emphasis on issues of preference elicitation, welfare objectives, fairness axioms, and voter incentives. Finally, we discuss several directions in which research on participatory budgeting can be extended in the future.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GT
+Collected: 2025-08-01T20:34:14.079Z

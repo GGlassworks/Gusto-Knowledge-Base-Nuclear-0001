@@ -1,0 +1,12 @@
+# Crowdsourcing Autonomous Traffic Simulation
+
+**Authors:** Hua Wang, Wenshan Zhao, Zhigang Deng, Mingliang Xu
+
+## Summary
+We present an innovative framework, Crowdsourcing Autonomous Traffic Simulation (CATS) framework, in order to safely implement and realize orderly traffic flows. We firstly provide a semantic description of the CATS framework using theories of economics to construct coupling constraints among drivers, in which drivers monitor each other by making use of transportation resources and driving credit. We then introduce an emotion-based traffic simulation, which utilizes the Weber-Fechner law to integrate economic factors into drivers' behaviors. Simulation results show that the CATS framework can significantly reduce traffic accidents and improve urban traffic conditions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T20:52:57.126Z

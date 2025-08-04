@@ -1,0 +1,12 @@
+# $L_p$ Isotonic Regression Algorithms Using an $L_0$ Approach
+
+**Authors:** Quentin F. Stout
+
+## Summary
+Significant advances in flow algorithms have changed the relative performance of various approaches to algorithms for $L_p$ isotonic regression. We show a simple plug-in method to systematically incorporate such advances, and advances in determining violator dags, with no assumptions about the algorithms' structures. The method is based on the standard algorithm for $L_0$ (Hamming distance) isotonic regression (by finding anti-chains in a violator dag), coupled with partitioning based on binary $L_1$ isotonic regression. For several important classes of graphs the algorithms are already faster (in O-notation) than previously published ones, close to or at the lower bound, and significantly faster than those implemented in statistical packages. We consider exact and approximate results for $L_p$ regressions, $p=0$ and $1 \leq p &lt; \infty$, and a variety of orderings.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:13:44.003Z

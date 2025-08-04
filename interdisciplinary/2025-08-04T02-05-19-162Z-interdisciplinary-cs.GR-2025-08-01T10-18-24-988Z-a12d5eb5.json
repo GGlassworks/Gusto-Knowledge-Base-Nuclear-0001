@@ -1,0 +1,12 @@
+# Text-guided Image-and-Shape Editing and Generation: A Short Survey
+
+**Authors:** Cheng-Kang Ted Chao, Yotam Gingold
+
+## Summary
+Image and shape editing are ubiquitous among digital artworks. Graphics algorithms facilitate artists and designers to achieve desired editing intents without going through manually tedious retouching. In the recent advance of machine learning, artists' editing intents can even be driven by text, using a variety of well-trained neural networks. They have seen to be receiving an extensive success on such as generating photorealistic images, artworks and human poses, stylizing meshes from text, or auto-completion given image and shape priors. In this short survey, we provide an overview over 50 papers on state-of-the-art (text-guided) image-and-shape generation techniques. We start with an overview on recent editing algorithms in the introduction. Then, we provide a comprehensive review on text-guided editing techniques for 2D and 3D independently, where each of its sub-section begins with a brief background introduction. We also contextualize editing algorithms under recent implicit neural representations. Finally, we conclude the survey with the discussion over existing methods and potential research ideas.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:18:24.989Z

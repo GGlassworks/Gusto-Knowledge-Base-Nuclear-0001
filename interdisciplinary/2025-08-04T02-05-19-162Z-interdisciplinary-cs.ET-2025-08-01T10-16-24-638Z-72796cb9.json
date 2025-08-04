@@ -1,0 +1,12 @@
+# Analysis of Conducted and Radiated Emission on a Self-oscillating Capacitive Touch Sensing Circuit
+
+**Authors:** Subramaniam Saravana Sankar, Stanislav Kovar, Martin Pospisilik, Michael Galda
+
+## Summary
+With the advent of smartphones, there has been a recent increase in the use of capacitive touch sensing for various Human Machine Interfaces (HMI). Capacitive-based touch sensing provides higher flexibility and cost-effectiveness than, methodologies such as resistive-based touch sensing. However, Capacitive-based touch sensing is more prone to disturbances such as Electromagnetic interference (EMI) and noise due to temperature variation. This effect becomes more dominating as the sensing excitation frequency increases. Traditional capacitance to digital circuits, such as sigma-delta capacitive sensing, requires multiple clock cycles to measure sensing capacitance, thus necessitating higher frequency operation. In turn, this produces challenges in Electromagnetic Emission while also increasing its susceptibility to EMI, such as false or ghost touch due to exposure of the sensing electrodes to various frequency electric fields. This paper discusses the conducted electromagnetic emission behavior of an external excitation-frequency independent self-oscillating capacitance-to-time converter, where sensing is done with a single clock cycle, and discusses radiated Electromagnetic emission of the touch sensing electrode. The proposed approach is suitable for touch-sensing applications, mainly when used in a noisy EMI environment, such as inside a vehicle within the Automotive industry.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.ET
+Collected: 2025-08-01T10:16:24.639Z

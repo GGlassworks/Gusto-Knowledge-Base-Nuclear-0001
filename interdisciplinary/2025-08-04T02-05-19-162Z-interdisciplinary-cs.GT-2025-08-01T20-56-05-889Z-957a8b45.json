@@ -1,0 +1,12 @@
+# Strategic Decompositions of Normal Form Games: Zero-sum Games and Potential Games
+
+**Authors:** Sung-Ha Hwang, Luc Rey-Bellet
+
+## Summary
+We study new classes of games, called zero-sum equivalent games and zero-sum equivalent potential games, and prove decomposition theorems involving these classes of games. We say that two games are "strategically equivalent" if, for every player, the payoff differences between two strategies (holding other players' strategies fixed) are identical. A zero-sum equivalent game is a game that is strategically equivalent to a zero-sum game; a zero-sum equivalent potential game is a zero-sum equivalent game that is strategically equivalent to a common interest game. We also call a game "normalized" if the sum of one player's payoffs, given the other players' strategies, is always zero. We show that any normal form game can be uniquely decomposed into either (i) a zero-sum equivalent game and a normalized common interest game, or (ii) a zero-sum equivalent potential game, a normalized zero-sum game, and a normalized common interest game, each with distinctive equilibrium properties. For example, we show that two-player zero-sum equivalent games with finite strategy sets generically have a unique Nash equilibrium and that two-player zero-sum equivalent potential games with finite strategy sets generically have a strictly dominant Nash equilibrium.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GT
+Collected: 2025-08-01T20:56:05.891Z

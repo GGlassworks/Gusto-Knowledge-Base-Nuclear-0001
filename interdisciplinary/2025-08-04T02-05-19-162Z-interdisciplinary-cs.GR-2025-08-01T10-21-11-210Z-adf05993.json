@@ -1,0 +1,12 @@
+# AKN_Regie: bridging digital and performing arts
+
+**Authors:** Georges Gagneré, Anastasiia Ternova
+
+## Summary
+AvatarStaging framework consists in directing avatars on a mixed theatrical stage, enabling a co-presence between the materiality of the physical actor and the virtuality of avatars controlled in real time by motion capture or specific animation players. It led to the implementation of the AKN_Regie authoring tool, programmed with the Blueprint visual language as a plugin for the Unreal Engine (UE) video game engine. The paper describes AKN_Regie main functionalities as a tool for non-programmer theatrical people. It gives insights of its implementation in the Blueprint visual language specific to UE. It details how the tool evolved along with its use in around ten theater productions. A circulation process between a nonprogramming point of view on AKN_Regie called Plugin Perspective and a programming acculturation to its development called Blueprint Perspective is discussed. Finally, a C++ Perspective is suggested to enhance the cultural appropriation of technological issues, bridging the gap between performing arts deeply involved in human materiality and avatars inviting to discover new worlds.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:21:11.210Z

@@ -1,0 +1,12 @@
+# Recent Advances in Fully Dynamic Graph Algorithms
+
+**Authors:** Kathrin Hanauer, Monika Henzinger, Christian Schulz
+
+## Summary
+In recent years, significant advances have been made in the design and analysis of fully dynamic algorithms. However, these theoretical results have received very little attention from the practical perspective. Few of the algorithms are implemented and tested on real datasets, and their practical potential is far from understood. Here, we present a quick reference guide to recent engineering and theory results in the area of fully dynamic graph algorithms.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:13:43.187Z

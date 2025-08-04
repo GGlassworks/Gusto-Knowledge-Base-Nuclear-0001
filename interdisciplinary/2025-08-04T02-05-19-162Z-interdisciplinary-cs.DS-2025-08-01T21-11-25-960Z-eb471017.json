@@ -1,0 +1,12 @@
+# A Complete Transient Analysis for the Incremental LMS Algorithm
+
+**Authors:** Muhammad Omer Bin Saeed
+
+## Summary
+The incremental least mean square (ILMS) algorithm was presented in \cite{Lopes2007}. The article included theoretical analysis of the algorithm along with simulation results under different scenarios. However, the transient analysis was left incomplete. This work presents the complete transient analysis, including the learning behavior. The analysis results are verified through several experimental results.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:11:25.961Z

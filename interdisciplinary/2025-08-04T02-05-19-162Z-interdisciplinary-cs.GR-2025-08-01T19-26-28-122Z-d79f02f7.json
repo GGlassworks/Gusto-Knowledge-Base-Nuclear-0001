@@ -1,0 +1,12 @@
+# On Integrating Information Visualization Techniques into Data Mining: A Review
+
+**Authors:** Keqian Li
+
+## Summary
+The exploding growth of digital data in the information era and its immeasurable potential value has called for different types of data-driven techniques to exploit its value for further applications. Information visualization and data mining are two research field with such goal. While the two communities advocates different approaches of problem solving, the vision of combining the sophisticated algorithmic techniques from data mining as well as the intuitivity and interactivity of information visualization is tempting. In this paper, we attempt to survey recent researches and real world systems integrating the wisdom in two fields towards more effective and efficient data analytics. More specifically, we study the intersection from a data mining point of view, explore how information visualization can be used to complement and improve different stages of data mining through established theories for optimized visual presentation as well as practical toolsets for rapid development. We organize the survey by identifying three main stages of typical process of data mining, the preliminary analysis of data, the model construction, as well as the model evaluation, and study how each stage can benefit from information visualization.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T19:26:28.122Z

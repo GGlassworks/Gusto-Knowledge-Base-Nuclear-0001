@@ -1,0 +1,12 @@
+# Leveraging Large Language Models for Enhanced Digital Twin Modeling: Trends, Methods, and Challenges
+
+**Authors:** Linyao Yang, Shi Luo, Xi Cheng, Lei Yu
+
+## Summary
+Digital twin technology is a transformative innovation driving the digital transformation and intelligent optimization of manufacturing systems. By integrating real-time data with computational models, digital twins enable continuous monitoring, simulation, prediction, and optimization, effectively bridging the gap between the physical and digital worlds. Recent advancements in communication, computing, and control technologies have accelerated the development and adoption of digital twins across various industries. However, significant challenges remain, including limited data for accurate system modeling, inefficiencies in system analysis, and a lack of explainability in the interactions between physical and digital systems. The rise of large language models (LLMs) offers new avenues to address these challenges. LLMs have shown exceptional capabilities across diverse domains, exhibiting strong generalization and emergent abilities that hold great potential for enhancing digital twins. This paper provides a comprehensive review of recent developments in LLMs and their applications to digital twin modeling. We propose a unified description-prediction-prescription framework to integrate digital twin modeling technologies and introduce a structured taxonomy to categorize LLM functionalities in these contexts. For each stage of application, we summarize the methodologies, identify key challenges, and explore potential future directions. To demonstrate the effectiveness of LLM-enhanced digital twins, we present an LLM-enhanced enterprise digital twin system, which enables automatic modeling and optimization of an enterprise. Finally, we discuss future opportunities and challenges in advancing LLM-enhanced digital twins, offering valuable insights for researchers and practitioners in related fields.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.ET
+Collected: 2025-08-01T10:16:12.333Z

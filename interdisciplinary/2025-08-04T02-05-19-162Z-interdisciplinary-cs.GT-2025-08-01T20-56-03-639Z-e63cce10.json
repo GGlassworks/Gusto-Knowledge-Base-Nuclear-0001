@@ -1,0 +1,12 @@
+# Exact Algorithms for Solving Stochastic Games
+
+**Authors:** Kristoffer Arnsfelt Hansen, Michal Koucky, Niels Lauritzen, Peter Bro Miltersen, Elias Tsigaridas
+
+## Summary
+Shapley's discounted stochastic games, Everett's recursive games and Gillette's undiscounted stochastic games are classical models of game theory describing two-player zero-sum games of potentially infinite duration. We describe algorithms for exactly solving these games.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GT
+Collected: 2025-08-01T20:56:03.641Z

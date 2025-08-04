@@ -1,0 +1,12 @@
+# Animals in Virtual Environments
+
+**Authors:** Hemal Naik, Renaud Bastien, Nassir Navab, Iain Couzin
+
+## Summary
+The core idea in an XR (VR/MR/AR) application is to digitally stimulate one or more sensory systems (e.g. visual, auditory, olfactory) of the human user in an interactive way to achieve an immersive experience. Since the early 2000s biologists have been using Virtual Environments (VE) to investigate the mechanisms of behavior in non-human animals including insect, fish, and mammals. VEs have become reliable tools for studying vision, cognition, and sensory-motor control in animals. In turn, the knowledge gained from studying such behaviors can be harnessed by researchers designing biologically inspired robots, smart sensors, and multi-agent artificial intelligence. VE for animals is becoming a widely used application of XR technology but such applications have not previously been reported in the technical literature related to XR. Biologists and computer scientists can benefit greatly from deepening interdisciplinary research in this emerging field and together we can develop new methods for conducting fundamental research in behavioral sciences and engineering. To support our argument we present this review which provides an overview of animal behavior experiments conducted in virtual environments.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:16:09.476Z

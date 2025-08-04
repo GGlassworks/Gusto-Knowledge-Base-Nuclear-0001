@@ -1,0 +1,12 @@
+# Digital twins for city simulation: Automatic, efficient, and robust mesh generation for large-scale city modeling and simulation
+
+**Authors:** Vasilis Naserentin, Anders Logg
+
+## Summary
+The concept of creating digital twins, connected digital models of physical systems, is gaining increasing attention for modeling and simulation of whole cities. The basis for building a digital twin of a city is the generation of a 3D city model, often represented as a mesh. Creating and updating such models is a tedious process that requires manual work and considerable effort, especially in the modeling of building geometries. In the current paper, we present a novel algorithm and implementation for automatic, efficient, and robust mesh generation for large-scale city modeling and simulation. The algorithm relies on standard, publicly available data, in particular 2D cadastral maps (building footprints) and 3D point clouds obtained from aerial scanning. The algorithm generates LoD1.2 city models in the form of both triangular surface meshes, suitable for visualisation, and high-quality tetrahedral volume meshes, suitable for simulation. Our tests demonstrate good performance and scaling and indicate good avenues for further optimization based on parallelisation. The long-term goal is a generic digital twin of cities volume mesh generator that provides (nearly) real-time mesh manipulation in LoD2.x.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:18:37.540Z

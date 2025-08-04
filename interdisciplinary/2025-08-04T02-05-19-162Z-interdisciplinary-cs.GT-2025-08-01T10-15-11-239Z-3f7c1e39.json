@@ -1,0 +1,12 @@
+# InfoBid: A Simulation Framework for Studying Information Disclosure in Auctions with Large Language Model-based Agents
+
+**Authors:** Yue Yin
+
+## Summary
+In online advertising systems, publishers often face a trade-off in information disclosure strategies: while disclosing more information can enhance efficiency by enabling optimal allocation of ad impressions, it may lose revenue potential by decreasing uncertainty among competing advertisers. Similar to other challenges in market design, understanding this trade-off is constrained by limited access to real-world data, leading researchers and practitioners to turn to simulation frameworks. The recent emergence of large language models (LLMs) offers a novel approach to simulations, providing human-like reasoning and adaptability without necessarily relying on explicit assumptions about agent behavior modeling. Despite their potential, existing frameworks have yet to integrate LLM-based agents for studying information asymmetry and signaling strategies, particularly in the context of auctions. To address this gap, we introduce InfoBid, a flexible simulation framework that leverages LLM agents to examine the effects of information disclosure strategies in multi-agent auction settings. Using GPT-4o, we implemented simulations of second-price auctions with diverse information schemas. The results reveal key insights into how signaling influences strategic behavior and auction outcomes, which align with both economic and social learning theories. Through InfoBid, we hope to foster the use of LLMs as proxies for human economic and social agents in empirical studies, enhancing our understanding of their capabilities and limitations. This work bridges the gap between theoretical market designs and practical applications, advancing research in market simulations, information design, and agent-based reasoning while offering a valuable tool for exploring the dynamics of digital economies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GT
+Collected: 2025-08-01T10:15:11.239Z

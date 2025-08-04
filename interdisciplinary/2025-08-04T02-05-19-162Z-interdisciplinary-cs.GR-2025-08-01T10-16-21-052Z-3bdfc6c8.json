@@ -1,0 +1,12 @@
+# Reflections on Diversity: A Real-time Virtual Mirror for Inclusive 3D Face Transformations
+
+**Authors:** Paraskevi Valergaki, Antonis Argyros, Giorgos Giannakakis, Anastasios Roussos
+
+## Summary
+Real-time 3D face manipulation has significant applications in virtual reality, social media and human-computer interaction. This paper introduces a novel system, which we call Mirror of Diversity (MOD), that combines Generative Adversarial Networks (GANs) for texture manipulation and 3D Morphable Models (3DMMs) for facial geometry to achieve realistic face transformations that reflect various demographic characteristics, emphasizing the beauty of diversity and the universality of human features. As participants sit in front of a computer monitor with a camera positioned above, their facial characteristics are captured in real time and can further alter their digital face reconstruction with transformations reflecting different demographic characteristics, such as gender and ethnicity (e.g., a person from Africa, Asia, Europe). Another feature of our system, which we call Collective Face, generates an averaged face representation from multiple participants' facial data. A comprehensive evaluation protocol is implemented to assess the realism and demographic accuracy of the transformations. Qualitative feedback is gathered through participant questionnaires, which include comparisons of MOD transformations with similar filters on platforms like Snapchat and TikTok. Additionally, quantitative analysis is conducted using a pretrained Convolutional Neural Network that predicts gender and ethnicity, to validate the accuracy of demographic transformations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:16:21.052Z

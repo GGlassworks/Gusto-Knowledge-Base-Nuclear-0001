@@ -1,0 +1,12 @@
+# Ultrasound Visualization using VTK
+
+**Authors:** Bhavya Sehgal, Gavin, Gui, Md Nahid sadik
+
+## Summary
+This project developed a web application using VTK for ultrasound visualization. The images were enhanced using median and Gaussian filters, and two algorithms were utilized for data visualization: isosurface extraction and Delaunay triangulation. Results showed that both algorithms were effective at reducing Gaussian noise and high-frequency noise, such as speckle noise, which is common in ultrasound. The web application allows users to select MHA files, adjust the marching cubes threshold, and switch between the two algorithms in runtime. This project demonstrates the benefits of ultrasound visualization in medical applications and the utility of using VTK to achieve high-quality visualizations. The web application provides healthcare professionals with a user-friendly platform to interpret ultrasound data, leading to better diagnosis and treatment decisions
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T19:43:57.598Z

@@ -1,0 +1,12 @@
+# The relation between eigenvalue/eigenvector and matrix game
+
+**Authors:** Haolin Liu
+
+## Summary
+Matrix game, which is also known as two person zero sum game, is a famous model in game theory. There are some well established theories about it, such as von Neumann minimax theorem. However, almost no literature have reported the relationship between eigenvalue/eigenvector and properties of matrix game. In this paper, we find such relation of some special matrices and try to extend some conclusions to general matrix.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GT
+Collected: 2025-08-01T20:57:12.695Z

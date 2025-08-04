@@ -1,0 +1,12 @@
+# Stackelberg Attack on Protocol Fee Governance
+
+**Authors:** Alexandre Hajjar
+
+## Summary
+We establish a Stackelberg attack by Liquidity Providers against Governance of an AMM, leveraging forking and commitments through a Grim Forker smart contract. We produce a dynamic, block-by-block model of AMM reserves and trading volume in the presence of competing forks, derive equilibrium conditions in the presence of protocol fees, and analyze Stackelberg equilibria with smart contract moves.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GT
+Collected: 2025-08-01T13:46:39.141Z

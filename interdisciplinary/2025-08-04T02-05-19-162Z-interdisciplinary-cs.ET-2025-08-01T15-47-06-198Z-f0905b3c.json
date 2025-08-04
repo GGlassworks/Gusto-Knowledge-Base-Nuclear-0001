@@ -1,0 +1,12 @@
+# Modulated Signals in Chemical Reaction Networks
+
+**Authors:** Titus H. Klinge, James I. Lathrop
+
+## Summary
+Electrical engineering and molecular programming share many of the same mathematical foundations. In this paper, we show how to send multiple signals through a single pair of chemical species using modulation and demodulation techniques found in electrical engineering. Key to our construction, we provide chemical implementations of classical linear band-pass and low-pass filters with induced differential equations that are identical to their electrical engineering counterparts. We show how to modulate \emph{arbitrary} independent input signals with different carrier frequencies for transmission through a shared medium. Specific signals in the medium can then be isolated and demodulated using band-pass and low-pass filters. Such programmable chemical band-pass filters also offer a way to monitor chemical systems to verify that they are operating between a prescribed set of frequencies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.ET
+Collected: 2025-08-01T15:47:06.199Z

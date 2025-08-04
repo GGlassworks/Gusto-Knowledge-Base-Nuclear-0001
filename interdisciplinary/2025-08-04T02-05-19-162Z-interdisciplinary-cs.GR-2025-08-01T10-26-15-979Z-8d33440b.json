@@ -1,0 +1,12 @@
+# Inspection of histological 3D reconstructions in virtual reality
+
+**Authors:** Oleg Lobachev, Moritz Berthold, Henriette Pfeffer, Michael Guthe, Birte S. Steiniger
+
+## Summary
+3D reconstruction is a challenging current topic in medical research. We perform 3D reconstructions from serial sections stained by immunohistological methods. This paper presents an immersive visualisation solution to quality control (QC), inspect, and analyse such reconstructions. QC is essential to establish correct digital processing methodologies. Visual analytics, such as annotation placement, mesh painting, and classification utility, facilitates medical research insights. We propose a visualisation in virtual reality (VR) for these purposes. In this manner, we advance the microanatomical research of human bone marrow and spleen. Both 3D reconstructions and original data are available in VR. Data inspection is streamlined by subtle implementation details and general immersion in VR.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GR
+Collected: 2025-08-01T10:26:15.980Z

@@ -1,0 +1,12 @@
+# An Issue in the Martingale Analysis of the Influence Maximization Algorithm IMM
+
+**Authors:** Wei Chen
+
+## Summary
+This paper explains a subtle issue in the martingale analysis of the IMM algorithm, a state-of-the-art influence maximization algorithm. Two workarounds are proposed to fix the issue, both requiring minor changes on the algorithm and incurring a slight penalty on the running time of the algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:11:27.066Z

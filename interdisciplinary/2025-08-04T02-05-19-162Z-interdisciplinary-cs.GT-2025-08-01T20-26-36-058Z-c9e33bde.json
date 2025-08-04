@@ -1,0 +1,12 @@
+# Data-Driven Automated Mechanism Design using Multi-Agent Revealed Preferences
+
+**Authors:** Luke Snow, Vikram Krishnamurthy
+
+## Summary
+Suppose a black box, representing multiple agents, generates decisions from a mixed-strategy Nash equilibrium of a game. Assume that we can choose the input vector to the black box and this affects the utilities of the agents, but we do not know the utilities of the individual agents. By viewing the decisions from the black box, how can we steer the Nash equilibrium to a socially optimal point? This paper constructs a reinforcement learning (RL) framework for adaptively achieving this mechanism design objective. We first derive a novel multi-agent revealed preference test for Pareto optimality -- this yields necessary and sufficient conditions for the existence of utility functions under which empirically observed mixed-strategy Nash equilibria are socially optimal. These conditions take the form of a testable linear program, and this result is of independent interest. We utilize this result to construct an inverse reinforcement learning (IRL) step to determine the Pareto gap, i.e., the distance of observed strategies from Pareto optimality. We pair this IRL step with an RL policy gradient algorithm and prove convergence to a mechanism which minimizes the Pareto gap, thereby inducing social optimality in equilibria strategies. We also reveal an intimate connection between our constructed loss function and several robust revealed preference metrics; this allows us to reason about algorithmic suboptimality through the lens of these well-established microeconomic principles. Finally, in the case when only finitely many i.i.d. samples from mixed-strategies (partial strategy specifications) are available, we derive concentration bounds for our algorithm's convergence, and we construct a distributionally robust RL procedure which achieves mechanism design for the fully specified strategies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GT
+Collected: 2025-08-01T20:26:36.059Z

@@ -1,0 +1,12 @@
+# An Incentive-Compatible Smart Contract for Decentralized Commerce
+
+**Authors:** Nikolaj Ignatieff Schwartzbach
+
+## Summary
+We propose a smart contract that allows two mutually distrusting parties to transact any non-digital good or service by deploying a smart contract on a blockchain to act as escrow. The contract settles disputes by letting parties wager that they can convince an arbiter that they were the honest party. We analyse the contract as an extensive-form game and prove that the honest strategy is secure in a strong game-theoretic sense if and only if the arbiter is biased in favor of honest parties. By relaxing the security notion, we can replace the arbiter by a random coin toss. Finally, we show how to generalize the contract to multiparty transactions in a way that amortizes the transaction fees.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.GT
+Collected: 2025-08-01T13:46:39.428Z

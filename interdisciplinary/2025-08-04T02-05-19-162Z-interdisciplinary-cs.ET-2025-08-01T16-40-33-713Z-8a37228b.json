@@ -1,0 +1,12 @@
+# Composable Rate-Independent Computation in Continuous Chemical Reaction Networks
+
+**Authors:** Cameron Chalk, Niels Kornerup, Wyatt Reeves, David Soloveichik
+
+## Summary
+Biological regulatory networks depend upon chemical interactions to process information. Engineering such molecular computing systems is a major challenge for synthetic biology and related fields. The chemical reaction network (CRN) model idealizes chemical interactions, allowing rigorous reasoning about the computational power of chemical kinetics. Here we focus on function computation with CRNs, where we think of the initial concentrations of some species as the input and the equilibrium concentration of another species as the output. Specifically, we are concerned with CRNs that are rate-independent (the computation must be correct independent of the reaction rate law) and composable ($f\circ g$ can be computed by concatenating the CRNs computing $f$ and $g$). Rate independence and composability are important engineering desiderata, permitting implementations that violate mass-action kinetics, or even "well-mixedness", and allowing the systematic construction of complex computation via modular design. We show that to construct composable rate-independent CRNs, it is necessary and sufficient to ensure that the output species of a module is not a reactant in any reaction within the module. We then exactly characterize the functions computable by such CRNs as superadditive, positive-continuous, and piecewise rational linear. Thus composability severely limits rate-independent computation unless more sophisticated input/output encodings are used.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.ET
+Collected: 2025-08-01T16:40:33.713Z

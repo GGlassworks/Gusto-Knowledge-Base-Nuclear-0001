@@ -1,0 +1,12 @@
+# A Survey of Molecular Communication in Cell Biology: Establishing a New Hierarchy for Interdisciplinary Applications
+
+**Authors:** Dadi Bi, Apostolos Almpanis, Adam Noel, Yansha Deng, Robert Schober
+
+## Summary
+Molecular communication (MC) engineering is inspired by the use of chemical signals as information carriers in cell biology. The biological nature of chemical signaling makes MC a promising methodology for interdisciplinary applications requiring communication between cells and other microscale devices. However, since the life sciences and communications engineering fields have distinct approaches to formulating and solving research problems, the mismatch between them can hinder the translation of research results and impede the development and implementation of interdisciplinary solutions. To bridge this gap, this survey proposes a novel communication hierarchy for MC signaling in cell biology and maps phenomena, contributions, and problems to the hierarchy. The hierarchy includes: 1) the Physical Signal Propagation level; 2) the Physical and Chemical Signal Interaction level; 3) the Signal-Data Interface level; 4) the Local Data Abstraction level; and 5) the Application level. To further demonstrate the proposed hierarchy, it is applied to case studies on quorum sensing, neuronal signaling, and communication via DNA. Finally, several open problems are identified for each level and the integration of multiple levels. The proposed hierarchy provides language for communication engineers to study and interface with biological systems, and also helps biologists to understand how communications engineering concepts can be exploited to interpret, control, and manipulate signaling in cell biology.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.ET
+Collected: 2025-08-01T16:29:07.862Z
