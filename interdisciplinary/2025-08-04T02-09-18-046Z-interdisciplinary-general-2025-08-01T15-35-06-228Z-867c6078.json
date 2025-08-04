@@ -1,0 +1,13 @@
+# Voice Controlled Fire Fighting Robot
+
+**Authors:** Mehareethaa K.V, Chaarumathi P, Divya S.R, Divyajothi R, Kamalkumar V
+
+## Abstract
+<jats:p>Even though there are a lot of advancements in technology, there have been an increased number of devastating losses in the field of fire-fighting. Fire accidents that occur in industries like atomic power plants, petroleum refineries, chemical factories and other large-scale fire industries end in quite serious consequences which can cause injuries or even death of individuals. Therefore, this paper is enhanced to develop an automated fire extinguishing robotic vehicle that saves the lives of firefighters and other persons in those areas. The proposed robotic vehicle is controlled using specified speech commands. The language input is more familiar which makes interaction with the robotic vehicle much easier. The advantages of voice-controlled robots are hands-free and rapid data input operations. The speech recognition process is done in such a way that it recognizes specified commands from the user and the designed robot navigates based on the instructions via the speech commands. The fire can be extinguished using a water tank that is fitted along with the robotic vehicle. Consequently, the site of fire is live monitored using ESP 32 and the status of the fire zone is updated to the user through message.</jats:p>
+
+**Source:** https://doi.org/10.35940/ijrte.c4407.099320
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:35:06.228Z

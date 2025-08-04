@@ -1,0 +1,13 @@
+# Languages for Smart and Computable Contracts
+
+**Authors:** Christopher D Clack
+
+## Abstract
+<p>This chapter provides an in-depth engagement with the project of expressing legal propositions in machine-readable language. Smart Contracts use computer technology to automate the performance of aspects of commercial agreements. Yet how can there be confidence that the computer code is faithful to the intentions of the parties? To understand the depth and subtlety of this question requires an exploration of natural and computer languages, of the semantics of expressions in those languages, and of the gap that exists between the disciplines of law and computer science. It builds on the metaphor of a ‘contract stack’ with the idea of a ‘language stack’ and illustrates the various layers of language—both natural and formal—that might exist and interact in any instantiation of a ‘smart legal contract’. It also explains the importance of language design in the development of reliable smart contracts, including the use of domain specific languages and the design of controlled natural languages within the specific methodology of computable contracts. Reflecting the author’s original research in the area, this chapter examines ‘computable contracts’ in particular detail—a sub-type of ‘smart contracts’ in which the top two layers of the language stack (‘natural language’ and ‘specification language’) have been merged. As well as providing an in-depth overview of theory, this chapter provides an up-to-date survey of existing projects and reflections on directions for future research.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780192858467.003.0013
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T13:45:52.440Z

@@ -1,0 +1,13 @@
+# Smart Contracts as Execution Instead of Expression
+
+**Authors:** Eric Tjong Tjin Tai
+
+## Abstract
+<p>This chapter elucidates the position of smart contracts from the perspective of contracts as a means of connecting execution to human intentions, and draws several conclusions with regards to the consequences and limitations of the use of smart contracts. Contracts presume a human execution chain: humans interpret the contractual rules to realize the contract through actions. Interpretation functions as a means of making execution conform to party expectations, with the help of contractual terms in human-readable form, corrected by contract law. Smart contracts offer an alternative, an automated execution chain. This does not remove the need for translating party expectations into a specification of actions (the contract). It does imply that the specification is liberated from the need to be readable by humans. Consequentially, this chapter argues that the smart contract has no expressive force as to its actions: the impression given by the code to a human reader has no intrinsic connection to what the smart contract will do. As a result, smart contracts can execute contracts without exactly following contract law doctrines, although parties probably expect smart contracts to broadly conform to contract law as protecting background expectations. Smart contracts are limited in only following background expectations that have explicitly been programmed: they are unable to follow the precise, case-based and <italic>ex-post</italic> decided way in which equity and fairness operate as correctives. Parties to a smart contract should realize that they lose <italic>ex-post</italic> control such as unfair terms protection.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780192858467.003.0010
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T13:45:52.647Z
