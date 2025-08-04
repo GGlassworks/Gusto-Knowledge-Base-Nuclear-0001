@@ -1,0 +1,13 @@
+# Can Word Probabilities from LDA Be Simply Added up to Represent Documents?
+
+**Authors:** Cai, Zhiqiang, Li, Hiyiang, Hu, Xiangen, Graesser, Art
+
+## Abstract
+This paper provides an alternative way of document representation by treating topic probabilities as a vector representation for words and representing a document as a combination of the word vectors. A comparison on summary data shows that this representation is more effective in document classification. [This paper was published in: &quot;Proceedings of the 9th International Conference on Educational Data Mining&quot; (p577-578).]
+
+**Source:** https://eric.ed.gov/?id=ED596349
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T19:41:27.310Z

@@ -1,0 +1,13 @@
+# Exploring Learning Management System Interaction Data: Combining Data-Driven and Theory-Driven Approaches
+
+**Authors:** Choi, Hongkyu, Lee, Ji Eun, Hong, Won-joon, Lee, Kyumin, Recker, Mimi, Walker, Andy
+
+## Abstract
+This research connects several data-driven educational data mining approaches to a framework for interaction developed in educational research. In particular, 10 million usage data points collected by a Learning Management System used by students and teachers in 450 online undergraduate courses were analyzed with this framework. A range of educational data mining techniques were employed, including K-means clustering, multiple regression, and classification, to both explore and predict student final grades and course completion rates. Findings show that support for the overall model varied with the way data were mapped to the framework (e.g., static vs. temporal features) and the analysis technique used (with clustering and classification providing more useful insights). [For the full proceedings, see ED592609.]
+
+**Source:** https://eric.ed.gov/?id=ED592669
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T19:27:02.092Z

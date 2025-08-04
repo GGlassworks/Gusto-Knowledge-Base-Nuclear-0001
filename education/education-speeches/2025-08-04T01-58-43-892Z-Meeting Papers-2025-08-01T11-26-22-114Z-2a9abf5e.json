@@ -1,0 +1,13 @@
+# Concept-Aware Deep Knowledge Tracing and Exercise Recommendation in an Online Learning System
+
+**Authors:** Ai, Fangzhe, Chen, Yishuai, Guo, Yuchun, Zhao, Yongxiang, Wang, Zhenzhu, Fu, Guowei, Wang, Guangyan
+
+## Abstract
+Personalized education systems recommend learning contents to students based on their capacity to accelerate their learning. This paper proposes a personalized exercise recommendation system for online self-directed learning. We first improve the performance of knowledge tracing models. Existing deep knowledge tracing models, such as Dynamic Key-Value Memory Network (DKVMN), ignore exercises' concept tags, which are usually available in tutoring systems. We modify DKVMN to design its memory structure based on the course's concept list, and explicitly consider the exercise-concept mapping relationship during students' knowledge tracing. We evaluated the model on the 5th grade students' math exercising dataset in TAL, one of the biggest education groups in China, and found that our model has higher performance than existing models. We also enhance the DKVMN model to support more input features and obtain higher performance. Second, we use the model to build a student simulator, and use it to train an exercise recommendation policy with deep reinforcement learning. Experimental results show that our policy achieves better performance than existing heuristic policy in terms of maximizing the students' knowledge level. To the best of our knowledge, this is the first time that deep reinforcement learning has been applied to personalized mathematic exercise recommendation. [For the full proceedings, see ED599096.]
+
+**Source:** https://eric.ed.gov/?id=ED599194
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T11:26:22.114Z

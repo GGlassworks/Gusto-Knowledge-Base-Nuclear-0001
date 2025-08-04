@@ -1,0 +1,13 @@
+# A Comparison of Automated Scale Short Form Selection Strategies
+
+**Authors:** Raborn, Anthony W., Leite, Walter L., Marcoulides, Katerina M.
+
+## Abstract
+Short forms of psychometric scales have been commonly used in educational and psychological research to reduce the burden of test administration. However, it is challenging to select items for a short form that preserve the validity and reliability of the scores of the original scale. This paper presents and evaluates multiple automated methods for scale short form creation based on metaheuristic optimization algorithms that incorporate validity criteria based on internal structure and relationships with other variables. The ant colony optimization (ACO) algorithm, tabu search (TS), simulated annealing (SA) and genetic algorithm (GA) are examined using confirmatory factor analysis (CFA) of scales with one factor, three factor, and bi-factor factorial structure. The results indicate that SA created short forms with best model fit for scales with one and three factor structures, but ACO was able to obtain highest reliability. For scales with bi-factor structure, SA provide short forms with best model fit, but TS obtained highest reliability. Overall, the SA algorithm is recommended because it produced consistently best model fit and reliability that was only slightly lower than the ACO or TS algorithms. [For the full proceedings, see ED599096.]
+
+**Source:** https://eric.ed.gov/?id=ED599168
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T19:29:03.921Z

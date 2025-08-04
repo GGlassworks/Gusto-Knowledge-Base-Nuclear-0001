@@ -1,0 +1,13 @@
+# Improving Peer Assessment with Graph Neural Networks
+
+**Authors:** Namanloo, Alireza A., Thorpe, Julie, Salehi-Abari, Amirali
+
+## Abstract
+Peer assessment systems are emerging in many settings, such as peer grading in large (online) classes, peer review in conferences, peer art evaluation, etc. However, peer assessments might not be as accurate as expert evaluations, thus rendering these systems unreliable. The reliability of peer assessment systems is influenced by various factors such as assessment ability of peers, their strategic assessment behaviors, and the peer assessment setup (e.g., peer evaluating group work or individual work of others). In this work, we first model peer assessment as multi-relational weighted networks that can express a variety of peer assessment setups, and can also capture conflicts of interest and strategic behaviors. Leveraging our peer assessment network model, we introduce a graph neural network which can learn assessment patterns and user behaviors to more accurately predict expert evaluations. Our extensive experiments on real and synthetic datasets demonstrate the efficacy of our approach, which outperforms a variety of peer assessment methods. [For the full proceedings, see ED623995.]
+
+**Source:** https://eric.ed.gov/?id=ED624049
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T11:43:02.845Z

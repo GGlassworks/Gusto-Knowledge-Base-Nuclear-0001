@@ -1,0 +1,13 @@
+# Extracting Keywords from Images Using Deep Learning for the Visually Challenged
+
+**Authors:** Jaboob, Said, Chauhan, Munes Singh, Dhanasekaran, Balaji, Natarajan, Senthil Kumar
+
+## Abstract
+Assistive technologies can in many ways facilitate the normal day-to-day lives of the disabled. As part of the ongoing research on assistive technologies at UTAS, Oman, that deals with augmenting and finding multimodal aspects of applications for the disabled, this paper aspires to investigate the role of deep learning in the field of image interpretation. Images are one of the most important mediums of conveying information among humans. Visually impaired persons especially with low cognitive abilities face insurmountable difficulties in understanding cues through images. This challenge is met by filtering words from image captions to facilitate understanding of the key notion conveyed by an image. This work utilizes the image captioning technique using deep learning frameworks such as convolution neural networks (CNN) and recurrent neural networks (RNN) to generate captions. These captions are fed to Rake, an NLP library that identifies keywords in the caption. The entire process is automated and uses transfer learning techniques for caption generation from images. This process is then further integrated with our main project, Finger Movement Multimodal Assistive System (FMAS) thereby incorporating text cues for interpreting images for the visually impaired. [For the full proceedings, see ED630948.]
+
+**Source:** https://eric.ed.gov/?id=ED630963
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T11:27:20.358Z

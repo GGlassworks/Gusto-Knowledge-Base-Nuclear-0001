@@ -1,0 +1,13 @@
+# Addressing Competing Objectives in Allocating Funds to Scholarships and Need-Based Financial Aid
+
+**Authors:** Phan, Vinhthuy, Wright, Laura, Decent, Bridgette
+
+## Abstract
+A strategy for allocating merit-based awards and need-based aid is critical to a university. Such a strategy, however, must address multiple, sometimes competing objectives. We introduce an approach that couples a gradient boosting classifier for predicting outcomes from an allocation strategy with a local search optimization algorithm, which optimizes strategies based on their expected outcomes. Unlike most existing approaches that focus strictly on allocating merit based awards, ours optimizes simultaneously the allocation of both merit-based awards and need-based aid. Further, the multi-objective optimization lets users experiment with different combinations of institution-centric and student-centric objectives to deliver outcomes that suit desired goals. With this approach, we identify multiple allocation strategies that would yield higher enrollment, revenue, or students' affordability and access to higher education than the University's existing strategy. In particular, one strategy suggests that with moderate changes to the current funding structure the University can increase students' access to higher education by more than 100%, while still maintaining a similar level of enrollment and revenue. [For the full proceedings, see ED623995.]
+
+**Source:** https://eric.ed.gov/?id=ED624045
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T19:29:03.722Z

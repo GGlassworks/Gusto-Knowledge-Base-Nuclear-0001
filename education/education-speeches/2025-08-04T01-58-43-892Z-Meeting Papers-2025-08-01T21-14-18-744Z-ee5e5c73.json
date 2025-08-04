@@ -1,0 +1,13 @@
+# Microcomputer Selection of a Predictor Weighting Algorithm.
+
+**Authors:** Morris, John D.
+
+## Abstract
+An empirical method called Predicted Error Sum of Squares (PRESS) is advanced and studied. This method is used to examine the cross-validated prediction accuracies of some popular algorithms for weighted predictor variables. The weighting methods that were considered were ordinary least squares, ridge regression, regression on principal components, and regression on an equally weighted composite. PRESS was executed on several data sets having varied characteristics, with each of the weighting techniques obtaining the greatest accuracy under some conditions. The degree of advantage or disadvantage offered by these alternate weighting algorithms relative to ordinary least squares was considered. As it was not possible to determine a priori which weighting technique would be most  accurate for a particular data set from theoretical knowledge or from simple sample data characteristics, the sample specific PRESS method was proffered as possibly most appropriate when the researcher wishes to select from among the several alternate predictor weighting algorithms in order to achieve maximum cross-validated prediction accuracy. The feasibility of the use of a microcomputer for the computation intensive PRESS algorithm was also considered. (Author/JAZ)
+
+**Source:** https://eric.ed.gov/?id=ED274716
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T21:14:18.745Z

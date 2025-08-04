@@ -1,0 +1,13 @@
+# Assessing Readability by Filling Cloze Items with Transformers
+
+**Authors:** Olney, Andrew M.
+
+## Abstract
+Cloze items are a foundational approach to assessing readability. However, they require human data collection, thus making them impractical in automated metrics. The present study revisits the idea of assessing readability with cloze items and compares human cloze scores and readability judgments with predictions made by T5, a popular deep learning architecture, on three corpora. Across all corpora, T5 predictions significantly correlated with human cloze scores and readability judgments, and in predictive models, they could be used interchangeably with average word length, a common readability predictor. For two corpora, combining T5 and Flesch reading ease predictors improved model fit for human cloze scores and readability judgments.
+
+**Source:** https://eric.ed.gov/?id=ED629937
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T11:55:33.630Z

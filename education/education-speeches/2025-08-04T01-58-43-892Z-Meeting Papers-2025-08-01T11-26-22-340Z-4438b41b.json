@@ -1,0 +1,13 @@
+# Predicting Bug Fix Time in Students&apos; Programming with Deep Language Models
+
+**Authors:** Tsabari, Stav, Segal, Avi, Gal, Kobi
+
+## Abstract
+Automatically identifying struggling students learning to program can assist teachers in providing timely and focused help. This work presents a new deep-learning language model for predicting &quot;bug-fix-time&quot;, the expected duration between when a software bug occurs and the time it will be fixed by the student. Such information can guide teachers' attention to students most in need. The input to the model includes snapshots of the student's evolving software code and additional meta-features. The model combines a transformerbased neural architecture for embedding students' code in programming language space with a time-aware LSTM for representing the evolving code snapshots. We evaluate our approach with data obtained from two Java development environments created for beginner programmers. We focused on common programming errors which differ in their difficulty and whether they can be uniquely identified during compilation. Our deep language model was able to outperform several baseline models that use an alternative embedding method or do not consider how the programmer's code changes over time. Our results demonstrate the added value of utilizing multiple code snapshots to predict bug-fix-time using deep language models for programming. [For the complete proceedings, see ED630829.]
+
+**Source:** https://eric.ed.gov/?id=ED630874
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T11:26:22.341Z

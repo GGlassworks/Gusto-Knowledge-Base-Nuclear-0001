@@ -1,0 +1,13 @@
+# More Powerful A/B Testing Using Auxiliary Data and Deep Learning
+
+**Authors:** Adam C. Sales, Ethan Prihar, Johann Gagnon-Bartsch, Ashish Gurung, Neil T. Heffernan
+
+## Abstract
+Randomized A/B tests allow causal estimation without confounding but are often under-powered. This paper uses a new dataset, including over 250 randomized comparisons conducted in an online learning platform, to illustrate a method combining data from A/B tests with log data from users who were not in the experiment. Inference remains exact and unbiased without additional assumptions, regardless of the deep-learning model's quality. In this dataset, incorporating auxiliary data improves precision consistently and, in some cases, substantially.
+
+**Source:** https://eric.ed.gov/?id=ED627066
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T11:29:55.325Z

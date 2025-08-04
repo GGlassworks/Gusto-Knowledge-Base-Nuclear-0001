@@ -1,0 +1,13 @@
+# Analyzing Student Inquiry Data Using Process Discovery and Sequence Classification
+
+**Authors:** Emond, Bruno, Buffett, Scott
+
+## Abstract
+This paper reports on results of applying process discovery mining and sequence classification mining techniques to a data set of semi-structured learning activities. The main research objective is to advance educational data mining to model and support self-regulated learning in heterogeneous environments of learning content, activities, and social networks. As an example of our current research efforts, we applied temporal data mining analysis techniques to a PSLC DataShop data set [17, 18, 19, 20]. First, we show that process mining techniques allow for discovery of learning processes from student behaviours. Second, sequential pattern mining is used to classify students according to skill. Our results show that considering sequences of activities as opposed to single events improved classification by up to 230%. [For complete proceedings, see ED560503.]
+
+**Source:** https://eric.ed.gov/?id=ED560872
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T19:25:58.732Z

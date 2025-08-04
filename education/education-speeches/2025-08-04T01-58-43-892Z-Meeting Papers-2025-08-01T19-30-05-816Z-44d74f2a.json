@@ -1,0 +1,13 @@
+# A Comparative Study of Classification and Regression Algorithms for Modelling Students' Academic Performance
+
+**Authors:** Strecht, Pedro, Cruz, Luís, Soares, Carlos, Mendes-Moreira, João, Abreu, Rui
+
+## Abstract
+Predicting the success or failure of a student in a course or program is a problem that has recently been addressed using data mining techniques. In this paper we evaluate some of the most popular classification and regression algorithms on this problem. We address two problems: prediction of approval/failure and prediction of grade. The former is tackled as a classification task while the latter as a regression task. Separate models are trained for each course. The experiments were carried out using administrate data from the University of Porto, concerning approximately 700 courses. The algorithms with best results overall in classification were decision trees and SVM while in regression they were SVM, Random Forest, and AdaBoost.R2. However, in the classification setting, the algorithms are finding useful patterns, while, in regression, the models obtained are not able to beat a simple baseline. [This work was partially funded by projects financed by the North Portugal Regional Operational Programme (ON.2--O Novo Norte), under the National Strategic Reference Framework (NSRF), through the European Regional Development Fund (ERDF).] [For complete proceedings, see ED560503.]
+
+**Source:** https://eric.ed.gov/?id=ED560769
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T19:30:05.816Z
