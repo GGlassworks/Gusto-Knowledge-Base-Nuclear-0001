@@ -1,0 +1,13 @@
+# Population Genetics Models of Local Ancestry
+
+**Authors:** S. Gravel
+
+## Abstract
+Migrations have played an important role in shaping the genetic diversity of human populations. Understanding genomic data thus requires careful modeling of historical gene flow. Here we consider the effect of relatively recent population structure and gene flow and interpret genomes of individuals that have ancestry from multiple source populations as mosaics of segments originating from each population. This article describes general and tractable models for local ancestry patterns with a focus on the length distribution of continuous ancestry tracts and the variance in total ancestry proportions among individuals. The models offer improved agreement with Wright–Fisher simulation data when compared to the state-of-the art and can be used to infer time-dependent migration rates from multiple populations. Considering HapMap African-American (ASW) data, we find that a model with two distinct phases of “European” gene flow significantly improves the modeling of both tract lengths and ancestry variances.
+
+**Source:** https://www.semanticscholar.org/paper/2fce31769c13b3cf10be8b9bfaa14ca551a68113
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:49:05.000Z

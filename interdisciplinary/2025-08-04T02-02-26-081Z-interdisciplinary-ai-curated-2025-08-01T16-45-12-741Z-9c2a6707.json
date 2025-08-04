@@ -1,0 +1,13 @@
+# Quantitative genetics theory for genomic selection and efficiency of breeding value prediction in open-pollinated populations
+
+**Authors:** J. Viana, H. Piepho, F. F. Silva
+
+## Abstract
+To date, the quantitative genetics theory for genomic selection has focused mainly on the relationship between marker and additive variances assuming one marker and one quantitative trait locus (QTL). This study extends the quantitative genetics theory to genomic selection in order to prove that prediction of breeding values based on thousands of single nucleotide polymorphisms (SNPs) depends on linkage disequilibrium (LD) between markers and QTLs, assuming dominance. We also assessed the efficiency of genomic selection in relation to phenotypic selection, assuming mass selection in an open-pollinated population, all QTLs of lower effect, and reduced sample size, based on simulated data. We show that the average effect of a SNP substitution is proportional to LD measure and to average effect of a gene substitution for each QTL that is in LD with the marker. Weighted (by SNP frequencies) and unweighted breeding value predictors have the same accuracy. Efficiency of genomic selection in relation to phenotypic selection is inversely proportional to heritability. Accuracy of breeding value prediction is not affected by the dominance degree and the method of analysis, however, it is influenced by LD extent and magnitude of additive variance. The increase in the number of markers asymptotically improved accuracy of breeding value prediction. The decrease in the sample size from 500 to 200 did not reduce considerably accuracy of breeding value prediction.
+
+**Source:** https://www.semanticscholar.org/paper/457d598b45010c6c689536ad661e4d7a089e8e2d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:45:12.741Z

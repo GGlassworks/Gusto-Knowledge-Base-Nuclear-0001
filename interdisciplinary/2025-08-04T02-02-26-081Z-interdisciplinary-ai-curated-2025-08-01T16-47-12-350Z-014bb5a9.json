@@ -1,0 +1,13 @@
+# Designing a power system stabilizer using a hybrid algorithm by genetics and bacteria for the multi-machine power system
+
+**Authors:** Mahmoud Zadehbagheri, Tole Sutikno, M. J. Kiani, Meysam Yousefi
+
+## Abstract
+This research creates an optimal power grid stabilizer for four machines. Rotor speed signals are system inputs in the proposed design. To improve response, this system uses a conventional power system stabilizer (CPSS) and an optimal CPSS (OCPSS). The genetic optimization hybrid has a new structure, and the network generators use the bacterial foraging algorithm (BFA) with stabilizer system. The system set is tested by MATLAB software under various conditions to evaluate the designs. The experiment starts with a three-phase fault in line 3 that is fixed by breaking the line after 0.2 seconds. The simulation results show that after a short circuit in line 3, the proposed OCPSS design reaches damping after about a cycle of oscillation in 4 seconds. However, the conventional CPSS design achieves damping after four oscillations in six seconds. Simulations show that the proposed method is better than genetic algorithm (GA) and BFA. Power system oscillations are dampened faster and with lower amplitude when power system stabilizer (PSS) coordinate with the proposed optimization method. It also improves power system dynamics. We demonstrate with the proposed OCPSS stabilizer that advanced optimization systems can maximize system control capacity by utilizing conventional CPSS system advantages.
+
+**Source:** https://www.semanticscholar.org/paper/5a63cf08dde65f45c0a0ad370fba7c318b7e9777
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:12.351Z

@@ -1,0 +1,13 @@
+# Restructuration of distribution power system using Genetics Algorithms
+
+**Authors:** K. Sebaa, N. Henini, A. Tlemçani, Hassan NOURI
+
+## Abstract
+This paper uses Genetic Algorithms (GAs) to solve the optimal reconfiguration in radial distribution systems for power loss reduction that determine the optimal switches. The GA is a relatively powerful intelligence evolution method for solving optimization problems. It is a population based approach that isinspired from natural behavior of species. In this paper GA is applied to a realistic distribution system (106 buses) located in the medea city (Algeria). For the comparison purposes, our method is validated with the classical Branch and Bound (B&B) method, widely used by the Distribution Companies. The results confirm the superiority of the GA.
+
+**Source:** https://www.semanticscholar.org/paper/cc286d4de9f5691d0d4e024085ced80fd790e34d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:48:07.931Z

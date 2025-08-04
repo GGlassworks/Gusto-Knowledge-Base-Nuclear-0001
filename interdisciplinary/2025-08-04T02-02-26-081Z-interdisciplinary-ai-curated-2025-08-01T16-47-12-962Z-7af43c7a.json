@@ -1,0 +1,13 @@
+# Multi‐objective optimization of a novel supercritical CO2 cycle‐based combined cycle for solar power tower plants integrated with SOFC and LNG cold energy and regasification
+
+**Authors:** M. H. Taheri, Leyla Khani, M. Mohammadpourfard, H. Aminfar, G. Akkurt
+
+## Abstract
+This study presents a new system for solar power, which is generated through a solar power tower with a molten salt cycle. To increase the consumption of energy losses, besides the closed supercritical carbon dioxide (sCO2) Brayton cycle, a liquid natural gas (LNG) open‐cycle was used as a heat sink alongside a cascade organic Rankine cycle with the capability of working at low temperatures. LNG is implemented for a solid oxide fuel cell input, after cooling down the power generation systems and power generation. Besides the economic and thermodynamic analysis, destruction of exergy has been controlled and parametric studies are performed to investigate the influence of relative factors on the performance of the system. To optimize the system, a genetics algorithm has been employed by considering two reciprocal objective functions of the total cost rate and the exergy efficiency. The results of multi‐objective optimization show that the optimized point has a total product cost rate of $115.3/h and an exergy efficiency of 71%. Furthermore, exergy analysis shows that the molten salt heat exchangers and the LNG heat exchangers have the maximum rates of irreversibility and must be taken into consideration as a major priority for optimization.
+
+**Source:** https://www.semanticscholar.org/paper/7ef90b3c9befa116098257a74183aaccf90a7d55
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:12.962Z

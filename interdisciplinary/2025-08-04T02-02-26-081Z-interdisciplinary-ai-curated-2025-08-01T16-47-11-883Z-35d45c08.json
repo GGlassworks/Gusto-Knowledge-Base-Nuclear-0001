@@ -1,0 +1,13 @@
+# Heuristics and Metaheuristics Approach for Query Optimization Using Genetics and Memetics Algorithm
+
+**Authors:** Julia Kurniasih, Ema Utami, Suwanto Raharjo
+
+## Abstract
+Query optimization is one of the important things to make the system can be utilized optimally and minimize the execution time. Heuristics and Metaheuristics Approach using Genetic Algorithm (GA) and Memetics Algorithms (MA) can be used as a way to do optimization. Metaheuristics optimization is developing of the heuristics with applying a local search technique. A Memetics Algorithm (MA) are population-based metaheuristics constitute an extension of the traditional Genetics Algorithm (GA) which is combined with a local search technique. This research will perform the analysis of query optimization using GA and the modified MA which is developing by the combination of GA and Tabu Search (TS) applying on crossover operation. The evaluation is based on the comparison of the execution time of the unoptimized, GA and MA query.
+
+**Source:** https://www.semanticscholar.org/paper/3583ec60bd709446baeeb8e4a41a53e8ba7559f3
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:11.884Z

@@ -1,0 +1,13 @@
+# Optimal Algorithms for Sorting Permutations with Brooms
+
+**Authors:** Indulekha Thekkethuruthel Sadanandan, Bhadrachalam Chitturi
+
+## Abstract
+Sorting permutations with various operations has applications in genetics and computer interconnection networks where an operation is specified by its generator set. A transposition tree T=(V,E) is a spanning tree over n vertices v1,v2,…vn. T denotes an operation in which each edge is a generator. A value assigned to a vertex is called a token or a marker. The markers on vertices u and v can be swapped only if the pair (u,v)∈E. The initial configuration consists of a bijection from the set of vertices v1,v2,…,vn to the set of markers (1,2,⋯,n−1,n). The goal is to sort the initial configuration of T, i.e., an input permutation, by applying the minimum number of swaps or moves in T. Computationally tractable optimal algorithms to sort permutations are known only for a few classes of transposition trees. We study a class of transposition trees called a broom and its variation a double broom. A single broom is a tree obtained by joining the centre vertex of a star with one of the two leaf vertices of a path graph. A double broom is an extension of a single broom where the centre vertex of a second star is connected to the terminal vertex of the path in a single broom. We propose a simple and efficient algorithm to obtain an optimal swap sequence to sort permutations with the transposition tree broom and a novel optimal algorithm to sort permutations with a double broom. We also introduce a new class of trees named millipede tree and prove that D* yields a tighter upper bound for sorting permutations with a balanced millipede tree compared to D′. Algorithms D* and D′ are designed previously.
+
+**Source:** https://www.semanticscholar.org/paper/fd9b13eea208c96c9e5d6a8d6f824b6cff503572
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:48:09.412Z

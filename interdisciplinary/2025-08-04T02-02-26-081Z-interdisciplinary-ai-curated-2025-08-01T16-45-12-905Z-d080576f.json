@@ -1,0 +1,13 @@
+# Quantitative genetics theory for genomic selection and efficiency of genotypic value
+
+**Authors:** J. Viana, H. Piepho, F. F. Silva
+
+## Abstract
+Quantitative genetics theory for genomic selection has mainly focused on additive effects. This study presents quantitative genetics theory applied to genomic selection aiming to prove that prediction of genotypic value based on thousands of single nucleotide polymorphisms (SNPs) depends on linkage disequilibrium (LD) between markers and QTLs, assuming dominance and epistasis. Based on simulated data, we provided information on dominance and genotypic value prediction accuracy, assuming mass selection in an open-pollinated population, all quantitative trait loci (QTLs) of lower effect, and reduced sample size. We show that the predictor of dominance value is proportional to the square of the LD value and to the dominance deviation for each QTL that is in LD with each marker. The weighted (by the SNP frequencies) dominance value predictor has greater accuracy than the unweighted predictor. The linear × linear, linear × quadratic, quadratic × linear, and quadratic × quadratic SNP effects are proportional to the corresponding linear combinations of epistatic effects for QTLs and the LD values. LD between two markers with a common QTL causes a bias in the prediction of epistatic values. Compared to phenotypic selection, the efficiency of genomic selection for genotypic value prediction increases as trait heritability decreases. The degree of dominance did not affect the genotypic value prediction accuracy and the approach to maximum accuracy is asymptotic with increases in SNP density. The decrease in the sample size from 500 to 200 did not markedly reduce the genotypic value prediction accuracy.
+
+**Source:** https://www.semanticscholar.org/paper/260ed7fbd2ecfb70c3875e05111b7eecdadb8ced
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:45:12.905Z

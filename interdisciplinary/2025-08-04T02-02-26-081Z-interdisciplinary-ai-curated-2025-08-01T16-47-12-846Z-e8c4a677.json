@@ -1,0 +1,13 @@
+# Metaheuristic algorithms in optimization and its application: a review
+
+**Authors:** S. Kareem, Kurdistan Wns Hama Ali, S. Askar, Farah Sami Xoshaba, R. Hawezi
+
+## Abstract
+Metaheuristic algorithms are computational intelligence paradigms especially used for solving different optimization issues.  Metaheuristics examine a collection of solutions otherwise really be wide to be thoroughly addressed or discussed in any other way. Metaheuristics can be applied to a wide range of problems because they make accurate predictions in any optimization situation. Natural processes such as the fact of evolution in Natural selection behavioral genetics, ant behaviors in genetics, swarm behaviors of certain animals, annealing in metallurgy, and others motivate metaheuristics algorithms. The big cluster search algorithm is by far the most commonly used metaheuristic algorithm. The principle behind this algorithm is that it begins with an optimal state and then uses heuristic methods from the community search algorithm to try to refine it. Many metaheuristic algorithms in diverse environments and areas are examined, compared, and described in this article. Such as Genetic Algorithm (GA), ant Colony Optimization Algorithm (ACO), Simulated Annealing (SA), Particle Swarm Optimization (PSO) algorithm, Differential Evolution (DE) algorithm and etc. Finally, show the results of each algorithm in various environments were addressed. 
+
+**Source:** https://www.semanticscholar.org/paper/34c9f01d1ba7d5335685d1fda07f0a6a5a3bc047
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:12.847Z

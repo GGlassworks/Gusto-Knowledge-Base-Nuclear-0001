@@ -1,0 +1,13 @@
+# Molecular Evolutionary Genetics
+
+**Authors:** M. Nei
+
+## Abstract
+Recent developments of statistical methods in molecular phylogenetics are reviewed. It is shown that the mathematical foundations of these methods are not well established, but computer simulations and empirical data indicate that currently used methods such as neighbor joining, minimum evolution, likelihood, and parsimony methods produce reasonably good phylogenetic trees when a sufficiently large number of nucleotides or amino acids are used. However, when the rate of evolution varies exlensively from branch to branch, many methods may fail to recover the true topology. Solid statistical tests for examining'the accuracy of trees obtained by neighborjoining, minimum evolution, and least-squares method are available, but the methods for likelihood and parsimony trees are yet to be refined. Parsimony, likelihood, and distance methods can all be used for inferring amino acid sequences of the proteins of ancestral organisms that have become extinct.
+
+**Source:** https://www.semanticscholar.org/paper/06d49b0c74ebacde13bacabe9714b4825ea11ef4
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:44:16.766Z

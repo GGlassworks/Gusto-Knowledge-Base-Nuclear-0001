@@ -1,0 +1,13 @@
+# Error thresholds and stationary mutant distributions in multi-locus diploid genetics models
+
+**Authors:** P. Higgs
+
+## Abstract
+Summary We study multi-locus models for the accumulation of disadvantagenous mutant alleles in diploid populations. The theory used is closely related to the quasi-species theory of molecular evolution. The stationary mutant distribution may either be localized close to a peak in the fitness landscape or delocalized throughout sequence space. In some cases there is a sharp transition between these two cases known as an error threshold. We study a multiplicative fitness landscape where the fitness of an individual with j homozygous mutant loci and k heterozygous loci is w jk = (1 —s) 1 (1 —hs) k . For a sexual population in this landscape there are two types of solution separated by an error threshold. For a parthenogenetic population there may be three types of solution and two error thresholds for some values of h. For a population reproducing by selfing the solution is independent of h, since the frequency of heterozygous individuals is negligible. The mean fitnesses of the populations depend on the reproductive method even for the multiplicative landscape. The sexual may have a higher or lower fitness than the parthenogen, depending on the values of h and u/s. Selfing leads to a higher mean fitness than either sexual reproduction or parthenogenesis. We also study a fitness landscape with epistatic interactions with w jlc = exp(—s(2j+k) a ). The sexual population has a higher fitness than the parthenogen when a > 1. This confirms previous theories that sexual reproduction is advantageous in cases of synergistic epistasis. The mean fitness of a selfing population was found to be higher than both the sexual and the parthenogen over the range of parameter values studied. We discuss these results in relation to the theory of the evolution of sex. The fitness of the stationary distribution in cases where unfavourable The grey-scale indicating higher
+
+**Source:** https://www.semanticscholar.org/paper/f64c15207879d0aacb3c16ecdbd1fd551fa4ffd6
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:49:07.877Z

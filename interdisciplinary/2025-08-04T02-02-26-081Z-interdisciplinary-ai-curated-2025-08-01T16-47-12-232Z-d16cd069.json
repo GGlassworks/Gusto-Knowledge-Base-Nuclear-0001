@@ -1,0 +1,13 @@
+# Optimization of Discrete Cosine Transform-Based Image Watermarking by Genetics Algorithm
+
+**Authors:** Iwan Iwut, Gelar Budiman, L. Novamizanti
+
+## Abstract
+data in an image file is needed by its owner to set his ownership in a logo as a watermark embedded in the image file. Hiding the logo in the image was done in several methods. One of the method is domain transform using 2D-DCT in which data is embedded in  frequency domain of the image. First, the host RGB image is converted to certain color space. The available and chosen color spaces are RGB, YCbCr or NTSC. The layer in which the watermark is embedded also can be selected. The available choices are 1 st layer, 2 nd layer, 3 rd layer, 1 st & 2 nd layer, 2 nd & 3 rd layer, 1 st & 3 rd layer and all layers.  After the selected layer of image in certain color space is transformed in block based to frequency domain by DCT, one bit watermark is embedded on the AC coefficient of each block such a way that the bit is represented by specific value called delta in a zigzag and vary length of pixel. The vary parameters optimized by Genetics Algorithm are  selected color space, selected layer, block size, length of pixel to be embedded by one bit watermark, and delta. Bit “1” is represented by +delta, and bit “0” is represented by –delta in vary length of pixel after zigzag. The simulation result performs that GA is useful to search the value of parameter that produces controllable the combination between robustness, invisibility and capacity. Thus, GA improves the  method by determining the exact value of parameter achieving BER, PSNR and payload.
+
+**Source:** https://www.semanticscholar.org/paper/386752907bd2ea5c5546841bd28f66327b048444
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:12.232Z

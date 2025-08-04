@@ -1,0 +1,13 @@
+# Navigating the Interface Between Landscape Genetics and Landscape Genomics
+
+**Authors:** Andrew Storfer, Austin H. Patton, Alexandra K Fraik
+
+## Abstract
+As next-generation sequencing data become increasingly available for non-model organisms, a shift has occurred in the focus of studies of the geographic distribution of genetic variation. Whereas landscape genetics studies primarily focus on testing the effects of landscape variables on gene flow and genetic population structure, landscape genomics studies focus on detecting candidate genes under selection that indicate possible local adaptation. Navigating the transition between landscape genomics and landscape genetics can be challenging. The number of molecular markers analyzed has shifted from what used to be a few dozen loci to thousands of loci and even full genomes. Although genome scale data can be separated into sets of neutral loci for analyses of gene flow and population structure and putative loci under selection for inference of local adaptation, there are inherent differences in the questions that are addressed in the two study frameworks. We discuss these differences and their implications for study design, marker choice and downstream analysis methods. Similar to the rapid proliferation of analysis methods in the early development of landscape genetics, new analytical methods for detection of selection in landscape genomics studies are burgeoning. We focus on genome scan methods for detection of selection, and in particular, outlier differentiation methods and genetic-environment association tests because they are the most widely used. Use of genome scan methods requires an understanding of the potential mismatches between the biology of a species and assumptions inherent in analytical methods used, which can lead to high false positive rates of detected loci under selection. Key to choosing appropriate genome scan methods is an understanding of the underlying demographic structure of study populations, and such data can be obtained using neutral loci from the generated genome-wide data or prior knowledge of a species' phylogeographic history. To this end, we summarize recent simulation studies that test the power and accuracy of genome scan methods under a variety of demographic scenarios and sampling designs. We conclude with a discussion of additional considerations for future method development, and a summary of methods that show promise for landscape genomics studies but are not yet widely used.
+
+**Source:** https://www.semanticscholar.org/paper/a4bf9d6e9851a537d88f325d47d2b94bf0a6220e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:50:14.949Z

@@ -1,0 +1,13 @@
+# Genetic-Based Optimization of 3D Burch–Schneider Cage With Functionally Graded Lattice Material
+
+**Authors:** Manman Xu, Yan Zhang, Shuting Wang, Guozhang Jiang
+
+## Abstract
+A Burch–Schneider (BS) cage is a reinforcement device used in total hip arthroplasty (THA) revision surgeries to bridge areas of acetabular loss. There have been a variety of BS cages in the market, which are made of solid metal. However, significant differences in structural configuration and mechanical behavior between bone and metal implants cause bone resorption and interface loosening, and hence lead to failure of the implant in the long term. To address this issue, an optimal design framework for a cellular BS cage was investigated in this study by genetic algorithm and topology optimization, inspired by porous human bone with variable holes. In this optimization, a BS cage is constructed with functionally graded lattice material which gradually evolves to achieve better mechanical behavior by natural selection and natural genetics. Clinical constraints that allow adequate bone ingrowth and manufacturing constraint that ensures the realization of the optimized implant are considered simultaneously. A homogenization method is introduced to calculate effective mechanical properties of octet-truss lattice material in a given range of relative density. At last, comparison of the optimum lattice BS cage with a fully solid cage and a lattice cage with identical element density indicates the validity of the optimization design strategy proposed in this article.
+
+**Source:** https://www.semanticscholar.org/paper/85efd66aa6d88088075e7102c7e708d7192f2955
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:13.092Z

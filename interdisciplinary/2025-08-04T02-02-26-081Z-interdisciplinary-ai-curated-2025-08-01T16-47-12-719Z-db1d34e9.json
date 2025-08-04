@@ -1,0 +1,13 @@
+# Next Generation Statistical Genetics: Modeling, Penalization, and Optimization in High-Dimensional Data.
+
+**Authors:** K. Lange, J. Papp, J. Sinsheimer, E. Sobel
+
+## Abstract
+Statistical genetics is undergoing the same transition to big data that all branches of applied statistics are experiencing. With the advent of inexpensive DNA sequencing, the transition is only accelerating. This brief review highlights some modern techniques with recent successes in statistical genetics. These include: (a) lasso penalized regression and association mapping, (b) ethnic admixture estimation, (c) matrix completion for genotype and sequence data, (d) the fused lasso and copy number variation, (e) haplotyping, (f) estimation of relatedness, (g) variance components models, and (h) rare variant testing. For more than a century, genetics has been both a driver and beneficiary of statistical theory and practice. This symbiotic relationship will persist for the foreseeable future.
+
+**Source:** https://www.semanticscholar.org/paper/752b0b771763c61a7595cbe17f7e53015ad6b85f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:12.719Z

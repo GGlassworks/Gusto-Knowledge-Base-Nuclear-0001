@@ -1,0 +1,13 @@
+# Genetics algorithm optimization of DWT-DCT based image Watermarking
+
+**Authors:** Gelar Budiman, L. Novamizanti, Iwan Iwut
+
+## Abstract
+Data hiding in an image content is mandatory for setting the ownership of the image. Two dimensions discrete wavelet transform (DWT) and discrete cosine transform (DCT) are proposed as transform method in this paper. First, the host image in RGB color space is converted to selected color space. We also can select the layer where the watermark is embedded. Next, 2D-DWT transforms the selected layer obtaining 4 subband. We select only one subband. And then block-based 2D-DCT transforms the selected subband. Binary-based watermark is embedded on the AC coefficients of each block after zigzag movement and range based pixel selection. Delta parameter replacing pixels in each range represents embedded bit. +Delta represents bit “1” and –delta represents bit “0”. Several parameters to be optimized by Genetics Algorithm (GA) are selected color space, layer, selected subband of DWT decomposition, block size, embedding range, and delta. The result of simulation performs that GA is able to determine the exact parameters obtaining optimum imperceptibility and robustness, in any watermarked image condition, either it is not attacked or attacked. DWT process in DCT based image watermarking optimized by GA has improved the performance of image watermarking. By five attacks: JPEG 50%, resize 50%, histogram equalization, salt-pepper and additive noise with variance 0.01, robustness in the proposed method has reached perfect watermark quality with BER=0. And the watermarked image quality by PSNR parameter is also increased about 5 dB than the watermarked image quality from previous method.
+
+**Source:** https://www.semanticscholar.org/paper/9a6ada7865ac28737561e0a8e6a454eec4fc0fab
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:11.996Z
