@@ -1,0 +1,13 @@
+# The Use of Augmented Reality Technologies in Electrical Engineering
+
+**Authors:** A. Pogodaev, I. Muzyleva, L. Yazykova, S. Kondratyev
+
+## Abstract
+The article discusses one of the technologies of the industrial revolution 4.0 - augmented reality (AR). The analysis of the capabilities of marker and markerless technology and related software. The analysis of examples of the application of this technology in education is carried out. The practical aspects of the application of marker technology in the educational process of electrical engineering disciplines are examined in detail. The implementation of the methodology consists of two stages. The first is the selection and creation of 3D models of electrical objects. As an example, the basis of the electromagnetic relay, an induction motor and a DC machine in their classical sense are taken. The choice of these devices is due to the fact that understanding the principle of their action is the basis of many electrical engineering disciplines. In particular, understanding the operation of automation systems is impossible without understanding the principle of operation of the electromagnetic relay. The synthesis of electric drive control systems is impossible without understanding the principle of operation of the corresponding electric machine. The second part of the proposed methodology consists in placing the created 3D model in the constructor of augmented reality objects EV Toolbox. The use of the augmented reality objects obtained allows us to show and, accordingly, "examine" the simulated electrical device from all sides by turning the paper marker. The instructor is given the object of augmented reality and the part of the software that is responsible for demonstrating the object. The teacher can clearly show and explain the principle of the object’s operation, and it’s an easier task for the student to perceive such material.
+
+**Source:** https://www.semanticscholar.org/paper/edd0289858ebf57ca648908dee91b098e05845b6
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:40:17.274Z

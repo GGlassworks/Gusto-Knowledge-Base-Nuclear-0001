@@ -1,0 +1,13 @@
+# Precise damage shaping in self-sensing composites using electrical impedance tomography and genetic algorithms
+
+**Authors:** H. Hassan, T. Tallman
+
+## Abstract
+Fiber-reinforced composites with nanofiller-modified polymer matrices have immense potential to improve the safety of high-risk engineering structures. These materials are intrinsically self-sensing because their electrical conductivity is affected by deformations and damage. This property, known as piezoresistivity, has been extensively leveraged for conductivity-based damage detection via electrical resistance change methods and tomographic imaging techniques such as electrical impedance tomography (EIT). Although these techniques are very effective at detecting the presence of damage, they suffer from an inability to provide precise information about damage shape, size, or mechanism. This is particularly detrimental for laminated composites which can suffer from complex failure modes, such as delaminations, that are difficult to detect. To that end, we herein propose a new technique for precisely determining damage shape and size in self-sensing composites. Our technique makes use of a genetic algorithm (GA) integrated with realistic physics-based damage models to recover precise damage shape from conductivity changes imaged via EIT. We experimentally validate this technique on carbon nanofiber (CNF)-modified glass fiber-reinforced polymer (GFRP) laminates by considering two specific damage mechanisms: through-holes (as a function of number, size, and location) and impact-induced delaminations (as a function of impact energy). Our results show that this novel technique can accurately reconstruct multiple through-holes with radii as small as 1.19 mm and delaminations caused by low velocity impacts. The reconstructed delamination shapes and sizes were shown to be in much better agreement with the actual delaminations observed using optical microscopy than is achievable by traditional EIT alone. These findings illustrate that coupling piezoresistivity with conductivity-based spatial imaging techniques and physics-based inversion strategies can enable damage shaping capabilities in self-sensing composite structures.
+
+**Source:** https://www.semanticscholar.org/paper/664fcb6793900316ae5376944665377466081a56
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:39:26.560Z

@@ -1,0 +1,13 @@
+# High-Dimensional Data Analysis with Low-Dimensional Models
+
+**Authors:** John Wright, Y. Ma
+
+## Abstract
+Connecting theory with practice, this systematic and rigorous introduction covers the fundamental principles, algorithms and applications of key mathematical models for high-dimensional data analysis. Comprehensive in its approach, it provides unified coverage of many different low-dimensional models and analytical techniques, including sparse and low-rank models, and both convex and non-convex formulations. Readers will learn how to develop efficient and scalable algorithms for solving real-world problems, supported by numerous examples and exercises throughout, and how to use the computational tools learnt in several application contexts. Applications presented include scientific imaging, communication, face recognition, 3D vision, and deep networks for classification. With code available online, this is an ideal textbook for senior and graduate students in computer science, data science, and electrical engineering, as well as for those taking courses on sparsity, low-dimensional structures, and high-dimensional data. Foreword by Emmanuel Candès.
+
+**Source:** https://www.semanticscholar.org/paper/db0b29edcc920385ea4a89cee46d55c95563b80c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:40:18.887Z

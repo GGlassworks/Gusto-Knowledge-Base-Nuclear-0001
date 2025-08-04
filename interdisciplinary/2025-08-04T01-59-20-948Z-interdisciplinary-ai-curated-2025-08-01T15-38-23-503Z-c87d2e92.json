@@ -1,0 +1,13 @@
+# Comparison of artificial immune systems and genetic algorithms in electrical engineering optimization
+
+**Authors:** F. Freschi, M. Repetto
+
+## Abstract
+Purpose – The purpose of this study is to investigate and compare the ability of a new optimization technique based on the emulation of the immune system to detect the global maximum with multimodal functions and to test the capability of exploring the parameter space with respect to clustering enhanced Genetic Algorithms (GA).Design/methodology/approach – Both algorithms have been tested on analytical test functions and on numerical functions of applicative interest. A set of performance criteria has been defined in order to numerically compare the performances of both optimization strategies.Findings – Results show the great ability of Artificial Immune Systems (AIS) in thoroughly exploring the space of variables. On the other side, GA are faster to converge to the global optimum, but selection pressure can reduce the number of detected local optima.Originality/value – This work is an attempt to assess the performances of a relatively new optimization algorithm based on AIS and to find its behavior on m...
+
+**Source:** https://www.semanticscholar.org/paper/c573250751924c00fc4aae63ad259ca5fe4d2243
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:38:23.503Z

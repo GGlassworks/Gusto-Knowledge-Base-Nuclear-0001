@@ -1,0 +1,13 @@
+# Some engineering models for interactions of electric and magnetic fields with biological systems.
+
+**Authors:** F.S. Barnes
+
+## Abstract
+The objective of this paper is to review some of the fundamental mechanisms for the interaction of electric and magnetic fields with biological systems at variable levels of field strengths and to examine several possible ways by which weak fields may influence these systems. We begin with a review of the basic equations by which electric or magnetic fields interact with biological fluids and follow it with a look at the effects of inserting a simple cell membrane. The initial starting points are the force equations on charged particles and dipoles. We examine their effects on current flow, the orientation of long-chain molecules, and the forces which can be exerted by particles of magnetite on membranes. This is followed by a very simple model for the effects of a cell membrane on the overall current distribution and a model for current flow through a membrane. Some sources of nonlinearities which might serve as mechanisms for converting weak electrical signals from one frequency to a more biologically significant frequency are described. Additionally, three models by which a biological system may extract weak signals from noise are presented. The first of these is the injection-locking of oscillating processes where the signal-to-noise ratio may be less than unity. The second is parametric amplification which allows the external signal and the biological process to be at different frequencies and where stability requirements on the external pump frequency discriminates against the noise. The third approach is to examine a computer model for a neural network which can be trained to identify a 60 Hz field at signal-to-noise ratios much less than one. The key to each of these models for possible interactions of magnetic fields with biological systems is the long-term coherence of the signal with respect to the noise. Finally, we briefly examine the possibility of using scanning force and tunneling microscopes to give a better description of the characteristics of the cell surface.
+
+**Source:** https://www.semanticscholar.org/paper/87a244a6baf678243353f80e21a4b8aa79df900a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:40:18.473Z

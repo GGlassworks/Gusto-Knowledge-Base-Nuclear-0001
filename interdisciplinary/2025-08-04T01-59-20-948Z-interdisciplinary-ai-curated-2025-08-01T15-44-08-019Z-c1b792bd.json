@@ -1,0 +1,13 @@
+# Proposal that interpretation of field emission current–voltage characteristics should be treated as a specialized form of electrical engineering
+
+**Authors:** R. Forbes
+
+## Abstract
+This article proposes that we should think differently about predicting and interpreting measured field electron emission (FE) current–voltage [ Im( Vm)] characteristics. It is commonly assumed that Im( Vm) data interpretation is a problem in emission physics and related electrostatics. Many experimentalists then apply the Fowler–Nordheim plot methodology, developed in 1929. However, with modern emitting materials, this 90-year-old interpretation methodology often fails (maybe in nearly 50% of cases) and yields spurious values for characterization parameters, particularly field enhancement factors. This has generated an unreliable literature. Hence, validity checks on experimental Im( Vm) data are nearly always needed before use. A new check, supplementing existing checks, is described. Twelve different “system complications” that, acting singly or in combinations, can cause validity-check failure are identified. A top-level path forward from this unsatisfactory situation is proposed. The term “field electron emission system (FE system)” is defined to include all aspects of an experimental system that affect the measured Im( Vm) characteristics. The analysis of FE systems should now be regarded as a specialized form of electronic/electrical engineering, provisionally called “FE Systems Engineering.” In this approach, the Im( Vm) relationship is split as follows: (a) the current is expressed as a function Im( FC) of the local surface-field magnitude FC at some defined emitter surface location “C,” and (b) the relationship between FC and measured voltage Vm is expressed and determined separately. Determining Im( FC) is mostly a problem in emission physics. Determining the relationship FC( Vm) depends on system electrostatics and (for systems failing a validity check) on the other aspects of FE Systems Engineering, in particular, electrical-circuit modeling. The scope of FE Systems Engineering and some related research implications and problems are outlined.
+
+**Source:** https://www.semanticscholar.org/paper/d8eaa32e6509e52654de141524371af68b78f178
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:44:08.019Z

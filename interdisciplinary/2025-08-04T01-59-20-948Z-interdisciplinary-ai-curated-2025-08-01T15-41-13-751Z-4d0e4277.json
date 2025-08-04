@@ -1,0 +1,24 @@
+# Stability of Metal Hydroxide Organic Frameworks for Oxygen Evolution
+
+**Authors:** Dan Zheng, Mikaela Gorlin, Hongbin Xu, Junghwa Kim, K. McCormack, Jiayu Peng, Yuriy Román‐Leshkov, Y. Shao-horn
+
+## Abstract
+The oxygen evolution reaction (OER) is central to storing electrical energy via chemical bonds in energy carriers and fuels through reactions such as electrochemical water splitting to produce hydrogen, CO2 reduction for CO and liquid hydrocarbons, and nitrogen to ammonia. While there has been considerable work towards the engineering of inexpensive yet highly active OER catalysts, current state-of-the-art materials are still at least an order of magnitude less active than oxygen evolving complexes found in biological systems that intricately combine inorganic metal-oxo clusters with organic ligands.1 As a result, metal organic frameworks (MOFs) have drawn considerable attention as hybrid organic-inorganic systems that can potentially mimic the unique structure of biological oxygen evolving complexes. Recently, metal hydroxide organic frameworks (MHOFs),2 a new class of MOFs that combine layered hydroxides with aromatic carboxylate linkers that stabilize the structure via π-π interactions, have been shown to display three times the tunability of layered hydroxides, offering extensive opportunities for further engineering of its electrochemical properties for numerous applications. However, the long-term stability of these material during OER is still unclear, which would be paramount to understand for further rational design of this class of material.
+ In this study, we investigated Ni-based MHOFs with carboxylate linkers of varying π-π interaction strengths to understand how these differences affect the electrochemical stability of these materials during OER. We observed that the MHOFs all undergo activation during OER leading to two orders of magnitude increase in OER activity, where the MHOFs with weaker π-π interaction strengths tend to transform at a faster rate than the MHOFs with stronger π-π interaction strengths. We further characterized the MHOFs using a wide range of analytical techniques, including scanning transmission electron microscopy, Raman spectroscopy, x-ray photoelectron spectroscopy, and hard x-ray absorption spectroscopy, before and after extended OER cycling and galvanostatic tests to understand the transformed phase, which suggested that while the bulk structure largely remains unchanged, the surface undergoes significant restructuring into a Ni(OH)2-like phase during OER. Using operando UV-vis and Raman spectroscopy measurements on the MHOFs during OER to understand the factors that induce the transformation process, we found that there was a clear link between the Ni2+/3+, 4+ redox couple observed around 1.4 VRHE and a loss in the carboxylate organic linkers for the linkers with weak π-π interactions. However, for the MHOFs synthesized with linkers exhibiting strong π-π interaction strengths, there were smaller changes to the overall material during OER, suggesting that the bulk stability of these materials is largely dictated by the linker interaction strength and activation are primarily only surface transformations. These results directly demonstrate that linker selection also plays a key role in the stability MOFs under electrochemical conditions and are pertinent for rational design and understanding of the stability and activity of hybrid organic-inorganic materials as electrocatalysts.
+ References: 
+ 
+ Hong, W. T. et al. Toward the rational design of non-precious transition metal oxides for oxygen electrocatalysis. Energy Environ. Sci. 
+ 8, 1404–1427 (2015).
+ 
+ 
+ Yuan, S. et al. Tunable metal hydroxide–organic frameworks for catalysing oxygen evolution. Nat. Mater. (2022).
+ 
+ 
+
+
+**Source:** https://www.semanticscholar.org/paper/ef28f2b73766f3378a965dcee9a2ccf45934c9c3
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:41:13.751Z

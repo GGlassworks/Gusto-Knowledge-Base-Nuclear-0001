@@ -1,0 +1,13 @@
+# Temperature Dependence in the Jiles–Atherton Model for Non-Oriented Electrical Steels: An Engineering Approach
+
+**Authors:** Sajid Hussain, A. Benabou, S. Clénet, D. Lowther
+
+## Abstract
+High operating temperatures modify the magnetic behavior of ferromagnetic cores which may affect the performance of electrical machines. Therefore, a temperature-dependent material model is necessary to model the electrical machine behavior more accurately during the design process. Physics-inspired hysteresis models, such as the Jiles–Atherton (JA) model, seem to be promising candidates to incorporate temperature effects and can be embedded in finite element simulations. In this paper, we have identified the JA model parameters from measurements for a temperature range experienced by non-oriented electrical steels in electrical machines during their operation. Based on the analysis, a parameter reduction has been performed. The proposed approach simplifies the identification procedures by reducing the number of model parameters and does not require any additional material information, such as the Curie temperature. The resulting temperature-dependent JA model is validated against measurements, and the results are in good agreement.
+
+**Source:** https://www.semanticscholar.org/paper/321f3739cd02410dad1b000e881712178f45ed11
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:40:18.359Z

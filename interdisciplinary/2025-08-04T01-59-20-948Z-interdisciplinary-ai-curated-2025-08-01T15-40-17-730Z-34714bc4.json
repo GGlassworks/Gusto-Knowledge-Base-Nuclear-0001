@@ -1,0 +1,13 @@
+# Reducing Contact Resistance in Two-Dimensional-Material-Based Electrical Contacts by Roughness Engineering
+
+**Authors:** Sneha Banerjee, Liemao Cao, Y. Ang, Lay Kee Ang, Peng Zhang
+
+## Abstract
+The engineering of efficient electrical contacts to two-dimensional (2D) layered materials represents one of the major challenges in the development of industrial-grade 2D-material-based electronics and optoelectronics. In this paper, we present a computational study of the contact resistance and current-flow distribution for electrical contacts between 2D materials and three-dimensional (3D) metals and between different 2D materials. We develop models of the electrical contact resistance for 2D/2D and 2D/3D metal/semiconductor contact interfaces based on a self-consistent transmission-line model coupled with a thermionic charge-injection model for 2D materials and first-principles simulation by density-functional theory, which explicitly includes the variation of the electrostatic potential in the contact region. We compare the results of our self-consistent calculations with existing experimental work and obtain excellent agreement. It is found that the presence of contact interface roughness, in the form of fluctuating Schottky barrier heights in the contact region, can significantly reduce the contact resistance of ${\mathrm{Mo}\mathrm{S}}_{2}$/metal Schottky 2D/3D contacts. Our findings suggest that roughness engineering may offer a possible paradigm for reducing the contact resistance of 2D-material-based electrical contacts.
+
+**Source:** https://www.semanticscholar.org/paper/6cea52eba24187c818a68a66c5055456d7ecab53
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:40:17.730Z

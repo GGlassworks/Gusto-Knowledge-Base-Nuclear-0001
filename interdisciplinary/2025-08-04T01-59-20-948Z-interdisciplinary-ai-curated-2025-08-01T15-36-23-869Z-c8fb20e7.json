@@ -1,0 +1,13 @@
+# Compressed Sensing: Theory and Applications
+
+**Authors:** Hanbo Wang
+
+## Abstract
+Compressed sensing is a new technique for solving underdetermined linear systems. Because of its good performance, it has been widely used in academia. It is applied in electrical engineering to recover sparse signals, especially in signal processing. This technique exploits the signal’s sparse nature, allowing the original signals to recover from fewer samples. This paper discusses the fundamentals of compressed sensing theory, the research progress in compressed sensing signal processing, and the applications of compressed sensing theory in nuclear magnetic resonance imaging and seismic exploration acquisition. Compressed sensing allows for the digitization of analogue data with inexpensive sensors and lowers the associated costs of processing, storage, and transmission. Behind its sophisticated mathematical expression, compressed sensing theory contains a subtle idea. Compressed sensing is a novel theory that is an ideal complement and improvement to conventional signal processing. It is a theory with a high vitality level, and its research outcomes may substantially influence signal processing and other fields.
+
+**Source:** https://www.semanticscholar.org/paper/90dfd86ba031d1a7db0973417d0c21a897f03a76
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:36:23.870Z

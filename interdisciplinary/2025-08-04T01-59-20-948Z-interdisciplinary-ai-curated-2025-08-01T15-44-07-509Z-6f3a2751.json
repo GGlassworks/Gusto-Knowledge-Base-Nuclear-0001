@@ -1,0 +1,13 @@
+# A Web-based Platform and a Methodology to Teach Programming Languages in Electrical Engineering Courses
+
+**Authors:** Inácio Fonseca, Nuno Cid Martins, Fernando Lopes
+
+## Abstract
+Teaching programming languages is a fundamental component of electrical engineering education. However, it poses very serious challenges, mostly associated with very different backgrounds and motivation among students, as well as with its strong dependence on the graphical presentation of topics and on the student-teacher interaction.In this paper we present the experience in the development and operation of a web-based platform and a methodology to support student interaction and assistance in classroom teaching of programming languages in electrical engineering courses. The developed platform allows the installation of highlighting, linting and programming languages’ recognition tools. It uses software modules adapted from Codiad and other tools.Two example teaching modules are detailed. The first module refers to teaching programming Web Interfaces in an "Applied Information Systems" course, integrating an Electrical Engineering Master degree. The second module refers to the use of Matlab for statistical analysis in a "Maintenance and Quality Control" course, integrating an Electrical Engineering Bachelor degree. An experimental module for coding in Ladder via a graphical web interface for teaching PLC programming, is also part of the current development status.In the near future, it is intended to expand the platform for teaching programming for IoT, with support for the Arduino, ESP32 and STM32 microcontrollers. Support for other specific electrical engineering topics such as signal processing and DSP hardware can also be integrated in the platform.
+
+**Source:** https://www.semanticscholar.org/paper/e2747f6fb3e5eafccbe07ec77a8bb7da102ad249
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:44:07.510Z
