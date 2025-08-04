@@ -1,0 +1,12 @@
+# Performance limits of information engines
+
+**Authors:** Johan du Buisson, David A. Sivak, John Bechhoefer
+
+## Summary
+We review recent studies of a colloidal information engine that consists of a bead in water and held by an optical trap. The bead is ratcheted upward without any apparent external work, by taking advantage of favorable thermal fluctuations. Much of the previous work on such engines aimed to show that accounting for information-processing costs can reconcile the observed motion with the second law of thermodynamics. By contrast, we focus on the factors that limit the performance of such engines by optimizing variously the upward velocity, rate of gravitational free-energy extraction, or ability to track a trajectory. We then consider measurement noise, which degrades engine performance. A naive use of noisy measurements in the feedback algorithm leads to a phase transition at finite signal-to-noise ratio: below the transition, the engine no longer functions. A more sophisticated, `Bayesian' algorithm eliminates the phase transition and improves performance. Finally, operating the information engine in a nonequilibrium environment with extra force fluctuations can enhance the performance by orders of magnitude, even to the point where the energy extracted exceeds that needed to run the information processing. Autonomous implementations of an information engine in such environments could be powered entirely by the additional energy of the bath.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:53:46.952Z

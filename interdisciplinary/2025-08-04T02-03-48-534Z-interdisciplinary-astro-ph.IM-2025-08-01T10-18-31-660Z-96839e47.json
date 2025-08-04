@@ -1,0 +1,12 @@
+# TOPO: Time-Ordered Provable Outputs
+
+**Authors:** Santiago Casas, Christian Fidler
+
+## Summary
+We present TOPO (Time-Ordered Provable Outputs), a tool designed to enhance reproducibility and data integrity in astrophysical research, providing a trustless alternative to data analysis blinding. Astrophysical research frequently involves probabilistic algorithms, high computational demands, and stringent data privacy requirements, making it difficult to guarantee the integrity of results. TOPO provides a secure framework for verifying reproducible data analysis while ensuring sensitive information remains hidden. Our approach utilizes deterministic hashing to generate unique digital fingerprints of outputs, and Merkle Trees to store outputs in a time-ordered manner. This enables efficient verification of specific components or the entire dataset while making it computationally infeasible to manipulate results - thereby mitigating the risk of human interference and confirmation bias, key objectives of blinding methods. We demonstrate TOPO's utility in a cosmological context using TOPO-Cobaya, showcasing how blinding and verification can be seamlessly integrated into Markov Chain Monte Carlo calculations, rendering the process cryptographically provable. This method addresses pressing challenges in the reproducibility crisis and offers a robust, verifiable framework for astrophysical data analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph.IM
+Collected: 2025-08-01T10:18:31.660Z

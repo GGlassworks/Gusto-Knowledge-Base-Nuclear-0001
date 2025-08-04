@@ -1,0 +1,12 @@
+# Brownian yet Non-Gaussian Heat Engine
+
+**Authors:** I. Iyyappan, Jetin E. Thomas, Sibasish Ghosh
+
+## Summary
+We investigate the performance of a Brownian heat engine working in a heterogeneous thermal bath where the mobility fluctuates. Brownian particle is trapped by the time-dependent harmonic potential, by changing the stiffness coefficient and the bath temperatures, we perform a Stirling cycle. We numerically evaluated the average work, power and efficiency. We compare our results with the Brownian heat engine working in a homogeneous thermal bath. We find that for the normal diffusive system, the performance of a Gaussian heat engine serves as an upper bound. We also observe that the non-Gaussian position distribution decreases the stochastic heat engine performance.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T16:02:57.594Z

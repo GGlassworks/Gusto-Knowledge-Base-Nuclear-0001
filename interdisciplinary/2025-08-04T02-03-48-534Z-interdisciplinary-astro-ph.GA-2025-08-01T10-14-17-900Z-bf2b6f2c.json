@@ -1,0 +1,12 @@
+# Automatic detection of full ring galaxy candidates in SDSS
+
+**Authors:** Lior Shamir
+
+## Summary
+A full ring is a form of galaxy morphology that is not associated with a specific stage on the Hubble sequence. Digital sky surveys can collect many millions of galaxy images, and therefore even rare forms of galaxies are expected to be present in relatively large numbers in image databases created by digital sky surveys. Sloan Digital Sky Survey (SDSS) data release (DR) 14 contains ~2.6*10^6 objects with spectra identified as galaxies. The method described in this paper applied automatic detection to identify a set of 443 ring galaxy candidates, 104 of them were already included in the Buta + 17 catalogue of ring galaxies in SDSS, but the majority of the galaxies are not included in previous catalogues. Machine analysis cannot yet match the superior pattern recognition abilities of the human brain, and even a small false positive rate makes automatic analysis impractical when scanning through millions of galaxies. Reducing the false positive rate also increases the true negative rate, and therefore the catalogue of ring galaxy candidates is not exhaustive. However, due to its clear advantage in speed, it can provide a large collection of galaxies that can be used for follow-up observations of objects with ring morphology.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph.GA
+Collected: 2025-08-01T10:14:17.900Z

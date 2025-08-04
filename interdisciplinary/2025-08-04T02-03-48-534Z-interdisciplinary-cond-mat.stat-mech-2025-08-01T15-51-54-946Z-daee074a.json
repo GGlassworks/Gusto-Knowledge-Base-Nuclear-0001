@@ -1,0 +1,12 @@
+# Geometric Heat Engines Featuring Power that Grows with Efficiency
+
+**Authors:** Oren Raz, Yigit Subaşı, Rami Pugatch
+
+## Summary
+Thermodynamics places a limit on the efficiency of heat engines, but not on their output power or on how the power and efficiency change with the engine's cycle time. In this manuscript, we develop a geometrical description of the power and efficiency as a function of the cycle time, applicable to an important class of heat engine models. This geometrical description is used to design engine protocols that attain both the maximal power and maximal efficiency at the fast driving limit. Furthermore, using this method we also prove that no protocol can exactly attain the Carnot efficiency at non-zero power.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:51:54.947Z

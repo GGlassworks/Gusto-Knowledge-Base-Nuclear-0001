@@ -1,0 +1,12 @@
+# Optimal tuning of a confined Brownian information engine
+
+**Authors:** J. -M. Park, J. S. Lee, J. D. Noh
+
+## Summary
+A Brownian information engine is a device extracting a mechanical work from a single heat bath by exploiting the information on the state of a Brownian particle immersed in the bath. As for engines, it is important to find the optimal operating condition that yields the maximum extracted work or power. The optimal condition for a Brownian information engine with a finite cycle time $\tau$ has been rarely studied because of the difficulty in finding the nonequilibrium steady state. In this study, we introduce a model for the Brownian information engine and develop an analytic formalism for its steady state distribution for any $\tau$. We find that the extracted work per engine cycle is maximum when $\tau$ approaches infinity, while the power is maximum when $\tau$ approaches zero.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:52:52.131Z

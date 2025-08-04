@@ -1,0 +1,12 @@
+# Hierarchical Onsager symmetries in adiabatically driven linear irreversible heat engines
+
+**Authors:** Yuki Izumida
+
+## Summary
+In existing linear response theories for adiabatically driven cyclic heat engines, Onsager symmetry is identified only phenomenologically, and a relation between global and local Onsager coefficients, defined over one cycle and at any instant of a cycle, respectively, is not derived. To address this limitation, we develop a linear response theory for the speed of adiabatically changing parameters and temperature differences in generic Gaussian heat engines obeying Fokker--Planck dynamics. We establish a hierarchical relationship between the global linear response relations, defined over one cycle of the heat engines, and the local ones, defined at any instant of the cycle. This yields a detailed expression for the global Onsager coefficients in terms of the local Onsager coefficients. Moreover, we derive an efficiency bound, which is tighter than the Carnot bound, for adiabatically driven linear irreversible heat engines based on the detailed global Onsager coefficients. Finally, we demonstrate the application of the theory using the simplest stochastic Brownian heat engine model.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:51:01.815Z

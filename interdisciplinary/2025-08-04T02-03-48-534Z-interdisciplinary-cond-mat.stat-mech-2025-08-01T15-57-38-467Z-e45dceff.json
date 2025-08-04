@@ -1,0 +1,12 @@
+# Quasi-linear irreversible thermodynamics of a low-temperature-differential kinematic Stirling heat engine
+
+**Authors:** Yuki Izumida
+
+## Summary
+Low-temperature-differential (LTD) Stirling heat engines are able to operate with a small temperature difference between low-temperature heat reservoirs that exist in our daily lives, and thus they are considered to be an important sustainable energy technology. The author recently proposed a nonlinear dynamics model of an LTD kinematic Stirling heat engine to study the rotational mechanism of the engine [Y. Izumida, EPL \textbf{121}, 50004 (2018)]. This paper presents our study of the nonequilibrium thermodynamics analysis of this engine model, where a load torque against which the engine does work is introduced. We demonstrate that the engine's rotational state is in a quasi-linear response regime where the thermodynamic fluxes show a linear dependency on the thermodynamic forces. Significantly, it is found that the response coefficients of the quasi-linear relations are symmetric, which is similar to Onsager symmetry in linear irreversible thermodynamics. Based on these relations, we formulate the maximum efficiency of the engine. We also elucidate that the symmetry of the quasi-linear response coefficients emerges by reflecting the (anti-)reciprocity of the Onsager kinetic coefficients identified for the relaxation dynamics of the engine in the vicinity of an equilibrium state. We expect that the present study paves the way for developing nonequilibrium thermodynamics of autonomous heat engines described as a nonlinear dynamical system.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:57:38.467Z

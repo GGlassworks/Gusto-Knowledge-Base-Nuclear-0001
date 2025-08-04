@@ -1,0 +1,12 @@
+# Designing optimal discrete-feedback thermodynamic engines
+
+**Authors:** Jordan M. Horowitz, Juan M. R. Parrondo
+
+## Summary
+Feedback can be utilized to convert information into useful work, making it an effective tool for increasing the performance of thermodynamic engines. Using feedback reversibility as a guiding principle, we devise a method for designing optimal feedback protocols for thermodynamic engines that extract all the information gained during feedback as work. Our method is based on the observation that in a feedback-reversible process the measurement and the time-reversal of the ensuing protocol both prepare the system in the same probabilistic state. We illustrate the utility of our method with two examples of the multi-particle Szilard engine.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:52:52.277Z

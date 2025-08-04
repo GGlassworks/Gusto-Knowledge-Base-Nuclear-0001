@@ -1,0 +1,12 @@
+# A mechanical autonomous stochastic heat engine
+
+**Authors:** Marc Serra-Garcia, André Foehr, Miguel Molerón, Joseph Lydon, Christopher Chong, Chiara Daraio
+
+## Summary
+Stochastic heat engines are devices that generate work from random thermal motion using a small number of highly fluctuating degrees of freedom. Proposals for such devices have existed for more than a century and include the Maxwell demon and the Feynman ratchet. Only recently have they been demonstrated experimentally, using e.g., thermal cycles implemented in optical traps. However, the recent demonstrations of stochastic heat engines are nonautonomous, since they require an external control system that prescribes a heating and cooling cycle, and consume more energy than they produce. This Report presents a heat engine consisting of three coupled mechanical resonators (two ribbons and a cantilever) subject to a stochastic drive. The engine uses geometric nonlinearities in the resonating ribbons to autonomously convert a random excitation into a low-entropy, nonpassive oscillation of the cantilever. The engine presents the anomalous heat transport property of negative thermal conductivity, consisting in the ability to passively transfer energy from a cold reservoir to a hot reservoir.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T16:02:04.112Z

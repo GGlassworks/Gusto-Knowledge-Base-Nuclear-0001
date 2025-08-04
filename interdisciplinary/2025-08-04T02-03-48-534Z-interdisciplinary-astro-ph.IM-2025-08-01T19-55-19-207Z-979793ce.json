@@ -1,0 +1,12 @@
+# FitsMap: A Simple, Lightweight Tool For Displaying Interactive Astronomical Image and Catalog Data
+
+**Authors:** Ryan Hausen, Brant Robertson
+
+## Summary
+The visual inspection of image and catalog data continues to be a valuable aspect of astronomical data analysis. As the scale of astronomical image and catalog data continues to grow, visualizing the data becomes increasingly difficult. In this work, we introduce FitsMap, a simple, lightweight tool for visualizing astronomical image and catalog data. FitsMap only requires a simple web server and can scale to over gigapixel images with tens of millions of sources. Further, the web-based visualizations can be viewed performantly on mobile devices. FitsMap is implemented in Python and is open source (https://github.com/ryanhausen/fitsmap).
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph.IM
+Collected: 2025-08-01T19:55:19.209Z

@@ -1,0 +1,12 @@
+# Variable Star Signature Classification using Slotted Symbolic Markov Modeling
+
+**Authors:** Kyle B. Johnston, Adrian M. Peter
+
+## Summary
+With the advent of digital astronomy, new benefits and new challenges have been presented to the modern day astronomer. No longer can the astronomer rely on manual processing, instead the profession as a whole has begun to adopt more advanced computational means. This paper focuses on the construction and application of a novel time-domain signature extraction methodology and the development of a supporting supervised pattern classification algorithm for the identification of variable stars. A methodology for the reduction of stellar variable observations (time-domain data) into a novel feature space representation is introduced. The methodology presented will be referred to as Slotted Symbolic Markov Modeling (SSMM) and has a number of advantages which will be demonstrated to be beneficial; specifically to the supervised classification of stellar variables. It will be shown that the methodology outperformed a baseline standard methodology on a standardized set of stellar light curve data. The performance on a set of data derived from the LINEAR dataset will also be shown
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph.IM
+Collected: 2025-08-01T10:26:37.721Z

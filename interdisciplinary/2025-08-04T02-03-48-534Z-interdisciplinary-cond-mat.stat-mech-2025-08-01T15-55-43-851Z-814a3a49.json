@@ -1,0 +1,12 @@
+# Effects of the self-propulsion parity on the efficiency of a fuel-consuming active heat engine
+
+**Authors:** Yongjae Oh, Yongjoo Baek
+
+## Summary
+We propose a thermodynamically consistent, analytically tractable model of steady-state active heat engines driven by both temperature difference and a constant chemical driving. While the engine follows the dynamics of the Active Ornstein-Uhlenbeck Particle, its self-propulsion stems from the mechanochemical coupling with the fuel consumption dynamics, allowing for both even- and odd-parity self-propulsion forces. Using the standard methods of stochastic thermodynamics, we show that the entropy production of the engine satisfies the conventional Clausius relation, based on which we define the efficiency of the model that is bounded from above by the second law of thermodynamics. Using this framework, we obtain exact expressions for the efficiency at maximum power. The results show that the engine performance has a nonmonotonic dependence on the magnitude of the chemical driving, and that the even-parity (odd-parity) engines perform better when the size of the engine is smaller (larger) than the persistence length of the active particle. We also discuss the existence of a tighter upper bound on the efficiency of the odd-parity engines stemming from the detailed structure of the entropy production.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:55:43.852Z

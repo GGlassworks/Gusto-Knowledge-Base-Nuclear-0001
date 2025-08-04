@@ -1,0 +1,12 @@
+# Message Passing Variational Autoregressive Network for Solving Intractable Ising Models
+
+**Authors:** Qunlong Ma, Zhi Ma, Jinlong Xu, Hairui Zhang, Ming Gao
+
+## Summary
+Many deep neural networks have been used to solve Ising models, including autoregressive neural networks, convolutional neural networks, recurrent neural networks, and graph neural networks. Learning a probability distribution of energy configuration or finding the ground states of a disordered, fully connected Ising model is essential for statistical mechanics and NP-hard problems. Despite tremendous efforts, a neural network architecture with the ability to high-accurately solve these fully connected and extremely intractable problems on larger systems is still lacking. Here we propose a variational autoregressive architecture with a message passing mechanism, which can effectively utilize the interactions between spin variables. The new network trained under an annealing framework outperforms existing methods in solving several prototypical Ising spin Hamiltonians, especially for larger spin systems at low temperatures. The advantages also come from the great mitigation of mode collapse during the training process of deep neural networks. Considering these extremely difficult problems to be solved, our method extends the current computational limits of unsupervised neural networks to solve combinatorial optimization problems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T11:40:32.625Z

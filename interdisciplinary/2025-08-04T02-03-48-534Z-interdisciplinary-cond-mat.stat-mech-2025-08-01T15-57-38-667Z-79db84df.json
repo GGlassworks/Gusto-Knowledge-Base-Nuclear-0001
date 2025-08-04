@@ -1,0 +1,12 @@
+# Inertialess Gyrating Engines
+
+**Authors:** Jordi Ventura Siches, Olga Movilla Miangolarra, Amirhossein Taghvaei, Yongxin Chen, Tryphon T. Georgiou
+
+## Summary
+A typical model for a gyrating engine consists of an inertial wheel powered by an energy source that generates an angle-dependent torque. Examples of such engines include a pendulum with an externally applied torque, Stirling engines, and the Brownian gyrating engine. Variations in the torque are averaged out by the inertia of the system to produce limit cycle oscillations. While torque generating mechanisms are also ubiquitous in the biological world, where they typically feed on chemical gradients, inertia is not a property that one naturally associates with such processes. In the present work, seeking ways to dispense of the need for inertial effects, we study an inertia-less concept where the combined effect of coupled torque-producing components averages out variations in the ambient potential and helps overcome dissipative forces to allow sustained operation for vanishingly small inertia. We exemplify this inertia-less concept through analysis of two of the aforementioned engines, the Stirling engine and the Brownian gyrating engine. An analogous principle may be sought in biomolecular processes as well as in modern-day technological engines, where for the latter, the coupled torque-producing components reduce vibrations that stem from the variability of the generated torque.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:57:38.668Z

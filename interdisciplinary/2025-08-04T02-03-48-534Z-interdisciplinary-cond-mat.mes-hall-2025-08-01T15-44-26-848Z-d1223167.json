@@ -1,0 +1,12 @@
+# Equivalent Electric Model of a Macrospin
+
+**Authors:** Steven Louis, Hannah Bradley, Vasyl Tyberkevych
+
+## Summary
+Dynamics of a ferromagnetic macrospin (e.g., a free layer of a magnetic tunnel junction (MTJ)) can be described in terms of equivalent capacitor charge $Q$ and inductor flux $\Phi$, in a manner similar to a standard electric LC circuit, but with strongly nonlinear and coupled capacitance and inductance. This description allows for the inclusion of Gilbert damping and spin transfer torques and yields a relatively simple equivalent electric circuit, which can be easily modeled in LTspice or other electrical engineering software. It allows one to easily simulate advanced electrical circuits containing MTJs and conventional electronic components in standard simulation software.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.mes-hall
+Collected: 2025-08-01T15:44:26.849Z

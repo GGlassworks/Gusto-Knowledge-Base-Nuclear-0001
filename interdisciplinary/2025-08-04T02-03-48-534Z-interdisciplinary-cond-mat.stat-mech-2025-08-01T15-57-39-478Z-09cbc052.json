@@ -1,0 +1,12 @@
+# Exactly solvable model of a passive Brownian heat engine and its comparison with active engines
+
+**Authors:** Rita Majumdar, Arnab Saha, Rahul Marathe
+
+## Summary
+We perform an extensive analysis of passive as well as active micro-heat engines with different single-particle stochastic models. Using stochastic thermodynamics we calculate thermodynamic work, heat, entropy production and efficiency of passive and active Brownian heat engines analytically as well as numerically and compare them. We run the heat engines with a protocol for which the average thermodynamic quantities are calculated exactly for an arbitrary cycle time. We also discuss about the group of protocols for which exact non-quasistatic calculations can be done, completely in the passive engine case and partially in the active engines. We obtain detailed thermodynamics of non-quasistatic (i.e. powerful) single-particle micro heat engines. The quasistatic (i.e. zero power) limit of the results is obtained by taking long (infinite) cycle time. We also study the distributions of position of the confined particle in both passive and active engines. We compare their characteristics in terms of the parameter that measures the competition between the active persistence in the particle position (due to active noises) and the harmonic confinement. We also calculate excess kurtosis that measures the non-Gaussianity of these distributions. Our analysis shows that efficiency of such thermal machine can be enhanced or reduced depending on the activity present in the model.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:57:39.478Z

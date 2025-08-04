@@ -1,0 +1,12 @@
+# A Micrometer-sized Heat Engine Operating Between Bacterial Reservoirs
+
+**Authors:** Sudeesh Krishnamurthy, Subho Ghosh, Dipankar Chatterji, Rajesh Ganapathy, A. K. Sood
+
+## Summary
+Artificial micro heat engines are prototypical models to explore and elucidate the mechanisms of energy transduction in a regime that is dominated by fluctuations [1-2]. Micro heat engines realized hitherto mimicked their macroscopic counterparts and operated between reservoirs that were effectively thermal [3-7]. For such reservoirs, temperature is a well-defined state variable and stochastic thermodynamics provides a precise framework for quantifying engine performance [8-9]. It remains unclear whether these concepts readily carry over to situations where the reservoirs are out-of-equilibrium [10], a scenario of particular importance to the functioning of synthetic [11-12] and biological [13] micro engines and motors. Here we experimentally realized a micrometer-sized active Stirling engine by periodically cycling a colloidal particle in a time-varying harmonic optical potential across bacterial baths at different activities. Unlike in equilibrium thermal reservoirs, the displacement statistics of the trapped particle becomes increasingly non-Gaussian with activity. We show that as much as $\approx$ 85\% of the total power output and $\approx$ 50\% of the overall efficiency stems from large non-Gaussian particle displacements alone. Most remarkably, at the highest activities investigated, the efficiency of our quasi-static active heat engines surpasses the equilibrium saturation limit of Stirling efficiency - the maximum efficiency of a Stirling engine with the ratio of cold and hot reservoir temperatures ${T_C\over T_H} \to 0$. Crucially, the failure of effective temperature descriptions [14-16] for active reservoirs highlights the dire need for theories that can better capture the physics of micro motors and heat engines that operate in strongly non-thermal environments.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:51:01.144Z

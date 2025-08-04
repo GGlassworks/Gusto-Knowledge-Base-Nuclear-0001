@@ -1,0 +1,12 @@
+# Optimal control theory for maximum power of Brownian heat engines
+
+**Authors:** Jin-Fu Chen, H. T. Quan
+
+## Summary
+The pursuit of achieving the maximum power in microscopic thermal engines has gained increasing attention in recent studies of stochastic thermodynamics. We employ the optimal control theory to study the performance of Brownian heat engines and determine the optimal heat-engine cycles in generic damped situation, which were previously known only in the overdamped and the underdamped limits. These optimal cycles include two isothermal processes, two adiabatic processes, and an extra isochoric relaxation process at the upper stiffness constraint. Our results not only interpolate the optimal cycles between the overdamped and the underdamped limits, but also determine the appropriate friction coefficient of the Brownian heat engine to achieve the maximum power. These findings offer valuable insights for the development of high-performance Brownian heat engines in experimental setups.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:52:51.986Z

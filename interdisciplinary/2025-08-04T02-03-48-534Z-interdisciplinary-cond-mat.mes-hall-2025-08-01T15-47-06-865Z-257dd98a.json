@@ -1,0 +1,12 @@
+# Superconducting Spintronic Heat Engine
+
+**Authors:** Clodoaldo I. L. de Araujo, Pauli Virtanen, Maria Spies, Carmen González-Orellana, Samuel Kerschbaumer, Maxim Ilyn, Celia Rogero, Tero T. Heikkilä, Francesco Giazotto, E. Strambini
+
+## Summary
+Heat engines are key devices that convert thermal energy into usable energy. Strong thermoelectricity, at the basis of electrical heat engines, is present in superconducting spin tunnel barriers at cryogenic temperatures where conventional semiconducting or metallic technologies cease to work. Here we realize a superconducting spintronic heat engine consisting of a ferromagnetic insulator/superconductor/insulator/ferromagnet tunnel junction (EuS/Al/AlO$_x$/Co). The efficiency of the engine is quantified for bath temperatures ranging from 25 mK up to 800 mK, and at different load resistances. Moreover, we show that the sign of the generated thermoelectric voltage can be inverted according to the parallel or anti-parallel orientation of the two ferromagnetic layers, EuS and Co. This realizes a thermoelectric spin valve controlling the sign and strength of the Seebeck coefficient, thereby implementing a thermoelectric memory cell. We propose a theoretical model that allows describing the experimental data and predicts the engine efficiency for different device parameters.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.mes-hall
+Collected: 2025-08-01T15:47:06.865Z

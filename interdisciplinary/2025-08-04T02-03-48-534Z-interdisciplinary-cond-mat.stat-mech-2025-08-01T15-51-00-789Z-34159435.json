@@ -1,0 +1,12 @@
+# Tuning the performance of a micrometer-sized Stirling engine through reservoir engineering
+
+**Authors:** Niloyendu Roy, Nathan Leroux, A K Sood, Rajesh Ganapathy
+
+## Summary
+Colloidal heat engines are paradigmatic models to understand the conversion of heat into work in a noisy environment - a domain where biological and synthetic nano/micro machines function. While the operation of these engines across thermal baths is well-understood, how they function across baths with noise statistics that is non-Gaussian and also lacks memory, the simplest departure from equilibrium, remains unclear. Here we quantified the performance of a colloidal Stirling engine operating between an engineered \textit{memoryless} non-Gaussian bath and a Gaussian one. In the quasistatic limit, the non-Gaussian engine functioned like an equilibrium one as predicted by theory. On increasing the operating speed, due to the nature of noise statistics, the onset of irreversibility for the non-Gaussian engine preceded its thermal counterpart and thus shifted the operating speed at which power is maximum. The performance of nano/micro machines can be tuned by altering only the nature of reservoir noise statistics.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:51:00.789Z

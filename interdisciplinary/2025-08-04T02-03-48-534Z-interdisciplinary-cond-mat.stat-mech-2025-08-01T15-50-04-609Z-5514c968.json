@@ -1,0 +1,12 @@
+# Experimental characterization of autonomous heat engine based on minimal dynamical-system model
+
+**Authors:** Shoichi Toyabe, Yuki Izumida
+
+## Summary
+The autonomous heat engine is a model system of autonomous nonequilibrium systems like biological cells, exploiting nonequilibrium flow for operations. As the Carnot engine has essentially contributed to the equilibrium thermodynamics, autonomous heat engine is expected to play a critical role in the challenge of constructing nonequilibrium thermodynamics. However, the high complexity of the engine involving an intricate coupling among heat, gas flow, and mechanics has prevented simple modeling. Here, we experimentally characterized the nonequilibrium dynamics and thermodynamics of a low-temperature-differential Stirling engine, which is a model autonomous heat engine. Our experiments demonstrated that the core engine dynamics are quantitatively described by a minimal dynamical model with only two degrees of freedom. The model proposes a novel concept that illustrates the engine as a thermodynamic pendulum driven by a thermodynamic force. This work will open a new approach to explore the nonequilibrium thermodynamics of autonomous systems based on a simple dynamical system.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:50:04.610Z

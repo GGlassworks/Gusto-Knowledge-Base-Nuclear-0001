@@ -1,0 +1,12 @@
+# Optimizing power and efficiency of a single spin heat engine
+
+**Authors:** Rita Majumdar, Monojit Chatterjee, Rahul Marathe
+
+## Summary
+We study the behavior of a single spin in the presence of a time-varying magnetic field utilizing Glauber dynamics. We engineer the system to function as an engine by changing the magnetic field according to specific protocols. Subsequently, we analyze the engine's performance using various protocols and stochastic thermodynamics to compute average values of crucial quantities for quantifying engine performance. In the longtime limit of the engine cycle, we derive exact analytical expressions for work, heat, and efficiency in terms of a generalized protocol. We then analyze the model in terms of optimization of efficiency and power. Additionally, we use different protocols and employ a gradient descent algorithm to best fit those to obtain optimal efficiency and then optimal power for a finite cycle time. All the protocols converge to the piece-wise constant protocol during efficiency optimization. We then explore a more general approach using the variational principle to determine the optimal protocols for optimizing power and efficiency. During the optimization process for both power and efficiency, the net entropy production decreases, which enhances the engine's performance. This approach demonstrates the superior optimization of efficiency and power in this system compared to the gradient descent algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:52:50.603Z

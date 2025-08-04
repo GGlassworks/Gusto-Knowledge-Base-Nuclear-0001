@@ -1,0 +1,12 @@
+# Linking Physical Objects to Their Digital Twins via Fiducial Markers Designed for Invisibility to Humans
+
+**Authors:** Mathew Schwartz, Yong Geng, Hakam Agha, Rijeesh Kizhakidathazhath, Danqing Liu, Gabriele Lenzini, Jan PF Lagerwall
+
+## Summary
+The ability to label and track physical objects that are assets in digital representations of the world is foundational to many complex systems. Simple, yet powerful methods such as bar- and QR-codes have been highly successful, e.g. in the retail space, but the lack of security, limited information content and impossibility of seamless integration with the environment have prevented a large-scale linking of physical objects to their digital twins. This paper proposes to link digital assets created through BIM with their physical counterparts using fiducial markers with patterns defined by Cholesteric Spherical Reflectors (CSRs), selective retroreflectors produced using liquid crystal self-assembly. The markers leverage the ability of CSRs to encode information that is easily detected and read with computer vision while remaining practically invisible to the human eye. We analyze the potential of a CSR-based infrastructure from the perspective of BIM, critically reviewing the outstanding challenges in applying this new class of functional materials, and we discuss extended opportunities arising in assisting autonomous mobile robots to reliably navigate human-populated environments, as well as in augmented reality.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.soft
+Collected: 2025-08-01T10:14:16.160Z

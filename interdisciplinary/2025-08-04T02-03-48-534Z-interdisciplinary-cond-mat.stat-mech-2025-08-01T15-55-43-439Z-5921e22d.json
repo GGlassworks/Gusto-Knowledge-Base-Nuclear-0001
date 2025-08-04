@@ -1,0 +1,12 @@
+# Thermodynamic Cost of Random-Time Protocols
+
+**Authors:** Izaak Neri
+
+## Summary
+We establish an information thermodynamics framework for feedback protocols that rely on temporal information. Using this framework, we show that random-time engines that appear to function as perpetuum mobile, such as stochastically stopped processes or heat engines with random-time protocols, actually satisfy the second law of thermodynamics. We illustrate the principles of temporal information thermodynamics on a random-time version of Szilard's engine, which is a paradigmatic example of a temporal information engine. Our findings quantify the thermodynamic cost of random times in external protocols, such as, in stochastic resetting protocols or in heat engines with random-time protocols.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:55:43.440Z

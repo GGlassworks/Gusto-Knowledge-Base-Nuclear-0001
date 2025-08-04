@@ -1,0 +1,12 @@
+# Quantitative analysis of spirality in elliptical galaxies
+
+**Authors:** Levente Dojcsak, Lior Shamir
+
+## Summary
+We use an automated galaxy morphology analysis method to quantitatively measure the spirality of galaxies classified manually as elliptical. The data set used for the analysis consists of 60,518 galaxy images with redshift obtained by the Sloan Digital Sky Survey (SDSS) and classified manually by Galaxy Zoo, as well as the RC3 and NA10 catalogues. We measure the spirality of the galaxies by using the Ganalyzer method, which transforms the galaxy image to its radial intensity plot to detect galaxy spirality that is in many cases difficult to notice by manual observation of the raw galaxy image. Experimental results using manually classified elliptical and S0 galaxies with redshift &lt;0.3 suggest that galaxies classified manually as elliptical and S0 exhibit a nonzero signal for the spirality. These results suggest that the human eye observing the raw galaxy image might not always be the most effective way of detecting spirality and curves in the arms of galaxies.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph.GA
+Collected: 2025-08-01T10:24:32.642Z

@@ -1,0 +1,12 @@
+# A Numerical Method to Find the Optimal Thermodynamic Cycle in Microscopic Heat Engine
+
+**Authors:** Rongxing Xu
+
+## Summary
+Heat engines are fundamental physical objects to develop nonequilibrium thermodynamics. The thermodynamic performance of the heat engine is determined by the choice of cycle and time-dependence of parameters. Here, we propose a systematic numerical method to find a heat engine cycle to optimize some target functions. We apply the method to heat engines with slowly varying parameters and show that the method works well. Our numerical method is based on the genetic algorithm which is widely applied to various optimization problems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:52:50.849Z

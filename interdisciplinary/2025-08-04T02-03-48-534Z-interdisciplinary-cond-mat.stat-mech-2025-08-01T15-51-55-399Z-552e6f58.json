@@ -1,0 +1,12 @@
+# Thermodynamics of one and two-qubit nonequilibrium heat engines running between squeezed thermal reservoirs
+
+**Authors:** Ashutosh Kumar, Trilochan Bagarti, Sourabh Lahiri, Subhashish Banerjee
+
+## Summary
+Quantum heat engines form an active field of research due to their potential applications. There are several phenomena that are unique to the quantum regime, some of which are known to give these engines an edge over their classical counterparts. In this work, we focus on the study of one and two-qubit finite-time Otto engines interacting with squeezed thermal baths, and discuss their important distinctions as well as the advantage of using the two-qubit engine. In particular, the two-qubit engine offers an interesting study of the interplay between the degree of squeezing and that of the coherence between the two qubits. We find that the two-qubit engine generally yields higher power than its one-qubit counterpart. The effective temperature of the squeezed baths can be calculated both for the one and two-qubit engines, and they tend to show an exponential growth with increase in squeezing parameters $r_h$ and $r_c$. It is also observed that by tuning the squeezing parameters, the machine can be made to work either in the engine or in the refrigerator mode. Additional effects due to the change in the inter-qubit separation have been studied.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:51:55.399Z

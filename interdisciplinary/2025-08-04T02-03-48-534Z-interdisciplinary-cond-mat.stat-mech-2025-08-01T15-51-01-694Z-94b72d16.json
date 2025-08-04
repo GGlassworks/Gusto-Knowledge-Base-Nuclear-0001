@@ -1,0 +1,12 @@
+# Universality and scaling of optimal heat engines
+
+**Authors:** Michele Campisi, Rosario Fazio
+
+## Summary
+From the steam engine to current nano-devices, the design of efficient thermal machines has been instrumental in modern societies. In its essence a thermal engine can be thought as a working substance, in contact with two or more baths, undergoing a cyclic transformation. What happens if the working substance is on the verge of a phase transition? Already in 1902 the latent heat was identified as a key to improve the efficiency of steam engines Despite this early observation, the impact of phase transitions on the performance of thermal machines has not been addressed. By combining the tools of non-equilibrium and quantum thermodynamics with finite-size-scaling and information theory, we unveil an unnoticed mechanism, triggered by the vicinity to a phase transition, to boost the performance of an engine. This result sheds new light on the so called power-efficiency dilemma and could be used to realise powerful and, at the same time, efficient engines. Specific implementations with trapped ions and superconducting nano-circuits will be discussed.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:51:01.694Z

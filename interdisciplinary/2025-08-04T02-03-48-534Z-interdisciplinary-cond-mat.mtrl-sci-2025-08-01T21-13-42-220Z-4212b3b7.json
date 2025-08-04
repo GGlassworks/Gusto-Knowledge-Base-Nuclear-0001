@@ -1,0 +1,12 @@
+# A Tutorial on Advanced Dynamic Monte Carlo Methods for Systems with Discrete State Spaces
+
+**Authors:** M. A. Novotny
+
+## Summary
+Advanced algorithms are necessary to obtain faster-than-real-time dynamic simulations in a number of different physical problems that are characterized by widely disparate time scales. Recent advanced dynamic Monte Carlo algorithms that preserve the dynamics of the model are described. These include the $n$-fold way algorithm, the Monte Carlo with Absorbing Markov Chains (MCAMC) algorithm, and the Projective Dynamics (PD) algorithm. To demonstrate the use of these algorithms, they are applied to some simplified models of dynamic physical systems. The models studied include a model for ion motion through a pore such as a biological ion channel and the metastable decay of the ferromagnetic Ising model. Non-trivial parallelization issues for these dynamic algorithms, which are in the class of parallel discrete event simulations, are discussed. Efforts are made to keep the article at an elementary level by concentrating on a simple model in each case that illustrates the use of the advanced dynamic Monte Carlo algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cond-mat.mtrl-sci
+Collected: 2025-08-01T21:13:42.221Z

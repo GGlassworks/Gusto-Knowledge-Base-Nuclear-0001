@@ -1,0 +1,12 @@
+# Photometric asymmetry between clockwise and counterclockwise spiral galaxies in SDSS
+
+**Authors:** Lior Shamir
+
+## Summary
+While galaxies with clockwise and counterclockwise handedness are visually different, they are expected to be symmetric in all of their other characteristics. Previous experiments using both manual analysis and machine vision have shown that the handedness of Sloan Digital Sky Survey (SDSS) galaxies can be predicted with accuracy significantly higher than mere chance using its photometric data alone, showing that SDSS photometry pipeline is sensitive to the handedness of the galaxy. However, some of these previous experiments were based on manually classified galaxies, and the results may therefore be subjected to bias originated from the human perception. This paper describes an experiment based on a set of 162,514 celestial objects classified as clockwise and counterclockwise spiral galaxies in a fully automatic process, showing that the source of the asymmetry is more than the human perception bias. The results are compared to two smaller datasets, and confirm the observation that the handedness of SDSS galaxies can be predicted by their photometric information, and show that the position angle of counterclockwise galaxies computed by SDSS photometry pipeline is consistently higher than the position angle computed for galaxies with clockwise patterns. The experiment also shows statistically significant differences in the measured magnitude, according which galaxies with clockwise patterns are brighter than galaxies with counterclockwise patterns. The magnitude of that difference changes across RA ranges, and exhibits a strong correlation with the cosine of the right ascension.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph.GA
+Collected: 2025-08-01T10:24:39.847Z

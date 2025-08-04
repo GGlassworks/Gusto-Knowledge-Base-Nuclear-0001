@@ -1,0 +1,12 @@
+# Classification methods for noise transients in advanced gravitational-wave detectors
+
+**Authors:** Jade Powell, Daniele Trifiro, Elena Cuoco, Ik Siong Heng, Marco Cavaglia
+
+## Summary
+Noise of non-astrophysical origin will contaminate science data taken by the Advanced Laser Interferometer Gravitational-wave Observatory (aLIGO) and Advanced Virgo gravitational-wave detectors. Prompt characterization of instrumental and environmental noise transients will be critical for improving the sensitivity of the advanced detectors in the upcoming science runs. During the science runs of the initial gravitational-wave detectors, noise transients were manually classified by visually examining the time-frequency scan of each event. Here, we present three new algorithms designed for the automatic classification of noise transients in advanced detectors. Two of these algorithms are based on Principal Component Analysis. They are Principal Component Analysis for Transients (PCAT), and an adaptation of LALInference Burst (LIB). The third algorithm is a combination of an event generator called Wavelet Detection Filter (WDF) and machine learning techniques for classification. We test these algorithms on simulated data sets, and we show their ability to automatically classify transients by frequency, SNR and waveform morphology.
+
+
+---
+Category: interdisciplinary
+Subcategory: astro-ph.IM
+Collected: 2025-08-01T21:13:43.762Z
