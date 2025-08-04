@@ -1,0 +1,13 @@
+# A Jump Start to Stock Trading Research for the Uninitiated Control Scientist: A Tutorial
+
+**Authors:** B. Barmish, S. Formentin, Chung-Han Hsieh, Anton V. Proskurnikov, Sean Warnick
+
+## Abstract
+The target audience for the line of research to be described in this tutorial paper is control system researchers with an interest in algorithmic stock trading but without a substantial background in finance and economics. To this end, we focus our attention on just a few hand-picked problem areas to illustrate how algorithmic trading research might be carried out from a control-theoretic perspective and refer the reader to a number of references where extensive survey-style material can be found. The paper begins with the exposition of some basics associated with opening a brokerage account and mathematical modelling of common order types. Subsequently, we consider a number of trading scenarios involving feedback control design, optimization problems arising in portfolio management, the theory of Kelly Betting in a stock trading context and interaction with the Limit Order Book which is crucial for smooth market operation. Given the control-theoretic point of view taken in this paper, many of our basic tools come into play; e.g., standard results from areas such as convex optimization, discrete probability theory and Markov processes, to name a few. One of the salient features of this tutorial is our use of idealizing assumptions and simplistic models whenever convenient for pedagogical and motivational purposes. In the conclusion section, we mention some challenging new research opportunities involving more general models and relaxation some of our simplifying assumptions.
+
+**Source:** https://www.semanticscholar.org/paper/3f26cc2361b319c9c3fbcce6691f340a2a35a248
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:22:36.396Z

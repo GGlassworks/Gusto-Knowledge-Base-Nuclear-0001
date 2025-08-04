@@ -1,0 +1,13 @@
+# How Complexity and Uncertainty Grew with Algorithmic Trading
+
+**Authors:** Martin Hilbert, David M. Darmon
+
+## Abstract
+The machine-learning paradigm promises traders to reduce uncertainty through better predictions done by ever more complex algorithms. We ask about detectable results of both uncertainty and complexity at the aggregated market level. We analyzed almost one billion trades of eight currency pairs (2007–2017) and show that increased algorithmic trading is associated with more complex subsequences and more predictable structures in bid-ask spreads. However, algorithmic involvement is also associated with more future uncertainty, which seems contradictory, at first sight. On the micro-level, traders employ algorithms to reduce their local uncertainty by creating more complex algorithmic patterns. This entails more predictable structure and more complexity. On the macro-level, the increased overall complexity implies more combinatorial possibilities, and therefore, more uncertainty about the future. The chain rule of entropy reveals that uncertainty has been reduced when trading on the level of the fourth digit behind the dollar, while new uncertainty started to arise at the fifth digit behind the dollar (aka ‘pip-trading’). In short, our information theoretic analysis helps us to clarify that the seeming contradiction between decreased uncertainty on the micro-level and increased uncertainty on the macro-level is the result of the inherent relationship between complexity and uncertainty.
+
+**Source:** https://www.semanticscholar.org/paper/72c358cf10fb6130a793a1d709e2a3b855a45646
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:56:17.312Z

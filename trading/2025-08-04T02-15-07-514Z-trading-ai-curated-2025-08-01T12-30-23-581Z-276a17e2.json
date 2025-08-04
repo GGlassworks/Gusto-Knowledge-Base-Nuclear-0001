@@ -1,0 +1,13 @@
+# A Study of Quantitative Modeling and Capital Market Efficiency Enhancement in High Frequency Trading
+
+**Authors:** Zimeng Li
+
+## Abstract
+Abstract The capital market is gradually shifting to emerging development with the aid of computer technology, with the help of artificial intelligence and data processing algorithms to cope with complex data in order to reduce the error of judgment in the capital market caused by emotions. In this paper, the data collected from high-frequency trading are screened and normalized, and the data set is constructed using the time window sliding method. Then, the state indicators and reward functions of the model are proposed by the characteristics of the capital market and high-frequency trading, and finally, the quantitative trading model is constructed based on the deep reinforcement learning algorithm. The backtesting results show that the quantitative model proposed in this paper achieves significant improvements in the effect of high-frequency trading and is able to solve the complex and ever-changing challenges of the capital market. The practical application finds that the quantitative model of high-frequency trading proposed in this paper based on the deep learning algorithm significantly improves the profitability of the enterprise, and the gross operating margin of Group X in 2023 (59.68%) far exceeds the industry average (50.82%). The quantitative model in this paper is more adaptable to diverse capital market environments and can provide some lessons and references for improving capital market efficiency and achieving high-quality development of enterprise groups.
+
+**Source:** https://www.semanticscholar.org/paper/05fd4e31e2dc353ed39abc69ef1311ebf9945843
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:30:23.582Z

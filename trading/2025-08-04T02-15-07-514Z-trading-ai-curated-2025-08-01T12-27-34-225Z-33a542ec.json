@@ -1,0 +1,13 @@
+# The Impact of High-Frequency Trading on Market Liquidity: A Mathematical Approach
+
+**Authors:** Chunran Zhang
+
+## Abstract
+High-frequency trading (HFT) has significantly transformed modern financial markets, influencing liquidity, volatility, and price efficiency. This paper presents a mathematical modeling approach to analyze the impact of HFT on market liquidity using queueing theory and game-theoretic frameworks. We examine both the liquidity-enhancing and destabilizing effects of HFT, emphasizing its role in spread reduction, order book depth, and volatility fluctuations. Empirical evidence suggests that while HFT improves liquidity in stable conditions, it may withdraw liquidity during market stress, amplifying volatility. Additionally, we explore regulatory challenges and policy interventions, such as financial transaction taxes, speed bumps, and market maker obligations, to mitigate systemic risks while preserving market efficiency. Future research should focus on AI-driven HFT, cross-asset liquidity dynamics, and HFTs role in emerging markets. The findings contribute to the ongoing debates on whether HFT stabilizes or destabilizes financial markets, providing insights for academics, regulators, and market participants.
+
+**Source:** https://www.semanticscholar.org/paper/6cb3f83795ec37d599bc7a6f7c04fcd7f7aaa179
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:27:34.226Z

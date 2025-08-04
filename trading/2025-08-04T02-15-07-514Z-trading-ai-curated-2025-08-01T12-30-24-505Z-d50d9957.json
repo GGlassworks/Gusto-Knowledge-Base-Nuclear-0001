@@ -1,0 +1,13 @@
+# High-Frequency Quantitative Trading of Digital Currencies Based on Fusion of Deep Reinforcement Learning Models with Evolutionary Strategies
+
+**Authors:** Yijun He, Bo Xu, Xinpu Su
+
+## Abstract
+High-frequency quantitative trading in the emerging digital currency market poses unique challenges due to the lack of established methods for extracting trading information. This paper proposes a deep evolutionary reinforcement learning (DERL) model that combines deep reinforcement learning with evolutionary strategies to address these challenges. Reinforcement learning is applied to data cleaning and factor extraction from a high-frequency, microscopic viewpoint to quantitatively explain the supply and demand imbalance and to create trading strategies. In order to determine whether the algorithm can successfully extract the significant hidden features in the factors when faced with large and complex high-frequency factors, this paper trains the agent in reinforcement learning using three different learning algorithms, including Q-learning, evolutionary strategies, and policy gradient. The experimental dataset, which contains data on sharp up, sharp down, and continuous oscillation situations, was chosen to test Bitcoin in January-February, September, and November of 2022. According to the experimental results, the evolutionary strategies algorithm achieved returns of 59.18%, 25.14%, and 22.72%, respectively. The results demonstrate that deep reinforcement learning based on the evolutionary strategies outperforms Q-learning and policy gradient concerning risk resistance and return capability. The proposed approach offers a robust and adaptive solution for high-frequency trading in the digital currency market, contributing to the development of effective quantitative trading strategies.
+
+**Source:** https://www.semanticscholar.org/paper/ee0578ad1ee1da301ef2b7c8acded6accc3c5ca5
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:30:24.506Z

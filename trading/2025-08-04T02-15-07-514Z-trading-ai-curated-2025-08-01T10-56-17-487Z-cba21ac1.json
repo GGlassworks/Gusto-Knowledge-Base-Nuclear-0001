@@ -1,0 +1,13 @@
+# Does Algorithmic Trading Improve Liquidity?
+
+**Authors:** T. Hendershott, C. Jones, A. Menkveld
+
+## Abstract
+Algorithmic trading has sharply increased over the past decade. Equity market liquidity has improved as well. Are the two trends related? For a recent five-year panel of New York Stock Exchange (NYSE) stocks, we use a normalized measure of electronic message traffic (order submissions, cancellations, and executions) as a proxy for algorithmic trading, and we trace the associations between liquidity and message traffic. Based on within-stock variation, we find that algorithmic trading and liquidity are positively related. To sort out causality, we use the start of autoquoting on the NYSE as an exogenous instrument for algorithmic trading. Previously, specialists were responsible for manually disseminating the inside quote. As stocks were phased in gradually during early 2003, the manual quote was replaced by a new automated quote whenever there was a change to the NYSE limit order book. This market structure change provides quicker feedback to traders and algorithms and results in more message traffic. For large-cap stocks in particular, quoted and effective spreads narrow under autoquote and adverse selection declines, indicating that algorithmic trading does causally improve liquidity.
+
+**Source:** https://www.semanticscholar.org/paper/10880a09af0ab428ed82154ecdb76fed1d1e22da
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:56:17.487Z

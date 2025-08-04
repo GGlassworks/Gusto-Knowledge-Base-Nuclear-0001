@@ -1,0 +1,14 @@
+# Regulation of Algorithmic Trading: Frameworks or Human Supervision and Direct Market Interventions
+
+**Authors:** Joseph Lee, Lukas Schu
+
+## Abstract
+This paper identifies the regulatory gaps that currently exist in algorithmic trading and provides a framework for machine learning regulation in finance. It compares the regulation of algorithmic trading in the capital markets by both human supervision and direct market intervention in the UK, the EU and the US to identify techniques they have in common, as well as local differences. Section II sets out what algorithmic trading is, how it is defined, which of its functions have a positive effect and which are negative for risk and impact. Section III examines how trading risks can be managed by human supervision. Section IV looks at how direct market intervention can mitigate the risks of algorithmic trading, focusing on the circuit breaker requirement. Finally, the liability of the parties involved (traders, firms, and trading venues) are examined and the possible enforcement actions that regulators may take are set out.
+Algorithms, high frequency trading, machine learning, financial regulation, MIFIDII, ESMA, FCA, SEC, circuit breaker, systemic risk
+
+**Source:** https://www.semanticscholar.org/paper/19ecaba7f026747f027c763a669538d94dbbec05
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:57:13.829Z

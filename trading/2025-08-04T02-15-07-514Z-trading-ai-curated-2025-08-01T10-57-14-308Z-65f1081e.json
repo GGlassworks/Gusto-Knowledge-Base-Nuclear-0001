@@ -1,0 +1,13 @@
+# Enhancing Trading Decision in Financial Markets: An Algorithmic Trading Framework With Continual Mean-Variance Optimization, Window Presetting, and Controlled Early-Stopping
+
+**Authors:** C. Tudor, Robert Sova
+
+## Abstract
+This study introduces a trading decision support system (DSS) enhanced by an optimized mean-variance model for algorithmic trading (AT), crucial in modern financial markets for its efficiency and error reduction. Despite AT’s advantages, its limitations, including risks of losses and market instability, are notable. The proposed DSS focuses on improving trading algorithms by embedding optimized forecasting techniques to predict market movements accurately. By employing a recursive approach to refine return forecasts and trading signals, and continuously adjusting model parameters within a sliding window, the system adapts to market changes, maintaining its robustness. Key contributions include optimizing the recursive window length and addressing overfitting, significantly enhancing existing trading systems. The system is validated through backtesting in the volatile natural gas market, highlighting its relevance amid the global shift towards sustainable energy. Numerical findings show that the DSS portfolio achieved an annualized Sharpe ratio of +0.8478 compared to the buy-and-hold strategy’s -0.4521, and the maximum drawdown was reduced from 90.67% to 63.59%. These results demonstrate the system’s capability to create superior portfolios, even in downturns, by optimizing rolling window lengths and covariate pool sizes while mitigating model performance issues and overfitting. This has significant economic and environmental implications, facilitating a smoother energy transition, and providing trading professionals with advanced tools to enhance portfolio performance and risk management in volatile markets.
+
+**Source:** https://www.semanticscholar.org/paper/3ad53370505d651af8c82567fb30ead7310d5708
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:57:14.309Z

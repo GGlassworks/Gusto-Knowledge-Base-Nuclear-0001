@@ -1,0 +1,13 @@
+# Algorithmic Trading Strategies: Leveraging Machine Learning Models for Enhanced Performance in the US Stock Market
+
+**Authors:** N. Gurung, Sumon Gazi, Md zahidul Islam, Md Rokibul Hasan
+
+## Abstract
+In the recent past, algorithmic trading has become exponentially predominant in the American stock market. The principal objective of this research was to explore the employment of machine learning frameworks in formulating algorithmic trading strategies tailored for the US stock market. For this investigation, an array of software tools was employed, comprising the Pandas library for data manipulation and analysis, the Python programming language, the Scikit-learn library for machine learning algorithms and analysis metrics, and the LIME library for explainable AI. In this study, the researcher gathered an extensive dataset from the Amazon Stock Exchange, spanning from October 19, 2018, to October 16, 2022. The dataset comprised a wide range of parameters related to Amazon's stock data, facilitating a rigorous analysis of its market performance. Five models were subjected to the experiment, notably Ridge Regression, Ada-Boost, Light-GBM, XG-Boost, Linear Regression, and Cat-Boost. From the experiment result, it was evident that the XG-Boost attained the highest R-squared (99.24%) and accuracy (99.23%) among all the algorithms. From the above results, the analyst inferred that the XG-Boost was able to learn a more complex and accurate model of the stock exchange data compared to the other algorithms. XG-Boost algorithm can be utilized to back-test distinct trading strategies on historical data, enabling investors to evaluate their efficiency before risking real capital. By assessing a wide array of factors, the XG-Boost algorithm can assist investors in selecting stocks with a higher probability of outperforming the market.
+
+**Source:** https://www.semanticscholar.org/paper/759f5220dbf4506e342b192bd22e8922c90f0b8d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:57:14.030Z

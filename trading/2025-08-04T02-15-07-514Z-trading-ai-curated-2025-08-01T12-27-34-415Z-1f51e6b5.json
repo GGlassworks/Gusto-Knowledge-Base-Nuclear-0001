@@ -1,0 +1,13 @@
+# High-Frequency Trading and Probability Theory
+
+**Authors:** Zhaodong Wang, Weian Zheng
+
+## Abstract
+This book is the first of its kind to treat high-frequency trading and technical analysis as accurate sciences. The authors reveal how to build trading algorithms of high-frequency trading and obtain stable statistical arbitrage from the financial market in detail. The authors' arguments are based on rigorous mathematical and statistical deductions and this will appeal to people who believe in the theoretical aspect of the topic. Investors who believe in technical analysis will find out how to verify the efficiency of their technical arguments by ergodic theory of stationary stochastic processes, which form a mathematical background for technical analysis. The authors also discuss technical details of the IT system design for high-frequency trading. Contents: Introduction Market Microstructure Some Basic HFT Strategies IT System Stationary Process and Ergodicity Stationarity and Technical Analysis HFT of a Single Asset Bid, Ask and Trade Prices Financial Engineering Debate and Future Readership: Graduates and researchers interested in frequency trading; finance professionals.
+
+**Source:** https://www.semanticscholar.org/paper/7bbd8e6d997962bf2bcc156983a67266cc60a6bb
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:27:34.416Z

@@ -1,0 +1,13 @@
+# High-Frequency Trading Competition
+
+**Authors:** Jonathan Brogaard, Corey Garriott
+
+## Abstract
+Theory on high-frequency traders (HFTs) predicts that market liquidity for a security decreases in the number of HFTs trading the security. We test this prediction by studying a new Canadian stock exchange, Alpha, that experienced the entry of 11 HFTs over 4 years. We find that bid–ask spreads on Alpha converge to those at the Toronto Stock Exchange as more HFTs trade on Alpha. Effective and realized spreads for non-HFTs improve as HFTs enter the market. To explain the contrast with theory, which models the HFT as a price competitor, we provide evidence more consistent with HFTs fitting a quantity-competitor framework.
+
+**Source:** https://www.semanticscholar.org/paper/30bf5232d322b29c0e6af90c8a5cc7694797761b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:27:34.589Z

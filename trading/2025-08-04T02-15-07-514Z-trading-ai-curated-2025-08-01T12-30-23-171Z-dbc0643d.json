@@ -1,0 +1,13 @@
+# High-Frequency Trading with Machine Learning Algorithms and Limit Order Book Data
+
+**Authors:** M. Mangat, E. Reschenhofer, Thomas Stark, C. Zwatz
+
+## Abstract
+In this paper, we examine the usefulness of machine learning methods such as support vector machines, random forests and bagging for the extraction of information from the limit order book that can be used for intraday trading. For our empirical analysis, we first get 50 raw features from the LOBSTER message file and order book file of the iShares Core S & P 500 ETF for the time period from 27.06.2007 to 30.04.2019 and then construct 18 higher-level features (aggregated to 5 minutes frequency) which serve as predictors. Using straightforward specifications for the machine learning procedures and thereby avoiding excessive data snooping, we find that these procedures are unable to find high dimensional patterns in the order book that could be used for trading purposes. The observed significant predictability is mainly due to the inclusion of only one variable, namely the last price change, and is probably too small to ensure profitability once transaction costs are taken into account.
+
+**Source:** https://www.semanticscholar.org/paper/2b0a6d325094df4531b0b1bcf738b6d8d62ee9ea
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:30:23.172Z

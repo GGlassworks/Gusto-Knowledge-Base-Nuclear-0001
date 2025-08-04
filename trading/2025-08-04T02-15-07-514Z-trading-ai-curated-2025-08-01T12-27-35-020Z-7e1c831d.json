@@ -1,0 +1,13 @@
+# Liquidity Provision, Commonality and High Frequency Trading
+
+**Authors:** P. Anagnostidis, P. Fontaine
+
+## Abstract
+What is the effect of high frequency trading (HFT) on systematic (il)liquidity risk? Theory predicts that liquidity commonality should be significant when access to information about prices is easier, through the transmission of liquidity shocks from one security to another, particularly during periods of increased price uncertainty. Based on the well-documented ability of HFT algorithms to have fast access to multiple price sources, our main hypothesis is that HFT contributes to the positive co-variation between firm-specific liquidity and market liquidity. Using HFT order and trade data from the Euronext Paris stock market, we find evidence that HFTs’ liquidity-supplying activity explains between 75% and 80% of a significant common (market) liquidity factor. Firm-specific liquidity supply co-varies significantly with the HFT-driven liquidity of the market portfolio. Moreover, HFT firm-specific liquidity supply is more sensitive to market-wide liquidity swings compared to non HFT firm-specific liquidity supply, especially during inter-day and intra-day periods of increased price volatility
+
+**Source:** https://www.semanticscholar.org/paper/a8fd3313f235513961c3e3cee7c6782dbea5d72e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:27:35.021Z

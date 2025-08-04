@@ -1,0 +1,13 @@
+# Advancing Algorithmic Trading: A Multi-Technique Enhancement of Deep Q-Network Models
+
+**Authors:** Gang Hu
+
+## Abstract
+This study enhances a Deep Q-Network (DQN) trading model by incorporating advanced techniques like Prioritized Experience Replay, Regularized Q-Learning, Noisy Networks, Dueling, and Double DQN. Extensive tests on assets like BTC/USD and AAPL demonstrate superior performance compared to the original model, with marked increases in returns and Sharpe Ratio, indicating improved risk-adjusted rewards. Notably, convolutional neural network (CNN) architectures, both 1D and 2D, significantly boost returns, suggesting their effectiveness in market trend analysis. Across instruments, these enhancements have yielded stable and high gains, eclipsing the baseline and highlighting the potential of CNNs in trading systems. The study suggests that applying sophisticated deep learning within reinforcement learning can greatly enhance automated trading, urging further exploration into advanced methods for broader financial applicability. The findings advocate for the continued evolution of AI in finance.
+
+**Source:** https://www.semanticscholar.org/paper/e07ac2f98d9d043d92e29325e3d2ef5ae178a7fc
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:21:38.172Z

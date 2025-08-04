@@ -1,0 +1,13 @@
+# Improving Market Efficiency and Profitability in High-Frequency Trading Using Neural Network-Based Deep Learning Techniques
+
+**Authors:** Sameer Yadav, Archana Singh, S. Singh, Vibhu Prakash Singh, V. Vuyyuru, A. Balakumar
+
+## Abstract
+The financial markets have witnessed the rise of High-frequency trading (HFT), which is distinguished by the quick execution of deals encouraged by algorithmic methods and advanced technological infrastructure. This paper suggests a unique way to use deep learning techniques, namely Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) neural networks, to improve market efficiency and profitability in HFT. By using the non-linear patterns and temporal dependencies seen in high-frequency market data, the method seeks to enhance trading strategy optimization and forecast accuracy. A comprehensive analysis of historical market data, including price movements, volume dynamics, and order book information, is conducted to train and evaluate the LSTM and GRU models. Through rigorous experimentation the effectiveness of the proposed approach in generating profitable trading signals and mitigating risks associated with high-frequency trading is assessed. Additionally, the interpretability of the neural network models is explored, providing insights into their decision-making process and identifying key factors influencing trading performance. These findings contribute to ongoing research efforts aimed at harnessing the power of deep learning for enhancing HFT capabilities, offering valuable implications for market participants and regulators navigating the complexities of modern financial markets. Python is used to implement the suggested work. By comparing the proposed study with the present RNN, BiLSTM approach, 98% accuracy is achieved.
+
+**Source:** https://www.semanticscholar.org/paper/6b124483955f84a352136a14590ea61cf341ec59
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:21:38.774Z

@@ -1,0 +1,13 @@
+# Algorithmic Trading in Experimental Markets with Human Traders: A Literature Survey
+
+**Authors:** T. Bao, E. Nekrasova, Tibor Neugebauer, Yohanes E. Riyanto
+
+## Abstract
+This chapter surveys the nascent experimental research on the interaction between human and algorithmic (bot) traders in experimental markets. We first discuss studies in which algorithmic traders are in the researcher’s hands. Specifically, the researcher assigns computer agents as traders in the market. We then followed it up by discussing studies in which the researcher allows human traders to decide whether to employ algorithms for trading or to trade by themselves. The paper introduces the types and performances of algorithmic traders that interact with human subjects in the laboratory, including zero-intelligent traders, arbitragers, fundamentalists, adaptive algorithms, and manipulators. We find that whether algorithm traders earn more profit than human traders crucially depends on the asset’s fundamental value process and the market environment. The potential impact of interactions with algorithms on the investor’s psychology is also discussed.
+
+**Source:** https://www.semanticscholar.org/paper/6f9d25c740ac2a281525ca3d6ba7a2c8c690e83f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:56:17.162Z

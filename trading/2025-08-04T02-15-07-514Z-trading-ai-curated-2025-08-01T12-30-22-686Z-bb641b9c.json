@@ -1,0 +1,13 @@
+# Research on Optimizing Real-Time Data Processing in High-Frequency Trading Algorithms using Machine Learning
+
+**Authors:** Yuxin Fan, Zhuohuan Hu, Lei Fu, Yu Cheng, Liyang Wang, Yuxiang Wang
+
+## Abstract
+High-frequency trading (HFT) represents a pivotal and intensely competitive domain within the financial markets. The velocity and accuracy of data processing exert a direct influence on profitability, underscoring the significance of this field. The objective of this work is to optimise the real-time processing of data in high-frequency trading algorithms. The dynamic feature selection mechanism is responsible for monitoring and analysing market data in real time through clustering and feature weight analysis, with the objective of automatically selecting the most relevant features. This process employs an adaptive feature extraction method, which enables the system to respond and adjust its feature set in a timely manner when the data input changes, thus ensuring the efficient utilisation of data. The lightweight neural networks are designed in a modular fashion, comprising fast convolutional layers and pruning techniques that facilitate the expeditious completion of data processing and output prediction. In contrast to conventional deep learning models, the neural network architecture has been specifically designed to minimise the number of parameters and computational complexity, thereby markedly reducing the inference time. The experimental results demonstrate that the model is capable of maintaining consistent performance in the context of varying market conditions, thereby illustrating its advantages in terms of processing speed and revenue enhancement.
+
+**Source:** https://www.semanticscholar.org/paper/a09e371c4e89867d25b8b360862c41300df3d0ec
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:30:22.698Z

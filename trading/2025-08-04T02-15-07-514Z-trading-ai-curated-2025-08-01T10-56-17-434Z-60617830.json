@@ -1,0 +1,16 @@
+# Unregulated Algorithmic Trading: Testing the Boundaries of the European Union Algorithmic Trading Regime
+
+**Authors:** Clara Martins Pereira
+
+## Abstract
+
+ Trading in modern equity markets has come to be dominated by machines and algorithms. However, there is significant concern over the impact of algorithmic trading on market quality and a number of jurisdictions have moved to address the risks associated with this new type of trading. The European Union has been no exception to this trend.
+ This article argues that while the European Union algorithmic trading regime is often perceived as a tough response to the challenges inherent in machine trading, it has one crucial shortcoming: it does not regulate the simpler, basic execution algorithms used in automated order routers. Yet the same risk generally associated with algorithmic trading activity also arises, in particular, from the use of these basic execution algorithms—as was made evident by the trading glitch that led to the fall of United States securities trader Knight Capital in 2012. Indeed, such risk could even be amplified by the lack of sophistication of these simpler execution algorithms.
+ It is thus proposed that the European Union should amend the objective scope of its algorithmic trading regime by expanding the definition of algorithmic trading under the Markets in Financial Instruments Directive (MiFID II) to include all execution algorithms, regardless of their complexity.
+
+**Source:** https://www.semanticscholar.org/paper/6bddb940365971f11723efc963676962a515fb8e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:56:17.434Z

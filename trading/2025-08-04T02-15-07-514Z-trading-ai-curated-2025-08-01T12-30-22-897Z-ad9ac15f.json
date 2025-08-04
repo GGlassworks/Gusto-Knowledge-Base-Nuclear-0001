@@ -1,0 +1,13 @@
+# Quantitative Finance Model Visualizer Using High-Frequency Trading Algorithms
+
+**Authors:** Soumya Kumari, Xitiz Verma, Yashaswini Shree, Mohammed Shagil Khan, P. Sunanda
+
+## Abstract
+Our project is about quantitative finance which refers to the methodology of applying disciplines from mathematics, statistics, and finance with computer programming to create a financial tool for future stock prediction. Stock market prediction is a very tough job as very high precision is needed. So many models have been used earlier but none of them are reliable and consistent. Thus, we propose a solution using deep learning, as it uses current output in further steps and understands the relationship between them.RNN has a vanishing gradient problem which happens due to the use of the same parameters repeatedly. This problem is avoided by the use of different parameters at each step. We balance the situation by adding variable-length sequences, generating variable-length sequences, and keeping the learnable parameters count constant. We are introducing gated cells like LSTM. Also, RNN can't retain the data for a long duration. Hence, we are planning to use the LSTM model which is a kind of RNN that has long-term memory. Lstm works on time series data and time series data can be influenced by any tiny noise. Time series data helps us to track differences over time. For this project, we are using high- frequency data which means everyday data fluctuation is included. Also, we are using the random forest for noise reduction and outlier detection. Random forest is normalizing our output and provides accuracy. Keywords: Artificial Intelligence; machine learning algorithms; Deep learning;
+
+**Source:** https://www.semanticscholar.org/paper/a9256a5c239d78b830d8fed70b02f404faf5439f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:30:22.897Z

@@ -1,0 +1,13 @@
+# High-Frequency Trading Meets Reinforcement Learning: Exploiting the Iterative Nature of Trading Algorithms
+
+**Authors:** J. Fernandez-Tapia
+
+## Abstract
+We propose an optimization framework for market-making in a limit-order book, based on the theory of stochastic approximation. We consider a discrete-time variant of the Avellaneda-Stoikov model similar to its development in an article of Laruelle, Lehalle and Pages in the context of optimal liquidation tactics. The idea is to take advantage of the iterative nature of the process of updating bid and ask quotes in order to make the algorithm optimize its strategy on a trial-and-error basis (i.e. on-line learning). An advantage of this approach is that the exploration of the system by the algorithm is performed in run-time, so explicit specifications of the price dynamics are not necessary, as is the case in the stochastic-control approach. As it will be discussed, the rationale of our method can be extended to a wider class of algorithmic-trading tactical problems other than market-making.
+
+**Source:** https://www.semanticscholar.org/paper/e4fcd6688bef4325ebe00c57381b429b74bc64d0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:30:24.227Z

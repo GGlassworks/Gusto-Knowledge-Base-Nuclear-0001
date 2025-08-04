@@ -1,0 +1,13 @@
+# The Impact of High-Frequency Trading on Modern Securities Markets
+
+**Authors:** B. Clapham, Martin Haferkorn, K. Zimmermann
+
+## Abstract
+High-frequency traders account for a significant part of overall price formation and liquidity provision in modern securities markets. In order to react within microseconds, high-frequency traders depend on specialized low latency infrastructure and fast connections to exchanges, which require significant IT investments. The paper investigates a technical failure of this infrastructure at a major exchange that prevents high-frequency traders from trading at low latency. This event provides a unique opportunity to analyze the impact of high-frequency trading on securities markets. The analysis clearly shows that although the impact on trading volume and the number of trades is marginal, the effects on liquidity and to a lesser extent on price volatility are substantial when high-frequency trading is interrupted. Thus, investments in high-frequency trading technology provide positive economic spillovers to the overall market since they reduce transaction costs not only for those who invest in this technology but for all market participants by enhancing the quality of securities markets.
+
+**Source:** https://www.semanticscholar.org/paper/407310cc8adced38140765f36fd64ccb3e5562e1
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:45.406Z

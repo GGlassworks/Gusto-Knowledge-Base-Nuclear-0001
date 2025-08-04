@@ -1,0 +1,13 @@
+# A theory of very short-time price change: security price drivers in times of high-frequency trading
+
+**Authors:** G. Virgilio
+
+## Abstract
+Academic research has identified several factors that affect price movements; however, the scenario changes abruptly in the case of very short time price changes (VSTPC). This topic is not specifically examined in the existing literature; nonetheless, the behavior of the market microstructure is quite different at the subsecond scale. Indeed, below a certain psychological time threshold, most factors typically influencing price changes cease to apply. This paper analyzes several parameters considered to affect price changes and identifies four of them as potentially influencing VSTPC. These factors are previous volatility, scarce liquidity, high quantity exchanged, and stop-loss (SL) orders (seldom mentioned in the literature). These four parameters are examined by means of a mathematical model, audit trail data analysis, Granger-causality testing, and agent-based model. The results of these four techniques converge to suggest a nonlinear combination of previous volatility, liquidity, and SL orders as the main causes of excess volatility. However, contrary to mainstream literature on trading time above a certain psychological threshold, the volumes exchanged are not integral agents for VSTPC. Currently, financial markets face many ultrafast orders, yet a coherent theory of price change at time scales incomprehensible by humans and only manageable by computers is still lacking. The theory presented in this paper attempts to fill this gap. The outcome of such a theory is important for purposes of market stability, crisis avoidance, investment planning, risk management, and high-frequency trading.
+
+**Source:** https://www.semanticscholar.org/paper/bfa6ab8ad44fdb900139febe8c9c247d8a09e0a2
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:27:34.044Z

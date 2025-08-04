@@ -1,0 +1,13 @@
+# Applying Long Short-Term Memory Networks to Model Elliott Wave Patterns for Improved Risk Management in High-Frequency Trading
+
+**Authors:** Mohamed O. Ben Miloud, Eunjin Kim
+
+## Abstract
+Predicting financial markets remains a critical yet challenging task due to their complex and dynamic nature. This paper introduces a novel approach that combines Elliott Wave Theory (EWT) with Long Short-Term Memory (LSTM) networks to enhance the accuracy and reliability of financial market predictions. Elliott Wave Theory, which hypothesizes that market prices unfold in recognizable patterns driven by investor psychology, is integrated with LSTMs to effectively capture temporal dependencies in price movements. Our methodology comprises four key components: data gathering, preprocessing, model training, and performance simulation. Historical price data for stocks and cryptocurrencies is procured using established financial data APIs and preprocessed to encode wave patterns into a format suitable for LSTM processing. The LSTM model is trained on this data, focusing on recognizing and predicting future price movements based on identified wave patterns. The model’s effectiveness is validated through a 15 -day trading simulation, which netted a $\mathbf{2. 2 \%}$ gain, demonstrating its potential to outperform traditional predictive models. This paper not only underscores the feasibility of automating wave pattern recognition but also highlights the advantages of hybrid models in financial forecasting.
+
+**Source:** https://www.semanticscholar.org/paper/c8e1c763cb298c80482bcc898a4e203729a1299e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:27:34.118Z

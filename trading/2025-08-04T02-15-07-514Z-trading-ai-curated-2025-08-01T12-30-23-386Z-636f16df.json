@@ -1,0 +1,13 @@
+# Anomaly Pattern Detection in High-Frequency Trading Using Graph Neural Networks
+
+**Authors:** Maoxi Li, Mengying Shu, Tianyu Lu
+
+## Abstract
+This paper presents a new method for detecting abnormal patterns in high-frequency trading (HFT) using graph neural networks (GNNs). The increasing sophistication of trading algorithms and the large volume of data have often created unprecedented challenges for traditional market analysis. Our framework addresses these challenges by introducing a GNN-based architecture that takes advantage of the physical and structural properties of business data. The proposed method transforms HFT data into graphical models where the nodes represent market conditions and the edges capture their physical and price relationships. A specialized GNN architecture, incorporating attention mechanisms and temporal convolution modules, is developed to learn complex trading patterns and identify potential anomalies. The model is evaluated on high-frequency trading data from five major stocks listed on NASDAQ, spanning six months of trading activity with over 10 million events. Experimental results demonstrate superior performance compared to existing approaches, achieving a 15% improvement in detection accuracy and maintaining robust performance across different market conditions. The framework exhibits particular strength in identifying complex manipulation patterns while maintaining low false positive rates. Our approach processes large volumes of trading data in real time with significantly reduced computational requirements compared to traditional methods. This research contributes to the development of more effective market surveillance systems and provides valuable insights for regulatory authorities in maintaining market integrity.
+
+**Source:** https://www.semanticscholar.org/paper/d57b28fbdcfe5ee5fd1f2f3eba1cf321e8f216fb
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:30:23.386Z

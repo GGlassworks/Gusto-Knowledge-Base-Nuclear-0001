@@ -1,0 +1,13 @@
+# A Survey on Machine Learning Algorithms for Risk-Controlled Algorithmic Trading
+
+**Authors:** Soham Pathak, Antara Pawar, Shruti Taware, Sarthak Kulkarni, Afsha Akkalkot
+
+## Abstract
+Machine learning algorithms have emerged as powerful tools for risk control in algorithmic trading, enabling traders to analyze vast amounts of market data, detect patterns, and make informed trading decisions. In today's fast-paced and data-driven financial markets, effective risk management is essential to navigate market uncertainties and optimize trading performance. Traditional risk control methods often struggle to capture complex market dynamics and adapt to rapidly changing conditions, leading to the adoption of machine learning algorithms. These algorithms excel in processing large volumes of data, uncovering hidden patterns, and making accurate predictions, enabling traders to develop proactive risk management strategies. Machine learning algorithms offer several advantages in risk control for algorithmic trading. They can analyze diverse data sources such as historical price data, news sentiment, and economic indicators, providing valuable insights for risk assessment and decision-making. Additionally, these algorithms can handle time series data, capturing temporal dependencies and adapting to dynamic market conditions. They provide real-time risk monitoring and early warning capabilities, enabling traders to respond quickly to emerging risks and implement risk mitigation measures. Furthermore, machine learning algorithms offer the potential to optimize portfolio management, dynamically adjusting portfolio weights based on risk-return profiles and optimizing asset allocation strategies. Machine learning algorithms have revolutionized risk control in algorithmic trading by providing advanced analytics, predictive capabilities, and real-time monitoring. These algorithms enhance risk management strategies, improve decision-making processes, and enable traders to navigate the complexities of financial markets.
+
+**Source:** https://www.semanticscholar.org/paper/8474b62bdb4e2330f133fcbb60a208fdb9a908c3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:22:36.766Z

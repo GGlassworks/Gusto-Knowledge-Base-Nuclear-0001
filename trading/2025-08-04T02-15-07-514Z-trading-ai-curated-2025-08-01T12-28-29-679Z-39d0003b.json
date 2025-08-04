@@ -1,0 +1,13 @@
+# Characteristics of High-Frequency Trading and Its Forecasts
+
+**Authors:** Shigeki Kohda, Kenichi Yoshida
+
+## Abstract
+High-frequency trading (HFT), which is a type of algorithmic trading, accounts for a significant percentage of trading volume in equity markets. Co-location, a low-latency service, enables high-speed transactions. For example, 70% of all orders traded on the Tokyo Stock Exchange use co-location. Since many HFT companies use co-location services, analyzing the characteristics of HFT can help us understand the market and find better trading strategies. Our study, which uses data from the Tokyo Stock Exchange (ranked as the third largest stock exchange in the world by market capitalization) clarifies the following. 1) Most orders are filled or canceled without changing price or quantity. 2) If the price rises due to a contract, the sell order will significantly increase compared to the buy order, and the price will gradually decrease. 3) After the price change, the price before the change will return within 300 seconds. 4) Based on these findings, we can design a simple trading strategy that can make a profit with 90% reliability.
+
+**Source:** https://www.semanticscholar.org/paper/a2ac4a357f10046f1eadfad2a6618b79133a7d6d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:28:29.680Z

@@ -1,0 +1,13 @@
+# Modeling bid and ask price dynamics with an extended Hawkes process and its empirical applications for high-frequency stock market data
+
+**Authors:** Kyungsub Lee, Byoung Ki Seo
+
+## Abstract
+This study proposes a versatile model for the dynamics of the best bid and ask prices using an extended Hawkes process. The model incorporates the zero intensities of the spreadnarrowing processes at the minimum bid-ask spread, spread-dependent intensities, possible negative excitement, and nonnegative intensities. We apply the model to high-frequency best bid and ask price data from US stock markets. The empirical findings demonstrate a spread-narrowing tendency, excitations of the intensities caused by previous events, the impact of flash crashes, characteristic trends in fast trading over time, and the different features of market participants in the various exchanges.
+
+**Source:** https://www.semanticscholar.org/paper/73fe25f632509c860865f9da1dbced52b0100bd9
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:28:29.869Z

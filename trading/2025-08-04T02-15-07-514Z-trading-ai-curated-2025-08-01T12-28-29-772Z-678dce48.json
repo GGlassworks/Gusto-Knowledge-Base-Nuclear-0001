@@ -1,0 +1,13 @@
+# Autonomous self-evolving forecasting models for price movement in high frequency trading: Evidence from Taiwan
+
+**Authors:** Chien-Feng Huang, Hsiao-Chi Wu, Po-Chun Chen, B. Chang
+
+## Abstract
+Among FinTech research and applications, forecasting financial time series data has been a challenging task because this kind of data is typically quite noisy and non-stationary. A recent line of financial research centers around trading through financial data on the microscopic level, which is the holy grail of high-frequency trading (HFT), as the higher the data frequency, the more profitable opportunities may appear. The advancement in HFT modeling has also facilitated more understanding towards price formation because the supply and demand of a stock can be comprehended more easily from the microstructure of the order book. Instead of traditional statistical methods, there has been increasing demand for the development of more reliable prediction models due to the recent progress in Computational Intelligence (CI) technologies. In this study, we aim to develop novel CI-based methodologies for the forecasting task of price movement in HFT. Our goal is to conduct a study for autonomous genetic-based models that allow the forecasting systems to self-evolve. The results show that our proposed method can improve upon the previous ones and advance the current state of Fintech research.
+
+**Source:** https://www.semanticscholar.org/paper/bedb326d8ab69e09ad9479aef4a846c08ad292e4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:28:29.773Z

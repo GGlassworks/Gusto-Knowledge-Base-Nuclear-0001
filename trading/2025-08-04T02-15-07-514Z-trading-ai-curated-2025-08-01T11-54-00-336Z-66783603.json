@@ -1,0 +1,13 @@
+# Efficient Gradient-Based Algorithm with Numerical Derivatives for Expedited Optimization of Multi-Parameter Miniaturized Impedance Matching Transformers
+
+**Authors:** S. Koziel, A. Pietrenko‐Dabrowska
+
+## Abstract
+. Full-wave electromagnetic (EM) simulation tools have become ubiquitous in the design of microwave components. In some cases, e.g., miniaturized microstrip components, EM analysis is mandatory due to considerable cross-coupling effects that cannot be accounted for otherwise (e.g., by means of equivalent circuits). These effects are particularly pronounced in the structures involving slow-wave compact cells and their numerical optimization is challenging due to expensive simulations and large number of parameters. In this paper, a novel gradient-based procedure with numerical derivatives is proposed for expedited optimization of compact microstrip impedance matching transformers. The method restricts the use of finite differentiation which is replaced for selected parameters by a rank-one Broyden updating formula. The usage of the formula is governed by an acceptance parameter which is made dependent on the parameter space dimensionality. This facilitates handling circuits of various complexities. The proposed approach is validated using three impedance matching transformer circuits with the number of parameters varying from ten to twenty. A significant speedup of up to 50 percent is demonstrated with respect to the reference algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/8e91178d33cad93dd9e6e533615e526181ed430e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T11:54:00.336Z

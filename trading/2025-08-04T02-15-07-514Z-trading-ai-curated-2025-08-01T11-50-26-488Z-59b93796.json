@@ -1,0 +1,13 @@
+# Comparison of Stock Price Prediction Models using Pre-trained Neural Networks
+
+**Authors:** C. Anand
+
+## Abstract
+Several intelligent data mining approaches, including neural networks, have been widely employed by academics during the last decade. In today's rapidly evolving economy, stock market data prediction and analysis play a significant role. Several non-linear models like neural network, generalized autoregressive conditional heteroskedasticity (GARCH) and autoregressive conditional heteroscedasticity (ARCH) as well as linear models like Auto-Regressive Integrated Moving Average (ARIMA), Moving Average (MA) and Auto Regressive (AR) may be used for stock forecasting. The deep learning architectures inclusive of Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), Recurrent Neural Networks (RNN), Multilayer Perceptron (MLP) and Support Vector Machine (SVM) are used in this paper for stock price prediction of an organization by using the previously available stock prices. The National Stock Exchange (NSE) of India dataset is used for training the model with day-wise closing price. Data prediction is performed for a few sample companies selected on a random basis. Based on the comparison results, it is evident that the existing models are outperformed by CNN. The network can also perform stock predictions for other stock markets despite being trained with single market data as a common inner dynamics that has been shared between certain stock markets. When compared to the existing linear models, the neural network model outperforms them in a significant manner, which can be observed from the comparison results.
+
+**Source:** https://www.semanticscholar.org/paper/233c6e1a1fecb9070c8129365bb03f5322dc959e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T11:50:26.488Z

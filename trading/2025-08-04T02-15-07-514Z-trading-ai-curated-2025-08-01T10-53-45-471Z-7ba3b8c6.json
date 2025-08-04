@@ -1,0 +1,13 @@
+# High-Frequency Trading and Market Performance
+
+**Authors:** Markus Baldauf, Joshua Mollner
+
+## Abstract
+We study the consequences of high-frequency trading (HFT) — and potential policy responses — via the tradeoff between liquidity and information production. Faster speeds facilitate HFT with consequences for this tradeoff: information production diminishes because informed traders have less time to trade before HFTs react, but liquidity (measured by the bid-ask spread) improves because informational asymmetries decline. HFT also pushes outcomes inside the frontier of this tradeoff. However, outcomes can be restored to the frontier by replacing the limit order book (LOB) with either of two alternative mechanisms: delaying all orders except cancellations or frequent batch auctions.
+
+**Source:** https://www.semanticscholar.org/paper/270a3f66f7f3ed89f2729c07604ae0ae52be1611
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:45.471Z

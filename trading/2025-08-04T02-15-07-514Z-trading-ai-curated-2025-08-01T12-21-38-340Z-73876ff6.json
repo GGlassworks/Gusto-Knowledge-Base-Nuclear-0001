@@ -1,0 +1,13 @@
+# Algorithmic Trading in Financial Markets: A Systematic Review
+
+**Authors:** Ákos Botos, J. Fogarasi
+
+## Abstract
+Algorithmic trading has profoundly transformed financial markets since its inception in the early 1970s, becoming increasingly sophisticated with the integration of advanced technologies, particularly artificial intelligence (AI) and machine learning (ML). This systematic review investigates the theoretical underpinnings, practical applications, and emerging trends within algorithmic trading. Employing the PRISMA methodology, this study analyzes key publications from Web of Science databases, specifically targeting algorithmic trading and its intersections with AI and ML. Results demonstrate that machine learning significantly enhances forecasting accuracy and the adaptability of trading algorithms, especially under volatile conditions such as those experienced during the COVID-19 pandemic and recent geopolitical conflicts. However, the effectiveness of algorithmic trading remains contingent upon addressing infrastructural limitations, notably latency, and navigating the evolving regulatory landscape to maintain market integrity and fairness. Future research directions identified include deeper AI integration, the development of more user-friendly trading platforms accommodating diverse user expertise levels, and addressing ethical and governance concerns inherent in increasingly autonomous trading systems.
+
+**Source:** https://www.semanticscholar.org/paper/d467c0eb53819f29567de5de12aef3af6795740f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:21:38.340Z

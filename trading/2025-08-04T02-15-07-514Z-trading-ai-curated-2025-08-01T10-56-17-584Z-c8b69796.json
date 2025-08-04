@@ -1,0 +1,13 @@
+# How Algorithms Interact: Goffman's ‘Interaction Order’ in Automated Trading
+
+**Authors:** D. MacKenzie
+
+## Abstract
+In a talk in 2013, Karin Knorr Cetina referred to ‘the interaction order of algorithms’, a phrase that implicitly invokes Erving Goffman's ‘interaction order’. This paper explores the application of the latter notion to the interaction of automated-trading algorithms, viewing algorithms as material entities (programs running on physical machines) and conceiving of the interaction order of algorithms as the ensemble of their effects on each other. The paper identifies the main way in which trading algorithms interact (via electronic ‘order books’, which algorithms both ‘observe’ and populate) and focuses on two particularly Goffmanesque aspects of algorithmic interaction: queuing and ‘spoofing’, or deliberate deception. Following Goffman's injunction not to ignore the influence on interaction of matters external to it, the paper examines some prominent such matters. Empirically, the paper draws on documentary analysis and 338 interviews conducted by the author with high-frequency traders and others involved in automated trading.
+
+**Source:** https://www.semanticscholar.org/paper/0d7840e7a04d4b1719b6fec503f2319688c39b3a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:56:17.584Z

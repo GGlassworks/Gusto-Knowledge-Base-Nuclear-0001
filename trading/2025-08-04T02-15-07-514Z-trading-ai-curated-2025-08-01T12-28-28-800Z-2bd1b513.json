@@ -1,0 +1,13 @@
+# Reordering Transaction Execution to Boost High-Frequency Trading Applications
+
+**Authors:** Ningnan Zhou, Xuan Zhou, Xiao Zhang, Xiaoyong Du, Shan Wang
+
+## Abstract
+High-frequency trading (HFT) has always been welcomed because it benefits not only personal benefits but also the whole social welfare. While the recent advance of portfolio selection in HFT market enables to bring about more profit, it yields much contended OLTP workloads. Featuring exploiting the abundant parallelism, transaction pipeline, the state-of-the-art concurrency control (CC) mechanism, however, suffers from limited concurrency confronted with HFT workloads. Its variants that enable more parallel execution by leveraging fine-grained contention information also take little effect. To solve this problem, we for the first time observe and formulate the source of restricted concurrency as harmful ordering of transaction statements. To resolve harmful ordering, we propose PARE, a pipeline-aware reordered execution, to improve application performance by rearranging statements in order of their degrees of contention. In concrete, two mechanisms are devised to ensure the correctness of statement rearrangement and identify the degrees of contention of statements, respectively. We also study the off-line reordering problem. We prove that this problem is NP-hard and present an off-line reordering approach to approximate the optimal reordering strategy. Experiment results show that PARE can improve transaction throughput and reduce transaction latency on HFT applications by up to an order of magnitude than the state-of-the-art CC mechanism.
+
+**Source:** https://www.semanticscholar.org/paper/64ace37e563b8292e11617e9c288f39d4bbb0ca2
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:28:28.800Z
