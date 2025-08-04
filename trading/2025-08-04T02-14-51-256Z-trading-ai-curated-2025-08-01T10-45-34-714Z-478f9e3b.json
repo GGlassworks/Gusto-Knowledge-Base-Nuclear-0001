@@ -1,0 +1,13 @@
+# Developing and testing a custom algorithmic trading strategy using exponential moving average, relative strength index, and sentiment analysis
+
+**Authors:** Sstuti D. Mehra, S. Shetty
+
+## Abstract
+Stock trading is a popular and important profession that requires near-to-perfect data analytical skills, mathematical and statistical knowledge, and a broad understanding of buying and selling stocks. Often, due to the number of factors to consider and the intervention of human bias, traders and investors make wrong decisions that cost them millions of dollars. Therefore, automated algorithmic trading has gained traction in the marketplace due to its ability to process huge amounts of data, perform mathematical calculations and make quick and effective decisions. Most algorithmic trading strategies rely on a single technical indicator; however, it has been found that combining two or more indicators makes a trading strategy profitable. Therefore, this paper proposes a custom algorithmic trading strategy that combines important technical indicators such as the Exponential Moving Average and Relative Strength Index and utilizes sentiment analysis of financial news as well. This combination of technical indicators and sentiment analysis is not prevalent in existing research. The performance of the strategy was tested on fifteen stocks from different sectors of the US market using Python’s VectorBt library. The results showed that most of the stocks produced a higher win rate with the custom strategy as compared to other strategies, with the highest win rate of 88% for the S&P 500 index. To carry out sentiment analysis, a NLP model using BERT was developed which achieved an accuracy of 84%. Finally, to test the strategy on real-time data, paper trading was carried out on the Alpaca API and after six months the portfolio’s ROI is 6.26%.
+
+**Source:** https://www.semanticscholar.org/paper/01277853d02b0b922082b1db3f236920db6534a7
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:45:34.714Z

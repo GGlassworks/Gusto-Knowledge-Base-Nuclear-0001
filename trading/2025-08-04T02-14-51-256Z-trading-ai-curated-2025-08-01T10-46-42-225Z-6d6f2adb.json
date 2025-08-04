@@ -1,0 +1,13 @@
+# Dynamic Data Science Applications in Optimal Profit Algorithmic Trading
+
+**Authors:** You Liang, A. Thavaneswaran, Na Yu, Md. Erfanul Hoque, R. Thulasiram
+
+## Abstract
+Many of the challenges and opportunities of data science in finance involve recursive smoothing, forecasting, filtering and pattern mining. Recently there has been a growing interest in using filtered estimates for dynamic hedge ratios for pairs trading. Moreover, rolling estimates and forecasts are used for pattern mining in technical analysis. Kalman filtering algorithms were successfully applied in pairs trading with only two co-integrated assets. In this paper, pairs trading strategy is extended to multiple trading (with more than two assets) strategy. Recently proposed non-Gaussian maximum informative filtering algorithms for dynamic state space models are used to obtain the filtered estimates of hedge ratios and applied in multiple trading. It is shown that the proposed multiple trading strategy outperforms (with higher profits) the commonly used pairs trading strategy using real data. A data-driven approach for selecting a parameter which maximizes the Sharpe ratio (SR) to generate optimal trading signals is also discussed in some detail.
+
+**Source:** https://www.semanticscholar.org/paper/e912421e6435a6d0b5658b419089d48610c0f408
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:42.226Z

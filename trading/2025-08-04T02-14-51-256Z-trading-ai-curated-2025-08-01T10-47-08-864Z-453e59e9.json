@@ -1,0 +1,13 @@
+# An Ensembling Architecture Incorporating Machine Learning Models and Genetic Algorithm Optimization for Forex Trading
+
+**Authors:** Leonard Kin Yung Loh, Hee Kheng Kueh, Nirav Janak Parikh, Harry Chan, N. J. H. Ho, M. C. H. Chua
+
+## Abstract
+Algorithmic trading has become the standard in the financial market. Traditionally, most algorithms have relied on rule-based expert systems which are a set of complex if/then rules that need to be updated manually to changing market conditions. Machine learning (ML) is the natural next step in algorithmic trading because it can directly learn market patterns and behaviors from historical trading data and factor this into trading decisions. In this paper, a complete end-to-end system is proposed for automated low-frequency quantitative trading in the foreign exchange (Forex) markets. The system utilizes several State of the Art (SOTA) machine learning strategies that are combined under an ensemble model to derive the market signal for trading. Genetic Algorithm (GA) is used to optimize the strategies for maximizing profits. The system also includes a money management strategy to mitigate risk and a back-testing framework to evaluate system performance. The models were trained on EUR–USD pair Forex data from Jan 2006 to Dec 2019, and subsequently evaluated on unseen samples from Jan 2020 to Dec 2020. The system performance is promising under ideal conditions. The ensemble model achieved about 10% nett P&L with −0.7% drawdown level based on 2020 trading data. Further work is required to calibrate trading costs & execution slippage in real market conditions. It is concluded that with the increased market volatility due to the global pandemic, the momentum behind machine learning algorithms that can adapt to a changing market environment will become even stronger.
+
+**Source:** https://www.semanticscholar.org/paper/c8f0360f3f81dcaf51ed8b0396535edbaa40e410
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:47:08.864Z

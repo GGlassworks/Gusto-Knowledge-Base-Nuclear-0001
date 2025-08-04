@@ -1,0 +1,13 @@
+# FinLlama: LLM-Based Financial Sentiment Analysis for Algorithmic Trading
+
+**Authors:** Giorgos Iacovides, Thanos Konstantinidis, Mingxue Xu, Danilo Mandic
+
+## Abstract
+Online sources of financial news have a profound influence on both market movements and trading decisions. Standard sentiment analysis employs a lexicon-based approach to aid financial decisions, but struggles with context sensitivity and word ordering. On the other hand, Large Language Models (LLMs) are powerful, but are not finance-specific and require significant computational resources. To this end, we introduce a finance specific LLM framework, based on the Llama 2 7B foundational model, in order to benefit from its generative nature and comprehensive language manipulation. Such a generator-discriminator scheme, referred to as FinLlama, both classifies sentiment valence and quantifies its strength, offering a nuanced insight into financial news. The FinLlama model is fine-tuned on supervised financial sentiment analysis data, to make it handle the complexities of financial lexicon and context, and is equipped with a neural network-based decision mechanism. The subsequent parameter-efficient fine-tuning optimises trainable parameters, thus minimising computational and memory requirements without sacrificing accuracy. Simulation results demonstrate the ability of FinLlama to increase market returns in portfolio management scenarios, yielding high-return and resilient portfolios, even during volatile periods.
+
+**Source:** https://www.semanticscholar.org/paper/d798dea2a4e995e08de033809ec3fd63c53d8b46
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:46.827Z

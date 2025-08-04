@@ -1,0 +1,13 @@
+# Hybrid IS-VWAP Dynamic Algorithmic Trading via LQR
+
+**Authors:** Jackie Shen
+
+## Abstract
+For optimal trade execution, static models are useful for pre-trade estimation or benchmarking, but real trading must be based on dynamic decision making or dynamic programming (DP). DP algorithms can adjust execution automatically to real-time market price waves as well as inventory positions, and thus are more responsive and realistic. Development of DP models however faces a few notorious obstacles including the curse of dimensionality, absence of closed-form solutions for general formulations, and difficulty in incorporating hard constraints. The DP approach based on linear-quadratic regulators (LQR) was first introduced to algorithmic trading by Hora (2006). In Dynamic Control Theory, LQR models allow closed-form solutions thanks to the Bellman equations and quadratic value functions. The resulted optimal policies are affine functions of the state variables. The current work improves the LQR model of Hora (2006) in several important areas, including (a) the unconditional stability (or convexity), (b) retiring of the second-order small term of stagewise risk aversion, (c) quasi risk aversion achieved by time-varying delay costs, (d) incorporation of the bid-offer spreads, and (e) hybridizing the implementation shortfall (IS) algorithm with the VWAP approach to softly enforce the constraint of completion. The impact models and price dynamics still follow the earlier framework of Huberman and Stanzl (2001). The motivations behind every component of the improved model are elaborated, and the closed-form LQR solutions are derived (Theorem 1 and 2). Numerical simulation of the LQR trading paths is presented, which confirms several desirable properties of the hybrid IS-VWAP model.
+
+**Source:** https://www.semanticscholar.org/paper/141ba7a4147d246c657ba3559aa26bd931f199c2
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:06.260Z

@@ -1,0 +1,18 @@
+# INTEREST RATES SENSITIVITY ARBITRAGE – THEORY AND PRACTICAL ASSESMENT FOR FINANCIAL MARKET TRADING
+
+**Authors:** Bohumil Stádník
+
+## Abstract
+Purpose – Nowadays popular algorithmic trading uses many strategies which are algoritmizable and promise profitability. This research assess if it is possible successfully use interest rates sensitivity arbitrage in bond portfolio (also known as convexity arbitrage) in financial praxis. This arbitrage is sparsely described in literature and an assessment about its practical success is missing.
+Research methodology – Methodology steps: mathematical definition of given arbitrage; construction of sufficient portfolio; backtesting on USD zero-coupon curves. Portfolio of two bonds is constructed (theoretically and practically) to have the same Macaulay duration and price, but a different convexity at certain YTM point. Therefore, being long the first bond while shorting the second (of higher convexity) would result in a market-directional bet for parallel zero-coupon yield curve shifts.
+Findings – To construct practically the portfolio which is sufficient for the convexity arbitrage could be unrealistic on markets with low liquidity; the presumptions necessary to practically succeed are not fulfilled enough to ensure the arbitrage is profitable.
+Research limitations – The backtesting is limited to USD market, testing other markets is recommended, but different result is not expected.
+Practical implications – The research helps practitioners considering this strategy for its implementation to algorithmic trading.
+Originality/Value – New important results for financial practitioners; states that practical and profitable utilization of convexity arbitrage is unrealizable and save costs during implementation of the strategy.
+
+**Source:** https://www.semanticscholar.org/paper/efcc786c3ee934fc4c73c06b24d28d1db7486c51
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:06.383Z

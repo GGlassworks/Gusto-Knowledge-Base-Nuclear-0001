@@ -1,0 +1,13 @@
+# Big Data Algorithmic Trading Systems Based on Investors’ Mood
+
+**Authors:** Raúl Gómez Martínez, Miguel Prado Román, Paola Plaza Casado
+
+## Abstract
+abstract Traditional automated trading systems use rules and filters based on Chartism to send orders to the market, aiming to beat the market and obtain positive returns in bullish or bearish contexts. However, these systems do not consider the investors’ mood that many studies have demonstrated its effects over the evolution of financial markets. The authors describe 2 "big data" algorithmic trading systems over Ibex 35 future. These systems send orders to the market to open long or short positions, based on an artificial intelligence model that uses investors’ mood. To measure the investors' mood, the authors use semantic analysis algorithms that qualify as good, bad, or neutral any communication related to Ibex 35 made on social media (Twitter) or news media. After 1.5 years of research, conclusions are: First, the authors observe positive returns, demonstrating that investors’ mood has predictive capacity on the evolution of the Ibex 35. Second, these systems have beaten the Ibex 35 index, showing the imperfect efficiency of the financial markets. Third, big data algorithmic trading systems numbers are better in Sharpe ratio, success rate, and profit factor than traditional trading systems on the Ibex 35, listed in the Trading Motion platform.
+
+**Source:** https://www.semanticscholar.org/paper/2e64fcdb0aa645dc2b0c24d0c832060ced954533
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:19.424Z

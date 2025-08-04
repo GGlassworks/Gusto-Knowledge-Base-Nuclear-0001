@@ -1,0 +1,13 @@
+# A Correlation-Embedded Attention Module to Mitigate Multicollinearity: An Algorithmic Trading Application
+
+**Authors:** Jireh Yi-Le Chan, Steven Mun Hong Leow, Khean Thye Bea, Wai-Khuen Cheng, S. Phoong, Zeng-Wei Hong, Jim-Min Lin, Yen-Lin Chen
+
+## Abstract
+Algorithmic trading is a common topic researched in the neural network due to the abundance of data available. It is a phenomenon where an approximately linear relationship exists between two or more independent variables. It is especially prevalent in financial data due to the interrelated nature of the data. The existing feature selection methods are not efficient enough in solving such a problem due to the potential loss of essential and relevant information. These methods are also not able to consider the interaction between features. Therefore, we proposed two improvements to apply to the Long Short-Term Memory neural network (LSTM) in this study. It is the Multicollinearity Reduction Module (MRM) based on correlation-embedded attention to mitigate multicollinearity without removing features. The motivation of the improvements is to allow the model to predict using the relevance and redundancy within the data. The first contribution of the paper is allowing a neural network to mitigate the effects of multicollinearity without removing any variables. The second contribution is improving trading returns when our proposed mechanisms are applied to an LSTM. This study compared the classification performance between LSTM models with and without the correlation-embedded attention module. The experimental result reveals that a neural network that can learn the relevance and redundancy of the financial data to improve the desired classification performance. Furthermore, the trading returns of our proposed module are 46.82% higher without sacrificing training time. Moreover, the MRM is designed to be a standalone module and is interoperable with existing models.
+
+**Source:** https://www.semanticscholar.org/paper/0aedff41ac5f7a12f7805f2c83af9f052c7bb6ee
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:45:35.301Z

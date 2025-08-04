@@ -1,0 +1,13 @@
+# A Novel Dynamic Data-Driven Algorithmic Trading Strategy Using Joint Forecasts of Volatility and Stock Price
+
+**Authors:** You Liang, A. Thavaneswaran, Alex Paseka, Zimo Zhu, R. Thulasiram
+
+## Abstract
+Volatility forecasts and stock price forecasts play major roles in algorithmic trading. In this paper, joint forecasts of volatility and stock price are first obtained and then applied to algorithmic trading. Interval forecasts of stock prices are constructed using generalized double exponential smoothing (GDES) for stock price forecasts and data-driven exponentially weighted moving average (DD-EWMA) for volatility forecasts. Multi-stepahead interval forecasts for nonstationary stock price series are obtained. As an application, one-step-ahead interval forecasts are used to propose a novel dynamic data-driven algorithmic trading strategy. Commonly used simple moving average (SMA) crossover trading strategy and Bollinger bands trading strategy depend on unknown parameters (moving average window sizes) and the window sizes are usually chosen in an ad hoc fashion. However the proposed trading strategy does not depend on the window size, and is data-driven in the sense that the optimal smoothing constants of GDES and DD-EWMA are chosen from the data. In the proposed trading strategy, a training sample is used to tune the parameters: smoothing constant for GDES price forecasts, smoothing constant for DD-EWMA volatility forecasts, and the tuning parameter which maximizes Sharpe ratio (SR). A test sample is then used to compute cumulative profits to measure the out-of-sample trading performance using optimal tuning parameters. An empirical application on a set of widely traded stock indices shows that the proposed GDES interval forecast trading strategy is able to significantly outperform SMA and the buy and hold strategies for the majority of stock indices.
+
+**Source:** https://www.semanticscholar.org/paper/5f55b1a466dd69dc08f5e0b2bed36eae243fece0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:43.007Z

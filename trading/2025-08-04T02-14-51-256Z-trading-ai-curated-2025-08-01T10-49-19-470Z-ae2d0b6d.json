@@ -1,0 +1,13 @@
+# Data Mining Methods on Time Price Series for Algorithmic Trading Systems
+
+**Authors:** Cristian Păuna
+
+## Abstract
+Buy cheap and sell more expensive. This is the main principle to make a profit on capital markets for hundreds of years. The rule is simple but to apply it in practice has become a very difficult task nowadays, with very high price volatility in the financial markets. Once electronic trading was widespread released, reliable solutions can be found using algorithmic trading systems. This paper presents a data mining method applied to the time price series in order to generate buy and sell decisions using computational algorithms. It was found that an original data mining method based on the price cyclicality function gives us an important profit edge when it is about the capital investments on the short and medium term. The Cyclical Trading Method will be presented together with the main principles and practices to design and optimize trading software. Test results are also included in this article in order to compare the presented method with other known methodologies to trade the capital markets.
+
+**Source:** https://www.semanticscholar.org/paper/6e956cec6ffc13e3877765aceb6ce3155ecfce0a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:19.470Z

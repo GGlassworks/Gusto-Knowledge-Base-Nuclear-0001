@@ -1,0 +1,13 @@
+# Novel Data-Driven Fuzzy Algorithmic Volatility Forecasting Models with Applications to Algorithmic Trading
+
+**Authors:** A. Thavaneswaran, You Liang, Zimo Zhu, R. Thulasiram
+
+## Abstract
+The explosion of algorithmic trading has been one of the most prominent trends in the finance industry. In this paper, two strategies for algorithmic trading such as Bollinger bands and the simple moving average (SMA) crossover strategy are studied in the fuzzy settings. The commonly used Bollinger bands trading strategy assumes that the difference between an asset’s price and its SMA is normally distributed. However, it is shown that a data-driven t distribution is more appropriate to model the difference between an asset’s price and its SMA. A novel data-driven fuzzy Bollinger bands strategy is proposed for algo trading. A good strategy should have a good algo return on investment with low algo volatility. Therefore, forecasting algo volatility and identifying an appropriate distribution of algo returns play a crucial role in algo trading. Sharpe Ratio (SR) is a measure of average algo return earned in excess of the risk-free rate per unit of algo volatility. For a class of SMA crossover strategies with varying window sizes, fuzzy estimates of SR are computed based on various risk measures including the data-driven volatility estimate (DDVE). SR fuzzy forecasts are computed using two recently proposed volatility forecasting models such as data-driven exponentially weighted moving average (DD-EWMA) and data-driven neuro volatility models. The main reason of using the fuzzy approach is to provide α-cuts (interval forecasts) of the SR. An empirical application on a set of widely traded technology stocks shows that the proposed models deliver forecasts of SR with small errors.
+
+**Source:** https://www.semanticscholar.org/paper/0f5632f424d5e9dd5b67f5942ddcca78a1148063
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:42.139Z

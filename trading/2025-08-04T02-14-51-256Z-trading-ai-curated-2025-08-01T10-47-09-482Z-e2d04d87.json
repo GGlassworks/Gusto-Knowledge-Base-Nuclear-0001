@@ -1,0 +1,13 @@
+# From deterministic to stochastic: an interpretable stochastic model-free reinforcement learning framework for portfolio optimization
+
+**Authors:** Zitao Song, Yining Wang, Pin Qian, Sifan Song, Frans Coenen, Zhengyong Jiang, Jionglong Su
+
+## Abstract
+As a fundamental problem in algorithmic trading, portfolio optimization aims to maximize the cumulative return by continuously investing in various financial derivatives within a given time period. Recent years have witnessed the transformation from traditional machine learning trading algorithms to reinforcement learning algorithms due to their superior nature of sequential decision making. However, the exponential growth of the imperfect and noisy financial data that is supposedly leveraged by the deterministic strategy in reinforcement learning, makes it increasingly challenging for one to continuously obtain a profitable portfolio. Thus, in this work, we first reconstruct several deterministic and stochastic reinforcement algorithms as benchmarks. On this basis, we introduce a risk-aware reward function to balance the risk and return. Importantly, we propose a novel interpretable stochastic reinforcement learning framework which tailors a stochastic policy parameterized by Gaussian Mixtures and a distributional critic realized by quantiles for the problem of portfolio optimization. In our experiment, the proposed algorithm demonstrates its superior performance on U.S. market stocks with a 63.1% annual rate of return while at the same time reducing the market value max drawdown by 10% when back-testing during the stock market crash around March 2020.
+
+**Source:** https://www.semanticscholar.org/paper/9a9779825a6706d985232d5ae2946bab3214ebde
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:47:09.482Z

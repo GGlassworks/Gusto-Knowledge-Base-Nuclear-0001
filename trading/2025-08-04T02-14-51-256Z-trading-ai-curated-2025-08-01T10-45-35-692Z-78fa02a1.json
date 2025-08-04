@@ -1,0 +1,13 @@
+# Flexible decision support system for algorithmic trading: empirical application on crude oi l markets
+
+**Authors:** C. Tudor, Robert Sova
+
+## Abstract
+Generating reliable trading signals continues to be a challenging task for financial market professionals. This research designs a novel decision-support system (DSS) for algorithmic trading and applies it empirically on two main crude oil markets. The novel DSS enables investors to build their algorithmic trading strategies interactively by fine-tuning various pre-defined integral elements. The main novelty of this study and its superiority relative to prior research is the forecasting procedure encompassed into the DSS, and the flexibility of the system that allows users to adjust the parameters of the predictive model embedded and the length of the recursive window, based on individual preferences and the trade-off between prediction accuracy (increased computing intensity) and computing efficiency. The DSS also introduces two new steps into a standard fixed-length recursive window out-of-sample forecasting technique. It first estimates a universe of candidate models on each rolling window and then applies a fitness function to optimize model fit and produce more reliable onestep predictions from each recursive forecasting origin. Point-forecasts are subsequently fitted into algorithmic trading strategies, whose absolute and risk-adjusted performance is finally evaluated by the DSS. In implementing the DSS-based algorithmic trading strategies, the system performs 60760 estimations and 1736 optimizations for each market. In robustness checks, an additional number of 8 DSS’s are designed, and corresponding algorithmic trading strategies constructed by alternatively varying integral elements of the system. Results confirm the superiority of the DSS-based algorithmic trading strategies in terms of predictive ability and investment performance for both crude oil markets over the January 2014-April 2021 period, and separately over the onset of the COVID-19 pandemic. Hence, due to its performance, flexibility and generalizability, the DSS is an important tool for prediction, decision-making, and algorithmic trading in the financial markets, and for policymakers that use oil price forecasts in the policymaking process.
+
+**Source:** https://www.semanticscholar.org/paper/a500ac26997614b6811c0bee5f186441825f888e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:45:35.693Z

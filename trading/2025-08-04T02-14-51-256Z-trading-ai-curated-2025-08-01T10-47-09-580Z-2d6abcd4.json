@@ -1,0 +1,13 @@
+# Using Data Augmentation Based Reinforcement Learning for Daily Stock Trading
+
+**Authors:** Yuyu Yuan, Wen Wen, Jincui Yang
+
+## Abstract
+In algorithmic trading, adequate training data set is key to making profits. However, stock trading data in units of a day can not meet the great demand for reinforcement learning. To address this problem, we proposed a framework named data augmentation based reinforcement learning (DARL) which uses minute-candle data (open, high, low, close) to train the agent. The agent is then used to guide daily stock trading. In this way, we can increase the instances of data available for training in hundreds of folds, which can substantially improve the reinforcement learning effect. But not all stocks are suitable for this kind of trading. Therefore, we propose an access mechanism based on skewness and kurtosis to select stocks that can be traded properly using this algorithm. In our experiment, we find proximal policy optimization (PPO) is the most stable algorithm to achieve high risk-adjusted returns. Deep Q-learning (DQN) and soft actor critic (SAC) can beat the market in Sharp Ratio.
+
+**Source:** https://www.semanticscholar.org/paper/02013c68e120e9da3f39d22b495f69be1f0d8934
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:47:09.580Z

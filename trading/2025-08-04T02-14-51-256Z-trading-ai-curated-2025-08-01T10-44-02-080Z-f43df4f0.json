@@ -1,0 +1,13 @@
+# A Comparative Analysis of Big Data Frameworks: An Adoption Perspective
+
+**Authors:** Madiha Khalid, M. Yousaf
+
+## Abstract
+The emergence of social media, the worldwide web, electronic transactions, and next-generation sequencing not only opens new horizons of opportunities but also leads to the accumulation of a massive amount of data. The rapid growth of digital data generated from diverse sources makes it inapt to use traditional storage, processing, and analysis methods. These limitations have led to the development of new technologies to process and store very large datasets. As a result, several execution frameworks emerged for big data processing. Hadoop MapReduce, the pioneering framework, set the ground for forthcoming frameworks that improve the processing and development of large-scale data in many ways. This research focuses on comparing the most prominent and widely used frameworks in the open-source landscape. We identify key requirements of a big framework and review each of these frameworks in the perspective of those requirements. To enhance the clarity of comparison and analysis, we group the logically related features, forming a feature vector. We design seven feature vectors and present a comparative analysis of frameworks with respect to those feature vectors. We identify use cases and highlight the strengths and weaknesses of each framework. Moreover, we present a detailed discussion that can serve as a decision-making guide to select the appropriate framework for an application.
+
+**Source:** https://www.semanticscholar.org/paper/388a8cbeca59ca55398c85e61f2ae3431d3784df
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:44:02.080Z

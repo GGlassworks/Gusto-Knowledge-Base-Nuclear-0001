@@ -1,0 +1,13 @@
+# One Rank Cuckoo Search Algorithm with Application to Algorithmic Trading Systems Optimization
+
+**Authors:** A. Tawfik, A. Badr, Ibrahim F. Abdel-Rahman
+
+## Abstract
+uckoo search is a nature-inspired metaheuristic algorithm, based on the brood parasitism of some cuckoo species, along with Levy flights random walks. In this paper, a modified version is proposed, where the new solutions generated from the exploration and exploitation phases are combined, evaluated and ranked together, rather than separately in the original algorithm, in addition to imposing a bound by best solutions mechanism to help improve convergence rate and performance. The proposed algorithm was tested on a set of ten standard benchmark functions, and applied to a real-world problem of algorithmic trading systems optimization in the financial markets. Experimental analysis demonstrated improved performance in almost all benchmark functions and the problem under study.
+
+**Source:** https://www.semanticscholar.org/paper/f7ce909bdfd1e590f7be9689a28823b4bdd839ea
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:47:08.925Z

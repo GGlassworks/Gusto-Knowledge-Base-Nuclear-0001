@@ -1,0 +1,14 @@
+# Role of GANs in Simulating Financial Market Behavior for Algorithmic Trading Models
+
+**Authors:** Adarsh Naidu
+
+## Abstract
+Abstract
+This paper examines the utilization of Generative Adversarial Networks (GANs) for creating realistic synthetic financial market data to enhance the training of algorithmic trading models. Given that financial markets are highly dynamic and influenced by numerous factors, historical data often lacks sufficient coverage of rare occurrences and extreme volatility, limiting the predictive strength of trading models (Zhang, Aggarwal, & Qi, 2019). GANs, consisting of a generator and discriminator trained in an adversarial manner (Goodfellow et al., 2014), offer a potential solution by generating synthetic datasets that closely replicate actual market behaviors. This study presents a methodology where GANs are trained on historical price and volume data to create synthetic time series, subsequently improving model robustness and volatility prediction. Advantages include enhanced data variability, better forecasting accuracy, and the ability to simulate a range of market conditions. Quantitative analysis from case studies demonstrates a 15-20% enhancement in model performance metrics such as prediction accuracy and risk-adjusted returns (Hochreiter & Schmidhuber, 1997). Additionally, GANs facilitate stress testing and scenario analysis, which are essential for modern trading strategies. Future research should focus on refining GAN architectures for financial market specificity and addressing ethical concerns. This work highlights GANs' transformative potential in algorithmic trading by mitigating data limitations through advanced simulation.
+
+**Source:** https://www.semanticscholar.org/paper/c9a0ac38a93cce5de8253ce62f081ba414698d64
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:48:19.048Z

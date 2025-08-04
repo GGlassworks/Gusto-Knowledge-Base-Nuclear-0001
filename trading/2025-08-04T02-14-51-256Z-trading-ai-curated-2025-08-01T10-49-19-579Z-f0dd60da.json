@@ -1,0 +1,13 @@
+# Evolutionary Optimized Stock Support-Resistance Line Detection for Algorithmic Trading Systems
+
+**Authors:** Eşref Oğuzhan Yıldırım, Mustafa Ucar, A. Özbayoğlu
+
+## Abstract
+Successful stock traders have been using support-resistance lines for their trading decisions for decades. At the same time, correctly identifying these imaginary lines is one of the greatest challenges that they constantly face due to the complex and mostly inconsistent nature of this phenomenon. Still, these lines are considered among one of the most important technical indicators for designating buy-sell points. It is very difficult, if not impossible to determine the best support-resistance lines for any given stock; hence most of the time, the traders manually draw these imaginary lines on stock charts and implement their trading strategies accordingly. In this study, our aim is automatically identifying these lines through an evolutionary optimization algorithm (PSO) and using these support-resistance points for deciding the optimum buy-sell points. The proposed strategy is compared against Buy & Hold. The results indicate using optimized support-resistance lines can be used for identifying buy-sell points, meanwhile if we only decide to use these automatically-generated lines, no significant improvement was observed when compared to Buy & Hold strategy. However, this is a preliminary study and more analyses need to be performed. If the model is used as one of the multiple inputs to a more comprehensive trading system along with other technical/fundamental indicators, better results might be achieved.
+
+**Source:** https://www.semanticscholar.org/paper/6de2ef6e8c771437c8a1b17b4a698075d9db577a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:19.579Z

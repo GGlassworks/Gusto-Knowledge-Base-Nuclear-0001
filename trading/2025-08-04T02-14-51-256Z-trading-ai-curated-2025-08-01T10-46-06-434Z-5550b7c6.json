@@ -1,0 +1,13 @@
+# Applied Stochastic Control in High Frequency and Algorithmic Trading
+
+**Authors:** Jason Ricci
+
+## Abstract
+In this thesis, problems in the realm of high frequency trading and optimal market making are established and solved in both single asset and multiple asset economies. For an agent that is averse to holding large inventories for long periods of time, optimal high frequency trading strategies are derived via stochastic control theory and solving the corresponding Hamilton-Jacobi-Bellman equations. These strategies are analyzed and it is shown that both inventory control and accounting for adverse selection play critical roles in the success of an algorithmic trading strategy. In the single asset problem, a market maker actively modifies her limit quotes in an economy with asymmetric information. She attempts to keep her inventory small and posts her limit orders in the limit order book at a depth that mitigates her adverse selection risk, while not posting too deep in the book as to generate no trade flow. In addition to this behaviour, a profit maximizing investor trading in multiple assets also seeks out statistical arbitrage opportunities and acts aggressively via the submission of market orders when it is deemed optimal to do so.Throughout this thesis, numerical and practical considerations are made a priority. Full scale calibration and estimation methods are given in detail, as well as dimensional reductions for large scale numerical procedures, where appropriate. The bridge from abstract mathematical theory to practical real-time implementation is made complete as an entire chapter is dedicated to applications on real data.
+
+**Source:** https://www.semanticscholar.org/paper/bbd368c6550c17e0d624635945011b47a259ef4a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:06.434Z

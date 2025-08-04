@@ -1,0 +1,13 @@
+# How Machine Learning Can Drive High Frequency Algorithmic Trading for Technology Stocks
+
+**Authors:** M. Sazu
+
+## Abstract
+The objective of this paper is to present an innovative method, based on deep machine learning (DRL), to resolve the algorithmic trading issue of figuring out the perfect trading place at any time during a trading activity on the stock market. It presents a new DRL trading policy to maximize the Sharpe ratio performance indicator over a wide range of stock markets. Named the Trading Deep Q-Network algorithm (TDN), the famous DQN algorithm influences this new DRL approach and considerably adapts to the particular algorithmic trading issue in front of us. Training of the ensuing machine learning (RL) agent is completely based on the development of artificial trajectories from a small set of historical data on the stock market. The paper additionally proposes a new, much more rigorous performance assessment method to objectively evaluate the performance of trading methods. Promising results for the TDN algorithm are reported adhering to this new approach to performance evaluation.
+
+**Source:** https://www.semanticscholar.org/paper/9e4b714d8fc3fac1dfdbbcb3c178e1557b1703c0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:45:35.111Z

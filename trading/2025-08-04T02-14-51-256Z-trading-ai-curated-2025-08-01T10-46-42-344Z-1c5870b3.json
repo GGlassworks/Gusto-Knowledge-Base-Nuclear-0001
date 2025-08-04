@@ -1,0 +1,13 @@
+# Genetic Algorithm Based Approach for Algorithmic Trading in Financial Markets
+
+**Authors:** Yunus Santur, M. Ulaş, M. Karabatak
+
+## Abstract
+Software that enables realtime buy and sell transactions in financial markets according to predetermined conditions is called algorithmic trading. When developing algorithmic trading robots, indicators used in technical analysis are generally used. For the strategy selection of the robot, a process called Backtest is performed on the historical time series. The purpose of the Backtest process is the process of obtaining and interpreting values such as the number of successful/unsuccessful trades, the portfolio cash value after the commission to be paid to the intermediary institution, the profit factor and the sharpe ratio. The biggest disadvantage in this process is the selection of the appropriate stock, period, indicator and their parameters. Linear programming approaches are mostly used in the selection of these parameters that optimize the Backtest process optimally. However, according to the strategy to be used, the coding of these algorithms can have a linear, quadratic or polynomial complexity. This requires more long testing times for investors and algorithmic robot developers. Genetic algorithm-based approaches inspired by nature, on the other hand, converge to the optimal solution with much less iteration and require less processing power and time. In this study, a genetic programming-based approach is proposed for the selection of optimal conditions in algorithmic trading. In the experimental studies section, it has been seen that the use of traditional and genetic algorithm-based approaches in algorithmic trading operations has advantages when comparing complexity.
+
+**Source:** https://www.semanticscholar.org/paper/8545f538e6b01b036a80f66fb21deb2b01a5ebd0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:42.345Z

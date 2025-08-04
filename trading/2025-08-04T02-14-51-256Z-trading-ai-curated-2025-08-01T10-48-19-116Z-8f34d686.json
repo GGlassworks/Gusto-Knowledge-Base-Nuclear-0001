@@ -1,0 +1,13 @@
+# Algorithmic Trading and Short-term Forecast for Financial Time Series with Machine Learning Models; State of the Art and Perspectives
+
+**Authors:** Dakota Joiner, Amy Vezeau, Albert Wong, Gaétan Hains, Y. Khmelevsky
+
+## Abstract
+Stock price prediction with machine learning is an oft-studied area where numerous unsolved problems still abound owing to the high complexity and volatility that technical-factors and sentiment-analysis models are trying to capture. Nearly all areas of machine learning (ML) have been tested as solutions to generate a truly accurate predictive model. The accuracy of most models hovers around 50%, highlighting the need for further increases in precision, data handling, forecasting, and ultimately prediction. This literature review aggregates and concludes the current state of the art (from 2018 onward) with specifically selected criteria to guide further research into algorithmic trading. The review targets academic papers on ML or deep learning (DL) with algorithmic trading or data sets used for algorithmic trading with minute to daily time scales. Systems that integrate and test sentiment and technical analysis are considered the best candidates for an eventual generalized trading algorithm that can be applied to any stock, future, or traded commodity. However, much work remains to be done in applying natural language processing and the choice of text sources to find the most effective mixture of sentiment and technical analysis. The best models being useless on themselves, we also search for publications about data warehousing systems aggregating financial factors impacting stock prices. A brief review in this area is included in this regard.
+
+**Source:** https://www.semanticscholar.org/paper/b2afb82a804772c192c8612d01367f814e43efb9
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:48:19.116Z

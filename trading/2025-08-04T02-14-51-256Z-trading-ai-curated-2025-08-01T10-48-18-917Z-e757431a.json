@@ -1,0 +1,13 @@
+# Support Resistance Levels towards Profitability in Intelligent Algorithmic Trading Models
+
+**Authors:** Jireh Yi-Le Chan, S. Phoong, Wai-Khuen Cheng, Yen-Lin Chen
+
+## Abstract
+Past studies showed that more advanced model architectures and techniques are being developed for intelligent algorithm trading, but the input features of the models across these studies are very similar. This justifies the increasing need for new meaningful input features to better explain price movements. This study shows that the inclusion of Support Resistance input features engineered from the proposed novel methodology increased the machine learning model’s aggregate profitability performance by 65% across eight currency pairs when compared to an identical machine learning model without the Support Resistance input features. Moreover, the results also showed that the profitability distribution is statistically significantly different between two identical intelligent models with and without the Support Resistance input features, respectively. Therefore, the objective of this study is 3-fold: (1) to propose a novel methodology to automate meaningful Support Resistance price levels identification; (2) to propose a methodology to engineer Support Resistance features for Machine Learning Models to improve algorithmic trading profitability; (3) to provide empirical evidence towards the significant incremental contribution of Support Resistance (Psychological Price Levels) input features towards profitability in algorithmic trading models.
+
+**Source:** https://www.semanticscholar.org/paper/d50ace5ffda8fcf2916de781b99f39d1f6747d9f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:48:18.918Z

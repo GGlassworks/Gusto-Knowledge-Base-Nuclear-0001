@@ -1,0 +1,13 @@
+# Universal algorithmic trading
+
+**Authors:** V. V. V 'yugin, V. Trunov
+
+## Abstract
+The problem of universal sequential investment in stock markets is considered. We construct an algorithmic trading strategy that is asymptotically at least as good as any trading strategy that is not excessively complex and that computes the investment at each step using a fixed continuous function of the side information. This strategy uses predictions of stock prices computed using the theory of well-calibrated forecasting. Unlike in statistical theory, no stochastic assumptions are made about stock prices. The empirical results obtained on historical markets provide strong evidence that this type of technical trading can “beat” some generally accepted trading strategies if transaction costs are ignored.
+
+**Source:** https://www.semanticscholar.org/paper/1479f188de9ff9f66be55e29c1d29964507823af
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:06.663Z

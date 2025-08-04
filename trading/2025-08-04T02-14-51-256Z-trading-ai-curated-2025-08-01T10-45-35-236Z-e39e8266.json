@@ -1,0 +1,13 @@
+# A Data Science Pipeline for Algorithmic Trading: A Comparative Study of Applications for Finance and Cryptoeconomics
+
+**Authors:** Luyao Zhang, Tianyu Wu, Saad Lahrichi, Carlos-Gustavo Salas-Flores, Jiayi Li
+
+## Abstract
+Recent advances in Artificial Intelligence (AI) have made algorithmic trading play a central role in finance. However, current research and applications are disconnected information islands. We propose a generally applicable pipeline for designing, programming, and evaluating the algorithmic trading of stock and crypto assets. Moreover, we demonstrate how our data science pipeline works with respect to four conventional algorithms: the moving average crossover, volume-weighted average price, sentiment analysis, and statistical arbitrage algorithms. Our study offers a systematic way to program, evaluate, and compare different trading strategies. Furthermore, we implement our algorithms through object-oriented programming in Python3, which serves as open-source software for future academic research and applications.
+
+**Source:** https://www.semanticscholar.org/paper/7c7477774b678c45dc3f4b5c743ec5a1ce4f8852
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:45:35.237Z

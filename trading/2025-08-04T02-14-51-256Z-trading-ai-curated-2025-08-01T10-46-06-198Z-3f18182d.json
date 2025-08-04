@@ -1,0 +1,13 @@
+# Algorithmic trading in a microstructural limit order book model
+
+**Authors:** F. Abergel, Come Hur'e, H. Pham
+
+## Abstract
+We propose a microstructural modeling framework for studying optimal market-making policies in a FIFO (first in first out) limit order book (order book). In this context, the limit orders, market orders, and cancel orders arrivals in the order book are modeled as point processes with intensities that only depend on the state of the order book. These are high-dimensional models which are realistic from a micro-structure point of view and have been recently developed in the literature. In this context, we consider a market maker who stands ready to buy and sell stock on a regular and continuous basis at a publicly quoted price, and identifies the strategies that maximize their P&L penalized by their inventory. An extension of the methodology is proposed to solve market-making problems where the orders arrivals are modeled using Hawkes processes with exponential kernel. We apply the theory of Markov Decision Processes and dynamic programming method to characterize analytically the solutions to our optimal market-making problem. The second part of the paper deals with the numerical aspect of the high-dimensional trading problem. We use a control randomization method combined with quantization method to compute the optimal strategies. Several computational tests are performed on simulated data to illustrate the efficiency of the computed optimal strategy. In particular, we simulated an order book with constant/ symmetric/ asymmetrical/ state dependent intensities, and compared the computed optimal strategy with naive strategies. Some codes are available on https://github.com/comeh.
+
+**Source:** https://www.semanticscholar.org/paper/7e2b50216f4f5064d4d72738e309b4db4699e749
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:06.198Z

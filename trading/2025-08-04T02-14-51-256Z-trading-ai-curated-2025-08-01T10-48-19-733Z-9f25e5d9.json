@@ -1,0 +1,13 @@
+# A Novel Algorithmic Trading Strategy Using Data-Driven Innovation Volatility
+
+**Authors:** You Liang, A. Thavaneswaran, Md. Erfanul Hoque
+
+## Abstract
+The explosion of algorithmic trading has been one of the most prominent recent trends in the finance industry. Regularized estimating functions including Kalman filtering (KF) allow dynamic data scientists and algo traders to enhance the predictive power of statistical models and improve trading strategies. Recently there has been a growing interest in using KF in pairs trading. However, a major drawback is that the innovation volatility estimate calculated by using a KF algorithm is always affected by the initial values and outliers. A simple yet effective data-driven approach to estimate the innovation volatility with some robustness properties is presented in this paper. The results show that the performance of the trading strategy based on the data-driven innovation volatility forecast (DDIVF) is better than the commonly used KF-based innovation volatility forecast (KFIVF). Autocorrelations of the absolute values of the innovations in multiple trading are used to demonstrate that the innovations are non-normal with time-varying volatility. We describe and analyze experiments on three cointegrated exchange-traded funds (ETFs) and explain how our approach can improve the performance of the trading strategies. A proposed novel trading strategy for multiple trading with robustness to initial values and to the volatile stock market is also discussed in some detail by using a training sample and a test sample.
+
+**Source:** https://www.semanticscholar.org/paper/7e30351b5a256d80c3187b40cdf196808086914d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:48:19.733Z

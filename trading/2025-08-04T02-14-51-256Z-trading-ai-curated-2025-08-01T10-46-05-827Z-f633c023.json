@@ -1,0 +1,13 @@
+# Split Feature Space Ensemble Method using Deep Reinforcement Learning for Algorithmic Trading
+
+**Authors:** Marcell Németh, G. Szücs
+
+## Abstract
+In the financial sector, machine learning is a promising tool, which can be utilized in stock trading as well. The aim of the research was to develop and refine deep reinforcement learning models to execute stock trading that maximizes revenue and minimizes investment risk. The main focus of this paper is on a new ensemble technique based on splitting the feature space and the optimization of decision-making by agents learning in parallel. As the consequence of the splitting, the space formed by all input features is replaced by subspaces, where each subspace is covered by a functional group of technical indicators. Based on the feature space splitting idea, we proposed a new ensemble method, called the Split Feature Space Ensemble Method, and developed three model variants of it. The experimental results show that the proposed method outperforms the standard ensemble approach.
+
+**Source:** https://www.semanticscholar.org/paper/b537d025c709a8ab84fc362c4202dc2879733c8d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:05.827Z

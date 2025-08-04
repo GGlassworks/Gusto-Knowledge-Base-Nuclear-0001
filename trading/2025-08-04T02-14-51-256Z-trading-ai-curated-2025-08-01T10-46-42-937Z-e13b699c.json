@@ -1,0 +1,13 @@
+# Sentiment and Knowledge Based Algorithmic Trading with Deep Reinforcement Learning
+
+**Authors:** Abhishek Nan, Anandh Perumal, Osmar R Zaiane
+
+## Abstract
+Algorithmic trading, due to its inherent nature, is a difficult problem to tackle; there are too many variables involved in the real world which make it almost impossible to have reliable algorithms for automated stock trading. The lack of reliable labelled data that considers physical and physiological factors that dictate the ups and downs of the market, has hindered the supervised learning attempts for dependable predictions. To learn a good policy for trading, we formulate an approach using reinforcement learning which uses traditional time series stock price data and combines it with news headline sentiments, while leveraging knowledge graphs for exploiting news about implicit relationships.
+
+**Source:** https://www.semanticscholar.org/paper/e279307f15f50a73a7fbed8ed9375c6b330decad
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:46:42.939Z

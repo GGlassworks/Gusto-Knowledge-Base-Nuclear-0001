@@ -1,0 +1,13 @@
+# TradAO: A Visual Analytics System for Trading Algorithm Optimization
+
+**Authors:** Ka Wing Tsang, Haotian Li, F. Lam, Yifan Mu, Yong Wang, Huamin Qu
+
+## Abstract
+With the wide applications of algorithmic trading, it has become critical for traders to build a winning trading algorithm to beat the market. However, due to the lack of efficient tools, traders mainly rely on their memory to manually compare the algorithm instances of a trading algorithm and further select the best trading algorithm instance for the real trading deployment. We work closely with industry practitioners to discover and consolidate user requirements and develop an interactive visual analytics system for trading algorithm optimization. Structured expert interviews are conducted to evaluate TradAO and a representative case study is documented for illustrating the system effectiveness. To the best of our knowledge, previous financial data visual analyses have mainly aimed to assist investment managers in investment portfolio analysis but have neglected the need of traders in developing trading algorithms for portfolio execution. TradAO is the first visual analytics system that assists users in comprehensively exploring the performances of a trading algorithm with different parameter settings.
+
+**Source:** https://www.semanticscholar.org/paper/a92e102843930227908e582a6559c9e1f942e994
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:47:09.142Z

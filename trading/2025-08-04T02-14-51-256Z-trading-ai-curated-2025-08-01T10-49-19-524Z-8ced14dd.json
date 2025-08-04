@@ -1,0 +1,13 @@
+# Algorithmic Trading Systems Based on Google Trends
+
+**Authors:** R. Martínez, Camilo Prado Román, María Cruz
+
+## Abstract
+In this paper we analyze five big data algorithmic trading systems based on artificial intelligence models that uses as predictors stats from Google Trends of dozens of financial terms. The systems were trained using monthly data from 2004 to 2017 and have been tested in a prospective way from January 2017 to February 2018. The performance of this systems shows that Google Trends is a good metric for global Investors’ Mood. Systems for Ibex and Eurostoxx are not profitable but Dow Jones, S&P 500 and Nasdaq systems has been profitable using long and short positions during the period studied. This evidence opens a new field for the investigation of trading systems based on big data instead of Chartism.
+
+**Source:** https://www.semanticscholar.org/paper/f964abfba3f2b6e7c34a49ed098386339fca453a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:19.524Z

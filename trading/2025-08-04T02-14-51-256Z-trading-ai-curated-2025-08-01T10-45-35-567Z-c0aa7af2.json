@@ -1,0 +1,13 @@
+# Algorithmic trading with directional changes
+
+**Authors:** Adesola Adegboye, Michael Kampouridis, F. E. B. Otero
+
+## Abstract
+Directional changes (DC) is a recent technique that summarises physical time data (e.g. daily closing prices, hourly data) into events, offering traders a unique perspective of the market to create novel trading strategies. This paper proposes the use of a genetic algorithm (GA) to optimize the recommendations of multiple DC-based trading strategies. Each trading strategy uses a novel framework that combines classification and regression techniques to predict when a trend will reverse. We evaluate the performance of the proposed multiple DC-strategy GA algorithm against nine benchmarks: five single DC-based trading strategies, three technical analysis indicators, as well as buy-and-hold, which is a popular financial benchmark. We perform experiments using 200 monthly physical time datasets from 20 foreign exchange markets—these datasets were created from snapshots of 10 min intervals. Experimental results show that our proposed algorithm is able to statistically significantly outperform all DC and non-DC benchmarks in terms of both return and risk, and establish multi-threshold DCs as an effective algorithmic trading technique.
+
+**Source:** https://www.semanticscholar.org/paper/8811f2c5506a88e52cbdcf8d1c7d50bac7fa45e3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:45:35.567Z

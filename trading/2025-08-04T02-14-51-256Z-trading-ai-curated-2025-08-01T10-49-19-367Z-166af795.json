@@ -1,0 +1,29 @@
+# The profitability of algorithmic trading systems based on football sentiment
+
+**Authors:** Raúl Gómez-Martínez, Camila Marqués-Bogliani, Jéssica Paule-Vianez
+
+## Abstract
+
+ Behavioural finance has shown that investment decisions are the result of not just
+rational but also emotional brain processes. On the assumption that emotions affect
+financial markets, it would seem likely that football results might have a measurable
+effect on financial markets. To test this, this study describes three algorithmic trading
+systems based exclusively on the results of three top European football teams (Juventus,
+Bayern München and Paris St Germain) opening long or short positions in the next
+market season of the futures market of the index of each country (MIB (Milano Italia
+Borsa), DAX (Deutscher Aktien Index) and CAC (Cotation Assistée en Continu).
+Depending on the outcome of the last game played a long position was taken after a
+victory and a short position after a draw or defeat. The results showed that the
+algorithmic systems were profitable in the case of Juventus and Bayern whereas in the
+case of PSG, the system was profitable, but in an inverse way. This study shows that
+investment strategies that take account of sports sentiment could have a profitable
+outcome.
+
+
+
+**Source:** https://www.semanticscholar.org/paper/13bccd4673c22f88d468b57615bcb195a2459545
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:19.368Z

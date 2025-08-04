@@ -1,0 +1,13 @@
+# A Machine Learning Framework for Algorithmic Trading with Virtual Bids in Electricity Markets
+
+**Authors:** Wei Wang, N. Yu
+
+## Abstract
+This paper develops a machine learning framework for algorithmic trading with virtual bids in electricity markets. In the proposed algorithmic trading strategy, a budget and risk constrained portfolio optimization problem is solved, which selects the virtual transactions to be executed. In order to maximize the expected net earnings of the virtual bid portfolio, a mixture density network model is developed to provide robust and accurate forecasts for electricity price spread between day-ahead and real-time market. By leveraging a coherent risk measure and historical price samples, the risk-constrained portfolio optimization problem is solved efficiently. Backcasting results based on market data from ISO New England show that our proposed mixture density network based trading strategy consistently outperforms the benchmark online learning approach.
+
+**Source:** https://www.semanticscholar.org/paper/1d12e4b8d02f1db983f27a29b3f7c8e25e50e116
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:47:08.987Z

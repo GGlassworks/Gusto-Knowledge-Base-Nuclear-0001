@@ -1,0 +1,13 @@
+# Designing a novel and high performance algorithmic trading model using evolutionary AutoML and technical analysis
+
+**Authors:** Abhiram Tirumala, R. Bhatnager, Sriram Mudireddy, P. Manjunath, Jason Zutty
+
+## Abstract
+Trading point prediction is the action of identifying ideal buy and sell points for stocks to maximize profit. It is a widely studied application of Machine Learning on time series data due to the abundance of available historical data and the challenges presented by stocks' noisy nature. However, we have found that this is not an application that has drawn significant attention from the automated machine learning (AutoML) community despite its ideal nature, due to the large number of available models and algorithms that can address this problem. In this research, we employ the Evolutionary Multi-objective Algorithm Design Engine (EMADE). This search framework uses genetic programming to automate model creation and hyperparameter optimization. Traditionally, EMADE produced novel algorithms for tabular, time-series, and image-based problems. This research extends EMADE's capabilities for trading algorithms by adding technical indicator (TI) primitives and novel objective functions. We present analyses on objective sets, learners, TI primitives, and their hyperparameters for this problem. To measure the effectiveness of the evolved models, we evaluate profit percentage on historical US stock data. We have found that the models discovered through EMADE AutoML search techniques produce returns up to 36.38% on average, more than two-fold that of state-of-the-art.
+
+**Source:** https://www.semanticscholar.org/paper/ce6f91ee7f7c1b8d0cfb5a8f1ca5019f4e782c37
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:48:19.542Z

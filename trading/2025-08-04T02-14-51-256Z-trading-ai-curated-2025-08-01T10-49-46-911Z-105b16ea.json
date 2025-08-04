@@ -1,0 +1,13 @@
+# U sing strongly typed genetic programming to combine technical and sentiment analysis for algorithmic trading
+
+**Authors:** Eva Christodoulaki, Michael Kampouridis
+
+## Abstract
+Algorithmic trading has become an increasingly thriving research area and a lot of focus has been given on indicators from technical and sentiment analysis. In this paper, we examine the advantages of combining features from both analyses. To do this, we use two different genetic programming algorithms (GP). The first algorithm allows trees to contain technical and/or sentiment analysis indicators without any con-straints. The second algorithm introduces technical and sentiment analysis types through a strongly typed GP, whereby one branch of a given tree contains only technical analysis indicators and another branch of the same tree contains only sentiment analysis features. This allows for better exploration and exploitation of the search space of the indicators. We perform experiments on 10 international stocks and compare the above two GPs' performances. Our goal is to demonstrate that the combination of the indicators leads to improved financial performance. Our results show that the strongly typed GP is able to rank first in terms of Sharpe ratio and statistically outperform all other algorithms in terms of rate of return.
+
+**Source:** https://www.semanticscholar.org/paper/d2c52c38a2a1543e938f3683decea7fcbf316ec7
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:49:46.911Z

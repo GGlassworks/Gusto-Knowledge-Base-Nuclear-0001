@@ -1,0 +1,13 @@
+# Deep Reinforcement Learning for Algorithmic Trading
+
+**Authors:** Á. Cartea, S. Jaimungal, Leandro Sánchez-Betancourt
+
+## Abstract
+We employ reinforcement learning (RL) techniques to devise statistical arbitrage strategies in electronic markets. In particular, double deep Q network learning (DDQN) and a new variant of reinforced deep Markov models (RDMMs) are used to derive the optimal strategies for an agent who trades in a foreign exchange (FX) triplet. An FX triplet consists of three currency pairs where the exchange rate of one pair is redundant because, by no-arbitrage, it is determined by the exchange rates of the other two pairs. We use simulations of a co-integrated model of exchange rates to implement the strategies and show their financial performance.
+
+**Source:** https://www.semanticscholar.org/paper/856b840aec06e0cdb882f5b564a6450192383553
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:48:19.619Z

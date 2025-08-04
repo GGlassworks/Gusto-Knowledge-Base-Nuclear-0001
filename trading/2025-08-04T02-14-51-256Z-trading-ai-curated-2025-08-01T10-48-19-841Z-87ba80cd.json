@@ -1,0 +1,13 @@
+# The Intraday High-Frequency Trading with Different Data Ranges: A Comparative Study with Artificial Neural Network and Vector Autoregressive Models
+
+**Authors:** Ayben Koy, A. B. Çolak
+
+## Abstract
+With the High-Frequency Trading process, which is a subclass of algorithmic trading transactions, intraday information has increasing importance. Traditional statistical methods often fall short in capturing the intricate patterns and volatility inherent in such high-frequency data. In contrast, ANN models demonstrate remarkable capability in handling these challenges, and VAR models provide insights into short-term relationships among variables. This study highlights the importance of using both ANN and VAR models for processing these short time intervals. BIST100 index which is the main index of Borsa Istanbul is predicted with two different models in different data ranges with artificial neural network models and vector auto regression models. Both generated ANN models successfully complete the training stages, with extremely high precision, and exhibit exceptionally low error values in their predictions. Although both models are effective, the evidence favors the model evaluated using 5-minute data for both the training and prediction phases of artificial neural network models. However, the relative importance of 15-minute data in explaining the variation of BIST100 is higher. Moreover, the VAR model results indicate that the short-term relationship between variables can be influenced by the range of data and the 15-minute interval data of the variables play a more significant role in explaining the BIST100 index over the longer term.
+
+**Source:** https://www.semanticscholar.org/paper/2c2c37720869a3186cfb6c902cd0a066d2c1e7e1
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T10:48:19.841Z
