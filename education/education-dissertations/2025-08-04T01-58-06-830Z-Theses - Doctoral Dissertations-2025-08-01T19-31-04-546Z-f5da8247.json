@@ -1,0 +1,13 @@
+# Longitudinal Study of First-Time Freshmen Using Data Mining
+
+**Authors:** Nandeshwar, Ashutosh R.
+
+## Abstract
+In the modern world, higher education is transitioning from enrollment mode to recruitment mode. This shift paved the way for institutional research and policy making from historical data perspective. More and more universities in the U.S. are implementing and using enterprise resource planning (ERP) systems, which collect vast amounts of data. Although few researchers have used data mining for performance, graduation rates, and persistence prediction, research is sparse in this area, and it lacks the rigorous development and evaluation of data mining models. The primary objective of this research was to build and analyze data mining models using historical data to find out patterns and rules that classified students who were likely to drop-out and students who were likely to persist.    Student retention is a major problem for higher education institutions, and predictive models developed using traditional quantitative methods do not produce results with high accuracy, because of massive amounts of data, correlation between attributes, missing values, and non-linearity of variables; however, data mining techniques work well with these conditions. In this study, various data mining models were used along with discretization, feature subset selection, and cross-validation; the results were not only analyzed using the probability of detection and probability of false alarm, but were also analyzed using variances obtained in these performance measures. Attributes were grouped together based on the current hypotheses in the literature. Using the results of feature subset selectors and treatment learners, attributes that contributed the most toward a student's decision of dropping out or staying were found, and specific rules were found that characterized a successful student. The performance measures obtained in this study were significantly better than previously reported in the literature.    [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED526516
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T19:31:04.546Z

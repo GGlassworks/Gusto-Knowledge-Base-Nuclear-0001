@@ -1,0 +1,13 @@
+# Mixture Item Response Theory Model Selection with Hybrid Ant Colony Optimization Algorithm
+
+**Authors:** Zeyuan Jing
+
+## Abstract
+This dissertation presents a comprehensive review of the evolution of DIF analysis within educational measurement from the 1980s to the present. The review elucidates the concept of DIF, particularly emphasizing the crucial role of grouping for exhibiting DIF. Then, the dissertation introduces an innovative modification to the newly developed Hybrid Ant Colony Optimization (hACO) algorithm to conduct Mixture Item Response Theory (MixIRT) model selection in Differential Item Functioning (DIF) analysis. This algorithm is proposed to set relevant grouping criteria with information from the Latent Class Analysis (LCA) and the Item Response Theory (IRT) components of the MixIRT model to select appropriate indicators and the number of latent classes. Simulation results demonstrated exceptional performance of the algorithm under the designed simulated conditions. The results show that the modified hACO algorithm effectively conducts DIF analysis within contemporary educational assessments. Moreover, the implications of this research extend beyond educational measurement, influencing broader education and social science fields, especially in big data and digital learning. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED649017
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T11:03:19.027Z

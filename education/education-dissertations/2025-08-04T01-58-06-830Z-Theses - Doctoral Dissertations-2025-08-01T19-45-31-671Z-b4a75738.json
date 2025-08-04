@@ -1,0 +1,13 @@
+# The Visual Uncertainty Paradigm for Controlling Screen-Space Information in Visualization
+
+**Authors:** Dasgupta, Aritra
+
+## Abstract
+The information visualization pipeline serves as a lossy communication channel for presentation of data on a screen-space of limited resolution. The lossy communication is not just a machine-only phenomenon due to information loss caused by translation of data, but also a reflection of the degree to which the human user can comprehend visual information. The common entity in both aspects is the uncertainty associated with the visual representation. However, in the current linear model of the visualization pipeline, visual representation is mostly considered as the ends rather than the means for facilitating the analysis process. While the perceptual side of visualization is also being studied, little attention is paid to the way the visualization appears on the display. Thus, we believe there is a need to study the appearance of the visualization on a limited-resolution screen in order to understand its own properties and how they influence the way they represent the data. I argue that the visual uncertainty paradigm for controlling screen-space information will enable us in achieving user-centric optimization of a visualization in different application scenarios. Conceptualization of visual uncertainty enables us to integrate the encoding and decoding aspects of visual representation into a holistic framework facilitating the definition of metrics that serve as a bridge between the last stages of the visualization pipeline and the user&apos;s perceptual system. The goal of this dissertation is three-fold: i) conceptualize a visual uncertainty taxonomy in the context of pixel-based, multi-dimensional visualization techniques that helps systematic definition of screen-space metrics, ii) apply the taxonomy for identifying sources of useful visual uncertainty that helps in protecting privacy of sensitive data and also for identifying the types of uncertainty that can be reduced through interaction techniques, and iii) application of the metrics for designing information-assisted models that help in visualization of high-dimensional, temporal data. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED552228
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T19:45:31.672Z

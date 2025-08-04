@@ -1,0 +1,13 @@
+# Combinatorial Tasks as Model Systems of Deep Learning
+
+**Authors:** Benjamin L. Edelman
+
+## Abstract
+This dissertation is about a particular style of research. The philosophy of this style is that in order to scientifically understand deep learning, it is fruitful to investigate what happens when neural networks are trained on simple, mathematically well-defined tasks. Even though the training data is simple, the training algorithm can end up producing rich, unexpected results; and understanding these results can shed light on fundamental mysteries of high relevance to contemporary deep learning. First, we situate this methodological approach in a broader scientific context, discussing and systematizing the role of &quot;model systems&quot; in science and in the science of deep learning in particular. We then present five intensive case studies, each of which uses a particular combinatorial task as a lens through which to demystify puzzles of deep learning. The combinatorial tasks employed are sparse Boolean functions, sparse parities, learning finite group operations, performing modular addition, and learning Markov chains in-context. Topics of explanatory interest include the inductive biases of the transformer architecture, the phenomenon of emergent capabilities during training, the nuances of deep learning in the presence of statistical-computational gaps, the tradeoffs between different resources of training, the effect of network width on optimization, the relationship between symmetries in training data and harmonic structure in trained networks, the origins of the mechanisms of in-context learning in transformers, and the influence of spurious solutions on optimization. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED657494
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T11:24:29.880Z

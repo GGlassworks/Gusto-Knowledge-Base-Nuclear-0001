@@ -1,0 +1,13 @@
+# Portfolio Optimization with Stochastic Dividends and Stochastic Volatility
+
+**Authors:** Varga, Katherine Yvonne
+
+## Abstract
+We consider an optimal investment-consumption portfolio optimization model in which an investor receives stochastic dividends. As a first problem, we allow the drift of stock price to be a bounded function. Next, we consider a stochastic volatility model. In each problem, we use the dynamic programming method to derive the Hamilton-Jacobi-Bellman equation, which we proceed to prove existence of a classical solution. Our value function is chosen to maximize the expected total discounted HARA utility of consumption. In the Verification Theorem, we prove that the solution to the HJB equation is equal to the value function. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED572065
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T20:42:56.516Z

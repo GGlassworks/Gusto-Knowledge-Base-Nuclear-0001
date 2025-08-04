@@ -1,0 +1,13 @@
+# Revealing Significant Relations between Chemical/Biological Features and Activity: Associative Classification Mining for Drug Discovery
+
+**Authors:** Yu, Pulan
+
+## Abstract
+Classification, clustering and association mining are major tasks of data mining and have been widely used for knowledge discovery. Associative classification mining, the combination of both association rule mining and classification, has emerged as an indispensable way to support decision making and scientific research. In particular, it offers a method with high predictive ability and easily interpretable models. Compared with other fields, such as E-commerce, health care, security and finance, the application of associative classification mining is not well explored in the field of cheminformatics. We have identified the challenge and inadequacy which limit the application of the associative classification mining in our particular domain. This dissertation proposed a general associative classification mining framework to address chemical problems. We also demonstrated ways of identifying chemically/biologically meaningful features, processing features, interpreting final results and extracting information to understand chemical/biological relations. Additionally, we introduced two novel weighting frameworks: (a) link-based and (b) document and graph based that use internal information from datasets to improve the efficiency and accuracy of the associative classification mining. On top of that, we developed novel weighted associative classifiers and applied them on some exemplary datasets. Finally, we illustrated that they were capable of discovering underlying chemically and biologically meaningful relations which otherwise remained unrevealed by other traditional methods. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED548000
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T19:32:09.924Z

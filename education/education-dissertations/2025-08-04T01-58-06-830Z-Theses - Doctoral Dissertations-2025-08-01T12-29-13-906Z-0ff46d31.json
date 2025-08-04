@@ -1,0 +1,13 @@
+# Program Transformation and Code Generation for Developing, Modeling, and Optimizing GPU Programs
+
+**Authors:** James D. Stevens
+
+## Abstract
+The ability to efficiently optimize or re-optimize an algorithm for high performance on a particular processor architecture is crucial in a wide spectrum of engineering and scientific applications. To help bridge the gap between fully automated optimization, which does not reliably produce optimal code, and fully manual optimization, which is inefficient and error-prone, we present three mechanisms facilitating a human-guided, partially automated process for production, optimization, and analysis of high-performance code: (1) formal mechanisms for describing and reasoning about program dependencies and loop nest structure within a programming system providing transformation-based code generation for GPUs and CPUs; (2) a system for constructing customizable, black-box performance models for GPUs; and (3) a visual user interface for program optimization and analysis. We demonstrate how our human-accessible dependency and loop-nest semantics enable reasoning about program correctness in a transformation and optimization procedure for two example scientific computing computations. We show how models created using our hardware-agnostic performance modeling approach can predict execution times accurately enough to select the best-performing of multiple implementation variants of a given computation, demonstrating results for three computations on five different GPUs. We show how our program transformation interface enables access to and navigation of a comprehensive search space of implementation variants for a given computation, as well as comparisons of multiple optimization paths. In doing so, we demonstrate how these architecture-agnostic tools, some of which are already being utilized by a persistent user base, further the goal of facilitating production, optimization, and analysis of high-performance code. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED658099
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T12:29:13.906Z

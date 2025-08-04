@@ -1,0 +1,13 @@
+# Effectiveness of Machine Learning Algorithms on Predicting Course Level Outcomes from Learning Management System Data
+
+**Authors:** Michael Wade Ashby
+
+## Abstract
+Whether machine learning algorithms effectively predict college students' course outcomes using learning management system data is unknown. Identifying students who will have a poor outcome can help institutions plan future budgets and allocate resources to create interventions for underachieving students. Therefore, knowing the effectiveness of applying the algorithms to build models will be helpful in higher education institutions. This study utilizes the probably approximately correct learning theory, which posits machines can learn any concept as long as there is a data set of examples that labels the outcome of the concept, enough examples, and the computation can be completed in a polynomial number of steps. This quantitative comparative study compared four different machine learning algorithms' (naive Bayes, decision tree, neural network, and support vector machine) ability to predict the outcome of students in college courses by training models from learning management system data across two universities. It then measured the predictions of each model at a course level to determine their effectiveness. The results showed that the probably approximately correct learning theory works even in predicting course outcomes, as the decision tree successfully predicted students with poor outcomes with an F1 value above 0.5 and significantly better than the other three algorithms. Future studies can expand on the number of institutions involved in the contributing data and different learning management system data points as they may provide better predictions. Having learned the confidence of the decision tree's ability to predict students that will have poor outcomes, higher education institutions can better plan and allocate resources. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED658458
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T12:44:35.469Z

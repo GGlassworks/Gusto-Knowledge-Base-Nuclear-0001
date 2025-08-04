@@ -1,0 +1,13 @@
+# Preserving Context Continuity during Modality Transitions in Conversational Agents Using Neural Network Architectures
+
+**Authors:** Jacobus Ignatius DeBruyn
+
+## Abstract
+This study explored the role of artificial intelligence (AI)-powered conversational agents in human-computer interaction, particularly in the post-coronavirus (COVID-19) era, where digital technologies are central to healthcare, customer service, and education sectors. The research investigated the disruption of context continuity when users switch between communication modalities, such as text and voice. It examined how different neural network architectures, including recurrent neural networks, long short-term memory networks, and transformer neural networks, affect the preservation of discussion context during modality transitions. The study used the MultiWOZ dataset, a collection of dialogues involving various scenarios, to evaluate the neural network models in processing and preserving contextual information across interaction modes. The findings challenge the assumption that longer interactions enhance context retention, indicating no significant relationship between the conversation length and context preservation effectiveness. The study also observed notable differences in the ability of different neural network architectures to maintain context, emphasizing the importance of selecting the appropriate neural network architecture based on specific interaction needs. The study underscores the potential of conversational AI in enhancing user experience by facilitating seamless transitions between different communication modes. It also highlights the need for a more nuanced approach in designing and developing these agents, considering the specific interaction needs and the capabilities of different neural network architectures. Lastly, the study calls for a deeper understanding of conversational AI dynamics, which could pave the way for more effective and context-aware conversational agents in the future. This study contributes to the evolution of human-computer interaction, suggesting future research directions, including further exploration of model architectures and developing more robust evaluation metrics. [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED658697
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T11:43:02.993Z

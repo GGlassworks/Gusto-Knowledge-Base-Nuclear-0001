@@ -1,0 +1,13 @@
+# Exploring the Integration of Data Mining and Data Visualization
+
+**Authors:** Zhang, Yi
+
+## Abstract
+Due to the rapid advances in computing and sensing technologies, enormous amounts of data are being generated everyday in various applications. The integration of data mining and data visualization has been widely used to analyze these massive and complex data sets to discover hidden patterns. For both data mining and visualization to be effective, it is important to include the visualization techniques in the mining process and to generate the discovered patterns for a more comprehensive visual view.    In this dissertation, four related problems: dimensionality reduction for visualizing high dimensional datasets, visualization-based clustering evaluation, interactive document mining, and multiple clusterings exploration are studied to explore the integration of data mining and data visualization. In particular, we 1) propose an efficient feature selection method (reliefF + mRMR) for preprocessing high dimensional datasets; 2) present DClusterE to integrate cluster validation with user interaction and provide rich visualization tools for users to examine document clustering results from multiple perspectives; 3) design two interactive document summarization systems to involve users efforts and generate customized summaries from 2D sentence layouts; and 4) propose a new framework which organizes the different input clusterings into a hierarchical tree structure and allows for interactive exploration of multiple clustering solutions.    [The dissertation citations contained here are published with the permission of ProQuest LLC. Further reproduction is prohibited without permission. Copies of dissertations may be obtained by Telephone (800) 1-800-521-0600. Web page: http://www.proquest.com/en-US/products/dissertations/individuals.shtml.]
+
+**Source:** https://eric.ed.gov/?id=ED534151
+
+---
+Category: education
+Subcategory: Dissertations/Theses - Doctoral Dissertations
+Collected: 2025-08-01T19:28:02.609Z
