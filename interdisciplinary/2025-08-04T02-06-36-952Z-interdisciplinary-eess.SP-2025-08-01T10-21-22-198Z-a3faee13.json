@@ -1,0 +1,12 @@
+# Towards Compatible Semantic Communication: A Perspective on Digital Coding and Modulation
+
+**Authors:** Guangyi Zhang, Kequan Zhou, Yunlong Cai, Qiyu Hu, Guanding Yu
+
+## Summary
+Semantic communication (SC) is emerging as a pivotal innovation within the 6G framework, aimed at enabling more intelligent transmission. This development has led to numerous studies focused on designing advanced systems through powerful deep learning techniques. Nevertheless, many of these approaches envision an analog transmission manner by formulating the transmitted signals as continuous-valued semantic representation vectors, limiting their compatibility with existing digital systems. To enhance compatibility, it is essential to explore digitized SC systems. This article systematically identifies two promising paradigms for designing digital SC: probabilistic and deterministic approaches, according to the modulation strategies. For both, we first provide a comprehensive analysis of the methodologies. Then, we put forward the principles of designing digital SC systems with a specific focus on informativeness and robustness of semantic representations to enhance performance, along with constellation design. Additionally, we present a case study to demonstrate the effectiveness of these methods. Moreover, this article also explores the intrinsic advantages and opportunities provided by digital SC systems, and then outlines several potential research directions for future investigation.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:21:22.198Z

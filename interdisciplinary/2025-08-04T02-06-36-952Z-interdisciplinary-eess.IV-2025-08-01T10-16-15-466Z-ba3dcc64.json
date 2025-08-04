@@ -1,0 +1,12 @@
+# Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback
+
+**Authors:** Cansu Korkmaz, Ege Cirakman, A. Murat Tekalp, Zafer Dogan
+
+## Summary
+Super-resolution (SR) is an ill-posed inverse problem with a large set of feasible solutions that are consistent with a given low-resolution image. Various deterministic algorithms aim to find a single solution that balances fidelity and perceptual quality; however, this trade-off often causes visual artifacts that bring ambiguity in information-centric applications. On the other hand, diffusion models (DMs) excel in generating a diverse set of feasible SR images that span the solution space. The challenge is then how to determine the most likely solution among this set in a trustworthy manner. We observe that quantitative measures, such as PSNR, LPIPS, DISTS, are not reliable indicators to resolve ambiguous cases. To this effect, we propose employing human feedback, where we ask human subjects to select a small number of likely samples and we ensemble the averages of selected samples. This strategy leverages the high-quality image generation capabilities of DMs, while recognizing the importance of obtaining a single trustworthy solution, especially in use cases, such as identification of specific digits or letters, where generating multiple feasible solutions may not lead to a reliable outcome. Experimental results demonstrate that our proposed strategy provides more trustworthy solutions when compared to state-of-the art SR methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:16:15.467Z

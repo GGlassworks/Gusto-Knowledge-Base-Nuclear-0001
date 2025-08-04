@@ -1,0 +1,12 @@
+# The Impact of Node Addition and Deletion on Network Production Fluctuations
+
+**Authors:** Mahdi Kohan Sefidi
+
+## Summary
+Production networks, dynamic systems of firms linked through input-output relationships, transmit microeconomic shocks into macroeconomic fluctuations. While prior studies often assume static networks, real-world economies feature continuous firm entry (node addition) and exit (node deletion). We develop a probabilistic model to analyze how these dynamics affect production volatility and network resilience. Integrating Leontief input-output frameworks with controllability theory. By quantifying fluctuations as expected values under probabilistic node dynamics, we identify trade-offs between adaptability and stability. Methodologically, we unify Kalman rank criteria and minimum input theory, offering policymakers insights to balance innovation-driven entry with safeguards against destabilizing exits.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.TH
+Collected: 2025-08-01T20:23:33.316Z

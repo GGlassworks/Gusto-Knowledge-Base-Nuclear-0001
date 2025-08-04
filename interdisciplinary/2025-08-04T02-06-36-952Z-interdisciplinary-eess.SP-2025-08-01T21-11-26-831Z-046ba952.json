@@ -1,0 +1,12 @@
+# L2-Stability Analysis of The Set-Membership Affine Projection Algorithm
+
+**Authors:** Rajab Shabaani
+
+## Summary
+In this letter, we study the local and the global robustness of the set-membership affine projection (SM-AP) algorithm. We demonstrate that the SM-AP algorithm has l2-stability. In fact, the SM-AP algorithm never diverges; no matter how the parameters of the SM-AP algorithm has been adopted. Finally, the simulation results substantiate the validity of the proposed analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T21:11:26.833Z

@@ -1,0 +1,12 @@
+# An Optimal Detector for Hierarchical $2^n$ QAM
+
+**Authors:** Hadi Alasti
+
+## Summary
+A practical and scalable, optimal detection algorithm is introduced for hierarchical Gray-coded $2^n$ QAM for application in software defined communications. The introduced optimal detection algorithm is based on successive interference cancellation and is equivalent to a successive approximation analog to digital conversion (SAR-ADC). The performance of the optimal detector is discussed in additive white Gaussian noise channels. The proposed detection algorithm needs much less storage space than the conventional optimal detection algorithm followed by table lookup.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T21:06:16.088Z

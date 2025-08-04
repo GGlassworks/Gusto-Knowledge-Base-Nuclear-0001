@@ -1,0 +1,12 @@
+# A Digital Beamforming Receiver Architecture Implemented on a FPGA for Space Applications
+
+**Authors:** Eduardo Ortega, Agustín Martínez, Antonio Oliva, Fernando Sanz, Oscar Rodríguez, Manuel Prieto, Pablo Parra, Antonio Da Silva, Sebastián Sánchez
+
+## Summary
+The burgeoning interest within the space community in digital beamforming is largely attributable to the superior flexibility that satellites with active antenna systems offer for a wide range of applications, notably in communication services. This paper delves into the analysis and practical implementation of a Digital Beamforming and Digital Down Conversion (DDC) chain, leveraging a high-speed Analog-to-Digital Converter (ADC) certified for space applications alongside a high-performance Field-Programmable Gate Array (FPGA). The proposed design strategy focuses on optimizing resource efficiency and minimizing power consumption by strategically sequencing the beamformer processor ahead of the complex down-conversion operation. This innovative approach entails the application of demodulation and low-pass filtering exclusively to the aggregated beam channel, culminating in a marked reduction in the requisite digital signal processing resources relative to traditional, more resource-intensive digital beamforming and DDC architectures. In the experimental validation, an evaluation board integrating a high-speed ADC and a FPGA was utilized. This setup facilitated the empirical validation of the design's efficacy by applying various RF input signals to the digital beamforming receiver system. The ADC employed is capable of high-resolution signal processing, while the FPGA provides the necessary computational flexibility and speed for real-time digital signal processing tasks. The findings underscore the potential of this design to significantly enhance the efficiency and performance of digital beamforming systems in space applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:16:14.509Z

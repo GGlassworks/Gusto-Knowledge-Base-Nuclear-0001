@@ -1,0 +1,12 @@
+# Fourier, Gabor, Morlet or Wigner: Comparison of Time-Frequency Transforms
+
+**Authors:** Stefan Scholl
+
+## Summary
+In digital signal processing time-frequency transforms are used to analyze time-varying signals with respect to their spectral contents over time. Apart from the commonly used short-time Fourier transform, other methods exist in literature, such as the Wavelet, Stockwell or Wigner-Ville transform. Consequently, engineers working on digital signal processing tasks are often faced with the question which transform is appropriate for a specific application. To address this question, this paper first briefly introduces the different transforms. Then it compares them with respect to the achievable resolution in time and frequency and possible artifacts. Finally, the paper contains a gallery of time-frequency representations of numerous signals from different fields of applications to allow for visual comparison.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T12:04:24.468Z

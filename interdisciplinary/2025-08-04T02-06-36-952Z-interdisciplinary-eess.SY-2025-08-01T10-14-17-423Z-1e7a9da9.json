@@ -1,0 +1,12 @@
+# No driver, No Regulation? --Online Legal Driving Behavior Monitoring for Self-driving Vehicles
+
+**Authors:** Wenhao Yu, Chengxiang Zhao, Jiaxin Liu, Yingkai Yang, Xiaohan Ma, Jun Li, Weida Wang, Hong Wang, Ding Zhao, Xiaosong Hu
+
+## Summary
+Defined traffic laws must be respected by all vehicles. However, it is essential to know which behaviors violate the current laws, especially when a responsibility issue is involved in an accident. This brings challenges of digitizing human-driver-oriented traffic laws and monitoring vehicles' behaviors continuously. To address these challenges, this paper aims to digitize traffic law comprehensively and provide an application for online monitoring of legal driving behavior for autonomous vehicles. This paper introduces a layered trigger domain-based traffic law digitization architecture with digitization-classified discussions and detailed atomic propositions for online monitoring. The principal laws on a highway and at an intersection are taken as examples, and the corresponding logic and atomic propositions are introduced in detail. Finally, the digitized traffic laws are verified on the Chinese highway and intersection datasets, and defined thresholds are further discussed according to the driving behaviors in the considered dataset. This study can help manufacturers and the government in defining specifications and laws and can also be used as a useful reference in traffic laws compliance decision-making. Source code is available on https://github.com/SOTIF-AVLab/DOTL.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:14:17.424Z

@@ -1,0 +1,12 @@
+# Stable Matching with Mistaken Agents
+
+**Authors:** Georgy Artemov, Yeon-Koo Che, YingHua He
+
+## Summary
+Motivated by growing evidence of agents' mistakes in strategically simple environments, we propose a solution concept -- robust equilibrium -- that requires only an asymptotically optimal behavior. We use it to study large random matching markets operated by the applicant-proposing Deferred Acceptance (DA). Although truth-telling is a dominant strategy, almost all applicants may be non-truthful in robust equilibrium; however, the outcome must be arbitrarily close to the stable matching. Our results imply that one can assume truthful agents to study DA outcomes, theoretically or counterfactually. However, to estimate the preferences of mistaken agents, one should assume stable matching but not truth-telling.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.TH
+Collected: 2025-08-01T20:24:37.287Z

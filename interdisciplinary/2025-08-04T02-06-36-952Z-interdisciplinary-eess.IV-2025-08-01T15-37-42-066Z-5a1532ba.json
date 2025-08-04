@@ -1,0 +1,12 @@
+# Electrical Impedance Tomography based on Genetic Algorithm
+
+**Authors:** Mingyong Zhou
+
+## Summary
+In this paper, we applies GA algorithm into Electrical Impedance Tomography (EIT) application. We first outline the EIT problem as an optimization problem and define a target optimization function. Then we show how the GA algorithm as an alternative searching algorithm can be used for solving EIT inverse problem. In this paper, we explore evolutionary methods such as GA algorithms combined with various regularization operators to solve EIT inverse computing problem. Key words: Electrical Impedance Tomography (EIT), GA, Tikhonov operator , Mumford-Shah operator, Particle Swarm Optimization(PSO), Back Propagation(BP).
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T15:37:42.068Z

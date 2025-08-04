@@ -1,0 +1,12 @@
+# Perceptual Video Quality Prediction Emphasizing Chroma Distortions
+
+**Authors:** Li-Heng Chen, Christos G. Bampis, Zhi Li, Joel Sole, Alan C. Bovik
+
+## Summary
+Measuring the quality of digital videos viewed by human observers has become a common practice in numerous multimedia applications, such as adaptive video streaming, quality monitoring, and other digital TV applications. Here we explore a significant, yet relatively unexplored problem: measuring perceptual quality on videos arising from both luma and chroma distortions from compression. Toward investigating this problem, it is important to understand the kinds of chroma distortions that arise, how they relate to luma compression distortions, and how they can affect perceived quality. We designed and carried out a subjective experiment to measure subjective video quality on both luma and chroma distortions, introduced both in isolation as well as together. Specifically, the new subjective dataset comprises a total of $210$ videos afflicted by distortions caused by varying levels of luma quantization commingled with different amounts of chroma quantization. The subjective scores were evaluated by $34$ subjects in a controlled environmental setting. Using the newly collected subjective data, we were able to demonstrate important shortcomings of existing video quality models, especially in regards to chroma distortions. Further, we designed an objective video quality model which builds on existing video quality algorithms, by considering the fidelity of chroma channels in a principled way. We also found that this quality analysis implies that there is room for reducing bitrate consumption in modern video codecs by creatively increasing the compression factor on chroma channels. We believe that this work will both encourage further research in this direction, as well as advance progress on the ultimate goal of jointly optimizing luma and chroma compression in modern video encoders.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:16:14.611Z

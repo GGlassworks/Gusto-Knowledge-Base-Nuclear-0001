@@ -1,0 +1,12 @@
+# Multi-scale Multi-site Renal Microvascular Structures Segmentation for Whole Slide Imaging in Renal Pathology
+
+**Authors:** Franklin Hu, Ruining Deng, Shunxing Bao, Haichun Yang, Yuankai Huo
+
+## Summary
+Segmentation of microvascular structures, such as arterioles, venules, and capillaries, from human kidney whole slide images (WSI) has become a focal point in renal pathology. Current manual segmentation techniques are time-consuming and not feasible for large-scale digital pathology images. While deep learning-based methods offer a solution for automatic segmentation, most suffer from a limitation: they are designed for and restricted to training on single-site, single-scale data. In this paper, we present Omni-Seg, a novel single dynamic network method that capitalizes on multi-site, multi-scale training data. Unique to our approach, we utilize partially labeled images, where only one tissue type is labeled per training image, to segment microvascular structures. We train a singular deep network using images from two datasets, HuBMAP and NEPTUNE, across different magnifications (40x, 20x, 10x, and 5x). Experimental results indicate that Omni-Seg outperforms in terms of both the Dice Similarity Coefficient (DSC) and Intersection over Union (IoU). Our proposed method provides renal pathologists with a powerful computational tool for the quantitative analysis of renal microvascular structures.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:24:41.918Z

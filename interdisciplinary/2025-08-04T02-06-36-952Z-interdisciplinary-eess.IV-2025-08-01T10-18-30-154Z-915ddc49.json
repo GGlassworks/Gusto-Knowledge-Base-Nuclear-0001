@@ -1,0 +1,12 @@
+# Automated Image Analysis and Contiguity Estimation for Liquid Phase Sintered Tungsten Heavy Alloys
+
+**Authors:** A. Murat Ozbayoglu, Nuri Durlu, N. Kaan Caliskan
+
+## Summary
+In this study an automated software model using digital image processing techniques is proposed for extracting the image characteristics and contiguity of liquid phase sintered tungsten heavy alloys. The developed model takes a typical image as input and processes it with no human intervention and provides the corresponding image characteristics and contiguity value. The image processing algorithm includes segmentation, binding point extraction, phase connection, particle count and contiguity estimation stages. For the output, microstructural parameters such as tungsten particle size, amount of tungsten phase and contiguity are determined. The model is implemented by using 6 different scanning electron microscope images of liquid phase sintered 90W-7Ni-3Fe and 93W-4.9Ni-2.1Fe allloys. The results indicate that relative to the manual measurements, the automated model can correctly estimate the contiguity with an error in the vicinity of 5.6% - 2.9% for these two alloys. The developed software can easily be adapted to be used for other microstructures. It is also provided as open-source and available for other researchers.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:18:30.154Z

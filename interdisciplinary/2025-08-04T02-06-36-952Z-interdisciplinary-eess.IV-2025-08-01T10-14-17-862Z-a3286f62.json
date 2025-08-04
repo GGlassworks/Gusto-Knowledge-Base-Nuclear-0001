@@ -1,0 +1,12 @@
+# Quantitative analysis of numerically focused red blood cells using subdivided two-beam interference (STBI) based lateral-shearing digital holographic microscope
+
+**Authors:** Shital Devinder, Ashish Lal, Tathagato Rai Dastidar, Satish Kumar Dubey
+
+## Summary
+A lateral shear interferometer based digital holographic microscopy has been realized to study the morphology dynamics of Human red blood cells quantitatively. Here, a lateral shear interferometer is embedded with a conventional microscope with a CMOS sensor to form a lateral-shearing digital holographic microscope. It enables recording of image plane holograms of objects that can be numerically reconstructed to estimate its3-D prole. This yields the depth information of the sample in addition to its bright field image. The problem of the duplicate image is addressed by filtering object information from one of the beams, without losing the contrast in the fringes. The contrast in the fringes is maintained by increased reflectivity of the back surface of the shear plate. This improves the resolution in the proposed system.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:14:17.862Z

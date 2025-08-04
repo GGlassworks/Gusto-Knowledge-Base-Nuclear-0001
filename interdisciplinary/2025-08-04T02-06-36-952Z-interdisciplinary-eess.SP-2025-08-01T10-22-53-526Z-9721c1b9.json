@@ -1,0 +1,12 @@
+# Information-Based Model Discrimination for Digital Twin Behavioral Matching
+
+**Authors:** Jairo Viola, YangQuan Chen, Jing Wang
+
+## Summary
+Digital Twin is a breaking technology that allows creating virtual representations of complex physical systems based on updated information of the system and its physical laws. However, making the Digital Twin behavior matching with the real system can be challenging due to the number of unknown parameters in each twin. Its search can be done using optimization-based techniques, producing a family of models based on different system datasets, so, a discrimination criterion is required to determine the best Digital Twin model. This paper presents an information theory-based discrimination criterion to determine the best Digital Twin model resulting from a behavioral matching process. The information gain of a model is employed as a discrimination criterion. Box-Jenkins models are used to define the family of models for each behavioral matching result. The proposed method is compared with other information-based metrics as well as the $\nu$gap metric. As a study case, the discrimination method is applied to the Digital Twin for a real-time vision feedback infrared temperature uniformity control system. Obtained results show that information-based methodologies are useful for selecting an accurate Digital Twin model representing the system among a family of plants
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:22:53.526Z

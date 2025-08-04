@@ -1,0 +1,12 @@
+# An IoT based Real-time Low Cost Smart Energy Meter Monitoring System using Android Application
+
+**Authors:** Md Redwanul Islam, Supriya Sarker, Md Shahraduan Mazumder, Mehnaj Rahman Ranim
+
+## Summary
+Nowadays IoT based applications are becoming more popular because it provides efficient solutions for many real time problems. In this paper, an IoT based electric meter monitoring system using android application has been proposed that aims to reduce manual efforts for measuring the electricity units and make users concern about the excessive usage of electricity. Aurdino Uno and an optical sensor are used to fetch the pulse of the electric meter. In order to reduce human error and cost in energy consumption, a low cost wireless sensor network is implemented for digital energy meter and a mobile application that automatically capable of interpret the units meter.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:16:12.533Z

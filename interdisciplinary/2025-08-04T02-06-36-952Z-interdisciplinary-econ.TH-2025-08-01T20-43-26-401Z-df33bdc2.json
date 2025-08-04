@@ -1,0 +1,12 @@
+# Optimal classification with endogenous behavior
+
+**Authors:** Elizabeth Maggie Penn
+
+## Summary
+I consider the problem of classifying individual behavior in a simple setting of outcome performativity where the behavior the algorithm seeks to classify is itself dependent on the algorithm. I show in this context that the most accurate classifier is either a threshold or a negative threshold rule. A threshold rule offers the "good" classification to those individuals more likely to have engaged in a desirable behavior, while a negative threshold rule offers the "good" outcome to those less likely to have engaged in the desirable behavior. While seemingly pathological, I show that a negative threshold rule can maximize classification accuracy when behavior is endogenous. I provide an example of such a classifier and extend the analysis to more general algorithm objectives. A key takeaway is that when behavior is endogenous to classification, optimal classification can negatively correlate with signal information. This may yield negative downstream effects on groups in terms of the aggregate behavior induced by an algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.TH
+Collected: 2025-08-01T20:43:26.401Z

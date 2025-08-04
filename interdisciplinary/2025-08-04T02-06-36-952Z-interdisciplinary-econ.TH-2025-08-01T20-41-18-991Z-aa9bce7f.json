@@ -1,0 +1,12 @@
+# Asymptotic Behavior of Bayesian Learners with Misspecified Models
+
+**Authors:** Ignacio Esponda, Demian Pouzo, Yuichi Yamamoto
+
+## Summary
+We consider an agent who represents uncertainty about the environment via a possibly misspecified model. Each period, the agent takes an action, observes a consequence, and uses Bayes' rule to update her belief about the environment. This framework has become increasingly popular in economics to study behavior driven by incorrect or biased beliefs. Current literature has characterized asymptotic behavior under fairly specific assumptions. By first showing that the key element to predict the agent's behavior is the frequency of her past actions, we are able to characterize asymptotic behavior in general settings in terms of the solutions of a generalization of a differential equation that describes the evolution of the frequency of actions. We then present a series of implications that can be readily applied to economic applications, thus providing off-the-shelf tools that can be used to characterize behavior under misspecified learning.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.TH
+Collected: 2025-08-01T20:41:18.992Z

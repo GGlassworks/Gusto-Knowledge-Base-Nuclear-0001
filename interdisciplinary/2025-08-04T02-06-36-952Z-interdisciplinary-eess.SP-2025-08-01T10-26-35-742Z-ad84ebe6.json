@@ -1,0 +1,12 @@
+# Reconfigurable Digital Channelizer Design Using Factored Markov Decision Processes
+
+**Authors:** A. Sapio, L. Li, J. Wu, M. Wolf, S. S. Bhattacharyya
+
+## Summary
+In this work, a novel digital channelizer design is developed through the use of a compact, system-level modeling approach. The model efficiently captures key properties of a digital channelizer system and its time-varying operation. The model applies powerful Markov Decision Process (MDP) techniques in new ways for design optimization of reconfigurable channelization processing. The result is a promising methodology for design and implementation of digital channelizers that adapt dynamically to changing use cases and stochastic environments while optimizing simultaneously for multiple conflicting performance goals. The method is used to employ an MDP to generate a runtime reconfiguration policy for a time-varying environment. Through extensive simulations, the robustness of the adaptation is demonstrated in comparison with the prior state of the art.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:26:35.742Z

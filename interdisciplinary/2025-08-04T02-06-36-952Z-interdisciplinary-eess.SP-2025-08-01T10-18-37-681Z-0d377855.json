@@ -1,0 +1,12 @@
+# High-Speed Ultra-Energy-Efficient Memristor-Based Massive MIMO SIC Detector Circuit with Hybrid Analog-Digital Computing Architecture
+
+**Authors:** Jia-Hui Bi, Shaoshi Yang, Sheng Chen, Ping Zhang
+
+## Summary
+The emerging memristor crossbar array based computing circuits exhibit computing speeds and energy efficiency far surpassing those of traditional digital processors. This type of circuits can complete high-dimensional matrix operations in an extremely short time through analog computing, making it naturally applicable to linear detection and maximum likelihood detection in massive multiple-input multiple-output (MIMO) systems. However, the challenge of employing memristor crossbar arrays to efficiently implement other nonlinear detection algorithms, such as the successive interference cancellation (SIC) algorithm, remains unresolved. In this paper we propose a memristor-based circuit design for massive MIMO SIC detector. The proposed circuit comprises several judiciously designed analog matrix computing modules and hybrid analog-digital slicers, which enables the proposed circuit to perform the SIC algorithm with a hybrid analog-digital computing architecture. We show that the computing speed and the computational energy-efficiency of the proposed detector circuit are 43 times faster and 110 times higher, respectively, than those of a traditional 8-core digital signal processor (DSP), and also advantageous over the benchmark high-performance field programmable gate array (FPGA) and graphics processing unit (GPU).
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:18:37.681Z

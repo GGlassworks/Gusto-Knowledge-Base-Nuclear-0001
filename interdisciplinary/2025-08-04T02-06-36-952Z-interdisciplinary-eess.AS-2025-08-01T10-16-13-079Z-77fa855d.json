@@ -1,0 +1,12 @@
+# Implementing Continuous HRTF Measurement in Near-Field
+
+**Authors:** Ee-Leng Tan, Santi Peksi, Woon-Seng Gan
+
+## Summary
+Head-related transfer function (HRTF) is an essential component to create an immersive listening experience over headphones for virtual reality (VR) and augmented reality (AR) applications. Metaverse combines VR and AR to create immersive digital experiences, and users are very likely to interact with virtual objects in the near-field (NF). The HRTFs of such objects are highly individualized and dependent on directions and distances. Hence, a significant number of HRTF measurements at different distances in the NF would be needed. Using conventional static stop-and-go HRTF measurement methods to acquire these measurements would be time-consuming and tedious for human listeners. In this paper, we propose a continuous measurement system targeted for the NF, and efficiently capturing HRTFs in the horizontal plane within 45 secs. Comparative experiments are performed on head and torso simulator (HATS) and human listeners to evaluate system consistency and robustness.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.AS
+Collected: 2025-08-01T10:16:13.079Z

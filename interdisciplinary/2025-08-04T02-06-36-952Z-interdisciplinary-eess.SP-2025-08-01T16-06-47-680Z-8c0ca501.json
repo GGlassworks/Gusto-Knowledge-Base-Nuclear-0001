@@ -1,0 +1,12 @@
+# Impact of UAVs Equipped with ADS-B on the Civil Aviation Monitoring System
+
+**Authors:** Yiyang Liao, Lei Zhang, Ziye Jia, Chao Dong, Yifan Zhang, Qihui Wu, Huiling Hu, Bin Wang
+
+## Summary
+In recent years, there is an increasing demand for unmanned aerial vehicles (UAVs) to complete multiple applications. However, as unmanned equipments, UAVs lead to some security risks to general civil aviations. In order to strengthen the flight management of UAVs and guarantee the safety, UAVs can be equipped with automatic dependent surveillance-broadcast (ADS-B) devices. In addition, as an automatic system, ADS-B can periodically broadcast flight information to the nearby aircrafts or the ground stations, and the technology is already used in civil aviation systems. However, due to the limited frequency of ADS-B technique, UAVs equipped with ADS-B devices result in the loss of packets to both UAVs and civil aviation. Further, the operation of civil aviation are seriously interfered. Hence, this paper firstly examines the packets loss of civil planes at different distance, then analyzes the impact of UAVs equipped with ADS-B on the packets updating of civil planes. The result indicates that the 1090MHz band blocking is affected by the density of UAVs. Besides, the frequency capacity is affected by the requirement of updating interval of civil planes. The position updating probability within 3s is 92.3% if there are 200 planes within 50km and 20 UAVs within 5km. The position updating probability within 3s is 86.9% if there are 200 planes within 50km and 40 UAVs within 5km.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T16:06:47.680Z

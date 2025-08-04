@@ -1,0 +1,12 @@
+# A Redundancy-Guided Approach for the Hazard Analysis of Digital Instrumentation and Control Systems in Advanced Nuclear Power Plants
+
+**Authors:** Tate Shorthill, Han Bao, Hongbin Zhang, Heng Ban
+
+## Summary
+Digital instrumentation and control (I&amp;C) upgrades are a vital research area for nuclear industry. Despite their performance benefits, deployment of digital I&amp;C in nuclear power plants (NPPs) has been limited. Digital I&amp;C systems exhibit complex failure modes including common cause failures (CCFs) which can be difficult to identify. This paper describes the development of a redundancy-guided application of the Systems-Theoretic Process Analysis (STPA) and Fault Tree Analysis (FTA) for the hazard analysis of digital I&amp;C in advanced NPPs. The resulting Redundancy-guided System-theoretic Hazard Analysis (RESHA) is applied for the case study of a representative state-of-the-art digital reactor trip system. The analysis qualitatively and systematically identifies the most critical CCFs and other hazards of digital I&amp;C systems. Ultimately, RESHA can help researchers make informed decisions for how, and to what degree, defensive measures such as redundancy, diversity, and defense-in-depth can be used to mitigate or eliminate the potential hazards of digital I&amp;C systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:16:18.823Z

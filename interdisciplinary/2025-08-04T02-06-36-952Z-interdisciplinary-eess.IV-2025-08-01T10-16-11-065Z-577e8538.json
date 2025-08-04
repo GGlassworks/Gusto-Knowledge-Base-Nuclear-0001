@@ -1,0 +1,12 @@
+# Hibou: A Family of Foundational Vision Transformers for Pathology
+
+**Authors:** Dmitry Nechaev, Alexey Pchelnikov, Ekaterina Ivanova
+
+## Summary
+Pathology, the microscopic examination of diseased tissue, is critical for diagnosing various medical conditions, particularly cancers. Traditional methods are labor-intensive and prone to human error. Digital pathology, which converts glass slides into high-resolution digital images for analysis by computer algorithms, revolutionizes the field by enhancing diagnostic accuracy, consistency, and efficiency through automated image analysis and large-scale data processing. Foundational transformer pretraining is crucial for developing robust, generalizable models as it enables learning from vast amounts of unannotated data. This paper introduces the Hibou family of foundational vision transformers for pathology, leveraging the DINOv2 framework to pretrain two model variants, Hibou-B and Hibou-L, on a proprietary dataset of over 1 million whole slide images (WSIs) representing diverse tissue types and staining techniques. Our pretrained models demonstrate superior performance on both patch-level and slide-level benchmarks, surpassing existing state-of-the-art methods. Notably, Hibou-L achieves the highest average accuracy across multiple benchmark datasets. To support further research and application in the field, we have open-sourced the Hibou models, which can be accessed at https://github.com/HistAI/hibou.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:16:11.065Z

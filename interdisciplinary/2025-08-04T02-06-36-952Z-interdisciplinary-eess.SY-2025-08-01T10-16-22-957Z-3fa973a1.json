@@ -1,0 +1,12 @@
+# Development of high accurate family-use digital refractometer based on CMOS
+
+**Authors:** Zhenxing Wang, Zhenyuan Jia
+
+## Summary
+This study aims to develop a low-cost refractometer for measuring the sucrose content of fruit juice, which is an important factor affecting human health. While laboratory-grade refractometers are expensive and unsuitable for personal use, existing low-cost commercial options lack stability and accuracy. To address this gap, we propose a refractometer that replaces the expensive CCD sensor and light source with a conventional LED and a reasonably priced CMOS sensor. By analyzing the output waveform pattern of the CMOS sensor, we achieve high precision with a personal-use-appropriate accuracy of 0.1%. We tested the proposed refractometer by conducting 100 repeated measurements on various fruit juice samples, and the results demonstrate its reliability and consistency. Running on a 48 MHz ARM processor, the algorithm can acquire data within 0.2 seconds. Our low-cost refractometer is suitable for personal health management and small-scale production, providing an affordable and reliable method for measuring sucrose concentration in fruit juice. It improves upon the existing low-cost options by offering better stability and accuracy. This accessible tool has potential applications in optimizing the sucrose content of fruit juice for better health and quality control.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:16:22.957Z

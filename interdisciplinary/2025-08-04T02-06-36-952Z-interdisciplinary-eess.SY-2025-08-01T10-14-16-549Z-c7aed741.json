@@ -1,0 +1,12 @@
+# Digital Twin-Assisted Cooperative Driving at Non-Signalized Intersections
+
+**Authors:** Ziran Wang, Kyungtae Han, Prashant Tiwari
+
+## Summary
+Digital Twin, as an emerging technology related to Cyber-Physical Systems (CPS) and Internet of Things (IoT), has attracted increasing attentions during the past decade. Conceptually, a Digital Twin is a digital replica of a physical entity in the real world, and this technology is leveraged in this study to design a cooperative driving system at non-signalized intersections, allowing connected vehicles to cooperate with each other to cross intersections without any full stops. Within the proposed Digital Twin framework, we developed an enhanced first-in-first-out (FIFO) slot reservation algorithm to schedule the sequence of crossing vehicles, a consensus motion control algorithm to calculate vehicles' referenced longitudinal motion, and a model-based motion estimation algorithm to tackle communication delay and packet loss. Additionally, an augmented reality (AR) human-machine-interface (HMI) is designed to provide the guidance to drivers to cooperate with other connected vehicles. Agent-based modeling and simulation of the proposed system is conducted in Unity game engine based on a real-world map in San Francisco, and the human-in-the-loop (HITL) simulation results prove the benefits of the proposed algorithms with 20% reduction in travel time and 23.7% reduction in energy consumption, respectively, when compared with traditional signalized intersections.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:14:16.549Z

@@ -1,0 +1,12 @@
+# Study on Human-Variability-Respecting Optimal Control Affecting Human Interaction Experience
+
+**Authors:** Sean Kille, Balint Varga, Sören Hohmann
+
+## Summary
+Broad application of human-machine interaction (HMI) demands advanced and human-centered control designs for the machine's automation. Human natural motor action shows stochastic behavior, which has so far not been respected in HMI control designs. Using a previously presented novel human-variability-respecting optimal controller we present a study design which allows the investigation of respecting human natural variability and its effect on human interaction experience. Our approach is tested in simulation based on an identified real human subject and presents a promising approach to be used for a larger subject study.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:16:19.622Z

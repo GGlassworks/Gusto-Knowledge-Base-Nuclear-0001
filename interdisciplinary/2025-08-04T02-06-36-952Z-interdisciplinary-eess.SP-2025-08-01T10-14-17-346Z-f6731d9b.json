@@ -1,0 +1,12 @@
+# Obfuscation of Human Micro-Doppler Signatures in Passive Wireless RADAR
+
+**Authors:** Antonios Argyriou
+
+## Summary
+When wireless communication signals impinge on a moving human they are affected by micro-Doppler. A passive receiver of the resulting signals can calculate the spectrogram that produces different signatures depending on the human activity. This constitutes a significant privacy breach when the human is unaware of it. This paper presents a methodology for preventing this when we want to do so by injecting into the transmitted signal frequency variations that obfuscate the micro-Doppler signature. We assume a system that uses orthogonal frequency division multiplexing (OFDM) and a passive receiver that estimates the spectrogram based on the instantaneous channel state information (CSI). We analyze the impact of our approach on the received signal and we propose two strategies that do not affect the demodulation of the digital communication signal at the intended receiver. To evaluate the performance of our approach we use an IEEE 802.11-based OFDM system and realistic human signal reflection models.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:14:17.346Z

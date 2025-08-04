@@ -1,0 +1,12 @@
+# Immersive Human-Machine Teleoperation Framework for Precision Agriculture: Integrating UAV-based Digital Mapping and Virtual Reality Control
+
+**Authors:** Tao Liu, Baohua Zhang, Qianqiu Tan, Jun Zhou, Shuwan Yu, Qingzhen Zhu, Yifan Bian
+
+## Summary
+In agricultural settings, the unstructured nature of certain production environments, along with the high complexity and inherent risks of production tasks, poses significant challenges to achieving full automation and effective on-site machine control. Remote control technology, which leverages human intelligence and precise machine movements, ensures operator safety and boosts productivity. Recently, virtual reality (VR) has shown promise in remote control applications by overcoming single-view limitations and providing three-dimensional information, yet most studies have not focused on agricultural settings. Therefore, to bridge the gap, this study proposes a large-scale digital mapping and immersive human-machine teleoperation framework specifically designed for precision agriculture. In this research, a DJI unmanned aerial vehicle (UAV) was utilized for data collection, and a novel video segmentation approach based on feature points was introduced. To accommodate the variability of complex textures, this method proposes an enhanced Structure from Motion (SfM) approach. It integrates the open Multiple View Geometry (OpenMVG) framework with Local Features from Transformers (LoFTR). The enhanced SfM produces a point cloud map, which is further processed through Multi-View Stereo (MVS) to generate a complete map model. For control, a closed-loop system utilizing TCP/IP for VR control and positioning of agricultural machinery was introduced. This system offers a fully visual-based method for immersive control, allowing operators to utilize VR technology for remote operations. The experimental results demonstrate that the user-friendly remote control method also showcases its advantages over traditional video streaming-based remote operations, providing operators with a more comprehensive and immersive experience and a higher level of situational awareness.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:16:15.847Z

@@ -1,0 +1,12 @@
+# Design Space Exploration at Frame-Level for Joint Decoding Energy and Quality Optimization in VVC
+
+**Authors:** Teresa Stürzenhofäcker, Matthias Kränzler, Christian Herglotz, André Kaup
+
+## Summary
+In the pursuit of a reduced energy demand of VVC decoders, it was found that the coding tool configuration has a substantial influence on the bit rate efficiency and the decoding energy demand. The Advanced Design Space Exploration algorithm as proposed in the literature, can derive coding tool configurations that provide optimal trade-offs between rate and energy efficiency. Yet, some trade-off points in the design space cannot be reached with the state-of-the-art methodology, which defines coding tools for an entire bitstream. This work proposes a novel, granular adjustment of the coding tool usage in VVC. Consequently, the optimization algorithm is adjusted to explore coding tool configurations that operate on frame-level. Moreover, new optimization criteria are introduced to focus the search on specific bit rates. As a result, coding tool configurations are obtained which yield so far inaccessible trade-offs between bit rate efficiency and decoding energy demand for VVC-coded sequences. The proposed methodology extends the design space and enhances the continuity of the Pareto front.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:49:57.158Z

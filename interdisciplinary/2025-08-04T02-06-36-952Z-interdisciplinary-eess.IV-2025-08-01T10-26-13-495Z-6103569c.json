@@ -1,0 +1,12 @@
+# Boosting Segmentation Performance across datasets using histogram specification with application to pelvic bone segmentation
+
+**Authors:** Prabhakara Subramanya Jois, Aniketh Manjunath, Thomas Fevens
+
+## Summary
+Accurate segmentation of the pelvic CTs is crucial for the clinical diagnosis of pelvic bone diseases and for planning patient-specific hip surgeries. With the emergence and advancements of deep learning for digital healthcare, several methodologies have been proposed for such segmentation tasks. But in a low data scenario, the lack of abundant data needed to train a Deep Neural Network is a significant bottle-neck. In this work, we propose a methodology based on modulation of image tonal distributions and deep learning to boost the performance of networks trained on limited data. The strategy involves pre-processing of test data through histogram specification. This simple yet effective approach can be viewed as a style transfer methodology. The segmentation task uses a U-Net configuration with an EfficientNet-B0 backbone, optimized using an augmented BCE-IoU loss function. This configuration is validated on a total of 284 images taken from two publicly available CT datasets, TCIA (a cancer imaging archive) and the Visible Human Project. The average performance measures for the Dice coefficient and Intersection over Union are 95.7% and 91.9%, respectively, give strong evidence for the effectiveness of the approach, which is highly competitive with state-of-the-art methodologies.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:26:13.495Z

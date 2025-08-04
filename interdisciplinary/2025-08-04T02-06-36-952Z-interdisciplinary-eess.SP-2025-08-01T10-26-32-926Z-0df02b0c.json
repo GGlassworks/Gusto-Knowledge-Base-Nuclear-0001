@@ -1,0 +1,12 @@
+# Step-to-Charge: mW-scale power transfer to on-body devices for long channel (&gt; 1m) with EQS Resonant Human Body Powering
+
+**Authors:** Arunashish Datta, Lingke Ding, Shreyas Sen
+
+## Summary
+Current limits of harvested energy in wearables are governed by three fundamental quantities, the physical limits of available energy density in ambient powering, safety limits in intentional powering, and the size of the wearable device. Typical energy harvested, except for solar power in favorable outdoor conditions, ranges from 5 uW to a maximum of 100 - 200 uW depending upon the available energy. Further, traditional intentional powering methodologies using ultrasound and radio-frequency either have a severe limitation in range of powering or are inefficient due to high path loss in Non-Line-of-Sight scenarios due to absorption by the body. In this study, we propose a novel approach using the human body, the common medium connecting the wearable devices, as a channel to transfer power. We demonstrate Human Body Powering using ``Step-to-Charge," a first-of-its-kind non-radiative, meter-scale powering methodology using a floor-based source and the human body as the channel to transfer power at lower channel losses to charge and power wearable devices across the whole body. The proposed powering methodology allows more than 2 mW peak power to be transferred to a wearable device for &gt;1m channel lengths, which is &gt; 90X greater than the state-of-the-art over previous Human Body Powering attempts. Step-to-Charge enables the powering of a new, extended range of wearable devices across the human body, bringing us closer to enabling battery-less perpetual operation using Human Body Power transfer.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:26:32.927Z

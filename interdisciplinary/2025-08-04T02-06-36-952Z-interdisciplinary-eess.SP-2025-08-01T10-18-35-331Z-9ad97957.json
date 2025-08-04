@@ -1,0 +1,12 @@
+# On Dynamic Ray Tracing and Anticipative Channel Prediction for Dynamic Environments
+
+**Authors:** Denis Bilibashi, Enrico M. Vitucci, Vittorio Degli-Esposti
+
+## Summary
+Ray tracing algorithms, that can simulate multipath radio propagation in presence of geometric obstacles such as buildings, objects or vehicles, are becoming quite popular, due to the increasing availability of digital environment databases and high-performance computation platforms, such as multicore computers and cloud computing services. When objects or vehicles are moving, which is the case of industrial or vehicular environments, multiple successive representations of the environment ("snapshots") and multiple ray tracing runs are often necessary, which require a great human effort and a great deal of computation resources. Recently, the Dynamic Ray Tracing (DRT) approach has been proposed to predict the multipath evolution within a given time lapse on the base of the current multipath geometry, assuming constant speeds and/or accelerations for moving objects, using analytical extrapolation formulas. This is done without re-running a full ray tracing for every "snapshot" of the environment, therefore with a great computation time saving. When DRT is embedded in a mobile radio system and used in real-time, ahead-of-time (or anticipative) field prediction is possible that opens the way to interesting applications. In the present work, a full-3D DRT algorithm is presented that allows to account for multiple reflections, edge diffraction and diffuse scattering for the general case where moving objects can translate and rotate. For the purpose of validation, the model is first applied to some ideal cases and then to realistic cases where results are compared with conventional ray tracing simulation and measurements available in the literature.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:18:35.331Z

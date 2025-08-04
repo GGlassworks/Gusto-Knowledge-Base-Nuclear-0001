@@ -1,0 +1,12 @@
+# Aging prediction using deep generative model toward the development of preventive medicine
+
+**Authors:** Hisaichi Shibata, Shouhei Hanaoka, Yukihiro Nomura, Naoto Hayashi, Osamu Abe
+
+## Summary
+From birth to death, we all experience surprisingly ubiquitous changes over time due to aging. If we can predict aging in the digital domain, that is, the digital twin of the human body, we would be able to detect lesions in their very early stages, thereby enhancing the quality of life and extending the life span. We observed that none of the previously developed digital twins of the adult human body explicitly trained longitudinal conversion rules between volumetric medical images with deep generative models, potentially resulting in poor prediction performance of, for example, ventricular volumes. Here, we establish a new digital twin of an adult human body that adopts longitudinally acquired head computed tomography (CT) images for training, enabling prediction of future volumetric head CT images from a single present volumetric head CT image. We, for the first time, adopt one of the three-dimensional flow-based deep generative models to realize this sequential three-dimensional digital twin. We show that our digital twin outperforms the latest methods of prediction of ventricular volumes in relatively short terms.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:14:15.875Z

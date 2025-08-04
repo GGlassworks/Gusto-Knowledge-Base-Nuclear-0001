@@ -1,0 +1,12 @@
+# On Synchronization of Wireless Acoustic Sensor Networks in the Presence of Time-varying Sampling Rate Offsets and Speaker Changes
+
+**Authors:** Tobias Gburrek, Joerg Schmalenstroeer, Reinhold Haeb-Umbach
+
+## Summary
+A wireless acoustic sensor network records audio signals with sampling time and sampling rate offsets between the audio streams, if the analog-digital converters (ADCs) of the network devices are not synchronized. Here, we introduce a new sampling rate offset model to simulate time-varying sampling frequencies caused, for example, by temperature changes of ADC crystal oscillators, and propose an estimation algorithm to handle this dynamic aspect in combination with changing acoustic source positions. Furthermore, we show how deep neural network based estimates of the distances between microphones and human speakers can be used to determine the sampling time offsets. This enables a synchronization of the audio streams to reflect the physical time differences of flight.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.AS
+Collected: 2025-08-01T10:18:31.040Z

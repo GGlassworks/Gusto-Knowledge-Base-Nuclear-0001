@@ -1,0 +1,12 @@
+# Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project
+
+**Authors:** Matthew Deakin, Marta Vanin, Zhong Fan, Dirk Van Hertem
+
+## Summary
+Digital Twins promise to deliver a step-change in distribution system operations and planning, but there are few real-world examples that explore the challenges of combining imperfect model and measurement data, and then use these as the basis for subsequent analysis. In this work we propose a Digital Twin framework for electrical distribution systems and implement that framework on the Smart Energy Network Demonstrator microgrid in the UK. The data and software implementation are made available open-source, and consist of a network model, power meter measurements, and unbalanced power flow-based algorithms. Measurement and network uncertainties are shown to have a substantial impact on the quality of Digital Twin outputs. The potential benefits of a dynamic export limit and voltage control are estimated using the Digital Twin, using simulated measurements to address data quality challenges, with results showing curtailment for an exemplar day could be reduced by 56%. Power meter data and a network model are shown to be necessary for developing algorithms that enable decision-making that is robust to real-world uncertainties, with possibilities and challenges of Digital Twin development clearly demonstrated.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:18:34.579Z

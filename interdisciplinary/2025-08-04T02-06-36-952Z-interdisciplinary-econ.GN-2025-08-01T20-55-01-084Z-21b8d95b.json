@@ -1,0 +1,12 @@
+# The Experimenters' Dilemma: Inferential Preferences over Populations
+
+**Authors:** Neeraja Gupta, Luca Rigotti, Alistair Wilson
+
+## Summary
+We compare three populations commonly used in experiments by economists and other social scientists: undergraduate students at a physical location (lab), Amazon's Mechanical Turk (MTurk), and Prolific. The comparison is made along three dimensions: the noise in the data due to inattention, the cost per observation, and the elasticity of response. We draw samples from each population, examining decisions in four one-shot games with varying tensions between the individual and socially efficient choices. When there is no tension, where individual and pro-social incentives coincide, noisy behavior accounts for 60% of the observations on MTurk, 19% on Prolific, and 14% for the lab. Taking costs into account, if noisy data is the only concern Prolific dominates from an inferential power point of view, combining relatively low noise with a cost per observation one fifth of the lab's. However, because the lab population is more sensitive to treatment, across our main PD game comparison the lab still outperforms both Prolific and MTurk.
+
+
+---
+Category: interdisciplinary
+Subcategory: econ.GN
+Collected: 2025-08-01T20:55:01.085Z

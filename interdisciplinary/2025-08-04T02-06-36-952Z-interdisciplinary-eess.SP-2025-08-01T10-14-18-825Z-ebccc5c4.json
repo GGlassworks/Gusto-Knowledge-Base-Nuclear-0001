@@ -1,0 +1,12 @@
+# Data Converter Design Space Exploration for IoT Applications: An Overview of Challenges and Future Directions
+
+**Authors:** Buddhi Prakash Sharma, Anu Gupta, Chandra Shekhar
+
+## Summary
+Human lives are improving with the widespread use of cutting-edge digital technology like the Internet of Things (IoT). Recently, the pandemic has shown the demand for more digitally advanced IoT-based devices. International Data Corporation (IDC) forecasts that by 2025, there will be approximately 42 billion of these devices in use, capable of producing around 80 ZB (zettabytes) of data. So data acquisition, processing, communication, and visualization are necessary from a functional standpoint. Indicating sensors &amp; data converters are the key components for IoT-based applications. The efficiency of such applications is truly measured in terms of latency, power, and resolution of data converters motivating designers to perform efficiently. Sensors capture and covert physical features from their chosen environment into detectable quantities. Data converter gives meaningful information and connects the real analog world to the digital component of the devices. The received data is interpreted and analyzed with the digital processing circuitry. Ultimately, it is used as information by a network of internet-connected smart devices. Because IoT technologies are adaptable to nearly any technology that may provide its operational activity and environmental conditions. But the challenges occur with power consumption as the complete IoT framework is battery operated and replacing a battery is a daunting task. So the goal of this chapter is to unveil the requirements to design energy-efficient data converters for IoT applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:14:18.825Z

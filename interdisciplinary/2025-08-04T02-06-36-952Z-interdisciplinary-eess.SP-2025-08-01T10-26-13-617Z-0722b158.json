@@ -1,0 +1,12 @@
+# A Note on the Conversion of Nonnegative Integers to the Canonical Signed-digit Representation
+
+**Authors:** R. J. Cintra
+
+## Summary
+This note addresses the signed-digit representation of nonnegative binary integers. Popular literature methods for the conversion into the canonical signed-digit representation are reviewed and revisited. A method based on string substitution is discussed.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:26:13.617Z

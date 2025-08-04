@@ -1,0 +1,12 @@
+# Comprehensive evaluation of no-reference image quality assessment algorithms on authentic distortions
+
+**Authors:** Domonkos Varga
+
+## Summary
+Objective image quality assessment deals with the prediction of digital images' perceptual quality. No-reference image quality assessment predicts the quality of a given input image without any knowledge or information about its pristine (distortion free) counterpart. Machine learning algorithms are heavily used in no-reference image quality assessment because it is very complicated to model the human visual system's quality perception. Moreover, no-reference image quality assessment algorithms are evaluated on publicly available benchmark databases. These databases contain images with their corresponding quality scores. In this study, we evaluate several machine learning based NR-IQA methods and one opinion unaware method on databases consisting of authentic distortions. Specifically, LIVE In the Wild and KonIQ-10k databases were applied to evaluate the state-of-the-art. For machine learning based methods, appx. 80% were used for training and the remaining 20% were used for testing. Furthermore, average PLCC, SROCC, and KROCC values were reported over 100 random train-test splits. The statistics of PLCC, SROCC, and KROCC values were also published using boxplots. Our evaluation results may be helpful to obtain a clear understanding about the status of state-of-the-art no-reference image quality assessment methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:18:24.864Z

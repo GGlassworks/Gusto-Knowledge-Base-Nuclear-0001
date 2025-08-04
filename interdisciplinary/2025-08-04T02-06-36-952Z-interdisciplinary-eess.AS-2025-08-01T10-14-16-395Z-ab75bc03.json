@@ -1,0 +1,12 @@
+# BanglaNum -- A Public Dataset for Bengali Digit Recognition from Speech
+
+**Authors:** Mir Sayeed Mohammad, Azizul Zahid, Md Asif Iqbal
+
+## Summary
+Automatic speech recognition (ASR) converts the human voice into readily understandable and categorized text or words. Although Bengali is one of the most widely spoken languages in the world, there have been very few studies on Bengali ASR, particularly on Bangladeshi-accented Bengali. In this study, audio recordings of spoken digits (0-9) from university students were used to create a Bengali speech digits dataset that may be employed to train artificial neural networks for voice-based digital input systems. This paper also compares the Bengali digit recognition accuracy of several Convolutional Neural Networks (CNNs) using spectrograms and shows that a test accuracy of 98.23% is achievable using parameter-efficient models such as SqueezeNet on our dataset.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.AS
+Collected: 2025-08-01T10:14:16.395Z

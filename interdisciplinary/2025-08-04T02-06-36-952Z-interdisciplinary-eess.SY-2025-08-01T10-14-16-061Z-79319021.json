@@ -1,0 +1,12 @@
+# Self-Adaptive Manufacturing with Digital Twins
+
+**Authors:** Tim Bolender, Gereon Bürvenich, Manuela Dalibor, Bernhard Rumpe, Andreas Wortmann
+
+## Summary
+Digital Twins are part of the vision of Industry 4.0 to represent, control, predict, and optimize the behavior of Cyber-Physical Production Systems (CPPSs). These CPPSs are long-living complex systems deployed to and configured for diverse environments. Due to specific deployment, configuration, wear and tear, or other environmental effects, their behavior might diverge from the intended behavior over time. Properly adapting the configuration of CPPSs then relies on the expertise of human operators. Digital Twins (DTs) that reify this expertise and learn from it to address unforeseen challenges can significantly facilitate self-adaptive manufacturing where experience is very specific and, hence, insufficient to employ deep learning techniques. We leverage the explicit modeling of domain expertise through case-based reasoning to improve the capabilities of Digital Twins for adapting to such situations. To this effect, we present a modeling framework for self-adaptive manufacturing that supports modeling domain-specific cases, describing rules for case similarity and case-based reasoning within a modular Digital Twin. Automatically configuring Digital Twins based on explicitly modeled domain expertise can improve manufacturing times, reduce wastage, and, ultimately, contribute to better sustainable manufacturing.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SY
+Collected: 2025-08-01T10:14:16.061Z

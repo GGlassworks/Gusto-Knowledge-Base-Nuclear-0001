@@ -1,0 +1,12 @@
+# Vision Guided MIMO Radar Beamforming for Enhanced Vital Signs Detection in Crowds
+
+**Authors:** Shuaifeng Jiang, Ahmed Alkhateeb, Daniel W. Bliss, Yu Rong
+
+## Summary
+Radar as a remote sensing technology has been used to analyze human activity for decades. Despite all the great features such as motion sensitivity, privacy preservation, penetrability, and more, radar has limited spatial degrees of freedom compared to optical sensors and thus makes it challenging to sense crowded environments without prior information. In this paper, we develop a novel dual-sensing system, in which a vision sensor is leveraged to guide digital beamforming in a multiple-input multiple-output (MIMO) radar. Also, we develop a calibration algorithm to align the two types of sensors and show that the calibrated dual system achieves about two centimeters precision in three-dimensional space within a field of view of $75^\circ$ by $65^\circ$ and for a range of two meters. Finally, we show that the proposed approach is capable of detecting the vital signs simultaneously for a group of closely spaced subjects, sitting and standing, in a cluttered environment, which highlights a promising direction for vital signs detection in realistic environments.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:18:31.310Z

@@ -1,0 +1,12 @@
+# DualSep: A Light-weight dual-encoder convolutional recurrent network for real-time in-car speech separation
+
+**Authors:** Ziqian Wang, Jiayao Sun, Zihan Zhang, Xingchen Li, Jie Liu, Lei Xie
+
+## Summary
+Advancements in deep learning and voice-activated technologies have driven the development of human-vehicle interaction. Distributed microphone arrays are widely used in in-car scenarios because they can accurately capture the voices of passengers from different speech zones. However, the increase in the number of audio channels, coupled with the limited computational resources and low latency requirements of in-car systems, presents challenges for in-car multi-channel speech separation. To migrate the problems, we propose a lightweight framework that cascades digital signal processing (DSP) and neural networks (NN). We utilize fixed beamforming (BF) to reduce computational costs and independent vector analysis (IVA) to provide spatial prior. We employ dual encoders for dual-branch modeling, with spatial encoder capturing spatial cues and spectral encoder preserving spectral information, facilitating spatial-spectral fusion. Our proposed system supports both streaming and non-streaming modes. Experimental results demonstrate the superiority of the proposed system across various metrics. With only 0.83M parameters and 0.39 real-time factor (RTF) on an Intel Core i7 (2.6GHz) CPU, it effectively separates speech into distinct speech zones. Our demos are available at https://honee-w.github.io/DualSep/.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.AS
+Collected: 2025-08-01T10:21:11.548Z

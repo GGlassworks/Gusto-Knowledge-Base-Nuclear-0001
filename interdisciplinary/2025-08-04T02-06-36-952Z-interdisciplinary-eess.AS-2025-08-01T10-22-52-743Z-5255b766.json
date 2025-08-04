@@ -1,0 +1,12 @@
+# CUHK-EE Systems for the vTAD Challenge at NCMMSC 2025
+
+**Authors:** Aemon Yat Fei Chiu, Jingyu Li, Yusheng Tian, Guangyan Zhang, Tan Lee
+
+## Summary
+This paper presents the Voice Timbre Attribute Detection (vTAD) systems developed by the Digital Signal Processing &amp; Speech Technology Laboratory (DSP&amp;STL) of the Department of Electronic Engineering (EE) at The Chinese University of Hong Kong (CUHK) for the 20th National Conference on Human-Computer Speech Communication (NCMMSC 2025) vTAD Challenge. The proposed systems leverage WavLM-Large embeddings with attentive statistical pooling to extract robust speaker representations, followed by two variants of Diff-Net, i.e., Feed-Forward Neural Network (FFN) and Squeeze-and-Excitation-enhanced Residual FFN (SE-ResFFN), to compare timbre attribute intensities between utterance pairs. Experimental results demonstrate that the WavLM-Large+FFN system generalises better to unseen speakers, achieving 77.96% accuracy and 21.79% EER, while the WavLM-Large+SE-ResFFN model excels in the 'Seen' setting with 94.42% accuracy and 5.49% EER. These findings highlight a trade-off between model complexity and generalisation, and underscore the importance of architectural choices in fine-grained speaker modelling. Our analysis also reveals the impact of speaker identity, annotation subjectivity, and data imbalance on system performance, pointing to future directions for improving robustness and fairness in timbre attribute detection.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.AS
+Collected: 2025-08-01T10:22:52.743Z

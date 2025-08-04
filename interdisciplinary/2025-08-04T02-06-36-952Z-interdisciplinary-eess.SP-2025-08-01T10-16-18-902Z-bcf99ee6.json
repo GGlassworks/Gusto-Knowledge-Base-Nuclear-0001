@@ -1,0 +1,12 @@
+# Digital Prototype Filter Alternatives for Processing Frequency-Stacked Mobile Subbands Deploying a Single ADC for Beamforming Satellites
+
+**Authors:** Adem Coskun, Sevket Cetinsel, Izzet Kale, Robert Hughes, Piero Angeletti, Christoph Ernst
+
+## Summary
+This article presents a two-stage approach for the processing of frequency-stacked mobile subbands. The frequency stacking is performed in the analog domain to enable the use of a wideband analog-to-digital converter (ADC), instead of employing multiple narrowband ADCs, to support multiple antenna elements for digital satellite beamforming. This analog front end provides a common broadband digital interface to the on-board processor and can be configured to support multiple satellite missions, reducing the cost of commissioning a digital processor for individual satellite missions. This article proposes a framework on the specification of digital prototype filter for the analysis of frequency-stacked mobile subbands. The computational complexity of the analysis operation, with two digital filter alternatives, are evaluated. A series of results, taken from our European Space Agency sponsored project, are presented here to demonstrate the applicability of the proposed two stage approach, reporting on the savings in power consumption when an Nth-band all-pass-based recursive filter having an infinite impulse response is used as the digital prototype filter.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T10:16:18.902Z

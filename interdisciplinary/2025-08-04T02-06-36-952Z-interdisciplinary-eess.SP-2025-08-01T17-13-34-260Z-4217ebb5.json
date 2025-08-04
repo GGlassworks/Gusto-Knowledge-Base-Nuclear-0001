@@ -1,0 +1,12 @@
+# RaspberryPi to measure EEG, ECG, EMG and EOG with Shield PiEEG
+
+**Authors:** Ildar Rakhmatulin
+
+## Summary
+In this paper presented hardware and software for shield PiEEG for reading signals through the families of single-board computers - RaspberryPi, OrangePi, BananaPi, etc. For the most part, the paper provides technical information on how to implement this device. This device is designed to be familiar with neuroscience and is one of the easiest ways to get started with EEG measurements.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T17:13:34.261Z

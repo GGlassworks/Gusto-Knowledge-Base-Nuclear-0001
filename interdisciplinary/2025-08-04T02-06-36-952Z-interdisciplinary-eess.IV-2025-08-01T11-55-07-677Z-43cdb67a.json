@@ -1,0 +1,12 @@
+# Evaluating Transformer-based Semantic Segmentation Networks for Pathological Image Segmentation
+
+**Authors:** Cam Nguyen, Zuhayr Asad, Yuankai Huo
+
+## Summary
+Histopathology has played an essential role in cancer diagnosis. With the rapid advances in convolutional neural networks (CNN). Various CNN-based automated pathological image segmentation approaches have been developed in computer-assisted pathological image analysis. In the past few years, Transformer neural networks (Transformer) have shown the unique merit of capturing the global long-distance dependencies across the entire image as a new deep learning paradigm. Such merit is appealing for exploring spatially heterogeneous pathological images. However, there have been very few, if any, studies that have systematically evaluated the current Transformer-based approaches in pathological image segmentation. To assess the performance of Transformer segmentation models on whole slide images (WSI), we quantitatively evaluated six prevalent transformer-based models on tumor segmentation, using the widely used PAIP liver histopathological dataset. For a more comprehensive analysis, we also compare the transformer-based models with six major traditional CNN-based models. The results show that the Transformer-based models exhibit a general superior performance over the CNN-based models. In particular, Segmenter, Swin-Transformer and TransUNet-all transformer-based-came out as the best performers among the twelve evaluated models.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T11:55:07.677Z

@@ -1,0 +1,12 @@
+# A review for Tone-mapping Operators on Wide Dynamic Range Image
+
+**Authors:** Ziyi Liu
+
+## Summary
+The dynamic range of our normal life can exceeds 120 dB, however, the smart-phone cameras and the conventional digital cameras can only capture a dynamic range of 90 dB, which sometimes leads to loss of details for the recorded image. Now, some professional hardware applications and image fusion algorithms have been devised to take wide dynamic range (WDR), but unfortunately existing devices cannot display WDR image. Tone mapping (TM) thus becomes an essential step for exhibiting WDR image on our ordinary screens, which convert the WDR image into low dynamic range (LDR) image. More and more researchers are focusing on this topic, and give their efforts to design an excellent tone mapping operator (TMO), showing detailed images as the same as the perception that human eyes could receive. Therefore, it is important for us to know the history, development, and trend of TM before proposing a practicable TMO. In this paper, we present a comprehensive study of the most well-known TMOs, which divides TMOs into traditional and machine learning-based category.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:16:23.242Z

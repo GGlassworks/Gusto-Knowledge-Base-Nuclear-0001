@@ -1,0 +1,12 @@
+# Analog vs. Digital Spatial Transforms: A Throughput, Power, and Area Comparison
+
+**Authors:** Zephan M. Enciso, Seyed Hadi Mirfarshbafan, Oscar Castañeda, Clemens JS. Schaefer, Christoph Studer, Siddharth Joshi
+
+## Summary
+Spatial linear transforms that process multiple parallel analog signals to simplify downstream signal processing find widespread use in multi-antenna communication systems, machine learning inference, data compression, audio and ultrasound applications, among many others. In the past, a wide range of mixed-signal as well as digital spatial transform circuits have been proposed---it is, however, a longstanding question whether analog or digital transforms are superior in terms of throughput, power, and area. In this paper, we focus on Hadamard transforms and perform a systematic comparison of state-of-the-art analog and digital circuits implementing spatial transforms in the same 65\,nm CMOS technology. We analyze the trade-offs between throughput, power, and area, and we identify regimes in which mixed-signal or digital Hadamard transforms are preferable. Our comparison reveals that (i) there is no clear winner and (ii) analog-to-digital conversion is often dominating area and energy efficiency---and not the spatial transform.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.SP
+Collected: 2025-08-01T12:04:24.730Z

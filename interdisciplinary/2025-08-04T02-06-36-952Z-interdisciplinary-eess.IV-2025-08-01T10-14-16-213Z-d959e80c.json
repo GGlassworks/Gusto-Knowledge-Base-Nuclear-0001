@@ -1,0 +1,12 @@
+# Compressing Human Body Video with Interactive Semantics: A Generative Approach
+
+**Authors:** Bolin Chen, Shanzhi Yin, Hanwei Zhu, Lingyu Zhu, Zihan Zhang, Jie Chen, Ru-Ling Liao, Shiqi Wang, Yan Ye
+
+## Summary
+In this paper, we propose to compress human body video with interactive semantics, which can facilitate video coding to be interactive and controllable by manipulating semantic-level representations embedded in the coded bitstream. In particular, the proposed encoder employs a 3D human model to disentangle nonlinear dynamics and complex motion of human body signal into a series of configurable embeddings, which are controllably edited, compactly compressed, and efficiently transmitted. Moreover, the proposed decoder can evolve the mesh-based motion fields from these decoded semantics to realize the high-quality human body video reconstruction. Experimental results illustrate that the proposed framework can achieve promising compression performance for human body videos at ultra-low bitrate ranges compared with the state-of-the-art video coding standard Versatile Video Coding (VVC) and the latest generative compression schemes. Furthermore, the proposed framework enables interactive human body video coding without any additional pre-/post-manipulation processes, which is expected to shed light on metaverse-related digital human communication in the future.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:14:16.213Z

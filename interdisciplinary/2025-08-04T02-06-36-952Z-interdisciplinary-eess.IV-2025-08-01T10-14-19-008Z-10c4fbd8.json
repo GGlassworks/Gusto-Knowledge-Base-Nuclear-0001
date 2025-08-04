@@ -1,0 +1,12 @@
+# Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach
+
+**Authors:** Meredith VandeHaar, M. Clinch, I. Yilmaz, M. A. Rahman, Y. Xiao, F. Dogany, H. M. Alazab, A. Nassar, Z. Akkus, B. Dangott
+
+## Summary
+Quality assurance is a critical but underexplored area in digital pathology, where even minor artifacts can have significant effects. Artifacts have been shown to negatively impact the performance of AI diagnostic models. In current practice, trained staff manually review digitized images prior to release of these slides to pathologists which are then used to render a diagnosis. Conventional image processing approaches, provide a foundation for detecting artifacts on digital pathology slides. However, current tools do not leverage deep learning, which has the potential to improve detection accuracy and scalability. Despite these advancements, methods for quality assurance in digital pathology remain limited, presenting a gap for innovation. We propose an AI algorithm designed to screen digital pathology slides by analyzing tiles and categorizing them into one of 10 predefined artifact types or as background. This algorithm identifies and localizes artifacts, creating a map that highlights regions of interest. By directing human operators to specific tiles affected by artifacts, the algorithm minimizes the time and effort required to manually review entire slides for quality issues. From internal archives and The Cancer Genome Atlas, 133 whole slide images were selected and 10 artifacts were annotated using an internally developed software ZAPP (Mayo Clinic, Jacksonville, FL). Ablation study of multiple models at different tile sizes and magnification was performed. InceptionResNet was selected. Single artifact models were trained and tested, followed by a limited multiple instance model with artifacts that performed well together (chatter, fold, and pen). From the results of this study we suggest a hybrid design for artifact screening composed of both single artifact binary models as well as multiple instance models to optimize detection of each artifact.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:14:19.009Z

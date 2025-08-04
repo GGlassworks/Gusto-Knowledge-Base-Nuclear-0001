@@ -1,0 +1,12 @@
+# DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery
+
+**Authors:** Yitong Sun, Zijian Zhou, Cyriel Diels, Ali Asadipour
+
+## Summary
+Despite the enhanced realism and immersion provided by VR headsets, users frequently encounter adverse effects such as digital eye strain (DES), dry eye, and potential long-term visual impairment due to excessive eye stimulation from VR displays and pressure from the mask. Recent VR headsets are increasingly equipped with eye-oriented monocular cameras to segment ocular feature maps. Yet, to compute the incident light stimulus and observe periocular condition alterations, it is imperative to transform these relative measurements into metric dimensions. To bridge this gap, we propose a lightweight framework derived from the U-Net 3+ deep learning backbone that we re-optimised, to estimate measurable periocular depth maps. Compatible with any VR headset equipped with an eye-oriented monocular camera, our method reconstructs three-dimensional periocular regions, providing a metric basis for related light stimulus calculation protocols and medical guidelines. Navigating the complexities of data collection, we introduce a Dynamic Periocular Data Generation (DPDG) environment based on UE MetaHuman, which synthesises thousands of training images from a small quantity of human facial scan data. Evaluated on a sample of 36 participants, our method exhibited notable efficacy in the periocular global precision evaluation experiment, and the pupil diameter measurement.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:21:11.048Z

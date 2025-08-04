@@ -1,0 +1,12 @@
+# The establishment of static digital humans and the integration with spinal models
+
+**Authors:** Fujiao Ju, Yuxuan Wang, Shuo Wang, Chengyin Wang, Yinbo Chen, Jianfeng Li, Mingjie Dong, Bin Fang, Qianyu Zhuang
+
+## Summary
+Adolescent idiopathic scoliosis (AIS), a prevalent spinal deformity, significantly affects individuals' health and quality of life. Conventional imaging techniques, such as X - rays, computed tomography (CT), and magnetic resonance imaging (MRI), offer static views of the spine. However, they are restricted in capturing the dynamic changes of the spine and its interactions with overall body motion. Therefore, developing new techniques to address these limitations has become extremely important. Dynamic digital human modeling represents a major breakthrough in digital medicine. It enables a three - dimensional (3D) view of the spine as it changes during daily activities, assisting clinicians in detecting deformities that might be missed in static imaging. Although dynamic modeling holds great potential, constructing an accurate static digital human model is a crucial initial step for high - precision simulations. In this study, our focus is on constructing an accurate static digital human model integrating the spine, which is vital for subsequent dynamic digital human research on AIS. First, we generate human point - cloud data by combining the 3D Gaussian method with the Skinned Multi - Person Linear (SMPL) model from the patient's multi - view images. Then, we fit a standard skeletal model to the generated human model. Next, we align the real spine model reconstructed from CT images with the standard skeletal model. We validated the resulting personalized spine model using X - ray data from six AIS patients, with Cobb angles (used to measure the severity of scoliosis) as evaluation metrics. The results indicate that the model's error was within 1 degree of the actual measurements. This study presents an important method for constructing digital humans.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:14:15.915Z

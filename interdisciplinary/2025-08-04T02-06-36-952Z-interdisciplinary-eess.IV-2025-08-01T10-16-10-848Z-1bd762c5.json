@@ -1,0 +1,12 @@
+# Automatic elimination of the pectoral muscle in mammograms based on anatomical features
+
+**Authors:** Jairo A. Ayala-Godoy, Rosa E. Lillo, Juan Romo
+
+## Summary
+Digital mammogram inspection is the most popular technique for early detection of abnormalities in human breast tissue. When mammograms are analyzed through a computational method, the presence of the pectoral muscle might affect the results of breast lesions detection. This problem is particularly evident in the mediolateral oblique view (MLO), where pectoral muscle occupies a large part of the mammography. Therefore, identifying and eliminating the pectoral muscle are essential steps for improving the automatic discrimination of breast tissue. In this paper, we propose an approach based on anatomical features to tackle this problem. Our method consists of two steps: (1) a process to remove the noisy elements such as labels, markers, scratches and wedges, and (2) application of an intensity transformation based on the Beta distribution. The novel methodology is tested with 322 digital mammograms from the Mammographic Image Analysis Society (mini-MIAS) database and with a set of 84 mammograms for which the area normalized error was previously calculated. The results show a very good performance of the method.
+
+
+---
+Category: interdisciplinary
+Subcategory: eess.IV
+Collected: 2025-08-01T10:16:10.848Z
