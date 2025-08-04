@@ -1,0 +1,13 @@
+# Data Mining and Fuzzy Data Mining Using MapReduce Algorithms
+
+**Authors:** Poli Venkata Subba Reddy
+
+## Abstract
+<jats:p>Data mining is knowledge discovery process. It has to deal with exact information and inexact information. Statistical methods deal with inexact information but it is based on likelihood. Zadeh fuzzy logic deals with inexact information but it is based on belief and it is simple to use. Fuzzy logic is used to deal with inexact information. Data mining consist methods and classifications. These methods and classifications are discussed for both exact and inexact information. Retrieval of information is important in data mining. The time and space complexity is high in big data. These are to be reduced. The time complexity is reduced through the consecutive retrieval (C-R) property and space complexity is reduced with blackboard systems. Data mining for web data based is discussed. In web data mining, the original data have to be disclosed. Fuzzy web data mining is discussed for security of data. Fuzzy web programming is discussed. Data mining, fuzzy data mining, and web data mining are discussed through MapReduce algorithms.</jats:p>
+
+**Source:** https://doi.org/10.5772/intechopen.92232
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:25:45.538Z

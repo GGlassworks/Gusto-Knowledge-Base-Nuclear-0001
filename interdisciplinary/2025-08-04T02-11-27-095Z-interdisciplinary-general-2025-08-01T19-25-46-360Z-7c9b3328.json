@@ -1,0 +1,13 @@
+# Data Mining Techniques on Earthquake Data
+
+**Authors:** Negar Sadat Soleimani Zakeri, Saeid Pashazadeh
+
+## Abstract
+<jats:p>Active faults are sources of earthquakes and one of them is north fault of Tabriz in the northwest of Iran. The activation of faults can harm humans' life and constructions. The analysis of the seismic data in active regions can be helpful in dealing with earthquake hazards and devising prevention strategies. In this chapter, structure of earthquake events along with application of various intelligent data mining algorithms for earthquake prediction are studied. Main focus is on categorizing the seismic data of local regions according to the events' location using clustering algorithms for classification and then using intelligent artificial neural network for cluster prediction. As a result, the target data were clustered to six groups and proposed model with 10 fold cross validation yielded accuracy of 98.3%. Also, as a case study, the tectonic stress on concentration zones of Tabriz fault has been identified and five features of the events were used. Finally, the most important points have been proposed for evaluation of the nonlinear model predictions as future directions. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-4666-8513-0.ch010
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:25:46.361Z

@@ -1,0 +1,13 @@
+# Introducing Data Structures for Big Data
+
+**Authors:** Ranjit Biswas
+
+## Abstract
+<jats:p>The homogeneous data structure ‘train' and the heterogeneous data structure ‘atrain' are the fundamental, very powerful dynamic and flexible data structures, being the first data structures introduced exclusively for big data. Thus ‘Data Structures for Big Data' is to be regarded as a new subject in Big Data Science, not just as a new topic, considering the explosive momentum of the big data. Based upon the notion of the big data structures train and atrain, the author introduces the useful data structures for the programmers working with big data which are: homogeneous stacks ‘train stack' and ‘rT-coach stack', heterogeneous stacks ‘atrain stack' and ‘rA-coach stack', homogeneous queues ‘train queue' and ‘rT-coach queue', heterogeneous queues ‘atrain queue' and ‘rA-coach queue', homogeneous binary trees ‘train binary tree' and ‘rT-coach binary tree', heterogeneous binary trees ‘atrain binary tree' and ‘rA-coach binary tree', homogeneous trees ‘train tree' and ‘rT-coach tree', heterogeneous trees ‘atrain tree' and ‘rA-coach tree', to enrich the subject ‘Data Structures for Big Data' for big data science. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-5225-0182-4.ch002
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:22:45.342Z

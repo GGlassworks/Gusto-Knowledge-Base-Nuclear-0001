@@ -1,0 +1,13 @@
+# Advanced Data Cleaning Pipelines for Big Data Analytics
+
+**Authors:** Arimondo Scrivano
+
+## Abstract
+<jats:p>In the era of big data, the analysis of vast and complex datasets hasbecome paramount for extracting valuable insights across diverse scientificdomains. A critical component of the data analytics pipeline is data clean-ing—an intricate process aimed at enhancing data quality through therectification of inaccuracies and inconsistencies. This review focuses onthe advanced methodologies involved in data cleaning, with an emphasison exploration techniques, handling of missing values, and feature selec-tion. Effective data cleaning pipelines are indispensable for ensuring thereliability and accuracy of downstream analytical processes. We explorecontemporary strategies for data exploration that facilitate the discoveryof data patterns and anomalies, enhancing the overall understanding ofdatasets. The review further discusses sophisticated techniques for manag-ing missing data, emphasizing both imputation methods and model-basedapproaches. Additionally, we analyze methodologies for effective featureselection, describing how they can be leveraged to improve model per-formance by reducing dimensionality and eliminating redundant features.Through a comprehensive review of these advanced data cleaning tech-niques, this article highlights the necessity of robust cleaning strategies inthe context of big data analytics, providing a roadmap for researchers andpractitioners to enhance data quality and optimize analytical outcomes.</jats:p>
+
+**Source:** https://doi.org/10.20944/preprints202507.1524.v1
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:19:44.054Z
