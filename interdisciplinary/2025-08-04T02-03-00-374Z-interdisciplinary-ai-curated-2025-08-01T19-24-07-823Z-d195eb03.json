@@ -1,0 +1,13 @@
+# Big Data Supported PSS Evaluation Decision in Service-Oriented Manufacturing
+
+**Authors:** Lianhui Li, Chunlei Mao
+
+## Abstract
+Product-service system (PSS) is an effective solution for service-oriented manufacturing. In the life cycle of PSS, evaluation decision of PSS alternatives is of great significance for subsequent implementation. Supported by the big data of stakeholder comments, a PSS evaluation decision technique is explored. Based on the multi-stakeholder comments of PSS evaluation decision’s influence factors, the index system considering the environmental effect is constructed through analyzing and summarizing the co-occurrence matrix and semantic network diagram of high-frequency words. To determine the index value of PSS alternative, the stakeholders’ vague opinions expressed by trapezoidal fuzzy number are fused. At last, PSS alternatives are evaluated by Kullback-Leibler divergence (KLD) modified TOPSIS. The case of PSS evaluation decision for a printer company shows that the explored technique is effective.
+
+**Source:** https://www.semanticscholar.org/paper/94b1f6d156678ece05ecc3249833cd73b2cb561f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:24:07.824Z

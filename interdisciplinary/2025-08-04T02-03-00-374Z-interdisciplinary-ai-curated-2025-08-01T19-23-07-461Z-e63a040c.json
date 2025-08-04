@@ -1,0 +1,13 @@
+# Data governance framework for big data implementation with NPS Case Analysis in Korea
+
+**Authors:** Hee Yeong Kim, June-Suh Cho
+
+## Abstract
+Information services based on Big Data analytics require data governance that can satisfy needs for corporate governance. While existing data governance focuses on data quality but Big Data governance needs to be established in consideration of a broad sense of Big Data services such as analysis of social trends and predictions of change. To achieve goals of Big Data services, strategies need to be established with alignment to the vision of the corporation. For successful implementation of Big Data services, there is needed a framework to enable initiation ofa Big Data project as a guide and method. We propose the Big Data Governance Framework to facilitate successful implementation in this study. Big Data governance framework presents additional criteria from existing data governance focused on data quality level. The Big Data governance framework focuses on timely, reliable, meaningful, and sufficient data services. The objective of Big Data services is what data attributes should be achieved based on Big Data analytics. In addition to the quality level of Big Data, personal information protection strategy and data disclosure/accountability strategy are needed to prevent problems. This study conducted case analysis about the National Pension Service (NPS) of South Korea based on the Big Data Governance Framework we propose. Big Data services in the public sector are an inevitable choice to improve quality of life of people. Big Data governance and its framework are essential components for the realization of Big Data services’ success. In case-analyses, we identified vulnerabilities or risk areas, and we hope that these case studies will be used as major references to implement Big Data services without problems. Corresponding author: June-Suh Cho Email addresses for corresponding author: jscho@hufs.ac.kr First submission received: 27th August 2017 Revised submission received: 30th October 2017 Accepted: 27th November 2017
+
+**Source:** https://www.semanticscholar.org/paper/7ecdca40029504061715245bca38b819fb78a37c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:23:07.461Z

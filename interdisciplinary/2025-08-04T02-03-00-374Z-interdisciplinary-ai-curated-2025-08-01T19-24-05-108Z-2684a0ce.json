@@ -1,0 +1,13 @@
+# Development of Models of Self-Reinforcing Effects for Big Data Evaluation
+
+**Authors:** Vladislav A. Kuznetsov, S. Kondratiuk, H. Kudin, Anatolii Kulyas, Iurii Krak, O. Barmak
+
+## Abstract
+This paper discusses the methods for big data evaluation such as analysis of self-reinforcing effects, that occur in the big data. Here we discuss an approach that describes the model of self-reinforcing effects using the feedback loop and apparatus from the theory of optimal control, that describes the big data system as an automated control system, that balances the self-reinforcing effects, that may affect the supply and short-term availability of the goods or services. Hence, the proposed model aims for the best ratio for system performance, evaluated from system parameters, as supply, number of transactions, demand, speed of restocking, as well as the synthetic parameters, that show its overall performance per time. Based on this data we suggest a model predictive control (MPC) regulator, that optimizes the different parameters of the system - efficiency, difference between the available stocks and the demand as well as controlling values. All these above form the optimization task, that can be scaled up or down in the optimization procedure, utilizing the linear and quadratic optimization procedures, if needed. In the last chapters of the paper we discuss the possible developments of the model, that utilize more sophisticated regulator of self reinforcing effects based on other procedure and write down some requirements for these model and possible derived models, based on it.
+
+**Source:** https://www.semanticscholar.org/paper/58e17b49f67a65e2625660539384e093be087641
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:24:05.109Z

@@ -1,0 +1,13 @@
+# Deriving Weight From Big Data: Comparison of Body Weight Measurement–Cleaning Algorithms
+
+**Authors:** Richard Evans, J. Burns, L. Damschroder, Ann Annis, Michelle B Freitag, S. Raffa, Wyndy Wiitala
+
+## Abstract
+Background Patient body weight is a frequently used measure in biomedical studies, yet there are no standard methods for processing and cleaning weight data. Conflicting documentation on constructing body weight measurements presents challenges for research and program evaluation. Objective In this study, we aim to describe and compare methods for extracting and cleaning weight data from electronic health record databases to develop guidelines for standardized approaches that promote reproducibility. Methods We conducted a systematic review of studies published from 2008 to 2018 that used Veterans Health Administration electronic health record weight data and documented the algorithms for constructing patient weight. We applied these algorithms to a cohort of veterans with at least one primary care visit in 2016. The resulting weight measures were compared at the patient and site levels. Results We identified 496 studies and included 62 (12.5%) that used weight as an outcome. Approximately 48% (27/62) included a replicable algorithm. Algorithms varied from cutoffs of implausible weights to complex models using measures within patients over time. We found differences in the number of weight values after applying the algorithms (71,961/1,175,995, 6.12% to 1,175,177/1,175,995, 99.93% of raw data) but little difference in average weights across methods (93.3, SD 21.0 kg to 94.8, SD 21.8 kg). The percentage of patients with at least 5% weight loss over 1 year ranged from 9.37% (4933/52,642) to 13.99% (3355/23,987). Conclusions Contrasting algorithms provide similar results and, in some cases, the results are not different from using raw, unprocessed data despite algorithm complexity. Studies using point estimates of weight may benefit from a simple cleaning rule based on cutoffs of implausible values; however, research questions involving weight trajectories and other, more complex scenarios may benefit from a more nuanced algorithm that considers all available weight data.
+
+**Source:** https://www.semanticscholar.org/paper/9bb56b357c31e47cb35b0531c0cc6f595ded5fd5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:25:03.730Z

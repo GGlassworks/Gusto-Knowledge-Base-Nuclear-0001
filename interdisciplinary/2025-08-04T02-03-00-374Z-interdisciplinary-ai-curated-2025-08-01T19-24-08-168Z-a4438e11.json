@@ -1,0 +1,13 @@
+# Evaluating classifier performance with highly imbalanced Big Data
+
+**Authors:** John T. Hancock, T. Khoshgoftaar, Justin M. Johnson
+
+## Abstract
+Using the wrong metrics to gauge classification of highly imbalanced Big Data may hide important information in experimental results. However, we find that analysis of metrics for performance evaluation and what they can hide or reveal is rarely covered in related works. Therefore, we address that gap by analyzing multiple popular performance metrics on three Big Data classification tasks. To the best of our knowledge, we are the first to utilize three new Medicare insurance claims datasets which became publicly available in 2021. These datasets are all highly imbalanced. Furthermore, the datasets are comprised of completely different data. We evaluate the performance of five ensemble learners in the Machine Learning task of Medicare fraud detection. Random Undersampling (RUS) is applied to induce five class ratios. The classifiers are evaluated with both the Area Under the Receiver Operating Characteristic Curve (AUC), and Area Under the Precision Recall Curve (AUPRC) metrics. We show that AUPRC provides a better insight into classification performance. Our findings reveal that the AUC metric hides the performance impact of RUS. However, classification results in terms of AUPRC show RUS has a detrimental effect. We show that, for highly imbalanced Big Data, the AUC metric fails to capture information about precision scores and false positive counts that the AUPRC metric reveals. Our contribution is to show AUPRC is a more effective metric for evaluating the performance of classifiers when working with highly imbalanced Big Data.
+
+**Source:** https://www.semanticscholar.org/paper/be73a34a3d5de9e7908b928cb09cd3d04a192bda
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:24:08.168Z

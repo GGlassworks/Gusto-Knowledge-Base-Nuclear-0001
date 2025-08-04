@@ -1,0 +1,13 @@
+# A Secure Data Evaluation and Publishing Technique for Big Data
+
+**Authors:** P. Patil
+
+## Abstract
+The number of applications is become large now in these days which are dealing with thousands of users in a second. Therefore, the data is such application is also collected and processed in large quantity. To deal with such data the big data technology is used that is combination of software and hardware for efficient data processing. The aim of the proposed work to address the different privacy and content sensitivity issues in big data environment. In addition, of that the effort is made for improving the content to prevent the data leakage during the content publishing in public domain. Therefore, the proposed work is contributed for designing an attribute key encryption technique that works on random attribute selection policy. The selected attribute is used for common key generation, which is used for the shared files. To generate the key for encryption the MD5 algorithm is used. Additionally for the encryption the efficient algorithm namely the AES algorithm is used. Secondly for identifying the sensitive content on the user’s text the NLP (natural language processing) based technique is applied. That technique is used to extract the part of speech information from the text and to identify the noun from the text. That are the target data which is need to be encrypted. After encryption of the target text, the data is again reformed for publishing. To implement the entire scenario the web application is used which is usage the Hadoop storage for preserving the data. After implementation, the performance of the system measured in terms of time and space complexity. According to the results, the performance of system found acceptable.
+
+**Source:** https://www.semanticscholar.org/paper/4e88c306bd51a5e2aacbab3ac821a067aa39b44e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:24:06.495Z

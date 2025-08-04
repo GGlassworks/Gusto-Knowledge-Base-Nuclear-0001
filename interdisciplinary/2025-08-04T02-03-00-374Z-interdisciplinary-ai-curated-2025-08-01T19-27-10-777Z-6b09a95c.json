@@ -1,0 +1,13 @@
+# Fraud Detection Using the Fraud Triangle Theory and Data Mining Techniques: A Literature Review
+
+**Authors:** Marco Sánchez-Aguayo, L. Urquiza-Aguiar, José Estrada-Jiménez
+
+## Abstract
+Fraud entails deception in order to obtain illegal gains; thus, it is mainly evidenced within financial institutions and is a matter of general interest. The problem is particularly complex, since perpetrators of fraud could belong to any position, from top managers to payroll employees. Fraud detection has traditionally been performed by auditors, who mainly employ manual techniques. These could take too long to process fraud-related evidence. Data mining, machine learning, and, as of recently, deep learning strategies are being used to automate this type of processing. Many related techniques have been developed to analyze, detect, and prevent fraud-related behavior, with the fraud triangle associated with the classic auditing model being one of the most important of these. This work aims to review current work related to fraud detection that uses the fraud triangle in addition to machine learning and deep learning techniques. We used the Kitchenham methodology to analyze the research works related to fraud detection from the last decade. This review provides evidence that fraud is an area of active investigation. Several works related to fraud detection using machine learning techniques were identified without the evidence that they incorporated the fraud triangle as a method for more efficient analysis.
+
+**Source:** https://www.semanticscholar.org/paper/99a1ecff1b3f6a4173fd1825ace81aa47c66b22b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:27:10.779Z

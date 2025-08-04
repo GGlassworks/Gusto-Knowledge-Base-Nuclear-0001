@@ -1,0 +1,13 @@
+# Partitioning subjects based on high-dimensional fMRI data: comparison of several clustering methods and studying the influence of ICA data reduction in big data
+
+**Authors:** J. Durieux, T. Wilderjans
+
+## Abstract
+In neuroscience, clustering subjects based on brain dysfunctions is a promising avenue to subtype mental disorders as it may enhance the development of a brain-based categorization system for mental disorders that transcends and is biologically more valid than current symptom-based categorization systems. As changes in functional connectivity (FC) patterns have been demonstrated to be associated with various mental disorders, one appealing approach in this regard is to cluster patients based on similarities and differences in FC patterns. To this end, researchers collect three-way fMRI data measuring neural activation over time for different patients at several brain locations and apply Independent Component Analysis (ICA) to extract FC patterns from the data. However, due to the three-way nature and huge size of fMRI data, classical (two-way) clustering methods are inadequate to cluster patients based on these FC patterns. Therefore, a two-step procedure is proposed where, first, ICA is applied to each patient’s fMRI data and, next, a clustering algorithm is used to cluster the patients into homogeneous groups in terms of FC patterns. As some clustering methods used operate on similarity data, the modified RV-coefficient is adopted to compute the similarity between patient specific FC patterns. An extensive simulation study demonstrated that performing ICA before clustering enhances the cluster recovery and that hierarchical clustering using Ward’s method outperforms complete linkage hierarchical clustering, Affinity Propagation and Partitioning Around Medoids. Moreover, the proposed two-step procedure appears to recover the underlying clustering better than (1) a two-step procedure that combines PCA with clustering and (2) Clusterwise SCA-ECP, which performs PCA and clustering in a simultaneous fashion. Additionally, the good performance of the proposed two-step procedure using ICA and Ward’s hierarchical clustering is illustrated in an empirical fMRI data set regarding dementia patients.
+
+**Source:** https://www.semanticscholar.org/paper/5b715ff6e21260eb02765c90ebacd198c0bd36cb
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:25:04.963Z

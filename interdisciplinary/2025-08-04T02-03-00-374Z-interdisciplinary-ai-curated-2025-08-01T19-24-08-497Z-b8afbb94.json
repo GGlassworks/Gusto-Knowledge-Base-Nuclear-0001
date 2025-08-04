@@ -1,0 +1,13 @@
+# A Context-Aware Service Evaluation Approach over Big Data for Cloud Applications
+
+**Authors:** Lianyong Qi, Wanchun Dou, Chunhua Hu, Yuming Zhou, Jiguo Yu
+
+## Abstract
+Cloud computing has promoted the success of big data applications such as medical data analyses. With the abundant resources provisioned by cloud platforms, the quality of service (QoS) of services that process big data could be boosted significantly. However, due to unstable network or fake advertisement, the QoS published by service providers is not always trusted. Therefore, it becomes a necessity to evaluate the service quality in a trustable way, based on the services’ historical QoS records. However, the evaluation efficiency would be low and cannot meet users’ quick response requirement, if all the records of a service are recruited for quality evaluation. Moreover, it may lead to ‘Lagging Effect’ or low evaluation accuracy, if all the records are treated equally, as the invocation contexts of different records are not exactly the same. In view of these challenges, a novel approach named Partial Historical Records-based service evaluation approach (Partial-HR) is put forward in this paper. In Partial-HR, each historical QoS record is weighted based on its service invocation context. Afterwards, only partial important records are employed for quality evaluation. Finally, a group of experiments are deployed to validate the feasibility of our proposal, in terms of evaluation accuracy and efficiency.
+
+**Source:** https://www.semanticscholar.org/paper/46d9c2741c02f59d3bf59829fc6391a177a394b9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:24:08.498Z

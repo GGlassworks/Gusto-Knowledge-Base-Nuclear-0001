@@ -1,0 +1,13 @@
+# An overview and comparison of free Python libraries for data mining and big data analysis
+
+**Authors:** Igor Stancin, A. Jović
+
+## Abstract
+The popularity of Python is growing, especially in the field of data science. Consequently, there is an increasing number of free libraries available for usage. The aim of this review paper is to describe and compare the characteristics of different data mining and big data analysis libraries in Python. There is currently no paper dealing with the subject and describing pros and cons of all these libraries. Here we consider more than 20 libraries and separate them into six groups: core libraries, data preparation, data visualization, machine learning, deep learning and big data. Beside functionalities of a certain library, important factors for comparison are the number of contributors developing and maintaining the library and the size of the community. Bigger communities mean larger chances for easily finding solution to a certain problem. We currently recommend: pandas for data preparation; Matplotlib, seaborn or Plotly for data visualization; scikit-learn for machine leraning; TensorFlow, Keras and PyTorch for deep learning; and Hadoop Streaming and PySpark for big data.
+
+**Source:** https://www.semanticscholar.org/paper/7893b84886938300dad02f6dc6154e026113bc12
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:25:07.112Z

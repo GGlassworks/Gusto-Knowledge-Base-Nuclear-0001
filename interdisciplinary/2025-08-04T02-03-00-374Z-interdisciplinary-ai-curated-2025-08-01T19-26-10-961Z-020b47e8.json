@@ -1,0 +1,13 @@
+# Privacy Preserving Data Mining
+
+**Authors:** J. Vaidya, Yu Zhu, C. Clifton
+
+## Abstract
+Recent interest in data collection and monitoring using data mining for security and business-related applications has raised privacy. Privacy Preserving Data Mining (PPDM) techniques require data modification to disinfect them from sensitive information or to anonymize them at an uncertainty level. This study uses PPDM with adult dataset to investigate effects of K-anonymization for evaluation metrics. This study uses Artificial Bee Colony (ABC) algorithm for feature generalization and suppression where features are removed without affecting classification accuracy. Also k-anonymity is accomplished by original dataset generalization.
+
+**Source:** https://www.semanticscholar.org/paper/123d00c6a664ea6d4da57d0d89d980dd02347c79
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:26:10.961Z
