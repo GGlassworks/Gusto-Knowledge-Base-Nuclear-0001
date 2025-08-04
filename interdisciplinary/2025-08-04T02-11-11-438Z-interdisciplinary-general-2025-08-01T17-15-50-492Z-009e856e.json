@@ -1,0 +1,13 @@
+# Metrics for Graph Comparison: A Practitioner’s Guide
+
+**Authors:** Peter Wills, François G. Meyer
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Comparison of graph structure is a ubiquitous task in data analysis and machine learning, with diverse applications in fields such as neuroscience [1], cyber security [2], social network analysis [3], and bioinformatics [4], among others. Discovery and comparison of structures such as modular communities, rich clubs, hubs, and trees in data in these fields yields insight into the generative mechanisms and functional properties of the graph.</jats:p><jats:p>Often, two graphs are compared via a pairwise distance measure, with a small distance indicating structural similarity and vice versa. Common choices include spectral distances (also known as<jats:italic>λ</jats:italic>distances) and distances based on node affinities (such as<jats:monospace>DeltaCon</jats:monospace>[5]). However, there has of yet been no comparative study of the efficacy of these distance measures in discerning between common graph topologies and different structural scales.</jats:p><jats:p>In this work, we compare commonly used graph metrics and distance measures, and demonstrate their ability to discern between common topological features found in both random graph models and empirical datasets. We put forward a multi-scale picture of graph structure, in which the effect of global and local structure upon the distance measures is considered. We make recommendations on the applicability of different distance measures to empirical graph data problem based on this multi-scale view. Finally, we introduce the Python library<jats:monospace>NetComp</jats:monospace>which implements the graph distances used in this work.</jats:p>
+
+**Source:** https://doi.org/10.1101/611509
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:15:50.492Z

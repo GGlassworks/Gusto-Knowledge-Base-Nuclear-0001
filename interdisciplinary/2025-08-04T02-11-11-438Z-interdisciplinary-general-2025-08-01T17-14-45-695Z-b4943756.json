@@ -1,0 +1,13 @@
+# State-of-the-art EEG artifact removal evaluation
+
+**Authors:** Zhenyu Jin
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:sec><jats:title>Object</jats:title><jats:p>Electroencephalography (EEG) signals suffer from a low signal-to-noise ratio and are very susceptible to muscular, ambient noise, and other artifacts. Many artifact removal algorithms have been proposed to address this problem. However, the evaluation of these algorithms is conventionally too indirect (e.g., black-box comparisons of brain-computer interface performance before and after removal) because it is unclear which part of the signal represents raw EEG and which is noise. This project objectively benchmarks popular artifact removal algorithms and evaluates the fundamental Independent Component Analysis (ICA) approach thanks to a unique dataset where EEG is recorded simultaneously with other physiological signals-facial electromyography (EMG), accelerometers, and gyroscope-while ten subjects perform several repetitions of common artifact-inflicting tasks (blinking, speaking, etc.).</jats:p></jats:sec><jats:sec><jats:title>Approach</jats:title><jats:p>I have compared the correlation between EEG signals and the artifact-representing channels before and after applying an artifact removal algorithm across the different artifact-inflicting tasks. The extent to which an artifact removal method can reduce this correlation objectively quantifies its effectiveness for the different artifacts. In the same direction, I have determined to what extent ICA successfully detects artefactual components in EEG by comparing the corresponding correlations for independent components that are labelled as artifacts with those labeled as EEG.</jats:p></jats:sec><jats:sec><jats:title>Main result</jats:title><jats:p>The FORCe was found to be the most effective and generic artifact removal method, cleaning almost 40% of artifacts. ICA is shown to be able to isolate almost 70% of artefactual components.</jats:p></jats:sec><jats:sec><jats:title>Significance</jats:title><jats:p>This work alleviates the problem of unreliable evaluation of EEG artifact removal frameworks and provides the first reliable benchmark for the most popular algorithms in this literature.</jats:p></jats:sec>
+
+**Source:** https://doi.org/10.1101/2021.10.23.465532
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:14:45.695Z

@@ -1,0 +1,13 @@
+# A reduction methodology for fluctuation driven population dynamics
+
+**Authors:** Denis Goldobin, Matteo di Volo, Alessandro Torcini
+
+## Abstract
+<jats:p>Lorentzian distributions have been largely employed in statistical mechanics to obtain exact results for heterogeneous systems. Analytic continuation of these results is impossible even for slightly deformed Lorentzian distributions, due to the divergence of all the moments (cumulants). We have solved this problem by introducing a<jats:italic>pseudo-cumulants’</jats:italic>expansion. This allows us to develop a reduction methodology for heterogeneous spiking neural networks subject to extrinsinc and endogenous fluctuations, thus obtaining an unified mean-field formulation encompassing quenched and dynamical disorder sources.</jats:p>
+
+**Source:** https://doi.org/10.1101/2021.01.28.428565
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T17:09:41.274Z
