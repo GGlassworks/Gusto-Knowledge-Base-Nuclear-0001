@@ -1,0 +1,12 @@
+# Discrete, recurrent, and scalable patterns in human judgement underlie affective picture ratings
+
+**Authors:** Emanuel A. Azcona, Byoung-Woo Kim, Nicole L. Vike, Sumra Bari, Shamal Lalvani, Leandros Stefanopoulos, Sean Woodward, Martin Block, Aggelos K. Katsaggelos, Hans C. Breiter
+
+## Summary
+Operant keypress tasks, where each action has a consequence, have been analogized to the construct of "wanting" and produce lawful relationships in humans that quantify preferences for approach and avoidance behavior. It is unknown if rating tasks without an operant framework, which can be analogized to "liking", show similar lawful relationships. We studied three independent cohorts of participants (N = 501, 506, and 4,019 participants) collected by two distinct organizations, using the same 7-point Likert scale to rate negative to positive preferences for pictures from the International Affective Picture Set. Picture ratings without an operant framework produced similar value functions, limit functions, and trade-off functions to those reported in the literature for operant keypress tasks, all with goodness of fits above 0.75. These value, limit, and trade-off functions were discrete in their mathematical formulation, recurrent across all three independent cohorts, and demonstrated scaling between individual and group curves. In all three experiments, the computation of loss aversion showed 95% confidence intervals below the value of 2, arguing against a strong overweighting of losses relative to gains, as has previously been reported for keypress tasks or games of chance with calibrated uncertainty. Graphed features from the three cohorts were similar and argue that preference assessments meet three of four criteria for lawfulness, providing a simple, short, and low-cost method for the quantitative assessment of preference without forced choice decisions, games of chance, or operant keypressing. This approach can easily be implemented on any digital device with a screen (e.g., cellphones).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:21.249Z

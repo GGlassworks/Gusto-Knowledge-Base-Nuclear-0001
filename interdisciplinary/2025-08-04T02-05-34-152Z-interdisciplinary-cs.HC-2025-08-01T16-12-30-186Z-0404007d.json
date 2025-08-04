@@ -1,0 +1,12 @@
+# Performance Level Evaluation Model based on ELM
+
+**Authors:** Qian Mei
+
+## Summary
+Human factor evaluation is crucial in designing civil aircraft cockpits. This process relies on the physiological and cognitive characteristics of the flight crew to ensure that the cockpit design aligns with their capabilities and enhances flight safety. Modern physiological data acquisition and analysis technology, developed to replace traditional subjective human evaluation, has become an effective method for verifying and evaluating cockpit human factors design. Given the high-dimensional and complex nature of pilot physiological signals, these uncertainties significantly impact pilot performance. This paper proposes a pilot performance evaluation model based on an Extreme Learning Machine (ELM) to predict flight performance through pilots' physiological signals and further explores the quantitative relationship between human factors and civil aviation safety.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T16:12:30.186Z

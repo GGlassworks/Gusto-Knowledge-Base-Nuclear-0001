@@ -1,0 +1,12 @@
+# RSVP for VPSA : A Meta Design Study on Rapid Suggestive Visualization Prototyping for Visual Parameter Space Analysis
+
+**Authors:** Manfred Klaffenboeck, Michael Gleicher, Johannes Sorger, Michael Wimmer, Torsten Möller
+
+## Summary
+Visual Parameter Space Analysis (VPSA) enables domain scientists to explore input-output relationships of computational models. Existing VPSA applications often feature multi-view visualizations designed by visualization experts for a specific scenario, making it hard for domain scientists to adapt them to their problems without professional help. We present RSVP, the Rapid Suggestive Visualization Prototyping system encoding VPSA knowledge to enable domain scientists to prototype custom visualization dashboards tailored to their specific needs. The system implements a task-oriented, multi-view visualization recommendation strategy over a visualization design space optimized for VPSA to guide users in meeting their analytical demands. We derived the VPSA knowledge implemented in the system by conducting an extensive meta design study over the body of work on VPSA. We show how this process can be used to perform a data and task abstraction, extract a common visualization design space, and derive a task-oriented VisRec strategy. User studies indicate that the system is user-friendly and can uncover novel insights.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:45:00.102Z

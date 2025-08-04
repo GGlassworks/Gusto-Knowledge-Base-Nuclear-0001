@@ -1,0 +1,12 @@
+# Reducing the Human Factor in Virtual Reality Research to Increase Reproducibility and Replicability
+
+**Authors:** Daniel Hepperle, Tobias Dienlin, Matthias Wölfel
+
+## Summary
+The replication crisis is real, and awareness of its existence is growing across disciplines. We argue that research in human-computer interaction (HCI), and especially virtual reality (VR), is vulnerable to similar challenges due to many shared methodologies, theories, and incentive structures. For this reason, in this work, we transfer established solutions from other fields to address the lack of replicability and reproducibility in HCI and VR. We focus on reducing errors resulting from the so-called human factor and adapt established solutions to the specific needs of VR research. In addition, we present a toolkit to support the setup, execution, and evaluation of VR research. Some of the features aim to reduce human errors and thus improve replicability and reproducibility. Finally, the identified chances are applied to a typical scientific process in VR.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:35.405Z

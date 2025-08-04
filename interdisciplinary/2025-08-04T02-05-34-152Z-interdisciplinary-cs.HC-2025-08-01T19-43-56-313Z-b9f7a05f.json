@@ -1,0 +1,12 @@
+# Manipulable Semantic Components: a Computational Representation of Data Visualization Scenes
+
+**Authors:** Zhicheng Liu, Chen Chen, John Hooker
+
+## Summary
+Various data visualization applications such as reverse engineering and interactive authoring require a vocabulary that describes the structure of visualization scenes and the procedure to manipulate them. A few scene abstractions have been proposed, but they are restricted to specific applications for a limited set of visualization types. A unified and expressive model of data visualization scenes for different applications has been missing. To fill this gap, we present Manipulable Semantic Components (MSC), a computational representation of data visualization scenes, to support applications in scene understanding and augmentation. MSC consists of two parts: a unified object model describing the structure of a visualization scene in terms of semantic components, and a set of operations to generate and modify the scene components. We demonstrate the benefits of MSC in three applications: visualization authoring, visualization deconstruction and reuse, and animation specification.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:43:56.313Z

@@ -1,0 +1,12 @@
+# Human Behavior Simulation: Objectives, Methodologies, and Open Problems
+
+**Authors:** Zhang Guozhen, Yu Zihan, Li Nian, Yu Fudan, Long Qingyue, Jin Depeng, Li Yong
+
+## Summary
+In recent years, human behavior simulation has drawn increasing attention from both academia and industry. The reasons fall into two aspects. First, simulation serves as a critical tool for understanding human behaviors, which has become one of the most important research topics in the history. Second, researchers have gradually reached a consensus that simulation, especially human behavior simulation, is critical for real-world decision-making systems. As a result, lots of human behavior simulation research and applications have sprung up across numerous disciplines in the past few years. In addition to the traditional methods, such as building mathematical and physical models, leveraging the recent advances of deep learning techniques -- especially the nascent Large Language Model technology -- for accurate human behavior simulation has also been one of the hottest research topics. In this study, we provide a comprehensive review of the latest research advancements in human behavior simulation. We summarize the objectives, problem formulations, and commonly used methods and discuss the consistency in the development of related research in different disciplines, which reveals the gaps and opportunities for high-impact research in this promising direction.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:42.507Z

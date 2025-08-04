@@ -1,0 +1,12 @@
+# The Flaws of Policies Requiring Human Oversight of Government Algorithms
+
+**Authors:** Ben Green
+
+## Summary
+As algorithms become an influential component of government decision-making around the world, policymakers have debated how governments can attain the benefits of algorithms while preventing the harms of algorithms. One mechanism that has become a centerpiece of global efforts to regulate government algorithms is to require human oversight of algorithmic decisions. Despite the widespread turn to human oversight, these policies rest on an uninterrogated assumption: that people are able to effectively oversee algorithmic decision-making. In this article, I survey 41 policies that prescribe human oversight of government algorithms and find that they suffer from two significant flaws. First, evidence suggests that people are unable to perform the desired oversight functions. Second, as a result of the first flaw, human oversight policies legitimize government uses of faulty and controversial algorithms without addressing the fundamental issues with these tools. Thus, rather than protect against the potential harms of algorithmic decision-making in government, human oversight policies provide a false sense of security in adopting algorithms and enable vendors and agencies to shirk accountability for algorithmic harms. In light of these flaws, I propose a shift from human oversight to institutional oversight as the central mechanism for regulating government algorithms. This institutional approach operates in two stages. First, agencies must justify that it is appropriate to incorporate an algorithm into decision-making and that any proposed forms of human oversight are supported by empirical evidence. Second, these justifications must receive democratic public review and approval before the agency can adopt the algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:18:32.814Z

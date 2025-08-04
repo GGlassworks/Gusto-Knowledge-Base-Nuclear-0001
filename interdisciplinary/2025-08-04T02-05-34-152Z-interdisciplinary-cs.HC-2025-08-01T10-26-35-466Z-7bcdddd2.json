@@ -1,0 +1,12 @@
+# Building Trustworthy Cognitive Monitoring for Safety-Critical Human Tasks: A Phased Methodological Approach
+
+**Authors:** Maciej Grzeszczuk, Grzegorz Pochwatko, Barbara Karpowicz, Stanisław Knapiński, Wiesław Kopeć
+
+## Summary
+Operators performing high-stakes, safety-critical tasks - such as air traffic controllers, surgeons, or mission control personnel - must maintain exceptional cognitive performance under variable and often stressful conditions. This paper presents a phased methodological approach to building cognitive monitoring systems for such environments. By integrating insights from human factors research, simulation-based training, sensor technologies, and fundamental psychological principles, the proposed framework supports real-time performance assessment with minimum intrusion. The approach begins with simplified simulations and evolves towards operational contexts. Key challenges addressed include variability in workload, the effects of fatigue and stress, thus the need for adaptive monitoring for early warning support mechanisms. The methodology aims to improve situational awareness, reduce human error, and support decision-making without undermining operator autonomy. Ultimately, the work contributes to the development of resilient and transparent systems in domains where human performance is critical to safety.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:35.467Z

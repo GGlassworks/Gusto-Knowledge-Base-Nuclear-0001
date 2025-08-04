@@ -1,0 +1,12 @@
+# A 'one-size-fits-most' walking recognition method for smartphones, smartwatches, and wearable accelerometers
+
+**Authors:** Marcin Straczkiewicz, Emily J. Huang, Jukka-Pekka Onnela
+
+## Summary
+The ubiquity of personal digital devices offers unprecedented opportunities to study human behavior. Current state-of-the-art methods quantify physical activity using 'activity counts,' a measure which overlooks specific types of physical activities. We proposed a walking recognition method for sub-second tri-axial accelerometer data, in which activity classification is based on the inherent features of walking: intensity, periodicity, and duration. We validated our method against 20 publicly available, annotated datasets on walking activity data collected at various body locations (thigh, waist, chest, arm, wrist). We demonstrated that our method can estimate walking periods with high sensitivity and specificity: average sensitivity ranged between 0.92 and 0.97 across various body locations, and average specificity for common daily activities was typically above 0.95. We also assessed the method's algorithmic fairness to demographic and anthropometric variables and measurement contexts (body location, environment). Finally, we have released our method as open-source software in MATLAB and Python.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:18:31.114Z

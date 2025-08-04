@@ -1,0 +1,12 @@
+# Validation of Consumer-grade Digital Camera-based Human Activity Evaluation for Upper Limb Exercises and Development of a Therapist-guided, Automated Telerehabilitation Framework and Platform for Stroke Rehabilitation
+
+**Authors:** Elton H. L. Yeung, Yingxian Chen, Wilton W. T. Fok, Gary K. K. Lau
+
+## Summary
+Timely and adequate rehabilitation is critical in facilitating post-stroke recovery. However, the organization and delivery of rehabilitation are resource-demanding, and are only available to approximately 25% of stroke survivors in low-to-middle-income countries. Improving access to stroke rehabilitation services through innovative solutions is therefore urgently required. Tele-rehabilitation, which transits care to home- and community settings, has emerged as a promising solution. However, current approaches using video tutorial, teleconference, or other specialized devices face inherent shortfalls that limit their uptake. In this study, we proposed and validated the use of an open-source, markerless motion capture model with consumer-grade devices to overcome these challenges. Our solution enables reliable measurement of the end range of motion during upper limb exercises with near-perfect waveform similarity and intraclass correlation to that of the gold standard Kinect approach. Our multidisciplinary team developed an automated telerehabilitation framework incorporating the validated markerless technique to facilitate a seamless telerehabilitation process. It enables personalized rehabilitation plans with real-time feedback, and individual progress reports using objective quantitative and qualitative features to improve patient monitoring and management, and home-based rehabilitation service uptake and compliance. This study serves as a proof-of-concept in preparation for the future development of a detailed model of care, and feasibility, usability, and cost-effectiveness studies of an automated telerehabilitation platform and framework in improving the state of post-stroke rehabilitation and functional outcome.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:12.571Z

@@ -1,0 +1,12 @@
+# A foolish consistency? Aligning interface objects hinders location recall and may induce collinear errors
+
+**Authors:** Peter Zelchenko, Li Xiangqian, Fu Xiaohan, Alex Ivanov, Zhenyu Gu
+
+## Summary
+During our nearly constant use of digital devices, perhaps our most frequent need is to visually identify icons representing our content and invoke the actions to manipulate them. Almost since the inception of user interface design in the 1970s, with rare exception it has become the tendency for programmers to prescribe the arrangement these things in uniform rectilinear rows and columns. This was imported from theories for print design and ultimately brought into widespread practice for graphical user interfaces (GUIs). Whether consistent rectilinearity actually does better than less rectilinear arrangements to maximize selection efficiency has not been challenged on considerations of speed or any other measure. In a series of four experiments, we explore how alignment may in fact discourage easy recallability of screen object locations and hence increase search intensity. A second objective is to present a methodological model where we deliberately attempt to begin with psychophysical cognitive evidence at the environmental schematic low end (beginning with contextual cueing paradigm), then move progressively upwards in naturalism in the experiments to something that approximates actual human work at the higher end, all along attempting to keep one important environmental property constant. Two experiments using contextual cueing paradigm confirm that collinearly aligned arrays do not encourage recallability of location, while noncollinear arrays appear to create traces that can be recalled automatically. Two other experiments give further demonstration of explicit recollection and location recall, showing that collinear arrangements may in fact induce location recall errors to neighboring collinear objects. We discuss surrounding theoretical, historical, and practical questions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:22.837Z

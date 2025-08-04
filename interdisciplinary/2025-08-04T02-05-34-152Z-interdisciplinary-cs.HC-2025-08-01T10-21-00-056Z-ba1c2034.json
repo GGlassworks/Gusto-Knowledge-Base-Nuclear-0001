@@ -1,0 +1,12 @@
+# Mod2Dash: A Framework for Model-Driven Dashboards Generation
+
+**Authors:** Liuyue Jiang, Nguyen Khoi Tran, M. Ali Babar
+
+## Summary
+The construction of an interactive dashboard involves deciding on what information to present and how to display it and implementing those design decisions to create an operational dashboard. Traditionally, a dashboard's design is implied in the deployed dashboard rather than captured explicitly as a digital artifact, preventing it from being backed up, version-controlled, and shared. Moreover, practitioners have to implement this implicit design manually by coding or configuring it on a dashboard platform. This paper proposes Mod2Dash, a software framework that enables practitioners to capture their dashboard designs as models and generate operational dashboards automatically from these models. The framework also provides a GUI-driven customization approach for practitioners to fine-tune the auto-generated dashboards and update their models. With these abilities, Mod2Dash enables practitioners to rapidly prototype and deploy dashboards for both operational and research purposes. We evaluated the framework's effectiveness in a case study on cyber security visualization for decision support. A proof-of-concept of Mod2Dash was employed to model and reconstruct 31 diverse real-world cyber security dashboards. A human-assisted comparison between the Mod2Dash-generated dashboards and the baseline dashboards shows a close matching, indicating the framework's effectiveness for real-world scenarios.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:00.056Z

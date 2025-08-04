@@ -1,0 +1,12 @@
+# Quantitative Analysis of Objects in Prisoner Artworks
+
+**Authors:** Thea Christoffersen, Annika Tidemand Jensen, Chris Hall, Christofer Meinecke, Stefan Jänicke
+
+## Summary
+Prisoners of Nazi concentration camps created paintings as a means to express their daily life experiences and feelings. Several thousand such paintings exist, but a quantitative analysis of them has not been carried out. We created an extensive dataset of 1,939 Holocaust prisoner artworks, and we employed an object detection framework that found 19,377 objects within these artworks. To support the quantitative and qualitative analysis of the art collection and its objects, we have developed an intuitive and interactive dashboard to promote a deeper engagement with these visual testimonies. The dashboard features various visual interfaces, e.g., a word cloud showing the detected objects and a map of artwork origins, and options for filtering. We presented the interface to domain experts, whose feedback highlights the dashboard's intuitiveness and potential for both quantitative and qualitative analysis while also providing relevant suggestions for improvement. Our project demonstrates the benefit of digital methods such as machine learning and visual analytics for Holocaust remembrance and educational purposes.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:01.026Z

@@ -1,0 +1,12 @@
+# Human Trust-based Feedback Control: Dynamically varying automation transparency to optimize human-machine interactions
+
+**Authors:** Kumar Akash, Griffon McMahon, Tahira Reid, Neera Jain
+
+## Summary
+Human trust in automation plays an essential role in interactions between humans and automation. While a lack of trust can lead to a human's disuse of automation, over-trust can result in a human trusting a faulty autonomous system which could have negative consequences for the human. Therefore, human trust should be calibrated to optimize human-machine interactions with respect to context-specific performance objectives. In this article, we present a probabilistic framework to model and calibrate a human's trust and workload dynamics during his/her interaction with an intelligent decision-aid system. This calibration is achieved by varying the automation's transparency---the amount and utility of information provided to the human. The parameterization of the model is conducted using behavioral data collected through human-subject experiments, and three feedback control policies are experimentally validated and compared against a non-adaptive decision-aid system. The results show that human-automation team performance can be optimized when the transparency is dynamically updated based on the proposed control policy. This framework is a first step toward widespread design and implementation of real-time adaptive automation for use in human-machine interactions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:22.710Z

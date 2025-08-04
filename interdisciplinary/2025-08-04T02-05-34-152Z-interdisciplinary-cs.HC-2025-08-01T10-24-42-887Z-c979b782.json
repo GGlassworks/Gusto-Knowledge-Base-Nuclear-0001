@@ -1,0 +1,12 @@
+# Feel my Speech: Automatic Speech Emotion Conversion for Tangible, Haptic, or Proxemic Interaction Design
+
+**Authors:** Ilhan Aslan
+
+## Summary
+Innovations in interaction design are increasingly driven by progress in machine learning fields. Automatic speech emotion recognition (SER) is such an example field on the rise, creating well performing models, which typically take as input a speech audio sample and provide as output digital labels or values describing the human emotion(s) embedded in the speech audio sample. Such labels and values are only abstract representations of the felt or expressed emotions, making it challenging to analyse them as experiences and work with them as design material for physical interactions, including tangible, haptic, or proxemic interactions. This paper argues that both the analysis of emotions and their use in interaction designs would benefit from alternative physical representations, which can be directly felt and socially communicated as bodily sensations or spatial behaviours. To this end, a method is described and a starter kit for speech emotion conversion is provided. Furthermore, opportunities of speech emotion conversion for new interaction designs are introduced, such as for interacting with animals or robots.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:24:42.887Z

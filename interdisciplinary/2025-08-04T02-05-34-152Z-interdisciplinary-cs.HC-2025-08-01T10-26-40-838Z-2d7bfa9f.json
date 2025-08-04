@@ -1,0 +1,12 @@
+# Natural Interaction Modalities for Human-CPS Interaction in Construction Progress Monitoring
+
+**Authors:** Srijeet Halder, Kereshmeh Afsari, Alireza Shojaei
+
+## Summary
+This article explores natural interaction modalities for human-cyber-physical systems (CPS) interaction in construction. CPS has been applied in construction for many purposes with the promise of improving the safety and productivity of construction operations. However, there is little research on human-CPS interaction in construction. This study proposes two methodologies for human-CPS interactions for construction progress monitoring - a) hand gesture interaction using transfer learning, and b) voice command interaction using natural language processing. User studies with thirty-two users validated the generalizability of the proposed methodologies. The proposed hand gesture recognition method achieved higher accuracy (99.69% vs 87.72%) and speed (36.05ms vs 578.91ms) than the proposed voice command recognition method, though users performed the progress monitoring task more correctly with voice commands than hand gestures (88% vs 66.1%). The main contribution of the study is the development of an ML pipeline and computational framework to recognize hand gestures and voice commands without the need for a large training dataset for human-CPS interaction.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:40.839Z

@@ -1,0 +1,12 @@
+# A Review on Dyadic Conversation Visualizations - Purposes, Data, Lens of Analysis
+
+**Authors:** Joshua Y. Kim, Rafael A. Calvo, Kalina Yacef, N. J. Enfield
+
+## Summary
+Many professional services are provided through text and voice systems, from voice calls over the internet to messaging and emails. There is a growing need for both individuals and organizations to understand these online conversations better and find actionable insights. One method that allows the user to explore insights is to build intuitive and rich visualizations that illustrate the content of the conversation. In this paper, we present a systematic survey of the various methods of visualizing a conversation and research papers involving interactive visualizations and human participants. Findings from the survey show that there have been attempts to visualize most, if not all, of the types of conversation that are taking place digitally, from speech to messages and emails. Through this survey, we make two contributions. One, we summarize the current practices in the domain of visualizing dyadic conversations. Two, we provide suggestions for future dialogue visualization research.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:24:43.748Z

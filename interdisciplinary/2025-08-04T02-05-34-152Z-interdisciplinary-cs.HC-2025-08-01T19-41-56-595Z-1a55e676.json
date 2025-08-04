@@ -1,0 +1,12 @@
+# The Visualization JUDGE : Can Multimodal Foundation Models Guide Visualization Design Through Visual Perception?
+
+**Authors:** Matthew Berger, Shusen Liu
+
+## Summary
+Foundation models for vision and language are the basis of AI applications across numerous sectors of society. The success of these models stems from their ability to mimic human capabilities, namely visual perception in vision models, and analytical reasoning in large language models. As visual perception and analysis are fundamental to data visualization, in this position paper we ask: how can we harness foundation models to advance progress in visualization design? Specifically, how can multimodal foundation models (MFMs) guide visualization design through visual perception? We approach these questions by investigating the effectiveness of MFMs for perceiving visualization, and formalizing the overall visualization design and optimization space. Specifically, we think that MFMs can best be viewed as judges, equipped with the ability to criticize visualizations, and provide us with actions on how to improve a visualization. We provide a deeper characterization for text-to-image generative models, and multi-modal large language models, organized by what these models provide as output, and how to utilize the output for guiding design decisions. We hope that our perspective can inspire researchers in visualization on how to approach MFMs for visualization design.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:41:56.595Z

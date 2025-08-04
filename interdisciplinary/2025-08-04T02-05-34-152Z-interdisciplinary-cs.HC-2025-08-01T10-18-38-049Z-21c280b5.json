@@ -1,0 +1,12 @@
+# Refining Human-Centered Autonomy Using Side Information
+
+**Authors:** Adam J. Thorpe
+
+## Summary
+Data-driven algorithms for human-centered autonomy use observed data to compute models of human behavior in order to ensure safety, correctness, and to avoid potential errors that arise at runtime. However, such algorithms often neglect useful a priori knowledge, known as side information, that can improve the quality of data-driven models. We identify several key challenges in human-centered autonomy, and identify possible approaches to incorporate side information in data-driven models of human behavior.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:18:38.049Z

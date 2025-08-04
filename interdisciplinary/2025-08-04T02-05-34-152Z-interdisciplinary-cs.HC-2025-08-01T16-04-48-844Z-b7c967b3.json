@@ -1,0 +1,12 @@
+# State of the Art of Augmented Reality (AR) Capabilities for Civil Infrastructure Applications
+
+**Authors:** Jiaqi Xu, Derek Doyle, Fernando Moreu
+
+## Summary
+Augmented Reality (AR) is a technology superimposing interactional virtual objects onto a real environment. Since the beginning of the millennium, AR technologies have shown rapid growth, with significant research publications in engineering and science. However, the civil infrastructure community has minimally implemented AR technologies to date. One of the challenges that civil engineers face when understanding and using AR is the lack of a classification of AR in the context of capabilities for civil infrastructure applications. Practitioners in civil infrastructure, like most engineering fields, prioritize understanding the level of maturity of a new technology before considering its adoption and field implementation. This paper compares the capabilities of sixteen AR Head-Mounted Devices (HMDs) available in the market since 2017, ranking them in terms of performance for civil infrastructure implementations. Finally, the authors recommend a development framework for practical AR interfaces with civil infrastructure and operations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T16:04:48.845Z

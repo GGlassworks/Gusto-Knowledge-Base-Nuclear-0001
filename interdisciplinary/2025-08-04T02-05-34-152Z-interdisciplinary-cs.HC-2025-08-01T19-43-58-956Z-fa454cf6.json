@@ -1,0 +1,12 @@
+# Visilence: An Interactive Visualization Tool for Error Resilience Analysis
+
+**Authors:** Shaolun Ruan, Yong Wang, Qiang Guan
+
+## Summary
+Soft errors have become one of the major concerns for HPC applications, as those errors can result in seriously corrupted outcomes, such as silent data corruptions (SDCs). Prior studies on error resilience have studied the robustness of HPC applications. However, it is still difficult for program developers to identify potential vulnerability to soft errors. In this paper, we present Visilence, a novel visualization tool to visually analyze error vulnerability based on the control-flow graph generated from HPC applications. Visilence efficiently visualizes the affected program states under injected errors and presents the visual analysis of the most vulnerable parts of an application. We demonstrate the effectiveness of Visilence through a case study.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:43:58.956Z

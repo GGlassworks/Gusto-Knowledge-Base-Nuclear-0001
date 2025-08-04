@@ -1,0 +1,12 @@
+# LLM-based Frameworks for Power Engineering from Routine to Novel Tasks
+
+**Authors:** Ran Li, Chuanqing Pu, Junyi Tao, Canbing Li, Feilong Fan, Yue Xiang, Sijie Chen
+
+## Summary
+The digitalization of energy sectors has expanded the coding responsibilities for power engineers and researchers. This research article explores the potential of leveraging Large Language Models (LLMs) to alleviate this burden. Here, we propose LLM-based frameworks for different programming tasks in power systems. For well-defined and routine tasks like the classic unit commitment (UC) problem, we deploy an end-to-end framework to systematically assesses four leading LLMs-ChatGPT 3.5, ChatGPT 4.0, Claude and Google Bard in terms of success rate, consistency, and robustness. For complex tasks with limited prior knowledge, we propose a human-in-the-loop framework to enable engineers and LLMs to collaboratively solve the problem through interactive-learning of method recommendation, problem de-composition, subtask programming and synthesis. Through a comparative study between two frameworks, we find that human-in-the-loop features like web access, problem decomposition with field knowledge and human-assisted code synthesis are essential as LLMs currently still fall short in acquiring cutting-edge and domain-specific knowledge to complete a holistic problem-solving project.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:20:58.607Z

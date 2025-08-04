@@ -1,0 +1,12 @@
+# From Reality to Recognition: Evaluating Visualization Analogies for Novice Chart Comprehension
+
+**Authors:** Oliver Huang, Patrick Lee, Carolina Nobre
+
+## Summary
+Novice learners often have difficulty learning new visualization types because they tend to interpret novel visualizations through the mental models of simpler charts they have previously encountered. Traditional visualization teaching methods, which usually rely on directly translating conceptual aspects of data into concrete data visualizations, often fail to attend to the needs of novice learners navigating this tension. To address this, we conducted an empirical exploration of how analogies can be used to help novices with chart comprehension. We introduced visualization analogies: visualizations that map data structures to real-world contexts to facilitate an intuitive understanding of novel chart types. We evaluated this pedagogical technique using a within-subject study (N=128) where we taught 8 chart types using visualization analogies. Our findings show that visualization analogies improve visual analysis skills and help learners transfer their understanding to actual charts. They effectively introduce visual embellishments, cater to diverse learning preferences, and are preferred by novice learners over traditional chart visualizations. This study offers empirical insights and open-source tools to advance visualization education through analogical reasoning.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:47:00.882Z

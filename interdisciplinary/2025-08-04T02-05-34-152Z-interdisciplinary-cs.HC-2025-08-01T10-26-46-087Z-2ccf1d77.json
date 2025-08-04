@@ -1,0 +1,12 @@
+# Write, Rank, or Rate: Comparing Methods for Studying Visualization Affordances
+
+**Authors:** Chase Stokes, Kylie Lin, Cindy Xiong Bearfield
+
+## Summary
+A growing body of work on visualization affordances highlights how specific design choices shape reader takeaways from information visualizations. However, mapping the relationship between design choices and reader conclusions often requires labor-intensive crowdsourced studies, generating large corpora of free-response text for analysis. To address this challenge, we explored alternative scalable research methodologies to assess chart affordances. We test four elicitation methods from human-subject studies: free response, visualization ranking, conclusion ranking, and salience rating, and compare their effectiveness in eliciting reader interpretations of line charts, dot plots, and heatmaps. Overall, we find that while no method fully replicates affordances observed in free-response conclusions, combinations of ranking and rating methods can serve as an effective proxy at a broad scale. The two ranking methodologies were influenced by participant bias towards certain chart types and the comparison of suggested conclusions. Rating conclusion salience could not capture the specific variations between chart types observed in the other methods. To supplement this work, we present a case study with GPT-4o, exploring the use of large language models (LLMs) to elicit human-like chart interpretations. This aligns with recent academic interest in leveraging LLMs as proxies for human participants to improve data collection and analysis efficiency. GPT-4o performed best as a human proxy for the salience rating methodology but suffered from severe constraints in other areas. Overall, the discrepancies in affordances we found between various elicitation methodologies, including GPT-4o, highlight the importance of intentionally selecting and combining methods and evaluating trade-offs.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:26:46.087Z

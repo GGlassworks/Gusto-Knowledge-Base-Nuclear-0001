@@ -1,0 +1,12 @@
+# "And then they died": Using Action Sequences for Data Driven,Context Aware Gameplay Analysis
+
+**Authors:** Erica Kleinman, Sabbir Ahmad, Zhaoqing Teng, Andy Bryant, Truong-Huy D. Nguyen, Casper Harteveld, Magy Seif El-Nasr
+
+## Summary
+Many successful games rely heavily on data analytics to understand players and inform design. Popular methodologies focus on machine learning and statistical analysis of aggregated data. While effective in extracting information regarding player action, much of the context regarding when and how those actions occurred is lost. Qualitative methods allow researchers to examine context and derive meaningful explanations about the goals and motivations behind player behavior, but are difficult to scale. In this paper, we build on previous work by combining two existing methodologies: Interactive Behavior Analytics (IBA) and sequence analysis (SA), in order to create a novel, mixed methods, human-in-the-loop data analysis methodology that uses behavioral labels and visualizations to allow analysts to examine player behavior in a way that is context sensitive, scalable, and generalizable. We present the methodology along with a case study demonstrating how it can be used to analyze behavioral patterns of teamwork in the popular multiplayer game Defense of the Ancients 2 (DotA 2).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:24:30.559Z

@@ -1,0 +1,12 @@
+# Visual Multi-Metric Grouping of Eye-Tracking Data
+
+**Authors:** Ayush Kumar, Rudolf Netzel, Michael Burch, Daniel Weiskopf, Klaus Mueller
+
+## Summary
+We present an algorithmic and visual grouping of participants and eye-tracking metrics derived from recorded eye-tracking data. Our method utilizes two well-established visualization concepts. First, parallel coordinates are used to provide an overview of the used metrics, their interactions, and similarities, which helps select suitable metrics that describe characteristics of the eye-tracking data. Furthermore, parallel coordinates plots enable an analyst to test the effects of creating a combination of a subset of metrics resulting in a newly derived eye-tracking metric. Second, a similarity matrix visualization is used to visually represent the affine combination of metrics utilizing an algorithmic grouping of subjects that leads to distinct visual groups of similar behavior. To keep the diagrams of the matrix visualization simple and understandable, we visually encode our eye-tracking data into the cells of a similarity matrix of participants. The algorithmic grouping is performed with a clustering based on the affine combination of metrics, which is also the basis for the similarity value computation of the similarity matrix. To illustrate the usefulness of our visualization, we applied it to an eye-tracking data set involving the reading behavior of metro maps of up to 40 participants. Finally, we discuss limitations and scalability issues of the approach focusing on visual and perceptual issues.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:46:01.432Z

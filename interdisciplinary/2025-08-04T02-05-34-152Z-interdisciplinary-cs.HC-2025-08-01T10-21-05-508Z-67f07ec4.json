@@ -1,0 +1,12 @@
+# Design of Seamless Multi-modal Interaction Framework for Intelligent Virtual Agents in Wearable Mixed Reality Environment
+
+**Authors:** Ghazanfar Ali, Hong-Quan Le, Junho Kim, Seoung-won Hwang, Jae-In Hwang
+
+## Summary
+In this paper, we present the design of a multimodal interaction framework for intelligent virtual agents in wearable mixed reality environments, especially for interactive applications at museums, botanical gardens, and similar places. These places need engaging and no-repetitive digital content delivery to maximize user involvement. An intelligent virtual agent is a promising mode for both purposes. Premises of framework is wearable mixed reality provided by MR devices supporting spatial mapping. We envisioned a seamless interaction framework by integrating potential features of spatial mapping, virtual character animations, speech recognition, gazing, domain-specific chatbot and object recognition to enhance virtual experiences and communication between users and virtual agents. By applying a modular approach and deploying computationally intensive modules on cloud-platform, we achieved a seamless virtual experience in a device with limited resources. Human-like gaze and speech interaction with a virtual agent made it more interactive. Automated mapping of body animations with the content of a speech made it more engaging. In our tests, the virtual agents responded within 2-4 seconds after the user query. The strength of the framework is flexibility and adaptability. It can be adapted to any wearable MR device supporting spatial mapping.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:05.508Z

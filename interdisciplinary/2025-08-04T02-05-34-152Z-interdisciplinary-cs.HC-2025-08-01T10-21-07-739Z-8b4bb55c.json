@@ -1,0 +1,12 @@
+# LUIDA: Large-scale Unified Infrastructure for Digital Assessments based on Commercial Metaverse Platform
+
+**Authors:** Yong-Hao Hu, Sotaro Yokoi, Yuji Hatada, Yuichi Hiroi, Takuji Narumi, Takefumi Hiraki
+
+## Summary
+Online experiments using metaverse platforms have gained significant traction in Human-Computer Interaction and Virtual Reality (VR) research. However, current research workflows are highly fragmented, as researchers must use separate tools for system implementation, participant recruitment, experiment execution, and data collection, reducing consistency and increasing workload. We present LUIDA (Large-scale Unified Infrastructure for Digital Assessments), a metaverse-based framework that integrates these fragmented processes. LUIDA automatically allocates interconnected virtual environments for parallel experiment execution and provides implementation templates adaptable to various VR research domains, requiring minimal metaverse development expertise. Our evaluation included two studies using a prototype built on Cluster, the commercial metaverse platform. First, VR researchers using LUIDA to develop and run experiments reported high usability scores (SUS: 73.75) and moderate workload (NASA-TLX: 24.11) for overall usage, with interviews confirming streamlined workflows compared to traditional laboratory experiments. Second, we conducted three replicated experiments with public Cluster users, each recruiting approximately 200 participants within one week. These experiments produced results that closely matched the original studies, validating the experimental integrity of LUIDA across research domains. After technical refinements, we plan to release LUIDA as an open platform, providing a standardized protocol to improve research efficiency and experimental reproducibility in VR studies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:21:07.740Z

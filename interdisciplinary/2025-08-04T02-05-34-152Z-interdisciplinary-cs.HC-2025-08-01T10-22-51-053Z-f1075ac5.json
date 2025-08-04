@@ -1,0 +1,12 @@
+# User Intent Recognition and Satisfaction with Large Language Models: A User Study with ChatGPT
+
+**Authors:** Anna Bodonhelyi, Efe Bozkir, Shuo Yang, Enkelejda Kasneci, Gjergji Kasneci
+
+## Summary
+The rapid evolution of LLMs represents an impactful paradigm shift in digital interaction and content engagement. While they encode vast amounts of human-generated knowledge and excel in processing diverse data types, they often face the challenge of accurately responding to specific user intents, leading to user dissatisfaction. Based on a fine-grained intent taxonomy and intent-based prompt reformulations, we analyze the quality of intent recognition and user satisfaction with answers from intent-based prompt reformulations of GPT-3.5 Turbo and GPT-4 Turbo models. Our study highlights the importance of human-AI interaction and underscores the need for interdisciplinary approaches to improve conversational AI systems. We show that GPT-4 outperforms GPT-3.5 in recognizing common intents but is often outperformed by GPT-3.5 in recognizing less frequent intents. Moreover, whenever the user intent is correctly recognized, while users are more satisfied with the intent-based reformulations of GPT-4 compared to GPT-3.5, they tend to be more satisfied with the models' answers to their original prompts compared to the reformulated ones. The collected data from our study has been made publicly available on GitHub (https://github.com/ConcealedIDentity/UserIntentStudy) for further research.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T10:22:51.053Z

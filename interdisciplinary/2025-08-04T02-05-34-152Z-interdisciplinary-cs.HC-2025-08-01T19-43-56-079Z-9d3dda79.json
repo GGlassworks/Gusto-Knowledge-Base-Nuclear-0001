@@ -1,0 +1,12 @@
+# Deck.gl: Large-scale Web-based Visual Analytics Made Easy
+
+**Authors:** Yang Wang
+
+## Summary
+In this paper, we demonstrate how deck.gl, an open-source project born out of data-heavy visual analytics applications, has grown into the robust visualization framework it is today. We begin by explaining why we built another data visualization framework in the first place. Then, we summarize our design goals (distilled from our interactions with users) and discuss how they guided the development of the framework's main features. We use two real-world applications of deck.gl to showcase how it can be applied to simplify the creation of data-heavy visualizations. We also discuss our lessons learned as we continue to improve the framework for the larger visualization community.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.HC
+Collected: 2025-08-01T19:43:56.080Z
