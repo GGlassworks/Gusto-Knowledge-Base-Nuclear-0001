@@ -1,0 +1,13 @@
+# Horizontal Aggregations in SQL to Prepare Data Sets for Data Mining Analysis
+
+**Authors:** Vinutha Hp
+
+## Abstract
+Data mining is widely used domain for extracting trends or patterns from historical data. However, the databases used by enterprises can't be directly used for data mining. It does mean that Data sets are to be prepared from real world database to make them suitable for particular data mining operations. However, preparing datasets for analyzing data is tedious task as it involves many aggregating columns, complex joins, and SQL queries with sub queries. More over the existing aggregations performed through SQL functions such as MIN, MAX, COUNT, SUM, AVG return a single value output which is not suitable for making datasets meant for data mining. In fact these aggregate functions are generating vertical aggregations. This paper presents techniques to support horizontal aggregations through SQL queries. The result of the queries is the data which is suitable for data mining operations. It does mean that this paper achieves horizontal aggregations through some constructs built that includes SQL queries as well. The methods prepared by this paper include CASE, SPJ and PIVOT. We have developed a prototype application and the empirical results reveal that these constructs are capable of generating data sets that can be used for further data mining operations. Index Terms - Aggregations, SQL, data mining, OLAP, and data set generation.s
+
+**Source:** https://www.semanticscholar.org/paper/61db871b927d19819a812f0acf37f6e447744e59
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:34:27.456Z

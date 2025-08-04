@@ -1,0 +1,13 @@
+# Bridging customer knowledge to innovative product development: a data mining approach
+
+**Authors:** Y. Zhan, K. Tan, Baofeng Huo
+
+## Abstract
+In the big data era, firms are inundated with customer data, which are valuable in improving services, developing new products, and identifying new markets. However, it is not clear how companies apply data-driven methods to facilitate customer knowledge management when developing innovative new products. Studies have investigated the specific benefits of applying data-driven methods in customer knowledge management, but failed to systematically investigate the specific mechanics of how firms realised these benefits. Accordingly, this study proposes a systematic approach to link customer knowledge with innovative product development in a data-driven environment. To mine customer needs, this study adopts the Apriori algorithm and C5.0 in addition to the association rule and decision tree methodologies for data mining. It provides a systematic and effective method for managers to extract knowledge ‘from’ and ‘about’ customers to identify their preferences, enabling firms to develop the right products and gain competitive advantages. The findings indicate that the knowledge-based approach is effective, and the knowledge extracted is shown as a set of rules that can be used to identify useful patterns for both innovative product development and marketing strategies.
+
+**Source:** https://www.semanticscholar.org/paper/817f9dbbe1ba5dcbff1baa929bf0336587368e4c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:38:30.317Z

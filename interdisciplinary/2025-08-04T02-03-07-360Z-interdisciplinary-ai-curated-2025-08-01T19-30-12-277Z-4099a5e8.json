@@ -1,0 +1,13 @@
+# Evaluating Data Mining Algorithms
+
+**Authors:** Amit S. Bharti, Vipul L. Borkar, Bhagyashree Kumbhare, Yamini B. Laxane
+
+## Abstract
+This study presents a comprehensive evaluation of three fundamental data mining algorithms - Decision Trees, Neural Networks, and Support Vector Machines - to determine their relative effectiveness across different performance metrics. Using six standardized datasets from the UCI repository, we systematically compared classification accuracy, computational speed, and memory efficiency under controlled experimental conditions. Our results demonstrate that Neural Networks achieved superior predictive accuracy (92.3%), while Decision Trees showed remarkable speed advantages, processing datasets 8 times faster than Neural Networks. Support Vector Machines emerged as the most balanced approach, maintaining competitive accuracy (88.7%) with moderate resource requirements. These findings provide practical insights for algorithm selection, suggesting that optimal choices depend on specific application requirements, whether prioritizing accuracy, speed, or resource efficiency. The study contributes to the growing body of empirical evidence guiding data mining practitioners in algorithm selection and implementation.
+
+**Source:** https://www.semanticscholar.org/paper/7b83c2dccb0eba84e25712679c7383cac6298dd0
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:12.278Z

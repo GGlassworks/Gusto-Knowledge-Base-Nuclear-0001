@@ -1,0 +1,13 @@
+# Data mining implementation: a survey
+
+**Authors:** W. Widayat, Priati Assiroj, Sohirin Sohirin, Isidorus Anung Prabadhi, Pasha Adelia Kautsar
+
+## Abstract
+In the current era, the relentless advancement of information technology necessitates efficient information acquisition, which relies on proper data processing. To address the challenges in data organization, data mining emerges as a pivotal solution. This study aims to delve into various methodologies for data grouping. Employing a survey approach, the research scrutinizes journals published from 2020 to 2024. The findings illuminate prevalent techniques, algorithms, and software tools utilized in similar research domains. Notably, the study reveals that the predominant approach entails clustering via K-Means leveraging RapidMiner. This insight underscores the significance of employing robust methodologies and tools to streamline data processing and analysis in the contemporary information landscape. By elucidating the prevalent techniques and tools, this study contributes to enhancing understanding and fostering advancements in data mining practices, thereby facilitating more efficient data utilization and decision-making processes.
+
+**Source:** https://www.semanticscholar.org/paper/1795b4c85b024525b4e563169402ab0b1dfc3c55
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:39:32.805Z

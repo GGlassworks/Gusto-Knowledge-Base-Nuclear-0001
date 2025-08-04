@@ -1,0 +1,13 @@
+# Modeling and comparing data mining algorithms for prediction of recurrence of breast cancer
+
+**Authors:** A. Mosayebi, B. Mojaradi, Ali Bonyadi Naeini, Seyed Hamid Khodadad Hosseini
+
+## Abstract
+Breast cancer is the most common invasive cancer and the second leading cause of cancer death in women. and regrettably, this rate is increasing every year. One of the aspects of all cancers, including breast cancer, is the recurrence of the disease, which causes painful consequences to the patients. Moreover, the practical application of data mining in the field of breast cancer can help to provide some necessary information and knowledge required by physicians for accurate prediction of breast cancer recurrence and better decision-making. The main objective of this study is to compare different data mining algorithms to select the most accurate model for predicting breast cancer recurrence. This study is cross-sectional and data gathering of this research performed from June 2018 to June 2019 from the official statistics of Ministry of Health and Medical Education and the Iran Cancer Research Center for patients with breast cancer who had been followed for a minimum of 5 years from February 2014 to April 2019, including 5471 independent records. After initial pre-processing in dataset and variables, seven new and conventional data mining algorithms have been applied that each one represents one kind of data mining approach. Results show that the C5.0 algorithm possibly could be a helpful tool for the prediction of breast cancer recurrence at the stage of distant recurrence and nonrecurrence, especially in the first to third years. also, LN involvement rate, Her2 value, Tumor size, free or closed tumor margin were found to be the most important features in our dataset to predict breast cancer recurrence.
+
+**Source:** https://www.semanticscholar.org/paper/a602e7bd6c1a1d94057520e1de762b001cc3b6bc
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:12.855Z

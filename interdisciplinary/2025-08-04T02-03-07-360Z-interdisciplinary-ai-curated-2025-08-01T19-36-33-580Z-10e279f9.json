@@ -1,0 +1,13 @@
+# Advanced data mining techniques for landslide susceptibility mapping
+
+**Authors:** M. Ibrahim, Z. Mustaffa, A. Balogun, Indra Sati Hamonangan Harahap, Mudassir Ali Khan
+
+## Abstract
+Abstract This paper describes the development and validation of landslides susceptibility models for mountainous regions using advanced data mining techniques. The investigation was carried out to ascertain the effectiveness of Naïve Bayes Multinomial (NBM) and Random Trees (RT) in landslide susceptibility mapping. The NBM is an advancement of the frequently used Naïve Bayes classifiers, while the RT was built to overcome the limitations of the traditional forest classifiers. A geospatial database for this investigation comprises 148 landslide locations influenced by ten (10) landslide conditioning factors. The factors (Slope Angle, Slopes Elevation, Slope Aspect, Plan curvature, Profile Curvature, Lithology, Soil type, Stream power index (SPI), Sediment transport index (STI), and Rainfall precipitation) were drawn using a Multi Collinearity Decision Making (MCDM) technique. A Frequency Ratio (FR) analysis was used to obtain the relative significance of the factors in the slides. Predictive models were also developed by quantifying these models using data mining techniques. A section of the entire geospatial data (70%) was used as training datasets, while the remaining part of the data (30%) was used to validate the trained datasets. SVM, RT, and NBM algorithms were used to produce predicted datasets from the training datasets. These predicted datasets were used to develop the Landslides Susceptibility Models. A comparative assessment between the two classifiers against the famous traditional learning algorithm, the Support vector machines (SVM), was conducted. Model performance evaluators such as the AUROC, RSME, F-measure, MAE, and ACC were employed to check the predictive capabilities and accuracies of the models. The indices indicated that the SVM model performed better than the other two algorithms in both training and validation datasets. Further analysis and comparison of the models reveal that the new data mining techniques are reliable for landslide susceptibility. Simultaneously, the traditional algorithm is also useful and remains relevant, especially with similar site conditions. This study has provided insights on better planning and development and provision of mitigation strategies and further analysis on landslides in the study area, particularly in cases of limited data availability. Graphical Abstract
+
+**Source:** https://www.semanticscholar.org/paper/d2d7ccb43f6bf61fa2deaa425a573ccba0799881
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:36:33.580Z

@@ -1,0 +1,13 @@
+# Transforming Multidimensional Time Series into Interpretable Event Sequences for Advanced Data Mining
+
+**Authors:** Xu Yan, Yaoting Jiang, Wenyi Liu, Didi Yi, Jianjun Wei
+
+## Abstract
+This paper introduces a novel spatiotemporal feature representation model designed to address the limitations of traditional methods in multidimensional time series (MTS) analysis. The proposed approach converts MTS into one-dimensional sequences of spatially evolving events, preserving the complex coupling relationships between dimensions. By employing a variable-length tuple mining method, key spatiotemporal features are extracted, enhancing the interpretability and accuracy of time series analysis. Unlike conventional models, this unsupervised method does not rely on large training datasets, making it adaptable across different domains. Experimental results from motion sequence classification validate the model's superior performance in capturing intricate patterns within the data. The proposed framework has significant potential for applications across various fields, including backend services for monitoring and optimizing IT infrastructure, medical diagnosis through continuous patient monitoring and health trend analysis, and internet businesses for tracking user behavior and forecasting sales. This work offers a new theoretical foundation and technical support for advancing time series data mining and its practical applications in human behavior recognition and other domains.
+
+**Source:** https://www.semanticscholar.org/paper/f3f30ed56a1f44e87153e33f7c95fc256ee37be3
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:36:32.876Z

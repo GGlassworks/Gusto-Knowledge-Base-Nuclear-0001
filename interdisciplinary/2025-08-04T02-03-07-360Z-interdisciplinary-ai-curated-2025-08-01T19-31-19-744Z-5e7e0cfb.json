@@ -1,0 +1,13 @@
+# Customer Churn Analysis and Prediction Using Data Mining Models in Banking Industry
+
+**Authors:** Ketut Gde Manik Karvana, S. Yazid, Amril Syalim, P. Mursanto
+
+## Abstract
+A new method for customer churn analysis and prediction has been proposed. The method uses data mining model in banking industries. This has been inspired by the fact that there are around 1,5 million churn customers in a year which is increasing every year. Churn customer prediction is an activity carried out to predict whether the customer will leave the company or not. One way to predict this customer churn is to use a classification technique from data mining that produces a machine learning model. This study tested 5 different classification methods with a dataset consisting of 57 attributes. Experiments were carried out several times using comparisons between different classes. Support Vector Machine (SVM) with a comparison of 50:50 Class sampling data is the best method for predicting churn customers at a private bank in Indonesia. The results of this modeling can be utilized by company who will apply strategic action to prevent customer churn.
+
+**Source:** https://www.semanticscholar.org/paper/42d511bedcb2989d9f903ceb5e5d70d91693db9f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:31:19.746Z

@@ -1,0 +1,13 @@
+# Identification of Significant Features and Data Mining Techniques in Predicting Heart Stroke
+
+**Authors:** Vikram Gude, Saravanan V, Ishwarya RJ, Sathya M
+
+## Abstract
+The health-care industry generates a large amount of data, which is processed using certain methodologies. One technique that is frequently utilized is data mining. Heart disease is the leading cause of death on a global scale. This system foresees the risk of heart disease developing. The results of this system give you a % likelihood of getting heart disease. Medical parameters are utilized to categories the datasets. This system uses a data mining classification algorithm to analyze such parameters. The datasets are processed in Python programming using two main Machine Learning Algorithms: Decision Tree Approach and Naïve Bayes Algorithm, with the latter showing to be the best algorithm in terms of heart disease accuracy.
+
+**Source:** https://www.semanticscholar.org/paper/3564dc02023c54c3e1336b25b71fdab7589f0de0
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:36:36.437Z

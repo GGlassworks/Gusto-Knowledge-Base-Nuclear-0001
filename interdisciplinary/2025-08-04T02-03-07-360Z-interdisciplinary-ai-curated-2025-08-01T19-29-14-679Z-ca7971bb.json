@@ -1,0 +1,13 @@
+# Individual privacy in data mining using fuzzy optimization
+
+**Authors:** H. K. Bhuyan, N. K. Kamila, S. Pani
+
+## Abstract
+This article proposes the individual data privacy during collaborative computation in data mining method using an optimization model. The privacy problem is solved using different methodologies. The solution for individual privacy is considered as a multi-objective optimization model. Practically, the requirement for privacy varies from user to user. Therefore, it generates inherent vagueness for individual privacy. In this article, the vagueness is considered and the privacy problem is solved by a fuzzy optimization method. The fuzzy multi-objective optimization model is proposed to be used as a supplementary privacy method to address individual privacy issues. The fuzzy constraints are generated to solve the models on the basis of the privacy requirements of users. The fuzzy set domain for the optimization problem is used to fulfil the individual privacy requirements in a computing environment. The proposed solution allows data owners to choose their own privacy level on demand, with maximum flexibility.
+
+**Source:** https://www.semanticscholar.org/paper/bc7c767fc51f3a4216ccf01751ea24c88f7298ec
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:29:14.679Z

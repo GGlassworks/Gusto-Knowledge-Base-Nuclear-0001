@@ -1,0 +1,13 @@
+# Data Mining Methodology for Engineering Applications (DMME)—A Holistic Extension to the CRISP-DM Model
+
+**Authors:** Hajo Wiemer, L. Drowatzky, Steffen Ihlenfeldt
+
+## Abstract
+The value of data analytics is fundamental in cyber-physical production systems for tasks like optimization and predictive maintenance. The de facto standard for conducting data analytics in industrial applications is the CRISP-DM methodology. However, CRISP-DM does not specify a data acquisition phase within production scenarios. With this chapter, we present DMME as an extension to the CRISP-DM methodology specifically tailored for engineering applications. It provides a communication and planning foundation for data analytics within the manufacturing domain, including the design and evaluation of the infrastructure for process-integrated data acquisition. In addition, the methodology includes functions of design of experiments capabilities to systematically and efficiently identify relevant interactions. The procedure of DMME methodology is presented in detail and an example project illustrates the workflow. This case study was part of a collaborative project with an industrial partner who wanted an application to detect marginal lubrication in linear guideways of a servo-driven axle based only on data from the drive controller. Decision trees detect the lubrication state, which are trained with experimental data. Several experiments, taking the lubrication state, velocity, and load on the slide into account, provide the training and test datasets.
+
+**Source:** https://www.semanticscholar.org/paper/709f623f3ad0fbdad4b010b99468363d1ebddf5a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:35:27.822Z

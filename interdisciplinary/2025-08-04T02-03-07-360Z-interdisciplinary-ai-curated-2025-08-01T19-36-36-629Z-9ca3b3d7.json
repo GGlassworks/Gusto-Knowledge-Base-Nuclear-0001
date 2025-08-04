@@ -1,0 +1,13 @@
+# FBANet: An Effective Data Mining Method for Food Olfactory EEG Recognition
+
+**Authors:** Xiuxin Xia, Yan Shi, Pengwei Li, Xiaosong Liu, Jingjing Liu, Hong-Kun Men
+
+## Abstract
+At present, the sensory evaluation of food mostly depends on artificial sensory evaluation and machine perception, but artificial sensory evaluation is greatly interfered with by subjective factors, and machine perception is difficult to reflect human feelings. In this article, a frequency band attention network (FBANet) for olfactory electroencephalogram (EEG) was proposed to distinguish the difference in food odor. First, the olfactory EEG evoked experiment was designed to collect the olfactory EEG, and the preprocessing of olfactory EEG, such as frequency division, was completed. Second, the FBANet consisted of frequency band feature mining and frequency band feature self-attention, in which frequency band feature mining can effectively mine multiband features of olfactory EEG with different scales, and frequency band feature self-attention can integrate the extracted multiband features and realize classification. Finally, compared with other advanced models, the performance of the FBANet was evaluated. The results show that FBANet was better than the state-of-the-art techniques. In conclusion, FBANet effectively mined the olfactory EEG data information and distinguished the differences between the eight food odors, which proposed a new idea for food sensory evaluation based on multiband olfactory EEG analysis.
+
+**Source:** https://www.semanticscholar.org/paper/7596cc22d162d4411ad0270a167c34d16619ba2a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:36:36.629Z

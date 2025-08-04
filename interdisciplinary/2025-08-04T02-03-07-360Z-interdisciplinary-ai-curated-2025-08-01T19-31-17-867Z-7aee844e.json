@@ -1,0 +1,13 @@
+# River suspended sediment load prediction based on river discharge information: application of newly developed data mining models
+
+**Authors:** Sinan Q. Salih, A. Sharafati, K. Khosravi, Hossam Faris, O. Kisi, Hai Tao, Mumtaz Ali, Z. Yaseen
+
+## Abstract
+ABSTRACT Suspended sediment load (SSL) is one of the essential hydrological processes that affects river engineering sustainability. Sediment has a major influence on the operation of dams and reservoir capacity. This investigation is aimed at exploring a new version of machine learning models (i.e. data mining), including M5P, attribute selected classifier (AS M5P), M5Rule (M5R), and K Star (KS) models for SSL prediction at the Trenton meteorological station on the Delaware River, USA. Different input scenarios were examined based on the river flow discharge and sediment load database. The performance of the applied data mining models was evaluated using various statistical metrics and graphical presentation. Among the applied data mining models, the M5P model gave a superior prediction result. The current and one-day lead time river flow and sediment load were the influential predictors for one-day-ahead SSL prediction. Overall, the applied data mining models achieved excellent predictions of the SSL process.
+
+**Source:** https://www.semanticscholar.org/paper/81edd6bf06ab5e780e58f0e66c329d23d196d58f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:31:17.868Z

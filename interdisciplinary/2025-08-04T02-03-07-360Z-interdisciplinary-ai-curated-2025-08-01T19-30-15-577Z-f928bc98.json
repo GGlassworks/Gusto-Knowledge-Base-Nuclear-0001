@@ -1,0 +1,13 @@
+# Data Mining Algorithms: An Overview
+
+**Authors:** S. R. Joseph, H. Hlomani, Keletso J. Letsholo
+
+## Abstract
+The research on data mining has successfully yielded numerous tools, algorithms, methods and approaches for handling large amounts of data for various purposeful use and   problem solving. Data mining has become an integral part of many application domains such as data ware housing, predictive analytics, business intelligence, bio-informatics and decision support systems. Prime objective of data mining is to effectively handle large scale data, extract actionable patterns, and gain insightful knowledge. Data mining is part and parcel of knowledge discovery in databases (KDD) process. Success and improved decision making normally depends on how quickly one can discover insights from data. These insights could be used to drive better actions which can be used in operational processes and even predict future behaviour. This paper presents an overview of various algorithms necessary for handling large data sets. These algorithms define various structures and methods implemented to handle big data. The review also discusses the general strengths and limitations of these algorithms. This paper can quickly guide or an eye opener to the data mining researchers on which algorithm(s) to select and apply in solving the problems they will be investigating .
+
+**Source:** https://www.semanticscholar.org/paper/ee699332ed868aa4142bfcbec45317ad390a48c9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:15.578Z

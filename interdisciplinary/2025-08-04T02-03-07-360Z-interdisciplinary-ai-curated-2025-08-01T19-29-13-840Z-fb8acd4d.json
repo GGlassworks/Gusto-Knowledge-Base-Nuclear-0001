@@ -1,0 +1,13 @@
+# Implementing in-situ self-organizing maps with memristor crossbar arrays for data mining and optimization
+
+**Authors:** Rui Wang, Tuo Shi, Xumeng Zhang, Jinsong Wei, Jian Lu, Jiaxue Zhu, Zuheng Wu, Qi Liu, Meilin Liu
+
+## Abstract
+A self-organizing map (SOM) is a powerful unsupervised learning neural network for analyzing high-dimensional data in various applications. However, hardware implementation of SOM is challenging because of the complexity in calculating the similarities and determining neighborhoods. We experimentally demonstrated a memristor-based SOM based on Ta/TaOx/Pt 1T1R chips for the first time, which has advantages in computing speed, throughput, and energy efficiency compared with the CMOS digital counterpart, by utilizing the topological structure of the array and physical laws for computing without complicated circuits. We employed additional rows in the crossbar arrays and identified the best matching units by directly calculating the similarities between the input vectors and the weight matrix in the hardware. Using the memristor-based SOM, we demonstrated data clustering, image processing and solved the traveling salesman problem with much-improved energy efficiency and computing throughput. The physical implementation of SOM in memristor crossbar arrays extends the capability of memristor-based neuromorphic computing systems in machine learning and artificial intelligence. Self-organizing maps are data mining tools for unsupervised learning algorithms dealing with big data problems. The authors experimentally demonstrate a memristor-based self-organizing map that is more efficient in computing speed and energy consumption for data clustering, image processing and solving optimization problems.
+
+**Source:** https://www.semanticscholar.org/paper/662688b484da00602d6606d14502a251109d1b28
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:29:13.840Z

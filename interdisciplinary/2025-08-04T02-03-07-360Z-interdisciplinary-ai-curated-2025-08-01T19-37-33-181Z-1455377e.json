@@ -1,0 +1,13 @@
+# Data mining privacy preserving: Research agenda
+
+**Authors:** Inda Kreso, Amra Kapo, L. Turulja
+
+## Abstract
+In the modern days, the amount of the data and information is increasing along with their accessibility and availability, due to the Internet and social media. To be able to search this vast data set and to discover unknown useful data patterns and predictions, the data mining method is used. Data mining allows for unrelated data to be connected in a meaningful way, to analyze the data, and to represent the results in the form of useful data patterns and predictions that help and predict future behavior. The process of data mining can potentially violate sensitive and personal data. Individual privacy is under attack if some of the information leaks and reveals the identity of a person whose personal data were used in the data mining process. There are many privacy‐preserving data mining (PPDM) techniques and methods that have a task to preserve the privacy and sensitive data while providing accurate data mining results at the same time. PPDM techniques and methods incorporate different approaches that protect data in the process of data mining. The methodology that was used in this article is the systematic literature review and bibliometric analysis. This article identifieds the current trends, techniques, and methods that are being used in the privacy‐preserving data mining field to make a clear and concise classification of the PPDM methods and techniques with possibly identifying new methods and techniques that were not included in the previous classification, and to emphasize the future research directions.
+
+**Source:** https://www.semanticscholar.org/paper/634ec841ce0bac3208b2ed4558ca81dae4835310
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:37:33.181Z

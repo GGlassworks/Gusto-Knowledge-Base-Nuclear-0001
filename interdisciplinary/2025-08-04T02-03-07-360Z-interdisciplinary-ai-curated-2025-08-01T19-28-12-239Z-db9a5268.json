@@ -1,0 +1,13 @@
+# A Survey on Trajectory Data Mining: Techniques and Applications
+
+**Authors:** Zhenni Feng, Yanmin Zhu
+
+## Abstract
+Rapid advance of location acquisition technologies boosts the generation of trajectory data, which track the traces of moving objects. A trajectory is typically represented by a sequence of timestamped geographical locations. A wide spectrum of applications can benefit from the trajectory data mining. Bringing unprecedented opportunities, large-scale trajectory data also pose great challenges. In this paper, we survey various applications of trajectory data mining, e.g., path discovery, location prediction, movement behavior analysis, and so on. Furthermore, this paper reviews an extensive collection of existing trajectory data mining techniques and discusses them in a framework of trajectory data mining. This framework and the survey can be used as a guideline for designing future trajectory data mining solutions.
+
+**Source:** https://www.semanticscholar.org/paper/a32f521442a540a6d1420526eaa68b3cab6b1d0d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:28:12.239Z

@@ -1,0 +1,13 @@
+# Groundwater Potential Mapping Using Data Mining Models of Big Data Analysis in Goyang-si, South Korea
+
+**Authors:** Sunmin Lee, Y. Hyun, Moung-Jin Lee
+
+## Abstract
+Recently, data mining analysis techniques have been developed, as large spatial datasets have accumulated in various fields. Such a data-driven analysis is necessary in areas of high uncertainty and complexity, such as estimating groundwater potential. Therefore, in this study, data mining of various spatial datasets, including those based on remote sensing data, was applied to estimate groundwater potential. For the sustainable development of groundwater resources, a plan for the systematic management of groundwater resources should be established based on a quantitative understanding of the development potential. The purpose of this study was to map and analyze the groundwater potential of Goyang-si in Gyeonggi-do province, South Korea and to evaluate the sensitivity of each factor by applying data mining models for big data analysis. A total of 876 surveyed groundwater pumping capacity data were used, 50% of which were randomly classified into training and test datasets to analyze groundwater potential. A total of 13 factors extracted from satellite-based topographical, land cover, soil, forest, geological, hydrogeological, and survey-based precipitation data were used. The frequency ratio (FR) and boosted classification tree (BCT) models were used to analyze the relationships between the groundwater pumping capacity and related factors. Groundwater potential maps were constructed and validated with the receiver operating characteristic (ROC) curve, with accuracy rates of 68.31% and 69.39% for the FR and BCT models, respectively. A sensitivity analysis for both models was performed to assess the influence of each factor. The results of this study are expected to be useful for establishing an effective groundwater management plan in the future.
+
+**Source:** https://www.semanticscholar.org/paper/ff8a8dc1f15bf9c2368592311b54fc178a775d2b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:31:18.898Z

@@ -1,0 +1,13 @@
+# Data Mining Implementation for Monitoring Network Intrusion
+
+**Authors:** Annisa Andarrachmi, W. Wibowo
+
+## Abstract
+The Information and Communication Network Center (BJIK) is one of the centers in the Agency for the Assessment and Application of Technology (BPPT). BJIK develops a network monitoring information system called Simontik to protect the BPPT system from threats where antivirus softwares and firewalls fail to give the level of protection needed. The random nature of threats makes it difficult to develop a rule-based system to predict the existence of intrusion. In this research, we apply a deep learning model to predict network intrusion. We found that our deep learning model using deep neural network and random forest algorithm can produce 99.91% accuracy compared to 98.11% using support vector machine algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/3dd492c0384202d6998807da570b4b4cc74dcd3a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:39:33.847Z

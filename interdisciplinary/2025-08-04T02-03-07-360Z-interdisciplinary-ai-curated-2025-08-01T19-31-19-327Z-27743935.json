@@ -1,0 +1,13 @@
+# Epidemiological Features of Human Brucellosis in Iran (2011-2018) and Prediction of Brucellosis with Data-Mining Models
+
+**Authors:** H. Bagheri, Leili Tapak, M. Karami, B. Amiri, Zahra Cherghi
+
+## Abstract
+Background: Brucellosis is known as the major zoonotic disease. We aimed to compare the performance of some data-mining models in predicting the monthly brucellosis cases in Iran. Study design: Population-based cohort study. Methods: Three data mining techniques including the Support Vector Machine (SVM), Multivariate Adaptive Regression Splines (MARS), and Random Forest (RF) besides to one classic model including Auto-Regressive Integrated Moving Average (ARIMA) was used to predict the monthly incidence of brucellosis in Iran during 2011-2018. We used several criteria (root mean square error (RMSE), mean absolute error (MAE), coefficient of determination (R2 ) and intra-class correlation coefficient (ICC) for appraising the accuracy of prediction and performance of our models. All analysis was done using free statistical software of R3.4.0 Results: Overall 118867 cases (with a mean age of 34.01±1.65 yr) of brucellosis were observed and seven-year incidence rate of brucellosis in Iran was 21.78 (95% CI: 21.66, 21.91). The majority of patients (58.84%) were male and 25-29 yr old. The first three provinces with the highest incidence rate of brucellosis included the following; Kurdistan (71.39 per 100,000), Lorestan (68.09 per 100,000) and Hamadan (56.24 per 100,000). Conclusion: Brucellosis was more common in males, 25-29 aged yr, western provinces and spring months. The disease had a decreasing trend in the last years. MARS model was more appropriate rather than data mining models for prediction of monthly incidence rate of brucellosis.
+
+**Source:** https://www.semanticscholar.org/paper/485615fde71bd7361a3f99b355da70037b4f0f80
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:31:19.327Z

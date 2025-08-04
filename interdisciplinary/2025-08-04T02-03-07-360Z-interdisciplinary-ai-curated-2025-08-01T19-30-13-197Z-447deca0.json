@@ -1,0 +1,13 @@
+# Landslide Susceptibility Mapping Using GIS-Based Data Mining Algorithms
+
+**Authors:** V. Vakhshoori, H. Pourghasemi, M. Zare, T. Blaschke
+
+## Abstract
+The aim of this study was to apply data mining algorithms to produce a landslide susceptibility map of the national-scale catchment called Bandar Torkaman in northern Iran. As it was impossible to directly use the advanced data mining methods due to the volume of data at this scale, an intermediate approach, called normalized frequency-ratio unique condition units (NFUC), was devised to reduce the data volume. With the aid of this technique, different data mining algorithms such as fuzzy gamma (FG), binary logistic regression (BLR), backpropagation artificial neural network (BPANN), support vector machine (SVM), and C5 decision tree (C5DT) were employed. The success and prediction rates of the models, which were calculated by receiver operating characteristic curve, were 0.859 and 0.842 for FG, 0.887 and 0.855 for BLR, 0.893 and 0.856 for C5DT, 0.891 and 0.875 for SVM, and 0.896 and 0.872 for BPANN that showed the highest validation rates as compared with the other methods. The proposed approach of NFUC proved highly efficient in data volume reduction, and therefore the application of computationally demanding algorithms for large areas with voluminous data was feasible.
+
+**Source:** https://www.semanticscholar.org/paper/0a4d78ce899478bc0cd463f5d1759daaf74f6864
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:30:13.198Z

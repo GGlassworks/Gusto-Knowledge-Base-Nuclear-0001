@@ -1,0 +1,13 @@
+# Data Mining Implementation to Predict Sales Using Time Series Method
+
+**Authors:** Agung Triayudi, S. Sumiati, Thoha Nurhadiyan, Vidila Rosalina
+
+## Abstract
+Sales transaction data histories can be used to predict the possibility of sales transaction that will occur in the future. These characteristics are in accordance with forecasting using time series method where this method uses previous data as tools to predict transaction value that will appear in the present time. Company X that runs its business by sell their product through distributors has sales data that is not optimally utilized. The average number of sales per year ranges from 5000 transactions which is not use to forecast transactions hereafter. Transaction data is stored in the company database so that data mining technology can be applied to support company X transaction data collection from previous year. The data is processed in applications where the results of forecasting are compared with real data in 2018 to see the accuracy of the forecasting results. The graphic that shown in application has pattern which can use for forecasting. From the forecasting method used, it can be seen that the forecasting results show data that came out did not produce data that matched the real data where the highest level of accuracy was 99.68% and the lowest accuracy was still above 50%.
+
+**Source:** https://www.semanticscholar.org/paper/f2016700f196f4a33010f5e1f604fcd09b80c1d5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:39:33.626Z

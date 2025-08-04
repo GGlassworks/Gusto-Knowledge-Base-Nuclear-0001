@@ -1,0 +1,13 @@
+# Privacy-Preserving Data Mining: Development and Directions
+
+**Authors:** B. Thuraisingham
+
+## Abstract
+This article first describes the privacy concerns that arise due to data mining, especially for national security applications. Then we discuss privacy-preserving data mining. In particular, we view the privacy problem as a form of inference problem and introduce the notion of privacy constraints. We also describe an approach for privacy constraint processing and discuss its relationship to privacy-preserving data mining. Then we give an overview of the developments on privacy-preserving data mining that attempt to maintain privacy and at the same time extract useful information from data mining. Finally, some directions for future research on privacy as related to data mining are given.
+
+**Source:** https://www.semanticscholar.org/paper/f51190d450578e2858fd02e4767f37521532dc76
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:38:29.009Z
