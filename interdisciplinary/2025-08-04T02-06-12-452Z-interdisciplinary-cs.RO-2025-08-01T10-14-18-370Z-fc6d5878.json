@@ -1,0 +1,12 @@
+# A Developmental Neuro-Robotics Approach for Boosting the Recognition of Handwritten Digits
+
+**Authors:** Alessandro Di Nuovo
+
+## Summary
+Developmental psychology and neuroimaging research identified a close link between numbers and fingers, which can boost the initial number knowledge in children. Recent evidence shows that a simulation of the children's embodied strategies can improve the machine intelligence too. This article explores the application of embodied strategies to convolutional neural network models in the context of developmental neuro-robotics, where the training information is likely to be gradually acquired while operating rather than being abundant and fully available as the classical machine learning scenarios. The experimental analyses show that the proprioceptive information from the robot fingers can improve network accuracy in the recognition of handwritten Arabic digits when training examples and epochs are few. This result is comparable to brain imaging and longitudinal studies with young children. In conclusion, these findings also support the relevance of the embodiment in the case of artificial agents' training and show a possible way for the humanization of the learning process, where the robotic body can express the internal processes of artificial intelligence making it more understandable for humans.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:18.370Z

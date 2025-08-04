@@ -1,0 +1,12 @@
+# Development of an automatic 3D human head scanning-printing system
+
+**Authors:** Longyu Zhang, Bote Han, Haiwei Dong, Abdulmotaleb El Saddik
+
+## Summary
+Three-dimensional (3D) technologies have been developing rapidly recent years, and have influenced industrial, medical, cultural, and many other fields. In this paper, we introduce an automatic 3D human head scanning-printing system, which provides a complete pipeline to scan, reconstruct, select, and finally print out physical 3D human heads. To enhance the accuracy of our system, we developed a consumer-grade composite sensor (including a gyroscope, an accelerometer, a digital compass, and a Kinect v2 depth sensor) as our sensing device. This sensing device is then mounted on a robot, which automatically rotates around the human subject with approximate 1-meter radius, to capture the full-view information. The data streams are further processed and fused into a 3D model of the subject using a tablet located on the robot. In addition, an automatic selection method, based on our specific system configurations, is proposed to select the head portion. We evaluated the accuracy of the proposed system by comparing our generated 3D head models, from both standard human head model and real human subjects, with the ones reconstructed from FastSCAN and Cyberware commercial laser scanning systems through computing and visualizing Hausdorff distances. Computational cost is also provided to further assess our proposed system.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:18.601Z

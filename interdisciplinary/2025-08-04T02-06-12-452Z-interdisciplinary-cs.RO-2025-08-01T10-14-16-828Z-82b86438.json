@@ -1,0 +1,12 @@
+# Digital Shadows of Safety for Human Robot Collaboration in the World-Wide Lab
+
+**Authors:** Mohamed Behery, Gerhard Lakemeyer
+
+## Summary
+The World Wide Lab (WWL) connects the Digital Shadows (DSs) of processes, products, companies, and other entities allowing the exchange of information across company boundaries. Since DSs are context- and purpose-specific representations of a process, as opposed to Digital Twins (DTs) which offer a full simulation, the integration of a process into the WWL requires the creation of DSs representing different aspects of the process. Human-Robot Collaboration (HRC) for assembly processes was recently studied in the context of the WWL where Behaviour Trees (BTs) were proposed as a standard task-level representation of these processes. We extend previous work by proposing to standardise safety functions that can be directly integrated into these BTs. This addition uses the WWL as a communication and information exchange platform allowing industrial and academic practitioners to exchange, reuse, and experiment with different safety requirements and solutions in the WWL.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:16.828Z

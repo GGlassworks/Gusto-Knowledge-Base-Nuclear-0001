@@ -1,0 +1,12 @@
+# Using an Automated Heterogeneous Robotic System for Radiation Surveys
+
+**Authors:** Petr Gabrlik, Tomas Lazna, Tomas Jilek, Petr Sladek, Ludek Zalud
+
+## Summary
+During missions involving radiation exposure, unmanned robotic platforms may embody a valuable tool, especially thanks to their capability of replacing human operators in certain tasks to eliminate the health risks associated with such an environment. Moreover, rapid development of the technology allows us to increase the automation rate, making the human operator generally less important within the entire process. This article presents a multi-robotic system designed for highly automated radiation mapping and source localization. Our approach includes a three-phase procedure comprising sequential deployment of two diverse platforms, namely, an unmanned aircraft system (UAS) and an unmanned ground vehicle (UGV), to perform aerial photogrammetry, aerial radiation mapping, and terrestrial radiation mapping. The central idea is to produce a sparse dose rate map of the entire study site via the UAS and, subsequently, to perform detailed UGV-based mapping in limited radiation-contaminated regions. To accomplish these tasks, we designed numerous methods and data processing algorithms to facilitate, for example, digital elevation model (DEM)-based terrain following for the UAS, automatic selection of the regions of interest, obstacle map-based UGV trajectory planning, and source localization. The overall usability of the multi-robotic system was demonstrated by means of a one-day, authentic experiment, namely, a fictitious car accident including the loss of several radiation sources. The ability of the system to localize radiation hotspots and individual sources has been verified.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:18:31.837Z

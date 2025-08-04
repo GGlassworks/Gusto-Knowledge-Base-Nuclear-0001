@@ -1,0 +1,12 @@
+# Comparative Analysis of Classic Garbage-Collection Algorithms for a Lisp-like Language
+
+**Authors:** Tyler Hannan, Chester Holtz, Jonathan Liao
+
+## Summary
+In this paper, we demonstrate the effectiveness of Cheney's Copy Algorithm for a Lisp-like system and experimentally show the infeasability of developing an optimal garbage collector for general use. We summarize and compare several garbage-collection algorithms including Cheney's Algorithm, the canonical Mark and Sweep Algorithm, and Knuth's Classical Lisp 2 Algorithm. We implement and analyze these three algorithms in the context of a custom MicroLisp environment. We conclude and present the core considerations behind the development of a garbage collector---specifically for Lisp---and make an attempt to investigate these issues in depth. We also discuss experimental results that imply the effectiveness of Cheney's algorithm over Mark-Sweep for Lisp-like languages.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.PL
+Collected: 2025-08-01T21:15:58.084Z

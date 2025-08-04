@@ -1,0 +1,12 @@
+# Automating the Functional Correspondence between Higher-Order Evaluators and Abstract Machines
+
+**Authors:** Maciej Buszka, Dariusz Biernacki
+
+## Summary
+The functional correspondence is a manual derivation technique transforming higher-order evaluators into the semantically equivalent abstract machines. The transformation consists of two well-known program transformations: translation to continuation-passing style that uncovers the control flow of the evaluator and Reynolds's defunctionalization that generates a first-order transition function. Ever since the transformation was first described by Danvy et al. it has found numerous applications in connecting known evaluators and abstract machines, but also in discovering new abstract machines for a variety of $\lambda$-calculi as well as for logic-programming, imperative and object-oriented languages. We present an algorithm that automates the functional correspondence. The algorithm accepts an evaluator written in a dedicated minimal functional meta-language and it first transforms it to administrative normal form, which facilitates program analysis, before performing selective translation to continuation-passing style, and selective defunctionalization. The two selective transformations are driven by a control-flow analysis that is computed by an abstract interpreter obtained using the abstracting abstract machines methodology, which makes it possible to transform only the desired parts of the evaluator. The article is accompanied by an implementation of the algorithm in the form of a command-line tool that allows for automatic transformation of an evaluator embedded in a Racket source file and gives fine-grained control over the resulting machine.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.PL
+Collected: 2025-08-01T12:03:27.376Z

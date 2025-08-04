@@ -1,0 +1,12 @@
+# Practice Makes Perfect: A Study of Digital Twin Technology for Assembly and Problem-solving using Lunar Surface Telerobotics
+
+**Authors:** Xavier O'Keefe, Katy McCutchan, Alexis Muniz, Jack Burns, Daniel Szafir
+
+## Summary
+Robotic systems that can traverse planetary or lunar surfaces to collect environmental data and perform physical manipulation tasks, such as assembling equipment or conducting mining operations, are envisioned to form the backbone of future human activities in space. However, the environmental conditions in which these robots, or "rovers," operate present challenges toward achieving fully autonomous solutions, meaning that rover missions will require some degree of human teleoperation or supervision for the foreseeable future. As a result, human operators require training to successfully direct rovers and avoid costly errors or mission failures, as well as the ability to recover from any issues that arise on the fly during mission activities. While analog environments, such as JPL's Mars Yard, can help with such training by simulating surface environments in the real world, access to such resources may be rare and expensive. As an alternative or supplement to such physical analogs, we explore the design and evaluation of a virtual reality digital twin system to train human teleoperation of robotic rovers with mechanical arms for space mission activities. We conducted an experiment with 24 human operators to investigate how our digital twin system can support human teleoperation of rovers in both pre-mission training and in real-time problem solving in a mock lunar mission in which users directed a physical rover in the context of deploying dipole radio antennas. We found that operators who first trained with the digital twin showed a 28% decrease in mission completion time, an 85% decrease in unrecoverable errors, as well as improved mental markers, including decreased cognitive load and increased situation awareness.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:16.596Z

@@ -1,0 +1,12 @@
+# Compiler Design for Legal Document Translation in Digital Government
+
+**Authors:** Youssef Bassil
+
+## Summary
+One of the main purposes of a computer is automation. In fact, automation is the technology by which a manual task is performed with minimum or zero human assistance. Over the years, automation has proved to reduce operation cost and maintenance time in addition to increase system productivity, reliability, and performance. Today, most computerized automation are done by a computer program which is a set of instructions executed from within the computer memory by the computer central processing unit to control the computers various operations. This paper proposes a compiler program that automates the validation and translation of input documents written in the Arabic language into XML output files that can be read by a computer. The input document is by nature unstructured and in plain-text as it is written by people manually; while, the generated output is a structured machine-readable XML file. The proposed compiler program is actually a part of a bigger project related to digital government and is meant to automate the processing and archiving of juridical data and documents. In essence, the proposed compiler program is composed of a scanner, a parser, and a code generator. Experiments showed that such automation practices could prove to be a starting point for a future digital government platform for the Lebanese government. As further research, other types of juridical documents are to be investigated, mainly those that require error detection and correction.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.PL
+Collected: 2025-08-01T10:22:47.304Z

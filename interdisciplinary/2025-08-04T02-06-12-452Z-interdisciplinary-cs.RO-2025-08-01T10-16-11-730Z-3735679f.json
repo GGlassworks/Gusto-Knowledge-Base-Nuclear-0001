@@ -1,0 +1,12 @@
+# Verified Synthesis of Optimal Safety Controllers for Human-Robot Collaboration
+
+**Authors:** Mario Gleirscher, Radu Calinescu, James Douthwaite, Benjamin Lesage, Colin Paterson, Jonathan Aitken, Rob Alexander, James Law
+
+## Summary
+We present a tool-supported approach for the synthesis, verification and validation of the control software responsible for the safety of the human-robot interaction in manufacturing processes that use collaborative robots. In human-robot collaboration, software-based safety controllers are used to improve operational safety, e.g., by triggering shutdown mechanisms or emergency stops to avoid accidents. Complex robotic tasks and increasingly close human-robot interaction pose new challenges to controller developers and certification authorities. Key among these challenges is the need to assure the correctness of safety controllers under explicit (and preferably weak) assumptions. Our controller synthesis, verification and validation approach is informed by the process, risk analysis, and relevant safety regulations for the target application. Controllers are selected from a design space of feasible controllers according to a set of optimality criteria, are formally verified against correctness criteria, and are translated into executable code and validated in a digital twin. The resulting controller can detect the occurrence of hazards, move the process into a safe state, and, in certain circumstances, return the process to an operational state from which it can resume its original task. We show the effectiveness of our software engineering approach through a case study involving the development of a safety controller for a manufacturing work cell equipped with a collaborative robot.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:16:11.731Z

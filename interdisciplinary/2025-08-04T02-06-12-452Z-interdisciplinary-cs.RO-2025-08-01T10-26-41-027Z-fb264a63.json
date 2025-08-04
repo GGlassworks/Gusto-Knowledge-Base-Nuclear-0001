@@ -1,0 +1,12 @@
+# Intuitive Human-Robot Interface: A 3-Dimensional Action Recognition and UAV Collaboration Framework
+
+**Authors:** Akash Chaudhary, Tiago Nascimento, Martin Saska
+
+## Summary
+Harnessing human movements to command an Unmanned Aerial Vehicle (UAV) holds the potential to revolutionize their deployment, rendering it more intuitive and user-centric. In this research, we introduce a novel methodology adept at classifying three-dimensional human actions, leveraging them to coordinate on-field with a UAV. Utilizing a stereo camera, we derive both RGB and depth data, subsequently extracting three-dimensional human poses from the continuous video feed. This data is then processed through our proposed k-nearest neighbour classifier, the results of which dictate the behaviour of the UAV. It also includes mechanisms ensuring the robot perpetually maintains the human within its visual purview, adeptly tracking user movements. We subjected our approach to rigorous testing involving multiple tests with real robots. The ensuing results, coupled with comprehensive analysis, underscore the efficacy and inherent advantages of our proposed methodology.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:26:41.028Z

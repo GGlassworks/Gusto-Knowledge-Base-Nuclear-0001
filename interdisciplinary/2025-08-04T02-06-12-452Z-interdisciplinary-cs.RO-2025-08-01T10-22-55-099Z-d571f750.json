@@ -1,0 +1,12 @@
+# Critical Scenario Generation for Developing Trustworthy Autonomy
+
+**Authors:** Wenhao Ding
+
+## Summary
+Autonomous systems, such as self-driving vehicles, quadrupeds, and robot manipulators, are largely enabled by the rapid development of artificial intelligence. However, such systems involve several trustworthy challenges such as safety, robustness, and generalization, due to their deployment in open-ended and real-time environments. To evaluate and improve trustworthiness, simulations or so-called digital twins are largely utilized for system development with low cost and high efficiency. One important thing in virtual simulations is scenarios that consist of static and dynamic objects, specific tasks, and evaluation metrics. However, designing diverse, realistic, and effective scenarios is still a challenging problem. One straightforward way is creating scenarios through human design, which is time-consuming and limited by the experience of experts. Another method commonly used in self-driving areas is log replay. This method collects scenario data in the real world and then replays it in simulations or adds random perturbations. Although the replay scenarios are realistic, most of the collected scenarios are redundant since they are all ordinary scenarios that only consider a small portion of critical cases. The desired scenarios should cover all cases in the real world, especially rare but critical events with extremely low probability. Critical scenarios are rare but important to test autonomous systems under risky conditions and unpredictable perturbations, which reveal their trustworthiness.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:22:55.099Z

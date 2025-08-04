@@ -1,0 +1,12 @@
+# Human Behavior Modeling via Identification of Task Objective and Variability
+
+**Authors:** Sooyung Byeon, Dawei Sun, Inseok Hwang
+
+## Summary
+Human behavior modeling is important for the design and implementation of human-automation interactive control systems. In this context, human behavior refers to a human's control input to systems. We propose a novel method for human behavior modeling that uses human demonstrations for a given task to infer the unknown task objective and the variability. The task objective represents the human's intent or desire. It can be inferred by the inverse optimal control and improve the understanding of human behavior by providing an explainable objective function behind the given human behavior. Meanwhile, the variability denotes the intrinsic uncertainty in human behavior. It can be described by a Gaussian mixture model and capture the uncertainty in human behavior which cannot be encoded by the task objective. The proposed method can improve the prediction accuracy of human behavior by leveraging both task objective and variability. The proposed method is demonstrated through human-subject experiments using an illustrative quadrotor remote control example.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:22:58.889Z

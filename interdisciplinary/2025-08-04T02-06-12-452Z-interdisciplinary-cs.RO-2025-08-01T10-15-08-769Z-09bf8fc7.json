@@ -1,0 +1,12 @@
+# Introducing Combi-Stations in Robotic Mobile Fulfilment Systems: A Queueing-Theory-Based Efficiency Analysis
+
+**Authors:** Lin Xie, Sonja Otten
+
+## Summary
+In the era of digital commerce, the surge in online shopping and the expectation for rapid delivery have placed unprecedented demands on warehouse operations. The traditional method of order fulfilment, where human order pickers traverse large storage areas to pick items, has become a bottleneck, consuming valuable time and resources. Robotic Mobile Fulfilment Systems (RMFS) offer a solution by using robots to transport storage racks directly to human-operated picking stations, eliminating the need for pickers to travel. This paper introduces combi-stations, a novel type of station that enables both item picking and replenishment, as opposed to traditional separate stations. We analyse the efficiency of combi-stations using queueing theory and demonstrate their potential to streamline warehouse operations. Our results suggest that combi-stations can reduce the number of robots required for stability and significantly reduce order turnover time, indicating a promising direction for future warehouse automation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:15:08.769Z

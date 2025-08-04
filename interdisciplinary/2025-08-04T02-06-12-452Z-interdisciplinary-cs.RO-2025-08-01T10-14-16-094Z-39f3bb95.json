@@ -1,0 +1,12 @@
+# Addressing Non-Intervention Challenges via Resilient Robotics utilizing a Digital Twin
+
+**Authors:** Sam Harper, Shivoh Nandakumar, Daniel Mitchell, Jamie Blanche, Theodore Lim, David Flynn
+
+## Summary
+Multi-robot systems face challenges in reducing human interventions as they are often deployed in dangerous environments. It is therefore necessary to include a methodology to assess robot failure rates to reduce the requirement for costly human intervention. A solution to this problem includes robots with the ability to work together to ensure mission resilience. To prevent this intervention, robots should be able to work together to ensure mission resilience. However, robotic platforms generally lack built-in interconnectivity with other platforms from different vendors. This work aims to tackle this issue by enabling the functionality through a bidirectional digital twin. The twin enables the human operator to transmit and receive information to and from the multi-robot fleet. This digital twin considers mission resilience and autonomous and human-led decision making to enable the resilience of a multi-robot fleet. This creates the cooperation, corroboration, and collaboration of diverse robots to leverage the capability of robots and support recovery of a failed robot.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:16.094Z

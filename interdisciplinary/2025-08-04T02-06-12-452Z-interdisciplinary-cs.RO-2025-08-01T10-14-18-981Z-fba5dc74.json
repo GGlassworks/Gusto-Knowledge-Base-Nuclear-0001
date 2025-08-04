@@ -1,0 +1,12 @@
+# Enabling Building Information Model-Driven Human-Robot Collaborative Construction Workflows with Closed-Loop Digital Twins
+
+**Authors:** Xi Wang, Hongrui Yu, Wes McGee, Carol C. Menassa, Vineet R. Kamat
+
+## Summary
+The introduction of assistive construction robots can significantly alleviate physical demands on construction workers while enhancing both the productivity and safety of construction projects. Leveraging a Building Information Model (BIM) offers a natural and promising approach to driving robotic construction workflows. However, because of uncertainties inherent in construction sites, such as discrepancies between the as-designed and as-built components, robots cannot solely rely on a BIM to plan and perform field construction work. Human workers are adept at improvising alternative plans with their creativity and experience and thus can assist robots in overcoming uncertainties and performing construction work successfully. In such scenarios, it is critical to continuously update the BIM as work processes unfold so that it includes as-built information for the ensuing construction and maintenance tasks. This research introduces an interactive closed-loop digital twin framework that integrates a BIM into human-robot collaborative construction workflows. The robot's functions are primarily driven by the BIM, but it adaptively adjusts its plans based on actual site conditions, while the human co-worker oversees and supervises the process. When necessary, the human co-worker intervenes to help the robot overcome the encountered uncertainties. A drywall installation case study is conducted to verify the proposed workflow. In addition, experiments are carried out to evaluate the system performance using an industrial robotic arm in a research laboratory setting that mimics a construction site and in the Gazebo simulation. Integrating the flexibility of human workers and the autonomy and accuracy afforded by the BIM, the proposed framework offers significant promise of increasing the robustness of construction robots in the performance of field construction work.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:18.982Z

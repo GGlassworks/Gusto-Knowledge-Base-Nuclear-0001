@@ -1,0 +1,12 @@
+# Code Building Genetic Programming
+
+**Authors:** Edward Pantridge, Lee Spector
+
+## Summary
+In recent years the field of genetic programming has made significant advances towards automatic programming. Research and development of contemporary program synthesis methods, such as PushGP and Grammar Guided Genetic Programming, can produce programs that solve problems typically assigned in introductory academic settings. These problems focus on a narrow, predetermined set of simple data structures, basic control flow patterns, and primitive, non-overlapping data types (without, for example, inheritance or composite types). Few, if any, genetic programming methods for program synthesis have convincingly demonstrated the capability of synthesizing programs that use arbitrary data types, data structures, and specifications that are drawn from existing codebases. In this paper, we introduce Code Building Genetic Programming (CBGP) as a framework within which this can be done, by leveraging programming language features such as reflection and first-class specifications. CBGP produces a computational graph that can be executed or translated into source code of a host language. To demonstrate the novel capabilities of CBGP, we present results on new benchmarks that use non-primitive, polymorphic data types as well as some standard program synthesis benchmarks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.PL
+Collected: 2025-08-01T16:49:24.274Z

@@ -1,0 +1,12 @@
+# Socially Acceptable Bipedal Robot Navigation via Social Zonotope Network Model Predictive Control
+
+**Authors:** Abdulaziz Shamsah, Krishanu Agarwal, Nigam Katta, Abirath Raju, Shreyas Kousik, Ye Zhao
+
+## Summary
+This study addresses the challenge of social bipedal navigation in a dynamic, human-crowded environment, a research area largely underexplored in legged robot navigation. We present a zonotope-based framework that couples prediction and motion planning for a bipedal ego-agent to account for bidirectional influence with the surrounding pedestrians. This framework incorporates a Social Zonotope Network (SZN), a neural network that predicts future pedestrian reachable sets and plans future socially acceptable reachable set for the ego-agent. SZN generates the reachable sets as zonotopes for efficient reachability-based planning, collision checking, and online uncertainty parameterization. Locomotion-specific losses are added to the SZN training process to adhere to the dynamic limits of the bipedal robot that are not explicitly present in the human crowds data set. These loss functions enable the SZN to generate locomotion paths that are more dynamically feasible for improved tracking. SZN is integrated with a Model Predictive Controller (SZN-MPC) for footstep planning for our bipedal robot Digit. SZN-MPC solves for collision-free trajectory by optimizing through SZN's gradients. and Our results demonstrate the framework's effectiveness in producing a socially acceptable path, with consistent locomotion velocity, and optimality. The SZN-MPC framework is validated with extensive simulations and hardware experiments.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:21:02.412Z

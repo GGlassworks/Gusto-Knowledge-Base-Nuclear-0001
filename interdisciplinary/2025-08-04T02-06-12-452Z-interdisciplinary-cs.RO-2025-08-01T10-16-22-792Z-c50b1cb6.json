@@ -1,0 +1,12 @@
+# Arduino Controlled Spy Robo Car using Wireless Camera With live Streaming
+
+**Authors:** Muhammad Ayoub Kamal
+
+## Summary
+Nowadays, the technological and digital world is developing very fast. Everything is getting smart, so we are talking about the technological world the devices like home appliances and other things are getting control by mobile applications, and this only happens by the device Arduino Uno / raspberry pi3 and many others. Still, in our research we have used Arduino Uno to create a Wi-Fi controlled car with camera-top on it to monitor everything in its surrounding, we have seen many similar projects which using Arduino to makes things easy to use and its saving time and energy too. Automation is used for operating an electronic device such as the remote control car, home lighting system, and other useful things or reduced human invention. This report proposes a design and implementation of a remote-controlled camera car by Wi-Fi technology mobile devices. In this analysis work, radio code and hardware technologies area unit used, like the wireless module of ESP8266 for (transmitter and receiver), Arduino Uno as microcontroller, associate H-bridge L293D IC for motor controller and 2 electrical DC motors are used to move the car, &amp; a Camera attached on the top of the vehicle.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:16:22.792Z

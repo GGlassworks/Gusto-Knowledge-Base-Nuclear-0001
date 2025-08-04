@@ -1,0 +1,12 @@
+# Optimizing Collaborative Robotics since Pre-Deployment via Cyber-Physical Systems' Digital Twins
+
+**Authors:** Christian Cella, Marco Faroni, Andrea Zanchettin, Paolo Rocco
+
+## Summary
+The collaboration between humans and robots re-quires a paradigm shift not only in robot perception, reasoning, and action, but also in the design of the robotic cell. This paper proposes an optimization framework for designing collaborative robotics cells using a digital twin during the pre-deployment phase. This approach mitigates the limitations of experience-based sub-optimal designs by means of Bayesian optimization to find the optimal layout after a certain number of iterations. By integrating production KPIs into a black-box optimization frame-work, the digital twin supports data-driven decision-making, reduces the need for costly prototypes, and ensures continuous improvement thanks to the learning nature of the algorithm. The paper presents a case study with preliminary results that show how this methodology can be applied to obtain safer, more efficient, and adaptable human-robot collaborative environments.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:16.861Z

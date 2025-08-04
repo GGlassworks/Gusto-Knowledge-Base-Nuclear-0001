@@ -1,0 +1,12 @@
+# Collaborative Human-Robot Exploration via Implicit Coordination
+
+**Authors:** Yves Georgy Daoud, Kshitij Goel, Nathan Michael, Wennie Tabib
+
+## Summary
+This paper develops a methodology for collaborative human-robot exploration that leverages implicit coordination. Most autonomous single- and multi-robot exploration systems require a remote operator to provide explicit guidance to the robotic team. Few works consider how to embed the human partner alongside robots to provide guidance in the field. A remaining challenge for collaborative human-robot exploration is efficient communication of goals from the human to the robot. In this paper we develop a methodology that implicitly communicates a region of interest from a helmet-mounted depth camera on the human's head to the robot and an information gain-based exploration objective that biases motion planning within the viewpoint provided by the human. The result is an aerial system that safely accesses regions of interest that may not be immediately viewable or reachable by the human. The approach is evaluated in simulation and with hardware experiments in a motion capture arena. Videos of the simulation and hardware experiments are available at: https://youtu.be/7jgkBpVFIoE.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:26:26.184Z

@@ -1,0 +1,12 @@
+# Optimization of Humanoid Robot Designs for Human-Robot Ergonomic Payload Lifting
+
+**Authors:** Carlotta Sartore, Lorenzo Rapetti, Daniele Pucci
+
+## Summary
+When a human and a humanoid robot collaborate physically, ergonomics is a key factor to consider. Assuming a given humanoid robot, several control architectures exist nowadays to address ergonomic physical human-robot collaboration. This paper takes one step further by considering robot hardware parameters as optimization variables in the problem of collaborative payload lifting. The variables that parametrize robot's kinematics and dynamics ensure their physical consistency, and the human model is considered in the optimization problem. By leveraging the proposed modelling framework, the ergonomy of the interaction is maximized, here given by the agents' energy expenditure. Robot kinematic, dynamics, hardware constraints and human geometries are considered when solving the associated optimization problem. The proposed methodology is used to identify optimum hardware parameters for the design of the ergoCub robot, a humanoid possessing a degree of embodied intelligence for ergonomic interaction with humans. For the optimization problem, the starting point is the iCub humanoid robot. The obtained robot design reaches loads at heights in the range of 0.8-1.5 m with respect to the iCub robot whose range is limited to 0.8-1.2 m. The robot energy expenditure is decreased by about 33%, meanwhile, the human ergonomy is preserved, leading overall to an improved interaction.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:26:41.724Z

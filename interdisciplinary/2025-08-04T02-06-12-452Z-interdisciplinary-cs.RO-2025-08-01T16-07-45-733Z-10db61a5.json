@@ -1,0 +1,12 @@
+# Perception-aware Tag Placement Planning for Robust Localization of UAVs in Indoor Construction Environments
+
+**Authors:** Navid Kayhani, Angela Schoellig, Brenda McCabe
+
+## Summary
+Tag-based visual-inertial localization is a lightweight method for enabling autonomous data collection missions of low-cost unmanned aerial vehicles (UAVs) in indoor construction environments. However, finding the optimal tag configuration (i.e., number, size, and location) on dynamic construction sites remains challenging. This paper proposes a perception-aware genetic algorithm-based tag placement planner (PGA-TaPP) to determine the optimal tag configuration using 4D-BIM, considering the project progress, safety requirements, and UAV's localizability. The proposed method provides a 4D plan for tag placement by maximizing the localizability in user-specified regions of interest (ROIs) while limiting the installation costs. Localizability is quantified using the Fisher information matrix (FIM) and encapsulated in navigable grids. The experimental results show the effectiveness of our method in finding an optimal 4D tag placement plan for the robust localization of UAVs on under-construction indoor sites.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T16:07:45.733Z

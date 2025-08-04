@@ -1,0 +1,12 @@
+# Digital Twin-Assisted Controlling of AGVs in Flexible Manufacturing Environments
+
+**Authors:** Mohammad Azangoo, Amir Taherkordi, Jan Olaf Blech, Valeriy Vyatkin
+
+## Summary
+Digital Twins are increasingly being introduced for smart manufacturing systems to improve the efficiency of the main disciplines of such systems. Formal techniques, such as graphs, are a common way of describing Digital Twin models, allowing broad types of tools to provide Digital Twin based services such as fault detection in production lines. Obtaining correct and complete formal Digital Twins of physical systems can be a complicated and time consuming process, particularly for manufacturing systems with plenty of physical objects and the associated manufacturing processes. Automatic generation of Digital Twins is an emerging research field and can reduce time and costs. In this paper, we focus on the generation of Digital Twins for flexible manufacturing systems with Automated Guided Vehicles (AGVs) on the factory floor. In particular, we propose an architectural framework and the associated design choices and software development tools that facilitate automatic generation of Digital Twins for AGVs. Specifically, the scope of the generated digital twins is controlling AGVs in the factory floor. To this end, we focus on different control levels of AGVs and utilize graph theory to generate the graph-based Digital Twin of the factory floor.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:21:14.892Z

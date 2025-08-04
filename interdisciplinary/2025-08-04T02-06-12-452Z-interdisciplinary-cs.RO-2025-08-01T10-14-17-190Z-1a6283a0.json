@@ -1,0 +1,12 @@
+# Using Fiber Optic Bundles to Miniaturize Vision-Based Tactile Sensors
+
+**Authors:** Julia Di, Zdravko Dugonjic, Will Fu, Tingfan Wu, Romeo Mercado, Kevin Sawyer, Victoria Rose Most, Gregg Kammerer, Stefanie Speidel, Richard E. Fan, Geoffrey Sonn, Mark R. Cutkosky, Mike Lambeta, Roberto Calandra
+
+## Summary
+Vision-based tactile sensors have recently become popular due to their combination of low cost, very high spatial resolution, and ease of integration using widely available miniature cameras. The associated field of view and focal length, however, are difficult to package in a human-sized finger. In this paper we employ optical fiber bundles to achieve a form factor that, at 15 mm diameter, is smaller than an average human fingertip. The electronics and camera are also located remotely, further reducing package size. The sensor achieves a spatial resolution of 0.22 mm and a minimum force resolution 5 mN for normal and shear contact forces. With these attributes, the DIGIT Pinki sensor is suitable for applications such as robotic and teleoperated digital palpation. We demonstrate its utility for palpation of the prostate gland and show that it can achieve clinically relevant discrimination of prostate stiffness for phantom and ex vivo tissue.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:17.190Z

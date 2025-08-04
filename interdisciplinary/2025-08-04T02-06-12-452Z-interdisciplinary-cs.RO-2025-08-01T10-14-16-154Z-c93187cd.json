@@ -1,0 +1,12 @@
+# Metaverse for Safer Roadways: An Immersive Digital Twin Framework for Exploring Human-Autonomy Coexistence in Urban Transportation Systems
+
+**Authors:** Tanmay Vilas Samak, Chinmay Vilas Samak, Venkat Narayan Krovi
+
+## Summary
+Societal-scale deployment of autonomous vehicles requires them to coexist with human drivers, necessitating mutual understanding and coordination among these entities. However, purely real-world or simulation-based experiments cannot be employed to explore such complex interactions due to safety and reliability concerns, respectively. Consequently, this work presents an immersive digital twin framework to explore and experiment with the interaction dynamics between autonomous and non-autonomous traffic participants. Particularly, we employ a mixed-reality human-machine interface to allow human drivers and autonomous agents to observe and interact with each other for testing edge-case scenarios while ensuring safety at all times. To validate the versatility of the proposed framework's modular architecture, we first present a discussion on a set of user experience experiments encompassing 4 different levels of immersion with 4 distinct user interfaces. We then present a case study of uncontrolled intersection traversal to demonstrate the efficacy of the proposed framework in validating the interactions of a primary human-driven, autonomous, and connected autonomous vehicle with a secondary semi-autonomous vehicle. The proposed framework has been openly released to guide the future of autonomy-oriented digital twins and research on human-autonomy coexistence.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:16.154Z

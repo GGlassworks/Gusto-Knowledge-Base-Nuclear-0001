@@ -1,0 +1,12 @@
+# Tezla, an Intermediate Representation for Static Analysis of Michelson Smart Contracts
+
+**Authors:** João Santos Reis, Paul Crocker, Simão Melo de Sousa
+
+## Summary
+This paper introduces Tezla, an intermediate representation of Michelson smart contracts that eases the design of static smart contract analysers. This intermediate representation uses a store and preserves the semantics, ow and resource usage of the original smart contract. This enables properties like gas consumption to be statically verified. We provide an automated decompiler of Michelson smart contracts to Tezla. In order to support our claim about the adequacy of Tezla, we develop a static analyser that takes advantage of the Tezla representation of Michelson smart contracts to prove simple but non-trivial properties.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.PL
+Collected: 2025-08-01T13:45:30.653Z

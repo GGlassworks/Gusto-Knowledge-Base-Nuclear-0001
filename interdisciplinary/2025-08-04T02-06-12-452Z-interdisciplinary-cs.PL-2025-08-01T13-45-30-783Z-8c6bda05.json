@@ -1,0 +1,12 @@
+# An Empirical Study of Protocols in Smart Contracts
+
+**Authors:** Timothy Mou, Michael Coblenz, Jonathan Aldrich
+
+## Summary
+Smart contracts are programs that are executed on a blockhain. They have been used for applications in voting, decentralized finance, and supply chain management. However, vulnerabilities in smart contracts have been abused by hackers, leading to financial losses. Understanding state machine protocols in smart contracts has been identified as important to catching common bugs, improving documentation, and optimizing smart contracts. We analyze Solidity smart contracts deployed on the Ethereum blockchain and study the prevalence of protocols and protocol-based bugs, as well as opportunities for gas optimizations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.PL
+Collected: 2025-08-01T13:45:30.783Z

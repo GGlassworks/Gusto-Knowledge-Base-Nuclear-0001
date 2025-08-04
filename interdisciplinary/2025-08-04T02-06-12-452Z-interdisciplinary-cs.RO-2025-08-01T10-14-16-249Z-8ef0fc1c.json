@@ -1,0 +1,12 @@
+# Mixed Cloud Control Testbed: Validating Vehicle-Road-Cloud Integration via Mixed Digital Twin
+
+**Authors:** Jianghong Dong, Qing Xu, Jiawei Wang, Chunying Yang, Mengchi Cai, Chaoyi Chen, Jianqiang Wang, Keqiang Li
+
+## Summary
+Reliable and efficient validation technologies are critical for the recent development of multi-vehicle cooperation and vehicle-road-cloud integration. In this paper, we introduce our miniature experimental platform, Mixed Cloud Control Testbed (MCCT), developed based on a new notion of Mixed Digital Twin (mixedDT). Combining Mixed Reality with Digital Twin, mixedDT integrates the virtual and physical spaces into a mixed one, where physical entities coexist and interact with virtual entities via their digital counterparts. Under the framework of mixedDT, MCCT contains three major experimental platforms in the physical, virtual and mixed spaces respectively, and provides a unified access for various human-machine interfaces and external devices such as driving simulators. A cloud unit, where the mixed experimental platform is deployed, is responsible for fusing multi-platform information and assigning control instructions, contributing to synchronous operation and real-time cross-platform interaction. Particularly, MCCT allows for multi-vehicle coordination composed of different multi-source vehicles (\eg, physical vehicles, virtual vehicles and human-driven vehicles). Validations on vehicle platooning demonstrate the flexibility and scalability of MCCT.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:16.249Z

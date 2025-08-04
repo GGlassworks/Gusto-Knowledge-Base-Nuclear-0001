@@ -1,0 +1,12 @@
+# FRESHR-GSI: A Generalized Safety Model and Evaluation Framework for Mobile Robots in Multi-Human Environments
+
+**Authors:** Pranav Pandey, Ramviyas Parasuraman, Prashant Doshi
+
+## Summary
+Human safety is critical in applications involving close human-robot interactions (HRI) and is a key aspect of physical compatibility between humans and robots. While measures of human safety in HRI exist, these mainly target industrial settings involving robotic manipulators. Less attention has been paid to settings where mobile robots and humans share the space. This paper introduces a new robot-centered directional framework of human safety. It is particularly useful for evaluating mobile robots as they operate in environments populated by multiple humans. The framework integrates several key metrics, such as each human's relative distance, speed, and orientation. The core novelty lies in the framework's flexibility to accommodate different application requirements while allowing for both the robot-centered and external observer points of view. We instantiate the framework by using RGB-D based vision integrated with a deep learning-based human detection pipeline to yield a generalized safety index (GSI) that instantaneously assesses human safety. We evaluate GSI's capability of producing appropriate, robust, and fine-grained safety measures in real-world experimental scenarios and compare its performance with extant safety models.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:21:08.352Z

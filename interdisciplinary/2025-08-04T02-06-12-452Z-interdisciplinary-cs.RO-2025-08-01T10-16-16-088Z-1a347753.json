@@ -1,0 +1,12 @@
+# Digital Twin in Safety-Critical Robotics Applications: Opportunities and Challenges
+
+**Authors:** Sabur Baidya, Sumit K. Das, Mohammad Helal Uddin, Chase Kosek, Chris Summers
+
+## Summary
+Digital Twin technology is being envisioned to be an integral part of the industrial evolution in modern generation. With the rapid advancement in the Internet-of-Things (IoT) technology and increasing trend of automation, integration between the virtual and the physical world is now realizable to produce practical digital twins. However, the existing definitions of digital twin is incomplete and sometimes ambiguous. Herein, we conduct historical review and analyze the modern generic view of digital twin to create its new extended definition. We also review and discuss the existing work in digital twin in safety-critical robotics applications. Especially, the usage of digital twin in industrial applications necessitates autonomous and remote operations due to environmental challenges. However, the uncertainties in the environment may need close monitoring and quick adaptation of the robots which need to be safety-proof and cost effective. We demonstrate a case study on developing a framework for safety-critical robotic arm applications and present the system performance to show its advantages, and discuss the challenges and scopes ahead.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:16:16.089Z

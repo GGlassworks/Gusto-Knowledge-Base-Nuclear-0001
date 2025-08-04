@@ -1,0 +1,12 @@
+# A Pillbug-Inspired Morphing Mechanism Covered with Sliding Shells
+
+**Authors:** Jieyu Wang, Yingzhong Tian, Fengfeng Xi, Damien Chablat, Jianing Lin, Gaoke Ren, Yinjun Zhao
+
+## Summary
+This research proposes a novel morphing structure with shells inspired by the movement of pillbugs. Instead of the pillbug body, a loopcoupled mechanism based on slider-crank mechanisms is utilized to achieve the rolling up and spreading motion. This mechanism precisely imitates three distinct curves that mimic the shape morphing of a pillbug. To decrease the degree-of-freedom (DOF) of the mechanism to one, scissor mechanisms are added. 3D curved shells are then attached to the tracer points of the morphing mechanism to safeguard it from attacks while allowing it to roll. Through type and dimensional synthesis, a complete system that includes shells and an underlying morphing mechanism is developed. A 3D model is created and tested to demonstrate the proposed system's shape-changing capability. Lastly, a robot with two modes is developed based on the proposed mechanism, which can curl up to roll down hills and can spread to move in a straight line via wheels.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T15:59:24.695Z

@@ -1,0 +1,12 @@
+# Controlling Traffic with Humanoid Social Robot
+
+**Authors:** Faisal Ghaffar
+
+## Summary
+The advancement of technology such as artificial intelligence, machine learning and internet of things it became easy to develop more humanoid robots and automate different processes. An interactive robot must have high social behavior so that it can be easily accepted by the people using it. In this study we designed a traffic police robot (TRAPROB) to automate the traffic control at intersection. The human police officer experiences high stress because of long duty hours as well as pose the risk of accidents. The digital electronic signals are automatic but we want to create a system which is more human like and looks like an officer controlling the traffic at intersection. We used Thiago++ robot in this study and modified its look to like a police officer, and then programmed it to imitate and make gestures just like traffic police officer makes gestures for controlling traffic. We evaluated the looks, gestures, functionality, and social behavior of the robot. We asked a limited sample of two participants to identify the TRAPBOT, rate its look, the social behaviors and gestures in comparison to a real life police officer. we found that people can identify the robot as traffic police robot. Our analysis also shows that TRAPBOT has appearance like a traffic robot and can make similar signal gestures as a traffic police officer.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:24:40.218Z

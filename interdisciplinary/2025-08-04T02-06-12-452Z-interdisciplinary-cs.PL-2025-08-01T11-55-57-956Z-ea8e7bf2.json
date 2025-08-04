@@ -1,0 +1,12 @@
+# Generic Programming with Combinators and Objects
+
+**Authors:** Dmitrii Kosarev, Dmitry Boulytchev
+
+## Summary
+We present a generic programming framework for OCAML which makes it possible to implement extensible transformations for a large scale of type definitions. Our framework makes use of objectoriented features of OCAML, utilising late binding to override the default behaviour of generated transformations. The support for polymorphic variant types complements the ability to describe composable data types with the ability to implement composable transformations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.PL
+Collected: 2025-08-01T11:55:57.957Z

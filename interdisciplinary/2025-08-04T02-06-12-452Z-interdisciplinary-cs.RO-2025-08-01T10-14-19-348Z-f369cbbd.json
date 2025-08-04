@@ -1,0 +1,12 @@
+# Human-Machine Interfaces for Subsea Telerobotics: From Soda-straw to Natural Language Interactions
+
+**Authors:** Adnan Abdullah, David Blow, Ruo Chen, Thanakon Uthai, Eric Jing Du, Md Jahidul Islam
+
+## Summary
+This review explores the evolution of human-machine interfaces (HMIs) in subsea telerobotics, charting the progression from traditional first-person "soda-straw" consoles -- characterized by narrow field-of-view camera feeds -- to contemporary interfaces leveraging gesture recognition, virtual reality, and natural language processing. We systematically analyze the state-of-the-art literature through three interrelated perspectives: operator experience (including immersive feedback, cognitive workload, and ergonomic design), robotic autonomy (contextual understanding and task execution), and the quality of bidirectional communication between human and machine. Emphasis is placed on interface features to highlight persistent limitations in current systems, notably in immersive feedback fidelity, intuitive control mechanisms, and the lack of cross-platform standardization. Additionally, we assess the role of simulators and digital twins as scalable tools for operator training and system prototyping. The review extends beyond classical teleoperation paradigms to examine modern shared autonomy frameworks that facilitate seamless human-robot collaboration. By synthesizing insights from robotics, marine engineering, artificial intelligence, and human factors -- this work provides a comprehensive overview of the current landscape and emerging trajectories in subsea HMI development. Finally, we identify key challenges and open research questions and outline a forward-looking roadmap for advancing intelligent and user-centric HMI technologies in subsea telerobotics.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:19.348Z

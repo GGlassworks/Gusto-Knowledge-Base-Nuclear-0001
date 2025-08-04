@@ -1,0 +1,12 @@
+# Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach
+
+**Authors:** Tim Schneider, Cristiana de Farias, Roberto Calandra, Liming Chen, Jan Peters
+
+## Summary
+Humans make extensive use of haptic exploration to map and identify the properties of the objects that we touch. In robotics, active tactile perception has emerged as an important research domain that complements vision for tasks such as object classification, shape reconstruction, and manipulation. This work introduces TAP (Task-agnostic Active Perception) -- a novel framework that leverages reinforcement learning (RL) and transformer-based architectures to address the challenges posed by partially observable environments. TAP integrates Soft Actor-Critic (SAC) and CrossQ algorithms within a unified optimization objective, jointly training a perception module and decision-making policy. By design, TAP is completely task-agnostic and can, in principle, generalize to any active perception problem. We evaluate TAP across diverse tasks, including toy examples and realistic applications involving haptic exploration of 3D models from the Tactile MNIST benchmark. Experiments demonstrate the efficacy of TAP, achieving high accuracies on the Tactile MNIST haptic digit recognition task and a tactile pose estimation task. These findings underscore the potential of TAP as a versatile and generalizable framework for advancing active tactile perception in robotics.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:16:24.958Z

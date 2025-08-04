@@ -1,0 +1,12 @@
+# Robotic LEGO Assembly and Disassembly from Human Demonstration
+
+**Authors:** Ruixuan Liu, Yifan Sun, Changliu Liu
+
+## Summary
+This paper studies automatic prototyping using LEGO. To satisfy individual needs and self-sustainability, this paper presents a framework that learns the assembly and disassembly sequences from human demonstrations. In addition, a digital twin is developed to verify the correctness of robot learning before deploying to the real world. Moreover, an end-effector tool (EOT) is designed, which allows large industrial robots to easily manipulate LEGO bricks. The proposed system is deployed to a FANUC LR-mate 200id/7L robot. Experiments demonstrate that the proposed system can effectively learn the assembly and disassembly tasks from human demonstrations. And the learned tasks are realized by the FANUC robot.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:16.607Z

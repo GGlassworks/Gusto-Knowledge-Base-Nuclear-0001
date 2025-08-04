@@ -1,0 +1,12 @@
+# A Multi-Arm Robotic Platform for Scientific Exploration
+
+**Authors:** Murilo Marques Marinho, Juan José Quiroz-Omaña, Kanako Harada
+
+## Summary
+There are a large number of robotic platforms with two or more arms targeting surgical applications. Despite that, very few groups have employed such platforms for scientific exploration. Possible applications of a multi-arm platform in scientific exploration involve the study of the mechanisms of intractable diseases by using organoids, i.e., miniature human organs) The study of organoids requires the preparation of a cranial window, which is done by carefully removing an 8 mm patch of the skull of a mouse. In this work, we present the first prototype of our AI-robot science platform for scientific experimentation, its digital twins, and perform validation experiments under teleoperation. The experiments showcase the dexterity of the platform by performing peg transfer, gauze cutting, mock experiments using eggs, and the world's first four-hand teleoperated drilling for a cranial window. The digital twins and related control software are freely available for noncommercial use at https://AISciencePlatform.github.io.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:16:09.218Z

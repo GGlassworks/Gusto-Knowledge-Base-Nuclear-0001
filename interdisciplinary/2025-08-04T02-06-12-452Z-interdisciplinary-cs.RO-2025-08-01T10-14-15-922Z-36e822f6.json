@@ -1,0 +1,12 @@
+# Attacking Digital Twins of Robotic Systems to Compromise Security and Safety
+
+**Authors:** Christopher Carr, Shenglin Wang, Peng Wang, Liangxiu Han
+
+## Summary
+Security and safety are of paramount importance to human-robot interaction, either for autonomous robots or human-robot collaborative manufacturing. The intertwined relationship between security and safety has imposed new challenges on the emerging digital twin systems of various types of robots. To be specific, the attack of either the cyber-physical system or the digital-twin system could cause severe consequences to the other. Particularly, the attack of a digital-twin system that is synchronized with a cyber-physical system could cause lateral damage to humans and other surrounding facilities. This paper demonstrates that for Robot Operating System (ROS) driven systems, attacks such as the person-in-the-middle attack of the digital-twin system could eventually lead to a collapse of the cyber-physical system, whether it is an industrial robot or an autonomous mobile robot, causing unexpected consequences. We also discuss potential solutions to alleviate such attacks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.RO
+Collected: 2025-08-01T10:14:15.922Z
