@@ -1,0 +1,12 @@
+# Optimizing Wireless Networks with Deep Unfolding: Comparative Study on Two Deep Unfolding Mechanisms
+
+**Authors:** Abuzar B. M. Adam, Mohammed A. M. Elhassan, Elhadj Moustapha Diallo
+
+## Summary
+In this work, we conduct a comparative study on two deep unfolding mechanisms to efficiently perform power control in the next generation wireless networks. The power control problem is formulated as energy efficiency over multiple interference links. The problem is nonconvex. We employ fractional programming transformation to design two solutions for the problem. The first solution is a numerical solution while the second solution is a closed-form solution. Based on the first solution, we design a semi-unfolding deep learning model where we combine the domain knowledge of the wireless communications and the recent advances in the data-driven deep learning. Moreover, on the highlights of the closed-form solution, fully deep unfolded deep learning model is designed in which we fully leveraged the expressive closed-form power control solution and deep learning advances. In the simulation results, we compare the performance of the proposed deep learning models and the iterative solutions in terms of accuracy and inference speed to show their suitability for the real-time application in next generation networks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T11:30:19.333Z

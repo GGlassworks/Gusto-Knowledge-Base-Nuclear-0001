@@ -1,0 +1,12 @@
+# Functional Component Descriptions for Electrical Circuits based on Semantic Technology Reasoning
+
+**Authors:** Johannes Bayer, Mina Karami Zadeh, Markus Schröder, Andreas Dengel
+
+## Summary
+Circuit diagrams have been used in electrical engineering for decades to describe the wiring of devices and facilities. They depict electrical components in a symbolic and graph-based manner. While the circuit design is usually performed electronically, there are still legacy paper-based diagrams that require digitization in order to be used in CAE systems. Generally, knowledge on specific circuits may be lost between engineering projects, making it hard for domain novices to understand a given circuit design. The graph-based nature of these documents can be exploited by semantic technology-based reasoning in order to generate human-understandable descriptions of their functional principles. More precisely, each electrical component (e.g. a diode) of a circuit may be assigned a high-level function label which describes its purpose within the device (e.g. flyback diode for reverse voltage protection). In this paper, forward chaining rules are used for such a generation. The described approach is applicable for both CAE-based circuits as well as raw circuits yielded by an image understanding pipeline. The viability of the approach is demonstrated by application to an existing set of circuits.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.OH
+Collected: 2025-08-01T10:16:16.953Z

@@ -1,0 +1,12 @@
+# A Layered Architecture Enabling Metaverse Applications in Smart Manufacturing Environments
+
+**Authors:** Armir Bujari, Alessandro Calvio, Andrea Garbugli, Paolo Bellavista
+
+## Summary
+The steady rollout of Industrial IoT (IIoT) technology in the manufacturing domain embodies the potential to implement smarter and more resilient production processes. To this end, it is expected that there will be a strong reliance of manufacturing processes on cloud/edge services so as to act intelligently and flexibly. While automation is necessary to handle the environment's complexity, human-in-the-loop design approaches are paramount. In this context, Digital Twins play a crucial role by allowing human operators to inspect and monitor the environment to ensure stability and reliability. Integrating the IIoT with the Metaverse enhances the system's capabilities even further, offering new opportunities for efficiency and collaboration while enabling integrated management of assets and processes. This article presents a layered conceptual architecture as an enabler for smart manufacturing metaverse environments, targeting real-time data collection and representations from shopfloor assets and processes. At the bottom layer, our proposal relies on middleware technology, serving differentiated Quality of Service (QoS) needs of the Operation Technology (OT) monitoring processes. The latter contributes to feeding a virtual layer where data processes reside, creating representations of the monitored phenomena at different timescales. Metaverse applications can consume data by tapping into the metaverse engine, a microservice-oriented and accelerated Platform as a Service (PaaS) layer tasked with bringing data to life. Without loss of generality, we profile different facets of our proposal by relying on two different proof-of-concept inspection applications aimed at real-time monitoring of the network fabric activity and a visual asset monitoring one.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:16:14.928Z

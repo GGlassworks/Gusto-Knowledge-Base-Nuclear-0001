@@ -1,0 +1,12 @@
+# Multi Expression Programming for solving classification problems
+
+**Authors:** Mihai Oltean
+
+## Summary
+Multi Expression Programming (MEP) is a Genetic Programming variant which encodes multiple solutions in a single chromosome. This paper introduces and deeply describes several strategies for solving binary and multi-class classification problems within the \textit{multi solutions per chromosome} paradigm of MEP. Extensive experiments on various classification problems are performed. MEP shows similar or better performances than other methods used for comparison (namely Artificial Neural Networks and Linear Genetic Programming).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:59:04.500Z

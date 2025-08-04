@@ -1,0 +1,12 @@
+# Dragonfly Algorithm and its Applications in Applied Science -- Survey
+
+**Authors:** Chnoor M. Rahman, Tarik A. Rashid
+
+## Summary
+One of the most recently developed heuristic optimization algorithms is dragonfly by Mirjalili. Dragonfly algorithm has shown its ability to optimizing different real world problems. It has three variants. In this work, an overview of the algorithm and its variants is presented. Moreover, the hybridization versions of the algorithm are discussed. Furthermore, the results of the applications that utilized dragonfly algorithm in applied science are offered in the following area: Machine Learning, Image Processing, Wireless, and Networking. It is then compared with some other metaheuristic algorithms. In addition, the algorithm is tested on the CEC-C06 2019 benchmark functions. The results prove that the algorithm has great exploration ability and its convergence rate is better than other algorithms in the literature, such as PSO and GA. In general, in this survey the strong and weak points of the algorithm are discussed. Furthermore, some future works that will help in improving the algorithm's weak points are recommended. This study is conducted with the hope of offering beneficial information about dragonfly algorithm to the researchers who want to study the algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T21:05:14.105Z

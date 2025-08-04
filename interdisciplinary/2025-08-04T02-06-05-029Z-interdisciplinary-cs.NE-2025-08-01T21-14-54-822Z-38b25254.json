@@ -1,0 +1,12 @@
+# A Note On The Popularity of Stochastic Optimization Algorithms in Different Fields: A Quantitative Analysis from 2007 to 2017
+
+**Authors:** Son Duy Dao
+
+## Summary
+Stochastic optimization algorithms are often used to solve complex large-scale optimization problems in various fields. To date, there have been a number of stochastic optimization algorithms such as Genetic Algorithm, Cuckoo Search, Tabu Search, Simulated Annealing, Particle Swarm Optimization, Ant Colony Optimization, etc. Each algorithm has some advantages and disadvantages. Currently, there is no study that can help researchers to choose the most popular optimization algorithm to deal with the problems in different research fields. In this note, a quantitative analysis of the popularity of 14 stochastic optimization algorithms in 18 different research fields in the last ten years from 2007 to 2017 is provided. This quantitative analysis can help researchers/practitioners select the best optimization algorithm to solve complex large-scale optimization problems in the fields of Engineering, Computer science, Operations research, Mathematics, Physics, Chemistry, Automation control systems, Materials science, Energy fuels, Mechanics, Telecommunications, Thermodynamics, Optics, Environmental sciences ecology, Water resources, Transportation, Construction building technology, and Robotics.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T21:14:54.824Z

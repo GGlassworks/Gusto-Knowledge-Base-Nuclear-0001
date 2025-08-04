@@ -1,0 +1,12 @@
+# RICERCANDO: Data Mining Toolkit for Mobile Broadband Measurements
+
+**Authors:** Veljko Pejovic, Ivan Majhen, Miha Janez, Blaz Zupan
+
+## Summary
+Increasing reliance on mobile broadband (MBB) networks for communication, vehicle navigation, healthcare, and other critical purposes calls for improved monitoring and troubleshooting of such networks. While recent advances in monitoring with crowdsourced as well as network infrastructure-based methods allow us to tap into a number of performance metrics from all layers of networking, huge swaths of data remain poorly or completely unexplored due to a lack of tools suitable for rapid, interactive, and rigorous MBB data analysis. In this paper we present RICERCANDO, a MBB data mining toolkit developed in a unique collaboration of networking and data mining experts. RICERCANDO consists of a preprocessing module that ensures that time-series data is stored in the most appropriate form for mining, a rapid exploration module that enables iterative analysis of time-series and geomobile data, so that anomalies are detected and singled out, and the advanced mining module that lets the analyst deduce root causes of observed anomalies. We implement and release RICERCANDO as open-source software, and validate its usability on case studies from MONROE pan-European MBB measurement testbed.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T19:35:49.712Z

@@ -1,0 +1,12 @@
+# A Differentiable Model for Optimizing the Genetic Drivers of Synaptogenesis
+
+**Authors:** Tommaso Boccato, Matteo Ferrante, Nicola Toschi
+
+## Summary
+There is a growing consensus among neuroscientists that many neural circuits critical for survival result from a process of genomic decompression, hence are constructed based on the information contained within the genome. Aligning with this perspective, we introduce SynaptoGen, a novel computational framework designed to bring the advent of synthetic biological intelligence closer, facilitating the development of neural biological agents through the precise control of genetic factors governing synaptogenesis. SynaptoGen represents the first model in the well-established family of Connectome Models (CMs) to offer a possible mechanistic explanation of synaptic multiplicity based on genetic expression and protein interaction probabilities, modeling connectivity with unprecedented granularity. Furthermore, SynaptoGen connects these genetic factors through a differentiable function, effectively working as a neural network in which each synaptic weight is computed as the average number of synapses between neurons, multiplied by its corresponding conductance, and derived from a specific genetic profile. Differentiability is a critical feature of the framework, enabling its integration with gradient-based optimization techniques. This allows SynaptoGen to generate patterns of genetic expression and/or genetic rules capable of producing pre-wired biological agents tailored to specific tasks. The framework is validated in simulated synaptogenesis scenarios with varying degrees of biological plausibility. It successfully produces biological agents capable of solving tasks in four different reinforcement learning benchmarks, consistently outperforming the state-of-the-art and a control baseline designed to represent populations of neurons where synapses form freely, i.e., without guided manipulations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:49:25.673Z

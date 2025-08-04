@@ -1,0 +1,12 @@
+# Cybertwin: An Origin of Next Generation Network Architecture
+
+**Authors:** Quan Yu, Jing Ren, Yinjin Fu, Ying Li, Wei Zhang
+
+## Summary
+With fast development of Internet of Everything (IoE) and its applications, the ever increasing mobile internet traffic and services bring unprecedented challenges including scalability, mobility, availability, and security which cannot be addressed by the current clean-slate network architecture. In this paper, a cybertwin based next generation network architecture is proposed to accomodate the evolution from end-to-end connection to cloud-to-end connection in the future network. As a digital representation of human or things in the virtual cyberspace, cybertwin serves in multiple capacities, such as communications assistant, network data logger, and digital asset owner. The new and unique characteristics of the cybertwin make the proposed network to be flexible, scalable, reliable, and secure. Further, we advocate a new cloud network operating system which can work in a distributed way through a real-time multi-agent trading platform to allocate 3C (computing, caching, communications) resources. We also propose cloud operator, a new operator that can provide and manage the resources to the end users and offer location and authentication services for human and things in the cyberspace. Some promising and open research topics are discussed to envision the challenges and opportunities of the cybertwin in the future network architecture.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:16:11.990Z

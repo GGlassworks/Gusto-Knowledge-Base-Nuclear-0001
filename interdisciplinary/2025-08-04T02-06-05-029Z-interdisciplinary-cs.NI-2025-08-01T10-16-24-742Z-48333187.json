@@ -1,0 +1,12 @@
+# Characterizing User Behavior: The Interplay Between Mobility Patterns and Mobile Traffic
+
+**Authors:** Anne Josiane Kouam, Aline Carneiro Viana, Mariano G. Beiró, Leo Ferres, Luca Pappalardo
+
+## Summary
+Mobile devices have become essential for capturing human activity, and eXtended Data Records (XDRs) offer rich opportunities for detailed user behavior modeling, which is useful for designing personalized digital services. Previous studies have primarily focused on aggregated mobile traffic and mobility analyses, often neglecting individual-level insights. This paper introduces a novel approach that explores the dependency between traffic and mobility behaviors at the user level. By analyzing 13 individual features that encompass traffic patterns and various mobility aspects, we enhance the understanding of how these behaviors interact. Our advanced user modeling framework integrates traffic and mobility behaviors over time, allowing for fine-grained dependencies while maintaining population heterogeneity through user-specific signatures. Furthermore, we develop a Markov model that infers traffic behavior from mobility and vice versa, prioritizing significant dependencies while addressing privacy concerns. Using a week-long XDR dataset from 1,337,719 users across several provinces in Chile, we validate our approach, demonstrating its robustness and applicability in accurately inferring user behavior and matching mobility and traffic profiles across diverse urban contexts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:16:24.743Z

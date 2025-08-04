@@ -1,0 +1,12 @@
+# Variations of Genetic Algorithms
+
+**Authors:** Alison Jenkins, Vinika Gupta, Alexis Myrick, Mary Lenoir
+
+## Summary
+The goal of this project is to develop the Genetic Algorithms (GA) for solving the Schaffer F6 function in fewer than 4000 function evaluations on a total of 30 runs. Four types of Genetic Algorithms (GA) are presented - Generational GA (GGA), Steady-State (mu+1)-GA (SSGA), Steady-Generational (mu,mu)-GA (SGGA), and (mu+mu)-GA.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:47:29.723Z

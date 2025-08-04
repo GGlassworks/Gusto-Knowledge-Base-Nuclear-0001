@@ -1,0 +1,12 @@
+# Time, Simultaneity, and Causality in Wireless Networks with Sensing and Communications
+
+**Authors:** Petar Popovski
+
+## Summary
+Wireless systems beyond 5G evolve towards embracing both sensing and communication, resulting in increased convergence of the digital and the physical world. The existence of fused digital-physical realms raises critical questions regarding temporal ordering, causality, and the synchronization of events. This paper addresses the temporal challenges arising from the fact that the wireless infrastructure becomes an entity with multisensory perception. With the growing reliance on real-time interactions and applications such as digital twins, extended reality, and the metaverse, the need for accurate timestamping and temporal forensics becomes crucial. The paper introduces a model that incorporates Temporal Windows of Integration (TWI) to emulate human multisensory perception and discusses the implications for setting timing constraints in real-time applications and enabling temporal forensics. The analysis explores trade-offs, probabilities, and bounds for simultaneity and causality violation in the context of wireless systems evolving towards perceptive networks. This work underscores the significance of timestamping in the evolving wireless landscape, provide insights into system-level implications, and points out new research avenues for systems that combine sensing and communications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:14:17.970Z

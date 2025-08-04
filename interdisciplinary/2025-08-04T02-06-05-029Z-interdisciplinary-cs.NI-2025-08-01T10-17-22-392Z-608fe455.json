@@ -1,0 +1,12 @@
+# Futuristic Intelligent Transportation System
+
+**Authors:** Yilong Hui, Zhou Su, Tom H. Luan, Nan Cheng
+
+## Summary
+The emerging autonomous vehicles (AVs) will inevitably revolutionize the transportation systems. This is because of a key feature of AVs; instead of being managed by human drivers as the conventional vehicles, AVs are of the complete capability to manage the driving by themselves. As a result, the futuristic intelligent transportation system (FITS) can be a centrally managed and optimized system with the fully coordinated driving of vehicles, which is impossible by the current transportation systems controlled by humans. In this article, we envision the operation of such FITS when AVs, advanced vehicular networks (VANETs) and artificial intelligence (AI) are adopted. Specifically, we first develop the autonomous vehicular networks (AVNs) based on the advanced development of AVs and heterogeneous vehicular communication technologies to achieve global data collection and real-time data sharing. With this network architecture, we then integrate AVNs and AI based on the intelligent digital twin (IDT) to design the FITS with the target of setting up an accurate and efficient global traffic scheduling system. After that, compared with the conventional schemes, a customized path planning case is studied to evaluate the performance of the proposed FITS. Finally, we highlight the emerging issues related to the FITS for future research.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:17:22.392Z

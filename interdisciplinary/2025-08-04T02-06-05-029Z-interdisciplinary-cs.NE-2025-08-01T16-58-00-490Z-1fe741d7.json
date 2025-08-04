@@ -1,0 +1,12 @@
+# Benchmarking Surrogate-Assisted Genetic Recommender Systems
+
+**Authors:** Thomas Gabor, Philipp Altmann
+
+## Summary
+We propose a new approach for building recommender systems by adapting surrogate-assisted interactive genetic algorithms. A pool of user-evaluated items is used to construct an approximative model which serves as a surrogate fitness function in a genetic algorithm for optimizing new suggestions. The surrogate is used to recommend new items to the user, which are then evaluated according to the user's liking and subsequently removed from the search space. By updating the surrogate model after new recommendations have been evaluated by the user, we enable the model itself to evolve towards the user's preferences. In order to precisely evaluate the performance of that approach, the human's subjective evaluation is replaced by common continuous objective benchmark functions for evolutionary algorithms. The system's performance is compared to a conventional genetic algorithm and random search. We show that given a very limited amount of allowed evaluations on the true objective, our approach outperforms these baseline methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:58:00.490Z

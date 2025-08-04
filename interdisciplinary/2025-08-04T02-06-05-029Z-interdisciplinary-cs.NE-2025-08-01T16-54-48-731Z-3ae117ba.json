@@ -1,0 +1,12 @@
+# Hitting times of local and global optima in genetic algorithms with very high selection pressure
+
+**Authors:** Anton Eremeev
+
+## Summary
+The paper is devoted to upper bounds on the expected first hitting times of the sets of local or global optima for non-elitist genetic algorithms with very high selection pressure. The results of this paper extend the range of situations where the upper bounds on the expected runtime are known for genetic algorithms and apply, in particular, to the Canonical Genetic Algorithm. The obtained bounds do not require the probability of fitness-decreasing mutation to be bounded by a constant less than one.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:54:48.731Z

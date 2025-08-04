@@ -1,0 +1,12 @@
+# Task-Oriented Metaverse Design in the 6G Era
+
+**Authors:** Zhen Meng, Changyang She, Guodong Zhao, Muhammad A. Imran, Mischa Dohler, Yonghui Li, Branka Vucetic
+
+## Summary
+As an emerging concept, the Metaverse has the potential to revolutionize the social interaction in the post-pandemic era by establishing a digital world for online education, remote healthcare, immersive business, intelligent transportation, and advanced manufacturing. The goal is ambitious, yet the methodologies and technologies to achieve the full vision of the Metaverse remain unclear. In this paper, we first introduce the three infrastructure pillars that lay the foundation of the Metaverse, i.e., human-computer interfaces, sensing and communication systems, and network architectures. Then, we depict the roadmap towards the Metaverse that consists of four stages with different applications. To support diverse applications in the Metaverse, we put forward a novel design methodology: task-oriented design, and further review the challenges and the potential solutions. In the case study, we develop a prototype to illustrate how to synchronize a real-world device and its digital model in the Metaverse by task-oriented design, where a deep reinforcement learning algorithm is adopted to minimize the required communication throughput by optimizing the sampling and prediction systems subject to a synchronization error constraint.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:16:09.266Z

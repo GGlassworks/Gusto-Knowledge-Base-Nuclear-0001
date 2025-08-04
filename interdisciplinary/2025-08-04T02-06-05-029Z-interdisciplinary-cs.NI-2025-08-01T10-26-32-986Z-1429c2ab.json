@@ -1,0 +1,12 @@
+# Robust Hybrid Precoding for Beam Misalignment in Millimeter-Wave Communications
+
+**Authors:** Chandan Pradhan, Ang Li, Li Zhuo, Yonghui Li, Branka Vucetic
+
+## Summary
+In this paper, we focus on the phenomenon of beam misalignment in Millimeter-wave (mmWave) multi-receiver communication systems, and propose robust hybrid precoding designs that alleviate the performance loss caused by this effect. We consider two distinct design methodologies: I) the synthesis of a `flat mainlobe' beam model which maximizes the minimum effective array gain over the beam misalignment range, and II) the inclusion of the `error statistics' into the design, where the array response incorporating the distribution of the misalignment error is derived. For both design methodologies, we propose a hybrid precoding design that approximates the robust fully-digital precoder, which is obtained via alternating optimization based on the gradient projection (GP) method. We also propose a low-complexity alternative to the GP algorithm based on the least square projection (LSP), and we further deploy a second-stage digital precoder to mitigate any residual inter-receiver interference after the hybrid analog-digital precoding. Numerical results show that the robust hybrid precoding designs can effectively alleviate the performance degradation incurred by beam misalignment.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:26:32.986Z

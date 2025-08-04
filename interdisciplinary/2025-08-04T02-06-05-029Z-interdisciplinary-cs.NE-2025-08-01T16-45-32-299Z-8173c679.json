@@ -1,0 +1,12 @@
+# Using Genetic Algorithm To Evolve Cellular Automata In Performing Edge Detection
+
+**Authors:** Karan Nayak
+
+## Summary
+Cellular automata are discrete and computational models thatcan be shown as general models of complexity. They are used in varied applications to derive the generalized behavior of the presented model. In this paper we have took one such application. We have made an effort to perform edge detection on an image using genetic algorithm. The purpose and the intention here is to analyze the capability and performance of the suggested genetic algorithm. Genetic algorithms are used to depict or obtain a general solution of given problem. Using this feature of GA we have tried to evolve the cellular automata and shown that how with time it converges to the desired results.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:45:32.299Z

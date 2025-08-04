@@ -1,0 +1,12 @@
+# Visualization of Mobility Digital Twin: Framework Design, Case Study, and Future Challenges
+
+**Authors:** Yueyang Liu, Xiaolong Tu, Dawei Chen, Kyungtae Han, Onur Altintas, Haoxin Wang, Jiang Xie
+
+## Summary
+A Mobility Digital Twin is an emerging implementation of digital twin technology in the transportation domain, which creates digital replicas for various physical mobility entities, such as vehicles, drivers, and pedestrians. Although a few work have investigated the applications of mobility digital twin recently, the extent to which it can facilitate safer autonomous vehicles remains insufficiently explored. In this paper, we first propose visualization of mobility digital twin, which aims to augment the existing perception systems in connected and autonomous vehicles through twinning high-fidelity and manipulable geometry representations for causal traffic participants, such as surrounding pedestrians and vehicles, in the digital space. An end-to-end system framework, including image data crowdsourcing, preprocessing, offloading, and edge-assisted 3D geometry reconstruction, is designed to enable real-world development of the proposed visualization of mobility digital twin. We implement the proposed system framework and conduct a case study to assess the twinning fidelity and physical-to-digital synchronicity within different image sampling scenarios and wireless network conditions. Based on the case study, future challenges of the proposed visualization of mobility digital twin are discussed toward the end of the paper.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:16:25.394Z

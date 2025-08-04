@@ -1,0 +1,12 @@
+# Empirical Optimization on Post-Disaster Communication Restoration for Social Equality
+
+**Authors:** Jianqing Liu, Shangjia Dong, Thomas Morris
+
+## Summary
+Disasters are constant threats to humankind, and beyond losses in lives, they cause many implicit yet profound societal issues such as wealth disparity and digital divide. Among those recovery measures in the aftermath of disasters, restoring and improving communication services is of vital importance. Although existing works have proposed many architectural and protocol designs, none of them have taken human factors and social equality into consideration. Recent sociological studies have shown that people from marginalized groups (e.g., minority, low income, and poor education) are more vulnerable to communication outages. In this work, we take pioneering efforts in integrating human factors into an empirical optimization model to determine strategies for post-disaster communication restoration. We cast the design into a mix-integer non-linear programming problem, which is proven too complex to be solved. Through a suite of convex relaxations, we then develop heuristic algorithms to efficiently solve the transformed optimization problem. Based on a collected dataset, we further evaluate and demonstrate how our design will prioritize communication services for vulnerable people and promote social equality compared with an existing modeling benchmark.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:17:20.839Z

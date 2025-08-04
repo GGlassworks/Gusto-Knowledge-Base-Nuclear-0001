@@ -1,0 +1,12 @@
+# Implementing Genetic Algorithms on Arduino Micro-Controllers
+
+**Authors:** Nuno Alves
+
+## Summary
+Since their conception in 1975, Genetic Algorithms have been an extremely popular approach to find exact or approximate solutions to optimization and search problems. Over the last years there has been an enhanced interest in the field with related techniques, such as grammatical evolution, being developed. Unfortunately, work on developing genetic optimizations for low-end embedded architectures hasn't embraced the same enthusiasm. This short paper tackles that situation by demonstrating how genetic algorithms can be implemented in Arduino Duemilanove, a 16 MHz open-source micro-controller, with limited computation power and storage resources. As part of this short paper, the libraries used in this implementation are released into the public domain under a GPL license.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:46:30.353Z

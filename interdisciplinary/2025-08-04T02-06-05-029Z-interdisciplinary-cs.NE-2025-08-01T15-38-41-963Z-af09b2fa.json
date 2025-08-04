@@ -1,0 +1,12 @@
+# LAB: A Leader-Advocate-Believer Based Optimization Algorithm
+
+**Authors:** Ruturaj Reddy, Anand J Kulkarni, Ganesh Krishnasamy, Apoorva S Shastri, Amir H. Gandomi
+
+## Summary
+This manuscript introduces a new socio-inspired metaheuristic technique referred to as Leader-Advocate-Believer based optimization algorithm (LAB) for engineering and global optimization problems. The proposed algorithm is inspired by the AI-based competitive behaviour exhibited by the individuals in a group while simultaneously improving themselves and establishing a role (Leader, Advocate, Believer). LAB performance in computational time and function evaluations are benchmarked using other metaheuristic algorithms. Besides benchmark problems, the LAB algorithm was applied for solving challenging engineering problems, including abrasive water jet machining, electric discharge machining, micro-machining processes, and process parameter optimization for turning titanium alloy in a minimum quantity lubrication environment. The results were superior to the other algorithms compared such as Firefly Algorithm, Variations of Co-hort Intelligence, Genetic Algorithm, Simulated Annealing, Particle Swarm Optimisation, and Multi-Cohort Intelligence. The results from this study highlighted that the LAB outperforms the other algorithms in terms of function evaluations and computational time. The prominent features of the LAB algorithm along with its limitations are also discussed.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T15:38:41.963Z

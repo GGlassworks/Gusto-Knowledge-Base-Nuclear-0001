@@ -1,0 +1,12 @@
+# Predictive Coding, Variational Autoencoders, and Biological Connections
+
+**Authors:** Joseph Marino
+
+## Summary
+This paper reviews predictive coding, from theoretical neuroscience, and variational autoencoders, from machine learning, identifying the common origin and mathematical framework underlying both areas. As each area is prominent within its respective field, more firmly connecting these areas could prove useful in the dialogue between neuroscience and machine learning. After reviewing each area, we discuss two possible correspondences implied by this perspective: cortical pyramidal dendrites as analogous to (non-linear) deep networks and lateral inhibition as analogous to normalizing flows. These connections may provide new directions for further investigations in each field.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T17:06:20.451Z

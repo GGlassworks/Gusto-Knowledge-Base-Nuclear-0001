@@ -1,0 +1,12 @@
+# A Power-Efficient Audio Acquisition System for Smart City Applications
+
+**Authors:** Evan Fallis, Petros Spachos, Stefano Gregori
+
+## Summary
+Acoustic noise has adverse effects on human activities. Aside from hearing impairment and stress-related illnesses, it can also interfere with spoken communication, reduce human performance and affect the quality of life. As urbanization is intensifying, the potential benefits of reducing noise pollution in smart-city environments are extensive. Noise levels can be collected and analyzed using a wireless sensor network which can monitor the noise level by using microphones. However, every wireless system struggles in terms of the battery requirements needed for continuous data collection and monitoring. In this paper, the design of a testbed for a smart microphone system is presented. To save power, a microcontroller and an Analog-to-Digital Converter (ADC) dynamically switch between high and low power modes in response to environmental noise. Specifically, the high powered components are triggered by a spike in the acoustic noise level. Three wireless technologies, WiFi (2.4 GHz), Bluetooth Low Energy (BLE) 4.0 and Zigbee were examined. According to the results, the power consumption of a node can be lowered by 97% when idle based on the testbed.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:16:12.723Z

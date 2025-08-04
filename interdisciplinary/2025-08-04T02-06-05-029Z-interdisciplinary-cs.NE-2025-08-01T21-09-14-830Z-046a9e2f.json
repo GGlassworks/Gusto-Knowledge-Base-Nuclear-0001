@@ -1,0 +1,12 @@
+# Decomposition-Based Multi-Objective Evolutionary Algorithm Design under Two Algorithm Frameworks
+
+**Authors:** Lie Meng Pang, Hisao Ishibuchi, Ke Shang
+
+## Summary
+The development of efficient and effective evolutionary multi-objective optimization (EMO) algorithms has been an active research topic in the evolutionary computation community. Over the years, many EMO algorithms have been proposed. The existing EMO algorithms are mainly developed based on the final population framework. In the final population framework, the final population of an EMO algorithm is presented to the decision maker. Thus, it is required that the final population produced by an EMO algorithm is a good solution set. Recently, the use of solution selection framework was suggested for the design of EMO algorithms. This framework has an unbounded external archive to store all the examined solutions. A pre-specified number of solutions are selected from the archive as the final solutions presented to the decision maker. When the solution selection framework is used, EMO algorithms can be designed in a more flexible manner since the final population is not necessarily to be a good solution set. In this paper, we examine the design of MOEA/D under these two frameworks. We use an offline genetic algorithm-based hyper-heuristic method to find the optimal configuration of MOEA/D in each framework. The DTLZ and WFG test suites and their minus versions are used in our experiments. The experimental results suggest the possibility that a more flexible, robust and high-performance MOEA/D algorithm can be obtained when the solution selection framework is used.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T21:09:14.832Z

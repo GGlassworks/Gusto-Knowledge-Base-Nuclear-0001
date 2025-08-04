@@ -1,0 +1,12 @@
+# Review of research on fireworks algorithm
+
+**Authors:** Zhao Zhigang, Li Zhimei, Mo Haimiao, Zeng Min
+
+## Summary
+Fireworks algorithm is a new type of intelligent optimization algorithm. Because of its fast convergence speed, easy implementation, explosiveness, diversity, simplicity and randomness, it has attracted more and more attention in many research fields recently. This paper introduces the background, composition, improvement idea of fireworks algorithm (analysis and improvement of operator, improvement of hybrid algorithm), and its application in continuous optimization, discrete optimization, single-objective optimization, multi-objective optimization and other fields. Finally, the future research directions of fireworks algorithm are summarized, including theoretical analysis, operator analysis and improvement, hybrid algorithm research and algorithm application.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T21:05:12.597Z

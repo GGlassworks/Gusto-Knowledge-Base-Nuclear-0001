@@ -1,0 +1,12 @@
+# Beetle Swarm Optimization Algorithm:Theory and Application
+
+**Authors:** Tiantian Wang, Long Yang
+
+## Summary
+In this paper, a new meta-heuristic algorithm, called beetle swarm optimization algorithm, is proposed by enhancing the performance of swarm optimization through beetle foraging principles. The performance of 23 benchmark functions is tested and compared with widely used algorithms, including particle swarm optimization algorithm, genetic algorithm (GA) and grasshopper optimization algorithm . Numerical experiments show that the beetle swarm optimization algorithm outperforms its counterparts. Besides, to demonstrate the practical impact of the proposed algorithm, two classic engineering design problems, namely, pressure vessel design problem and himmelblaus optimization problem, are also considered and the proposed beetle swarm optimization algorithm is shown to be competitive in those applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T21:04:11.621Z

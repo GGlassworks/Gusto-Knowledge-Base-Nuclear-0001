@@ -1,0 +1,12 @@
+# IoT Forensic -- A digital investigation framework for IoT systems
+
+**Authors:** Snehal Sathwara, Nitul Dutta, Emil Pricop
+
+## Summary
+Security issues, threats, and attacks in relation with the IoT have been identified as promising and challenging area of research. Eventually, the need for a forensics methodology for investigating IoT-related crime is therefore essential. However, the IoT poses many challenges for forensics investigators. These include the wide range and variety of information, the unclear lines of differentiation between networks, for example private networks increasingly fading into public networks. Further, integration of a large number of objects in IoT forensic interest, along with the relevance of identified and collected devices makes forensic of IoT devices more complicated. The scope of this paper is to present a framework for IoT forensic. We aimed at the study and development of the link to support digital investigations of IoT devices and tackle emerging challenges in digital forensics. We emphasize on various steps for digital forensic with respect to IoT devices.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NI
+Collected: 2025-08-01T10:26:35.865Z

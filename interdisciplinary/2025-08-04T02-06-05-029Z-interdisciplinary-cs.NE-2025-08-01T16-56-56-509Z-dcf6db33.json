@@ -1,0 +1,12 @@
+# CGP++ : A Modern C++ Implementation of Cartesian Genetic Programming
+
+**Authors:** Roman Kalkreuth, Thomas Baeck
+
+## Summary
+The reference implementation of Cartesian Genetic Programming (CGP) was written in the C programming language. C inherently follows a procedural programming paradigm, which entails challenges in providing a reusable and scalable implementation model for complex structures and methods. Moreover, due to the limiting factors of C, the reference implementation of CGP does not provide a generic framework and is therefore restricted to a set of predefined evaluation types. Besides the reference implementation, we also observe that other existing implementations are limited with respect to the features provided. In this work, we therefore propose the first version of a modern C++ implementation of CGP that pursues object-oriented design and generic programming paradigm to provide an efficient implementation model that can facilitate the discovery of new problem domains and the implementation of complex advanced methods that have been proposed for CGP over time. With the proposal of our new implementation, we aim to generally promote interpretability, accessibility and reproducibility in the field of CGP.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:56:56.509Z

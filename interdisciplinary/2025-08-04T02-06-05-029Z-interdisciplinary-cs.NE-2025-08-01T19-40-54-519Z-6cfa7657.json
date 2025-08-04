@@ -1,0 +1,12 @@
+# Cambrian Explosion Algorithm for Multi-Objective Association Rules Mining
+
+**Authors:** Théophile Berteloot, Richard Khoury, Audrey Durand
+
+## Summary
+Association rule mining is one of the most studied research fields of data mining, with applications ranging from grocery basket problems to highly explainable classification systems. Classical association rule mining algorithms have several flaws especially with regards to their execution times, memory usage and number of rules produced. An alternative is the use of meta-heuristics, which have been used on several optimisation problems. This paper has two objectives. First, we provide a comparison of the performances of state-of-the-art meta-heuristics on the association rule mining problem. We use the multi-objective versions of those algorithms using support, confidence and cosine. Second, we propose a new algorithm designed to mine rules efficiently from massive datasets by exploring a large variety of solutions, akin to the explosion of species diversity of the Cambrian Explosion. We compare our algorithm to 20 benchmark algorithms on 22 real-world data-sets, and show that our algorithm present good results and outperform several state-of-the-art algorithms.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T19:40:54.520Z

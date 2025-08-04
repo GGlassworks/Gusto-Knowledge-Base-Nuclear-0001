@@ -1,0 +1,12 @@
+# Evaluating Genetic Algorithms through the Approximability Hierarchy
+
+**Authors:** Alba Muñoz, Fernando Rubio
+
+## Summary
+Optimization problems frequently appear in any scientific domain. Most of the times, the corresponding decision problem turns out to be NP-hard, and in these cases genetic algorithms are often used to obtain approximated solutions. However, the difficulty to approximate different NP-hard problems can vary a lot. In this paper, we analyze the usefulness of using genetic algorithms depending on the approximation class the problem belongs to. In particular, we use the standard approximability hierarchy, showing that genetic algorithms are especially useful for the most pessimistic classes of the hierarchy
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:58:01.024Z

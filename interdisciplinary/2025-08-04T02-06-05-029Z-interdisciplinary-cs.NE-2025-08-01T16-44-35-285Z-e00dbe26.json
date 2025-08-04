@@ -1,0 +1,12 @@
+# Finite State Machine Synthesis for Evolutionary Hardware
+
+**Authors:** Andrey Bereza, Maksim Lyashov, Luis Blanco
+
+## Summary
+This article considers application of genetic algorithms for finite machine synthesis. The resulting genetic finite state machines synthesis algorithm allows for creation of machines with less number of states and within shorter time. This makes it possible to use hardware-oriented genetic finite machines synthesis algorithm in autonomous systems on reconfigurable platforms.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:44:35.285Z

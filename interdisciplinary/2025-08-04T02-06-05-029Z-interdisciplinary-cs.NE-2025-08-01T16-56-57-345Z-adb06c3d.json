@@ -1,0 +1,12 @@
+# Tag-based regulation of modules in genetic programming improves context-dependent problem solving
+
+**Authors:** Alexander Lalejini, Matthew Andres Moreno, Charles Ofria
+
+## Summary
+We introduce and experimentally demonstrate the utility of tag-based genetic regulation, a new genetic programming (GP) technique that allows programs to dynamically adjust which code modules to express. Tags are evolvable labels that provide a flexible mechanism for referencing code modules. Tag-based genetic regulation extends existing tag-based naming schemes to allow programs to "promote" and "repress" code modules in order to alter expression patterns. This extension allows evolution to structure a program as a gene regulatory network where modules are regulated based on instruction executions. We demonstrate the functionality of tag-based regulation on a range of program synthesis problems. We find that tag-based regulation improves problem-solving performance on context-dependent problems; that is, problems where programs must adjust how they respond to current inputs based on prior inputs. Indeed, the system could not evolve solutions to some context-dependent problems until regulation was added. Our implementation of tag-based genetic regulation is not universally beneficial, however. We identify scenarios where the correct response to a particular input never changes, rendering tag-based regulation an unneeded functionality that can sometimes impede adaptive evolution. Tag-based genetic regulation broadens our repertoire of techniques for evolving more dynamic genetic programs and can easily be incorporated into existing tag-enabled GP systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T16:56:57.345Z
