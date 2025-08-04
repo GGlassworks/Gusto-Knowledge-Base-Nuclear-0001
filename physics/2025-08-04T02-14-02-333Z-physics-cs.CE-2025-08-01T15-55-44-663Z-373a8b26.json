@@ -1,0 +1,12 @@
+# A physics-informed GAN Framework based on Model-free Data-Driven Computational Mechanics
+
+**Authors:** Kerem Ciftci, Klaus Hackl
+
+## Summary
+Model-free data-driven computational mechanics, first proposed by Kirchdoerfer and Ortiz, replace phenomenological models with numerical simulations based on sample data sets in strain-stress space. In this study, we integrate this paradigm within physics-informed generative adversarial networks (GANs). We enhance the conventional physics-informed neural network framework by implementing the principles of data-driven computational mechanics into GANs. Specifically, the generator is informed by physical constraints, while the discriminator utilizes the closest strain-stress data to discern the authenticity of the generator's output. This combined approach presents a new formalism to harness data-driven mechanics and deep learning to simulate and predict mechanical behaviors.
+
+
+---
+Category: physics
+Subcategory: cs.CE
+Collected: 2025-08-01T15:55:44.663Z

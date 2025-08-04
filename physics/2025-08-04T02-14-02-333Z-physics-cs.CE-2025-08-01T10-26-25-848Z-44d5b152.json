@@ -1,0 +1,12 @@
+# Autonomous Cooking with Digital Twin Methodology
+
+**Authors:** Maximilian Kannapinn, Michael Schäfer
+
+## Summary
+This work introduces the concept of an autonomous cooking process based on Digital Twin method- ology. It proposes a hybrid approach of physics-based full order simulations followed by a data-driven system identification process with low errors. It makes faster-than-real-time simulations of Digital Twins feasible on a device level, without the need for cloud or high-performance computing. The concept is universally applicable to various physical processes.
+
+
+---
+Category: physics
+Subcategory: cs.CE
+Collected: 2025-08-01T10:26:25.848Z

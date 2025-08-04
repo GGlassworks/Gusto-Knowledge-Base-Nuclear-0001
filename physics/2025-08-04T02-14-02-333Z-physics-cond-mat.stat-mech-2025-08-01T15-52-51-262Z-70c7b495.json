@@ -1,0 +1,12 @@
+# Optimization analysis of an endoreversible quantum heat engine with efficient power function
+
+**Authors:** Kirandeep Kaur, Anmol Jain, Love Sahajbir Singh, Rakesh Singla, Shishram Rebari
+
+## Summary
+We study the optimal performance of an endoreversible quantum dot heat engine, in which the heat transfer between the system and baths is mediated by qubits, operating under the conditions of a trade-off objective function known as maximum efficient power function defined by the product of power and efficiency of the engine. First, we numerically study the optimization of the efficient power function for the engine under consideration. Then, we obtain some analytic results by applying hightemperature limit and compare the performance of the engine at maximum efficient power functionto the engine operating in the maximum power regime. We find that the engine operating at maximum efficient power function produces at least 88.89% of the maximum power output while at the same time reduces the power loss due to entropy production by considerable amount. We conclude by studying the stochastic simulations of the efficiency of the engine in maximum power and maximum efficient power regime. We find that the engine operating at maximum power is subjected to less power fluctuations as compared to the on one operating at maximum efficient power function.
+
+
+---
+Category: physics
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:52:51.263Z

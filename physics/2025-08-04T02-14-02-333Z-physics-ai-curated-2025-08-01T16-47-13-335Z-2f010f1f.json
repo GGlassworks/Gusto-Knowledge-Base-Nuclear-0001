@@ -1,0 +1,13 @@
+# Least Squares Boosting Ensemble and Quantum-Behaved Particle Swarm Optimization for Predicting the Surface Roughness in Face Milling Process of Aluminum Material
+
+**Authors:** M. Alajmi, A. Almeshal
+
+## Abstract
+Surface roughness is a significant factor in determining the product quality and highly impacts the production price. The ability to predict the surface roughness before production would save the time and resources of the process. This research investigated the performance of state-of-the-art machine learning and quantum behaved evolutionary computation methods in predicting the surface roughness of aluminum material in a face-milling machine. Quantum-behaved particle swarm optimization (QPSO) and least squares gradient boosting ensemble (LSBoost) were utilized to simulate numerous face milling experiments and have predicted the surface roughness values with high extent of accuracy. The algorithms have shown a superior prediction performance over genetics optimization algorithm (GA) and the classical particle swarm optimization (PSO) in terms of statistical performance indicators. The QPSO outperformed all the simulated algorithms with a root mean square error of RMSE = 2.17% and a coefficient of determination R2 = 0.95 that closely matches the actual surface roughness experimental values.
+
+**Source:** https://www.semanticscholar.org/paper/27247f0cfc567bd10a462d880443e89db4a7d766
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:13.335Z

@@ -1,0 +1,13 @@
+# Emerging quantum computing algorithms for quantum chemistry
+
+**Authors:** M. Motta, J. Rice
+
+## Abstract
+Digital quantum computers provide a computational framework for solving the Schrödinger equation for a variety of many‐particle systems. Quantum computing algorithms for the quantum simulation of these systems have recently witnessed remarkable growth, notwithstanding the limitations of existing quantum hardware, especially as a tool for electronic structure computations in molecules. In this review, we provide a self‐contained introduction to emerging algorithms for the simulation of Hamiltonian dynamics and eigenstates, with emphasis on their applications to the electronic structure in molecular systems. Theoretical foundations and implementation details of the method are discussed, and their strengths, limitations, and recent advances are presented.
+
+**Source:** https://www.semanticscholar.org/paper/d2a5dcecd2ffdf03473df1688091f08fadb114a3
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T09:53:37.278Z

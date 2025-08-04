@@ -1,0 +1,13 @@
+# Quantum computing algorithms: getting closer to critical problems in computational biology
+
+**Authors:** L. Marchetti, R. Nifosí, P. Martelli, E. Pozzo, Valentina Cappello, Francesco Banterle, M. Trincavelli, C. Martini, Massimo D'Elia
+
+## Abstract
+Abstract The recent biotechnological progress has allowed life scientists and physicians to access an unprecedented, massive amount of data at all levels (molecular, supramolecular, cellular and so on) of biological complexity. So far, mostly classical computational efforts have been dedicated to the simulation, prediction or de novo design of biomolecules, in order to improve the understanding of their function or to develop novel therapeutics. At a higher level of complexity, the progress of omics disciplines (genomics, transcriptomics, proteomics and metabolomics) has prompted researchers to develop informatics means to describe and annotate new biomolecules identified with a resolution down to the single cell, but also with a high-throughput speed. Machine learning approaches have been implemented to both the modelling studies and the handling of biomedical data. Quantum computing (QC) approaches hold the promise to resolve, speed up or refine the analysis of a wide range of these computational problems. Here, we review and comment on recently developed QC algorithms for biocomputing, with a particular focus on multi-scale modelling and genomic analyses. Indeed, differently from other computational approaches such as protein structure prediction, these problems have been shown to be adequately mapped onto quantum architectures, the main limit for their immediate use being the number of qubits and decoherence effects in the available quantum machines. Possible advantages over the classical counterparts are highlighted, along with a description of some hybrid classical/quantum approaches, which could be the closest to be realistically applied in biocomputation.
+
+**Source:** https://www.semanticscholar.org/paper/84af60989ab4d0a51b7889d964f55657e48c7d56
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T16:31:58.667Z

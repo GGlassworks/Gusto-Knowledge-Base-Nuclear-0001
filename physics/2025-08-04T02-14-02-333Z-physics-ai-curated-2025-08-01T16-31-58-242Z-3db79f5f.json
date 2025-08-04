@@ -1,0 +1,13 @@
+# Quantum Computing in the Next-Generation Computational Biology Landscape: From Protein Folding to Molecular Dynamics
+
+**Authors:** S. Pal, M. Bhattacharya, Sang-Soo Lee, C. Chakraborty
+
+## Abstract
+Modern biological science is trying to solve the fundamental complex problems of molecular biology, which include protein folding, drug discovery, simulation of macromolecular structure, genome assembly, and many more. Currently, quantum computing (QC), a rapidly emerging technology exploiting quantum mechanical phenomena, has developed to address current significant physical, chemical, biological issues, and complex questions. The present review discusses quantum computing technology and its status in solving molecular biology problems, especially in the next-generation computational biology scenario. First, the article explained the basic concept of quantum computing, the functioning of quantum systems where information is stored as qubits, and data storage capacity using quantum gates. Second, the review discussed quantum computing components, such as quantum hardware, quantum processors, and quantum annealing. At the same time, article also discussed quantum algorithms, such as the grover search algorithm and discrete and factorization algorithms. Furthermore, the article discussed the different applications of quantum computing to understand the next-generation biological problems, such as simulation and modeling of biological macromolecules, computational biology problems, data analysis in bioinformatics, protein folding, molecular biology problems, modeling of gene regulatory networks, drug discovery and development, mechano-biology, and RNA folding. Finally, the article represented different probable prospects of quantum computing in molecular biology.
+
+**Source:** https://www.semanticscholar.org/paper/4cdfe549b1e90b8e0cc6a65910f109d3191c0aed
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T16:31:58.243Z

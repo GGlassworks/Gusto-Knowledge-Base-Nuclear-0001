@@ -1,0 +1,12 @@
+# Maxwell's Demon for Quantum Transport
+
+**Authors:** Kangqiao Liu, Masaya Nakagawa, Masahito Ueda
+
+## Summary
+Maxwell's demon can be utilized to construct quantum information engines. While most of the existing quantum information engines harness thermal fluctuations, quantum information engines that utilize quantum fluctuations have recently been discussed. We propose a new type of genuinely quantum information engine that harnesses quantum fluctuations to achieve cumulative storage of useful work and unidirectional transport of a particle. Our scheme does not require thermalization, which eliminates the ambiguity in evaluating the power and velocity of our proposed engine in contrast to other existing quantum information engines that can transport a particle. We find a tradeoff relationship between the maximum achievable power and the maximum velocity. We also propose an improved definition of efficiency by clarifying all possible energy flows involved in the engine cycle.
+
+
+---
+Category: physics
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T16:02:58.562Z

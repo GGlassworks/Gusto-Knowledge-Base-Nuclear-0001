@@ -1,0 +1,12 @@
+# Quantum-mechanical engine models and their efficiencies
+
+**Authors:** Jianhui Wang, Yongli Ma, Jizhou He
+
+## Summary
+Based on quantum thermodynamic processes, we make a quantum-mechanical (QM) extension of the typical heat engine cycles, such as the Carnot, Brayton, Otto, and Diesel cycles, etc. The temperature is not included in these QM engine cycles, as lies in the fact that the concept of energy is well-defined in quantum mechanics, temperature \emph{a priori} is not. These QM engine cycles are implemented by an ideal or interacting system with an arbitrary number of particles confined in an arbitrary power-law trap. As a result, a relation between the quantum adiabatic exponent and trap exponent is found. The efficiency of a given QM engine cycle is similar to that of its classical counterpart, thereby identifying the universality of the efficiency.
+
+
+---
+Category: physics
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:50:03.439Z

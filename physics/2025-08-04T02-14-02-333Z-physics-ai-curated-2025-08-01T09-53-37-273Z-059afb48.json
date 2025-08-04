@@ -1,0 +1,13 @@
+# Quantum Computing Algorithms for Integer Factorization: A Comparative Analysis
+
+**Authors:** Dr. Nadia Ahmed
+
+## Abstract
+The field of quantum computing has witnessed remarkable advancements in recent years, particularly in its potential applications to solve computationally hard problems such as integer factorization. a comparative analysis of quantum computing algorithms for integer factorization, focusing on their theoretical foundations, computational complexity, and practical implications. We review prominent algorithms such as Shor's algorithm, which leverages quantum parallelism and period finding to efficiently factor large composite integers, and compare them with classical factorization algorithms like the General Number Field Sieve (GNFS). Through a comprehensive examination of algorithmic strategies, runtime complexities, and quantum circuit implementations, we assess the relative strengths and limitations of quantum computing approaches for integer factorization. Furthermore, we discuss potential challenges and future research directions in harnessing the power of quantum computing to address cryptographic security and algorithmic complexity in the era of post-quantum cryptography.
+
+**Source:** https://www.semanticscholar.org/paper/bc10e60dd6b6acab13b733ba2826216220d924e9
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T09:53:37.273Z

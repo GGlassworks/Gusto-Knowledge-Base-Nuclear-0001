@@ -1,0 +1,12 @@
+# Fast method for quantum mechanical molecular dynamics
+
+**Authors:** Anders M. N. Niklasson, Marc J. Cawkwell
+
+## Summary
+With the continuous growth of processing power for scientific computing, first principles Born-Oppenheimer molecular dynamics (MD) simulations are becoming increasingly popular for the study of a wide range of problems in materials science, chemistry and biology. Nevertheless, the computational cost still remains prohibitively large in many cases, particularly in comparison to classical MD simulations using empirical force fields. Here we show how to circumvent the major computational bottleneck in Born-Oppenheimer MD simulations arising from the self-consistent-charge optimization. The optimization-free quantum mechanical MD method is demonstrated for density functional tight-binding theory. The molecular trajectories are almost indistinguishable from an "exact" microcanonical Born-Oppenheimer MD simulation even when linear scaling sparse matrix algebra is used. Our findings drastically reduce the computational gap between classical and quantum mechanical MD simulations.
+
+
+---
+Category: physics
+Subcategory: cond-mat.mtrl-sci
+Collected: 2025-08-01T16:42:24.167Z

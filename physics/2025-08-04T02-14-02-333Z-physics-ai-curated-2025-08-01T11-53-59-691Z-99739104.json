@@ -1,0 +1,13 @@
+# Hotspot Temperature Prediction of Dry-Type Transformers Based on Particle Filter Optimization with Support Vector Regression
+
+**Authors:** Yuanyuan Sun, Gongde Xu, N. Li, Kejun Li, Yongliang Liang, Hui Zhong, Lina Zhang, Ping Liu
+
+## Abstract
+Both poor cooling methods and complex heat dissipation lead to prominent asymmetry in transformer temperature distribution. Both the operating life and load capacity of a power transformer are closely related to the winding hotspot temperature. Realizing accurate prediction of the hotspot temperature of transformer windings is the key to effectively preventing thermal faults in transformers, thus ensuring the reliable operation of transformers and accurately predicting transformer operating lifetimes. In this paper, a hot spot temperature prediction method is proposed based on the transformer operating parameters through the particle filter optimization support vector regression model. Based on the monitored transformer temperature, load rate, transformer cooling type, and ambient temperature, the hotspot temperature of a dry-type transformer can be predicted by a support vector regression method. The hyperparameters of the support vector regression are dynamically optimized here according to the particle filter to improve the optimization accuracy. The validity and accuracy of the proposed method are verified by comparing the proposed method with a traditional support vector regression method based on the real operating data of a 35 kV dry-type transformer.
+
+**Source:** https://www.semanticscholar.org/paper/f54a32ef6bc037b32bf2ab3daa01296922d1e208
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:59.691Z

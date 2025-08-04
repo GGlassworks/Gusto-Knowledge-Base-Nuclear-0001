@@ -1,0 +1,13 @@
+# TEQUILA: a platform for rapid development of quantum algorithms
+
+**Authors:** Jakob S. Kottmann, Sumner Alperin-Lea, Teresa Tamayo-Mendoza, Alba Cervera-Lierta, C. Lavigne, Tzu-Ching Yen, Vladyslav Verteletskyi, Philipp Schleich, A. Anand, M. Degroote, Skylar Chaney, Maha Kesibi, A. Izmaylov, Alán Aspuru-Guzik
+
+## Abstract
+Variational quantum algorithms are currently the most promising class of algorithms for deployment on near-term quantum computers. In contrast to classical algorithms, there are almost no standardized methods in quantum algorithmic development yet, and the field continues to evolve rapidly. As in classical computing, heuristics play a crucial role in the development of new quantum algorithms, resulting in a high demand for flexible and reliable ways to implement, test, and share new ideas. Inspired by this demand, we introduce tequila, a development package for quantum algorithms in python, designed for fast and flexible implementation, prototyping and deployment of novel quantum algorithms in electronic structure and other fields. tequila operates with abstract expectation values which can be combined, transformed, differentiated, and optimized. On evaluation, the abstract data structures are compiled to run on state of the art quantum simulators or interfaces.
+
+**Source:** https://www.semanticscholar.org/paper/b54a2e0be0670a1ec752cb03ec45323c1ca790f9
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T21:16:58.283Z

@@ -1,0 +1,29 @@
+# A Survey of Algorithms, Applications and Trends for Particle Swarm Optimization
+
+**Authors:** Jingzhong Fang, Weibo Liu, Linwei Chen, S. Lauria, A. Miron, Xiaohui Liu
+
+## Abstract
+Survey/review study
+A Survey of Algorithms, Applications and Trends for Particle Swarm Optimization
+
+Jingzhong Fang 1, Weibo Liu 1,*, Linwei Chen 2, Stanislao Lauria 1, Alina Miron 1, and Xiaohui Liu 1
+
+
+1 Department of Computer Science, Brunel University London, Uxbridge, Middlesex, UB8 3PH, United Kingdom
+2 The School of Engineering, University of Warwick, Coventry CV4 7AL, United Kingdom
+* Correspondence: Weibo.Liu2@brunel.ac.uk
+ 
+ 
+Received: 18 October 2022
+Accepted: 28 November 2022
+Published: 
+ 
+
+Abstract: Particle swarm optimization (PSO) is a popular heuristic method, which is capable of effectively dealing with various optimization problems. A detailed overview of the original PSO and some PSO variant algorithms is presented in this paper. An up-to-date review is provided on the development of PSO variants, which include four types i.e., the adjustment of control parameters, the newly-designed updating strategies, the topological structures, and the hybridization with other optimization algorithms. A general overview of some selected applications (e.g., robotics, energy systems, power systems, and data analytics) of the PSO algorithms is also given. In this paper, some possible future research topics of the PSO algorithms are also introduced.
+
+**Source:** https://www.semanticscholar.org/paper/ae07b20a239e0a9c8e8a4a2c4da74566635510b2
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T21:05:53.524Z

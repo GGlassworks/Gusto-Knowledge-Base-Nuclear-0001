@@ -1,0 +1,12 @@
+# Second law for active heat engines
+
+**Authors:** Arya Datta, Patrick Pietzonka, Andre C Barato
+
+## Summary
+Macroscopic cyclic heat engines have been a major motivation for the emergence of thermodynamics. In the last decade, cyclic heat engines that have large fluctuations and operate at finite time were studied within the more modern framework of stochastic thermodynamics. The second law for such heat engines states that the efficiency cannot be larger than the Carnot efficiency. The concept of cyclic active heat engines for a system in the presence of hidden dissipative degrees of freedom, also known as a nonequilibrium or active reservoir, has also been studied in theory and experiment. Such active engines show rather interesting behavior such as an ``efficiency'' larger than the Carnot bound. They are also likely to play an important role in future developments, given the ubiquitous presence of active media. However, a general second law for cyclic active heat engines has been lacking so far. Here, upon using a known inequality in stochastic stochastic thermodynamics for the excess entropy, we obtain a general second law for active heat engines, which does not involve the energy dissipation of the hidden degrees of freedom and is expressed in terms of quantities that can be measured directly from the observable degrees of freedom. Besides heat and work, our second law contains an information-theoretic term, which allows an active heat engine to extract work beyond the limits valid for a passive heat engine. To obtain a second law expressed in terms of observable variables in the presence of hidden degrees of freedom we introduce a coarse-grained excess entropy and prove a fluctuation theorem for this quantity.
+
+
+---
+Category: physics
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:55:45.092Z

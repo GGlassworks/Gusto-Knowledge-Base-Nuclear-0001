@@ -1,0 +1,12 @@
+# Programmable Motion of Optically Gated Electrically Powered Engineered Microswimmer Robots
+
+**Authors:** Matan Zehavi, Ido Rachbuch, Sinwook Park, Touvia Miloh, Orlin Velev, Gilad Yossifon
+
+## Summary
+Here, we report on a new class active particles capable of dynamically programmable motion powered by electricity. We have implemented physical principles that separate the propulsion and steering mechanisms of active motion using optically activated, patterned, photoresponsive semiconductor coatings on intricate microstructures. Our engineered microswimmer robots employ an induced-charge electro-phoresis (ICEP) mechanism to achieve linear motion and optically modulated electrokinetic propulsion (OMEP) for steering. Optical modulation is achieved by manipulating the polarizability of patterned ZnO semiconductor coating through exposure to light with wavelengths above its bandgap, exploiting the semiconductor's photoconductive properties. Unlike previous methods that rely on changing the direction of optical illumination or spatially controlling narrow optical beams, our approach achieves optical steering under uniform ambient illumination conditions, thereby greatly reducing the complexity of the optical system. The decoupling of propulsion and steering allows for the programming of micromotor trajectories in both open and closed-loop control modes. We anticipate that our findings will pave the way for efficient optically gated control of the trajectory of photoresponsive active particles. Furthermore, they will enable the selective manipulation of specific subgroups of engineered active microparticles with various semiconducting coatings having different band gaps.
+
+
+---
+Category: physics
+Subcategory: cond-mat.soft
+Collected: 2025-08-01T15:47:06.578Z

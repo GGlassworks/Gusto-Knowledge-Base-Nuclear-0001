@@ -1,0 +1,12 @@
+# Morph: A Motion-free Physics Optimization Framework for Human Motion Generation
+
+**Authors:** Zhuo Li, Mingshuang Luo, Ruibing Hou, Xin Zhao, Hao Liu, Hong Chang, Zimo Liu, Chen Li
+
+## Summary
+Human motion generation plays a vital role in applications such as digital humans and humanoid robot control. However, most existing approaches disregard physics constraints, leading to the frequent production of physically implausible motions with pronounced artifacts such as floating and foot sliding. In this paper, we propose \textbf{Morph}, a \textbf{Mo}tion-f\textbf{r}ee \textbf{ph}ysics optimization framework, comprising a Motion Generator and a Motion Physics Refinement module, for enhancing physical plausibility without relying on costly real-world motion data. Specifically, the Motion Generator is responsible for providing large-scale synthetic motion data, while the Motion Physics Refinement Module utilizes these synthetic data to train a motion imitator within a physics simulator, enforcing physical constraints to project the noisy motions into a physically-plausible space. These physically refined motions, in turn, are used to fine-tune the Motion Generator, further enhancing its capability. Experiments on both text-to-motion and music-to-dance generation tasks demonstrate that our framework achieves state-of-the-art motion generation quality while improving physical plausibility drastically.
+
+
+---
+Category: physics
+Subcategory: cs.CV
+Collected: 2025-08-01T10:14:19.891Z

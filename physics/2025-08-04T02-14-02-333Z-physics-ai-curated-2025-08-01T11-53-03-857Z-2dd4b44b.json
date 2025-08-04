@@ -1,0 +1,13 @@
+# Multiphysics and Multiobjective Design Optimization of High-Frequency Transformers for Solid-State Transformer Applications
+
+**Authors:** T. Olowu, H. Jafari, M. Moghaddami, A. Sarwat
+
+## Abstract
+This article proposes a multiphysics-based and multiobjective design optimization of high-frequency transformers (HFT) for solid-state transformer (SST) applications. Achieving an efficient SST, regardless of its topology, highly depends on the design optimization of its HFT design parameters. Also, a high-power-density. The proposed algorithm (based on time-harmonic electromagnetic, thermal, and fluid physics model coupling) minimizes the volume of the HFT, total cost as well maximizes its efficiency. A case study of <inline-formula><tex-math notation="LaTeX">$20 \text{ kW}$</tex-math></inline-formula>, <inline-formula><tex-math notation="LaTeX">$10 \text{ kHz}$</tex-math></inline-formula> is investigated and its Pareto optimal solutions (POS) presented. The simulation results show the various dependencies of the design variables on the proposed objective functions which verifies effectiveness of the proposed algorithm. The Pareto optimal solutions (POSs) show that efficiencies above <inline-formula><tex-math notation="LaTeX">$99\%$</tex-math></inline-formula> can be achieved with appropriate selection of the design variables. From the POS, two case studies of the HFTs (referred to as <inline-formula><tex-math notation="LaTeX">$HFT_1$</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX">$HFT_2$</tex-math></inline-formula> using <inline-formula><tex-math notation="LaTeX">$AMCC-100$</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX">$AMCC-250$</tex-math></inline-formula> amorphous cores, respectively) are further investigated based on multiphysics numerical models. An experimental implementation of the optimized HFTs (<inline-formula><tex-math notation="LaTeX">$HFT_1$</tex-math></inline-formula> and <inline-formula><tex-math notation="LaTeX">$HFT_2$</tex-math></inline-formula>) is integrated with a self-tuned dual active bridge converter to validate their performance. The experimental measurements from the HFTs are in very good agreement with the optimization results.
+
+**Source:** https://www.semanticscholar.org/paper/d7e9ee3ac97a6758ca8b2422be57d565e5703917
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:03.857Z

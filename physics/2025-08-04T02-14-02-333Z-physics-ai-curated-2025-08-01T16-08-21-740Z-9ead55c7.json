@@ -1,0 +1,13 @@
+# Quantum-Based Combinatorial Optimization for Optimal Sensor Placement in Civil Structures
+
+**Authors:** Gabriel San Martín, Enrique López Droguett
+
+## Abstract
+Over the last decade, concepts such as industry 4.0 and the Internet of Things (IoT) have contributed to the increase in the availability and affordability of sensing technology. In this context, structural health monitoring (SHM) arises as an especially interesting field to integrate and develop these new sensing capabilities, given the criticality of structural application for human life and the elevated costs of manual monitoring. Due to the scale of structural systems, one of the main challenges when designing a modern monitoring system is the optimal sensor placement (OSP) problem. The OSP problem is combinatorial in nature, making its exact solution infeasible in most practical cases, usually requiring the use of metaheuristic optimization techniques. While approaches such as genetic algorithms (GAs) have been able to produce significant results in many practical case studies, their ability to scale up to more complex structures is still an area of open research. This study proposes a novel quantum-based combinatorial optimization approach to solve the OSP problem approximately, within the context of SHM. For this purpose, a quadratic unconstrained binary optimization (QUBO) model formulation is developed, taking as a starting point of the modal strain energy (MSE) of the structure. The framework is tested using numerical simulations of Warren truss bridges of varying scales. The results obtained using the proposed framework are compared against exhaustive search approaches to verify their performance. More importantly, a detailed discussion of the current limitations of the technology and the future paths of research in the area is presented to the reader.
+
+**Source:** https://www.semanticscholar.org/paper/429ac5caa6ba9c9732f9102539d0e87a08156976
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T16:08:21.741Z

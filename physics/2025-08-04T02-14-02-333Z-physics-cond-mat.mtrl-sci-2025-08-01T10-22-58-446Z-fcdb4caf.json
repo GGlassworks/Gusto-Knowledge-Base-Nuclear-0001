@@ -1,0 +1,12 @@
+# Materials for High Temperature Digital Electronics
+
+**Authors:** Dhiren K. Pradhan, David C. Moore, A. Matt Francis, Jacob Kupernik, W. Joshua Kennedy, Nicholas R. Glavin, Roy H. Olsson III, Deep Jariwala
+
+## Summary
+Silicon microelectronics, consisting of complementary metal oxide semiconductor (CMOS) technology, have changed nearly all aspects of human life from communication to transportation, entertainment, and healthcare. Despite the widespread and mainstream use, current silicon-based devices suffer significant reliability issues at temperatures exceeding 125 C. The emergent technological frontiers of space exploration, geothermal energy harvesting, nuclear energy, unmanned avionic systems, and autonomous driving will rely on control systems, sensors, and communication devices which operate at temperatures as high as 500 C and beyond. At these extreme temperatures, active (heat exchanger, phase change cooling) or passive (fins and thermal interface materials) cooling strategies add significant mass and complication which is often infeasible. Thus, new material solutions beyond conventional silicon CMOS devices are necessary for high temperature, resilient electronic systems. Accomplishing this will require a united effort to explore development, integration, and ultimately manufacturing of non-silicon-based logic and memory technologies, non-traditional metals for interconnects, and ceramic packaging technology.
+
+
+---
+Category: physics
+Subcategory: cond-mat.mtrl-sci
+Collected: 2025-08-01T10:22:58.447Z

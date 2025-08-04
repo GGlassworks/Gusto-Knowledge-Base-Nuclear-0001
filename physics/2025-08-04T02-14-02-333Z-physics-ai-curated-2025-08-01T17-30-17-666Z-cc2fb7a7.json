@@ -1,0 +1,13 @@
+# MOLECULAR BIOLOGY AT THE QUANTUM LEVEL: CAN MODERN DENSITY FUNCTIONAL THEORY FORGE THE PATH?
+
+**Authors:** B. Kolb, T. Thonhauser
+
+## Abstract
+Recent years have seen vast improvements in the ability of rigorous quantum-mechanical methods to treat systems of interest to molecular biology. In this review article, we survey common computational methods used to study such large, weakly bound systems, starting from classical simulations and reaching to quantum chemistry and density functional theory. We sketch their underlying frameworks and investigate their strengths and weaknesses when applied to potentially large biomolecules. In particular, density functional theory — a framework that can treat thousands of atoms on firm theoretical ground — can now accurately describe systems dominated by weak van der Waals interactions. This newfound ability has rekindled interest in using this tried-and-true approach to investigate biological systems of real importance. In this review, we focus on some new methods within the density functional theory that allow for accurate inclusion of the weak interactions that dominate binding in biological macromolecules. Recent work utilizing these methods to study biologically relevant systems will be highlighted, and a vision for the future of density functional theory within molecular biology will be discussed.
+
+**Source:** https://www.semanticscholar.org/paper/f0d5004c6590a2f476fe0a944561596d9a0b86aa
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T17:30:17.666Z

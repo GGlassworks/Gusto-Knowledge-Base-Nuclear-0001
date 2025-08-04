@@ -1,0 +1,12 @@
+# Digital Metamaterials
+
+**Authors:** Cristian Della Giovampaola, Nader Engheta
+
+## Summary
+Balancing the complexity and the simplicity has played an important role in the development of many fields in science and engineering. As Albert Einstein was once quoted to say: 'Everything must be made as simple as possible, but not one bit simpler'. The simplicity of an idea brings versatility of that idea into a broader domain, while its complexity describes the foundation upon which the idea stands. One of the well-known and powerful examples of such balance is in the Boolean algebra and its impact on the birth of digital electronics and digital information age. The simplicity of using only two numbers of '0' and '1' in describing an arbitrary quantity made the fields of digital electronics and digital signal processing powerful and ubiquitous. Here, inspired by the simplicity of digital electrical systems we propose to apply an analogous idea to the field of metamaterials, namely, to develop the notion of digital metamaterials. Specifically, we investigate how one can synthesize an electromagnetic metamaterial with desired materials parameters, e.g., with a desired permittivity, using only two elemental materials, which we call 'metamaterial bits' with two distinct permittivity functions, as building blocks. We demonstrate, analytically and numerically, how proper spatial mixtures of such metamaterial bits leads to 'metamaterial bytes' with material parameters different from the parameters of metamaterial bits. We also explore the role of relative spatial orders of such digital materials bits in constructing different parameters for the digital material bytes. We then apply this methodology to several design examples such as flat graded-index digital lens, cylindrical scatterers, digital constructs for epsilon-near-zero (ENZ) supercoupling, and digital hyperlens, highlighting the power and simplicity of this methodology and algorithm.
+
+
+---
+Category: physics
+Subcategory: cond-mat.mtrl-sci
+Collected: 2025-08-01T10:18:27.077Z

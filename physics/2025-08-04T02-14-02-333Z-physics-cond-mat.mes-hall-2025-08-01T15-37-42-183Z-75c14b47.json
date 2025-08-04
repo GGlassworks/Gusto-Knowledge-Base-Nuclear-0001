@@ -1,0 +1,12 @@
+# Quantum point contacts as heat engines
+
+**Authors:** Sebastian Pilgram, David Sanchez, Rosa Lopez
+
+## Summary
+The efficiency of macroscopic heat engines is restricted by the second law of thermodynamics. They can reach at most the efficiency of a Carnot engine. In contrast, heat currents in mesoscopic heat engines show fluctuations. Thus, there is a small probability that a mesoscopic heat engine exceeds Carnot's maximum value during a short measurement time. We illustrate this effect using a quantum point contact as a heat engine. When a temperature difference is applied to a quantum point contact, the system may be utilized as a source of electrical power under steady state conditions. We first discuss the optimal working point of such a heat engine that maximizes the generated electrical power and subsequently calculate the statistics for deviations of the efficiency from its most likely value. We find that deviations surpassing the Carnot limit are possible, but unlikely.
+
+
+---
+Category: physics
+Subcategory: cond-mat.mes-hall
+Collected: 2025-08-01T15:37:42.184Z

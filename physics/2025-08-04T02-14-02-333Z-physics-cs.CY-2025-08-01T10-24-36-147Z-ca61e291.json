@@ -1,0 +1,12 @@
+# An analysis of visitors' length of stay through noninvasive Bluetooth monitoring in the Louvre Museum
+
+**Authors:** Yuji Yoshimura, Anne Krebs, Carlo Ratti
+
+## Summary
+Art Museums traditionally employ observations and surveys to enhance their knowledge of visitors' behavior and experience. However, these approaches often produce spatially and temporally limited empirical evidence and measurements. Only recently has the ubiquity of digital technologies revolutionized the ability to collect data on human behavior. Consequently, the greater availability of large-scale datasets based on quantifying visitors' behavior provides new opportunities to apply computational and comparative analytical techniques. In this paper, we attempt to analyze visitors' behavior in the Louvre Museum from anonymized longitudinal datasets collected from noninvasive Bluetooth sensors. We examine visitors' length of stay in the museum and consider this relationship with occupation density around artwork. This data analysis increases the knowledge and understanding of museum professionals related to the experience of visitors.
+
+
+---
+Category: physics
+Subcategory: cs.CY
+Collected: 2025-08-01T10:24:36.147Z

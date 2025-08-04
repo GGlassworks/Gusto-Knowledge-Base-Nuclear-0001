@@ -1,0 +1,12 @@
+# Continuous calibration of a digital twin: comparison of particle filter and Bayesian calibration approaches
+
+**Authors:** Rebecca Ward, Ruchi Choudhary, Alastair Gregory, Melanie Jans-Singh, Mark Girolami
+
+## Summary
+Assimilation of continuously streamed monitored data is an essential component of a digital twin; the assimilated data are used to ensure the digital twin is a true representation of the monitored system. One way this is achieved is by calibration of simulation models, whether data-derived or physics-based, or a combination of both. Traditional manual calibration is not possible in this context hence new methods are required for continuous calibration. In this paper, a particle filter methodology for continuous calibration of the physics-based model element of a digital twin is presented and applied to an example of an underground farm. The methodology is applied to a synthetic problem with known calibration parameter values prior to being used in conjunction with monitored data. The proposed methodology is compared against static and sequential Bayesian calibration approaches and compares favourably in terms of determination of the distribution of parameter values and analysis run-times, both essential requirements. The methodology is shown to be potentially useful as a means to ensure continuing model fidelity.
+
+
+---
+Category: physics
+Subcategory: cs.CE
+Collected: 2025-08-01T10:26:18.396Z

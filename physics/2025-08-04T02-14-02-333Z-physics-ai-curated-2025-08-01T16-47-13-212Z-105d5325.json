@@ -1,0 +1,28 @@
+# Optimum design of space structures using hybrid particle swarm optimization and genetic algorithm
+
+**Authors:** V. Goodarzimehr, F. Omidinasab, N. Taghizadieh
+
+## Abstract
+
+Purpose
+This paper aims to present a new hybrid algorithm of Particle Swarm Optimization and the Genetic Algorithm (PSOGA) to optimize the space trusses with continuous design variables. The PSOGA is an efficient hybridized algorithm to solve optimization problems.
+
+
+Design/methodology/approach
+These algorithms have shown outstanding performance in solving optimization problems with continuous variables. The PSO conceptually models the social behavior of birds, in which individual birds exchange information about their position, velocity and fitness. The behavior of a flock is influencing the probability of migration to other regions with high fitness. The GAs procedure is based on the mechanism of natural selection. The present study uses mutation, random selection and reproduction to reach the best genetic algorithm by the operators of natural genetics. Thus, only identical chromosomes or particles can be converged.
+
+
+Findings
+In this research, using the idea of hybridization PSO and GA algorithms are hybridized and a new meta-heuristic algorithm is developed to minimize the space trusses with continuous design variables. To showing the efficiency and robustness of the new algorithm, several benchmark problems are solved and compared with other researchers.
+
+
+Originality/value
+The results indicate that the hybrid PSO algorithm improved in both exploration and exploitation. The PSO algorithm can be used to minimize the weight of structural problems under stress and displacement constraints.
+
+
+**Source:** https://www.semanticscholar.org/paper/7fb2b33a5b4a0560b495254d0abb09d194016f45
+
+---
+Category: physics
+Subcategory: ai-curated
+Collected: 2025-08-01T16:47:13.212Z

@@ -1,0 +1,12 @@
+# Statistical Error in Particle Simulations of Hydrodynamic Phenomena
+
+**Authors:** Nicolas Hadjiconstantinou, Alejandro L. Garcia, Martin Z. Bazant, Gang He
+
+## Summary
+We present predictions for the statistical error due to finite sampling in the presence of thermal fluctuations in molecular simulation algorithms. Specifically, we establish how these errors depend on Mach number, Knudsen number, number of particles, etc. Expressions for the common hydrodynamic variables of interest such as flow velocity, temperature, density, pressure, shear stress and heat flux are derived using equilibrium statistical mechanics. Both volume-averaged and surface-averaged quantities are considered. Comparisons between theory and computations using direct simulation Monte Carlo for dilute gases, and molecular dynamics for dense fluids, show that the use of equilibrium theory provides accurate results.
+
+
+---
+Category: physics
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T16:03:54.442Z

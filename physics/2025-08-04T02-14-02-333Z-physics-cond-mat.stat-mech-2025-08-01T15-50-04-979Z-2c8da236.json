@@ -1,0 +1,12 @@
+# The Fluidyne engine
+
+**Authors:** Alejandro Romanelli
+
+## Summary
+The Fluidyne is a two-part hot-air engine, which has the peculiarity that both its power piston and displacer are liquids. Both parts operate in tandem with the common working gas (air) transferring energy from the displacer to the piston side, from which work is extracted. We describe analytically the thermodynamics of the Fluidyne engine using the approach previously developed for the Stirling engine. We obtain explicit expressions for the amplitude of the power piston movement and for the working gas temperatures and pressure as functions of the engine parameters. We also study numerically the power and efficiency of the engine in terms of the phase shift between the motions of piston and displacer.
+
+
+---
+Category: physics
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:50:04.979Z

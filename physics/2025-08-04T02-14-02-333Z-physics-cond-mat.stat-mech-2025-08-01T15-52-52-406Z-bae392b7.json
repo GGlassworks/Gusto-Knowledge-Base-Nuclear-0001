@@ -1,0 +1,12 @@
+# Power fluctuations in a finite-time quantum Carnot engine
+
+**Authors:** Tobias Denzler, Eric Lutz
+
+## Summary
+Stability is an important property of small thermal machines with fluctuating power output. We here consider a finite-time quantum Carnot engine based on a degenerate multilevel system and study the influence of its finite Hilbert space structure on its stability. We optimize in particular its relative work fluctuations with respect to level degeneracy and level number. We find that its optimal performance may surpass those of nondegenerate two-level engines or harmonic oscillator motors. Our results show how to realize high-performance, high-stability cyclic quantum heat engines.
+
+
+---
+Category: physics
+Subcategory: cond-mat.stat-mech
+Collected: 2025-08-01T15:52:52.407Z
