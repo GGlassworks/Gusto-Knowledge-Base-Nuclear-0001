@@ -1,0 +1,12 @@
+# WUDI: A Human Involved Self-Adaptive Framework to Prevent Childhood Obesity in Internet of Things Environment
+
+**Authors:** Euijong Lee, Jaemin Jung, Gee-Myung Moon, Seong-Whan Lee, Ji-Hoon Jeong
+
+## Summary
+The Internet of Things (IoT) connects people, devices, and information resources, in various domains to improve efficiency. The healthcare domain has been transformed by the integration of the IoT, leading to the development of digital healthcare solutions such as health monitoring, emergency detection, and remote operation. This integration has led to an increase in the health data collected from a variety of IoT sources. Consequently, advanced technologies are required to analyze health data, and artificial intelligence has been employed to extract meaningful insights from the data. Childhood overweight and obesity have emerged as some of the most serious global public health challenges, as they can lead to a variety of health-related problems and the early development of chronic diseases. To address this, a self-adaptive framework is proposed to prevent childhood obesity by using lifelog data from IoT environments, with human involvement being an important consideration in the framework. The framework uses an ensemble-based learning model to predict obesity using the lifelog data. Empirical experiments using lifelog data from smartphone applications were conducted to validate the effectiveness of human involvement and obesity prediction. The results demonstrated the efficiency of the proposed framework with human involvement in obesity prediction. The proposed framework can be applied in real-world healthcare services for childhood obesity.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:16:11.756Z

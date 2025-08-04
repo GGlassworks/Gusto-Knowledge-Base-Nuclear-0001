@@ -1,0 +1,12 @@
+# Mining urban lifestyles: urban computing, human behavior and recommender systems
+
+**Authors:** Sharon Xu, Riccardo Di Clemente, Marta C. González
+
+## Summary
+In the last decade, the digital age has sharply redefined the way we study human behavior. With the advancement of data storage and sensing technologies, electronic records now encompass a diverse spectrum of human activity, ranging from location data, phone and email communication to Twitter activity and open-source contributions on Wikipedia and OpenStreetMap. In particular, the study of the shopping and mobility patterns of individual consumers has the potential to give deeper insight into the lifestyles and infrastructure of the region. Credit card records (CCRs) provide detailed insight into purchase behavior and have been found to have inherent regularity in consumer shopping patterns; call detail records (CDRs) present new opportunities to understand human mobility, analyze wealth, and model social network dynamics. In this chapter, we jointly model the lifestyles of individuals, a more challenging problem with higher variability when compared to the aggregated behavior of city regions. Using collective matrix factorization, we propose a unified dual view of lifestyles. Understanding these lifestyles will not only inform commercial opportunities, but also help policymakers and nonprofit organizations understand the characteristics and needs of the entire region, as well as of the individuals within that region. The applications of this range from targeted advertisements and promotions to the diffusion of digital financial services among low-income groups.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SI
+Collected: 2025-08-01T10:14:17.140Z

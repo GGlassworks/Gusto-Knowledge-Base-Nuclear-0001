@@ -1,0 +1,12 @@
+# Towards an Extensible Model-Based Digital Twin Framework for Space Launch Vehicles
+
+**Authors:** Ran Wei, Ruizhe Yang, Shijun Liu, Chongsheng Fan, Rong Zhou, Zekun Wu, Haochi Wang, Yifan Cai, Zhe Jiang
+
+## Summary
+The concept of Digital Twin (DT) is increasingly applied to systems on different levels of abstraction across domains, to support monitoring, analysis, diagnosis, decision making and automated control. Whilst the interest in applying DT is growing, the definition of DT is unclear, neither is there a clear pathway to develop DT to fully realise its capacities. In this paper, we revise the concept of DT and its categorisation. We propose a DT maturity matrix, based on which we propose a model-based DT development methodology. We also discuss how model-based tools can be used to support the methodology and present our own supporting tool. We report our preliminary findings with a discussion on a case study, in which we use our proposed methodology and our supporting tool to develop an extensible DT platform for the assurance of Electrical and Electronics systems of space launch vehicles.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:26:36.717Z

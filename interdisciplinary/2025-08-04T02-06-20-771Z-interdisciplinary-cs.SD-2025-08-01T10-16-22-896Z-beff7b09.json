@@ -1,0 +1,12 @@
+# Differentiable Time-Frequency Scattering on GPU
+
+**Authors:** John Muradeli, Cyrus Vahidi, Changhong Wang, Han Han, Vincent Lostanlen, Mathieu Lagrange, George Fazekas
+
+## Summary
+Joint time-frequency scattering (JTFS) is a convolutional operator in the time-frequency domain which extracts spectrotemporal modulations at various rates and scales. It offers an idealized model of spectrotemporal receptive fields (STRF) in the primary auditory cortex, and thus may serve as a biological plausible surrogate for human perceptual judgments at the scale of isolated audio events. Yet, prior implementations of JTFS and STRF have remained outside of the standard toolkit of perceptual similarity measures and evaluation methods for audio generation. We trace this issue down to three limitations: differentiability, speed, and flexibility. In this paper, we present an implementation of time-frequency scattering in Python. Unlike prior implementations, ours accommodates NumPy, PyTorch, and TensorFlow as backends and is thus portable on both CPU and GPU. We demonstrate the usefulness of JTFS via three applications: unsupervised manifold learning of spectrotemporal modulations, supervised classification of musical instruments, and texture resynthesis of bioacoustic sounds.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SD
+Collected: 2025-08-01T10:16:22.897Z

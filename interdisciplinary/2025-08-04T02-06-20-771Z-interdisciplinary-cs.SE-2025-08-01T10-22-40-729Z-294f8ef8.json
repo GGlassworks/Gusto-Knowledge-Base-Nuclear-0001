@@ -1,0 +1,12 @@
+# Chandojnanam: A Sanskrit Meter Identification and Utilization System
+
+**Authors:** Hrishikesh Terdalkar, Arnab Bhattacharya
+
+## Summary
+We present Chandoj\~n\=anam, a web-based Sanskrit meter (Chanda) identification and utilization system. In addition to the core functionality of identifying meters, it sports a friendly user interface to display the scansion, which is a graphical representation of the metrical pattern. The system supports identification of meters from uploaded images by using optical character recognition (OCR) engines in the backend. It is also able to process entire text files at a time. The text can be processed in two modes, either by treating it as a list of individual lines, or as a collection of verses. When a line or a verse does not correspond exactly to a known meter, Chandoj\~n\=anam is capable of finding fuzzy (i.e., approximate and close) matches based on sequence matching. This opens up the scope of a meter-based correction of erroneous digital corpora. The system is available for use at https://sanskrit.iitk.ac.in/jnanasangraha/chanda/, and the source code in the form of a Python library is made available at https://github.com/hrishikeshrt/chanda/.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:22:40.730Z

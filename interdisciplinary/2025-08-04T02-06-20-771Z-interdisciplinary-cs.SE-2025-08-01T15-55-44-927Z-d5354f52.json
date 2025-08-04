@@ -1,0 +1,12 @@
+# Software Engineering for Self-Adaptive Robotics: A Research Agenda
+
+**Authors:** Shaukat Ali, Ana Cavalcanti, Cláudio Ângelo Gonçalves Gomes, Peter Gorm Larsen, Hassan Sartaj, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
+
+## Summary
+Self-adaptive robotic systems are designed to operate autonomously in dynamic and uncertain environments, requiring robust mechanisms to monitor, analyse, and adapt their behaviour in real-time. Unlike traditional robotic software, which follows predefined logic, self-adaptive robots leverage artificial intelligence, machine learning, and model-driven engineering to continuously adjust to changing operational conditions while ensuring reliability, safety, and performance. This paper presents a research agenda for software engineering in self-adaptive robotics, addressing critical challenges across two key dimensions: (1) the development phase, including requirements engineering, software design, co-simulation, and testing methodologies tailored to adaptive robotic systems, and (2) key enabling technologies, such as digital twins, model-driven engineering, and AI-driven adaptation, which facilitate runtime monitoring, fault detection, and automated decision-making. We discuss open research challenges, including verifying adaptive behaviours under uncertainty, balancing trade-offs between adaptability, performance, and safety, and integrating self-adaptation frameworks like MAPE-K. By providing a structured roadmap, this work aims to advance the software engineering foundations for self-adaptive robotic systems, ensuring they remain trustworthy, efficient, and capable of handling real-world complexities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T15:55:44.927Z

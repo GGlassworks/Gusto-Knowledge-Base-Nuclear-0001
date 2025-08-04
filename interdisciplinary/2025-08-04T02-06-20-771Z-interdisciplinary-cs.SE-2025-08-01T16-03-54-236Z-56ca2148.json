@@ -1,0 +1,12 @@
+# A Framework for Using LLMs for Repository Mining Studies in Empirical Software Engineering
+
+**Authors:** Vincenzo de Martino, Joel Castaño, Fabio Palomba, Xavier Franch, Silverio Martínez-Fernández
+
+## Summary
+Context: The emergence of Large Language Models (LLMs) has significantly transformed Software Engineering (SE) by providing innovative methods for analyzing software repositories. Objectives: Our objective is to establish a practical framework for future SE researchers needing to enhance the data collection and dataset while conducting software repository mining studies using LLMs. Method: This experience report shares insights from two previous repository mining studies, focusing on the methodologies used for creating, refining, and validating prompts that enhance the output of LLMs, particularly in the context of data collection in empirical studies. Results: Our research packages a framework, coined Prompt Refinement and Insights for Mining Empirical Software repositories (PRIMES), consisting of a checklist that can improve LLM usage performance, enhance output quality, and minimize errors through iterative processes and comparisons among different LLMs. We also emphasize the significance of reproducibility by implementing mechanisms for tracking model results. Conclusion: Our findings indicate that standardizing prompt engineering and using PRIMES can enhance the reliability and reproducibility of studies utilizing LLMs. Ultimately, this work calls for further research to address challenges like hallucinations, model biases, and cost-effectiveness in integrating LLMs into workflows.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T16:03:54.236Z

@@ -1,0 +1,12 @@
+# Simulation-based Safety Assessment of High-level Reliability Models
+
+**Authors:** Simon József Nagy, Bence Graics, Kristóf Marussy, András Vörös
+
+## Summary
+Systems engineering approaches use high-level models to capture the architecture and behavior of the system. However, when safety engineers conduct safety and reliability analysis, they have to create formal models, such as fault-trees, according to the behavior described by the high-level engineering models and environmental/fault assumptions. Instead of creating low-level analysis models, our approach builds on engineering models in safety analysis by exploiting the simulation capabilities of recent probabilistic programming and simulation advancements. Thus, it could be applied in accordance with standards and best practices for the analysis of a critical automotive system as part of an industrial collaboration, while leveraging high-level block diagrams and statechart models created by engineers. We demonstrate the applicability of our approach in a case study adapted from the automotive system from the collaboration.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T20:49:45.285Z

@@ -1,0 +1,12 @@
+# FlowETL: An Autonomous Example-Driven Pipeline for Data Engineering
+
+**Authors:** Mattia Di Profio, Mingjun Zhong, Yaji Sripada, Marcel Jaspars
+
+## Summary
+The Extract, Transform, Load (ETL) workflow is fundamental for populating and maintaining data warehouses and other data stores accessed by analysts for downstream tasks. A major shortcoming of modern ETL solutions is the extensive need for a human-in-the-loop, required to design and implement context-specific, and often non-generalisable transformations. While related work in the field of ETL automation shows promising progress, there is a lack of solutions capable of automatically designing and applying these transformations. We present FlowETL, a novel example-based autonomous ETL pipeline architecture designed to automatically standardise and prepare input datasets according to a concise, user-defined target dataset. FlowETL is an ecosystem of components which interact together to achieve the desired outcome. A Planning Engine uses a paired input-output datasets sample to construct a transformation plan, which is then applied by an ETL worker to the source dataset. Monitoring and logging provide observability throughout the entire pipeline. The results show promising generalisation capabilities across 14 datasets of various domains, file structures, and file sizes.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T19:58:27.670Z

@@ -1,0 +1,12 @@
+# Testing Smart Contracts Gets Smarter
+
+**Authors:** Erfan Andesta, Fathiyeh Faghih, Mahdi Fooladgar
+
+## Summary
+Smart contracts are immutable, verifiable, and autonomous pieces of code that can be deployed and ran on blockchain networks like Ethereum. Due to the immutability nature of blockchain, no change is possible on a deployed smart contract or a verified transaction. On the other hand, there are millions of dollars carried by smart contracts in Ethereum blockchain, and hence, a faulty smart contract can lead to a huge monetary loss. Therefore, it is important for smart contract developers to fully test and check the correctness of their code before deploying it on the blockchain. In this paper, we propose a testing mechanism for smart contracts in Solidity language, based on mutation testing. We analyzed a comprehensive list of known bugs in Solidity smart contracts, and designed 10 classes of mutation operators inspired by the real faults. Our experimental results show that our proposed mutation operators can regenerate 10 of 15 famous faulty smart contracts, which have resulted in millions of dollars loss. The results show the effectiveness of our proposed mutation operators in detecting real faults in Solidity smart contracts. We have also extended {\em Universal Mutator } tool with our mutation operators, so that it can automatically generate mutants for smart contracts written in Solidity.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T13:45:29.415Z

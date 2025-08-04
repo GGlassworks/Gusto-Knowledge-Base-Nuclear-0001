@@ -1,0 +1,12 @@
+# iContractBot: A Chatbot for Smart Contracts' Specification and Code Generation
+
+**Authors:** Ilham Qasse, Shailesh Mishra, Mohammad Hamdaqa
+
+## Summary
+Recently, Blockchain technology adoption has expanded to many application areas due to the evolution of smart contracts. However, developing smart contracts is non-trivial and challenging due to the lack of tools and expertise in this field. A promising solution to overcome this issue is to use Model-Driven Engineering (MDE), however, using models still involves a learning curve and might not be suitable for non-technical users. To tackle this challenge, chatbot or conversational interfaces can be used to assess the non-technical users to specify a smart contract in gradual and interactive manner. In this paper, we propose iContractBot, a chatbot for modeling and developing smart contracts. Moreover, we investigate how to integrate iContractBot with iContractML, a domain-specific modeling language for developing smart contracts, and instantiate intention models from the chatbot. The iContractBot framework provides a domain-specific language (DSL) based on the user intention and performs model-to-text transformation to generate the smart contract code. A smart contract use case is presented to demonstrate how iContractBot can be utilized for creating models and generating the deployment artifacts for smart contracts based on a simple conversation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T13:45:31.352Z

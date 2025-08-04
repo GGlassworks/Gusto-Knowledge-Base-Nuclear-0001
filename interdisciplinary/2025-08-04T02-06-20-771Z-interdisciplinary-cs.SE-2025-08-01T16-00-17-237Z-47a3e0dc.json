@@ -1,0 +1,12 @@
+# Grey Literature in Software Engineering: A Critical Review
+
+**Authors:** Fernando Kamei, Igor Wiese, Crescencio Lima, Ivanilton Polato, Vilmar Nepomuceno, Waldemar Ferreira, Márcio Ribeiro, Carolline Pena, Bruno Cartaxo, Gustavo Pinto, Sérgio Soares
+
+## Summary
+Context: Grey Literature (GL) recently has grown in Software Engineering (SE) research since the increased use of online communication channels by software engineers. However, there is still a limited understanding of how SE research is taking advantage of GL. Objective: This research aimed to understand how SE researchers use GL in their secondary studies. Method: We conducted a tertiary study of studies published between 2011 and 2018 in high-quality software engineering conferences and journals. We then applied qualitative and quantitative analysis to investigate 446 potential studies. Results: From the 446 selected studies, 126 studies cited GL but only 95 of those used GL to answer a specific research question representing almost 21% of all the 446 secondary studies. Interestingly, we identified that few studies employed specific search mechanisms and used additional criteria for assessing GL. Moreover, by the time we conducted this research, 49% of the GL URLs are not working anymore. Based on our findings, we discuss some challenges in using GL and potential mitigation plans. Conclusion: In this paper, we summarized the last 10 years of software engineering research that uses GL, showing that GL has been essential for bringing practical new perspectives that are scarce in traditional literature. By drawing the current landscape of use, we also raise some awareness of related challenges (and strategies to deal with them).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T16:00:17.237Z

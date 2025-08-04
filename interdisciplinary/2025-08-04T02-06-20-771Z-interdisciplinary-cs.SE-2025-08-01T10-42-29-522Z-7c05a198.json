@@ -1,0 +1,12 @@
+# Big data analytics architecture design
+
+**Authors:** Mahdi Fahmideh, Ghassan Beydoun
+
+## Summary
+Objective. We propose an approach to reason about goals, obstacles, and to select suitable big data solution architecture that satisfy quality goal preferences and constraints of stakeholders at the presence of the decision outcome uncertainty. The approach will highlight situations that may impede the goals. They will be assessed and resolved to generate complete requirements of an architectural solution. Method. The approach employs goal-oriented modelling to identify obstacles causing quality goal failure and their corresponding resolution tactics. It combines fuzzy logic to explore uncertainties in solution architectures and to find an optimal set of architectural decisions for the big data enablement process of manufacturing systems. Result. The approach brings two innovations to the state of the art of big data analytics platform adoption in manufacturing systems. Firstly, A systematic goal-oriented modelling for exploring goals and obstacles in integrating manufacturing systems with data analytics platforms at the requirement level and, secondly, A systematic analysis of the architectural decisions under uncertainty incorporating the preferences of stakeholders. The efficacy of the approach is illustrated with a scenario of reengineering a hyper-connected manufacturing collaboration system to a new big data architecture. Keywords. big data, big data analytics platforms, manufacturing systems, goal-oriented modeling, fuzzy logic
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:42:29.522Z

@@ -1,0 +1,12 @@
+# An Open-Source Integration of Process Mining Features into the Camunda Workflow Engine: Data Extraction and Challenges
+
+**Authors:** Alessandro Berti, Wil van der Aalst, David Zang, Magdalena Lang
+
+## Summary
+Process mining provides techniques to improve the performance and compliance of operational processes. Although sometimes the term "workflow mining" is used, the application in the context of Workflow Management (WFM) and Business Process Management (BPM) systems is limited. The main reason is that WFM/BPM systems control the process, leaving less room for flexibility and the corresponding deviations. However, as this paper shows, it is easy to extract event data from systems like Camunda, one of the leading open-source WFM/BPM systems. Moreover, although the respective process engines control the process flow, process mining is still able to provide valuable insights, such as the analysis of the performance of the paths and the mining of the decision rules. This demo paper presents a process mining connector to Camunda that extracts event logs and process models, allowing for the application of existing process mining tools. We also analyzed the added value of different process mining techniques in the context of Camunda. We discuss a subset of process mining techniques that nicely complements the process intelligence capabilities of Camunda. Through this demo paper, we hope to boost the use of process mining among Camunda users.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T19:27:29.706Z

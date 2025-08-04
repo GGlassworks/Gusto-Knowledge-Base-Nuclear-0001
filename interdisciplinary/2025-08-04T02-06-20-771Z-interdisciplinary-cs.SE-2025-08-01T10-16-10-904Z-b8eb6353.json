@@ -1,0 +1,12 @@
+# Digital Mentor: towards a conversational bot to identify hypotheses for software startups
+
+**Authors:** Jorge Melegati, Xiaofeng Wang
+
+## Summary
+Software startups develop innovative, software-intensive product and services. This context leads to uncertainty regarding the software they are building. Experimentation, a process of testing hypotheses about the product, helps these companies to reduce uncertainty through different evidence-based approaches. The first step in experimentation is to identify the hypotheses to be tested. HyMap is a technique where a facilitator helps a software startup founder to draw a cognitive map representing her understanding of the context and, based on that, create hypotheses about the software to be built. In this paper, we present the Digital Mentor, an working-in-progress conversational bot to help creating a HyMap without the need of a human facilitator. We report the proposed solution consisting of a web application with the backend of a natural language understanding system, the current state of development, the challenges we faced so far and the next steps we plan to move forward.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:16:10.904Z

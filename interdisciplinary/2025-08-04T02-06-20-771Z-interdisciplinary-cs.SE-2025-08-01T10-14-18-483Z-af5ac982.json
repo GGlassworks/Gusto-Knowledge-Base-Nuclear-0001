@@ -1,0 +1,12 @@
+# Cultural influence on RE activities: An extended analysis of state of the art
+
+**Authors:** Chowdhury Shahriar Muzammel, Maria Spichkova, James Harland
+
+## Summary
+Designing mobile software that aligns with cultural contexts is crucial for optimizing human-computer interaction. Considering cultural influences is essential not only for the actual set of functional/non-functional requirements, but also for the whole Requirement Engineering (RE) process. Without a clear understanding of cultural influences on RE activities, it's hardly possible to elaborate a correct and complete set of requirements. This research explores the impact of national culture on RE-related activities based on recent studies. We conducted a Systematic Literature Review (SLR) of studies published in 2019-2023 and compared them to an older SLR covering 2000-2018. We identified 17 relevant studies, extracted 33 cultural influences impacting RE activities, and mapped them to the Hofstede model, widely used for cultural analysis in software development research. Our work highlights the critical role of national culture in RE activities, summarizes current research trends, and helps practitioners consider cultural influences for mobile app/software development.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:14:18.483Z

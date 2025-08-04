@@ -1,0 +1,12 @@
+# Capturing Smart Contract Design with DCR Graphs
+
+**Authors:** Mojtaba Eshghie, Wolfgang Ahrendt, Cyrille Artho, Thomas Troels Hildebrandt, Gerardo Schneider
+
+## Summary
+Smart contracts manage blockchain assets and embody business processes. However, mainstream smart contract programming languages such as Solidity lack explicit notions of roles, action dependencies, and time. Instead, these concepts are implemented in program code. This makes it very hard to design and analyze smart contracts. We argue that DCR graphs are a suitable formalization tool for smart contracts because they explicitly and visually capture the mentioned features. We utilize this expressiveness to show that many common high-level design patterns representing the underlying business processes in smart contract applications can be naturally modeled this way. Applying these patterns shows that DCR graphs facilitate the development and analysis of correct and reliable smart contracts by providing a clear and easy-to-understand specification.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T13:46:38.395Z

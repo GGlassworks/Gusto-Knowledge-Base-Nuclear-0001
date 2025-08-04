@@ -1,0 +1,12 @@
+# Designing Internet of Behaviors Systems
+
+**Authors:** Mahyar T. Moghaddam, Henry Muccini, Julie Dugdale, Mikkel Baun Kjærgaard
+
+## Summary
+The Internet of Behaviors (IoB) puts human behavior at the core of engineering intelligent connected systems. IoB links the digital world to human behavior to establish human-driven design, development, and adaptation processes. This paper defines the novel concept by an IoB model based on a collective effort interacting with software engineers, human-computer interaction scientists, social scientists, and cognitive science communities. The model for IoB is created based on an exploratory study that synthesizes state-of-the-art analysis and experts interviews. The architecture of a real industry 4.0 manufacturing infrastructure helps to explain the IoB model and it's application. The conceptual model was used to successfully implement a socio-technical infrastructure for a crowd monitoring and queue management system for the Uffizi Galleries, Florence, Italy. The experiment, which started in the fall of 2016 and was operational in the fall of 2018, used a data-driven approach to feed the system with real-time sensory data. It also incorporated prediction models on visitors' mobility behavior. The system's main objective was to capture human behavior, model it, and build a mechanism that considers changes, adapts in real-time, and continuously learns from repetitive behaviors. In addition to the conceptual model and the real-life evaluation, this paper provides recommendations from experts and gives future directions for IoB to become a significant technological advancement in the coming few years.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:14:19.229Z

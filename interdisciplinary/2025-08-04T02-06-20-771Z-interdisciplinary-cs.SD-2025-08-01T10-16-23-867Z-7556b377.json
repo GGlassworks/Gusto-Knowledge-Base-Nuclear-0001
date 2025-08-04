@@ -1,0 +1,12 @@
+# ShredGP: Guitarist Style-Conditioned Tablature Generation
+
+**Authors:** Pedro Sarmento, Adarsh Kumar, Dekun Xie, CJ Carr, Zack Zukowski, Mathieu Barthet
+
+## Summary
+GuitarPro format tablatures are a type of digital music notation that encapsulates information about guitar playing techniques and fingerings. We introduce ShredGP, a GuitarPro tablature generative Transformer-based model conditioned to imitate the style of four distinct iconic electric guitarists. In order to assess the idiosyncrasies of each guitar player, we adopt a computational musicology methodology by analysing features computed from the tokens yielded by the DadaGP encoding scheme. Statistical analyses of the features evidence significant differences between the four guitarists. We trained two variants of the ShredGP model, one using a multi-instrument corpus, the other using solo guitar data. We present a BERT-based model for guitar player classification and use it to evaluate the generated examples. Overall, results from the classifier show that ShredGP is able to generate content congruent with the style of the targeted guitar player. Finally, we reflect on prospective applications for ShredGP for human-AI music interaction.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SD
+Collected: 2025-08-01T10:16:23.868Z

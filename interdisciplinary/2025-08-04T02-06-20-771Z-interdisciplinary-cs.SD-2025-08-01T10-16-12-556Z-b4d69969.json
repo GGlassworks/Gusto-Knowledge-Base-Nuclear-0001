@@ -1,0 +1,12 @@
+# End-To-End Audiovisual Feature Fusion for Active Speaker Detection
+
+**Authors:** Fiseha B. Tesema, Zheyuan Lin, Shiqiang Zhu, Wei Song, Jason Gu, Hong Wu
+
+## Summary
+Active speaker detection plays a vital role in human-machine interaction. Recently, a few end-to-end audiovisual frameworks emerged. However, these models' inference time was not explored and are not applicable for real-time applications due to their complexity and large input size. In addition, they explored a similar feature extraction strategy that employs the ConvNet on audio and visual inputs. This work presents a novel two-stream end-to-end framework fusing features extracted from images via VGG-M with raw Mel Frequency Cepstrum Coefficients features extracted from the audio waveform. The network has two BiGRU layers attached to each stream to handle each stream's temporal dynamic before fusion. After fusion, one BiGRU layer is attached to model the joint temporal dynamics. The experiment result on the AVA-ActiveSpeaker dataset indicates that our new feature extraction strategy shows more robustness to noisy signals and better inference time than models that employed ConvNet on both modalities. The proposed model predicts within 44.41 ms, which is fast enough for real-time applications. Our best-performing model attained 88.929% accuracy, nearly the same detection result as state-of-the-art -work.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SD
+Collected: 2025-08-01T10:16:12.556Z

@@ -1,0 +1,12 @@
+# Engineering Digital Systems for Humanity: a Research Roadmap
+
+**Authors:** Marco Autili, Martina De Sanctis, Paola Inverardi, Patrizio Pelliccione
+
+## Summary
+As testified by new regulations like the European AI Act, worries about the human and societal impact of (autonomous) software technologies are becoming of public concern. Human, societal, and environmental values, alongside traditional software quality, are increasingly recognized as essential for sustainability and long-term well-being. Traditionally, systems are engineered taking into account business goals and technology drivers. Considering the growing awareness in the community, in this paper, we argue that engineering of systems should also consider human, societal, and environmental drivers. Then, we identify the macro and technological challenges by focusing on humans and their role while co-existing with digital systems. The first challenge considers humans in a proactive role when interacting with digital systems, i.e., taking initiative in making things happen instead of reacting to events. The second concerns humans having a reactive role in interacting with digital systems, i.e., humans interacting with digital systems as a reaction to events. The third challenge focuses on humans with a passive role, i.e., they experience, enjoy or even suffer the decisions and/or actions of digital systems. The fourth challenge concerns the duality of trust and trustworthiness, with humans playing any role. Building on the new human, societal, and environmental drivers and the macro and technological challenges, we identify a research roadmap of digital systems for humanity. The research roadmap is concretized in a number of research directions organized into four groups: development process, requirements engineering, software architecture and design, and verification and validation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:14:15.797Z

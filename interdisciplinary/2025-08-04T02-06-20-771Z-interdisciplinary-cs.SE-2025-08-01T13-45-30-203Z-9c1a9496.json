@@ -1,0 +1,12 @@
+# DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode
+
+**Authors:** Jiachi Chen, Xin Xia, David Lo, John Grundy, Xiapu Luo, Ting Chen
+
+## Summary
+Smart contracts are Turing-complete programs running on the blockchain. They are immutable and cannot be modified, even when bugs are detected. Therefore, ensuring smart contracts are bug-free and well-designed before deploying them to the blockchain is extremely important. A contract defect is an error, flaw or fault in a smart contract that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Detecting and removing contract defects can avoid potential bugs and make programs more robust. Our previous work defined 20 contract defects for smart contracts and divided them into five impact levels. According to our classification, contract defects with seriousness level between 1-3 can lead to unwanted behaviors, e.g., a contract being controlled by attackers. In this paper, we propose DefectChecker, a symbolic execution-based approach and tool to detect eight contract defects that can cause unwanted behaviors of smart contracts on the Ethereum blockchain platform. DefectChecker can detect contract defects from smart contracts bytecode. We compare DefectChecker with key previous works, including Oyente, Mythril and Securify by using an open-source dataset. Our experimental results show that DefectChecker performs much better than these tools in terms of both speed and accuracy. We also applied DefectChecker to 165,621 distinct smart contracts on the Ethereum platform. We found that 25,815 of these smart contracts contain at least one of the contract defects that belongs to impact level 1-3, including some real-world attacks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T13:45:30.203Z

@@ -1,0 +1,12 @@
+# Bounded Model Checking of State-Space Digital Systems: The Impact of Finite Word-Length Effects on the Implementation of Fixed-Point Digital Controllers Based on State-Space Modeling
+
+**Authors:** Felipe R. Monteiro
+
+## Summary
+The extensive use of digital controllers demands a growing effort to prevent design errors that appear due to finite-word length (FWL) effects. However, there is still a gap, regarding verification tools and methodologies to check implementation aspects of control systems. Thus, the present paper describes an approach, which employs bounded model checking (BMC) techniques, to verify fixed-point digital controllers represented by state-space equations. The experimental results demonstrate the sensitivity of such systems to FWL effects and the effectiveness of the proposed approach to detect them. To the best of my knowledge, this is the first contribution tackling formal verification through BMC of fixed-point state-space digital controllers.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:26:28.062Z

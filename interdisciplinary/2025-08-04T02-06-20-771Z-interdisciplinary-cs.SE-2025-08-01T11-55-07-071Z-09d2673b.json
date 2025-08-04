@@ -1,0 +1,12 @@
+# Extended Abstract of Performance Analysis and Prediction of Model Transformation
+
+**Authors:** Vijayshree Vijayshree, Markus Frank, Steffen Becker
+
+## Summary
+In the software development process, model transformation is increasingly assimilated. However, systems being developed with model transformation sometimes grow in size and become complex. Meanwhile, the performance of model transformation tends to decrease. Hence, performance is an important quality of model transformation. According to current research model transformation performance focuses on optimising the engines internally. However, there exists no research activities to support transformation engineer to identify performance bottleneck in the transformation rules and hence, to predict the overall performance. In this paper we vision our aim at providing an approach of monitoring and profiling to identify the root cause of performance issues in the transformation rules and to predict the performance of model transformation. This will enable software engineers to systematically identify performance issues as well as predict the performance of model transformation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T11:55:07.071Z

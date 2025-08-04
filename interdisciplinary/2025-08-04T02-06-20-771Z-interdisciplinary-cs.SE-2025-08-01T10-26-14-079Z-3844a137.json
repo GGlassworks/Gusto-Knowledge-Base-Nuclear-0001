@@ -1,0 +1,12 @@
+# Qualitative and quantitative evaluation of a methodology for the Digital Twin creation of brownfield production systems
+
+**Authors:** Dominik Braun, Nasser Jazdi, Wolfgang Schloegl, Michael Weyrich
+
+## Summary
+The Digital Twin is a well-known concept of industry 4.0 and is the cyber part of a cyber-physical production system providing several benefits such as virtual commissioning or predictive maintenance. The existing production systems are lacking a Digital Twin which has to be created manually in a time-consuming and error-prone process. Therefore, methods to create digital models of existing production systems and their relations between them were developed. This paper presents the implementation of the methodology for the creation of multi-disciplinary relations and a quantitative and qualitative evaluation of the benefits of the methodology.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:26:14.079Z

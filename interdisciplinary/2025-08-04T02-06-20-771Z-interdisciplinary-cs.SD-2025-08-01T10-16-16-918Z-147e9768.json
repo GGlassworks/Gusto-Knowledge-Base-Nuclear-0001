@@ -1,0 +1,12 @@
+# The match file format: Encoding Alignments between Scores and Performances
+
+**Authors:** Francesco Foscarin, Emmanouil Karystinaios, Silvan David Peter, Carlos Cancino-Chacón, Maarten Grachten, Gerhard Widmer
+
+## Summary
+This paper presents the specifications of match: a file format that extends a MIDI human performance with note-, beat-, and downbeat-level alignments to a corresponding musical score. This enables advanced analyses of the performance that are relevant for various tasks, such as expressive performance modeling, score following, music transcription, and performer classification. The match file includes a set of score-related descriptors that makes it usable also as a bare-bones score representation. For applications that require the use of structural score elements (e.g., voices, parts, beams, slurs), the match file can be easily combined with the symbolic score. To support the practical application of our work, we release a corrected and upgraded version of the Vienna4x22 dataset of scores and performances aligned with match files.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SD
+Collected: 2025-08-01T10:16:16.918Z

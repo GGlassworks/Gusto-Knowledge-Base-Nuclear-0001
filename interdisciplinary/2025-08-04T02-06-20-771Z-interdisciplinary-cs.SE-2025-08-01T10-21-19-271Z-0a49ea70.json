@@ -1,0 +1,12 @@
+# Human-Machine Collaboration and Ethical Considerations in Adaptive Cyber-Physical Systems
+
+**Authors:** Zoe Pfister
+
+## Summary
+Adaptive Cyber-Physical Systems (CPS) are systems that integrate both physical and computational capabilities, which can adjust in response to changing parameters. Furthermore, they increasingly incorporate human-machine collaboration, allowing them to benefit from the individual strengths of humans and machines. Human-Machine Teaming (HMT) represents the most advanced paradigm of human-machine collaboration, envisioning seamless teamwork between humans and machines. However, achieving effective and seamless HMT in adaptive CPS is challenging. While adaptive CPS already benefit from feedback loops such as MAPE-K, there is still a gap in integrating humans into these feedback loops due to different operational cadences of humans and machines. Further, HMT requires constant monitoring of human operators, collecting potentially sensitive information about their actions and behavior. Respecting the privacy and human values of the actors of the CPS is crucial for the success of human-machine teams. This research addresses these challenges by: (1) developing novel methods and processes for integrating HMT into adaptive CPS, focusing on human-machine interaction principles and their incorporation into adaptive feedback loops found in CPS, and (2) creating frameworks for integrating, verifying, and validating ethics and human values throughout the system lifecycle, starting from requirements engineering.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:21:19.272Z

@@ -1,0 +1,12 @@
+# Toward Methodical Discovery and Handling of Hidden Assumptions in Complex Systems and Models
+
+**Authors:** David Harel, Uwe Aßmann, Fabiana Fournier, Lior Limonad, Assaf Marron, Smadar Szekely
+
+## Summary
+Methodologies for development of complex systems and models include external reviews by domain and technology experts. Among others, such reviews can uncover undocumented built-in assumptions that may be critical for correct and safe operation or constrain applicability. Since such assumptions may still escape human-centered processes like reviews, agile development, and risk analyses, here, we contribute toward making this process more methodical and automatable. We first present a blueprint for a taxonomy and formalization of the problem. We then show that a variety of digital artifacts of the system or model can be automatically checked against extensive reference knowledge. Since mimicking the breadth and depth of knowledge and skills of experts may appear unattainable, we illustrate the basic feasibility of automation with rudimentary experiments using OpenAI's ChatGPT. We believe that systematic handling of this aspect of system engineering can contribute significantly to the quality and safety of complex systems and models, and to the efficiency of development projects. We dedicate this work to Werner Damm, whose contributions to modeling and model-based development, in industry and academia, with a special focus on safety, helped establish a solid foundation to our discipline and to the work of many scientists and professionals, including, naturally, the approaches and techniques described here.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T10:26:22.212Z

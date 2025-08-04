@@ -1,0 +1,12 @@
+# DPM-Bench: Benchmark for Distributed Process Mining Algorithms on Cyber-Physical Systems
+
+**Authors:** Hendrik Reiter, Patrick Rathje, Olaf Landsiedel, Wilhelm Hasselbring
+
+## Summary
+Process Mining is established in research and industry systems to analyze and optimize processes based on event data from information systems. Within this work, we accomodate process mining techniques to Cyber-Physical Systems. To capture the distributed and heterogeneous characteristics of data, computational resources, and network communication in CPS, the todays process mining algorithms and techniques must be augmented. Specifically, there is a need for new Distributed Process Mining algorithms that enable computations to be performed directly on edge resources, eliminating the need for moving all data to central cloud systems. This paper introduces the DPM-Bench benchmark for comparing such Distributed Process Mining algorithms. DPM-Bench is used to compare algorithms deployed in different computational topologies. The results enable information system engineers to assess whether the existing infrastructure is sufficient to perform distributed process mining, or to identify required improvements in algorithms and hardware. We present and discuss an experimental evaluation with DPM-Bench.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SE
+Collected: 2025-08-01T19:28:29.957Z

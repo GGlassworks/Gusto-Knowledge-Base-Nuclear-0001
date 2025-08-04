@@ -1,0 +1,12 @@
+# Inverse Mellin Transform of Holonomic Sequences
+
+**Authors:** Jakob Ablinger
+
+## Summary
+We describe a method to compute the inverse Mellin transform of holonomic sequences, that is based on a method to compute the Mellin transform of holonomic functions. Both methods are implemented in the computer algebra package HarmonicSums.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.SC
+Collected: 2025-08-01T12:02:37.555Z
