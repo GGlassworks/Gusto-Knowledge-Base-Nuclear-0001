@@ -1,0 +1,13 @@
+# An overview of self-engineering systems
+
+**Authors:** Sam Brooks, R. Roy
+
+## Abstract
+Failures in high value, safety-critical, inaccessible, and productivity-critical systems is an area of significant research interest. Despite advances in predictive and continuous maintenance services, there is still a need for a more ambitious approach to preserve a system’s functions despite degradation and damage. This paper presents the concept of a self-engineering (SE) system which utilises techniques such as self-healing, self-repairing, self-adapting and self-reconfiguration to enable a system to respond autonomously to a loss or potential loss in its function. Two types of SE systems are outlined, systems with control and systems without control. A taxonomy of these key techniques and related concepts is presented. This review focuses primarily on physical SE systems, rather than the control and software systems where SE concepts are well advanced. Technology within mechanical, civil, electrical and electronics, mechatronics engineering disciplines and repair robotics is reviewed. Finally, key research gaps identified are discussed.
+
+**Source:** https://www.semanticscholar.org/paper/92b4ad9fcdcb95deb45559960ce66e58f9204382
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:57:20.933Z

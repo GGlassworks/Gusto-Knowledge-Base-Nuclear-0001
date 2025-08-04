@@ -1,0 +1,13 @@
+# The Simulation Model of Fixed Assets Reproduction of Mechanical Engineering Enterprises
+
+**Authors:** V. Kukartsev, A. Boyko, Oleslav A. Antamoshkin
+
+## Abstract
+This article represents a description of the model of a reproduction of fixed assets (FA) of the enterprise in natural form, which is a tool for automating the process of developing a strategy for the progress of a machine-building enterprise fixed assets. The process of reproduction of the enterprise's FA is a socio-economic, complex, artificial, controlled, dynamic, discrete-continuous, stochastic, and open system. The methodology of system analysis was applied to analyze systems of this class, using the principles as follows: purposefulness, detachment, decomposition, functionality, and development. These principles of system analysis are formalized in the form of a complex of various models such as canonical; hierarchical; the composition of system elements; internal structure; functioning and development of the system. This article also shows an imitation-dynamic model of the reproduction of machines and equipment of a machine-building enterprise. The model is developed on the basis of the method of system dynamics and tools of Powersim Studio, which is integrated into the widely used ERP system Sap R/3. The model shown is basic and simulates the process of reproducing equipment in natural form. The model was used as an automation tool for researching various variants of the reproduction of machines and equipment in a machine-building enterprise. The research done allows drawing a conclusion that the built simulation-dynamic model is quite universal and on its basis, it is possible to do various researches concerning various aspects of reproduction of the equipment of the enterprises.
+
+**Source:** https://www.semanticscholar.org/paper/0f4f7458e3eece96f2bdf2cd86594b633aca51c0
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:59:07.773Z

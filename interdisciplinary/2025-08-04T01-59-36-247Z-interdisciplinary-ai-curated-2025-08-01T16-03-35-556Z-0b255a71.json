@@ -1,0 +1,13 @@
+# Application of Modified Flower Pollination Algorithm on Mechanical Engineering Design Problem
+
+**Authors:** Ong Kok Meng, O. Pauline, Sia Chee Kiong, H. A. Wahab, Noormaziah Jafferi
+
+## Abstract
+The aim of the optimization is to obtain the best solution among other solutions in order to achieve the objective of the problem without evaluation on all possible solutions. In this study, an improved flower pollination algorithm, namely, the Modified Flower Pollination Algorithms (MFPA) is developed. Comprising of the elements of chaos theory, frog leaping local search and adaptive inertia weight, the performance of MFPA is evaluated in optimizing five benchmark mechanical engineering design problems - tubular column design, speed reducer, gear train, tension/compression spring design and pressure vessel. The obtained results are listed and compared with the results of the other state-of-art algorithms. Assessment shows that the MFPA gives promising result in finding the optimal design for all considered mechanical engineering problems.
+
+**Source:** https://www.semanticscholar.org/paper/97d164ae6f6ca015cb733c428bb13bcd91a8c232
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:03:35.558Z

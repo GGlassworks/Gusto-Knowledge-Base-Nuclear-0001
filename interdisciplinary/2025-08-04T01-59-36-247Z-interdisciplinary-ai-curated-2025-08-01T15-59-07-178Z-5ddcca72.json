@@ -1,0 +1,13 @@
+# Determination of biological joint reaction forces from in-vivo experiments using a hybrid combination of biomechanical and mechanical engineering software
+
+**Authors:** Joanne Becker, Emmanuel Mermoz, J. Linares
+
+## Abstract
+In biomechanical field, several studies used OpenSim software to compute the joint reaction forces from kinematics and ground reaction forces measurements. The bio-inspired joints design and their manufacturing need the usage of mechanical modeling and simulation software tools. This paper proposes a new hybrid methodology to determine biological joint reaction forces from in vivo measurements using both biomechanical and mechanical engineering softwares. The methodology has been applied to the horse forelimb joints. The computed joint reaction forces results would be compared to the results obtained with OpenSim in a previous study. This new hybrid model used a combination of measurements (bone geometry, kinematics, ground reaction forces…) and also OpenSim results (muscular and ligament forces). The comparison between the two models showed values with an average difference of 8% at trotting and 16% at jumping. These differences can be associated with the differences between the modelling strategies. Despite these differences, the mechanical modeling method allows the computation of advanced simulations to handle contact conditions in joints. In future, the proposed mechanical engineering methodology could open the door to define a biological digital twin of a quadruped limb including the real geometry modelling of the joint.
+
+**Source:** https://www.semanticscholar.org/paper/986649b3735e5ebf07db246a432b88c746c8c9f0
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:59:07.179Z
