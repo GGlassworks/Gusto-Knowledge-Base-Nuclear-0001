@@ -1,0 +1,13 @@
+# A survey on bandwidth-aware geo-distributed frameworks for big-data analytics
+
+**Authors:** Mohammed Bergui, Said Najah, Nikola S. Nikolov
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>In the era of global-scale services, organisations produce huge volumes of data, often distributed across multiple data centres, separated by vast geographical distances. While cluster computing applications, such as MapReduce and Spark, have been widely deployed in data centres to support commercial applications and scientific research, they are not designed for running jobs across geo-distributed data centres. The necessity to utilise such infrastructure introduces new challenges in the data analytics process due to bandwidth limitations of the inter-data-centre communication. In this article, we discuss challenges and survey the latest geo-distributed big-data analytics frameworks and schedulers (based on MapReduce and Spark) with WAN-bandwidth awareness.</jats:p>
+
+**Source:** https://doi.org/10.1186/s40537-021-00427-9
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:43:53.300Z

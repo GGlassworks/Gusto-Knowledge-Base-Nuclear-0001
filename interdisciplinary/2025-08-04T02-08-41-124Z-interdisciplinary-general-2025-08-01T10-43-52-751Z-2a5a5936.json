@@ -1,0 +1,13 @@
+# Nature Inspired Feature Selector for Effective Data Classification in Big Data Frameworks
+
+**Authors:** Appavu Alias Balamurugan Subramanian
+
+## Abstract
+<jats:p>In high dimensional space finding clusters of data objects is challenging due to the curse of dimensionality. When the dimensionality increases, data in the irrelevant dimensions may produce much noise. And also, time complexity is the major issues in existing approach. In order to rectify these issues our proposed method made use of efficient feature subset selection in high dimensional data. We are considering the input dataset is the high dimensional micro array dataset. Initially, we have to select the optimal features so that our proposed technique employed Social Spider Optimization (SSO) algorithm. Here the traditional Social Spider Optimization is modified with the help of fruit fly optimization algorithm. Next the selected features are the input for the classifier. The classification is performed using optimized radial basis function based neural network (ORBFNN) technique to classify the micro array data as normal or abnormal data. The effectiveness of RBFNN is optimized by means of artificial bee colony algorithm (ABC). </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-5225-5852-1.ch004
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:43:52.752Z
