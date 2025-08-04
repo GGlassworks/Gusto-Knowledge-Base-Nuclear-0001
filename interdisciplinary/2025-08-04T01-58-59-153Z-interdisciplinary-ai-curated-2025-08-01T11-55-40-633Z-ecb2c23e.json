@@ -1,0 +1,13 @@
+# Coupling Capacitor Voltage Transformers Models and Impacts on Electric Power Systems: A Review
+
+**Authors:** Raphael Leite de Andrade Reis, W. Neves, F. Lopes, D. Fernandes
+
+## Abstract
+Coupling capacitor voltage transformers (CCVTs) are the predominant devices used in high voltage systems to provide scaled-down voltage signals for metering, protection, and control devices. The performances of these devices are subject to errors due to the transient behavior of CCVTs, so that the use of CCVT digital models is essential for studying power systems in order to predict how the equipment dynamics affect protective relaying performances. In this review paper, the authors put together complete information regarding five realistic CCVT digital models available in the literature and perform a detailed sensitivity analysis of their magnitude and angle frequency responses, as well as their influence on phasor estimation, distance protection, and fault location techniques.
+
+**Source:** https://www.semanticscholar.org/paper/4532b1e661c04e2fe63877e854d5dc5c32740d04
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:55:40.633Z

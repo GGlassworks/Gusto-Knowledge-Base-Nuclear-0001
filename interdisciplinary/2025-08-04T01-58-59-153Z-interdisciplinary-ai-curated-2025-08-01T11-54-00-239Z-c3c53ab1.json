@@ -1,0 +1,13 @@
+# FEM Based Preliminary Design Optimization in Case of Large Power Transformers
+
+**Authors:** T. Orosz, D. Pánek, P. Karban
+
+## Abstract
+Since large power transformers are custom-made, and their design process is a labor-intensive task, their design process is split into different parts. In tendering, the price calculation is based on the preliminary design of the transformer. Due to the complexity of this task, it belongs to the most general branch of discrete, non-linear mathematical optimization problems. Most of the published algorithms are using a copper filling factor based winding model to calculate the main dimensions of the transformer during this first, preliminary design step. Therefore, these cost optimization methods are not considering the detailed winding layout and the conductor dimensions. However, the knowledge of the exact conductor dimensions is essential to calculate the thermal behaviour of the windings and make a more accurate stray loss calculation. The paper presents a novel, evolutionary algorithm-based transformer optimization method which can determine the optimal conductor shape for the windings during this examined preliminary design stage. The accuracy of the presented FEM method was tested on an existing transformer design. Then the results of the proposed optimization method have been compared with a validated transformer design optimization algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/ff6be81d5f4eee1fa7986b9c76cead6b5ee29f29
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:54:00.239Z

@@ -1,0 +1,13 @@
+# Transforming the bootstrap: using transformers to compute scattering amplitudes in planar N=4 super Yang–Mills theory
+
+**Authors:** Tianji Cai, Garrett W. Merz, François Charton, Niklas Nolte, Matthias Wilhelm, K. Cranmer, Lance J. Dixon
+
+## Abstract
+We pursue the use of deep learning methods to improve state-of-the-art computations in theoretical high-energy physics. Planar N=4 Super Yang–Mills theory is a close cousin to the theory that describes Higgs boson production at the Large Hadron Collider; its scattering amplitudes are large mathematical expressions containing integer coefficients. In this paper, we apply transformers to predict these coefficients. The problem can be formulated in a language-like representation amenable to standard cross-entropy training objectives. We design two related experiments and show that the model achieves high accuracy ( >98%) on both tasks. Our work shows that transformers can be applied successfully to problems in theoretical physics that require exact solutions.
+
+**Source:** https://www.semanticscholar.org/paper/97c52051e0d5557fbf0f378f5501ebba19277b53
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:52:12.703Z

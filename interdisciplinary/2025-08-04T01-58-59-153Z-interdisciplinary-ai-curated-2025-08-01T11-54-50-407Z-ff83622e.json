@@ -1,0 +1,13 @@
+# Cross-Modal Transformers for Infrared and Visible Image Fusion
+
+**Authors:** Seonghyun Park, An Gia Vien, Chul Lee
+
+## Abstract
+Image fusion techniques aim to generate more informative images by merging multiple images of different modalities with complementary information. Despite significant fusion performance improvements of recent learning-based approaches, most fusion algorithms have been developed based on convolutional neural networks (CNNs), which stack deep layers to obtain a large receptive field for feature extraction. However, important details and contexts of the source images may be lost through a series of convolution layers. In this work, we propose a cross-modal transformer-based fusion (CMTFusion) algorithm for infrared and visible image fusion that captures global interactions by faithfully extracting complementary information from source images. Specifically, we first extract the multiscale feature maps of infrared and visible images. Then, we develop cross-modal transformers (CMTs) to retain complementary information in the source images by removing redundancies in both the spatial and channel domains. To this end, we design a gated bottleneck that integrates cross-domain interaction to consider the characteristics of the source images. Finally, a fusion result is obtained by exploiting spatial-channel information in refined feature maps using a fusion block. Experimental results on multiple datasets demonstrate that the proposed algorithm provides better fusion performance than state-of-the-art infrared and visible image fusion algorithms, both quantitatively and qualitatively. Furthermore, we show that the proposed algorithm can be used to improve the performance of computer vision tasks, e.g., object detection and monocular depth estimation.
+
+**Source:** https://www.semanticscholar.org/paper/683202b2ee4a05e76ef34b0af8516afc6ec8bffa
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:54:50.407Z

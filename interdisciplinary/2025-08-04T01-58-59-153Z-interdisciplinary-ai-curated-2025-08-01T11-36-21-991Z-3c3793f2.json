@@ -1,0 +1,13 @@
+# Finding Chaos in Noisy Systems
+
+**Authors:** Douglas Nychkatl, S. Ellner, Daniel Mccaftrey, A. R. Gallanl, Douglas Nychkat, S. Ellner, D. McCaffrey, A. Gallant, Neural Networks
+
+## Abstract
+In the past twenty years there has been much interest in the physical and biological sciences in nonlinear dynamical systems that appear to have random, unpredictable behavior. One important parameter of a dynamic system is the dominant Lyapunov exponent (LE). When the behavior of the system is compared for two similar initial conditions, this exponent is related to the rate at which the subsequent trajectories diverge. A bounded system with a positive LE is one operational definition of chaotic behavior. Most methods for determining the LE have assumed thousands of observations generated from carefully controlled physical experiments. Less attention has been given to estimating the LE for biological and economic systems that are subjected to random perturbations and observed over a limited amount of time. Using nonparametric regression techniques (Neural Networks and Thin Plate Splines) it is possible to consistently estimate the LE. The properties of these methods have been studied using simulated data and are applied to a biological time series: marten fur returns for the Hudson Bay Company (1820-1900). Based on a nonparametric analysis there is little evidence for lowdimensional chaos in these data. Although these methods appear to work well for systems perturbed by small amounts of noise, finding chaos in a system with a significant stochastic component may be difficult.
+
+**Source:** https://www.semanticscholar.org/paper/0cadae8b546910d8a226954de73530e1e52131e4
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:36:21.991Z

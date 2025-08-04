@@ -1,0 +1,13 @@
+# A Comprehensive Review on Transformers Models For Text Classification
+
+**Authors:** Rania Kora, Ammar Mohammed
+
+## Abstract
+The rapid progress in deep learning has propelled transformer-based models to the forefront, establishing them as leading solutions for a multiple NLP tasks. These tasks span a wide spectrum, encompassing text classification activities like sentiment analysis, question answering, natural language inference, and news classification. Transformers offer numerous noteworthy benefits compared to alternative language modeling strategies. They possess a remarkable capacity for parallel processing, enabling them to handle multiple segments of a sequence concurrently, thereby significantly expediting both training and inference. Furthermore, transformers excel in capturing extensive contextual relationships within text, thereby enhancing their comprehension of the broader context and resulting in the generation of more logically coherent textual content. Additionally, transformers exhibit heightened adaptability and scalability, simplifying their utilization across various tasks. Hence, this review paper aims to analyze in-depth the most popular transformer techniques specifically applied to text classification tasks: the various BERT models. We also provide an overview of more than 109 research efforts that used various BERT models in text classification, determining the methodology used. In addition, we describe the three variants of the transformer model with an illustration of the most common models for each variant and the appropriate NLP tasks for each variant.
+
+**Source:** https://www.semanticscholar.org/paper/0f438f7ff70e52dd3b65f9f5ec6ef4bbe5f9109d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:55:40.126Z

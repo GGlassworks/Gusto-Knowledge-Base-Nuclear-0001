@@ -1,0 +1,13 @@
+# Vision Transformers: A Review of Architecture, Applications, and Future Directions
+
+**Authors:** Abdelhafid Berroukham, K. Housni, Mohammed Lahraichi
+
+## Abstract
+In recent years, the development of deep learning has revolutionized the field of computer vision, especially the convolutional neural networks (CNNs), which become the preferred approach for numerous tasks handling images. However, CNNs have difficulty interpreting massive and complicated datasets, which has led to the creation of alternative architectures such as vision transformers. The transformer architecture, which was initially developed for natural language processing (NLP), is modified for image-related applications via vision transformers. In this paper, we present an outline of the main concepts and components of vision transformers. We review various variations and modifications to the architecture, and compare different approaches based on their effectiveness, complexity, and other attributes. Additionally, we examine the applications and uses of vision transformers, such as image classification, object detection, and semantic segmentation, and provide illustrations of relevant real-world situations. Finally, we discuss the potential impact of vision transformers on computer vision, while exploring the challenges and restrictions associated with their usage. We conclude by outlining potential new directions and advancements in the field of computer vision, as well as areas that require further study and investigation.
+
+**Source:** https://www.semanticscholar.org/paper/13c3f5faa26976b8a4b9ccc234b09fad8c3737fc
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:03.365Z

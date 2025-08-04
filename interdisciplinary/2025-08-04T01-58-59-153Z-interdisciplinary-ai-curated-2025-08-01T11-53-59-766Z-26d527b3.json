@@ -1,0 +1,13 @@
+# Black-Hole Optimization Applied to the Parametric Estimation in Distribution Transformers Considering Voltage and Current Measures
+
+**Authors:** Camilo Andres Arenas-Acuña, Jonathan Andres Rodriguez-Contreras, O. Montoya, E. Trujillo
+
+## Abstract
+The problem of parametric estimation in single-phase transformers is addressed in this research from the point of view of metaheuristic optimization. The parameters of interest are the series resistance and reactance as well as the magnetization resistance and reactance. To obtain these parameters considering only the voltage and the currents measured in the terminals of the transformer, a nonlinear optimization model that deals with the minimization of the mean square error among the measured and calculated voltage and current variables is formulated. The nonlinear programming model is solved through the implementation of a simple but efficient metaheuristic optimization technique known as the black-hole optimizer. Numerical simulations demonstrate that the proposed optimization method allows for the reduction in the estimation error among the measured and calculated variables when compared with methods that are well established in the literature such as particle swarm optimization and genetic algorithms, among others. All the simulations were carried out in the MATLAB programming environment.
+
+**Source:** https://www.semanticscholar.org/paper/06dd985747b10f57fce21fb4724b7b56be5632c0
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:59.767Z

@@ -1,0 +1,13 @@
+# A Comparison of the Forecasting Ability of Immediate Price Impact Models
+
+**Authors:** Manh Cuong Pham, H. N. Duong, P. Lajbcygier
+
+## Abstract
+As a consequence of recent technological advances and the proliferation of algorithmic and high frequency trading, the cost of trading in financial markets has irrevocably changed. One important change relates to how trading affects prices; known as price impact. Price impact represents the largest cost associated with trading. Forecasting price impact is very important as it can provide estimates of trading profits after costs and also suggest optimal execution strategies. Although several models have recently been developed which may forecast the immediate price impact of individual trades, limited work has been done to compare their relative performance. We provide a comprehensive performance evaluation of these models and test for statistically significant outperformance amongst candidate models using out-of-sample forecasts. We find that normalizing price impact by its average value significantly enhances the performance of traditional non-normalized models as the normalization factor captures some of the dynamics of price impact.
+
+**Source:** https://www.semanticscholar.org/paper/c48fbc56ae08563e5a1ceda6c4bd713f3a1c6759
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:53:17.925Z

@@ -1,0 +1,13 @@
+# Wildfire Segmentation Using Deep Vision Transformers
+
+**Authors:** Rafik Ghali, M. Akhloufi, Marwa Jmal, Wided Souidène Mseddi, Rabah Attia
+
+## Abstract
+In this paper, we address the problem of forest fires’ early detection and segmentation in order to predict their spread and help with fire fighting. Techniques based on Convolutional Networks are the most used and have proven to be efficient at solving such a problem. However, they remain limited in modeling the long-range relationship between objects in the image, due to the intrinsic locality of convolution operators. In order to overcome this drawback, Transformers, designed for sequence-to-sequence prediction, have emerged as alternative architectures. They have recently been used to determine the global dependencies between input and output sequences using the self-attention mechanism. In this context, we present in this work the very first study, which explores the potential of vision Transformers in the context of forest fire segmentation. Two vision-based Transformers are used, TransUNet and MedT. Thus, we design two frameworks based on the former image Transformers adapted to our complex, non-structured environment, which we evaluate using varying backbones and we optimize for forest fires’ segmentation. Extensive evaluations of both frameworks revealed a performance superior to current methods. The proposed approaches achieved a state-of-the-art performance with an F1-score of 97.7% for TransUNet architecture and 96.0% for MedT architecture. The analysis of the results showed that these models reduce fire pixels mis-classifications thanks to the extraction of both global and local features, which provide finer detection of the fire’s shape.
+
+**Source:** https://www.semanticscholar.org/paper/dc7136cc0d14fc270290ed4c9c2519e3a15c142a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:56:40.936Z

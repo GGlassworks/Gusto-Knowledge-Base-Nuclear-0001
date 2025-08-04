@@ -1,0 +1,13 @@
+# Configurations, Power Topologies and Applications of Hybrid Distribution Transformers
+
+**Authors:** Alvaro Carreno, M. Pérez, C. Baier, A. Huang, S. Rajendran, M. Malinowski
+
+## Abstract
+Distribution systems are under constant stress due to their highly variable operating conditions, which jeopardize distribution transformers and lines, degrading the end-user service. Due to transformer regulation, variable loads can generate voltage profiles out of the acceptable bands recommended by grid codes, affecting the quality of service. At the same time, nonlinear loads, such as diode bridge rectifiers without power factor correction systems, generate nonlinear currents that affect the distribution transformer operation, reducing its lifetime. Variable loads can be commonly found at domiciliary levels due to the random operation of home appliances, but recently also due to electric vehicle charging stations, where the distribution transformer can cyclically vary between no-load, rated and overrated load. Thus, the distribution transformer can not safely operate under highly-dynamic and stressful conditions, requiring the support of alternative systems. Among the existing solutions, hybrid transformers, which are composed of a conventional transformer and a power converter, are an interesting alternative to cope with several power quality problems. This article is a review of the available literature about hybrid distribution transformers.
+
+**Source:** https://www.semanticscholar.org/paper/c46e4f19bfd2c420e6b628c23d550418965fa5ed
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:03.776Z

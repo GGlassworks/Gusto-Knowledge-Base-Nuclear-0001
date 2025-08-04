@@ -1,0 +1,13 @@
+# Uncovering mesa-optimization algorithms in Transformers
+
+**Authors:** J. Oswald, Eyvind Niklasson, Maximilian Schlegel, Seijin Kobayashi, Nicolas Zucchet, Nino Scherrer, N. Miller, Mark Sandler, B. A. Y. Arcas, Max Vladymyrov, Razvan Pascanu, J. Sacramento
+
+## Abstract
+Some autoregressive models exhibit in-context learning capabilities: being able to learn as an input sequence is processed, without undergoing any parameter changes, and without being explicitly trained to do so. The origins of this phenomenon are still poorly understood. Here we analyze a series of Transformer models trained to perform synthetic sequence prediction tasks, and discover that standard next-token prediction error minimization gives rise to a subsidiary learning algorithm that adjusts the model as new inputs are revealed. We show that this process corresponds to gradient-based optimization of a principled objective function, which leads to strong generalization performance on unseen sequences. Our findings explain in-context learning as a product of autoregressive loss minimization and inform the design of new optimization-based Transformer layers.
+
+**Source:** https://www.semanticscholar.org/paper/9bb3deca32af8d632e0d916c587cca6c185a6576
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:58.852Z

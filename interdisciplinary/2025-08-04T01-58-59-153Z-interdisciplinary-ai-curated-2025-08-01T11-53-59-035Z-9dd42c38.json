@@ -1,0 +1,13 @@
+# Transformers for Trajectory Optimization with Application to Spacecraft Rendezvous
+
+**Authors:** T. Guffanti, Daniele Gammelli, Simone D'Amico, Marco Pavone
+
+## Abstract
+Reliable and efficient trajectory optimization methods are a fundamental need for autonomous dynamical systems, effectively enabling applications including rocket landing, hypersonic reentry, spacecraft rendezvous, and docking. Within such safety-critical application areas, the complexity of the emerging trajectory optimization problems has motivated the application of AI-based techniques to enhance the performance of traditional approaches. However, current AI-based methods either attempt to fully replace traditional control algorithms, thus lacking constraint satisfaction guarantees and incurring in expensive simulation, or aim to solely imitate the behavior of traditional methods via supervised learning. To address these limitations, this paper proposes the Autonomous Rendezvous Transformer (ART)† and assesses the capability of modern generative models to solve complex trajectory optimization problems, both from a forecasting and control standpoint. Specifically, this work assesses the capabilities of Transformers to (i) learn near-optimal policies from previously collected data, and (ii) warm-start a sequential optimizer for the solution of non-convex optimal control problems, thus guaranteeing hard constraint satisfaction. From a forecasting perspective, results highlight how ART outperforms other learning-based architectures at predicting known fuel-optimal trajectories. From a control perspective, empirical analyses show how policies learned through Transformers are able to generate near-optimal warm-starts, achieving trajectories that are (i) more fuel-efficient, (ii) obtained in fewer sequential optimizer iterations, and (iii) computed with an overall runtime comparable to benchmarks based on convex optimization.
+
+**Source:** https://www.semanticscholar.org/paper/5170c01673a16ac0335ae51b0b8d8c20142d3f2a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:59.036Z

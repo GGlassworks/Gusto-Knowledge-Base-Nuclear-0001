@@ -1,0 +1,13 @@
+# TransQuest: Translation Quality Estimation with Cross-lingual Transformers
+
+**Authors:** Tharindu Ranasinghe, Constantin Orasan, R. Mitkov
+
+## Abstract
+Recent years have seen big advances in the field of sentence-level quality estimation (QE), largely as a result of using neural-based architectures. However, the majority of these methods work only on the language pair they are trained on and need retraining for new language pairs. This process can prove difficult from a technical point of view and is usually computationally expensive. In this paper we propose a simple QE framework based on cross-lingual transformers, and we use it to implement and evaluate two different neural architectures. Our evaluation shows that the proposed methods achieve state-of-the-art results outperforming current open-source quality estimation frameworks when trained on datasets from WMT. In addition, the framework proves very useful in transfer learning settings, especially when dealing with low-resourced languages, allowing us to obtain very competitive results.
+
+**Source:** https://www.semanticscholar.org/paper/10d83b2590fd444d7dfa6344f051c1870d1f8398
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:56:41.100Z

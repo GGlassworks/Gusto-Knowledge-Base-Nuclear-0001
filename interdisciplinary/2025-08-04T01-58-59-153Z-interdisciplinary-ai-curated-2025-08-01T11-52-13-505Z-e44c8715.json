@@ -1,0 +1,13 @@
+# Graph-Theory-Based Modeling and Control for System-Level Optimization of Smart Transformers
+
+**Authors:** Marco Liserre, V. Raveendran, Markus Andresen
+
+## Abstract
+Smart transformers offer the possibility to reduce the costs related to the integration of renewables and charging station into the grid and are gaining industrial interests. Grid system operators request modularity for easy maintenance and power scalability. Normally, the power is shared equally in the modular structure. However, differences in electrical and thermal parameters of the individual cells result in a nonoptimal efficiency and reliability characteristics with equal power sharing. In this article, a generalized approach for system-level modeling of modular converters with graph theory is presented. Graph theory simplifies the power flow management in modular architectures to a network flow problem, thereby facilitating the routing of power among the cells for optimizing reliability and efficiency. A power routing algorithm based on convex cost flow optimization is discussed, and case studies are presented to demonstrate the potential of the proposed method.
+
+**Source:** https://www.semanticscholar.org/paper/88f74752a68e211a1763926220c682d650d1aa50
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:52:13.509Z

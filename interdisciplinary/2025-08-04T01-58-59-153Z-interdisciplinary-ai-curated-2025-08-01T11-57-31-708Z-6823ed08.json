@@ -1,0 +1,13 @@
+# VistaGPT: Generative Parallel Transformers for Vehicles With Intelligent Systems for Transport Automation
+
+**Authors:** Yonglin Tian, Xuan Li, Hui Zhang, Chen Zhao, Bai Li, Xiao Wang, Xiao Wang, Fei‐Yue Wang
+
+## Abstract
+Diverse transport demands have resulted in the wide existence of heterogeneous vehicle automation systems. While these systems have demonstrated effectiveness, they also pose challenges in terms of the share of technological advancements among different organizations and lead to poor generalization ability of individual systems. This article proposes a Transformer-based unified framework, VistaGPT, to address these challenges. VistaGPT, composed of Modular Federations of Vehicular Transformers (M-FoV) and Automated Composing of Autonomous Driving Systems (AutoAuto), aims to overcome the information barriers due to system-level and module-level heterogeneity. M-FoV collects and organizes Transformer-based models in a modular fashion to facilitate system integration by providing diversity and versatility. AutoAuto utilizes large language models (LLMs) to automatically compose end-to-end autonomous driving systems with a “Dividing and Recombining” strategy. Besides, we deploy Scenario Engineering systems to evaluate the composed systems and provide systematic feedback for the optimization of AutoAuto, and Federated intelligence to contribute to diverse training samples and applications. With its capacity, scalability, and diversity, VistaGPT provides a new paradigm of LLM-aided system development for transport automation, which promotes virtual-real interactive parallel driving and advances progress toward “6S” objectives.
+
+**Source:** https://www.semanticscholar.org/paper/a404da40ae0d188095b5b0a3a3385c1cc7cffe62
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:57:31.709Z

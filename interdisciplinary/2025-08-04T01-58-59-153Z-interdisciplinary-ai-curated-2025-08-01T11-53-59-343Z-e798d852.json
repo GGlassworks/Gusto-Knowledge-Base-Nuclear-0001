@@ -1,0 +1,13 @@
+# General Analytical Model and Optimization for Leakage Inductances of Medium-Frequency Transformers
+
+**Authors:** Xuan Guo, Chi Li, Zedong Zheng, Yongdong Li
+
+## Abstract
+The leakage inductance of medium-frequency transformers (MFTs) significantly affects the operation and efficiency of isolated converters, which are one of the most important components in solid-state transformers, and should be accurately controlled or be minimized. This article proposes a general analytical model of leakage inductance based on the superposition theorem and Rogowski coefficients, taking nonideal geometric factors, such as the different heights of the primary and secondary winding in practical implementations, into account, with only less than 4% error compared to most 3-D finite element simulations and 7% to all experiments. Based on the proposed model, an optimization scheme to minimize the leakage inductance for typical winding structures through the adjustment of the winding arrangement is proposed and mathematically proved, which can reduce the leakage inductance by up to over 40% compared with the traditional concentrated arrangement, also validated in experiments. In addition, the optimization method does not need to redesign other magnetic parameters and is free to use at no cost.
+
+**Source:** https://www.semanticscholar.org/paper/b074bd8058f7a835c0710f9c0b9717dca5446ea2
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:59.343Z

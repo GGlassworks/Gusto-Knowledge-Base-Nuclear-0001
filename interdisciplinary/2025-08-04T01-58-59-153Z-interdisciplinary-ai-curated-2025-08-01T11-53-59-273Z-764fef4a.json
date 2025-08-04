@@ -1,0 +1,13 @@
+# Design and Optimization of the Insulation of Medium-Voltage Medium-Frequency Transformers for Solid-State Transformers
+
+**Authors:** Zheyuan Yi, K. Sun, Hanyu Liu, Guoen Cao, Shilei Lu
+
+## Abstract
+Solid-state transformers (SSTs) can be applied in the ac/dc hybrid distribution network. The reliability and power density of a solid-state transformer is significantly influenced by the insulation design of the isolated dc–dc converter and, in particular, its medium-voltage medium-frequency transformer. This article proposes an insulation design method for the medium-voltage medium-frequency transformer. A novel insulation structure is adopted to reduce the volume and improve the heat dissipation performance. Optimization of insulation distance parameters is performed based on finite-element method (FEM) simulations. The proposed method is applied to a 60-kVA/10-kHz transformer, and the simulation results verify the improved performances with the proposed insulation design method. A prototype is developed according to the proposed scheme, and the experimental results of a dc–dc converter and the partial discharge and applied voltage tests are presented.
+
+**Source:** https://www.semanticscholar.org/paper/587e13139170ee9f49a17b139131d9653ed62b6c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:59.273Z

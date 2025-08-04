@@ -1,0 +1,13 @@
+# Termination Design Optimization of High-Current PCB-Winding Matrix Transformers
+
+**Authors:** P. Prakash, Ahmed Nabih, Qiang Li
+
+## Abstract
+Due to their high power densities and efficiencies, high-frequency resonant converters using printed circuit board (PCB)-based transformers are gaining popularity in applications, such as datacenters and automotive. However, in such high-frequency, high-current applications, the PCB transformer's termination losses may become significant if not designed properly. This article aims to highlight multiple design considerations to minimize the termination losses while designing a PCB-based matrix transformer. Various termination techniques for full-bridge and center-tap secondary-rectifiers are studied, and it is shown that placing the devices and output filter capacitors directly on the secondary windings results in the lowest termination loss. However, this results in the output filter capacitors being split between the two secondary PCB layers, resulting in a long paralleling loop between them. It is demonstrated that the parasitic inductance of this loop undergoes parallel resonance with the filter capacitors, resulting in high circulating currents and, hence, high termination losses. Methods to mitigate this effect at the LLC converter's switching frequency are discussed. Improvements of the proposed terminations are demonstrated by modeling and measuring the transformer's ac resistance. Furthermore, the LLC converters' efficiency improvements are also showcased with the improved terminations.
+
+**Source:** https://www.semanticscholar.org/paper/4e04b22481d2923259a6a3d6a39d90f40a97a231
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:59.111Z

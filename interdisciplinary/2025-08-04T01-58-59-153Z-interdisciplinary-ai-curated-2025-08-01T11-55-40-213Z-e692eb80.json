@@ -1,0 +1,13 @@
+# Exploring Transformers models for Emotion Recognition: a comparision of BERT, DistilBERT, RoBERTa, XLNET and ELECTRA
+
+**Authors:** Diogo Cortiz
+
+## Abstract
+This paper investigates the performance of different Transformers Models for Emotion Recognition, a specific NLU (Natural Language Understanding) task in Affective Computing. We implemented and finetuned different transformers language models (BERT, DistilBERT, RoBERTa, XLNet, and ELECTRA) using a fine-grained emotion dataset with 28 emotions classes Our initial hypothesis was that the model size would not significantly impact this specific task. We evaluated and compared all those models in terms of performance (f1-score) and time to complete. Except for the ELECTRA model, which had the worst F1-score (.33), the other models had more similar results. RoBERTa achieved the best F1-score (.49), followed by DistillBERT (.48), XLNet (.48), and then BERT (.46). However, when we look at the metric of computational cost and time to complete, we argue that the DistillBERT, which is a smaller model, is the most efficient for this type of task.
+
+**Source:** https://www.semanticscholar.org/paper/1c3d192557dc23bd151b093f388363ad7099ab93
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:55:40.214Z

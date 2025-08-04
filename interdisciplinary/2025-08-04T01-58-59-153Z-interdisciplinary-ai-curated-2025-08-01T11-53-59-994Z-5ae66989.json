@@ -1,0 +1,13 @@
+# Parameter Estimation of Electric Power Transformers Using Coyote Optimization Algorithm With Experimental Verification
+
+**Authors:** Mohamed I. Abdelwanis, A. Abaza, R. El-Sehiemy, M. Ibrahim, Hegazy Rezk
+
+## Abstract
+In this work, the Coyote Optimization Algorithm (COA) is implemented for estimating the parameters of single and three-phase power transformers. The estimation process is employed on the basis of the manufacturer’s operation reports. The COA is assessed with the aid of the deviation between the actual and the estimated parameters as the main objective function. Further, the COA is compared with well-known optimization algorithms i.e. particle swarm and Jaya optimization algorithms. Moreover, experimental verifications are carried out on 4 kVA, 380/380 V, three-phase transformer and 1 kVA, 230/230 V, single-phase transformer. The obtained results prove the effectiveness and capability of the proposed COA. According to the obtained results, COA has the ability and stability to identify the accurate optimal parameters in case of both single phase and three phase transformers; thus accurate performance of the transformers is achieved. The estimated parameters using COA lead to the highest closeness to the experimental measured parameters that realizes the best agreements between the estimated parameters and the actual parameters compared with other optimization algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/c98987b54e68c90a350438acec54661dc52b0a54
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:53:59.994Z

@@ -1,0 +1,13 @@
+# Effective Theory of Transformers at Initialization
+
+**Authors:** Emily Dinan, Sho Yaida, Susan Zhang
+
+## Abstract
+We perform an effective-theory analysis of forward-backward signal propagation in wide and deep Transformers, i.e., residual neural networks with multi-head self-attention blocks and multilayer perceptron blocks. This analysis suggests particular width scalings of initialization and training hyperparameters for these models. We then take up such suggestions, training Vision and Language Transformers in practical setups.
+
+**Source:** https://www.semanticscholar.org/paper/5c326260baa5e91a6a39c4d87ebe6770ade86816
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:52:12.882Z

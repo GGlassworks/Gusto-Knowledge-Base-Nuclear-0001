@@ -1,0 +1,13 @@
+# Spatial-temporal Transformers for EEG Emotion Recognition
+
+**Authors:** Jiyao Liu, Hao Wu, Li Zhang, Yanxi Zhao
+
+## Abstract
+Electroencephalography (EEG) is a popular and effective tool for emotion recognition. However, the propagation mechanisms of EEG in the human brain and its intrinsic correlation with emotions are still obscure to researchers. This work proposes four variant transformer frameworks (spatial attention, temporal attention, sequential spatial-temporal attention and simultaneous spatial-temporal attention) for EEG emotion recognition to explore the relationship between emotion and spatial-temporal EEG features. Specifically, spatial attention and temporal attention are to learn the topological structure information and time-varying EEG characteristics for emotion recognition respectively. Sequential spatial-temporal attention does the spatial attention within a one-second segment and temporal attention within one sample sequentially to explore the influence degree of emotional stimulation on EEG signals of diverse EEG electrodes in the same temporal segment. The simultaneous spatial-temporal attention, whose spatial and temporal attention are performed simultaneously, is used to model the relationship between different spatial features in different time segments. The experimental results demonstrate that simultaneous spatial-temporal attention leads to the best emotion recognition accuracy among the design choices, indicating modeling the correlation of spatial and temporal features of EEG signals is significant to emotion recognition.
+
+**Source:** https://www.semanticscholar.org/paper/78801280840bd44f8e157ff4dd2551c222b550ff
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:56:41.176Z

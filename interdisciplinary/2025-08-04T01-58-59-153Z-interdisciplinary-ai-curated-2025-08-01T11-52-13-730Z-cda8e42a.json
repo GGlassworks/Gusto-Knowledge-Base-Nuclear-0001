@@ -1,0 +1,13 @@
+# Transmission line pulse transformers—Theory and applications
+
+**Authors:** R. Matick
+
+## Abstract
+The advent of fast rise-time pulse techniques and their increasing importance brought on by high-speed microminiature circuits and the computer industry has resulted in an increased demand for pulse transformers of various types. The basic idea of constructing transmission line type transformers has been known and used for a number of years. However, such devices have not gained widespread usage, partly because their existence is not well known, but largely because of a lack of basic understanding of their operating principles in terms of elementary fundamentals as well as their capabilities and limitations. The purpose of this paper is twofold. One aim is to develop in step-by-step fashion the basic ideas of transmission line transformers from ordinary transmission line theory. The subject will be approached from the point of view of pulse response rather than ac excitation as is usually the case. Both impedance transformers and balanced-to-unbalanced (balun) transformers, including inverters, will be considered with physical insights into their operation. Several fundamental concepts will be developed and explored in detail (without mathematics), since they have a strong bearing on practical applications. The second purpose is to present new information and pulse measurements which will be useful in the design and applications of such devices, showing their capabilities and hitherto unexplored limitations, as derived from the fundamental concepts. Thus, this paper is partly supplementary to other published work and partly new work with the goal of providing a convenient fundamental understanding of these devices and their inherent potential and shortcomings. Although the intention is not to give a detailed design procedure, some approximate calculations and discussion of significant design criteria are included.
+
+**Source:** https://www.semanticscholar.org/paper/ac53587facea99992eeb0288936c8a8de36c6164
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:52:13.731Z

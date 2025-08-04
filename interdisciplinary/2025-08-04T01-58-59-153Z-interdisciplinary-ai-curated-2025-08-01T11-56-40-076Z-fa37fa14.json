@@ -1,0 +1,13 @@
+# LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformers
+
+**Authors:** Xuanqing Liu, Zhuotao Liu
+
+## Abstract
+The community explored to build private inference frameworks for transformer-based large language models (LLMs) in a server-client setting, where the server holds the model parameters and the client inputs its private data (or prompt) for inference. However, these frameworks impose significant overhead when the private inputs are forward propagated through the original LLMs. In this paper, we show that substituting the computation- and communication-heavy operators in the transformer architecture with privacy-computing friendly approximations can greatly reduce the private inference costs while incurring very minor impact on model performance. Compared to state-of-the-art Iron (NeurIPS 2022), our privacy-computing friendly model inference pipeline achieves a $5\times$ acceleration in computation and an 80% reduction in communication overhead, while retaining nearly identical accuracy.
+
+**Source:** https://www.semanticscholar.org/paper/f8fd2b44f4597848a6ffadefd7116e62924fd12f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:56:40.076Z

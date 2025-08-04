@@ -1,0 +1,13 @@
+# Estimation of the Equivalent Circuit Parameters in Transformers Using Evolutionary Algorithms
+
+**Authors:** Hector Ascencion-Mestiza, S. Maximov, E. Mezura-Montes, J. C. Olivares-Galvan, R. Ocon-Valdez, R. Escarela-Perez
+
+## Abstract
+The conventional methods of parameter estimation in transformers, such as the open-circuit and short-circuit tests, are not always available, especially when the transformer is already in operation and its disconnection is impossible. Therefore, alternative (non-interruptive) methods of parameter estimation have become of great importance. In this work, no-interruption, transformer equivalent circuit parameter estimation is presented using the following metaheuristic optimization methods: the genetic algorithm (GA), particle swarm optimization (PSO) and the gravitational search algorithm (GSA). These algorithms provide a maximum average error of 12%, which is twice as better as results found in the literature for estimation of the equivalent circuit parameters in transformers at a frequency of 50 Hz. This demonstrates that the proposed GA, PSO and GSA metaheuristic optimization methods can be applied to estimate the equivalent circuit parameters of single-phase distribution and power transformers with a reasonable degree of accuracy.
+
+**Source:** https://www.semanticscholar.org/paper/5a61b4281769b8ccf6c98269d219d3f80e39febc
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:54:49.816Z
