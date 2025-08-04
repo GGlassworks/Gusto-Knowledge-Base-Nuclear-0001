@@ -1,0 +1,13 @@
+# Evolutionary Genetics
+
+**Authors:** Glenn-Peter Sætre, Mark Ravinet
+
+## Abstract
+<p>Evolutionary genetics is the study of how genetic variation leads to evolutionary change. With the recent explosion in the availability of whole genome sequence data, vast quantities of genetic data are being generated at an ever-increasing pace with the result that programming has become an essential tool for researchers. Most importantly, a thorough understanding of evolutionary principles is essential for making sense of this genetic data. This up-to-date textbook covers all the major components of modern evolutionary genetics, carefully explaining fundamental processes such as mutation, natural selection, genetic drift, and speciation, together with their consequences. In addition to the text, study questions are provided to motivate the reader to think and reflect on the concepts in each chapter. Practical experience is essential when it comes to developing an understanding of how to use genetic data to analyze and address interesting questions in the life sciences and how to interpret results in meaningful ways. Throughout the book, a series of online, computer-based tutorials serves as an introduction to programming and analysis of evolutionary genetic data centered on the R programming language, which stands out as an ideal all-purpose platform to handle and analyze such data. The book and its online materials take full advantage of the authors’ own experience in working in a post-genomic revolution world, and introduce readers to the plethora of molecular and analytical methods that have only recently become available.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780198830917.001.0001
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:51:53.351Z

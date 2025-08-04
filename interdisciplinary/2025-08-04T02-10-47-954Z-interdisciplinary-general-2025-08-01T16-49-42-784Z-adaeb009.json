@@ -1,0 +1,13 @@
+# Data simulation to optimize frameworks for genome-wide association studies in diverse populations
+
+**Authors:** Jacquiline W. Mugo, Nicola Mulder, Emile R. Chimusa
+
+## Abstract
+<jats:p>Whole-genome or genome-wide association studies (GWAS) have become a fundamental part of modern genetic studies and methods for dissecting the genetic architecture of common traits based on common polymorphisms in random populations. It is hoped that there would be many potential uses of these identified variants, including a better understanding of the pathogenesis of traits, disease risk prediction, discovery of biomarkers, and clinical prediction of drug treatments for populations and global health. Questions have been raised about whether associations that are largely discovered in European ancestry populations are replicable in diverse populations, can inform medical decision-making globally, and how efficiently current GWAS tools perform in populations of high genetic diversity, multi-wave genetic admixture, and low linkage disequilibrium, such as African populations. Here, we discuss some of the challenges in association mapping and leverage genomic data simulation to mimic structured African, European, and multi-way admixed populations to evaluate the replicability of association signals from current state-of-the-art GWAS tools. We use the results to discuss optimized frameworks for the analysis of GWAS data in diverse populations. Finally, we outline the implications, challenges, and opportunities these studies present for populations of non-European descent.</jats:p>
+
+**Source:** https://doi.org/10.3389/fgene.2025.1559496
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:49:42.785Z

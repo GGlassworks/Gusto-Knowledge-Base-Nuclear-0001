@@ -1,0 +1,15 @@
+# A Comparison of One-Rate and Two-Rate Inference Frameworks for Site-Specific <i>dN/</i>
+                  <i>dS</i> Estimation
+
+**Authors:** Stephanie J Spielman, Suyang Wan, Claus O Wilke
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>Two broad paradigms exist for inferring dN/dS, the ratio of nonsynonymous to synonymous substitution rates, from coding sequences: (i) a one-rate approach, where dN/dS is represented with a single parameter, or (ii) a two-rate approach, where dN and dS are estimated separately. The performances of these two approaches have been well studied in the specific context of proper model specification, i.e., when the inference model matches the simulation model. By contrast, the relative performances of one-rate vs. two-rate parameterizations when applied to data generated according to a different mechanism remain unclear. Here, we compare the relative merits of one-rate and two-rate approaches in the specific context of model misspecification by simulating alignments with mutation–selection models rather than with dN/dS-based models. We find that one-rate frameworks generally infer more accurate dN/dS point estimates, even when dS varies among sites. In other words, modeling dS variation may substantially reduce accuracy of dN/dS point estimates. These results appear to depend on the selective constraint operating at a given site. For sites under strong purifying selection (dN/dS ≲ 0.3), one-rate and two-rate models show comparable performances. However, one-rate models significantly outperform two-rate models for sites under moderate-to-weak purifying selection. We attribute this distinction to the fact that, for these more quickly evolving sites, a given substitution is more likely to be nonsynonymous than synonymous. The data will therefore be relatively enriched for nonsynonymous changes, and modeling dS contributes excessive noise to dN/dS estimates. We additionally find that high levels of divergence among sequences, rather than the number of sequences in the alignment, are more critical for obtaining precise point estimates.</jats:p>
+
+**Source:** https://doi.org/10.1534/genetics.115.185264
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:49:43.464Z
