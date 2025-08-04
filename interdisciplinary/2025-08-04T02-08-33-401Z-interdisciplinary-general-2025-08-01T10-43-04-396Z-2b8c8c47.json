@@ -1,0 +1,13 @@
+# A survey on data‐efficient algorithms in big data era
+
+**Authors:** Amina Adadi
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>The leading approaches in Machine Learning are notoriously data-hungry. Unfortunately, many application domains do not have access to big data because acquiring data involves a process that is expensive or time-consuming. This has triggered a serious debate in both the industrial and academic communities calling for more data-efficient models that harness the power of artificial learners while achieving good results with less training data and in particular less human supervision. In light of this debate, this work investigates the issue of algorithms’ data hungriness. First, it surveys the issue from different perspectives. Then, it presents a comprehensive review of existing data-efficient methods and systematizes them into four categories. Specifically, the survey covers solution strategies that handle data-efficiency by (i) using non-supervised algorithms that are, by nature, more data-efficient, by (ii) creating artificially more data, by (iii) transferring knowledge from rich-data domains into poor-data domains, or by (iv) altering data-hungry algorithms to reduce their dependency upon the amount of samples, in a way they can perform well in small samples regime. Each strategy is extensively reviewed and discussed. In addition, the emphasis is put on how the four strategies interplay with each other in order to motivate exploration of more robust and data-efficient algorithms. Finally, the survey delineates the limitations, discusses research challenges, and suggests future opportunities to advance the research on data-efficiency in machine learning.</jats:p>
+
+**Source:** https://doi.org/10.1186/s40537-021-00419-9
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:43:04.396Z

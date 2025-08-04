@@ -1,0 +1,13 @@
+# Connect
+
+**Authors:** Gautam Shroff
+
+## Abstract
+<p>On 14 October 2011, the Apple Computer Corporation launched the latest generation of the iPhone 4S mobile phone. The iPhone 4S included Siri, a speech interface that allows users to ‘talk to their phone’. As we look closer though, we begin to suspect that Siri is possibly more than ‘merely’ a great speech-to-text conversion tool. Apart from being able to use one’s phone via voice commands instead of one’s fingers, we are also able to interact with other web-based services. We can search the web, for instance, and if we are looking for a restaurant, those nearest our current location are retrieved, unless, of course, we indicated otherwise. Last but not least, Siri talks back, and that too in a surprisingly human fashion. ‘Voice-enabled location-based search—Google has it already, so what?’, we might say. But there is more. Every voice interaction is processed by Apple’s web-based servers; thus Siri runs on the ‘cloud’ rather than directly on one’s phone. So, as Siri interacts with us, it is also continuously storing data about each interaction on the cloud; whether we repeated words while conversing with it, which words, from which country we were speaking, and whether it ‘understands’ us or not in that interaction. As a result, we are told, Siri will, over time, learn from all this data, improve its speech-recognition abilities, and adapt itself to each individual’s needs. We have seen the power of machine learning in Chapter 3. So, regardless of what Siri does or does not do today, let us for the moment imagine what is possible. After all, Siri’s cloud-based back-end will very soon have millions of voice conversations to learn from. Thus, if we ask Siri to ‘call my wife Jane’ often enough, it should soon learn to ‘call my wife’, and fill in her name automatically. Further, since storage is cheap, Siri can remember all our actions, for every one of us: ‘call the same restaurant I used last week’, should figure out where I ate last week, and in case I eat out often, it might choose the one I used on the same day last week.</p>
+
+**Source:** https://doi.org/10.1093/oso/9780199646715.003.0009
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:43:04.492Z
