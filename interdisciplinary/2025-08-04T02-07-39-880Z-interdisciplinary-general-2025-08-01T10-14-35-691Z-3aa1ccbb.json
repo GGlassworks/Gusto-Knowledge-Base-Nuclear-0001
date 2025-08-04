@@ -1,0 +1,14 @@
+# Code review in digital humanities
+
+**Authors:** Julia Damerow, Rebecca Sutton Koeser, Jeffrey C Carver, Malte Vogl
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>Software and computational methods offer tremendous possibilities for digital humanities research, both accelerating existing work and opening up entirely new questions. However, software also has the potential to introduce new kinds of errors into the research workflow. How do we know that the software developed for a digital humanities project is error free and does what we think it does? Code review is a widespread technique to improve software quality and reduce the number of flaws, where a programmer other than the author reviews and comments on the source code. However, given that many digital humanities developers work in developer teams of one, code review is often not possible. In this article, we share progress and insights from an effort to establish a community code review process for digital humanities, and provide background to help understand the need and potential impacts of this work.</jats:p>
+
+**Source:** https://doi.org/10.1093/llc/fqae052
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:14:35.691Z
