@@ -1,0 +1,12 @@
+# Peru Mining: Analysis and Forecast of Mining Production in Peru Using Time Series and Data Science Techniques
+
+**Authors:** Yhack Bryan Aycaya-Paco, Lindell Dennis Vilca-Mamani, Fred Torres-Cruz
+
+## Summary
+Peruvian mining plays a crucial role in the country's economy, being one of the main producers and exporters of minerals worldwide. In this project, an application was developed in RStudio that utilizes statistical analysis and time series modeling techniques to understand and forecast mineral extraction in different departments of Peru. The application includes an interactive map that allows users to explore Peruvian geography and obtain detailed statistics by clicking on each department. Additionally, bar charts, pie charts, and frequency polygons were implemented to visualize and analyze the data. Using the ARIMA model, predictions were made on the future extraction of minerals, enabling informed decision-making in planning and resource management within the mining sector. The application provides an interactive and accessible tool to explore the Peruvian mining industry, comprehend trends, and make accurate forecasts. These predictions for 2027 in total annual production are as follows: Copper = 2,694,957 MT, Gold = 72,817.47 kg Fine, Zinc = 1,369,649 MT, Silver = 3,083,036 MT, Lead = 255,443 MT, Iron = 15,776,609 MT, Tin = 29,542 MT, Molybdenum = 35,044.66 MT, and Cadmium = 724 MT. These predictions, based on historical data, provide valuable information for strategic decision-making and contribute to the sustainable development of the mining industry in Peru.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.OT
+Collected: 2025-08-01T19:38:50.411Z

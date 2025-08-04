@@ -1,0 +1,12 @@
+# Survey of Imbalanced Data Methodologies
+
+**Authors:** Lian Yu, Nengfeng Zhou
+
+## Summary
+Imbalanced data set is a problem often found and well-studied in financial industry. In this paper, we reviewed and compared some popular methodologies handling data imbalance. We then applied the under-sampling/over-sampling methodologies to several modeling algorithms on UCI and Keel data sets. The performance was analyzed for class-imbalance methods, modeling algorithms and grid search criteria comparison.
+
+
+---
+Category: interdisciplinary
+Subcategory: stat.ML
+Collected: 2025-08-01T21:12:36.535Z
