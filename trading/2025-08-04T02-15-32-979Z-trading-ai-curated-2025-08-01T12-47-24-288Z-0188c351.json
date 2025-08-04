@@ -1,0 +1,13 @@
+# Multiview Graph Learning for Small- and Medium-Sized Enterprises' Credit Risk Assessment in Supply Chain Finance
+
+**Authors:** Cong Wang, Fangyue Yu, Zaixu Zhang, Jian Zhang
+
+## Abstract
+In recent years, supply chain finance (SCF) is exploited to solve the financing difficulties of small- and medium-sized enterprises (SMEs) SME credit risk assessment is a critical part in the SCF system The diffusion of SME credit risk may cause serious consequences, leading the whole supply chain finance system unstable and insecure Compared with traditional credit risk assessment models, the supply chain relationship, credit condition of SME, and core enterprises should all be considered to rate SME credit risk in SCF Traditional methods mix all indicators from different index systems They cannot give a quantitative result on how these index systems work Furthermore, traditional credit risk assessment models are heavily dependent on the number of annotated SME data However, it is implausible to accumulate enough credit risky SMEs in advance In this paper, we propose an adaptive heterogenous multiview graph learning method to tackle the small sample size problem for SMEs’ credit risk forecasting Three graphs are constructed by using indicators from supply chain operation, SME financial indicator, and nonfinancial indicator individually All the graphs are integrated in an adaptive manner, providing a quantitative explanation on how the three parts cooperate The experimental analysis shows that the proposed method has good performance for determining whether SME is risky or nonrisky in SCF From the perspective of SCF, SME financing ability is still the main factor to determine the credit risk of SME
+
+**Source:** https://www.semanticscholar.org/paper/72269a07420fe2c465b33bf36d677cead8e15802
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:47:24.288Z

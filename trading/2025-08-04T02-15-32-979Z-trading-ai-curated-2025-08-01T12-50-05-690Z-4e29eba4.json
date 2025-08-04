@@ -1,0 +1,13 @@
+# Advanced Machine Learning in Quantitative Finance Using Graph Neural Networks
+
+**Authors:** Mvuleni Kekana, M. Sumbwanyambe, T. Hlalele
+
+## Abstract
+—Given the complexity of financial markets, predicting future prices is a major challenge at present. This paper proposes computational intelligence for stock price forecasting and conducts a preliminary investigation into graph-based neural networks for predicting stock market movement. Predicting stock prices remains a challenging endeavour due to the complex interplay of diverse factors. Traditional machine learning methods often struggle to capture these intricate relationships, as they typically analyse data points in isolation. This research paper aims to investigate the effectiveness of a graph-based neural network for stock price forecasting. Our experiment was carried out using stock data from the Johannesburg Stock Exchange (JSE) sourced from Yahoo finance. The time series data of the closing and opening prices of a Top 40 financial instrument namely the Standard Bank Group (JSE-SBK) instrument. The graph network architecture consists of Convolutional Neural Network (CNN) layers followed by Long Short-Term Memory (LSTM) layers and final dense layers. The graph-based network utilizes the Adaptive Moment Estimation algorithm for optimization during model training. The model performance was validated using a separate test set. This step achieved a resultant model with a prediction variance score of 0.913, which indicates an extremely high level of accuracy in predicting the stock price future behavior. This implies that our model captures over 91% of the variability in the data, which is a strong indication of its reliability.
+
+**Source:** https://www.semanticscholar.org/paper/299bf97962ac8fd63d3c1e8a6228ef039ad3b5d7
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:50:05.691Z

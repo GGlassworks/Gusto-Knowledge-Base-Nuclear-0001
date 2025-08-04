@@ -1,0 +1,13 @@
+# Machine learning-based analysis of volatility quantitative investment strategies for American financial stocks
+
+**Authors:** Keyue Yan, Ying Li
+
+## Abstract
+Volatility, a pivotal factor in the financial stock market, encapsulates the dynamic nature of asset prices and reflects both instability and risk. A volatility quantitative investment strategy is a methodology that utilizes information about volatility to guide investors in trading and profit-making. With the goal of enhancing the effectiveness and robustness of investment strategies, our methodology involved three prominent time series models with six machine learning models: K-nearest neighbors, AdaBoost, CatBoost, LightGBM, XGBoost, and random forest, which meticulously captured the intricate patterns within historical volatility data. These models synergistically combined to create eighteen novel fusion models to predict volatility with precision. By integrating the forecasting results with quantitative investing principles, we constructed a new strategy that achieved better returns in twelve selected American financial stocks. For investors navigating the real stock market, our findings serve as a valuable reference, potentially securing an average annualized return of approximately 5 to 10% for the American financial stocks under scrutiny in our research.
+
+**Source:** https://www.semanticscholar.org/paper/ab740f4fd7c8fa7e4bf6a8cbfa080c8fc6614e02
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:49:05.124Z

@@ -1,0 +1,13 @@
+# A Comprehensive Investigation of Reinforcement Learning-based Financial Quantitative Analysis: Taking Stock Trading and Risk Control as Examples
+
+**Authors:** Yifei Zeng
+
+## Abstract
+Reinforcement learning (RL) has emerged as a transformative approach for addressing complex decision-making challenges, particularly in the financial sector, where its application has garnered substantial interest. This paper offers a comprehensive review of the foundational concepts and classical methods of RL, while providing an in-depth exploration of its advanced applications in crucial domains: stock prediction & quantitative trading, and risk estimation. By analyzing recent advancements over the past decade, the study underscores the expanding role of RL in optimizing financial strategies, improving decision-making processes, and driving innovation in quantitative finance. In addition to reviewing key developments, the paper discusses persistent challenges related to risk management, such as the trade-off between risk and reward, data scarcity, and the need for algorithms to adapt to dynamic and volatile market conditions. Through these insights, this research aims to provide a roadmap for future studies, addressing the limitations. Meanwhile, this study is contributed to guiding the continued evolution of RL applications in finance, ensuring they remain robust, adaptive, and effective in a rapidly changing economic landscape.
+
+**Source:** https://www.semanticscholar.org/paper/226639eec7283616973ce9c1a4b139ddb22e0974
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:50:06.777Z

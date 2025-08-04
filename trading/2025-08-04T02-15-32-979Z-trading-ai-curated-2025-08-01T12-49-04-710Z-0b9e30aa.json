@@ -1,0 +1,13 @@
+# Application of Multi-Armed Bandit Algorithm in Quantitative Finance
+
+**Authors:** Chengxun Chen, Xuanyuan Liu, Yanyan Ma, Xiaole Zuo
+
+## Abstract
+The volatility and diversity of financial markets make it challenging for a single portfolio achieve better returns, therefore, adjustable portfolios based on the risk tolerance of clients are highly demanded. However, traditional portfolio strategies cannot meet this requirement. Regarding this issue, the paper combines Fuzzy C-means (FCM) with the Upper Confidence Bound (UCB) algorithm, Genetic Algorithm (GA) optimizing UCB parameters (GA-UCB) and UCB redefining the fitness of GA (UCB-GA) to construct an investment portfolio strategy that can be dynamically adjusted. The research methodology is as follows: the assets are grouped by FCM, using UCB to find the best cluster among the groups; UCB, UCB-GA, and GA-UCB are used to refine the weight distribution of the best cluster. The result shows that the cumulative return of the cluster recommended by the UCB is significantly higher than that recommended by FCM, the Sortino Ratio is improved by 1.18, and the Maximum Drawdown is reduced by 8%. In terms of the weights of the optimal cluster; the portfolio strategy from GA-UCB has the highest cumulative return of approximately 250% in algorithms. The Sortino Ratio of the GA-UCB is the largest at 3.23, which is 1.5 and 1.63 higher than the UCB and the UCB-GA, respectively. In addition, the Maximum Drawdown of the GA-UCB is 26%, which is 1% lower than UCB-GA and 3% lower than UCB. Combining FCM and GA- UCB can improve investment return and stability by adjusting the portfolio weight, which leads to better return risk ratios.
+
+**Source:** https://www.semanticscholar.org/paper/856e7e6989af61f22f12e7e7648deeba053bba1e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:49:04.711Z

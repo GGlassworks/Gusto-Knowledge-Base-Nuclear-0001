@@ -1,0 +1,15 @@
+# The Impact of Digitalization and Artificial Intelligence in Finance. How Artificial Intelligence Replaces Quantitative Analysis
+
+**Authors:** Theo-Dorian Buftea, Ioana Văduva-Sima, Cristina Tuţu, Adrian Pavel Vulcu
+
+## Abstract
+
+ The study highlights the investment efficiency in a single listed stock in the field of artificial intelligence, specifically in Advanced Semiconductors Materials Lithography. A series of scientific papers have been reviewed in the analyzed field that highlight this aspect. The research is based on the development of a trading program starting from the stock price of Advanced Semiconductor Materials Lithography versus the company’s stock price/sales (as a fundamental indicator). The goal is to identify trading opportunities based on trends given by the moving averages (50 days and 200 days of the analyzed company) used to identify trends. Independently, a program has been developed that considers the positioning of trading orders based on the 5-year stock price difference between Advanced Semiconductor Materials Lithography and a reference index - namely an Exchange Traded Fund called Vaneck Semiconductor - using a correlation index of 0.7 (an index considered in most studies), tracking the divergence between the two aforementioned stocks, using the principle of ‘mean reversion’. It is noted that the data used for the analysis were sourced from the Bloomberg platform. Considering the fundamental evolution of the company and the industry in which it operates, as well as the results of the two programs, we believe that Advanced Semiconductors Materials Lithography has good growth prospects
+ The scope of the study is to demonstrate the importance of the company in the evolution and development of generative AI through its unique products.
+
+**Source:** https://www.semanticscholar.org/paper/96668d28dc5e40788c2ef5dd9cf1fcf8c60d51d3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:50:06.043Z
