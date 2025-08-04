@@ -1,0 +1,13 @@
+# Interconnected DeFi: Ripple Effects from the Terra Collapse
+
+**Authors:** Anton Badev, Cy Watsky
+
+## Abstract
+The emerging world of decentralized finance (DeFi), facilitated by smart contracts operating on blockchain networks, has been notable both for its rapid growth and the high-profile collapses of several of its largest participants. In this paper, we provide a technical account of the financial mechanisms which facilitated the growth and eventual collapse of the Terra Network. From this analysis, we outline a generalizable economic theory of blockchains which aims to differentiate the economics of blockchains as programmable environments from blockchains as accounting ledgers for crypto-assets. This adds to the existing literature on crypto-assets, which largely focuses on the financial characteristics of the crypto-assets themselves rather than their underlying blockchains. We argue that DeFi is structured so as to offer consumers distinct blockchain networks as competing choices differentiated by several key characteristics. We test several implications of this theory using Terra's collapse as a natural experiment, finding evidence that bridges between programmable blockchain networks create increased risk of spillover effects to other blockchains' programmable environments in the wake of a major shock event like Terra's collapse. Specifically, blockchains suffered a time-bound loss of market share and the likelihood of this loss grew approximately 40% for each additional bridge that was deployed in common with Terra at the time of Terra’s collapse.
+
+**Source:** https://www.semanticscholar.org/paper/67ad6309cb44fbb4c0315b876e7272b6bedc99af
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:32:24.093Z

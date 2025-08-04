@@ -1,0 +1,14 @@
+# Comparison of Linear Regression and LSTM (Long Short-Term Memory) in Cryptocurrency Prediction
+
+**Authors:** Marisa Istaltofa, Sarwido Sarwido, Adi Sucipto
+
+## Abstract
+Abstract   
+Cryptocurrency, particularly Bitcoin, has become a major topic in the financial and digital trading sectors due to its ability to facilitate direct transactions without intermediaries and the transparency offered by blockchain technology. However, the high volatility of Bitcoin prices necessitates accurate prediction methods to support better investment decisions. This research aims to compare the accuracy of Linear Regression and Long Short-Term Memory (LSTM) methods in predicting Bitcoin prices using historical data from Yahoo Finance. The research process begins with the collection of historical Bitcoin price data from September 17, 2014, to July 15, 2024, followed by data processing that includes cleaning and splitting the dataset into training and test data. Linear Regression and LSTM models are applied to the training data and tested to evaluate their performance in price prediction. The research findings show that the LSTM model significantly outperforms the Linear Regression model in terms of prediction accuracy. The LSTM model records much lower Mean Squared Error (MSE) and Root Mean Squared Error (RMSE), as well as perfect R² scores on both datasets, demonstrating its high precision in prediction. In contrast, the Linear Regression model shows higher errors and lower explanatory power of data variability. These findings indicate that LSTM is more effective in capturing temporal patterns and Bitcoin price fluctuations, offering better accuracy and potentially being more suitable for future cryptocurrency price analysis, providing better guidance for investors in this highly dynamic market.
+
+**Source:** https://www.semanticscholar.org/paper/d9f53feedeba5a045d97e769c206624dccfbae7e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:30:32.076Z

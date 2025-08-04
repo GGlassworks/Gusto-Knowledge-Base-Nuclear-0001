@@ -1,0 +1,25 @@
+# A theory of Automated Market Makers in DeFi
+
+**Authors:** Massimo Bartoletti, J. Chiang, Alberto Lluch-Lafuente
+
+## Abstract
+Automated market makers (AMMs) are one of the most prominent decentralized
+finance (DeFi) applications. AMMs allow users to trade different types of
+crypto-tokens, without the need to find a counter-party. There are several
+implementations and models for AMMs, featuring a variety of sophisticated
+economic mechanisms. We present a theory of AMMs. The core of our theory is an
+abstract operational model of the interactions between users and AMMs, which
+can be concretised by instantiating the economic mechanisms. We exploit our
+theory to formally prove a set of fundamental properties of AMMs,
+characterizing both structural and economic aspects. We do this by abstracting
+from the actual economic mechanisms used in implementations, and identifying
+sufficient conditions which ensure the relevant properties. Notably, we devise
+a general solution to the arbitrage problem, the main game-theoretic foundation
+behind the economic mechanisms of AMMs.
+
+**Source:** https://www.semanticscholar.org/paper/be9d570a2f0f7bb5de9513968c7c3790a38c1e02
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:32:23.164Z

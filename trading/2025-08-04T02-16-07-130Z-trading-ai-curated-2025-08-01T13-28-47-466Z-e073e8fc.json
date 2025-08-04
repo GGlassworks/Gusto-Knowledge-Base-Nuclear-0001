@@ -1,0 +1,13 @@
+# Version++: Cryptocurrency Blockchain Handshaking With Software Assurance
+
+**Authors:** Arijet Sarker, Simeon Wuthier, Jinoh Kim, Jong-Hoi Kim, Sang-Yoon Chang
+
+## Abstract
+Cryptocurrency software implements the cryptocurrency operations, including the distributed consensus protocol and the peer-to-peer networking. We design a software assurance scheme for cryptocurrency and advance the cryptocurrency handshaking protocol. Since we focus on Bitcoin (the most popular cryptocurrency) for implementation and integration, we call our scheme Version++, built on and advancing the current Bitcoin handshaking protocol based on the Version message. Our Version++ protocol providing software assurance is distinguishable from the previous research because it is permissionless, distributed, and lightweight to fit its cryptocurrency application. Our scheme is permissionless since it does not require a centralized trusted authority (unlike the remote software attestation techniques from trusted computing); it is distributed since the peer checks the software assurances of its own peer connections; and it is designed for efficiency/lightweight due to the dynamic nature of the peer connections and the large-scale broadcasting in cryptocurrency networking. Utilizing Merkle Tree for the efficiency of the proof verification, we implement and test Version++ on Bitcoin software and conduct experiments in an active Bitcoin node prototype connected to the Bitcoin Mainnet. Our prototype-based performance analyses demonstrate the lightweight design of Version++. The peer-specific verification grows logarithmically with the number of software files in processing time and in storage. In addition, the Version++ verification overhead is small compared to the overall handshaking process; our measured overhead of 2.22% with minimal networking latency between the virtual machines provides an upper bound in the real-world networking with greater handshaking duration, i.e., the relative Version++ overhead in the real world with physically separate machines will be smaller.
+
+**Source:** https://www.semanticscholar.org/paper/70490a589b8504cf32294c1980fed08d214f3011
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:28:47.466Z

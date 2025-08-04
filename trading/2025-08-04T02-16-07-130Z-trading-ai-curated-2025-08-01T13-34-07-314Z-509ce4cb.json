@@ -1,0 +1,13 @@
+# Graph Neural Networks for Interoperability Solution in Decentralized Finance (DeFi) Ecosystem
+
+**Authors:** R. Revathi, Kamal Sharma, Gundavarapu Mallikarjuna Rao, A. H. Shnain, M. A. Ali Baig, N. J
+
+## Abstract
+Although DeFi has been presented as the new generation of financial systems that cuts across all centralized financial systems, it is an innovation based on blockchain technology, which establishes global and open financial platforms of decentralized permissionless finance. Nonetheless, DeFi ecosystems have high levels of fragmentation, which creates difficulties for the unification of different protocols and blockchains to cooperate and communicate with each other. Subsequently, Graph Neural Networks (GNNs) have garnered considerable attention as a promising approach to model feature-interaction and extract insights from graph-structured data. In this paper, we introduce the Interoperable GNN DeFi Framework, which adapts the use of GNNs to work as a solution to the interoperability concern in Defi ecosystems. The following are the main components of the proposed system: graph representation, data integration, GNN model, interface and interoperability, monitoring and messaging, scalability optimization, and security considerations. Under the mentioned framework, positive results are notable for several scopes of interoperability, such as cross-chain operations with tokens, compatibility with other protocols, provision of liquidity, and risk tackling. The results shown below explain how much the efficiency, expandability, durability, and accessibility in the decentralized finance could be improved while using the GNN-based approaches. Future work in this topic entails the progression of the prior areas of research such as scalability, dynamics modeling, interdisciplinary collaboration, standardization, and security focusing on the continuing enhancement of interoperability opportunities in decentralized finance.
+
+**Source:** https://www.semanticscholar.org/paper/4cdf96f04b3a980e0d6ac3d38cd6b97109cdd67d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:07.314Z

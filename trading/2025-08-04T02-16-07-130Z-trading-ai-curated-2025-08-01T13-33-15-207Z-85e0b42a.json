@@ -1,0 +1,13 @@
+# ARCHITECTURE OF DECENTRALIZED APPLICATIONS AS PART OF THE DEFI ECOSYSTEM
+
+**Authors:** O. Dotsenko
+
+## Abstract
+The functional features of cryptographic technologies in combination with decentralized data registries gave impetus to the development of the segment of decentralized financial assets. Evolutionarily, special decentralized applications were created that ensure the correct operation of the entire DeFi ecosystem. This work is devoted to the study of decentralized applications, since this is the main link of the market of decentralized finance, which provides an interface for the interaction of market subjects. In our work, we study the architecture of decentralized applications in particular detail. In the course of the work, we analyzed the dynamics of the creation of new decentralized applications on the main networks of the ecosystem. We found that most modern applications were created between 2017 and 2019, but new and newer use cases for decentralized applications are constantly emerging. We also identified and outlined the main categories of decentralized application architecture components. We added to the external parts of the architectural components: application developer, blockchain developer, application user, contract user, token user, consensus provider; and internal architectural components: client, smart contract, token, blockchain platform, other platforms. Several examples of the operation of blockchain protocols and the principles of transaction confirmation are in work. We created a detailed diagram of the interaction of all parts of the architecture, as well as subjects participating in the work of applications. We also explained the difference between tokens and coins, as well as accompanying conclusions regarding the practical side of the difference of decentralized assets. We also highlighted several features of the functioning of parts of the architecture of decentralized applications, in particular, management methods and the organization of interactions between different protocols in the middle of the DeFi ecosystem. We have also made appropriate conclusions on the work.
+
+**Source:** https://www.semanticscholar.org/paper/9c91a2286614492ba14cba7aa294952a15fcf1e0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:33:15.208Z

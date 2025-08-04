@@ -1,0 +1,13 @@
+# DeFiRanger: Detecting DeFi Price Manipulation Attacks
+
+**Authors:** Siwei Wu, Zhou Yu, Dabao Wang, Yajin Zhou, Lei Wu, Haoyu Wang, Xingliang Yuan
+
+## Abstract
+The rapid growth of Decentralized Finance (DeFi) boosts the blockchain ecosystem. At the same time, attacks on DeFi applications (apps) are increasing. However, to the best of our knowledge, existing smart contract vulnerability detection tools cannot directly detect DeFi attacks. That's because they lack the capability to recover and understand high-level DeFi semantics, e.g., a user trades a token pair X and Y in a Decentralized EXchange (DEX). In this work, we focus on the detection of two new types of price manipulation attacks. To this end, we propose a platform-independent method to identify high-level DeFi semantics. Specifically, we first construct the Cash Flow Tree (CFT) from a raw transaction and then lifting the low-level semantics to high-level ones, including five advanced DeFi actions. Finally, we use patterns expressed with the recovered DeFi semantics to detect price manipulation attacks. We implemented a prototype named DeFiRanger that detected 14 zero-day security incidents. These findings were reported to affected parties or/and the community for the first time. Furthermore, the backtest experiment discovered 15 unknown historical security incidents. We further performed an attack analysis to shed light on the root causes of vulnerabilities incurring price manipulation attacks.
+
+**Source:** https://www.semanticscholar.org/paper/c082099952a842e9cd0f6e01825a2b367c704bb9
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:31:26.468Z

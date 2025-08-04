@@ -1,0 +1,13 @@
+# Towards A First Step to Understand Flash Loan and Its Applications in DeFi Ecosystem
+
+**Authors:** Dabao Wang, Siwei Wu, Ziling Lin, L. Wu, Xingliang Yuan, Yajin Zhou, Haoyu Wang, K. Ren
+
+## Abstract
+Flash Loan, as an emerging service in the decentralized finance ecosystem, allows users to request a non-collateral loan. While providing convenience, it also enables attackers to launch malicious operations with a large amount of asset that they do not have. Though there exist spot media reports of attacks that leverage Flash Loan, there lacks a comprehensive understanding of existing Flash Loan services. In this work, we take the first step to study the Flash Loan service provided by three popular platforms. Specifically, we first illustrate the interactions between Flash Loan providers and users. Then, we design three patterns to identify Flash Loan transactions. Based on the patterns, 76,303 transactions are determined. The evaluation results show that the Flash Loan services get more popular over time. At last, we present four Flash Loan applications with real-world examples and propose two potential research directions.
+
+**Source:** https://www.semanticscholar.org/paper/1df8de91a477d54fbe0889a843f86604a590388d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:33:15.305Z

@@ -1,0 +1,13 @@
+# Comparison of Triple Exponential Smoothing and ARIMA in Predicting Cryptocurrency Prices
+
+**Authors:** Adi Prasetyo, Nurdin Nurdin, Hafizh Al Kautsar Aidilof
+
+## Abstract
+Cryptocurrency has emerged as a prominent digital asset over the past decade, but its high price volatility presents significant challenges for investors. This study evaluates and compares the effectiveness of the Triple Exponential Smoothing (TES) and Autoregressive Integrated Moving Average (ARIMA) methods in forecasting the prices of five major cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), Solana (SOL), and Ripple (XRP). TES models trends and seasonality in time series data, while ARIMA captures autoregressive patterns and moving averages. The dataset is split into 80% for training and 20% for testing, with performance evaluated using Mean Absolute Percentage Error (MAPE) and Root Mean Squared Error (RMSE). TES outperforms ARIMA in predicting Bitcoin and Binance Coin, achieving MAPE values of 10.38% and 13.81%, and RMSE values of 3,985.55 and 41.28, respectively. However, ARIMA shows better performance for Ethereum, Solana, and Ripple, with MAPE ranging from 8.78% to 32.84% and RMSE between 0.08 and 204.59. Notably, Ethereum has the lowest MAPE at 8.78%, while Ripple exhibits the smallest RMSE at 0.08. These findings suggest that TES is more suitable for cryptocurrencies with relatively stable price patterns, while ARIMA is better adapted to forecasting highly volatile assets. This research underscores the importance of selecting forecasting models based on the specific characteristics of each cryptocurrency
+
+**Source:** https://www.semanticscholar.org/paper/1ef522c3eaf25a8353a96c1a8b5fc9d1c957222c
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:30:31.965Z

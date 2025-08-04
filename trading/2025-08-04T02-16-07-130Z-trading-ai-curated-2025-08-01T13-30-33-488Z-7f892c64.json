@@ -1,0 +1,13 @@
+# Comparison of Machine Learning Methods for Cryptocurrency Price Prediction
+
+**Authors:** Atieh Armin, Ali Shiri, B. Bahrak
+
+## Abstract
+In recent years, cryptocurrencies have received much attention due to their recent price surge and crash. In fact, their prices have been volatile, making them very difficult to predict. Accordingly, various machine learning methods have been used by researchers to investigate factors that affect cryptocurrencies prices and the patterns behind their fluctuations. From various machine learning and deep learning methods, this study aims to find an efficient and accurate model for predicting Bitcoin, Ethereum, and Binance Coin prices. Our experiments show that the Ridge regression model outperforms more complicated prediction models, such as RNNs and LSTM, in predicting the exact closing price. On the other hand, LSTM can anticipate the direction of the cryptocurrency price better than others.
+
+**Source:** https://www.semanticscholar.org/paper/29b99143c4d0fe1cfa9cdbb48d94a55226d68415
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:30:33.489Z

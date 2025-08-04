@@ -1,0 +1,13 @@
+# An AI Multi-Model Approach to DeFi Project Trust Scoring and Security
+
+**Authors:** Viraaji Mothukuri, R. Parizi, James L. Massa, Abbas Yazdinejad
+
+## Abstract
+Rampant scams plague decentralized finance (DeFi) projects, creating a DeFi credibility problem that limits the impact of DeFi advances in the availability and variety of financial services. This paper presents a novel solution to the DeFi credibility problem by developing an AI multi-model that generates TrustScore ratings for DeFi projects and clear explanations of the scores. We generate DeFi-project TrustScore by aggregating multiple factors that provide DeFi investors with a holistic view of DeFi project trustworthiness. To rate a DeFi project with a TrustS core, we combine the output of four AI pipelines that analyze smart contract code vulnerabilities, suspicious transactions, anomalous price changes to smart contracts, and social media scam sentiment. Applying four factors exponentially improves the trust-score accuracy over the single-factor approaches done historically. Two of the factors, anomalous price change, and social media sentiment, have not been used before to detect DeFi fraud. Furthermore, we enhanced the most critical factor, smart-contract code vulnerability detection, with the latest Large Language Models (LLMs). Our overall system is a multi-model composed of a TrustS core Explainer LLM that aggregates individual pipeline results, a fine-tuned GPT model to audit smart contract code, the Prophet forecasting tool, FinBERT tailored for financial Natural Language Processing (NLP), and XGBoost for classification. The proposed approach identifies a significant proportion of known fraudulent DeFi projects and generates an accurate and explained TrustScore. Thus, we address the DeFi credibility problem so that investors can make reliable decisions about DeFi projects.
+
+**Source:** https://www.semanticscholar.org/paper/720afbc6fc694128af7c9c62535164d16aa0e121
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:31:28.097Z

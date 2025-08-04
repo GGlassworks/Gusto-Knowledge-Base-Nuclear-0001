@@ -1,0 +1,13 @@
+# Trust in Context: The Impact of Regulation on Blockchain and DeFi
+
+**Authors:** Balázs Bodó, Primavera de Filippi
+
+## Abstract
+Trust is a key resource in financial transactions. Traditional financial institutions, and novel blockchain‐based decentralized financial (DeFi) services rely on fundamentally different sources of trust and confidence. The former relies on heavy regulation, trusted intermediaries, clear rules (and restrictions) on market competition, and long‐standing informal expectations on what banks and other financial intermediaries are supposed to do or not to do. The latter rely on blockchain technology to provide confidence in the outcome of rules encoded in protocols and smart contracts. Their main promise is to create confidence in the way the blockchain architecture enforces rules, rather than to trust banks, regulators, and markets. In this article, we compare the trust architectures surrounding these two financial systems. We provide a deeper analysis of how proposed regulation in the blockchain space affects the code‐ and confidence‐based architectures which so far have underwrote DeFi. We argue that despite the solid safeguards and guarantees which code can offer, the confidence in DeFi is still very much dependent on more traditional trust‐enhancing mechanisms, such as code governance, and antifraud regulation to address some of the issues which currently plague this domain, and which have no immediate, purely software‐based solutions. What is more, given the risks of bugs or scams in the DeFi space, regulation and trusted intermediaries may need to play a more active role, in order for DeFi to gain the trust of the next generation of users.
+
+**Source:** https://www.semanticscholar.org/paper/e17d533bee44ec47edbff472fafcfbecb910779e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:31:27.775Z

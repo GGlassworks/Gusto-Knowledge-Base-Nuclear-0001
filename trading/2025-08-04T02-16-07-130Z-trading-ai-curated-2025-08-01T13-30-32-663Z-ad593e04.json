@@ -1,0 +1,13 @@
+# User X’s Sentiment on Cryptocurrency: Comparison of SVM and LSTM Methods
+
+**Authors:** I. G. Yoga Asta Pramana, Putu Veda Andreyana, Putu Widiadnyana, Dean Agnia, Kadek Boy Brahmanda Satrya Montana, Krisna Juniartha
+
+## Abstract
+This research analyzes the sentiment of X users towards cryptocurrency using Support Vector Machine (SVM) and Long Short-Term Memory (LSTM) methods. This research aimed to determine the effectiveness of these methods in classifying sentiment as positive, negative, or neutral. Data was collected from a dataset of crypto-related tweets. Preprocessing steps include tokenization, stop-word removal, and normalization. SVM and LSTM models were then trained and tested on this dataset. The results show that both methods are effective, with the LSTM model showing slightly better performance in handling sequential data compared to the SVM model. LSTM model has a higher training accuracy compared to SVM with a training accuracy percentage of 94.45% in the LSTM model compared to 88.66% in the SVM model. Testing accuracy of the LSTM model produces a percentage of 77.00% while the SVM model produces a percentage of 78.65%.
+
+**Source:** https://www.semanticscholar.org/paper/103b41bc4f5e44806e5951227a247319a3de741e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:30:32.663Z

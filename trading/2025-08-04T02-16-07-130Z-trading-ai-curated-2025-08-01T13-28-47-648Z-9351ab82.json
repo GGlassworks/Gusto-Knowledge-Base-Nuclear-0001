@@ -1,0 +1,13 @@
+# Detecting Cryptocurrency Scams in the USA: A Machine Learning-Based Analysis of Scam Patterns and Behaviors
+
+**Authors:** Bimol Chandra Das, Babul Sarker, Amit Saha, Kanchon Kumar Bishnu, Biswajit Chandra Das, M. S. Sartaz, Muhammad Hasanuzzaman, Md Majedur Rahman, Medhat Mohiuddin Khan
+
+## Abstract
+The exponential growth of cryptocurrency implementation in the USA has brought with it a surge in correlated risks, particularly in the form of scams that exploit the relative novelty and complexity of digital currencies. The primary objective of this study was to develop machine algorithms for identifying fraud trends in cryptocurrency transactions. By employing complex analysis, this research project attempted to identify certain trends and behaviors that fall under a variety of scams, providing a platform for effective detection and counter-strategies. This study will have a definite objective in terms of Bitcoin, Ethereum, and other high-profile cryptocurrencies in America when it comes to scam analysis. The scam-related transaction dataset comprised in-depth information regarding suspicious fraud activity in the cryptocurrency environment, such as a specific ID for a transaction, timestamps, values for transactions, and labels distinguishing between suspicious and legitimate activity. A variety of proven models were selected such as Logistic Regression, Random as well Multinomial Naive Bayes, where each model had its respective weaknesses and strengths. The Random Forest algorithm attained the highest accuracy, nearing perfection which underscores its robustness and reliability in classifying both legitimate and fraudulent reports. To effectively counter fraud in cryptocurrencies, U.S. policies must be strengthened with a merger of machine intelligence in them. Regulatory agencies have to work towards developing a system that encourages exchanges to utilize complex analysis for fraud detection, perhaps in terms of reduced compliance burden for entities with effective anti-fraud controls in position. Leveraging AI insights can go a long way in supporting investigations into scams in cryptocurrencies conducted by governments. By utilizing machine algorithms trained with datasets of past scams, governments can monitor and follow illicit fund flows through the blockchain with ease.
+
+**Source:** https://www.semanticscholar.org/paper/45da5f4d7cb88b02b149dfe5a512f9c40eaea06d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:28:47.648Z

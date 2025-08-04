@@ -1,0 +1,13 @@
+# A comprehensive study on comparison of Long short-term memory, Support Vector Machine, and their hybrid model performance using erratic cryptocurrency data
+
+**Authors:** Bhumika Prakash Hegde, Roopa U
+
+## Abstract
+Prediction of relatively accurate cryptocurrency prices remains a big challenge due to the high volatility inherently associated with it and the absence of appropriate valuation metrics. This research explores the performance of Long Short-Term Memory (LSTM), Support Vector Machine (SVM), and the hybrid model of these two algorithms for this complex task. LSTM has demonstrated significant potential in capturing short-term price fluctuations. At the same time, the hybrid model aims to combine the strengths of temporal dependencies of LSTM, and nonlinear data pattern recognition of SVM considering the generalization ability of the models, robustness, computational efficiency, and interpretability. To evaluate the models’ performance, a comprehensive evaluation framework was used. Historical daily price data for five leading cryptocurrencies had been used. This data had been used to test the performance of algorithms used in this study, by using metrics such as R-Square value and P value, Root Mean Square Error (RMSE) and Mean Absolute Error (MAE). This research aims to provide comparative analysis of machine learning and deep learning models for the cryptocurrency price forecasting. The insights/outcomes gained by this study holds value for both forecasters and researchers. Upcoming studies can focus to explore more advanced hybrid architectures by adding additional data sources and checking how varying market conditions affects model performance.
+
+**Source:** https://www.semanticscholar.org/paper/c191dd425f2bc1321f652f785863980735df7d92
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:30:32.284Z

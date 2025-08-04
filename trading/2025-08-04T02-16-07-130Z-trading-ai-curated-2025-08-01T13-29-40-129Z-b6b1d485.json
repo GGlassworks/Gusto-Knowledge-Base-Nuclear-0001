@@ -1,0 +1,28 @@
+# Evaluation of dynamic cointegration-based pairs trading strategy in the cryptocurrency market
+
+**Authors:** Masood Tadi, Irina Kortchmeski
+
+## Abstract
+
+Purpose
+This paper aims to demonstrate a dynamic cointegration-based pairs trading strategy, including an optimal look-back window framework in the cryptocurrency market and evaluate its return and risk by applying three different scenarios.
+
+
+Design/methodology/approach
+This study uses the Engle-Granger methodology, the Kapetanios-Snell-Shin test and the Johansen test as cointegration tests in different scenarios. This study calibrates the mean-reversion speed of the Ornstein-Uhlenbeck process to obtain the half-life used for the asset selection phase and look-back window estimation.
+
+
+Findings
+By considering the main limitations in the market microstructure, the strategy of this paper exceeds the naive buy-and-hold approach in the Bitmex exchange. Another significant finding is that this study implements a numerous collection of cryptocurrency coins to formulate the model’s spread, which improves the risk-adjusted profitability of the pairs trading strategy. Besides, the strategy’s maximum drawdown level is reasonably low, which makes it useful to be deployed. The results also indicate that a class of coins has better potential arbitrage opportunities than others.
+
+
+Originality/value
+This research has some noticeable advantages, making it stand out from similar studies in the cryptocurrency market. First is the accuracy of data in which minute-binned data create the signals in the formation period. Besides, to backtest the strategy during the trading period, this study simulates the trading signals using best bid/ask quotes and market trades. This study exclusively takes the order execution into account when the asset size is already available at its quoted price (with one or more period gaps after signal generation). This action makes the backtesting much more realistic.
+
+
+**Source:** https://www.semanticscholar.org/paper/155e484feec1adb4ffbc68432d522da8d3fa5dc8
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:29:40.129Z

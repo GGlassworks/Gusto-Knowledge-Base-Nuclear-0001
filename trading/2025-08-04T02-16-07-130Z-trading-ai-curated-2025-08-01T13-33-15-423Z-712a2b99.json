@@ -1,0 +1,13 @@
+# Towards understanding flash loan and its applications in defi ecosystem
+
+**Authors:** Dabao Wang, Siwei Wu, Ziling Lin, Lei Wu, Xingliang Yuan, Yajin Zhou, Haoyu Wang, K. Ren
+
+## Abstract
+Flash Loan, as an emerging service in the decentralized finance ecosystem, allows traders to request a non-collateral loan as long as the debt is repaid within the transaction. While providing convenience, it brings considerable challenges that Flash Loan allows speculative traders to leverage vulnerability of deployed protocols with vast capital and few risks and responsibilities. Most recently, attackers have gained over $15M profits from Eminence Finance via exploiting Flash Loans to repeatedly swap tokens (i.e., EMN and DAI). To be aware of foxy actions, we should understand what is the behavior running with the Flash Loan by traders. In this work, we propose ThunderStorm, a 3-phase transaction-based analysis framework, to systematically study Flash Loan on the Ethereum. Specifically, ThunderStorm first identifies Flash Loan transactions by applying observed transaction patterns, and then understands the semantics of the transactions based on primitive behaviors, and finally recovers the intentions of transactions according to advanced behaviors. To perform the evaluation, we apply ThunderStorm to existing transactions and investigate 11 well-known platforms. As the result, 22,244 transactions are determined to launch Flash Loan(s), and those Flash Loan transactions are further classified into 7 categories. Lastly, the measurement of financial behaviors based on Flash Loans is present to help further understand and explore the speculative usage of Flash Loan. The evaluation results demonstrate the capability of the proposed system.
+
+**Source:** https://www.semanticscholar.org/paper/368c09e38b9ea686545a93b95550d8ea2c620757
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:33:15.424Z

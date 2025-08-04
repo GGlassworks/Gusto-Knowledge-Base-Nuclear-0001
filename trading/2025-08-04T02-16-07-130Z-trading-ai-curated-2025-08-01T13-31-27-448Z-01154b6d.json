@@ -1,0 +1,13 @@
+# SoK: Decentralized Finance (DeFi) - Fundamentals, Taxonomy and Risks
+
+**Authors:** Krzysztof Gogol, Christian Killer, M. Schlosser, T. Bocek, B. Stiller, Claudio J. Tessone
+
+## Abstract
+Decentralized Finance (DeFi) refers to financial services that are not necessarily related to crypto-currencies. By employing blockchain for security and integrity, DeFi creates new possibilities that attract retail and institution users, including central banks. Given its novel applications and sophisticated designs, the distinction between DeFi services and understanding the risk involved is often complex. This work systematically presents the major categories of DeFi protocols that cover over 90\% of total value locked (TVL) in DeFi. It establishes a structured methodology to differentiate between DeFi protocols based on their design and architecture. Every DeFi protocol is classified into one of three groups: liquidity pools, pegged and synthetic tokens, and aggregator protocols, followed by risk analysis. In particular, we classify stablecoins, liquid staking tokens, and bridged (wrapped) assets as pegged tokens resembling similar risks. The full risk exposure of DeFi users is derived not only from the DeFi protocol design but also from how it is used and with which tokens.
+
+**Source:** https://www.semanticscholar.org/paper/bcfb8894f69186b3799494b35c8e6f02abd6cb19
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:31:27.449Z

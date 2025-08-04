@@ -1,0 +1,13 @@
+# Towards a formally verified implementation of the MimbleWimble cryptocurrency protocol
+
+**Authors:** Gustavo Betarte, M. Cristiá, C. Luna, Adrián Silveira, D. Zanarini
+
+## Abstract
+MimbleWimble is a privacy-oriented cryptocurrency technology encompassing security and scalability properties that distinguish it from other protocols of the kind. In this paper we present and briefly discuss those properties and outline the basis of a model-driven verification approach to address the certification of the correctness of a particular implementation of the protocol.
+
+**Source:** https://www.semanticscholar.org/paper/f5496e9dc8fb501f21b69ebb84a7a314329f75a0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:28:46.574Z

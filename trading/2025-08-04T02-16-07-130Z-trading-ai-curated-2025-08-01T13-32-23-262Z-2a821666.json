@@ -1,0 +1,13 @@
+# A theory of Lending Protocols in DeFi
+
+**Authors:** Massimo Bartoletti, Enrico Lipparini
+
+## Abstract
+Lending protocols are one of the main applications of Decentralized Finance (DeFi), enabling crypto-assets loan markets with a total value estimated in the tens of billions of dollars. Unlike traditional lending systems, these protocols operate without relying on trusted authorities or off-chain enforcement mechanisms. To achieve key economic goals such as stability of the loan market, they devise instead trustless on-chain mechanisms, such as rewarding liquidators who repay the loans of under-collateralized borrowers by awarding them part of the borrower's collateral. The complexity of these incentive mechanisms, combined with their entanglement in low-level implementation details, makes it challenging to precisely assess the structural and economic properties of lending protocols, as well as to analyze user strategies and attacks. Crucially, since participation is open to anyone, any weaknesses in the incentive mechanism may give rise to unintended emergent behaviours, or even enable adversarial strategies aimed at making profits to the detriment of legit users, or at undermining the stability of the protocol. In this work, we propose a formal model of lending protocols that captures the essential features of mainstream platforms, enabling us to identify and prove key properties related to their economic and strategic dynamics.
+
+**Source:** https://www.semanticscholar.org/paper/bdb79b47ac0e522e42d03d55490a74d18871e7bf
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:32:23.263Z

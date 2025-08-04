@@ -1,0 +1,13 @@
+# Building DeFi Applications Using Cross-Blockchain Interaction on the Wish Swap Platform
+
+**Authors:** Rita Tsepeleva, V. Korkhov
+
+## Abstract
+Blockchain is a developing technology that can provide users with such advantages as decentralization, data security, and transparency of transactions. Blockchain has many applications, one of them is the decentralized finance (DeFi) industry. DeFi is a huge aggregator of various financial blockchain protocols. At the moment, the total value locked in these protocols reaches USD 82 billion. Every day more and more new users come to DeFi with their investments. The concept of decentralized finance involves the creation of a single ecosystem of many blockchains that interact with each other. The problem of combining and interacting blockchains becomes crucial to enable DeFi. In this paper, we look at the essence of the DeFi industry, the possibilities of overcoming the problem of cross-blockchain interaction, present our approach to solving this problem with the Wish Swap platform, which, in particular, provides improved fault-tolerance for cross-chain interaction by using multiple backend nodes and multisignatures. We analyze the results of the proposed solution and demonstrate how a prototype pre-sale application can be created based on the proposed concept.
+
+**Source:** https://www.semanticscholar.org/paper/c46bf159ddd11564be7f3de1fe41a28b78cd3754
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:33:14.655Z

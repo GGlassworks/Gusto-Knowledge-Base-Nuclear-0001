@@ -1,0 +1,13 @@
+# A comparison of cryptocurrency volatility-benchmarking new and mature asset classes
+
+**Authors:** Alessio Brini, Jim Lenz
+
+## Abstract
+The paper analyzes the cryptocurrency ecosystem at both the aggregate and individual levels to understand the factors that impact future volatility. The study uses high-frequency panel data from 2020 to 2022 to examine the relationship between several market volatility drivers, such as daily leverage, signed volatility and jumps. Several known autoregressive model specifications are estimated over different market regimes, and results are compared to equity data as a reference benchmark of a more mature asset class. The panel estimations show that the positive market returns at the high-frequency level increase price volatility, contrary to what is expected from the classical financial literature. We attributed this effect to the price dynamics over the last year of the dataset (2022) by repeating the estimation on different time spans. Moreover, the positive signed volatility and negative daily leverage positively impact the cryptocurrencies’ future volatility, unlike what emerges from the same study on a cross-section of stocks. This result signals a structural difference in a nascent cryptocurrency market that has to mature yet. Further individual-level analysis confirms the findings of the panel analysis and highlights that these effects are statistically significant and commonly shared among many components in the selected universe.
+
+**Source:** https://www.semanticscholar.org/paper/fc58aade833f187e4df5da3068d6de62df45906c
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:30:31.843Z

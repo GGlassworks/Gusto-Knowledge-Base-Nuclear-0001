@@ -1,0 +1,13 @@
+# CRPWarner: Warning the Risk of Contract-Related Rug Pull in DeFi Smart Contracts
+
+**Authors:** Zewei Lin, Jiachi Chen, Jiajing Wu, Weizhe Zhang, Yongjuan Wang, Zibin Zheng
+
+## Abstract
+In recent years, Decentralized Finance (DeFi) has grown rapidly due to the development of blockchain technology and smart contracts. As of March 2023, the estimated global cryptocurrency market cap has reached approximately $949 billion. However, security incidents continue to plague the DeFi ecosystem, and one of the most notorious examples is the “Rug Pull” scam. This type of cryptocurrency scam occurs when the developer of a particular token project intentionally abandons the project and disappears with investors’ funds. Despite only emerging in recent years, Rug Pull events have already caused significant financial losses. In this work, we manually collected and analyzed 103 real-world rug pull events, categorizing them based on their scam methods. Two primary categories were identified: Contract-related Rug Pull (through malicious functions in smart contracts) and Transaction-related Rug Pull (through cryptocurrency trading without utilizing malicious functions). Based on the analysis of rug pull events, we propose CRPWarner (short for Contract-related Rug Pull Risk Warner) to identify malicious functions in smart contracts and issue warnings regarding potential rug pulls. We evaluated CRPWarner on 69 open-source smart contracts related to rug pull events and achieved a 91.8% precision, 85.9% recall, and 88.7% F1-score. Additionally, when evaluating CRPWarner on 13,484 real-world token contracts on Ethereum, it successfully detected 4168 smart contracts with malicious functions, including zero-day examples. The precision of large-scale experiments reaches 84.9%.
+
+**Source:** https://www.semanticscholar.org/paper/ad997628758b27bd09fa18d8f798cbe1c8466bc4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:31:27.030Z

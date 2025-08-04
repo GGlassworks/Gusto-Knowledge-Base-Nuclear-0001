@@ -1,0 +1,13 @@
+# SoK: Decentralized Finance (DeFi)
+
+**Authors:** Sam M. Werner, Daniel Perez, L. Gudgeon, Ariah Klages-Mundt, D. Harz, W. Knottenbelt
+
+## Abstract
+Decentralized Finance (DeFi), a blockchain powered peer-to-peer financial system, is mushrooming. Two years ago the total value locked in DeFi systems was approximately 700m USD, now, as of April 2022, it stands at around 150bn USD. The frenetic evolution of the ecosystem has created challenges in understanding the basic principles of these systems and their security risks. In this Systematization of Knowledge (SoK) we delineate the DeFi ecosystem along the following axes: its primitives, its operational protocol types and its security. We provide a distinction between technical security, which has a healthy literature, and economic security, which is largely unexplored, connecting the latter with new models and thereby synthesizing insights from computer science, economics and finance. Finally, we outline the open research challenges in the ecosystem across these security types.
+
+**Source:** https://www.semanticscholar.org/paper/0fe11c1f5ac4fb7aaa72c6e87314781ed0bd640e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:31:27.563Z

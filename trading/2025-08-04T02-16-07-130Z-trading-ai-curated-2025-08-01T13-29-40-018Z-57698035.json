@@ -1,0 +1,13 @@
+# An Evaluation of Cryptocurrency Payment Channel Networks and Their Privacy Implications
+
+**Authors:** Enes Erdin, Suat Mercan, Kemal Akkaya
+
+## Abstract
+Cryptocurrencies redefined how money can be stored and transferred among users. However, public blockchain-based cryptocurrencies suffer from high transaction waiting times and fees. To address these challenges, the payment channel network concept is touted as the most viable solution to be used for micro-payments. The idea is exchanging the ownership of money by keeping the state of the accounts locally which provides transaction approvals in seconds. Such attention on payment channel networks has inspired many recent studies that focus on how to design them and allocate channels such that the transactions will be secure and efficient. However, as payment channel networks are emerging and reaching a large number of users, privacy issues are becoming more relevant, this raises concerns about exposing not only individual habits but also businesses' revenues. In this paper, we first propose a categorization of the existing payment networks formed on top of blockchain-backed cryptocurrencies. After discussing several emerging attacks on user/business privacy in these payment channel networks, we qualitatively evaluate them based on a number of privacy metrics that relate to our case. Based on the discussions on the strengths and weaknesses of the approaches, we offer possible directions for research for the future of privacy based payment channel networks.
+
+**Source:** https://www.semanticscholar.org/paper/82dc0c7ad3e041e730487b2b8105c1872ec1fa25
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:29:40.019Z

@@ -1,0 +1,13 @@
+# A General Theory of Liquidity Provisioning for Prediction Markets
+
+**Authors:** Adithya Bhaskara, Rafael M. Frongillo, Maneesha Papireddygari
+
+## Abstract
+In Decentralized Finance (DeFi), automated market makers typically implement liquidity provisioning protocols. These protocols allow third-party liquidity providers (LPs) to provide assets to facilitate trade in exchange for fees. This paper introduces a general framework for liquidity provisioning for cost-function prediction markets with any finite set of securities. Our framework is based on the idea of running several market makers"in parallel"; we show formally that several notions of parallel market making are equivalent to ours. The most general protocol therefore allows LPs to submit an arbitrary cost function, which specifies their liquidity over the entire price space, and determines the deposit required. We justify the need for this flexibility by demonstrating the inherent high dimensionality of liquidity. We also give several restricted protocols which are more computationally feasible. Furthermore, we show that our protocol recovers several existing DeFi protocols in the 2- asset case. Our work also contributes to the DeFi literature by giving a fully expressive protocol for any number of assets.
+
+**Source:** https://www.semanticscholar.org/paper/9b053653e3a1792586c5f5516f4a854e73ffbe0f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:32:25.057Z

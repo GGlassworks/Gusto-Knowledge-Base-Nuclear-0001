@@ -1,0 +1,13 @@
+# DeFiGuard: A Price Manipulation Detection Service in DeFi Using Graph Neural Networks
+
+**Authors:** Dabao Wang, Bang Wu, Xingliang Yuan, Lei Wu, Yajin Zhou, Helei Cui
+
+## Abstract
+The prosperity of Decentralized Finance (DeFi) unveils underlying risks, with reported losses surpassing 3.2 billion USD between 2018 and 2022 due to vulnerabilities in Decentralized Applications (DApps). One significant threat is the Price Manipulation Attack (PMA) that alters asset prices during transaction execution. As a result, PMA accounts for over 50 million USD in losses. To address the urgent need for efficient PMA detection, this article introduces a novel detection service, DeFiGuard, using Graph Neural Networks (GNNs). In this article, we propose cash flow graphs with four distinct features, which capture the trading behaviors from transactions. Moreover, DeFiGuard integrates transaction parsing, graph construction, model training, and PMA detection. Evaluations on the collected transactions demonstrate that DeFiGuard with GNN models outperforms the baseline MLP model and classical classification models in Accuracy, TPR, FPR, and AUC-ROC. The results of ablation studies suggest that the combination of the four proposed node features enhances DeFiGuard ’s efficacy. Moreover, DeFiGuard classifies transactions within 0.892 to 5.317 seconds, which provides sufficient time for the victims (DApps and users) to take action to rescue their vulnerable funds. In conclusion, this research offers a significant step towards safeguarding the DeFi landscape from PMAs using GNNs.
+
+**Source:** https://www.semanticscholar.org/paper/07c4c40bd5650cdfc35fb29f314a6f6b737828f0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:33:15.959Z

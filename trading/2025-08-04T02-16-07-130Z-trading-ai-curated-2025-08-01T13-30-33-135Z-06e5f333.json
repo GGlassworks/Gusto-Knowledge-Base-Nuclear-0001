@@ -1,0 +1,13 @@
+# Community Impact on a Cryptocurrency: Twitter Comparison Example Between Dogecoin and Litecoin
+
+**Authors:** Edouard Lansiaux, Noé Tchagaspanian, J. Forget
+
+## Abstract
+Context: The third generation of cryptocurrencies gathers cryptocurrencies that are as diverse as the market is big (e.g., Dogecoin or Litecoin). While Dogecoin is seen as a memecoin, the other gathers a very different category of investors. To our knowledge, no study has independently assessed the crypto community’s economical impact on these cryptocurrencies. Furthermore, various methodological possibilities exist to forecast cryptocurrency price—mainly coming from online communities. Method: Our study has retrospectively studied (from 01/01/2015 to 03/11/2021)—using open access data—the association strength (using normalized mutual information) and the linear correlation (using Pearson’s correlation) between Twitter activity and cryptocurrency economical attributes. In addition, we have computed different models (ADF, ARIMA, and Interpretable MultiVvariable Long Short-Term Memory recurrent neural network) that forecast past price values and assessed their precision. Findings and conclusions: While the average Dogecoin transaction value is impacted by tweets, tweets are impacted by Litecoin transactions number and average Litecoin transaction value. Tweet number is impacted by Dogecoin whale behavior, but no significant relationship was found between Litecoin whales and tweets. The forecasting error resulting from our ARIMA (0,0,0) models was 0.08% (with Litecoin) and 0.22% (with Dogecoin). Therefore, those are just the beginning of scientific findings that may lead to building a trading robot based on these results. However, in itself, this study is only for academic discussion, and conclusions need to be drawn by further research. The authors cannot be liable if any financial investment is made based on its conclusions.
+
+**Source:** https://www.semanticscholar.org/paper/3f0cb5f3a61a8ff4133b46e421a28d9481abf0d3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:30:33.135Z

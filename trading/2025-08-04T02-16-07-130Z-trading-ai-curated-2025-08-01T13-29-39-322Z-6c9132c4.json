@@ -1,0 +1,13 @@
+# Experimental evaluation of digitally-verifiable photonic computing for blockchain and cryptocurrency
+
+**Authors:** Sunil Pai, Taewon Park, Marshall Ball, Bogdan Penkovsky, M. Milanizadeh, M. Dubrovsky, Nathnael S. Abebe, F. Morichetti, A. Melloni, Shanhui Fan, O. Solgaard, David A. B. Miller
+
+## Abstract
+As blockchain technology and cryptocurrency become increasingly mainstream, ever-increasing energy costs required to maintain the computational power running these decentralized platforms create a market for more energy-efficient hardware. Photonic cryptographic hash functions, which use photonic integrated circuits to accelerate computation, promise energy efficiency for verifying transactions and mining in a cryptonetwork. Like many analog computing approaches, however, current proposals for photonic cryptographic hash functions that promise similar security guarantees as Bitcoin are susceptible to systematic error, so multiple devices may not reach a consensus on computation despite high numerical precision (associated with low photodetector noise). In this paper, we theoretically and experimentally demonstrate that a more general family of robust discrete analog cryptographic hash functions, which we introduce as LightHash, leverages integer matrix-vector operations on photonic mesh networks of interferometers. The difficulty of LightHash can be adjusted to be sufficiently tolerant to systematic error (calibration error, loss error, coupling error, and phase error) and preserve inherent security guarantees present in the Bitcoin protocol. Finally, going beyond our proof-of-concept, we define a ``photonic advantage'' criterion and justify how recent developments in CMOS optoelectronics (including analog-digital conversion) provably achieve such advantage for robust and digitally-verifiable photonic computing and ultimately generate a new market for decentralized photonic technology.
+
+**Source:** https://www.semanticscholar.org/paper/49db571a7a43c232fa7fe54bd5ddbe890a401093
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:29:39.323Z

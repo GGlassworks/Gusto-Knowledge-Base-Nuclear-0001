@@ -1,0 +1,13 @@
+# Optimal Gas Fee Minimization in DeFi: Enhancing Efficiency and Security on the Ethereum Blockchain
+
+**Authors:** Heesang Kim, Dohoon Kim
+
+## Abstract
+This study presents a comprehensive framework for optimizing gas fees in decentralized finance (DeFi) pools on the Ethereum blockchain, aimed at enhancing both transaction efficiency and security. The proposed Theory of Gas Fee Minimization strategically optimizes parameters such as the initial token supply, transaction volumes, and gas fees to achieve significant cost reductions and increased transaction throughput. Our computational simulations demonstrate that by addressing factors like market volatility, network congestion, and impact cost factors, the framework effectively minimizes gas fees while reducing the profitability of sandwich attacks, thereby enhancing the security of DeFi ecosystems. The introduction of the Gas Cost Surface provides a novel approach to dynamically managing gas fees, offering insights into the complex interactions between swap amounts and market volatility. This research underscores the importance of rigorous optimization techniques in DeFi protocol design, contributing to the development of more efficient, secure, and user-friendly decentralized financial systems. The findings provide valuable guidance for developers, researchers, and stakeholders seeking to improve the performance and resilience of DeFi platforms, setting new standards for efficiency and security in the blockchain ecosystem.
+
+**Source:** https://www.semanticscholar.org/paper/6f01af502eafc7848a8de4357f36d05768264223
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:32:23.563Z

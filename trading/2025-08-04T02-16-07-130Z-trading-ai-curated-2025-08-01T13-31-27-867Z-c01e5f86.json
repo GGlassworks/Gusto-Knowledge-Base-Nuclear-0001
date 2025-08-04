@@ -1,0 +1,13 @@
+# Decentralized Finance (DeFi) assurance: early evidence
+
+**Authors:** Thomas Bourveau, Janja Brendel, Jordan Schoenfeld
+
+## Abstract
+Decentralized finance (DeFi) has emerged to offer traditional financial services such as lending, borrowing, and trading without intermediaries (e.g., banks). DeFi transactions are typically executed using a special digital class of contracts called smart contracts. These contracts are self-executing and hard-coded directly on a blockchain. We observe the emergence of a new class of voluntary audits that evaluate the integrity of these contracts. Using a hand-coded sample of about 8,500 smart contract audit reports, we provide some of the first evidence showing that (1) these audits are pervasive, (2) the audit firm market is composed of new technical audit firms, (3) the scope of these audits can span a variety of contract features, (4) the audit inputs and outputs differ substantively from those of conventional financial audits, and (5) the market reacts positively to the release of these audit reports, suggesting that these reports are value-relevant. These findings highlight the demand for novel assurance services driven by blockchain technology.
+
+**Source:** https://www.semanticscholar.org/paper/da80f1332e8a29ab13942b4da63c56b5ca605186
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:31:27.868Z
