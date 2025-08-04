@@ -1,0 +1,13 @@
+# Programming With Models: Writing Statistical Algorithms for General Model Structures With NIMBLE
+
+**Authors:** P. de Valpine, Daniel Turek, C. Paciorek, Clifford Anderson-Bergman, D. Lang, Rastislav Bodík
+
+## Abstract
+ABSTRACT We describe NIMBLE, a system for programming statistical algorithms for general model structures within R. NIMBLE is designed to meet three challenges: flexible model specification, a language for programming algorithms that can use different models, and a balance between high-level programmability and execution efficiency. For model specification, NIMBLE extends the BUGS language and creates model objects, which can manipulate variables, calculate log probability values, generate simulations, and query the relationships among variables. For algorithm programming, NIMBLE provides functions that operate with model objects using two stages of evaluation. The first stage allows specialization of a function to a particular model and/or nodes, such as creating a Metropolis-Hastings sampler for a particular block of nodes. The second stage allows repeated execution of computations using the results of the first stage. To achieve efficient second-stage computation, NIMBLE compiles models and functions via C++, using the Eigen library for linear algebra, and provides the user with an interface to compiled objects. The NIMBLE language represents a compilable domain-specific language (DSL) embedded within R. This article provides an overview of the design and rationale for NIMBLE along with illustrative examples including importance sampling, Markov chain Monte Carlo (MCMC) and Monte Carlo expectation maximization (MCEM). Supplementary materials for this article are available online.
+
+**Source:** https://www.semanticscholar.org/paper/2f7ccbfed5d3dd2fd2e746b1ab116c28f3ec5223
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:08:55.775Z

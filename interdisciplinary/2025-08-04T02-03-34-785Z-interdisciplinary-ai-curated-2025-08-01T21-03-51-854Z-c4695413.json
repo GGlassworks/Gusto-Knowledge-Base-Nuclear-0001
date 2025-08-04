@@ -1,0 +1,13 @@
+# GROMACS 4:  Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation.
+
+**Authors:** B. Hess, Carsten Kutzner, D. van der Spoel, E. Lindahl
+
+## Abstract
+Molecular simulation is an extremely useful, but computationally very expensive tool for studies of chemical and biomolecular systems. Here, we present a new implementation of our molecular simulation toolkit GROMACS which now both achieves extremely high performance on single processors from algorithmic optimizations and hand-coded routines and simultaneously scales very well on parallel machines. The code encompasses a minimal-communication domain decomposition algorithm, full dynamic load balancing, a state-of-the-art parallel constraint solver, and efficient virtual site algorithms that allow removal of hydrogen atom degrees of freedom to enable integration time steps up to 5 fs for atomistic simulations also in parallel. To improve the scaling properties of the common particle mesh Ewald electrostatics algorithms, we have in addition used a Multiple-Program, Multiple-Data approach, with separate node domains responsible for direct and reciprocal space interactions. Not only does this combination of algorithms enable extremely long simulations of large systems but also it provides that simulation performance on quite modest numbers of standard cluster nodes.
+
+**Source:** https://www.semanticscholar.org/paper/8010fd602265f68b13feeb92978334d94ccb6942
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:03:51.855Z

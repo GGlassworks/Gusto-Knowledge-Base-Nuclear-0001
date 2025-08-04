@@ -1,0 +1,13 @@
+# Joint Graph Decomposition & Node Labeling: Problem, Algorithms, Applications
+
+**Authors:** Evgeny Levinkov, J. Uhrig, Siyu Tang, Mohamed Omran, Eldar Insafutdinov, Alexander Kirillov, C. Rother, T. Brox, B. Schiele, Bjoern Andres
+
+## Abstract
+We state a combinatorial optimization problem whose feasible solutions define both a decomposition and a node labeling of a given graph. This problem offers a common mathematical abstraction of seemingly unrelated computer vision tasks, including instance-separating semantic segmentation, articulated human body pose estimation and multiple object tracking. Conceptually, it generalizes the unconstrained integer quadratic program and the minimum cost lifted multicut problem, both of which are NP-hard. In order to find feasible solutions efficiently, we define two local search algorithms that converge monotonously to a local optimum, offering a feasible solution at any time. To demonstrate the effectiveness of these algorithms in tackling computer vision tasks, we apply them to instances of the problem that we construct from published data, using published algorithms. We report state-of-the-art application-specific accuracy in the three above-mentioned applications.
+
+**Source:** https://www.semanticscholar.org/paper/505b4798515477eede4b48d01206078b0ac51eeb
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:05:54.105Z

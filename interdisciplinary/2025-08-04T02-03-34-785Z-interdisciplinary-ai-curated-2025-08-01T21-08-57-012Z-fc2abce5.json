@@ -1,0 +1,13 @@
+# Text Classification Algorithms: A Survey
+
+**Authors:** Kamran Kowsari, K. Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura E. Barnes, Donald E. Brown
+
+## Abstract
+In recent years, there has been an exponential growth in the number of complex documentsand texts that require a deeper understanding of machine learning methods to be able to accuratelyclassify texts in many applications. Many machine learning approaches have achieved surpassingresults in natural language processing. The success of these learning algorithms relies on their capacityto understand complex models and non-linear relationships within data. However, finding suitablestructures, architectures, and techniques for text classification is a challenge for researchers. In thispaper, a brief overview of text classification algorithms is discussed. This overview covers differenttext feature extractions, dimensionality reduction methods, existing algorithms and techniques, andevaluations methods. Finally, the limitations of each technique and their application in real-worldproblems are discussed.
+
+**Source:** https://www.semanticscholar.org/paper/ba10b8f9ee40b68053af9e6c2383aa2c6e39e9be
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:08:57.013Z

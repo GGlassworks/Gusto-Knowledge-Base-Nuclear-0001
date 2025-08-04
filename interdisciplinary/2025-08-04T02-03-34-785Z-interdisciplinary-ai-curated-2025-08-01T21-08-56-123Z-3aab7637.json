@@ -1,0 +1,13 @@
+# Improving Metaheuristic Algorithms With Information Feedback Models
+
+**Authors:** Gai-ge Wang, Ying Tan
+
+## Abstract
+In most metaheuristic algorithms, the updating process fails to make use of information available from individuals in previous iterations. If this useful information could be exploited fully and used in the later optimization process, the quality of the succeeding solutions would be improved significantly. This paper presents our method for reusing the valuable information available from previous individuals to guide later search. In our approach, previous useful information was fed back to the updating process. We proposed six information feedback models. In these models, individuals from previous iterations were selected in either a fixed or random manner. Their useful information was incorporated into the updating process. Accordingly, an individual at the current iteration was updated based on the basic algorithm plus some selected previous individuals by using a simple fitness weighting method. By incorporating six different information feedback models into ten metaheuristic algorithms, this approach provided a number of variants of the basic algorithms. We demonstrated experimentally that the variants outperformed the basic algorithms significantly on 14 standard test functions and 10 CEC 2011 real world problems, thereby, establishing the value of the information feedback models.
+
+**Source:** https://www.semanticscholar.org/paper/28e9020cf39cef57e13622cdd2d72ef5f4aa1486
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:08:56.124Z

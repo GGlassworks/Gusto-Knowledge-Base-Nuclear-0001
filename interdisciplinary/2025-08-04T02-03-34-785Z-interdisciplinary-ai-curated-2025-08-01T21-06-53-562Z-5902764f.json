@@ -1,0 +1,14 @@
+# Comprehensive Survey for Cloud Computing Based Nature-Inspired Algorithms Optimization Scheduling
+
+**Authors:** H. Yahia, Subhi R. M. Zeebaree, M. Sadeeq, Nareen O. M. Salim, S. F. Kak, Adel AL-zebari, A. Salih, Helat A. Hussein
+
+## Abstract
+Many applications in the real world include optimizing specific targets, such as cost minimization, energy conservation, climate, and maximizing production, efficiency, and sustainability. The optimization problem is strongly non-linear with multifunctional landscapes under several dynamic, non-linear constraints in some instances. It is challenging to address those issues. Also, with the increasing strength of modern computers, simplistic brute force methods are still inefficient and unwanted. Practical algorithms are also vital for these implementations whenever possible. 
+Cloud computing has become an essential and popular emerging computing environment that supports on-demand services and provides internet-based services. Cloud computing allows a range of services and tools to be easily accessed from anywhere in the world. Since cloud computing has global access to its services, there will always be threats and challenges facing its servers and services, such as; task scheduling, security, energy efficiency, network load, and other challenges. In the research area, many algorithms have been addressed to solve these problems. This paper investigates relevant analysis and surveys on the above topics, threats, and outlooks. This paper offers an overview of nature-inspired algorithms, their applications, and valuation, emphasizing cloud computing problems. Many problems in science and engineering can be viewed as optimization problems with complex non-linear constraints. Highly nonlinear solutions typically need advanced optimization algorithms, and conventional algorithms can have difficulty addressing these issues. Because of its simplicity and usefulness, nature-inspired algorithms are currently being used. There are nevertheless some significant concerns with computing and swarming intelligence influenced by evolution.
+
+**Source:** https://www.semanticscholar.org/paper/891b950e4d7ce2c70f09231ac396a0f012b8e7fb
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:06:53.565Z

@@ -1,0 +1,13 @@
+# A Survey of Game Theory in Unmanned Aerial Vehicles Communications
+
+**Authors:** M. Mkiramweni, Chungang Yang, Jiandong Li, Wei Zhang
+
+## Abstract
+Unmanned aerial vehicles (UAVs) can be deployed as wireless relays or aerial base stations to improve network connectivity and coverage in cellular networks. UAVs can also be used to significantly enhance the performance of mobile ad-hoc networks and wireless sensor networks. In the future, UAVs are expected to become an integral part of the fifth generation wireless networks as well as key enablers of the coming massive Internet of Things. However, there are still many challenging issues in designing architectures and deployment of UAV-based networks. To address the issues, game theory has recently been adopted as an effective tool for modeling and analyzing problems in UAV-aided networks. In this paper, we survey the applications of game theory in solving various UAV-assisted networks challenges. We first provide a brief introduction to wireless communications with UAVs and then introduce basic game theory concepts and their relation to wireless networks. We further present the classification and brief introduction to the games applied to solve problems in UAV-aided networks. We then provide a comprehensive literature review on game-theoretic techniques utilized in dealing with challenges in the UAV-based wireless networks. Finally, we introduce advanced distributed schemes for interference management in large UAV-assisted communication networks. This paper aims to provide readers with an understanding of UAV-aided networks in terms of their architecture, benefits, challenges, and various game theoretical solutions applied to these communications networks.
+
+**Source:** https://www.semanticscholar.org/paper/b2f57f82a7771bea274b9a530a68fd7aa1920c41
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:56:54.413Z

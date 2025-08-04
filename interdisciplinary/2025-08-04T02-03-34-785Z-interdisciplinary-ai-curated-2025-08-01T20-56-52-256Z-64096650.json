@@ -1,0 +1,13 @@
+# Game Theory in Internet of Things: A Survey
+
+**Authors:** Chuanxiu Chi, Yingjie Wang, Xiangrong Tong, Madhuri Siddula, Z. Cai
+
+## Abstract
+Internet of Things (IoT) devices are being used widely in the fields of smart city, smart grid, environmental monitoring, Internet of Vehicles and other fields that need large-scale sensing data. However, the research on storage and computation power for IoT is still in its early stages. The game theory converts the interaction between two IoT devices into a game where the conflict is resolved by utilizing the game’s equilibrium conditions. Our goal with the game theory is to maximize the utility for every device in the IoT network. In this article, we review the recent game-theory-based solutions proposed in IoT networks. We summarize game theory concepts and categorize the common game models for ease of understanding for the reader. Later, we focus on analyzing solutions proposed in resource allocation, task scheduling, node selection, quality of service, and network security. Finally, we summarize research challenges and propose future research directions.
+
+**Source:** https://www.semanticscholar.org/paper/c5670a4e5a9b15dd540a336b4d6fedd85cfd1d0d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:56:52.257Z

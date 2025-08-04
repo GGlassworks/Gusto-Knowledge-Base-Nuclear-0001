@@ -1,0 +1,13 @@
+# A Survey of Decision Trees: Concepts, Algorithms, and Applications
+
+**Authors:** Ibomoiye Domor Mienye, N. Jere
+
+## Abstract
+Machine learning (ML) has been instrumental in solving complex problems and significantly advancing different areas of our lives. Decision tree-based methods have gained significant popularity among the diverse range of ML algorithms due to their simplicity and interpretability. This paper presents a comprehensive overview of decision trees, including the core concepts, algorithms, applications, their early development to the recent high-performing ensemble algorithms and their mathematical and algorithmic representations, which are lacking in the literature and will be beneficial to ML researchers and industry experts. Some of the algorithms include classification and regression tree (CART), Iterative Dichotomiser 3 (ID3), C4.5, C5.0, Chi-squared Automatic Interaction Detection (CHAID), conditional inference trees, and other tree-based ensemble algorithms, such as random forest, gradient-boosted decision trees, and rotation forest. Their utilisation in recent literature is also discussed, focusing on applications in medical diagnosis and fraud detection.
+
+**Source:** https://www.semanticscholar.org/paper/49dfe7b97013b0d5f506588875c38deb5c53c8be
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:05:54.491Z

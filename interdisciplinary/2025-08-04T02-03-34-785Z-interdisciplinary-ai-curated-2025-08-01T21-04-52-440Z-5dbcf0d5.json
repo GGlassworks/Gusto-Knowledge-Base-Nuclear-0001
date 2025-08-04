@@ -1,0 +1,13 @@
+# Parallel In-Place Algorithms: Theory and Practice
+
+**Authors:** Yan Gu, Omar Obeya, Julian Shun
+
+## Abstract
+Many parallel algorithms use at least linear auxiliary space in the size of the input to enable computations to be done independently without conflicts. Unfortunately, this extra space can be prohibitive for memory-limited machines, preventing large inputs from being processed. Therefore, it is desirable to design parallel in-place algorithms that use sublinear (or even polylogarithmic) auxiliary space. In this paper, we bridge the gap between theory and practice for parallel in-place (PIP) algorithms. We first define two computational models based on fork-join parallelism, which reflect modern parallel programming environments. We then introduce a variety of new parallel in-place algorithms that are simple and efficient, both in theory and in practice. Our algorithmic highlight is the Decomposable Property introduced in this paper, which enables existing non-in-place but highly-optimized parallel algorithms to be converted into parallel in-place algorithms. Using this property, we obtain algorithms for random permutation, list contraction, tree contraction, and merging that take linear work, $O(n^{1-\epsilon})$ auxiliary space, and $O(n^\epsilon\cdot\text{polylog}(n))$ span for $0<\epsilon<1$. We also present new parallel in-place algorithms for scan, filter, merge, connectivity, biconnectivity, and minimum spanning forest using other techniques. In addition to theoretical results, we present experimental results for implementations of many of our parallel in-place algorithms. We show that on a 72-core machine with two-way hyper-threading, the parallel in-place algorithms usually outperform existing parallel algorithms for the same problems that use linear auxiliary space, indicating that the theory developed in this paper indeed leads to practical benefits in terms of both space usage and running time.
+
+**Source:** https://www.semanticscholar.org/paper/071c576e69755a970835b55ac8cb7fc06d273117
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:04:52.442Z

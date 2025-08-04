@@ -1,0 +1,13 @@
+# A review of game theory models of lane changing
+
+**Authors:** Ang Ji, D. Levinson
+
+## Abstract
+Driver lane-changing behaviors have a significant impact on the safety and the capacity of the vehicle-based traffic system. Therefore, modeling lane-changing maneuvers has become an essential component of driving behavior analysis. Among microscopic LC models, game theory-based lane-changing models highlight the interaction of drivers, which reveal a more realistic image of driving behaviors compared to other classic models. However, the potential of game theory to describe the human driver's lane-changing strategies is currently under-estimated. This paper aims to review the recent development of game-theoretic models that are classified according to their different methodologies and features. They are designed for both human-driven and autonomous vehicles, and we hope they can find applications in future AV industries.
+
+**Source:** https://www.semanticscholar.org/paper/c9ed49498749c22f790be27a23fd05cbee849155
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:56:52.971Z

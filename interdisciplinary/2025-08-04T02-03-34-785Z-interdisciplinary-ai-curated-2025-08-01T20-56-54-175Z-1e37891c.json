@@ -1,0 +1,13 @@
+# A Game Theory Approach for Joint Access Selection and Resource Allocation in UAV Assisted IoT Communication Networks
+
+**Authors:** Shi Yan, M. Peng, Xueyan Cao
+
+## Abstract
+The growing popularity of Internet of Things (IoT) with the requirements of highly reliable and low latency has imposed huge challenges to current cellular networks. Using small aerial platforms like unmanned aerial vehicles (UAVs) to assist terrestrial base stations (BSs) is attractive, but it often challenged by the lack of UAV access selection and resource allocation algorithm to balance the network performance and service cost. In this paper, we study the UAV access selection and BS bandwidth allocation problems in a UAV assisted IoT communication network, where a hierarchical game framework is presented. The complicated interactions among UAVs and BSs as well as the cyclic dependency is studied by applying the Stackelberg game theory. Wherein, the access competition among groups of UAVs is formulated as a dynamic evolutionary game and solved by an evolutionary equilibrium. On the other hand, the problem of how much bandwidth should BSs allocate to the UAVs is modeled as a noncooperative game, where the existence and the uniqueness of Nash equilibrium is analyzed. Stochastic geometry tool is used to model the position distribution of network nodes and drive the payoff expressions by taking into account different network parameters. The analytical results for the proposed hierarchical game model and the corresponding solutions are evaluated via simulations, which verify both the validity of our analysis and the effectiveness of the proposed algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/5f681b5e6f42862c58d97d9ab9d23b83792b6857
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:56:54.176Z

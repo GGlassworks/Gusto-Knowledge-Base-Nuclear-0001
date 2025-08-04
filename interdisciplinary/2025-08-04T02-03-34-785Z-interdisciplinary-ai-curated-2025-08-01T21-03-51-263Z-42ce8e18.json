@@ -1,0 +1,13 @@
+# Bandit Algorithms
+
+**Authors:** Tor Lattimore, Csaba Szepesvari
+
+## Abstract
+sets of environments and policies respectively and ` : E ×Π→ [0, 1] a bounded loss function. Given a policy π let `(π) = (`(ν1, π), . . . , `(νN , π)) be the loss vector resulting from policy π. Define S = {`(π) : π ∈ Π} and λ(S) = {x ∈ cl(S) : y 6< x for all y ∈ S} , where y 6< x is defined to mean it is not true that yi ≤ xi for all i with strict inequality for at least one i. Prove that if λ(S) ⊆ S and S is convex, then for each x ∈ λ(S) there exists a prior q ∈ P(E) and policy π∗ such that `(π) = x and ∑ ν∈E q(ν)`(ν, π∗) = min π∈Π ∑
+
+**Source:** https://www.semanticscholar.org/paper/57ffba5ea5e602b5365752e19a6f85a716db1d8b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T21:03:51.264Z

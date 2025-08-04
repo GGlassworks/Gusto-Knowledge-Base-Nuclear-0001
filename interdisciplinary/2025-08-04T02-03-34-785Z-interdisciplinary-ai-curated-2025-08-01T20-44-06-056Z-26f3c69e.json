@@ -1,0 +1,13 @@
+# Statistical Tests for Replacing Human Decision Makers with Algorithms
+
+**Authors:** Kai Feng, Han Hong, Ke Tang, Jingyuan Wang
+
+## Abstract
+This paper proposes a statistical framework of using artificial intelligence to improve human decision making. The performance of each human decision maker is benchmarked against that of machine predictions. We replace the diagnoses made by a subset of the decision makers with the recommendation from the machine learning algorithm. We apply both a heuristic frequentist approach and a Bayesian posterior loss function approach to abnormal birth detection using a nationwide data set of doctor diagnoses from prepregnancy checkups of reproductive-age couples and pregnancy outcomes. We find that our algorithm on a test data set results in a higher overall true positive rate and a lower false positive rate than the diagnoses made by doctors only. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: H. Hong’s work was supported by the National Science Foundation [Grant SES 1658950]. K. Tang’s work was supported by the National Natural Science Foundation of China [Grants 72192802, 72342008]. J. Wang’s work was partially supported by the National Natural Science Foundation of China [Grants 72222022, 72171013, 72242101]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01845 .
+
+**Source:** https://www.semanticscholar.org/paper/b91ef88f115d3467e5df55ec88aaaf1a2030717c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T20:44:06.056Z
