@@ -1,0 +1,13 @@
+# Equi-Depth Histogram Construction Methodology for Big Data Tools
+
+**Authors:** Tolga BÜYÜKTANIR, Ahmet Ercan TOPCU
+
+## Abstract
+<jats:p xml:lang="en">In recent decades, countless data sources such as social media, machines, and networks are constantly pushing data into the digital world. The size of the data has been growing exponentially. To understand the statistical information of data query optimization, equi-depth histograms are essential. In this paper, we present approximate equi-depth histogram construction for big data using both Apache Pig Scripts and Java Web Interface interacting with Apache Hadoop. We use equi-depth histogram construction with quality guarantees for big data approaches and implement them with Apache Hadoop Map-Reduce and Apache Pig user-defined functions. We introduce a prototype implementation of the construction of the approximate equi-depth histogram from the Java Server Face page using Apache Hadoop jobs and the Hadoop Distributed Files System, and we evaluate these methods using the demonstration. We explain Apache Pig Scripts techniques to create equi-depth histograms using big data. The results indicate that our system provides the capability of writing multiple jobs using Apache Pig, and programmers can make use of the advantages of Apache Pig to create histograms and eliminate the complex implementation of Map-Reduce jobs.</jats:p>
+
+**Source:** https://doi.org/10.2339/politeknik.620198
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:18:43.040Z

@@ -1,0 +1,13 @@
+# A predictive noise correction methodology for manufacturing process datasets
+
+**Authors:** Omogbai Oleghe
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>In manufacturing processes, datasets intended for data driven decisions are majorly generated from time-sequenced sensor readings. Industrial sensor systems are prone to transmit inaccurate readings, which result in noisy datasets. Noisy datasets inhibit machine learning and knowledge discovery. Using a multi-stage, multi-output process dataset as an experimental case, this article reports a methodology for replacing erroneous sensor values with their predicted likely values. In the methodology, invalid values specified by process owners are first converted to missing values. Then, ReliefF algorithm is used to select the most relevant features to progress for prediction modelling, and also to boost the performance of the prediction model. A Random Forest classifier model is built to predict replacement values for the missing values. Finally, predicted values are inserted into the dataset to fill in the missing entries. With many attributes having a significant number of erroneous values, the invalid values replacement is done one attribute at a time. To do this systematically, the process flow direction and stages in the manufacturing process are exploited to partition the dataset into subsets for model building. The results indicate that the methodology is able to replace erroneous values with likely true values, to a very high degree of accuracy. There is a paucity of this type of methodology for dealing with invalid entries in process datasets. The methodology is useful for both missing and invalid value correction in process datasets. In the future, the plan is to inject the prediction models into streaming data to simultaneously enable erroneous value correction and predictive process monitoring in real-time.</jats:p>
+
+**Source:** https://doi.org/10.1186/s40537-020-00367-w
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:18:44.884Z

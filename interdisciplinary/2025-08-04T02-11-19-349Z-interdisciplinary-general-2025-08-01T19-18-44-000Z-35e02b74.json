@@ -1,0 +1,13 @@
+# Big Data Warehouse Automatic Design Methodology
+
+**Authors:** Francesco Di Tria, Ezio Lefons, Filippo Tangorra
+
+## Abstract
+<jats:p>Traditional data warehouse design methodologies are based on two opposite approaches. The one is data oriented and aims to realize the data warehouse mainly through a reengineering process of the well-structured data sources solely, while minimizing the involvement of end users. The other is requirement oriented and aims to realize the data warehouse only on the basis of business goals expressed by end users, with no regard to the information obtainable from data sources. Since these approaches are not able to address the problems that arise when dealing with big data, the necessity to adopt hybrid methodologies, which allow the definition of multidimensional schemas by considering user requirements and reconciling them against non-structured data sources, has emerged. As a counterpart, hybrid methodologies may require a more complex design process. For this reason, the current research is devoted to introducing automatisms in order to reduce the design efforts and to support the designer in the big data warehouse creation. In this chapter, the authors present a methodology based on a hybrid approach that adopts a graph-based multidimensional model. In order to automate the whole design process, the methodology has been implemented using logical programming.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-4666-9840-6.ch023
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:18:44.000Z

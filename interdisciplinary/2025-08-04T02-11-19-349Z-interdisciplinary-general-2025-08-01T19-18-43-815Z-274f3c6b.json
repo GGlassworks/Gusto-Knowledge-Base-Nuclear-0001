@@ -1,0 +1,14 @@
+# A big data methodology for categorising technical support requests using Hadoop and Mahout
+
+**Authors:** Arantxa Duque Barrachina, Aisling O’Driscoll
+
+## Abstract
+<jats:title>Abstract</jats:title>
+          <jats:p>Technical Support call centres frequently receive several thousand customer queries on a daily basis. Traditionally, such organisations discard data related to customer enquiries within a relatively short period of time due to limited storage capacity. However, in recent years, the value of retaining and analysing this information has become clear, enabling call centres to identify customer patterns, improve first call resolution and maximise daily closure rates. This paper proposes a Proof of Concept (PoC) end to end solution that utilises the Hadoop programming model, extended ecosystem and the Mahout Big Data Analytics library for categorising similar support calls for large technical support data sets. The proposed solution is evaluated on a VMware technical support dataset.</jats:p>
+
+**Source:** https://doi.org/10.1186/2196-1115-1-1
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:18:43.815Z

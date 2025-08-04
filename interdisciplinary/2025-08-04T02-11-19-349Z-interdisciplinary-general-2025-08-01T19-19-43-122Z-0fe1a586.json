@@ -1,0 +1,13 @@
+# Advanced Dimensionality Reduction Method for Big Data
+
+**Authors:** Sufal Das, Hemanta Kumar Kalita
+
+## Abstract
+<jats:p>The growing glut of data in the worlds of science, business and government create an urgent need for consideration of big data. Big data is a term that describes large volumes of high velocity, complex and variable data that require advanced techniques and technologies to enable the capture, storage, distribution, management, and analysis of the information. Big data challenge is becoming one of the most exciting opportunities for the next years. Data mining algorithms like association rule mining perform an exhaustive search to find all rules satisfying some constraints. it is clear that it is difficult to identify the most effective rule from big data. A novel method for feature selection and extraction has been introduced for big data using genetic algorithm. Dimensionality reduction can be considered a problem of global combinatorial optimization in machine learning, which reduces the number of features, removes irrelevant, noisy and redundant data, to obtain the accuracy and saves the computation time and simplifies the result. A genetic algorithm was developed based approach utilizing a feedback linkage between feature selection and association rule using MapReduce for big data. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-4666-9840-6.ch108
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:19:43.122Z
