@@ -1,0 +1,13 @@
+# Nondestructive evaluation sensor fusion with autonomous robotic system for civil infrastructure inspection
+
+**Authors:** Spencer Gibb, H. La, Tuan Le, L. Nguyen, Ryan Schmid, H. Pham
+
+## Abstract
+Civil infrastructure inspection is crucial to maintaining the quality of that infrastructure, which has a great impact on the economy. Performing this inspection is costly work that requires workers to be trained on how to use varying technologies, which can be error prone when performed manually and can result in damage to the infrastructure in some cases. For this reason, nondestructive evaluation (NDE) sensors are preferred for civil infrastructure inspection as they can perform the necessary inspection without damaging the infrastructure. In this paper, we develop a fully autonomous robotic system capable of real‐time data collection and quasi‐real‐time data processing. The robotic system is equipped with several NDE sensors that allow for a sensor fusion method to be developed that successfully minimizes inspection time while performing adequate inspection of areas that require more in‐depth data to be collected. A detailed discussion of the inspection framework developed for this robotic system, and the dual navigation modes for both indoor and outdoor autonomous navigation is presented. The developed robotic system is deployed to inspect several infrastructures (e.g., parking garages, bridges) at and near by the University of Nevada, Reno campus.
+
+**Source:** https://www.semanticscholar.org/paper/8e9d4e4cd5cd88661636d2095a0d00f40fb85201
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:18:51.503Z

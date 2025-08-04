@@ -1,0 +1,24 @@
+# Open‐source molecular modeling software in chemical engineering focusing on the Molecular Simulation Design Framework
+
+**Authors:** P. Cummings, Clare McCabe, C. Iacovella, Á. Lédeczi, Eric Jankowski, A. Jayaraman, J. Palmer, E. Maginn, S. Glotzer, Joshua A. Anderson, Ilja Siepmann, J. Potoff, Raymond Matsumoto, Justin B. Gilmer, Ryan S. DeFever, Ramanish Singh, Brad Crawford
+
+## Abstract
+Molecular simulation has emerged as an important sub-field of chemical
+engineering, due in no small part to the leadership of Keith Gubbins. A
+characteristic of the chemical engineering molecular simulation
+community is the commitment to freely share simulation codes and other
+key software components required to perform a molecular simulation under
+open-source licenses and distribution on public repositories such as
+GitHub. Here we provide an overview of open-source molecular modeling
+software in Chemical Engineering, with focus on the Molecular Simulation
+Design Framework (MoSDeF). MoSDeF is an open-source Python software
+stack that enables facile use of multiple open-source molecular
+simulation engines, while at the same time ensuring maximum
+reproducibility.
+
+**Source:** https://www.semanticscholar.org/paper/197fe664a44776fa17dc1bf1d6b53ff5e5dc960e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:20:45.313Z

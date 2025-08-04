@@ -1,0 +1,13 @@
+# Evaluation of low-cost MEMS accelerometers for SHM: frequency and damping identification of civil structures
+
+**Authors:** R. R. Ribeiro, R. Lameiras
+
+## Abstract
+Sensing techniques based on accelerometers for modal parameters identification are among the most studied and applied in Structural Health Monitoring of civil structures. The advent of low-cost MEMS accelerometers and open-source electronic platforms, such as Arduino, have facilitated the design of low-cost systems suitable for modal identification, although there is still a lack of studies regarding practical application and comparison of commercially available low-cost accelerometers under SHM conditions. This work presents an experimental performance evaluation of six low-cost MEMS accelerometers for the identification of natural frequencies and damping ratios of a three-storey frame model and a reinforced concrete slab, as well as their noise characteristics. A low-cost Arduino-based data acquisition system was used. The results showed an overall good performance of the MEMS accelerometers, with identified natural frequencies errors within 1.02% and 7.76% of reference values, for the three-storey frame and concrete slab, respectively, and a noise density as low as 108 g/√Hz.
+
+**Source:** https://www.semanticscholar.org/paper/c3e506699debecfd3b76fea699a1412a01e7e1c4
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:18:51.382Z

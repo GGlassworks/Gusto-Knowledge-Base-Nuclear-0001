@@ -1,0 +1,13 @@
+# A Mobile Robot for Automated Civil Infrastructure Inspection and Evaluation
+
+**Authors:** L. Nguyen, Spencer Gibb, H. Pham, H. La
+
+## Abstract
+Ahstract- The objective of civil infrastructure inspection is to evaluate and periodically perform maintenance. This involves properly collecting data on structures, documenting the data, and analyzing the quantitative inspection data over an extended period of operating time, all in order to maintain the structures properly. Recent research on civil infrastructure inspection is mainly based on manual visual inspections, which are often influenced and limited by a professional inspector's knowledge and experience. Thus, the accuracy and reliability of their results are affected. These inspection processes require significant individual labor, which can become quite costly as the inspection areas often require traffic to be limited or evacuation of certain business parking areas while the inspections are performed. In this paper, we present a new development of the autonomous mobile robotic system for automated data collection and inspection. A 4 degree of freedom (DoF) arm is designed and developed then integrated with the robot for efficient image capture using both visual and thermal cameras. The robotic system performs crack detection on the collected data using a state-of-the-art method involving convolutional neural networks (CNN), which is validated on a variety of test images. As inspection results, the robot can output several condition maps of the inspected infrastructure including crack map, thermal map and deterioration map to provide the overall picture of the structure health condition. Our robotic system reduces the overall inspection time compared to the current robotic inspection methods. We further validate our data collection process through showing the correlation between the data collected by each sensor in the system.
+
+**Source:** https://www.semanticscholar.org/paper/109728a9e88c87a1fcdb42393ef1831eb30a1036
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:18:52.824Z

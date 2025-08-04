@@ -1,0 +1,13 @@
+# Advanced SBAS-DInSAR Technique for Controlling Large Civil Infrastructures: An Application to the Genzano di Lucania Dam
+
+**Authors:** M. Corsetti, F. Fossati, M. Manunta, M. Marsella
+
+## Abstract
+Monitoring surface deformation on dams is commonly carried out by in situ geodetic surveying, which is time consuming and characterized by some limitations in space coverage and frequency. More recently microwave satellite-based technologies, such as advanced-DInSAR (Differential Synthetic Aperture Radar Interferometry), have allowed the integration and improvement of the observation capabilities of ground-based methods thanks to their effectiveness in collecting displacement measurements on many non-destructive control points, corresponding to radar reflecting targets. The availability of such a large number of points of measurement, which are distributed along the whole structure and are characterized by millimetric accuracy on displacement rates, can be profitably adopted for the calibration of numerical models. These models are implemented to simulate the structural behaviour of a dam under conditions of stress thus improving the ability to maintain safety standards. In this work, after having analysed how advanced DInSAR can effectively enhance the results from traditional monitoring systems that provide comparable accuracy measurements on a limited number of points, an FEM model of the Genzano di Lucania earth dam is developed and calibrated. This work is concentrated on the advanced DInSAR technique referred to as Small BAseline Subset (SBAS) approach, benefiting from its capability to generate deformation time series at full spatial resolution and from multi-sensor SAR data, to measure the vertical consolidation displacement of the Genzano di Lucania earth dam.
+
+**Source:** https://www.semanticscholar.org/paper/4aecc6ed1f3fbd739ff391884a80321ff085f99f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:15:09.100Z

@@ -1,0 +1,13 @@
+# Application of information theory in systems biology
+
+**Authors:** Shinsuke Uda
+
+## Abstract
+Over recent years, new light has been shed on aspects of information processing in cells. The quantification of information, as described by Shannon’s information theory, is a basic and powerful tool that can be applied to various fields, such as communication, statistics, and computer science, as well as to information processing within cells. It has also been used to infer the network structure of molecular species. However, the difficulty of obtaining sufficient sample sizes and the computational burden associated with the high-dimensional data often encountered in biology can result in bottlenecks in the application of information theory to systems biology. This article provides an overview of the application of information theory to systems biology, discussing the associated bottlenecks and reviewing recent work.
+
+**Source:** https://www.semanticscholar.org/paper/7919f8f8447d0d022782f9e74cf0629135b91841
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:28:50.099Z
