@@ -1,0 +1,12 @@
+# A mean field game model of firm--level innovation
+
+**Authors:** Matt Barker, Pierre Degond, Ralf Martin, Mirabelle Muûls
+
+## Summary
+Knowledge spillovers occur when a firm researches a new technology and that technology is adapted or adopted by another firm, resulting in a social value of the technology that is larger than the initially predicted private value. As a result, firms systematically under--invest in research compared with the socially optimal investment strategy. Understanding the level of under--investment, as well as policies to correct it, is an area of active economic research. In this paper, we develop a new model of spillovers, taking inspiration from the available microeconomic data. We prove existence and uniqueness of solutions to the model, and we conduct some initial simulations to understand how indirect spillovers contribute to the productivity of a sector.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T20:25:37.329Z

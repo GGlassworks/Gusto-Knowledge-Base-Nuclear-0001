@@ -1,0 +1,12 @@
+# Sliced Optimal Transport on the Sphere
+
+**Authors:** Michael Quellmalz, Robert Beinert, Gabriele Steidl
+
+## Summary
+Sliced optimal transport reduces optimal transport on multi-dimensional domains to transport on the line. More precisely, sliced optimal transport is the concatenation of the well-known Radon transform and the cumulative density transform, which analytically yields the solutions of the reduced transport problems. Inspired by this concept, we propose two adaptions for optimal transport on the 2-sphere. Firstly, as counterpart to the Radon transform, we introduce the vertical slice transform, which integrates along all circles orthogonal to a given direction. Secondly, we introduce a semicircle transform, which integrates along all half great circles with an appropriate weight function. Both transforms are generalized to arbitrary measures on the sphere. While the vertical slice transform can be combined with optimal transport on the interval and leads to a sliced Wasserstein distance restricted to even probability measures, the semicircle transform is related to optimal transport on the circle and results in a different sliced Wasserstein distance for arbitrary probability measures. The applicability of both novel sliced optimal transport concepts on the sphere is demonstrated by proof-of-concept examples dealing with the interpolation and classification of spherical probability measures. The numerical implementation relies on the singular value decompositions of both transforms and fast Fourier techniques. For the inversion with respect to probability measures, we propose the minimization of an entropy-regularized Kullback--Leibler divergence, which can be numerically realized using a primal-dual proximal splitting algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T11:53:22.219Z

@@ -1,0 +1,12 @@
+# On the last nonzero digits of $n!$ in a given base
+
+**Authors:** Bartosz Sobolewski
+
+## Summary
+In this paper we study the sequence of strings of $k$ last nonzero digits of $n!$ in a given base $b$. We determine for which $b$ this sequence is automatic and show how to generate it using a uniform morphism. We also compute how often each possible string of $k$ digits appears as the $k$ last nonzero digits of $n!$.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:09.554Z

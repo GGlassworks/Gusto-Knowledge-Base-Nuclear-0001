@@ -1,0 +1,12 @@
+# StochasticDominance.jl: A Julia Package for Higher Order Stochastic Dominance
+
+**Authors:** Rajmadan Lakshmanan, Alois Pichler
+
+## Summary
+Stochastic dominance is a fundamental concept in decision-making under uncertainty and quantitative finance, yet its practical application is hindered by computational intractability due to infinitely many constraints. We introduce the Julia package StochasticDominance, an open-source tool that efficiently verifies and optimizes under higher-order stochastic dominance constraints. Our approach builds on recent theoretical advancements that reduce infinite constraints to a finite number, making higher-order stochastic dominance more accessible. This package provides a user-friendly, black-box solution, enabling researchers and practitioners to incorporate stochastic dominance constraints seamlessly into their optimization frameworks.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T12:49:23.399Z

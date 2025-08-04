@@ -1,0 +1,12 @@
+# Joint Routing of Conventional and Range-Extended Electric Vehicles in a Large Metropolitan Network
+
+**Authors:** Anirudh Subramanyam, Taner Cokyasar, Jeffrey Larson, Monique Stinson
+
+## Summary
+Range-extended electric vehicles combine the higher efficiency and environmental benefits of battery-powered electric motors with the longer mileage and autonomy of conventional internal combustion engines. This combination is particularly advantageous for time-constrained delivery routing in dense urban areas, where battery recharging along routes can be too time-consuming to economically justify the use of all-electric vehicles. However, switching from electric to conventional fossil fuel modes also results in higher costs and emissions and lower efficiency. This paper analyzes this heterogeneous vehicle routing problem and describes two solution methods: an exact branch-price-and-cut algorithm and an iterated tabu search metaheuristic. From a methodological perspective, we find that the exact algorithm consistently obtains tight lower bounds that also serve to certify the metaheuristic solutions as near-optimal. From a policy standpoint, we examine a large-scale real-world case study concerning parcel deliveries in the Chicago metropolitan area and quantify various operational metrics including energy costs and vehicle miles traveled. We find that by deploying roughly 20% of range-extended vehicles with a modest all-electric range of 33 miles, parcel distributors can save energy costs by up to 17% while incurring less than 0.5% increase in vehicle miles traveled. Increasing the range to 60 miles further reduces costs by only 4%, which can alternatively be achieved by decreasing the average service time by 1 minute or increasing driver working time by 1 hour. Our study reveals several key areas of improvement on which vehicle manufacturers, distributors, and policy makers can focus their attention.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T15:43:28.264Z

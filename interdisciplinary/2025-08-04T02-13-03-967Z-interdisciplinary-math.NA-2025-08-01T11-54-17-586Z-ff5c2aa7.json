@@ -1,0 +1,12 @@
+# Fast Algorithms for the Multi-dimensional Jacobi Polynomial Transform
+
+**Authors:** James Bremer, Qiyuan Pang, Haizhao Yang
+
+## Summary
+We use the well-known observation that the solutions of Jacobi's differential equation can be represented via non-oscillatory phase and amplitude functions to develop a fast algorithm for computing multi-dimensional Jacobi polynomial transforms. More explicitly, it follows from this observation that the matrix corresponding to the discrete Jacobi transform is the Hadamard product of a numerically low-rank matrix and a multi-dimensional discrete Fourier transform (DFT) matrix. The application of the Hadamard product can be carried out via $O(1)$ fast Fourier transforms (FFTs), resulting in a nearly optimal algorithm to compute the multidimensional Jacobi polynomial transform.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T11:54:17.586Z

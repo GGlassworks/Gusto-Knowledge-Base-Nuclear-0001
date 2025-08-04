@@ -1,0 +1,12 @@
+# A New Subspace Iteration Algorithm for Solving Generalized Eigenvalue Problems
+
+**Authors:** Biyi Wang, Hengbin An, Hehu Xie, Zeyao Mo
+
+## Summary
+It is needed to solve generalized eigenvalue problems (GEP) in many applications, such as the numerical simulation of vibration analysis, quantum mechanics, electronic structure, etc. The subspace iteration is a kind of widely used algorithm to solve eigenvalue problems. To solve the generalized eigenvalue problem, one kind of subspace iteration method, Chebyshev-Davidson algorithm, is proposed recently. In Chebyshev-Davidson algorithm, the Chebyshev polynomial filter technique is incorporated in the subspace iteration. In this paper, based on Chebyshev-Davidson algorithm, a new subspace iteration algorithm is constructed. In the new algorithm, the Chebyshev filter and inexact Rayleigh quotient iteration techniques are combined together to enlarge the subspace in the iteration. Numerical results of a vibration analysis problem show that the number of iteration and computing time of the proposed algorithm is much less than that of the Chebyshev-Davidson algorithm and some typical GEP solution algorithms. Furthermore, the new algorithm is more stable and reliable than the Chebyshev-Davidson algorithm in the numerical results.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T21:11:29.647Z

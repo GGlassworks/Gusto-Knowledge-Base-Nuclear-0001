@@ -1,0 +1,12 @@
+# Stochastic Parareal Algorithm for Stochastic Differential Equations
+
+**Authors:** Huanxin Wang, Junhan Lyu, Zicheng Peng, Min Li
+
+## Summary
+This paper analyzes the SParareal algorithm for stochastic differential equations (SDEs). Compared to the classical Parareal algorithm, the SParareal algorithm accelerates convergence by introducing stochastic perturbations, achieving linear convergence over unbounded time intervals. We first revisit the classical Parareal algorithm and stochastic Parareal algorithm. Then we investigate mean-square stability of the SParareal algorithm based on the stochastic $\theta$-method for SDEs, deriving linear error bounds under four sampling rules. Numerical experiments demonstrate the superiority of the SParareal algorithm in solving both linear and nonlinear SDEs, reducing the number of iterations required compared to the classical Parareal algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T21:11:29.105Z

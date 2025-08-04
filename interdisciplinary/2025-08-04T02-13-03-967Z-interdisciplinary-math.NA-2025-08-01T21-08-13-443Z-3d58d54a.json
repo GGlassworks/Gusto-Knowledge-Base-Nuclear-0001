@@ -1,0 +1,12 @@
+# A variable timestepping algorithm for the unsteady Stokes/Darcy model
+
+**Authors:** Yi Qin, Yanren Hou, Wenlong Pei
+
+## Summary
+This report considers a variable step time discretization algorithm proposed by Dahlquist, Liniger and Nevanlinna and applies the algorithm to the unsteady Stokes/Darcy model. Although long-time forgotten and little explored, the algorithm performs advantages in variable timestep analysis of various fluid flow systems, including the coupled Stokes/Darcy model. The paper proves that the approximate solutions to the unsteady Stokes/Darcy model are unconditionally stable due to the G-stability of the algorithm. Also variable time stepping error analysis follows from the combination of G-stability and consistency of the algorithm. Numerical experiments further verify the theoretical results, demonstrating the accuracy and stability of the algorithm for time-dependent Stokes/Darcy model.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T21:08:13.444Z

@@ -1,0 +1,12 @@
+# Optimal First-Order Algorithms as a Function of Inequalities
+
+**Authors:** Chanwoo Park, Ernest K. Ryu
+
+## Summary
+In this work, we present a novel algorithm design methodology that finds the optimal algorithm as a function of inequalities. Specifically, we restrict convergence analyses of algorithms to use a prespecified subset of inequalities, rather than utilizing all true inequalities, and find the optimal algorithm subject to this restriction. This methodology allows us to design algorithms with certain desired characteristics. As concrete demonstrations of this methodology, we find new state-of-the-art accelerated first-order gradient methods using randomized coordinate updates and backtracking line searches.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T21:12:36.296Z

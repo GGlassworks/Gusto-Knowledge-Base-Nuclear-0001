@@ -1,0 +1,12 @@
+# An optimal algorithm for stochastic strongly-convex optimization
+
+**Authors:** Elad Hazan, Satyen Kale
+
+## Summary
+We consider stochastic convex optimization with a strongly convex (but not necessarily smooth) objective. We give an algorithm which performs only gradient updates with optimal rate of convergence.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T21:06:15.855Z

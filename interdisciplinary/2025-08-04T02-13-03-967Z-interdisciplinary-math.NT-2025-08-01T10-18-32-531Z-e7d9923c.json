@@ -1,0 +1,12 @@
+# Computable Absolutely Normal Numbers and Discrepancies
+
+**Authors:** Adrian-Maria Scheerer
+
+## Summary
+We analyze algorithms that output absolutely normal numbers digit-by-digit with respect to quality of convergence to normality of the output, measured by the discrepancy. We consider explicit variants of algorithms by Sierpinski, by Turing and an adaption of constructive work on normal numbers by Schmidt. There seems to be a trade-off between the complexity of the algorithm and the speed of convergence to normality of the output.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NT
+Collected: 2025-08-01T10:18:32.532Z

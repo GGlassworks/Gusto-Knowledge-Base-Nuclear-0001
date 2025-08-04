@@ -1,0 +1,12 @@
+# On construction of splitting contraction algorithms in a prediction-correction framework for separable convex optimization
+
+**Authors:** Bingsheng He, Xiaoming Yuan
+
+## Summary
+In the past decade, we had developed a series of splitting contraction algorithms for separable convex optimization problems, at the root of the alternating direction method of multipliers. Convergence of these algorithms was studied under specific model-tailored conditions, while these conditions can be conceptually abstracted as two generic conditions when these algorithms are all unified as a prediction-correction framework. In this paper, in turn, we showcase a constructive way for specifying the generic convergence-guaranteeing conditions, via which new splitting contraction algorithms can be generated automatically. It becomes possible to design more application-tailored splitting contraction algorithms by specifying the prediction-correction framework, while proving their convergence is a routine.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T21:09:16.794Z

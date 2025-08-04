@@ -1,0 +1,12 @@
+# A continuous perspective on modeling of shape optimal design problems
+
+**Authors:** Johannes Haubner, Martin Siebenborn, Michael Ulbrich
+
+## Summary
+In this article we consider shape optimization problems as optimal control problems via the method of mappings. Instead of optimizing over a set of admissible shapes a reference domain is introduced and it is optimized over a set of admissible transformations. The focus is on the choice of the set of transformations, which we motivate from a function space perspective. In order to guarantee local injectivity of the admissible transformations we enrich the optimization problem by a nonlinear constraint. The approach requires no parameter tuning for the extension equation and can naturally be combined with geometric constraints on volume and barycenter of the shape. Numerical results for drag minimization of Stokes flow are presented.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T11:53:21.287Z

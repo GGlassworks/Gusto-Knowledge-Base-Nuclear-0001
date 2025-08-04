@@ -1,0 +1,12 @@
+# On digits of Mersenne numbers
+
+**Authors:** Bryce Kerr, László Mérai, Igor E. Shparlinski
+
+## Summary
+Motivated by recently developed interest to the distribution of $q$-ary digits of Mersenne numbers $M_p = 2^p-1$, where $p$ is prime, we estimate rational exponential sums with $M_p$, $p \leq X$, modulo a large power of a fixed odd prime $q$. In turn this immediately implies the normality of strings of $q$-ary digits amongst about $(\log X)^{3/2+o(1)}$ rightmost digits of $M_p$, $p \leq X$. Previous results imply this only for about $(\log X)^{1+o(1)}$ rightmost digits.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:10.865Z

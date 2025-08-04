@@ -1,0 +1,12 @@
+# Deriving the Gradients of Some Popular Optimal Transport Algorithms
+
+**Authors:** Fangzhou Xie
+
+## Summary
+In this note, I review entropy-regularized Monge-Kantorovich problem in Optimal Transport, and derive the gradients of several popular algorithms popular in Computational Optimal Transport, including the Sinkhorn algorithms, Wasserstein Barycenter algorithms, and the Wasserstein Dictionary Learning algorithms.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T21:03:07.082Z

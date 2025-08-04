@@ -1,0 +1,12 @@
+# Convergence Analysis of the Algorithm in "Efficient and Robust Discrete Conformal Equivalence with Boundary"
+
+**Authors:** Denis Zorin
+
+## Summary
+In this note we prove that the version of Newton algorithm with line search we used in [2] converges quadratically.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T21:11:26.383Z

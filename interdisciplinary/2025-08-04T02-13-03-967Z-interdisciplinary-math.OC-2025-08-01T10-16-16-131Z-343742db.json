@@ -1,0 +1,12 @@
+# Low-Latency Digital Downconversion for Control Applications
+
+**Authors:** Olof Troeng, Lawrence Doolittle
+
+## Summary
+The slowly varying complex envelope of sinusoidal signals can be estimated in real-time using digital downconversion. In this paper, we discuss the requirements on digital downconversion for control applications. Two low-latency downconversion filters are compared with respect to performance and implementation aspects.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T10:16:16.131Z

@@ -1,0 +1,12 @@
+# Generalizing Frobenius Inversion to Quaternion Matrices
+
+**Authors:** Qiyuan Chen, J. Uhlmann, Ke Ye
+
+## Summary
+In this paper we derive and analyze an algorithm for inverting quaternion matrices. The algorithm is an analogue of the Frobenius algorithm for the complex matrix inversion. On the theory side, we prove that our algorithm is more efficient that other existing methods. Moreover, our algorithm is optimal in the sense of the least number of complex inversions. On the practice side, our algorithm outperforms existing algorithms on randomly generated matrices. We argue that this algorithm can be used to improve the practical utility of recursive Strassen-type algorithms by providing the fastest possible base case for the recursive decomposition process when applied to quaternion matrices.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T21:11:28.882Z

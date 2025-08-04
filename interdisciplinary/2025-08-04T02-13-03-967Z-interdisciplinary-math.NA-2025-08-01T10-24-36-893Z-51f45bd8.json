@@ -1,0 +1,12 @@
+# Predicting Fracture in the Proximal Humerus using Phase Field Models
+
+**Authors:** L. Hug, G. Dahan, S. Kollmannsberger, E. Rank, Z. Yosibash
+
+## Summary
+Proximal humerus impacted fractures are of clinical concern in the elderly population. Prediction of such fractures by CT-based finite element methods encounters several major obstacles such as heterogeneous mechanical properties and fracture due to compressive strains. We herein propose to investigate a variation of the phase field method (PFM) embedded into the finite cell method (FCM) to simulate impacted humeral fractures in fresh frozen human humeri. The force-strain response, failure loads and the fracture path are compared to experimental observations for validation purposes. The PFM (by means of the regularization parameter $l_0$) is first calibrated by one experiment and thereafter used for the prediction of the mechanical response of two other human fresh frozen humeri. All humeri are fractured at the surgical neck and strains are monitored by Digital Image Correlation (DIC). Experimental strains in the elastic regime are reproduced with good agreement ($R^2 = 0.726$), similarly to the validated finite element method [9]. The failure pattern and fracture evolution at the surgical neck predicted by the PFM mimic extremely well the experimental observations for all three humeri. The maximum relative error in the computed failure loads is $3.8\%$. To the best of our knowledge this is the first method that can predict well the experimental compressive failure pattern as well as the force-strain relationship in proximal humerus fractures.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T10:24:36.894Z

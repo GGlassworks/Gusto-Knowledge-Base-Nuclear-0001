@@ -1,0 +1,12 @@
+# Distribution of Nonzero Digits in a Greedy Sequence of Powers of Two
+
+**Authors:** David Wu
+
+## Summary
+Understanding the distribution of digits in the expansions of perfect powers in different bases is difficult. Rather than consider the asymptotic digit distributions, we consider the base-10 digits of a restricted sequence of powers of two. We apply elementary methods to show that this sequence of powers of two can be constructed to preserve trailing digits while locally maximizing the number of zeroes between nonzero digits. We also provide a heuristic description of the trailing digits of these powers of two.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:08.328Z

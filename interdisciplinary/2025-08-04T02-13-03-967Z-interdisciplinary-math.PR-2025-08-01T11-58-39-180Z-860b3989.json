@@ -1,0 +1,12 @@
+# Nearly Gaussian random variables and application to meteorology
+
+**Authors:** Rui Gonçalves
+
+## Summary
+We consider a nearly Gaussian random variable $X$ (see \cite{Lefebvre}) that, after a power transformation, the variable $X^c$ where $c=\{(2k+1)/(2j+1)\}$, $k,j=\{0,1,\dots\}$, is approximately Gaussian. This transformation is useful to model errors in temperature forecasts.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.PR
+Collected: 2025-08-01T11:58:39.181Z

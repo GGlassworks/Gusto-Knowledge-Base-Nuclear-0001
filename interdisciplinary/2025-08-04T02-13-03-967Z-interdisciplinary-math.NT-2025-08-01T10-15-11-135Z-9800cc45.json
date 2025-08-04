@@ -1,0 +1,12 @@
+# Missing digits points near manifolds
+
+**Authors:** Han Yu
+
+## Summary
+We consider a problem concerning the distribution of points with missing digits coordinates that are close to non-degenerate analytic submanifolds. We show that large enough (to be specified in the paper) sets of points with missing digits coordinates distribute 'equally' around non-degenerate submanifolds. As a consequence, we show that intersecting those missing digits sets with non-degenerate submanifolds always achieve the optimal dimension reduction. On the other hand, we also prove that there is no lack of points with missing digits that are contained in non-degenerate submanifolds. Among the other results, 1. we prove that the pinned distance sets of those missing digits sets contain non-trivial intervals regardless of where the pin is. 2. we prove that for each $\epsilon&gt;0,$ for missing digits sets $K$ with large bases, simple digit sets (to be specified in the paper), and $\dim_{H} K&gt;3/4+\epsilon,$ the arithmetic product sets $K\cdot K$ contains non-trivial intervals.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:11.135Z

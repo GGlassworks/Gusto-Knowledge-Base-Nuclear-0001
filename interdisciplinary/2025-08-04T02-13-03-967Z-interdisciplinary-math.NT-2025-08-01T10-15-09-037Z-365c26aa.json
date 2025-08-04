@@ -1,0 +1,12 @@
+# Consecutive primes which are widely digitally delicate
+
+**Authors:** Michael Filaseta, Jacob Juillerat
+
+## Summary
+We show that for every positive integer $k$, there exist $k$ consecutive primes having the property that if any digit of any one of the primes, including any of the infinitely many leading zero digits, is changed, then that prime becomes composite.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:09.037Z

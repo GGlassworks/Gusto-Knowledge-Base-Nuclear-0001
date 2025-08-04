@@ -1,0 +1,12 @@
+# A Comparison Between Different Formulations for Solving Axisymmetric Time-Harmonic Electromagnetic Wave Problems
+
+**Authors:** Erik Schnaubelt, Nicolas Marsic, Herbert De Gersem
+
+## Summary
+In many time-harmonic electromagnetic wave problems, the considered geometry exhibits an axial symmetry. In this case, by exploiting a Fourier expansion along the azimuthal direction, fully three-dimensional (3D) calculations can be carried out on a two-dimensional (2D) angular cross section of the problem, thus significantly reducing the computational effort. However, the transition from a full 3D problem to a 2D analysis introduces additional difficulties such as, among others, a singularity in the variational formulation. In this work, we compare and discuss different finite element formulations to deal with these obstacles. Particular attention is paid to spurious modes and to the convergence behavior when using high-order elements.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T15:49:11.062Z

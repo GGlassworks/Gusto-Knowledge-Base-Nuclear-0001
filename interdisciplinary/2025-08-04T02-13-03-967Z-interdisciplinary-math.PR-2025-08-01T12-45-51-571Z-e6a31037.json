@@ -1,0 +1,12 @@
+# Fractional Brownian motion with zero Hurst parameter: a rough volatility viewpoint
+
+**Authors:** Eyal Neuman, Mathieu Rosenbaum
+
+## Summary
+Rough volatility models are becoming increasingly popular in quantitative finance. In this framework, one considers that the behavior of the log-volatility process of a financial asset is close to that of a fractional Brownian motion with Hurst parameter around 0.1. Motivated by this, we wish to define a natural and relevant limit for the fractional Brownian motion when $H$ goes to zero. We show that once properly normalized, the fractional Brownian motion converges to a Gaussian random distribution which is very close to a log-correlated random field.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.PR
+Collected: 2025-08-01T12:45:51.572Z

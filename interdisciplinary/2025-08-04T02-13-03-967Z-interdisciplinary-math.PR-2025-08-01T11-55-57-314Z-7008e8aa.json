@@ -1,0 +1,12 @@
+# On the dual representations of Laplace transforms of Markov processes
+
+**Authors:** Alexey Kuznetsov, Yizao Wang
+
+## Summary
+We provide a general framework for dual representations of Laplace transforms of Markov processes. Such representations state that the Laplace transform of a finite-dimensional distribution of a Markov process can be expressed in terms of a Laplace transform involving another Markov process, but with coefficients in the Laplace transform and time indices of the process interchanged. Dual representations of Laplace transforms have been used recently to study open ASEP and to describe stationary measures of the open KPZ equation. Our framework covers both recently discovered examples in the literature and several new ones, involving general L\'evy processes and certain birth-and-death processes.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.PR
+Collected: 2025-08-01T11:55:57.315Z

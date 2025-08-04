@@ -1,0 +1,12 @@
+# Column reduced digital nets
+
+**Authors:** Vishnupriya Anupindi, Peter Kritzer
+
+## Summary
+Digital nets provide an efficient way to generate integration nodes of quasi-Monte Carlo (QMC) rules. For certain applications, as e.g. in Uncertainty Quantification, we are interested in obtaining a speed-up in computing products of a matrix with the vectors corresponding to the nodes of a QMC rule. In the recent paper "The fast reduced QMC matrix-vector product" (J. Comput. Appl. Math. 440, 115642, 2024), a speed up was obtained by using so-called reduced lattices and row reduced digital nets. In this work, we propose a different multiplication algorithm where we exploit the repetitive structure of column reduced digital nets instead of row reduced digital nets. This method has advantages over the previous one, as it facilitates the error analysis when using the integration nodes in a QMC rule. We also provide an upper bound for the quality parameter of column reduced digital nets, and numerical tests to illustrate the efficiency of the new algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T10:18:34.613Z

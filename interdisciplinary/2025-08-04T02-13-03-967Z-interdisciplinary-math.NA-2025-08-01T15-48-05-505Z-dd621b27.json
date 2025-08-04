@@ -1,0 +1,12 @@
+# On torque computation in electric machine simulation by harmonic mortar methods
+
+**Authors:** Herbert Egger, Mané Harutyunyan, Richard Löscher, Melina Merkel, Sebastian Schöps
+
+## Summary
+The use of trigonometric polynomials as Lagrange multipliers in the harmonic mortar method enables an efficient and elegant treatment of relative motion in the stator-rotor coupling of electric machine simulation. Explicit formulas for the torque computation are derived by energetic considerations, and their realization by harmonic mortar finite element and isogemetric analysis discretizations is discussed. Numerical tests are presented to illustrate the theoretical results and demonstrate the potential of harmonic mortar methods for the evaluation of torque ripples.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T15:48:05.506Z

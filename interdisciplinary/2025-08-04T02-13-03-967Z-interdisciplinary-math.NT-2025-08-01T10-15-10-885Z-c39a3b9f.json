@@ -1,0 +1,12 @@
+# Sequences of odd numbers, even numbers and integer squares: gaps in frequency distributions of unit's digits of minor totals
+
+**Authors:** Vladimir L. Gavrikov
+
+## Summary
+In the paper, I consider appearance of unit's digits in minor totals of a few integer sequences. The sequences include the sequence of even integers, sequence of odd integers and Faulhaber polynomial at $p = 2$. Application of difference tables allows predicting of which digits can appear as unit's digits in minor totals of the sequences. Absence of some digits ("gaps" in frequency distributions) depends often on numbering system applied. However, in case of odd numbers' integers the gaps are found under all numbering systems with bases from 3 to 10.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:10.885Z

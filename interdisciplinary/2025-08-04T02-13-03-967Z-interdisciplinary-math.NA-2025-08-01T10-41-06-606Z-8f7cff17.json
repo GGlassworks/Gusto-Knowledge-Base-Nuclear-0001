@@ -1,0 +1,12 @@
+# Several Typical Paradigms of Industrial Big Data Application
+
+**Authors:** Hu Shaolin, Zhang Qinghua, Su Naiquan, Li Xiwu
+
+## Summary
+Industrial big data is an important part of big data family, which has important application value for industrial production scheduling, risk perception, state identification, safety monitoring and quality control, etc. Due to the particularity of the industrial field, some concepts in the existing big data research field are unable to reflect accurately the characteristics of industrial big data, such as what is industrial big data, how to measure industrial big data, how to apply industrial big data, and so on. In order to overcome the limitation that the existing definition of big data is not suitable for industrial big data, this paper intuitively proposes the concept of big data cloud and the 3M (Multi-source, Multi-dimension, Multi-span in time) definition of cloud-based big data. Based on big data cloud and 3M definition, three typical paradigms of industrial big data applications are built, including the fusion calculation paradigm, the model correction paradigm and the information compensation paradigm. These results are helpful for grasping systematically the methods and approaches of industrial big data applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T10:41:06.606Z

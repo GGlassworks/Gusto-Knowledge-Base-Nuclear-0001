@@ -1,0 +1,12 @@
+# Convex Optimization for Big Data
+
+**Authors:** Volkan Cevher, Stephen Becker, Mark Schmidt
+
+## Summary
+This article reviews recent advances in convex optimization algorithms for Big Data, which aim to reduce the computational, storage, and communications bottlenecks. We provide an overview of this emerging field, describe contemporary approximation techniques like first-order methods and randomization for scalability, and survey the important role of parallel and distributed computation. The new Big Data algorithms are based on surprisingly simple principles and attain staggering accelerations even on classical problems.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T10:42:29.333Z

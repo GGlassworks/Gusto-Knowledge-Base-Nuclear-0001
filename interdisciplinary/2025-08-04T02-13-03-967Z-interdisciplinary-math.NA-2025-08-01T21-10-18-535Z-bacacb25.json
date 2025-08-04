@@ -1,0 +1,12 @@
+# GMRES algorithms over 35 years
+
+**Authors:** Qinmeng Zou
+
+## Summary
+This paper is about GMRES algorithms for the solution of nonsingular linear systems. We first consider basic algorithms and study their convergence. We then focus on acceleration strategies and parallel algorithms that are useful for solving challenging systems. We also briefly discuss other problems, such as systems with multiple right-hand sides, shifted systems, and singular systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T21:10:18.538Z

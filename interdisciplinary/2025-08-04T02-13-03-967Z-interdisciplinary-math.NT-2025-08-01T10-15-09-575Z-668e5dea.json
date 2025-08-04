@@ -1,0 +1,12 @@
+# Repeatedly Appending Any Digit to Generate Composite Numbers
+
+**Authors:** Jon Grantham, Witold Jarnicki, John Rickert, Stan Wagon
+
+## Summary
+We investigate the problem of finding integers $k$ such that appending any number of copies of the base-ten digit $d$ to $k$ yields a composite number. In particular, we prove that there exist infinitely many integers coprime to all digits such that repeatedly appending {\it any} digit yields a composite number.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NT
+Collected: 2025-08-01T10:15:09.576Z

@@ -1,0 +1,12 @@
+# A binary deletion channel with a fixed number of deletions
+
+**Authors:** Benjamin Graham
+
+## Summary
+Suppose a binary string x = x_1...x_n is being broadcast repeatedly over a faulty communication channel. Each time, the channel delivers a fixed number m of the digits (m&lt;n) with the lost digits chosen uniformly at random, and the order of the surviving digits preserved. How large does m have to be to reconstruct the message?
+
+
+---
+Category: interdisciplinary
+Subcategory: math.PR
+Collected: 2025-08-01T10:15:11.020Z

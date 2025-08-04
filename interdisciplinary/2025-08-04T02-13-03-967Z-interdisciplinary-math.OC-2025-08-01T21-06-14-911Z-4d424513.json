@@ -1,0 +1,12 @@
+# Bézier Flow: a Surface-wise Gradient Descent Method for Multi-objective Optimization
+
+**Authors:** Akiyoshi Sannai, Yasunari Hikima, Ken Kobayashi, Akinori Tanaka, Naoki Hamada
+
+## Summary
+In this paper, we propose a strategy to construct a multi-objective optimization algorithm from a single-objective optimization algorithm by using the B\'ezier simplex model. Also, we extend the stability of optimization algorithms in the sense of Probability Approximately Correct (PAC) learning and define the PAC stability. We prove that it leads to an upper bound on the generalization with high probability. Furthermore, we show that multi-objective optimization algorithms derived from a gradient descent-based single-objective optimization algorithm are PAC stable. We conducted numerical experiments and demonstrated that our method achieved lower generalization errors than the existing multi-objective optimization algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T21:06:14.912Z

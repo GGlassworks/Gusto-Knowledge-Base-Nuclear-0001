@@ -1,0 +1,12 @@
+# On a reduced digit-by-digit component-by-component construction of lattice point sets
+
+**Authors:** Peter Kritzer, Onyekachi Osisiogu
+
+## Summary
+In this paper, we study an efficient algorithm for constructing point sets underlying quasi-Monte Carlo integration rules for weighted Korobov classes. The algorithm presented is a reduced fast component-by-component digit-by-digit (CBC-DBD) algorithm, which useful for to situations where the weights in the function space show a sufficiently fast decay. The advantage of the algorithm presented here is that the computational effort can be independent of the dimension of the integration problem to be treated if suitable assumptions on the integrand are met. The new reduced CBC-DBD algorithm is designed to work for the construction of lattice point sets, and the corresponding integration rules (so-called lattice rules) can be used to treat functions in different kinds of function spaces. We show that the integration rules constructed by our algorithm satisfy error bounds of almost optimal convergence order. Furthermore, we give details on an efficient implementation such that we obtain a considerable speed-up of a previously known CBC-DBD algorithm that has been studied before. This improvement is illustrated by numerical results.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T10:18:33.618Z

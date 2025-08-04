@@ -1,0 +1,12 @@
+# On the stability of harmonic mortar methods with application to electric machines
+
+**Authors:** Herbert Egger, Mané Harutyunyan, Melina Merkel, Sebastian Schöps
+
+## Summary
+Harmonic stator-rotor coupling offers a promising approach for the interconnection of rotating subsystems in the simulation of electric machines. This paper studies the stability of discretization schemes based on harmonic coupling in the framework of mortar methods for Poisson-like problems. A general criterion is derived that allows to ensure the relevant inf-sup stability condition for a variety of specific discretization approaches, including finite-element methods and isogeometric analysis with harmonic mortar coupling. The validity and sharpness of the theoretical results is demonstrated by numerical tests.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.NA
+Collected: 2025-08-01T15:40:35.157Z

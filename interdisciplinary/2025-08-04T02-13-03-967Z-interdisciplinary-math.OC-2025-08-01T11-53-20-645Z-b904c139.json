@@ -1,0 +1,12 @@
+# Data Compression: Multi-Term Approach
+
+**Authors:** Pablo Soto-Quiros, Anatoli Torokhti
+
+## Summary
+In terms of signal samples, we propose and justify a new rank reduced multi-term transform, abbreviated as MTT, which, under certain conditions, may provide better-associated accuracy than that of known optimal rank reduced transforms. The basic idea is to construct the transform with more parameters to optimize than those in the known optimal transforms. This is realized by the extension of the known transform structures to the form that includes additional terms - the MTT has four matrices to minimize the cost. The MTT structure has also a special transformation that decreases the numerical load. As a result, the MTT performance is improved by the variation of the MTT components.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.OC
+Collected: 2025-08-01T11:53:20.646Z

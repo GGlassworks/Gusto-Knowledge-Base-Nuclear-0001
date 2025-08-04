@@ -1,0 +1,12 @@
+# Monotonicity Preserving Transformations of MOT and SEP
+
+**Authors:** Martin Huesmann, Florian Stebegg
+
+## Summary
+Recently, \cite{BeJu16, BeNuTo16} established that optimizers to the martingale optimal transport problem (MOT) are concentrated on $c$-monotone sets. In this article we characterize monotonicity preserving transformations revealing certain symmetries between optimizers of MOT for different cost functions. Due to the intimate connection of MOT and the Skorokhod embedding problem (SEP) these transformations are also monotonicity preserving and disclose symmetries for certain solutions to the optimal SEP. Furthermore, the SEP picture allows to easily understand the geometry of these transformations once we have established the SEP counterparts to the known solutions of MOT based on the monotonicity principle for SEP which in turn allows to directly read off the structure of the MOT optimizers.
+
+
+---
+Category: interdisciplinary
+Subcategory: math.PR
+Collected: 2025-08-01T11:53:21.579Z
