@@ -1,0 +1,13 @@
+# Why Fuzzy Set Theory is Useful in Data Mining
+
+**Authors:** Eyke Hüllermeier
+
+## Abstract
+<jats:p>In recent years, several extensions of data mining and knowledge discovery methods have been developed on the basis of fuzzy set theory. Corresponding fuzzy data mining methods exhibit some potential advantages over standard methods, notably the following: Since many patterns of interest are inherently vague, fuzzy approaches allow for modeling them in a more adequate way and thus enable the discovery of patterns that would otherwise remain hidden. Related to this, fuzzy methods are often more robust toward a certain amount of variability or noise in the data, a point of critical importance in many practical application fields. This chapter highlights the aforementioned advantages of fuzzy approaches in the context of exemplary data mining methods, but also points out some additional complications that can be caused by fuzzy extensions.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59904-645-7.ch001
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:26:47.639Z

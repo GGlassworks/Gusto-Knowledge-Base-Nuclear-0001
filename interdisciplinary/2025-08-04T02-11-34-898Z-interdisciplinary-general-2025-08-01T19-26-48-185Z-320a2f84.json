@@ -1,0 +1,13 @@
+# Re-Sampling Based Data Mining Using Rough Set Theory
+
+**Authors:** Benjamin Griffiths
+
+## Abstract
+<jats:p>Predictive accuracy, as an estimation of a classifier’s future performance, has been studied for at least seventy years. With the advent of the modern computer era, techniques that may have been previously impractical are now calculable within a reasonable time frame. Within this chapter, three techniques of resampling, namely, leave-one-out, k-fold cross validation and bootstrapping; are investigated as methods of error rate estimation with application to variable precision rough set theory (VPRS). A prototype expert system is utilised to explore the nature of each resampling technique when VPRS is applied to an example dataset. The software produces a series of graphs and descriptive statistics, which are used to illustrate the characteristics of each technique with regards to VPRS, and comparisons are drawn between the results.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59904-252-7.ch013
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:26:48.186Z

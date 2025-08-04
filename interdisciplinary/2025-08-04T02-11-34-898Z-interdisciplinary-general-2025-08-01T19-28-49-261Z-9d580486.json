@@ -1,0 +1,13 @@
+# Multiple Criteria Optimization in Data Mining
+
+**Authors:** Gang Kou, Yi Peng, Yong Shi
+
+## Abstract
+<jats:p>Multiple criteria optimization seeks to simultaneously optimize two or more objective functions under a set of constraints. It has a great variety of applications, ranging from financial management, energy planning, sustainable development, to aircraft design. Data mining is aim at extracting hidden and useful knowledge from large databases. Major contributors of data mining include machine learning, statistics, pattern recognition, algorithms, and database technology (Fayyad, Piatetsky-Shapiro, &amp; Smyth, 1996). In recent years, the multiple criteria optimization research community has actively involved in the field of data mining (See, for example: Yu 1985; Bhattacharyya 2000; Francisci &amp; Collard, 2003; Kou, Liu, Peng, Shi, Wise, &amp; Xu, 2003; Freitas 2004; Shi, Peng, Kou, &amp; Chen, 2005; Kou, Peng, Shi, Wise, &amp; Xu, 2005; Kou, Peng, Shi, &amp; Chen, 2006; Shi, Peng, Kou, &amp; Chen, 2007). Many data mining tasks, such as classification, prediction, clustering, and model selection, can be formulated as multi-criteria optimization problems. Depending upon the nature of problems and the characteristics of datasets, different multi-criteria models can be built. Utilizing methodologies and approaches from mathematical programming, multiple criteria optimization is able to provide effective solutions to large-scale data mining problems. An additional advantage of multi-criteria programming is that it assumes no deterministic relationships between variables (Hand &amp; Henley, 1997). </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-60566-010-3.ch214
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:28:49.261Z

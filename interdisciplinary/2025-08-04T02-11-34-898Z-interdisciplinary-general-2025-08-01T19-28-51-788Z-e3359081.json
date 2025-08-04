@@ -1,0 +1,13 @@
+# Application of Data Mining and Analysis Techniques for Renewable Energy Network Design and Optimization
+
+**Authors:** Tianxing Cai
+
+## Abstract
+<jats:p>Energy supply is characterized by its diversity, including traditional energy, such as fossil fuels, nuclear power, as well as renewable energy, such as solar, hydroelectric, geothermal, biomass, and wind energy. It involves a complex network system composed of energy generation, energy transformation, energy transportation, and energy consumption. The network does provide the great flexibility for energy transformation and transportation; meanwhile, it presents a complex task for conducting agile energy dispatching when extreme events have caused local energy shortages that need to be restored timely. One of the useful methodologies to solve such a problem is data mining and analysis. Their main objective is to take advantage of inherent tolerance of the imprecision and uncertainty to obtain tractability, robustness, and low solution-cost. The applications and developments of data mining and analysis have amazingly evolved in the last two decades. Many of these applications can be found in the field of renewable energy and energy efficiency where data mining and analysis techniques are showing a great potential to solve the problems that arise in this area. In this chapter, data mining and analysis techniques are briefly introduced. Then the implementation procedures are presented to demonstrate the application of curve fitting for renewable energy network design and optimization, which has the capability to handle the restoration during extreme and emergency situations with uncertain parameters. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-4666-6086-1.ch002
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:28:51.790Z

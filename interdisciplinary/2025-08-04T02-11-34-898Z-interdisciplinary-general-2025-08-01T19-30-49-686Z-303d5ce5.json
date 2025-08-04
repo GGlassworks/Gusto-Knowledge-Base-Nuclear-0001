@@ -1,0 +1,13 @@
+# A Study of XML Models for Data Mining
+
+**Authors:** Sangeetha Kutty, Richi Nayak, Tien Tran
+
+## Abstract
+<jats:p>With the increasing number of XML documents in varied domains, it has become essential to identify ways of finding interesting information from these documents. Data mining techniques can be used to derive this interesting information. However, mining of XML documents is impacted by the data model used in data representation due to the semi-structured nature of these documents. In this chapter, we present an overview of the various models of XML documents representations, how these models are used for mining, and some of the issues and challenges inherent in these models. In addition, this chapter also provides some insights into the future data models of XML documents for effectively capturing its two important features, structure and content, for mining.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-61350-356-0.ch001
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:30:49.686Z

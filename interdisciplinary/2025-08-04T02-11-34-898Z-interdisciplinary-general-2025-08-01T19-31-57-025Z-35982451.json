@@ -1,0 +1,13 @@
+# Ontology-Based Construction of Grid Data Mining Workflows
+
+**Authors:** Peter Brezany, Ivan Janciak, A Min Tjoa
+
+## Abstract
+<jats:p>This chapter introduces an ontology-based framework for automated construction of complex interactive data mining workflows as a means of improving productivity of Grid-enabled data exploration systems. The authors first characterize existing manual and automated workflow composition approaches and then present their solution called GridMiner Assistant (GMA), which addresses the whole life cycle of the knowledge discovery process. GMA is specified in the OWL language and is being developed around a novel data mining ontology, which is based on concepts of industry standards like the Predictive Model Markup Language, Cross Industry Standard Process for Data Mining and Java Data Mining API. The ontology introduces basic data mining concepts like data mining elements, tasks, services, etc. In addition, conceptual and implementation architectures of the framework are presented and its application to an example taken from the medical domain is illustrated. The authors hope that the further research and development of this framework can lead to productivity improvements, which can have significant impact on many real-life spheres. For example, it can be a crucial factor in achievement of scientific discoveries, optimal treatment of patients, productive decision making, cutting costs, etc.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59904-618-1.ch010
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:31:57.026Z

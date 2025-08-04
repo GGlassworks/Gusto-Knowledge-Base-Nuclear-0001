@@ -1,0 +1,13 @@
+# Using Dempster-Shafer Theory in Data Mining
+
+**Authors:** Malcolm J. Beynon
+
+## Abstract
+<jats:p>The origins of Dempster-Shafer theory (DST) go back to the work by Dempster (1967) who developed a system of upper and lower probabilities. Following this, his student Shafer (1976), in their book “A Mathematical Theory of Evidence” developed Dempster’s work, including a more thorough explanation of belief functions, a more general term for DST. In summary, it is a methodology for evidential reasoning, manipulating uncertainty and capable of representing partial knowledge (Haenni &amp; Lehmann, 2002; Kulasekere, Premaratne, Dewasurendra, Shyu, &amp; Bauer, 2004; Scotney &amp; McClean, 2003). The perception of DST as a generalisation of Bayesian theory (Shafer &amp; Pearl, 1990), identifies its subjective view, simply, the probability of an event indicates the degree to which someone believes it. This is in contrast to the alternative frequentist view, understood through the “Principle of I sufficient reasoning”, whereby in a situation of ignorance a Bayesian approach is forced to evenly allocate subjective (additive) probabilities over the frame of discernment. See Cobb and Shenoy (2003) for a contemporary comparison between Bayesian and belief function reasoning. The development of DST includes analogies to rough set theory (Wu, Leung, &amp; Zhang, 2002) and its operation within neural and fuzzy environments (Binaghi, Gallo, &amp; Madella, 2000; Yang, Chen, &amp; Wu, 2003). Techniques based around belief decision trees (Elouedi, Mellouli, &amp; Smets, 2001), multi-criteria decision making (Beynon, 2002) and non-paramnteric regression (Petit-Renaud &amp; Denoeux, 2004), utilise DST to allow analysis in the presence of uncertainty and imprecision. This is demonstrated, in this article, with the ‘Classification and Ranking belief Simplex’ (CaRBS) technique for object classification, see Beynon (2005a). </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-60566-010-3.ch307
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:26:47.834Z

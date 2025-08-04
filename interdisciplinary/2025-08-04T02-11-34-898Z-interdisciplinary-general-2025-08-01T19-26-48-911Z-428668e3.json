@@ -1,0 +1,13 @@
+# Routing Attribute Data Mining Based on Rough Set Theory
+
+**Authors:** Yanbing Liu, Menghao Wang, Jong Tang
+
+## Abstract
+<jats:p>QOSPF (Quality of Service Open Shortest Path First) based on QoS routing has been recognized as a missing piece in the evolution of QoS-based services on the Internet. Data mining has emerged as a tool for data analysis, discovery of new information, and autonomous decision making. This article focuses on routing algorithms and their applications for computing QoS routes in OSPF protocol. The proposed approach is based on a data mining approach using rough set theory, for which the attribute-value system about links of networks is created from network topology. Rough set theory offers a knowledge discovery approach toextracting routing decisions from attribute set. The extracted rules then can be used to select significant routing attributes and to make routing selections in routers. A case study is conducted in order to demonstrate that rough set theory is effective in finding the most significant attribute set. It is shown that the algorithm based on data mining and rough set offers a promising approach to the attribute selection problem in Internet routing.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59904-528-3.ch019
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:26:48.911Z

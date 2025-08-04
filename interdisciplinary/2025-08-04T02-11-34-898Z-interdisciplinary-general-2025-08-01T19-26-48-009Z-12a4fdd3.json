@@ -1,0 +1,13 @@
+# Effective Intelligent Data Mining Using Dempster-Shafer Theory
+
+**Authors:** Malcolm J. Beynon
+
+## Abstract
+<jats:p>The efficacy of data mining lies in its ability to identify relationships amongst data. This chapter investigates that constraining this efficacy is the quality of the data analysed, including whether the data is imprecise or in the worst case incomplete. Through the description of Dempster-Shafer theory (DST), a general methodology based on uncertain reasoning, it argues that traditional data mining techniques are not structured to handle such imperfect data, instead requiring the external management of missing values, and so forth. One DST based technique is classification and ranking belief simplex (CaRBS), which allows intelligent data mining through the acceptance of missing values in the data analysed, considering them a factor of ignorance, and not requiring their external management. Results presented here, using CaRBS and a number of simplex plots, show the effect of managing and not managing of imperfect data.</jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59904-252-7.ch011
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:26:48.009Z
