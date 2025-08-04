@@ -1,0 +1,12 @@
+# Knowledge Graphs for Digitized Manuscripts in Jagiellonian Digital Library Application
+
+**Authors:** Jan Ignatowicz, Krzysztof Kutt, Grzegorz J. Nalepa
+
+## Summary
+Digitizing cultural heritage collections has become crucial for preservation of historical artifacts and enhancing their availability to the wider public. Galleries, libraries, archives and museums (GLAM institutions) are actively digitizing their holdings and creates extensive digital collections. Those collections are often enriched with metadata describing items but not exactly their contents. The Jagiellonian Digital Library, standing as a good example of such an effort, offers datasets accessible through protocols like OAI-PMH. Despite these improvements, metadata completeness and standardization continue to pose substantial obstacles, limiting the searchability and potential connections between collections. To deal with these challenges, we explore an integrated methodology of computer vision (CV), artificial intelligence (AI), and semantic web technologies to enrich metadata and construct knowledge graphs for digitized manuscripts and incunabula.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:16:18.983Z

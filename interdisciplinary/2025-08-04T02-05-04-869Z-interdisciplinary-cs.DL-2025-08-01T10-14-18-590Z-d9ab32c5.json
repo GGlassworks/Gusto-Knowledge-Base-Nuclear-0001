@@ -1,0 +1,12 @@
+# A quantitative and qualitative open citation analysis of retracted articles in the humanities
+
+**Authors:** Ivan Heibi, Silvio Peroni
+
+## Summary
+In this article, we show and discuss the results of a quantitative and qualitative analysis of open citations to retracted publications in the humanities domain. Our study was conducted by selecting retracted papers in the humanities domain and marking their main characteristics (e.g., retraction reason). Then, we gathered the citing entities and annotated their basic metadata (e.g., title, venue, subject, etc.) and the characteristics of their in-text citations (e.g., intent, sentiment, etc.). Using these data, we performed a quantitative and qualitative study of retractions in the humanities, presenting descriptive statistics and a topic modeling analysis of the citing entities' abstracts and the in-text citation contexts. As part of our main findings, we noticed that there was no drop in the overall number of citations after the year of retraction, with few entities which have either mentioned the retraction or expressed a negative sentiment toward the cited publication. In addition, on several occasions, we noticed a higher concern/awareness when it was about citing a retracted publication, by the citing entities belonging to the health sciences domain, if compared to the humanities and the social science domains. Philosophy, arts, and history are the humanities areas that showed the higher concern toward the retraction.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:18.590Z

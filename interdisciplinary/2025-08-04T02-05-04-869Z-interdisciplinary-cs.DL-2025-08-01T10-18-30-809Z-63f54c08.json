@@ -1,0 +1,12 @@
+# Diverse Reviewer Suggestion for Extending Conference Program Committees
+
+**Authors:** Christin Katharina Kreutz, Krisztian Balog, Ralf Schenkel
+
+## Summary
+Automated reviewer recommendation for scientific conferences currently relies on the assumption that the program committee has the necessary expertise to handle all submissions. However, topical discrepancies between received submissions and reviewer candidates might lead to unreliable reviews or overburdening of reviewers, and may result in the rejection of high-quality papers. In this work, we present DiveRS, an explainable flow-based reviewer assignment approach, which automatically generates reviewer assignments as well as suggestions for extending the current program committee with new reviewer candidates. Our algorithm focuses on the diversity of the set of reviewers assigned to papers, which has been mostly disregarded in prior work. Specifically, we consider diversity in terms of professional background, location and seniority. Using two real world conference datasets for evaluation, we show that DiveRS improves diversity compared to both real assignments and a state-of-the-art flow-based reviewer assignment approach. Further, based on human assessments by former PC chairs, we find that DiveRS can effectively trade off some of the topical suitability in order to construct more diverse reviewer assignments.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:18:30.810Z

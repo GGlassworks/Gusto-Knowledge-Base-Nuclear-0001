@@ -1,0 +1,12 @@
+# Recommendations for the Technical Infrastructure for Standardized International Rights Statements
+
+**Authors:** Valentine Charles, Esmé Cowles, Karen Estlund, Antoine Isaac, Tom Johnson, M. A. Matienzo, Patrick Peiffer, Richard J. Urban, Maarten Zeinstra
+
+## Summary
+This white paper is the product of a joint Digital Public Library of America (DPLA)-Europeana working group organized to develop minimum rights statement metadata standards for organizations that contribute to DPLA and Europeana. This white paper deals specifically with the technical infrastructure of a common namespace (rightsstatements.org) that hosts the rights statements to be used by (at minimum) the DPLA and Europeana. These recommendations for a common technical infrastructure for rights statements outline a simple, flexible, and extensible framework to host the rights statements at rightsstatements.org. This white paper specifically outlines the management of rights statements as linked open data. The rights statements are published according to Best Practices for Publishing RDF Vocabularies. They are encoded into dereferenceable URIs, express further information encoded in RDF, and link to existing vocabularies and standards. The rights statements adhere to expressions of existing rights vocabularies. Furthermore the paper reviews the publication and implementation to make the rights statements available through human-readable web pages augmented with machine-readable formats.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:21:07.547Z

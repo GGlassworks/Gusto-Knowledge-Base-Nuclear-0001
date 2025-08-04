@@ -1,0 +1,12 @@
+# The Memento Tracer Framework: Balancing Quality and Scalability for Web Archiving
+
+**Authors:** Martin Klein, Harihar Shankar, Lyudmila Balakireva, Herbert Van de Sompel
+
+## Summary
+Web archiving frameworks are commonly assessed by the quality of their archival records and by their ability to operate at scale. The ubiquity of dynamic web content poses a significant challenge for crawler-based solutions such as the Internet Archive that are optimized for scale. Human driven services such as the Webrecorder tool provide high-quality archival captures but are not optimized to operate at scale. We introduce the Memento Tracer framework that aims to balance archival quality and scalability. We outline its concept and architecture and evaluate its archival quality and operation at scale. Our findings indicate quality is on par or better compared against established archiving frameworks and operation at scale comes with a manageable overhead.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:21:01.187Z

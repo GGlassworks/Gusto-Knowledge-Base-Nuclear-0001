@@ -1,0 +1,12 @@
+# MITAO: a tool for enabling scholars in the Humanities to use Topic Modelling in their studies
+
+**Authors:** Ivan Heibi, Silvio Peroni, Luca Pareschi, Paolo Ferri
+
+## Summary
+Automatic text analysis methods, such as Topic Modelling, are gaining much attention in Humanities. However, scholars need to have extensive coding skills to use such methods appropriately. The need of having this technical expertise prevents the broad adoption of these methods in Humanities research. In this paper, to help scholars in the Humanities to use Topic Modelling having no or limited coding skills, we introduce MITAO, a web-based tool that allow the definition of a visual workflow which embeds various automatic text analysis operations and allows one to store and share both the workflow and the results of its execution to other researchers, which enables the reproducibility of the analysis. We present an example of an application of use of Topic Modelling with MITAO using a collection of English abstracts of the articles published in "Umanistica Digitale". The results returned by MITAO are shown with dynamic web-based visualizations, which allowed us to have preliminary insights about the evolution of the topics treated over the time in the articles published in "Umanistica Digitale". All the results along with the defined workflows are published and accessible for further studies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:18.168Z

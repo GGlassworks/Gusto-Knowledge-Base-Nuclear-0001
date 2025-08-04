@@ -1,0 +1,12 @@
+# Network Analysis, Plot Theory: Revisiting French Literature through Character Networks
+
+**Authors:** Newman Chen, Frédérique Mélanie-Becquet, Jean Barré, Thierry Poibeau
+
+## Summary
+Character recognition is a technique that enables the automated extraction of characters from texts, while coreference resolution establishes connections between various mentions of the same character, collectively facilitating the creation of expansive character networks (Moretti, 2011). Together, these technologies make it possible to navigate and analyze large literary corpora, opening new avenues for in-depth exploration and understanding of literature. We have created a system specifically for the French language, based on BookNLP-fr (the French counterpart of BookNLP) and NetworkX (a Python package for the manipulation and visualization of complex networks). This allows us to establish connections between series of literary works based on structural features (such as typical relationships between characters) or specific subgenres (for instance, adventure novels featuring a group of young heroes). In this paper, as an illustration, we show the networks obtained at different stages of the short novel Boule de Suif from Maupassant (a French 19th century novelist). These figures effectively illustrate how the relationships between the characters develop over the course of the story.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:15:08.528Z

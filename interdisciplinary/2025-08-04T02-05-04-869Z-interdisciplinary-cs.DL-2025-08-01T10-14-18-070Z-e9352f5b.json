@@ -1,0 +1,12 @@
+# Permanent Data Encoding (PDE): A Visual Language for Semantic Compression and Knowledge Preservation in 3-Character Units
+
+**Authors:** Yoshiharu Tsuyuki, Xianqi Li, Yuji Kurihara, Kenji Mitsudo
+
+## Summary
+Permanent Data Encoding (PDE) is a visual language framework designed for long-term, human-readable, and electrically independent knowledge preservation. By encoding semantic content into compact 2-3 character alphanumeric codes, paired with public dictionaries and rule-based expansion structures, PDE enables information to be visually interpreted and logically reconstructed without reliance on digital systems. Unlike QR codes or binary data, PDE offers a transparent and self-contained method of encoding meaning. This paper outlines the PDE syntax, dictionary protocol, use cases in disaster resilience and AI integration, and its implications as a cross-generational semantic infrastructure.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:18.070Z

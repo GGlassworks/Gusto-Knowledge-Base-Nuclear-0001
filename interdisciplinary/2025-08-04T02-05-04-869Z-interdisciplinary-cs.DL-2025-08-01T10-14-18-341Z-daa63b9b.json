@@ -1,0 +1,12 @@
+# Mapping the backbone of the Humanities through the eyes of Wikipedia
+
+**Authors:** Daniel Torres-Salinas, Esteban Romero-Frías, Wenceslao Arroyo-Machado
+
+## Summary
+The present study aims to establish a valid method by which to apply the theory of co-citations to Wikipedia article references and, subsequently, to map these relationships between scientific papers. This theory, originally applied to scientific literature, will be transferred to the digital environment of collective knowledge generation. To this end, a dataset containing Wikipedia references collected from Altmetric and Scopus' Journal Metrics journals has been used. The articles have been categorized according to the disciplines and specialties established in the All Science Journal Classification (ASJC). They have also been grouped by journal of publication. A set of articles in the Humanities, comprising 25 555 Wikipedia articles with 41 655 references to 32 245 resources, has been selected. Finally, a descriptive statistical study has been conducted and co-citations have been mapped using networks and indicators of degree and betweenness centrality.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:18.341Z

@@ -1,0 +1,12 @@
+# Coconut Libtool: Bridging Textual Analysis Gaps for Non-Programmers
+
+**Authors:** Faizhal Arif Santosa, Manika Lamba, Crissandra George, J. Stephen Downie
+
+## Summary
+In the era of big and ubiquitous data, professionals and students alike are finding themselves needing to perform a number of textual analysis tasks. Historically, the general lack of statistical expertise and programming skills has stopped many with humanities or social sciences backgrounds from performing and fully benefiting from such analyses. Thus, we introduce Coconut Libtool (www.coconut-libtool.com/), an open-source, web-based application that utilizes state-of-the-art natural language processing (NLP) technologies. Coconut Libtool analyzes text data from customized files and bibliographic databases such as Web of Science, Scopus, and Lens. Users can verify which functions can be performed with the data they have. Coconut Libtool deploys multiple algorithmic NLP techniques at the backend, including topic modeling (LDA, Biterm, and BERTopic algorithms), network graph visualization, keyword lemmatization, and sunburst visualization. Coconut Libtool is the people-first web application designed to be used by professionals, researchers, and students in the information sciences, digital humanities, and computational social sciences domains to promote transparency, reproducibility, accessibility, reciprocity, and responsibility in research practices.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:16:10.182Z

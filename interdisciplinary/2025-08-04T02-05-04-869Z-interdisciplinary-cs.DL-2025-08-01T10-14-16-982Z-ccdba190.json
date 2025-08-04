@@ -1,0 +1,12 @@
+# A digital perspective on the role of a stemma in material-philological transmission studies
+
+**Authors:** Katarzyna Anna Kapitan
+
+## Summary
+Taking its point of departure in the recent developments in the field of digital humanities and the increasing automatisation of scholarly workflows, this study explores the implications of digital approaches to textual traditions for the broader field of textual scholarship. It argues that the relative simplicity of creating computergenerated stemmas allows us to view the stemma codicum as a research tool rather than the final product of our scholarly investigation. Using the Old Norse saga of Hr\'omundur as a case study, this article demonstrates that stemmas can serve as a starting point for exploring textual traditions further. In doing so, they enable us to address research questions that otherwise remain unanswered. The article is accompanied by datasets used to generate stemmas for the Hr\'omundar saga tradition as well as two custom Python scripts. The scripts are designed to convert XML-based textual data, encoded according to the TEI Guidelines, into the input format used for the analysis in the PHYLIP package to generate unrooted trees of relationships between texts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:16.983Z

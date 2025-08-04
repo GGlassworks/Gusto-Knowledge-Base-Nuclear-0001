@@ -1,0 +1,12 @@
+# Analysis of the Usability of Automatically Enriched Cultural Heritage Data
+
+**Authors:** Julien Antoine Raemy, Robert Sanderson
+
+## Summary
+This chapter presents the potential of interoperability and standardised data publication for cultural heritage resources, with a focus on community-driven approaches and web standards for usability. The Linked Open Usable Data (LOUD) design principles, which rely on JSON-LD as lingua franca, serve as the foundation. We begin by exploring the significant advances made by the International Image Interoperability Framework (IIIF) in promoting interoperability for image-based resources. The principles and practices of IIIF have paved the way for Linked Art, which expands the use of linked data by demonstrating how it can easily facilitate the integration and sharing of semantic cultural heritage data across portals and institutions. To provide a practical demonstration of the concepts discussed, the chapter highlights the implementation of LUX, the Yale Collections Discovery platform. LUX serves as a compelling case study for the use of linked data at scale, demonstrating the real-world application of automated enrichment in the cultural heritage domain. Rooted in empirical study, the analysis presented in this chapter delves into the broader context of community practices and semantic interoperability. By examining the collaborative efforts and integration of diverse cultural heritage resources, the research sheds light on the potential benefits and challenges associated with LOUD.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:16:17.831Z

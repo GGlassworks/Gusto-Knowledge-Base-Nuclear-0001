@@ -1,0 +1,12 @@
+# Estimating the quality of academic books from their descriptions with ChatGPT
+
+**Authors:** Mike Thelwall, Andrew Cox
+
+## Summary
+Although indicators based on scholarly citations are widely used to support the evaluation of academic journals, alternatives are needed for scholarly book acquisitions. This article assesses the value of research quality scores from ChatGPT 4o-mini for 9,830 social sciences, arts, and humanities books from 2019 indexed in Scopus, based on their titles and descriptions but not their full texts. Although most books scored the same (3* on a 1* to 4* scale), the citation rates correlate positively but weakly with ChatGPT 4o-mini research quality scores in both the social sciences and the arts and humanities. Part of the reason for the differences was the inclusion of textbooks, short books, and edited collections, all of which tended to be less cited and lower scoring. Some topics also tend to attract many/few citations and/or high/low ChatGPT scores. Descriptions explicitly mentioning theory and/or some methods also associated with higher scores and more citations. Overall, the results provide some evidence that both ChatGPT scores and citation counts are weak indicators of the research quality of books. Whilst not strong enough to support individual book quality judgements, they may help academic librarians seeking to evaluate new book collections, series, or publishers for potential acquisition.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:15:09.414Z

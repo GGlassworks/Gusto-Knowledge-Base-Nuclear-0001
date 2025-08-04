@@ -1,0 +1,12 @@
+# FAST CAT: Collaborative Data Entry and Curation for Semantic Interoperability in Digital Humanities
+
+**Authors:** Pavlos Fafalios, Kostas Petrakis, Georgios Samaritakis, Korina Doerr, Athina Kritsotaki, Yannis Tzitzikas, Martin Doerr
+
+## Summary
+Descriptive and empirical sciences, such as History, are the sciences that collect, observe and describe phenomena in order to explain them and draw interpretative conclusions about influences, driving forces and impacts under given circumstances. Spreadsheet software and relational database management systems are still the dominant tools for quantitative analysis and overall data management in these these sciences, allowing researchers to directly analyse the gathered data and perform scholarly interpretation. However, this current practice has a set of limitations, including the high dependency of the collected data on the initial research hypothesis, usually useless for other research, the lack of representation of the details from which the registered relations are inferred, and the difficulty to revisit the original data sources for verification, corrections or improvements. To cope with these problems, in this paper we present FAST CAT, a collaborative system for assistive data entry and curation in Digital Humanities and similar forms of empirical research. We describe the related challenges, the overall methodology we follow for supporting semantic interoperability, and discuss the use of FAST CAT in the context of a European (ERC) project of Maritime History, called SeaLiT, which examines economic, social and demographic impacts of the introduction of steamboats in the Mediterranean area between the 1850s and the 1920s.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:18.671Z

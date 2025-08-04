@@ -1,0 +1,12 @@
+# Robots Still Outnumber Humans in Web Archives, But Less Than Before
+
+**Authors:** Himarsha R. Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, Michele C. Weigle
+
+## Summary
+To identify robots and humans and analyze their respective access patterns, we used the Internet Archive's (IA) Wayback Machine access logs from 2012 and 2019, as well as Arquivo.pt's (Portuguese Web Archive) access logs from 2019. We identified user sessions in the access logs and classified those sessions as human or robot based on their browsing behavior. To better understand how users navigate through the web archives, we evaluated these sessions to discover user access patterns. Based on the two archives and between the two years of IA access logs (2012 vs. 2019), we present a comparison of detected robots vs. humans and their user access patterns and temporal preferences. The total number of robots detected in IA 2012 is greater than in IA 2019 (21% more in requests and 18% more in sessions). Robots account for 98% of requests (97% of sessions) in Arquivo.pt (2019). We found that the robots are almost entirely limited to "Dip" and "Skim" access patterns in IA 2012, but exhibit all the patterns and their combinations in IA 2019. Both humans and robots show a preference for web pages archived in the near past.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:17.342Z

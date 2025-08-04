@@ -1,0 +1,12 @@
+# Automatic Metadata Extraction Incorporating Visual Features from Scanned Electronic Theses and Dissertations
+
+**Authors:** Muntabir Hasan Choudhury, Himarsha R. Jayanetti, Jian Wu, William A. Ingram, Edward A. Fox
+
+## Summary
+Electronic Theses and Dissertations (ETDs) contain domain knowledge that can be used for many digital library tasks, such as analyzing citation networks and predicting research trends. Automatic metadata extraction is important to build scalable digital library search engines. Most existing methods are designed for born-digital documents, so they often fail to extract metadata from scanned documents such as for ETDs. Traditional sequence tagging methods mainly rely on text-based features. In this paper, we propose a conditional random field (CRF) model that combines text-based and visual features. To verify the robustness of our model, we extended an existing corpus and created a new ground truth corpus consisting of 500 ETD cover pages with human validated metadata. Our experiments show that CRF with visual features outperformed both a heuristic and a CRF model with only text-based features. The proposed model achieved 81.3%-96% F1 measure on seven metadata fields. The data and source code are publicly available on Google Drive (https://tinyurl.com/y8kxzwrp) and a GitHub repository (https://github.com/lamps-lab/ETDMiner/tree/master/etd_crf), respectively.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:18.820Z

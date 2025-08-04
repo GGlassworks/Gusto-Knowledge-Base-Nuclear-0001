@@ -1,0 +1,12 @@
+# Ontology Service Center: a datahub for ontology application
+
+**Authors:** CHEN Tao, SU Rina, ZHANG Yongjuan, YIN Xin, ZHU Rui
+
+## Summary
+With the growth of data-oriented research in humanities, a large number of research datasets have been created and published through web services. However, how to discover, integrate and reuse these distributed heterogeneous research datasets is a challenging task. Ontology is the soul between series digital humanities resources, which provides a good way for people to discover and understand these datasets. With the release of more and more linked open data and knowledge bases, a large number of ontologies have been produced at the same time. These ontologies have different publishing formats, consumption patterns, and interactions ways, which are not conductive to the users understanding of the datasets and the reuse of the ontologies. The Ontology Service Center platform consists of Ontology Query Center and Ontology Validation Center, mainly using linked data and ontology-based technologies. The Ontology Query Center realizes the functions of ontology publishing, querying, data interaction and online browsing, while the Ontology Validation Center can verify the status of using certain ontologies in the linked datasets. The empirical part of the paper uses the Confucius portrait as an example of how OSC can be used in the semantic annotation of images. In a word, the purpose of this paper is to construct the applied ecology of ontology to promote the development of knowledge graphs and the spread of ontology.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:16:12.016Z

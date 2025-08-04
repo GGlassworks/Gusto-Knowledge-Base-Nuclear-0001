@@ -1,0 +1,12 @@
+# Implicit and Explicit Research Quality Score Probabilities from ChatGPT
+
+**Authors:** Mike Thelwall, Yunhan Yang
+
+## Summary
+The large language model (LLM) ChatGPT's quality scores for journal articles correlate more strongly with human judgements than some citation-based indicators in most fields. Averaging multiple ChatGPT scores improves the results, apparently leveraging its internal probability model. To leverage these probabilities, this article tests two novel strategies: requesting percentage likelihoods for scores and extracting the probabilities of alternative tokens in the responses. The probability estimates were then used to calculate weighted average scores. Both strategies were evaluated with five iterations of ChatGPT 4o-mini on 96,800 articles submitted to the UK Research Excellence Framework (REF) 2021, using departmental average REF2021 quality scores as a proxy for article quality. The data was analysed separately for each of the 34 field-based REF Units of Assessment. For the first strategy, explicit requests for tables of score percentage likelihoods substantially decreased the value of the scores (lower correlation with the proxy quality indicator). In contrast, weighed averages of score token probabilities slightly increased the correlation with the quality proxy indicator and these probabilities reasonably accurately reflected ChatGPT's outputs. The token probability approach is therefore the most accurate method for ranking articles by research quality as well as being cheaper than comparable ChatGPT strategies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:21:12.063Z

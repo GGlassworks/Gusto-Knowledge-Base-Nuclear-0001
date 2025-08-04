@@ -1,0 +1,12 @@
+# A map of Digital Humanities research across bibliographic data sources
+
+**Authors:** Gianmarco Spinaci, Giovanni Colavizza, Silvio Peroni
+
+## Summary
+Purpose. This study presents the results of an experiment we performed to measure the coverage of Digital Humanities (DH) publications in mainstream open and proprietary bibliographic data sources, by further highlighting the relations among DH and other disciplines. Methodology. We created a list of DH journals based on manual curation and bibliometric data. We used that list to identify DH publications in the bibliographic data sources under consideration. We used the ERIH-PLUS list of journals to identify Social Sciences and Humanities (SSH) publications. We analysed the citation links they included to understand the relationship between DH publications and SSH and non-SSH fields. Findings. Crossref emerges as the database containing the highest number of DH publications. Citations from and to DH publications show strong connections between DH and research in Computer Science, Linguistics, Psychology, and Pedagogical &amp; Educational Research. Computer Science is responsible for a large part of incoming and outgoing citations to and from DH research, which suggests a reciprocal interest between the two disciplines. Value. This is the first bibliometric study of DH research involving several bibliographic data sources, including open and proprietary databases. Research limitations. The list of DH journals we created might be only partially representative of broader DH research. In addition, some DH publications could have been cut off from the study since we did not consider books and other publications published in proceedings of DH conferences and workshops. Finally, we used a specific time coverage (2000-2018) that could have prevented the inclusion of additional DH publications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:17.250Z

@@ -1,0 +1,12 @@
+# 'Intelligence Studies Network': A human-curated database for indexing resources with open-source tools
+
+**Authors:** Yusuf A. Ozkan
+
+## Summary
+The Intelligence Studies Network is a comprehensive resource database for publications, events, conferences, and calls for papers in the field of intelligence studies. It offers a novel solution for monitoring, indexing, and visualising resources. Sources are automatically monitored and added to a manually curated database, ensuring the relevance of items to intelligence studies. Curated outputs are stored in a group library on Zotero, an open-source reference management tool. The metadata of items in Zotero is enriched with OpenAlex, an open access bibliographic database. Finally, outputs are listed and visualised on a Streamlit app, an open-source Python framework for building apps. This paper aims to explain the Intelligence Studies Network database and provide a detailed guide on data sources and the workflow. This study demonstrates that it is possible to create a specialised academic database by using open source tools.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:21:11.501Z

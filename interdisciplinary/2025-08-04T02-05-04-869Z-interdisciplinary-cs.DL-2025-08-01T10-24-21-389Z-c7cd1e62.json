@@ -1,0 +1,12 @@
+# D2D: Digital Archive to MPEG-21 DIDL
+
+**Authors:** Suchitra Manepalli, Giridhar Manepalli, Michael L. Nelson
+
+## Summary
+Digital Archive to MPEG-21 DIDL (D2D) analyzes the contents of the digital archive and produces an MPEG-21 Digital Item Declaration Language (DIDL) encapsulating the analysis results. DIDL is an extensible XML-based language that aggregates resources and the metadata. We provide a brief report on several analysis techniques applied on the digital archive by the D2D and provide an evaluation of its run-time performance.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:24:21.389Z

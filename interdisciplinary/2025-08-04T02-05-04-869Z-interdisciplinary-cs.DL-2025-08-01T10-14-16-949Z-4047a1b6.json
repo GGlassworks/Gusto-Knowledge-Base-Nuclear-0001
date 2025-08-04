@@ -1,0 +1,12 @@
+# Towards a semantic approach in GLAM Labs: the case of the Data Foundry at the National Library of Scotland
+
+**Authors:** Gustavo Candela
+
+## Summary
+GLAM organisations have been exploring the benefits of publishing their digital collections in a wide variety of forms since the 2000s. Many institutions, and in particular libraries, have adopted the Semantic Web and Linked Data principles to their main catalogues. Recent advances in technology and innovative approaches concerning the reuse of the digital collections by means of computational access have paved the way for the creation of Labs within GLAM organisations. In this work, we present a framework to transform the datasets made available by GLAM organisations under open licenses into LOD. The framework has been applied to three metadata datasets made available by the Data Foundry at the National Library of Scotland. The results of this work are publicly available and can be applied to other domains such as digital humanities and data science.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:16.949Z

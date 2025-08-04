@@ -1,0 +1,12 @@
+# A New Framework for Error Analysis in Computational Paleographic Dating of Greek Papyri
+
+**Authors:** Giuseppe De Gregorio, Lavinia Ferretti, Rodrigo C. G. Pena, Isabelle Marthot-Santaniello, Maria Konstantinidou, John Pavlopoulos
+
+## Summary
+The study of Greek papyri from ancient Egypt is fundamental for understanding Graeco-Roman Antiquity, offering insights into various aspects of ancient culture and textual production. Palaeography, traditionally used for dating these manuscripts, relies on identifying chronologically relevant features in handwriting styles yet lacks a unified methodology, resulting in subjective interpretations and inconsistencies among experts. Recent advances in digital palaeography, which leverage artificial intelligence (AI) algorithms, have introduced new avenues for dating ancient documents. This paper presents a comparative analysis between an AI-based computational dating model and human expert palaeographers, using a novel dataset named Hell-Date comprising securely fine-grained dated Greek papyri from the Hellenistic period. The methodology involves training a convolutional neural network on visual inputs from Hell-Date to predict precise dates of papyri. In addition, experts provide palaeographic dating for comparison. To compare, we developed a new framework for error analysis that reflects the inherent imprecision of the palaeographic dating method. The results indicate that the computational model achieves performance comparable to that of human experts. These elements will help assess on a more solid basis future developments of computational algorithms to date Greek papyri.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:18:22.160Z

@@ -1,0 +1,12 @@
+# Full-Text and URL Search Over Web Archives
+
+**Authors:** Miguel Costa
+
+## Summary
+Web archives are a historically valuable source of information. In some respects, web archives are the only record of the evolution of human society in the last two decades. They preserve a mix of personal and collective memories, the importance of which tends to grow as they age. However, the value of web archives depends on their users being able to search and access the information they require in efficient and effective ways. Without the possibility of exploring and exploiting the archived contents, web archives are useless. Web archive access functionalities range from basic browsing to advanced search and analytical services, accessed through user-friendly interfaces. Full-text and URL search have become the predominant and preferred forms of information discovery in web archives, fulfilling user needs and supporting search APIs that feed complex applications. Both full-text and URL search are based on the technology developed for modern web search engines, since the Web is the main resource targeted by both systems. However, while web search engines enable searching over the most recent web snapshot, web archives enable searching over multiple snapshots from the past. This means that web archives have to deal with a temporal dimension that is the cause of new challenges and opportunities, discussed throughout this chapter.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:16:22.737Z

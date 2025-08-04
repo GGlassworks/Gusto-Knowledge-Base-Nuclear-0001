@@ -1,0 +1,12 @@
+# Leveraging Large Language Models for Realizing Truly Intelligent User Interfaces
+
+**Authors:** Allard Oelen, Sören Auer
+
+## Summary
+The number of published scholarly articles is growing at a significant rate, making scholarly knowledge organization increasingly important. Various approaches have been proposed to organize scholarly information, including describing scholarly knowledge semantically leveraging knowledge graphs. Transforming unstructured knowledge, presented within articles, to structured and semantically represented knowledge generally requires human intelligence and labor since natural language processing methods alone typically do not render sufficient precision and recall for many applications. With the recent developments of Large Language Models (LLMs), it becomes increasingly possible to provide truly intelligent user interfaces guiding humans in the transformation process. We present an approach to integrate non-intrusive LLMs guidance into existing user interfaces. More specifically, we integrate LLM-supported user interface components into an existing scholarly knowledge infrastructure. Additionally, we provide our experiences with LLM integration, detailing best practices and obstacles. Finally, we evaluate the approach using a small-scale user evaluation with domain experts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:16:13.356Z

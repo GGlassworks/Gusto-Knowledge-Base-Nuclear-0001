@@ -1,0 +1,12 @@
+# A Knowledge Producer's View on the Knowledge Commons
+
+**Authors:** Mathilde Noual
+
+## Summary
+Hardin introduced the notorious concept of "tragedy of the commons". Worrying about the consequences of human overpopulation on the planet, he discussed "hard problems": problems with no technical solutions, that can only be addressed by way of an evolving morality. Hardin's tragedy of the commons predicts that the hard problem of human population growth directly implies a hard problem of overuse or pollution of the commons. This paper focuses on the knowledge commons. A technical proposal is presented, based on a JSON schema for structuring pieces of knowledge. This is used to show that even if the knowledge commons satisfies the necessary conditions of the tragedy of the commons, the ensuing problems are not necessarily hard. Some can be made trivial by relying on traditional principles implemented in a technical framework.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:21:03.284Z

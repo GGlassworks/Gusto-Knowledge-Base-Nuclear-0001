@@ -1,0 +1,12 @@
+# SCIRGC: Multi-Granularity Citation Recommendation and Citation Sentence Preference Alignment
+
+**Authors:** Xiangyu Li, Jingqiang Chen
+
+## Summary
+Citations are crucial in scientific research articles as they highlight the connection between the current study and prior work. However, this process is often time-consuming for researchers. In this study, we propose the SciRGC framework, which aims to automatically recommend citation articles and generate citation sentences for citation locations within articles. The framework addresses two key challenges in academic citation generation: 1) how to accurately identify the author's citation intent and find relevant citation papers, and 2) how to generate high-quality citation sentences that align with human preferences. We enhance citation recommendation accuracy in the citation article recommendation module by incorporating citation networks and sentiment intent, and generate reasoning-based citation sentences in the citation sentence generation module by using the original article abstract, local context, citation intent, and recommended articles as inputs. Additionally, we propose a new evaluation metric to fairly assess the quality of generated citation sentences. Through comparisons with baseline models and ablation experiments, the SciRGC framework not only improves the accuracy and relevance of citation recommendations but also ensures the appropriateness of the generated citation sentences in context, providing a valuable tool for interdisciplinary researchers.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:21:03.083Z

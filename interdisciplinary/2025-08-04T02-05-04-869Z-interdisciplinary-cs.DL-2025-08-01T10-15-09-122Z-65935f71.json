@@ -1,0 +1,12 @@
+# Populating the Digital Space for Cultural Heritage with Heritage Digital Twins
+
+**Authors:** Franco Niccolucci, Achille Felicetti, Sorin Hermon
+
+## Summary
+The present paper concerns the design of the semantic infrastructure of the digital space for cultural heritage as envisaged by the European Commission in its recent documents. Due to the complexity of the cultural heritage data and of their intrinsic interrelationships, it is necessary to introduce a novel ontology, yet compliant with existing standards and interoperable with previous platforms used in this context, such as Europeana. The digital space organization must be tailored to the methods and the theory of cultural heritage, briefly summarized in the introduction. The new ontology is based on the Digital Twin concept, i.e. the digital counterpart of cultural heritage assets incorporating all the digital information pertaining to them. This creates a Knowledge Base on the cultural heritage digital space. The paper outlines the main features of the proposed Heritage Digital Twin ontology and provides some examples of application. Future work will include completing the ontology in all its details and testing it in other real cases and with the various sectors of the cultural heritage community.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:15:09.122Z

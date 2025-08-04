@@ -1,0 +1,12 @@
+# Towards an RDF Knowledge Graph of Scholars from Early Modern History
+
+**Authors:** Jennifer Blanke, Thomas Riechert
+
+## Summary
+The use of Semantic Web Technologies supports research in the field of digital humanities. In this paper we focus on the creation of semantic independent online databases such as those of historical prosopography. These databases contain biographical information of historical persons. We focus on this information with an interest in German professorial career patterns from the 16th to the 18th century. In that respect, we describe the process of building an Early Modern Scholarly Career RDF Knowledge Graph from two existing prosopography online databases: the Catalogus Professorum Lipsiensium and the Catalogus Professorum Helmstadiensium. Further, we provide an insight in how to query the information using KBox to answer research questions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:17.024Z

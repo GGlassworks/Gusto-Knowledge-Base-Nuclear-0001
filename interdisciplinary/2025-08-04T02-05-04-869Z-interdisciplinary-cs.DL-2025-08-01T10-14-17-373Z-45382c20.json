@@ -1,0 +1,12 @@
+# Exploring the applicability of Large Language Models to citation context analysis
+
+**Authors:** Kai Nishikawa, Hitoshi Koshiba
+
+## Summary
+Unlike traditional citation analysis -- which assumes that all citations in a paper are equivalent -- citation context analysis considers the contextual information of individual citations. However, citation context analysis requires creating large amounts of data through annotation, which hinders the widespread use of this methodology. This study explored the applicability of Large Language Models (LLMs) -- particularly ChatGPT -- to citation context analysis by comparing LLMs and human annotation results. The results show that the LLMs annotation is as good as or better than the human annotation in terms of consistency but poor in terms of predictive performance. Thus, having LLMs immediately replace human annotators in citation context analysis is inappropriate. However, the annotation results obtained by LLMs can be used as reference information when narrowing the annotation results obtained by multiple human annotators to one, or LLMs can be used as one of the annotators when it is difficult to prepare sufficient human annotators. This study provides basic findings important for the future development of citation context analyses.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:14:17.373Z
