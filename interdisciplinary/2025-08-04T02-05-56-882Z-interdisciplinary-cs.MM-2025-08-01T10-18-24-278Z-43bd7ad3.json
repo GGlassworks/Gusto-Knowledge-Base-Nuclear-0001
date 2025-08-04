@@ -1,0 +1,12 @@
+# A Study of Annotation and Alignment Accuracy for Performance Comparison in Complex Orchestral Music
+
+**Authors:** Thassilo Gadermaier, Gerhard Widmer
+
+## Summary
+Quantitative analysis of commonalities and differences between recorded music performances is an increasingly common task in computational musicology. A typical scenario involves manual annotation of different recordings of the same piece along the time dimension, for comparative analysis of, e.g., the musical tempo, or for mapping other performance-related information between performances. This can be done by manually annotating one reference performance, and then automatically synchronizing other performances, using audio-to-audio alignment algorithms. In this paper we address several questions related to those tasks. First, we analyze different annotations of the same musical piece, quantifying timing deviations between the respective human annotators. A statistical evaluation of the marker time stamps will provide (a) an estimate of the expected timing precision of human annotations and (b) a ground truth for subsequent automatic alignment experiments. We then carry out a systematic evaluation of different audio features for audio-to-audio alignment, quantifying the degree of alignment accuracy that can be achieved, and relate this to the results from the annotation study.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:18:24.278Z

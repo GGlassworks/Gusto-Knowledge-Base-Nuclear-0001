@@ -1,0 +1,12 @@
+# Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms
+
+**Authors:** Minghe Gao, Wendong Bu, Bingchen Miao, Yang Wu, Yunfei Li, Juncheng Li, Siliang Tang, Qi Wu, Yueting Zhuang, Meng Wang
+
+## Summary
+In this paper, we introduce the Generalist Virtual Agent (GVA), an autonomous entity engineered to function across diverse digital platforms and environments, assisting users by executing a variety of tasks. This survey delves into the evolution of GVAs, tracing their progress from early intelligent assistants to contemporary implementations that incorporate large-scale models. We explore both the philosophical underpinnings and practical foundations of GVAs, addressing their developmental challenges and the methodologies currently employed in their design and operation. By presenting a detailed taxonomy of GVA environments, tasks, and capabilities, this paper aims to bridge the theoretical and practical aspects of GVAs, concluding those that operate in environments closely mirroring the real world are more likely to demonstrate human-like intelligence. We discuss potential future directions for GVA research, highlighting the necessity for realistic evaluation metrics and the enhancement of long-sequence decision-making capabilities to advance the field toward more systematic or embodied applications. This work not only synthesizes the existing body of literature but also proposes frameworks for future investigations, contributing significantly to the ongoing development of intelligent systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MA
+Collected: 2025-08-01T10:16:11.207Z

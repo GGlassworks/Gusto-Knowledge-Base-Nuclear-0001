@@ -1,0 +1,12 @@
+# On the impact of VR assessment on the Quality of Experience of Highly Realistic Digital Humans
+
+**Authors:** Irene Viola, Shishir Subramanyam, Jie Li, Pablo Cesar
+
+## Summary
+Fuelled by the increase in popularity of virtual and augmented reality applications, point clouds have emerged as a popular 3D format for acquisition and rendering of digital humans, thanks to their versatility and real-time capabilities. Due to technological constraints and real-time rendering limitations, however, the visual quality of dynamic point cloud contents is seldom evaluated using virtual and augmented reality devices, instead relying on prerecorded videos displayed on conventional 2D screens. In this study, we evaluate how the visual quality of point clouds representing digital humans is affected by compression distortions. In particular, we compare three different viewing conditions based on the degrees of freedom that are granted to the viewer: passive viewing (2DTV), head rotation (3DoF), and rotation and translation (6DoF), to understand how interacting in the virtual space affects the perception of quality. We provide both quantitative and qualitative results of our evaluation involving 78 participants, and we make the data publicly available. To the best of our knowledge, this is the first study evaluating the quality of dynamic point clouds in virtual reality, and comparing it to traditional viewing settings. Results highlight the dependency of visual quality on the content under test, and limitations in the way current data sets are used to evaluate compression solutions. Moreover, influencing factors in quality evaluation in VR, and shortcomings in how point cloud encoding solutions handle visually-lossless compression, are discussed.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:14:17.254Z

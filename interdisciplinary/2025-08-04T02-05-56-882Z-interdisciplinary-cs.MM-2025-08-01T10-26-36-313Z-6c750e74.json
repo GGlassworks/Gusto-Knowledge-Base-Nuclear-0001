@@ -1,0 +1,12 @@
+# User Digital Twin-Driven Video Streaming for Customized Preferences and Adaptive Transcoding
+
+**Authors:** Stephen Jimmy, Kalkidan Berhane, Kevin Muhammad
+
+## Summary
+In the rapidly evolving field of multimedia services, video streaming has become increasingly prevalent, demanding innovative solutions to enhance user experience and system efficiency. This paper introduces a novel approach that integrates user digital twins-a dynamic digital representation of a user's preferences and behaviors-with traditional video streaming systems. We explore the potential of this integration to dynamically adjust video preferences and optimize transcoding processes according to real-time data. The methodology leverages advanced machine learning algorithms to continuously update the user's digital twin, which in turn informs the transcoding service to adapt video parameters for optimal quality and minimal buffering. Experimental results show that our approach not only improves the personalization of content delivery but also significantly enhances the overall efficiency of video streaming services by reducing bandwidth usage and improving video playback quality. The implications of such advancements suggest a shift towards more adaptive, user-centric multimedia services, potentially transforming how video content is consumed and delivered.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:26:36.313Z

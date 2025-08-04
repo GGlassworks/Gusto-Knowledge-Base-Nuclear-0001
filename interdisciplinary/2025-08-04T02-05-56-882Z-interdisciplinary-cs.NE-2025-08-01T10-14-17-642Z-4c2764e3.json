@@ -1,0 +1,12 @@
+# Towards replicated algorithms
+
+**Authors:** Iztok Fister Jr., Iztok Fister
+
+## Summary
+The main deficiency of the algorithms running on digital computers nowadays is their inability to change themselves during the execution. In line with this, the paper introduces the so-called replicated algorithms, inspired by the concept of developing a human brain. Similar to the human brain, where the process of thinking is strongly parallel, replicated algorithms, incorporated into a population, are also capable of replicating themselves and solving problems in parallel. They operate as a model for mapping the known input to a known output. In our preliminary study, these algorithms are built as sequences of arithmetic operators, applied for calculating arithmetic expressions, while their behavior showed that they can operate in the condition of open-ended evolution.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T10:14:17.643Z

@@ -1,0 +1,12 @@
+# DataLearner: A Data Mining and Knowledge Discovery Tool for Android Smartphones and Tablets
+
+**Authors:** Darren Yates, Md Zahidul Islam, Junbin Gao
+
+## Summary
+Smartphones have become the ultimate 'personal' computer, yet despite this, general-purpose data-mining and knowledge discovery tools for mobile devices are surprisingly rare. DataLearner is a new data-mining application designed specifically for Android devices that imports the Weka data-mining engine and augments it with algorithms developed by Charles Sturt University. Moreover, DataLearner can be expanded with additional algorithms. Combined, DataLearner delivers 40 classification, clustering and association rule mining algorithms for model training and evaluation without need for cloud computing resources or network connectivity. It provides the same classification accuracy as PCs and laptops, while doing so with acceptable processing speed and consuming negligible battery life. With its ability to provide easy-to-use data-mining on a phone-size screen, DataLearner is a new portable, self-contained data-mining tool for remote, personalised and learning applications alike. DataLearner features four elements - this paper, the app available on Google Play, the GPL3-licensed source code on GitHub and a short video on YouTube.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T19:39:53.357Z

@@ -1,0 +1,12 @@
+# Empirical Analysis of Nature-Inspired Algorithms for Autism Spectrum Disorder Detection Using 3D Video Dataset
+
+**Authors:** Aneesh Panchal, Kainat Khan, Rahul Katarya
+
+## Summary
+Autism Spectrum Disorder (ASD) is a chronic neurodevelopmental disorder symptoms of which includes repetitive behaviour and lack of social and communication skills. Even though these symptoms can be seen very clearly in social but a large number of individuals with ASD remain undiagnosed. In this paper, we worked on a methodology for the detection of ASD from a 3-dimensional walking video dataset, utilizing supervised machine learning (ML) classification algorithms and nature-inspired optimization algorithms for feature extraction from the dataset. The proposed methodology involves the classification of ASD using a supervised ML classification algorithm and extracting important and relevant features from the dataset using nature-inspired optimization algorithms. We also included the ranking coefficients to find the initial leading particle. This selection of particle significantly reduces the computation time and hence, improves the total efficiency and accuracy for ASD detection. To evaluate the efficiency of the proposed methodology, we deployed various combinationsalgorithms of classification algorithm and nature-inspired algorithms resulting in an outstanding classification accuracy of $100\%$ using the random forest classification algorithm and gravitational search algorithm for feature selection. The application of the proposed methodology with different datasets would enhance the robustness and generalizability of the proposed methodology. Due to high accuracy and less total computation time, the proposed methodology will offer a significant contribution to the medical and academic fields, providing a foundation for future research and advancements in ASD diagnosis.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T21:12:38.069Z

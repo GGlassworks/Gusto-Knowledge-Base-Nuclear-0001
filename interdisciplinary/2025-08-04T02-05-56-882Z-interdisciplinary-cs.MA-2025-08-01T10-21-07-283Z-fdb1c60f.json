@@ -1,0 +1,12 @@
+# A Framework for Monitoring Human Physiological Response during Human Robot Collaborative Task
+
+**Authors:** Celal Savur, Shitij Kumar, Ferat Sahin
+
+## Summary
+In this paper, a framework for monitoring human physiological response during Human-Robot Collaborative (HRC) task is presented. The framework highlights the importance of generation of event markers related to both human and robot, and also synchronization of data collected. This framework enables continuous data collection during an HRC task when changing robot movements as a form of stimuli to invoke a human physiological response. It also presents two case studies based on this framework and a data visualization tool for representation and easy analysis of the collected data during an HRC experiment.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MA
+Collected: 2025-08-01T10:21:07.283Z

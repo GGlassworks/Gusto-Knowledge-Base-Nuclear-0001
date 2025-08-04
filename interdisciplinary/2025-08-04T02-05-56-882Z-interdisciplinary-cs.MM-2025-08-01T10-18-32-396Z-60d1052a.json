@@ -1,0 +1,12 @@
+# An Efficient Digital Watermarking Algorithm Based on DCT and BCH Error Correcting Code
+
+**Authors:** Saeideh Nabipour, Javad Javidan, Majid Khorrami, Jila Azimzadeh
+
+## Summary
+Watermarking is a technique for hiding of data in a medium coverage so that its presence is not detectable by a human eye and is recoverable only by the authorized recipient. Two of the most important features of watermarked image are transparency and robustness which are largely related to the security of watermarking algorithms. In this paper, an image watermarking scheme based on BCH error correction code in Discrete Cosine Transformation (DCT) domain is considered. Before embedding process, the watermark is encoded through BCH coding. Then it is embedded into the Discrete Cosine Transformation (DCT) coefficients of cover image. In order to decrease embedding complexity and speed up the process of finding the best position to insert a watermark signal, lookup table method is utilized. The key features of proposed method include the reduction of time required in the process embedding of information, security and ability to correct the error caused by variety of attacks and destructions as well. Watermarked image robustness has been investigated against different kinds attacks and the simulation results indicate that the proposed algorithm outperforms the existing methods in terms of imperceptibility, robustness and security.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:18:32.397Z

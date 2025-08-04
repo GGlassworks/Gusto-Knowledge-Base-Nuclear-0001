@@ -1,0 +1,12 @@
+# Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey
+
+**Authors:** Sicheng Zhao, Shangfei Wang, Mohammad Soleymani, Dhiraj Joshi, Qiang Ji
+
+## Summary
+The wide popularity of digital photography and social networks has generated a rapidly growing volume of multimedia data (i.e., image, music, and video), resulting in a great demand for managing, retrieving, and understanding these data. Affective computing (AC) of these data can help to understand human behaviors and enable wide applications. In this article, we survey the state-of-the-art AC technologies comprehensively for large-scale heterogeneous multimedia data. We begin this survey by introducing the typical emotion representation models from psychology that are widely employed in AC. We briefly describe the available datasets for evaluating AC algorithms. We then summarize and compare the representative methods on AC of different multimedia types, i.e., images, music, videos, and multimodal data, with the focus on both handcrafted features-based methods and deep learning methods. Finally, we discuss some challenges and future directions for multimedia affective computing.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:16:23.209Z

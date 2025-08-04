@@ -1,0 +1,12 @@
+# TONUS: Neuromorphic human pose estimation for artistic sound co-creation
+
+**Authors:** Jules Lecomte, Konrad Zinner, Michael Neumeier, Axel von Arnim
+
+## Summary
+Human machine interaction is a huge source of inspiration in today's media art and digital design, as machines and humans merge together more and more. Its place in art reflects its growing applications in industry, such as robotics. However, those interactions often remains too technical and machine-driven for people to really engage into. On the artistic side, new technologies are often not explored in their full potential and lag a bit behind, so that state-of-the-art research does not make its way up to museums and exhibitions. Machines should support people's imagination and poetry in a seamless interface to their body or soul. We propose an artistic sound installation featuring neuromorphic body sensing to support a direct yet non intrusive interaction with the visitor with the purpose of creating sound scapes together with the machine. We design a neuromorphic multihead human pose estimation neural sensor that shapes sound scapes and visual output with fine body movement control. In particular, the feature extractor is a spiking neural network tailored for a dedicated neuromorphic chip. The visitor, immersed in a sound atmosphere and a neurally processed representation of themselves that they control, experience the dialogue with a machine that thinks neurally, similarly to them.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T10:14:19.398Z

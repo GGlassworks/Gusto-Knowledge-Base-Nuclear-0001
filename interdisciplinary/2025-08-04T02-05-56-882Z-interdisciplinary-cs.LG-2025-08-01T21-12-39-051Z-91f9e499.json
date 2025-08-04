@@ -1,0 +1,12 @@
+# A new network-base high-level data classification methodology (Quipus) by modeling attribute-attribute interactions
+
+**Authors:** Esteban Wilfredo Vilca Zuñiga, Liang Zhao
+
+## Summary
+High-level classification algorithms focus on the interactions between instances. These produce a new form to evaluate and classify data. In this process, the core is a complex network building methodology. The current methodologies use variations of kNN to produce these graphs. However, these techniques ignore some hidden patterns between attributes and require normalization to be accurate. In this paper, we propose a new methodology for network building based on attribute-attribute interactions that do not require normalization. The current results show us that this approach improves the accuracy of the high-level classification algorithm based on betweenness centrality.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T21:12:39.051Z

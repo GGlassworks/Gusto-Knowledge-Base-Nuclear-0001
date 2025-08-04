@@ -1,0 +1,12 @@
+# Algorithms for Bayesian network modeling and reliability inference of complex multistate systems: Part II-Dependent systems
+
+**Authors:** Xiaohu Zheng, Wen Yao, Xiaoqian Chen
+
+## Summary
+In using the Bayesian network (BN) to construct the complex multistate system's reliability model as described in Part I, the memory storage requirements of the node probability table (NPT) will exceed the random access memory (RAM) of the computer. However, the proposed inference algorithm of Part I is not suitable for the dependent system. This Part II proposes a novel method for BN reliability modeling and analysis to apply the compression idea to the complex multistate dependent system. In this Part II, the dependent nodes and their parent nodes are equivalent to a block, based on which the multistate joint probability inference algorithm is proposed to calculate the joint probability distribution of a block's all nodes. Then, based on the proposed multistate compression algorithm of Part I, the dependent multistate inference algorithm is proposed for the complex multistate dependent system. The use and accuracy of the proposed algorithms are demonstrated in case 1. Finally, the proposed algorithms are applied to the reliability modeling and analysis of the satellite attitude control system. The results show that both Part I and Part II's proposed algorithms make the reliability modeling and analysis of the complex multistate system feasible.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T21:10:20.702Z

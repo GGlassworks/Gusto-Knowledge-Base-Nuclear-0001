@@ -1,0 +1,12 @@
+# RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture
+
+**Authors:** Haofeng Wang, Yilin Guo, Zehao Li, Tong Yue, Yizong Wang, Enci Zhang, Rongqun Lin, Feng Gao, Shiqi Wang, Siwei Ma
+
+## Summary
+The Yellow River is China's mother river and a cradle of human civilization. The ancient Yellow River culture is, moreover, an indispensable part of human art history. To conserve and inherit the ancient Yellow River culture, we designed RiverEcho, a real-time interactive system that responds to voice queries using a large language model and a cultural knowledge dataset, delivering explanations through a talking-head digital human. Specifically, we built a knowledge database focused on the ancient Yellow River culture, including the collection of historical texts and the processing pipeline. Experimental results demonstrate that leveraging Retrieval-Augmented Generation (RAG) on the proposed dataset enhances the response quality of the Large Language Model(LLM), enabling the system to generate more professional and informative responses. Our work not only diversifies the means of promoting Yellow River culture but also provides users with deeper cultural insights.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:14:17.104Z

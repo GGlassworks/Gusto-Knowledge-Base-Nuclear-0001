@@ -1,0 +1,12 @@
+# Multiple reconstruction compression framework based on PNG image
+
+**Authors:** Zhiqing Lu, Zhaoxia Yin, Bin Luo
+
+## Summary
+It is shown that neural networks (NNs) achieve excellent performances in image compression and reconstruction. However, there are still many shortcomings in the practical application, which eventually lead to the loss of neural network image processing ability. Based on this, this paper proposes a joint framework based on neural network and zoom compression. The framework first encodes the incoming PNG or JPEG image information, and then the image is converted into binary input decoder to reconstruct the intermediate state image, next we import the intermediate state image into the zooming compressor and re-pressurize it, and reconstruct the final image. From the experimental results, this method can better process the digital image and suppress the reverse expansion problem, and the compression effect can be improved by 4 to 10 times as much as that of using RNN alone, showing better ability in application. In this paper, the method is transmitted over a digital image, the effect is far better than the existing compression method alone, the Human visual system can not feel the change of the effect.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:16:09.146Z

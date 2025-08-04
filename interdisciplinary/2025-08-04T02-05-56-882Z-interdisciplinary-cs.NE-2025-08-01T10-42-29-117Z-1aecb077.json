@@ -1,0 +1,12 @@
+# Optimization meets Big Data: A survey
+
+**Authors:** Ricardo Di Pasquale, Javier Marenco
+
+## Summary
+This paper reviews recent advances in big data optimization, providing the state-of-art of this emerging field. The main focus in this review are optimization techniques being applied in big data analysis environments. Integer linear programming, coordinate descent methods, alternating direction method of multipliers, simulation optimization and metaheuristics like evolutionary and genetic algorithms, particle swarm optimization, differential evolution, fireworks, bat, firefly and cuckoo search algorithms implementations are reviewed and discussed. The relation between big data optimization and software engineering topics like information work-flow styles, software architectures, and software framework is discussed. Comparative analysis in platforms being used in big data optimization environments are highlighted in order to bring a state-or-art of possible architectures and topologies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NE
+Collected: 2025-08-01T10:42:29.117Z

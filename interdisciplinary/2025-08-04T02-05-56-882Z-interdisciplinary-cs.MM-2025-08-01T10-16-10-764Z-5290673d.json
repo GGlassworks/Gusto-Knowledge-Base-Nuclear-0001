@@ -1,0 +1,12 @@
+# JPEG Image Compression using the Discrete Cosine Transform: An Overview, Applications, and Hardware Implementation
+
+**Authors:** Ahmad Shawahna, Md. Enamul Haque, Alaaeldin Amin
+
+## Summary
+Digital images are becoming large in size containing more information day by day to represent the as is state of the original one due to the availability of high resolution digital cameras, smartphones, and medical tests images. Therefore, we need to come up with some technique to convert these images into smaller size without loosing much information from the actual. There are both lossy and lossless image compression format available and JPEG is one of the popular lossy compression among them. In this paper, we present the architecture and implementation of JPEG compression using VHDL (VHSIC Hardware Description Language) and compare the performance with some contemporary implementation. JPEG compression takes place in five steps with color space conversion, down sampling, discrete cosine transformation (DCT), quantization, and entropy encoding. The five steps cover for the compression purpose only. Additionally, we implement the reverse order in VHDL to get the original image back. We use optimized matrix multiplication and quantization for DCT to achieve better performance. Our experimental results show that significant amount of compression ratio has been achieved with very little change in the images, which is barely noticeable to human eye.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:16:10.764Z

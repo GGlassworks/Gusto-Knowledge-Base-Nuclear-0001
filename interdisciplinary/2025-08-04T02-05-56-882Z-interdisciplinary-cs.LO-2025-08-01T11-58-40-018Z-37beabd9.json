@@ -1,0 +1,12 @@
+# General Automation in Coq through Modular Transformations
+
+**Authors:** Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial
+
+## Summary
+Whereas proof assistants based on Higher-Order Logic benefit from external solvers' automation, those based on Type Theory resist automation and thus require more expertise. Indeed, the latter use a more expressive logic which is further away from first-order logic, the logic of most automatic theorem provers. In this article, we develop a methodology to transform a subset of Coq goals into first-order statements that can be automatically discharged by automatic provers. The general idea is to write modular, pairwise independent transformations and combine them. Each of these eliminates a specific aspect of Coq logic towards first-order logic. As a proof of concept, we apply this methodology to a set of simple but crucial transformations which extend the local context with proven first-order assertions that make Coq definitions and algebraic types explicit. They allow users of Coq to solve non-trivial goals automatically. This methodology paves the way towards the definition and combination of more complex transformations, making Coq more accessible.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LO
+Collected: 2025-08-01T11:58:40.018Z

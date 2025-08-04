@@ -1,0 +1,12 @@
+# A CRISP-DM-based Methodology for Assessing Agent-based Simulation Models using Process Mining
+
+**Authors:** Rob H. Bemthuis, Ruben R. Govers, Amin Asadi
+
+## Summary
+Agent-based simulation (ABS) models are potent tools for analyzing complex systems. However, understanding and validating ABS models can be a significant challenge. To address this challenge, cutting-edge data-driven techniques offer sophisticated capabilities for analyzing the outcomes of ABS models. One such technique is process mining, which encompasses a range of methods for discovering, monitoring, and enhancing processes by extracting knowledge from event logs. However, applying process mining to event logs derived from ABSs is not trivial, and deriving meaningful insights from the resulting process models adds an additional layer of complexity. Although process mining is invaluable in extracting insights from ABS models, there is a lack of comprehensive methodological guidance for its application in ABS evaluation in the research landscape. In this paper, we propose a methodology, based on the CRoss-Industry Standard Process for Data Mining (CRISP-DM) methodology, to assess ABS models using process mining techniques. We incorporate process mining techniques into the stages of the CRISP-DM methodology, facilitating the analysis of ABS model behaviors and their underlying processes. We demonstrate our methodology using an established agent-based model, Schelling model of segregation. Our results show that our proposed methodology can effectively assess ABS models through produced event logs, potentially paving the way for enhanced agent-based model validity and more insightful decision-making.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MA
+Collected: 2025-08-01T19:34:46.703Z

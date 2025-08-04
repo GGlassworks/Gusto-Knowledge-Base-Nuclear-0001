@@ -1,0 +1,12 @@
+# Softmax Optimizations for Intel Xeon Processor-based Platforms
+
+**Authors:** Jacek Czaja, Michal Gallus, Tomasz Patejko, Jian Tang
+
+## Summary
+Softmax is popular normalization method used in machine learning. Deep learning solutions like Transformer or BERT use the softmax function intensively, so it is worthwhile to optimize its performance. This article presents our methodology of optimization and its results applied to softmax. By presenting this methodology, we hope to increase an interest in deep learning optimizations for CPUs. We believe that the optimization process presented here could be transferred to other deep learning frameworks such as TensorFlow or PyTorch.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MS
+Collected: 2025-08-01T11:29:29.253Z

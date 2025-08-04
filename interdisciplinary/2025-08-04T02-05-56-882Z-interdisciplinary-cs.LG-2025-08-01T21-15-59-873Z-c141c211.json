@@ -1,0 +1,12 @@
+# Linear-Time Algorithms for Adaptive Submodular Maximization
+
+**Authors:** Shaojie Tang
+
+## Summary
+In this paper, we develop fast algorithms for two stochastic submodular maximization problems. We start with the well-studied adaptive submodular maximization problem subject to a cardinality constraint. We develop the first linear-time algorithm which achieves a $(1-1/e-\epsilon)$ approximation ratio. Notably, the time complexity of our algorithm is $O(n\log\frac{1}{\epsilon})$ (number of function evaluations) which is independent of the cardinality constraint, where $n$ is the size of the ground set. Then we introduce the concept of fully adaptive submodularity, and develop a linear-time algorithm for maximizing a fully adaptive submoudular function subject to a partition matroid constraint. We show that our algorithm achieves a $\frac{1-1/e-\epsilon}{4-2/e-2\epsilon}$ approximation ratio using only $O(n\log\frac{1}{\epsilon})$ number of function evaluations.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T21:15:59.874Z

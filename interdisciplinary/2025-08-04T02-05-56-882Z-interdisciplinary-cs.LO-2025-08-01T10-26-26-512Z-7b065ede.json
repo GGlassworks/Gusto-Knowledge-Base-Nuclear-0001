@@ -1,0 +1,12 @@
+# Verification of Magnitude and Phase Responses in Fixed-Point Digital Filters
+
+**Authors:** Daniel P. M. de Mello, Mauro L. de Freitas, Lucas C. Cordeiro, Waldir S. S. Junior, Iury V. de Bessa, Eddie B. L. Filho, Laurent Clavier
+
+## Summary
+In the digital signal processing (DSP) area, one of the most important tasks is digital filter design. Currently, this procedure is performed with the aid of computational tools, which generally assume filter coefficients represented with floating-point arithmetic. Nonetheless, during the implementation phase, which is often done in digital signal processors or field programmable gate arrays, the representation of the obtained coefficients can be carried out through integer or fixed-point arithmetic, which often results in unexpected behavior or even unstable filters. The present work addresses this issue and proposes a verification methodology based on the digital-system verifier (DSVerifier), with the goal of checking fixed-point digital filters w.r.t. implementation aspects. In particular, DSVerifier checks whether the number of bits used in coefficient representation will result in a filter with the same features specified during the design phase. Experimental results show that errors regarding frequency response and overflow are likely to be identified with the proposed methodology, which thus improves overall system's reliability.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LO
+Collected: 2025-08-01T10:26:26.512Z

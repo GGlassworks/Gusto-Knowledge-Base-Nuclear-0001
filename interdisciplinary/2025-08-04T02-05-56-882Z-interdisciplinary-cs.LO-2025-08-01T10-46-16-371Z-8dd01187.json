@@ -1,0 +1,12 @@
+# Double Auctions: Formalization and Automated Checkers
+
+**Authors:** Mohit Garg, N. Raja, Suneel Sarswat, Abhishek Kr Singh
+
+## Summary
+Double auctions are widely used in financial markets, such as those for stocks, derivatives, currencies, and commodities, to match demand and supply. Once all buyers and sellers have placed their trade requests, the exchange determines how these requests are to be matched. The two most common objectives for determining the matching are maximizing trade volume at a uniform price and maximizing trade volume through dynamic pricing. Prior research has primarily focused on single-quantity trade requests. In this work, we extend the framework to handle multiple-quantity trade requests and present fully formalized matching algorithms for double auctions, along with their correctness proofs. We establish new uniqueness theorems, enabling automatic detection of violations in exchange systems by comparing their output to that of a verified program. All proofs are formalized in the Coq Proof Assistant, and we extract verified OCaml and Haskell programs that could serve as a resource for exchanges and market regulators. We demonstrate the practical applicability of our work by running the verified program on real market data from an exchange to automatically check for violations in the exchange algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LO
+Collected: 2025-08-01T10:46:16.371Z

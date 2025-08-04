@@ -1,0 +1,12 @@
+# Algorithm 916: computing the Faddeyeva and Voigt functions
+
+**Authors:** Mofreh R. Zaghloul, Ahmed N. Ali
+
+## Summary
+We present a MATLAB function for the numerical evaluation of the Faddeyeva function w(z). The function is based on a newly developed accurate algorithm. In addition to its higher accuracy, the software provides a flexible accuracy vs efficiency trade-off through a controlling parameter that may be used to reduce accuracy and computational time and vice versa. Verification of the flexibility, reliability and superior accuracy of the algorithm is provided through comparison with standard algorithms available in other libraries and software packages.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.NA
+Collected: 2025-08-01T10:52:57.163Z

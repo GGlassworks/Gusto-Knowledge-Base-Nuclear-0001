@@ -1,0 +1,12 @@
+# A Comprehensive Survey on Outlying Aspect Mining Methods
+
+**Authors:** Durgesh Samariya, Jiangang Ma, Sunil Aryal
+
+## Summary
+In recent years, researchers have become increasingly interested in outlying aspect mining. Outlying aspect mining is the task of finding a set of feature(s), where a given data object is different from the rest of the data objects. Remarkably few studies have been designed to address the problem of outlying aspect mining; therefore, little is known about outlying aspect mining approaches and their strengths and weaknesses among researchers. In this work, we have grouped existing outlying aspect mining approaches in three different categories. For each category, we have provided existing work that falls in that category and then provided their strengths and weaknesses in those categories. We also offer time complexity comparison of the current techniques since it is a crucial issue in the real-world scenario. The motive behind this paper is to give a better understanding of the existing outlying aspect mining techniques and how these techniques have been developed.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T19:40:53.683Z

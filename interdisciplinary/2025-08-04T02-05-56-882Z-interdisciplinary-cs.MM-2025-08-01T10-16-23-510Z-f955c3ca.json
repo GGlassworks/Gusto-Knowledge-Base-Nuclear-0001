@@ -1,0 +1,12 @@
+# Blind Robust VideoWatermarking Based on Adaptive Region Selection and Channel Reference
+
+**Authors:** Qinwei Chang, Leichao Huang, Shaoteng Liu, Hualuo Liu, Tianshu Yang, Yexin Wang
+
+## Summary
+Digital watermarking technology has a wide range of applications in video distribution and copyright protection due to its excellent invisibility and convenient traceability. This paper proposes a robust blind watermarking algorithm using adaptive region selection and channel reference. By designing a combinatorial selection algorithm using texture information and feature points, the method realizes automatically selecting stable blocks which can avoid being destroyed during video encoding and complex attacks. In addition, considering human's insensitivity to some specific color components, a channel-referenced watermark embedding method is designed for less impact on video quality. Moreover, compared with other methods' embedding watermark only at low frequencies, our method tends to modify low-frequency coefficients close to mid frequencies, further ensuring stable retention of the watermark information in the video encoding process. Experimental results show that the proposed method achieves excellent video quality and high robustness against geometric attacks, compression, transcoding and camcorder recordings attacks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.MM
+Collected: 2025-08-01T10:16:23.510Z
