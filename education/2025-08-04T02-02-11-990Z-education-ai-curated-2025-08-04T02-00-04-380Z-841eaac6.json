@@ -1,0 +1,13 @@
+# A Survey of Ensemble Learning: Concepts, Algorithms, Applications, and Prospects
+
+**Authors:** Ibomoiye Domor Mienye, Yanxia Sun
+
+## Abstract
+Ensemble learning techniques have achieved state-of-the-art performance in diverse machine learning applications by combining the predictions from two or more base models. This paper presents a concise overview of ensemble learning, covering the three main ensemble methods: bagging, boosting, and stacking, their early development to the recent state-of-the-art algorithms. The study focuses on the widely used ensemble algorithms, including random forest, adaptive boosting (AdaBoost), gradient boosting, extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), and categorical boosting (CatBoost). An attempt is made to concisely cover their mathematical and algorithmic representations, which is lacking in the existing literature and would be beneficial to machine learning researchers and practitioners.
+
+**Source:** https://www.semanticscholar.org/paper/1023f93870ff700c2ce936348a250deae8bd11cf
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-04T02:00:04.380Z
