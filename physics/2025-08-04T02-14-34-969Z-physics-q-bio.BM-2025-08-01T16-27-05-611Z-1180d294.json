@@ -1,0 +1,12 @@
+# Molecular Dynamics Analysis of Biomolecular Systems Including Nucleic Acids
+
+**Authors:** Takeru Kameda, Akinori Awazu, Yuichi Togashi
+
+## Summary
+Along with recent progress in structural biology and genome biology, structural dynamics of molecular systems including nucleic acids has attracted attention in the context of gene regulation. Structure-function relationship is an important topic, where physicochemical properties of nucleotides are important as well as those of amino acids in proteins. Simulation is a useful tool for the analysis of molecular dynamics in detail, complementary to experiments. However, molecular simulation of nucleic acids has less developed than that of proteins yet, partly due to the physical nature of nucleic acids. In this review, we briefly describe the current situation and future directions of the field, hopefully as a guide to collaboration between experiment and computation.
+
+
+---
+Category: physics
+Subcategory: q-bio.BM
+Collected: 2025-08-01T16:27:05.611Z

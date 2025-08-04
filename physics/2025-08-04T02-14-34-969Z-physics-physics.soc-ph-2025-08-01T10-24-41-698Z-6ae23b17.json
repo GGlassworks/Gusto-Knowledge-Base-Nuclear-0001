@@ -1,0 +1,12 @@
+# The emergence of burstiness in temporal networks
+
+**Authors:** Anzhi Sheng, Qi Su, Aming Li, Long Wang, Joshua B. Plotkin
+
+## Summary
+Human social interactions tend to vary in intensity over time, whether they are in person or online. Variable rates of interaction in structured populations can be described by networks with the time-varying activity of links and nodes. One of the key statistics to summarize temporal patterns is the inter-event time (IET), namely the duration between successive pairwise interactions. Empirical studies have found IET distributions that are heavy-tailed (or "bursty"), for temporally varying interaction, both physical and digital. But it is difficult to construct theoretical models of time-varying activity on a network that reproduces the burstiness seen in empirical data. Here we develop a spanning-tree method to construct temporal networks and activity patterns with bursty behavior. Our method ensures a desired target IET distribution of single nodes/links, provided the distribution fulfills a consistency condition, regardless of whether the underlying topology is static or time-varying. We show that this model can reproduce burstiness found in empirical datasets, and so it may serve as a basis for studying dynamic processes in real-world bursty interactions.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T10:24:41.698Z

@@ -1,0 +1,12 @@
+# State-dependent error bound for digital quantum simulation of driven systems
+
+**Authors:** Takuya Hatomura
+
+## Summary
+Digital quantum simulation is a promising application of quantum computers, where quantum dynamics is simulated by using quantum gate operations. Many techniques for decomposing a time-evolution operator of quantum dynamics into simulatable quantum gate operations have been proposed, while these methods cause some errors. To evaluate these errors, we derive a lower bound for overlap between true dynamics and digital simulated dynamics at the final time. Our result enables us to guarantee how obtained digital simulated dynamics is close to unknown true dynamics. We also extend our formalism to error evaluation of digital quantum simulation on noisy quantum computers.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T10:16:18.289Z

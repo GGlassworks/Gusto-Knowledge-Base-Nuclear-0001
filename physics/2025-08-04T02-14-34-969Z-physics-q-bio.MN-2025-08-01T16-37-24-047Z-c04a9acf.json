@@ -1,0 +1,12 @@
+# Landauer in the age of synthetic biology: energy consumption and information processing in biochemical networks
+
+**Authors:** Pankaj Mehta, Alex H. Lang, David J. Schwab
+
+## Summary
+A central goal of synthetic biology is to design sophisticated synthetic cellular circuits that can perform complex computations and information processing tasks in response to specific inputs. The tremendous advances in our ability to understand and manipulate cellular information processing networks raises several fundamental physics questions: How do the molecular components of cellular circuits exploit energy consumption to improve information processing? Can one utilize ideas from thermodynamics to improve the design of synthetic cellular circuits and modules? Here, we summarize recent theoretical work addressing these questions. Energy consumption in cellular circuits serves five basic purposes: (1) increasing specificity, (2) manipulating dynamics, (3) reducing variability, (4) amplifying signal, and (5) erasing memory. We demonstrate these ideas using several simple examples and discuss the implications of these theoretical ideas for the emerging field of synthetic biology. We conclude by discussing how it may be possible to overcome these limitations using "post-translational" synthetic biology that exploits reversible protein modification.
+
+
+---
+Category: physics
+Subcategory: q-bio.MN
+Collected: 2025-08-01T16:37:24.047Z

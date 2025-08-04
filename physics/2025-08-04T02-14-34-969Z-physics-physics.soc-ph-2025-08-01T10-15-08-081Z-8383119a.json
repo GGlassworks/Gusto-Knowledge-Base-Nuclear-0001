@@ -1,0 +1,12 @@
+# Modeling Opinion Toroidal Polarization: Insights from Bounding Confidence Beyond, Distance Matters
+
+**Authors:** Yasuko Kawahata
+
+## Summary
+Deterministic dynamics is a mathematical model used to describe the temporal evolution of a system, generally expressed as dx/dt = F(x), where x represents the system's state, and F(x) determines its dynamics. It is employed to understand long-term system behavior, including opinion formation and polarization in online communities. Opinion dynamics models, like the Katz model and the logistic map, help analyze how individual opinions are influenced within social networks and exhibit chaotic behavior. These models are crucial for studying opinion formation and collective behavior on social media, especially in conjunction with branching theory. For instance, Galam's Ising model applies principles from physics to social sciences, representing individual opinions as "spins" and illustrating how local interactions influence consensus formation. The Bounding Confidence model considers opinions within a confidence interval, showing how opinions converge or polarize. These models effectively analyze opinion dynamics in online communities, aiding in understanding trends and viral phenomena on social media. This research aims to analyze discourse flow and opinion evolution, predicting future trends in online communities and decoding digital-age human interaction dynamics. Combining branching theory with opinion dynamics models enhances our understanding of digital communication. In the modified opinion dynamics model, the weight parameter h for distance introduces distance-based interaction terms. The update equation is adjusted to control interaction strength based on distance, with hij calculated from the distance dij. This customization allows for a more accurate representation of opinion dynamics in specific scenarios, forming the basis for discussions in this paper.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T10:15:08.082Z

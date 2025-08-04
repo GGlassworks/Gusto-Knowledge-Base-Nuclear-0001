@@ -1,0 +1,12 @@
+# OPUS: An Integrated Assessment Model for Satellites and Orbital Debris
+
+**Authors:** Akhil Rao, Mark Moretto, Marcus Holzinger, Daniel Kaffine, Brian Weeden
+
+## Summary
+An increasingly salient public policy challenge is how to manage the growing number of satellites in orbit, including large constellations. Many policy initiatives have been proposed that attempt to address the problem from different angles, but there is a paucity of analytical tools to help policymakers evaluate the efficacy of these different proposals and any potential counterproductive outcomes. To help address this problem, this paper summarizes work done to develop an experimental integrated assessment model -- Orbital Debris Propagators Unified with Economic Systems (OPUS) -- that combines both astrodynamics of the orbital population and economic behavior of space actors. For a given set of parameters, the model first utilizes a given astrodynamic propagator to assess the state of objects in orbit. It then uses a set of user-defined economic and policy parameters -- e.g. launch prices, disposal regulations -- to model how actors will respond to the economic incentives created by a given scenario. For the purposes of testing, the MIT Orbital Capacity Tool (MOCAT) version 4S was used as the primary astrodynamics propagator to simulate the true expected target collision probability ($p_c$) for a given end-of-life (EOL) disposal plan. To demonstrate propagator-agnosticism, a Gaussian mixture probability hypothesis density (GMPHD) filter was also used to simulate $p_c$. We also explore economic policy instruments to improve both sustainability of and economic welfare from orbit use. In doing so, we demonstrate that this hybrid approach can serve as a useful tool for evaluating policy proposals for managing orbital congestion. We also discuss areas where this work can be made more robust and expanded to include additional policy considerations.
+
+
+---
+Category: physics
+Subcategory: physics.space-ph
+Collected: 2025-08-01T20:54:01.609Z

@@ -1,0 +1,12 @@
+# Digital Discovery of a Scientific Concept at the Core of Experimental Quantum Optics
+
+**Authors:** Sören Arlt, Carlos Ruiz-Gonzalez, Mario Krenn
+
+## Summary
+Entanglement is a crucial resource for quantum technologies ranging from quantum communication to quantum-enhanced measurements and computation. Finding experimental setups for these tasks is a conceptual challenge for human scientists due to the counterintuitive behavior of multiparticle interference and the enormously large combinatorial search space. Recently, new possibilities have been opened by artificial discovery where artificial intelligence proposes experimental setups for the creation and manipulation of high-dimensional multi-particle entanglement. While digitally discovered experiments go beyond what has been conceived by human experts, a crucial goal is to understand the underlying concepts which enable these new useful experimental blueprints. Here, we present Halo (Hyperedge Assembly by Linear Optics), a new form of multiphoton quantum interference with surprising properties. Halos were used by our digital discovery framework to solve previously open questions. We -- the human part of this collaboration -- were then able to conceptualize the idea behind the computer discovery and describe them in terms of effective probabilistic multi-photon emitters. We then demonstrate its usefulness as a core of new experiments for highly entangled states, communication in quantum networks, and photonic quantum gates. Our manuscript has two conclusions. First, we introduce and explain the physics of a new practically useful multi-photon interference phenomenon that can readily be realized in advanced setups such as integrated photonic circuits. Second, our manuscript demonstrates how artificial intelligence can act as a source of inspiration for the scientific discoveries of new actionable concepts in physics.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T10:14:17.263Z

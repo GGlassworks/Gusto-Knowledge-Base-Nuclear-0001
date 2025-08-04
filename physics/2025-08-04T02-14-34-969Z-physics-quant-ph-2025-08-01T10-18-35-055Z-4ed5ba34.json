@@ -1,0 +1,12 @@
+# Digitized Counterdiabatic Quantum Algorithms for Logistics Scheduling
+
+**Authors:** Archismita Dalal, Iraitz Montalban, Narendra N. Hegade, Alejandro Gomez Cadavid, Enrique Solano, Abhishek Awasthi, Davide Vodola, Caitlin Jones, Horst Weiss, Gernot Füchsel
+
+## Summary
+We study a job shop scheduling problem for an automatized robot in a high-throughput laboratory and a travelling salesperson problem with recently proposed digitized counterdiabatic quantum optimization (DCQO)algorithms. In DCQO, we find the solution of an optimization problem via an adiabatic quantum dynamics, which is accelerated with counterdiabatic protocols. Thereafter, we digitize the global unitary to encode it in a digital quantum computer. For the job-shop scheduling problem, we aim at finding the optimal schedule for a robot executing a number of tasks under specific constraints, such that the total execution time of the process is minimized. For the traveling salesperson problem, the goal is to find the path that covers all cities and is associated with the shortest traveling distance. We consider both hybrid and pure versions of DCQO algorithms and benchmark the performance against digitized quantum annealing and the quantum approximate optimization algorithm (QAOA). In comparison to QAOA, the DCQO solution is improved by several orders of magnitude in success probability using the same number of two-qubit gates. Moreover, we implement our algorithms on cloud-based superconducting and trapped-ion quantum processors. Our results demonstrate that circuit compression using counterdiabatic protocols is amenable to current NISQ hardware and can solve logistics scheduling problems, where other digital quantum algorithms show insufficient performance.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T10:18:35.056Z

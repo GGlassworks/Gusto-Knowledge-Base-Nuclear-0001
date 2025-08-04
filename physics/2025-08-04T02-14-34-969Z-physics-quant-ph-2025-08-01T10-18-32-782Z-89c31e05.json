@@ -1,0 +1,12 @@
+# Validity condition for high-fidelity Digitized Quantum Annealing
+
+**Authors:** Alan C. Santos
+
+## Summary
+Digitizing an adiabatic evolution is a strategy able to combine the good performance of gate-based quantum processors with the advantages of adiabatic algorithms, providing then a hybrid model for efficient quantum information processing. In this work we develop validity conditions for high fidelity digital adiabatic tasks. To this end, we assume a digitizing process based on the Suzuki-Trotter decomposition, which allows us to introduce a Digitized Adiabatic Theorem. As consequence of this theorem, we show that the performance of such a hybrid model is limited by the fundamental constraints on the adiabatic theorem validity, even in ideal quantum processors. We argue how our approach predicts the existence of intrinsic non-adiabatic errors reported by R. Barends et al., Nature 534, 222 (2016) through an empirical study of digital annealing. In addition, our approach allows us to explain the existence of a scaling of the number of Suzuki-Trotter blocks for the optimal digital circuit with respect to the optimal adiabatic total evolution time, as reported by G. B. Mbeng et al., Phys. Rev. B 100, 224201 (2019) through robust numerical analysis of digital annealing. We illustrate our results through two examples of digitized adiabatic algorithms, namely, the two-qubits exact-cover problem and the three-qubits adiabatic factorization of the number 21.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T10:18:32.783Z

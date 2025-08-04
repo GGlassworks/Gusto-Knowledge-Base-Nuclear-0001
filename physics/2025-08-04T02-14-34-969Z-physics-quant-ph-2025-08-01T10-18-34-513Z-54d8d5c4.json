@@ -1,0 +1,12 @@
+# Mitigating noise in digital and digital-analog quantum computation
+
+**Authors:** Paula García-Molina, Ana Martin, Mikel Garcia de Andoin, Mikel Sanz
+
+## Summary
+Noisy Intermediate-Scale Quantum (NISQ) devices lack error correction, limiting scalability for quantum algorithms. In this context, digital-analog quantum computing (DAQC) offers a more resilient alternative quantum computing paradigm that outperforms digital quantum computation by combining the flexibility of single-qubit gates with the robustness of analog simulations. This work explores the impact of noise on both digital and DAQC paradigms and demonstrates DAQC's effectiveness in error mitigation. We compare the quantum Fourier transform and quantum phase estimation algorithms under a wide range of single and two-qubit noise sources in superconducting processors. DAQC consistently surpasses digital approaches in fidelity, particularly as processor size increases. Moreover, zero-noise extrapolation further enhances DAQC by mitigating decoherence and intrinsic errors, achieving fidelities above 0.95 for 8 qubits, and reducing computation errors to the order of $10^{-3}$. These results establish DAQC as a viable alternative for quantum computing in the NISQ era.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T10:18:34.513Z

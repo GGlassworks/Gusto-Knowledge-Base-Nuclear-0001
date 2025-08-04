@@ -1,0 +1,12 @@
+# A statistical physics analysis of expenditure in the UK
+
+**Authors:** Elvis Oltean, Fedor Kusmartsev
+
+## Summary
+Most papers which explored so far macroeconomic variables took into account income and wealth. Equally important as the previous macroeconomic variables is the expenditure or consumption, which shows the amount of goods and services that a person or a household purchased. Using statistical distributions from Physics, such as Fermi-Dirac and polynomial distributions, we try to fit the data regarding the expenditure distribution divided in deciles of population according to their income (gross and disposable expenditure are taken into account). Using coefficient of determination as theoretical tool in order to assess the degree of success for these distributions, we find that both distributions are really robust in describing the expenditure distribution, regardless the data set or the methodology used to calculate the expenditure values for the deciles of income. This is the first paper to our knowledge which tackles expenditure, especially using a method to describe expenditure such as lower limit on expenditure. This is also relevant since it allows the approach of macroeconomic systems using more variables characterizing their activity, can help in the investigation of living standards and inequality, and points to more theoretical explorations which can be very useful for the Economics and business practice.
+
+
+---
+Category: physics
+Subcategory: q-fin.GN
+Collected: 2025-08-01T20:13:00.609Z

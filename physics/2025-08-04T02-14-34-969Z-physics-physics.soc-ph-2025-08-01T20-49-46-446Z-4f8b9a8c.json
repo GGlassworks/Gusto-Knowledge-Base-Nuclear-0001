@@ -1,0 +1,12 @@
+# Effective Free Energy for Individual Dynamics
+
+**Authors:** Sebastian Grauwin, Dominic Hunt, Eric Bertin, Pablo Jensen
+
+## Summary
+Physics and economics are two disciplines that share the common challenge of linking microscopic and macroscopic behaviors. However, while physics is based on collective dynamics, economics is based on individual choices. This conceptual difference is one of the main obstacles one has to overcome in order to characterize analytically economic models. In this paper, we build both on statistical mechanics and the game theory notion of Potential Function to introduce a rigorous generalization of the physicist's free energy, which includes individual dynamics. Our approach paves the way to analytical treatments of a wide range of socio-economic models and might bring new insights into them. As first examples, we derive solutions for a congestion model and a residential segregation model.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T20:49:46.447Z

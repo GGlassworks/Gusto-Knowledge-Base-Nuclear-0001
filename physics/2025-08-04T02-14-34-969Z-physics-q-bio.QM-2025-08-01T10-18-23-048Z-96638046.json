@@ -1,0 +1,12 @@
+# Digital image processing to detect subtle motion in stony coral
+
+**Authors:** Shuaifeng Li, Liza M. Roger, Lokander Kumar, Nastassja Lewinski, Judith Klein, Alex Gagnon, Hollie M. Putnam, Jinkyu Yang
+
+## Summary
+Coral reef ecosystems support significant biological activities and harbor huge diversity, but they are facing a severe crisis driven by anthropogenic activities and climate change. An important behavioral trait of the coral holobiont is coral motion, which may play an essential role in feeding, competition, reproduction, and thus survival and fitness. Therefore, characterizing coral behavior through motion analysis will aid our understanding of basic biological and physical coral functions. However, tissue motion in the stony scleractinian corals that contribute most to coral reef construction are subtle and may be imperceptible to both the human eye and commonly used imaging techniques. Here we propose and apply a systematic approach to quantify and visualize subtle coral motion across a series of light and dark cycles in the scleractinian coral Montipora capricornis. We use digital image correlation and optical flow techniques to quantify and characterize minute coral motions under different light conditions. In addition, as a visualization tool, motion magnification algorithm magnifies coral motions in different frequencies, which explicitly displays the distinctive dynamic modes of coral movement. We quantified and compared the displacement, strain, optical flow, and mode shape of coral motion under different light conditions. Our approach provides an unprecedented insight into micro-scale coral movement and behavior through macro-scale digital imaging, thus offering a useful empirical toolset for the coral research community.
+
+
+---
+Category: physics
+Subcategory: q-bio.QM
+Collected: 2025-08-01T10:18:23.048Z

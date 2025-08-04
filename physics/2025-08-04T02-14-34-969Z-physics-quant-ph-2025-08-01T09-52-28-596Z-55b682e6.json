@@ -1,0 +1,12 @@
+# Self-Protected Quantum Algorithms Based on Quantum State Tomography
+
+**Authors:** Lian-Ao Wu, Mark S. Byrd
+
+## Summary
+Only a few classes of quantum algorithms are known which provide a speed-up over classical algorithms. However, these and any new quantum algorithms provide important motivation for the development of quantum computers. In this article new quantum algorithms are given which are based on quantum state tomography. These include an algorithm for the calculation of several quantum mechanical expectation values and an algorithm for the determination of polynomial factors. These quantum algorithms are important in their own right. However, it is remarkable that these quantum algorithms are immune to a large class of errors. We describe these algorithms and provide conditions for immunity.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T09:52:28.596Z

@@ -1,0 +1,12 @@
+# Quantum Computation for Pricing the Collateralized Debt Obligations
+
+**Authors:** Hao Tang, Anurag Pal, Lu-Feng Qiao, Tian-Yu Wang, Jun Gao, Xian-Min Jin
+
+## Summary
+Collateralized debt obligation (CDO) has been one of the most commonly used structured financial products and is intensively studied in quantitative finance. By setting the asset pool into different tranches, it effectively works out and redistributes credit risks and returns to meet the risk preferences for different tranche investors. The copula models of various kinds are normally used for pricing CDOs, and the Monte Carlo simulations are required to get their numerical solution. Here we implement two typical CDO models, the single-factor Gaussian copula model and Normal Inverse Gaussian copula model, and by applying the conditional independence approach, we manage to load each model of distribution in quantum circuits. We then apply quantum amplitude estimation as an alternative to Monte Carlo simulation for CDO pricing. We demonstrate the quantum computation results using IBM Qiskit. Our work addresses a useful task in finance instrument pricing, significantly broadening the application scope for quantum computing in finance.
+
+
+---
+Category: physics
+Subcategory: q-fin.RM
+Collected: 2025-08-01T12:52:05.935Z

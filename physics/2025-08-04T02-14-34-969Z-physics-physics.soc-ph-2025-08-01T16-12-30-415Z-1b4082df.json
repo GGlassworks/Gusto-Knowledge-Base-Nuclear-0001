@@ -1,0 +1,12 @@
+# Phase diagram in a one-dimensional civil disorder model
+
+**Authors:** Ignacio Ormazábal, Felipe Urbina, Félix A. Borotto, Hernán F. Astudillo
+
+## Summary
+Epstein's model for a civil disorder is an agent-based model that simulates a social protest process where the central authority uses the police force to dissuade it. The interactions of police officers and citizens produce dynamics that do not yet have any analysis from the sociophysics approach. We present numerical simulations to characterize the properties of the one-dimensional civil disorder model on stationary-state. To do this, we consider interactions on a Moore neighborhood and a random neighborhood with two different visions. We introduce a Potts-like energy function and construct the phase diagram using the agent state concentration. We find order-disorder phases and reveal the principle of minimum grievance as the underlying principle of the model's dynamics. Besides, we identify when the system can reach stable or an instability conditions based on the agents' interactions. Finally, we identified the most relevant role of the police based on their capacity to dissuade a protest and their effect on facilitating a stable scenario.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T16:12:30.415Z

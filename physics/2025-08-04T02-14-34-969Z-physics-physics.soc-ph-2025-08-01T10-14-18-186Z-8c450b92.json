@@ -1,0 +1,12 @@
+# The Detection and effect of social events on Wikipedia data-set for studying human preferences
+
+**Authors:** Julien Assuied, Yérali Gandica
+
+## Summary
+Several studies have used Wikipedia (WP) data-set to analyse worldwide human preferences by languages. However, those studies could suffer from bias related to exceptional social circumstances. Any massive event promoting the exceptional edition of WP can be defined as a source of bias. In this article, we follow a procedure for detecting outliers. Our study is based on $12$ languages and $13$ different categories. Our methodology defines a parameter, which is language-depending instead of being externally fixed. We also study the presence of human cyclic behaviour to evaluate apparent outliers. After our analysis, we found that the outliers in our data set do not significantly affect using the whole Wikipedia-data set as a digital footprint to analyse worldwide human preferences.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T10:14:18.186Z

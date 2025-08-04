@@ -1,0 +1,12 @@
+# A quantum algorithm for greatest common divisor problem
+
+**Authors:** Wen Wang, Xu Jiang, Liang-zhu Mu, Heng Fan
+
+## Summary
+We present a quantum algorithm solving the greatest common divisor (GCD) problem. This quantum algorithm possesses similar computational complexity with classical algorithms, such as the well-known Euclidean algorithm for GCD. This algorithm is an application of the quantum algorithms for the hidden subgroup problems, the same as Shor factoring algorithm. Explicit quantum circuits realized by quantum gates for this quantum algorithm are provided. We also give a computer simulation of this quantum algorithm and present the expected outcomes for the corresponding quantum circuit.
+
+
+---
+Category: physics
+Subcategory: quant-ph
+Collected: 2025-08-01T09:52:28.598Z

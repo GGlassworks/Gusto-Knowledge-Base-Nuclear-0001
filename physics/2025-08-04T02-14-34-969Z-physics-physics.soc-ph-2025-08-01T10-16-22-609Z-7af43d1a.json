@@ -1,0 +1,12 @@
+# Location Data Reveals Disproportionate Disaster Impact Amongst the Poor: A Case Study of the 2017 Puebla Earthquake Using Mobilkit
+
+**Authors:** Takahiro Yabe, Nicholas K W Jones, Nancy Lozano-Gracia, Maham Faisal Khan, Satish V. Ukkusuri, Samuel Fraiberger, Aleister Montfort
+
+## Summary
+Location data obtained from smartphones is increasingly finding use cases in disaster risk management. Where traditionally, CDR has provided the predominant digital footprint for human mobility, GPS data now has immense potential in terms of improved spatiotemporal accuracy, volume, availability, and accessibility. GPS data has already proven invaluable in a range of pre- and post-disaster use cases, such as quantifying displacement, measuring rates of return and recovery, evaluating accessibility to critical resources, planning for resilience. Despite its popularity and potential, however, the use of GPS location data in DRM is still nascent, with several use cases yet to be explored. In this paper, we consider the 2017 Puebla Earthquake in Mexico to (i) validate and expand upon post-disaster analysis applications using GPS data, and (ii) illustrate the use of a new toolkit, Mobilkit, to facilitate scalable, replicable extensions of this work for a wide range of disasters, including earthquakes, typhoons, flooding, and beyond.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T10:16:22.609Z

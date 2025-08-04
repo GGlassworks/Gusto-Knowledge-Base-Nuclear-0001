@@ -1,0 +1,12 @@
+# Improving the Representation of Energy Efficiency in an Energy System Optimization Model
+
+**Authors:** Neha Patankar, Harrison G. Fell, Anderson Rodrigo de Queiroz, John Curtis, Joseph F. DeCarolis
+
+## Summary
+Energy system optimization models (ESOMs) are designed to examine the potential effects of a proposed policy, but often represent energy-efficient technologies and policies in an overly simplified way. Most ESOMs include different end-use technologies with varying efficiencies and select technologies for deployment based solely on least-cost optimization, which drastically oversimplifies consumer decision-making. In this paper, we change the structure of an existing ESOM to model energy efficiency in way that is consistent with microeconomic theory. The resulting model considers the effectiveness of energy-efficient technologies in meeting energy service demands, and their potential to substitute electricity usage by conventional technologies. To test the revised model, we develop a simple hypothetical case and use it to analyze the welfare gain from an energy efficiency subsidy versus a carbon tax policy. In the simple test case, the maximum recovered welfare from an efficiency subsidy is less than 50% of the first-best carbon tax policy.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T20:25:36.636Z

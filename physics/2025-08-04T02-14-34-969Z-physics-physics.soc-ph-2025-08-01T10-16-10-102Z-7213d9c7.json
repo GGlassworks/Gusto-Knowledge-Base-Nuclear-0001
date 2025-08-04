@@ -1,0 +1,12 @@
+# Geometric renormalization unravels self-similarity of the multiscale human connectome
+
+**Authors:** Muhua Zheng, Antoine Allard, Patric Hagmann, Yasser Alemán-Gómez, M. Ángeles Serrano
+
+## Summary
+Structural connectivity in the brain is typically studied by reducing its observation to a single spatial resolution. However, the brain possesses a rich architecture organized over multiple scales linked to one another. We explored the multiscale organization of human connectomes using datasets of healthy subjects reconstructed at five different resolutions. We found that the structure of the human brain remains self-similar when the resolution of observation is progressively decreased by hierarchical coarse-graining of the anatomical regions. Strikingly, a geometric network model, where distances are not Euclidean, predicts the multiscale properties of connectomes, including self-similarity. The model relies on the application of a geometric renormalization protocol which decreases the resolution by coarse-graining and averaging over short similarity distances. Our results suggest that simple organizing principles underlie the multiscale architecture of human structural brain networks, where the same connectivity law dictates short- and long-range connections between different brain regions over many resolutions. The implications are varied and can be substantial for fundamental debates, such as whether the brain is working near a critical point, as well as for applications including advanced tools to simplify the digital reconstruction and simulation of the brain.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T10:16:10.102Z

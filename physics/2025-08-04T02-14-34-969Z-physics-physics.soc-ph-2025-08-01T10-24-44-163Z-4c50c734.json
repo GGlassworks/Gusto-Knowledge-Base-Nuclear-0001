@@ -1,0 +1,12 @@
+# The anatomy of a population-scale social network
+
+**Authors:** Eszter Bokányi, Eelke M. Heemskerk, Frank W. Takes
+
+## Summary
+Large-scale human social network structure is typically inferred from digital trace samples of online social media platforms or mobile communication data. Instead, here we investigate the social network structure of a complete population, where people are connected by high-quality links sourced from administrative registers of family, household, work, school, and next-door neighbors. We examine this multilayer social opportunity structure through three common concepts in network analysis: degree, closure, and distance. Findings present how particular network layers contribute to presumably universal scale-free and small-world properties of networks. Furthermore, we suggest a novel measure of excess closure and apply this in a life-course perspective to show how the social opportunity structure of individuals varies along age, socio-economic status, and education level. Our work provides new entry points to understand individual socio-economic failure and success as well as persistent societal problems of inequality and segregation.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T10:24:44.164Z

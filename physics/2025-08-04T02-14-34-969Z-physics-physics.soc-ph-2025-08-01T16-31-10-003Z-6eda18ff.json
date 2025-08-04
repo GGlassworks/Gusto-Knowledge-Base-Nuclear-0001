@@ -1,0 +1,12 @@
+# Mean Field Analysis of Algorithms for Scale-free Networks in Molecular Biology
+
+**Authors:** S Konini, EJ Janse van Rensburg
+
+## Summary
+The sampling of scale-free networks in Molecular Biology is usually achieved by growing networks from a seed using recursive algorithms with elementary moves which include the addition and deletion of nodes and bonds. These algorithms include the Barabasi-Albert algorithm. Later algorithms, such as the Duplication-Divergence algorithm, the Sol\'e algorithm and the iSite algorithm, were inspired by biological processes underlying the evolution of protein networks, and the networks they produce differ essentially from networks grown by the Barabasi-Albert algorithm. In this paper the mean field analysis of these algorithms is reconsidered, and extended to variant and modified implementations of the algorithms. The degree sequences of scale-free networks decay according to a powerlaw distribution, namely $P(k) \sim k^{-\gamma}$, where $\gamma$ is a scaling exponent. We derive mean field expressions for $\gamma$, and test these by numerical simulations. Generally, good agreement is obtained. We also found that some algorithms do not produce scale-free networks (for example some variant Barabasi-Albert and Sol\'e networks).
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T16:31:10.003Z
