@@ -1,0 +1,12 @@
+# Performance comparison between signal digitizers and low-cost digital oscilloscopes: spectroscopic, pulse shape discrimination and timing capabilities for nuclear detectors
+
+**Authors:** Cristiano L. Fontana, Nicolò Tuccori, Felix E. Pino, Marcello Lunardon, Luca Stevanato, Sandra Moretto
+
+## Summary
+Signal digitizers revolutionized the approach to the electronics readout of radiation detectors in Nuclear Physics. These highly specialized pieces of equipment are designed to acquire the signals that are characteristic of the detectors in nuclear physics experiments. The functions of the several modules that were once needed for signal acquisition, can now be substituted by a single digitizer. As suggested by the name, with such readout modules, signals are first digitized (i.e. the signal waveform is sampled and converted to a digital representation) and then either stored or analyzed on-the-fly. The performances can be comparable or better than the traditional analog counterparts, in terms of energy, time resolution, and acquisition rate. In this work, we investigate the use of general-purpose digital oscilloscopes as signal digitizers for nuclear detectors. In order to have a proper comparison, we employ a distributed data acquisition system (DAQ), that standardizes the interface between the hardware and the on-line data analysis. The signals, from a set of typical radiation detectors, are digitized and analyzed with the very same algorithms in order to avoid biases due to different software analysis. We compare two traditional signal digitizers (CAEN DT5725 and CAEN DT5751) to two low-cost digital oscilloscopes (Digilent Analog Discovery 2, and Red Pitaya STEMLab 125-14), in terms of their capabilities for spectroscopy (energy resolution), time resolution, pulse shape discrimination, and maximum acquisition rate.
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T10:18:28.436Z

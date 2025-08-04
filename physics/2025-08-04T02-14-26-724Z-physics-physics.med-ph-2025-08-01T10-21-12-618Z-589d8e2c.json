@@ -1,0 +1,12 @@
+# Digital twin model of colon electromechanics for manometry prediction of laser tissue soldering
+
+**Authors:** René Thierry Djoumessi, Pietro Lenarda, Alessio Gizzi, Simone Giusti, Pietro Alduini, Marco Paggi
+
+## Summary
+The present study introduces an advanced multi-physics and multi-scale modeling approach to investigate in silico colon motility. We introduce a generalized electromechanical framework, integrating cellular electrophysiology and smooth muscle contractility, thus advancing a first-of-its-kind computational model of laser tissue soldering after incision resection. The proposed theoretical framework comprises three main elements: a microstructural material model describing intestine wall geometry and composition of reinforcing fibers, with four fiber families, two active-conductive and two passive; an electrophysiological model describing the propagation of slow waves, based on a fully-coupled nonlinear phenomenological approach; and a thermodynamical consistent mechanical model describing the hyperelastic energetic contributions ruling tissue equilibrium under diverse loading conditions. The active strain approach was adopted to describe tissue electromechanics by exploiting the multiplicative decomposition of the deformation gradient for each active fiber family and solving the governing equations via a staggered finite element scheme. The computational framework was fine-tuned according to state-of-the-art experimental evidence, and extensive numerical analyses allowed us to compare manometric traces computed via numerical simulations with those obtained clinically in human patients. The model proved capable of reproducing both qualitatively and quantitatively high or low-amplitude propagation contractions. Colon motility after laser tissue soldering demonstrates that material properties and couplings of the deposited tissue are critical to reproducing a physiological muscular contraction, thus restoring a proper peristaltic activity.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:21:12.618Z

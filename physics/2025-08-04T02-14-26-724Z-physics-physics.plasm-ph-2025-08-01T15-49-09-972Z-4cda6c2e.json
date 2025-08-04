@@ -1,0 +1,12 @@
+# Calculation of the Electron Swarm Parameters in He/H2 and Ne/H2 Mixtures
+
+**Authors:** Mohamed Mostefaoui, Djilali Benyoucef
+
+## Summary
+The knowledge of all the electron swarm parameters as a function of the reduced electric field is indispensable for the fluid modeling of electrical discharge at low pressure. In this paper we present the evolution of the swarm parameters as a function of the reduced electric field in the He/H2 and Ne/H2 mixtures. For this we use a BE solver specially designed for this purpose, freely available under the name BOLSIG+, which is more general and easier to use than most other BE available solvers. The solver provides a stable solution state of the BE for the electrons in a uniform electric field, it is based on the conventional two-term approximation. The obtained results are validated through a comparison to experimental swarm parameters already exist in the literature.
+
+
+---
+Category: physics
+Subcategory: physics.plasm-ph
+Collected: 2025-08-01T15:49:09.972Z

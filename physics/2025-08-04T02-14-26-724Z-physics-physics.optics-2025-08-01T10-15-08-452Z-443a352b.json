@@ -1,0 +1,12 @@
+# Optical diffraction tomography using a digital micromirror device for stable measurements of 4-D refractive index tomography of cells
+
+**Authors:** Seungwoo Shin, Kyoohyun Kim, Taeho Kim, Jonghee Yoon, Kihyun Hong, Jinah Park, YongKeun Park
+
+## Summary
+Optical diffraction tomography (ODT) is an interferometric microscopy technique capable of measuring 3-D refractive index (RI) distribution of transparent samples. Multiple 2-D holograms of a sample illuminated with various angles are measured, from which 3-D RI map of the sample is reconstructed via the diffraction theory. ODT has been proved as a powerful tool for the study of biological cells, due to its non-invasiveness, label-free and quantitative imaging capability. Recently, our group has demonstrated that a digital micromirror device (DMD) can be exploited for fast and precise control of illumination beams for ODT. In this work, we systematically study the precision and stability of the ODT system equipped with a DMD and present measurements of 3-D and 4-D RI maps of various types of live cells including human red blood cells, white blood cells, hepatocytes, and HeLa cells. Furthermore, we also demonstrate the effective visualization of 3-D RI maps of live cells utilizing the measured information about the values and gradient of RI tomograms.
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T10:15:08.452Z

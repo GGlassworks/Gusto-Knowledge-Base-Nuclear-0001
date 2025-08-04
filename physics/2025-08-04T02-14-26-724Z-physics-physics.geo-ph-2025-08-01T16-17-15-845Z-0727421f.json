@@ -1,0 +1,12 @@
+# May 11-12 Extreme Space Weather Events Brief and Dose Rate Model Response
+
+**Authors:** Vyacheslav Burov, Kirill Kholodkov, Igor Aleshin
+
+## Summary
+In this brief paper, we analyze space weather events that occurred on May 11 and 12, 2024, from the perspective of an operational space weather center that provides advisories for civil aviation. One of the key metrics monitored by the center is the radiation dose rate at operational flight altitudes. A model implemented by the center provides the dose rate in real time. The model showed that dangerous levels were momentarily exceeded just above the usual 30,000 feet level during the events. This paper highlights differences in models used by various space weather centers, emphasizing the need for harmonization.
+
+
+---
+Category: physics
+Subcategory: physics.geo-ph
+Collected: 2025-08-01T16:17:15.845Z

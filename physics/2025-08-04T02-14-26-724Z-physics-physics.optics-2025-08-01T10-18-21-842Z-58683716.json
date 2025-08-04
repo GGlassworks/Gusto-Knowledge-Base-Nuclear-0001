@@ -1,0 +1,12 @@
+# Low-coherent optical diffraction tomography by angle-scanning illumination
+
+**Authors:** KyeoReh Lee, Seungwoo Shin, Zahid Yaqoob, Peter T. C. So, YongKeun Park
+
+## Summary
+We propose and experimentally demonstrate temporally low-coherent optical diffraction tomography (ODT) based on angle-scanning Mach-Zehnder interferometry. Using a digital micromirror device based on diffractive tilting, we successfully maintain full-field interference of incoherent light during every scan sequence. The ODT reconstruction principles for temporally incoherent illuminations are thoroughly reviewed and developed. Several limitations of incoherent illumination are also discussed, such as the nondispersive assumption, optical sectioning capacity, and illumination angle limitation. Using the proposed setup and reconstruction algorithms, we successfully demonstrate low-coherent ODT imaging of microspheres, human red blood cells, and eukaryotic cells.
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T10:18:21.842Z

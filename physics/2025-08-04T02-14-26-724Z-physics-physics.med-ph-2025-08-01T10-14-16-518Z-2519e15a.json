@@ -1,0 +1,12 @@
+# Digital image correlation and finite element modelling as a method to determine mechanical properties of human soft tissue in vivo
+
+**Authors:** Kevin M. Moerman, Cathy A. Holt, Sam L. Evans, Ciaran K. Simms
+
+## Summary
+The mechanical properties of human soft tissue are crucial for impact biomechanics, rehabilitation engineering and surgical simulation. Validation of these constitutive models using human data remains challenging and often requires the use of non-invasive imaging and inverse finite element (FE) analysis. Post processing data from imaging methods such as tagged magnetic resonance imaging (MRI) can be challenging. Digital Image Correlation (DIC) however is a relatively straightforward imaging method and thus the goal of this study was to assess the use of DIC in combination with FE modelling to determine the bulk material properties of human soft tissue. Indentation experiments were performed on a silicone gel soft tissue phantom. A two camera DIC setup was then used to record the 3D surface deformation. The experiment was then simulated using a FE model.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:16.519Z

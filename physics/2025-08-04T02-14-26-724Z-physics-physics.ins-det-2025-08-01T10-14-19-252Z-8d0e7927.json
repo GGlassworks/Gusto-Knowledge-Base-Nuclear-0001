@@ -1,0 +1,12 @@
+# Metrology for Inductive Charging of Electric Vehicles (MICEV)
+
+**Authors:** M. Zucca, O. Bottauscio, S. Harmon, R. Guilizzoni, F. Schilling, M. Schmidt, P. Ankarson, T. Bergsten, K. Tammi, P. Sainio, J. B. Romero, E. L. Puyal, L. Pichon, F. Freschi, V. Cirimele, P. Bauer, J. Dong, A. Maffucci, S. Ventre, N. Femia, G. Di Capua, N. Kuster, I. Liorni
+
+## Summary
+The European Union funded project MICEV aims at improving the traceability of electrical and magnetic measurement at charging stations and to better assess the safety of this technology with respect to human exposure. The paper describes some limits of the instrumentation used for electrical measurements in the charging stations, and briefly presents two new calibration facilities for magnetic field meters and electric power meters. Modeling approaches for the efficiency and human exposure assessment are proposed. In the latter case, electromagnetic computational codes have been combined with dosimetric computational codes making use of highly detailed human anatomical phantoms in order to establish human exposure modeling real charging stations. Detailed results are presented for light vehicles where, according to our calculations, the concern towards human exposure is limited. Currently, the project has reached half way point (about 18 months) and will end in August 2020.
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T10:14:19.252Z

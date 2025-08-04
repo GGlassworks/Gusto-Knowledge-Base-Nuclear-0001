@@ -1,0 +1,12 @@
+# BoxScore -- A real-time beam-diagnosis program for CAEN digitizer x730 series
+
+**Authors:** T. L. Tang
+
+## Summary
+BoxScore is a real-time beam diagnosis and monitoring program for the CAEN x730 series digitizer that was developed for the ATLAS in-flight facility at Argonne National Laboratory. The CAEN x730 series digitizer, with built-in Digital Pulse Processing for the Pulse-Height-Analysis, can analyze the input signal in real-time using a trapezoidal filter. BoxScore reads the digitizer's buffer directly, builds and saves events to local files, plots filled histograms for particle identification, and outputs the rates of selected isotopes every second. Implementation of BoxScore has shortened the time needed for in-flight beam-tuning and has potential applications for other nuclear physics experiments.
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T10:16:18.264Z

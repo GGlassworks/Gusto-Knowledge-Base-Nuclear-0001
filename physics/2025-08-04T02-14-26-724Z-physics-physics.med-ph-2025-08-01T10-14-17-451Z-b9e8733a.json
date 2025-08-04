@@ -1,0 +1,12 @@
+# Examining the Influence of Digital Phantom Models in Virtual Imaging Trials for Tomographic Breast Imaging
+
+**Authors:** Amar Kavuri, Mini Das
+
+## Summary
+Purpose: Digital phantoms are one of the key components of virtual imaging trials (VITs) that aim to assess and optimize new medical imaging systems and algorithms. However, these phantoms vary in their voxel resolution, appearance, and structural details. This study aims to examine whether and how variations between digital phantoms influence system optimization with digital breast tomosynthesis (DBT) as a chosen modality. Methods: We selected widely used and open-access digital breast phantoms generated with different methods. For each phantom type, we created an ensemble of DBT images to test acquisition strategies. Human observer localization ROC (LROC) was used to assess observer performance studies for each case. Noise power spectrum (NPS) was estimated to compare the phantom structural components. Further, we computed several gaze metrics to quantify the gaze pattern when viewing images generated from different phantom types. Results: Our LROC results show that the arc samplings for peak performance were approximately 2.5 degrees and 6 degrees in Bakic and XCAT breast phantoms respectively for 3-mm lesion detection tasks and indicate that system optimization outcomes from VITs can vary with phantom types and structural frequency components. Additionally, a significant correlation (p= 0.01) between gaze metrics and diagnostic performance suggests that gaze analysis can be used to understand and evaluate task difficulty in VITs.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:17.451Z

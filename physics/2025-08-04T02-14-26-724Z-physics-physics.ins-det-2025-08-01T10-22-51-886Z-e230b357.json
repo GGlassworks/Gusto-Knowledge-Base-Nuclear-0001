@@ -1,0 +1,12 @@
+# Digital signal processing for a thermal neutron detector using ZnS(Ag):6LiF scintillating layers read out with WLS fibers and SiPMs
+
+**Authors:** J. -B. Mosset, A. Stoykov, U. Greuter, M. Hildebrandt, N. Schlumpf
+
+## Summary
+We present a digital signal processing system based on a photon counting approach which we developed for a thermal neutron detector consisting of ZnS(Ag):6LiF scintillating layers read out with WLS fibers and SiPMs. Three digital filters have been evaluated: a moving sum, a moving sum after differentiation and a digital CR-RC^4 filter. The performances of the detector with these filters are presented. A full analog signal processing using a CR-RC^4 filter has been emulated digitally. The detector performance obtained with this analog approach is compared with the one obtained with the best performing digital approach.
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T10:22:51.886Z

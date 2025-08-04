@@ -1,0 +1,12 @@
+# The impact of homophily on digital proximity tracing
+
+**Authors:** Giulio Burgio, Benjamin Steinegger, Giacomo Rapisardi, Alex Arenas
+
+## Summary
+We study how homophily of human physical interactions affects the efficacy of digital proximity tracing. Analytical results show a non monotonous dependence of the reproduction number with respect to the mixing rate between individuals that adopt the contact tracing app and the ones that do not. Furthermore, we find regimes in which the attack rate has local optima, minima or monotonously varies with the mixing rate. We corroborate our findings with Monte Carlo simulations on a primary-school network. This study provides a mathematical basis to better understand how homophily in health behavior shapes the dynamics of epidemics.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T10:14:17.015Z

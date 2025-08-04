@@ -1,0 +1,12 @@
+# Photoacoustic Digital Skin: Generation and Simulation of Human Skin Vascular for Quantitative Image Analysis
+
+**Authors:** Tengbo Lyu, Changchun Yang, Jiadong Zhang, Shanshan Guo, Feng Gao, Fei Gao
+
+## Summary
+Photoacoustic computed tomography (PACT) is a hybrid imaging modality, which combines the high optical contrast of pure optical imaging and the high penetration depth of ultrasound imaging. However, photoacoustic image dataset with good quality and large quantity is lacking. In this paper, we mainly talk about how to generate a practical photoacoustic dataset. Firstly, we extracted 389 3D vessel volumes from CT whole-lung scan database, and enhanced the blood vessel structures. Then for each 3D vessel volume, we embedded it into a three-layer cubic phantom to formulate a skin tissue model, which includes epidermis, dermis, and hypodermis. The vessel volume was placed randomly in dermis layer in 10 different ways. Thus, 3890 3D skin tissue phantoms were generated. Then we assigned optical properties for the four kinds of tissue types. Monte-Carlo optical simulations were deployed to obtain the optical fluence distribution. Then acoustic propagation simulations were deployed to obtain the photoacoustic initial pressure. Universal back-projection algorithm was used to reconstruct the photoacoustic images. This dataset could be used for deep learning-based photoacoustic image reconstruction, classification, registration, quantitative image analysis.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:18:30.771Z

@@ -1,0 +1,12 @@
+# Lorentz Force Electrical Impedance Tomography
+
+**Authors:** Pol Grasland-Mongrain, Jean-Martial Mari, Jean-Yves Chapelon, Cyril Lafon
+
+## Summary
+This article describes a method called Lorentz Force Electrical Impedance Tomography. The electrical conductivity of biological tissues can be measured through their sonication in a magnetic field: the vibration of the tissues inside the field induces an electrical current by Lorentz force. This current, detected by electrodes placed around the sample, is proportional to the ultrasonic pressure, to the strength of the magnetic field and to the electrical conductivity gradient along the acoustic axis. By focusing at different places inside the sample, a map of the electrical conductivity gradient can be established. In this study experiments were conducted on a gelatin phantom and on a beef sample, successively placed in a 300 mT magnetic field and sonicated with an ultrasonic transducer focused at 21 cm emitting 500 kHz bursts. Although all interfaces are not visible, in this exploratory study a good correlation is observed between the electrical conductivity image and the ultrasonic image. This method offers an alternative to detecting pathologies invisible to standard ultrasonography.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T15:45:21.535Z

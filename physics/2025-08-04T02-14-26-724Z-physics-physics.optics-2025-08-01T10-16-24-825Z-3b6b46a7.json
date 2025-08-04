@@ -1,0 +1,12 @@
+# Artificial Blur Effect for Optical See-through Near-Eye Displays
+
+**Authors:** Shiva Sinaei, Daisuke Iwai, Kousuke Sato
+
+## Summary
+Saliency modulation has significant potential for various applications. In our pursuit of implementing saliency modulation for optical see-through near-eye displays, we decided to introduce a blur effect to reduce the sharpness of specific areas while preserving the sharpness of others. In this study, we used a digital micromirror device (DMD) to separate the incoming light from a scene into sharp and blurred areas. To achieve this, we integrated an electrically tunable lens (ETL), which operates in its zero optical power mode when the reflected light from the DMD represents the sharp area (i.e., the blur area is masked). Conversely, when the reflected light indicates the blur area, the ETL adjusts to non-zero optical powers. Importantly, these modulations occur at a speed that surpasses the critical flicker frequency threshold of the human eye. Furthermore, we proposed an algorithm to mitigate the artifacts around the border area between the sharp and blur areas that are caused by the magnification of the ETL. We have also developed a prototype system to demonstrate the feasibility of our method.
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T10:16:24.825Z

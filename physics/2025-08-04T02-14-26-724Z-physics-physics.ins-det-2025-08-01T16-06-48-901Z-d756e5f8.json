@@ -1,0 +1,12 @@
+# Application of muon absorption tomography in imaging of civil structures
+
+**Authors:** Piyush Pallav, Purba Bhattacharya, Supratik Mukhopadhyay, Nayana Majumdar
+
+## Summary
+The research focuses on the non-invasive imaging technique using cosmic muon absorption tomography to monitor the internals of archaeological / civil / industrial structures of intermediate size. It integrates experimental measurements and numerical simulations with Geant4, ascertaining the reliability and precision of muon absorption tomography using easily available components for the stated purpose. The experiment probes muon interactions across a range of materials including those commonly used in building civil and industrial structures. An experiment, fondly named MARS (Muon Absorption in Rigid Structures), was carried out to explore the possibility of using overlapped scintillation paddles for improved mapping of inhomogeneities in structures made of concrete. Good correlation of experimental and simulated results for all tests indicates that this simple approach can be implemented for non-destructive evaluations of structures of civil and industrial interest
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T16:06:48.902Z

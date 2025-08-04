@@ -1,0 +1,12 @@
+# Traffic flow splitting from crowdsourced digital route choice support
+
+**Authors:** David-Maximilian Storch, Malte Schröder, Marc Timme
+
+## Summary
+Digital technology is fundamentally transforming human mobility. Route choices in particular are greatly affected by the availability of traffic data, increased connectivity of data sources and cheap access to computational resources. Digital routing technologies promise more efficient route choices for the individual and a reduction of congestion for cities. Yet, it is unclear how widespread adoption of such technologies actually alters the collective traffic flow dynamics on complex street networks. Here, we answer this question for the dynamics of urban commuting under digital route choice support. Building on the class of congestion games we study the evolution of commuting behavior as a fraction of the population relies on, but also contributes to, crowdsourced traffic information. The remainder of the population makes their route choices based on personal experience. We show how digital route choice support may cause a separation of commuter flows into technology and non-technology users along different routes. This collective behavior may fuel systemic inefficiencies and lead to an increase of congestion as a consequence. These results highlight new research directions in the field of algorithmic design of route choice decision support protocols to help fight congestion, emissions and other systemic inefficiencies in the course of increasing urbanization and digitization.
+
+
+---
+Category: physics
+Subcategory: physics.soc-ph
+Collected: 2025-08-01T10:14:16.064Z

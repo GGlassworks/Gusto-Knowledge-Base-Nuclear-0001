@@ -1,0 +1,12 @@
+# Real-time digital holography of the retina by principal component analysis
+
+**Authors:** Leo Puyo, Loic Bellonnet-Mottet, Antoine Martin, Francois Te, Michel Paques, Michael Atlan
+
+## Summary
+We demonstrate the feasibility of high-quality digital holography of the human retina in real-time with a fast camera and commodity computer hardware. High throughput rendering of digital Fresnel holograms from optically-acquired inline interferograms is performed in conjunction with temporal demodulation by projection of hologram sequences onto a data-derived basis in order to discriminate local narrowband coherent detection contrasts, mostly due to blood flow and optical absorption, from spurious interferometric contributions. Digital holograms are calculated from a sustained input stream of 16-bit, 1024-by-1024-pixel interferograms recorded at up to 500 frames per second, processed by principal component analysis. This temporal signal demodulation scheme consists in the projection of stacks of 32 consecutive holograms onto a basis calculated by eigendecomposition of the matrix of their time-lagged covariance; it is performed up to 20 times per second with commodity computer hardware.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:16.897Z

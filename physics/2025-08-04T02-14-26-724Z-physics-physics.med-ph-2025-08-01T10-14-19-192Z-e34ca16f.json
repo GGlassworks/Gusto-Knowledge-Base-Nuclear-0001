@@ -1,0 +1,12 @@
+# Towards Blood Flow in the Virtual Human: Efficient Self-Coupling of HemeLB
+
+**Authors:** J. W. S. McCullough, R. A. Richardson, A. Patronis, R. Halver, R. Marshall, M. Ruefenacht, B. J. M. Wylie, T. Odaker, M. Wiedemann, B. Lloyd, E. Neufeld, G. Sutmann, A. Skjellum, D. Kranzlmüller, P. V. Coveney
+
+## Summary
+Many scientific and medical researchers are working towards the creation of a virtual human - a personalised digital copy of an individual - that will assist in a patient's diagnosis, treatment and recovery. The complex nature of living systems means that the development of this remains a major challenge. We describe progress in enabling the HemeLB lattice Boltzmann code to simulate 3D macroscopic blood flow on a full human scale. Significant developments in memory management and load balancing allow near linear scaling performance of the code on hundreds of thousands of computer cores. Integral to the construction of a virtual human, we also outline the implementation of a self-coupling strategy for HemeLB. This allows simultaneous simulation of arterial and venous vascular trees based on human-specific geometries.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:19.192Z

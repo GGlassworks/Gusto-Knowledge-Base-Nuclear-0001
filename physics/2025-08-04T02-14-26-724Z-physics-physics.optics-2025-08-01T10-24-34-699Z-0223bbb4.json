@@ -1,0 +1,12 @@
+# Metasurface Smart Glass for Object Recognition
+
+**Authors:** Cheng-Chia Tsai, Xiaoyan Huang, Zhicheng Wu, Zongfu Yu, Nanfang Yu
+
+## Summary
+Recent years have seen a considerable surge of research on developing heuristic approaches to realize analog computing using physical waves. Among these, neuromorphic computing using light waves is envisioned to feature performance metrics such as computational speed and energy efficiency exceeding those of conventional digital techniques by many orders of magnitude. Yet, neuromorphic computing based on photonics remains a challenge due to the difficulty of training and manufacturing sophisticated photonic structures to support neural networks with adequate expressive power. Here, we realize a diffractive optical neural network (ONN) based on metasurfaces that can recognize objects by directly processing light waves scattered from the objects. Metasurfaces composed of a two-dimensional array of millions of meta-units can realize precise control of optical wavefront with subwavelength resolution; thus, when used as constitutive layers of an ONN, they can provide exceptionally high expressive power. We experimentally demonstrate ONNs based on single-layered metasurfaces that modulate the phase and polarization over optical wavefront for recognizing optically coherent binary objects, including hand-written digits and English alphabetic letters. We further demonstrate, in simulation, ONNs based on metasurface doublets for human facial verification. The advantageous traits of metasurface-based ONNs, including ultra-compact form factors, zero power consumption, ultra-fast and parallel data processing capabilities, and physics-guaranteed data security, make them suitable as "edge" perception devices that can transform the future of image collection and analysis.
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T10:24:34.699Z

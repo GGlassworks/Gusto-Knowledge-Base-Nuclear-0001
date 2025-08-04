@@ -1,0 +1,12 @@
+# A Stationary Drake Equation Distribution as a Balance of Birth-Death Processes
+
+**Authors:** David Kipping
+
+## Summary
+Previous critiques of the Drake Equation have highlighted its deterministic nature, implying that the number of civilizations is the same at all times. Here, I build upon earlier work and present a stochastic formulation. The birth of civilizations within the galaxy is modeled as following a uniform rate (Poisson) stochastic process, with a mean rate of $\lambda_C$. Each then experiences a constant hazard rate of collapse, which defines an exponential distribution with rate parameter $\lambda_L$. Thus, the galaxy is viewed as a frothing landscape of civilization birth and collapse. Under these assumptions, I show that N in the Drake Equation must follow another Poisson distribution, with a mean rate $(\lambda_C/\lambda_L)$. This is then used to rigorously demonstrate why the Copernican Principle does not allow one to infer N, as well evaluating the algebraic probability of being alone in the galaxy.
+
+
+---
+Category: physics
+Subcategory: physics.pop-ph
+Collected: 2025-08-01T16:18:10.444Z

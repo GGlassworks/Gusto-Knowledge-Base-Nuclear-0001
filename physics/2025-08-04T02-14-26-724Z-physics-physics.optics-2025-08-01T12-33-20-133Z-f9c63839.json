@@ -1,0 +1,12 @@
+# Microwave photonic frequency measurement and time-frequency analysis: Unlocking bandwidths over hundreds of GHz with a 10-nanosecond temporal resolution
+
+**Authors:** Taixia Shi, Chi Jiang, Chulun Lin, Fangyi Yang, Yiqing Liu, Fangzheng Zhang, Yang Chen
+
+## Summary
+Fast and broadband spectrum sensing is an essential component in cognitive radio systems, intelligent transportation systems, electronic warfare systems, etc. However, traditional electronic-based solutions have a trade-off among the analysis bandwidth, temporal resolution, and real-time performance. In comparison, microwave photonic solutions can overcome the trade-off at the cost of frequency accuracy and resolution. Nevertheless, the reported microwave photonic solutions suffer from a very poor frequency resolution and impose extremely high requirements on hardware when the analysis bandwidth is close to or greater than 100 GHz. Here, we show a microwave photonic frequency measurement and time-frequency analysis method, which is implemented by dispersion-based frequency-to-time mapping and assisted by a specially designed V-shape linearly frequency-modulated signal and a duty-cycle-enabling technique. Compared with the reported microwave photonic solutions, the hardware requirements are greatly reduced when achieving similar performance conditions. Using a total dispersion of -6817 ps/nm and a V-shape linearly frequency-modulated signal with a bandwidth of 31.6 GHz and a duty cycle of 1/4, we achieve an ambiguity-free analysis bandwidth of 252.8 GHz, a corresponding temporal resolution of 13.75 ns and a frequency resolution of 1.1 GHz. The temporal resolution can be improved to 6.875 ns when the duty cycle is changed to 1/2, while the analysis bandwidth in this case is 126.4 GHz.
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T12:33:20.134Z

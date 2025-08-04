@@ -1,0 +1,12 @@
+# Digitized Adjoint Method for Inverse Design of Digital Nanophotonic Devices
+
+**Authors:** Xinshu Ren, Weijie Chang, Longhui Lu, Max Yan, Deming Liu, Minming Zhang
+
+## Summary
+We present a digitized adjoint method for realizing efficient inverse design of "digital" subwavelength nanophotonic devices. We design a single-mode 3-dB power divider and a dual-mode demultiplexer to demonstrate the digitized adjoint method for single-object and dual-object optimizations, respectively. The optimization comprises three stages, a first stage of continuous variation for an "analog" pattern, a second stage of forced permittivity biasing for a "quasi-digital" pattern, and a third stage for a multi-level digital pattern. Compared with conventional brute-force method, the proposed digitized adjoint method can improve the design efficiency by about 5 times, and the performance optimization can reach approximately the same level using the ternary pattern. The digitized adjoint method takes the advantages of adjoint sensitivity analysis and digital subwavelength structure and creates a new way for efficient and high-performance design of compact digital subwavelength nanophotonic devices. This method could overcome the efficiency bottleneck of the brute-force method that is restricted by the number of pixels of a digital pattern and improve the device performance by extending a conventional binary pattern to a multi-level one, which may be attractive for inverse design of large-scale digital nanophotonic devices.
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T10:17:20.346Z

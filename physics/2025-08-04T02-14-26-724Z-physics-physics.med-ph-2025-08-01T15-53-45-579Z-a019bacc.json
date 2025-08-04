@@ -1,0 +1,12 @@
+# A Morphological, Topological and Mechanical Investigation of Gyroid, Spinodoid and Dual-Lattice Algorithms as Structural Models of Trabecular Bone
+
+**Authors:** Mahtab Vafaeefar, Kevin M. Moerman, Majid Kavousi, Ted J. Vaughan
+
+## Summary
+In this study, we evaluate the performance of three algorithms as computational models of trabecular bone architecture, through systematic evaluation of morphometric, topological, and mechanical properties. Here, we consider the widely-used gyroid lattice structure, the recently-developed spinodoid structure and a structure similar to Voronoi lattices introduced here as the dual-lattice. While all computational models were calibrated to recreate the trabecular tissue volume (e.g., BV/TV), it was found that both the gyroid- and spinodoid-based structures showed substantial differences in many other morphometric and topological parameters and, in turn, showed lower effective mechanical properties compared to trabecular bone. The newly-developed dual-lattice structures better captured both morphometric parameters and mechanical properties, despite certain differences being evident their topological configuration compared to trabecular bone. Still, these computational algorithms provide useful platforms to investigate trabecular bone mechanics and for designing biomimetic structures, which could be produced through additive manufacturing for applications that include bone substitutes, scaffolds and porous implants. Furthermore, the software for the creation of the structures has been added to the open source toolbox GIBBON and is therefore freely available to the community.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T15:53:45.580Z

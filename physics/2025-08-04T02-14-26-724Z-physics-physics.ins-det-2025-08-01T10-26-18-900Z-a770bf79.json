@@ -1,0 +1,12 @@
+# Analog-to-Digital and Digital-to-Analog Conversion with Memristive Devices
+
+**Authors:** Y. V. Pershin, E. Sazonov, M. Di Ventra
+
+## Summary
+We suggest a novel methodology to obtain a digital representation of analog signals and to perform its back-conversion using memristive devices. In the proposed converters, the same memristive systems are used for two purposes: as elements performing conversion and elements storing the code. This approach to conversion is particularly relevant for interfacing analog signals with memristive digital logic/computing circuits.
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T10:26:18.901Z

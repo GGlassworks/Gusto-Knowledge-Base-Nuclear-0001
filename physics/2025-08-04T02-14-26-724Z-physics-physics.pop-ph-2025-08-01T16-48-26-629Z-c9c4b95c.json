@@ -1,0 +1,12 @@
+# Genetic evolution of a multi-generational population in the context of interstellar space travels -- Part I: Genetic evolution under the neutral selection hypothesis
+
+**Authors:** F. Marin, C. Beluffi, F. Fischer
+
+## Summary
+We updated the agent based Monte Carlo code HERITAGE that simulates human evolution within restrictive environments such as interstellar, sub-light speed spacecraft in order to include the effects of population genetics. We incorporated a simplified -- yet representative -- model of the whole human genome with 46 chromosomes (23 pairs), containing 2110 building blocks that simulate genetic elements (loci). Each individual is endowed with his/her own diploid genome. Each locus can take 10 different allelic (mutated) forms that can be investigated. To mimic gamete production (sperm and eggs) in human individuals, we simulate the meiosis process including crossing-over and unilateral conversions of chromosomal sequences. Mutation of the genetic information from cosmic ray bombardments is also included. In this first paper of a series of two, we use the neutral hypothesis: mutations (genetic changes) have only neutral phenotypic effects (physical manifestations), implying no natural selection on variations. We will relax this assumption in the second paper. Under such hypothesis, we demonstrate how the genetic patrimony of multi-generational crews can be affected by genetic drift and mutations. It appears that centuries-long deep space travels have small but unavoidable effects on the genetic composition/diversity of the traveling populations that herald substantial genetic differentiation on longer time-scales if the annual equivalent dose of cosmic ray radiation is similar to the Earth radioactivity background at sea level. For larger doses, genomes in the final populations can deviate more strongly with significant genetic differentiation that arises within centuries.
+
+
+---
+Category: physics
+Subcategory: physics.pop-ph
+Collected: 2025-08-01T16:48:26.629Z

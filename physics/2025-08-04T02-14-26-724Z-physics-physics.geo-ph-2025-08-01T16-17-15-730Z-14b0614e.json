@@ -1,0 +1,12 @@
+# Fluid conductivity in porous media in terms of beta functions
+
+**Authors:** Tairone Paiva Leão
+
+## Summary
+Conductivity of unsaturated porous media to fluids is of theoretical and applied interest to mathematicians, physicists, and chemical, petroleum, civil and agricultural engineers. We explore the expression of unsaturated relative conductivity equations as a regularized incomplete beta function, which implies a beta distribution of the variable of interest. A generalized solution for $n&gt;1$ and $m&gt;0$ is presented. The solution can be implemented without difficulties in most programming languages and simulation software.
+
+
+---
+Category: physics
+Subcategory: physics.geo-ph
+Collected: 2025-08-01T16:17:15.731Z

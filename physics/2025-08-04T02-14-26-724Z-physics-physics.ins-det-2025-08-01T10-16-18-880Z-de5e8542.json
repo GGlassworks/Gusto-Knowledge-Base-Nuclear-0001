@@ -1,0 +1,12 @@
+# Optimization of Energy Resolution and Pulse Shape Discrimination for a CLYC Detector with Integrated Digitizers
+
+**Authors:** Tao Xue, Jinfu Zhu, Jingjun Wen, Jirong Cang, Zhi Zeng, Liangjun Wei, Lin Jiang, Yinong Liu, Jianmin Li
+
+## Summary
+Sufficient current pulse information of nuclear radiation detectors can be retained by direct waveform digitization owing to the improvement of digitizer's performance. In many circumstances, reasonable cost and power consumption are on demand while the energy resolution and PSD performance should be ensured simultaneously for detectors. This paper will quantitatively analyse the influence of vertical resolution and sampling rate of digitizers on the energy resolution and PSD performance. The energy resolution and PSD performance can be generally optimized by improving the sampling rate and ENOB (effective number of bits) of digitizers. Several integrated digitizers, with sampling rates varying from 100 MSPS to 500 MSPS and vertical resolution ranging from 12-Bit to 16-Bit, were designed and integrated with a CLYC detector for verifications. Experimental results show good accordance with theoretical calculations. The conclusion can give guidance to designs of digitizes for similar applications in need of optimizing the energy resolution and PSD performance, and help to choose proper digitizers for different requirements.
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T10:16:18.880Z

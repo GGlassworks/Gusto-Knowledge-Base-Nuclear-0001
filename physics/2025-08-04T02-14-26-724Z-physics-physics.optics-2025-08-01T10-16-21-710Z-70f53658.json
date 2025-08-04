@@ -1,0 +1,12 @@
+# Off-axis reference beam for full-field swept-source OCT and holoscopy
+
+**Authors:** Dierck Hillmann, Hendrik Spahr, Helge Sudkamp, Carola Hain, Laura Hinkel, Gesa Franke, Gereon Hüttmann
+
+## Summary
+In numerous applications, Fourier-domain optical coherence tomography (FD-OCT) suffers from a limited imaging depth due to signal roll-off, a limited focal range, and autocorrelation noise. Here, we propose a parallel full-field FD-OCT imaging method that uses a swept laser source and an area camera in combination with an off-axis reference, which is incident on the camera at a small angle. As in digital off-axis holography, this angle separates autocorrelation signals and the complex conjugated mirror image from the actual signal in Fourier space. We demonstrate that by reconstructing the signal term only, this approach enables full-range imaging, i.e., it increases the imaging depth by a factor of two, and removes autocorrelation artifacts. The previously demonstrated techniques of inverse scattering and holoscopy can then numerically extend the focal range without loss of lateral resolution or imaging sensitivity. The resulting, significantly enhanced measurement depth is demonstrated by imaging a porcine eye over its entire depth, including cornea, lens, and retina. Finally, the feasibility of in vivo measurements is demonstrated by imaging the living human retina.
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T10:16:21.710Z

@@ -1,0 +1,12 @@
+# An FPGA-based readout chip emulator for the CMS ETL detector upgrade
+
+**Authors:** L. Zhang, C. Edwards, D. Gong, X. Huang, J. Lee, C. Liu, T. Liu, T. Liu, J. Olsen, Q. Sun, J. Wu, J. Ye, W Zhang
+
+## Summary
+We present an FPGA-based readout chip emulator board for the CMS Endcap Timing Layer (ETL) detector upgrade. The emulator board uses an Intel Cyclone 10 GX FPGA to emulate the digital functions of four Endcap Layer Readout Chips (ETROCs). Based on the actual ETROC design, the firmware is implemented and verified. The emulator board is being used for the ETROC digital design verification and system development.
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T19:58:29.915Z

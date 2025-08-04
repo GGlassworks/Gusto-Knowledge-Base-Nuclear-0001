@@ -1,0 +1,12 @@
+# Investigating timing properties of modern digitizers utilizing interpolating CFD algorithms and the application to digital fast-timing lifetime measurement
+
+**Authors:** A. Harter, M. Weinert, L. Knafla, J. -M. Régis, A. Esmaylzadeh, M. Ley, J. Jolie
+
+## Summary
+The performance of two implementations of digital real-time interpolating constant fraction discriminator algorithms with respect to fast-timing lifetime measurements are investigated. The implementations integrated in two different digitizers were evaluated in terms of the effects of tuning parameters of the digital CFDs and the influence of different input amplitudes on the time resolution and time walk characteristics. Reference is made to the existing analog standard of fast-timing techniques. The study shows, that the timing performance of both modules is comparable to established fast-timing setups using analog constant fraction discriminators, but with the added benefit of digital processing. Both digitizer modules were found to be highly effective and user-friendly instruments for modern fast-timing requirements.
+
+
+---
+Category: physics
+Subcategory: physics.ins-det
+Collected: 2025-08-01T10:18:28.897Z

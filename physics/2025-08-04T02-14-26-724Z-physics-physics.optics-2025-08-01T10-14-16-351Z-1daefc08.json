@@ -1,0 +1,12 @@
+# Anamorphic transformation and its application to time-bandwidth compression
+
+**Authors:** Mohammad H. Asghari, Bahram Jalali
+
+## Summary
+A general method for compressing the modulation time-bandwidth product of analog signals is introduced and experimentally demonstrated. As one of its applications, this physics-based signal grooming performs feature-selective stretch, enabling a conventional digitizer to capture fast temporal features that were beyond its bandwidth. At the same time, the total digital data size is reduced. The compression is lossless and is achieved through a same-domain transformation of the signal's complex field, performed in the analog domain prior to digitization. Our method is inspired by operation of Fovea centralis in the human eye and by anamorphic transformation in visual arts. The proposed transform can also be performed in the digital domain as a digital data compression algorithm to alleviate the storage and transmission bottlenecks associated with "big data".
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T10:14:16.351Z

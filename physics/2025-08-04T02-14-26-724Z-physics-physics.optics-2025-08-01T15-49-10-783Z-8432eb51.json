@@ -1,0 +1,12 @@
+# Engineered second-order nonlinearity in silicon nitride
+
+**Authors:** Yi Zhang, Juniyali Nauriyal, Meiting Song, Marissa Granados Baez, Xiaotong He, Timothy MacDonald, Jaime Cardenas
+
+## Summary
+The lack of a bulk second-order nonlinearity (\c{hi}(2)) in silicon nitride (Si3N4) keeps this low-loss, CMOS-compatible platform from key active functions such as Pockels electro-optic (EO) modulation and efficient second harmonic generation (SHG). We demonstrate a successful induction of \c{hi}(2) in Si3N4 through electrical poling with an externally-applied field to align the Si-N bonds. This alignment breaks the centrosymmetry of Si3N4, and enables the bulk \c{hi}(2). The sample is heated to over 500{\deg}C to facilitate the poling. The comparison between the EO responses of poled and non-poled Si3N4, measured using a Si3N4 micro-ring modulator, shows at least a 25X enhancement in the r33 EO component. The maximum \c{hi}(2) we obtain through poling is 0.24pm/V. We observe a remarkable improvement in the speed of the measured EO responses from 3GHz to 15GHz (3dB bandwidth) after the poling, which confirms the \c{hi}(2) nature of the EO response induced by poling. This work paves the way for high-speed active functions on the Si3N4 platform.
+
+
+---
+Category: physics
+Subcategory: physics.optics
+Collected: 2025-08-01T15:49:10.784Z

@@ -1,0 +1,12 @@
+# Photoacoustic digital tooth and image reconstruction of tooth root
+
+**Authors:** Yuting Shen, Yiyun Wang, Chengxiao Liu, Niansong Ye, Feng Gao, Lunguo Xia, Bing Fang, Fei Gao
+
+## Summary
+Imaging of teeth is very important to doctors in the diagnosis and treatment of dental diseases. The main imaging modality currently used is Cone-Beam Computed Tomography (CBCT), which however suffers from ionizing radiation causing potential damage to human body. In this work, photoacoustic imaging is proposed for the imaging of tooth, specifically the tooth root. A photoacoustic digital phantom of the tooth is generated based on clinical CBCT data. The roots encased by alveolar bone are imaged by using the realistic photoacoustic digital phantom in the simulation study. Several image reconstruction algorithms are used and compared to remove the artifacts caused by heterogeneous acoustic velocity distribution.
+
+
+---
+Category: physics
+Subcategory: physics.med-ph
+Collected: 2025-08-01T10:14:17.928Z
