@@ -1,0 +1,12 @@
+# Automating the Identification of High-Value Datasets in Open Government Data Portals
+
+**Authors:** Alfonso Quarati, Anastasija Nikiforova
+
+## Summary
+Recognized for fostering innovation and transparency, driving economic growth, enhancing public services, supporting research, empowering citizens, and promoting environmental sustainability, High-Value Datasets (HVD) play a crucial role in the broader Open Government Data (OGD) movement. However, identifying HVD presents a resource-intensive and complex challenge due to the nuanced nature of data value. Our proposal aims to automate the identification of HVDs on OGD portals using a quantitative approach based on a detailed analysis of user interest derived from data usage statistics, thereby minimizing the need for human intervention. The proposed method involves extracting download data, analyzing metrics to identify high-value categories, and comparing HVD datasets across different portals. This automated process provides valuable insights into trends in dataset usage, reflecting citizens' needs and preferences. The effectiveness of our approach is demonstrated through its application to a sample of US OGD city portals. The practical implications of this study include contributing to the understanding of HVD at both local and national levels. By providing a systematic and efficient means of identifying HVD, our approach aims to inform open governance initiatives and practices, aiding OGD portal managers and public authorities in their efforts to optimize data dissemination and utilization.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:16:24.390Z

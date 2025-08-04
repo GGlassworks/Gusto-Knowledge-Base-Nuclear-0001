@@ -1,0 +1,12 @@
+# Data-Centric Digital Agriculture: A Perspective
+
+**Authors:** Ribana Roscher, Lukas Roth, Cyrill Stachniss, Achim Walter
+
+## Summary
+In response to the increasing global demand for food, feed, fiber, and fuel, digital agriculture is rapidly evolving to meet these demands while reducing environmental impact. This evolution involves incorporating data science, machine learning, sensor technologies, robotics, and new management strategies to establish a more sustainable agricultural framework. So far, machine learning research in digital agriculture has predominantly focused on model-centric approaches, focusing on model design and evaluation. These efforts aim to optimize model accuracy and efficiency, often treating data as a static benchmark. Despite the availability of agricultural data and methodological advancements, a saturation point has been reached, with many established machine learning methods achieving comparable levels of accuracy and facing similar limitations. To fully realize the potential of digital agriculture, it is crucial to have a comprehensive understanding of the role of data in the field and to adopt data-centric machine learning. This involves developing strategies to acquire and curate valuable data and implementing effective learning and evaluation strategies that utilize the intrinsic value of data. This approach has the potential to create accurate, generalizable, and adaptable machine learning methods that effectively and sustainably address agricultural tasks such as yield prediction, weed detection, and early disease identification
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:26:36.240Z

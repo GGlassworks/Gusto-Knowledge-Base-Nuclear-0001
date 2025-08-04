@@ -1,0 +1,12 @@
+# Towards Digital Engineering -- The Advent of Digital Systems Engineering
+
+**Authors:** Jingwei Huang, Adrian Gheorghe, Holly Handley, Pilar Pazos, Ariel Pinto, Samuel Kovacic, Andy Collins, Charles Keating, Andres Sousa-Poza, Ghaith Rabadi, Resit Unal, Teddy Cotter, Rafael Landaeta, Charles Daniels
+
+## Summary
+Digital Engineering, the digital transformation of engineering to leverage digital technologies, is coming globally. This paper explores digital systems engineering, which aims at developing theory, methods, models, and tools to support the emerging digital engineering. A critical task is to digitalize engineering artifacts, thus enabling information sharing across platform, across life cycle, and across domains. We identify significant challenges and enabling digital technologies; analyze the transition from traditional engineering to digital engineering; define core concepts, including "digitalization", "unique identification", "digitalized artifacts", "digital augmentation", and others; present a big picture of digital systems engineering in four levels: vision, strategy, action, and foundation; briefly discuss each of main areas of research issues. Digitalization enables fast infusing and leveraging novel digital technologies; unique identification enables information traceability and accountability in engineering lifecycle; provenance enables tracing dependency relations among engineering artifacts; supporting model reproducibility and replicability; helping with trustworthiness evaluation of digital engineering artifacts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:15:07.828Z

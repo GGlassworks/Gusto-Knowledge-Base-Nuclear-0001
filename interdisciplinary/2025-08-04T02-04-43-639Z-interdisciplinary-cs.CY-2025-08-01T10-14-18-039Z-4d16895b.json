@@ -1,0 +1,12 @@
+# Cybernetic Governance in a Coliving House
+
+**Authors:** Daniel Kronovet, Seth Frey, Joseph DeSimone
+
+## Summary
+We report an 18-month field experiment in distributed digital institutions: a nine-bedroom Los Angeles coliving house that runs without managers, while sustaining 98% occupancy and below-market rents. Drawing on Elinor Ostrom's commons theory, we outline design principles and three digital mechanisms that form the institutional core: 1) A continuous-auction chore scheduler turns regenerative labor into a time-indexed points market; residents meet a 100-point monthly obligation by claiming tasks whose value rises linearly with neglect. 2) A pairwise-preference layer lets participants asynchronously reprioritize tasks, translating meta-governance into low-cognition spot inputs. 3) A symbolic "hearts" ledger tracks norm compliance through automated enforcement, lightweight challenges, and peer-awarded karma. Together, these mechanisms operationalize cybernetic principles--human sensing, machine bookkeeping, real-time feedback--while minimizing dependence on privileged roles. Our exploratory data (567 chore claims, 255 heart events, and 551 group purchases) show that such tooling can sustain reliable commons governance without continuous leadership, offering a transferable design palette for online communities, coliving houses, and other digitally mediated collectives.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:18.039Z

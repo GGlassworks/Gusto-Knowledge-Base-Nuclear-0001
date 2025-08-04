@@ -1,0 +1,12 @@
+# Computing Lens for Exploring the Historical People's Social Network
+
+**Authors:** Junjie Huang, Tiejian Luo
+
+## Summary
+A typical social research topic is to figure out the influential people's relationship and its weights. It is very tedious for social scientists to solve those problems by studying massive literature. Digital humanities bring a new way to a social subject. In this paper, we propose a framework for social scientists to find out ancient figures' power and their camp. The core of our framework consists of signed graph model and novel group partition algorithm. We validate and verify our solution by China Biographical Database Project (CBDB) dataset. The analytic results on a case study demonstrate the effectiveness of our framework, which gets information that consists with the literature's facts and social scientists' viewpoints.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:18:30.228Z

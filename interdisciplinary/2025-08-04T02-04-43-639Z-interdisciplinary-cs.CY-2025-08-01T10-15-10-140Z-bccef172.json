@@ -1,0 +1,12 @@
+# A Dynamical Systems Approach to Bots and Online Political Communication
+
+**Authors:** Beril Bulat, Martin Hilbert
+
+## Summary
+Bots have become increasingly prevalent in the digital sphere and have taken up a proactive role in shaping democratic processes. While previous studies have focused on their influence at the individual level, their potential macro-level impact on communication dynamics is still little understood. This study adopts an information theoretic approach from dynamical systems theory to examine the role of political bots shaping the dynamics of an online political discussion on Twitter. We quantify the components of this dynamic process in terms of its complexity, predictability, and the remaining uncertainty. Our findings suggest that bot activity is associated with increased complexity and uncertainty in the structural dynamics of online political communication. This work serves as a showcase for the use of information-theoretic measures from dynamical systems theory in modeling human-bot dynamics as a computational process that unfolds over time.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:15:10.140Z

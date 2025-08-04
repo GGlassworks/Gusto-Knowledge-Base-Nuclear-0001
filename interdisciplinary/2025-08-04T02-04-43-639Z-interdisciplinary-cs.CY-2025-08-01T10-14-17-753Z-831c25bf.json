@@ -1,0 +1,12 @@
+# Map++: A Crowd-sensing System for Automatic Map Semantics Identification
+
+**Authors:** Heba Aly, Anas Basalamah, Moustafa Youssef
+
+## Summary
+Digital maps have become a part of our daily life with a number of commercial and free map services. These services have still a huge potential for enhancement with rich semantic information to support a large class of mapping applications. In this paper, we present Map++, a system that leverages standard cell-phone sensors in a crowdsensing approach to automatically enrich digital maps with different road semantics like tunnels, bumps, bridges, footbridges, crosswalks, road capacity, among others. Our analysis shows that cell-phones sensors with humans in vehicles or walking get affected by the different road features, which can be mined to extend the features of both free and commercial mapping services. We present the design and implementation of Map++ and evaluate it in a large city. Our evaluation shows that we can detect the different semantics accurately with at most 3% false positive rate and 6% false negative rate for both vehicle and pedestrian-based features. Moreover, we show that Map++ has a small energy footprint on the cell-phones, highlighting its promise as a ubiquitous digital maps enriching service.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:17.753Z

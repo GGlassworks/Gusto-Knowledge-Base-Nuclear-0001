@@ -1,0 +1,12 @@
+# Decision Support to Crowdsourcing for Annotation and Transcription of Ancient Documents: The RECITAL Workshop
+
+**Authors:** Olivier Aubert, Benjamin Hervy, Guillaume Raschia, Françoise Rubellin
+
+## Summary
+In the 18th century in Paris, only two public theatres could officially perform comedies: the Com{\'e}die-Fran{\c c}aise, and the Com{\'e}die-Italienne. The latter was much less well known. By studying a century of accounting registers, we aim to learn more about its successful plays, its actors, musicians, set designers, and all the small trades necessary for its operation, its administration, logistics and finances. To this end, we employ a mass of untapped and unpublished resources, the 27,544 pages of 63 daily registers available at the Biblioth{\`e}que Nationale de France (BnF). And we take a decidedly fresh look at emerging forms of creation and changes in the entertainmenteconomy. We developed the crowdsourcing platform RECITAL to collect and index the data from theregisters, following an emerging trend in Digital Humanities. RECITAL is built upon the ScribeAPI framework and it offers a fully-fledged web application to classify the pages, annotate with marks and tags, transcribe the indexed marks and even to verify the previous transcripts. We also describe a multi-level data model and to develop a series of monitoring anddecision tools to support crowdsourced data management up to their definitive form.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:16:12.063Z

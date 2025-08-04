@@ -1,0 +1,12 @@
+# VoteLab: A Modular and Adaptive Experimentation Platform for Online Collective Decision Making
+
+**Authors:** Renato Kunz, Fatemeh Banaie, Abhinav Sharma, Carina I. Hausladen, Dirk Helbing, Evangelos Pournaras
+
+## Summary
+Digital democracy and new forms for direct digital participation in policy making gain unprecedented momentum. This is particularly the case for preferential voting methods and decision-support systems designed to promote fairer, more inclusive and legitimate collective decision-making processes in citizens assemblies, participatory budgeting and elections. However, a systematic human experimentation with different voting methods is cumbersome and costly. This paper introduces VoteLab, an open-source and thoroughly-documented platform for modular and adaptive design of voting experiments. It supports to visually and interactively build reusable campaigns with a choice of different voting methods, while voters can easily respond to subscribed voting questions on a smartphone. A proof-of-concept with four voting methods and questions on COVID-19 in an online lab experiment have been used to study the consistency of voting outcomes. It demonstrates the capability of VoteLab to support rigorous experimentation of complex voting scenarios.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:22:46.708Z

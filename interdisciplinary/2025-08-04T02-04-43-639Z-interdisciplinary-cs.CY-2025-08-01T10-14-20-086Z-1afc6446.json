@@ -1,0 +1,12 @@
+# COVID-19 Digital Contact Tracing Applications and Techniques: A Review Post Initial Deployments
+
+**Authors:** Muhammad Shahroz, Farooq Ahmad, Muhammad Shahzad Younis, Nadeem Ahmad, Maged N. Kamel Boulos, Ricardo Vinuesa, Junaid Qadir
+
+## Summary
+The coronavirus disease 2019 (COVID-19) is a severe global pandemic that has claimed millions of lives and continues to overwhelm public health systems in many countries. The spread of COVID-19 pandemic has negatively impacted the human mobility patterns such as daily transportation-related behavior of the public. There is a requirement to understand the disease spread patterns and its routes among neighboring individuals for the timely implementation of corrective measures at the required placement. To increase the effectiveness of contact tracing, countries across the globe are leveraging advancements in mobile technology and Internet of Things (IoT) to aid traditional manual contact tracing to track individuals who have come in close contact with identified COVID-19 patients. Even as the first administration of vaccines begins in 2021, the COVID-19 management strategy will continue to be multi-pronged for the foreseeable future with digital contact tracing being a vital component of the response along with the use of preventive measures such as social distancing and the use of face masks. After some months of deployment of digital contact tracing technology, deeper insights into the merits of various approaches and the usability, privacy, and ethical trade-offs involved are emerging. In this paper, we provide a comprehensive analysis of digital contact tracing solutions in terms of their methodologies and technologies in the light of the new data emerging about international experiences of deployments of digital contact tracing technology. We also provide a discussion on open challenges such as scalability, privacy, adaptability and highlight promising directions for future work.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:20.086Z

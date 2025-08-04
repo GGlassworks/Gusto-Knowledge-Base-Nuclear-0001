@@ -1,0 +1,12 @@
+# CLOI: An Automated Benchmark Framework For Generating Geometric Digital Twins Of Industrial Facilities
+
+**Authors:** Eva Agapaki, Ioannis Brilakis
+
+## Summary
+This paper devises, implements and benchmarks a novel framework, named CLOI, that can accurately generate individual labelled point clusters of the most important shapes of existing industrial facilities with minimal manual effort in a generic point-level format. CLOI employs a combination of deep learning and geometric methods to segment the points into classes and individual instances. The current geometric digital twin generation from point cloud data in commercial software is a tedious, manual process. Experiments with our CLOI framework reveal that the method can reliably segment complex and incomplete point clouds of industrial facilities, yielding 82% class segmentation accuracy. Compared to the current state-of-practice, the proposed framework can realize estimated time-savings of 30% on average. CLOI is the first framework of its kind to have achieved geometric digital twinning for the most important objects of industrial factories. It provides the foundation for further research on the generation of semantically enriched digital twins of the built environment.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:21:21.206Z

@@ -1,0 +1,12 @@
+# Wikipedia Cultural Diversity Dataset: A Complete Cartography for 300 Language Editions
+
+**Authors:** Marc Miquel-Ribé, David Laniado
+
+## Summary
+In this paper we present the Wikipedia Cultural Diversity dataset. For each existing Wikipedia language edition, the dataset contains a classification of the articles that represent its associated cultural context, i.e. all concepts and entities related to the language and to the territories where it is spoken. We describe the methodology we employed to classify articles, and the rich set of features that we defined to feed the classifier, and that are released as part of the dataset. We present several purposes for which we envision the use of this dataset, including detecting, measuring and countering content gaps in the Wikipedia project, and encouraging cross-cultural research in the field of digital humanities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:26:15.761Z

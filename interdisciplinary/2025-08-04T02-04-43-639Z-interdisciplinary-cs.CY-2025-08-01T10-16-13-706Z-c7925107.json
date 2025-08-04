@@ -1,0 +1,12 @@
+# Modelling Memory for Individual Re-identification in Decentralised Mobile Contact Tracing Applications
+
+**Authors:** Luca Bedogni, Shakila Khan Rumi, Flora Salim
+
+## Summary
+In 2020 the coronavirus outbreak changed the lives of people worldwide. After an initial time period in which it was unclear how to battle the virus, social distancing has been recognised globally as an effective method to mitigate the disease spread. This called for technological tools such as Mobile Contact Tracing Applications (MCTA), which are used to digitally trace contacts among people, and in case a positive case is found, people with the application installed which had been in contact will be notified. De-centralised MCTA may suffer from a novel kind of privacy attack, based on the memory of the human beings, which upon notification of the application can identify who is the positive individual responsible for the notification. Our results show that it is indeed possible to identify positive people among the group of contacts of a human being, and this is even easier when the sociability of the positive individual is low. In practice, our simulation results show that identification can be made with an accuracy of more than 90% depending on the scenario. We also provide three mitigation strategies which can be implemented in de-centralised MCTA and analyse which of the three are more effective in limiting this novel kind of attack.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:16:13.706Z

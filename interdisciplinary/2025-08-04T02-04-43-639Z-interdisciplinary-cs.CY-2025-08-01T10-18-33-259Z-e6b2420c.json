@@ -1,0 +1,12 @@
+# Taking Advice from (Dis)Similar Machines: The Impact of Human-Machine Similarity on Machine-Assisted Decision-Making
+
+**Authors:** Nina Grgić-Hlača, Claude Castelluccia, Krishna P. Gummadi
+
+## Summary
+Machine learning algorithms are increasingly used to assist human decision-making. When the goal of machine assistance is to improve the accuracy of human decisions, it might seem appealing to design ML algorithms that complement human knowledge. While neither the algorithm nor the human are perfectly accurate, one could expect that their complementary expertise might lead to improved outcomes. In this study, we demonstrate that in practice decision aids that are not complementary, but make errors similar to human ones may have their own benefits. In a series of human-subject experiments with a total of 901 participants, we study how the similarity of human and machine errors influences human perceptions of and interactions with algorithmic decision aids. We find that (i) people perceive more similar decision aids as more useful, accurate, and predictable, and that (ii) people are more likely to take opposing advice from more similar decision aids, while (iii) decision aids that are less similar to humans have more opportunities to provide opposing advice, resulting in a higher influence on people's decisions overall.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:18:33.259Z

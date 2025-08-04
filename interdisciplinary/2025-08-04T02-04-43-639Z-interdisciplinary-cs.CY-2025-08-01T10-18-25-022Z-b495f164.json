@@ -1,0 +1,12 @@
+# Mitigating Digital Discrimination in Dating Apps -- The Dutch Breeze case
+
+**Authors:** Tim de Jonge, Frederik Zuiderveen Borgesius
+
+## Summary
+In September 2023, the Netherlands Institute for Human Rights, the Dutch non-discrimination authority, decided that Breeze, a Dutch dating app, was justified in suspecting that their algorithm discriminated against non-white. Consequently, the Institute decided that Breeze must prevent this discrimination based on ethnicity. This paper explores two questions. (i) Is the discrimination based on ethnicity in Breeze's matching algorithm illegal? (ii) How can dating apps mitigate or stop discrimination in their matching algorithms? We illustrate the legal and technical difficulties dating apps face in tackling discrimination and illustrate promising solutions. We analyse the Breeze decision in-depth, combining insights from computer science and law. We discuss the implications of this judgment for scholarship and practice in the field of fair and non-discriminatory machine learning.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:18:25.022Z

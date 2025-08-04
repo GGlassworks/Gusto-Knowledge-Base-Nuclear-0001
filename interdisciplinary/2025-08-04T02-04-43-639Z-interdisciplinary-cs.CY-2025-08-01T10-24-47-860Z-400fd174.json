@@ -1,0 +1,12 @@
+# A Feature Comparison of Modern Digital Forensic Imaging Software
+
+**Authors:** Jiyoon Ham, Joshua I. James
+
+## Summary
+Fundamental processes in digital forensic investigation, such as disk imaging, were developed when digital investigation was relatively young. As digital forensic processes and procedures matured, these fundamental tools, that are the pillars of the reset of the data processing and analysis phases of an investigation, largely stayed the same. This work is a study of modern digital forensic imaging software tools. Specifically, we will examine the feature sets of modern digital forensic imaging tools, as well as their development and release cycles to understand patterns of fundamental tool development. Based on this survey, we show the weakness in current digital investigation fundamental software development and maintenance over time. We also provide recommendations on how to improve fundamental tools.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:24:47.861Z

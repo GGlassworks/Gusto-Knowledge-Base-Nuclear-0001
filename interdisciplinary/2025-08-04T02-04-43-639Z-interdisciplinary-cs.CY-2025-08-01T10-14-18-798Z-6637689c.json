@@ -1,0 +1,12 @@
+# A Decentralised Digital Identity Architecture
+
+**Authors:** Geoff Goodell, Tomaso Aste
+
+## Summary
+Current architectures to validate, certify, and manage identity are based on centralised, top-down approaches that rely on trusted authorities and third-party operators. We approach the problem of digital identity starting from a human rights perspective, with a primary focus on identity systems in the developed world. We assert that individual persons must be allowed to manage their personal information in a multitude of different ways in different contexts and that to do so, each individual must be able to create multiple unrelated identities. Therefore, we first define a set of fundamental constraints that digital identity systems must satisfy to preserve and promote privacy as required for individual autonomy. With these constraints in mind, we then propose a decentralised, standards-based approach, using a combination of distributed ledger technology and thoughtful regulation, to facilitate many-to-many relationships among providers of key services. Our proposal for digital identity differs from others in its approach to trust in that we do not seek to bind credentials to each other or to a mutually trusted authority to achieve strong non-transferability. Because the system does not implicitly encourage its users to maintain a single aggregated identity that can potentially be constrained or reconstructed against their interests, individuals and organisations are free to embrace the system and share in its benefits.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:14:18.798Z
