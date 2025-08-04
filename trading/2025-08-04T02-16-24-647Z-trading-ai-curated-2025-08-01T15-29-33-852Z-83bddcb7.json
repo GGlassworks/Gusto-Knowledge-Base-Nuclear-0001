@@ -1,0 +1,28 @@
+# Blockchain and contract theory: modeling smart contracts using insurance markets
+
+**Authors:** A. Sheth, H. Subramanian
+
+## Abstract
+
+Purpose
+The purpose of this paper is to model blockchain-based smart contracts specifically for the insurance industry. The authors introduce the concept of smart contracts and further discuss the implementation of a decentralized insurance marketplace, namely Etherisc, using smart contracts on the Ethereum blockchain platform.
+
+
+Design/methodology/approach
+The authors employ three methods in this paper. The first one is a design illustration of a live application, namely, Etherisc. The second one is an economic model using demand–supply and equilibrium economics. The third one is an illustration using principal–agent modeling using constrained optimization.
+
+
+Findings
+The findings illustrate the following: in the design discussion, the authors demonstrate the architecture of a live Ethereum-based smart contract system. In the economic model, the authors illustrate how decentralized smart contract systems can increase social welfare by shifting demand and supply by reducing transactional costs. In the principal–agent model, the authors show how both the principal and agent are positively benefited by various mechanisms.
+
+
+Originality/value
+The paper is an original contribution and can be used as a reference model to study insurance or other similar marketplaces and the underlying economic transformations happening therein.
+
+
+**Source:** https://www.semanticscholar.org/paper/5346bc0106e6afd1d6282461785f6470d1323637
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T15:29:33.853Z

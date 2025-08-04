@@ -1,0 +1,13 @@
+# Multi Agent Influence Diagrams for DeFi Governance
+
+**Authors:** Abhimanyu Nag, Samrat Gupta, Sudipan Sinha, Arka Datta
+
+## Abstract
+Decentralized Finance (DeFi) governance models have become increasingly complex due to the involvement of numerous independent agents, each with their own incentives and strategies. To effectively analyze these systems, we propose using Multi Agent Influence Diagrams (MAIDs) as a powerful tool for modeling and studying the strategic interactions within DeFi governance. MAIDs allow for a comprehensive representation of the decision-making processes of various agents, capturing the influence of their actions on one another and on the overall governance outcomes. In this paper, we study a simple governance game that approximates real governance protocols and compute the Nash equilibria using MAIDs. We further outline the structure of a MAID in MakerDAO.
+
+**Source:** https://www.semanticscholar.org/paper/4baa7a73e16efc8a1a0a7d0fdd7bc62a2cc0e46f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T15:18:47.741Z

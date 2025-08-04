@@ -1,0 +1,13 @@
+# Another Approach of DeFi: P2P Smart Contracts
+
+**Authors:** Ansel Shaidullin, Mikhail M. Komarov
+
+## Abstract
+The relevance of the chosen topic lies in the fact that in the modern world the role of technologies and alternative methods of providing banking services is constantly growing. This work is aimed at revealing the main indicators of the functioning of P2P lending, highlighting their advantages over classical centralized banks, as well as using smart contracts for implementation in the blockchain environment. The leading approach to the study of this problem is the analysis of the econometric and financial parameters of banks providing the P2P lending service (on the example of the Lending club company), the study of the smart contract functioning algorithm in P2P. The methodology for calculating credit risk was adapted for P2P lending, the main parameters affecting credit risk were disclosed, significant and insignificant indicators of the probability of default were calculated, an improved methodology was proposed for assessing the quality of a borrower based on a scoring model and applied in the blockchain environment.
+
+**Source:** https://www.semanticscholar.org/paper/aceaa737bdff9d0e09515c6d57f6a10551455dcd
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:43:22.336Z

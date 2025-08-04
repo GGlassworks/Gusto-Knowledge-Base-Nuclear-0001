@@ -1,0 +1,13 @@
+# Price Arbitrage for DeFi Derivatives
+
+**Authors:** I. Vakhmyanin, Yana Volkovich
+
+## Abstract
+We address the under-documented area of derivative trading in Decentralized Crypto Exchanges (DEXs). We focus on explaining the price arbitrage implementation in the decentralized exchange Mycelium, which uses Chainlink and its own oracles. The price information for the Mycelium oracle is derived from a three-way median system of Centralized Exchanges (CEXs) such as Binance, FTX, and Bitfinex, to guard against local fluctuations. We provide an analysis of historic prices during high and low volatility trading days, introduce the concept of magnitude, and discuss the potential drawbacks of the current pricing protocols.
+
+**Source:** https://www.semanticscholar.org/paper/0d1bce0b43ac222b75dbf8ce5c8932a79f5f3b03
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:43:21.591Z

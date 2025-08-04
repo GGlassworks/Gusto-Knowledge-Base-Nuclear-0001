@@ -1,0 +1,13 @@
+# Towards Trustworthy DeFi Oracles: Past, Present and Future
+
+**Authors:** Yinjie Zhao, Xin Kang, Tieyan Li, Cheng-Kang Chu, Haiguang Wang
+
+## Abstract
+With the rapid development of blockchain technology in recent years, all kinds of blockchain-based applications have emerged. Among them, the decentralized finance (DeFi) is one of the most successful applications, which is regarded as the future of finance. The great success of DeFi relies on the real-world data which is not directly available on the blockchain. However, due to the deterministic nature of blockchain, the blockchain cannot directly obtain indeterministic data from the outside world (off-chain). Thus, oracles have appeared as a viable solution to feed off-chain data to blockchain applications. In this paper, we carry out a comprehensive study on oracles, especially on DeFi oracles. We first briefly introduce the application scenarios of DeFi oracles, and then we talk about the past of DeFi oracles by categorizing them into several types based on their design features. After that, we introduce five popular DeFi oracles currently in use (such as Chainlink and Band Protocol), with the focus on their system architecture, data validation process, and their incentive mechanisms. Then, we compare these present DeFi oracles from their data trustworthiness, data source trustworthiness and their overall trust models. Finally, we propose a set of metrics for designing trustworthiness DeFi oracles, and propose a potential trust architecture and a few promising techniques for building future trustworthiness oracles.
+
+**Source:** https://www.semanticscholar.org/paper/39ac182f0b167d8e3184383c3175b5923bc65644
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:42:26.297Z

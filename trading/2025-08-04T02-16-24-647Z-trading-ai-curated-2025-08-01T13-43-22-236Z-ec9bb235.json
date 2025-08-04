@@ -1,0 +1,13 @@
+# Dissimilar Redundancy in DeFi
+
+**Authors:** Daniel Perez, L. Gudgeon
+
+## Abstract
+The meteoric rise of Decentralized Finance (DeFi) has been accompanied by a plethora of frequent and often financially devastating attacks on its protocols There have been over 70 exploits of DeFi protocols, with the total of lost funds amounting to approximately 1.5bn USD. In this paper, we introduce a new approach to minimizing the frequency and severity of such attacks: dissimilar redundancy for smart contracts. In a nutshell, the idea is to implement a program logic more than once, ideally using different programming languages. Then, for each implementation, the results should match before allowing the state of the blockchain to change. This is inspired by and has clear parallels to the field of avionics, where on account of the safety-critical environment, flight control systems typically feature multiple redundant implementations. We argue that the high financial stakes in DeFi protocols merit a conceptually similar approach, and we provide a novel algorithm for implementing dissimilar redundancy for smart contracts.
+
+**Source:** https://www.semanticscholar.org/paper/105177d81f4e23d51f82813fc7a6ffbd93820e60
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:43:22.236Z

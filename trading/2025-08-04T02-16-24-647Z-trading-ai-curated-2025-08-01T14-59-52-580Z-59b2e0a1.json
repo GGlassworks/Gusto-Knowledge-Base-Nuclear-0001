@@ -1,0 +1,13 @@
+# The transaction behavior of cryptocurrency and electricity consumption
+
+**Authors:** Mingbo Zheng, Genfu Feng, Xinxin Zhao, Chun-ping Chang
+
+## Abstract
+Rapidly increasing cryptocurrency prices have encouraged cryptocurrency miners to participate in cryptocurrency production, increasing network hashrates and electricity consumption. Growth in network hashrates has further crowded out small cryptocurrency investors owing to the heightened costs of mining hardware and electricity. These changes prompt cryptocurrency miners to become new investors, leading to cryptocurrency price increases. The potential bidirectional relationship between cryptocurrency price and electricity consumption remains unidentified. Hence, this research thus utilizes July 31 2015–July 12 2019 data from 13 cryptocurrencies to investigate the short- and long-run causal effects between cryptocurrency transaction and electricity consumption. Particularly, we consider structural breaks induced by external shocks through stationary analysis and comovement relationships. Over the examined time period, we found that the series of cryptocurrency transaction and electricity consumption gradually returns to mean convergence after undergoing daily shocks, with prices trending together with hashrates. Transaction fluctuations exert both a temporary effect and permanent influence on electricity consumption. Therefore, owing to the computational power deployed to wherever high profit is found, transactions are vital determinants of electricity consumption.
+
+**Source:** https://www.semanticscholar.org/paper/e76ef0acb57d82d7aba39a9df6141a5f7cbb69a3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T14:59:52.581Z

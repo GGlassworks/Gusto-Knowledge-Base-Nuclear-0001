@@ -1,0 +1,16 @@
+# Cryptocurrency analysis using machine learning and deep learning approaches
+
+**Authors:** Farah Muhammad sakran Alamery
+
+## Abstract
+Since cryptocurrencies are becoming more widely used and accepted in the financial system, precise price forecasting is 
+essential for optimizing bitcoin investments. In this research study, we evaluated various machine learning models, including 
+linear regression (LR), decision tree regression (DT), random forest regression (RF), support vector regression (SVR), gradient 
+boosting regression (GB), adaboost regression, extreme gradient boosting regression (XGR), light gradientboosting regression (LGBM), k-nearest neighbors regression (KNN), ridge, andlasso. Additionally, we incorporated two deep learning (DL) models, namely artificial neural networks (ANN) and convolutional neural networks (CNN), to forecast daily bitcoin prices (BP). The initial data was obtained from Kaggle, a well-known platform for data science projects, and we applied the min-max scaler technique for consistent scaling during preprocessing. To assess the predictive capabilities of the models, we utilized regression metrics such as root mean square error (RMSE), mean absolute error (MAE), and correlation coefficient (R). Based on our findings, the CNN model demonstrated the highest effectiveness in predicting BPs among the DL models, with an RMSE of 0.0543, MAE of 0.0324, and an R value of 0.960. In the case of machine learning models, the RF model outperformed others, achieving an RMSE of 0.0246 and MAE of 0.0561. Investors, scholars, and decision-makers may all gain from these findings’ insightful revelations about BP forecasting. Developing these models further, investigating different preprocessing methods, and expanding the analysis to other cryptocurrencies might be the main goals of future research.
+
+**Source:** https://www.semanticscholar.org/paper/640aed765fa737d4eeb8199b102abc613160748e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T15:07:18.321Z

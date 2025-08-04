@@ -1,0 +1,13 @@
+# Modeling market behavior through game theory using historical cryptocurrency and equity data
+
+**Authors:** Vlad Bucur, L. Miclea
+
+## Abstract
+Minority game theory has, traditionally, been used to simulate player behavior under various conditions in a number of stock markets. However, digital markets, such as cryptocurrencies, have been largely ignored by game theory models. Using a comparative approach, with data both from traditional equities markets and from Bitcoin this article presents a model of a dollar game and compares its outcome to real-life data. The paper aims to prove that game theory can be used to predict cryptocurrency markets similarly to how it is used to predict traditional stock markets. By using historical data from the London Stock Exchange and Bitcoin the paper demonstrates that a custom implementation of a dollar game can be used to predict general market trends and the overall impact of short-term investments in Bitcoin.
+
+**Source:** https://www.semanticscholar.org/paper/05102e713aea9ea526c0d1e7088ec2ef18533026
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T15:00:53.599Z

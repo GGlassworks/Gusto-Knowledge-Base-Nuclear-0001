@@ -1,0 +1,13 @@
+# Performance Evaluation and Improvement of Blockchain Based Decentralized Finance Platforms Transaction Processing Liquidity Dynamics and Cost Efficiency
+
+**Authors:** Junlin Zhu, Tianyi Xu, Min Liu, Chao Chen
+
+## Abstract
+Decentralized finance (DeFi) platforms need to handle increasing transaction volumes, ensure stable liquidity, and keep user costs manageable. This study evaluates the performance of a blockchain-based DeFi platform, focusing on synchronization accuracy, rendering speed, liquidity growth, and gas fee control. The platform consistently achieved high synchronization accuracy (99.2%) and low rendering latency (105ms) during peak transaction periods, demonstrating the effectiveness of its technical design. The platform’s liquidity pools grew steadily by $1.5 million per day, reaching $45 million over the study period. Price movements during large trades were kept within 5%, showing the success of its slippage management tools. Gas fees were reduced by 15% on average through transaction batching and throttling, though external factors like network congestion still caused occasional cost spikes. These findings highlight the platform’s ability to scale effectively while identifying areas for further improvement, such as integrating additional solutions to reduce gas fees and improve cost predictability. This study shows how thoughtful design can improve the performance and usability of DeFi platforms. Future work could focus on expanding cross-chain compatibility, improving gas fee management, and further optimizing the handling of liquidity and price stability. These efforts will help meet the growing demands of DeFi users and support the broader adoption of decentralized financial systems.
+
+**Source:** https://www.semanticscholar.org/paper/b649fe89eebf6e050af043531405470171d067c5
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:44:17.858Z

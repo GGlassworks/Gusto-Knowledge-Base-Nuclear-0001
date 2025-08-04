@@ -1,0 +1,13 @@
+# Hunting DeFi Vulnerabilities via Context-Sensitive Concolic Verification
+
+**Authors:** Yepeng Ding, Arthur Gervais, R. Wattenhofer, Hiroyuki Sato
+
+## Abstract
+Decentralized finance (DeFi) is revolutionizing the traditional cen-tralized finance paradigm with its attractive features such as high availability, transparency, and tamper-proofing. However, attacks targeting DeFi services have severely damaged the DeFi market, as evidenced by our investigation of 80 real-world DeFi incidents from 2017 to 2022. Existing methods, based on symbolic execution, model checking, semantic analysis, and fuzzing, fall short in identifying the most DeFi vulnerability types. To address the deficiency, we propose Context-Sensitive Concolic Verification (CSCV), a method of automating the DeFi vulnerability finding based on user-defined properties formulated in temporal logic. CSCV builds and optimizes contexts to guide verification processes that dynamically construct context-carrying transition systems in tandem with concolic exe-cutions. Furthermore, we demonstrate the effectiveness of CSCV through experiments on real-world DeFi services and qualitative comparison. The experiment results show that our CSCV prototype successfully detects 76.25% of the vulnerabilities from the investigated incidents with an average time of 253.06 seconds.
+
+**Source:** https://www.semanticscholar.org/paper/60be6b4afaff2f327959de15fbce712e228b1f1f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:45:12.346Z

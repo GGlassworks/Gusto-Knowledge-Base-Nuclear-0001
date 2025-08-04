@@ -1,0 +1,13 @@
+# Cryptocurrency Transaction Network Embedding From Static and Dynamic Perspectives: An Overview
+
+**Authors:** Yue Zhou, Xin-gao Luo, Mengchu Zhou
+
+## Abstract
+Cryptocurrency, as a typical application scene of blockchain, has attracted broad interests from both industrial and academic communities. With its rapid development, the cryptocurrency transaction network embedding (CTNE) has become a hot topic. It embeds transaction nodes into low-dimensional feature space while effectively maintaining a network structure, thereby discovering desired patterns demonstrating involved users' normal and abnormal behaviors. Based on a wide investigation into the state-of-the-art CTNE, this survey has made the following efforts: 1) categorizing recent progress of CTNE methods, 2) summarizing the publicly available cryptocurrency transaction network datasets, 3) evaluating several widely-adopted methods to show their performance in several typical evaluation protocols, and 4) discussing the future trends of CTNE. By doing so, it strives to provide a systematic and comprehensive overview of existing CTNE methods from static to dynamic perspectives, thereby promoting further research into this emerging and important field.
+
+**Source:** https://www.semanticscholar.org/paper/f619d0f0eabb576caf04785bc770a4731a9e175a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T14:59:52.389Z

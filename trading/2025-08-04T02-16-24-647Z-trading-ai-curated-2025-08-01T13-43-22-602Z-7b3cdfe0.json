@@ -1,0 +1,13 @@
+# Design and Implementation of a Cloud Based Decentralized Cryptocurrency Transaction Platform
+
+**Authors:** Benjamin Kommey, E. T. Tchao, Emmanuel Osae-Addo, Asiedu Biney Kofi Yeboah, Derick Biney
+
+## Abstract
+Trading in the crypto-currency market has seen rapid growth and adoption, as well as the interest in crypto related technologies like blockchain and smart contracts. Smart contracts have gained popularity in building so called Decentralized Applications (dApps) and Decentralized Finance (DeFi) apps, mainly because they are more secure, trustworthy, and largely distributed (removes centralized control). DeFi applications run on the blockchain technology and are secured by blocks (nodes) connected by cryptographical hash links. DeFi applications have a great potential in the crypto-currency trading domain, providing more secure and reliable means of trading, and performing transactions with crypto-currencies. Only verified transactions are added to the blockchain after being approved by miners through a consensus mechanism and then it is replicated (distributed) among the nodes on the blockchain network. This research paper proposes a DeFi Crypto Exchange by integrating a numerous-signature stamp with a crypto API. A numerous-signature stamp solves the issue of transaction verifiability and authenticity. A crypto API provides the data about each crypto currency with which trades and transactions will be performed. This paper also discusses the technical background of the technology and a few related works. Decentralization of transactions through smart contracts on the blockchain will improve trust, security and reliability of transactions and trades. 
+
+**Source:** https://www.semanticscholar.org/paper/4ec851ed97f51cb21a25031337519865d510c353
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:43:22.602Z

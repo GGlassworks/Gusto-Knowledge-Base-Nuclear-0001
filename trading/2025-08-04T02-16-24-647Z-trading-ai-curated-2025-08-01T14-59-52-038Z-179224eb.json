@@ -1,0 +1,13 @@
+# Time-Series Cryptocurrency Forecasting Using Ensemble Deep Learning
+
+**Authors:** K. Rama, R. Natchadalingam, M. L. Prasad, Mohammad Manzoor Hussain, G. R. Kumar, Pundru Chandra, Shaker Reddy
+
+## Abstract
+Cryptocurrency is now widely accepted as a payment and exchange method, permeating nearly every aspect of the financial sector. Similar to the non-stationary and very erratic price movements of traditional stocks, cryptocurrency price swings are highly unpredictable. The rising popularity of cryptocurrencies has prompted an increase in the number of studies conducted to predict their future prices. The importance of cryptocurrency forecasting has grown significantly with the advent of deep learning. portfolio optimisation and decision making cannot be achieved without the creation of a smart forecasting model. The primary contribution of this study is the utilize of traditional deep learning (DL) models in combination with the three most popular ensemble learning algorithms (ensemble-averaging, bagging, and stacking) to predict the hourly values of major cryptocurrencies. Traditional DL strategies consisting of combinations of long short-term memory (LSTM), Bi-directional (BiLSTM), and convolutional layers were utilized to assess the suggested ensemble methods. The ensemble techniques were tested on their capacity to forecast the price of a cryptocurrency an hour basis (regression) and to determine whether the price will rise or fall relative to the present (classification). Our in-depth experimental research shows that combining ensemble learning with deep learning can produce robust, stable, and trustworthy forecasting strategies.
+
+**Source:** https://www.semanticscholar.org/paper/9e37659f14afa560a56eeea192bcff494d1993b5
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T14:59:52.039Z

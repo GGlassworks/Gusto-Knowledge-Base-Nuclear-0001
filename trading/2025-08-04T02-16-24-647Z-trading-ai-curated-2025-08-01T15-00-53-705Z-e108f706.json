@@ -1,0 +1,13 @@
+# Automatic Flexible Cryptocurrency Trading System Based on Box Theory and K-Means Clustering Algorithm
+
+**Authors:** Joseph Wang, Chih-Hung Lai
+
+## Abstract
+Recently, due to the ease of buying and selling cryptocurrencies and the continuous influence of social media, people have invested in the cryptocurrency market to obtain passive income. However, the volatility of the cryptocurrency market has caused many investors to lose their money. Although most people are aware of the high risks of cryptocurrencies along with the high rate of return, investing in cryptocurrencies has always been a topic of continuous discussion among researchers and investors. With the development of artificial intelligence (AI) and machine learning, machine learning has been applied to financial investment, and the research effect is remarkable recently. Thus, we propose a new self-adaptive trading system based on box theory and the K-means clustering algorithm. In the box theory, good buying or selling points occur when the oscillation box is broken and falls upward or below to enter the next box. This system predicted the upper and lower boundaries of the Oscillation Box through the K-means clustering algorithm and the sliding window method. Because of the sliding window method, prediction becomes more flexible and can be used in the market with the obtained upper and lower boundaries in a trading system. We also evaluated various market conditions (bull market, bear market, and fluctuant market) to construct the best K-means trading algorithm. After using Ethereum for backtesting, in the 4-month of July to November 2022), the transaction showed a 75 % winning rate, the final Return on Investment (ROI) of 33%, and a market gain of around 6%. This trading model is equipped with the ability of self-adjustment so that investors do not need to put effort on the market while maintaining a stable and considerable return on investment.
+
+**Source:** https://www.semanticscholar.org/paper/c14c187d7126b3ec2ebe383f5a69dd8b46cd6916
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T15:00:53.706Z

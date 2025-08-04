@@ -1,0 +1,13 @@
+# Leveraging Machine Learning For Multichain DeFi Fraud Detection
+
+**Authors:** Georgios Palaiokrassas, S. Scherrers, Iason Ofeidis, L. Tassiulas
+
+## Abstract
+Smart contracts across Blockchains provide an ecosystem of decentralized finance (DeFi), with a total locked value which had exceeded 160B USD. While DeFi comes with high rewards, it also carries plenty of risks. Many financial crimes have occurred over the years making the early detection of malicious activity an issue of high priority. The proposed framework introduces an effective method for extracting a set of features from different chains, and it is evaluated over an extensive dataset with the transactions of the 23 most widely used DeFi protocols based on a novel dataset in collaboration with Covalent. Different Machine Learning methods were employed, such as a Deep Neural Network, XGBoost, and a fine-tuned Large Language Model for identifying fraud accounts interacting with DeFi and we demonstrate that the introduction of novel DeFi-related features, significantly improves the evaluation results.
+
+**Source:** https://www.semanticscholar.org/paper/c7e3654ab49062655d81b1c42df81cc96856fb93
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:44:17.510Z

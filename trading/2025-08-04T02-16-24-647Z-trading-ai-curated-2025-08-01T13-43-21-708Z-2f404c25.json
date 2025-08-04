@@ -1,0 +1,13 @@
+# Automated Market Makers for Cross-chain DeFi and Sharded Blockchains
+
+**Authors:** Mohsen Pourpouneh, Kurt Nielsen, Jesper Balman Gravgaard
+
+## Abstract
+We consider Uniswap-like automated market makers, and, specifically, constant product liquidity pools, operating on blockchains. An important feature of Uniswap is the ability for a trader to carry out a sequence of asset swaps atomically, without other traders changing the prices along the way. This atomic-execution feature is not immediately available in cross-chain or sharded blockchain settings, where different liquidity pools are distributed across different chains or shards. Our contribution is a description and suggested implementation of a new functionality that might be added to individual liquidity pools, the {\em lock-swap}. The lock-swap enables a trader to get a guarantee for the price associated with a swap but only decide later whether or not to carry out the swap. Applied across several liquidity pools, it guarantees the trader assured prices for all swaps in a swap sequence and lets these prices inform the trader's decision about whether or not to carry out the sequence, thus essentially giving the trader the same benefits an atomic execution of the sequence would have provided him. However, in contrast to an atomic execution, our functionality does not prevent other traders from doing swaps during the time where the sequence is planned and possibly carried out. Nor does it prevent liquidity providers from adding or removing liquidity to and from the liquidity pool in that time period.
+
+**Source:** https://www.semanticscholar.org/paper/2a14c3302785c90aeb6aad2a0defa1bc9d92fb53
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:43:21.710Z

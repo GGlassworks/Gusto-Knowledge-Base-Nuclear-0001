@@ -1,0 +1,13 @@
+# Forecasting Cryptocurrency Prices Using LSTM, GRU, and Bi-Directional LSTM: A Deep Learning Approach
+
+**Authors:** Phumudzo Lloyd Seabe, C. Moutsinga, E. Pindza
+
+## Abstract
+Highly accurate cryptocurrency price predictions are of paramount interest to investors and researchers. However, owing to the nonlinearity of the cryptocurrency market, it is difficult to assess the distinct nature of time-series data, resulting in challenges in generating appropriate price predictions. Numerous studies have been conducted on cryptocurrency price prediction using different Deep Learning (DL) based algorithms. This study proposes three types of Recurrent Neural Networks (RNNs): namely, Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and Bi-Directional LSTM (Bi-LSTM) for exchange rate predictions of three major cryptocurrencies in the world, as measured by their market capitalization—Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC). The experimental results on the three major cryptocurrencies using both Root Mean Squared Error (RMSE) and the Mean Absolute Percentage Error (MAPE) show that the Bi-LSTM performed better in prediction than LSTM and GRU. Therefore, it can be considered the best algorithm. Bi-LSTM presented the most accurate prediction compared to GRU and LSTM, with MAPE values of 0.036, 0.041, and 0.124 for BTC, LTC, and ETH, respectively. The paper suggests that the prediction models presented in it are accurate in predicting cryptocurrency prices and can be beneficial for investors and traders. Additionally, future research should focus on exploring other factors that may influence cryptocurrency prices, such as social media and trading volumes.
+
+**Source:** https://www.semanticscholar.org/paper/9d47d548203750e46d6ee5d431e56ec46cb11094
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T14:59:51.693Z

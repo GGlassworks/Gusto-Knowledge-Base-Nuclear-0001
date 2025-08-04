@@ -1,0 +1,13 @@
+# ProMutator: Detecting Vulnerable Price Oracles in DeFi by Mutated Transactions
+
+**Authors:** Shih-Hong Wang, Chia-Chien Wu, Yu Liang, Li-Hsun Hsieh, H. Hsiao
+
+## Abstract
+This paper presents ProMutator, a scalable security analysis framework that detects price oracle vulnerabilities before attacks occur. ProMutator’s core idea is to simulate price oracle attacks locally by mutating the data needed for price calculation. ProMutator analyzes existing transactions to reconstruct probable DeFi use patterns, thereby reducing the required simulation runs drastically. ProMutator does not require any examined contracts’ high-level source code. Additionally, ProMutator generates a report for each detected vulnerability to facilitate further investigation. In our evaluation, ProMutator successfully discovered five out of six known and 27 new price oracle vulnerabilities in DeFi protocols. Index Terms—DeFi, price oracle, price oracle attack
+
+**Source:** https://www.semanticscholar.org/paper/9d28486635629d86dd960e75c31caed10a8d0e90
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:44:18.135Z
