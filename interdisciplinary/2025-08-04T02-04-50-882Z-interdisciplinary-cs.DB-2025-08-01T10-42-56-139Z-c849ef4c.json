@@ -1,0 +1,12 @@
+# Implementing Suffix Array Algorithm Using Apache Big Table Data Implementation
+
+**Authors:** Piero Giacomelli
+
+## Summary
+In this paper we will describe a new approach on the well-known suffix-array algorithm using Big Table Data Technology. We will demonstrate how it is possible to refactor a well-known algorithm coupled by taking advantage of an high-performance distributed datastore, to illustrate the advantages of using datastore cloud related technology for storing large text sequences and retrieving them. A case study using DNA strings, considered one of the most difficult pattern matching problem, will be described and evaluated to demonstrate the potentiality of this implementation. Further discussion on performances and other big data related issues will be described as well as new possible lines of research in big data technology for precise medical applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T10:42:56.139Z

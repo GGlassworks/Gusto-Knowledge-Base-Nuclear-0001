@@ -1,0 +1,12 @@
+# FRI-Miner: Fuzzy Rare Itemset Mining
+
+**Authors:** Yanling Cui, Wensheng Gan, Hong Lin, Weimin Zheng
+
+## Summary
+Data mining is a widely used technology for various real-life applications of data analytics and is important to discover valuable association rules in transaction databases. Interesting itemset mining plays an important role in many real-life applications, such as market, e-commerce, finance, and medical treatment. To date, various data mining algorithms based on frequent patterns have been widely studied, but there are a few algorithms that focus on mining infrequent or rare patterns. In some cases, infrequent or rare itemsets and rare association rules also play an important role in real-life applications. In this paper, we introduce a novel fuzzy-based rare itemset mining algorithm called FRI-Miner, which discovers valuable and interesting fuzzy rare itemsets in a quantitative database by applying fuzzy theory with linguistic meaning. Additionally, FRI-Miner utilizes the fuzzy-list structure to store important information and applies several pruning strategies to reduce the search space. The experimental results show that the proposed FRI-Miner algorithm can discover fewer and more interesting itemsets by considering the quantitative value in reality. Moreover, it significantly outperforms state-of-the-art algorithms in terms of effectiveness (w.r.t. different types of derived patterns) and efficiency (w.r.t. running time and memory usage).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:26:29.549Z

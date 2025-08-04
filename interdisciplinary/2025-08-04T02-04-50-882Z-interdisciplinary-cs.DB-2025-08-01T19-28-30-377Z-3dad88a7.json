@@ -1,0 +1,12 @@
+# Increasing Scalability of Process Mining using Event Dataframes: How Data Structure Matters
+
+**Authors:** Alessandro Berti
+
+## Summary
+Process Mining is a branch of Data Science that aims to extract process-related information from event data contained in information systems, that is steadily increasing in amount. Many algorithms, and a general-purpose open source framework (ProM 6), have been developed in the last years for process discovery, conformance checking, machine learning on event data. However, in very few cases scalability has been a target, prioritizing the quality of the output over the execution speed and the optimization of resources. This is making progressively more difficult to apply process mining with mainstream workstations on real-life event data with any open source process mining framework. Hence, exploring more scalable storage techniques, in-memory data structures, more performant algorithms is a strictly incumbent need. In this paper, we propose the usage of mainstream columnar storages and dataframes to increase the scalability of process mining. These can replace the classic event log structures in most tasks, but require completely different implementations with regards to mainstream process mining algorithms. Dataframes will be defined, some algorithms on such structures will be presented and their complexity will be calculated.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:28:30.378Z

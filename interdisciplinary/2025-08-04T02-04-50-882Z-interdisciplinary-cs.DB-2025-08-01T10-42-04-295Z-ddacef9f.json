@@ -1,0 +1,12 @@
+# Turning Multidimensional Big Data Analytics into Practice: Design and Implementation of ClustCube Big-Data Tools in Real-Life Scenarios
+
+**Authors:** Alfredo Cuzzocrea, Abderraouf Hafsaoui, Ismail Benlaredj
+
+## Summary
+Multidimensional Big Data Analytics is an emerging area that marries the capabilities of OLAP with modern Big Data Analytics. Essentially, the idea is engrafting multidimensional models into Big Data analytics processes to gain into expressive power of the overall discovery task. ClustCube is a state-of-the-art model that combines OLAP and Clustering, thus delving into practical and well-understood advantages in the context of real-life applications and systems. In this paper, we show how ClustCube can effectively and efficiently realizing nice tools for supporting Multidimensional Big Data Analytics, and assess these tools in the context of real-life research projects.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T10:42:04.296Z

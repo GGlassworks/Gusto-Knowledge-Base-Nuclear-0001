@@ -1,0 +1,12 @@
+# Big Data Quality: A systematic literature review and future research directions
+
+**Authors:** Mostafa Mirzaie, Behshid Behkamal, Samad Paydar
+
+## Summary
+One of the most significant problems of Big Data is to extract knowledge through the huge amount of data. The usefulness of the extracted information depends strongly on data quality. In addition to the importance, data quality has recently been taken into consideration by the big data community and there is not any comprehensive review conducted in this area. Therefore, the purpose of this study is to review and present the state of the art on the quality of big data research through a hierarchical framework. The dimensions of the proposed framework cover various aspects in the quality assessment of Big Data including 1) the processing types of big data, i.e. stream, batch, and hybrid, 2) the main task, and 3) the method used to conduct the task. We compare and critically review all of the studies reported during the last ten years through our proposed framework to identify which of the available data quality assessment methods have been successfully adopted by the big data community. Finally, we provide a critical discussion on the limitations of existing methods and offer suggestions on potential valuable research directions that can be taken in future research in this domain.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T10:43:45.063Z

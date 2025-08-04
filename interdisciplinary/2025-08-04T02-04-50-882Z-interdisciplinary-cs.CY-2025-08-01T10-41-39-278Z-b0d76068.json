@@ -1,0 +1,12 @@
+# Big Issues for Big Data: challenges for critical spatial data analytics
+
+**Authors:** Chris Brunsdon, Alexis Comber
+
+## Summary
+In this paper we consider some of the issues of working with big data and big spatial data and highlight the need for an open and critical framework. We focus on a set of challenges underlying the collection and analysis of big data. In particular, we consider 1) the issues related to inference when working with usually biased big data, challenging the assumed inferential superiority of data with observations, n, approaching N, the population (n-&gt;N), and the need for data science analysis that answer questions of practical significance or with greater emphasis n the size of the effect, rather than the truth or falsehood of a statistical statement; 2) the need to accept messiness in your data and to document all operations undertaken on the data because of this support of openness and reproducibility paradigms; and 3) the need to explicitly seek to understand the causes of bias, messiness etc in the data and the inferential consequences of using such data in analyses, by adopting critical approaches to spatial data science. In particular we consider the need to place individual data science studies in a wider social and economic contexts, along the the role of inferential theory in the presence of big data, and issues relating to messiness and complexity in big data.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:41:39.278Z

@@ -1,0 +1,12 @@
+# Optimizing a Data Science System for Text Reuse Analysis
+
+**Authors:** Ananth Mahadevan, Michael Mathioudakis, Eetu Mäkelä, Mikko Tolonen
+
+## Summary
+Text reuse is a methodological element of fundamental importance in humanities research: pieces of text that re-appear across different documents, verbatim or paraphrased, provide invaluable information about the historical spread and evolution of ideas. Large modern digitized corpora enable the joint analysis of text collections that span entire centuries and the detection of large-scale patterns, impossible to detect with traditional small-scale analysis. For this opportunity to materialize, it is necessary to develop efficient data science systems that perform the corresponding analysis tasks. In this paper, we share insights from ReceptionReader, a system for analyzing text reuse in large historical corpora. The system is built upon billions of instances of text reuses from large digitized corpora of 18th-century texts. Its main functionality is to perform downstream text reuse analysis tasks, such as finding reuses that stem from a given article or identifying the most reused quotes from a set of documents, with each task expressed as a database query. For the purposes of the paper, we discuss the related design choices including various database normalization levels and query execution frameworks, such as distributed data processing (Apache Spark), indexed row store engine (MariaDB Aria), and compressed column store engine (MariaDB Columnstore). Moreover, we present an extensive evaluation with various metrics of interest (latency, storage size, and computing costs) for varying workloads, and we offer insights from the trade-offs we observed and the choices that emerged as optimal in our setting. In summary, our results show that (1) for the workloads that are most relevant to text-reuse analysis, the MariaDB Aria framework emerges as the overall optimal choice, (2) big data processing (Apache Spark) is irreplaceable for all processing stages of the system's pipeline.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T10:17:22.116Z

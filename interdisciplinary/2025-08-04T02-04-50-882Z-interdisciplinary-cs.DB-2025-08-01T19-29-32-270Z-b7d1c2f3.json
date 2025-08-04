@@ -1,0 +1,12 @@
+# TALENT: Targeted Mining of Non-overlapping Sequential Patterns
+
+**Authors:** Zefeng Chen, Wensheng Gan, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu
+
+## Summary
+With the widespread application of efficient pattern mining algorithms, sequential patterns that allow gap constraints have become a valuable tool to discover knowledge from biological data such as DNA and protein sequences. Among all kinds of gap-constrained mining, non-overlapping sequence mining can mine interesting patterns and satisfy the anti-monotonic property (the Apriori property). However, existing algorithms do not search for targeted sequential patterns, resulting in unnecessary and redundant pattern generation. Targeted pattern mining can not only mine patterns that are more interesting to users but also reduce the unnecessary redundant sequence generated, which can greatly avoid irrelevant computation. In this paper, we define and formalize the problem of targeted non-overlapping sequential pattern mining and propose an algorithm named TALENT (TArgeted mining of sequentiaL pattErN with consTraints). Two search methods including breadth-first and depth-first searching are designed to troubleshoot the generation of patterns. Furthermore, several pruning strategies to reduce the reading of sequences and items in the data and terminate redundant pattern extensions are presented. Finally, we select a series of datasets with different characteristics and conduct extensive experiments to compare the TALENT algorithm with the existing algorithms for mining non-overlapping sequential patterns. The experimental results demonstrate that the proposed targeted mining algorithm, TALENT, has excellent mining efficiency and can deal efficiently with many different query settings.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:29:32.270Z

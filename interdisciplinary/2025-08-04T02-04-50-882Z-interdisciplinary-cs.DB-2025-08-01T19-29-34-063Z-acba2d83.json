@@ -1,0 +1,12 @@
+# Efficient Generalized Temporal Pattern Mining in Big Time Series Using Mutual Information
+
+**Authors:** Van Long Ho, Nguyen Ho, Torben Bach Pedersen, Panagiotis Papapetrou
+
+## Summary
+Big time series are increasingly available from an ever wider range of IoT-enabled sensors deployed in various environments. Significant insights can be gained by mining temporal patterns from these time series. Temporal pattern mining (TPM) extends traditional pattern mining by adding event time intervals into extracted patterns, making them more expressive at the expense of increased time and space complexities. Besides frequent temporal patterns (FTPs), which occur frequently in the entire dataset, another useful type of temporal patterns are so-called rare temporal patterns (RTPs), which appear rarely but with high confidence. Mining rare temporal patterns yields additional challenges. For FTP mining, the temporal information and complex relations between events already create an exponential search space. For RTP mining, the support measure is set very low, leading to a further combinatorial explosion and potentially producing too many uninteresting patterns. Thus, there is a need for a generalized approach which can mine both frequent and rare temporal patterns. This paper presents our Generalized Temporal Pattern Mining from Time Series (GTPMfTS) approach with the following specific contributions: (1) The end-to-end GTPMfTS process taking time series as input and producing frequent/rare temporal patterns as output. (2) The efficient Generalized Temporal Pattern Mining (GTPM) algorithm mines frequent and rare temporal patterns using efficient data structures for fast retrieval of events and patterns during the mining process, and employs effective pruning techniques for significantly faster mining. (3) An approximate version of GTPM that uses mutual information, a measure of data correlation, to prune unpromising time series from the search space.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:29:34.065Z

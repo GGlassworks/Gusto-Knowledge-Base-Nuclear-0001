@@ -1,0 +1,12 @@
+# Big Data
+
+**Authors:** Andreas L Opdahl, Vimala Nunavath
+
+## Summary
+The Internet of Things, crowdsourcing, social media, public authorities, and other sources generate bigger and bigger data sets. Big and open data offers many benefits for emergency management, but also pose new challenges. This chapter will review the sources of big data and their characteristics. We then discuss potential benefits of big data for emergency management along with the technological and societal challenges it poses. We review central technologies for big-data storage and processing in general, before presenting the Spark big-data engine in more detail. Finally, we review ethical and societal threats that big data pose.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:41:06.430Z

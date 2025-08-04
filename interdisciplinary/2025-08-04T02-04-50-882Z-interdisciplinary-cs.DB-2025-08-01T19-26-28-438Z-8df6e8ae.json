@@ -1,0 +1,12 @@
+# Parallel algorithms for mining of frequent itemsets
+
+**Authors:** Robert Kessl
+
+## Summary
+In the recent decade companies started collecting of large amount of data. Without a proper analyse, the data are usually useless. The field of analysing the data is called data mining. Unfortunately, the amount of data is quite large: the data do not fit into main memory and the processing time can become quite huge. Therefore, we need parallel data mining algorithms. One of the popular and important data mining algorithm is the algorithm for generation of so called frequent itemsets. The problem of mining of frequent itemsets can be explained on the following example: customers goes in a store put into theirs baskets some goods; the owner of the store collects the baskets and wants to know the set of goods that are bought together in at least p% of the baskets. Currently, the sequential algorithms for mining of frequent itemsets are quite good in the means of performance. However, the parallel algorithms for mining of frequent itemsets still do not achieve good speedup. In this thesis, we develop a parallel method for mining of frequent itemsets that can be used for an arbitrary depth first search sequential algorithms on a distributed memory parallel computer. Our method achieves speedup of ~ 6 on 10 processors. The method is based on an approximate estimation of processor load from a database sample - however it always computes the set of frequent itemsets from the whole database. In this thesis, we show a theory underlying our method and show the performance of the estimation process.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:26:28.439Z

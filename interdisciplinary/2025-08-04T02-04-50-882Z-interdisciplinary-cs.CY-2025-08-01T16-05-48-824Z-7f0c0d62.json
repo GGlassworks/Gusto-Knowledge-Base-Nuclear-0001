@@ -1,0 +1,12 @@
+# College Dropout Factors: An Analysis with LightGBM and Shapley's Cooperative Game Theory
+
+**Authors:** Hugo Roger Paz
+
+## Summary
+This study was based on data analysis of academic histories of civil engineering students at FACET-UNT. Our main objective was to determine the academic performance variables that have a significant impact on the dropout of the career. To do this, we implemented a correlation model using LightGBM (Barbier et al., 2016; Ke et al., 2017; Shi et al., 2022). We use this model to identify the key variables that influence the probability of student dropout. In addition, we use game theory to interpret the results obtained. Specifically, we use the SHAP library (Lundberg et al., 2018, 2020; Lundberg &amp; Lee, 2017) in Python to calculate the Shapley numbers. The results of our study revealed the most important variables that influence the dropout from the civil engineering career. Significant differences were identified in terms of age, time spent in studies, and academic performance, which includes the number of courses passed and the number of exams taken. These results may be useful to develop more effective student retention strategies and improve academic success in this discipline.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T16:05:48.824Z

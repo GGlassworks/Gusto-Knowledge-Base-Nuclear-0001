@@ -1,0 +1,12 @@
+# Bridging BAD Islands: Declarative Data Sharing at Scale
+
+**Authors:** Xikui Wang, Michael J. Carey, Vassilis J. Tsotras
+
+## Summary
+In many Big Data applications today, information needs to be actively shared between systems managed by different organizations. To enable sharing Big Data at scale, developers would have to create dedicated server programs and glue together multiple Big Data systems for scalability. Developing and managing such glued data sharing services requires a significant amount of work from developers. In our prior work, we developed a Big Active Data (BAD) system for enabling Big Data subscriptions and analytics with millions of subscribers. Based on that, we introduce a new mechanism for enabling the sharing of Big Data at scale declaratively so that developers can easily create and provide data sharing services using declarative statements and can benefit from an underlying scalable infrastructure. We show our implementation on top of the BAD system, explain the data sharing data flow among multiple systems, and present a prototype system with experimental results.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T10:44:09.939Z

@@ -1,0 +1,12 @@
+# 2060: Civilization, Energy, and Progression of Mankind on the Kardashev Scale
+
+**Authors:** Antong Zhang, Jiani Yang, Yangcheng Luo, Siteng Fan
+
+## Summary
+Energy has been propelling the development of human civilization for millennia, and technologies acquiring energy beyond human and animal power have been continuously advanced and transformed. In 1964, the Kardashev Scale was proposed to quantify the relationship between energy consumption and the development of civilizations. Human civilization presently stands at Type 0.7276 on this scale. Projecting the future energy consumption, estimating the change of its constituting structure, and evaluating the influence of possible technological revolutions are critical in the context of civilization development. In this study, we use two machine learning models, random forest (RF) and autoregressive integrated moving average (ARIMA), to simulate and predict energy consumption on a global scale. We further project the position of human civilization on the Kardashev Scale in 2060. The result shows that the global energy consumption is expected to reach 928-940 EJ in 2060, with a total growth of over 50% in the coming 40 years, and our civilization is expected to achieve Type 0.7474 on the Kardashev Scale, still far away from a Type 1 civilization. Additionally, we discuss the potential energy segmentation change before 2060 and present the influence of the advent of nuclear fusion in this context.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T16:04:47.905Z

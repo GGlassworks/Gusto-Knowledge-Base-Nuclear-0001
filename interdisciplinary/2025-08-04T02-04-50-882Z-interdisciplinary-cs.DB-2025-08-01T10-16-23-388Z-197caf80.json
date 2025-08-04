@@ -1,0 +1,12 @@
+# Brazilian COVID-19 data streaming
+
+**Authors:** Nívea B. da Silva, Luis Iván O. Valencia, Fábio M. H. S. Filho, Andressa C. S. Ferreira, Felipe A. C. Pereira, Guilherme L. de Oliveira, Paloma F. Oliveira, Moreno S. Rodrigues, Pablo I. P. Ramos, Juliane F. Oliveira
+
+## Summary
+We collected individualized (unidentifiable) and aggregated openly available data from various sources related to suspected/confirmed SARS-CoV-2 infections, vaccinations, non-pharmaceutical government interventions, human mobility, and levels of population inequality in Brazil. In addition, a data structure allowing real-time data collection, curation, integration, and extract-transform-load processes for different objectives was developed. The granularity of this dataset (state- and municipality-wide) enables its application to individualized and ecological epidemiological studies, statistical, mathematical, and computational modeling, data visualization as well as the scientific dissemination of information on the COVID-19 pandemic in Brazil.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T10:16:23.388Z

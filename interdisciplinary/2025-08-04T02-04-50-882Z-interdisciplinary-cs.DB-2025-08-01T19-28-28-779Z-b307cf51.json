@@ -1,0 +1,12 @@
+# Targeted Mining Precise-positioning Episode Rules
+
+**Authors:** Jian Zhu, Xiaoye Chen, Wensheng Gan, Zefeng Chen, Philip S. Yu
+
+## Summary
+The era characterized by an exponential increase in data has led to the widespread adoption of data intelligence as a crucial task. Within the field of data mining, frequent episode mining has emerged as an effective tool for extracting valuable and essential information from event sequences. Various algorithms have been developed to discover frequent episodes and subsequently derive episode rules using the frequency function and anti-monotonicity principles. However, currently, there is a lack of algorithms specifically designed for mining episode rules that encompass user-specified query episodes. To address this challenge and enable the mining of target episode rules, we introduce the definition of targeted precise-positioning episode rules and formulate the problem of targeted mining precise-positioning episode rules. Most importantly, we develop an algorithm called Targeted Mining Precision Episode Rules (TaMIPER) to address the problem and optimize it using four proposed strategies, leading to significant reductions in both time and space resource requirements. As a result, TaMIPER offers high accuracy and efficiency in mining episode rules of user interest and holds promising potential for prediction tasks in various domains, such as weather observation, network intrusion, and e-commerce. Experimental results on six real datasets demonstrate the exceptional performance of TaMIPER.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:28:28.779Z

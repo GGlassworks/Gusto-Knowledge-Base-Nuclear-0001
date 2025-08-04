@@ -1,0 +1,12 @@
+# Data Lakes for Digital Humanities
+
+**Authors:** Jérôme Darmont, Cécile Favre, Sabine Loudcher, Camille Noûs
+
+## Summary
+Traditional data in Digital Humanities projects bear various formats (structured, semi-structured, textual) and need substantial transformations (encoding and tagging, stemming, lemmatization, etc.) to be managed and analyzed. To fully master this process, we propose the use of data lakes as a solution to data siloing and big data variety problems. We describe data lake projects we currently run in close collaboration with researchers in humanities and social sciences and discuss the lessons learned running these projects.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T10:14:15.802Z

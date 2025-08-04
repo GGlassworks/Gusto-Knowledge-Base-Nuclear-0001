@@ -1,0 +1,12 @@
+# THUE: Discovering Top-K High Utility Episodes
+
+**Authors:** Shicheng Wan, Jiahui Chen, Wensheng Gan, Guoting Chen, Vikram Goyal
+
+## Summary
+Episode discovery from an event is a popular framework for data mining tasks and has many real-world applications. An episode is a partially ordered set of objects (e.g., item, node), and each object is associated with an event type. This episode can also be considered as a complex event sub-sequence. High-utility episode mining is an interesting utility-driven mining task in the real world. Traditional episode mining algorithms, by setting a threshold, usually return a huge episode that is neither intuitive nor saves time. In general, finding a suitable threshold in a pattern-mining algorithm is a trivial and time-consuming task. In this paper, we propose a novel algorithm, called Top-K High Utility Episode (THUE) mining within the complex event sequence, which redefines the previous mining task by obtaining the K highest episodes. We introduce several threshold-raising strategies and optimize the episode-weighted utilization upper bounds to speed up the mining process and effectively reduce the memory cost. Finally, the experimental results on both real-life and synthetic datasets reveal that the THUE algorithm can offer six to eight orders of magnitude running time performance improvement over the state-of-the-art algorithm and has low memory consumption.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:28:29.504Z

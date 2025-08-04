@@ -1,0 +1,12 @@
+# On Designing a Generic Framework for Cloud-based Big Data Analytics
+
+**Authors:** Samiya Khan, Mansaf Alam
+
+## Summary
+Big data analytics has gathered immense research attention lately because of its ability to harness useful information from heaps of data. Cloud computing has been adjudged as one of the best infrastructural solutions for implementation of big data analytics. This research paper proposes a five-layer model for cloud-based big data analytics that uses dew computing and edge computing concepts. Besides this, the paper also presents an approach for creation of custom big data stack by selecting technologies on the basis of identified data and computing models for the application
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CY
+Collected: 2025-08-01T10:43:21.570Z

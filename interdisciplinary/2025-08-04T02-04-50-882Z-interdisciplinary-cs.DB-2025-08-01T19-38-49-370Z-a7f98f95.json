@@ -1,0 +1,12 @@
+# Graph-based process mining
+
+**Authors:** Amin Jalali
+
+## Summary
+Process mining is an area of research that supports discovering information about business processes from their execution event logs. The increasing amount of event logs in organizations challenges current process mining techniques, which tend to load data into the memory of a computer. This issue limits the organizations to apply process mining on a large scale and introduces risks due to the lack of data management capabilities. Therefore, this paper introduces and formalizes a new approach to store and retrieve event logs into/from graph databases. It defines an algorithm to compute Directly Follows Graph (DFG) inside the graph database, which shifts the heavy computation parts of process mining into the graph database. Calculating DFG in graph databases enables leveraging the graph databases' horizontal and vertical scaling capabilities in favor of applying process mining on a large scale. Besides, it removes the requirement to move data into analysts' computer. Thus, it enables using data management capabilities in graph databases. We implemented this approach in Neo4j and evaluated its performance compared with current techniques using a real log file. The result shows that our approach enables the calculation of DFG when the data is much bigger than the computational memory. It also shows better performance when dicing data into small chunks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DB
+Collected: 2025-08-01T19:38:49.370Z
