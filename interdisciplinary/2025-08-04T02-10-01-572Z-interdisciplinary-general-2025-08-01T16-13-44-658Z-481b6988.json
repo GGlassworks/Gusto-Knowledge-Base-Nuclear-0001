@@ -1,0 +1,13 @@
+# Time Series Analysis Methodology for Damage Detection in Civil Structures
+
+**Authors:** Burcu GÜNEŞ, Oğuz GÜNEŞ
+
+## Abstract
+<jats:p xml:lang="en">Structural health monitoring (SHM) methodologies employing data-driven techniques are becoming increasingly popular for detection of structural damage at the earliest stage possible. With measured vibration signals from the structure, time series modeling methods provide quantitative means for extracting such features that can be utilized for damage diagnosis. In this study, one-step prediction error of an autoregressive (AR) model over a data set is used as damage indicator. In particular, the difference between the prediction of the AR model that is fit to the measured acceleration signal obtained from the intact structure and actual measured signals collected for different damage states of the structure are interrogated for diagnosis purposes. More specifically, the standard deviation of the residual error is employed to locate the damaged region. Singular-value decomposition (SVD) is employed to find the optimal order for an AR model created using the impulse responses of the system. Numerical simulations are carried out using the impulse responses acquired from a four-story frame structure contaminated with additive noise including single and multiple damaged elements. The results of the simulations demonstrate that the method can be effectively employed to detect and locate damage. The performance of the proposed procedure are further demonstrated using the impact data acquired from a reinforced concrete frame for real applications.</jats:p>
+
+**Source:** https://doi.org/10.24012/dumf.1364693
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:13:44.658Z
