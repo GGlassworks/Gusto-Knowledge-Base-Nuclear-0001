@@ -1,0 +1,13 @@
+# A Review on Big Data Optimization Techniques
+
+**Authors:** Vedrana Nerić, N. Sarajlic
+
+## Abstract
+Abstract Analysis of representative tools for SQL query processing on Hadoop (SQL-on-Hadoop systems), such as Hive, Impala, Presto, Shark, show that they are not still sufficiently efficient for complex analytical queries and interactive query processing. Existing SQL-on-Hadoop systems have many benefits from the application of modern query processing techniques that have been studied extensively for many years in the database community. It is expected that with the application of advanced techniques, the performance of SQL-on-Hadoop systems can be improved. The main idea of this paper is to give a review of big data concepts and technologies, and summarize big data optimization techniques that can be used for improving performance when processing big data.
+
+**Source:** https://www.semanticscholar.org/paper/89e4e410a6394ecc4063a2d214862f7445210a4a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:48.404Z

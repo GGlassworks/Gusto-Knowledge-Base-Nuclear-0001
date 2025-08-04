@@ -1,0 +1,13 @@
+# Time series big data: a survey on data stream frameworks, analysis and algorithms
+
+**Authors:** Ana Almeida, Susana Brás, S. Sargento, F. Pinto
+
+## Abstract
+Big data has a substantial role nowadays, and its importance has significantly increased over the last decade. Big data’s biggest advantages are providing knowledge, supporting the decision-making process, and improving the use of resources, services, and infrastructures. The potential of big data increases when we apply it in real-time by providing real-time analysis, predictions, and forecasts, among many other applications. Our goal with this article is to provide a viewpoint on how to build a system capable of processing big data in real-time, performing analysis, and applying algorithms. A system should be designed to handle vast amounts of data and provide valuable knowledge through analysis and algorithms. This article explores the current approaches and how they can be used for the real-time operations and predictions.
+
+**Source:** https://www.semanticscholar.org/paper/d61d50ea9d6e7827d539c014d72158b9716590bb
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:43:14.167Z

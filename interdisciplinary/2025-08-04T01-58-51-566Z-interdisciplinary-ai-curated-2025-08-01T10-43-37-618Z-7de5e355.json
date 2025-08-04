@@ -1,0 +1,13 @@
+# Big Data Maturity Assessment Models: A Systematic Literature Review
+
+**Authors:** Zaher Ali Al-Sai, M. Husin, Sharifah Mashita Syed-Mohamad, Rosni Abdullah, R. A. Zitar, L. Abualigah, Amir H. Gandomi
+
+## Abstract
+Big Data and analytics have become essential factors in managing the COVID-19 pandemic. As no company can escape the effects of the pandemic, mature Big Data and analytics practices are essential for successful decision-making insights and keeping pace with a changing and unpredictable marketplace. The ability to be successful in Big Data projects is related to the organization’s maturity level. The maturity model is a tool that could be applied to assess the maturity level across specific key dimensions, where the maturity levels indicate an organization’s current capabilities and the desirable state. Big Data maturity models (BDMMs) are a new trend with limited publications published as white papers and web materials by practitioners. While most of the related literature might not have covered all of the existing BDMMs, this systematic literature review (SLR) aims to contribute to the body of knowledge and address the limitations in the existing literature about the existing BDMMs, assessment dimensions, and tools. The SLR strategy in this paper was conducted based on guidelines to perform SLR in software engineering by answering three research questions: (1) What are the existing maturity assessment models for Big Data? (2) What are the assessment dimensions for Big Data maturity models? and (3) What are the assessment tools for Big Data maturity models? This SLR covers the available BDMMs written in English and developed by academics and practitioners (2007–2022). By applying a descriptive qualitative content analysis method for the reviewed publications, this SLR identified 15 BDMMs (10 BDMMs by practitioners and 5 BDMMs by academics). Additionally, this paper presents the limitations of existing BDMMs. The findings of this paper could be used as a grounded reference for assessing the maturity of Big Data. Moreover, this paper will provide managers with critical insights to select the BDMM that fits within their organization to support their data-driven decisions. Future work will investigate the Big Data maturity assessment dimensions towards developing a new Big Data maturity model.
+
+**Source:** https://www.semanticscholar.org/paper/251ddd5302daeae2ef6eadd206402542f90029a9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:43:37.618Z

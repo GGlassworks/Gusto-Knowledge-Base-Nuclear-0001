@@ -1,0 +1,13 @@
+# Big Data Optimization Techniques: A Survey
+
+**Authors:** Chandrima Roy, S. Rautaray, M. Pandey
+
+## Abstract
+—As the world is getting digitized the speed in which the amount of data is over owing from different sources in different format, it is not possible for the traditional system to compute and analysis this kind of big data for which big data tool like Hadoop is used which is an open source software. It stores and computes data in a distributed environment. In the last few years developing Big Data Applications has become increasingly important. In fact many organizations are depending upon knowledge extracted from huge amount of data. However traditional data technique shows a reduced performance, accuracy, slow responsiveness and lack of scalability. To solve the complicated Big Data problem, lots of work has been carried out. As a result various types of technologies have been developed. As the world is getting digitized the speed in which the amount of data is over owing from different sources in different format, it is not possible for the traditional system to compute and analysis this kind of big data for which big data tool like Hadoop is used which is an open source software. This research work is a survey about the survey of recent optimization technologies and their applications developed for Big Data. It aims to help to choose the right collaboration of various Big Data technologies according to requirements.
+
+**Source:** https://www.semanticscholar.org/paper/a69a5ae91d2b7088b0e731158dd480e1be1f8002
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:48.861Z

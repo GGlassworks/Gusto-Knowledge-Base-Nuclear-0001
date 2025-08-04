@@ -1,0 +1,13 @@
+# Evaluation of big data frameworks for analysis of smart grids
+
+**Authors:** Mohammad Hasan Ansari, V. Vakili, B. Bahrak
+
+## Abstract
+With the rapid development of smart grids and increasing data collected in these networks, analyzing this massive data for applications such as marketing, cyber-security, and performance analysis, has gained popularity. This paper focuses on analysis and performance evaluation of big data frameworks that are proposed for handling smart grid data. Since obtaining large amounts of smart grid data is difficult due to privacy concerns, we propose and implement a large scale smart grid data generator to produce massive data under conditions similar to those in real smart grids. We use four open source big data frameworks namely Hadoop-Hbase, Cassandra, Elasticsearch, and MongoDB, in our implementation. Finally, we evaluate the performance of different frameworks on smart grid big data and present a performance benchmark that includes common data analysis techniques on smart grid data.
+
+**Source:** https://www.semanticscholar.org/paper/cfcb0198211f3e0451eb65e4fe4998074d5af843
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:44:02.269Z

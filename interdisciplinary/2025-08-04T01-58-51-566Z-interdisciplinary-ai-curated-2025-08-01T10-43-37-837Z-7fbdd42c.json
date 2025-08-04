@@ -1,0 +1,13 @@
+# A survey and analysis of intrusion detection models based on CSE-CIC-IDS2018 Big Data
+
+**Authors:** Joffrey L. Leevy, T. Khoshgoftaar
+
+## Abstract
+The exponential growth in computer networks and network applications worldwide has been matched by a surge in cyberattacks. For this reason, datasets such as CSE-CIC-IDS2018 were created to train predictive models on network-based intrusion detection. These datasets are not meant to serve as repositories for signature-based detection systems, but rather to promote research on anomaly-based detection through various machine learning approaches. CSE-CIC-IDS2018 contains about 16,000,000 instances collected over the course of ten days. It is the most recent intrusion detection dataset that is big data, publicly available, and covers a wide range of attack types. This multi-class dataset has a class imbalance, with roughly 17% of the instances comprising attack (anomalous) traffic. Our survey work contributes several key findings. We determined that the best performance scores for each study, where available, were unexpectedly high overall, which may be due to overfitting. We also found that most of the works did not address class imbalance, the effects of which can bias results in a big data study. Lastly, we discovered that information on the data cleaning of CSE-CIC-IDS2018 was inadequate across the board, a finding that may indicate problems with reproducibility of experiments. In our survey, major research gaps have also been identified.
+
+**Source:** https://www.semanticscholar.org/paper/f40ef77759518894739c21d6edb1bf426ecbe273
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:43:37.837Z

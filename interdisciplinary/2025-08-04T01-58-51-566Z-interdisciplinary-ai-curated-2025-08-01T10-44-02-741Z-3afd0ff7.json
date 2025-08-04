@@ -1,0 +1,13 @@
+# Bridging the Gap between HPC and Big Data frameworks
+
+**Authors:** Michael J. Anderson, Shaden Smith, N. Sundaram, M. Capotă, Zheguang Zhao, Subramanya R. Dulloor, N. Satish, Theodore L. Willke
+
+## Abstract
+Apache Spark is a popular framework for data analytics with attractive features such as fault tolerance and interoperability with the Hadoop ecosystem. Unfortunately, many analytics operations in Spark are an order of magnitude or more slower compared to native implementations written with high performance computing tools such as MPI. There is a need to bridge the performance gap while retaining the benefits of the Spark ecosystem such as availability, productivity, and fault tolerance. In this paper, we propose a system for integrating MPI with Spark and analyze the costs and benefits of doing so for four distributed graph and machine learning applications. We show that offloading computation to an MPI environment from within Spark provides 3.1−17.7× speedups on the four sparse applications, including all of the overheads. This opens up an avenue to reuse existing MPI libraries in Spark with little effort.
+
+**Source:** https://www.semanticscholar.org/paper/2f559253dc7031108626630b7c5002033f029e49
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:44:02.742Z

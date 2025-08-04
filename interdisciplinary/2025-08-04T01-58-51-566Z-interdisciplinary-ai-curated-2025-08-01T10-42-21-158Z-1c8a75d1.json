@@ -1,0 +1,13 @@
+# Load balancing and service discovery using Docker Swarm for microservice based big data applications
+
+**Authors:** Neelam Singh, Yasir Hamid, Sapna Juneja, Gautam Srivastava, Gaurav Dhiman, T. Gadekallu, M. A. Shah
+
+## Abstract
+Big Data applications require extensive resources and environments to store, process and analyze this colossal collection of data in a distributed manner. Containerization with cloud computing provides a pertinent remedy to accommodate big data requirements, however requires a precise and appropriate load-balancing mechanism. The load on servers increases exponentially with increased resource usage thus making load balancing an essential requirement. Moreover, the adjustment of containers accurately and rapidly according to load as per services is one of the crucial aspects in big data applications. This study provides a review relating to containerized environments like Docker for big data applications with load balancing. A novel scheduling mechanism of containers for big data applications established on Docker Swarm and Microservice architecture is proposed. The concept of Docker Swarm is utilized to effectively handle big data applications' workload and service discovery. Results shows that increasing workloads with respect to big data applications can be effectively managed by utilizing microservices in containerized environments and load balancing is efficiently achieved using Docker Swarm. The implementation is done using a case study deployed on a single server and then scaled to four instances. Applications developed using containerized microservices reduces average deployment time and continuous integration.
+
+**Source:** https://www.semanticscholar.org/paper/1cf647eee41cd65c2fe0d8861b798d0f4f4c1f37
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:21.158Z

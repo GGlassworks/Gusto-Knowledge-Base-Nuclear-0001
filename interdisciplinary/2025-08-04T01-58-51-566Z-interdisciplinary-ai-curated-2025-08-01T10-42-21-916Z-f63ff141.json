@@ -1,0 +1,13 @@
+# Analysis and processing aspects of data in big data applications
+
+**Authors:** K. Rahul, R. K. Banyal, Puneet Goswami
+
+## Abstract
+Abstract Data analysis and processing is playing an important role because of the large amount of data generated through various sources of big data. It is an important component in big data-based applications. Data qualities are the main concern in the data acquisition, transformation and data pre-processing under big data applications. Data pre-processing is required because of inconsistent, noisy and incomplete data generation in big data applications. Data analysis basically encompasses different methods and a function applicable to data’s to detect characteristics such as data type, size, format, patterns and so on. Based on data format, it’s easy to identify data qualities for further use in various applications. Moreover, data analysis and processing includes various steps such as data qualities identification, statistical analysis of data, defining modeling, and hypothetical testing of model and result from analysis. Raw data is unused data and required analysis, filtering, and processing in any system. This paper deals with the analysis and processing aspects of raw data and cleaned data in big data applications. This paper also deals with data cleaning and its implementation concepts.
+
+**Source:** https://www.semanticscholar.org/paper/d3295a315b915c99eab329d8c3f9d4cc5cc5c2a4
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:21.916Z

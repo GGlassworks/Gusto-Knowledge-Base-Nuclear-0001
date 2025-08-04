@@ -1,0 +1,13 @@
+# Quality Assurance Technologies of Big Data Applications: A Systematic Literature Review
+
+**Authors:** Pengcheng Zhang, Wennan Cao, H. Muccini
+
+## Abstract
+Big data applications are currently used in many application domains, ranging from statistical applications to prediction systems and smart cities. However, the quality of these applications is far from perfect, such as functional error, failure and low performance. Consequently, assuring the overall quality for big data applications plays an increasingly important role. This paper aims at summarizing and assessing existing quality assurance (QA) technologies addressing quality issues in big data applications. We have conducted a systematic literature review (SLR) by searching major scientific databases, resulting in 83 primary and relevant studies on QA technologies for big data applications. The SLR results reveal the following main findings: (1) the quality attributes that are focused for the quality of big data applications, including correctness, performance, availability, scalability and reliability, and the factors influencing them; (2) the existing implementation-specific QA technologies, including specification, architectural choice and fault tolerance, and the process-specific QA technologies, including analysis, verification, testing, monitoring and fault and failure prediction; (3) existing strengths and limitations of each kind of QA technology; (4) the existing empirical evidence of each QA technology. This study provides a solid foundation for research on QA technologies of big data applications and can help developers of big data applications apply suitable QA technologies.
+
+**Source:** https://www.semanticscholar.org/paper/bc9bfb820228c5a84e2b9c1f001a29c480fe40fc
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:21.858Z

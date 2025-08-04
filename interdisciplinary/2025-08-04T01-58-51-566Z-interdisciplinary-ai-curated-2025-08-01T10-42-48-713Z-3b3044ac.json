@@ -1,0 +1,13 @@
+# Distributed Big-Data Optimization via Blockwise Gradient Tracking
+
+**Authors:** Ivano Notarnicola, Ying Sun, G. Scutari, G. Notarstefano
+
+## Abstract
+We study distributed big-data nonconvex optimization in multiagent networks. We consider the (constrained) minimization of the sum of a smooth (possibly) nonconvex function, i.e., the agents’ sum-utility, plus a convex (possibly) nonsmooth regularizer. Our interest is on big-data problems in which there is a large number of variables to optimize. If treated by means of standard distributed optimization algorithms, these large-scale problems may be intractable due to the prohibitive local computation and communication burden at each node. We propose a novel distributed solution method where, at each iteration, agents update in an uncoordinated fashion only one block of the entire decision vector. To deal with the nonconvexity of the cost function, the novel scheme hinges on successive convex approximation techniques combined with a novel blockwise perturbed push-sum consensus protocol, which is instrumental to perform local block-averaging operations and tracking of gradient averages. Asymptotic convergence to stationary solutions of the nonconvex problem is established. Finally, numerical results show the effectiveness of the proposed algorithm and highlight how the block dimension impacts on the communication overhead and practical convergence speed.
+
+**Source:** https://www.semanticscholar.org/paper/e70e15c7d11c2a6ae29513a19fdf3cecbb2120aa
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:48.713Z

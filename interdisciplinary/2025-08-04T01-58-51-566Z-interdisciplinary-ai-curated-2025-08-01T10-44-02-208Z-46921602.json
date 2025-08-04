@@ -1,0 +1,13 @@
+# Study on Big Data Frameworks
+
+**Authors:** Adriano Fernandes, Jonathan Barretto, Jonas Fernandes
+
+## Abstract
+Big data analytics is becoming more and more popular every day as a tool for evaluating large volumes of data on demand. Apache Hadoop, Spark, Storm, and Flink are four of the most widely used big data processing frameworks. Although all four architectures support big data analysis, they vary in how they are used and the infrastructure that supports it. This paper defines a general collection of main performance metrics, which include Processing Time, CPU Use, Latency, Execution Time, Performance, Scalability, and Fault-tolerance, and contrasting the four big data architectures against these KPIs in a literature review. When compared to Apache Hadoop and Apache Storm frameworks for non-real-time results, Spark was found to be the winner over multiple KPIs, including processing time, CPU usage, Latency, Execution time, and Scalability. In terms of processing time, CPU consumption, latency, execution time, and performance, Flink surpassed Apache Spark and Apache Storm architectures.
+
+**Source:** https://www.semanticscholar.org/paper/2afe4c20fdceefe643944c42218186cff44ee8fd
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:44:02.209Z

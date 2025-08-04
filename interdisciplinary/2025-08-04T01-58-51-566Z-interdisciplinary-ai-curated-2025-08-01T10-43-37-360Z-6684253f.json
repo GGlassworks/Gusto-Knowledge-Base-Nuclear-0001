@@ -1,0 +1,13 @@
+# A Brief Review on Leading Big Data Models
+
+**Authors:** Sugam Sharma, U. S. Tim, Johnny S. Wong, S. Gadia, Subhash Chander Sharma
+
+## Abstract
+Today, science is passing through an era of transformation, where the inundation of data, dubbed data deluge is influencing the decision making process. The science is driven by the data and is being termed as data science. In this internet age, the volume of the data has grown up to petabytes, and this large, complex, structured or unstructured, and heterogeneous data in the form of “Big Data” has gained significant attention. The rapid pace of data growth through various disparate sources, especially social media such as Facebook, has seriously challenged the data analytic capabilities of traditional relational databases. The velocity of the expansion of the amount of data gives rise to a complete paradigm shift in how new age data is processed. Confidence in the data engineering of the existing data processing systems is gradually fading whereas the capabilities of the new techniques for capturing, storing, visualizing, and analyzing data are evolving. In this review paper, we discuss some of the modern Big Data models that are leading contributors in the NoSQL era and claim to address Big Data challenges in reliable and efficient ways. Also, we take the potential of Big Data into consideration and try to reshape the original operationaloriented definition of “Big Science” (Furner, 2003) into a new data-driven definition and rephrase it as “The science that deals with Big Data is Big Science.”
+
+**Source:** https://www.semanticscholar.org/paper/9759ed3befc96caa5035b7176671efea99cd3493
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:43:37.361Z

@@ -1,0 +1,13 @@
+# Towards Secure Big Data Analysis via Fully Homomorphic Encryption Algorithms
+
+**Authors:** Rafik Hamza, Alzubair Hassan, Awad Ali, M. Bashir, Samar M. Alqhtani, Tawfeeg Mohmmed Tawfeeg, A. Yousif
+
+## Abstract
+Privacy-preserving techniques allow private information to be used without compromising privacy. Most encryption algorithms, such as the Advanced Encryption Standard (AES) algorithm, cannot perform computational operations on encrypted data without first applying the decryption process. Homomorphic encryption algorithms provide innovative solutions to support computations on encrypted data while preserving the content of private information. However, these algorithms have some limitations, such as computational cost as well as the need for modifications for each case study. In this paper, we present a comprehensive overview of various homomorphic encryption tools for Big Data analysis and their applications. We also discuss a security framework for Big Data analysis while preserving privacy using homomorphic encryption algorithms. We highlight the fundamental features and tradeoffs that should be considered when choosing the right approach for Big Data applications in practice. We then present a comparison of popular current homomorphic encryption tools with respect to these identified characteristics. We examine the implementation results of various homomorphic encryption toolkits and compare their performances. Finally, we highlight some important issues and research opportunities. We aim to anticipate how homomorphic encryption technology will be useful for secure Big Data processing, especially to improve the utility and performance of privacy-preserving machine learning.
+
+**Source:** https://www.semanticscholar.org/paper/ee29a83f09756d41568cac5f84082ccc55166ad8
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:43:14.468Z

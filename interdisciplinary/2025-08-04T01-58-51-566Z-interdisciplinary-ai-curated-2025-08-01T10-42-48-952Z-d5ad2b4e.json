@@ -1,0 +1,13 @@
+# Distributed Partitioned Big-Data Optimization via Asynchronous Dual Decomposition
+
+**Authors:** Ivano Notarnicola, R. Carli, G. Notarstefano
+
+## Abstract
+In this paper, we consider a novel partitioned framework for distributed optimization in peer-to-peer networks. In several important applications, the agents of a network have to solve an optimization problem with two key features: i) the dimension of the decision variable depends on the network size, and ii) cost function and constraints have a sparsity structure related to the communication graph. For this class of problems, a straightforward application of existing consensus methods would show two inefficiencies: poor scalability and redundancy of shared information. We propose an asynchronous distributed algorithm, based on dual decomposition and coordinate methods, to solve partitioned optimization problems. We show that by exploiting the problem structure, the solution can be partitioned among the nodes, so that each node just stores a local copy of a portion of the decision variable (rather than a copy of the entire decision vector) and solves a small-scale local problem.
+
+**Source:** https://www.semanticscholar.org/paper/5e731ee04c373f3313f2cc32ba5a0cf0588e0a13
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:48.952Z

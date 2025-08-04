@@ -1,0 +1,13 @@
+# Sentiment Analysis Technique and Neutrosophic Set Theory for Mining and Ranking Big Data From Online Reviews
+
+**Authors:** Ibrahim Awajan, M. Mohamad, Ashraf Al-Quran
+
+## Abstract
+Recently, a huge amount of online consumer reviews (OCRs) is being generated through social media, web contents, and microblogs. This scale of big data cannot be handled by traditional methods. Sentiment analysis (SA) or opinion mining is emerging as a powerful and efficient tool in big data analytics and improving decision making. This research paper introduces a novel method that integrates neutrosophic set (NS) theory into the SA technique and multi-attribute decision making (MADM) to rank the different products based on numerous online reviews. The method consists of two parts: Determining sentiment scores of the online reviews based on the SA technique and ranking alternative products via NS theory. In the first part, the online reviews of the alternative products concerning multiple features are crawled and pre-processed. A neutral lexicon consists of 228 neutral words and phrases is compiled and the Valence Aware Dictionary and sEntiment Reasoner (VADER) for sentiment reasoning is adapted to handle the neutral data. The compiled neutral lexicon, as well as the adapted VADER, are utilized to build a novel adaptation called Neutro-VADER. The Neutro-VADER assigns positive, neutral, and negative sentiment scores to each review concerning the product feature. In this stage, the novel idea is to point out the positive, neutral, and negative sentiment scores as the truth, indeterminacy, and falsity memberships degrees of the neutrosophic number. The overall performance of each alternative concerning each feature based on a neutrosophic number is measured. In the second part, the ranking of alternatives is being evaluated through the simplified neutrosophic number weighted averaging (SNNWA) operator and cosine similarity measure methods. A case study with real datasets (Twitter datasets) is provided to illustrate the application of the proposed method. The results show good performance in handling the neutral data on the SA stage as well as the ranking stage. In the SA stage, findings show that the Neutro-VADER in the proposed method can deal successfully with all types of uncertainties including indeterminacy comparable with the traditional VADER in the other methods. In the ranking stage, the results show a great similarity and consistency while using other ranking methods such as PROMETHEE II, TOPSIS, and TODIM methods.
+
+**Source:** https://www.semanticscholar.org/paper/95d021dc0d519b69ae12bb815664ba680ddd337d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:41:57.487Z

@@ -1,0 +1,13 @@
+# A brief survey on big data: technologies, terminologies and data-intensive applications
+
+**Authors:** H. B. Abdalla
+
+## Abstract
+The technical advancements and the availability of massive amounts of data on the Internet draw huge attention from researchers in the areas of decision-making, data sciences, business applications, and government. These massive quantities of data, known as big data, have many benefits and applications for researchers. However, the use of big data consumes a lot of time and imposes enormous computational complexity. This survey describes the significance of big data and its taxonomy and details the basic terminologies used in big data. It also discusses the technologies used in big data applications as well as their various complexities and challenges. The survey focuses on the various techniques presented in the literature to restrain the issues associated with big data. In particular, the review concentrates on big data techniques in accordance with processing, security, and storage. It also discusses the various parameters associated with big data, such as availability and velocity. The study analyses big data terminologies and techniques in accordance with several factors, such as year of publication, performance metrics, achievement of the existing models, and methods utilized. Finally, this review article describes the future direction of research and highlights big data possibilities and solicitations with a detailed sketch of the big data processing frameworks.
+
+**Source:** https://www.semanticscholar.org/paper/f903cc0fc8c6556e6db3743a7204417177886117
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:41:32.472Z

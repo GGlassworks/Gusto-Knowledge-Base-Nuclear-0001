@@ -1,0 +1,13 @@
+# Security by Design for Big Data Frameworks Over Cloud Computing
+
+**Authors:** Feras M. Awaysheh, Mohammad Aladwan, M. Alazab, Sadi Alawadi, J. C. Cabaleiro, T. F. Pena
+
+## Abstract
+Cloud deployment architectures have become a preferable computation model of Big Data (BD) operations. Their scalability, flexibility, and cost-effectiveness motivated this trend. In a such deployment model, the data are no longer physically maintained under the user’s direct control, which raises new security concerns. In this context, BD security plays a decisive role in the widespread adoption of cloud architectures. However, it is challenging to develop a comprehensive security plan unless it is based on a preliminary analysis that ensures a realistic secure assembly and addresses domain-specific vulnerabilities. This article presents a novel security-by-design framework for BD frameworks deployment over cloud computing (BigCloud). In particular, it relies on a systematic security analysis methodology and a completely automated security assessment framework. Our framework enables the mapping of BigCloud security domain knowledge to the best practices in the design phase. We validated the proposed framework by implementing an Apache Hadoop stack use case. The study findings demonstrate its effectiveness in improving awareness of security aspects and reducing security design time. It also evaluates the strengths and limitations of the proposed framework, from which it highlights the main existing and open challenges in the BigCloud-related area.
+
+**Source:** https://www.semanticscholar.org/paper/35e8c10dce9d2782cf7091d6994158d02f2c6f40
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:44:01.959Z

@@ -1,0 +1,13 @@
+# A Review of Big Data Applications in Urban Transit Systems
+
+**Authors:** K. Lu, Jiangtao Liu, Xuesong Zhou, B. Han
+
+## Abstract
+Operations, management and planning of urban transit systems have evolved substantially since the application of transit data collection technologies, such as, automated fare collection (AFC), Global Position System (GPS), smartphones and face identification. A diversity of detailed sensor data in urban transit systems are being used as fundamental data sources to observe passenger travel behavior, reschedule operation plans and adjust policy decisions from the daily operations to the long-term network planning. This review aims to summarize and analyze those related challenges and data-driven applications. Firstly, we review the data collecting technologies since the late 1990s by classifying the various technologies into two groups: traditional technologies and advanced technologies. A vast body of literature has been developed in this area given the wide range of problems addressed under the transit data label. A summary diagram is proposed to demonstrate the transit data applications and research topics. The data applications are classified into three branches: passenger behavior, operation optimization, and policy application. For each branch, the hot research direction and dimension shown as sub-branches are represented by reviewing the highly cited and the latest literature. As a result, this article discussed the concept and characteristics of transit data and its collection technologies, and further summarized the methodology and potential for each transit data application and suggested a few promising implications for future efforts.
+
+**Source:** https://www.semanticscholar.org/paper/654500d069aeff6e942d5ffed25a802d2cd74874
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:42:21.688Z

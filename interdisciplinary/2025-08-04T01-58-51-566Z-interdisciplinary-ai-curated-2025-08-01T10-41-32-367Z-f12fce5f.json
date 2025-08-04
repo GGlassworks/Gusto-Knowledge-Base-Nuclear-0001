@@ -1,0 +1,13 @@
+# An Efficient and Secure Big Data Storage in Cloud Environment by Using Triple Data Encryption Standard
+
+**Authors:** Mohan Naik Ramachandra, Madala Srinivasa Rao, W. Lai, P. Divakarachari, Jayachandra Ananda Babu, Hemalatha Kivudujogappa Lingappa
+
+## Abstract
+In recent decades, big data analysis has become the most important research topic. Hence, big data security offers Cloud application security and monitoring to host highly sensitive data to support Cloud platforms. However, the privacy and security of big data has become an emerging issue that restricts the organization to utilize Cloud services. The existing privacy preserving approaches showed several drawbacks such as a lack of data privacy and accurate data analysis, a lack of efficiency of performance, and completely rely on third party. In order to overcome such an issue, the Triple Data Encryption Standard (TDES) methodology is proposed to provide security for big data in the Cloud environment. The proposed TDES methodology provides a relatively simpler technique by increasing the sizes of keys in Data Encryption Standard (DES) to protect against attacks and defend the privacy of data. The experimental results showed that the proposed TDES method is effective in providing security and privacy to big healthcare data in the Cloud environment. The proposed TDES methodology showed less encryption and decryption time compared to the existing Intelligent Framework for Healthcare Data Security (IFHDS) method.
+
+**Source:** https://www.semanticscholar.org/paper/b904dcdbd7c7b33938583f2f57d05ca70e121ea9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:41:32.367Z

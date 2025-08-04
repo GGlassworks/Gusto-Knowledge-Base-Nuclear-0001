@@ -1,0 +1,13 @@
+# Comparative Study of Big Data Frameworks
+
+**Authors:** H. K. Gupta, Dr. Rafat Parveen
+
+## Abstract
+We are really living in ever growing volume of data production. The huge amount of data in terabyte and petabytes are generating in real word and it is a challenging task to access, storage, analysis of all structured, unstructured and semi structured heterogeneous and complex data, also traditional tools is not suitable towards distributed and real-time processing. We need an efficient framework for processing such heterogeneous data and transform it into optimized meaningful information. There are many frameworks for distributed computing has been developed to perform huge amount of data processing. Hadoop Map Reduce is the extensively used framework because of its scalability, security, latency and efficiency, and reliability. The intension of this paper is to relative study of common framework such as Hadoop, Spark, Flink, Samza and Storm.
+
+**Source:** https://www.semanticscholar.org/paper/5507a38cc3b470b53765b3361d14e01d7e16a747
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T10:44:02.468Z
