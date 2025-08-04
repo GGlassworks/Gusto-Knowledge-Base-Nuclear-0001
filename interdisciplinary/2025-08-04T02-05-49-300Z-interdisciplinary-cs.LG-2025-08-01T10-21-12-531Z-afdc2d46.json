@@ -1,0 +1,12 @@
+# Cross-Modal Entity Matching for Visually Rich Documents
+
+**Authors:** Ritesh Sarkhel, Arnab Nandi
+
+## Summary
+Visually rich documents (e.g. leaflets, banners, magazine articles) are physical or digital documents that utilize visual cues to augment their semantics. Information contained in these documents are ad-hoc and often incomplete. Existing works that enable structured querying on these documents do not take this into account. This makes it difficult to contextualize the information retrieved from querying these documents and gather actionable insights from them. We propose Juno -- a cross-modal entity matching framework to address this limitation. It augments heterogeneous documents with supplementary information by matching a text span in the document with semantically similar tuples from an external database. Our main contribution in this is a deep neural network with attention that goes beyond traditional keyword-based matching and finds matching tuples by aligning text spans and relational tuples on a multimodal encoding space without any prior knowledge about the document type or the underlying schema. Exhaustive experiments on multiple real-world datasets show that Juno generalizes to heterogeneous documents with diverse layouts and formats. It outperforms state-of-the-art baselines by more than 6 F1 points with up to 60% less human-labeled samples. Our experiments further show that Juno is a computationally robust framework. We can train it only once, and then adapt it dynamically for multiple resource-constrained environments without sacrificing its downstream performance. This makes it suitable for on-device deployment in various edge-devices. To the best of our knowledge, ours is the first work that investigates the information incompleteness of visually rich documents and proposes a generalizable, performant and computationally robust framework to address it in an end-to-end way.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:12.531Z

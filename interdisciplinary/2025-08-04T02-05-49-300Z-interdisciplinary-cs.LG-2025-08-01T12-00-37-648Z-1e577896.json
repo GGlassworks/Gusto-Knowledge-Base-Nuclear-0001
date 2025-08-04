@@ -1,0 +1,12 @@
+# Approximation of Permutation Invariant Polynomials by Transformers: Efficient Construction in Column-Size
+
+**Authors:** Naoki Takeshita, Masaaki Imaizumi
+
+## Summary
+Transformers are a type of neural network that have demonstrated remarkable performance across various domains, particularly in natural language processing tasks. Motivated by this success, research on the theoretical understanding of transformers has garnered significant attention. A notable example is the mathematical analysis of their approximation power, which validates the empirical expressive capability of transformers. In this study, we investigate the ability of transformers to approximate column-symmetric polynomials, an extension of symmetric polynomials that take matrices as input. Consequently, we establish an explicit relationship between the size of the transformer network and its approximation capability, leveraging the parameter efficiency of transformers and their compatibility with symmetry by focusing on the algebraic properties of symmetric polynomials.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T12:00:37.648Z

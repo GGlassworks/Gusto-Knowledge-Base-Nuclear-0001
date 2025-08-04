@@ -1,0 +1,12 @@
+# A simple algorithm for decoding Reed-Solomon codes and its relation to the Welch-Berlekamp algorithm
+
+**Authors:** Sergei Fedorenko
+
+## Summary
+A simple and natural Gao algorithm for decoding algebraic codes is described. Its relation to the Welch-Berlekamp and Euclidean algorithms is given.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T21:04:11.995Z

@@ -1,0 +1,12 @@
+# EEG-Features for Generalized Deepfake Detection
+
+**Authors:** Arian Beckmann, Tilman Stephani, Felix Klotzsche, Yonghao Chen, Simon M. Hofmann, Arno Villringer, Michael Gaebler, Vadim Nikulin, Sebastian Bosse, Peter Eisert, Anna Hilsmann
+
+## Summary
+Since the advent of Deepfakes in digital media, the development of robust and reliable detection mechanism is urgently called for. In this study, we explore a novel approach to Deepfake detection by utilizing electroencephalography (EEG) measured from the neural processing of a human participant who viewed and categorized Deepfake stimuli from the FaceForensics++ datset. These measurements serve as input features to a binary support vector classifier, trained to discriminate between real and manipulated facial images. We examine whether EEG data can inform Deepfake detection and also if it can provide a generalized representation capable of identifying Deepfakes beyond the training domain. Our preliminary results indicate that human neural processing signals can be successfully integrated into Deepfake detection frameworks and hint at the potential for a generalized neural representation of artifacts in computer generated faces. Moreover, our study provides next steps towards the understanding of how digital realism is embedded in the human cognitive system, possibly enabling the development of more realistic digital avatars in the future.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:14:16.343Z

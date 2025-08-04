@@ -1,0 +1,12 @@
+# Wasserstein GAN Can Perform PCA
+
+**Authors:** Jaewoong Cho, Changho Suh
+
+## Summary
+Generative Adversarial Networks (GANs) have become a powerful framework to learn generative models that arise across a wide variety of domains. While there has been a recent surge in the development of numerous GAN architectures with distinct optimization metrics, we are still lacking in our understanding on how far away such GANs are from optimality. In this paper, we make progress on a theoretical understanding of the GANs under a simple linear-generator Gaussian-data setting where the optimal maximum-likelihood generator is known to perform Principal Component Analysis (PCA). We find that the original GAN by Goodfellow et. al. fails to recover the optimal PCA solution. On the other hand, we show that Wasserstein GAN can approach the PCA solution in the limit of sample size, and hence it may serve as a basis for an optimal GAN architecture that yields the optimal generator for a wide range of data settings.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T12:06:09.773Z

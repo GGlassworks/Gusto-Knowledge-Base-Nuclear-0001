@@ -1,0 +1,12 @@
+# Exploratory Methods for Relation Discovery in Archival Data
+
+**Authors:** Lucia Giagnolini, Marilena Daquino, Francesca Mambelli, Francesca Tomasi
+
+## Summary
+In this article we propose a holistic approach to discover relations in art historical communities and enrich historians' biographies and archival descriptions with graph patterns relevant to art historiographic enquiry. We use exploratory data analysis to detect patterns, we select features, and we use them to evaluate classification models to predict new relations, to be recommended to archivists during the cataloguing phase. Results show that relations based on biographical information can be addressed with higher precision than relations based on research topics or institutional relations. Deterministic and a priori rules present better results than probabilistic methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:24:26.536Z

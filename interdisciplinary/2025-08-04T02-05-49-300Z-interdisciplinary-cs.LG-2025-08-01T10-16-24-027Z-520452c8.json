@@ -1,0 +1,12 @@
+# Speech-Based Blood Pressure Estimation with Enhanced Optimization and Incremental Clustering
+
+**Authors:** Vaishali Rajput, Preeti Mulay, Rajeev Raje
+
+## Summary
+Blood Pressure (BP) estimation plays a pivotal role in diagnosing various health conditions, highlighting the need for innovative approaches to overcome conventional measurement challenges. Leveraging machine learning and speech signals, this study investigates accurate BP estimation with a focus on preprocessing, feature extraction, and real-time applications. An advanced clustering-based strategy, incorporating the k-means algorithm and the proposed Fact-Finding Instructor optimization algorithm, is introduced to enhance accuracy. The combined outcome of these clustering techniques enables robust BP estimation. Moreover, extending beyond these insights, this study delves into the dynamic realm of contemporary digital content consumption. Platforms like YouTube have emerged as influential spaces, presenting an array of videos that evoke diverse emotions. From heartwarming and amusing content to intense narratives, YouTube captures a spectrum of human experiences, influencing information access and emotional engagement. Within this context, this research investigates the interplay between YouTube videos and physiological responses, particularly Blood Pressure (BP) levels. By integrating advanced BP estimation techniques with the emotional dimensions of YouTube videos, this study enriches our understanding of how modern media environments intersect with health implications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:24.027Z

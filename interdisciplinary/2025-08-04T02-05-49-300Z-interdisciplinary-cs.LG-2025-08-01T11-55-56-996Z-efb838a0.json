@@ -1,0 +1,12 @@
+# A Power Transform
+
+**Authors:** Jonathan T. Barron
+
+## Summary
+Power transforms, such as the Box-Cox transform and Tukey's ladder of powers, are a fundamental tool in mathematics and statistics. These transforms are primarily used for normalizing and standardizing datasets, effectively by raising values to a power. In this work I present a novel power transform, and I show that it serves as a unifying framework for wide family of loss functions, kernel functions, probability distributions, bump functions, and neural network activation functions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T11:55:56.997Z

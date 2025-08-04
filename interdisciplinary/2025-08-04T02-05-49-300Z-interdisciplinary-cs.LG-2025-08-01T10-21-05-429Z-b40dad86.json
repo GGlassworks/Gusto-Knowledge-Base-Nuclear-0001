@@ -1,0 +1,12 @@
+# Three-Stage Subspace Clustering Framework with Graph-Based Transformation and Optimization
+
+**Authors:** Shuai Yang, Wenqi Zhu, Yuesheng Zhu
+
+## Summary
+Subspace clustering (SC) refers to the problem of clustering high-dimensional data into a union of low-dimensional subspaces. Based on spectral clustering, state-of-the-art approaches solve SC problem within a two-stage framework. In the first stage, data representation techniques are applied to draw an affinity matrix from the original data. In the second stage, spectral clustering is directly applied to the affinity matrix so that data can be grouped into different subspaces. However, the affinity matrix obtained in the first stage usually fails to reveal the authentic relationship between data points, which leads to inaccurate clustering results. In this paper, we propose a universal Three-Stage Subspace Clustering framework (3S-SC). Graph-Based Transformation and Optimization (GBTO) is added between data representation and spectral clustering. The affinity matrix is obtained in the first stage, then it goes through the second stage, where the proposed GBTO is applied to generate a reconstructed affinity matrix with more authentic similarity between data points. Spectral clustering is applied after GBTO, which is the third stage. We verify our 3S-SC framework with GBTO through theoretical analysis. Experiments on both synthetic data and the real-world data sets of handwritten digits and human faces demonstrate the universality of the proposed 3S-SC framework in improving the connectivity and accuracy of SC methods based on $\ell_0$, $\ell_1$, $\ell_2$ or nuclear norm regularization.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:05.429Z

@@ -1,0 +1,12 @@
+# From GAN to WGAN
+
+**Authors:** Lilian Weng
+
+## Summary
+This paper explains the math behind a generative adversarial network (GAN) model and why it is hard to be trained. Wasserstein GAN is intended to improve GANs' training by adopting a smooth metric for measuring the distance between two probability distributions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T12:05:15.238Z

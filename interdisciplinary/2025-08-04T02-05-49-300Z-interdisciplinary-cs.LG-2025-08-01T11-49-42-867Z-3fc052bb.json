@@ -1,0 +1,12 @@
+# Use of BNNM for interference wave solutions of the gBS-like equation and comparison with PINNs
+
+**Authors:** Shashank Reddy Vadyala, Sai Nethra Betgeri
+
+## Summary
+In this work, the generalized broken soliton-like (gBS-like) equation is derived through the generalized bilinear method. The neural network model, which can fit the explicit solution with zero error, is found. The interference wave solution of the gBS-like equation is obtained by using the bilinear neural network method (BNNM) and physical informed neural networks (PINNs). Interference waves are shown well via three-dimensional plots and density plots. Compared with PINNs, the bilinear neural network method is not only more accurate but also faster.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T11:49:42.868Z

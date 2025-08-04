@@ -1,0 +1,12 @@
+# Sharp Frequency Bounds for Sample-Based Queries
+
+**Authors:** Eric Bax, John Donald
+
+## Summary
+A data sketch algorithm scans a big data set, collecting a small amount of data -- the sketch, which can be used to statistically infer properties of the big data set. Some data sketch algorithms take a fixed-size random sample of a big data set, and use that sample to infer frequencies of items that meet various criteria in the big data set. This paper shows how to statistically infer probably approximately correct (PAC) bounds for those frequencies, efficiently, and precisely enough that the frequency bounds are either sharp or off by only one, which is the best possible result without exact computation.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:42:55.542Z

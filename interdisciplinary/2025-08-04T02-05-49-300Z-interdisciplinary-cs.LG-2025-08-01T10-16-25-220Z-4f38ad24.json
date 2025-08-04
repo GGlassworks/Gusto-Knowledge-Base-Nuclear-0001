@@ -1,0 +1,12 @@
+# Enhancing Spatio-Temporal Forecasting with Spatial Neighbourhood Fusion:A Case Study on COVID-19 Mobility in Peru
+
+**Authors:** Chuan Li, Jiang You, Hassine Moungla, Vincent Gauthier, Miguel Nunez-del-Prado, Hugo Alatrista-Salas
+
+## Summary
+Accurate modeling of human mobility is critical for understanding epidemic spread and deploying timely interventions. In this work, we leverage a large-scale spatio-temporal dataset collected from Peru's national Digital Contact Tracing (DCT) application during the COVID-19 pandemic to forecast mobility flows across urban regions. A key challenge lies in the spatial sparsity of hourly mobility counts across hexagonal grid cells, which limits the predictive power of conventional time series models. To address this, we propose a lightweight and model-agnostic Spatial Neighbourhood Fusion (SPN) technique that augments each cell's features with aggregated signals from its immediate H3 neighbors. We evaluate this strategy on three forecasting backbones: NLinear, PatchTST, and K-U-Net, under various historical input lengths. Experimental results show that SPN consistently improves forecasting performance, achieving up to 9.85 percent reduction in test MSE. Our findings demonstrate that spatial smoothing of sparse mobility signals provides a simple yet effective path toward robust spatio-temporal forecasting during public health crises.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:25.220Z

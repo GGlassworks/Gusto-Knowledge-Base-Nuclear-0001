@@ -1,0 +1,12 @@
+# Arbitrary-Length Generalization for Addition in a Tiny Transformer
+
+**Authors:** Alexandre Galvao Patriota
+
+## Summary
+This paper introduces a novel training methodology that enables a Transformer model to generalize the addition of two-digit numbers to numbers with unseen lengths of digits. The proposed approach employs an autoregressive generation technique, processing from right to left, which mimics a common manual method for adding large numbers. To the best of my knowledge, this methodology has not been previously explored in the literature. All results are reproducible, and the corresponding R code is available at github.com/AGPatriota/ALGA-R/.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:26:18.495Z

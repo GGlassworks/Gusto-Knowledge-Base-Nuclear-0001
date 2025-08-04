@@ -1,0 +1,12 @@
+# Verification-Based Interval-Passing Algorithm for Compressed Sensing
+
+**Authors:** Xiaofu Wu, Zhen Yang
+
+## Summary
+We propose a verification-based Interval-Passing (IP) algorithm for iteratively reconstruction of nonnegative sparse signals using parity check matrices of low-density parity check (LDPC) codes as measurement matrices. The proposed algorithm can be considered as an improved IP algorithm by further incorporation of the mechanism of verification algorithm. It is proved that the proposed algorithm performs always better than either the IP algorithm or the verification algorithm. Simulation results are also given to demonstrate the superior performance of the proposed algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T21:04:10.681Z

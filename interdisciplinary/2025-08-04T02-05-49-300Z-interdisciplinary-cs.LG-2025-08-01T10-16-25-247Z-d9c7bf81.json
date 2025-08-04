@@ -1,0 +1,12 @@
+# FloGAN: Scenario-Based Urban Mobility Flow Generation via Conditional GANs and Dynamic Region Decoupling
+
+**Authors:** Seanglidet Yean, Jiazu Zhou, Bu-Sung Lee, Markus Schläpfer
+
+## Summary
+The mobility patterns of people in cities evolve alongside changes in land use and population. This makes it crucial for urban planners to simulate and analyze human mobility patterns for purposes such as transportation optimization and sustainable urban development. Existing generative models borrowed from machine learning rely heavily on historical trajectories and often overlook evolving factors like changes in population density and land use. Mechanistic approaches incorporate population density and facility distribution but assume static scenarios, limiting their utility for future projections where historical data for calibration is unavailable. This study introduces a novel, data-driven approach for generating origin-destination mobility flows tailored to simulated urban scenarios. Our method leverages adaptive factors such as dynamic region sizes and land use archetypes, and it utilizes conditional generative adversarial networks (cGANs) to blend historical data with these adaptive parameters. The approach facilitates rapid mobility flow generation with adjustable spatial granularity based on regions of interest, without requiring extensive calibration data or complex behavior modeling. The promising performance of our approach is demonstrated by its application to mobile phone data from Singapore, and by its comparison with existing methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:25.247Z

@@ -1,0 +1,12 @@
+# Algorithm for Missing Values Imputation in Categorical Data with Use of Association Rules
+
+**Authors:** Jiří Kaiser
+
+## Summary
+This paper presents algorithm for missing values imputation in categorical data. The algorithm is based on using association rules and is presented in three variants. Experimental shows better accuracy of missing values imputation using the algorithm then using most common attribute value.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T15:38:40.905Z

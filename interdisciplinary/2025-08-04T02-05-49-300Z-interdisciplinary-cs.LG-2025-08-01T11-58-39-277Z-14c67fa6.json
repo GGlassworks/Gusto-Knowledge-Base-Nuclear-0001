@@ -1,0 +1,12 @@
+# ISTRBoost: Importance Sampling Transfer Regression using Boosting
+
+**Authors:** Shrey Gupta, Jianzhao Bi, Yang Liu, Avani Wildani
+
+## Summary
+Current Instance Transfer Learning (ITL) methodologies use domain adaptation and sub-space transformation to achieve successful transfer learning. However, these methodologies, in their processes, sometimes overfit on the target dataset or suffer from negative transfer if the test dataset has a high variance. Boosting methodologies have been shown to reduce the risk of overfitting by iteratively re-weighing instances with high-residual. However, this balance is usually achieved with parameter optimization, as well as reducing the skewness in weights produced due to the size of the source dataset. While the former can be achieved, the latter is more challenging and can lead to negative transfer. We introduce a simpler and more robust fix to this problem by building upon the popular boosting ITL regression methodology, two-stage TrAdaBoost.R2. Our methodology,~\us{}, is a boosting and random-forest based ensemble methodology that utilizes importance sampling to reduce the skewness due to the source dataset. We show that~\us{}~performs better than competitive transfer learning methodologies $63\%$ of the time. It also displays consistency in its performance over diverse datasets with varying complexities, as opposed to the sporadic results observed for other transfer learning methodologies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T11:58:39.279Z

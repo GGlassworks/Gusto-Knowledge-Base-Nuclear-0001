@@ -1,0 +1,12 @@
+# Accurate, Interpretable, and Fast Animation: An Iterative, Sparse, and Nonconvex Approach
+
+**Authors:** Stevo Rackovic, Claudia Soares, Dusan Jakovetic, Zoranka Desnica
+
+## Summary
+Digital human animation relies on high-quality 3D models of the human face: rigs. A face rig must be accurate and, at the same time, fast to compute. One of the most common rigging models is the blendshape model. We propose a novel algorithm for solving the nonconvex inverse rig problem in facial animation. Our approach is model-based, but in contrast with previous model-based approaches, we use a quadratic instead of the linear approximation to the higher order rig model. This increases the accuracy of the solution by 8 percent on average and, confirmed by the empirical results, increases the sparsity of the resulting parameter vector -- an important feature for interpretability by animation artists. The proposed solution is based on a Levenberg-Marquardt (LM) algorithm, applied to a nonconvex constrained problem with sparsity regularization. In order to reduce the complexity of the iterates, a paradigm of Majorization Minimization (MM) is further invoked, which leads to an easy to solve problem that is separable in the parameters at each algorithm iteration. The algorithm is evaluated on a number of animation datasets, proprietary and open-source, and the results indicate the superiority of our method compared to the standard approach based on the linear rig approximation. Although our algorithm targets the specific problem, it might have additional signal processing applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:16:20.269Z

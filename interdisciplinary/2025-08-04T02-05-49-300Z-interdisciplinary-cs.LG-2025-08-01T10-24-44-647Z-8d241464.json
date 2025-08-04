@@ -1,0 +1,12 @@
+# All the World's a (Hyper)Graph: A Data Drama
+
+**Authors:** Corinna Coupette, Jilles Vreeken, Bastian Rieck
+
+## Summary
+We introduce Hyperbard, a dataset of diverse relational data representations derived from Shakespeare's plays. Our representations range from simple graphs capturing character co-occurrence in single scenes to hypergraphs encoding complex communication settings and character contributions as hyperedges with edge-specific node weights. By making multiple intuitive representations readily available for experimentation, we facilitate rigorous representation robustness checks in graph learning, graph mining, and network analysis, highlighting the advantages and drawbacks of specific representations. Leveraging the data released in Hyperbard, we demonstrate that many solutions to popular graph mining problems are highly dependent on the representation choice, thus calling current graph curation practices into question. As an homage to our data source, and asserting that science can also be art, we present all our points in the form of a play.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:24:44.648Z

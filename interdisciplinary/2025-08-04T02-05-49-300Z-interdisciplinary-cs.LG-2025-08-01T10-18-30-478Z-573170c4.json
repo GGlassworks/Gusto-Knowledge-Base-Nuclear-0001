@@ -1,0 +1,12 @@
+# Building and Interpreting Deep Similarity Models
+
+**Authors:** Oliver Eberle, Jochen Büttner, Florian Kräutli, Klaus-Robert Müller, Matteo Valleriani, Grégoire Montavon
+
+## Summary
+Many learning algorithms such as kernel machines, nearest neighbors, clustering, or anomaly detection, are based on the concept of 'distance' or 'similarity'. Before similarities are used for training an actual machine learning model, we would like to verify that they are bound to meaningful patterns in the data. In this paper, we propose to make similarities interpretable by augmenting them with an explanation in terms of input features. We develop BiLRP, a scalable and theoretically founded method to systematically decompose similarity scores on pairs of input features. Our method can be expressed as a composition of LRP explanations, which were shown in previous works to scale to highly nonlinear functions. Through an extensive set of experiments, we demonstrate that BiLRP robustly explains complex similarity models, e.g. built on VGG-16 deep neural network features. Additionally, we apply our method to an open problem in digital humanities: detailed assessment of similarity between historical documents such as astronomical tables. Here again, BiLRP provides insight and brings verifiability into a highly engineered and problem-specific similarity model.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:18:30.479Z

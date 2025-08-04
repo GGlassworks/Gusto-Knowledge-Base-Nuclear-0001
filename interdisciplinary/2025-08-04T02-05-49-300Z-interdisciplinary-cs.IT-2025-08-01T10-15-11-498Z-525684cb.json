@@ -1,0 +1,12 @@
+# Monte Carlo Methods for Industry 4.0 Applications
+
+**Authors:** Petr Kostka, Bruno Rossi, Mouzhi Ge
+
+## Summary
+The fourth industrial revolution and the digital transformation, commonly known as Industry 4.0, is exponentially progressing in recent years. Connected computers, devices, and intelligent machines communicate with each other and interact with the environment to require only a minimum of human intervention. An important issue in Industry 4.0 is the evaluation of the quality of the process in terms of KPIs. Monte Carlo simulations can play an important role to improve the estimations. However, there is still a lack of clear workflow to conduct the Monte Carlo simulations for selecting different Monte Carlo methods. This paper, therefore, proposes a simulation flow for conducting Monte Carlo methods comparison in Industry 4.0 applications. Based on the simulation flow, we compare Cumulative Monte Carlo and Markov Chain Monte Carlo methods. The experimental results show the way to use the Monte Carlo methods in Industry 4.0 and possible limitations of the two simulation methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T10:15:11.498Z

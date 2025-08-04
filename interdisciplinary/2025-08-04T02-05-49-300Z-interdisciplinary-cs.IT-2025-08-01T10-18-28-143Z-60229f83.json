@@ -1,0 +1,12 @@
+# Federated Cell-Free MIMO in Non-Terrestrial Networks: Architectures and Performance
+
+**Authors:** Alessandro Guidotti, Alessandro Vanelli-Coralli, Carla Amatetti
+
+## Summary
+While 5G networks are being rolled out, the definition of the potential 5G-Advanced features and the identification of disruptive technologies for 6G systems are being addressed by the scientific and academic communities to tackle the challenges that 2030 communication systems will face, such as terabit-capacity and always-on networks. In this framework, it is globally recognised that Non-Terrestrial Networks (NTN) will play a fundamental role in support to a fully connected world, in which physical, human, and digital domains will converge. In this framework, one of the main challenges that NTN have to address is the provision of the high throughput requested by the new ecosystem. In this paper, we focus on Cell-Free Multiple Input Multiple Output (CF-MIMO) algorithms for NTN. In particular: i) we discuss the architecture design supporting centralised and federated CF-MIMO in NTN, with the latter implementing distributed MIMO algorithms from multiple satellites in the same formation (swarm); ii) propose a novel location-based CF-MIMO algorithm, which does not require Channel State Information (CSI) at the transmitter; and iii) design novel normalisation approaches for federated CF-MIMO in NTN, to cope with the constraints on non-colocated radiating elements. The numerical results substantiate the good performance of the proposed algorithm, also in the presence of non-ideal information.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T10:18:28.144Z

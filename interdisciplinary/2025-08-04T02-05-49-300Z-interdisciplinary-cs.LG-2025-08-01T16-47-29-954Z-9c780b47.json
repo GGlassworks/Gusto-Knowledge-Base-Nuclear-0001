@@ -1,0 +1,12 @@
+# Genetic heterogeneity analysis using genetic algorithm and network science
+
+**Authors:** Zhendong Sha, Yuanzhu Chen, Ting Hu
+
+## Summary
+Through genome-wide association studies (GWAS), disease susceptible genetic variables can be identified by comparing the genetic data of individuals with and without a specific disease. However, the discovery of these associations poses a significant challenge due to genetic heterogeneity and feature interactions. Genetic variables intertwined with these effects often exhibit lower effect-size, and thus can be difficult to be detected using machine learning feature selection methods. To address these challenges, this paper introduces a novel feature selection mechanism for GWAS, named Feature Co-selection Network (FCSNet). FCS-Net is designed to extract heterogeneous subsets of genetic variables from a network constructed from multiple independent feature selection runs based on a genetic algorithm (GA), an evolutionary learning algorithm. We employ a non-linear machine learning algorithm to detect feature interaction. We introduce the Community Risk Score (CRS), a synthetic feature designed to quantify the collective disease association of each variable subset. Our experiment showcases the effectiveness of the utilized GA-based feature selection method in identifying feature interactions through synthetic data analysis. Furthermore, we apply our novel approach to a case-control colorectal cancer GWAS dataset. The resulting synthetic features are then used to explain the genetic heterogeneity in an additional case-only GWAS dataset.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T16:47:29.954Z

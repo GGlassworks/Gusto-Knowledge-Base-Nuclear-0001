@@ -1,0 +1,12 @@
+# Do We Need Transformers to Play FPS Video Games?
+
+**Authors:** Karmanbir Batth, Krish Sethi, Aly Shariff, Leo Shi, Hetul Patel
+
+## Summary
+In this paper, we explore the Transformer based architectures for reinforcement learning in both online and offline settings within the Doom game environment. Our investigation focuses on two primary approaches: Deep Transformer Q- learning Networks (DTQN) for online learning and Decision Transformers (DT) for offline reinforcement learning. DTQN leverages the sequential modelling capabilities of Transformers to enhance Q-learning in partially observable environments,while Decision Transformers repurpose sequence modelling techniques to enable offline agents to learn from past trajectories without direct interaction with the environment. We conclude that while Transformers might have performed well in Atari games, more traditional methods perform better than Transformer based method in both the settings in the VizDoom environment.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T11:55:07.310Z

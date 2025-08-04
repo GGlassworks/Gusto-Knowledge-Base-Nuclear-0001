@@ -1,0 +1,12 @@
+# On directed information theory and Granger causality graphs
+
+**Authors:** P. O. Amblard, O. J. J. Michel
+
+## Summary
+Directed information theory deals with communication channels with feedback. When applied to networks, a natural extension based on causal conditioning is needed. We show here that measures built from directed information theory in networks can be used to assess Granger causality graphs of stochastic processes. We show that directed information theory includes measures such as the transfer entropy, and that it is the adequate information theoretic framework needed for neuroscience applications, such as connectivity inference problems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T17:01:14.901Z

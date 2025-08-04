@@ -1,0 +1,12 @@
+# MIM-Based GAN: Information Metric to Amplify Small Probability Events Importance in Generative Adversarial Networks
+
+**Authors:** Rui She, Pingyi Fan
+
+## Summary
+In terms of Generative Adversarial Networks (GANs), the information metric to discriminate the generative data from the real data, lies in the key point of generation efficiency, which plays an important role in GAN-based applications, especially in anomaly detection. As for the original GAN, there exist drawbacks for its hidden information measure based on KL divergence on rare events generation and training performance for adversarial networks. Therefore, it is significant to investigate the metrics used in GANs to improve the generation ability as well as bring gains in the training process. In this paper, we adopt the exponential form, referred from the information measure, i.e. MIM, to replace the logarithm form of the original GAN. This approach is called MIM-based GAN, has better performance on networks training and rare events generation. Specifically, we first discuss the characteristics of training process in this approach. Moreover, we also analyze its advantages on generating rare events in theory. In addition, we do simulations on the datasets of MNIST and ODDS to see that the MIM-based GAN achieves state-of-the-art performance on anomaly detection compared with some classical GANs.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T12:06:09.023Z

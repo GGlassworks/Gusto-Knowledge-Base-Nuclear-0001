@@ -1,0 +1,12 @@
+# Smart Data driven Decision Trees Ensemble Methodology for Imbalanced Big Data
+
+**Authors:** Diego García-Gil, Salvador García, Ning Xiong, Francisco Herrera
+
+## Summary
+Differences in data size per class, also known as imbalanced data distribution, have become a common problem affecting data quality. Big Data scenarios pose a new challenge to traditional imbalanced classification algorithms, since they are not prepared to work with such amount of data. Split data strategies and lack of data in the minority class due to the use of MapReduce paradigm have posed new challenges for tackling the imbalance between classes in Big Data scenarios. Ensembles have shown to be able to successfully address imbalanced data problems. Smart Data refers to data of enough quality to achieve high performance models. The combination of ensembles and Smart Data, achieved through Big Data preprocessing, should be a great synergy. In this paper, we propose a novel Smart Data driven Decision Trees Ensemble methodology for addressing the imbalanced classification problem in Big Data domains, namely SD_DeTE methodology. This methodology is based on the learning of different decision trees using distributed quality data for the ensemble process. This quality data is achieved by fusing Random Discretization, Principal Components Analysis and clustering-based Random Oversampling for obtaining different Smart Data versions of the original data. Experiments carried out in 21 binary adapted datasets have shown that our methodology outperforms Random Forest.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T19:18:26.840Z

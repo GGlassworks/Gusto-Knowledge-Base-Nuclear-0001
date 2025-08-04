@@ -1,0 +1,12 @@
+# Data Disclosure under Perfect Sample Privacy
+
+**Authors:** Borzoo Rassouli, Fernando E. Rosas, Deniz Gunduz
+
+## Summary
+Perfect data privacy seems to be in fundamental opposition to the economical and scientific opportunities associated with extensive data exchange. Defying this intuition, this paper develops a framework that allows the disclosure of collective properties of datasets without compromising the privacy of individual data samples. We present an algorithm to build an optimal disclosure strategy/mapping, and discuss it fundamental limits on finite and asymptotically large datasets. Furthermore, we present explicit expressions to the asymptotic performance of this scheme in some scenarios, and study cases where our approach attains maximal efficiency. We finally discuss suboptimal schemes to provide sample privacy guarantees to large datasets with a reduced computational cost.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.IT
+Collected: 2025-08-01T13:34:26.132Z

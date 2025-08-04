@@ -1,0 +1,12 @@
+# Scalable Signature-Based Distribution Regression via Reference Sets
+
+**Authors:** Andrew Alden, Carmine Ventre, Blanka Horvath
+
+## Summary
+Distribution Regression (DR) on stochastic processes describes the learning task of regression on collections of time series. Path signatures, a technique prevalent in stochastic analysis, have been used to solve the DR problem. Recent works have demonstrated the ability of such solutions to leverage the information encoded in paths via signature-based features. However, current state of the art DR solutions are memory intensive and incur a high computation cost. This leads to a trade-off between path length and the number of paths considered. This computational bottleneck limits the application to small sample sizes which consequently introduces estimation uncertainty. In this paper, we present a methodology for addressing the above issues; resolving estimation uncertainties whilst also proposing a pipeline that enables us to use DR for a wide variety of learning tasks. Integral to our approach is our novel distance approximator. This allows us to seamlessly apply our methodology across different application domains, sampling rates, and stochastic process dimensions. We show that our model performs well in applications related to estimation theory, quantitative finance, and physical sciences. We demonstrate that our model generalises well, not only to unseen data within a given distribution, but also under unseen regimes (unseen classes of stochastic models).
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T12:48:32.407Z

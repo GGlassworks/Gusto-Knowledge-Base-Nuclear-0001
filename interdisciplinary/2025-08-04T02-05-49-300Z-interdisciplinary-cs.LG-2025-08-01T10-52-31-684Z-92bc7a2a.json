@@ -1,0 +1,12 @@
+# Re-evaluating Group Robustness via Adaptive Class-Specific Scaling
+
+**Authors:** Seonguk Seo, Bohyung Han
+
+## Summary
+Group distributionally robust optimization, which aims to improve robust accuracies -- worst-group and unbiased accuracies -- is a prominent algorithm used to mitigate spurious correlations and address dataset bias. Although existing approaches have reported improvements in robust accuracies, these gains often come at the cost of average accuracy due to inherent trade-offs. To control this trade-off flexibly and efficiently, we propose a simple class-specific scaling strategy, directly applicable to existing debiasing algorithms with no additional training. We further develop an instance-wise adaptive scaling technique to alleviate this trade-off, even leading to improvements in both robust and average accuracies. Our approach reveals that a na\"ive ERM baseline matches or even outperforms the recent debiasing methods by simply adopting the class-specific scaling technique. Additionally, we introduce a novel unified metric that quantifies the trade-off between the two accuracies as a scalar value, allowing for a comprehensive evaluation of existing algorithms. By tackling the inherent trade-off and offering a performance landscape, our approach provides valuable insights into robust techniques beyond just robust accuracy. We validate the effectiveness of our framework through experiments across datasets in computer vision and natural language processing domains.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:52:31.684Z

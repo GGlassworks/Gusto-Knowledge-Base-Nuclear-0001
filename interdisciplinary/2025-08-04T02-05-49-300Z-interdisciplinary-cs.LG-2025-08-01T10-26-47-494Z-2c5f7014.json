@@ -1,0 +1,12 @@
+# Methodology for Mining, Discovering and Analyzing Semantic Human Mobility Behaviors
+
+**Authors:** Clement Moreau, Thomas Devogele, Laurent Etienne, Veronika Peralta, Cyril de Runz
+
+## Summary
+Various institutes produce large semantic datasets containing information regarding daily activities and human mobility. The analysis and understanding of such data are crucial for urban planning, socio-psychology, political sciences, and epidemiology. However, none of the typical data mining processes have been customized for the thorough analysis of semantic mobility sequences to translate data into understandable behaviors. Based on an extended literature review, we propose a novel methodological pipeline called simba (Semantic Indicators for Mobility and Behavior Analysis), for mining and analyzing semantic mobility sequences to identify coherent information and human behaviors. A framework for semantic sequence mobility analysis and clustering explicability based on integrating different complementary statistical indicators and visual tools is implemented. To validate this methodology, we used a large set of real daily mobility sequences obtained from a household travel survey. Complementary knowledge is automatically discovered in the proposed method.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:26:47.494Z

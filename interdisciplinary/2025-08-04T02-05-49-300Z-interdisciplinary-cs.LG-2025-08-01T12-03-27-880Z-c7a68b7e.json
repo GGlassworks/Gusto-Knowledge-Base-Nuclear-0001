@@ -1,0 +1,12 @@
+# TGTOD: A Global Temporal Graph Transformer for Outlier Detection at Scale
+
+**Authors:** Kay Liu, Jiahao Ding, MohamadAli Torkamani, Philip S. Yu
+
+## Summary
+While Transformers have revolutionized machine learning on various data, existing Transformers for temporal graphs face limitations in (1) restricted receptive fields, (2) overhead of subgraph extraction, and (3) suboptimal generalization capability beyond link prediction. In this paper, we rethink temporal graph Transformers and propose TGTOD, a novel end-to-end Temporal Graph Transformer for Outlier Detection. TGTOD employs global attention to model both structural and temporal dependencies within temporal graphs. To tackle scalability, our approach divides large temporal graphs into spatiotemporal patches, which are then processed by a hierarchical Transformer architecture comprising Patch Transformer, Cluster Transformer, and Temporal Transformer. We evaluate TGTOD on three public datasets under two settings, comparing with a wide range of baselines. Our experimental results demonstrate the effectiveness of TGTOD, achieving AP improvement of 61% on Elliptic. Furthermore, our efficiency evaluation shows that TGTOD reduces training time by 44x compared to existing Transformers for temporal graphs. To foster reproducibility, we make our implementation publicly available at https://github.com/kayzliu/tgtod.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T12:03:27.880Z

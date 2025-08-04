@@ -1,0 +1,12 @@
+# Discriminative Multiple Canonical Correlation Analysis for Information Fusion
+
+**Authors:** Lei Gao, Lin Qi, Enqing Chen, Ling Guan
+
+## Summary
+In this paper, we propose the Discriminative Multiple Canonical Correlation Analysis (DMCCA) for multimodal information analysis and fusion. DMCCA is capable of extracting more discriminative characteristics from multimodal information representations. Specifically, it finds the projected directions which simultaneously maximize the within-class correlation and minimize the between-class correlation, leading to better utilization of the multimodal information. In the process, we analytically demonstrate that the optimally projected dimension by DMCCA can be quite accurately predicted, leading to both superior performance and substantial reduction in computational cost. We further verify that Canonical Correlation Analysis (CCA), Multiple Canonical Correlation Analysis (MCCA) and Discriminative Canonical Correlation Analysis (DCCA) are special cases of DMCCA, thus establishing a unified framework for Canonical Correlation Analysis. We implement a prototype of DMCCA to demonstrate its performance in handwritten digit recognition and human emotion recognition. Extensive experiments show that DMCCA outperforms the traditional methods of serial fusion, CCA, MCCA and DCCA.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T10:21:09.897Z

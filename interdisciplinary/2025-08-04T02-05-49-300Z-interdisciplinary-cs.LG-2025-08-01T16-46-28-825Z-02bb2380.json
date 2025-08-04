@@ -1,0 +1,12 @@
+# Deep Genetic Network
+
+**Authors:** Siddhartha Dhar Choudhury, Shashank Pandey, Kunal Mehrotra
+
+## Summary
+Optimizing a neural network's performance is a tedious and time taking process, this iterative process does not have any defined solution which can work for all the problems. Optimization can be roughly categorized into - Architecture and Hyperparameter optimization. Many algorithms have been devised to address this problem. In this paper we introduce a neural network architecture (Deep Genetic Network) which will optimize its parameters during training based on its fitness. Deep Genetic Net uses genetic algorithms along with deep neural networks to address the hyperparameter optimization problem, this approach uses ideas like mating and mutation which are key to genetic algorithms which help the neural net architecture to learn to optimize its hyperparameters by itself rather than depending on a person to explicitly set the values. Using genetic algorithms for this problem proved to work exceptionally well when given enough time to train the network. The proposed architecture is found to work well in optimizing hyperparameters in affine, convolutional and recurrent layers proving to be a good choice for conventional supervised learning tasks.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.LG
+Collected: 2025-08-01T16:46:28.827Z
