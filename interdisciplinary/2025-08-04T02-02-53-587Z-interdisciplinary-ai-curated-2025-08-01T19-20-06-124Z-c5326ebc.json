@@ -1,0 +1,13 @@
+# An Advanced Big Data Quality Framework Based on Weighted Metrics
+
+**Authors:** Widad Elouataoui, Imane El Alaoui, Saida El Mendili, Youssef Gahi
+
+## Abstract
+While big data benefits are numerous, the use of big data requires, however, addressing new challenges related to data processing, data security, and especially degradation of data quality. Despite the increased importance of data quality for big data, data quality measurement is actually limited to few metrics. Indeed, while more than 50 data quality dimensions have been defined in the literature, the number of measured dimensions is limited to 11 dimensions. Therefore, this paper aims to extend the measured dimensions by defining four new data quality metrics: Integrity, Accessibility, Ease of manipulation, and Security. Thus, we propose a comprehensive Big Data Quality Assessment Framework based on 12 metrics: Completeness, Timeliness, Volatility, Uniqueness, Conformity, Consistency, Ease of manipulation, Relevancy, Readability, Security, Accessibility, and Integrity. In addition, to ensure accurate data quality assessment, we apply data weights at three data unit levels: data fields, quality metrics, and quality aspects. Furthermore, we define and measure five quality aspects to provide a macro-view of data quality. Finally, an experiment is performed to implement the defined measures. The results show that the suggested methodology allows a more exhaustive and accurate big data quality assessment, with a more extensive methodology defining a weighted quality score based on 12 metrics and achieving a best quality model score of 9/10.
+
+**Source:** https://www.semanticscholar.org/paper/6063bd847e2606a5d835c4de58a484efce70e6d2
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:20:06.125Z

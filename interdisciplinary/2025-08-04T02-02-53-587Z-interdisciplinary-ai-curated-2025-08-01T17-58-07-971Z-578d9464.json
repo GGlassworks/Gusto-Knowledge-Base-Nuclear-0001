@@ -1,0 +1,13 @@
+# Social Network Search for Solving Engineering Optimization Problems
+
+**Authors:** Hadi Bayzidi, S. Talatahari, Meysam Saraee, C. Lamarche
+
+## Abstract
+In this paper, a new metaheuristic optimization algorithm, called social network search (SNS), is employed for solving mixed continuous/discrete engineering optimization problems. The SNS algorithm mimics the social network user's efforts to gain more popularity by modeling the decision moods in expressing their opinions. Four decision moods, including imitation, conversation, disputation, and innovation, are real-world behaviors of users in social networks. These moods are used as optimization operators that model how users are affected and motivated to share their new views. The SNS algorithm was verified with 14 benchmark engineering optimization problems and one real application in the field of remote sensing. The performance of the proposed method is compared with various algorithms to show its effectiveness over other well-known optimizers in terms of computational cost and accuracy. In most cases, the optimal solutions achieved by the SNS are better than the best solution obtained by the existing methods.
+
+**Source:** https://www.semanticscholar.org/paper/8b99169170e09fb3b754c5203171a1c06ce0b05d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:07.971Z

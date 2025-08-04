@@ -1,0 +1,13 @@
+# Mobile-Application Loading-Animation Design and Implementation Optimization
+
+**Authors:** J. Pibernik, J. Dolić, Lidija Mandić, Valentina Kovač
+
+## Abstract
+Mobile-application performance and ultimately bounce rate are influenced by many factors, with wait-time duration proven to be the most important influencing factor. It is therefore important to optimize loading-time perception and performance to ensure a smooth and enjoyable experience. This research investigates the influences of loading-animation design, motion speed, and semantics, as well as the graphics format used for creation, on time perception. These research aims were (1) to identify the key factors that influence the quality of the user experience in the design of animated loading indicatorsand their perceived dimensions, (2) to find out what impact animation meaning has on perceived time duration, and (3) to identify loading-animation-design decisions’ influence on application performance. Research activities from the fields of human–computer interaction, psychology/neuroscience, and networking/telecommunications have addressed understanding the user’s wait-time experience. In this experiment, we confirmed that the perceived wait-time duration of a loading indicator is positively related to nontemporal properties, such as the processing principle, but we also reviewed the influence of the semantic structure of perceptual time representation. The specific meaning of an animation metaphor and its narrative sequence is related to information extraction and processing of novel and repeated stimuli and, consequently, to the experienced delight and duration judgment of an end user.
+
+**Source:** https://www.semanticscholar.org/paper/ab96ec0cfa69d91e14dc351f4768d728b3661cd0
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:09.227Z

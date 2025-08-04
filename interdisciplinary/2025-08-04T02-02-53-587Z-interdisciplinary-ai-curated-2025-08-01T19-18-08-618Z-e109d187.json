@@ -1,0 +1,13 @@
+# A survey of data partitioning and sampling methods to support big data analysis
+
+**Authors:** M.S. Mahmud, J. Huang, Salman Salloum, Tamer Z. Emara, Kuanishbay Sadatdiynov
+
+## Abstract
+Computer clusters with the shared-nothing architecture are the major computing platforms for big data processing and analysis. In cluster computing, data partitioning and sampling are two fundamental strategies to speed up the computation of big data and increase scalability. In this paper, we present a comprehensive survey of the methods and techniques of data partitioning and sampling with respect to big data processing and analysis. We start with an overview of the mainstream big data frameworks on Hadoop clusters. The basic methods of data partitioning are then discussed including three classical horizontal partitioning schemes: range, hash, and random partitioning. Data partitioning on Hadoop clusters is also discussed with a summary of new strategies for big data partitioning, including the new Random Sample Partition (RSP) distributed model. The classical methods of data sampling are then investigated, including simple random sampling, stratified sampling, and reservoir sampling. Two common methods of big data sampling on computing clusters are also discussed: record-level sampling and block-level sampling. Record-level sampling is not as efficient as block-level sampling on big distributed data. On the other hand, block-level sampling on data blocks generated with the classical data partitioning methods does not necessarily produce good representative samples for approximate computing of big data. In this survey, we also summarize the prevailing strategies and related work on sampling-based approximation on Hadoop clusters. We believe that data partitioning and sampling should be considered together to build approximate cluster computing frameworks that are reliable in both the computational and statistical respects.
+
+**Source:** https://www.semanticscholar.org/paper/c24d47ff95cd4bda073c75ec24ececaa3b10c995
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:18:08.619Z

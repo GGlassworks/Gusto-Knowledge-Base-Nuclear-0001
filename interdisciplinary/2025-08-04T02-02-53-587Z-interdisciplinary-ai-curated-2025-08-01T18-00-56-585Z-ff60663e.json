@@ -1,0 +1,13 @@
+# A hands-on tutorial on network and topological neuroscience
+
+**Authors:** E. Centeno, Giulia Moreni, C. Vriend, L. Douw, F. Santos
+
+## Abstract
+The brain is an extraordinarily complex system that facilitates the optimal integration of information from different regions to execute its functions. With the recent advances in technology, researchers can now collect enormous amounts of data from the brain using neuroimaging at different scales and from numerous modalities. With that comes the need for sophisticated tools for analysis. The field of network neuroscience has been trying to tackle these challenges, and graph theory has been one of its essential branches through the investigation of brain networks. Recently, topological data analysis has gained more attention as an alternative framework by providing a set of metrics that go beyond pairwise connections and offer improved robustness against noise. In this hands-on tutorial, our goal is to provide the computational tools to explore neuroimaging data using these frameworks and to facilitate their accessibility, data visualisation, and comprehension for newcomers to the field. We will start by giving a concise (and by no means complete) overview of the field to introduce the two frameworks and then explain how to compute both well-established and newer metrics on resting-state functional magnetic resonance imaging. We use an open-source language (Python) and provide an accompanying publicly available Jupyter Notebook that uses the 1000 Functional Connectomes Project dataset. Moreover, we would like to highlight one part of our notebook dedicated to the realistic visualisation of high order interactions in brain networks. This pipeline provides three-dimensional (3-D) plots of pairwise and higher-order interactions projected in a brain atlas, a new feature tailor-made for network neuroscience.
+
+**Source:** https://www.semanticscholar.org/paper/93467ad4998455b94598a48e16ffb8d384cf5cd9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T18:00:56.586Z

@@ -1,0 +1,13 @@
+# Harris Hawk Optimization: A Survey onVariants and Applications
+
+**Authors:** B. K. Tripathy, Praveen Kumar Reddy Maddikunta, Viet Quoc Pham, T. Gadekallu, K. Dev, Sharnil Pandya, B. Elhalawany
+
+## Abstract
+In this review, we intend to present a complete literature survey on the conception and variants of the recent successful optimization algorithm, Harris Hawk optimizer (HHO), along with an updated set of applications in well-established works. For this purpose, we first present an overview of HHO, including its logic of equations and mathematical model. Next, we focus on reviewing different variants of HHO from the available well-established literature. To provide readers a deep vision and foster the application of the HHO, we review the state-of-the-art improvements of HHO, focusing mainly on fuzzy HHO and a new intuitionistic fuzzy HHO algorithm. We also review the applications of HHO in enhancing machine learning operations and in tackling engineering optimization problems. This survey can cover different aspects of HHO and its future applications to provide a basis for future research in the development of swarm intelligence paths and the use of HHO for real-world problems.
+
+**Source:** https://www.semanticscholar.org/paper/fbfc06ca2df65279e3929931fdfa602e2a125d3d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:08.917Z

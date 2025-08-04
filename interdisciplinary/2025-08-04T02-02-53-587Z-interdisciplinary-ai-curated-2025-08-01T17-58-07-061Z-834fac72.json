@@ -1,0 +1,13 @@
+# Towards Human-like Walking with Biomechanical and Neuromuscular Control Features: Personalized Attachment Point Optimization Method of Cable-Driven Exoskeleton
+
+**Authors:** Yasheng Chen, Weiwei Yu, Abderraouf Benali, Donglai Lu, Siong Yuen Kok, Runxiao Wang
+
+## Abstract
+The cable-driven exoskeleton can avoid joint misalignment, and is substantial alterations in the pattern of muscle synergy coordination, which arouse more attention in recent years to facilitate exercise for older adults and improve their overall quality of life. This study leverages principles from neuroscience and biomechanical analysis to select attachment points for cable-driven soft exoskeletons. By extracting key features of human movement, the objective is to develop a subject-specific design methodology that provides precise and personalized support in the attachment points optimization of cable-driven exoskeleton to achieve natural gait, energy efficiency, and muscle coordination controllable in the domain of human mobility and rehabilitation. To achieve this, the study first analyzes human walking experimental data and extracts biomechanical features. These features are then used to generate trajectories, allowing better natural movement under complete cable-driven exoskeleton control. Next, a genetic algorithm-based method is employed to minimize energy consumption and optimize the attachment points of the cable-driven system. This process identifies connections that are better suited for the human model, leading to improved efficiency and natural movement. By comparing the calculated elderly human model driven by exoskeleton with experimental subject in terms of joint angles, joint torques and muscle forces, the human model can successfully replicate subject movement and the cable output forces can mimic human muscle coordination. The optimized cable attachment points facilitate more natural and efficient collaboration between humans and the exoskeleton, making significant contributions to the field of assisting the elderly in rehabilitation.
+
+**Source:** https://www.semanticscholar.org/paper/d9bf6c67218c30e3091859e9e680403b263cfd1c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:07.061Z

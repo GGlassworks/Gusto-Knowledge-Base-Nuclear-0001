@@ -1,0 +1,13 @@
+# Big Data Analysis Technology for Electric Vehicle Networks in Smart Cities
+
+**Authors:** Zhihan Lv, Liang Qiao, Ken Cai, Qingjun Wang
+
+## Abstract
+To explore the electric vehicle networks in smart cities through big data analysis technology, this study utilizes K-means and fuzzy theory in big data analysis technology to construct an objective function-based fuzzy mean clustering algorithm theory (FCM). Then, the FCM algorithm is improved, and the electric vehicle network is simulated. The results show that in the analysis of network data transmission performance, when the probability of successful propagation is 100% and the $\lambda $ value is between 0.01-0.05, it is closest to the actual result, and the data delay is the smallest. In the analysis of the route guidance effects, when facing congested road sections, the route guidance strategy of this study can restrain the spread of congestion effectively and achieve timely evacuation of traffic congestion. In the further analysis of the impact of different factors on traffic conditions, under route guidance, with the increase in market penetration rate (MPR) of devices, following rate (FR) of vehicles, and congestion level (CL), the improvement of the induction strategy becomes clearer, and greater economic benefits are achieved. This study has found that utilizing big data analysis technology to improve the electric vehicle transportation networks can reduce the network data transmission performance delay significantly and change the path to suppress the spread of congestion effectively, which has provided experimental references for the development of electric vehicle transportation networks.
+
+**Source:** https://www.semanticscholar.org/paper/ae354938ba40fce9e8e852af25fa9a7990070a74
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:18:09.111Z

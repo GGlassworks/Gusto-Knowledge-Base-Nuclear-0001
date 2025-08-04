@@ -1,0 +1,13 @@
+# On the accuracy of code complexity metrics: A neuroscience-based guideline for improvement
+
+**Authors:** Gao Hao, Haytham Hijazi, J. Durães, J. Medeiros, R. Couceiro, C. Lam, C. Teixeira, J. Castelhano, Miguel Castelo Branco, P. Carvalho, H. Madeira
+
+## Abstract
+Complexity is the key element of software quality. This article investigates the problem of measuring code complexity and discusses the results of a controlled experiment to compare different views and methods to measure code complexity. Participants (27 programmers) were asked to read and (try to) understand a set of programs, while the complexity of such programs is assessed through different methods and perspectives: (a) classic code complexity metrics such as McCabe and Halstead metrics, (b) cognitive complexity metrics based on scored code constructs, (c) cognitive complexity metrics from state-of-the-art tools such as SonarQube, (d) human-centered metrics relying on the direct assessment of programmers’ behavioral features (e.g., reading time, and revisits) using eye tracking, and (e) cognitive load/mental effort assessed using electroencephalography (EEG). The human-centered perspective was complemented by the subjective evaluation of participants on the mental effort required to understand the programs using the NASA Task Load Index (TLX). Additionally, the evaluation of the code complexity is measured at both the program level and, whenever possible, at the very low level of code constructs/code regions, to identify the actual code elements and the code context that may trigger a complexity surge in the programmers’ perception of code comprehension difficulty. The programmers’ cognitive load measured using EEG was used as a reference to evaluate how the different metrics can express the (human) difficulty in comprehending the code. Extensive experimental results show that popular metrics such as V(g) and the complexity metric from SonarSource tools deviate considerably from the programmers’ perception of code complexity and often do not show the expected monotonic behavior. The article summarizes the findings in a set of guidelines to improve existing code complexity metrics, particularly state-of-the-art metrics such as cognitive complexity from SonarSource tools.
+
+**Source:** https://www.semanticscholar.org/paper/9bb1e7c04241600d67a33c9228198d60bd11d459
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T18:08:43.378Z

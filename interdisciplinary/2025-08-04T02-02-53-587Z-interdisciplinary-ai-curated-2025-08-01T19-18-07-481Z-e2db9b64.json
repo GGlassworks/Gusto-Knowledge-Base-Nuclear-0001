@@ -1,0 +1,13 @@
+# Utilization of text mining as a big data analysis tool for food science and nutrition.
+
+**Authors:** Dandan Tao, Pengkun Yang, H. Feng
+
+## Abstract
+Big data analysis has found applications in many industries due to its ability to turn huge amounts of data into insights for informed business and operational decisions. Advanced data mining techniques have been applied in many sectors of supply chains in the food industry. However, the previous work has mainly focused on the analysis of instrument-generated data such as those from hyperspectral imaging, spectroscopy, and biometric receptors. The importance of digital text data in the food and nutrition has only recently gained attention due to advancements in big data analytics. The purpose of this review is to provide an overview of the data sources, computational methods, and applications of text data in the food industry. Text mining techniques such as word-level analysis (e.g., frequency analysis), word association analysis (e.g., network analysis), and advanced techniques (e.g., text classification, text clustering, topic modeling, information retrieval, and sentiment analysis) will be discussed. Applications of text data analysis will be illustrated with respect to food safety and food fraud surveillance, dietary pattern characterization, consumer-opinion mining, new-product development, food knowledge discovery, food supply-chain management, and online food services. The goal is to provide insights for intelligent decision-making to improve food production, food safety, and human nutrition.
+
+**Source:** https://www.semanticscholar.org/paper/ca5e7580993170b1fe621bc16383ad2dfa6803b5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:18:07.482Z

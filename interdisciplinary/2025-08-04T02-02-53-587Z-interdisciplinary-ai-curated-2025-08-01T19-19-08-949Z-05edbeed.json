@@ -1,0 +1,13 @@
+# A big data analytics based methodology for strategic decision making
+
+**Authors:** Murat Özemre, O. Kabadurmus
+
+## Abstract
+The purpose of this paper is to present a novel framework for strategic decision making using Big Data Analytics (BDA) methodology.,In this study, two different machine learning algorithms, Random Forest (RF) and Artificial Neural Networks (ANN) are employed to forecast export volumes using an extensive amount of open trade data. The forecasted values are included in the Boston Consulting Group (BCG) Matrix to conduct strategic market analysis.,The proposed methodology is validated using a hypothetical case study of a Chinese company exporting refrigerators and freezers. The results show that the proposed methodology makes accurate trade forecasts and helps to conduct strategic market analysis effectively. Also, the RF performs better than the ANN in terms of forecast accuracy.,This study presents only one case study to test the proposed methodology. In future studies, the validity of the proposed method can be further generalized in different product groups and countries.,In today’s highly competitive business environment, an effective strategic market analysis requires importers or exporters to make better predictions and strategic decisions. Using the proposed BDA based methodology, companies can effectively identify new business opportunities and adjust their strategic decisions accordingly.,This is the first study to present a holistic methodology for strategic market analysis using BDA. The proposed methodology accurately forecasts international trade volumes and facilitates the strategic decision-making process by providing future insights into global markets.
+
+**Source:** https://www.semanticscholar.org/paper/ae9a6d64a1e23a9e8451318ade7e7a1ba4c898fa
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:19:08.950Z

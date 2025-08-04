@@ -1,0 +1,13 @@
+# Tuna Swarm Optimization: A Novel Swarm-Based Metaheuristic Algorithm for Global Optimization
+
+**Authors:** Lei Xie, Tong Han, Huan Zhou, Zhuoran Zhang, Bo Han, Andi Tang
+
+## Abstract
+In this paper, a novel swarm-based metaheuristic algorithm is proposed, which is called tuna swarm optimization (TSO). The main inspiration for TSO is based on the cooperative foraging behavior of tuna swarm. The work mimics two foraging behaviors of tuna swarm, including spiral foraging and parabolic foraging, for developing an effective metaheuristic algorithm. The performance of TSO is evaluated by comparison with other metaheuristics on a set of benchmark functions and several real engineering problems. Sensitivity, scalability, robustness, and convergence analyses were used and combined with the Wilcoxon rank-sum test and Friedman test. The simulation results show that TSO performs better compared to other comparative algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/989d259b4f1b169cd5b32a7618000c2fac01fa94
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:58:07.611Z

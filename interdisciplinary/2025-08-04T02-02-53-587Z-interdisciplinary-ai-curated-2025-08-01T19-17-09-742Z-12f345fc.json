@@ -1,0 +1,13 @@
+# Big Data Systems
+
+**Authors:** A. Davoudian, Mengchi Liu
+
+## Abstract
+Big Data Systems (BDSs) are an emerging class of scalable software technologies whereby massive amounts of heterogeneous data are gathered from multiple sources, managed, analyzed (in batch, stream or hybrid fashion), and served to end-users and external applications. Such systems pose specific challenges in all phases of software development lifecycle and might become very complex by evolving data, technologies, and target value over time. Consequently, many organizations and enterprises have found it difficult to adopt BDSs. In this article, we provide insight into three major activities of software engineering in the context of BDSs as well as the choices made to tackle them regarding state-of-the-art research and industry efforts. These activities include the engineering of requirements, designing and constructing software to meet the specified requirements, and software/data quality assurance. We also disclose some open challenges of developing effective BDSs, which need attention from both researchers and practitioners.
+
+**Source:** https://www.semanticscholar.org/paper/4c604bb15f78f5337bda9a3ad0e1c6a9b2c0ce41
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:17:09.743Z

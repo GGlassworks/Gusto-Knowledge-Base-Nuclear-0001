@@ -1,0 +1,13 @@
+# Exploring the Specificities and Challenges of Testing Big Data Systems
+
+**Authors:** D. Staegemann, M. Volk, Abdulrahman Nahhas, Mohammad Abdallah, K. Turowski
+
+## Abstract
+Today, the amount and complexity of data that is globally produced increases continuously, surpassing the abilities of traditional approaches. Therefore, to capture and analyze those data, new concepts and techniques are utilized to engineer powerful big data systems. However, despite the existence of sophisticated approaches for the engineering of those systems, the testing is not sufficiently researched. Hence, in this contribution, a comparison of traditional software testing, as a common procedure, and the requirements of big data testing is drawn. The determined specificities in the big data domain are mapped to their implications on the implementation and the consequent challenges. Furthermore, those findings are transferred into six guidelines for the testing of big data systems. In the end, limitations and future prospects are highlighted.
+
+**Source:** https://www.semanticscholar.org/paper/e506595062630b5d434df65dde21c4843b6c91f8
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:17:11.126Z

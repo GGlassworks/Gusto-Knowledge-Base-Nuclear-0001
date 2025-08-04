@@ -1,0 +1,13 @@
+# Comprehensive review of Transformer‐based models in neuroscience, neurology, and psychiatry
+
+**Authors:** Shan Cong, Hang Wang, Yang Zhou, Zheng Wang, X. Yao, Chunsheng Yang
+
+## Abstract
+This comprehensive review aims to clarify the growing impact of Transformer‐based models in the fields of neuroscience, neurology, and psychiatry. Originally developed as a solution for analyzing sequential data, the Transformer architecture has evolved to effectively capture complex spatiotemporal relationships and long‐range dependencies that are common in biomedical data. Its adaptability and effectiveness in deciphering intricate patterns within medical studies have established it as a key tool in advancing our understanding of neural functions and disorders, representing a significant departure from traditional computational methods. The review begins by introducing the structure and principles of Transformer architectures. It then explores their applicability, ranging from disease diagnosis and prognosis to the evaluation of cognitive processes and neural decoding. The specific design modifications tailored for these applications and their subsequent impact on performance are also discussed. We conclude by providing a comprehensive assessment of recent advancements, prevailing challenges, and future directions, highlighting the shift in neuroscientific research and clinical practice towards an artificial intelligence‐centric paradigm, particularly given the prominence of Transformer architecture in the most successful large pre‐trained models. This review serves as an informative reference for researchers, clinicians, and professionals who are interested in understanding and harnessing the transformative potential of Transformer‐based models in neuroscience, neurology, and psychiatry.
+
+**Source:** https://www.semanticscholar.org/paper/0542f98f9a877e34e4bd10ae1a3fd13e4e5ef0cd
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T18:08:40.635Z

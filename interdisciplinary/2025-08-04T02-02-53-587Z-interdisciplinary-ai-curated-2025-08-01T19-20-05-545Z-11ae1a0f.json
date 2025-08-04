@@ -1,0 +1,13 @@
+# Designing and Implementing an Advanced Big Data Governance Platform
+
+**Authors:** Yekun Chen, Tianqi Xu, Yongjiang Xue
+
+## Abstract
+Contemporary mainstream big data governance platforms are built atop the big data ecosystem components, offering a one-stop development and analysis governance platform for the collection, transmission, storage, cleansing, transformation, querying and analysis, data development, publishing, and subscription, sharing and exchange, management, and services of massive data. These platforms serve various role members who have internal and external data needs. However, in the era of big data, the rapid update and iteration of big data technologies, the diversification of data businesses, and the exponential growth of data present more challenges and uncertainties to the construction of big data governance platforms. This paper discusses how to effectively build a data governance platform under the big data system from the perspectives of functional architecture, logical architecture, data architecture, and functional design.
+
+**Source:** https://www.semanticscholar.org/paper/7b257570f13714f4a2dfde7aac785a445c5b6b48
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:20:05.545Z

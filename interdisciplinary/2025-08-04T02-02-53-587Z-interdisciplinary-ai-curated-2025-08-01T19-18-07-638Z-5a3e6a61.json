@@ -1,0 +1,13 @@
+# Big Data Analysis and Perturbation using Data Mining Algorithm
+
+**Authors:** Haoxiang Wang, S. S
+
+## Abstract
+The advancement and introduction of computing technologies has proven to be highly effective and has resulted in the production of large amount of data that is to be analyzed. However, there is much concern on the privacy protection of the gathered data which suffers from the possibility of being exploited or exposed to the public. Hence, there are many methods of preserving this information they are not completely scalable or efficient and also have issues with privacy or data utility. Hence this proposed work provides a solution for such issues with an effective perturbation algorithm that uses big data by means of optimal geometric transformation. The proposed work has been examined and tested for accuracy, attack resistance, scalability and efficiency with the help of 5 classification algorithms and 9 datasets. Experimental analysis indicates that the proposed work is more successful in terms of attack resistance, scalability, execution speed and accuracy when compared with other algorithms that are used for privacy preservation.
+
+**Source:** https://www.semanticscholar.org/paper/c15db28534c48db0670219c623bac7bfaf127466
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:18:07.638Z

@@ -1,0 +1,13 @@
+# A survey of scheduling frameworks in big data systems
+
+**Authors:** Ji Liu, Esther Pacitti, P. Valduriez
+
+## Abstract
+Cloud and big data technologies are now converging to enable organizations to outsource data in the cloud and get value from data through big data analytics. Big data systems typically exploit computer clusters to gain scalability and obtain a good cost-performance ratio. However, scheduling a workload in a computer cluster remains a well-known open problem. Scheduling methods are typically implemented in a scheduling framework and may have different objectives. In this paper, we survey scheduling methods and frameworks for big data systems, propose a taxonomy and analyze the features of the different categories of scheduling frameworks. These frameworks have been designed initially for the cloud (MapReduce) to process Web data. We examine sixteen popular scheduling frameworks and discuss their features. Our study shows that different frameworks are proposed for different big data systems, different scales of computer clusters and different objectives. We propose the main dimensions for workloads and metrics for benchmarks to evaluate these scheduling frameworks. Finally, we analyze their limitations and propose new research directions.
+
+**Source:** https://www.semanticscholar.org/paper/7bfa5b7748f36987fd1b5a28dc7d2d754fed7718
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:17:12.251Z

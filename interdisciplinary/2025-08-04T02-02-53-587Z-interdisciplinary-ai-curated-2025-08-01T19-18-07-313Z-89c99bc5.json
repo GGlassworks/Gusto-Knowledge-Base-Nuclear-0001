@@ -1,0 +1,13 @@
+# Big Data Analysis Based Network Behavior Insight of Cellular Networks for Industry 4.0 Applications
+
+**Authors:** Dingde Jiang, Yuqing Wang, Zhihan Lv, Sheng Qi, Surjit Singh
+
+## Abstract
+In this article, we propose a big data based analysis framework to analyze and extract network behaviors in cellular networks for Industry 4.0 applications from a big data perspective, using Hadoop, Hive, HBase, and so on. The data prehandling and traffic flow extraction approaches are presented to construct effective traffic matrices. Accordingly, we can capture network behaviors in cellular networks from a networkwide perspective. Although there have been a number of prior studies on cellular network usage, to the best of our knowledge, this article is a first study that characterizes network behaviors using the big data analytics to analyze a network big data of call detail records over a longer duration (five months), with more users (five million), more records (several hundred million lines) and nationwide coverage. The call pattern analysis and network behavior extraction approaches are designed to perform big data analysis and feature extractions. Then, the corresponding algorithms are proposed to characterize network behaviors, i.e., cellular call patterns and network resource usage. The detailed evaluation is proposed to validate our method. For example, we find that some unpopular calls can last longer time and thus consume more network resources.
+
+**Source:** https://www.semanticscholar.org/paper/156609022dd6258c60238859622da0a1683bd062
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:18:07.314Z
