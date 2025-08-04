@@ -1,0 +1,13 @@
+# Boosted Decision Tree for Q-Matrix Refinement
+
+**Authors:** Xu, Peng, Desmarais, Michel C.
+
+## Abstract
+In recent years, substantial improvements were obtained in the effectiveness of data driven algorithms to validate the mapping of items to skills, or the Q-matrix. In the current study we use ensemble algorithms on top of existing Q-matrix refinement algorithms to improve their performance. We combine the boosting technique with a decision tree. The results show that the improvements from both the decision tree and Adaboost combined are better than the decision tree alone and yield substantial gains over the best performance of individual Q-matrix refinement algorithm. [For the full proceedings, see ED592609.]
+
+**Source:** https://eric.ed.gov/?id=ED592652
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T10:19:35.344Z

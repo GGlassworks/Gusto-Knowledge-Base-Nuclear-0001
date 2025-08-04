@@ -1,0 +1,13 @@
+# A Comparison of Machine Learning Algorithms for Predicting Student Performance in an Online Mathematics Game
+
+**Authors:** Ji-Eun Lee, Amisha Jindal, Sanika Nitin Patki, Ashish Gurung, Reilly Norum, Erin Ottmar
+
+## Abstract
+This paper demonstrates how to apply Machine Learning (ML) techniques to analyze student interaction data collected in an online mathematics game. We examined: (1) how different ML algorithms influenced the precision of middle-school students' (N = 359) performance prediction; and (2) what types of in-game features were associated with student math knowledge scores. The results indicated that the Random Forest algorithm showed the best performance in predicting posttest math knowledge scores among the seven algorithms employed. Out of 37 features included in the model, the validity of the students' first mathematical transformation was the most predictive of their math knowledge scores. Implications for game learning analytics and supporting students' algebraic learning are discussed based on the findings.
+
+**Source:** https://eric.ed.gov/?id=ED629740
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T10:19:36.552Z

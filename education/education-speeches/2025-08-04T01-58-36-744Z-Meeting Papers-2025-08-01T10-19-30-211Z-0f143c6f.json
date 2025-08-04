@@ -1,0 +1,13 @@
+# Getting Too Personal(ized): The Importance of Feature Choice in Online Adaptive Algorithms
+
+**Authors:** Li, ZhaoBin, Yee, Luna, Sauerberg, Nathaniel, Sakson, Irene, Williams, Joseph Jay, Rafferty, Anna N.
+
+## Abstract
+Digital educational technologies offer the potential to customize students' experiences and learn what works for which students, enhancing the technology as more students interact with it. We consider whether and when attempting to discover how to personalize has a cost, such as if the adaptation to personal information can delay the adoption of policies that benefit all students. We explore these issues in the context of using multi-armed bandit (MAB) algorithms to learn a policy for what version of an educational technology to present to each student, varying the relation between student characteristics and outcomes and also whether the algorithm is aware of these characteristics. Through simulations, we demonstrate that the inclusion of student characteristics for personalization can be beneficial when those characteristics are needed to learn the optimal action. In other scenarios, this inclusion decreases performance and increases variation in student experiences. Moreover, including unneeded student characteristics can systematically disadvantage students with less common values for these characteristics. Our simulations do however suggest that real-time personalization will be helpful in particular real-world scenarios, and we illustrate this through case studies using existing experimental results in ASSISTments. Overall, our simulations show that adaptive personalization in educational technologies can be a double-edged sword: real-time adaptation improves student experiences in some contexts, but the slower adaptation and increased variability mean that a more personalized model is not always beneficial. [For the full proceedings, see ED607784.]
+
+**Source:** https://eric.ed.gov/?id=ED607907
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T10:19:30.211Z

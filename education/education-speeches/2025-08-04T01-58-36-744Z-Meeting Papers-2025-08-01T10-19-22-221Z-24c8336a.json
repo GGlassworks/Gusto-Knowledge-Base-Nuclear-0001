@@ -1,0 +1,13 @@
+# Adversarial Bandits for Drawing Generalizable Conclusions in Non-Adversarial Experiments: An Empirical Study
+
+**Authors:** Zhi-Han, Yang, Zhang, Shiyue, Rafferty, Anna N.
+
+## Abstract
+Online educational technologies facilitate pedagogical experimentation, but typical experimental designs assign a fixed proportion of students to each condition, even if early results suggest some are ineffective. Experimental designs using multi-armed bandit (MAB) algorithms vary the probability of condition assignment for a new student based on prior results, placing more students in more effective conditions. While stochastic MAB algorithms have been used for educational experiments, they collect data that decreases power and increases false positive rates [22]. Instead, we propose using adversarial MAB algorithms, which are less exploitative and thus may exhibit more robustness. Through simulations involving data from 20+ educational experiments [29], we show data collected using adversarial MAB algorithms does not have the statistical downsides of that from stochastic MAB algorithms. Further, we explore how differences in condition variability (e.g., performance gaps between students being narrowed by an intervention) impact MAB versus uniform experimental design. Data from stochastic MAB algorithms systematically reduce power when the better arm is less variable, while increasing it when the better arm is more variable; data from the adversarial MAB algorithms results in the same statistical power as uniform assignment. Overall, these results demonstrate that adversarial MAB algorithms are a viable &quot;off-the-shelf&quot; solution for researchers who want to preserve the statistical power of standard experimental designs while also benefiting student participants. [For the full proceedings, see ED623995.]
+
+**Source:** https://eric.ed.gov/?id=ED624040
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T10:19:22.221Z

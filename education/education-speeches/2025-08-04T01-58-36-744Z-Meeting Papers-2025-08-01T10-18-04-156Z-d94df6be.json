@@ -1,0 +1,13 @@
+# Towards a Model-Free Estimate of the Limits to Student Modeling Accuracy
+
+**Authors:** Chen, Binglin, West, Matthew, Ziles, Craig
+
+## Abstract
+This paper attempts to quantify the accuracy limit of &quot;nextitem-correct&quot; prediction by using numerical optimization to estimate the student's probability of getting each question correct given a complete sequence of item responses. This optimization is performed without an explicit parameterized model of student behavior, but with the constraint that a student's likelihood of getting a problem correct only increases or remains unchanged with additional practice (i.e., no forgetting). We present results for this method for the Assistments 2009-2010 data where it suggests that there is only modest opportunity for improvement beyond the state of the art predictors. Furthermore, we describe a framework for applying this method to datasets where problems can be tagged with multiple skills and problem difficulties. Lastly, we discuss the limitations of this method, specifically its inability to give tight bounds on short sequences. [For the full proceedings, see ED593090.]
+
+**Source:** https://eric.ed.gov/?id=ED593198
+
+---
+Category: education
+Subcategory: Speeches/Meeting Papers
+Collected: 2025-08-01T10:18:04.156Z
