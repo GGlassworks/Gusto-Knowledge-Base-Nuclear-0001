@@ -1,0 +1,13 @@
+# Molecular Computation for Molecular Classification
+
+**Authors:** Coline Kieffer, Anthony J. Genot, Yannick Rondelez, Guillaume Gines
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>DNA as an informational polymer has, for the past 30 years, progressively become an essential molecule to rationally build chemical reaction networks endowed with powerful signal‐processing capabilities. Whether influenced by the silicon world or inspired by natural computation, molecular programming has gained attention for diagnosis applications. Of particular interest for this review, molecular classifiers have shown promising results for disease pattern recognition and sample classification. Because both input integration and computation are performed in a single tube, at the molecular level, this low‐cost approach may come as a complementary tool to molecular profiling strategies, where all biomarkers are quantified independently using high‐tech instrumentation. After introducing the elementary components of molecular classifiers, some of their experimental implementations are discussed either using digital Boolean logic or analog neural network architectures.</jats:p>
+
+**Source:** https://doi.org/10.1002/adbi.202200203
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:37:39.250Z
