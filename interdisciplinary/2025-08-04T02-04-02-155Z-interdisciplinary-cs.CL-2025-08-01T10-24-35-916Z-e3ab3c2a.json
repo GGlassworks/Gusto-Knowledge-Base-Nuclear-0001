@@ -1,0 +1,12 @@
+# Southern Newswire Corpus: A Large-Scale Dataset of Mid-Century Wire Articles Beyond the Front Page
+
+**Authors:** Michael McRae
+
+## Summary
+I introduce a new large-scale dataset of historical wire articles from U.S. Southern newspapers, spanning 1960-1975 and covering multiple wire services: The Associated Press, United Press International, Newspaper Enterprise Association. Unlike prior work focusing on front-page content, this dataset captures articles across the entire newspaper, offering broader insight into mid-century Southern coverage. The dataset includes a version that has undergone an LLM-based text cleanup pipeline to reduce OCR noise, enhancing its suitability for quantitative text analysis. Additionally, duplicate versions of articles are retained to enable analysis of editorial differences in language and framing across newspapers. Each article is tagged by wire service, facilitating comparative studies of editorial patterns across agencies. This resource opens new avenues for research in computational social science, digital humanities, and historical linguistics, providing a detailed perspective on how Southern newspapers relayed national and international news during a transformative period in American history. The dataset will be made available upon publication or request for research purposes.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:35.916Z

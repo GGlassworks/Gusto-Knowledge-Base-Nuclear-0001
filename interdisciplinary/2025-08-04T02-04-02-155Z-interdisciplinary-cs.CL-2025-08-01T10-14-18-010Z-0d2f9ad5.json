@@ -1,0 +1,12 @@
+# Query-based versus resource-based cache strategies in tag-based browsing systems
+
+**Authors:** Joaquín Gayoso-Cabada, Mercedes Gómez-Albarrán, José-Luis Sierra
+
+## Summary
+Tag-based browsing is a popular interaction model for navigating digital libraries. According to this model, users select descriptive tags to filter resources in the collections. Typical implementations of the model are based on inverted indexes. However, these implementations can require a considerable amount of set operations to update the browsing state. To palliate this inconven-ience, it is possible to adopt suitable cache strategies. In this paper we describe and compare two of these strategies: (i) a query-based strategy, according to which previously computed browsing states are indexed by sets of selected tags; and (ii) a resource-based strategy, according to which browsing states are in-dexed by sets of filtered resources. Our comparison focused on runtime perfor-mance, and was carried out empirically, using a real-world web-based collec-tion in the field of digital humanities. The results obtained show that the re-source-based strategy clearly outperforms the query-based one.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.010Z

@@ -1,0 +1,12 @@
+# SMAuC -- The Scientific Multi-Authorship Corpus
+
+**Authors:** Janek Bevendorff, Philipp Sauer, Lukas Gienapp, Wolfgang Kircheis, Erik Körner, Benno Stein, Martin Potthast
+
+## Summary
+The rapidly growing volume of scientific publications offers an interesting challenge for research on methods for analyzing the authorship of documents with one or more authors. However, most existing datasets lack scientific documents or the necessary metadata for constructing new experiments and test cases. We introduce SMAuC, a comprehensive, metadata-rich corpus tailored to scientific authorship analysis. Comprising over 3 million publications across various disciplines from over 5 million authors, SMAuC is the largest openly accessible corpus for this purpose. It encompasses scientific texts from humanities and natural sciences, accompanied by extensive, curated metadata, including unambiguous author IDs. SMAuC aims to significantly advance the domain of authorship analysis in scientific texts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:35.285Z

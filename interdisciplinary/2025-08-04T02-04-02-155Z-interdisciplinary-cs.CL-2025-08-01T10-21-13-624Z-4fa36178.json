@@ -1,0 +1,12 @@
+# Gender Bias Detection in Court Decisions: A Brazilian Case Study
+
+**Authors:** Raysa Benatti, Fabiana Severi, Sandra Avila, Esther Luna Colombini
+
+## Summary
+Data derived from the realm of the social sciences is often produced in digital text form, which motivates its use as a source for natural language processing methods. Researchers and practitioners have developed and relied on artificial intelligence techniques to collect, process, and analyze documents in the legal field, especially for tasks such as text summarization and classification. While increasing procedural efficiency is often the primary motivation behind natural language processing in the field, several works have proposed solutions for human rights-related issues, such as assessment of public policy and institutional social settings. One such issue is the presence of gender biases in court decisions, which has been largely studied in social sciences fields; biased institutional responses to gender-based violence are a violation of international human rights dispositions since they prevent gender minorities from accessing rights and hamper their dignity. Natural language processing-based approaches can help detect these biases on a larger scale. Still, the development and use of such tools require researchers and practitioners to be mindful of legal and ethical aspects concerning data sharing and use, reproducibility, domain expertise, and value-charged choices. In this work, we (a) present an experimental framework developed to automatically detect gender biases in court decisions issued in Brazilian Portuguese and (b) describe and elaborate on features we identify to be critical in such a technology, given its proposed use as a support tool for research and assessment of court~activity.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:21:13.624Z

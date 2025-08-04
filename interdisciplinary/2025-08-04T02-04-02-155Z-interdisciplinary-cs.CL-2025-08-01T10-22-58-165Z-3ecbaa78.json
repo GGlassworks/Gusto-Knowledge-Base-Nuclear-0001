@@ -1,0 +1,12 @@
+# Hybrid Emotion Recognition: Enhancing Customer Interactions Through Acoustic and Textual Analysis
+
+**Authors:** Sahan Hewage Wewelwala, T. G. D. K. Sumanathilaka
+
+## Summary
+This research presents a hybrid emotion recognition system integrating advanced Deep Learning, Natural Language Processing (NLP), and Large Language Models (LLMs) to analyze audio and textual data for enhancing customer interactions in contact centers. By combining acoustic features with textual sentiment analysis, the system achieves nuanced emotion detection, addressing the limitations of traditional approaches in understanding complex emotional states. Leveraging LSTM and CNN models for audio analysis and DistilBERT for textual evaluation, the methodology accommodates linguistic and cultural variations while ensuring real-time processing. Rigorous testing on diverse datasets demonstrates the system's robustness and accuracy, highlighting its potential to transform customer service by enabling personalized, empathetic interactions and improving operational efficiency. This research establishes a foundation for more intelligent and human-centric digital communication, redefining customer service standards.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:22:58.165Z

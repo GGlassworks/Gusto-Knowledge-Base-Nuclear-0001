@@ -1,0 +1,12 @@
+# Development and Evaluation of Three Chatbots for Postpartum Mood and Anxiety Disorders
+
+**Authors:** Xuewen Yao, Miriam Mikhelson, S. Craig Watkins, Eunsol Choi, Edison Thomaz, Kaya de Barbaro
+
+## Summary
+In collaboration with Postpartum Support International (PSI), a non-profit organization dedicated to supporting caregivers with postpartum mood and anxiety disorders, we developed three chatbots to provide context-specific empathetic support to postpartum caregivers, leveraging both rule-based and generative models. We present and evaluate the performance of our chatbots using both machine-based metrics and human-based questionnaires. Overall, our rule-based model achieves the best performance, with outputs that are close to ground truth reference and contain the highest levels of empathy. Human users prefer the rule-based chatbot over the generative chatbot for its context-specific and human-like replies. Our generative chatbot also produced empathetic responses and was described by human users as engaging. However, limitations in the training dataset often result in confusing or nonsensical responses. We conclude by discussing practical benefits of rule-based vs. generative models for supporting individuals with mental health challenges. In light of the recent surge of ChatGPT and BARD, we also discuss the possibilities and pitfalls of large language models for digital mental healthcare.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.181Z

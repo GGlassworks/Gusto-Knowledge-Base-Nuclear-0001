@@ -1,0 +1,12 @@
+# Source codes in human communication
+
+**Authors:** Michael Ramscar
+
+## Summary
+Although information theoretic characterizations of human communication have become increasingly popular in linguistics, to date they have largely involved grafting probabilistic constructs onto older ideas about grammar. Similarities between human and digital communication have been strongly emphasized, and differences largely ignored. However, some of these differences matter: communication systems are based on predefined codes shared by every sender-receiver, whereas the distributions of words in natural languages guarantee that no speaker-hearer ever has access to an entire linguistic code, which seemingly undermines the idea that natural languages are probabilistic systems in any meaningful sense. This paper describes how the distributional properties of languages meet the various challenges arising from the differences between information systems and natural languages, along with the very different view of human communication these properties suggest.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.152Z

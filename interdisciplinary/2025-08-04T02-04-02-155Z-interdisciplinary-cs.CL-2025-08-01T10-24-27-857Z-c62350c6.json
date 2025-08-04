@@ -1,0 +1,12 @@
+# Can Sentiment Analysis Reveal Structure in a Plotless Novel?
+
+**Authors:** Katherine Elkins, Jon Chun
+
+## Summary
+Modernist novels are thought to break with traditional plot structure. In this paper, we test this theory by applying Sentiment Analysis to one of the most famous modernist novels, To the Lighthouse by Virginia Woolf. We first assess Sentiment Analysis in light of the critique that it cannot adequately account for literary language: we use a unique statistical comparison to demonstrate that even simple lexical approaches to Sentiment Analysis are surprisingly effective. We then use the Syuzhet.R package to explore similarities and differences across modeling methods. This comparative approach, when paired with literary close reading, can offer interpretive clues. To our knowledge, we are the first to undertake a hybrid model that fully leverages the strengths of both computational analysis and close reading. This hybrid model raises new questions for the literary critic, such as how to interpret relative versus absolute emotional valence and how to take into account subjective identification. Our finding is that while To the Lighthouse does not replicate a plot centered around a traditional hero, it does reveal an underlying emotional structure distributed between characters - what we term a distributed heroine model. This finding is innovative in the field of modernist and narrative studies and demonstrates that a hybrid method can yield significant discoveries.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:27.857Z

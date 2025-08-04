@@ -1,0 +1,12 @@
+# Assessing Digital Language Support on a Global Scale
+
+**Authors:** Gary F. Simons, Abbey L. Thomas, Chad K. White
+
+## Summary
+The users of endangered languages struggle to thrive in a digitally-mediated world. We have developed an automated method for assessing how well every language recognized by ISO 639 is faring in terms of digital language support. The assessment is based on scraping the names of supported languages from the websites of 143 digital tools selected to represent a full range of ways that digital technology can support languages. The method uses Mokken scale analysis to produce an explainable model for quantifying digital language support and monitoring it on a global scale.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:30.091Z

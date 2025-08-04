@@ -1,0 +1,12 @@
+# Analyzing Pokémon and Mario Streamers' Twitch Chat with LLM-based User Embeddings
+
+**Authors:** Mika Hämäläinen, Jack Rueter, Khalid Alnajjar
+
+## Summary
+We present a novel digital humanities method for representing our Twitch chatters as user embeddings created by a large language model (LLM). We cluster these embeddings automatically using affinity propagation and further narrow this clustering down through manual analysis. We analyze the chat of one stream by each Twitch streamer: SmallAnt, DougDoug and PointCrow. Our findings suggest that each streamer has their own type of chatters, however two categories emerge for all of the streamers: supportive viewers and emoji and reaction senders. Repetitive message spammers is a shared chatter category for two of the streamers.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:25.128Z

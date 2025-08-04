@@ -1,0 +1,12 @@
+# Large Language Models for Zero-Shot Multicultural Name Recognition
+
+**Authors:** Thanakorn Phonchai, Surasakdi Siripong, Nicholas Patterson, Owen Campbell
+
+## Summary
+The robust and accurate recognition of multicultural names, particularly those not previously encountered, is a critical challenge in an increasingly globalized digital landscape. Traditional methods often falter when confronted with the vast diversity and novel permutations of names across different linguistic and cultural backgrounds. This paper introduces a novel framework, Prompt-Engineered Fine-Tuning (PEFT) for Large Language Models (LLMs) with Adversarial Data Augmentation and Cultural Knowledge Graph Integration, designed to significantly enhance zero-shot multicultural name recognition. Our approach leverages the powerful linguistic understanding of pre-trained LLMs, transforming the recognition task into a guided generation problem. Through meticulous prompt engineering, dynamic integration of explicit cultural knowledge derived from knowledge graphs, and the strategic application of adversarial data augmentation, we equip the LLM with an unprecedented ability to infer the cultural origin of unseen names. Extensive experiments demonstrate that our PEFT method consistently outperforms established deep learning baselines, including advanced Bi-LSTM models with cultural tags, achieving an impressive 93.1\% overall accuracy and a remarkable 89.5\% accuracy on challenging zero-shot name identification. An in-depth ablation study confirms the synergistic contribution of each component, while a human evaluation highlights our method's performance approaching human expert judgment. This work signifies a substantial leap in multicultural name recognition, offering a highly effective and scalable solution for real-world applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:17.381Z

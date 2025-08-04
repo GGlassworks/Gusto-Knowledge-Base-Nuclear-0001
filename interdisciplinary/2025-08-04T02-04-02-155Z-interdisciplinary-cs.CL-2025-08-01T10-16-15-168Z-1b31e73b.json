@@ -1,0 +1,12 @@
+# A Comparison of Automatic Labelling Approaches for Sentiment Analysis
+
+**Authors:** Sumana Biswas, Karen Young, Josephine Griffith
+
+## Summary
+Labelling a large quantity of social media data for the task of supervised machine learning is not only time-consuming but also difficult and expensive. On the other hand, the accuracy of supervised machine learning models is strongly related to the quality of the labelled data on which they train, and automatic sentiment labelling techniques could reduce the time and cost of human labelling. We have compared three automatic sentiment labelling techniques: TextBlob, Vader, and Afinn to assign sentiments to tweets without any human assistance. We compare three scenarios: one uses training and testing datasets with existing ground truth labels; the second experiment uses automatic labels as training and testing datasets; and the third experiment uses three automatic labelling techniques to label the training dataset and uses the ground truth labels for testing. The experiments were evaluated on two Twitter datasets: SemEval-2013 (DS-1) and SemEval-2016 (DS-2). Results show that the Afinn labelling technique obtains the highest accuracy of 80.17% (DS-1) and 80.05% (DS-2) using a BiLSTM deep learning model. These findings imply that automatic text labelling could provide significant benefits, and suggest a feasible alternative to the time and cost of human labelling efforts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:15.169Z

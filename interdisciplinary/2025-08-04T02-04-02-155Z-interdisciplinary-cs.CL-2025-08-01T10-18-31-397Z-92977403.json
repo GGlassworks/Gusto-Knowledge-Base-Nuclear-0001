@@ -1,0 +1,12 @@
+# Temporal Sequencing of Documents
+
+**Authors:** Michael Gervers, Gelila Tilahun
+
+## Summary
+We outline an unsupervised method for temporal rank ordering of sets of historical documents, namely American State of the Union Addresses and DEEDS, a corpus of medieval English property transfer documents. Our method relies upon effectively capturing the gradual change in word usage via a bandwidth estimate for the non-parametric Generalized Linear Models (Fan, Heckman, and Wand, 1995). The number of possible rank orders needed to search through for cost functions related to the bandwidth can be quite large, even for a small set of documents. We tackle this problem of combinatorial optimization using the Simulated Annealing algorithm, which allows us to obtain the optimal document temporal orders. Our rank ordering method significantly improved the temporal sequencing of both corpora compared to a randomly sequenced baseline. This unsupervised approach should enable the temporal ordering of undated document sets.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:18:31.397Z

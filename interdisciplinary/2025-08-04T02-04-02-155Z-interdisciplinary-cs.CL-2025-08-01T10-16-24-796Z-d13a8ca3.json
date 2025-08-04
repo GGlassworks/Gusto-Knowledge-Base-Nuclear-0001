@@ -1,0 +1,12 @@
+# On the Effectiveness of Large Language Models in Automating Categorization of Scientific Texts
+
+**Authors:** Gautam Kishore Shahi, Oliver Hummel
+
+## Summary
+The rapid advancement of Large Language Models (LLMs) has led to a multitude of application opportunities. One traditional task for Information Retrieval systems is the summarization and classification of texts, both of which are important for supporting humans in navigating large literature bodies as they e.g. exist with scientific publications. Due to this rapidly growing body of scientific knowledge, recent research has been aiming at building research information systems that not only offer traditional keyword search capabilities, but also novel features such as the automatic detection of research areas that are present at knowledge intensive organizations in academia and industry. To facilitate this idea, we present the results obtained from evaluating a variety of LLMs in their ability to sort scientific publications into hierarchical classifications systems. Using the FORC dataset as ground truth data, we have found that recent LLMs (such as Meta Llama 3.1) are able to reach an accuracy of up to 0.82, which is up to 0.08 better than traditional BERT models.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:24.797Z

@@ -1,0 +1,12 @@
+# ERUPD -- English to Roman Urdu Parallel Dataset
+
+**Authors:** Mohammed Furqan, Raahid Bin Khaja, Rayyan Habeeb
+
+## Summary
+Bridging linguistic gaps fosters global growth and cultural exchange. This study addresses the challenges of Roman Urdu -- a Latin-script adaptation of Urdu widely used in digital communication -- by creating a novel parallel dataset comprising 75,146 sentence pairs. Roman Urdu's lack of standardization, phonetic variability, and code-switching with English complicates language processing. We tackled this by employing a hybrid approach that combines synthetic data generated via advanced prompt engineering with real-world conversational data from personal messaging groups. We further refined the dataset through a human evaluation phase, addressing linguistic inconsistencies and ensuring accuracy in code-switching, phonetic representations, and synonym variability. The resulting dataset captures Roman Urdu's diverse linguistic features and serves as a critical resource for machine translation, sentiment analysis, and multilingual education.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:42.938Z

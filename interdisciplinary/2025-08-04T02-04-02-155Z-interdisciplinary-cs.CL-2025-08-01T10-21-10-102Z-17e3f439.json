@@ -1,0 +1,12 @@
+# Detecting Anchors' Opinion in Hinghlish News Delivery
+
+**Authors:** Siddharth Sadhwani, Nishant Grover, Md Akhtar, Tanmoy Chakraborty
+
+## Summary
+Humans like to express their opinions and crave the opinions of others. Mining and detecting opinions from various sources are beneficial to individuals, organisations, and even governments. One such organisation is news media, where a general norm is not to showcase opinions from their side. Anchors are the face of the digital media, and it is required for them not to be opinionated. However, at times, they diverge from the accepted norm and insert their opinions into otherwise straightforward news reports, either purposefully or unintentionally. This is primarily seen in debates as it requires the anchors to be spontaneous, thus making them vulnerable to add their opinions. The consequence of such mishappening might lead to biased news or even supporting a certain agenda at the worst. To this end, we propose a novel task of anchors' opinion detection in debates. We curate code-mixed news debates and develop the ODIN dataset. A total of 2054 anchors' utterances in the dataset are marked as opinionated or non-opinionated. Lastly, we propose DetONADe, an interactive attention-based framework for classifying anchors' utterances and obtain the best weighted-F1 score of 0.703. A thorough analysis and evaluation show many interesting patterns in the dataset and predictions.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:21:10.103Z

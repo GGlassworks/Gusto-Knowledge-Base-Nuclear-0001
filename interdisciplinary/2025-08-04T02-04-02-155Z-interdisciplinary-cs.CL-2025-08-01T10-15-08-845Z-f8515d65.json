@@ -1,0 +1,12 @@
+# Combining psychoanalysis and computer science: an empirical study of the relationship between emotions and the Lacanian discourses
+
+**Authors:** Minas Gadalla, Sotiris Nikoletseas, José Roberto de A. Amazonas
+
+## Summary
+This research explores the interdisciplinary interaction between psychoanalysis and computer science, suggesting a mutually beneficial exchange. Indeed, psychoanalytic concepts can enrich technological applications involving unconscious, elusive aspects of the human factor, such as social media and other interactive digital platforms. Conversely, computer science, especially Artificial Intelligence (AI), can contribute quantitative concepts and methods to psychoanalysis, identifying patterns and emotional cues in human expression. In particular, this research aims to apply computer science methods to establish fundamental relationships between emotions and Lacanian discourses. Such relations are discovered in our approach via empirical investigation and statistical analysis, and are eventually validated in a theoretical (psychoanalytic) way. It is worth noting that, although emotions have been sporadically studied in Lacanian theory, to the best of our knowledge a systematic, detailed investigation of their role is missing. Such fine-grained understanding of the role of emotions can also make the identification of Lacanian discourses more effective and easy in practise. In particular, our methods indicate the emotions with highest differentiation power in terms of corresponding discourses; conversely, we identify for each discourse the most characteristic emotions it admits. As a matter of fact, we develop a method which we call Lacanian Discourse Discovery (LDD), that simplifies (via systematizing) the identification of Lacanian discourses in texts. Although the main contribution of this paper is inherently theoretical (psychoanalytic), it can also facilitate major practical applications in the realm of interactive digital systems. Indeed, our approach can be automated through Artificial Intelligence methods that effectively identify emotions (and corresponding discourses) in texts.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:15:08.845Z

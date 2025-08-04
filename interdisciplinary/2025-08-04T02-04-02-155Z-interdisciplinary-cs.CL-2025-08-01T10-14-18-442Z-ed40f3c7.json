@@ -1,0 +1,12 @@
+# Automatic Authorship Attribution in the Work of Tirso de Molina
+
+**Authors:** Miguel Cavadas, Pablo Gamallo
+
+## Summary
+Automatic Authorship Attribution (AAA) is the result of applying tools and techniques from Digital Humanities to authorship attribution studies. Through a quantitative and statistical approach this discipline can draw further conclusions about renowned authorship issues which traditional critics have been dealing with for centuries, opening a new door to style comparison. The aim of this paper is to prove the potential of these tools and techniques by testing the authorship of five comedies traditionally attributed to Spanish playwright Tirso de Molina (1579-1648): La ninfa del cielo, El burlador de Sevilla, Tan largo me lo fiais, La mujer por fuerza and El condenado por desconfiado. To accomplish this purpose some experiments concerning clustering analysis by Stylo package from R and four distance measures are carried out on a corpus built with plays by Tirso, Andres de Claramonte (c. 1560-1626), Antonio Mira de Amescua (1577-1644) and Luis Velez de Guevara (1579-1644). The results obtained point to the denial of all the attributions to Tirso except for the case of La mujer por fuerza.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.442Z

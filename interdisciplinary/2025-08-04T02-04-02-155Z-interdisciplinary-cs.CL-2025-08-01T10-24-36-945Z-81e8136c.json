@@ -1,0 +1,12 @@
+# ESG Sentiment Analysis: comparing human and language model performance including GPT
+
+**Authors:** Karim Derrick
+
+## Summary
+In this paper we explore the challenges of measuring sentiment in relation to Environmental, Social and Governance (ESG) social media. ESG has grown in importance in recent years with a surge in interest from the financial sector and the performance of many businesses has become based in part on their ESG related reputations. The use of sentiment analysis to measure ESG related reputation has developed and with it interest in the use of machines to do so. The era of digital media has created an explosion of new media sources, driven by the growth of social media platforms. This growing data environment has become an excellent source for behavioural insight studies across many disciplines that includes politics, healthcare and market research. Our study seeks to compare human performance with the cutting edge in machine performance in the measurement of ESG related sentiment. To this end researchers classify the sentiment of 150 tweets and a reliability measure is made. A gold standard data set is then established based on the consensus of 3 researchers and this data set is then used to measure the performance of different machine approaches: one based on the VADER dictionary approach to sentiment classification and then multiple language model approaches, including Llama2, T5, Mistral, Mixtral, FINBERT, GPT3.5 and GPT4.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:36.945Z

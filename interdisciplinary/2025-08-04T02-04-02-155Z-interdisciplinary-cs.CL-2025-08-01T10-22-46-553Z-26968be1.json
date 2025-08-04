@@ -1,0 +1,12 @@
+# Multilingual Disinformation Detection for Digital Advertising
+
+**Authors:** Zofia Trstanova, Nadir El Manouzi, Maryline Chen, Andre L. V. da Cunha, Sergei Ivanov
+
+## Summary
+In today's world, the presence of online disinformation and propaganda is more widespread than ever. Independent publishers are funded mostly via digital advertising, which is unfortunately also the case for those publishing disinformation content. The question of how to remove such publishers from advertising inventory has long been ignored, despite the negative impact on the open internet. In this work, we make the first step towards quickly detecting and red-flagging websites that potentially manipulate the public with disinformation. We build a machine learning model based on multilingual text embeddings that first determines whether the page mentions a topic of interest, then estimates the likelihood of the content being malicious, creating a shortlist of publishers that will be reviewed by human experts. Our system empowers internal teams to proactively, rather than defensively, blacklist unsafe content, thus protecting the reputation of the advertisement provider.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:22:46.553Z

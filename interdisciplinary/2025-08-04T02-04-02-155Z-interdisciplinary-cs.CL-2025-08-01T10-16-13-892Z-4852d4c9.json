@@ -1,0 +1,12 @@
+# High-performance automated abstract screening with large language model ensembles
+
+**Authors:** Rohan Sanghera, Arun James Thirunavukarasu, Marc El Khoury, Jessica O'Logbon, Yuqing Chen, Archie Watt, Mustafa Mahmood, Hamid Butt, George Nishimura, Andrew Soltan
+
+## Summary
+Large language models (LLMs) excel in tasks requiring processing and interpretation of input text. Abstract screening is a labour-intensive component of systematic review involving repetitive application of inclusion and exclusion criteria on a large volume of studies identified by a literature search. Here, LLMs (GPT-3.5 Turbo, GPT-4 Turbo, GPT-4o, Llama 3 70B, Gemini 1.5 Pro, and Claude Sonnet 3.5) were trialled on systematic reviews in a full issue of the Cochrane Library to evaluate their accuracy in zero-shot binary classification for abstract screening. Trials over a subset of 800 records identified optimal prompting strategies and demonstrated superior performance of LLMs to human researchers in terms of sensitivity (LLM-max = 1.000, human-max = 0.775), precision (LLM-max = 0.927, human-max = 0.911), and balanced accuracy (LLM-max = 0.904, human-max = 0.865). The best performing LLM-prompt combinations were trialled across every replicated search result (n = 119,691), and exhibited consistent sensitivity (range 0.756-1.000) but diminished precision (range 0.004-0.096). 66 LLM-human and LLM-LLM ensembles exhibited perfect sensitivity with a maximal precision of 0.458, with less observed performance drop in larger trials. Significant variation in performance was observed between reviews, highlighting the importance of domain-specific validation before deployment. LLMs may reduce the human labour cost of systematic review with maintained or improved accuracy and sensitivity. Systematic review is the foundation of evidence synthesis across academic disciplines, including evidence-based medicine, and LLMs may increase the efficiency and quality of this mode of research.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:13.892Z

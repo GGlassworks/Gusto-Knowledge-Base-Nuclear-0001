@@ -1,0 +1,12 @@
+# So What's the Plan? Mining Strategic Planning Documents
+
+**Authors:** Ekaterina Artemova, Tatiana Batura, Anna Golenkovskaya, Vitaly Ivanin, Vladimir Ivanov, Veronika Sarkisyan, Ivan Smurov, Elena Tutubalina
+
+## Summary
+In this paper we present a corpus of Russian strategic planning documents, RuREBus. This project is grounded both from language technology and e-government perspectives. Not only new language sources and tools are being developed, but also their applications to e-goverment research. We demonstrate the pipeline for creating a text corpus from scratch. First, the annotation schema is designed. Next texts are marked up using human-in-the-loop strategy, so that preliminary annotations are derived from a machine learning model and are manually corrected. The amount of annotated texts is large enough to showcase what insights can be gained from RuREBus.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:22.253Z

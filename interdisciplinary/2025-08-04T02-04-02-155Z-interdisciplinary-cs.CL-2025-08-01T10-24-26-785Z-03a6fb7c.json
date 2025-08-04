@@ -1,0 +1,12 @@
+# ILiAD: An Interactive Corpus for Linguistic Annotated Data from Twitter Posts
+
+**Authors:** Simon Gonzalez
+
+## Summary
+Social Media platforms have offered invaluable opportunities for linguistic research. The availability of up-to-date data, coming from any part in the world, and coming from natural contexts, has allowed researchers to study language in real time. One of the fields that has made great use of social media platforms is Corpus Linguistics. There is currently a wide range of projects which have been able to successfully create corpora from social media. In this paper, we present the development and deployment of a linguistic corpus from Twitter posts in English, coming from 26 news agencies and 27 individuals. The main goal was to create a fully annotated English corpus for linguistic analysis. We include information on morphology and syntax, as well as NLP features such as tokenization, lemmas, and n- grams. The information is presented through a range of powerful visualisations for users to explore linguistic patterns in the corpus. With this tool, we aim to contribute to the area of language technologies applied to linguistic research.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:24:26.785Z

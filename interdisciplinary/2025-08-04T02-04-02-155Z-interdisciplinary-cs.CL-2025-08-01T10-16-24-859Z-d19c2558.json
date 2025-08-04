@@ -1,0 +1,12 @@
+# Enhancing Multi-Label Emotion Analysis and Corresponding Intensities for Ethiopian Languages
+
+**Authors:** Tadesse Destaw Belay, Dawit Ketema Gete, Abinew Ali Ayele, Olga Kolesnikova, Grigori Sidorov, Seid Muhie Yimam
+
+## Summary
+In this digital world, people freely express their emotions using different social media platforms. As a result, modeling and integrating emotion-understanding models are vital for various human-computer interaction tasks such as decision-making, product and customer feedback analysis, political promotions, marketing research, and social media monitoring. As users express different emotions simultaneously in a single instance, annotating emotions in a multilabel setting such as the EthioEmo (Belay et al., 2025) dataset effectively captures this dynamic. Additionally, incorporating intensity, or the degree of emotion, is crucial, as emotions can significantly differ in their expressive strength and impact. This intensity is significant for assessing whether further action is necessary in decision-making processes, especially concerning negative emotions in applications such as healthcare and mental health studies. To enhance the EthioEmo dataset, we include annotations for the intensity of each labeled emotion. Furthermore, we evaluate various state-of-the-art encoder-only Pretrained Language Models (PLMs) and decoder-only Large Language Models (LLMs) to provide comprehensive benchmarking.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:24.860Z

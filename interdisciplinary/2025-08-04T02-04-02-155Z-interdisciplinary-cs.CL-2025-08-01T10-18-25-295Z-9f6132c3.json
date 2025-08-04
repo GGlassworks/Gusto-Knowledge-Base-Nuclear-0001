@@ -1,0 +1,12 @@
+# Syllabification of the Divine Comedy
+
+**Authors:** Andrea Asperti, Stefano Dal Bianco
+
+## Summary
+We provide a syllabification algorithm for the Divine Comedy using techniques from probabilistic and constraint programming. We particularly focus on the synalephe, addressed in terms of the "propensity" of a word to take part in a synalephe with adjacent words. We jointly provide an online vocabulary containing, for each word, information about its syllabification, the location of the tonic accent, and the aforementioned synalephe propensity, on the left and right sides. The algorithm is intrinsically nondeterministic, producing different possible syllabifications for each verse, with different likelihoods; metric constraints relative to accents on the 10th, 4th and 6th syllables are used to further reduce the solution space. The most likely syllabification is hence returned as output. We believe that this work could be a major milestone for a lot of different investigations. From the point of view of digital humanities it opens new perspectives on computer assisted analysis of digital sources, comprising automated detection of anomalous and problematic cases, metric clustering of verses and their categorization, or more foundational investigations addressing e.g. the phonetic roles of consonants and vowels. From the point of view of text processing and deep learning, information about syllabification and the location of accents opens a wide range of exciting perspectives, from the possibility of automatic learning syllabification of words and verses, to the improvement of generative models, aware of metric issues, and more respectful of the expected musicality.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:18:25.296Z

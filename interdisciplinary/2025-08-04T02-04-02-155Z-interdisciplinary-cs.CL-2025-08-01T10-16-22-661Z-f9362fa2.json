@@ -1,0 +1,12 @@
+# Crosslingual Topic Modeling with WikiPDA
+
+**Authors:** Tiziano Piccardi, Robert West
+
+## Summary
+We present Wikipedia-based Polyglot Dirichlet Allocation (WikiPDA), a crosslingual topic model that learns to represent Wikipedia articles written in any language as distributions over a common set of language-independent topics. It leverages the fact that Wikipedia articles link to each other and are mapped to concepts in the Wikidata knowledge base, such that, when represented as bags of links, articles are inherently language-independent. WikiPDA works in two steps, by first densifying bags of links using matrix completion and then training a standard monolingual topic model. A human evaluation shows that WikiPDA produces more coherent topics than monolingual text-based LDA, thus offering crosslinguality at no cost. We demonstrate WikiPDA's utility in two applications: a study of topical biases in 28 Wikipedia editions, and crosslingual supervised classification. Finally, we highlight WikiPDA's capacity for zero-shot language transfer, where a model is reused for new languages without any fine-tuning. Researchers can benefit from WikiPDA as a practical tool for studying Wikipedia's content across its 299 language editions in interpretable ways, via an easy-to-use library publicly available at https://github.com/epfl-dlab/WikiPDA.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:16:22.661Z

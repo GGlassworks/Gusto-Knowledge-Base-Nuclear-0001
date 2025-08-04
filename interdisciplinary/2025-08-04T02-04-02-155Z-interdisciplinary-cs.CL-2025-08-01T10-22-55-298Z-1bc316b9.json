@@ -1,0 +1,12 @@
+# Scaling Technology Acceptance Analysis with Large Language Model (LLM) Annotation Systems
+
+**Authors:** Pawel Robert Smolinski, Joseph Januszewicz, Jacek Winiarski
+
+## Summary
+Technology acceptance models effectively predict how users will adopt new technology products. Traditional surveys, often expensive and cumbersome, are commonly used for this assessment. As an alternative to surveys, we explore the use of large language models for annotating online user-generated content, like digital reviews and comments. Our research involved designing an LLM annotation system that transform reviews into structured data based on the Unified Theory of Acceptance and Use of Technology model. We conducted two studies to validate the consistency and accuracy of the annotations. Results showed moderate-to-strong consistency of LLM annotation systems, improving further by lowering the model temperature. LLM annotations achieved close agreement with human expert annotations and outperformed the agreement between experts for UTAUT variables. These results suggest that LLMs can be an effective tool for analyzing user sentiment, offering a practical alternative to traditional survey methods and enabling deeper insights into technology design and adoption.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:22:55.299Z

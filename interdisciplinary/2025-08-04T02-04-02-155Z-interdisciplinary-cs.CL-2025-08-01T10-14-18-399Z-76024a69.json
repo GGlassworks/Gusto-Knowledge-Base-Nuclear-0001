@@ -1,0 +1,12 @@
+# Exhaustive Entity Recognition for Coptic: Challenges and Solutions
+
+**Authors:** Amir Zeldes, Lance Martin, Sichang Tu
+
+## Summary
+Entity recognition provides semantic access to ancient materials in the Digital Humanities: itexposes people and places of interest in texts that cannot be read exhaustively, facilitates linkingresources and can provide a window into text contents, even for texts with no translations. Inthis paper we present entity recognition for Coptic, the language of Hellenistic era Egypt. Weevaluate NLP approaches to the task and lay out difficulties in applying them to a low-resource,morphologically complex language. We present solutions for named and non-named nested en-tity recognition and semi-automatic entity linking to Wikipedia, relying on robust dependencyparsing, feature-based CRF models, and hand-crafted knowledge base resources, enabling highaccuracy NER with orders of magnitude less data than those used for high resource languages.The results suggest avenues for research on other languages in similar settings.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:14:18.399Z

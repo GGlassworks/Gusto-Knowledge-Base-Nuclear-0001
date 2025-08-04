@@ -1,0 +1,12 @@
+# Batch Clustering for Multilingual News Streaming
+
+**Authors:** Mathis Linger, Mhamed Hajaiej
+
+## Summary
+Nowadays, digital news articles are widely available, published by various editors and often written in different languages. This large volume of diverse and unorganized information makes human reading very difficult or almost impossible. This leads to a need for algorithms able to arrange high amount of multilingual news into stories. To this purpose, we extend previous works on Topic Detection and Tracking, and propose a new system inspired from newsLens. We process articles per batch, looking for monolingual local topics which are then linked across time and languages. Here, we introduce a novel "replaying" strategy to link monolingual local topics into stories. Besides, we propose new fine tuned multilingual embedding using SBERT to create crosslingual stories. Our system gives monolingual state-of-the-art results on dataset of Spanish and German news and crosslingual state-of-the-art results on English, Spanish and German news.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:18:30.376Z
