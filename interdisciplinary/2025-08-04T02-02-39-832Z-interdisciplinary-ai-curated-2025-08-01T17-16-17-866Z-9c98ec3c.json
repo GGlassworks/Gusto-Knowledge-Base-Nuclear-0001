@@ -1,0 +1,13 @@
+# Application of Linear Mixed-Effects Models in Human Neuroscience Research: A Comparison with Pearson Correlation in Two Auditory Electrophysiology Studies
+
+**Authors:** Tess K. Koerner, Y. Zhang
+
+## Abstract
+Neurophysiological studies are often designed to examine relationships between measures from different testing conditions, time points, or analysis techniques within the same group of participants. Appropriate statistical techniques that can take into account repeated measures and multivariate predictor variables are integral and essential to successful data analysis and interpretation. This work implements and compares conventional Pearson correlations and linear mixed-effects (LME) regression models using data from two recently published auditory electrophysiology studies. For the specific research questions in both studies, the Pearson correlation test is inappropriate for determining strengths between the behavioral responses for speech-in-noise recognition and the multiple neurophysiological measures as the neural responses across listening conditions were simply treated as independent measures. In contrast, the LME models allow a systematic approach to incorporate both fixed-effect and random-effect terms to deal with the categorical grouping factor of listening conditions, between-subject baseline differences in the multiple measures, and the correlational structure among the predictor variables. Together, the comparative data demonstrate the advantages as well as the necessity to apply mixed-effects models to properly account for the built-in relationships among the multiple predictor variables, which has important implications for proper statistical modeling and interpretation of human behavior in terms of neural correlates and biomarkers.
+
+**Source:** https://www.semanticscholar.org/paper/898c56017efb7de32a582d9be83b40dda01d3bcb
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:16:17.866Z

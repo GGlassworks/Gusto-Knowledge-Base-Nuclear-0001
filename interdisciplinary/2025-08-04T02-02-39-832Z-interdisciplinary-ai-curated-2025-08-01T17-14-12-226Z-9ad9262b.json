@@ -1,0 +1,13 @@
+# A data‐centric neuroscience gateway: design, implementation, and experiences
+
+**Authors:** Shayan Shahand, A. Benabdelkader, M. Jaghoori, M. A. Mourabit, J. Huguet, M. Caan, A. V. Kampen, S. Olabarriaga
+
+## Abstract
+Science gateways provide UIs and high‐level services to access and manage applications and data collections on distributed resources. They facilitate users to perform data analysis on distributed computing infrastructures without getting involved into the technical details. The e‐BioInfra Gateway is a science gateway for biomedical data analysis on a national grid infrastructure, which has been successfully adopted for neuroscience research. This paper describes the motivation, requirements, and design of a new generation of e‐BioInfra Gateway, which is based on the grid and cloud user support environment (also known as WS‐PGRADE/gUSE framework) and supports heterogeneous infrastructures. The new gateway has been designed to have additional data and meta‐data management facilities to access and manage (biomedical) data servers, and to provide data‐centric user interaction. We have implemented and deployed the new gateway for the computational neuroscience research community of the Academic Medical Center of the University of Amsterdam. This paper presents the system architecture of the new gateway, highlights the improvements that have been achieved, discusses the choices that we have made, and reflects on those based on initial user feedback. Copyright © 2014 John Wiley & Sons, Ltd.
+
+**Source:** https://www.semanticscholar.org/paper/abc9a1b27a1fb4b733d7407db574621febb601d8
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:14:12.226Z

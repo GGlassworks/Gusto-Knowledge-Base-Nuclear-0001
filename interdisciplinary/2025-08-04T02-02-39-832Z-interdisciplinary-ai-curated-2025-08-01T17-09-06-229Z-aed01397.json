@@ -1,0 +1,13 @@
+# Independent Component Analysis with Functional Neuroscience Data Analysis
+
+**Authors:** Hadeel K. Aljobouri
+
+## Abstract
+Background: Independent Component Analysis (ICA) is the most common and standard technique used in functional neuroscience data analysis. Objective: In this study, two of the significant functional brain techniques are introduced as a model for neuroscience data analysis. Material and Methods: In this experimental and analytical study, Electroencephalography (EEG) signal and functional Magnetic Resonance Imaging (fMRI) were analyzed and managed by the developed tool. The introduced package combines Independent Component Analysis (ICA) to recognize significant dimensions of the data in neuroscience. This study combines EEG and fMRI in the same package for analysis and comparison results. Results: The findings of this study indicated the performance of the ICA, which can be dealt with the presented easy-to-use and learn intuitive toolbox. The user can deal with EEG and fMRI data in the same module. Thus, all outputs were analyzed and compared at the same time; the users can then import the neurofunctional datasets easily and select the desired portions of the functional biosignal for further processing using the ICA method. Conclusion: A new toolbox and functional graphical user interface, running in cross-platform MATLAB, was presented and applied to biomedical engineering research centers.
+
+**Source:** https://www.semanticscholar.org/paper/a7ce801217c08c883956e88d621e9f064fe6ba4d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:09:06.229Z

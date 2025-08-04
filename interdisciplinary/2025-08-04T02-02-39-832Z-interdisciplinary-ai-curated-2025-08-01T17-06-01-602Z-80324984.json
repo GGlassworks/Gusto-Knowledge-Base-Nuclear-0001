@@ -1,0 +1,13 @@
+# Beyond ANOVA and MANOVA for repeated measures: Advantages of generalized estimated equations and generalized linear mixed models and its use in neuroscience research
+
+**Authors:** Márcio Braga de Melo, D. Daldegan-Bueno, Maria Gabriela Menezes Oliveira, A. D. de Souza
+
+## Abstract
+In neuroscience research, longitudinal data are often analysed using analysis of variance (ANOVA) and multivariate analysis of variance (MANOVA) for repeated measures (rmANOVA/rmMANOVA). However, these analyses have special requirements: The variances of the differences between all possible pairs of within‐subject conditions (i.e., levels of the independent variable) must be equal. They are also limited to fixed repeated time intervals and are sensitive to missing data. In contrast, other models, such as the generalized estimating equations (GEE) and the generalized linear mixed models (GLMM), suggest another way to think about the data and the studied phenomenon. Instead of forcing the data into the ANOVAs assumptions, it is possible to design a flexible/personalized model according to the nature of the dependent variable. We discuss some advantages of GEE and GLMM as alternatives to rmANOVA and rmMANOVA in neuroscience research, including the possibility of using different distributions for the parameters of the dependent variable, a better approach for different time length points, and better adjustment to missing data. We illustrate these advantages by showing a comparison between rmANOVA and GEE in a real example and providing the data and a tutorial code to reproduce these analyses in R. We conclude that GEE and GLMM may provide more reliable results when compared to rmANOVA and rmMANOVA in neuroscience research, especially in small sample sizes with unbalanced longitudinal designs with or without missing data.
+
+**Source:** https://www.semanticscholar.org/paper/79b93e5f5a1fc26a71e9ca9cc85bd8d758ac612b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:06:01.602Z

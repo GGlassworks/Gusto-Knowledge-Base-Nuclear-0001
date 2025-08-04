@@ -1,0 +1,13 @@
+# Network Analysis of Time Series: Novel Approaches to Network Neuroscience
+
+**Authors:** Thomas F. Varley, O. Sporns
+
+## Abstract
+In the last two decades, there has been an explosion of interest in modeling the brain as a network, where nodes correspond variously to brain regions or neurons, and edges correspond to structural or statistical dependencies between them. This kind of network construction, which preserves spatial, or structural, information while collapsing across time, has become broadly known as “network neuroscience.” In this work, we provide an alternative application of network science to neural data: network-based analysis of non-linear time series and review applications of these methods to neural data. Instead of preserving spatial information and collapsing across time, network analysis of time series does the reverse: it collapses spatial information, instead preserving temporally extended dynamics, typically corresponding to evolution through some kind of phase/state-space. This allows researchers to infer a, possibly low-dimensional, “intrinsic manifold” from empirical brain data. We will discuss three methods of constructing networks from nonlinear time series, and how to interpret them in the context of neural data: recurrence networks, visibility networks, and ordinal partition networks. By capturing typically continuous, non-linear dynamics in the form of discrete networks, we show how techniques from network science, non-linear dynamics, and information theory can extract meaningful information distinct from what is normally accessible in standard network neuroscience approaches.
+
+**Source:** https://www.semanticscholar.org/paper/ba1fa55590c47b39275a18cdb9da22581566fd18
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:09:06.560Z

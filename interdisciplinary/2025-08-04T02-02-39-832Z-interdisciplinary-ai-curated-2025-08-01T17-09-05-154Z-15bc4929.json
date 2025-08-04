@@ -1,0 +1,13 @@
+# Temporal Binding and Segmentation in Visual Search: A Computational Neuroscience Analysis
+
+**Authors:** E. Mavritsaki, G. Humphreys
+
+## Abstract
+Human visual search operates not only over space but also over time, as old items remain in the visual field and new items appear. Preview search (where one set of distractors appears before the onset of a second set) has been used as a paradigm to study search over time and space [Watson, D. G., & Humphreys, G. W. Visual marking: Prioritizing selection for new objects by top–down attentional inhibition of old objects. Psychological Review, 104, 90–122, 1997], with participants showing efficient search when old distractors can be ignored and new targets prioritized. The benefits of preview search are lost, however, if a temporal gap is introduced between a first presentation of the old items and the re-presentation of all the items in the search display [Kunar, M. A., Humphreys, G. W., & Smith, K. J. History matters: The preview benefit in search is not onset capture. Psychological Science, 14, 181–185, 2003a], consistent with the old items being bound by temporal onset to the new stimuli. This effect of temporal binding can be eliminated if the old items reappear briefly before the new items, indicating also a role for the memory of the old items. Here we simulate these effects of temporal coding in search using the spiking search over time and space model [Mavritsaki, E., Heinke, D., Allen, H., Deco, G., & Humphreys, G. W. Bridging the gap between physiology and behavior: Evidence from the sSoTS model of human visual attention. Psychological Review, 118, 3–41, 2011]. We show that a form of temporal binding by new onsets has to be introduced to the model to simulate the effects of a temporal gap, but that effects of the memory of the old item can stem from continued neural suppression across a temporal gap. We also show that the model can capture the effects of brain lesion on preview search under the different temporal conditions. The study provides a proof-of-principle analysis that neural suppression and temporal binding can be sufficient to account for human search over time and space.
+
+**Source:** https://www.semanticscholar.org/paper/c9175a1b97c58bca962dfc3ae0a69b4bc8f3c4b1
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:09:05.155Z
