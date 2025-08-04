@@ -1,0 +1,13 @@
+# Advanced arithmetic optimization algorithm for solving mechanical engineering design problems
+
+**Authors:** J. Agushaka, A. Ezugwu
+
+## Abstract
+The distributive power of the arithmetic operators: multiplication, division, addition, and subtraction, gives the arithmetic optimization algorithm (AOA) its unique ability to find the global optimum for optimization problems used to test its performance. Several other mathematical operators exist with the same or better distributive properties, which can be exploited to enhance the performance of the newly proposed AOA. In this paper, we propose an improved version of the AOA called nAOA algorithm, which uses the high-density values that the natural logarithm and exponential operators can generate, to enhance the exploratory ability of the AOA. The addition and subtraction operators carry out the exploitation. The candidate solutions are initialized using the beta distribution, and the random variables and adaptations used in the algorithm have beta distribution. We test the performance of the proposed nAOA with 30 benchmark functions (20 classical and 10 composite test functions) and three engineering design benchmarks. The performance of nAOA is compared with the original AOA and nine other state-of-the-art algorithms. The nAOA shows efficient performance for the benchmark functions and was second only to GWO for the welded beam design (WBD), compression spring design (CSD), and pressure vessel design (PVD).
+
+**Source:** https://www.semanticscholar.org/paper/78feb0a5573fdc09374d1a0235172d17b85dc045
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:53:28.034Z

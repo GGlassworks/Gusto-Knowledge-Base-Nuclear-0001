@@ -1,0 +1,13 @@
+# An Improved Moth-Flame Optimization Algorithm with Adaptation Mechanism to Solve Numerical and Mechanical Engineering Problems
+
+**Authors:** Mohammad-Hossein Nadimi-Shahraki, A. Fatahi, Hoda Zamani, Seyedali Mirjalili, L. Abualigah
+
+## Abstract
+Moth-flame optimization (MFO) algorithm inspired by the transverse orientation of moths toward the light source is an effective approach to solve global optimization problems. However, the MFO algorithm suffers from issues such as premature convergence, low population diversity, local optima entrapment, and imbalance between exploration and exploitation. In this study, therefore, an improved moth-flame optimization (I-MFO) algorithm is proposed to cope with canonical MFO’s issues by locating trapped moths in local optimum via defining memory for each moth. The trapped moths tend to escape from the local optima by taking advantage of the adapted wandering around search (AWAS) strategy. The efficiency of the proposed I-MFO is evaluated by CEC 2018 benchmark functions and compared against other well-known metaheuristic algorithms. Moreover, the obtained results are statistically analyzed by the Friedman test on 30, 50, and 100 dimensions. Finally, the ability of the I-MFO algorithm to find the best optimal solutions for mechanical engineering problems is evaluated with three problems from the latest test-suite CEC 2020. The experimental and statistical results demonstrate that the proposed I-MFO is significantly superior to the contender algorithms and it successfully upgrades the shortcomings of the canonical MFO.
+
+**Source:** https://www.semanticscholar.org/paper/b6e83b70ef8965e5327353c00e236ede0080d7d9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:50:43.022Z

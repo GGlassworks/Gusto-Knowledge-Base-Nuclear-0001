@@ -1,0 +1,13 @@
+# Preliminary Engineering Implementation on Multisensory Underwater Remotely Operated Vehicle (ROV) for Oil Spills Surveillance
+
+**Authors:** F. Qasem, T. Susilo, S. Said, Z. Alarbash, M. Hasan, B. Jabakhanji, T. Beyrouthy, S. Alkork
+
+## Abstract
+This paper proposed an initial engineering realization of an underwater remotely operated vehicle (ROV) with multisensory system for oil spills monitoring and detection in seawater. It covers hardware and software designs to tackle the purposes. Four environmental sensors, i.e. temperature, dissolved oxygen (DO), electrical conductivity (EC), and oxygen reduction potential (ORP), were attached on the ROV to monitor water quality parameters. Data from these sensors were transfered wirelessly to a ground segment to be analyzed. The ROV was also equipped with an HD camera for video imagery, an inertial measurement unit (IMU) sensor to monitor the ROV’s attitude, two LED flashlights to give extra lumens during underwater operation, and a customized 3D printed gripper. The ROV was actuated with three brushless DC motors with silicone-based coating. The software design was a binary difference image processing under MATLAB environment to identify oil spills based on video captures from the camera. Experiments for the water quality parameter monitoring and image processing have been carried out under seawater, oil contaminated seawater, and gaseous seawater samples, to show the performance of the designed hardware and software.
+
+**Source:** https://www.semanticscholar.org/paper/bdc437131abbf40c83debdd640ebc37144138eb8
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:47:48.463Z

@@ -1,0 +1,13 @@
+# Comparison of Poynting’s vector and the power flow used in electrical engineering
+
+**Authors:** G. Mörée, M. Leijon
+
+## Abstract
+This paper will analyze how the energy flux of Poynting’s vector is compared to the power flow in electrical engineering, where the power, instead, is defined by voltages and currents. There are alternatives to Poynting’s energy flux vector that agree more with circuit theory methods such that the energy flow is in the current conductor and not in the insulation surrounding it. One such basic formulation would only consist of the total current density and the voltage potential, but it would need an alternative theorem for energy transfer. Another formulation proposed by Slepian would instead still agree with Poynting’s energy transfer theorem, but it needs to add the power of alternating magnetic vector potential. The alternatives to Poynting’s vector may better illustrate the energy flow in electrical engineering, but two things could be considered in their generality. First, since they are expressed by potentials, they are gauge invariant and depend on the definition of the potentials. Second, Poynting’s vector is used to formulate the electromagnetic momentum, and any alternative energy flow vectors would not. These two notes are of minor importance in electrical engineering, and the alternatives could be used as good alternatives for describing power flow. The main purpose of this paper is to bridge the differences between the physical theory of energy flux and the methods in electrical power engineering. This could simplify the use of energy flux and Poynting’s vector in engineering problems.
+
+**Source:** https://www.semanticscholar.org/paper/e95c566aa515d819b0583faf8340391c9df65077
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:49:44.803Z

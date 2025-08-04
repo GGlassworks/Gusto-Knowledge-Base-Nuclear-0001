@@ -1,0 +1,13 @@
+# Crystal structure optimization approach to problem solving in mechanical engineering design
+
+**Authors:** B. Talatahari, M. Azizi, S. Talatahari, M. Tolouei, Pooya Sareh
+
+## Abstract
+PurposeIn this paper, the authors aim to examine and comparatively evaluate a recently-developed metaheuristic called crystal structure algorithm (CryStAl) – which is inspired by the symmetries in the internal structure of crystalline solids – in solving engineering mechanics and design problems.Design/methodology/approachA total number of 20 benchmark mathematical functions are employed as test functions to evaluate the overall performance of the proposed method in handling various functions. Moreover, different classical and modern metaheuristic algorithms are selected from the optimization literature for a comparative evaluation of the performance of the proposed approach. Furthermore, five well-known mechanical design examples are utilized to examine the capability of the proposed method in dealing with challenging optimization problems.FindingsThe results of this study indicated that, in most cases, CryStAl produced more accurate outputs when compared to the other metaheuristics examined as competitors.Research limitations/implicationsThis paper can provide motivation and justification for the application of CryStAl to solve more complex problems in engineering design and mechanics, as well as in other branches of engineering.Originality/valueCryStAl is one of the newest metaheuristic algorithms, the mathematical details of which were recently introduced and published. This is the first time that this algorithm is applied to solving engineering mechanics and design problems.
+
+**Source:** https://www.semanticscholar.org/paper/7dfa6b7d47ffc08b28b8eb397afaebb9a3eba079
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T15:53:27.923Z
