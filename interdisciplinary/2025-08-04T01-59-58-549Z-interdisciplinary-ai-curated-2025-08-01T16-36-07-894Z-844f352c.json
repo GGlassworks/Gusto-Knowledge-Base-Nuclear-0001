@@ -1,0 +1,13 @@
+# DAMBE7: New and Improved Tools for Data Analysis in Molecular Biology and Evolution
+
+**Authors:** X. Xia
+
+## Abstract
+Abstract DAMBE is a comprehensive software package for genomic and phylogenetic data analysis on Windows, Linux, and Macintosh computers. New functions include imputing missing distances and phylogeny simultaneously (paving the way to build large phage and transposon trees), new bootstrapping/jackknifing methods for PhyPA (phylogenetics from pairwise alignments), and an improved function for fast and accurate estimation of the shape parameter of the gamma distribution for fitting rate heterogeneity over sites. Previous method corrects multiple hits for each site independently. DAMBE’s new method uses all sites simultaneously for correction. DAMBE, featuring a user-friendly graphic interface, is freely available from http://dambe.bio.uottawa.ca (last accessed, April 17, 2018).
+
+**Source:** https://www.semanticscholar.org/paper/139e60c5ba1c3791e3a3b893af0c9c387b7f5e5c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:36:07.894Z
