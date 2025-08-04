@@ -1,0 +1,12 @@
+# Priors in Bayesian Deep Learning: A Review
+
+**Authors:** Vincent Fortuin
+
+## Summary
+While the choice of prior is one of the most critical parts of the Bayesian inference workflow, recent Bayesian deep learning models have often fallen back on vague priors, such as standard Gaussians. In this review, we highlight the importance of prior choices for Bayesian deep learning and present an overview of different priors that have been proposed for (deep) Gaussian processes, variational autoencoders, and Bayesian neural networks. We also outline different methods of learning priors for these models from data. We hope to motivate practitioners in Bayesian deep learning to think more carefully about the prior specification for their models and to provide them with some inspiration in this regard.
+
+
+---
+Category: education
+Subcategory: stat.ML
+Collected: 2025-08-01T11:25:55.554Z

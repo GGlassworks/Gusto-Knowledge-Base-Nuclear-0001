@@ -1,0 +1,12 @@
+# Bringing Visual Inference to the Classroom
+
+**Authors:** Adam Loy
+
+## Summary
+In the classroom, we traditionally visualize inferential concepts using static graphics or interactive apps. For example, there is a long history of using apps to visualize sampling distributions. Recent developments in statistical graphics have created an opportunity to bring additional visualizations into the classroom to hone student understanding. Specifically, the lineup protocol for visual inference provides a framework for students see the difference between signal and noise by embedding a plot of observed data in a field of null (noise) plots. Lineups have proven valuable in visualizing randomization/permutation tests, diagnosing models, and even conducting valid inference when distributional assumptions break down. This paper provides an overview of how the lineup protocol for visual inference can be used to hone understanding of key statistical topics throughout the statistics curricula.
+
+
+---
+Category: education
+Subcategory: stat.OT
+Collected: 2025-08-01T19:48:00.911Z

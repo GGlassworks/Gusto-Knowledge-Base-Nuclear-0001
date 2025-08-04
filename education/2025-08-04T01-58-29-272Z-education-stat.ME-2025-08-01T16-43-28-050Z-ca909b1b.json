@@ -1,0 +1,12 @@
+# Semiparametric efficient estimation of genetic relatedness with machine learning methods
+
+**Authors:** Xu Guo, Yiyuan Qian, Hongwei Shi, Weichao Yang, Niwen Zhou
+
+## Summary
+In this paper, we propose semiparametric efficient estimators of genetic relatedness between two traits in a model-free framework. Most existing methods require specifying certain parametric models involving the traits and genetic variants. However, the bias due to model misspecification may yield misleading statistical results. Moreover, the semiparametric efficient bounds for estimators of genetic relatedness are still lacking. In this paper, we develop semiparametric efficient estimators with machine learning methods and construct valid confidence intervals for two important measures of genetic relatedness: genetic covariance and genetic correlation, allowing both continuous and discrete responses. Based on the derived efficient influence functions of genetic relatedness, we propose a consistent estimator of the genetic covariance as long as one of genetic values is consistently estimated. The data of two traits may be collected from the same group or different groups of individuals. Various numerical studies are performed to illustrate our introduced procedures. We also apply proposed procedures to analyze Carworth Farms White mice genome-wide association study data.
+
+
+---
+Category: education
+Subcategory: stat.ME
+Collected: 2025-08-01T16:43:28.050Z

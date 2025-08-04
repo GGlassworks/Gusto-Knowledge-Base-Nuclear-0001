@@ -1,0 +1,12 @@
+# How Personal is Machine Learning Personalization?
+
+**Authors:** Travis Greene, Galit Shmueli
+
+## Summary
+Though used extensively, the concept and process of machine learning (ML) personalization have generally received little attention from academics, practitioners, and the general public. We describe the ML approach as relying on the metaphor of the person as a feature vector and contrast this with humanistic views of the person. In light of the recent calls by the IEEE to consider the effects of ML on human well-being, we ask whether ML personalization can be reconciled with these humanistic views of the person, which highlight the importance of moral and social identity. As human behavior increasingly becomes digitized, analyzed, and predicted, to what extent do our subsequent decisions about what to choose, buy, or do, made both by us and others, reflect who we are as persons? This paper first explicates the term personalization by considering ML personalization and highlights its relation to humanistic conceptions of the person, then proposes several dimensions for evaluating the degree of personalization of ML personalized scores. By doing so, we hope to contribute to current debate on the issues of algorithmic bias, transparency, and fairness in machine learning.
+
+
+---
+Category: education
+Subcategory: stat.ML
+Collected: 2025-08-01T10:18:24.306Z

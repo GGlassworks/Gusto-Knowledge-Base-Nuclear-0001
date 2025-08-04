@@ -1,0 +1,12 @@
+# A framework for causal segmentation analysis with machine learning in large-scale digital experiments
+
+**Authors:** Nima S. Hejazi, Wenjing Zheng, Sathya Anand
+
+## Summary
+We present an end-to-end methodological framework for causal segment discovery that aims to uncover differential impacts of treatments across subgroups of users in large-scale digital experiments. Building on recent developments in causal inference and non/semi-parametric statistics, our approach unifies two objectives: (1) the discovery of user segments that stand to benefit from a candidate treatment based on subgroup-specific treatment effects, and (2) the evaluation of causal impacts of dynamically assigning units to a study's treatment arm based on their predicted segment-specific benefit or harm. Our proposal is model-agnostic, capable of incorporating state-of-the-art machine learning algorithms into the estimation procedure, and is applicable in randomized A/B tests and quasi-experiments. An open source R package implementation, sherlock, is introduced.
+
+
+---
+Category: education
+Subcategory: stat.ME
+Collected: 2025-08-01T10:26:33.141Z

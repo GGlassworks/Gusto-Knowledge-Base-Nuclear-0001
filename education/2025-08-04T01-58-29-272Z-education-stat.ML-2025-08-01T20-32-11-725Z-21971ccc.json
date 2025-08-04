@@ -1,0 +1,12 @@
+# Learning the Distribution Map in Reverse Causal Performative Prediction
+
+**Authors:** Daniele Bracale, Subha Maity, Moulinath Banerjee, Yuekai Sun
+
+## Summary
+In numerous predictive scenarios, the predictive model affects the sampling distribution; for example, job applicants often meticulously craft their resumes to navigate through a screening systems. Such shifts in distribution are particularly prevalent in the realm of social computing, yet, the strategies to learn these shifts from data remain remarkably limited. Inspired by a microeconomic model that adeptly characterizes agents' behavior within labor markets, we introduce a novel approach to learn the distribution shift. Our method is predicated on a reverse causal model, wherein the predictive model instigates a distribution shift exclusively through a finite set of agents' actions. Within this framework, we employ a microfoundation model for the agents' actions and develop a statistically justified methodology to learn the distribution shift map, which we demonstrate to be effective in minimizing the performative prediction risk.
+
+
+---
+Category: education
+Subcategory: stat.ML
+Collected: 2025-08-01T20:32:11.725Z

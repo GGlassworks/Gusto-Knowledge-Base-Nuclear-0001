@@ -1,0 +1,12 @@
+# Learning Physics between Digital Twins with Low-Fidelity Models and Physics-Informed Gaussian Processes
+
+**Authors:** Michail Spitieris, Ingelin Steinsland
+
+## Summary
+A digital twin is a computer model that represents an individual, for example, a component, a patient or a process. In many situations, we want to gain knowledge about an individual from its data while incorporating imperfect physical knowledge and also learn from data from other individuals. In this paper, we introduce a fully Bayesian methodology for learning between digital twins in a setting where the physical parameters of each individual are of interest. A model discrepancy term is incorporated in the model formulation of each personalized model to account for the missing physics of the low-fidelity model. To allow sharing of information between individuals, we introduce a Bayesian Hierarchical modelling framework where the individual models are connected through a new level in the hierarchy. Our methodology is demonstrated in two case studies, a toy example previously used in the literature extended to more individuals and a cardiovascular model relevant for the treatment of Hypertension. The case studies show that 1) models not accounting for imperfect physical models are biased and over-confident, 2) the models accounting for imperfect physical models are more uncertain but cover the truth, 3) the models learning between digital twins have less uncertainty than the corresponding independent individual models, but are not over-confident.
+
+
+---
+Category: education
+Subcategory: stat.ML
+Collected: 2025-08-01T10:26:31.527Z

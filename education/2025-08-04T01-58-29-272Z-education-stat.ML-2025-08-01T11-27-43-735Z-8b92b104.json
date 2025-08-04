@@ -1,0 +1,12 @@
+# Physics-Informed Deep Learning: A Promising Technique for System Reliability Assessment
+
+**Authors:** Taotao Zhou, Enrique Lopez Droguett, Ali Mosleh
+
+## Summary
+Considerable research has been devoted to deep learning-based predictive models for system prognostics and health management in the reliability and safety community. However, there is limited study on the utilization of deep learning for system reliability assessment. This paper aims to bridge this gap and explore this new interface between deep learning and system reliability assessment by exploiting the recent advances of physics-informed deep learning. Particularly, we present an approach to frame system reliability assessment in the context of physics-informed deep learning and discuss the potential value of physics-informed generative adversarial networks for the uncertainty quantification and measurement data incorporation in system reliability assessment. The proposed approach is demonstrated by three numerical examples involving a dual-processor computing system. The results indicate the potential value of physics-informed deep learning to alleviate computational challenges and combine measurement data and mathematical models for system reliability assessment.
+
+
+---
+Category: education
+Subcategory: stat.ML
+Collected: 2025-08-01T11:27:43.735Z

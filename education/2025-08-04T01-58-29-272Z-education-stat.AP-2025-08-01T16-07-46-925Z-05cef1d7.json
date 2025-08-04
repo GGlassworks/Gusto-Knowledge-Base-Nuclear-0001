@@ -1,0 +1,12 @@
+# Learning Sensor Placement from Demonstration for UAV networks
+
+**Authors:** Assia Benbihi, Matthieu Geist, Cédric Pradalier
+
+## Summary
+This work demonstrates how to leverage previous network expert demonstrations of UAV deployment to automate the drones placement in civil applications. Optimal UAV placement is an NP-complete problem: it requires a closed-form utility function that defines the environment and the UAV constraints, it is not unique and must be defined for each new UAV mission. This complex and time-consuming process hinders the development of UAV-networks in civil applications. We propose a method that leverages previous network expert solutions of UAV-network deployment to learn the expert's untold utility function form demonstrations only. This is especially interesting as it may be difficult for the inspection expert to explicit his expertise into such a function as it is too complex. Once learned, our model generates a utility function which maxima match expert UAV locations. We test this method on a Wi-Fi UAV network application inside a crowd simulator and reach similar quality-of-service as the expert. We show that our method is not limited to this UAV application and can be extended to other missions such as building monitoring.
+
+
+---
+Category: education
+Subcategory: stat.AP
+Collected: 2025-08-01T16:07:46.926Z

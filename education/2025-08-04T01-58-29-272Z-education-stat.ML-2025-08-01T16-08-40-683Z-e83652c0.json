@@ -1,0 +1,12 @@
+# Probabilistic Inference for Structural Health Monitoring: New Modes of Learning from Data
+
+**Authors:** Lawrence A. Bull, Paul Gardner, Timothy J. Rogers, Elizabeth J. Cross, Nikolaos Dervilis, Keith Worden
+
+## Summary
+In data-driven SHM, the signals recorded from systems in operation can be noisy and incomplete. Data corresponding to each of the operational, environmental, and damage states are rarely available a priori; furthermore, labelling to describe the measurements is often unavailable. In consequence, the algorithms used to implement SHM should be robust and adaptive, while accommodating for missing information in the training-data -- such that new information can be included if it becomes available. By reviewing novel techniques for statistical learning (introduced in previous work), it is argued that probabilistic algorithms offer a natural solution to the modelling of SHM data in practice. In three case-studies, probabilistic methods are adapted for applications to SHM signals -- including semi-supervised learning, active learning, and multi-task learning.
+
+
+---
+Category: education
+Subcategory: stat.ML
+Collected: 2025-08-01T16:08:40.683Z
