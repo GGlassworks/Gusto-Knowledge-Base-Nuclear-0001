@@ -1,0 +1,13 @@
+# Elegant Computational Frameworks For the Analysis of Cantilevers and Beams
+
+**Authors:** Ashish Karn, Ayush Vyas, Anubha Upadhyay, Ayush Dwivedi
+
+## Abstract
+<jats:p>Abstract : In various fields like automobiles, construction, etc., the structural analysis of each component or sub-system must be done to ensure its safe operation. The structural analysis of these components entails the determination of parameters like shear force, bending moment at different locations. Usually, such computations are cumbersome, and hence a simplified approach is adopted, that involves drawing shear force diagram (SFD) and bending moment diagram (BMD) for the components. These diagrams can be effectively utilized to determine the dimensions of the components, select the appropriate material for the structure etc. Also, by utilizing the values of maximum shear force and bending moments, the maximum deflection in a beam or other structure can be ascertained. However, the process of drawing these diagrams is cumbrous and involves a lot of meticulous effort and time, which sometime poses a challenge in the effective teaching and learning of these concepts.The current paper reports the development of computational tools using the excel VBA platform and its implementation in the pedagogy of an undergraduate solid mechanics classroom. The developed tools can be easily employed to instantaneously draw the SFD and BMD diagrams for the beam under a variety of loading conditions, facilitating the inference-based learning of cantilevers and beams. Two distinct tools were developed, one for drawing the SFD and BMD of both cantilever and simply supported beams, and another one to determine the deflection and slope in the same two beams. The tools reported in the current manuscript can be effectively utilized for teaching by the demonstration of parametric variations under various loading conditions, for improved comprehension of the concepts and self-learning as well as in real world engineering to get preliminary design guidelines. Upon the development of these computational tools, these have been introduced to undergraduate mechanical engineering class of a sizable population and student responses regarding the efficacy of such tools in aiding the learning process has been recorded through an anonymous feedback. The subsequent hypothesis testing and obtained p-values strongly justify the extreme usefulness of the tools, both as a teaching and learning strategy.  Keywords : SFD, BMD, cantilever beam, simply supported beam, computational tool, Excel VBA</jats:p>
+
+**Source:** https://doi.org/10.16920/jeet/2023/v37i1/23135
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:55:59.579Z

@@ -1,0 +1,13 @@
+# Design and Development of Quadcopter’s Frame
+
+**Authors:** Kaspul Anuar, Anita Susilawati, Syafri Syafri, Warman Fatra, Feblil Huda, Nazaruddin Nazaruddin, Dedi-Rosa-Putra Cupu
+
+## Abstract
+<jats:p>The purpose of this research is to obtain a design and prototype of quadcopter’s frame, which be developed further as a quadcopter that capable of carrying payload of 1.5 kg with flight time of more than 20 minutes. The design begins with estimating the values of Maximum Take-Off Weight (MTOW), required thrust, propeller dimensions, and wheelbase dimensions of the quadcopter. The results show the MTOW of the quadcopter was 5 kg, with each motor requiring of 2.5 kg of thrust per arm. The wheelbase dimension was 790 mm, and the propeller diameter of 17 inches. A wheelbase dimension was utilized to develop three conceptual frame designs for the quadcopter. The three conceptual designs were selected using a decision matrix table. The selected design was calculated for its structural strength by applying a load of 2.5 kg on each motor mounting. The results show the maximum stress value of 21.17 MPa, the maximum deflection of 3.5 mm, and safety factor of 22.44. Then, the prototype of quadcopter’s frame was manufactured. Therefore, the producing of prototype was measured the mass and deflection. Based on the measurements conducted, the quadcopter frame has an actual mass of 595 grams and a maximum deflection of 3.7 mm. The actual deflection value and the actual mass are close to the deflection and mass obtained from the calculation.</jats:p>
+
+**Source:** https://doi.org/10.36842/jomase.v68i1.360
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:50:21.618Z

@@ -1,0 +1,13 @@
+# A methodology for semiautomatic generation of finite element models: Application to mechanical devices
+
+**Authors:** Jesús López, Mariano Artés
+
+## Abstract
+<jats:p> In this work, a methodology to create parameterized finite element models is presented, particularly focusing on the development of suitable algorithms in order to generate models and meshes with high computational efficiency. The methodology is applied to the modeling of two common mechanical devices: an optical linear encoder and a gear transmission. This practical application constitutes a tough test to the methodology proposed, given the complexity and the large number of components that set up this high-precision measurement device and the singularity of the internal gears. The geometrical and mechanical particularities of the components lead to multidimensional modeling, seeking to ensure proper interaction between the different types of finite elements. Besides, modeling criteria to create components such as compression and torsion springs, sheet springs, bearings, or adhesive joints are also presented in the article. The last part of the work aims to validate the simulation results obtained with the methodology proposed with those derived from experimental tests through white noise base-driven vibration and hammer impact excitation modal analysis. </jats:p>
+
+**Source:** https://doi.org/10.1177/1687814015571042
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:54:58.800Z
