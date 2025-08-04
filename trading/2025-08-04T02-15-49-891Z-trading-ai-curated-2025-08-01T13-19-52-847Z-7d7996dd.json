@@ -1,0 +1,13 @@
+# Optimization of Cryptocurrency Miners' Participation in Ancillary Service Markets
+
+**Authors:** Ali Menati, Yuting Cai, Rayan El Helou, Chao Tian, Le Xie
+
+## Abstract
+Proof-of-work computation used in cryptocurrencies has witnessed significant growth in the U.S. and many other regions around the world. One of the most significant bottlenecks for the scalable deployment of such computation is its energy demand. On the other hand, the electric energy system is increasing the need for flexibility for energy balancing and ancillary services due to the intermittent nature of many new energy resources such as wind and solar. In this work, we model the operation of a cryptomining facility with heterogeneous mining devices participating in ancillary services. We propose a general formulation for the cryptominers to maximize their profit by strategically participating in ancillary services and controlling the loss of mining revenue, which requires taking into account the disparity in the efficiency of the mining machines. The optimization formulation is considered for both offline and online scenarios, and optimal algorithms are proposed to solve these problems. As a special case of our problem, we investigate cryptominers' participation in frequency regulation, where the miners benefit from their fast-responding devices and contribute to grid stability. In the second special setting, a risk-aware algorithm is proposed to jointly minimize the cost and the risk of participating in ancillary services with homogeneous mining devices. Simulation results based on real-world Electric Reliability Council of Texas (ERCOT) traces show more than 20\% gain in profit, highlighting the advantage of our proposed algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/bc266c692c9a11258ba71d6564c19fabb15651fa
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:52.847Z

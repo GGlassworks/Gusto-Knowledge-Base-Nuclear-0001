@@ -1,0 +1,13 @@
+# Large Language Models in Cryptocurrency Securities Cases: Can ChatGPT Replace Lawyers?
+
+**Authors:** Arianna Trozze, Toby P Davies, Bennett Kleinberg
+
+## Abstract
+Large Language Models (LLMs) could enhance access to the legal system. However, empirical research on their effectiveness in conducting legal tasks is scant. We study securities cases involving cryptocurrencies as one of numerous contexts where AI could support the legal process, studying LLMs' legal reasoning and drafting capabilities. We examine whether a) an LLM can accurately determine which laws are potentially being violated from a fact pattern, and b) whether there is a difference in juror decision-making based on complaints written by a lawyer compared to an LLM. We feed fact patterns from real-life cases to GPT-3.5 and evaluate its ability to determine correct potential violations from the scenario and exclude spurious violations. Second, we had mock jurors assess complaints written by the LLM and lawyers. GPT-3.5's legal reasoning skills proved weak, though we expect improvement in future models, particularly given the violations it suggested tended to be correct (it merely missed additional, correct violations). GPT-3.5 performed better at legal drafting, and jurors' decisions were not statistically significantly associated with the author of the document upon which they based their decisions. Because LLMs cannot satisfactorily conduct legal reasoning tasks, they would be unable to replace lawyers at this stage. However, their drafting skills (though, perhaps, still inferior to lawyers), could provide access to justice for more individuals by reducing the cost of legal services. Our research is the first to systematically study LLMs' legal drafting and reasoning capabilities in litigation, as well as in securities law and cryptocurrency-related misconduct.
+
+**Source:** https://www.semanticscholar.org/paper/738e8782ae8c61a05488a1c2d033be10d077e650
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:21:34.550Z

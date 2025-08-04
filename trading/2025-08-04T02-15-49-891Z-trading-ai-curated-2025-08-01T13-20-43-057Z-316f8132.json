@@ -1,0 +1,16 @@
+# Cryptocurrency Price Prediction Using Supervised Machine Learning Algorithms
+
+**Authors:** Divya Chaudhary, Sushil Kumar Saroj
+
+## Abstract
+
+
+As a consequence of rising geo-economic issues, global currency values have declined during the last two years, stock markets have performed poorly, and investors have lost money. Consequently, there is a renewed interest in digital currencies. Cryptocurrency is a fresh kind of asset that has evolved as a result of fintech innovations, and it has provided a major research opportunity. Due to price fluctuation and dynamism, anticipating the price of cryptocurrencies is difficult. There are hundreds of cryptocurrencies in circulation around the world and the demand to use a prediction system for price forecasting has increased manifold. Hence, many developers have proposed machine learning algorithms for price forecasting. Machine learning is fast evolving, with several theoretical advances and applications in a variety of domains. This study proposes the use of three supervised machine learning methods, namely linear regression, support vector machine, and decision tree, to estimate the price of four prominent cryptocurrencies: Bitcoin, Ethereum, Dogecoin, and Bitcoin Cash. The purpose of this study is to compute and compare the precision of all three techniques over all four datasets.
+
+
+**Source:** https://www.semanticscholar.org/paper/9e7d653545e25b26755458b3ec3e5daf108623c3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:43.057Z

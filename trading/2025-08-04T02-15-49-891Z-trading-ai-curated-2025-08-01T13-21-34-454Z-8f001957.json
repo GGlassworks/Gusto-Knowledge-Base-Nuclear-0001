@@ -1,0 +1,13 @@
+# Cryptocurrency Price Prediction with LSTM and Transformer Models Leveraging Momentum and Volatility Technical Indicators
+
+**Authors:** Siddharth Penmetsa, Maruthi Vemula
+
+## Abstract
+Accurate cryptocurrency price prediction is essential to investors and researchers for analyzing trends and advising financial decisions, as price prediction is fundamental to making beneficial investment decisions. Due to the high volatility and unpredictability of the cryptocurrency market, it is difficult to predict these prices based on cryptocurrency time series data accurately. This research paper presents a two-fold analysis of the effectiveness of neural networks and deep learning to predict cryptocurrency prices and proposes a novel approach to cryptocurrency price prediction. This is done by considering Long-Short Term Memory (LSTM) and Transformer neural networks that use historical price features in addition to volatility and momentum technical indicators, along with historical price features, and testing these models on Bitcoin (BTC), Ethereum (ETH) and Litecoin (LTC). Momentum and volatility technical indicators such as Relative Strength Index (RSI), Bollinger Bands %B and Moving Average Convergence/Divergence (MACD) are not commonly used in cryptocurrency machine learning models. Still, the addition of these features can give better insight into the general trend of the price. By adding volatility and momentum features to our LSTM and Transformer models, we see a significant increase in price prediction accuracy, and we also find that Transformers tend to outperform LSTM models in price prediction and trends of cryptocurrency data.
+
+**Source:** https://www.semanticscholar.org/paper/693298ab0ef4c397b212774c2e080f08177fdf2d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:21:34.455Z

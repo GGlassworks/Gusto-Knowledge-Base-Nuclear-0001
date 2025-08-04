@@ -1,0 +1,13 @@
+# Cryptocurrency Price Prediction with Neural Networks of LSTM and Bayesian Optimization
+
+**Authors:** Ehsan Sadeghi Pour, Hossein Jafari, A. Lashgari, Elaheh Rabiee, Amin Ahmadisharaf
+
+## Abstract
+In this paper we present a price prediction for Bitcoin prices. The methodology used is a hybrid artificial neural network model of Long Short-Term Memory and Bayesian Optimization. This is a complex model with a high prediction power, which to our knowledge has not been applied to prediction of cryptocurrency prices to date. Following Charandabi and Kamyar (2021), we elaborate on previous methods used for prediction of cryptocurrency prices and build on their methodology. We conclude with detailed graphs and tables of optimization results.
+
+**Source:** https://www.semanticscholar.org/paper/268501c4a784c75a900528e60772db82d27dc0a0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:53.049Z

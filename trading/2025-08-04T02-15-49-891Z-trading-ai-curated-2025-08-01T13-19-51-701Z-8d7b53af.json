@@ -1,0 +1,13 @@
+# Utilizing RNN for Real-time Cryptocurrency Price Prediction and Trading Strategy Optimization
+
+**Authors:** Shamima Nasrin Tumpa, K. D. G. Maduranga
+
+## Abstract
+This study explores the use of Recurrent Neural Networks (RNN) for real-time cryptocurrency price prediction and optimized trading strategies. Given the high volatility of the cryptocurrency market, traditional forecasting models often fall short. By leveraging RNNs' capability to capture long-term patterns in time-series data, this research aims to improve accuracy in price prediction and develop effective trading strategies. The project follows a structured approach involving data collection, preprocessing, and model refinement, followed by rigorous backtesting for profitability and risk assessment. This work contributes to both the academic and practical fields by providing a robust predictive model and optimized trading strategies that address the challenges of cryptocurrency trading.
+
+**Source:** https://www.semanticscholar.org/paper/3e11fefcd8aeff2fba1c489e622c94eb0c8dbd20
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:51.701Z

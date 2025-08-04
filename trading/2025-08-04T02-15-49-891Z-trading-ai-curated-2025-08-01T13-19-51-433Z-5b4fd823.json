@@ -1,0 +1,13 @@
+# Two Empirical Studies of Portfolio Optimization Using Cryptocurrency Allocation Ratios
+
+**Authors:** Myungwan Kim, Ye Jin Jeong, Jaehong Jeong
+
+## Abstract
+This study examines the impact of incorporating cryptocurrencies into global asset portfolios using ensemble approaches and a tracing strategy. We considered cryptocurrency ratios of 1%, 3%, and 5% for including cryptocurrencies. Benchmarking was performed using classical portfolio optimization strategies such as minimum variance portfolio (MVP), maximum diversification portfolio (MDP), equal risk contribution portfolio (ERCP), and hierarchical risk parity (HRP). The ensemble methods and tracing strategies we evaluated were the equally weighted portfolio (EWP), the linear combination portfolio (LCP), the return tracing portfolio (RTP), and the return volatility tracing portfolio (RVTP). EWP averages the weights of classical methods, while LCP combines the objective functions of three optimization methods. RTP and RVTP represent tracing strategy portfolios with monthly rebalancing, selecting the best-performing portfolio based on cumulative returns or a combination of cumulative returns and annualized volatility. Our findings reveal that increasing the cryptocurrency allocation improves performance metrics in ensemble portfolios but also leads to higher risk. In addition, including cryptocurrencies reduces transaction fees, especially evident in the LCP with a 5% allocation. In the case of a 3-month RTP, HRP emerged as the preferred strategy, outperforming the use of HRP alone. In the case of a 6-month RVTP, MVP remained the preferred choice, consistently achieving lower volatility.
+
+**Source:** https://www.semanticscholar.org/paper/10e81bc3134c447b5bf7523487bf65590768626d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:51.434Z

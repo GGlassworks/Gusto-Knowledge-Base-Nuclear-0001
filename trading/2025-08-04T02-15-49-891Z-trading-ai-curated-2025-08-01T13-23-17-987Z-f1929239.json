@@ -1,0 +1,13 @@
+# Modeling and Analysis of Utilizing Cryptocurrency Mining for Demand Flexibility in Electric Energy Systems: A Synthetic Texas Grid Case Study
+
+**Authors:** Ali Menati, Kiyeob Lee, Le Xie
+
+## Abstract
+The electricity sector is facing the dual challenge of supporting increasing level of demand electrification while substantially reducing its carbon footprint. Among electricity demands, the energy consumption of cryptocurrency mining data centers has witnessed significant growth worldwide. If well-coordinated, these data centers could be tailor-designed to aggressively absorb the increasing uncertainties of energy supply and, in turn, provide valuable grid- level services in the electricity market. In this paper, we study the impact of integrating new cryptocurrency mining loads into Texas power grid and the potential profit of utilizing demand flexibility from cryptocurrency mining facilities in the electricity market. We investigate different demand response programs available for data centers and quantify the annual profit of cryptocurrency mining units participating in these programs. We perform our simulations using a synthetic 2000 bus ERCOT grid model, along with added cryptocurrency mining loads on top of the real-world demand profiles in Texas. Our preliminary results show that depending on the size and location of these new loads, we observe different impacts on the ERCOT electricity market, where they could increase the electricity prices and incur more fluctuations in a highly non-uniform manner.
+
+**Source:** https://www.semanticscholar.org/paper/5a66ba5ddd8ddeddb54eef7e922da80218404876
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:23:17.987Z

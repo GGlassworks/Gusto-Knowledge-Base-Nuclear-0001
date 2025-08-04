@@ -1,0 +1,13 @@
+# Practical Risk-adjusted Cryptocurrency Portfolio Optimization Framework
+
+**Authors:** Prof. Sasa Zikovic
+
+## Abstract
+: Cryptocurrencies represent a new type of digital financial asset that still cannot be linked to the fundamental and systematic factors of the traditional capital market. When creating a portfolio, investors have to consider the dynamics of asset returns in order to identify and quantify the best risk measure and to achieve the best possible portfolio performance. Given the possibility of portfolio optimization that includes different risk measures, this paper will formally identify and define whether standard deviation or Conditional VaR (CVaR) best suit the dynamics of cryptocurrency market by developing and employing a practical framework. For this purpose, we test two optimization targets: MaxSR and MaxSTARR. The obtained portfolio optimization results are compared among each other and to the performance of the CRIX index in the same observation period. The overall results suggest that 80% of randomly created portfolios performed better if they use the MaxSTARR portfolio optimization framework.
+
+**Source:** https://www.semanticscholar.org/paper/168a483ff93364c9995fcf88e9effbb266e9b749
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:52.547Z

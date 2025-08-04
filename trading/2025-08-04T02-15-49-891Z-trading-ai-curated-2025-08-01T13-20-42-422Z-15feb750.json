@@ -1,0 +1,13 @@
+# Predictive Modeling of Cryptocurrency Prices Using Machine Learning Algorithms
+
+**Authors:** Tanjim Mahmud, Tahmina Akter, Rishita Chakma, Tikle Barua, Mohammad Shahadat Hossain, Karl Andersson
+
+## Abstract
+Cryptocurrencies, such as Bitcoin, Binance, Ethereum, FTX, and XRP, are decentralized digital assets known for their volatile nature and potential as investment instruments. Accurate price prediction is crucial for informed investment decisions. This study explores the feasibility of various modeling techniques on diverse data structures and features for predicting the prices of these cryptocurrencies. We utilize daily and high-frequency price data to classify and predict prices using deep learning and machine learning techniques, including LSTM, Bi-LSTM, GRU, linear regression, and SGD regression. Our findings indicate that daily price projections achieve an accuracy of 0.99, outperforming more complex deep learning and machine learning models. Compared to benchmark results, our approach demonstrates superior performance, with the highest scores achieved by the applied statistical methods and advanced algorithms. This research highlights the effectiveness of deep learning and machine learning models in cryptocurrency price forecasting, offering a foundation for further exploration in the field and emphasizing the significance of sample size in predictive modeling.
+
+**Source:** https://www.semanticscholar.org/paper/9264402b221b206cb3c9aa44f0cbcaa29bf87411
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:42.422Z

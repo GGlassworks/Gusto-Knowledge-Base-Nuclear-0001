@@ -1,0 +1,13 @@
+# Analyzing Portfolio Optimization in Cryptocurrency Markets: A Comparative Study of Short-Term Investment Strategies Using Hourly Data Approach
+
+**Authors:** Sonal Sahu, José Hugo Ochoa Vázquez, Alejandro Fonseca Ramírez, Jong-Min Kim
+
+## Abstract
+This paper investigates portfolio optimization methodologies and short-term investment strategies in the context of the cryptocurrency market, focusing on ten major cryptocurrencies from June 2020 to March 2024. Using hourly data, we apply the Kurtosis Minimization methodology, along with other optimization strategies, to construct and assess portfolios across various rebalancing frequencies. Our empirical analysis reveals significant volatility, skewness, and kurtosis in cryptocurrencies, highlighting the need for sophisticated portfolio management techniques. We discover that the Kurtosis Minimization methodology consistently outperforms other optimization strategies, especially in shorter-term investment horizons, delivering optimal returns to investors. Additionally, our findings emphasize the importance of dynamic portfolio management, stressing the necessity of regular rebalancing in the volatile cryptocurrency market. Overall, this study offers valuable insights into optimizing cryptocurrency portfolios, providing practical guidance for investors and portfolio managers navigating this rapidly evolving market landscape.
+
+**Source:** https://www.semanticscholar.org/paper/5ec8bb0a39020894d69b1aa32243c5273257f21a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:51.310Z

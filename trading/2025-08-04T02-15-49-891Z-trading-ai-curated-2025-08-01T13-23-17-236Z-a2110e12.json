@@ -1,0 +1,13 @@
+# SoK: Anonymity of Lightweight Clients in Cryptocurrency Systems
+
+**Authors:** Yiyin Zhang
+
+## Abstract
+Cryptocurrencies have developed for over a decade, attracting a large number of users. Based on blockchain technologies, cryptocurrency systems disperse the traditional centralized authority, which naturally requires the transaction history is able to be obtained and verified b y a II t he p articipants, thus challenging users' privacy and anonymity. The lightweight client is the tool to use cryptocurrency systems for resource-constrained device owners. Despite many previous works that have analyzed anonymity issues in cryptocurrency and there are many industrial practices and academic efforts of lightweight clients, there is still a lack of comprehensive anonymity analysis for lightweight clients in cryptocurrency systems. This article provides a systematization work of the anonymity issues of cryptocurrency lightweight clients and proposes the personal information vector to characterize the degrees of de-anonymizing users. This article reviews existing industrial practices and academic efforts of lightweight clients and discusses their anonymity issues brought by the operations of users with the model of systematization.
+
+**Source:** https://www.semanticscholar.org/paper/5a86dc815b1bf55c81b3472a3f06f3509b890318
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:23:17.236Z

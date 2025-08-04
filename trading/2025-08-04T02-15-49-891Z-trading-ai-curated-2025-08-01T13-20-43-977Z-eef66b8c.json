@@ -1,0 +1,28 @@
+# Combating money laundering with machine learning – applicability of supervised-learning algorithms at cryptocurrency exchanges
+
+**Authors:** Eric Pettersson Ruiz, Jannis J. Angelis
+
+## Abstract
+
+Purpose
+This study aims to explore how to deanonymize cryptocurrency money launderers with the help of machine learning (ML). Money is laundered through cryptocurrencies by distributing funds to multiple accounts and then reexchanging the crypto back. This process of exchanging currencies is done through cryptocurrency exchanges. Current preventive efforts are outdated, and ML may provide novel ways to identify illicit currency movements. Hence, this study investigates ML applicability for combatting money laundering activities using cryptocurrency.
+
+
+Design/methodology/approach
+Four supervised-learning algorithms were compared using the Bitcoin Elliptic Dataset. The method covered a quantitative analysis of the algorithmic performance, capturing differences in three key evaluation metrics of F1-scores, precision and recall. Two complementary qualitative interviews were performed at cryptocurrency exchanges to identify fit and applicability of the algorithms.
+
+
+Findings
+The study results show that the current implemented ML tools for preventing money laundering at cryptocurrency exchanges are all too slow and need to be optimized for the task. The results also show that while not one single algorithm is most suitable for detecting transactions related to money-laundering, the specific applicability of the decision tree algorithm is most suitable for adoption by cryptocurrency exchanges.
+
+
+Originality/value
+Given the growth of cryptocurrency use, this study explores the newly developed field of algorithmic tools to combat illicit currency movement, in particular in the growing arena of cryptocurrencies. The study results provide new insights into the applicability of ML as a tool to combat money laundering using cryptocurrency exchanges.
+
+
+**Source:** https://www.semanticscholar.org/paper/57525f9122399098370b2a387efc8870399ec0e4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:43.977Z

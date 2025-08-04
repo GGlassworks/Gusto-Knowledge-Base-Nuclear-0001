@@ -1,0 +1,13 @@
+# A multiscale analysis of returns and volatility spillovers in cryptocurrency markets: A post-COVID perspective
+
+**Authors:** Andrew Phiri, I. Anyikwa
+
+## Abstract
+ABSTRACT Since the onset of the COVID-19 pandemic, leading cryptocurrencies have undergone significant price fluctuations, prompting widespread interest in the interdependence and spillover effects among cryptocurrency markets, as well as in identifying the key cryptocurrencies that drive market movements. This study contributes to the existing literature by utilising innovative vector wavelet coherence (VWC) and wavelet local multiple correlation (WLMC) frameworks to investigate the time-frequency co-movements among four cryptocurrencies (Bitcoin, Ethereum, Tether, and Binance). By exploring the co-movements across multiple time scales over a period from 01/01/2020 to 10/04/2023 through continuous and discrete wavelet coherency analysis, we identify four key empirical findings. Firstly, the returns connectedness is stronger than the volatility connectedness. Secondly, high-frequency co-movements are more erratic and correspond to positive and negative unexpected news, while low-frequency co-movements vary with changes in US monetary policy. Thirdly, Tether and Binance exhibit the weakest returns and volatility connectedness with other cryptocurrencies. Lastly, Ethereum and Tether (not Bitcoin) are the primary cryptocurrencies that account for returns and volatility movements in the market. We discuss the implications of these findings for various stakeholders in cryptocurrency markets.
+
+**Source:** https://www.semanticscholar.org/paper/6cb8bfa43ff9f11ccbab557681bc12102fbe8c02
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:22:26.125Z

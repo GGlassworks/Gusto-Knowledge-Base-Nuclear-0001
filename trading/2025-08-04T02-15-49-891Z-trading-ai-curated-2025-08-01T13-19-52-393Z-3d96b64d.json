@@ -1,0 +1,13 @@
+# Implementation of LSTM and Adam Optimization as a Cryptocurrency Polygon Price Predictor
+
+**Authors:** Wahyutama Fitri Hidayat, Muhammad Fahmi, Yesni Malau, Teknik Elektro, Ahmad Setiadi, Sistem Informasi
+
+## Abstract
+As the development of information technology encourages the emergence of innovation in all aspects of human life. Innovations that are currently trending around the world and in the current circle of cryptocurrencies are digital currencies. Cryptocurrency price movements are very flexible so that investment in cryptocurrencies is considered only based on speculation, causing very high risk. The research aims to build a price prediction model for the cryptocurrency market. The prediction model algorithm used is Long Short-Term Memory (LSTM) and optimization ADAM. LSTM, namely the development of the Recurrent Neural Network (RNN) algorithm, which functions as a solution to problems with RNN when managing data for a long time. LSTM is felt to be superior to other algorithms in managing time history data. Research data used from the Yahoo Finance site in the form of polygon cryptocurrency history data with and used the Pandas library with the Google Colaboratory software. The optimization process in improving model accuracy used the adam optimization algorithm and carried out experiments to compare data and the number of epochs. The final results of the test show that the best data comparison uses 60:40 and the best epoch is 12 resulting in an MSE value of 0.0036, an RMSE of 0.0604 and an accuracy value of 98%. The result of this study is the prediction of cryptocurrency prices for the next 15 days.
+
+**Source:** https://www.semanticscholar.org/paper/be05e0d88949c2e03660bfe4ff73a0f7df19259f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:52.394Z

@@ -1,0 +1,13 @@
+# What Coins Lead in the Cryptocurrency Market: Using Copula and Neural Networks Models
+
+**Authors:** Steve Hyun, Jimin Lee, Jong-Min Kim, Chulhee Jun
+
+## Abstract
+Exploring dependence structures between financial time series has been important within a wide range of applications. The main aim of this paper is to examine dependence relationships among five well-known cryptocurrencies—Bitcoin, Ethereum, Litecoin, Ripple, and Stella—by a copula directional dependence (CDD). By employing a neural network autoregression model to avoid the serial dependence in each individual cryptocurrency, we generate residuals of the fitted models with time series of daily log-returns in percentage of the five cryptocurrencies and then we apply a Gaussian copula marginal beta regression model to the residuals to explore the CDD. The results show that the CDD from Bitcoin to Litecoin is highest among all ordered directional dependencies and the CDDs from Ethereum to the other four cryptocurrencies are relatively higher than the CDDs to Ethereum from those cryptocurrencies. This finding implies that the return shocks of Bitcoin have the most effect on Litecoin and the return shocks of Ethereum relatively influence the shocks on the other four cryptocurrencies instead of being affected by them. This allows investors to build the market-timing strategies by observing the directional flow of return shocks among cryptocurrencies.
+
+**Source:** https://www.semanticscholar.org/paper/cf2e262c5114d04fc5a16a8b1f80daa323efe355
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:21:35.864Z

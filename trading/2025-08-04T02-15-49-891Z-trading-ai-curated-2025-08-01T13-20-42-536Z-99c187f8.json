@@ -1,0 +1,13 @@
+# Cryptocurrency Price Prediction Algorithms: A Survey and Future Directions
+
+**Authors:** David L. John, Sebastian Binnewies, Bela Stantic
+
+## Abstract
+In recent years, cryptocurrencies have received substantial attention from investors, researchers and the media due to their volatile behaviour and potential for high returns. This interest has led to an expanding body of research aimed at predicting cryptocurrency prices, which are notably influenced by a wide array of technical, sentimental, and legal factors. This paper reviews scholarly content from 2014 to 2024, employing a systematic approach to explore advanced quantitative methods for cryptocurrency price prediction. It encompasses a broad spectrum of predictive models, from early statistical analyses to sophisticated machine and deep learning algorithms. Notably, this review identifies and discusses the integration of emerging technologies such as Transformers and hybrid deep learning models, which offer new avenues for enhancing prediction accuracy and practical applicability in real-world scenarios. By thoroughly investigating various methodologies and parameters influencing cryptocurrency price predictions, including market sentiment, technical indicators, and blockchain features, this review highlights the field’s complexity and rapid evolution. The analysis identifies significant research gaps and under-explored areas, providing a foundational guideline for future studies. These guidelines aim to connect theoretical advancements with practical, profit-driven applications in cryptocurrency trading, ensuring that future research is both innovative and applicable.
+
+**Source:** https://www.semanticscholar.org/paper/7a6f8fb5950939bbdba3df682720a9c1c9fa9bf9
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:42.537Z

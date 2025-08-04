@@ -1,0 +1,13 @@
+# Prediction of Cryptocurrency Price using Time Series Data and Deep Learning Algorithms
+
+**Authors:** Michael Nair, Mohamed I. Marie, Laila A. Abd-Elmegid
+
+## Abstract
+—One of the most significant and extensively utilized cryptocurrencies is Bitcoin (BTC). It is used in many different financial and business activities. Forecasting cryptocurrency prices are crucial for investors and academics in this industry because of the frequent volatility in the price of this currency. However, because of the nonlinearity of the cryptocurrency market, it is challenging to evaluate the unique character of time-series data, which makes it impossible to provide accurate price forecasts. Predicting cryptocurrency prices has been the subject of several research studies utilizing machine learning (ML) and deep learning (DL) based methods. This research suggests five different DL approaches. To forecast the price of the bitcoin cryptocurrency, recurrent neural networks (RNN), long short-term memories (LSTM), gated recurrent units (GRU), bidirectional long short-term memories (Bi-LSTM), and 1D convolutional neural networks (CONV1D) were used. The experimental findings demonstrate that the LSTM outperformed RNN, GRU, Bi-LSTM, and CONV1D in terms of prediction accuracy using measures such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared score (R 2 ). With RMSE= 1978.68268, MAE=1537.14424, MSE= 3915185.15068, and R 2 = 0.94383, it may be considered the best method.
+
+**Source:** https://www.semanticscholar.org/paper/29ca22af0962c4b9321e92c8ad4fa4e79a3521b2
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:43.341Z

@@ -1,0 +1,13 @@
+# Cryptocurrency Portfolio Optimization by Neural Networks
+
+**Authors:** Quoc Minh Nguyen, D. Tran, J. Kanniainen, A. Iosifidis, M. Gabbouj
+
+## Abstract
+Many cryptocurrency brokers nowadays offer a va-riety of derivative assets that allow traders to perform hedging or speculation. This paper proposes an effective algorithm based on neural networks to take advantage of these investment products. The proposed algorithm constructs a portfolio that contains a pair of negatively correlated assets. A deep neural network, which outputs the allocation weight of each asset at a time interval, is trained to maximize the Sharpe ratio. A novel loss term is proposed to regulate the network's bias towards a specific asset, thus enforcing the network to learn an allocation strategy that is close to a minimum variance strategy. Extensive experiments were conducted using data collected from Binance spanning 19 months to evaluate the effectiveness of our approach. The backtest results show that the proposed algorithm can produce neural networks that are able to make profits in different market situations.
+
+**Source:** https://www.semanticscholar.org/paper/f3300060d69a90be72c87a1c3f69c980f80ebb61
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:52.942Z

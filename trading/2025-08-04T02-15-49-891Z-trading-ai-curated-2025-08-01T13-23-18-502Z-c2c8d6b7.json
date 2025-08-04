@@ -1,0 +1,13 @@
+# Complexity in Economic and Social Systems: Cryptocurrency Market at around COVID-19
+
+**Authors:** S. Drożdż, J. Kwapień, P. Oświȩcimka, Tomasz Stanisz, M. Wątorek
+
+## Abstract
+Social systems are characterized by an enormous network of connections and factors that can influence the structure and dynamics of these systems. Among them the whole economical sphere of human activity seems to be the most interrelated and complex. All financial markets, including the youngest one, the cryptocurrency market, belong to this sphere. The complexity of the cryptocurrency market can be studied from different perspectives. First, the dynamics of the cryptocurrency exchange rates to other cryptocurrencies and fiat currencies can be studied and quantified by means of multifractal formalism. Second, coupling and decoupling of the cryptocurrencies and the conventional assets can be investigated with the advanced cross-correlation analyses based on fractal analysis. Third, an internal structure of the cryptocurrency market can also be a subject of analysis that exploits, for example, a network representation of the market. In this work, we approach the subject from all three perspectives based on data from a recent time interval between January 2019 and June 2020. This period includes the peculiar time of the Covid-19 pandemic; therefore, we pay particular attention to this event and investigate how strong its impact on the structure and dynamics of the market was. Besides, the studied data covers a few other significant events like double bull and bear phases in 2019. We show that, throughout the considered interval, the exchange rate returns were multifractal with intermittent signatures of bifractality that can be associated with the most volatile periods of the market dynamics like a bull market onset in April 2019 and the Covid-19 outburst in March 2020. The topology of a minimal spanning tree representation of the market also used to alter during these events from a distributed type without any dominant node to a highly centralized type with a dominating hub of USDT. However, the MST topology during the pandemic differs in some details from other volatile periods.
+
+**Source:** https://www.semanticscholar.org/paper/6118b6f768c946f1a73563fa93ecd902243de208
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:23:18.503Z

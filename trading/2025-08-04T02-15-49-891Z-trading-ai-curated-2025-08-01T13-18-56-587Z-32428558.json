@@ -1,0 +1,13 @@
+# Privacy and Security Analysis of Cryptocurrency Mobile Applications
+
+**Authors:** Ashish Rajendra Sai, Jim Buckley Lero, Andrew Le Gear
+
+## Abstract
+Subsequent to the introduction of Bitcoin, the field of cryptocurrency has seen unprecedented growth. Mobile applications known as wallets often facilitate user interaction to these cryptocurrencies. With a perceived real world value these wallets are a target for attackers. Unlike mainstream financial services applications, cryptocurrency wallets are not subject to the same stringent security requirements of their regulated counterparts. In this paper, we examine the security profiles of commonly used Android cryptocurrency applications. We examine these applications for common vulnerabilities outlined by OWASP mobile top 10. We establish a baseline for our tests by evaluating commonly used banking and trading applications. We compare the results from our baseline test and establish the state of security provided by cryptocurrency wallet applications. The paper also examines the possible privacy implications of mobile applications. We report that the conventional financial services applications are only marginally better than cryptocurrency application in security provisions but they provide greater privacy.
+
+**Source:** https://www.semanticscholar.org/paper/e935546ab25a5939d3e8ad1b3411188d1c7569ed
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:18:56.588Z

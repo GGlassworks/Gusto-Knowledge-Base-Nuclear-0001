@@ -1,0 +1,13 @@
+# A Cryptocurrency Prediction Model Using LSTM and GRU Algorithms
+
+**Authors:** Jongyeop Kim, Seongsoo Kim, H. Wimmer, Hong Liu
+
+## Abstract
+This study aims to predict cryptocurrency prices using Long Short-Term Memory(LSTM) and Gated Recurrent Unit(GRU) for three different coins: BitCoin, Ethereum, and Litecoin. For the training data for prediction, two data sets with different statistical characteristics in terms of Kurtosis and Skewness are used. LSTM and GRU models are trained and tested on the same hyperparameter configuration while increasing the number of epochs from 1 to 30. The accuracy of each model is measured by Root Mean Square Error (RMSE) and MAE (Mean Absolute Error). As a result of comparing GRU and LSTM, in BTC and ETH, the GRU was more advantageous for the downward stabilization trend, and the LSTM was suitable for the upward stabilization trend. However, in case of low-priced LTC, LSTM and GRU showed the same performance in sample type A, and in the case of type B, GRU was more accurate.
+
+**Source:** https://www.semanticscholar.org/paper/9486e736573645aba23cc19c20d5af27c4648e2d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:44.143Z

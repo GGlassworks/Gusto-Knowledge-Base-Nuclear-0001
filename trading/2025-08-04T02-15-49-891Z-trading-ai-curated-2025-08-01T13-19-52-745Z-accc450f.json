@@ -1,0 +1,13 @@
+# TRX Cryptocurrency Profit and Transaction Success Rate Prediction Using Whale Optimization-Based Ensemble Learning Framework
+
+**Authors:** Amogh Shukla, Tapan Kumar Das, Sanjiban Sekhar Roy
+
+## Abstract
+TRON is a decentralized digital platform that provides a reliable way to transact in cryptocurrencies within a decentralized ecosystem. Thanks to its success, TRON’s native token, TRX, has been widely adopted by a large audience. To facilitate easy management of digital assets with TRON Wallet, users can securely store and manage their digital assets with ease. Our goal is first to develop a methodology to predict the future price using regression and then move on to build an effective classifier to predict whether a profit or loss is made the next day and then make a prediction of the transaction success rate. Our framework is capable of predicting whether there will be a profit in the future based on price prediction and forecasting results using regressors such as XGBoost, LightGBM, and CatBoost with R2 values of 0.9820, 0.9825 and 0.9858, respectively. In this work, an ensemble-based stacking classifier with the Whale optimization approach has been proposed which achieves the highest accuracy of 89.05 percent to predict if there will be a profit or loss the next day and an accuracy of 98.88 percent of TRX transaction success rate prediction which is higher than accuracies obtained by standard machine learning models. An effective framework will be useful for better decision-making and management of risks in a cryptocurrency.
+
+**Source:** https://www.semanticscholar.org/paper/4522d40dfdc117d4fc73420cbe1a585f2dab666d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:52.745Z

@@ -1,0 +1,13 @@
+# Secure and Scalable Blockchain-Based Federated Learning for Cryptocurrency Fraud Detection: A Systematic Review
+
+**Authors:** A. Ahmed, Oluwayemisi Alabi
+
+## Abstract
+With the wide adoption of cryptocurrency, blockchain technologies have become the foundation of such digital currencies. However, this adoption has been accompanied by a surge in cryptocurrency fraud, causing significant losses to financial organizations and individuals. One way to mitigate these losses is to use Federated Learning (FL) techniques to detect fraudulent cryptocurrency transactions. This paper provides an overview of secure, privacy-preserving, and scalable Blockchain-based Federated Learning (BCFL) as a promising solution for slowing the exponential growth of cryptocurrency fraud. BCFL enables multiple entities to collaboratively train machine learning models for detecting fraudulent cryptocurrency transactions without sharing their private data, thus preserving privacy. However, Integrating differential privacy and Secure Multi-party computation (SMPC) models in BCFL presents an additional scalability challenge. This study provides an overview of BCFL, evaluating existing research on its security, privacy, and scalability challenges in detecting cryptocurrency fraud. The review explores existing research and various methodologies, highlighting advancements and challenges in creating effective, privacy-conscious fraud detection solutions for cryptocurrency transactions. We first discuss the current state of BCFL in fraud detection, along with its potential advantages and limitations, and then discuss the existing research gaps. In particular, this paper examines various BCFL frameworks, consensus algorithms, and block architectures, emphasizing their strengths and limitations in the context of cryptocurrency fraud detection to develop scalable and privacy-preserving solutions. We compare various solutions that address scalability and privacy challenges in BCFL, including adopting a geographically distributed cloud computing model that utilizes SMPC and lightweight consensus algorithms and protocols to manage computational overheads.
+
+**Source:** https://www.semanticscholar.org/paper/07c509682785bcc7c07f5f5dd4b8944d46102489
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:21:36.222Z

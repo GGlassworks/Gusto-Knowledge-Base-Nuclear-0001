@@ -1,0 +1,13 @@
+# On fitting and forecasting the log-returns of cryptocurrency exchange rates using a new logistic model and machine learning algorithms
+
+**Authors:** Zubair Ahmad, Z. Almaspoor, Faridoon Khan, S. Alhazmi, M. El-morshedy, O. Ababneh, A. Al-Omari
+
+## Abstract
+Cryptocurrency is a digital currency and also exists in the form of coins. It has turned out as a leading method for peer-to-peer online cash systems. Due to the importance and increasing influence of Bitcoin on business and other related sectors, it is very crucial to model or predict its behavior. Therefore, in recent, numerous researchers have attempted to understand and model the behaviors of cryptocurrency exchange rates. In the practice of actuarial and financial studies, heavy-tailed distributions play a fruitful role in modeling and describing the log returns of financial phenomena. In this paper, we propose a new family of distributions that possess heavy-tailed characteristics. Based on the proposed approach, a modified version of the logistic distribution, namely, a new modified exponential-logistic distribution is introduced. To illustrate the new modified exponential-logistic model, two financial data sets are analyzed. The first data set represents the log-returns of the Bitcoin exchange rates. Whereas, the second data set represents the log-returns of the Ethereum exchange rates. Furthermore, to forecast the high volatile behavior of the same datasets, we apply dual machine learning algorithms, namely Artificial neural network and support vector regression. The effectiveness of these models is evaluated against self exciting threshold autoregressive model.
+
+**Source:** https://www.semanticscholar.org/paper/906bbbc261097c10aa6213900dc931d597624309
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:43.534Z

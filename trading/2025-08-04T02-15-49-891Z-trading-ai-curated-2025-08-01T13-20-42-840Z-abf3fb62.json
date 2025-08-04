@@ -1,0 +1,13 @@
+# Developing Cryptocurrency Trading Strategy Based on Autoencoder-CNN-GANs Algorithms
+
+**Authors:** Zhuohuan Hu, Richard Yu, Zizhou Zhang, Haoran Zheng, Qianying Liu, Yining Zhou
+
+## Abstract
+This paper leverages machine learning algorithms to forecast and analyze financial time series. The process begins with a denoising autoencoder to filter out random noise fluctuations from the main contract price data. Then, one-dimensional convolution reduces the dimensionality of the filtered data and extracts key information. The filtered and dimensionality-reduced price data is fed into a GANs network, and its output serve as input of a fully connected network. Through cross-validation, a model is trained to capture features that precede large price fluctuations. The model predicts the likelihood and direction of significant price changes in real-time price sequences, placing trades at moments of high prediction accuracy. Empirical results demonstrate that using autoencoders and convolution to filter and denoise financial data, combined with GANs, achieves a certain level of predictive performance, validating the capabilities of machine learning algorithms to discover underlying patterns in financial sequences.
+
+**Source:** https://www.semanticscholar.org/paper/1b3b87df7fc422b8bba25244fbd0276496cae168
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:42.840Z

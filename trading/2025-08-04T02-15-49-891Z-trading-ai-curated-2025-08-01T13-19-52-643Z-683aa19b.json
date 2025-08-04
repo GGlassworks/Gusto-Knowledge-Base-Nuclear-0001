@@ -1,0 +1,13 @@
+# Truncated Quantile Critics Algorithm for Cryptocurrency Portfolio Optimization
+
+**Authors:** Leibing Xiao, Xinchao Wei, Yuelei Xu, Xin Xu, Kun Gong, Huafeng Li, Fan Zhang
+
+## Abstract
+This paper investigates portfolio management algorithm for the cryptocurrency market by using the TQC (Truncated Quantile Critics) algorithm. The study is based on the daily prices of cryptocurrencies. TQC is a deep reinforcement learning algorithm with the Actor-Critic architecture. It alleviates the overestimation problem of traditional value learning algorithm. In this paper, the data of cryptocurrencies are first processed as input to the networks. The inputs to the networks include not only the closing prices of cryptocurrencies, but also the relative strength index, moving average line, and moving average convergence divergence. Various metrics measuring algorithm returns and algorithm stability are used as evaluation criteria in this paper. In this paper, common deep reinforcement learning algorithms are compared. The experimental results show that the TQC algorithm has a highest return of 33.9 % during the test period, which is 3 %, 3 % and 15.6 % higher than A2C, PPO and DDPG respectively. And, the TQC algorithm has the highest stability of return, which is an important evaluation metric for portfolio management algorithms. Despite the high volatility of the cryptocurrency market, the performance of the TQC algorithm has remained relatively stable. This illustrates the positive effects of the TOC algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/1b6f8a433ff167ad3f6e069743f282533526195e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:52.643Z

@@ -1,0 +1,13 @@
+# Forecasting returns volatility of cryptocurrency by applying various deep learning algorithms
+
+**Authors:** F. U. Khan, Faridoon Khan, P. A. Shaikh
+
+## Abstract
+The study aims at forecasting the return volatility of the cryptocurrencies using several machine learning algorithms, like neural network autoregressive (NNETAR), cubic smoothing spline (CSS), and group method of data handling neural network (GMDH-NN) algorithm. The data used in this study is spanning from April 14, 2017, to October 30, 2020, covering 1296 observations. We predict the volatility of four cryptocurrencies, namely Bitcoin, Ethereum, XRP, and Tether, and compare their predictive power in terms of forecasting accuracy. The predictive capabilities of CSS, NNETAR, and GMDH-NN are compared and evaluated by mean absolute error (MAE) and root-mean-square error (RMSE). Regarding the return volatility of Bitcoin and XRP markets, the forecasted results remarkably suggest that in contrast to rival approaches, the CSS can be an effective model to boost the predicting accuracy in the sense that it has the lowest forecast errors. Considering the Ethereum markets’ volatility, the MAE and RMSE associated with NNETAR are smaller than the MAE and RMSE of CSS and GMDH-NN algorithm, which ensures the effectiveness of NNETAR as compared to competing approaches. Similarly, in case of Tether markets’ volatility, the corresponding MAE and RMSE reveal that the GMDH-NN algorithm is an efficient technique to enhance the forecasting performance. We notice that no single tool performed uniformly for all cryptocurrency markets. The policymakers can adopt the model for forecasting cryptocurrency volatility accordingly.
+
+**Source:** https://www.semanticscholar.org/paper/4447b77b69b09d1aea1f72fa9a91b94349c92659
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:43.155Z

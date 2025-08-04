@@ -1,0 +1,17 @@
+# Cryptocurrency Price Prediction using Deep Learning Algorithms: A Comparative Study
+
+**Authors:** Pappula Ashok
+
+## Abstract
+Introduction: Due to financial technology advances, cryptocurrency is a new asset with great potential for academics. Price volatility and dynamism make Cryptocurrencies prediction difficult. 
+Objectives: This paper presents three Recurrent Neural Network (RNN) methods for predict Bitcoin (BTC), Ethereum (ETH), and Binance Coin (BNB) prices to predict the price of Cryptocurrency. 
+Methods: This study uses three RNN algorithms LSTM, Bi-LSTM, and GRU to predict the prices of Bitcoin (BTC), Binance Coin (BNB), and Ethereum. (ETH) 
+ Results: BTC, ETH, and BNB prices are predicted using three machine learning algorithms. The model's accuracy was assessed using performance metrics. We followed by comparing actual and predicted prices of models. The GRU algorithm surpassed its competitors, attaining MAPE values of 2.562795642 for BNB, 2.921155091 for ETH, and 3.363400599 for BTC. 
+Conclusion: The value of cryptocurrency swings regularly. Since the cryptocurrency market is nonlinear, time series data is challenging to evaluate when making price predictions. Machine learning algorithms are used in many financial and economic activities. Investors, researchers, and professionals need cryptocurrency value forecasts. In this study, GRU outperformed than LSTM and Bi-LSTM algorithms in predicting prices of BTC, ETH and BNB.
+
+**Source:** https://www.semanticscholar.org/paper/a3433f4778191f15c70653d50be5cb7d95f689b3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:42.744Z

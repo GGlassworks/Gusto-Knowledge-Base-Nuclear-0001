@@ -1,0 +1,13 @@
+# Extending Deep Reinforcement Learning Frameworks in Cryptocurrency Market Making
+
+**Authors:** J. Sadighian
+
+## Abstract
+There has been a recent surge in interest in the application of artificial intelligence to automated trading. Reinforcement learning has been applied to single- and multi-instrument use cases, such as market making or portfolio management. This paper proposes a new approach to framing cryptocurrency market making as a reinforcement learning challenge by introducing an event-based environment wherein an event is defined as a change in price greater or less than a given threshold, as opposed to by tick or time-based events (e.g., every minute, hour, day, etc.). Two policy-based agents are trained to learn a market making trading strategy using eight days of training data and evaluate their performance using 30 days of testing data. Limit order book data recorded from Bitmex exchange is used to validate this approach, which demonstrates improved profit and stability compared to a time-based approach for both agents when using a simple multi-layer perceptron neural network for function approximation and seven different reward functions.
+
+**Source:** https://www.semanticscholar.org/paper/f701416f6325e0a3d539d4583b12052e6872f618
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:22:25.386Z

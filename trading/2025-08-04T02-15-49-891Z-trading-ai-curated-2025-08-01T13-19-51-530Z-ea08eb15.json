@@ -1,0 +1,13 @@
+# Cryptocurrency portfolio optimization: Utilizing a GARCH‐copula model within the Markowitz framework
+
+**Authors:** Vahidin Jeleskovic, Claudio Latini, Z. Younas, Mamdouh Abdulaziz Saleh Al-Faryan
+
+## Abstract
+The growing interest in cryptocurrencies has brought this new means of exchange to the attention of the financial world. This study aims to investigate the effects that a cryptocurrency can have when it is considered as a financial asset. The analysis is carried out from an ex‐post perspective, evaluating the performance achieved in a certain period by three different portfolios. These are the one composed only of equities, bonds and commodities, the second one only of cryptocurrencies, and the third one is a combination of these both ones and thus made up of all considered “traditional” assets and the most performing cryptocurrency of the second portfolio. For these purposes, the classic variance‐covariance approach is applied where the calculation of the risk structure is done via the GARCH‐Copula and GARCH‐Vine Copula approaches. The optimal weights of the assets in the optimized portfolios are determined through Markowitz optimization problem. The analysis mainly showed that the portfolio composed of cryptocurrency and traditional assets has a higher Sharpe index, from an ex‐post perspective, and more stable performances, from an ex‐ante perspective. We justify our selection of the Markowitz approach over conditional VaR and expected shortfall due to their heightened sensitivity to unsystematic extreme events in crypto markets.
+
+**Source:** https://www.semanticscholar.org/paper/1eb0bf749896d2bfdcaacd6b973a391c3a060496
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:51.531Z

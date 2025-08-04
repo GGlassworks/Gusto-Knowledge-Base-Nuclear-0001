@@ -1,0 +1,13 @@
+# On the Relationship of Cryptocurrency Price with US Stock and Gold Price Using Copula Models
+
+**Authors:** Jong-Min Kim, Seong-Tae Kim, Sangjin Kim
+
+## Abstract
+This paper examines the relationship of the leading financial assets, Bitcoin, Gold, and S&P 500 with GARCH-Dynamic Conditional Correlation (DCC), Nonlinear Asymmetric GARCH DCC (NA-DCC), Gaussian copula-based GARCH-DCC (GC-DCC), and Gaussian copula-based Nonlinear Asymmetric-DCC (GCNA-DCC). Under the high volatility financial situation such as the COVID-19 pandemic occurrence, there exist a computation difficulty to use the traditional DCC method to the selected cryptocurrencies. To solve this limitation, GC-DCC and GCNA-DCC are applied to investigate the time-varying relationship among Bitcoin, Gold, and S&P 500. In terms of log-likelihood, we show that GC-DCC and GCNA-DCC are better models than DCC and NA-DCC to show relationship of Bitcoin with Gold and S&P 500. We also consider the relationships among time-varying conditional correlation with Bitcoin volatility, and S&P 500 volatility by a Gaussian Copula Marginal Regression (GCMR) model. The empirical findings show that S&P 500 and Gold price are statistically significant to Bitcoin in terms of log-return and volatility.
+
+**Source:** https://www.semanticscholar.org/paper/4712e4ac483fe7b84284529b9cd3fe2d00305610
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:21:35.474Z

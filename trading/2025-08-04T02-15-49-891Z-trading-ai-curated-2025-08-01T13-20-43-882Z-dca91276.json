@@ -1,0 +1,13 @@
+# Comparative Performance of Machine Learning Ensemble Algorithms for Forecasting Cryptocurrency Prices
+
+**Authors:** V. Derbentsev, V. Babenko, K. Khrustalev, H. Obruch, S. Khrustalova
+
+## Abstract
+This paper discusses the problems of short-term forecasting of cryptocurrency time series using a supervised machine learning (ML) approach. For this goal, we applied two of the most powerful ensemble methods including Random Forests (RF) and Stochastic Gradient Boosting Machine (SGBM). As the dataset was collected from daily close prices of three of the most capitalized coins: Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP), and as features we used  past price information and technical indicators (moving average). To check the effectiveness of these models we made an out-of-sample forecast for selected time series by using the one step ahead technique. The accuracy rate of the forecasted prices by using RF and GBM were calculated. The results verify the applicability of the ML ensembles approach for the forecasting of cryptocurrency prices. The out of sample accuracy of short-term prediction daily close prices obtained by the SGBM and RF in terms of Mean Absolut Percentage Error (MAPE) for the three most capitalized cryptocurrencies (BTC, ETH, and XRP) were within 0.92-2.61 %.
+
+**Source:** https://www.semanticscholar.org/paper/386b1f5f8901b7b7b1b99f60e68bd0f76f97038d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:43.882Z

@@ -1,0 +1,13 @@
+# Split-Second Cryptocurrency Forecast Using Prognostic Deep Learning Algorithms: Data Curation by Deephaven
+
+**Authors:** Sibtain Syed, Arshad Iqbal, Waqar Mehmood, Zain Syed, Maqbool Khan, Giovanni Pau
+
+## Abstract
+Cryptocurrency is a popular digital currency due to its security and peer-to-peer transferability. Predicting cryptocurrency prices is crucial for investors and traders to make informed decisions on buying, selling, or holding cryptocurrencies based on their expected value, potential risks, and returns. This study aims to identify the optimal model for predicting the prices of cryptocurrencies, such as Bitcoin (BTC) and Ethereum (ETH), using Deephaven for Data curation. The study involves extracting data from both cryptocurrencies by Deephaven and selecting the most correlating parameters through time lag adjustment. We use correlating cryptocurrency data to train models, such as Artificial Neural Networks (ANN), Long-Short Term Memories (LSTM), and Gated Recurrent Units (GRU). Where the trial-and-error technique was applied for selecting optimized hyper-parameters for each model. The models are then evaluated by statistical evaluators, such as Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and Mean Absolute Percentage Error (MAPE), separately for training and testing datasets. For Bitcoin, the results showed that the LSTM model outperform ANN and GRU models in both training and testing data with MAE, RMSE, and MAPE average values of 0.079, 1.16, and 0.0006, respectively. While for Ethereum, the results also revealed that LSTM model performance is superior with MAE, RMSE, and MAPE average values of 0.0025, 0.124 and 0.0002, respectively. While GRU (MAE 0.012, RMSE 0.117, MAPE 0.002) performs robustly against ANN (MAE 0.035, RMSE 0.149, MAPE 0.003) model.
+
+**Source:** https://www.semanticscholar.org/paper/b8add93106ff08f0c0d41a8f3ac4e2915d86c660
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:43.250Z

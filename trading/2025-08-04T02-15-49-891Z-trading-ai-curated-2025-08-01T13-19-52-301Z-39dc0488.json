@@ -1,0 +1,13 @@
+# Bayesian Optimization with Stacked Sparse Autoencoder based Cryptocurrency Price Prediction Model
+
+**Authors:** D. Abdul, Karim Shaikh, Dr. S. Baranidharan, Dr. P. Vamsi Krishna, Dr. A. Sasi Kumar, Dr. Kamlesh Singh
+
+## Abstract
+Digital currency is a way of currency utilized in the digital world namely electronic devices or digital forms. Many terms are alternative words for digital currency such as cyber cash, digital money, and electronic money. Cryptocurrency is a type of asset that has developed due to the progression of financial technology and it has made a tremendous chance for research workers. Cryptocurrency price prediction is challenging because of the dynamism and price volatility. The electronic economy is severely hazardous and should be advanced with greater caution, to minimize or avoid the risk that occurs in this case. Therefore, this study develops a new Bayesian optimization with Stacked Sparse Autoencoder based Cryptocurrency Price Prediction (BOSSAE-CPP) model. The major intention of the BOSSALCPP technique lies in the effectual prediction of cryptocurrency prices. To attain this, the BOSSAE-CPP technique exploits SSAE model for price prediction process. Moreover, the BO technique is used to optimally choose the hyperparameter values of the SSAE model and results in enhanced predictive outcomes. To deliberate the enhanced outcomes of the BOSSALCPP technique, extensive experimentation study is made. The comparison study highlighted the improved performance of the BOSSAE-CPP technique.
+
+**Source:** https://www.semanticscholar.org/paper/f773d1f999bab179beb3249682ccbdf6708eca4d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:19:52.301Z

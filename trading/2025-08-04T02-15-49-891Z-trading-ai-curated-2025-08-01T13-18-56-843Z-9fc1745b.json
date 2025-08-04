@@ -1,0 +1,13 @@
+# Blockchain applications beyond the cryptocurrency casino: The Punishment not Reward blockchain architecture
+
+**Authors:** R. Banach
+
+## Abstract
+The Bitcoin model originated blockchain architectures and inspired their further development. Blockchain architectures are still most commonly associated with currency applications, and with financial speculation. Bitcoin's rewards for Proof of Work mining became the default consensus technique for blockchains. As an alternative to reward mechanisms for blockchain maintenance, we propose punishment mechanisms for neglecting to maintain the blockchain (provided participants are intrinsically motivated to be beneficiaries of the blockchain application). Punishment not Reward is convincing for enterprise mission critical blockchain applications, and potential punishment mechanisms include denial of service and/or revocation of confidentiality. This obviates the need for reward via cryptocurrencies, along with their attendant volatility, insecure ecosystem, and market manipulation demerits. The privacy concerns of competing entities participating in a blockchain application are prima facie in conflict with the needs of the community to be able to inflict punishment mechanisms. Conflicts of this kind can be addressed via sophisticated cryptographic techniques such as secret sharing, multiparty computation, zero‐knowledge proofs, and so on, which play a vital role. We stress the importance of correctly balancing all application specific interests in the engineering of blockchain applications, so that the mix of incentives and disincentives is stabilizing.
+
+**Source:** https://www.semanticscholar.org/paper/b6f2b488d0c57ffcf166b58076b1f1b11ac3ab7a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:18:56.844Z

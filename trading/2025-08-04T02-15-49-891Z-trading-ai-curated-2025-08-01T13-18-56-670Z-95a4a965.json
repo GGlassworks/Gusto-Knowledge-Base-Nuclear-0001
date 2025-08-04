@@ -1,0 +1,13 @@
+# Practical Secure Two-Party EdDSA Signature Generation with Key Protection and Applications in Cryptocurrency
+
+**Authors:** Qi Feng, De-biao He, Min Luo, Zengxiang Li, K. Choo
+
+## Abstract
+In cryptocurrency and blockchain-based distributed ledgers, transfer of money (digital coins) can be presented as a transaction. Due to the irreversibility nature of blockchain transactions, a single fraudulent use of private key (used to sign transactions) could have significant consequences (e.g. financial loss). Key protection alone is not adequate in protecting cryp-tocurrencies, and threshold signature is a viable method to avoid fraudulent key usage or key theft. In this paper, we focus on the Edwards-curve digital security algorithm (EdDSA), which has been applied in several cryptocurrencies (e.g. Cardano, Zcash, and Decred) and design the first efficient two-party EdDSA signing protocol. Unlike standard secret sharing, a valid signature is generated using an interactive protocol without the original key ever being exposed. We mathematically prove the security of our proposed protocol. Findings from the performance evalation of the protocol show that it achieves good performance for curve Ed25519, with a single signing operation in the malicious setting taking approximately 3.32 ms between two devices.
+
+**Source:** https://www.semanticscholar.org/paper/eb90d0e62e837c910eb19571715a6acb041db8ad
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:18:56.671Z

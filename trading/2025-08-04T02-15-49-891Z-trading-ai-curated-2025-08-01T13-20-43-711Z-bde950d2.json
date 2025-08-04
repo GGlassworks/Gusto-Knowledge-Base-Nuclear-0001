@@ -1,0 +1,13 @@
+# Evaluation of Cryptocurrency coins with Machine Learning algorithms and Blockchain Technology
+
+**Authors:** L. J. Parab, Prashant Nitnaware
+
+## Abstract
+Cryptocurrency is a new buzz in the financial sector. This study helps user to evaluate the price of cryptocurrency and user can decide and invest on the current crypto coin based on predicted price graphs. We are proposing a system to evaluate daily price of five coins i.e. Bitcoin, XRP, Ethereum, Dogecoin and SHIBA INU with the help of two Machine Learning algorithm models ARIMA (auto-regressive integrated moving average model) and LSTM (long-short-term memory networks) where the database is protected by Blockchain technology. User will be able to trade in the current financial cryptocurrency market by selecting the coin and prediction date, system will display data using Smart Contract coding and the visualized graph with Time Series Forecasting. The system will improve the crypto coin evaluation as it will get trained and dataset will get updated using Machine learning algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/8f724cfaf91adb5a14512a0dea56dce364b5bb07
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:20:43.712Z
