@@ -1,0 +1,13 @@
+# Mantel test in population genetics
+
+**Authors:** J. Diniz-Filho, T. Soares, J. Lima, Ricardo Dobrovolski, V. Landeiro, M. P. de Campos Telles, T. Rangel, L. M. Bini
+
+## Abstract
+The comparison of genetic divergence or genetic distances, estimated by pairwise FST and related statistics, with geographical distances by Mantel test is one of the most popular approaches to evaluate spatial processes driving population structure. There have been, however, recent criticisms and discussions on the statistical performance of the Mantel test. Simultaneously, alternative frameworks for data analyses are being proposed. Here, we review the Mantel test and its variations, including Mantel correlograms and partial correlations and regressions. For illustrative purposes, we studied spatial genetic divergence among 25 populations of Dipteryx alata (“Baru”), a tree species endemic to the Cerrado, the Brazilian savannas, based on 8 microsatellite loci. We also applied alternative methods to analyze spatial patterns in this dataset, especially a multivariate generalization of Spatial Eigenfunction Analysis based on redundancy analysis. The different approaches resulted in similar estimates of the magnitude of spatial structure in the genetic data. Furthermore, the results were expected based on previous knowledge of the ecological and evolutionary processes underlying genetic variation in this species. Our review shows that a careful application and interpretation of Mantel tests, especially Mantel correlograms, can overcome some potential statistical problems and provide a simple and useful tool for multivariate analysis of spatial patterns of genetic divergence.
+
+**Source:** https://www.semanticscholar.org/paper/6ad629daf265eb9452377ea30c414c005d880e68
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:50:16.323Z

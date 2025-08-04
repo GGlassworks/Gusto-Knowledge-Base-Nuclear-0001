@@ -1,0 +1,13 @@
+# Genebe.net: Implementation and validation of an automatic ACMG variant pathogenicity criteria assignment
+
+**Authors:** P. Stawiński, Rafał Płoski
+
+## Abstract
+We present GeneBe, an online platform streamlining the automated application of American College of Medical Genetics and Genomics (ACMG), Association for Molecular Pathology (AMP), and the College of American Pathologists (CAP) criteria for assessment of pathogenicity of genetic variants. GeneBe utilizes automated algorithms that evaluate 17 criteria from 28, closely aligning with current guidelines and leveraging data from diverse sources, including ClinVar. The user‐friendly web interface enables manual refinement of assignments for specific criteria based on site‐collected data. Our algorithm demonstrates a high correlation (r = 0.90) of assigned pathogenicity scores compared to expert assessments from the ClinGen Evidence Repository and substantial concordance with ClinVar verdict assignments (κ = 0.69). Comparative analysis with other published tools reveals that GeneBe performs similarly to VarSome while being superior over TAPES and InterVar. In contrast to some other tools, GeneBe's web implementation is tracker‐free and third‐party request‐free, safeguarding user privacy. Additionally, GeneBe offers an Application Programming Interface (API) for enhanced flexibility and integration into existing workflows and is provided free of charge for research purposes. GeneBe is available at https://genebe.net.
+
+**Source:** https://www.semanticscholar.org/paper/03d54e2fd622c5b5ba29e4173d84939d15e199b8
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:57:42.997Z

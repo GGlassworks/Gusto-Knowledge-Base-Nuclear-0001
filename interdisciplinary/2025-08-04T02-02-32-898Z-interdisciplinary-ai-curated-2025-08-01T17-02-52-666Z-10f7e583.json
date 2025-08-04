@@ -1,0 +1,13 @@
+# A technical review of canonical correlation analysis for neuroscience applications
+
+**Authors:** X. Zhuang, Zhengshi Yang, D. Cordes
+
+## Abstract
+Abstract Collecting comprehensive data sets of the same subject has become a standard in neuroscience research and uncovering multivariate relationships among collected data sets have gained significant attentions in recent years. Canonical correlation analysis (CCA) is one of the powerful multivariate tools to jointly investigate relationships among multiple data sets, which can uncover disease or environmental effects in various modalities simultaneously and characterize changes during development, aging, and disease progressions comprehensively. In the past 10 years, despite an increasing number of studies have utilized CCA in multivariate analysis, simple conventional CCA dominates these applications. Multiple CCA‐variant techniques have been proposed to improve the model performance; however, the complicated multivariate formulations and not well‐known capabilities have delayed their wide applications. Therefore, in this study, a comprehensive review of CCA and its variant techniques is provided. Detailed technical formulation with analytical and numerical solutions, current applications in neuroscience research, and advantages and limitations of each CCA‐related technique are discussed. Finally, a general guideline in how to select the most appropriate CCA‐related technique based on the properties of available data sets and particularly targeted neuroscience questions is provided.
+
+**Source:** https://www.semanticscholar.org/paper/8dfc78cb0b06ccd45852b5e9ff19dec924a722ab
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:02:52.667Z

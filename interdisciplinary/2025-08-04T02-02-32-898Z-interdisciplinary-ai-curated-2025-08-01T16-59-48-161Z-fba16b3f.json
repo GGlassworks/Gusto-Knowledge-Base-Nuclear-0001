@@ -1,0 +1,13 @@
+# Bayesian Network Reconstruction Using Systems Genetics Data: Comparison of MCMC Methods
+
+**Authors:** S. Tasaki, Benjamin A. Sauerwine, B. Hoff, Hiroyoshi Toyoshiba, Chris Gaiteri, E. Chaibub Neto
+
+## Abstract
+Reconstructing biological networks using high-throughput technologies has the potential to produce condition-specific interactomes. But are these reconstructed networks a reliable source of biological interactions? Do some network inference methods offer dramatically improved performance on certain types of networks? To facilitate the use of network inference methods in systems biology, we report a large-scale simulation study comparing the ability of Markov chain Monte Carlo (MCMC) samplers to reverse engineer Bayesian networks. The MCMC samplers we investigated included foundational and state-of-the-art Metropolis–Hastings and Gibbs sampling approaches, as well as novel samplers we have designed. To enable a comprehensive comparison, we simulated gene expression and genetics data from known network structures under a range of biologically plausible scenarios. We examine the overall quality of network inference via different methods, as well as how their performance is affected by network characteristics. Our simulations reveal that network size, edge density, and strength of gene-to-gene signaling are major parameters that differentiate the performance of various samplers. Specifically, more recent samplers including our novel methods outperform traditional samplers for highly interconnected large networks with strong gene-to-gene signaling. Our newly developed samplers show comparable or superior performance to the top existing methods. Moreover, this performance gain is strongest in networks with biologically oriented topology, which indicates that our novel samplers are suitable for inferring biological networks. The performance of MCMC samplers in this simulation framework can guide the choice of methods for network reconstruction using systems genetics data.
+
+**Source:** https://www.semanticscholar.org/paper/2916c78876cebccab42d8e29ab7d73b2d7517276
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:59:48.161Z

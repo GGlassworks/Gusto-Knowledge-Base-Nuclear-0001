@@ -1,0 +1,13 @@
+# A Large-Scale Open Motion Dataset (KFall) and Benchmark Algorithms for Detecting Pre-impact Fall of the Elderly Using Wearable Inertial Sensors
+
+**Authors:** Xiaoqun Yu, Jaehyuk Jang, Shuping Xiong
+
+## Abstract
+Research on pre-impact fall detection with wearable inertial sensors (detecting fall accidents prior to body-ground impacts) has grown rapidly in the past decade due to its great potential for developing an on-demand fall-related injury prevention system. However, most researchers use their own datasets to develop fall detection algorithms and rarely make these datasets publicly available, which poses a challenge to fairly evaluate the performance of different algorithms on a common basis. Even though some open datasets have been established recently, most of them are impractical for pre-impact fall detection due to the lack of temporal labels for fall time and limited types of motions. In order to overcome these limitations, in this study, we proposed and publicly provided a large-scale motion dataset called “KFall,” which was developed from 32 Korean participants while wearing an inertial sensor on the low back and performing 21 types of activities of daily living and 15 types of simulated falls. In addition, ready-to-use temporal labels of the fall time based on synchronized motion videos were published along with the dataset. Those enhancements make KFall the first public dataset suitable for pre-impact fall detection, not just for post-fall detection. Importantly, we have also developed three different types of latest algorithms (threshold based, support-vector machine, and deep learning), using the KFall dataset for pre-impact fall detection so that researchers and practitioners can flexibly choose the corresponding algorithm. Deep learning algorithm achieved both high overall accuracy and balanced sensitivity (99.32%) and specificity (99.01%) for pre-impact fall detection. Support vector machine also demonstrated a good performance with a sensitivity of 99.77% and specificity of 94.87%. However, the threshold-based algorithm showed relatively poor results, especially the specificity (83.43%) was much lower than the sensitivity (95.50%). The performance of these algorithms could be regarded as a benchmark for further development of better algorithms with this new dataset. This large-scale motion dataset and benchmark algorithms could provide researchers and practitioners with valuable data and references to develop new technologies and strategies for pre-impact fall detection and proactive injury prevention for the elderly.
+
+**Source:** https://www.semanticscholar.org/paper/fc6794bbf1013ea23d3ca373ff070e85cfe8c376
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:05:05.415Z

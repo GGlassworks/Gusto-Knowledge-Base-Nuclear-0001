@@ -1,0 +1,13 @@
+# A Tutorial for Information Theory in Neuroscience
+
+**Authors:** N. Timme, C. Lapish
+
+## Abstract
+Abstract Understanding how neural systems integrate, encode, and compute information is central to understanding brain function. Frequently, data from neuroscience experiments are multivariate, the interactions between the variables are nonlinear, and the landscape of hypothesized or possible interactions between variables is extremely broad. Information theory is well suited to address these types of data, as it possesses multivariate analysis tools, it can be applied to many different types of data, it can capture nonlinear interactions, and it does not require assumptions about the structure of the underlying data (i.e., it is model independent). In this article, we walk through the mathematics of information theory along with common logistical problems associated with data type, data binning, data quantity requirements, bias, and significance testing. Next, we analyze models inspired by canonical neuroscience experiments to improve understanding and demonstrate the strengths of information theory analyses. To facilitate the use of information theory analyses, and an understanding of how these analyses are implemented, we also provide a free MATLAB software package that can be applied to a wide range of data from neuroscience experiments, as well as from other fields of study.
+
+**Source:** https://www.semanticscholar.org/paper/8a1739284932f53be60a5cfc08e6824c5412718f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:01:56.431Z
