@@ -1,0 +1,12 @@
+# Towards Automated Attack Simulations of BPMN-based Processes
+
+**Authors:** Simon Hacks, Robert Lagerström, Daniel Ritter
+
+## Summary
+Process digitization and integration is an increasing need for enterprises, while cyber-attacks denote a growing threat. Using the Business Process Management Notation (BPMN) is common to handle the digital and integration focus within and across organizations. In other parts of the same companies, threat modeling and attack graphs are used for analyzing the security posture and resilience. In this paper, we propose a novel approach to use attack graph simulations on processes represented in BPMN. Our contributions are the identification of BPMN's attack surface, a mapping of BPMN elements to concepts in a Meta Attack Language (MAL)-based Domain-Specific Language (DSL), called coreLang, and a prototype to demonstrate our approach in a case study using a real-world invoice integration process. The study shows that non-invasively enriching BPMN instances with cybersecurity analysis through attack graphs is possible without much human expert input. The resulting insights into potential vulnerabilities could be beneficial for the process modelers.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:24:26.343Z

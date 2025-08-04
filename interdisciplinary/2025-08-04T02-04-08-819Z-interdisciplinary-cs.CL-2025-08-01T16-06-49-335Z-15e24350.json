@@ -1,0 +1,12 @@
+# Similar Phrases for Cause of Actions of Civil Cases
+
+**Authors:** Ho-Chien Huang, Chao-Lin Liu
+
+## Summary
+In the Taiwanese judicial system, Cause of Actions (COAs) are essential for identifying relevant legal judgments. However, the lack of standardized COA labeling creates challenges in filtering cases using basic methods. This research addresses this issue by leveraging embedding and clustering techniques to analyze the similarity between COAs based on cited legal articles. The study implements various similarity measures, including Dice coefficient and Pearson's correlation coefficient. An ensemble model combines rankings, and social network analysis identifies clusters of related COAs. This approach enhances legal analysis by revealing inconspicuous connections between COAs, offering potential applications in legal research beyond civil law.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T16:06:49.336Z

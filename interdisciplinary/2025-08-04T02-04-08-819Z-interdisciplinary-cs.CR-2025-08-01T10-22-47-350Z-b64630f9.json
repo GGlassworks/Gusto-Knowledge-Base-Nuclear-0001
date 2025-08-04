@@ -1,0 +1,12 @@
+# Digital Forensics vs. Anti-Digital Forensics: Techniques, Limitations and Recommendations
+
+**Authors:** Jean-Paul A. Yaacoub, Hassan N. Noura, Ola Salman, Ali Chehab
+
+## Summary
+The number of cyber attacks has increased tremendously in the last few years. This resulted into both human and financial losses at the individual and organization levels. Recently, cyber-criminals are leveraging new skills and capabilities by employing anti-forensics activities, techniques and tools to cover their tracks and evade any possible detection. Consequently, cyber-attacks are becoming more efficient and more sophisticated. Therefore, traditional cryptographic and non-cryptographic solutions and access control systems are no longer enough to prevent such cyber attacks, especially in terms of acquiring evidence for attack investigation. Hence, the need for well-defined, sophisticated, and advanced forensics investigation tools are highly required to track down cyber criminals and to reduce the number of cyber crimes. This paper reviews the different forensics and anti-forensics methods, tools, techniques, types, and challenges, while also discussing the rise of the anti-anti-forensics as a new forensics protection mechanism against anti-forensics activities. This would help forensics investigators to better understand the different anti-forensics tools, methods and techniques that cyber criminals employ while launching their attacks. Moreover, the limitations of the current forensics techniques are discussed, especially in terms of issues and challenges. Finally, this paper presents a holistic view from a literature point of view over the forensics domain and also helps other fellow colleagues in their quest to further understand the digital forensics domain.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:47.350Z

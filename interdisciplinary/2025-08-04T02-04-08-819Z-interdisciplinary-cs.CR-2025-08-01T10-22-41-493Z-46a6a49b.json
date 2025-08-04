@@ -1,0 +1,12 @@
+# Multi-Modal Attack Detection for Cyber-Physical Additive Manufacturing
+
+**Authors:** Shih-Yuan Yu, Arnav Vaibhav Malawade, Mohammad Abdullah Al Faruque
+
+## Summary
+Cyber-Physical Additive Manufacturing (AM) constructs a physical 3D object layer-by-layer according to its digital representation and has been vastly applied to fast prototyping and the manufacturing of functional end-products across fields. The computerization of traditional production processes propels these technological advancements; however, this also introduces new vulnerabilities, necessitating the study of cyberattacks on these systems. The AM Sabotage Attack is one kind of kinetic cyberattack that originates from the cyber domain and can eventually lead to physical damage, injury, or even death. By introducing inconspicuous yet damaging alterations in any specific process of the AM digital process chain, the attackers can compromise the structural integrity of a manufactured component in a manner that is invisible to a human observer. If the manufactured objects are critical for their system, those attacks can even compromise the whole system's structural integrity and pose a severe safety risk to its users. For example, an inconspicuous void (less than 1 mm in dimension) placed in the 3D design of a tensile test specimen can reduce its yield load by 14%. However, security studies primarily focus on securing digital assets, overlooking the fact that AM systems are CPSs.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:41.493Z

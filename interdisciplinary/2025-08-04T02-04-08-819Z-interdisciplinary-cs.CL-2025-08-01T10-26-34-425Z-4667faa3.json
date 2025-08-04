@@ -1,0 +1,12 @@
+# BERTuit: Understanding Spanish language in Twitter through a native transformer
+
+**Authors:** Javier Huertas-Tato, Alejandro Martin, David Camacho
+
+## Summary
+The appearance of complex attention-based language models such as BERT, Roberta or GPT-3 has allowed to address highly complex tasks in a plethora of scenarios. However, when applied to specific domains, these models encounter considerable difficulties. This is the case of Social Networks such as Twitter, an ever-changing stream of information written with informal and complex language, where each message requires careful evaluation to be understood even by humans given the important role that context plays. Addressing tasks in this domain through Natural Language Processing involves severe challenges. When powerful state-of-the-art multilingual language models are applied to this scenario, language specific nuances use to get lost in translation. To face these challenges we present \textbf{BERTuit}, the larger transformer proposed so far for Spanish language, pre-trained on a massive dataset of 230M Spanish tweets using RoBERTa optimization. Our motivation is to provide a powerful resource to better understand Spanish Twitter and to be used on applications focused on this social network, with special emphasis on solutions devoted to tackle the spreading of misinformation in this platform. BERTuit is evaluated on several tasks and compared against M-BERT, XLM-RoBERTa and XLM-T, very competitive multilingual transformers. The utility of our approach is shown with applications, in this case: a zero-shot methodology to visualize groups of hoaxes and profiling authors spreading disinformation. Misinformation spreads wildly on platforms such as Twitter in languages other than English, meaning performance of transformers may suffer when transferred outside English speaking communities.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:26:34.426Z

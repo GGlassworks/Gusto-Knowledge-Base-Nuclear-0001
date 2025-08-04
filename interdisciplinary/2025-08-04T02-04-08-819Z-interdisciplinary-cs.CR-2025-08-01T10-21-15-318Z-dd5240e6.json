@@ -1,0 +1,12 @@
+# ESASCF: Expertise Extraction, Generalization and Reply Framework for an Optimized Automation of Network Security Compliance
+
+**Authors:** Mohamed C. Ghanem, Thomas M. Chen, Mohamed A. Ferrag, Mohyi E. Kettouche
+
+## Summary
+The Cyber threats exposure has created worldwide pressure on organizations to comply with cyber security standards and policies for protecting their digital assets. Vulnerability assessment (VA) and Penetration Testing (PT) are widely adopted Security Compliance (SC) methods to identify security gaps and anticipate security breaches. In the computer networks context and despite the use of autonomous tools and systems, security compliance remains highly repetitive and resources consuming. In this paper, we proposed a novel method to tackle the ever-growing problem of efficiency and effectiveness in network infrastructures security auditing by formally introducing, designing, and developing an Expert-System Automated Security Compliance Framework (ESASCF) that enables industrial and open-source VA and PT tools and systems to extract, process, store and re-use the expertise in a human-expert way to allow direct application in similar scenarios or during the periodic re-testing. The implemented model was then integrated within the ESASCF and tested on different size networks and proved efficient in terms of time-efficiency and testing effectiveness allowing ESASCF to take over autonomously the SC in Re-testing and offloading Expert by automating repeated segments SC and thus enabling Experts to prioritize important tasks in Ad-Hoc compliance tests. The obtained results validate the performance enhancement notably by cutting the time required for an expert to 50% in the context of typical corporate networks first SC and 20% in re-testing, representing a significant cost-cutting. In addition, the framework allows a long-term impact illustrated in the knowledge extraction, generalization, and re-utilization, which enables better SC confidence independent of the human expert skills, coverage, and wrong decisions resulting in impactful false negatives.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:15.318Z

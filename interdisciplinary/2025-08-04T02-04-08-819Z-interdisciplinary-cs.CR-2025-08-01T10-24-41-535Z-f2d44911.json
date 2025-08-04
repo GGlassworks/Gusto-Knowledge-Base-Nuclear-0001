@@ -1,0 +1,12 @@
+# Internet of things forensics: Challenges and Case Study
+
+**Authors:** Saad Alabdulsalam, Kevin Schaefer, Tahar Kechadi, Nhien-An Le-Khac
+
+## Summary
+Today is the era of Internet of Things (IoT), millions of machines such as cars, smoke detectors, watches, glasses, webcams, etc. are being connected to the Internet. The number of machines that possess the ability of remote access to monitor and collect data is continuously increasing. This development makes, on one hand, the human life more comfort- able, convenient, but it also raises on other hand issues on security and privacy. However, this development also raises challenges for the digital investigator when IoT devices involve in criminal scenes. Indeed, current research in the literature focuses on security and privacy for IoT environments rather than methods or techniques of forensic acquisition and analysis for IoT devices. Therefore, in this paper, we discuss firstly different aspects related to IoT forensics and then focus on the cur- rent challenges. We also describe forensic approaches for a IoT device smartwatch as a case study. We analyze forensic artifacts retrieved from smartwatch devices and discuss on evidence found aligned with challenges in IoT forensics
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:24:41.535Z

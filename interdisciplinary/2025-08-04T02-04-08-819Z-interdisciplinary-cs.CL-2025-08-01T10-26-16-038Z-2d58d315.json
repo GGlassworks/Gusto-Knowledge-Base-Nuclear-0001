@@ -1,0 +1,12 @@
+# Bio-inspired Structure Identification in Language Embeddings
+
+**Authors:** Hongwei, Zhou, Oskar Elek, Pranav Anand, Angus G. Forbes
+
+## Summary
+Word embeddings are a popular way to improve downstream performances in contemporary language modeling. However, the underlying geometric structure of the embedding space is not well understood. We present a series of explorations using bio-inspired methodology to traverse and visualize word embeddings, demonstrating evidence of discernible structure. Moreover, our model also produces word similarity rankings that are plausible yet very different from common similarity metrics, mainly cosine similarity and Euclidean distance. We show that our bio-inspired model can be used to investigate how different word embedding techniques result in different semantic outputs, which can emphasize or obscure particular interpretations in textual data.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:26:16.038Z

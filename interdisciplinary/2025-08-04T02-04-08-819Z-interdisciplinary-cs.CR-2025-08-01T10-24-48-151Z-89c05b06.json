@@ -1,0 +1,12 @@
+# Research trends, challenges, and emerging topics of digital forensics: A review of reviews
+
+**Authors:** Fran Casino, Tom Dasaklis, Georgios Spathoulas, Marios Anagnostopoulos, Amrita Ghosal, Istvan Borocz, Agusti Solanas, Mauro Conti, Constantinos Patsakis
+
+## Summary
+Due to its critical role in cybersecurity, digital forensics has received significant attention from researchers and practitioners alike. The ever increasing sophistication of modern cyberattacks is directly related to the complexity of evidence acquisition, which often requires the use of several technologies. To date, researchers have presented many surveys and reviews on the field. However, such articles focused on the advances of each particular domain of digital forensics individually. Therefore, while each of these surveys facilitates researchers and practitioners to keep up with the latest advances in a particular domain of digital forensics, the global perspective is missing. Aiming to fill this gap, we performed a qualitative review of reviews in the field of digital forensics, determined the main topics on digital forensics topics and identified their main challenges. Our analysis provides enough evidence to prove that the digital forensics community could benefit from closer collaborations and cross-topic research, since it is apparent that researchers and practitioners are trying to find solutions to the same problems in parallel, sometimes without noticing it.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:24:48.151Z

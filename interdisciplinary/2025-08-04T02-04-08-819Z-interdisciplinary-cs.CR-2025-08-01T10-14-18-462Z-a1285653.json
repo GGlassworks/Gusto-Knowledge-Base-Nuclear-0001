@@ -1,0 +1,12 @@
+# ChatGPT and Other Large Language Models for Cybersecurity of Smart Grid Applications
+
+**Authors:** Aydin Zaboli, Seong Lok Choi, Tai-Jin Song, Junho Hong
+
+## Summary
+Cybersecurity breaches targeting electrical substations constitute a significant threat to the integrity of the power grid, necessitating comprehensive defense and mitigation strategies. Any anomaly in information and communication technology (ICT) should be detected for secure communications between devices in digital substations. This paper proposes large language models (LLM), e.g., ChatGPT, for the cybersecurity of IEC 61850-based digital substation communications. Multicast messages such as generic object oriented system event (GOOSE) and sampled value (SV) are used for case studies. The proposed LLM-based cybersecurity framework includes, for the first time, data pre-processing of communication systems and human-in-the-loop (HITL) training (considering the cybersecurity guidelines recommended by humans). The results show a comparative analysis of detected anomaly data carried out based on the performance evaluation metrics for different LLMs. A hardware-in-the-loop (HIL) testbed is used to generate and extract dataset of IEC 61850 communications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:14:18.463Z

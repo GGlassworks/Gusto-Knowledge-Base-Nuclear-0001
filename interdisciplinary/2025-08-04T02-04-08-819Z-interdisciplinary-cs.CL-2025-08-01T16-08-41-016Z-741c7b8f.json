@@ -1,0 +1,12 @@
+# Recognition and Processing of NATOM
+
+**Authors:** YiPeng Deng, YinHui Luo
+
+## Summary
+In this paper we show how to process the NOTAM (Notice to Airmen) data of the field in civil aviation. The main research contents are as follows: 1.Data preprocessing: For the original data of the NOTAM, there is a mixture of Chinese and English, and the structure is poor. The original data is cleaned, the Chinese data and the English data are processed separately, word segmentation is completed, and stopping-words are removed. Using Glove word vector methods to represent the data for using a custom mapping vocabulary. 2.Decoupling features and classifiers: In order to improve the ability of the text classification model to recognize minority samples, the overall model training process is decoupled from the perspective of the algorithm as a whole, divided into two stages of feature learning and classifier learning. The weights of the feature learning stage and the classifier learning stage adopt different strategies to overcome the influence of the head data and tail data of the imbalanced data set on the classification model. Experiments have proved that the use of decoupling features and classifier methods based on the neural network classification model can complete text multi-classification tasks in the field of civil aviation, and at the same time can improve the recognition accuracy of the minority samples in the data set.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T16:08:41.016Z

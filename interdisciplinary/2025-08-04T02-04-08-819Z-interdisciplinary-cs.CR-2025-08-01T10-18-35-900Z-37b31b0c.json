@@ -1,0 +1,12 @@
+# PiBase: An IoT-based Security System using Raspberry Pi and Google Firebase
+
+**Authors:** Venkat Margapuri, Niketa Penumajji, Mitchell Neilsen
+
+## Summary
+Smart environments are environments where digital devices are connected to each other over the Internet and operate in sync. Security is of paramount importance in such environments. This paper addresses aspects of authorized access and intruder detection for smart environments. Proposed is PiBase, an Internet of Things (IoT)-based app that aids in detecting intruders and providing security. The hardware for the application consists of a Raspberry Pi, a PIR motion sensor to detect motion from infrared radiation in the environment, an Android mobile phone and a camera. The software for the application is written in Java, Python and NodeJS. The PIR sensor and Pi camera module connected to the Raspberry Pi aid in detecting human intrusion. Machine learning algorithms, namely Haar-feature based cascade classifiers and Linear Binary Pattern Histograms (LBPH), are used for face detection and face recognition, respectively. The app lets the user create a list of non-intruders and anyone that is not on the list is identified as an intruder. The app alerts the user only in the event of an intrusion by using the Google Firebase Cloud Messaging service to trigger a notification to the app. The user may choose to add the detected intruder to the list of non-intruders through the app to avoid further detections as intruder. Face detection by the Haar Cascade algorithm yields a recall of 94.6%. Thus, the system is both highly effective and relatively low cost.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:18:35.900Z

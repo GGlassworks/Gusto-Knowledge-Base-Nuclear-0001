@@ -1,0 +1,12 @@
+# Using Natural Language Processing to Predict Costume Core Vocabulary of Historical Artifacts
+
+**Authors:** Madhuvanti Muralikrishnan, Amr Hilal, Chreston Miller, Dina Smith-Glaviana
+
+## Summary
+Historic dress artifacts are a valuable source for human studies. In particular, they can provide important insights into the social aspects of their corresponding era. These insights are commonly drawn from garment pictures as well as the accompanying descriptions and are usually stored in a standardized and controlled vocabulary that accurately describes garments and costume items, called the Costume Core Vocabulary. Building an accurate Costume Core from garment descriptions can be challenging because the historic garment items are often donated, and the accompanying descriptions can be based on untrained individuals and use a language common to the period of the items. In this paper, we present an approach to use Natural Language Processing (NLP) to map the free-form text descriptions of the historic items to that of the controlled vocabulary provided by the Costume Core. Despite the limited dataset, we were able to train an NLP model based on the Universal Sentence Encoder to perform this mapping with more than 90% test accuracy for a subset of the Costume Core vocabulary. We describe our methodology, design choices, and development of our approach, and show the feasibility of predicting the Costume Core for unseen descriptions. With more garment descriptions still being curated to be used for training, we expect to have higher accuracy for better generalizability.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:26:22.893Z

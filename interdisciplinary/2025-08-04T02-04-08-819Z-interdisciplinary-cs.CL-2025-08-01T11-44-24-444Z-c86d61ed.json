@@ -1,0 +1,12 @@
+# A Transformer-based approach to Irony and Sarcasm detection
+
+**Authors:** Rolandos Alexandros Potamias, Georgios Siolas, Andreas - Georgios Stafylopatis
+
+## Summary
+Figurative Language (FL) seems ubiquitous in all social-media discussion forums and chats, posing extra challenges to sentiment analysis endeavors. Identification of FL schemas in short texts remains largely an unresolved issue in the broader field of Natural Language Processing (NLP), mainly due to their contradictory and metaphorical meaning content. The main FL expression forms are sarcasm, irony and metaphor. In the present paper we employ advanced Deep Learning (DL) methodologies to tackle the problem of identifying the aforementioned FL forms. Significantly extending our previous work [71], we propose a neural network methodology that builds on a recently proposed pre-trained transformer-based network architecture which, is further enhanced with the employment and devise of a recurrent convolutional neural network (RCNN). With this set-up, data preprocessing is kept in minimum. The performance of the devised hybrid neural architecture is tested on four benchmark datasets, and contrasted with other relevant state of the art methodologies and systems. Results demonstrate that the proposed methodology achieves state of the art performance under all benchmark datasets, outperforming, even by a large margin, all other methodologies and published studies.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T11:44:24.444Z

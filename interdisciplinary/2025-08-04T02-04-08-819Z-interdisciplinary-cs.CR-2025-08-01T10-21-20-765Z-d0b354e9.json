@@ -1,0 +1,12 @@
+# README: Robust Error-Aware Digital Signature Framework via Deep Watermarking Model
+
+**Authors:** Hyunwook Choi, Sangyun Won, Daeyeon Hwang, Junhyeok Choi
+
+## Summary
+Deep learning-based watermarking has emerged as a promising solution for robust image authentication and protection. However, existing models are limited by low embedding capacity and vulnerability to bit-level errors, making them unsuitable for cryptographic applications such as digital signatures, which require over 2048 bits of error-free data. In this paper, we propose README (Robust Error-Aware Digital Signature via Deep WaterMarking ModEl), a novel framework that enables robust, verifiable, and error-tolerant digital signatures within images. Our method combines a simple yet effective cropping-based capacity scaling mechanism with ERPA (ERror PAinting Module), a lightweight error correction module designed to localize and correct bit errors using Distinct Circular Subsum Sequences (DCSS). Without requiring any fine-tuning of existing pretrained watermarking models, README significantly boosts the zero-bit-error image rate (Z.B.I.R) from 1.2% to 86.3% when embedding 2048-bit digital signatures into a single image, even under real-world distortions. Moreover, our use of perceptual hash-based signature verification ensures public verifiability and robustness against tampering. The proposed framework unlocks a new class of high-assurance applications for deep watermarking, bridging the gap between signal-level watermarking and cryptographic security.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:20.765Z

@@ -1,0 +1,12 @@
+# Large Capacity Data Hiding in Binary Image black and white mixed regions
+
+**Authors:** Yuanlin Yang
+
+## Summary
+Information hiding technology utilizes the insensitivity of human sensory organs to redundant data, hiding confidential information in the redundant data of these public digital media, and then transmitting it. The carrier media after hiding secret information only displays its own characteristics, which can ensure the transmission of confidential information without being detected, thereby greatly improving the security of the information. In theory, any digital media including image, video, audio, and text can serve as a host carrier. Among them, hiding information in binary images poses great challenges. As we know, any information hiding method involves modifying the data of the host carrier. The more information hidden, the more data of the host carrier are modified. In this paper, we propose information hiding in the black-and-white mixed region of binary images, which can greatly reduce visual distortion. In addition, we propose an efficient encoding to achieve high-capacity information hiding while ensuring image semantics. By selecting binary images of different themes, we conduct experiments. The experimental results prove the feasibility of our technique and verify the expected performance. Since the candidate units for information hiding are selected from equally sized blocks that the image is divided into, and the hiding and extraction of information are based on a shared encoding table, the computational cost is very low, making it suitable for real-time information hiding applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:15:10.753Z

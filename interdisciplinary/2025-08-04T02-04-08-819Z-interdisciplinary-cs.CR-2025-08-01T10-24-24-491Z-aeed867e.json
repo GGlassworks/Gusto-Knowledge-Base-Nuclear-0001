@@ -1,0 +1,12 @@
+# Methodology for the Automated Metadata-Based Classification of Incriminating Digital Forensic Artefacts
+
+**Authors:** Xiaoyu Du, Mark Scanlon
+
+## Summary
+The ever increasing volume of data in digital forensic investigation is one of the most discussed challenges in the field. Usually, most of the file artefacts on seized devices are not pertinent to the investigation. Manually retrieving suspicious files relevant to the investigation is akin to finding a needle in a haystack. In this paper, a methodology for the automatic prioritisation of suspicious file artefacts (i.e., file artefacts that are pertinent to the investigation) is proposed to reduce the manual analysis effort required. This methodology is designed to work in a human-in-the-loop fashion. In other words, it predicts/recommends that an artefact is likely to be suspicious rather than giving the final analysis result. A supervised machine learning approach is employed, which leverages the recorded results of previously processed cases. The process of features extraction, dataset generation, training and evaluation are presented in this paper. In addition, a toolkit for data extraction from disk images is outlined, which enables this method to be integrated with the conventional investigation process and work in an automated fashion.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:24:24.491Z

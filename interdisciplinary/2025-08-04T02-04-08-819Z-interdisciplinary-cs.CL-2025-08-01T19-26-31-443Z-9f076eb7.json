@@ -1,0 +1,12 @@
+# Flood of Techniques and Drought of Theories: Emotion Mining in Disasters
+
+**Authors:** Soheil Shapouri, Saber Soleymani, Saed Rezayi
+
+## Summary
+Emotion mining has become a crucial tool for understanding human emotions during disasters, leveraging the extensive data generated on social media platforms. This paper aims to summarize existing research on emotion mining within disaster contexts, highlighting both significant discoveries and persistent issues. On the one hand, emotion mining techniques have achieved acceptable accuracy enabling applications such as rapid damage assessment and mental health surveillance. On the other hand, with many studies adopting data-driven approaches, several methodological issues remain. These include arbitrary emotion classification, ignoring biases inherent in data collection from social media, such as the overrepresentation of individuals from higher socioeconomic status on Twitter, and the lack of application of theoretical frameworks like cross-cultural comparisons. These problems can be summarized as a notable lack of theory-driven research and ignoring insights from social and behavioral sciences. This paper underscores the need for interdisciplinary collaboration between computer scientists and social scientists to develop more robust and theoretically grounded approaches in emotion mining. By addressing these gaps, we aim to enhance the effectiveness and reliability of emotion mining methodologies, ultimately contributing to improved disaster preparedness, response, and recovery. Keywords: emotion mining, sentiment analysis, natural disasters, psychology, technological disasters
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T19:26:31.444Z

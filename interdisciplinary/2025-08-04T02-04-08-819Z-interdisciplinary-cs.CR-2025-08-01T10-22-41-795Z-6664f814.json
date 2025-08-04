@@ -1,0 +1,12 @@
+# MetaSecure: A Passwordless Authentication for the Metaverse
+
+**Authors:** Sibi Chakkaravarthy Sethuraman, Aditya Mitra, Anisha Ghosh, Gautam Galada, Anitha Subramanian
+
+## Summary
+Metaverse in general holds a potential future for cyberspace. At the beginning of Web 2.0, it was witnessed that people were signing in with various pseudonyms or 'nyms', risking their online identities by increasing presence of fake accounts leading to difficulty in unique identification for different roles. However, in Web 3.0, the metaverse, a user's identity is tied to their original identity, where risking one poses a significant risk to the other. Therefore, this paper proposes a novel authentication system for securing digital assets, online identity, avatars, and accounts called Metasecure where a unique id for every entity or user to develop a human establishment is essential on a digital platform. The proposed passwordless system provides three layers of security using device attestation, facial recognition and use of physical security keys, security keys, or smartcards in accordance to Fast IDentity Online (FIDO2) specifications. It provides SDKs for authentication on any system including VR/XR glasses, thus ensuring seamlessness in accessing services in the Metaverse.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:41.795Z

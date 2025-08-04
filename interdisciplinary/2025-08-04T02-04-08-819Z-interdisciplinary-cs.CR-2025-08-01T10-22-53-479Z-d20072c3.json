@@ -1,0 +1,12 @@
+# Data-Flow-Based Extension of the System-Theoretic Process Analysis for Security (STPA-Sec)
+
+**Authors:** Jinghua Yu, Stefan Wagner, Feng Luo
+
+## Summary
+Security analysis is an essential activity in security engineering to identify potential system vulnerabilities and achieve security requirements in the early design phases. Due to the increasing complexity of modern systems, traditional approaches, which only consider component failures and simple cause-and-effect linkages, lack the power to identify insecure incidents caused by complex interactions among physical systems, human and social entities. By contrast, a top-down System-Theoretic Process Analysis for Security (STPA-Sec) approach views losses as resulting from interactions, focuses on controlling system vulnerabilities instead of external threats and is applicable for complex socio-technical systems. In this paper, we proposed an extension of STPA-Sec based on data flow structures to overcome STPA-Sec's limitations and achieve security constraints of information-critical systems systematically. We analyzed a Bluetooth digital key system of a vehicle by using both the proposed and the original approach to investigate the relationship and differences between both approaches as well as their applicability and highlights. To conclude, the proposed approach can identify more information-related problems with technical details and be used with other STPA-based approaches to co-design systems in multi-disciplines under the unified STPA process framework.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:53.479Z

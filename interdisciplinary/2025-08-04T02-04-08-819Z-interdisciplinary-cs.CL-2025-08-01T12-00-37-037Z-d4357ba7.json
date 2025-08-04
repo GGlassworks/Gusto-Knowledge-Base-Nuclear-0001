@@ -1,0 +1,12 @@
+# Neutron: An Implementation of the Transformer Translation Model and its Variants
+
+**Authors:** Hongfei Xu, Qiuhui Liu
+
+## Summary
+The Transformer translation model is easier to parallelize and provides better performance compared to recurrent seq2seq models, which makes it popular among industry and research community. We implement the Neutron in this work, including the Transformer model and its several variants from most recent researches. It is highly optimized, easy to modify and provides comparable performance with interesting features while keeping readability.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T12:00:37.037Z

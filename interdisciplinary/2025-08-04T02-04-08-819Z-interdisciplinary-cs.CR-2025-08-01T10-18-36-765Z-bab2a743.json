@@ -1,0 +1,12 @@
+# A New Approach for Image Authentication Framework for Media Forensics Purpose
+
+**Authors:** Ahmad M Nagm, Khaled Y Youssef, Mohammad I Youssef
+
+## Summary
+With the increasing widely spread digital media become using in most fields such as medical care, Oceanography, Exploration processing, security purpose, military fields and astronomy, evidence in criminals and more vital fields and then digital Images become have different appreciation values according to what is important of carried information by digital images. Due to the easy manipulation property of digital images (by proper computer software) makes us doubtful when are juries using digital images as forensic evidence in courts, especially, if the digital images are main evidence to demonstrate the relationship between suspects and the criminals. Obviously, here demonstrate importance of data Originality Protection methods to detect unauthorized process like modification or duplication and then enhancement protection of evidence to guarantee rights of incriminatory. In this paper, we shall introduce a novel digital forensic security framework for digital image authentication and originality identification techniques and related methodologies, algorithms and protocols that are applied on camera captured images. The approach depends on implanting secret code into RGB images that should indicate any unauthorized modification on the image under investigation. The secret code generation depends mainly on two main parameter types, namely the image characteristics and capturing device identifier. In this paper, the architecture framework will be analyzed, explained and discussed together with the associated protocols, algorithms and methodologies. Also, the secret code deduction and insertion techniques will be analyzed and discussed, in addition to the image benchmarking and quality testing techniques.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:18:36.765Z

@@ -1,0 +1,12 @@
+# Digital identity architectures: comparing goals and vulnerabilities
+
+**Authors:** Callum Mole, Ed Chalstrey, Peter Foster, Tim Hobson
+
+## Summary
+Digital identity systems have the promise of efficiently facilitating access to services for a nation's citizens while increasing security and convenience. There are many possible system architectures, each with strengths and weaknesses that should be carefully considered. This report first establishes a set of goals and vulnerabilities faced by any identity system, then evaluates the trade-offs of common digital identity architectures, principally comparing centralised and decentralised systems.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:53.613Z

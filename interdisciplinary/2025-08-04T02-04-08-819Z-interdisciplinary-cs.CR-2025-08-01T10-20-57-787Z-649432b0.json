@@ -1,0 +1,12 @@
+# Assessing Information Quality in IoT Forensics: Theoretical Framework and Model Implementation
+
+**Authors:** Federico Costantini, Fausto Galvan, Marco Alvise de Stefani, Sebastiano Battiato
+
+## Summary
+IoT technologies pose serious challenges to digital Forensics. The acquisition of digital evidence is hindered by the number and extreme variety of IoT items, often lacking physical interfaces, connected in unprotected networks, feeding data to uncontrolled cloud services. In this paper we address "Information Quality" in IoT Forensics, taking into account different levels of complexity and included human factors. After drawing a theoretical framework on data quality and information quality, we focus on forensic analysis challenges in IoT environments, providing a use case of evidence collection for investigative purposes. At the end, we propose a formal framework for assessing information quality of IoT devices for Forensics analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:20:57.787Z

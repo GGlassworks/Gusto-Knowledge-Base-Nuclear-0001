@@ -1,0 +1,12 @@
+# Analysis of Digital Sovereignty and Identity: From Digitization to Digitalization
+
+**Authors:** Kheng-Leong Tan, Chi-Hung Chi, Kwok-Yan Lam
+
+## Summary
+Advances in emerging technologies have accelerated digital transformation with the pervasive digitalization of the economy and society, driving innovations such as smart cities, industry 4.0 and FinTech. Unlike digitization, digitalization is a transformation to improve processes by leveraging digital technologies and digitized data. The cyberspace has evolved from a hardware internetworking infrastructure to the notion of a virtual environment, transforming how people, business and government interact and operate. Through this transformation, lots of personal data are captured which individuals have no ownership or control over, threatening their privacy. It is therefore necessary for the data owners to have control over the ownership, custody and utilization of their data and to protect one's digital assets and identity through proper data governance, cybersecurity control and privacy protection. This results in the notions of data sovereignty and digital sovereignty - two conceptually related terms, but different focuses. This paper first explains these two concepts in terms of their guiding principles, laws and regulations requirements, and analyse and discuss the technical challenges of implementing these requirements. Next, to understand the emerging trend shift in digital sovereignty towards individuals to take complete control of the security and privacy of their own digital assets, this paper conducts a systematic study and analysis of Self-Sovereign Identity, and discuss existing solutions and point out that an efficient key management system, scalability and interoperability of the solutions and well established standards are some of its challenges and open problems to wide deployments.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:22:50.516Z

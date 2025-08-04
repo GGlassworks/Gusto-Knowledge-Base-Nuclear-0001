@@ -1,0 +1,12 @@
+# Theoretical and Methodological Framework for Studying Texts Produced by Large Language Models
+
+**Authors:** Jiří Milička
+
+## Summary
+This paper addresses the conceptual, methodological and technical challenges in studying large language models (LLMs) and the texts they produce from a quantitative linguistics perspective. It builds on a theoretical framework that distinguishes between the LLM as a substrate and the entities the model simulates. The paper advocates for a strictly non-anthropomorphic approach to models while cautiously applying methodologies used in studying human linguistic behavior to the simulated entities. While natural language processing researchers focus on the models themselves, their architecture, evaluation, and methods for improving performance, we as quantitative linguists should strive to build a robust theory concerning the characteristics of texts produced by LLMs, how they differ from human-produced texts, and the properties of simulated entities. Additionally, we should explore the potential of LLMs as an instrument for studying human culture, of which language is an integral part.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CL
+Collected: 2025-08-01T10:26:47.559Z

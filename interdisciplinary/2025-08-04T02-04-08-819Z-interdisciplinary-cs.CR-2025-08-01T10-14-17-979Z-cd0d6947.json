@@ -1,0 +1,12 @@
+# From Seaweed to Security: The Emergence of Alginate in Compromising IoT Fingerprint Sensors
+
+**Authors:** Pouria Rad, Gokila Dorai, Mohsen Jozani
+
+## Summary
+The increasing integration of capacitive fingerprint recognition sensors in IoT devices presents new challenges in digital forensics, particularly in the context of advanced fingerprint spoofing. Previous research has highlighted the effectiveness of materials such as latex and silicone in deceiving biometric systems. In this study, we introduce Alginate, a biopolymer derived from brown seaweed, as a novel material with the potential for spoofing IoT-specific capacitive fingerprint sensors. Our research uses Alginate and cutting-edge image recognition techniques to unveil a nuanced IoT vulnerability that raises significant security and privacy concerns. Our proof-of-concept experiments employed authentic fingerprint molds to create Alginate replicas, which exhibited remarkable visual and tactile similarities to real fingerprints. The conductivity and resistivity properties of Alginate, closely resembling human skin, make it a subject of interest in the digital forensics field, especially regarding its ability to spoof IoT device sensors. This study calls upon the digital forensics community to develop advanced anti-spoofing strategies to protect the evolving IoT infrastructure against such sophisticated threats.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:14:17.979Z

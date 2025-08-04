@@ -1,0 +1,12 @@
+# A DSA-like digital signature protocol
+
+**Authors:** Leila Zahhafi, Omar Khadir
+
+## Summary
+In this paper we propose a new digital signature protocol inspired by the DSA algorithm. The security and the complexity are analyzed. Our method constitutes an alternative if the classical scheme DSA is broken.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:18:29.824Z

@@ -1,0 +1,12 @@
+# Investigation of Multi-stage Attack and Defense Simulation for Data Synthesis
+
+**Authors:** Ömer Sen, Bozhidar Ivanov, Martin Henze, Andreas Ulbig
+
+## Summary
+The power grid is a critical infrastructure that plays a vital role in modern society. Its availability is of utmost importance, as a loss can endanger human lives. However, with the increasing digitalization of the power grid, it also becomes vulnerable to new cyberattacks that can compromise its availability. To counter these threats, intrusion detection systems are developed and deployed to detect cyberattacks targeting the power grid. Among intrusion detection systems, anomaly detection models based on machine learning have shown potential in detecting unknown attack vectors. However, the scarcity of data for training these models remains a challenge due to confidentiality concerns. To overcome this challenge, this study proposes a model for generating synthetic data of multi-stage cyber attacks in the power grid, using attack trees to model the attacker's sequence of steps and a game-theoretic approach to incorporate the defender's actions. This model aims to create diverse attack data on which machine learning algorithms can be trained.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:18:31.495Z

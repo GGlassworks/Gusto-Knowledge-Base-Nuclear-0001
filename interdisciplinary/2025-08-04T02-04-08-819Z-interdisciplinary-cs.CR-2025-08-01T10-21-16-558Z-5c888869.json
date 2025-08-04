@@ -1,0 +1,12 @@
+# A Digital Twin Framework for Cyber Security in Cyber-Physical Systems
+
+**Authors:** Tianyu Zhao, Ernest Foo, Hui Tian
+
+## Summary
+Currently, most of the research in digital twins focuses on simulation and optimization. Digital twins are especially useful for critical systems. However, digital twins can also be used for safety and cyber security. The idea of this paper is motivated by the limitations of cyber security in Cyber-Physical Systems (CPSs). We introduce an efficient synchronization approach to maintain the state between the virtual environment and the physical environment. In this case, we can receive prompt feedback by conducting security analysis in the virtual domain. Thus, helping to enhance the cyber security of CPSs, we propose a digital twin-based framework. Based on the approach, the security of the CPSs can be protected by the digital twin system. Moreover, the proposed architecture has also been optimized to meet the security requirements and maintain less network burden for CPSs
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:21:16.559Z

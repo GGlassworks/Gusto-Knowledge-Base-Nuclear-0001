@@ -1,0 +1,12 @@
+# Target Privacy Threat Modeling for COVID-19 Exposure Notification Systems
+
+**Authors:** Ananya Gangavarapu, Ellie Daw, Abhishek Singh, Rohan Iyer, Gabriel Harp, Sam Zimmerman, Ramesh Raskar
+
+## Summary
+The adoption of digital contact tracing (DCT) technology during the COVID-19pandemic has shown multiple benefits, including helping to slow the spread of infectious disease and to improve the dissemination of accurate information. However, to support both ethical technology deployment and user adoption, privacy must be at the forefront. With the loss of privacy being a critical threat, thorough threat modeling will help us to strategize and protect privacy as digital contact tracing technologies advance. Various threat modeling frameworks exist today, such as LINDDUN, STRIDE, PASTA, and NIST, which focus on software system privacy, system security, application security, and data-centric risk, respectively. When applied to the exposure notification system (ENS) context, these models provide a thorough view of the software side but fall short in addressing the integrated nature of hardware, humans, regulations, and software involved in such systems. Our approach addresses ENSsas a whole and provides a model that addresses the privacy complexities of a multi-faceted solution. We define privacy principles, privacy threats, attacker capabilities, and a comprehensive threat model. Finally, we outline threat mitigation strategies that address the various threats defined in our model
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:16:10.875Z

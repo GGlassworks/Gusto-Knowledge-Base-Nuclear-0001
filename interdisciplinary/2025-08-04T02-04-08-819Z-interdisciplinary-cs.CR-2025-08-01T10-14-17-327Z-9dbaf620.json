@@ -1,0 +1,12 @@
+# Using Aesthetic Judgements to Distinguish between Humans and Computers
+
+**Authors:** Nasser Mohammed Al-Fannah
+
+## Summary
+As a result of continuing advances in computer capabilities, it is becoming increasingly difficult to distinguish between humans and computers in the digital world. We propose using the fundamental human ability to distinguish between things that are aesthetically pleasing and those that are not as the basis of a method to verify that a communicating party is human. We discuss one possible implementation of this notion to develop a new CAPTCHA, the Aesthetic CAPTCHA, which we compare with widely used CAPTCHAs. Our initial analysis shows that, at least in theory, Aesthetic CAPTCHAs offer advantages over other schemes in terms of satisfying the full range of CAPTCHA requirements. More generally, using human aesthetic judgement adds a possible new dimension to the future design of Turing tests.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:14:17.327Z

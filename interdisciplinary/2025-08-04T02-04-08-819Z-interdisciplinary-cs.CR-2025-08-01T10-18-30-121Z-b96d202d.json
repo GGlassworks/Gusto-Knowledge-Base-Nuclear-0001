@@ -1,0 +1,12 @@
+# Decode and Transfer: A New Steganalysis Technique via Conditional Generative Adversarial Networks
+
+**Authors:** Parisa Babaheidarian, Mark Wallace
+
+## Summary
+Recent work (Baluja, 2017) showed that using a pair of deep encoders and decoders, embedding a full-size secret image into a container image of the same size is achieved. This method distributes the information of the secret image across all color channels of the cover image, thereby, it is difficult to discover the secret image using conventional methods. In this paper, we propose a new steganalysis technique which achieves complete recovery of the embedded secret in steganography images. We incorporate a deep neural network to decode an approximate estimate of the secret image followed by a domain adaptation technique based on generative adversarial networks which transfers the decoded image into a high quality RGB image with details visible to human eyes. Our steganalysis technique can be served as an attack model against which the security level of an arbitrary embedded-based digital watermarking or a steganography algorithm can be evaluated. Furthermore, our method can be used as a general framework to decode a high quality image message from a noisy observation of an encoded message.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.CR
+Collected: 2025-08-01T10:18:30.121Z
