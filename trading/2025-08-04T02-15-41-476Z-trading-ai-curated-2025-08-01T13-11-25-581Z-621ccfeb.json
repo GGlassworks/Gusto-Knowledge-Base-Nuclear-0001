@@ -1,0 +1,13 @@
+# Augmenting Data Privacy Protocols and Enacting Regulatory Frameworks for Cryptocurrencies via Advanced Blockchain Methodologies and Artificial Intelligence
+
+**Authors:** M. O. Gbadebo, A. Salako, Oluwatosin Selesi-Aina, O. S. Ogungbemi, O. Olateju, O. O. Olaniyi
+
+## Abstract
+This study examines the effectiveness of current data privacy protocols within cryptocurrency platforms, focusing on encryption strength, anonymity techniques, and AI-powered regulatory compliance tools. Data were sourced from CoinMarketCap and Kaggle, including metrics like Bit Strength, Breach Incidents, and Anonymity Scores, which were analyzed using descriptive statistics, t-tests, and logistic regression. Results showed no significant relationship between encryption strength and breach incidents (p = 0.817), indicating that encryption strength may not be a primary factor in breach prevention. The weak correlation between encryption strength and breaches suggests that other elements, such as platform vulnerabilities or user behaviour, could play a more critical role in security. AI systems, evaluated through metrics like precision (0.168), recall (0.204), and F1 score (0.184), struggled with false positives, showing limitations in accurately detecting breaches and highlighting the need for more refined AI models. Advanced blockchain technologies like Zero-Knowledge Proofs and Homomorphic Encryption enhanced privacy but increased computational costs. It is recommended that hybrid encryption methods be adopted to balance privacy and performance and improve AI systems for more accurate breach detection. Governments must create clear regulations that encourage innovation while ensuring compliance.
+
+**Source:** https://www.semanticscholar.org/paper/0ae6b67a663c74b6beda8ea87eb1f86f16091919
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:11:25.581Z

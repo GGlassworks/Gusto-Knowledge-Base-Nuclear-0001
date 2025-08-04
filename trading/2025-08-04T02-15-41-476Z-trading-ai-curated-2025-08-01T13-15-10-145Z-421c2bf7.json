@@ -1,0 +1,13 @@
+# A Flexible Permission Ascription (FPA)-Based Blockchain Framework for Peer-to-Peer Energy Trading With Performance Evaluation
+
+**Authors:** N. Pradhan, A. Singh, Neeraj Kumar, Mohammad Mehedi Hassan, D. S. Roy
+
+## Abstract
+With the proliferation of smart grid and deregulation of the energy market, a wide variety of peer-to-peer (P2P) energy trading systems have emerged. Common challenges for designing such systems include prosumers’ privacy and security threats. To this end, Blockchain-based solutions have gained a lot of attention, though most existing solutions have either employed permissionless blockchain, which is far from pragmatic for a P2P energy trading system with peers permitted to join or leave the network at their whim; or relatively secure yet inefficient permissioned blockchains. Hence, this article presents a flexible permissioned ascription (FPA) scheme that uses on-chain and off-chain permissioning scheme via Orion and Metamask wallet. It also employs contract permissioning through a JavaScript based chain code deployed over Hyperledger Besu (an Ethereum based permissioned Blockchain network) with istanbul byzantine fault tolerant (IBFT) 2.0 consensus algorithm. Additionally, the proposed framework is emulated for development of a working prototype for a P2P energy trading system. Its performance evaluation has been conducted and monitored with Grafana, Prometheus, Hyperledger Caliper, and Kibana for parameters such as latency, throughput, success rate, CPU time, block time, block behind time, memory usage, garbage collection (GC) time, and performance of the validator nodes. The latency of IBFT 2.0 was found five times lesser than that of Ethereum and two times lesser than HF RAFT and KAFKA under varying conditions. Also, the measured throughput was 1.5 times higher than RAFT and Kafka and three times higher than that of Ethereum. The average block confirmation time measured is 5–6 s. The GC usage measured very less, i.e., 0.5–0.8%, with the proposed framework. It has been observed that the proposed energy-trading framework provides an efficient performance for deploying, transferring, and querying the energy transaction to a P2P energy-trading Blockchain network when compared with other consensus mechanisms.
+
+**Source:** https://www.semanticscholar.org/paper/2689b4a48e4c3f23a4222af5b1476901bf09365a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:15:10.146Z

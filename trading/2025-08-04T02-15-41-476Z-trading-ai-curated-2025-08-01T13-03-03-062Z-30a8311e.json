@@ -1,0 +1,13 @@
+# Blockchain-Based Renewable Energy Trading Using Information Entropy Theory
+
+**Authors:** Ziming Liu, Bonan Huang, Xuguang Hu, Pengbo Du, Qiuye Sun
+
+## Abstract
+Renewable energy sources (RES) and electric vehicles (EVs) are widely recognized as primary ways to reduce carbon emissions and essential components of low-carbon power systems. However, both of them have strong uncertainties which bring great challenges to power transactions and the operation of power grids. This paper defines the uncertainty cost of wind power producer(WPP) in day-ahead(DA) market pricing based on information entropy theory for the first time and proposes a EV charging management strategy with DA contract. The constructed low-carbon emission electricity market(LCEM) quantifies the uncertainty cost and contracts the disordered charging of EVs. It reduces the uncertainty and ensures the balance of power supply and demand. In addition, the transaction between WPP and EVs is described as the Stackelberg game, and its communication network is constructed through a blockchain network to ensure transaction efficiency and privacy security. Experiments show that LCEM can accurately measure the uncertainty of wind power generation, increase the net profit for WPP by more than 2% when the prediction error is greater than 10%, and adopt EV contract charging management in the DA market to minimize charging costs.
+
+**Source:** https://www.semanticscholar.org/paper/5191d430694aebcfe8d86db6acf02d9c4826288d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:03:03.062Z

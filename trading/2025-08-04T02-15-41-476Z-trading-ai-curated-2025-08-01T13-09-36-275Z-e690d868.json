@@ -1,0 +1,13 @@
+# Blockchain Analysis Tool of a Cryptocurrency
+
+**Authors:** R. Werner, Sebastian Lawrenz, A. Rausch
+
+## Abstract
+In recent years, cryptocurrencies have become more and more popular and the growing adoption has led to an increasing number of financial transactions being stored on the blockchain. Although cryptocurrencies have built a reputation as an anonymous means of payment, they are usually rather pseudonymous, transparent and everlasting logbooks about financial transactions, which are publicly available. Thus, analyzing a crypto address can reveal payment partners, money flows, behavior patterns and more. In this work, a program is presented, which provides an analysis of this kind and displays the results in a simple format. The technical properties of the blockchain that this analysis is based on are explained. This paper explains the possible impact of total transparency on the blockchain and our tool on our society.
+
+**Source:** https://www.semanticscholar.org/paper/9939337fd11264cb3a71cb6d44639465209b92e4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:09:36.275Z

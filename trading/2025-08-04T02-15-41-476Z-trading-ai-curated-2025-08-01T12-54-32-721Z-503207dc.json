@@ -1,0 +1,13 @@
+# An Approach to the Finance Affair Through Reinforcement Learning
+
+**Authors:** Nishant Shukla, Siddhi Jaiswal, Chintamani Chaudhri, Latika Pinjarkar, Poorva Agrawal, Gagandeep Kaur
+
+## Abstract
+Reinforcement learning is an exciting sub-field in machine learning with immense application in finance ranging from portfolio optimization, and risk management to market making and algorithmic trading strategies. Important factors including reward architecture, simulation, and model risk are examined when applying reinforcement learning to finance. Although careful design considerations are necessary, reinforcement learning (RL) has great potential for improving and automating financial decision-making. With thorough research, we have discussed Markov’s decision process and Markov’s reward process (MRPs) through an example of an investor dividing their holdings between bonds and stocks. Also, the decision-making process with a numbered reward value i.e., MRPs has been discussed. We have also presented a comparison of studies in this domain. The purpose of this work serve as a valuable reference for professionals and academicians who are interested in implementing cutting-edge RL approaches for quantitative finance challenges.
+
+**Source:** https://www.semanticscholar.org/paper/fbd26fea4a815d8be58b28ec352501c344de2800
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:54:32.721Z

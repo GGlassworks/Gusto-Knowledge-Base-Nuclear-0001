@@ -1,0 +1,13 @@
+# Outperforming Benchmarks with Their Derivatives: Theory and Empirical Evidence
+
+**Authors:** A. Balbás, B. Balbás, Raquel Balbás
+
+## Abstract
+Recent literature has demonstrated the existence of an unbounded risk premium if one combines the most important models for pricing and hedging derivatives with coherent risk measures. There may exist combinations of derivatives (good deals) whose pair (return risk) converges to the pair (+∞, −∞). This paper goes beyond existence properties and looks for optimal explicit constructions and empirical tests. It will be shown that the optimal good deal above may be a simple portfolio of options. This theoretical finding will enable us to implement empirical experiments involving three international stock index futures (Standard & Poor's 500, Eurostoxx 50 and DAX 30) and three commodity futures (gold, Brent and the Dow Jones-UBS Commodity Index). According to the empirical results, the good deal always outperforms the underlying index/commodity. The good deal is built in full compliance with the standard derivative pricing theory. Properties of classical pricing models totally inspire the good deal construction. This is a very interesting difference in our paper with respect to previous literature attempting to outperform a benchmark.
+
+**Source:** https://www.semanticscholar.org/paper/5b52faab34617214db98ea1b9299be518aceb86f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:56:21.479Z

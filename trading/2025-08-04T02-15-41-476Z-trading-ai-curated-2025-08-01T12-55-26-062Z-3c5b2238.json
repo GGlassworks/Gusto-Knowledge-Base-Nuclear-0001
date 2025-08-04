@@ -1,0 +1,13 @@
+# A dimer method for finding saddle points on high dimensional potential surfaces using only first derivatives
+
+**Authors:** G. Henkelman, H. Jónsson
+
+## Abstract
+The problem of determining which activated (and slow) transitions can occur from a given initial state at a finite temperature is addressed. In the harmonic approximation to transition state theory this problem reduces to finding the set of low lying saddle points at the boundary of the potential energy basin associated with the initial state, as well as the relevant vibrational frequencies. Also, when full transition state theory calculations are carried out, it can be useful to know the location of the saddle points on the potential energy surface. A method for finding saddle points without knowledge of the final state of the transition is described. The method only makes use of first derivatives of the potential energy and is, therefore, applicable in situations where second derivatives are too costly or too tedious to evaluate, for example, in plane wave based density functional theory calculations. It is also designed to scale efficiently with the dimensionality of the system and can be applied to ve...
+
+**Source:** https://www.semanticscholar.org/paper/5526ea9c3f84109ef2dfa1ddf265406695c4080e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:55:26.062Z

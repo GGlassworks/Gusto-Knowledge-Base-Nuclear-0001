@@ -1,0 +1,13 @@
+# A Comparative Study of Multi-Factor Quantitative Investment Models Based on Investor Sentiment
+
+**Authors:** Zihao Yin, Quanli Wang, Wei Zhou, Huiyu Zhou
+
+## Abstract
+To explore how to apply deep learning models more effectively to real trading, this paper attempts to use investor sentiment as a feature input from the perspective of behavioral finance. After selecting 30 kinds of cryptocurrencies, we constructed two sentiment factors based on text information and four based on trading market data. While comparing the three deep learning models with six factors, we also conducted a longitudinal comparison of the sentiment factors and found that: the investor sentiment factors based on text information laid the foundation for model effectiveness, and the RLF-LSTM and HMM models performed much better than the CNN model.
+
+**Source:** https://www.semanticscholar.org/paper/7c969f04a49d720aa8eaadb7c0f9349690fef897
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:54:32.804Z

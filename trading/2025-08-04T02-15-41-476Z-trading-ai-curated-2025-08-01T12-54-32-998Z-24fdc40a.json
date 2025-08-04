@@ -1,0 +1,13 @@
+# Quantitative trading models based on Sufficient Dimension Reduction and Ensemble Learning
+
+**Authors:** Jiaheng Wang
+
+## Abstract
+With the continuous development of the securities market, constructing quantitative trading strategies with strong generalization ability the adaption to dynamic and changeable market environment is becoming more and more momentous in the field of quantitative finance. Under such circumstances, this paper proposes a stock prediction model based on sufficient dimension reduction theory and ensemble learning, which can be deployed on quantitative trading strategy. The proposed model on the one hand alleviates the curse of dimension by using the sufficient dimension reduction method and maximally retains variation of stock factors, on the other hand employs ensemble learning technique which can weigh model bias and variance to address the overfitting or underfitting problems. Furthermore, since ensemble learning are model free, different sub-models can be applied to improve the generalization ability of the algorithm on predicting occasions. In the section of accuracy comparison and quantitative trading strategy experiments based on real stock datasets, the proposed model demonstrates the best prediction results and adequate robustness compared to other existed methods.
+
+**Source:** https://www.semanticscholar.org/paper/e0b83bba05a191e94e42b0c4d669a5477a9a3d7e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T12:54:32.998Z

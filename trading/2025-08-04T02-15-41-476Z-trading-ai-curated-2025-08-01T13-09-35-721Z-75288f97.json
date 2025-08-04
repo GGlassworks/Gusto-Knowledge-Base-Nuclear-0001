@@ -1,0 +1,13 @@
+# Blockchain Analysis of the Bitcoin Market
+
+**Authors:** I. Makarov, A. Schoar
+
+## Abstract
+In this paper, we provide detailed analyses of the Bitcoin network and its main participants. We build a novel database using a large number of public and proprietary sources to link Bitcoin addresses to real entities and develop an extensive suite of algorithms to extract information about the behavior of the main market participants. We conduct three major pieces of analysis of the Bitcoin eco-system. First, we analyze the transaction volume and network structure of the main participants on the blockchain. Second, we document the concentration and regional composition of the miners which are the backbone of the verification protocol and ensure the integrity of the blockchain ledger. Finally, we analyze the ownership concentration of the largest holders of Bitcoin.
+
+**Source:** https://www.semanticscholar.org/paper/042d2d6d4ac645d14d506eb6446695426d4af529
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:09:35.721Z

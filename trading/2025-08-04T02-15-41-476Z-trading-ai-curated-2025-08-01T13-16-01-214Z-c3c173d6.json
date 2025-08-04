@@ -1,0 +1,13 @@
+# A Systematic Comparison between the Ethereum and Hyperledger Fabric Blockchain Platforms for Attribute-Based Access Control in Smart Home IoT Environments
+
+**Authors:** Stefan Pancari, Anik Rashid, Jason Zheng, Shirali Patel, Yi Wang, Jian Fu
+
+## Abstract
+Despite the lack of blockchain systems being utilized in modern IoT environments, the prevalence of blockchain technology is increasing, due to its high level of security and accountability. The integration of blockchain technology and access control in a decentralized system for smart home networks is a promising solution to this issue. This paper compares the implementation of attribute-based access control (ABAC) with two popular blockchain platforms, Ethereum and Hyperledger Fabric, for a smart home internet of things (IoT) environment. We present a comprehensive summary of access-control and blockchain-access-control methods, to provide the necessary background for this study. Additionally, we present an original ABAC smart contract for Ethereum, and the modification of a pre-existing Hyperledger Fabric ABAC smart contract, for this comparison. Through the simulation of both implementations, the advantages and limitations will be considered, to determine which is better suited for a smart home IoT environment.
+
+**Source:** https://www.semanticscholar.org/paper/7f0834b5b4db211028b2f912df95870b0617df1c
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:01.214Z

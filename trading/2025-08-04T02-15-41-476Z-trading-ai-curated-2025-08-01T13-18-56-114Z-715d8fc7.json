@@ -1,0 +1,13 @@
+# Security Analysis of Cryptocurrency Wallets in Android-Based Applications
+
+**Authors:** Daojing He, Shihao Li, Cong Li, Sencun Zhu, Sammy Chan, Weidong Min, Nadra Guizani
+
+## Abstract
+As digital currency wallets are gaining popularity, security incidents related to them are also increasing. They lead to the disclosure of users' private information and security threats of users' assets. This article analyzes the security risks of digital wallets in Android, which is the most popular mobile operating system. it first establishes the threat model and the security goals, and then analyzes the attack surface and attack vectors from the aspects of wallet apps and the Android system. Experiments are conducted on two realworld digital currency wallet apps, and the results reveal several serious security risks in these apps, which highlight the necessity and importance of developing secure cryptocurrency wallets.
+
+**Source:** https://www.semanticscholar.org/paper/849a3108e4b4738c64d7ec1314f345299b520be5
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:18:56.114Z

@@ -1,0 +1,13 @@
+# Understanding blockchain: definitions, architecture, design, and system comparison
+
+**Authors:** M. Tabatabaei, R. Vitenberg, Narasimha Raghavan
+
+## Abstract
+The explosive advent of the blockchain technology has led to hundreds of blockchain systems in the industry, thousands of academic papers published over the last few years, and an even larger number of new initiatives and projects. Despite the emerging consolidation efforts, the area remains highly turbulent without systematization, educational materials, or cross-system comparative analysis. In this paper, we provide a systematic and comprehensive study of four popular yet widely different blockchain systems: Bitcoin, Ethereum, Hyperledger Fabric, and IOTA. The study is presented as a cross-system comparison, which is organized by clearly identified aspects: definitions, roles of the participants, entities, and the characteristics and design of each of the commonly used layers in the cross-system blockchain architecture. Our exploration goes deeper compared to what is currently available in academic surveys and tutorials. For example, we provide the first extensive coverage of the storage layer in Ethereum and the most comprehensive explanation of the consensus protocol in IOTA. The exposition is due to the consolidation of fragmented information gathered from white and yellow papers, academic publications, blogs, developer documentation, communication with the developers, as well as additional analysis gleaned from the source code. We hope that this survey will help the readers gain in-depth understanding of the design principles behind blockchain systems and contribute towards systematization of the area.
+
+**Source:** https://www.semanticscholar.org/paper/b87ae91f22ae9e5389107d9d4cefaff848167071
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:16:02.115Z

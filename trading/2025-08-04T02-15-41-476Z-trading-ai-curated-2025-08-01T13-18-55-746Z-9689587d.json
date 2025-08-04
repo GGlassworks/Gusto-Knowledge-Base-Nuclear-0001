@@ -1,0 +1,13 @@
+# Forensic Artefact Discovery and Attribution from Android Cryptocurrency Wallet Applications
+
+**Authors:** Eugene Chang, P. Darcy, Kim-Kwang Raymond Choo, Nhien-An Le-Khac
+
+## Abstract
+Cryptocurrency has been (ab)used to purchase illicit goods and services such as drugs, weapons and child pornography (also referred to as child sexual abuse materials), and thus mobile devices (where cryptocurrency wallet applications are installed) are a potential source of evidence in a criminal investigation. Not surprisingly, there has been increased focus on the security of cryptocurrency wallets, although forensic extraction and attribution of forensic artefacts from such wallets is understudied. In this paper, we examine Bitcoin and Dogecoin. The latter is increasingly popular partly due to endorsements from celebrities and being positioned as an introductory path to cryptocurrency for newcomers. Specifically, we demonstrate how one can acquire forensic artefacts from Android Bitcoin and Dogecoin cryptocurrency wallets, such as wallet IDs, transaction IDs, timestamp information, email addresses, cookies, and OAuth tokens.
+
+**Source:** https://www.semanticscholar.org/paper/26db18972fc51f0bc4f3d472cad95089fc7f6c0d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:18:55.746Z
