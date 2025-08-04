@@ -1,0 +1,13 @@
+# Efficient algorithms for the discovery of gapped factors
+
+**Authors:** Alberto Apostolico, Cinzia Pizzi, Esko Ukkonen
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>The discovery of surprisingly frequent patterns is of paramount interest in bioinformatics and computational biology. Among the patterns considered, those consisting of pairs of solid words that co-occur within a prescribed maximum distance -or<jats:italic>gapped factors</jats:italic>- emerge in a variety of contexts of DNA and protein sequence analysis. A few algorithms and tools have been developed in connection with specific formulations of the problem, however, none can handle comprehensively each of the multiple ways in which the distance between the two terms in a pair may be defined.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>This paper presents efficient algorithms and tools for the extraction of all pairs of words up to an arbitrarily large length that co-occur surprisingly often in close proximity within a sequence. Whereas the number of such pairs in a sequence of<jats:italic>n</jats:italic>characters can be Θ(<jats:italic>n</jats:italic><jats:sup>4</jats:sup>), it is shown that an exhaustive discovery process can be carried out in<jats:italic>O</jats:italic>(<jats:italic>n</jats:italic><jats:sup>2</jats:sup>) or<jats:italic>O</jats:italic>(<jats:italic>n</jats:italic><jats:sup>3</jats:sup>), depending on the way distance is measured. This is made possible by a prudent combination of properties of pattern maximality and monotonicity of scores, which lead to reduce the number of word pairs to be weighed explicitly, while still producing also the scores attained by any of the pairs not explicitly considered. We applied our approach to the discovery of spaced dyads in DNA sequences.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Experiments on biological datasets prove that the method is effective and much faster than exhaustive enumeration of candidate patterns. Software is available freely by academic users via the web interface at<jats:ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://bcb.dei.unipd.it:8080/dyweb" ext-link-type="uri">http://bcb.dei.unipd.it:8080/dyweb</jats:ext-link>.</jats:p></jats:sec>
+
+**Source:** https://doi.org/10.1186/1748-7188-6-5
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:31:33.980Z
