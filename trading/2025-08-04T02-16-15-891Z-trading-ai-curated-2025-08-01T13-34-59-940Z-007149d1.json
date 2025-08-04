@@ -1,0 +1,13 @@
+# A novel sequence space related to \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$\mathcal{L}_{p}$\end{document}Lp defi
+
+**Authors:** Mohd Shoaib Khan, Q. D. Lohani
+
+## Abstract
+In the field of pattern recognition, clustering groups the data into different clusters on the basis of similarity among them. Many a time, the similarity level between data points is derived through a distance measure; so, a number of clustering techniques reliant on such a measure are developed. Clustering algorithms are modified by employing an appropriate distance measure due to the high versatility of a data set. The distance measure becomes appropriate in clustering algorithm if weights assigned at the components of the distance measure are in concurrence to the problem. In this paper, we propose a new sequence space M(ϕ,p,F)$\mathcal{{M}} ( \phi,p,\mathcal{{F}} )$ related to Lp$\mathcal{L}_{p}$ using an Orlicz function. Many interesting properties of the sequence space M(ϕ,p,F)$\mathcal{{M}} ( \phi,p,\mathcal{{F}} )$ are established by the help of a distance measure, which is also used to modify the k-means clustering algorithm. To show the efficacy of the modified k-means clustering algorithm over the standard k-means clustering algorithm, we have implemented them for two real-world data set, viz. a two-moon data set and a path-based data set (borrowed from the UCI repository). The clustering accuracy obtained by our proposed clustering algoritm outperformes the standard k-means clustering algorithm.
+
+**Source:** https://www.semanticscholar.org/paper/077d9d77595ac7a1eaf1c60ff1030a5c212ad55e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:59.941Z

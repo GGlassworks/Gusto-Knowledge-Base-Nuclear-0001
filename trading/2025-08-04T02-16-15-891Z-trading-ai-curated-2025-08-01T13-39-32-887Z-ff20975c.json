@@ -1,0 +1,13 @@
+# A Robust Front-Running Methodology for Malicious Flash- Loan DeFi Attacks
+
+**Authors:** Xun Deng, Zihan Zhao, Sidi Mohamed Beillahi, Han Du, Cyrus Minwalla, Keerthi Nelaturu, A. Veneris, Fan Long
+
+## Abstract
+This paper presents FrontDef, a security system to detect and front-run malicious transactions to mitigate financial loss caused by smart contract attacks. FrontDef monitors each transaction in the pending transaction pool to detect potential attacks. For each suspicious transaction, FrontDef analyzes the bytecode of the contract the transaction attempts to interact and assembles a sequence of mimic transactions to replicate the attack strategy. FrontDef then uses the assembled transactions to front- run the suspicious attack transaction to prevent financial loss. Empirical results show that FrontDef can successfully detect and assemble mimic transactions for all of the 24 benchmark cases that includes 21 historical attacks that occurred on Ethereum and Binance Smart Chain (BSC). They also confirm that FrontDef can process up to 1230 transactions per second, which currently is greater than the maximum throughput of Ethereum and BSC.
+
+**Source:** https://www.semanticscholar.org/paper/a8b9401805a4e57c7923ca3abc8869dab742ce5a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:39:32.887Z

@@ -1,0 +1,13 @@
+# Forecasting Cryptocurrency Prices in the DeFi Ecosystem Using Predictive Models
+
+**Authors:** S. Sruthi, Deivanai Saravanan, J. C.
+
+## Abstract
+In the rapidly evolving cryptocurrency markets, accurate price prediction is crucial for investors and traders. This task investigates the efficacy of advanced machine learning and deep learning for forecasting cryptocurrency prices. The proposed idea utilizes Autoregressive Integrated Moving Average (ARIMA) models, Bidirectional Long Short-Term Memory (Bi- LSTM) networks, Gated Recurrent Units (GRU), and Long Short-Term Memory networks improved with Self-Attention (LSTM-Self-Attention). Numerous studies were conducted using the historical data available. Root Mean Squared Error (RMSE) were used to evaluate the models. The study tries to show the impact of outside factors such as economic data and market belief in purchase to improve the precision of the forecast. This research offers investors and policy makers insight that demonstrates the ability of sophisticated machine learning models to navigate the intricacies of cryptocurrency marketplaces. Incorporating these approaches into a single predictive framework enables accurate forecasting and the identification of anomalies in DeFi markets. The findings contribute to the decision making that is strategic DeFi investments, providing tools for better prediction and analysis, and laying the groundwork for future advancements in DeFi analytics.
+
+**Source:** https://www.semanticscholar.org/paper/1fd88bf087f999cbde8b48540ba40b29621fb464
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:40:33.321Z

@@ -1,0 +1,13 @@
+# Machine Learning in DeFi: Credit Risk Assessment and Liquidation Prediction
+
+**Authors:** Georgios Palaiokrassas, S. Scherrers, Eftychia Makri, L. Tassiulas
+
+## Abstract
+This paper investigates the application of Machine Learning for credit risk assessment in Multichain Decentralized Finance (DeFi). With DeFi expanding its scope, the need for effective credit risk evaluation becomes paramount. Our study utilizes a diverse dataset gathered from multiple blockchains, including Ethereum, and employs rigorous data preprocessing techniques. DeFi-specific features are extracted, capturing transaction-related statistics. Machine learning models, such as Logistic Regression, Random Forest, XGBoost, CatBoost, LightGBM and a CNN, are deployed to predict wallet liquidations. Evaluation metrics, including accuracy, ROC curve and Area Under the Curve, demonstrate the efficacy of DeFi-related features in credit risk assessment. Furthermore, we analyze feature importance and inter-feature correlations, providing insights into critical risk factors within the DeFi ecosystem. This research contributes valuable insights to the DeFi landscape, offering data-driven approaches to credit risk management and investment strategies. Our findings hold significance for DeFi stakeholders seeking to navigate the evolving financial frontier while mitigating credit risk effectively.
+
+**Source:** https://www.semanticscholar.org/paper/5d60c3d10b9bf03a6d7552a681d664e2965aa18a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:41:24.879Z

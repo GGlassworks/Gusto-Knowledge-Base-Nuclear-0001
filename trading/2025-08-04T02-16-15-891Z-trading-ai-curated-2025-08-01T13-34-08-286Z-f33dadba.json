@@ -1,0 +1,13 @@
+# Improving DeFi Accessibility through Efficient Liquidity Provisioning with Deep Reinforcement Learning
+
+**Authors:** Haonan Xu, Alessio Brini
+
+## Abstract
+This paper applies deep reinforcement learning (DRL) to optimize liquidity provisioning in Uniswap v3, a decentralized finance (DeFi) protocol implementing an automated market maker (AMM) model with concentrated liquidity. We model the liquidity provision task as a Markov Decision Process (MDP) and train an active liquidity provider (LP) agent using the Proximal Policy Optimization (PPO) algorithm. The agent dynamically adjusts liquidity positions by using information about price dynamics to balance fee maximization and impermanent loss mitigation. We use a rolling window approach for training and testing, reflecting realistic market conditions and regime shifts. This study compares the data-driven performance of the DRL-based strategy against common heuristics adopted by small retail LP actors that do not systematically modify their liquidity positions. By promoting more efficient liquidity management, this work aims to make DeFi markets more accessible and inclusive for a broader range of participants. Through a data-driven approach to liquidity management, this work seeks to contribute to the ongoing development of more efficient and user-friendly DeFi markets.
+
+**Source:** https://www.semanticscholar.org/paper/f3f1475c9fe24c7a2073d9f7aac9dd6a2c23c156
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:08.286Z

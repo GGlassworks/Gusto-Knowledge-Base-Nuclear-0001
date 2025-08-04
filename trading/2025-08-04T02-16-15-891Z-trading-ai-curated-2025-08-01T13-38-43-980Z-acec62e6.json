@@ -1,0 +1,13 @@
+# Modeling and Analysis of Crypto-Backed Over-Collateralized Stable Derivatives in DeFi
+
+**Authors:** Zhenbang Feng, Hardhik Mohanty, Bhaskar Krishnamachari
+
+## Abstract
+In decentralized finance (DeFi), stablecoins like DAI are designed to offer a stable value amidst the fluctuating nature of cryptocurrencies. We examine the class of crypto-backed stable derivatives, focusing on mechanisms for price stabilization and exemplified by the well-known stablecoin DAI from MakerDAO. For simplicity, we consider a single-collateral setting. We introduce a belief parameter to the simulation model of DAI in a previous work (DAISIM), reflecting market sentiments about the value and stability of DAI, and show that it better matches the expected behavior when this parameter is set within a particular range of values. Our methods include comparing simulated data with real-world data, focusing on monthly correlations between ETH and DAI prices and scatter plots illustrating the relationship of their price trends over time. We also propose a simple mathematical model of DAI price to explain its stability and dependency on ETH price. Finally, we analyze possible risk factors associated with these stable derivatives to provide valuable insights for stakeholders in the DeFi ecosystem.
+
+**Source:** https://www.semanticscholar.org/paper/3d969e16134ac3b07974e495454475e8fbb0ac7a
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:38:43.980Z

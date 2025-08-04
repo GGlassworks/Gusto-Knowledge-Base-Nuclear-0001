@@ -1,0 +1,27 @@
+# Analyzing public discourse on DeFi and CBDC using advanced NLP techniques: insights for financial policy and innovation
+
+**Authors:** Andry Alamsyah, Raras Fitriyani Astuti
+
+## Abstract
+Purpose
+This study aims to analyze public discourse on decentralized finance (DeFi) and central bank digital currencies (CBDC) using advanced natural language processing (NLP) techniques to uncover key insights that can guide financial policy and innovation. This research seeks to fill the gap in the existing literature by applying state-of-the-art NLP models like BERT and RoBERTa to understand the evolving online discourse around DeFi and CBDC.
+
+Design/methodology/approach
+This study uses a multilabel classification using BERT and RoBERTa models alongside BERTopic for topic modeling. Data is collected from social media platforms, including Twitter and LinkedIn, as well as relevant documents, to analyze public sentiment and discourse. Model performance is evaluated based on accuracy, precision, recall and F1-scores.
+
+Findings
+RoBERTa outperforms BERT in classification accuracy and precision across all metrics, making it more effective in categorizing public discourse on DeFi and CBDC. BERTopic identifies five key topics frequently discussed, such as financial inclusion, competition and growth in DeFi, with important implications for policymakers.
+
+Practical implications
+The insights derived from this study provide valuable information for financial regulators and policymakers to develop more informed, data-driven strategies for implementing and regulating DeFi and CBDC. Public discourse analysis enables policymakers to understand emerging concerns and trends critical for crafting effective financial policies.
+
+Originality/value
+This study is among the first to use advanced NLP models, including RoBERTa and BERTopic, to analyze public discourse on DeFi and CBDC. It offers novel insights into the potential challenges and opportunities these innovations present. It contributes to the growing body of research on the intersection of digital financial technologies and public sentiment.
+
+
+**Source:** https://www.semanticscholar.org/paper/5faed346f8587980839352e42cc61cc57d0757c3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:40:32.036Z

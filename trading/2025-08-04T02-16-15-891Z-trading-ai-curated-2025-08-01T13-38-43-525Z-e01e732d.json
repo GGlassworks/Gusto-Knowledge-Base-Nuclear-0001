@@ -1,0 +1,13 @@
+# SoK: Comprehensive Analysis of Rug Pull Causes, Datasets, and Detection Tools in DeFi
+
+**Authors:** Dianxiang Sun, Wei Ma, Liming Nie, Yang Liu
+
+## Abstract
+Rug pulls pose a grave threat to the cryptocurrency ecosystem, leading to substantial financial loss and undermining trust in decentralized finance (DeFi) projects. With the emergence of new rug pull patterns, research on rug pull is out of state. To fill this gap, we first conducted an extensive analysis of the literature review, encompassing both scholarly and industry sources. By examining existing academic articles and industrial discussions on rug pull projects, we present a taxonomy inclusive of 34 root causes, introducing six new categories inspired by industry sources: burn, hidden owner, ownership transfer, unverified contract, external call, and fake LP lock. Based on the developed taxonomy, we evaluated current rug pull datasets and explored the effectiveness and limitations of existing detection mechanisms. Our evaluation indicates that the existing datasets, which document 2,448 instances, address only 7 of the 34 root causes, amounting to a mere 20% coverage. It indicates that existing open-source datasets need to be improved to study rug pulls. In response, we have constructed a more comprehensive dataset containing 2,360 instances, expanding the coverage to 54% with the best effort. In addition, the examination of 14 detection tools showed that they can identify 25 of the 34 root causes, achieving a coverage of 73.5%. There are nine root causes (Fake LP Lock, Hidden Fee, and Destroy Token, Fake Money Transfer, Ownership Transfer, Liquidity Pool Block, Freeze Account, Wash-Trading, Hedge) that the existing tools cannot cover. Our work indicates that there is a significant gap between current research and detection tools, and the actual situation of rug pulls.
+
+**Source:** https://www.semanticscholar.org/paper/de32d6340966e8bac27de0a579d0bccdb5f7f905
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:38:43.526Z

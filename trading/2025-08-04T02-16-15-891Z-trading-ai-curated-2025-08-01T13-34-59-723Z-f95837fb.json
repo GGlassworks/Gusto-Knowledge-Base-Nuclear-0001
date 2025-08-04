@@ -1,0 +1,13 @@
+# Cryptographic Algorithms in Decentralized Finance
+
+**Authors:** Baran Alp Aydın
+
+## Abstract
+Cryptographic algorithms form the backbone of decentralized finance (DeFi), ensuring secure, transparent, and tamper-proof transactions in blockchain ecosystems. These algorithms enable critical functionalities such as digital signatures, consensus mechanisms, and privacy preservation, empowering decentralized platforms to operate without intermediaries. This paper explores the role of cryptographic techniques, including asymmetric encryption, hash functions, and zero-knowledge proofs, in enabling DeFi applications like smart contracts, tokenization, and decentralized exchanges. Additionally, it examines emerging trends, such as post-quantum cryptography, to address vulnerabilities posed by quantum computing advancements. By investigating the intersection of cryptography and DeFi, this study highlights the challenges and opportunities in enhancing security, scalability, and interoperability within decentralized systems.
+
+**Source:** https://www.semanticscholar.org/paper/cd397a12f0288407efb6cb34cfbdb40c03e637db
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:59.724Z

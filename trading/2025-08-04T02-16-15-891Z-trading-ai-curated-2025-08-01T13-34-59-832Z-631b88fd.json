@@ -1,0 +1,13 @@
+# A DeFi Bank Run: Iron Finance, IRON Stablecoin, and the Fall of TITAN
+
+**Authors:** Kanis Saengchote
+
+## Abstract
+Bank runs are a natural phenomenon for financial institutions that issue fixed value liabilities (e.g. money) that are backed by assets with uncertain value. I analyze Iron Finance, a decentralized finance (DeFi) protocol that issues stablecoin (a token with fixed nominal exchange rate: IRON) liabilities in exchange for a basket of other tokens (including a token issued by the protocol itself: TITAN). A combination of mathematical algorithms and incentive to arbitrage is used to maintain the exchange rate peg, but a shock to the protocol sent it into a downward spiral – much like a bank run. The incentives built into the protocol to defend the peg exacerbated its unravelling, raising the challenge of how DeFi protocols can address this vulnerability while remaining decentralized.
+
+**Source:** https://www.semanticscholar.org/paper/e1964a4a1b7487eab9f7ba988e37ce279365b295
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:59.832Z

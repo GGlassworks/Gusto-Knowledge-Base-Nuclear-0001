@@ -1,0 +1,13 @@
+# Real-Time Discovery and Mining System of Blockchain Extractable Value for Decentralized Finance Protocol Optimization
+
+**Authors:** Fangzhou Tang, Yuhang Liu, Qian Zhao, Yayun Cheng
+
+## Abstract
+The adoption of blockchain technology has catalyzed the expansion of decentralized finance (DeFi), leading to the harnessing of blockchain platforms. However, the decentralization of blockchain has given rise to blockchain extractable value (BEV) activities, influenced by consensus mechanisms. This study centers on BEV, unveiling a real-time discovery and mining system (RDMS) tailored for arbitrage-based DeFi activities. The system employs innovative methodologies for localized computation and execution. It establishes a comprehensive monitoring system for arbitrage and liquidation activities, contributing positively to the DeFi ecosystem. Leveraging round-the-clock on-chain data indexing and event-driven parsing methods, the RDMS enables automated and periodic analysis of BEV activities. This system provides valuable insights for BEV research, particularly in the context of arbitrage and liquidation activities. And we are able to consistently extract value using arbitrage strategies on blockchains, using RDMS that monitors the chain in real time and applies gas cost reduction mechanisms. Experimental testing and comparative analysis validate the RDMS's effectiveness, showcasing minimal latency and remarkable gas optimization capabilities.
+
+**Source:** https://www.semanticscholar.org/paper/af981822918f1da4b3d318fe0a2ebdb60e8ea0e0
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:08.504Z

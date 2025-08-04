@@ -1,0 +1,13 @@
+# Auto.gov: Learning-based On-chain Governance for Decentralized Finance (DeFi)
+
+**Authors:** Jiahua Xu, Daniel Perez, Yebo Feng, Benjamin Livshits
+
+## Abstract
+In recent years, decentralized finance (DeFi) has experienced remarkable growth, with various protocols such as lending protocols and automated market makers (AMMs) emerging. Traditionally, these protocols employ off-chain governance, where token holders vote to modify parameters. However, manual parameter adjustment, often conducted by the protocol’s core team, is vulnerable to collusion, compromising the integrity and security of the system. Furthermore, purely deterministic, algorithm-based approaches may expose the protocol to novel exploits and attacks. In this paper, we present “Auto.gov”, a learning-based on-chain governance framework for DeFi that enhances security and reduces susceptibility to attacks. Our model leverages a deep Q-network (DQN) reinforcement learning approach to propose semi-automated, intuitive governance proposals with quantitative justifications. This methodology enables the system to efficiently adapt to and mitigate the negative impact of malicious behaviors, such as price oracle attacks, more effectively than benchmark models. Our evaluation demonstrates that Auto.gov offers a more reactive, objective, efficient, and resilient solution compared to existing manual processes, thereby significantly bolstering the security and, ultimately, enhancing the profitability of DeFi protocols.
+
+**Source:** https://www.semanticscholar.org/paper/ee915214a087351527128b494b4ebaff00105eef
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:39:33.576Z

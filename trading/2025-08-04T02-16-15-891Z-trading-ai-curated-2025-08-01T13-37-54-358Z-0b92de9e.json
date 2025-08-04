@@ -1,0 +1,13 @@
+# Securing Deployed Smart Contracts and DeFi With Distributed TEE Cluster
+
+**Authors:** Zecheng Li, Bin Xiao, Songtao Guo, Yuanyuan Yang
+
+## Abstract
+Smart contract technologies can be used to implement almost arbitrary business logic. They can revolutionize many businesses such as payments, insurance, and crowdfunding. The resulting birth of decentralized finance (DeFi) has gained significant momentum. Smart contracts and DeFi are now attractive targets for attacks. An important research question is how to protect deployed smart contracts and DeFi. Smart contracts cannot be modified once deployed, namely vulnerabilities cannot be fixed by patching. In this case, vulnerabilities in deployed contracts and DeFi might cause devastating consequences. In this paper, we put forward SolSaviour, a framework for protecting deployed smart contracts and DeFi. The core of SolSaviour is to build a smart contract protection mechanism based on democratic voting using a distributed trusted execution environment (TEE) cluster. Once a vulnerability in deployed contracts or DeFi is found, SolSaviour can destroy the defective contract and redeploy a patched contract via the distributed TEE cluster. Moreover, SolSaviour can migrate funds and state variables from the destroyed contract to the patched one. Compared with previous work, our approach can protect smart contracts and DeFi in a distributed manner, avoiding reliance on privileged users or trusted third parties. Our experiment results show that SolSaviour can protect smart contracts and complex DeFi protocols with feasible overhead.
+
+**Source:** https://www.semanticscholar.org/paper/47e38722b377443df21687e2fc105791d64ce8b4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:37:54.359Z

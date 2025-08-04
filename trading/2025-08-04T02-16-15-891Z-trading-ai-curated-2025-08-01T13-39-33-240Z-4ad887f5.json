@@ -1,0 +1,13 @@
+# Is there a nexus between NFT, DeFi and carbon allowances during extreme events?
+
+**Authors:** Bikramaditya Ghosh, Mariya Gubareva, Noshaba Zulfiqar, A. Bossman
+
+## Abstract
+PurposeThe authors target the interrelationships between non-fungible tokens (NFTs), decentralized finance (DeFi) and carbon allowances (CA) markets during 2021–2023. The recent shift of crypto and DeFi miners from China (the People's Republic of China, PRC) green hydro energy to dirty fuel energies elsewhere induces investments in carbon offsetting instruments; this is a backdrop to the authors’ investigation.Design/methodology/approachThe quantile vector autoregression (VAR) approach is employed to examine extreme-quantile-connectedness and spillovers among the NFT Index (NFTI), DeFi Pulse Index (DPI), KraneShares Global Carbon Strategy ETF price (KRBN) and the Solactive Carbon Emission Allowances Rolling Futures Total Return Index (SOLCARBT).FindingsAt bull markets, DPI is the only consistent net shock transmitter as NFTI transmits innovations only at the most extreme quantile. At bear markets, KRBN and SOLCARBT are net shock transmitters, while NFTI is the only consistent net shock receiver. The receiver-transmitter roles change as a function of the market conditions. The increases in the relative tail dependence correspond to the stress events, which make systemic connectedness augment, turning market-specific idiosyncratic considerations less relevant.Originality/valueThe shift of digital asset miners from the PRC has resulted in excessive fuel energy consumption and aggravated environmental consequences regarding NFTs and DeFi mining. Although there exist numerous studies dedicated to CA trading and its role in carbon print reduction, the direct nexus between NFT, DeFi and CA has never been addressed in the literature. The originality of the authors’ research consists in bridging this void. Results are valuable for portfolio managers in bull and bear markets, as the authors show that connectedness is more intense under such conditions.
+
+**Source:** https://www.semanticscholar.org/paper/f0941beebf38240592d06e3bd22f54eeae6f3895
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:39:33.240Z

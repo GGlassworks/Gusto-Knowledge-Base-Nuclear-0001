@@ -1,0 +1,13 @@
+# Collateral Portfolio Optimization in Crypto-Backed Stablecoins
+
+**Authors:** B. Hajek, Daniël Reijsbergen, Anwitaman Datta, Jussi Keppo
+
+## Abstract
+Stablecoins - crypto tokens whose value is pegged to a real-world asset such as the US Dollar - are an important component of the DeFi ecosystem as they mitigate the impact of token price volatility. In crypto-backed stablecoins, the peg is founded on the guarantee that in case of system shutdown, each stablecoin can be exchanged for a basket of other crypto tokens worth approximately its nominal value. However, price fluctuations that affect the collateral tokens may cause this guarantee to be invalidated. In this work, we investigate the impact of the collateral portfolio's composition on the resilience to this type of catastrophic event. For stablecoins whose developers maintain a significant portion of the collateral (e.g., MakerDAO's Dai), we propose two portfolio optimization methods, based on convex optimization and (semi)variance minimization, that account for the correlation between the various token prices. We compare the optimal portfolios to the historical evolution of Dai's collateral portfolio, and to aid reproducibility, we have made our data and code publicly available.
+
+**Source:** https://www.semanticscholar.org/paper/c288eb8e10cf9ddd3c69b40b481bcb1c5914fc81
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:08.159Z

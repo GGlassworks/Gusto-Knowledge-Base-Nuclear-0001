@@ -1,0 +1,13 @@
+# Investigating Similarities Across Decentralized Financial (DeFi) Services
+
+**Authors:** Junliang Luo, Stefan Kitzler, Pietro Saggese
+
+## Abstract
+We explore the adoption of graph representation learning (GRL) algorithms to investigate similarities across services offered by Decentralized Finance (DeFi) protocols. Following existing literature, we use Ethereum transaction data to identify the DeFi building blocks. These are sets of protocol-specific smart contracts that, similarly to “financial LEGO bricks”, are utilized in combination within single transactions and encapsulate the logic to conduct specific financial services such as swapping or lending cryptoassets. We propose a method to categorize these blocks into clusters based on their smart contract attributes and the graph structure of their smart contract calls. We employ GRL to create embedding vectors from building blocks and agglomerative models for clustering them. To evaluate whether they are effectively grouped in clusters of similar functionalities, we associate them with eight financial functionality categories and use this information as the target label. We find that in the best-case scenario purity reaches .888. We use additional information to associate the building blocks with protocol-specific target labels, obtaining comparable purity (.864) but higher V-Measure (.571) and discuss plausible explanations for this difference. In summary, this method helps categorize existing financial products offered by DeFi protocols, and can effectively automatize the detection of similar DeFi services, especially within protocols.
+
+**Source:** https://www.semanticscholar.org/paper/bbbebc63d9462c40a30ab80dafb27763993aa8f4
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:59.182Z

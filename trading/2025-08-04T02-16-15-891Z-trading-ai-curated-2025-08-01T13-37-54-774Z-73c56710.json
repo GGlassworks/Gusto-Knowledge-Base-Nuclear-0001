@@ -1,0 +1,13 @@
+# Implementation and preliminary evaluation of an auditable confidentiality mechanism for DeFi
+
+**Authors:** AoXuan Li, Su-Kit Tang, Gabriele D’Angelo
+
+## Abstract
+A well-known use of the blockchain technology is Decentralized Finance (DeFi). DeFi makes financial information accessible to the public but raises potential privacy and security issues. In this study, we implemented a DeFi protocol that protects privacy, which is based on the Mystiko.Network protocol. As a proxy between the user and DeFi platforms, the Mystiko.Network protocol offers an auditable confidentiality mechanism for blockchain transactions. Via the new system, users may submit anonymous DeFi transactions and get income back into a shielded tokens pool. Moreover, we implemented a rollup approach to handle anonymous DeFi transactions in groups. The evaluation results suggest that the protocol is both practical and affordable, in fact it is able to save around 90% of the cost for DeFi transactions.
+
+**Source:** https://www.semanticscholar.org/paper/ec7a3f59d4b83c2091efb24d527c7cc9597c3752
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:37:54.775Z

@@ -1,0 +1,13 @@
+# Advancing DeFi Analytics: Efficiency Analysis with Decentralized Exchanges Comparison Service
+
+**Authors:** Evgenii Onishchuk, Maksim Dubovitskii, Eduard Horch
+
+## Abstract
+This empirical study presents the Decentralized Exchanges Comparison Service (DECS), a novel tool developed by 1inch Analytics to assess exchange efficiency in decentralized finance. The DECS utilizes swap transaction monitoring and simulation techniques to provide unbiased comparisons of swap rates across various DEXes and aggregators. Analysis of almost 1.2 million transactions across multiple blockchain networks demonstrates that both 1inch Classic and 1inch Fusion consistently outperform competitors. These findings not only validate 1inch's superior rates but also provide valuable insights for continuous protocol optimization and underscore the critical role of data-driven decision-making in advancing DeFi infrastructure.
+
+**Source:** https://www.semanticscholar.org/paper/5dcf16af48b917ee8dff22bbe72bf75b5a36a290
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:07.428Z

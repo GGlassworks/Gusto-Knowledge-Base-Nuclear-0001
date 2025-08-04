@@ -1,0 +1,13 @@
+# Defi Banking System
+
+**Authors:** Mrs. Jagruti Jadhav, Tina D Dalvi, Prakritti R Jha, Vaishnavi V Sirimalla
+
+## Abstract
+Decentralized Finance (DeFi) has revolutionized traditional banking paradigms, offering transparent, peer-to-peer financial services without intermediaries. This paper presents a novel DeFi banking system that leverages advanced blockchain technologies including Solana and Ethereum networks, integrated through React, Node.js, and Metamask. The system facilitates seamless ETH transactions both sending and receiving across multiple networks using Hard Hat for simulation and testing. By implementing decentralized transaction history tracking, it aims to enhance transparency and user autonomy in digital banking. Our project addresses key issues of scalability, security, and ease of access, which are fundamental in current decentralized applications. We analyze the interplay between decentralized systems and traditional banking infrastructures, shedding light on how DeFi could offer faster, cheaper, and more secure financial services. Additionally, we discuss potential challenges, such as regulatory uncertainties and smart contract vulnerabilities, which need to be addressed for DeFi systems to gain widespread adoption. Through this system, we envision a future where DeFi can complement, rather than disrupt, traditional banking by providing secure, scalable, and user-centric financial services.
+
+**Source:** https://www.semanticscholar.org/paper/21d29d7c63498f0ce05cf6e37c28f9fe023cd018
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:40:33.173Z

@@ -1,0 +1,13 @@
+# DeFiSentinel: AI-Enhanced Decentralized Finance Architecture With Advanced Cryptographic Smart Contracts for Data Integrity and Threat Resilience
+
+**Authors:** Seyed Mani Rahnama
+
+## Abstract
+The flexibility of Decentralized Finance (DeFi) has made it popular and fueled the rapid adoption. However, it introduces security vulnerabilities, fraud risks, and data integrity challenges that traditional financial frameworks fail to address. This paper presents DeFiSentinel, a novel AI-enhanced DeFi architecture that integrates Federated Learning (FL), Blockchain, and Cryptographic Smart Contracts to improve financial security and risk management. In this approach, the privacy-preserving risk assessment is done through FL, allowing multiple financial institutions to collaboratively train fraud detection models while maintaining the confidentiality of sensitive data. The integration of a deep neural network (DNN)–based fraud detection mechanism enhances real-time threat resilience. The blockchain-based anomaly detection and cryptographic smart contracts ensure data integrity and tamper-proof financial transactions through DeFiSentinel. According to the findings from the experimental analysis, the FL model achieves an MSE of 0.021 for risk assessment and an $R^{2}$ score of 0.96. The DNN-based fraud detection framework attains a precision of 92.4%, a recall of 91.1%, and an F1-score of 91.7%. Additionally, blockchain latency remains at an average of 3.70 seconds, while smart contract execution maintains low computational overhead. The results confirm that DeFiSentinel effectively mitigates fraud, enhances transaction security, and ensures regulatory compliance in decentralized financial ecosystems. The findings pave the way for scalable, secure, and efficient financial transactions in DeFi, with future work focusing on optimizing scalability and regulatory adaptation.
+
+**Source:** https://www.semanticscholar.org/paper/cb9fd3350b4b7c7559c375d764dc3a817fee6275
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:40:33.688Z

@@ -1,0 +1,13 @@
+# Smart contract vulnerability in DeFi: Assessing security risk in blockchain-based lending platforms
+
+**Authors:** Nonso Okika, Omoshalewa Anike Adeosun, Oluwatobi Julius Ogunjide, Blessing Unwana Umoh, Modupe Elizabeth Temidayo
+
+## Abstract
+The blockchain based smart contracts allow the creation of peer-to-peer lending in a decentralized finance model called DeFi. While Aave, Compound, and MakerDAO make it easier to gain access to capital and do away with middlemen, security breaches are highly likely to occur. This study analyzes the smart contract vulnerabilities such as reentrancy attacks, oracle manipulation, flash loan exploits, are systematically highlighted and their impact on projects in the market. Furthermore, it completes assessment beyond the security focus of liquidity volatility, regulatory uncertainty and fragmented risk management framework. A systematic literature review was adopted in the study with peer reviewed journal, industry report as well as case studies of past DeFi exploits. The key vulnerabilities, risk assessment methods, and mitigation frameworks are dealt as a theme. According to findings, although smart contract security has improved, DeFi is still very prone to exploitation for the lack of centralized oversight and standardised security measures. The study also brings our attention to the fact that risks in smart contract need continuous smart contract audits, formal verification schemes, and decentralized insurance mechanisms as well as regulatory collaboration. For the sustainable growth of DeFi lending platforms, such a balance should be made possible between technological security measures and improved governance and regulatory frameworks. The increased security mechanisms will increase the user trust and make decentralized lending an alternative to traditional financial systems.
+
+**Source:** https://www.semanticscholar.org/paper/7e601bdc2fae8ccd691af0ca6433aa25c62a0996
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:36:57.403Z

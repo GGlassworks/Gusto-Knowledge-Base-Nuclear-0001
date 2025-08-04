@@ -1,0 +1,13 @@
+# On the Fragility of DeFi Lending
+
+**Authors:** Jonathan Chiu, Emre Ozdenoren, K. Yuan, Shengxing Zhang
+
+## Abstract
+We develop a dynamic model of decentralized finance (DeFi) lending that incorporates two/these key features: 1) borrowing and lending are decentralized, anonymous, overcollateralized and backed by the market value of crypto assets where contract terms are pre-specified and rigid; and 2) information friction exists between borrowers and lenders. We identify a price-liquidity feedback: the market outcome in any given period depends on agents’ expectations about lending activities in future periods, with higher price expectations leading to more lending and higher prices in that period. Given the rigidity inherent to smart contracts, this feedback leads to multiple self-fulfilling equilibria where DeFi lending and asset prices move with market sentiment. We show that flexible updates of smart contracts can restore equilibrium uniqueness. This finding highlights the difficulty of achieving stability and efficiency in a decentralized environment without a liquidity backstop.
+
+**Source:** https://www.semanticscholar.org/paper/864c65b1e49392832eeb08883066e14f3bf82665
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:41:24.667Z

@@ -1,0 +1,13 @@
+# Generalized Short Circuit Ratio for Multi Power Electronic based Devices Infeed Systems: Defi-nition and Theoretical Analysis
+
+**Authors:** H. Xin, W. Dong, D. Gan, Xiaoming Yuan
+
+## Abstract
+Short circuit ratio (SCR) is widely applied to analyze the strength of AC system and the small signal stability for single power elec-tronic based devices infeed systems (SPEISs). However, there still lacking the theory of short circuit ratio applicable for multi power electronic based devices infeed systems (MPEIS), as the complex coupling among multi power electronic devices (PEDs) leads to difficulties in stability analysis. In this regard, this paper firstly proposes a concept named generalized short circuit ratio (gSCR) to measure the strength of connected AC grid in a multi-infeed system from the small signal stability point of view. Generally, the gSCR is physically and mathematically extended from conven-tional SCR by decomposing the multi-infeed system into n inde-pendent single infeed systems. Then the operation gSCR (OgSCR) is proposed based on gSCR in order to take the variation of op-eration point into consideration. The participation factors and sensitivity are analyzed as well. Finally, simulations are conducted to demonstrate the rationality and effectiveness of the defined gSCR and OgSCR.
+
+**Source:** https://www.semanticscholar.org/paper/ccd4beb1403f0aac590d221df2769bcde3f8d0ea
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:37:53.785Z

@@ -1,0 +1,13 @@
+# Prototype of Learning Applications for Modern Cryptographic Techniques Using RC4 Algorithms to Support Computer Security Courses
+
+**Authors:** M. Iqbal, N. Nazar, Cut Ita Erliana, Defi Irwansyah, N. Kurniasih, E. Susilo, A. Iskandar, Rini Suryani, Supriyono, Sudarmaji, Erwin Putera Permana, Alfian Erwinsyah, Sujinah, Haimah, I. Sudarsana
+
+## Abstract
+The security of information in this global era is increasingly becoming a vital need in various aspects of life. An information will have a higher value when it comes to aspects of business decisions. This study presents a learning application to explain how to secure data using cryptographic techniques. This study aims to design a prototype learning application of cryptographic techniques using algorithm RC4 method. Based on the results of data analysis and after completing the design of RC4 algorithm cryptographic learning software, the authors found this software shows every step and stages of the processes (data input process (Plaintext or Ciphertext string), Key padding process (U), formation process in S-Box table, the Key-Flow formation process (K-keystream), encryption process and decryption process) contained in RC4 algorithm cryptography, so it can help understanding or learning work procedures of algorithms in the cryptographic method. Microsoft Visual Basic 2008 is an IDE (Integrated Development Environment) application that is used to create and develop software. In this application there were various features that facilitate programming such as compilation, debugging, project settings, designing and editing visual interfaces, and so on.
+
+**Source:** https://www.semanticscholar.org/paper/f39a6ddb08e41a9f8033cf279c5b68792440c995
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:35:00.762Z

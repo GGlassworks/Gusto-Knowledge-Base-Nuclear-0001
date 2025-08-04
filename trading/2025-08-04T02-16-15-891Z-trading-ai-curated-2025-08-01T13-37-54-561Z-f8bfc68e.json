@@ -1,0 +1,13 @@
+# Regulation of DeFi Lending
+
+**Authors:** Sea-hoon Kwon
+
+## Abstract
+The rise of intermediary-less decentralized finance (“DeFi”) lending has led many to wonder how it should be regulated. Although DeFi lending could potentially offer reduced risks of centralization and market frictions, investors in DeFi lending are currently exposed to centralized risks and losses in the volatile market in the absence of regulation. The SEC suggested that the agency might regulate the sector under the federal securities laws. A truly decentralized lending project, however, does not involve any centralized entity that could carry the burden of compliance with the securities laws. This Note shows that many DeFi lending projects are not truly decentralized and are in various stages of decentralization. Unlike P2P lenders and financial intermediaries that bear the costs of compliance, many DeFi developers seek to build automated lending systems and gradually relinquish their control over their creation. However, with the lack of regulation, the investors have no means to tell actors who seek to build secure decentralized systems from those who do not in the early stage of DeFi protocol development. To address the issue, this Note proposes a three-part framework that would oversee the process of decentralization for DeFi lending projects, drawing its structure from the U.S. banking regulation focused on supervision. First, the framework recognizes the value of decentralization in reducing market frictions and risks of centralization. Second, the framework establishes a federal agency that oversees the process of decentralization on the flexible safety and soundness standard of Glass-Steagall Act. Third, the framework grants enforcement powers to the federal agency to sanction DeFi platforms that do not comply with government regulations.
+
+**Source:** https://www.semanticscholar.org/paper/5ce9ef95413e2bceddf8869879350644f0f80139
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:37:54.561Z

@@ -1,0 +1,13 @@
+# Assessing the Effectiveness of Cybersecurity Frameworks in Mitigating Cyberattacks in the Banking Sector and its Applicability to Decentralized Finance (DeFi)
+
+**Authors:** Abayomi Titilola Olutimehin
+
+## Abstract
+This study evaluates the effectiveness of cybersecurity frameworks in mitigating cyber threats in traditional banking while assessing their applicability to Decentralized Finance (DeFi). Using financial sector reports, cybersecurity incident databases, and DeFi security audits, we analyze compliance with NIST CSF, ISO/IEC 27001, and PCI-DSS alongside factors such as bank size, IT security investments, and regulatory fines to determine their impact on cyber resilience. Logistic regression results indicate that compliance with cybersecurity frameworks reduces cyberattack likelihood (p = 0.0689, marginally significant), while larger institutions face fewer threats (p = 0.0256, statistically significant). However, increased IT security budgets paradoxically correlate with higher attack frequencies (p = 0.0385, statistically significant), suggesting larger attack surfaces may offset security investments. In contrast, DeFi faces disproportionately higher smart contract exploits, flash loan attacks, and oracle manipulation, leading to significantly greater financial losses (F = 216.92, p < 0.001, highly significant) than traditional banking cyber incidents. Regulatory compliance and industry collaboration show promise in reducing attack occurrences, with cyber incidents projected to decline by over 40% by 2029 under stricter enforcement. However, traditional frameworks are insufficient for DeFi’s decentralized structure, necessitating AI-driven threat detection, mandatory smart contract audits, secure oracle mechanisms, and adaptive regulatory frameworks. This study highlights the urgent need for tailored DeFi cybersecurity strategies while reinforcing the effectiveness of compliance-driven models in banking. It provides actionable insights for financial institutions, regulators, and cybersecurity professionals seeking to enhance resilience across centralized and decentralized financial systems.
+
+**Source:** https://www.semanticscholar.org/paper/55e217a56f5d379c3348a019dc39f0e7f6279433
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:36:56.679Z

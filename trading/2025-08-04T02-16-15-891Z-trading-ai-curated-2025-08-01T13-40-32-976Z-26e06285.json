@@ -1,0 +1,13 @@
+# A Multi-Signature Scheme for Defending Malleability Attack on DeFi
+
+**Authors:** Chen Zhang, Wenyu Liao, Xiaobing Liu, Huanrong Wu, Mohammed J. F. Alenazi
+
+## Abstract
+Signatures are crucial in blockchain-based Decentralised Finance (DeFi) protocols because they ensure the security and integrity of transactions and smart contracts. Due to the weakness in the signature scheme, it is possible to carry out a malleability attack (MA) by changing the transaction ID (TxId) without affecting the transaction’s actual content or validity. Currently, signature systems can only resist partial malleability attacks from multiple attack paths. This paper proposes an advanced multi-signature scheme (MSS) as a supplementary signature that integrates unmalleable transaction implementations. In MSS, the owners and block producers themselves generate the signature. MSS improves transaction efficiency by allowing many signers to establish a joint signature, which has piqued interest. Despite the method’s complexity and time-consuming nature, this research has adapted MSS to the blockchain to safeguard against malleability attacks. By integrating it with several other optimisations, such as executing intermediate transactions using a hash function, MSS ensures complete resistance against malleability attacks. In comparison to baseline approaches, testbed simulations demonstrate scalability and 15% higher resistance against malleability attack success.
+
+**Source:** https://www.semanticscholar.org/paper/c9f19cc24c88ad7b3daced2e4d8bfa609873fe93
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:40:32.976Z

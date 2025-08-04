@@ -1,0 +1,13 @@
+# DeFi Survival Analysis: Insights Into the Emerging Decentralized Financial Ecosystem
+
+**Authors:** Aaron Green, Michael Giannattasio, John S. Erickson, O. Seneviratne, Kristin P. Bennett
+
+## Abstract
+We propose a survival analysis approach for discovering and characterizing user behavior and risks for lending protocols in decentralized finance (DeFi). We demonstrate how to gather and prepare DeFi transaction data for survival analysis. We illustrate our approach using transactions in Aave, one of the largest lending protocols. We develop a DeFi survival analysis pipeline that first prepares transaction data for survival analysis through the selection of different index events (or transactions) and associated outcome events. Then we apply survival analysis statistical and visualization methods modified for competing risks when appropriate, such as Kaplan–Meier survival curves, cumulative incidence functions, Cox hazard regression, and Fine-Gray models for sub-distribution hazards to gain insights into usage patterns and risks within the protocol. We show how, by varying the index and outcome events as well as covariates, we can use DeFi survival analysis to answer questions like “How does loan size affect the repayment schedule of the loan?”; “How does loan size affect the likelihood that an account gets liquidated?”; “How does user behavior vary between Aave markets?”; “How has user behavior in Aave varied from quarter to quarter?” The proposed DeFi survival analysis can easily be generalized to other DeFi lending protocols. By defining appropriate index and outcome events, DeFi survival analysis can be applied to any cryptocurrency protocol with transactions.
+
+**Source:** https://www.semanticscholar.org/paper/12fbd520003e5c245381a61a6847539cf18a6c84
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:38:43.630Z

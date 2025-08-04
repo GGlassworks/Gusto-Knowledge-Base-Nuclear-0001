@@ -1,0 +1,13 @@
+# Ethereum DeFi Apps in the Wild: Profiling and Implications
+
+**Authors:** Ziwei Wang, Haotian Lu, Xuetao Wei
+
+## Abstract
+Decentralized Finance (DeFi) has been gaining rising importance due to advanced blockchain technology and web3.0. Consequently, many decentralized finance applications (DeFi apps) have emerged, which aim to reconstruct traditional finance and provide financial services with decentralization, transparency, and autonomy. To better understand the characteristics of DeFi apps in this rapidly evolving era, in this paper, we propose to profile DeFi apps based on 666 rigorously classified DeFi apps from a multi-layer perspective, which includes the transaction layer, token layer, and value layer. Our research provides insight into the multiple layers of DeFi apps, including both the breadth and the depth of current transactions, the degree to which apps are interconnected at the level of value flow, and an initial investigation into the relationship between whale trading and market crashes, which better help DeFi app developers with app design, performance evaluation, and optimization.
+
+**Source:** https://www.semanticscholar.org/paper/8ff1471cb90ba88822593c57c31f56c93660e7bc
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:34:07.759Z

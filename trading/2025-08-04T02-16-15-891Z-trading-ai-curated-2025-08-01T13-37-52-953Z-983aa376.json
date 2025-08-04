@@ -1,0 +1,13 @@
+# Unmasking Role-Play Attack Strategies in Exploiting Decentralized Finance (DeFi) Systems
+
+**Authors:** Weilin Li, Zhun Wang, Chenyu Li, Heying Chen, Taiyu Wong, Pengyu Sun, Yufei Yu, Chao Zhang
+
+## Abstract
+The rapid growth and adoption of decentralized finance (DeFi) systems have been accompanied by various threats, notably those emerging from vulnerabilities in their intricate design. In our work, we introduce and define an attack strategy termed asRole-Play Attack, in which the attacker acts as multiple roles concurrently to exploit the DeFi system and cause substantial financial losses. We provide a formal definition of this strategy and demonstrate its potential impacts by revealing the total loss of \435.1M caused by 14 historical attacks with applying this pattern. Besides, we mathematically analyzed the attacks with top 2 losses and retrofitted the corresponding attack pattern by concrete execution, indicating that this strategy could increase the potential profit for original attacks by \3.34M (51.4%) and \3.76M (12.0%), respectively.
+
+**Source:** https://www.semanticscholar.org/paper/fc322182fafd5640b5ac23561ba2b49ddfb71a0f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:37:52.955Z
