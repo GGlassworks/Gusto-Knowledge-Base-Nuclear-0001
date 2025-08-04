@@ -1,0 +1,13 @@
+# DAMBE5: A Comprehensive Software Package for Data Analysis in Molecular Biology and Evolution
+
+**Authors:** X. Xia
+
+## Abstract
+Since its first release in 2001 as mainly a software package for phylogenetic analysis, data analysis for molecular biology and evolution (DAMBE) has gained many new functions that may be classified into six categories: 1) sequence retrieval, editing, manipulation, and conversion among more than 20 standard sequence formats including MEGA, NEXUS, PHYLIP, GenBank, and the new NeXML format for interoperability, 2) motif characterization and discovery functions such as position weight matrix and Gibbs sampler, 3) descriptive genomic analysis tools with improved versions of codon adaptation index, effective number of codons, protein isoelectric point profiling, RNA and protein secondary structure prediction and calculation of minimum folding energy, and genomic skew plots with optimized window size, 4) molecular phylogenetics including sequence alignment, testing substitution saturation, distance-based, maximum parsimony, and maximum-likelihood methods for tree reconstructions, testing the molecular clock hypothesis with either a phylogeny or with relative-rate tests, dating gene duplication and speciation events, choosing the best-fit substitution models, and estimating rate heterogeneity over sites, 5) phylogeny-based comparative methods for continuous and discrete variables, and 6) graphic functions including secondary structure display, optimized skew plot, hydrophobicity plot, and many other plots of amino acid properties along a protein sequence, tree display and drawing by dragging nodes to each other, and visual searching of the maximum parsimony tree. DAMBE features a graphic, user-friendly, and intuitive interface and is freely available from http://dambe.bio.uottawa.ca (last accessed April 16, 2013).
+
+**Source:** https://www.semanticscholar.org/paper/160c999d6647b95170538d961b6bcddfc2ba550b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T16:36:08.744Z
