@@ -1,0 +1,13 @@
+# Analysis of the Performance of Distribution Transformers under Short Circuit Conditions. Experiments
+
+**Authors:** Iovan Daniela, Poenaru Andrei-Alexandru, Sălceanu Cristian-Eugeniu, Ocoleanu Daniel-Constantin, Popa Teodor, Stefan Dan, Enache Sorin
+
+## Abstract
+<jats:p>The design of power transformers is heavily influenced by their performance during short circuit. This paper explores the experimental analysis of a power transformer with circular concentric coils, utilizing metal foil conductor in the low-voltage winding, and a rated power of 2000 kVA. To validate its behavior, the study employs Frequency Response Analysis (FRA), a widely recommended diagnostic method for identifying internal faults in power transformers. Furthermore, the paper provides insights into the design specifics of power transformers used in renewable energy power plants. By highlighting the unique aspects and criticalities examined, this study establishes itself as a niche contribution to understanding safety in transformer operation. The research also delves into experiments conducted in a high-power laboratory to investigate how transformers respond to the dynamic effects of short circuit. Particular attention is given to the thermal and mechanical impacts of short circuit currents, with an emphasis on their negative consequences. Additionally, the paper discusses a system configuration where direct current (DC) produced by photovoltaic cells is converted into alternating current (AC) using one or more inverters connected to the low-voltage windings of a step-up transformer. Finally, the study underscores the importance of assessing the short circuit behavior of power transformer, focusing on the irreversible deformations caused by axial and radial forces during short circuit events.</jats:p>
+
+**Source:** https://doi.org/10.52846/aucee.2024.05
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:45:36.614Z

@@ -1,0 +1,13 @@
+# Experimental Study of the Pressure Exerted in the Body of a High-Voltage Fuse and Metal Enclosed Switchgear
+
+**Authors:** Cristian-Eugeniu Sălceanu, Cătălin Dobrea, Daniel Constantin Ocoleanu, Daniela Iovan
+
+## Abstract
+<jats:p>This article presents the importance of analyzing the breakdown behaviour of high voltage fuses and highlights the pressure values at the fuse ends.  The theoretical basis, test scheme structure, design and sizing elements of fuse components, and numerical simulations performed in Matlab/Simulink are presented. The extinguishing environment is not modelled as it is considered to be a vacuum Starting with the oldest overcurrent protection device and continuing with the importance of high voltage fuses for operational safety, the study presents the behaviour of high voltage fuses during short-circuit current interruption. The key element is the value of the pressure on the contacts of fuses, which is often ignored in favour of the pressure of the middle element. When fuses change from solid to liquid state the inner parts are hotter than the outer parts and melt first, and the melting zone extends to the periphery. The study found that the pressure is much higher and is an important value for designers. Experiments showed that the maximum pressure is reached during the arcing period, a significant finding for the design process of the contacts of a high-voltage fuse. The research was then extrapolated to check the pressure in metal enclosed switchgear containing fuse combinations.</jats:p>
+
+**Source:** https://doi.org/10.52846/aucee.2023.09
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:46:28.704Z

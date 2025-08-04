@@ -1,0 +1,13 @@
+# Development of Theft and Accidental Notification Systems for Two Wheelers
+
+**Authors:** Rafi Riyaz, Rithin.K. Thedevos, Aareesh Joshy, B Madhu, K. Ramesh
+
+## Abstract
+<jats:p>Each year, people within the world are progressively utilizing vehicles particularly motorbikes as their common means of transportation. Beside the increment of motorbike clients, motorbike robbery is additionally existing wild over a long time. In this consideration, a framework had been created for burglary anticipation of motorbike in a less demanding and quicker way. The client of this framework will be informed through an alarm, once the motorbike has been moved in a long remove or in case any wires they disengage to stolen. The bike theft is identified easily through Raspberry Pi Technology with the help of relay operations based on hardware and interlinked with software in mobile application. Whenever the bike is tried to steal or getting away unaware of user, the relay circuit gets activated in the bike and gives buzzer sound with bright lighting indicating as alert to the user in his/her mobile application. Another System idea was likely to get notified relative user for accident of a bike in any condition and to represent fuel levels in the two wheelers in terms of liters. Both the given system are dependable on mobile application like blynk and with Google Assistant enables the user to give the alert to the user is forging with accident. Gyroscope fixed in bike with sensors signaling Raspberry Pi which in turn user gets notification at any time. On other case if user is free from any injury he/she can reset the operation provided in the system. Finally users sometimes find difficulty ahead of analog representation of fuel in two wheeler to know the travel arrangements. So in this system ultrasonic technology implementing in the bike placed at the fuel tank lid senses the fuel level in bike and sends the resulting data to the user through same mobile application with the help of Raspberry Pi.</jats:p>
+
+**Source:** https://doi.org/10.35940/ijeat.d7761.049420
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:46:29.572Z

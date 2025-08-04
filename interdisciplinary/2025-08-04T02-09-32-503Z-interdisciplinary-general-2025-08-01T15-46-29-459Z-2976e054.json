@@ -1,0 +1,13 @@
+# Development of SiC merged reverse conductive devices
+
+**Authors:** Yoshitaka Sugawara
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>SiC merged reverse conductive (MRC) power devices composed of both unipolar devices and bipolar devices have been developed to achieve a smaller chip size, a lower power loss, and a higher reliability. SiC MRC power devices such as SiC MRC‐MOSFET and SiC MRC‐IGBT can achieve this performance, but have the problems of on‐voltage degradation and a large snap‐back voltage. The former has been solved by the newly developed majority carrier heating‐TEDREC (MaCH‐TEDREC) method and the latter has been solved by both the newly developed double buffer device structure and novel standard cells with pilot IGBT.</jats:p>
+
+**Source:** https://doi.org/10.1002/eej.23326
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:46:29.460Z

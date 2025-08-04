@@ -1,0 +1,13 @@
+# "Real-Time Sensorless Control of the PMSM based on Genetic Algorithm, Sliding Mode Observer, and SCADA Integration"
+
+**Authors:** Claudiu-Ionel Nicola, Marcel Nicola, Maria-Cristina Niţu, Dumitru Sacerdoţianu, Ancuţa-Mihaela Aciu
+
+## Abstract
+<jats:p>"This paper presents an application for real-time implementation of the Permanent Magnet Synchronous Motor (PMSM) sensorless control system and its integration into Supervisory Control And Data Acquisition (SCADA). Starting from the operating equations of the PMSM and by implementing the global Field Oriented Control (FOC) control strategy, in which the saturation of the integral component of the PI controller is prevented by using an antiwindup technique, the numerical simulations performed in Matlab/Simulink lead to good performance, which recommends the real-time implementation. For the optimal tuning of the PI speed controller of the PMSM the genetic algorithm (GA) is used. Numerical simulations are performed in order to choose the type of Digital Signal Processing (DSP) used for the real-time implementation, considering that a global criterion of successful implementation is the performance/cost ratio. Besides, the integration into SCADA provides flexibility of the control system but also the possibility of online/offline processing from the point of view of other specific requirements. Among them we mention the energy quality analysis, whose first exponent calculated also in realtime is Total Harmonic Distortion (THD). Real-time implementations are performed in Matlab/Simulink and LabVIEW programming environments. According to the trend of the last years, the use of an Internet of Things (IoT) platform for viewing the variables of the control process on the Internet plays an important role. "</jats:p>
+
+**Source:** https://doi.org/10.52846/aucee.2021.1.04
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:45:36.973Z

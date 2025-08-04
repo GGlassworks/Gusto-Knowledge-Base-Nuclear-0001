@@ -1,0 +1,13 @@
+# Performance Comparison of Ensemble Classifiers Algorithms Used in Transformer Fault Detection
+
+**Authors:** Nițu Maria-Cristina, Aciu Ancuța-Mihaela, Nicola Marcel, Nicola Claudiu-Ionel
+
+## Abstract
+<jats:p>Power transformers are essential elements in the production and distribution of electricity, and keeping them in optimum operating condition is a constant concern for specialists in the field. The condition of power transformers is mainly determined by the condition of the mixed insulation system, i.e. solid cellulose paper insulation and liquid insulating oil insulation. The identification method, described in this paper in order to determine the fault condition for power transformers is based on the fact that the assessment of their condition is mainly determined by the condition of the mixed insulation system, namely the solid insulation made of cellulose paper and the liquid insulation made of insulating oil. This is why the Three Ratio Technique (TRT) is used with good results for the early detection of power transformer faults. This method is considered as simple, but at the same time efficient in interpreting the results of dissolved gas analysis. It uses three new gas ratios to differentiate between thermal and electrical faults. In this paper, the ratios defined by the TRT method are used to train a machine learning classifier based on Ensemble Classifiers using Bagged Trees (random forest), Boosted Trees, and RUSBoosted Trees algorithms. The validation of the power transformer fault identification software application for the proposed method is carried out in the experimental section.</jats:p>
+
+**Source:** https://doi.org/10.52846/aucee.2024.04
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:46:27.819Z
