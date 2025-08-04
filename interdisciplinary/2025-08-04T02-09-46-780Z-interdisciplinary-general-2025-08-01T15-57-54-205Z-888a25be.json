@@ -1,0 +1,13 @@
+# Stress Analysis for Novices Using Autodesk Inventor
+
+**Authors:** Joseph Francis Dues
+
+## Abstract
+<jats:p>Finite element analysis (FEA) is a numerical method for calculating stress and strain (and other quantities) in structures that cannot be easily analyzed any other way. FEA analysts use complex software to create a mathematic representation of the physical structure being studied, apply loads to the structure and then solve for the resulting displacements and stresses. In years past, FEA was performed by highly trained analysts with master's level engineering degrees or higher. Today, the combination of competitive market pressures, powerful computer hardware and well designed software has resulted in CAD designers being asked to perform FEA early in the design process. To enable these designers to perform FEA analysis, solid modeling software vendors have incorporated FEA into their solid modeling and design drafting packages. Autodesk Inventor Professional 9 now includes FEA capability from ANSYS, Inc. Earlier versions of this software (without FEA) were used at this University to instruct students in solid modeling and design drafting. With new and ever expanding software capabilities, faculty had to determine how to prepare engineering technology students to use the software appropriately. This paper begins with a discussion of the implementation of FEA in Inventor and strategies for educating engineering technology students in FEA. Then it describes an assignment that demonstrates the stress analysis capability of Inventor after the students have mastered solid modeling. This paper discusses the assignment and compares the results achieved by the students to the expected stress values. Each of the steps of the FEA procedure is examined; define the geometry and material, apply constraints, apply loads, solve and then interpret the results; and the likely areas of student error are discussed. Lastly is a description of the assessment, evaluation and planned improvements to the FEA assignments.</jats:p>
+
+**Source:** https://doi.org/10.1115/imece2006-14569
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:57:54.205Z

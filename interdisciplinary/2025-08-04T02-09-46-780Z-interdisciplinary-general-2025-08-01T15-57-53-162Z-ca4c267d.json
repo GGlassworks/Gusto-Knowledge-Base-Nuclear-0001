@@ -1,0 +1,13 @@
+# Dynamic Stress Analysis and Correlated With Test for an Automotive Driveline
+
+**Authors:** Gene Y. Liao
+
+## Abstract
+<jats:p>This paper documents the result of dynamic stress analysis correlated with bending test for an automotive rear-wheel-drive driveline system. Good correlation is achieved. The procedure developed in this paper consists of three steps. Step 1 is to generate Finite Element Analysis (FEA) models of the components and subsystems, and analyze the system’s natural frequencies, mode shapes and driving point frequency response functions using Nastran software. Step 2 is to develop the propshaft model that includes manufacturing variation and simulated dynamic balancing. Step 3 is to run the dynamic stress analysis in ADAMS software. The objective of developing the analytical procedure of driveline dynamic system is to reduce the number of tests required under driveline design stage. This project also serves as a case study to graduate students in predicting dynamic stress of a real industrial part.</jats:p>
+
+**Source:** https://doi.org/10.1115/imece2004-59069
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:57:53.163Z

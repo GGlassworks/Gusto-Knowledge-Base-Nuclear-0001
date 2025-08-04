@@ -1,0 +1,13 @@
+# Integrating MATLAB and Simulink in an Advanced Engineering Mechanics Course
+
+**Authors:** James B. Dabney, Fathi H. Ghorbel
+
+## Abstract
+<jats:p>An advanced engineering mechanics course teaches students to analyze and model a variety of dynamical systems using Newtonian and Lagrangian mechanics approaches. The modeling task typically produces nonlinear differential equations that are best solved numerically. In order to prepare students to competently solve these systems numerically, the students must master a suitable programming environment. This mastery is achieved incrementally throughout the semester. This paper describes a successful approach to developing the necessary programming skills, culminating in a course project in which the students model a complex dynamical system and produce a graphical animation allowing visualization of dynamical behavior. The paper also describes two typical course projects that have been successfully completed by advanced undergraduate and beginning graduate students.</jats:p>
+
+**Source:** https://doi.org/10.1115/imece2004-60999
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:59:38.855Z

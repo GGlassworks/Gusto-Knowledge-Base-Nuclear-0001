@@ -1,0 +1,13 @@
+# Advancing architectural frameworks for vibration signature classification in rotating machinery
+
+**Authors:** Cole Yorston, Cheng Chen, Jaime Camelio
+
+## Abstract
+<jats:p>Advancements in data-driven predictive maintenance have significantly improved digital twin applications for rotating machinery, offering robust solutions for smart manufacturing challenges. These improvements are crucial since equipment failures can cause extensive and costly disruptions to both maintenance schedules and operations. As precision and reliability are critical in production processes, undetected fluctuations in operating frequencies can swiftly escalate to complete part failure, leading to prolonged repairs and productivity loss. This study explores an integrated dataflow pipeline, specifically through Siemens’ MindSphere, to enable continuous predictive maintenance and enhance data acquisition and management. Particularly, conditions such as normal operation, mass balance, rotating imbalance, and mechanical looseness are classified using support vector machine (SVM), neural network (NN), and K-Nearest Neighbor (KNN) methods for the purpose of comparing results. Our results highlight the efficacy of ensemble techniques in collecting and diagnosing vibration signatures, thereby enabling proactive maintenance. To classify various failure signatures, we have proposed a framework to interpret time-series and frequency-dependent data for determining failure types. This research exemplifies how merging data-driven methods with digital twin can improve the accuracy and reliability of condition monitoring. Additionally, we introduce a cloud-based architecture for the diagnosis of rotating machinery, utilizing Application Programming Interface (API) configurations, and develop a real-time dashboard for streaming and visualizing classified data, fostering immediate and informed decision-making.</jats:p>
+
+**Source:** https://doi.org/10.1177/09544054241260928
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:56:00.945Z

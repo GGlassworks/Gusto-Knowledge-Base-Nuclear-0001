@@ -1,0 +1,13 @@
+# Development of Electromagnetic Induction Systems for Powering “Smart” Actuation Systems
+
+**Authors:** Erin Ritchie, Jeong-Hoi Koo
+
+## Abstract
+<jats:p>The primary goal of this project is to design and test of a novel electromagnetic induction (EMI) system that is capable of converting ambient vibration energy into valuable electric energy for use in powering "smart" actuation systems. The principle of the EMI system is based on the Faraday's Law of Induction: the magnitude of the electromotive force (emf) induced in a circuit is proportional to the rate of change of the magnetic flux that cuts across the circuit. The converted electric energy (i.e., emf) from the EMI system will power a semi-active damping control device called a Magnetorheological (MR) damper. The project has been separated into two phases: (1) Optimal design of EMIs, (2) Performance evaluation of MR-EMIs. To identify an "optimal" EMI configuration, several prototype EMIs were designed and constructed. The performance of each EMI was then experimentally evaluated using a spring-mass system. The effects of the number of turns, coil length, number of phases and type of phase connection of the EMIs were evaluated by comparing maximum output voltages. Analysis of the output voltages revealed that generally increases in the number of turns and the number of phases causes an increase in the output voltage while increases in length caused decreases in voltage. In the second phase of the project, a prototype was built that integrated the EMI systems with an existing MR damper, making an MR-EMI system. The dynamic performance of the MR-EMI was experimentally evaluated using a dynamic force frame and a load cell. The results revealed that the current EMI design generated a force equivalent to that produced by a 2 volt battery.</jats:p>
+
+**Source:** https://doi.org/10.1115/imece2006-15289
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T15:57:00.188Z
