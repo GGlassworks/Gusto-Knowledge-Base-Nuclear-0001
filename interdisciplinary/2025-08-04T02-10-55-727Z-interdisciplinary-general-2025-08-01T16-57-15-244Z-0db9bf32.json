@@ -1,0 +1,13 @@
+# Efficient implementation of penalized regression for genetic risk prediction
+
+**Authors:** Florian Privé, Hugues Aschard, Michael G.B. Blum
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Polygenic Risk Scores (PRS) consist in combining the information across many single-nucleotide polymorphisms (SNPs) in a score reflecting the genetic risk of developing a disease. PRS might have a major impact on public health, possibly allowing for screening campaigns to identify high-genetic risk individuals for a given disease. The “Clumping+Thresholding” (C+T) approach is the most common method to derive PRS. C+T uses only univariate genome-wide association studies (GWAS) summary statistics, which makes it fast and easy to use. However, previous work showed that jointly estimating SNP effects for computing PRS has the potential to significantly improve the predictive performance of PRS as compared to C+T.</jats:p><jats:p>In this paper, we present an efficient method to jointly estimate SNP effects, allowing for practical application of penalized logistic regression (PLR) on modern datasets including hundreds of thousands of individuals. Moreover, our implementation of PLR directly includes automatic choices for hyper-parameters. The choice of hyper-parameters for a predictive model is very important since it can dramatically impact its predictive performance. As an example, AUC values range from less than 60% to 90% in a model with 30 causal SNPs, depending on the p-value threshold in C+T.</jats:p><jats:p>We compare the performance of PLR, C+T and a derivation of random forests using both real and simulated data. PLR consistently achieves higher predictive performance than the two other methods while being as fast as C+T. We find that improvement in predictive performance is more pronounced when there are few effects located in nearby genomic regions with correlated SNPs; for instance, AUC values increase from 83% with the best prediction of C+T to 92.5% with PLR. We confirm these results in a data analysis of a case-control study for celiac disease where PLR and the standard C+T method achieve AUC of 89% and of 82.5%.</jats:p><jats:p>In conclusion, our study demonstrates that penalized logistic regression can achieve more discriminative polygenic risk scores, while being applicable to large-scale individual-level data thanks to the implementation we provide in the R package bigstatsr.</jats:p>
+
+**Source:** https://doi.org/10.1101/403337
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:57:15.244Z
