@@ -1,0 +1,13 @@
+# Integration of Data Mining and Operations Research
+
+**Authors:** Stephan Meisel
+
+## Abstract
+<jats:p>Basically, Data Mining (DM) and Operations Research (OR) are two paradigms independent of each other. OR aims at optimal solutions of decision problems with respect to a given goal. DM is concerned with secondary analysis of large amounts of data (Hand et al., 2001). However, there are some commonalities. Both paradigms are application focused (Wu et al., 2003; White, 1991). Many Data Mining approaches are within traditional OR domains like logistics, manufacturing, health care or finance. Further, both DM and OR are multidisciplinary. Since its origins, OR has been relying on fields such as mathematics, statistics, economics and computer science. In DM, most of the current textbooks show a strong bias towards one of its founding disciplines, like database management, machine learning or statistics. Being multidisciplinary and application focused, it seems to be a natural step for both paradigms to gain synergies from integration. Thus, recently an increasing number of publications of successful approaches at the intersection of DM and OR can be observed. On the one hand, efficiency of the DM process is increased by use of advanced optimization models and methods originating from OR. On the other hand, effectiveness of decision making is increased by augmentation of traditional OR approaches with DM results. Meisel and Mattfeld (in press) provide a detailed discussion of the synergies of DM and OR. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-60566-010-3.ch162
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:37:09.828Z

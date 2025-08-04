@@ -1,0 +1,13 @@
+# Evolutionary Development of ANNs for Data Mining
+
+**Authors:** Daniel Rivero
+
+## Abstract
+<jats:p>Artificial Neural Networks (ANNs) are learning systems from the Artificial Intelligence (AI) world that have been used for solving complex problems related to different aspects as classification, clustering, or regression (Haykin, 1999), although they have been specially used in Data Mining. These systems are, due to their interesting characteristics, powerful techniques used by the researchers in different environments (Rabuñal, 2005). Nevertheless, the use of ANNs implies certain problems, mainly related to their development processes. The development of ANNs can be divided into two parts: architecture development and training and validation. The architecture development determines not only the number of neurons of the ANN, but also the type of the connections among those neurons. The training will determine the connection weights for such architecture. Traditionally, and given that the architecture of the network depends on the problem to be solved, the architecture design process is usually performed by the use of a manual process, meaning that the expert has to test different architectures to find the one able to achieve the best results. Therefore, the expert must perform various tests for training different architectures in order to determine which one of these architectures is the best one. This is a slow process due to the fact that architecture determination is a manual process, although techniques for relatively automatic creation of ANNs have been recently developed. This work presents various techniques for the development of ANNs, so that there would be needed much less human participation for such development. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-60566-010-3.ch128
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:38:07.404Z

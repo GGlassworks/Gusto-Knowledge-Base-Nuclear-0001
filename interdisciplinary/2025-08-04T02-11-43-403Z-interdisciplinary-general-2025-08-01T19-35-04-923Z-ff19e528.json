@@ -1,0 +1,13 @@
+# A Data Mining Methodology for Product Family Design
+
+**Authors:** Seung Ki Moon
+
+## Abstract
+<jats:p>Many companies strive to maximize resource utilization by sharing and reusing distributed design knowledge and information when developing new products. By sharing and reusing assets such as components, modules, processes, information, and knowledge across a family of products and services, companies can efficiently develop a set of differentiated products by improving the flexibility and responsiveness of product development (Simpson, 2004). Product family planning is a way to achieve cost-effective mass customization by allowing highly differentiated products to be developed from a shared platform while targeting products to distinct market segments (Shooter et al., 2005). In product design, data mining can be used to help identify customer needs, to find relationships between customer needs and functional requirements, and to cluster products based on functional similarity to facilitate modular design (Braha, 2001). The objective in this chapter is to introduce a methodology for identifying a platform along with variant and unique modules in a product family using design knowledge extracted with data mining techniques. During conceptual design, data mining can facilitate decision-making when selecting design concepts by extracting design knowledge and rules, clustering design cases, and exploring conceptual designs in large product design databases interactively (Braha, 2001). Moreover, since design knowledge for a product depends on the experience and knowledge of designers, representation of design knowledge, such as linguistic representation, may fail to describe a crisp representation completely. When clustering design knowledge, the knowledge is needed to assign to clusters with varying degrees of membership. Fuzzy membership can be used to represent and model the fuzziness of design knowledge (Braha, 2001). Design knowledge can be defined as linguistic variables based on the fuzzy set theory to support decision-making in product development (Ma et al., 2007). </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-60566-010-3.ch078
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:35:04.924Z

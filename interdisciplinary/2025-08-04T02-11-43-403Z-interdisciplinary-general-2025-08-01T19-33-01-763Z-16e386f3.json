@@ -1,0 +1,13 @@
+# Data Mining in Banking Sector Using Weighted Decision Jungle Method
+
+**Authors:** Derya Birant
+
+## Abstract
+<jats:p>Classification, as one of the most popular data mining techniques, has been used in the banking sector for different purposes, for example, for bank customer churn prediction, credit approval, fraud detection, bank failure estimation, and bank telemarketing prediction. However, traditional classification algorithms do not take into account the class distribution, which results into undesirable performance on imbalanced banking data. To solve this problem, this paper proposes an approach which improves the decision jungle (DJ) method with a class-based weighting mechanism. The experiments conducted on 17 real-world bank datasets show that the proposed approach outperforms the decision jungle method when handling imbalanced banking data.</jats:p>
+
+**Source:** https://doi.org/10.5772/intechopen.91836
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:33:01.764Z

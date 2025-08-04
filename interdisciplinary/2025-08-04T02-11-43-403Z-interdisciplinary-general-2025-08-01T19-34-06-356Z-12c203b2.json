@@ -1,0 +1,13 @@
+# Data Mining Methods for Microarray Data Analysis
+
+**Authors:** Lei Yu, Huan Liu
+
+## Abstract
+<jats:p>The advent of gene expression microarray technology enables the simultaneous measurement of expression levels for thousands or tens of thousands of genes in a single experiment (Schena, et al., 1995). Analysis of gene expression microarray data presents unprecedented opportunities and challenges for data mining in areas such as gene clustering (Eisen, et al., 1998; Tamayo, et al., 1999), sample clustering and class discovery (Alon, et al., 1999; Golub, et al., 1999), sample class prediction (Golub, et al., 1999; Wu, et al., 2003), and gene selection (Xing, Jordan, &amp; Karp, 2001; Yu &amp; Liu, 2004). This article introduces the basic concepts of gene expression microarray data and describes relevant data-mining tasks. It briefly reviews the state-of-the-art methods for each data-mining task and identifies emerging challenges and future research directions in microarray data analysis. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-59140-557-3.ch054
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T19:34:06.356Z
