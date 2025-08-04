@@ -1,0 +1,13 @@
+# From Text to Data
+
+**Authors:** Patrick Jentsch, Stephan Porada
+
+## Abstract
+<jats:p>This article outlines our practical approach to digitizing historical text sources via Optical Character Recognition (OCR) for subsequent Natural Language Processing (NLP) and corpus analysis. For this purpose we developed two processing pipelines based on pyFlow for parallel computing using Tesseract OCR for OCR and spaCy for NLP. To ensure that the software is developed in terms of reusability and sustainability, the importance of free and open source software and the use of Linux containers via Docker during the development process and within a production environment is also described. Details regarding OCR preprocessing steps, e.g., binarization are also discussed. Besides the software development aspects the article contains some learnings and best practices for end users on how to create high quality input images (avoiding noise, skew, etc.) for the OCR pipeline. By following these steps, OCR results can be significantly improved. For both, our OCR and NLP pipelines, the accuracies and respective error rates are discussed at the ennd of the corresponding chapters.</jats:p>
+
+**Source:** https://doi.org/10.14361/9783839454190-004
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:24:56.456Z

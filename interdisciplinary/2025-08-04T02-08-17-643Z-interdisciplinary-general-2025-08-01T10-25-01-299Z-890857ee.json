@@ -1,0 +1,13 @@
+# Computational authorship analysis of the homeric poems
+
+**Authors:** John Pavlopoulos, Maria Konstantinidou
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Natural language modeling is used to predict or generate the next word or character of modern languages. Furthermore, statistical character-based language models have been found useful in authorship attribution analyses by studying the linguistic proximity of excerpts unknown to the model. In prior work, we modeled Homeric language and provided empirical findings regarding the authorship nature of the 48 Iliad and Odyssey books. Following this line of work, and considering the current philological views and trends, we break down the two poems further into smaller portions. By employing language modeling we identify outlying passages, indicating reduced linguistic affinity with the main body of the two works and, by extension, potentially different authorship. Our results show that some of the passages isolated as outliers by the language models were also identified as such by human researchers. We further test our methodology and models on texts of similar language and genre created by other authors, namely Hesiod’s “Theogony” and “Work and Days”.</jats:p>
+
+**Source:** https://doi.org/10.1007/s42803-022-00046-7
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:25:01.299Z

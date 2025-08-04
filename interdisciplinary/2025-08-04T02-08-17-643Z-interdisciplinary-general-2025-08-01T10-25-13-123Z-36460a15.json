@@ -1,0 +1,13 @@
+# Adjectives and adverbs as stylometric analysis parameters
+
+**Authors:** Eugenia Lukin, James Cooper Roberts, David Berdik, Eliana Mugar, Patrick Juola
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>The present study considers the role of adjectives and adverbs in stylometric analysis and authorship attribution. Adjectives and adverbs allow both for variations in placement and order (adverbs) and variations in type (adjectives). This preliminary study examines a collection of 25 English-language blogs taken from the Schler Blog corpus, and the Project Gutenberg corpus with specific emphasis on 3 works. Within the blog corpora, the first and last 100 lines were extracted for the purpose of analysis. Project Gutenberg corpora were used in full. All texts were processed and part-of-speech tagged using the Python NLTK package. All adverbs were classified as sentence-initial, preverbal, interverbal, postverbal, sentence-final, or none-of-the-above. The adjectives were classified into types according to the universal English type hierarchy (Cambridge Dictionary Online, 2021; Annear, 1964) manually by one of the authors. Ambiguous adjectives were classified according to their context. For the adverbs, the initial samples were paired and used as training data to attribute the final samples. This resulted in 600 trials under each of five experimental conditions. We were able to attribute authorship with an average accuracy of 9.7% greater than chance across all five conditions. Confirmatory experiments are ongoing with a larger sample of English-language blogs. This strongly suggests that adverbial placement is a useful and novel idiolectal variable for authorship attribution (Juola et al., 2021). For the adjective, differences were found in the type of adjective used by each author. Percent use of each type varied based upon individual preference and subject-matter (e.g. Moby Dick had a large number of adjectives related to size and color). While adverbial order and placement are highly variable, adjectives are subject to rigid restrictions that are not violated across texts and authors. Stylometric differences in adjective use generally involve the type and category of adjectives preferred by the author. Future investigation will focus, likewise, on whether adverbial variation is similarly analyzable by type and category of adverb.</jats:p>
+
+**Source:** https://doi.org/10.1007/s42803-023-00065-y
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T10:25:13.123Z
