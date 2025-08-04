@@ -1,0 +1,13 @@
+# A Survey of Scholarly Data Visualization
+
+**Authors:** Jiaying Liu, Tao Tang, Wei Wang, Bo Xu, Xiangjie Kong, Feng Xia
+
+## Abstract
+Scholarly information usually contains millions of raw data, such as authors, papers, citations, as well as scholarly networks. With the rapid growth of the digital publishing and harvesting, how to visually present the data efficiently becomes challenging. Nowadays, various visualization techniques can be easily applied on scholarly data visualization and visual analysis, which enables scientists to have a better way to represent the structure of scholarly data sets and reveal hidden patterns in the data. In this paper, we first introduce the basic concepts and the collection of scholarly data. Then, we provide a comprehensive overview of related data visualization tools, existing techniques, as well as systems for the analyzing volumes of diverse scholarly data. Finally, open issues are discussed to pursue new solutions for abundant and complicated scholarly data visualization, as well as techniques, that support a multitude of facets.
+
+**Source:** https://www.semanticscholar.org/paper/40523cb76e7e9405380c1ad0341c9b40d90c20b0
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:49:44.363Z

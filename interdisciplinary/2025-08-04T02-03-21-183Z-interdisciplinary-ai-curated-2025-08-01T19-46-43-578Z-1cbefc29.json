@@ -1,0 +1,13 @@
+# Multi-objective genetic programming for feature extraction and data visualization
+
+**Authors:** Alberto Cano, Sebastián Ventura, K. Cios
+
+## Abstract
+Feature extraction transforms high-dimensional data into a new subspace of lower dimensionality while keeping the classification accuracy. Traditional algorithms do not consider the multi-objective nature of this task. Data transformations should improve the classification performance on the new subspace, as well as to facilitate data visualization, which has attracted increasing attention in recent years. Moreover, new challenges arising in data mining, such as the need to deal with imbalanced data sets call for new algorithms capable of handling this type of data. This paper presents a Pareto-based multi-objective genetic programming algorithm for feature extraction and data visualization. The algorithm is designed to obtain data transformations that optimize the classification and visualization performance both on balanced and imbalanced data. Six classification and visualization measures are identified as objectives to be optimized by the multi-objective algorithm. The algorithm is evaluated and compared to 11 well-known feature extraction methods, and to the performance on the original high-dimensional data. Experimental results on 22 balanced and 20 imbalanced data sets show that it performs very well on both types of data, which is its significant advantage over existing feature extraction algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/cc93e774c7b218d002834baf699b62323bc7c833
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:46:43.578Z

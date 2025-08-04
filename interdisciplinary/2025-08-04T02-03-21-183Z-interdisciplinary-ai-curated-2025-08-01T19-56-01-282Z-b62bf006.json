@@ -1,0 +1,22 @@
+# microbiomeMarker: an R/Bioconductor package for microbiome marker identification and visualization
+
+**Authors:** Yang Cao, Qingyang Dong, Dan Wang, Pengcheng Zhang, Ying Liu, Chao Niu
+
+## Abstract
+SUMMARY
+Characterizing biomarkers based on microbiome profiles has great potential for translational medicine and precision medicine. Here, we present microbiomeMarker, an R/Bioconductor package implementing commonly used normalization and differential analysis methods, and three supervised learning models to identify microbiome markers. microbiomeMarker also allows comparison of different methods of differential analysis and confounder analysis. It uses standardized input and output formats, which renders it highly scalable and extensible, and allows it to seamlessly interface with other microbiome packages and tools. In addition, the package provides a set of functions to visualize and interpret the identified microbiome markers.
+
+
+AVAILABILITY AND IMPLEMENTATION
+microbiomeMarker is freely available from Bioconductor (https://www.bioconductor.org/packages/microbiomeMarker). Source code is available and maintained at GitHub (https://github.com/yiluheihei/microbiomeMarker).
+
+
+SUPPLEMENTARY INFORMATION
+Supplementary data are available at Bioinformatics online.
+
+**Source:** https://www.semanticscholar.org/paper/0e975044c9c4faa5b2f9cff280c338aa15232cca
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:56:01.282Z

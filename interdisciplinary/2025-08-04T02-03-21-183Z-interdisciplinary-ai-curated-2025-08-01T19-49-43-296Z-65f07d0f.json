@@ -1,0 +1,13 @@
+# Connecting Human-Robot Interaction and Data Visualization
+
+**Authors:** D. Szafir, D. Szafir
+
+## Abstract
+Human-robot interaction (HRI) research frequently explores how to design interfaces that enable humans to effectively teleoperate and supervise robots. One of the principle goals of such systems is to support data collection, analysis, and human decision making, which requires representing robot data in ways that support fast and accurate analyses by humans. However, the interfaces for these systems do not always use best-practice principles for effectively visualizing data. We present a new framework to scaffold reasoning about robot interface design that emphasizes the need to consider data visualization for supporting analysis and decision-making processes, detail several data visualization best practices relevant to HRI, identify a set of core data tasks that commonly occur in HRI, and highlight several promising opportunities for further synergistic activities at the intersection of these two research areas.CCS CONCEPTS• Computer systems organization $\rightarrow$Robotics; External interfaces for robotics; • Human-centered computing $\rightarrow$Visualization; Graphical user interfaces.
+
+**Source:** https://www.semanticscholar.org/paper/156e3db1a5b7d52a8f2a410fe0c437ac976b9d60
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:49:43.296Z

@@ -1,0 +1,13 @@
+# Genetic Programming for Evolving a Front of Interpretable Models for Data Visualization
+
+**Authors:** Andrew Lensen, Bing Xue, Mengjie Zhang
+
+## Abstract
+Data visualization is a key tool in data mining for understanding big datasets. Many visualization methods have been proposed, including the well-regarded state-of-the-art method t-distributed stochastic neighbor embedding. However, the most powerful visualization methods have a significant limitation: the manner in which they create their visualization from the original features of the dataset is completely opaque. Many domains require an understanding of the data in terms of the original features; there is hence a need for powerful visualization methods which use understandable models. In this article, we propose a genetic programming (GP) approach called GP-tSNE for evolving interpretable mappings from the dataset to high-quality visualizations. A multiobjective approach is designed that produces a variety of visualizations in a single run which gives different tradeoffs between visual quality and model complexity. Testing against baseline methods on a variety of datasets shows the clear potential of GP-tSNE to allow deeper insight into data than that provided by existing visualization methods. We further highlight the benefits of a multiobjective approach through an in-depth analysis of a candidate front, which shows how multiple models can be analyzed jointly to give increased insight into the dataset.
+
+**Source:** https://www.semanticscholar.org/paper/874dbd17ef2b101fd0f5b005fcf54001b9b8bd07
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:47:39.768Z

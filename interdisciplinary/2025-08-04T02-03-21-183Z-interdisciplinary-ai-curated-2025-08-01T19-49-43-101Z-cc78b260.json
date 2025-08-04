@@ -1,0 +1,13 @@
+# Cheat Sheets for Data Visualization Techniques
+
+**Authors:** Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach
+
+## Abstract
+This paper introduces the concept of 'cheat sheets' for data visualization techniques, a set of concise graphical explanations and textual annotations inspired by infographics, data comics, and cheat sheets in other domains. Cheat sheets aim to address the increasing need for accessible material that supports a wide audience in understanding data visualization techniques, their use, their fallacies and so forth. We have carried out an iterative design process with practitioners, teachers and students of data science and visualization, resulting six types of cheat sheet (anatomy, construction, visual patterns, pitfalls, false-friends and well-known relatives) for six types of visualization, and formats for presentation. We assess these with a qualitative user study using 11 participants that demonstrates the readability and usefulness of our cheat sheets.
+
+**Source:** https://www.semanticscholar.org/paper/0526ef6bcc9d42c4b5d2a901b662bf70664235de
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:49:43.101Z

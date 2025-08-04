@@ -1,0 +1,13 @@
+# 3D web visualization of huge CityGML models
+
+**Authors:** F. Prandi, Federico Devigili, M. Soave, Umberto Di Staso, R. Amicis
+
+## Abstract
+Nowadays, rapid technological development into acquiring geo-spatial information; joined to the capabilities to process these data in a relative short period of time, allows the generation of detailed 3D textured city models that will become an essential part of the modern city information infrastructure (Spatial Data Infrastructure) and, can be used to integrate various data from different sources for public accessible visualisation and many other applications. One of the main bottlenecks, which at the moment limit the use of these datasets to few experts, is a lack on efficient visualization systems through the web and interoperable frameworks that allow standardising the access to the city models. The work presented in this paper tries to satisfy these two requirements developing a 3D web-based visualization system based on OGC standards and effective visualization concepts. The architectural framework, based on Services Oriented Architecture (SOA) concepts, provides the 3D city data to a web client designed to support the view process in a very effective way. The first part of the work is to design a framework compliant to the 3D Portrayal Service drafted by the of the Open Geospatial Consortium (OGC) 3D standardization working group. The latter is related to the development of an effective web client able to render in an efficient way the 3D city models.
+
+**Source:** https://www.semanticscholar.org/paper/2a1a332651f6d3764c33fd3b2f56bfba544dd222
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:48:45.801Z

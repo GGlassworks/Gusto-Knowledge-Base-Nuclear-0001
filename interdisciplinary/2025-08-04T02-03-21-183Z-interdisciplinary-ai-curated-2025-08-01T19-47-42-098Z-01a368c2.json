@@ -1,0 +1,13 @@
+# ETE 3: Reconstruction, Analysis, and Visualization of Phylogenomic Data
+
+**Authors:** J. Huerta-Cepas, François Serra, P. Bork
+
+## Abstract
+The Environment for Tree Exploration (ETE) is a computational framework that simplifies the reconstruction, analysis, and visualization of phylogenetic trees and multiple sequence alignments. Here, we present ETE v3, featuring numerous improvements in the underlying library of methods, and providing a novel set of standalone tools to perform common tasks in comparative genomics and phylogenetics. The new features include (i) building gene-based and supermatrix-based phylogenies using a single command, (ii) testing and visualizing evolutionary models, (iii) calculating distances between trees of different size or including duplications, and (iv) providing seamless integration with the NCBI taxonomy database. ETE is freely available at http://etetoolkit.org
+
+**Source:** https://www.semanticscholar.org/paper/85f2616d56f2436a93e138f6b9f26119b311ec96
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:47:42.098Z

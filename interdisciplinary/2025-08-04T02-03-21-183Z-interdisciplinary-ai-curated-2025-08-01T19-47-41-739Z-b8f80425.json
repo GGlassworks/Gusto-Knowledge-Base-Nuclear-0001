@@ -1,0 +1,13 @@
+# Missingno: a missing data visualization suite
+
+**Authors:** A. Bilogur
+
+## Abstract
+Algorithmic models and outputs are only as good as the data they are computed on. As the popular saying goes: garbage in, garbage out. In tabular datasets, it is usually relatively easy to, at a glance, understand patterns of missing data (or nullity) of individual rows, columns, and entries. However, it is far harder to see patterns in the missingness of data that extend between them. Understanding such patterns in data is beneficial, if not outright critical, to most applications.
+
+**Source:** https://www.semanticscholar.org/paper/4a55193fbe244071170a9e7e6f84593ab5f03683
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:47:41.739Z

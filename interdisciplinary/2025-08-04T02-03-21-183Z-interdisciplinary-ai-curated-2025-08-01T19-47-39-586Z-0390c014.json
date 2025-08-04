@@ -1,0 +1,13 @@
+# LineCap: Line Charts for Data Visualization Captioning Models
+
+**Authors:** Anita Mahinpei, Zona Kostic, Christy Tanner
+
+## Abstract
+Data visualization captions help readers understand the purpose of a visualization and are crucial for individuals with visual impairments. The prevalence of poor figure captions and the successful application of deep learning approaches to image captioning motivate the use of similar techniques for automated figure captioning. However, research in this field has been stunted by the lack of suitable datasets. We introduce LineCap, a novel figure captioning dataset of 3,528 figures, and we provide insights from curating this dataset and using end-to-end deep learning models for automated figure captioning.
+
+**Source:** https://www.semanticscholar.org/paper/fb371fbad5e91c3709fffdc83b4b0d8678f57c66
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:47:39.587Z

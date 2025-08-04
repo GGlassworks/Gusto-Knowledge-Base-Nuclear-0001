@@ -1,0 +1,13 @@
+# Sensitivity analysis of agent-based simulation utilizing massively parallel computation and interactive data visualization
+
+**Authors:** A. Niida, Takanori Hasegawa, S. Miyano
+
+## Abstract
+An essential step in the analysis of agent-based simulation is sensitivity analysis, which namely examines the dependency of parameter values on simulation results. Although a number of approaches have been proposed for sensitivity analysis, they still have limitations in exhaustivity and interpretability. In this study, we propose a novel methodology for sensitivity analysis of agent-based simulation, MASSIVE (Massively parallel Agent-based Simulations and Subsequent Interactive Visualization-based Exploration). MASSIVE takes a unique paradigm, which is completely different from those of sensitivity analysis methods developed so far, By combining massively parallel computation and interactive data visualization, MASSIVE enables us to inspect a broad parameter space intuitively. We demonstrated the utility of MASSIVE by its application to cancer evolution simulation, which successfully identified conditions that generate heterogeneous tumors. We believe that our approach would be a de facto standard for sensitivity analysis of agent-based simulation in an era of ever-growing computational technology. All the result form our MASSIVE analysis is available at https://www.hgc.jp/~niiyan/massive.
+
+**Source:** https://www.semanticscholar.org/paper/843025d7e3e235f2a267d9419c11509ec4ab01ae
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:51:53.070Z

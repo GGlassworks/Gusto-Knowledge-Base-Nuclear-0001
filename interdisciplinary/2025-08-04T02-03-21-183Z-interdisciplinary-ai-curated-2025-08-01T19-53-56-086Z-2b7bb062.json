@@ -1,0 +1,13 @@
+# A Survey of Time Series Data Visualization Research
+
+**Authors:** Yujie Fang, Hui Xu, Jie Jiang
+
+## Abstract
+Time series data visualization integrates data analysis and mining, computer graphics, interaction design and other technologies and methods. This paper first analyzes the characteristics of time series data, including time and data attributes. Secondly, two kinds of visualization methods are summarized: one is the visualization method of time attribute, including spiral chart, calendar view, theme river view and dynamic view; the other is the visualization method of high dimensional time series data, which mainly summarizes four kinds of parallel coordinate methods. And the visual interaction design method is analyzed. Finally, the visualization of time series data is summarized and prospected.
+
+**Source:** https://www.semanticscholar.org/paper/4a5fc0c06a3deb0661bb432b2f20803beace9f96
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:53:56.086Z

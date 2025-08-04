@@ -1,0 +1,13 @@
+# InChorus: Designing Consistent Multimodal Interactions for Data Visualization on Tablet Devices
+
+**Authors:** Arjun Srinivasan, Bongshin Lee, N. Riche, S. Drucker, K. Hinckley
+
+## Abstract
+While tablet devices are a promising platform for data visualization, supporting consistent interactions across different types of visualizations on tablets remains an open challenge. In this paper, we present multimodal interactions that function consistently across different visualizations, supporting common operations during visual data analysis. By considering standard interface elements (e.g., axes, marks) and grounding our design in a set of core concepts including operations, parameters, targets, and instruments, we systematically develop interactions applicable to different visualization types. To exemplify how the proposed interactions collectively facilitate data exploration, we employ them in a tablet-based system, InChorus that supports pen, touch, and speech input. Based on a study with 12 participants performing replication and factchecking tasks with InChorus, we discuss how participants adapted to using multimodal input and highlight considerations for future multimodal visualization systems.
+
+**Source:** https://www.semanticscholar.org/paper/0f6bffe191479fd488481d8142343bb4cf011646
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:49:43.474Z

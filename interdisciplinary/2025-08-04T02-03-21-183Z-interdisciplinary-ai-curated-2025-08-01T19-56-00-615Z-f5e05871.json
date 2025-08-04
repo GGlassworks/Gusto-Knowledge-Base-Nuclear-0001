@@ -1,0 +1,13 @@
+# Web Scraping for Data Analytics: A BeautifulSoup Implementation
+
+**Authors:** Ayat Abodayeh, Reem Hejazi, Ward Najjar, Leena Shihadeh, R. Latif
+
+## Abstract
+Web scraping is an essential tool for automating the data-gathering process for big data applications. There are many implementations for web scraping, but barely any of them is based on Python's BeautifulSoup library. Therefore, this paper aims at creating a web scraper that gathers data from any website and then analyzes the data accordingly. For results and analysis, the web scraper has been implemented on the Amazon website which collects a product's name, price, number of reviews, rate, and link. We further highlighted the web scraper's capabilities by assimilating the results into an interface that integrates data visualization techniques to analyze the results gathered. The web scraper proved to be efficient upon execution, in which it scraped five pages and analyzed them, and visualized the information in approximately ten seconds. The limitations as a result of this implementation mainly revolved around applying it to specific product names rather than generic ones and extracting specific information that we wanted from the resulting products. Moreover, BeautifulSoup cannot extract all the data available to not compromise on speed. Further studies can be done by researchers who wish to reuse this implementation and modify it according to the data they want to extract, the analysis they wish to perform, and the website they wish to scrape. The implementation can be helpful, thus, to developers who are novices in the web scraping field or to researchers that wish to reuse the code for small data analytics projects.
+
+**Source:** https://www.semanticscholar.org/paper/e070db6ecbe0113b5318c146a32992e966c20a62
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:56:00.616Z

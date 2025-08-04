@@ -1,0 +1,13 @@
+# Citizen Dialogue Kit: Public Polling and Data Visualization Displays for Bottom-Up Citizen Participation
+
+**Authors:** J. Coenen, M. Houben, A. Moere
+
+## Abstract
+In this demo we introduce our ongoing research on how to leverage the situated visualization of open and citizen science data within public space to inform and engage citizens. We developed an open-source toolkit, coined "Citizen Dialogue Kit" that is able to convey data visualizations on a set of interactive, wirelessly networked displays that can be freely positioned in urban space. The toolkit consists of a participative methodology to guide stakeholders with the choice of data and the design of its visualization, a set of off-the-shelf hardware components, and custom-made open source software that controls the whole system. We summarize the design of the toolkit and its initial deployment and conclude by discussing implications for urban visualization and future work.
+
+**Source:** https://www.semanticscholar.org/paper/07e765f83f1b0d555a2ce3e0ce858287fc825f87
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:51:53.228Z

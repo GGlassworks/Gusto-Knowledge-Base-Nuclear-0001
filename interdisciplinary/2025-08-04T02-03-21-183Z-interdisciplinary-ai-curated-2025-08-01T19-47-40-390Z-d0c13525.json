@@ -1,0 +1,13 @@
+# ToxPi Graphical User Interface 2.0: Dynamic exploration, visualization, and sharing of integrated data models
+
+**Authors:** Skylar W. Marvel, Kimberly To, Fabian A. Grimm, F. Wright, I. Rusyn, David M. Reif
+
+## Abstract
+Drawing integrated conclusions from diverse source data requires synthesis across multiple types of information. The ToxPi (Toxicological Prioritization Index) is an analytical framework that was developed to enable integration of multiple sources of evidence by transforming data into integrated, visual profiles. Methodological improvements have advanced ToxPi and expanded its applicability, necessitating a new, consolidated software platform to provide functionality, while preserving flexibility for future updates. We detail the implementation of a new graphical user interface for ToxPi (Toxicological Prioritization Index) that provides interactive visualization, analysis, reporting, and portability. The interface is deployed as a stand-alone, platform-independent Java application, with a modular design to accommodate inclusion of future analytics. The new ToxPi interface introduces several features, from flexible data import formats (including legacy formats that permit backward compatibility) to similarity-based clustering to options for high-resolution graphical output. We present the new ToxPi interface for dynamic exploration, visualization, and sharing of integrated data models. The ToxPi interface is freely-available as a single compressed download that includes the main Java executable, all libraries, example data files, and a complete user manual from http://toxpi.org.
+
+**Source:** https://www.semanticscholar.org/paper/2bd9ade847adb1c2574a4a278e453c3091ed3275
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:47:40.390Z

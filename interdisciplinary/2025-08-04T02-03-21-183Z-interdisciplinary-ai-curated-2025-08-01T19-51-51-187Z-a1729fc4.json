@@ -1,0 +1,13 @@
+# COVID19-world: a shiny application to perform comprehensive country-specific data visualization for SARS-CoV-2 epidemic
+
+**Authors:** C. Tebé, Joan Valls, Pau Satorra, A. Tobías
+
+## Abstract
+Background Data analysis and visualization is an essential tool for exploring and communicating findings in medical research, especially in epidemiological surveillance. Results Data on COVID-19 diagnosed cases and mortality, from January 1st, 2020, onwards is collected automatically from the European Centre for Disease Prevention and Control (ECDC). We have developed a Shiny application for data visualization and analysis of several indicators to follow the SARS-CoV-2 epidemic using ECDC data. A country-specific tool for basic epidemiological surveillance, in an interactive and user-friendly manner. The available analyses cover time trends and projections, attack rate, population fatality rate, case fatality rate, and basic reproduction number. Conclusions The COVID19-World online web application systematically produces daily updated country-specific data visualization and analysis of the SARS-CoV-2 epidemic worldwide. The application may help for a better understanding of the SARS-CoV-2 epidemic worldwide.
+
+**Source:** https://www.semanticscholar.org/paper/8334fcb72be1053f398ead754b97b86d1a86132e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:51:51.187Z

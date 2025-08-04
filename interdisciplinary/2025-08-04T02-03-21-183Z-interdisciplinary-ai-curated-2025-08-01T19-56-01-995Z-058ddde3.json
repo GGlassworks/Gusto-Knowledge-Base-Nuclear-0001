@@ -1,0 +1,13 @@
+# MIRIA: A Mixed Reality Toolkit for the In-Situ Visualization and Analysis of Spatio-Temporal Interaction Data
+
+**Authors:** Wolfgang Büschel, Anke Lehmann, Raimund Dachselt
+
+## Abstract
+In this paper, we present MIRIA, a Mixed Reality Interaction Analysis toolkit designed to support the in-situ visual analysis of user interaction in mixed reality and multi-display environments. So far, there are few options to effectively explore and analyze interaction patterns in such novel computing systems. With MIRIA, we address this gap by supporting the analysis of user movement, spatial interaction, and event data by multiple, co-located users directly in the original environment. Based on our own experiences and an analysis of the typical data, tasks, and visualizations used in existing approaches, we identify requirements for our system. We report on the design and prototypical implementation of MIRIA, which is informed by these requirements and offers various visualizations such as 3D movement trajectories, position heatmaps, and scatterplots. To demonstrate the value of MIRIA for real-world analysis tasks, we conducted expert feedback sessions using several use cases with authentic study data.
+
+**Source:** https://www.semanticscholar.org/paper/c1b7a90e45313ade8d91647da8459af82f99aaa4
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:56:01.997Z

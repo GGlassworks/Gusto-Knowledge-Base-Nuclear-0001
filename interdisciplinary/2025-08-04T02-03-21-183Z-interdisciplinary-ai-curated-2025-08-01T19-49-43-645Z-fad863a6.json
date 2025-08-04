@@ -1,0 +1,13 @@
+# VizLinter: A Linter and Fixer Framework for Data Visualization
+
+**Authors:** Qing Chen, F. Sun, Xinyue Xu, Zui Chen, Jiazhe Wang, Nan Cao
+
+## Abstract
+Despite the rising popularity of automated visualization tools, existing systems tend to provide direct results which do not always fit the input data or meet visualization requirements. Therefore, additional specification adjustments are still required in real-world use cases. However, manual adjustments are difficult since most users do not necessarily possess adequate skills or visualization knowledge. Even experienced users might create imperfect visualizations that involve chart construction errors. We present a framework, VizLinter, to help users detect flaws and rectify already-built but defective visualizations. The framework consists of two components, (1) a visualization linter, which applies well-recognized principles to inspect the legitimacy of rendered visualizations, and (2) a visualization fixer, which automatically corrects the detected violations according to the linter. We implement the framework into an online editor prototype based on Vega-Lite specifications. To further evaluate the system, we conduct an in-lab user study. The results prove its effectiveness and efficiency in identifying and fixing errors for data visualizations.
+
+**Source:** https://www.semanticscholar.org/paper/d34bcf4c7084d9ec5252e6c498a52d596642711e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:49:43.646Z

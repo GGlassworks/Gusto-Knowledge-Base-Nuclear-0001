@@ -1,0 +1,13 @@
+# Multi-level Massive Data Visualization: Methodology and Use Cases
+
+**Authors:** Jelena Liutvinavičiene, O. Kurasova
+
+## Abstract
+. This research focuses on massive data visualization that is based on dimensionality reduction methods. We propose a new methodology, which divides the whole data visualization process into separate interactive steps. In each step, some part of data can be selected for further analysis and visualization. The different dimensionality method can be chosen/changed in each step. The decision which methods to be chosen depends on desirable accuracy measures and visualization samples. In addition, there are provided statistical measures of the identified clusters. We have developed a special tool, which implements the proposed methodology. R language and Shiny package were used for developing the tool. In the paper, the principles of the methodology and features of the tool are presented by describing the specific use case.
+
+**Source:** https://www.semanticscholar.org/paper/1439818e87781f6c85dd628006ff91413fa82c3f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:51:50.406Z

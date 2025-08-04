@@ -1,0 +1,13 @@
+# Manufacturing process data analysis pipelines: a requirements analysis and survey
+
+**Authors:** A. Ismail, Hong Linh Truong, W. Kastner
+
+## Abstract
+Smart manufacturing is strongly correlated with the digitization of all manufacturing activities. This increases the amount of data available to drive productivity and profit through data-driven decision making programs. The goal of this article is to assist data engineers in designing big data analysis pipelines for manufacturing process data. Thus, this paper characterizes the requirements for process data analysis pipelines and surveys existing platforms from academic literature. The results demonstrate a stronger focus on the storage and analysis phases of pipelines than on the ingestion, communication, and visualization stages. Results also show a tendency towards custom tools for ingestion and visualization, and relational data tools for storage and analysis. Tools for handling heterogeneous data are generally well-represented throughout the pipeline. Finally, batch processing tools are more widely adopted than real-time stream processing frameworks, and most pipelines opt for a common script-based data processing approach. Based on these results, recommendations are offered for each phase of the pipeline.
+
+**Source:** https://www.semanticscholar.org/paper/2abc4332ed1f03d8877bd7eaed7a9473c1deff5b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:48:45.423Z

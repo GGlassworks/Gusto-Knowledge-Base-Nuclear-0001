@@ -1,0 +1,13 @@
+# ggCyto: next generation open-source visualization software for cytometry
+
+**Authors:** Phu Van, Wenxin Jiang, R. Gottardo, Greg Finak
+
+## Abstract
+Motivation Open source software for computational cytometry has gained in popularity over the past few years. Efforts such as FlowCAP, the Lyoplate and Euroflow projects have highlighted the importance of efforts to standardize both experimental and computational aspects of cytometry data analysis. The R/BioConductor platform hosts the largest collection of open source cytometry software covering all aspects of data analysis and providing infrastructure to represent and analyze cytometry data with all relevant experimental, gating and cell population annotations enabling fully reproducible data analysis. Data visualization frameworks to support this infrastructure have lagged behind. Results ggCyto is a new open‐source BioConductor software package for cytometry data visualization built on ggplot2 that enables ggplot‐like functionality with the core BioConductor flow cytometry data structures. Amongst its features are the ability to transform data and axes on‐the‐fly using cytometry‐specific transformations, plot faceting by experimental meta‐data variables and partial matching of channel, marker and cell populations names to the contents of the BioConductor cytometry data structures. We demonstrate the salient features of the package using publicly available cytometry data with complete reproducible examples in a Supplementary Material. Availability and implementation https://bioconductor.org/packages/devel/bioc/html/ggcyto.html Supplementary information Supplementary data are available at Bioinformatics online.
+
+**Source:** https://www.semanticscholar.org/paper/592957854317f9df7fc848f856530bc9cd32b1e5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:48:44.013Z

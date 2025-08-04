@@ -1,0 +1,13 @@
+# Narvis: Authoring Narrative Slideshows for Introducing Data Visualization Designs
+
+**Authors:** Qianwen Wang, Z. Li, Siwei Fu, Weiwei Cui, Huamin Qu
+
+## Abstract
+Visual designs can be complex in modern data visualization systems, which poses special challenges for explaining them to the non-experts. However, few if any presentation tools are tailored for this purpose. In this study, we present Narvis, a slideshow authoring tool designed for introducing data visualizations to non-experts. Narvis targets two types of end users: teachers, experts in data visualization who produce tutorials for explaining a data visualization, and students, non-experts who try to understand visualization designs through tutorials. We present an analysis of requirements through close discussions with the two types of end users. The resulting considerations guide the design and implementation of Narvis. Additionally, to help teachers better organize their introduction slideshows, we specify a data visualization as a hierarchical combination of components, which are automatically detected and extracted by Narvis. The teachers craft an introduction slideshow through first organizing these components, and then explaining them sequentially. A series of templates are provided for adding annotations and animations to improve efficiency during the authoring process. We evaluate Narvis through a qualitative analysis of the authoring experience, and a preliminary evaluation of the generated slideshows.
+
+**Source:** https://www.semanticscholar.org/paper/da11b5cfe3b18caa087566b96fe080ee366e0cf1
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:49:44.543Z

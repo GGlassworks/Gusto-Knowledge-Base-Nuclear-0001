@@ -1,0 +1,13 @@
+# Rapid Development of a Data Visualization Service in an Emergency Response
+
+**Authors:** Saiful Khan, P. H. Nguyen, Alfie Abdul-Rahman, Euan Freeman, C. Turkay, Min Chen
+
+## Abstract
+We present the design and development of a data visualization service (RAMPVIS) in response to the urgent need to support epidemiological modeling workflows during the COVID-19 pandemic. Facing a set of demanding requirements and several practical challenges, our small team of volunteers had to rely on existing knowledge and components of services computing, while thinking on our feet in configuring services composition and adopting suitable approaches to services engineering. Through developing the RAMPVIS service, we have gained useful experience of ensuring conformation to services computing standards, enabling rapid development and early deployment, and facilitating effective and efficient maintenance and operation with limited resources. This experience can be valuable to the ongoing effort for combating the COVID-19 pandemic, and provides a blueprint for visualization service development when future needs for visual analytics arise during emergency response.
+
+**Source:** https://www.semanticscholar.org/paper/cc7c1a561b32b1c730a6c58f4545295fde034fd1
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:54:58.152Z

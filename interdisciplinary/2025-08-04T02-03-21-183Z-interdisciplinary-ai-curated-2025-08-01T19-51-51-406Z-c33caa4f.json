@@ -1,0 +1,13 @@
+# A Conceptual Model for Geo-Online Exploratory Data Visualization: The Case of the COVID-19 Pandemic
+
+**Authors:** A. Bernasconi, S. Grandi
+
+## Abstract
+Responding to the recent COVID-19 outbreak, several organizations and private citizens considered the opportunity to design and publish online explanatory data visualization tools for the communication of disease data supported by a spatial dimension. They responded to the need of receiving instant information arising from the broad research community, the public health authorities, and the general public. In addition, the growing maturity of information and mapping technologies, as well as of social networks, has greatly supported the diffusion of web-based dashboards and infographics, blending geographical, graphical, and statistical representation approaches. We propose a broad conceptualization of Web visualization tools for geo-spatial information, exceptionally employed to communicate the current pandemic; to this end, we study a significant number of publicly available platforms that track, visualize, and communicate indicators related to COVID-19. Our methodology is based on (i) a preliminary systematization of actors, data types, providers, and visualization tools, and on (ii) the creation of a rich collection of relevant sites clustered according to significant parameters. Ultimately, the contribution of this work includes a critical analysis of collected evidence and an extensive modeling effort of Geo-Online Exploratory Data Visualization (Geo-OEDV) tools, synthesized in terms of an Entity-Relationship schema. The COVID-19 pandemic outbreak has offered a significant case to study how and how much modern public communication needs spatially related data and effective implementation of tools whose inspection can impact decision-making at different levels. Our resulting model will allow several stakeholders (general users, policy-makers, and researchers/analysts) to gain awareness on the assets of structured online communication and resource owners to direct future development of these important tools.
+
+**Source:** https://www.semanticscholar.org/paper/2f30c0f4804ed112df5ee0b6de8189507e2ff414
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:51:51.406Z

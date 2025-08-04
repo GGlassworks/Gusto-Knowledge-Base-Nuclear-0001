@@ -1,0 +1,13 @@
+# Data Visualization Analysis of COVID-19 Epidemic Situation
+
+**Authors:** Tao Yang
+
+## Abstract
+Abstract 2019 Novel Coronavirus (COVID-19) has brought immeasurable losses and huge impact to the world. For human health, many Centres for Disease Control(CDC) in various countries around the world are actively collecting data and doing a good job in virus prevention and control. The real-time release of the epidemic situation, with analysis and prediction, is a very effective method to combat the epidemic. By studying the situation of epidemic data, based on Jupyter Notebook, this paper gives the visual analysis process of COVID-19 epidemic data, and carries out specific analysis and implementation. And then it estimates the coronavirus converges roughly using sigmoid fitting. Although the sigmoid fitting tend to underestimate the curve, its actual value tend to be more than sigmoid curve estimation. The proposed data visualization analysis method could effectively display the status of the COVID-19 epidemic situation, hoping to help control and reduce the impact of the COVID-19 epidemic.
+
+**Source:** https://www.semanticscholar.org/paper/c393c5e87d8157bd84554f19e38f78061093e034
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:50:41.416Z
