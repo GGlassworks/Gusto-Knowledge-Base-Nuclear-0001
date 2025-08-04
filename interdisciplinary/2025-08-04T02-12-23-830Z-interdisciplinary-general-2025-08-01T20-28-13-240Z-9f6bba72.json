@@ -1,0 +1,13 @@
+# Estimating Models of Supply and Demand: Instruments and Covariance Restrictions
+
+**Authors:** Alexander MacKay, Nathan H. Miller
+
+## Abstract
+<jats:p> We consider the identification of empirical models of supply and demand with imperfect competition. We show that a restriction on the covariance between unobserved demand and cost shocks can resolve endogeneity and identify the price parameter. We demonstrate how to employ this approach in estimation, and we compare it to the method of instrumental variables. Our formal results also indicate that weaker covariance restrictions can bound the price parameter. We illustrate the covariance restriction approach with applications to ready-to-eat cereal, cement, and airlines. (JEL C51, D12, L13, L61, L66, L93) </jats:p>
+
+**Source:** https://doi.org/10.1257/mic.20230024
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T20:28:13.240Z
