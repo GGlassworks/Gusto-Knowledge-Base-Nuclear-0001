@@ -1,0 +1,12 @@
+# Topic Analysis of Superconductivity Literature by Semantic Non-negative Matrix Factorization
+
+**Authors:** Valentin Stanev, Erik Skau, Ichiro Takeuchi, Boian S. Alexandrov
+
+## Summary
+We utilize a recently developed topic modeling method called SeNMFk, extending the standard Non-negative Matrix Factorization (NMF) methods by incorporating the semantic structure of the text, and adding a robust system for determining the number of topics. With SeNMFk, we were able to extract coherent topics validated by human experts. From these topics, a few are relatively general and cover broad concepts, while the majority can be precisely mapped to specific scientific effects or measurement techniques. The topics also differ by ubiquity, with only three topics prevalent in almost 40 percent of the abstract, while each specific topic tends to dominate a small subset of the abstracts. These results demonstrate the ability of SeNMFk to produce a layered and nuanced analysis of large scientific corpora.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:24:35.334Z

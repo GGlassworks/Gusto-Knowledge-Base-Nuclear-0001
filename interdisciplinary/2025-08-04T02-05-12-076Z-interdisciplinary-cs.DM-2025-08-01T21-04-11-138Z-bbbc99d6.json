@@ -1,0 +1,12 @@
+# Study of Graph Theory, Distributed Average Consensus Algorithm and Centralized Algorithm
+
+**Authors:** Shen Zheng
+
+## Summary
+In this paper, we hope to bring closer graph theory and consensus algorithms. Firstly, we give a brief introduction to graph theory by listing a concise definition. Then we analyze and visualize some commonly used graphs. Secondly, we record an overview of the consensus algorithm, including its structure and significance. We then visualize and explore how the distributed average scheme will reach consensus node values for different probability distributions. Thirdly, we introduce a centralized algorithm about its organizations and functions. Using nodes with other distributions, we analyze how a centralized algorithm will use those nodes to affect the initialize ones. Fourthly, we bring several root-finding algorithms as a supplement to this paper. Finally, we derive conclusions and list substantial mathematical deviations and algorithms.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DM
+Collected: 2025-08-01T21:04:11.139Z

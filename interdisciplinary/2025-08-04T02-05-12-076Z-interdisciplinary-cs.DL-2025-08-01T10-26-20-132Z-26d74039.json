@@ -1,0 +1,12 @@
+# Ontological Entities for Planning and Describing Cultural Heritage 3D Models Creation
+
+**Authors:** Nicola Amico, Achille Felicetti
+
+## Summary
+In the last decades the rapid development of technologies and methodologies in the field of digitization and 3D modelling has led to an increasing proliferation of 3D technologies in the Cultural Heritage domain. Despite the great potential of 3D digital heritage, the "special effects" of 3D may often overwhelm its importance in research. Projects and consortia of scholars have tried to put order in the different fields of application of these technologies, providing guidelines and proposing workflows. The use of computer graphics as an effective methodology for CH research and communication highlighted the need of transparent provenance data to properly document digital assets and understand the degree of scientific quality and reliability of their outcomes. The building and release of provenance knowledge, consisting in the complete formal documentation of each phase of the process, is therefore of fundamental importance to ensure its repeatability and to guarantee the integration and interoperability of the generated metadata on the Semantic Web. This paper proposes a methodology for documenting the planning and creation of 3D models used in archaeology and Cultural Heritage, by means of an application profile based on the CIDOC CRM ecosystem and other international standards.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:26:20.132Z

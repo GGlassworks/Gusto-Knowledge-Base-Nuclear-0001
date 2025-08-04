@@ -1,0 +1,12 @@
+# Evaluating the Efficacy of ChatGPT-4 in Providing Scientific References across Diverse Disciplines
+
+**Authors:** Zhi Cao
+
+## Summary
+This work conducts a comprehensive exploration into the proficiency of OpenAI's ChatGPT-4 in sourcing scientific references within an array of research disciplines. Our in-depth analysis encompasses a wide scope of fields including Computer Science (CS), Mechanical Engineering (ME), Electrical Engineering (EE), Biomedical Engineering (BME), and Medicine, as well as their more specialized sub-domains. Our empirical findings indicate a significant variance in ChatGPT-4's performance across these disciplines. Notably, the validity rate of suggested articles in CS, BME, and Medicine surpasses 65%, whereas in the realms of ME and EE, the model fails to verify any article as valid. Further, in the context of retrieving articles pertinent to niche research topics, ChatGPT-4 tends to yield references that align with the broader thematic areas as opposed to the narrowly defined topics of interest. This observed disparity underscores the pronounced variability in accuracy across diverse research fields, indicating the potential requirement for model refinement to enhance its functionality in academic research. Our investigation offers valuable insights into the current capacities and limitations of AI-powered tools in scholarly research, thereby emphasizing the indispensable role of human oversight and rigorous validation in leveraging such models for academic pursuits.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:24:42.388Z

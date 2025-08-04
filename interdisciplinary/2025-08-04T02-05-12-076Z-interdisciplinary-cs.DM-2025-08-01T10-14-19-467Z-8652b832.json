@@ -1,0 +1,12 @@
+# On digital simply connected spaces and manifolds: a digital simply connected 3-manifold is the digital 3-sphere
+
+**Authors:** Alexander Evako
+
+## Summary
+In the framework of digital topology, we study structural and topological properties of digital n-dimensional manifolds. We introduce the notion of simple connectedness of a digital space and prove that if M and N are homotopy equivalent digital spaces and M is simply connected, then so is N. We show that a simply connected digital 2-manifold is the digital 2-sphere and a simply connected digital 3-manifold is the digital 3-sphere. This property can be considered as a digital form of the Poincar\'e conjecture for continuous three-manifolds.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DM
+Collected: 2025-08-01T10:14:19.467Z

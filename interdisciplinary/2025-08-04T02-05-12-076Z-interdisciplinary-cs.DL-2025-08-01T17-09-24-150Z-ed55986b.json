@@ -1,0 +1,12 @@
+# Comparing Retrieval Strategies to Capture Interdisciplinary Scientific Research: A Bibliometric Evaluation of the Integration of Neuroscience and Computer Science
+
+**Authors:** Malena Mendez Isla, Agustin Mauro, Diego Kozlowski
+
+## Summary
+Interdisciplinary scientific research is increasingly important in knowledge production, funding policies, and academic discussions on scholarly communication. While many studies focus on interdisciplinary corpora defined a priori - usually through keyword-based searches within assumed interdisciplinary domains - few explore interdisciplinarity as an emergent intersection between two distinct fields. Thus, methodological proposals for building databases at the intersection of two fields of knowledge are scarce. The goal of this article is to develop and compare different strategies for defining an interdisciplinary corpus between two bodies of knowledge. As a case study, we focus on the intersection between neuroscience and computer science. To this end, we develop and compare four retrieval strategies, two of them based on keywords and two based on citation and reference patterns. Our results show that keyword-based strategies provide both better precision and recall. While we focus on comparing strategies for the study of the intersection between the fields of neuroscience and computer science, this proposed methodological reflection is applicable to a wide range of interdisciplinary domains.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T17:09:24.150Z

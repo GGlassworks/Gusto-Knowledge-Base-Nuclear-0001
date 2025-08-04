@@ -1,0 +1,12 @@
+# A Note on the Performance of Algorithms for Solving Linear Diophantine Equations in the Naturals
+
+**Authors:** Valeriu Motroi, Stefan Ciobaca
+
+## Summary
+We implement four algorithms for solving linear Diophantine equations in the naturals: a lexicographic enumeration algorithm, a completion procedure, a graph-based algorithm, and the Slopes algorithm. As already known, the lexicographic enumeration algorithm and the completion procedure are slower than the other two algorithms. We compare in more detail the graph-based algorithm and the Slopes algorithm. In contrast to previous comparisons, our work suggests that they are equally fast on small inputs, but the graph-based algorithm gets much faster as the input grows. We conclude that implementations of AC-unification algorithms should use the graph-based algorithm for maximum efficiency.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:03:05.863Z

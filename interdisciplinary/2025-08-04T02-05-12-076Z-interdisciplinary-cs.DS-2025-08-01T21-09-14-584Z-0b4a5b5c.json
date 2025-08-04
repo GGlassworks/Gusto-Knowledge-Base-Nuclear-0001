@@ -1,0 +1,12 @@
+# Theory and Practice of Algorithm Engineering
+
+**Authors:** Jan Mendling, Benoît Depaire, Henrik Leopold
+
+## Summary
+There is an ongoing debate in computer science how algorithms should best be studied. Some scholars have argued that experimental evaluations should be conducted, others emphasize the benefits of formal analysis. We believe that this debate less of a question of either-or, because both views can be integrated into an overarching framework. It is the ambition of this paper to develop such a framework of algorithm engineering with a theoretical foundation in the philosophy of science. We take the empirical nature of algorithm engineering as a starting point. Our theoretical framework builds on three areas discussed in the philosophy of science: ontology, epistemology and methodology. In essence, ontology describes algorithm engineering as being concerned with algorithmic problems, algorithmic tasks, algorithm designs and algorithm implementations. Epistemology describes the body of knowledge of algorithm engineering as a collection of prescriptive and descriptive knowledge, residing in World 3 of Popper's Three Worlds model. Methodology refers to the steps how we can systematically enhance our knowledge of specific algorithms. In this context, we identified seven validity concerns and discuss how researchers can respond to falsification. Our framework has important implications for researching algorithms in various areas of computer science.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:09:14.586Z

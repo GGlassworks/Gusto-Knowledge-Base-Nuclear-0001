@@ -1,0 +1,12 @@
+# Algorithms for matrix multiplication via sampling and opportunistic matrix multiplication
+
+**Authors:** David G. Harris
+
+## Summary
+Karppa &amp; Kaski (2019) proposed a novel ``broken" or ``opportunistic" matrix multiplication algorithm, based on a variant of Strassen's algorithm, and used this to develop new algorithms for Boolean matrix multiplication, among other tasks. Their algorithm can compute Boolean matrix multiplication in $O(n^{2.778})$ time. While asymptotically faster matrix multiplication algorithms exist, most such algorithms are infeasible for practical problems. We describe an alternative way to use the broken multiplication algorithm to approximately compute matrix multiplication, either for real-valued or Boolean matrices. In brief, instead of running multiple iterations of the broken algorithm on the original input matrix, we form a new larger matrix by sampling and run a single iteration of the broken algorithm on it. Asymptotically, our algorithm has runtime $O(n^{2.763})$, a slight improvement over the Karppa-Kaski algorithm. Since the goal is to obtain new practical matrix-multiplication algorithms, we also estimate the concrete runtime for our algorithm for some large-scale sample problems. It appears that for these parameters, further optimizations are still needed to make our algorithm competitive.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:03:09.767Z

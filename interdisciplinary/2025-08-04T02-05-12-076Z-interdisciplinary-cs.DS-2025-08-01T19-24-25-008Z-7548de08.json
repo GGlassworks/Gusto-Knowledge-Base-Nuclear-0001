@@ -1,0 +1,12 @@
+# Approximate Selection with Unreliable Comparisons in Optimal Expected Time
+
+**Authors:** Shengyu Huang, Chih-Hung Liu, Daniel Rutschman
+
+## Summary
+Given $n$ elements, an integer $k$ and a parameter $\varepsilon$, we study to select an element with rank in $(k-n\varepsilon,k+n\varepsilon]$ using unreliable comparisons where the outcome of each comparison is incorrect independently with a constant error probability, and multiple comparisons between the same pair of elements are independent. In this fault model, the fundamental problems of finding the minimum, selecting the $k$-th smallest element and sorting have been shown to require $\Theta\big(n \log \frac{1}{Q}\big)$, $\Theta\big(n\log \frac{\min\{k,n-k\}}{Q}\big)$ and $\Theta\big(n\log \frac{n}{Q}\big)$ comparisons, respectively, to achieve success probability $1-Q$. Recently, Leucci and Liu proved that the approximate minimum selection problem ($k=0$) requires expected $\Theta(\varepsilon^{-1}\log \frac{1}{Q})$ comparisons. We develop a randomized algorithm that performs expected $O(\frac{k}{n}\varepsilon^{-2} \log \frac{1}{Q})$ comparisons to achieve success probability at least $1-Q$. We also prove that any randomized algorithm with success probability at least $1-Q$ performs expected $\Omega(\frac{k}{n}\varepsilon^{-2}\log \frac{1}{Q})$ comparisons. Our results indicate a clear distinction between approximating the minimum and approximating the $k$-th smallest element, which holds even for the high probability guarantee, e.g., if $k=\frac{n}{2}$ and $Q=\frac{1}{n}$, $\Theta(\varepsilon^{-1}\log n)$ versus $\Theta(\varepsilon^{-2}\log n)$. Moreover, if $\varepsilon=n^{-\alpha}$ for $\alpha \in (0,\frac{1}{2})$, the asymptotic difference is almost quadratic, i.e., $\tilde{\Theta}(n^{\alpha})$ versus $\tilde{\Theta}(n^{2\alpha})$.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T19:24:25.009Z

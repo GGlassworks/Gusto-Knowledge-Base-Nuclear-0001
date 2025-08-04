@@ -1,0 +1,12 @@
+# Solving Single-digit Sudoku Subproblems
+
+**Authors:** David Eppstein
+
+## Summary
+We show that single-digit "Nishio" subproblems in nxn Sudoku puzzles may be solved in time o(2^n), faster than previous solutions such as the pattern overlay method. We also show that single-digit deduction in Sudoku is NP-hard.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T10:18:23.789Z

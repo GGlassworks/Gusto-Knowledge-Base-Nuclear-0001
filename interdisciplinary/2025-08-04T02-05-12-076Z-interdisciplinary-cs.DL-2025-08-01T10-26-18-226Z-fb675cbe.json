@@ -1,0 +1,12 @@
+# Using Full-text Content of Academic Articles to Build a Methodology Taxonomy of Information Science in China
+
+**Authors:** Heng Zhang, Chengzhi Zhang
+
+## Summary
+Research on the construction of traditional information science methodology taxonomy is mostly conducted manually. From the limited corpus, researchers have attempted to summarize some of the research methodology entities into several abstract levels (generally three levels); however, they have been unable to provide a more granular hierarchy. Moreover, updating the methodology taxonomy is traditionally a slow process. In this study, we collected full-text academic papers related to information science. First, we constructed a basic methodology taxonomy with three levels by manual annotation. Then, the word vectors of the research methodology entities were trained using the full-text data. Accordingly, the research methodology entities were clustered and the basic methodology taxonomy was expanded using the clustering results to obtain a methodology taxonomy with more levels. This study provides new concepts for constructing a methodology taxonomy of information science. The proposed methodology taxonomy is semi-automated; it is more detailed than conventional schemes and the speed of taxonomy renewal has been enhanced.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:26:18.226Z

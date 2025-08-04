@@ -1,0 +1,12 @@
+# Probabilistic Framework For Loss Distribution Of Smart Contract Risk
+
+**Authors:** Petar Jevtic, Nicolas Lanchier
+
+## Summary
+Smart contract risk can be defined as a financial risk of loss due to cyber attacks on or contagious failures of smart contracts. Its quantification is of paramount importance to technology platform providers as well as companies and individuals when considering the deployment of this new technology. That is why, as our primary contribution, we propose a structural framework of aggregate loss distribution for smart contract risk under the assumption of a tree-stars graph topology representing the network of interactions among smart contracts and their users. Up to our knowledge, there exist no theoretical frameworks or models of an aggregate loss distribution for smart contracts in this setting. To achieve our goal, we contextualize the problem in the probabilistic graph-theoretical framework using bond percolation models. We assume that the smart contract network topology is represented by a random tree graph of finite size, and that each smart contract is the center of a {random} star graph whose leaves represent the users of the smart contract. We allow for heterogeneous loss topology superimposed on this smart contract and user topology and provide analytical results and instructive numerical examples.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DM
+Collected: 2025-08-01T13:45:29.778Z

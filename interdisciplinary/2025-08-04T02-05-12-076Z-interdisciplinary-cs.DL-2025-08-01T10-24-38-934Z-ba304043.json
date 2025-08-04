@@ -1,0 +1,12 @@
+# Digital libraries: textual analysis for a systematic review and meta-analysis
+
+**Authors:** Mathieu Andro, Marc Maisonneuve
+
+## Summary
+Purpose: We seek to explore the realm of literature about digital libraries. We specifically seek to ascertain how interest in this subject has evolved, its impact, the most productive journals and countries, the number of occurrences of digital libraries, the relationships and dynamics of the main concepts mentioned, and the dynamics of metadata formats.Methods: We extracted corpora from the Google Scholar and Microsoft Academic Search bibliographic databases. We analyzed the named entities and concepts contained within these corpora with the help of text mining technologies, CorTexT in particular.Results: While the number of publications on the subject of digital libraries is increasing, their average number of citations is decreasing. China, the United States and India are the most productive countries on the subject. Literature about conservation and national libraries has gradually been replaced by literature about open access, university libraries and the relationship with users. Internet Archive is the most cited digital library in literature and continues to grow. Dublin Core is the most talked about metadata format, however the subject of metadata formats is declining in the corpus today.Conclusion: Digital libraries now seem to be reaching the age of maturity.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:24:38.934Z

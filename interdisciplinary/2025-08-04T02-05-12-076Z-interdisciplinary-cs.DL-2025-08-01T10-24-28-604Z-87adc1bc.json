@@ -1,0 +1,12 @@
+# A Computational Analysis and Visualization of In-Text Reference Networks Across Philosophical Texts
+
+**Authors:** Robert Becker, Aron Culotta
+
+## Summary
+We applied computational methods to analyze references across 2,245 philosophical texts, spanning from approximately 550 BCE to 1940 AD, in order to measure patterns in how philosophical ideas have spread over time. Using natural language processing and network analysis, we mapped over 294,970 references between authors, classifying each reference into subdisciplines of philosophy based on its surrounding context. We then constructed a graph, with authors as nodes and textual references as edges, to empirically validate, visualize, and quantify intellectual lineages as they are understood within philosophical scholarship. For instance, we find that Plato and Aristotle alone account for nearly 10% of all references from authors in our dataset, suggesting that their influence may still be underestimated. As another example, we support the view that St. Thomas Aquinas served as a synthesizer between Aristotelian and Christian philosophy by analyzing the network structures of Aquinas, Aristotle, and Christian theologians. Our results are presented through an interactive visualization tool, allowing users to dynamically explore these networks, alongside a mathematical analysis of the network's structure. Our methodology demonstrates the value of applying network analysis with textual references to study a large collection of historical works.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:24:28.605Z

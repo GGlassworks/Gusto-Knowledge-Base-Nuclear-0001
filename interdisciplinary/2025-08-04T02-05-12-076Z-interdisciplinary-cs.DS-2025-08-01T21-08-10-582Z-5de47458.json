@@ -1,0 +1,12 @@
+# Advice Complexity of Adaptive Priority Algorithms
+
+**Authors:** Joan Boyar, Kim S. Larsen, Denis Pankratov
+
+## Summary
+The priority model was introduced to capture "greedy-like" algorithms. Motivated by the success of advice complexity in the area of online algorithms, the fixed priority model was extended to include advice, and a reduction-based framework was developed for proving lower bounds on the amount of advice required to achieve certain approximation ratios in this rather powerful model. To capture most of the algorithms that are considered greedy-like, the even stronger model of adaptive priority algorithms is needed. We extend the adaptive priority model to include advice. We modify the reduction-based framework from the fixed priority case to work with the more powerful adaptive priority algorithms, simplifying the proof of correctness and strengthening all previous lower bounds by a factor of two in the process. We also present a purely combinatorial adaptive priority algorithm with advice for Minimum Vertex Cover on triangle-free graphs of maximum degree three. Our algorithm achieves optimality and uses at most 7n/22 bits of advice. No adaptive priority algorithm without advice can achieve optimality without advice, and we prove that an online algorithm with advice needs more than 7n/22 bits of advice to reach optimality. We show connections between exact algorithms and priority algorithms with advice. The branching in branch-and-reduce algorithms can be seen as trying all possible advice strings, and all priority algorithms with advice that achieve optimality define corresponding exact algorithms, priority exact algorithms. Lower bounds on advice-based adaptive algorithms imply lower bounds on running times of exact algorithms designed in this way.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:08:10.583Z

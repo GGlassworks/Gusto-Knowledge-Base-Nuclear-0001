@@ -1,0 +1,12 @@
+# Harvesting the Public MeSH Note field
+
+**Authors:** Anastasios Nentidis, Anastasia Krithara, Grigorios Tsoumakas, Georgios Paliouras
+
+## Summary
+In this document, we report an analysis of the Public MeSH Note field of the new descriptors introduced in the MeSH thesaurus between 2006 and 2020. The aim of this analysis was to extract information about the previous status of these new descriptors as Supplementary Concept Records. The Public MeSH Note field contains information in semi-structured text, meant to be read by humans. Therefore, we adopted a semi-automated approach, based on regular expressions, to extract information from it. In the large majority of cases, we managed to minimize the required manual effort for extracting the previous state of a new descriptor as a Supplementary Concept Record. The source code for this analysis is openly available on GitHub.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:24:32.524Z

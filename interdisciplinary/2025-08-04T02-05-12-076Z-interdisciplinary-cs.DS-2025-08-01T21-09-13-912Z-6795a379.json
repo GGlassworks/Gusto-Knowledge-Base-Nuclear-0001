@@ -1,0 +1,12 @@
+# A Framework for Consistency Algorithms
+
+**Authors:** Peter Chini, Prakash Saivasan
+
+## Summary
+We present a framework that provides deterministic consistency algorithms for given memory models. Such an algorithm checks whether the executions of a shared-memory concurrent program are consistent under the axioms defined by a model. For memory models like SC and TSO, checking consistency is NP-complete. Our framework shows, that despite the hardness, fast deterministic consistency algorithms can be obtained by employing tools from fine-grained complexity. The framework is based on a universal consistency problem which can be instantiated by different memory models. We construct an algorithm for the problem running in time O*(2^k), where k is the number of write accesses in the execution that is checked for consistency. Each instance of the framework then admits an O*(2^k)-time consistency algorithm. By applying the framework, we obtain corresponding consistency algorithms for SC, TSO, PSO, and RMO. Moreover, we show that the obtained algorithms for SC, TSO, and PSO are optimal in the fine-grained sense: there is no consistency algorithm for these running in time 2^o(k) unless the exponential time hypothesis fails.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:09:13.913Z

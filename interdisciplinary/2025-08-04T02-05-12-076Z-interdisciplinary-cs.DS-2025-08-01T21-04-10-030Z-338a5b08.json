@@ -1,0 +1,12 @@
+# Understanding Zadimoghaddam's Edge-weighted Online Matching Algorithm: Unweighted Case
+
+**Authors:** Zhiyi Huang, Runzhou Tao
+
+## Summary
+This article identifies a key algorithmic ingredient in the edge-weighted online matching algorithm by Zadimoghaddam (2017) and presents a simplified algorithm and its analysis to demonstrate how it works in the unweighted case.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T21:04:10.031Z

@@ -1,0 +1,12 @@
+# Classification of digital n-manifolds
+
+**Authors:** Alexander V. Evako
+
+## Summary
+This paper presents the classification of digital n-manifolds based on the notion of complexity and homotopy equivalence. We introduce compressed n-manifolds and study their properties. We show that any n-manifold with p points is homotopy equivalent to a compressed n-manifold with m points, m&lt;p. We design an algorithm for the classification of digital n-manifolds of any dimension n.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DM
+Collected: 2025-08-01T10:18:29.204Z

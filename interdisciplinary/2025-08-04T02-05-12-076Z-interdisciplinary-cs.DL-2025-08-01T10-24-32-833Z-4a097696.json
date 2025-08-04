@@ -1,0 +1,12 @@
+# Research Data in Scientific Publications: A Cross-Field Analysis
+
+**Authors:** Puyu Yang, Giovanni Colavizza
+
+## Summary
+Data sharing is fundamental to scientific progress, enhancing transparency, reproducibility, and innovation across disciplines. Despite its growing significance, the variability of data-sharing practices across research fields remains insufficiently understood, limiting the development of effective policies and infrastructure. This study investigates the evolving landscape of data-sharing practices, specifically focusing on the intentions behind data release, reuse, and referencing. Leveraging the PubMed open dataset, we developed a model to identify mentions of datasets in the full-text of publications. Our analysis reveals that data release is the most prevalent sharing mode, particularly in fields such as Commerce, Management, and the Creative Arts. In contrast, STEM fields, especially the Biological and Agricultural Sciences, show significantly higher rates of data reuse. However, the humanities and social sciences are slower to adopt these practices. Notably, dataset referencing remains low across most disciplines, suggesting that datasets are not yet fully recognized as research outputs. A temporal analysis highlights an acceleration in data releases after 2012, yet obstacles such as data discoverability and compatibility for reuse persist. Our findings can inform institutional and policy-level efforts to improve data-sharing practices, enhance dataset accessibility, and promote broader adoption of open science principles across research domains.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:24:32.833Z

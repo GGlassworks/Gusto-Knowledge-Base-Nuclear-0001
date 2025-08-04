@@ -1,0 +1,12 @@
+# Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries
+
+**Authors:** Golsa Heidari, Ahmad Ramadan, Markus Stocker, Sören Auer
+
+## Summary
+Scientists always look for the most accurate and relevant answers to their queries in the literature. Traditional scholarly digital libraries list documents in search results, and therefore are unable to provide precise answers to search queries. In other words, search in digital libraries is metadata search and, if available, full-text search. We present a methodology for improving a faceted search system on structured content by leveraging a federation of scholarly knowledge graphs. We implemented the methodology on top of a scholarly knowledge graph. This search system can leverage content from third-party knowledge graphs to improve the exploration of scholarly content. A novelty of our approach is that we use dynamic facets on diverse data types, meaning that facets can change according to the user query. The user can also adjust the granularity of dynamic facets. An additional novelty is that we leverage third-party knowledge graphs to improve exploring scholarly knowledge.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DL
+Collected: 2025-08-01T10:26:26.650Z

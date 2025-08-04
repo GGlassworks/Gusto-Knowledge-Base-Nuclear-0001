@@ -1,0 +1,12 @@
+# Snapshot Visualization of Complex Graphs with Force-Directed Algorithms
+
+**Authors:** Se-Hang Cheong, Yain-Whar Si
+
+## Summary
+Force-directed algorithms are widely used for visualizing graphs. However, these algorithms are computationally expensive in producing good quality layouts for complex graphs. The layout quality is largely influenced by execution time and methods' input parameters especially for large complex graphs. The snapshots of visualization generated from these algorithms are useful in presenting the current view or a past state of an information on timeslices. Therefore, researchers often need to make a trade-off between the quality of visualization and the selection of appropriate force-directed algorithms. In this paper, we evaluate the quality of snapshots generated from 7 force-directed algorithms in terms of number of edge crossing and the standard deviations of edge length. Our experimental results showed that KK, FA2 and DH algorithms cannot produce satisfactory visualizations for large graphs within the time limit. KK-MS-DS algorithm can process large and planar graphs but it does not perform well for graphs with low average degrees. KK-MS algorithm produces better visualizations for sparse and non-clustered graphs than KK-MS-DS algorithm.
+
+
+---
+Category: interdisciplinary
+Subcategory: cs.DS
+Collected: 2025-08-01T19:45:59.663Z
