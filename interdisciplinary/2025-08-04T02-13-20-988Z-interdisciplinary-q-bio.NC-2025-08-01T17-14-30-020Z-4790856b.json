@@ -1,0 +1,12 @@
+# Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience
+
+**Authors:** Zinan Liu, Haoran Li, Jingyi Lu, Gaoyuan Ma, Xu Hong, Giovanni Iacca, Arvind Kumar, Shaojun Tang, Lin Wang
+
+## Summary
+Autonomous AI is no longer a hard-to-reach concept, it enables the agents to move beyond executing tasks to independently addressing complex problems, adapting to change while handling the uncertainty of the environment. However, what makes the agents truly autonomous? It is agentic reasoning, that is crucial for foundation models to develop symbolic logic, statistical correlations, or large-scale pattern recognition to process information, draw inferences, and make decisions. However, it remains unclear why and how existing agentic reasoning approaches work, in comparison to biological reasoning, which instead is deeply rooted in neural mechanisms involving hierarchical cognition, multimodal integration, and dynamic interactions. In this work, we propose a novel neuroscience-inspired framework for agentic reasoning. Grounded in three neuroscience-based definitions and supported by mathematical and biological foundations, we propose a unified framework modeling reasoning from perception to action, encompassing four core types, perceptual, dimensional, logical, and interactive, inspired by distinct functional roles observed in the human brain. We apply this framework to systematically classify and analyze existing AI reasoning methods, evaluating their theoretical foundations, computational designs, and practical limitations. We also explore its implications for building more generalizable, cognitively aligned agents in physical and virtual environments. Finally, building on our framework, we outline future directions and propose new neural-inspired reasoning methods, analogous to chain-of-thought prompting. By bridging cognitive neuroscience and AI, this work offers a theoretical foundation and practical roadmap for advancing agentic reasoning in intelligent systems. The associated project can be found at: https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning .
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:14:30.021Z

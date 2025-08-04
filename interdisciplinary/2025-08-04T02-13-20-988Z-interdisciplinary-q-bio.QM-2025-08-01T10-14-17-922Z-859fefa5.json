@@ -1,0 +1,12 @@
+# Quantifying Population Movement Using a Novel Implementation of Digital Image Correlation in the ICvectorfields package
+
+**Authors:** Devin W. Goodsman
+
+## Summary
+Movements in imagery captivate the human eye and imagination. They are also of interest in variety of scientific disciplines that study spatiotemporal dynamics. Popular methods for quantifying movement in imagery include particle image velocimetry and digital image correlation. Both methods are widely applied in engineering and materials science, but less applied in other disciplines. This paper describes an implementation of a basic digital image correlation algorithm in R open source software as well as an extension designed to quantify persistent movement velocities in sequences of three or more images. Algorithms are applied in the novel arena of landscape ecology to quantify population movement and to produce vector fields for easy visualization of complex movement patterns across space. Functions to facilitate analyses are available in the ICvectorfields software package. These methods and functions are likely to produce novel insights in theoretical and landscape ecology because they facilitate visualization and comparison of theoretical and observed data in complex and heterogeneous environments.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T10:14:17.922Z

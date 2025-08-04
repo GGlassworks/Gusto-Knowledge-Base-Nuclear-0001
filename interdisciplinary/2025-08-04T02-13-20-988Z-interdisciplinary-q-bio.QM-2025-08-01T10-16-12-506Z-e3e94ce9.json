@@ -1,0 +1,12 @@
+# The relation between color spaces and compositional data analysis demonstrated with magnetic resonance image processing applications
+
+**Authors:** Omer Faruk Gulban
+
+## Summary
+This paper presents a novel application of compositional data analysis methods in the context of color image processing. A vector decomposition method is proposed to reveal compositional components of any vector with positive components followed by compositional data analysis to demonstrate the relation between color space concepts such as hue and saturation to their compositional counterparts. The proposed methods are applied to a magnetic resonance imaging dataset acquired from a living human brain and a digital color photograph to perform image fusion. Potential future applications in magnetic resonance imaging are mentioned and the benefits/disadvantages of the proposed methods are discussed in terms of color image processing.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T10:16:12.506Z

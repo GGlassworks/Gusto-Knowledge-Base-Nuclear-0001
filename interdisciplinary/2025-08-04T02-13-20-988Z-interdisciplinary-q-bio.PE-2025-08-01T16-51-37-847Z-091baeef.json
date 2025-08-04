@@ -1,0 +1,12 @@
+# Rare-Event Sampling Analysis Uncovers the Fitness Landscape of the Genetic Code
+
+**Authors:** Yuji Omachi, Nen Saito, Chikara Furusawa
+
+## Summary
+The genetic code refers to a rule that maps 64 codons to 20 amino acids. Nearly all organisms, with few exceptions, share the same genetic code, the standard genetic code (SGC). While it remains unclear why this universal code has arisen and been maintained during evolution, it may have been preserved under selection pressure. Theoretical studies comparing the SGC and numerically created hypothetical random genetic codes have suggested that the SGC has been subject to strong selection pressure for being robust against translation errors. However, these prior studies have searched for random genetic codes in only a small subspace of the possible code space due to limitations in computation time. Thus, how the genetic code has evolved, and the characteristics of the genetic code fitness landscape, remain unclear. By applying multicanonical Monte Carlo, an efficient rare-event sampling method, we efficiently sampled random codes from a much broader random ensemble of genetic codes than in previous studies, estimating that only one out of every $10^{20}$ random codes is more robust than the SGC. This estimate is significantly smaller than the previous estimate, one in a million. We also characterized the fitness landscape of the genetic code that has four major fitness peaks, one of which includes the SGC. Furthermore, genetic algorithm analysis revealed that evolution under such a multi-peaked fitness landscape could be strongly biased toward a narrow peak, in an evolutionary path-dependent manner.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.PE
+Collected: 2025-08-01T16:51:37.848Z

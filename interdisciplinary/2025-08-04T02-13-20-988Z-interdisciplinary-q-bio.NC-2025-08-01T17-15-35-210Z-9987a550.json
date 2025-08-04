@@ -1,0 +1,12 @@
+# Representation biases: will we achieve complete understanding by analyzing representations?
+
+**Authors:** Andrew Kyle Lampinen, Stephanie C. Y. Chan, Yuxuan Li, Katherine Hermann
+
+## Summary
+A common approach in neuroscience is to study neural representations as a means to understand a system -- increasingly, by relating the neural representations to the internal representations learned by computational models. However, a recent work in machine learning (Lampinen, 2024) shows that learned feature representations may be biased to over-represent certain features, and represent others more weakly and less-consistently. For example, simple (linear) features may be more strongly and more consistently represented than complex (highly nonlinear) features. These biases could pose challenges for achieving full understanding of a system through representational analysis. In this perspective, we illustrate these challenges -- showing how feature representation biases can lead to strongly biased inferences from common analyses like PCA, regression, and RSA. We also present homomorphic encryption as a simple case study of the potential for strong dissociation between patterns of representation and computation. We discuss the implications of these results for representational comparisons between systems, and for neuroscience more generally.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:15:35.210Z

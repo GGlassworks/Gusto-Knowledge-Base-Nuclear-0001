@@ -1,0 +1,12 @@
+# Visual attention information can be traced on cortical response but not on the retina: evidence from electrophysiological mouse data using natural images as stimuli
+
+**Authors:** Nikos Melanitis, Konstantina Nikita
+
+## Summary
+Visual attention forms the basis of understanding the visual world. In this work we follow a computational approach to investigate the biological basis of visual attention. We analyze retinal and cortical electrophysiological data from mouse. Visual Stimuli are Natural Images depicting real world scenes. Our results show that in primary visual cortex (V1), a subset of around $10\%$ of the neurons responds differently to salient versus non-salient visual regions. Visual attention information was not traced in retinal response. It appears that the retina remains naive concerning visual attention; cortical response gets modulated to interpret visual attention information. Experimental animal studies may be designed to further explore the biological basis of visual attention we traced in this study. In applied and translational science, our study contributes to the design of improved visual prostheses systems -- systems that create artificial visual percepts to visually impaired individuals by electronic implants placed on either the retina or the cortex.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.NC
+Collected: 2025-08-01T19:41:57.007Z

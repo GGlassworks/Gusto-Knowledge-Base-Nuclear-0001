@@ -1,0 +1,12 @@
+# Automating LC-MS/MS mass chromatogram quantification. Wavelet transform based peak detection and automated estimation of peak boundaries and signal-to-noise ratio using signal processing methods
+
+**Authors:** Florian Rupprecht, Sören Enge, Kornelius Schmidt, Wei Gao, Clemens Kirschbaum, Robert Miller
+
+## Summary
+While there are many different methods for peak detection, no automatic methods for marking peak boundaries to calculate area under the curve (AUC) and signal-to-noise ratio (SNR) estimation exist. An algorithm for the automation of liquid chromatography tandem mass spectrometry (LC-MS/MS) mass chromatogram quantification was developed and validated. Continuous wavelet transformation and other digital signal processing methods were used in a multi-step procedure to calculate concentrations of six different analytes. To evaluate the performance of the algorithm, the results of the manual quantification of 446 hair samples with 6 different steroid hormones by two experts were compared to the algorithm results. The proposed approach of automating mass chromatogram quantification is reliable and valid. The algorithm returns less nondetectables than human raters. Based on signal to noise ratio, human non-detectables could be correctly classified with a diagnostic performance of AUC = 0.95. The algorithm presented here allows fast, automated, reliable, and valid computational peak detection and quantification in LC- MS/MS.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T10:16:12.993Z

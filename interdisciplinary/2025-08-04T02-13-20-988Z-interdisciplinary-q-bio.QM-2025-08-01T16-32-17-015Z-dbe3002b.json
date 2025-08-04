@@ -1,0 +1,12 @@
+# Parameter inference and model selection in signaling pathway models
+
+**Authors:** Tina Toni, Michael P. H. Stumpf
+
+## Summary
+To support and guide an extensive experimental research into systems biology of signaling pathways, increasingly more mechanistic models are being developed with hopes of gaining further insight into biological processes. In order to analyse these models, computational and statistical techniques are needed to estimate the unknown kinetic parameters. This chapter reviews methods from frequentist and Bayesian statistics for estimation of parameters and for choosing which model is best for modeling the underlying system. Approximate Bayesian Computation (ABC) techniques are introduced and employed to explore different hypothesis about the JAK-STAT signaling pathway.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:32:17.015Z

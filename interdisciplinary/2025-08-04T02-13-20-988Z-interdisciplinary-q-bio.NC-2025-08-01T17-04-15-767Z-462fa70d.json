@@ -1,0 +1,12 @@
+# Reconstruction of Partial Dissimilarity Matrices for Cognitive Neuroscience
+
+**Authors:** Denise Moerel, Tijl Grootswagers
+
+## Summary
+In cognitive neuroscience research, Representational Dissimilarity Matrices (RDMs) are often incomplete because pairwise similarity judgments cannot always be exhaustively collected as the number of pairs rapidly increases with the number of conditions. Existing methods to fill these missing values, such as deep neural network imputation, are powerful but computationally demanding and relatively opaque. We introduce a simple algorithm based on geometric inference that fills missing dissimilarity matrix entries using known distances. We use tests on publicly available empirical cognitive neuroscience datasets, as well as simulations, to demonstrate the method's effectiveness and robustness across varying sparsity and matrix sizes. We have made this geometric reconstruction algorithm, implemented in Python and MATLAB, publicly available. This method provides a fast and accurate solution for completing partial dissimilarity matrices in the cognitive neurosciences.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:04:15.767Z

@@ -1,0 +1,12 @@
+# Multidimensional Stochastic Process Model and its Applications to Analysis of Longitudinal Data with Genetic Information
+
+**Authors:** Ilya Zhbannikov, Konstantin Arbeev, Anatoliy Yashin
+
+## Summary
+Stochastic Process Model has many applications in analysis of longitudinal biodemographic data. Such data contain various physiological variables (sometimes known as covariates). It also can potentially contain genetic information available for all or a part of participants. Taking advantage from both genetic and non-genetic information can provide future insights into a broad range of processes describing aging-related changes in the organism. In this paper, we implemented a multi-dimensional Genetic Stochastic Process Model (GenSPM) in newly developed software tool, R-package stpm, which allows researchers performing such kind of analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.PE
+Collected: 2025-08-01T16:45:31.864Z

@@ -1,0 +1,12 @@
+# A computational framework for optimal and Model Predictive Control of stochastic gene regulatory networks
+
+**Authors:** Hamza Faquir, Manuel Pájaro, Irene Otero-Muras
+
+## Summary
+Engineering biology requires precise control of biomolecular circuits, and Cybergenetics is the field dedicated to achieving this goal. A significant challenge in developing controllers for cellular functions is designing systems that can effectively manage molecular noise. To address this, there has been increasing effort to develop model-based controllers for stochastic biomolecular systems, where a major difficulty lies in accurately solving the chemical master equation. In this work we develop a framework for optimal and Model Predictive Control of stochastic gene regulatory networks with three key advantageous features: high computational efficiency, the capacity to control the overall probability density function enabling the fine-tuning of the cell population to obtain complex shapes and behaviors (including bimodality and other emergent properties), and the capacity to handle high levels of intrinsic molecular noise. Our method exploits an efficient approximation of the Chemical Master Equation using Partial Integro-Differential Equations, which additionally enables the development of an effective adjoint-based optimization. We illustrate the performance of the methods presented through two relevant studies in Synthetic Biology: shaping bimodal cell populations and tracking moving target distributions via inducible gene regulatory circuits.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:30:10.941Z

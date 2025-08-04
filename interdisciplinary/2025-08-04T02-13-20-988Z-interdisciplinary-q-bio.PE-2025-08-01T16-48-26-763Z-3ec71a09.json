@@ -1,0 +1,12 @@
+# Expansion under climate change: the genetic consequences
+
+**Authors:** Jimmy Garnier, Mark Lewis
+
+## Summary
+Range expansion and range shifts are crucial population responses to climate change. Genetic consequences are not well understood but are clearly coupled to ecological dynamics that, in turn, are driven by shifting climate conditions. We model a population with a deterministic reaction-- diffusion model coupled to a heterogeneous environment that develops in time due to climate change. We decompose the resulting travelling wave solution into neutral genetic components to analyse the spatio-temporal dynamics of its genetic structure. Our analysis shows that range expansions and range shifts under slow climate change preserve genetic diversity. This is because slow climate change creates range boundaries that promote spatial mixing of genetic components. Mathematically , the mixing leads to so-called pushed travelling wave solutions. This mixing phenomenon is not seen in spatially homogeneous environments, where range expansion reduces genetic diversity through gene surfing arising from pulled travelling wave solutions. However, the preservation of diversity is diminished when climate change occurs too quickly. Using diversity indices, we show that fast expansions and range shifts erode genetic diversity more than slow range expansions and range shifts. Our study provides analytical insight into the dynamics of travelling wave solutions in heterogeneous environments.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.PE
+Collected: 2025-08-01T16:48:26.763Z

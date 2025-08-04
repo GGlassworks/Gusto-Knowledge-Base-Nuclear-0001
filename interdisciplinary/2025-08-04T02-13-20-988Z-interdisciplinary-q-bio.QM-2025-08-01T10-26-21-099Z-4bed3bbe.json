@@ -1,0 +1,12 @@
+# Digital image quantification of rice sheath blight: Optimized segmentation and automatic classification
+
+**Authors:** Da-Young Lee, Dong-Yeop Na, Yong Seok Heo, Guo-Liang Wang
+
+## Summary
+Rapid and accurate phenotypic screening of rice germplasms is crucial in screening for sources of rice sheath blight resistance. However, visual and/or caliper-based estimations of coalescing, necrotic, ShB disease lesions are time-consuming, labor-intensive and exposed to human rater subjectivity. Here, we propose the use of RGB images and image processing techniques to quantify ShB disease progression in terms of lesion height and diseased area. To be specific, we developed a pixel color- and coordinate-based K-Means Clustering (PCC-KMC) algorithm utilizing Mahalanobis metric aimed at accurate segmentation of symptomatic and non-symptomatic regions within rice stem images. The performance of PCC-KMC was evaluated using Lin's concordance correlation coefficient by comparing its results to visual measurements of ShB lesion height and to lesion/diseased area measured using ImageJ. Low bias and high precision were observed for absolute lesion height (bias=0.93, precision=0.94) and absolute symptomatic area (bias=0.98, precision=0.97) studies. Moreover, we introduced a convolutional neural network (CNN) for the automatic annotation on clusters, termed PCC-KMC-CNN. Our CNN was trained based on 85%:15% of composition for training and testing dataset from total 168 ShB-infected stem sample images, recording 92% accuracy and 0.21 loss. PCC-KMC-CNN also showed high accuracy and precision for the absolute lesion height (bias=0.86, precision=0.90) and absolute diseased area (bias=0.99, precision=0.97) studies. These results demonstrate that the present methodology has great potential and promise to substitute the traditional visual-based ShB disease severity assessment.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T10:26:21.099Z

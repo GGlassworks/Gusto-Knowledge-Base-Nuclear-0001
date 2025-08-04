@@ -1,0 +1,12 @@
+# Genetic draft, selective interference, and population genetics of rapid adaptation
+
+**Authors:** Richard A. Neher
+
+## Summary
+To learn about the past from a sample of genomic sequences, one needs to understand how evolutionary processes shape genetic diversity. Most population genetic inference is based on frameworks assuming adaptive evolution is rare. But if positive selection operates on many loci simultaneously, as has recently been suggested for many species including animals such as flies, a different approach is necessary. In this review, I discuss recent progress in characterizing and understanding evolution in rapidly adapting populations where random associations of mutations with genetic backgrounds of different fitness, i.e., genetic draft, dominate over genetic drift. As a result, neutral genetic diversity depends weakly on population size, but strongly on the rate of adaptation or more generally the variance in fitness. Coalescent processes with multiple mergers, rather than Kingman's coalescent, are appropriate genealogical models for rapidly adapting populations with important implications for population genetic inference.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.PE
+Collected: 2025-08-01T16:48:26.225Z

@@ -1,0 +1,12 @@
+# SHREC: A Framework for Advancing Next-Generation Computational Phenotyping with Large Language Models
+
+**Authors:** Sarah Pungitore, Shashank Yadav, Molly Douglas, Jarrod Mosier, Vignesh Subbian
+
+## Summary
+Objective: Computational phenotyping is a central informatics activity with resulting cohorts supporting a wide variety of applications. However, it is time-intensive because of manual data review, limited automation, and difficulties in adapting algorithms across sources. Since LLMs have demonstrated promising capabilities for text classification, comprehension, and generation, we posit they will perform well at repetitive manual review tasks traditionally performed by human experts. To support next-generation computational phenotyping methods, we developed SHREC, a framework for comprehensive integration of LLMs into end-to-end phenotyping pipelines. Methods: We applied and tested the ability of three lightweight LLMs (Gemma2 27 billion, Mistral Small 24 billion, and Phi-4 14 billion) to classify concepts and phenotype patients using previously developed phenotypes for ARF respiratory support therapies. Results: All models performed well on concept classification, with the best model (Mistral) achieving an AUROC of 0.896 across all relevant concepts. For phenotyping, models demonstrated near-perfect specificity for all phenotypes, and the top-performing model (Mistral) reached an average AUROC of 0.853 for single-therapy phenotypes, despite lower performance on multi-therapy phenotypes. Conclusion: Current lightweight LLMs can feasibly assist researchers with resource-intensive phenotyping tasks such as manual data review. There are several advantages of LLMs that support their application to computational phenotyping, such as their ability to adapt to new tasks with prompt engineering alone and their ability to incorporate raw EHR data. Future steps to advance next-generation phenotyping methods include determining optimal strategies for integrating biomedical data, exploring how LLMs reason, and advancing generative model methods.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T10:21:18.520Z

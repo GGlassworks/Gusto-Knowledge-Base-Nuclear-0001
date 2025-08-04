@@ -1,0 +1,12 @@
+# Clarifying the conceptual dimensions of representation in neuroscience
+
+**Authors:** Stephan Pohl, Edgar Y. Walker, David L. Barack, Jennifer Lee, Rachel N. Denison, Ned Block, Florent Meyniel, Wei Ji Ma
+
+## Summary
+Despite the centrality of the notion of representation to its explanations, neuroscience lacks a unified framework for the concepts used to characterize representation, leading to disparate use of terminology and measures associated with representation. To offer clarification, we propose a core set of conceptual dimensions that characterize representations in neuroscience. These dimensions describe relations between a neural response, features that may be represented, and downstream effects of the neural response. A neural response may be shown to be sensitive and specific to a feature, invariant to other features, and functional, which means that it is used downstream in the brain. We use information-theoretic measures to introduce these conceptual dimensions unambiguously and explain how data analysis methods such as correlational analyses, decoding and encoding models, representational similarity analysis, and tests of statistical dependence or adaptation relate to our framework. We consider several canonical examples, including the representation of orientation, numerosity, and spatial location, which illustrate how the evidence put forth in support or criticism of representational conclusions is systematized by our framework. By offering a unified conceptual framework we hope to aid the comparison and integration of results across studies and research groups and to help determine when evidence for a representational conclusion is strong.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:15:32.892Z

@@ -1,0 +1,12 @@
+# Generalizing Gillespie's direct method to enable network-free simulations
+
+**Authors:** Ryan Suderman, Eshan D. Mitra, Yen Ting Lin, Keesha E. Erickson, Song Feng, William S. Hlavacek
+
+## Summary
+Gillespie's direct method for stochastic simulation of chemical kinetics is a staple of computational systems biology research. However, the algorithm requires explicit enumeration of all reactions and all chemical species that may arise in the system. In many cases, this is not feasible due to the combinatorial explosion of reactions and species in biological networks. Rule-based modeling frameworks provide a way to exactly represent networks containing such combinatorial complexity, and generalizations of Gillespie's direct method have been developed as simulation engines for rule-based modeling languages. Here, we provide both a high-level description of the algorithms underlying the simulation engines, termed network-free simulation algorithms, and how they have been applied in systems biology research. We also define a generic rule-based modeling framework and describe a number of technical details required for adapting Gillespie's direct method for network-free simulation. Finally, we briefly discuss potential avenues for advancing network-free simulation and the role they continue to play in modeling dynamical systems in biology.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T16:31:10.935Z

@@ -1,0 +1,12 @@
+# The matrix method of representation, analysis and classification of long genetic sequences
+
+**Authors:** Ivan V. Stepanyan, Sergey V. Petoukhov
+
+## Summary
+The article is devoted to a matrix method of comparative analysis of long nucleotide sequences by means of a presentation of each sequence in a form of three digital binary sequences. This method uses biochemical attributes of nucleotides and it also uses a possibility of presentation of every whole set of n-mers in a form of one of members of a Kronecker family of genetic matrices. Due to this method, a long nucleotide sequence can be visually represented as an individual fractal-like mosaic or another regular mosaic of binary type. In contrast to natural nucleotide sequences, artificial random sequences give non-regular patterns. Examples of binary mosaics of long nucleotide sequences are shown, including cases of human chromosomes and penicillins. Interpretation of binary presentations of nucleotide sequences from the point of view of Gray code is also tested. Possible reasons of genetic meaning of Kronecker multiplication of matrices are analyzed. The received results are discussed.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.OT
+Collected: 2025-08-01T10:24:36.506Z

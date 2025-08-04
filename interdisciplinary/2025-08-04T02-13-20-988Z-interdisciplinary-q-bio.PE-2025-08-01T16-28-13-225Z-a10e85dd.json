@@ -1,0 +1,12 @@
+# Chemical Heredity as Group Selection at the Molecular Level
+
+**Authors:** Omer Markovitch, Olaf Witkowski, Nathaniel Virgo
+
+## Summary
+Many examples of cooperation exist in biology. In chemical systems however, which can sometimes be quite complex, we do not appear to observe intricate cooperative interactions. A key question for the origin of life, is then how can molecular cooperation first arise in an abiotic system prior to the emergence of biological replication. We postulate that selection at the molecular level is a driving force behind the complexification of chemical systems, particularly during the origins of life. In the theory of multilevel selection the two selective forces are: within-group and between-group, where the former tends to favor "selfish" replication of individuals and the latter favor cooperation between individuals enhancing the replication of the group as a whole. These forces can be quantified using the Price equation, which is a standard tool used in evolutionary biology to quantify evolutionary change. Our central claim is that replication and heredity in chemical systems are subject to selection, and quantifiable using the multilevel Price equation. We demonstrate this using the Graded Autocatalysis Replication Domain computer model, describing simple protocell composed out of molecules and its replication, which respectively analogue to the group and the individuals. In contrast to previous treatments of this model, we treat the lipid molecules themselves as replicating individuals and the protocells they form as groups of individuals. Our goal is to demonstrate how evolutionary biology tools and concepts can be applied in chemistry and we suggest that molecular cooperation may arise as a result of group selection. Further, the biological relation of parent-progeny is proposed to be analogue to the reactant-product relation in chemistry, thus allowing for tools from evolutionary biology to be applied to chemistry and would deepen the connection between chemistry and biology.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.PE
+Collected: 2025-08-01T16:28:13.225Z

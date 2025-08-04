@@ -1,0 +1,12 @@
+# Multilevel Monte Carlo for a class of Partially Observed Processes in Neuroscience
+
+**Authors:** Mohamed Maama, Ajay Jasra, Kengo Kamatani
+
+## Summary
+In this paper we consider Bayesian parameter inference associated to a class of partially observed stochastic differential equations (SDE) driven by jump processes. Such type of models can be routinely found in applications, of which we focus upon the case of neuroscience. The data are assumed to be observed regularly in time and driven by the SDE model with unknown parameters. In practice the SDE may not have an analytically tractable solution and this leads naturally to a time-discretization. We adapt the multilevel Markov chain Monte Carlo method of [11], which works with a hierarchy of time discretizations and show empirically and theoretically that this is preferable to using one single time discretization. The improvement is in terms of the computational cost needed to obtain a pre-specified numerical error. Our approach is illustrated on models that are found in neuroscience.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:09:24.506Z

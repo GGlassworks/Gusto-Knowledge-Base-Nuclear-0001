@@ -1,0 +1,12 @@
+# A perspective on neuroscience data standardization with Neurodata Without Borders
+
+**Authors:** Andrea Pierré, Tuan Pham, Jonah Pearl, Sandeep Robert Datta, Jason T. Ritt, Alexander Fleischmann
+
+## Summary
+Neuroscience research has evolved to generate increasingly large and complex experimental data sets, and advanced data science tools are taking on central roles in neuroscience research. Neurodata Without Borders (NWB), a standard language for neurophysiology data, has recently emerged as a powerful solution for data management, analysis, and sharing. We here discuss our efforts to implement NWB data science pipelines. We describe general principles and specific use cases that illustrate successes, challenges, and non-trivial decisions in software engineering. We hope that our experience can provide guidance for the neuroscience community and help bridge the gap between experimental neuroscience and data science.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.NC
+Collected: 2025-08-01T17:00:08.461Z

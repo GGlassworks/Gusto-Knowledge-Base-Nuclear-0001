@@ -1,0 +1,12 @@
+# PhysioZoo: The Open Digital Physiological Biomarkers Resource
+
+**Authors:** Joachim A. Behar, Jeremy Levy, Eran Zvuloni, Sheina Gendelman, Aviv Rosenberg, Shany Biton, Raphael Derman, Jonathan A. Sobel, Alexandra Alexandrovich, Peter Charlton, Márton Á Goda
+
+## Summary
+PhysioZoo is a collaborative platform designed for the analysis of continuous physiological time series. The platform currently comprises four modules, each consisting of a library, a user interface, and a set of tutorials: (1) PhysioZoo HRV, dedicated to studying heart rate variability (HRV) in humans and other mammals; (2) PhysioZoo SPO2, which focuses on the analysis of digital oximetry biomarkers (OBM) using continuous oximetry (SpO2) measurements from humans; (3) PhysioZoo ECG, dedicated to the analysis of electrocardiogram (ECG) time series; (4) PhysioZoo PPG, designed to study photoplethysmography (PPG) time series. In this proceeding, we introduce the PhysioZoo platform as an open resource for digital physiological biomarkers engineering, facilitating streamlined analysis and data visualization of physiological time series while ensuring the reproducibility of published experiments. We welcome researchers to contribute new libraries for the analysis of various physiological time series, such as electroencephalography, blood pressure, and phonocardiography. You can access the resource at physiozoo.com. We encourage researchers to explore and utilize this platform to advance their studies in the field of continuous physiological time-series analysis.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T10:14:18.697Z

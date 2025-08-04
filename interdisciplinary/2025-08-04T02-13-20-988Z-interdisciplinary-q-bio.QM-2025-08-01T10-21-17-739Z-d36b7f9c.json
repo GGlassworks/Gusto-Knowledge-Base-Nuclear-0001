@@ -1,0 +1,12 @@
+# Transport-based morphometry of nuclear structures of digital pathology images in cancers
+
+**Authors:** Mohammad Shifat E Rabbi, Natasha Ironside, John A Ozolek, Rajendra Singh, Liron Pantanowitz, Gustavo K Rohde
+
+## Summary
+Alterations in nuclear morphology are useful adjuncts and even diagnostic tools used by pathologists in the diagnosis and grading of many tumors, particularly malignant tumors. Large datasets such as TCGA and the Human Protein Atlas, in combination with emerging machine learning and statistical modeling methods, such as feature extraction and deep learning techniques, can be used to extract meaningful knowledge from images of nuclei, particularly from cancerous tumors. Here we describe a new technique based on the mathematics of optimal transport for modeling the information content related to nuclear chromatin structure directly from imaging data. In contrast to other techniques, our method represents the entire information content of each nucleus relative to a template nucleus using a transport-based morphometry (TBM) framework. We demonstrate the model is robust to different staining patterns and imaging protocols, and can be used to discover meaningful and interpretable information within and across datasets and cancer types. In particular, we demonstrate morphological differences capable of distinguishing nuclear features along the spectrum from benign to malignant categories of tumors across different cancer tissue types, including tumors derived from liver parenchyma, thyroid gland, lung mesothelium, and skin epithelium. We believe these proof of concept calculations demonstrate that the TBM framework can provide the quantitative measurements necessary for performing meaningful comparisons across a wide range of datasets and cancer types that can potentially enable numerous cancer studies, technologies, and clinical applications and help elevate the role of nuclear morphometry into a more quantitative science. The source codes implementing our method is available at https://github.com/rohdelab/nuclear_morphometry.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.QM
+Collected: 2025-08-01T10:21:17.739Z

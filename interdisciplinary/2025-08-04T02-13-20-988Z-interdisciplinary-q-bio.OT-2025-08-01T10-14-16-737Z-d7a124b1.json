@@ -1,0 +1,12 @@
+# Study of human accessibility: physical tests versus numerical simulation
+
+**Authors:** Mathieu Delangle, Émilie Poirson, Jean François Petiot
+
+## Summary
+Consideration of physical dimensions of the user population is essential to design adapted environment. This variability in body dimensions (called "anthropometry") is involved in design tools commonly used today to assess user's accommodation (physical mock-ups, population models, database, boundary manikins, hybrid methods or digital human modeling). Databases are created from campaigns of measurement. Besides the fact that such measures are costly in time and money, they give more "static" measures of man. They do not take into account possible stretching limbs that could allow increased accessibility. This paper presents a methodology for human body modeling, in a dynamic way, not static. The methodology allows to highlight influences of design and human behaviour on reach skills, directly induced by the interaction with real prototypes and not just considered by human physical dimensions. The first part of the method is to create a database of measurements (arms length, hip breadth, etc.). From these data, a model of accessibility is proposed. The accessibility field is determined purely numerically. In parallel, an experiment is set up to measure the extension of the accessibility field, with the same people. A comparison of the results is then performed and a new model of the human body is proposed.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.OT
+Collected: 2025-08-01T10:14:16.737Z

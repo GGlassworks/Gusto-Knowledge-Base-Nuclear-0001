@@ -1,0 +1,12 @@
+# Intramuscular High-Density Micro-Electrode Arrays Enable High-Precision Decoding and Mapping of Spinal Motor Neurons to Reveal Hand Control
+
+**Authors:** Agnese Grison, Jaime Ibanez Pereda, Silvia Muceli, Aritra Kundu, Farah Baracat, Giacomo Indiveri, Elisa Donati, Dario Farina
+
+## Summary
+Decoding nervous system activity is a key challenge in neuroscience and neural interfacing. In this study, we propose a novel neural decoding system that enables unprecedented large-scale sampling of muscle activity. Using micro-electrode arrays with more than 100 channels embedded within the forearm muscles, we recorded high-density signals that captured multi-unit motor neuron activity. This extensive sampling was complemented by advanced methods for neural decomposition, analysis, and classification, allowing us to accurately detect and interpret the spiking activity of spinal motor neurons that innervate hand muscles. We evaluated this system in two healthy participants, each implanted with three electromyogram (EMG) micro-electrode arrays (comprising 40 electrodes each) in the forearm. These arrays recorded muscle activity during both single- and multi-digit isometric contractions. For the first time under controlled conditions, we demonstrate that multi-digit tasks elicit unique patterns of motor neuron recruitment specific to each task, rather than employing combinations of recruitment patterns from single-digit tasks. This observation led us to hypothesize that hand tasks could be classified with high precision based on the decoded neural activity. We achieved perfect classification accuracy (100%) across 12 distinct single- and multi-digit tasks, and consistently high accuracy (&gt;96\%) across all conditions and subjects, for up to 16 task classes. These results significantly outperformed conventional EMG classification methods. The exceptional performance of this system paves the way for developing advanced neural interfaces based on invasive high-density EMG technology. This innovation could greatly enhance human-computer interaction and lead to substantial improvements in assistive technologies, offering new possibilities for restoring motor function in clinical applications.
+
+
+---
+Category: interdisciplinary
+Subcategory: q-bio.NC
+Collected: 2025-08-01T10:16:14.180Z
