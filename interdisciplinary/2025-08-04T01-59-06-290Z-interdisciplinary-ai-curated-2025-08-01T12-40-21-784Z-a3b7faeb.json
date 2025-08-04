@@ -1,0 +1,13 @@
+# Modelling High-Frequency Data with Bivariate Hawkes Processes: Power-Law vs. Exponential Kernels
+
+**Authors:** Neal Batra
+
+## Abstract
+This study explores the application of Hawkes processes to model high-frequency data in the context of limit order books. Two distinct Hawkes-based models are proposed and analyzed: one utilizing exponential kernels and the other employing power-law kernels. These models are implemented within a bivariate framework. The performance of each model is evaluated using high-frequency trading data, with a focus on their ability to reproduce key statistical properties of limit order books. Through a comprehensive comparison, we identify the strengths and limitations of each kernel type, providing insights into their suitability for modeling high-frequency financial data. Simulations are conducted to validate the models, and the results are interpreted. Based on these insights, a trading strategy is formulated.
+
+**Source:** https://www.semanticscholar.org/paper/35989bbaa7b622949150dd2aee63cbcbe69a53a9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:40:21.784Z

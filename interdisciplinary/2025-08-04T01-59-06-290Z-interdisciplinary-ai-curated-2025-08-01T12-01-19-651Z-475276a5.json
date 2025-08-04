@@ -1,0 +1,13 @@
+# Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers
+
+**Authors:** Haowei Ni, Shuchen Meng, Xieming Geng, Panfeng Li, Zhuoying Li, Xupeng Chen, Xiaotong Wang, Shiyao Zhang
+
+## Abstract
+Cardiovascular disease (CVD) is a leading cause of death globally, necessitating precise forecasting models for monitoring vital signs like heart rate, blood pressure, and ECG. Traditional models, such as ARIMA and Prophet, are limited by their need for manual parameter tuning and challenges in handling noisy, sparse, and highly variable medical data. This study investigates advanced deep learning models, including LSTM, and transformer-based architectures, for predicting heart rate time series from the MIT-BIH Database. Results demonstrate that deep learning models, particularly PatchTST, significantly outperform traditional models across multiple metrics, capturing complex patterns and dependencies more effectively. This research underscores the potential of deep learning to enhance patient monitoring and CVD management, suggesting substantial clinical benefits. Future work should extend these findings to larger, more diverse datasets and real-world clinical applications to further validate and optimize model performance.
+
+**Source:** https://www.semanticscholar.org/paper/26742ab4aed967a7f387e4d0213f9543aa72739c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:01:19.652Z

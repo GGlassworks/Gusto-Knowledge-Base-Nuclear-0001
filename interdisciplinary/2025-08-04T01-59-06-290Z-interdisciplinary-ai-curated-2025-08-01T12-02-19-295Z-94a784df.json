@@ -1,0 +1,17 @@
+# Development of Cascaded Multilevel Inverter Based Active Power Filter With Reduced Transformers
+
+**Authors:** Bhukya Nageswar Rao
+
+## Abstract
+Active power filter is a power electronic converter used for improving the quality of supply by eliminating the effect of harmonics due to non-linear loads. This paper recommends a concept for shunt active power filter (SAPF) using a single power source fed to a cascaded multilevel inverter (CMI) with 3-φ transformers. Apart from traditional transformer based topologies, the required number of transformers are substantially reduced, resulting in less space requirement, which leads to low cost and simple control system. The proposed CMI based SAPF has a capacity to compensate for contaminated load with high harmonic and a low power factor. The effective i
+ d
+-i
+ q
+ theory is used to calculate compensation currents. DC link voltage regulator analyzed through delay time and controller gain. The tasks of the controller in the SAPF can perform all necessary actions for correct operation in SAPF. A wide range of computer simulation results demonstrated and validated the results with the prototype experimental setup.
+
+**Source:** https://www.semanticscholar.org/paper/e7204ab16cb523e13a1f5c3c4683f18b4fce5be5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:02:19.295Z

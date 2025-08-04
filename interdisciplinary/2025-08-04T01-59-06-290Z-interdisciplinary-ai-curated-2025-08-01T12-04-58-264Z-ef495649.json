@@ -1,0 +1,13 @@
+# Comparison of the Wideband Power Sources Used to Supply Step-Up Current Transformers for Generation of Distorted Currents
+
+**Authors:** M. Kaczmarek, Piotr Kaczmarek
+
+## Abstract
+In this paper a comparison of the wideband power sources of a pulse width modulation (PWM) inverter and a power supply composed of an audio power amplifier and a two-channel arbitrary generator is discussed. Their application is to supply a step-up current transformer for generation of the distorted current required to test the transformation accuracy of the distorted currents of the inductive current transformers. The proposed equations allow to calculate the maximum rms values of higher harmonic of distorted currents for its required main harmonic component. Moreover, they also enable the calculation of the maximum rms values of the main harmonic of the distorted current for which the required higher harmonic component may be obtained. This defines the usable bandwidth of the tested power source for their specific load. During work on high inductive impedance, the maximum voltage is the limitation that determines the higher harmonic value. While for resistive loads, the maximum current and the transistor’s slew rate are the limiting factors. The usage of the compensation system for the inductive reactance of the step-up current transformer under supply significantly increased its maximum output current. Its rms value with a 10% higher harmonic component up to 5 kHz was almost 400 A instead 100 A for the PWM-based power source and about 800 A instead 200 A for the power supply system with the audio amplifier.
+
+**Source:** https://www.semanticscholar.org/paper/89611aee9c5e4b22e496b248591a48eb603709c6
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:04:58.265Z

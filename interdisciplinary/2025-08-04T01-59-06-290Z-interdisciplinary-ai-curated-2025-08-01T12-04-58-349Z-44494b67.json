@@ -1,0 +1,13 @@
+# Comparison of Classical and Smart Transformers Impact on MV Distribution Grid
+
+**Authors:** A. Milczarek, M. Malinowski
+
+## Abstract
+In last years, the electrical systems are changed from centralized to distributed energy generation. Nowadays, the distributed generation systems consist of many renewable energy sources (RESs) and active loads, connected to the grid by the power electronics converters (PECs). As a result, more often the PECs with novel functionalities like harmonic elimination, voltage sags compensation, grid stability improvement etc. are required. One of the promising solutions for distributed generation system, which allows improve the delivered power is a smart transformer (ST). It is able to replace the classical MV/LV transformer, where additional functionalities are necessary to provide the higher energy quality. Additionally, the ST is characterized by lower weight/volume and provides easy integration of AC and DC sub-grids. Therefore, in this paper, the modelling problem of a modern MV grid with classical and smart transformers have been described. Moreover, the comprehensive simulation analysis of the MV grid was performed, in which different functionalities of ST were considered. The advantages of ST over classical transformer are compared and the impact of ST functionalities on the MV grid is presented, taking into account the currents/voltages distortions in LV side, symmetrization process and voltage support in MV distribution grid as well as the transmission power losses.
+
+**Source:** https://www.semanticscholar.org/paper/8de65db042b7396e4aefca8f8506db81ffd41ca2
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:04:58.349Z

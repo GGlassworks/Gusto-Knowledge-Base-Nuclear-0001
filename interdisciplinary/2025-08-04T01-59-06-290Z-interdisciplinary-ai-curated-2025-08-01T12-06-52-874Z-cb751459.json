@@ -1,0 +1,13 @@
+# Range of validity of the Rayleigh-Debye-Gans theory for optics of fractal aggregates.
+
+**Authors:** T. Farias, Ümit Özgür Köylü, M. Carvalho
+
+## Abstract
+The range of validity of the Rayleigh-Debye-Gans approximation for the optical cross sections of fractal aggregates (RDG-FA) that are formed by uniform small particles was evaluated in comparison with the integral equation formulation for scattering (IEFS), which accounts for the effects of multiple scattering and self-interaction. Numerical simulations were performed to create aggregates that exhibit mass fractallike characteristics with a wide range of particle and aggregate sizes and morphologies, including x(p) = 0.01-1.0, ‖m - 1‖ = 0.1-2.0, N = 16-256, and D(f) = 1.0-3.0. The percent differences between both scattering theories were presented as error contour charts in the ‖m - 1‖x(p) domains for various size aggregates, emphasizing fractal properties representative of diffusion-limited cluster-cluster aggregation. These charts conveniently identified the regions in which the differences were less than 10%, between 10% and 30%, and more than 30% for easy to use general guidelines for suitability of the RDG-FA theory in any scattering applications of interest, such as laser-based particulate diagnostics. Various types of aggregate geometry ranging from straight chains (D(f) ≈ 1.0) to compact clusters (D(f) ≈ 3.0) were also considered for generalization of the findings. For the present computational conditions, the RDG-FA theory yielded accurate predictions to within 10% for ‖m - 1‖ to approximately 1 or more as long as the primary particles in aggregates were within the Rayleigh scattering limit (x(p) ≤ 0.3). Additionally, the effect of fractal dimension on the performance of the RDG-FA was generally found to be insignificant. The results suggested that the RDG-FA theory is a reasonable approximation for optics of a wide range of fractal aggregates, considerably extending its domain of applicability.
+
+**Source:** https://www.semanticscholar.org/paper/87185993958b1e7cc3968101c845708bfaf377d9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:06:52.874Z

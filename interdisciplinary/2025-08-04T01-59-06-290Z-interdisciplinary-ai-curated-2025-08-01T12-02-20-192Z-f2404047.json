@@ -1,0 +1,13 @@
+# Second Harmonic-Based Approach to Identify a GIC Flow in Power Transformers
+
+**Authors:** S. Saleh, E. Zundel, J. Meng, M. Bourque, E. F. .. Hill, G. Y. Morris, S. Brown
+
+## Abstract
+Certain parts of the world can experience active geomagnetic disturbances, which trigger geomagnetically induced currents (GICs) to flow through grounding circuits into power systems. Such currents are quasi-dc currents that can have large magnitudes capable of inflecting damage to power system equipment. Power transformers are among the vulnerable equipment to GIC flows, which can cause harmonic distortion, disruption in reactive power flow, and thermal damage in transformer windings. Adverse effects of GIC flows can be minimized by developing a fast, accurate, and reliable detection method of GICs. Such a detection method can support initiating adequate responses to block the GIC from flowing into power transformers. This paper presents the development and implementation of a method to detect GIC flows in power transformers. The developed method is based on extracting the second harmonic present in the differential currents. The proposed GIC detection is experimentally tested using laboratory 3φ transformers, when operated for different GIC flows and loading levels. In addition, experimental tests are conducted for magnetizing inrush currents and various faults in both sides of tested transformers. Test results demonstrate fast and accurate detection of GIC flows with minor sensitivity to the value of the GIC, loading level, and/or transformer core type. In addition, the proposed 2nd harmonicbased method is found able to accurately distinguish GIC flows from magnetizing inrush and fault currents.
+
+**Source:** https://www.semanticscholar.org/paper/44f0d7e342316fbdb5bceb5f75427d37430429f1
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:02:20.193Z

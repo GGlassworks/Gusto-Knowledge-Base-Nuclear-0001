@@ -1,0 +1,13 @@
+# A Hardware-In-The-Loop (HIL) Testbed for Hydraulic Transformers Research
+
+**Authors:** Sangyoon Lee, Perry Y. Li
+
+## Abstract
+A hardware-in-the-loop (HIL) testbed for testing and evaluating experimental hydraulic transformers has been developed. The testbed is capable of emulating a variety of loading conditions specified by the desired work cycle operation of various hydraulic machines, such as humanoid robots or excavators. The HIL testbed is a useful research tool as it allows studying the dynamics of many desired loading conditions without having to obtain and reconfigure the said physical hardware for each case. This paper discusses the background, construction, and control of the HIL testbed with the experimental results. Preliminary results demonstrating the functionality of an experimental switch mode hydraulic transformers are also presented.
+
+**Source:** https://www.semanticscholar.org/paper/83a13e46bc27009d15ada8848c05d0f5f4811c38
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:01:19.077Z

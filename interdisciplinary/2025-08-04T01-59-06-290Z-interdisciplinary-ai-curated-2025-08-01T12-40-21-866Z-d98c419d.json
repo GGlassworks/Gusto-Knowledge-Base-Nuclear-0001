@@ -1,0 +1,13 @@
+# High-Frequency Quote Volatility Measurement Using a Change-Point Intensity Model
+
+**Authors:** Zhicheng Li, Haipeng Xing
+
+## Abstract
+Quote volatility is important in determining the cost of demand in a high frequency (HF) order market. This paper proposes a new model to measure quote volatility based on the point process and price-change duration. Specifically, we built a change-point intensity (CPI) model to describe the dynamics of price-change events for a given level of threshold. The instantaneous volatility of quote price can be calculated at any time according to price-change intensities. Based on this, we can quantify the cost of demanding liquidity for traders with different trading latency by using integrated variances. Furthermore, we use the autoregressive conditional intensity (ACI) model proposed by Russell (1999) as a benchmark comparison. The results suggest that our model has better performance of both in-sample fitness and out-of-sample prediction.
+
+**Source:** https://www.semanticscholar.org/paper/600612368804de2f94c684ae82e0c804e4e4d481
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:40:21.866Z

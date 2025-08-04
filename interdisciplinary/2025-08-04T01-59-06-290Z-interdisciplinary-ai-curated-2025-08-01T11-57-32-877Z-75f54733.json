@@ -1,0 +1,13 @@
+# Solid-State Transformers for Distribution Systems–Part I: Technology and Construction
+
+**Authors:** S. Saleh, Chistian Richard, X. F. St. Onge, K. McDonald, E. Ozkop, Liuchen Chang, B. Alsayid
+
+## Abstract
+Solid-state transformers (SSTs) are an emerging technology that has been developed to improve the stability, reliability, and economic operation of distribution systems. These new transformers are composed of a medium ac voltage (MV) stage, a dc stage, and a low ac voltage (LV) stage. Passive and active dc links are used to construct the dc stage in SSTs in order to offer new functionalities, including hybrid (ac and dc) distribution, reactive power compensation, voltage/frequency regulation, power quality improvement, and distributed generation utilization. On one hand, a distribution SST has its ac stage connected to an MV level, which mandates specific power electronic converter (PEC) topologies, switching element capabilities, and filtering circuits. On the other hand, the dc-link stage has to provide isolation between the MV and LV levels, which requires the employment of isolated dc PECs. Part I of this work provides a review of SST designs and constructions (for deployment in distribution systems), in terms of the required technology, supported functionalities, and construction features.
+
+**Source:** https://www.semanticscholar.org/paper/187f1dd1d48b509c7cdbcc345924c4abc0e2eb8f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:57:32.877Z

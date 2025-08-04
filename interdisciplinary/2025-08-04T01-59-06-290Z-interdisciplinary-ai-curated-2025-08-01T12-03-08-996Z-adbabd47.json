@@ -1,0 +1,13 @@
+# State of the Art of Solid-State Transformers: Advanced Topologies, Implementation Issues, Recent Progress and Improvements
+
+**Authors:** M. Hannan, P. Ker, M. S. Lipu, Z. H. Choi, M. S. A. Rahman, K. Muttaqi, F. Blaabjerg
+
+## Abstract
+Solid-state transformer (SST) is an emerging technology integrating with a transformer power electronics converters and control circuitry. This paper comprehensively reviews the SST topologies suitable for different voltage levels and with varied stages, their control operation, and different trends in applications. The paper discusses various SST configurations with their design and characteristics to convert the input to output under unipolar and bipolar operation. A comparison between the topologies, control operation and applications are included. Different control models and schemes are explained. Potential benefits of SST in many applications in terms of controllability and the synergy of AC and DC systems are highlighted to appreciate the importance of SST technologies. This review highlights many factors including existing issues and challenges and provides recommendations for the improvement of future SST configuration and development.
+
+**Source:** https://www.semanticscholar.org/paper/aba467fe5fccf54319af02cf8278a2b335dee2c8
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:03:08.997Z

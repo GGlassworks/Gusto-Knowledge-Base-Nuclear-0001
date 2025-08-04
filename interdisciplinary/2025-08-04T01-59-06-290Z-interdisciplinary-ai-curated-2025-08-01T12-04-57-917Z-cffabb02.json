@@ -1,0 +1,13 @@
+# Comparison of Analytical Method and Different Finite Element Models for the Calculation of Leakage Inductance in Zigzag Transformers
+
+**Authors:** Kamran Dawood, Fatih Isik, G. Komurgoz
+
+## Abstract
+A zigzag transformer is a key segment of the electric power system. The optimal design of the zigzag transformer is important for transformer designers to provide a required return path for earth faults and to ensure proper operation of a power system. The two most important parameters of the zigzag transformers are no-load losses and leakage impedance. The accurate calculation of both factors helps to minimize the overall cost of the transformer. Therefore, the prediction of leakage reactance in the zigzag transformer using analytical or numerical methods is an essential part of the early designing stages of the transformer. This paper provides several two- and three-dimensional finite element models. The main purpose of these models is to evaluate the accuracy of the different models for the calculation of the leakage reactance. An analytical formula and a complete procedure for the calculation of the leakage reactance in the zigzag transformer are also provided, which will help the researchers and transformer designer to optimize this type of transformer. The prototype is also manufactured and tested to verify the accuracy of the analytical method and finite element models for the calculation of the leakage reactance. The simulation and experimental results show that the finite element calculation cannot only obtain accurate leakage reactance values (magnetostatic analysis), but also provides better accuracy in the no-load losses (transient analysis).
+
+**Source:** https://www.semanticscholar.org/paper/09d5a3489e97f58df860707c3a4bee59edf25e09
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:04:57.918Z

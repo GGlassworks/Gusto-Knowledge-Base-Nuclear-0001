@@ -1,0 +1,13 @@
+# LCPFormer: Towards Effective 3D Point Cloud Analysis via Local Context Propagation in Transformers
+
+**Authors:** Zhuo Huang, Zhiyou Zhao, Banghuai Li, Jungong Han
+
+## Abstract
+Transformer with its underlying attention mechanism and the ability to capture long-range dependencies makes it become a natural choice for unordered point cloud data. However, local regions separated from the general sampling architecture corrupt the structural information of the instances, and the inherent relationships between adjacent local regions lack exploration. In other words, the transformer only focuses on the long-range dependence, while local structural information is still crucial in a transformer-based 3D point cloud model. To enable transformers to incorporate local structural information, we proposed a straightforward solution based on the natural structure of the point clouds to exploit the message passing between neighboring local regions, thus making their representations more comprehensive and discriminative. Concretely, the proposed module, named Local Context Propagation (LCP), is inserted between two transformer layers. It takes advantage of the overlapping points of adjacent local regions (statistically shown to be prevalent) as intermediaries, then re-weighs the features of these shared points from different local regions before passing them to the next layers. Finally, we design a flexible LCPFormer architecture equipped with the LCP module, which is applicable to several different tasks. Experimental results demonstrate that our proposed LCPFormer outperforms various transformer-based methods in benchmarks including 3D shape classification and dense prediction tasks such as 3D object detection and semantic segmentation. Code will be released for reproduction.
+
+**Source:** https://www.semanticscholar.org/paper/28afd5cf95de7fe2e13b5fa00a7fa569d68b3652
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:58:21.664Z

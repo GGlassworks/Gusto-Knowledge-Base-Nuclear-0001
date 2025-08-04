@@ -1,0 +1,13 @@
+# Overview and Partial Discharge Analysis of Power Transformers: A Literature Review
+
+**Authors:** Md Rashid Hussain, S. Refaat, H. Abu-Rub
+
+## Abstract
+The high voltage power transformer is the critical element of the power system, which requires continuous monitoring to prevent sudden catastrophic failures and to ensure an uninterrupted power supply. The most common failures in the transformer are due to partial discharge (PD) in electrical insulations which are the results of the insulation degradation over time. Different approaches have been proposed to monitor, detect, and locate the partial discharge in power transformers. This paper reviews and evaluates the current state-of-the-art methods for PD detection and localization techniques, and methodologies in power transformers. Detailed comparisons of PD detection techniques have been identified and discussed in this paper. The drawbacks and challenges of different partial discharge measurement techniques have been elaborated. Finally, brief reviews of PD denoising signals, feature extraction of PD signals, and classification of partial discharge sources have been addressed.
+
+**Source:** https://www.semanticscholar.org/paper/0c6a7eca2f0a12dbc047e71198a6048a1276ac9d
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:58:22.178Z

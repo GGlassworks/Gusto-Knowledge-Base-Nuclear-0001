@@ -1,0 +1,13 @@
+# A Comprehensive Survey of Generative Adversarial Networks (GANs) in Cybersecurity Intrusion Detection
+
+**Authors:** Aeryn Dunmore, Julian Jang-Jaccard, Fariza Sabrina, Jin Kwak
+
+## Abstract
+Generative Adversarial Networks (GANs) have seen significant interest since their introduction in 2014. While originally focused primarily on image-based tasks, their capacity for generating new, synthetic data has brought them into many different fields of Machine Learning research. Their use in cybersecurity has grown swiftly, especially in tasks which require training on unbalanced datasets of attack classes. In this paper we examine the use of GANs in Intrusion Detection Systems (IDS) and how they are currently being employed in this area of research. GANs are currently in use for the creation of adversarial examples, editing the semantic information of data, creating polymorphic samples of malware, augmenting data for rare classes, and much more. We have endeavored to create a paper that may act as a primer for cybersecurity specialists and machine learning researchers alike. This paper details what GANs are and how they work, the current types of GAN in use in the area, datasets used in this research, metrics for evaluation, current areas of use in intrusion detection, and when and how they are best used.
+
+**Source:** https://www.semanticscholar.org/paper/4c33b1d5599aa214cc3f70ada23e38d6e12f4107
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:05:52.732Z

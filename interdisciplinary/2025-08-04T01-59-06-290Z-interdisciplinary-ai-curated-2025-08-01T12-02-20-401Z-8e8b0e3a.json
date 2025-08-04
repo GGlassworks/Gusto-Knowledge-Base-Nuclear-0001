@@ -1,0 +1,13 @@
+# Development of a Control Method for LLC Converter Utilized for Input-Parallel-Output-Series Inverter System with Solid-State Transformers
+
+**Authors:** M. Nakahara, Y. Kawaguchi, Kimihisa Furukawa, M. Kadota, Y. Mabuchi, A. Kanoda
+
+## Abstract
+A multi-level power converter with series-connected solid-state transformer (SST) units for a power conditioning system for photovoltaic (PV) generation was developed. Each SST unit has an LLC converter driven by SiC-MOSFETs and a high-frequency transformer. By applying the developed converter, the system can be optimized and made lighter than a conventional system using a commercial transformer. A method for controlling the LLC converter so as to maintain its high efficiency over a wide voltage range of a PV panel is proposed. According to the results of an experimental evaluation of a prototype SST unit, the efficiency of the LLC converter is 98% or more even when the input voltage from the PV panel changes.
+
+**Source:** https://www.semanticscholar.org/paper/4347336b284bcecb9191ee606b65c7752caec23e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:02:20.403Z

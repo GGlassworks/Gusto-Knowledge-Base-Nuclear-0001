@@ -1,0 +1,13 @@
+# Vision Transformers: State of the Art and Research Challenges
+
+**Authors:** Bo Ruan, Hong-Han Shuai, Wen-Huang Cheng
+
+## Abstract
+Transformers have achieved great success in natural language processing. Due to the powerful capability of self-attention mechanism in transformers, researchers develop the vision transformers for a variety of computer vision tasks, such as image recognition, object detection, image segmentation, pose estimation, and 3D reconstruction. This paper presents a comprehensive overview of the literature on different architecture designs and training tricks (including self-supervised learning) for vision transformers. Our goal is to provide a systematic review with the open research opportunities.
+
+**Source:** https://www.semanticscholar.org/paper/1350574ef040fa5313687c601e34720d5ebc4bf4
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:01:19.787Z

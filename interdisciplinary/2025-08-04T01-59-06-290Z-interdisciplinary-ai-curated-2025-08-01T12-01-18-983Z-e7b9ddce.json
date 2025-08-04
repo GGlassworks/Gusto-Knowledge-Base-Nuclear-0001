@@ -1,0 +1,13 @@
+# COM-transformers: research on automatic knowledge graph construction based on transformer
+
+**Authors:** JiaXuan Dai, Liangli Ma, Jiwei Qin
+
+## Abstract
+We have proposed the first comprehensive scheme for automatic knowledge base construction, which targets a widely used commonsense knowledge graphs: ATOMIC. Unlike many traditional knowledge bases that store structured information using standardized templates, commonsense knowledge bases only store unstructured text descriptions. We believe that the development of generative commonsense models is an essential step towards the automatic construction of commonsense knowledge. To this end, we have introduced a novel method called COM-Transformers, which learns to generate diverse natural language descriptions of commonsense knowledge. Although commonsense modeling is challenging, our investigation shows that by turning implicit knowledge in pre-trained language models into explicit knowledge, we have achieved promising results on ATOMIC. The results demonstrate that COM-Transformers is able to generate novel knowledge of high quality that is evaluated favorably by humans, comprehensively improving performance on the benchmark. Our research results indicate that automatic generation of commonsense knowledge bases using commonsense generative models may quickly become a viable alternative to extraction approaches.
+
+**Source:** https://www.semanticscholar.org/paper/2adedf36ee8c59b679aca9573f0c2dd9c261d5ac
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:01:18.983Z

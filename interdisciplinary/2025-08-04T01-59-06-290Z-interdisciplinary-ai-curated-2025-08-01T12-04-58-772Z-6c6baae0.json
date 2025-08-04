@@ -1,0 +1,13 @@
+# Thermal Comparison of Planar Versus Conventional Transformers Used in LLC Resonant Converters
+
+**Authors:** R. Shafaei, Mohammad Ali Saket, M. Ordonez
+
+## Abstract
+Thermal analysis is an essential design step of high performance power electronics transformers, enabling the designer to estimate temperature behavior of the components and provide a proper cooling system. In this paper, a thorough thermal analysis is carried out for two different types of transformers used in high frequency LLC resonant converters. Two planar and conventional PQ core-based transformers are compared from temperature distributions and thermal time constant points of view. The proposed modeling is carried out using finite element analysis (FEA) so that all the heat transfer mechanisms, including thermal convection, radiation and conduction, are considered. Different scenarios are applied for the studied transformers to have a detailed thermal comparison. In comparison to the traditional core, analysis shows that the planar transformer has a lower hot spot temperature and a desirable temperature distribution, which is the result of having larger surface to volume ratio in planar cores. Furthermore, it is shown that because of the lower volume and greater exchange area of the planar core, shorter time constant is achieved so that the temperature rapidly increases to its steady state condition. Finally, experimental results confirm the validity of the proposed analysis and show the superiority of planar transformers from a heat transfer point of view.
+
+**Source:** https://www.semanticscholar.org/paper/f3620d3d62149eb41a14e24fb6fcc6fc37ed5d05
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:04:58.772Z

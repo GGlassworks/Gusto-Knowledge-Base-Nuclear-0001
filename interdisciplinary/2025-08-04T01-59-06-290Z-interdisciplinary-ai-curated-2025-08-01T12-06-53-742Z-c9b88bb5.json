@@ -1,0 +1,13 @@
+# Generic image application using GANs (Generative Adversarial Networks): A Review
+
+**Authors:** S. P. Porkodi, V. Sarada, V. Maik, K. Gurushankar
+
+## Abstract
+The generative adversarial network (GAN), which has received considerable notice for its outstanding data generating abilities, is one of the most intriguing fields of artificial intelligence study. Large volumes of data are required to develop generalizable deep learning models. GANs are a highly strong class of networks capable of producing believable new pictures from unlabeled source prints and labeled medical imaging data is scarce and costly to produce. Despite GAN’s remarkable outcomes, steady training remains a challenge. The goal of this study is to perform a complete evaluation of the GAN-related literature and to present a succinct summary of existing knowledge on GAN, including the theory following it, its intended purpose, potential base model alterations, and latest breakthroughs in the area. This article will aid you in gaining a comprehensive grasp of GAN and provide an overview of GAN and its many model types, as well as common implementations, measurement parameter suggestions, and GAN applications in image processing. It will also go over the several applications of GANs in image processing, as well as their benefits and limitations, as well as its prospective reach.
+
+**Source:** https://www.semanticscholar.org/paper/1bfc497ad17dceeda6b1aa929e14b613f6964d2e
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:06:53.742Z

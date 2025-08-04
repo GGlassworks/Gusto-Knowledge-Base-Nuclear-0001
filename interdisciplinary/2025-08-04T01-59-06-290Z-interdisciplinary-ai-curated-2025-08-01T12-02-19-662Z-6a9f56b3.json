@@ -1,0 +1,13 @@
+# Development of Acoustic Emission Sensor Optimized for Partial Discharge Monitoring in Power Transformers
+
+**Authors:** W. Sikorski
+
+## Abstract
+The acoustic emission (AE) technique is one of the unconventional methods of partial discharges (PD) detection. It plays a particularly important role in oil-filled power transformers diagnostics because it enables the detection and online monitoring of PDs as well as localization of their sources. The performance of this technique highly depends on measurement system configuration but mostly on the type of applied AE sensor. The paper presents, in detail, the design and manufacturing stages of an ultrasensitive AE sensor optimized for partial discharge detection in power transformers. The design assumptions were formulated based on extensive laboratory research, which allowed for the identification of dominant acoustic frequencies emitted by partial discharges in oil–paper insulation. The Krimholtz–Leedom–Matthaei (KLM) model was used to iteratively find optimal material and geometric properties of the main structures of the prototype AE sensor. It has two sensing elements with opposite polarization direction and different heights. The fully differential design allowed to obtain the desired properties of the transducer, i.e., a two-resonant (68 kHz and 90 kHz) and wide (30–100 kHz) frequency response curve, high peak sensitivity (−61.1 dB ref. V/µbar), and low noise. The laboratory tests confirmed that the prototype transducer is characterized by ultrahigh sensitivity of partial discharge detection. Compared to commonly used commercial AE sensors, the average amplitude of PD pulses registered with the prototype sensor was a minimum of 5.2 dB higher, and a maximum of 19.8 dB higher.
+
+**Source:** https://www.semanticscholar.org/paper/7c7047cf60adfdd3caf4fc04aa785d65b22d2a0c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:02:19.663Z

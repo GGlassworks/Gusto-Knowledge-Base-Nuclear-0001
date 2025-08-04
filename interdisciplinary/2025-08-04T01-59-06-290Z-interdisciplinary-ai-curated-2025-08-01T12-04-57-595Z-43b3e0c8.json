@@ -1,0 +1,13 @@
+# Analysis and Comparison of Integrated Planar Transformers for 22-kW On-Board Chargers
+
+**Authors:** Tianlong Yuan, Feng Jin, Qiang Li
+
+## Abstract
+The surge in electric vehicle technology has brought attention to the manufacturing and design of 22-kW on-board chargers using printed circuit boards (PCBs), owing to their manufacturability and compact nature. However, designing transformers for these applications is challenging due to the demands of higher power and a smaller profile. The challenges include achieving optimal current distribution in parallel windings and easier transformer structure with better thermal performance. In addition, the integration of resonant inductance is crucial for regulatory functions and higher power densities. The integration with parallel windings also impacts the overall transformer performance, which needs to be analyzed. This article presents a detailed analysis and design approach for a 22-kW PCB-based transformer with good current sharing, controllable leakage inductance, and a simplified core structure. The study also includes an in-depth analysis of the transformer's flux distribution to minimize core loss. A 22-kW CLLC resonant converter is developed to validate the proposed transformer using PCB-packaged devices. With its modified flux distribution and good current sharing, the integrated transformer enables the converter to achieve a power density of 11.6 kW/L and a peak efficiency of 98.5%.
+
+**Source:** https://www.semanticscholar.org/paper/096ae9f808442116aed03e45371845584f607fdf
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:04:57.596Z

@@ -1,0 +1,13 @@
+# Exploring Transformers in Emotion Recognition: a comparison of BERT, DistillBERT, RoBERTa, XLNet and ELECTRA
+
+**Authors:** Diogo Cortiz
+
+## Abstract
+This paper investigates how Natural Language Understanding (NLU) could be applied in Emotion Recognition, a specific task in affective computing. We finetuned different transformers language models (BERT, DistilBERT, RoBERTa, XLNet, and ELECTRA) using a fine-grained emotion dataset and evaluating them in terms of performance (f1-score) and time to complete.
+
+**Source:** https://www.semanticscholar.org/paper/b8f9b83c7e9b595db91a86611990819177ab0042
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:04:58.116Z

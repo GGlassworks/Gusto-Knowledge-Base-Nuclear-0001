@@ -1,0 +1,13 @@
+# HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer
+
+**Authors:** Wenyan Xu, Rundong Wang, Chen Li, Yonghong Hu, Z. Lu
+
+## Abstract
+In quantitative trading, transforming historical stock data into interpretable, formulaic risk factors enhances the identification of market volatility and risk. Despite recent advancements in neural networks for extracting latent risk factors, these models remain limited to feature extraction and lack explicit, formulaic risk factor designs. By viewing symbolic mathematics as a language-where valid mathematical expressions serve as meaningful "sentences"-we propose framing the task of mining formulaic risk factors as a language modeling problem. In this paper, we introduce an end-to-end methodology, Intraday Risk Factor Transformer (IRFT), to directly generate complete formulaic risk factors, including constants. We use a hybrid symbolic-numeric vocabulary where symbolic tokens represent operators and stock features, and numeric tokens represent constants. We train a Transformer model on high-frequency trading (HFT) datasets to generate risk factors without relying on a predefined skeleton of operators (e.g., +, x, /, √x, log x, cos x). It determines the general form of the stock volatility law, including constants; for example, f(x) = tan(ax + b), where x is the stock price. We refine the predicted constants (a, b) using the Broyden--Fletcher--Goldfarb--Shanno (BFGS) algorithm to mitigate non-linear issues. Compared to the ten approaches in SRBench, an active benchmark for symbolic regression (SR), IRFT achieves a 30% higher investment return on the HS300 and S&P500 datasets, while achieving inference times that are orders of magnitude faster than existing methods in HF risk factor mining tasks. Our code and dataset are publicly accessible via the following GitHub repository: https://github.com/wencyxu/IRF-LLM-accepted-at-WWW25-
+
+**Source:** https://www.semanticscholar.org/paper/597ed7ecc76aab7b8fea3490c31ac56bb49d0d3a
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T12:34:52.115Z

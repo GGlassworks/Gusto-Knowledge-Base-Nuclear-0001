@@ -1,0 +1,13 @@
+# Detection and Analysis of Partial Discharges in Oil-Immersed Power Transformers Using Low-Cost Acoustic Sensors
+
+**Authors:** Hamidreza Besharatifard, S. Hasanzadeh, E. Heydarian‐Forushani, Hassan Haes Alhelou, P. Siano
+
+## Abstract
+Partial Discharge (PD) is one of the symptoms of an electrical insulation problem, and its permanence can lead to the complete deterioration of the electrical insulation in high-voltage equipment such as power transformers. The acoustic emission (AE) method is a well-known technique used to detect and localize PD activity inside oil-filled transformers. However, the commercially available monitoring systems based on acoustic sensors still have a high cost. This paper analyses the ability of low-cost piezoelectric sensors to identify PDs within oil-filled power transformers. To this end, two types of low-cost piezoelectric sensors were fully investigated using time-domain, frequency-domain, and time-frequency analysis, separately. Thereafter, the effectiveness of these sensors for PD detection and monitoring was studied. A three-phase distribution transformer filled with oil was examined. PDs were produced inside an oil-immersed transformer by applying a high voltage over two copper electrodes, and the AE sensors were coupled to the housing of the transformer. By extracting typical features from the AE signals, the PD signals were differentiated from on-site noise and interference. The AE signals were analyzed using acoustic signal metrics such as peak value, energy criterion, and other statistical parameters. The obtained results indicated that the used low-cost piezoelectric sensors have the capability of PD monitoring within power transformers.
+
+**Source:** https://www.semanticscholar.org/paper/66757ad95a7d7384a8fcf43a6dd158ce5a5df6e4
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T11:58:21.916Z
