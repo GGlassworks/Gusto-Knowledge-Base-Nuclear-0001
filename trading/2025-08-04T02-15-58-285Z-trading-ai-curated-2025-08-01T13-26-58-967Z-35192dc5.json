@@ -1,0 +1,13 @@
+# Machine Learning-Based Timeseries Analysis for Cryptocurrency Price Prediction: A Systematic Review and Research
+
+**Authors:** Siva Kumar.A, Gopirajan Pv, Beulah Jackson
+
+## Abstract
+A virtual currency known as cryptocurrencies holds all business online. It’s virtual money that wouldn’t materialize like complicated conventional paper currency. Thus, this study emphasizes a distinction between distributed paper currency and cryptocurrencies, where these individuals may access information without outside interference. Because of its considerable market swings, such cryptocurrencies have an influence upon commerce as well as foreign diplomacy. Virtual currencies which are available in the market, such as Bitcoin (BTC), Ethereum (ETH), Terra (LUNA), Solana (SOL), Cardano (ADA), Tether (USDT), Binance coin (BNB), USD coin, XRP coin, Avalanche coin (AVAX) and Lite coin (LTC), etc. This study focussed on a detailed analysis of the literature about Machine Learning (ML) methods used for predictions. This proposed work also focused on implementing an efficient Machine Learning (ML)-based time series model for predicting BTC cryptocurrency prices. Long Short-Term Memory (LSTM) forecasting theory was established to accommodate the fluctuation of bitcoin prices and achieve great precision. The effectiveness of the LSTM in predicting the price of a cryptocurrency is demonstrated by this suggested study’s comparison between it and comparable time-series models.
+
+**Source:** https://www.semanticscholar.org/paper/c8e65d2237a4acf9672e66b1abcd2415fbac2b0e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:58.967Z

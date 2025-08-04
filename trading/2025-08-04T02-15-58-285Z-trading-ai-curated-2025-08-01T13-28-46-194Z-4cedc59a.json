@@ -1,0 +1,13 @@
+# Deep Learning Model Analysis and Web-Based Implementation of Cryptocurrency Prediction
+
+**Authors:** Gege Ardiyansyah, Ferdiansyah Ferdiansyah, U. Ependi
+
+## Abstract
+Cryptocurrency is a digital asset designed by cryptography, such as Secure Hash Algorithm 2 (SHA-2) and Message Digest 5 (MD5). Cryptocurrency uses Blockchain technology to ensure security, transparency, ease of locating, and unchangeability. This makes cryptocurrency very popular in many sectors, especially in the financial industry. Although, the uncertainty and the dynamic change of cryptocurrency price make the risk for investment in this digital asset high. This is the reason why studies about cryptocurrency price prediction became popular globally. This study intended to predict cryptocurrency prices using hybrid GRU LSTM than setting up the epoch to get the most accurate prediction model. The researcher would make a web-based application that can be used by the public, especially those involved in cryptocurrency investment. The result was a web-based application that could predict the price of cryptocurrency for the next few days, which had been validated using data from the previous 7 days, 14 days, 30 days, 60 days, and 90 days.
+
+**Source:** https://www.semanticscholar.org/paper/57df547a0784bbeba20f991c35e553769a9ad7f7
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:28:46.194Z

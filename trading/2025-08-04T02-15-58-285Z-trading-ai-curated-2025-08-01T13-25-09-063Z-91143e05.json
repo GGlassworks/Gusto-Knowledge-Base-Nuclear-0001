@@ -1,0 +1,13 @@
+# A Methodology for Securities and Cryptocurrency Trading Using Exploratory Data Analysis and Artificial Intelligence
+
+**Authors:** Ali Al-Ameer, F. Al-Sunni
+
+## Abstract
+This paper discusses securities and cryptocurrency trading using artificial intelligence (AI) in the sense that it focuses on performing Exploratory Data Analysis (EDA) on selected technical indicators before proceeding to modelling, and then to develop more practical models by introducing new reward loss function that maximizes the returns during training phase. The results of EDA reveal that the complex patterns within the data can be better captured by discriminative classification models and this was endorsed by performing back-testing on two securities using Artificial Neural Network (ANN) and Random Forests (RF) as discriminative models against their counterpart Naïve Bayes as a generative model. To enhance the learning process, the new reward loss function is utilized to retrain the ANN with testing on AAPL, IBM, BRENT CRUDE and BTC using auto-trading strategy that serves as the intelligent unit, and the results indicate this loss superiorly outperforms the conventional cross-entropy used in predictive models. The overall results of this work suggest that there should be larger focus on EDA and more practical losses in the research of machine learning modelling for stock market prediction applications.
+
+**Source:** https://www.semanticscholar.org/paper/5996fe5a516e24f70c4f40cc9f1b7588c1fcd3a6
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:25:09.063Z

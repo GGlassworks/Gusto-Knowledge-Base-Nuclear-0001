@@ -1,0 +1,13 @@
+# Analysis of segregated witness implementation for increasing efficiency and security of the Bitcoin cryptocurrency
+
+**Authors:** M. Kedziora, Dawid Pieprzka, I. Józwiak, Yongxin Liu, H. Song
+
+## Abstract
+ABSTRACT The purpose of this paper is to present mechanisms and algorithms implemented for improving Bitcoin cryptocurrency efficiency and security and to examine the block propagation times from a selected period before and after SegWit was introduced. In this paper, Segregated Witness Implementation issues were verified based both on the simulation and real data from the Bitcoin network. Based on the block propagation times calculated in the simulator, as well as bitcoin network real data, the efficiency and safety of Bitcoin have been analysed and validated.
+
+**Source:** https://www.semanticscholar.org/paper/36b1115d6bef9186beaf38d5ff75cf17815f1559
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:28:45.992Z

@@ -1,0 +1,13 @@
+# Advanced Cryptocurrency and Stock Prices Forecasting via Bidirectional Long Short-Term Memory Model
+
+**Authors:** Ramsriprasaath D, R. Bhavani, S. Pavithra
+
+## Abstract
+Truthful prediction of the values of the cryptocurrencies and stocks is critical in the financial marketplace. We developed a Bi-Lstm model to forecast the next day prices of Bitcoin, Ethereum, and Microsoft stock. The model expands the temporal resolution to the 60-day sequence window, making predictions of financial time series more reliable due to higher temporal dependencies. The effectiveness of the model is evaluated using three error metrics: Hence, use of Mean Squared Error, Root Mean Squared Error, and Mean Absolute Percentage Error was employed to guarantee accurate evaluation. Anticipating prices for the year 2025, the proposed system provides information for overall long-term tendencies and possible gains from investments. The findings reveal that the application of Bi-Lstm model can avert the categories of fluctuation that characterises the financial market and is a powerful instrument for making future predictions. The future work might improve the accuracy of the predictions by incorporating other features like market sentiment and macroeconomic indicators.
+
+**Source:** https://www.semanticscholar.org/paper/727f998028837e8a4a272b77fe8032c19605cd8c
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:01.864Z

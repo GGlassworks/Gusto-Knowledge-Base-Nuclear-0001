@@ -1,0 +1,13 @@
+# OPTICALS: A Novel Framework for Optimizing Predictive Trading Indicators in Cryptocurrency Using Advanced Learning Simulations
+
+**Authors:** Hasib Shamshad, Fasee Ullah, Syed Adeel Ali Shah, Muhammed Faheem, Beena Shamshad
+
+## Abstract
+Cryptocurrencies have reshaped finance with secure, decentralized trading, attracting investor interest due to high volatility and potential returns. Accurate price forecasting is essential for optimizing returns and managing risks in digital markets. This study introduces OPTICALS, a novel framework for daily cryptocurrency price forecasting, focusing on transparency, robust performance assessment, and interpretability in machine and deep learning models. Unlike existing methods, OPTICALS provides detailed insights into model predictions by optimizing hyperparameters and identifying each model’s strengths and limitations. The framework evaluates five models-XGBoost, LightGBM, LSTM, Bi-LSTM, and GRU-on three major cryptocurrencies: Ethereum, Binance, and Solana, known for high trading volumes and distinct characteristics. OPTICALS incorporates a “Look-back window” hyperparameter, using recent historical prices to predict next-day trends through Moving Averages analysis. This parameter refines lagged feature engineering to enhance trend capture and predictive accuracy. Models underwent rigorous evaluation, including multiple simulations and hyperparameter tuning. Gradient Boosting models were tuned via GridSearchCV and regularization to improve performance through diverse ensembles. RNN models were optimized by adjusting neurons, stacks, epochs, batch sizes, and optimizers. Predictions were validated against one-week-ahead prices to ensure robust accuracy. Findings show that GRU and XGBoost excel at predicting real-time trends, with GRU supporting day trading and XGBoost benefiting swing trading. This study advances cryptocurrency analytics, providing practical forecasting tools for traders, investors, and institutions to navigate volatility and manage risks effectively.
+
+**Source:** https://www.semanticscholar.org/paper/06361c2146333abb4ab419e2b95dfe070e42186e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:03.008Z

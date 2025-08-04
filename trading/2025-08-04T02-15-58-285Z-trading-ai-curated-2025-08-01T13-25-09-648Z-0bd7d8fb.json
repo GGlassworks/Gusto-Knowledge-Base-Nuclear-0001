@@ -1,0 +1,13 @@
+# Enhancing Price Prediction in Cryptocurrency Using Transformer Neural Network and Technical Indicators
+
+**Authors:** M. Khaniki, Mohammad Manthouri
+
+## Abstract
+This study presents an innovative approach for predicting cryptocurrency time series, specifically focusing on Bitcoin, Ethereum, and Litecoin. The methodology integrates the use of technical indicators, a Performer neural network, and BiLSTM (Bidirectional Long Short-Term Memory) to capture temporal dynamics and extract significant features from raw cryptocurrency data. The application of technical indicators, such facilitates the extraction of intricate patterns, momentum, volatility, and trends. The Performer neural network, employing Fast Attention Via positive Orthogonal Random features (FAVOR+), has demonstrated superior computational efficiency and scalability compared to the traditional Multi-head attention mechanism in Transformer models. Additionally, the integration of BiLSTM in the feedforward network enhances the model's capacity to capture temporal dynamics in the data, processing it in both forward and backward directions. This is particularly advantageous for time series data where past and future data points can influence the current state. The proposed method has been applied to the hourly and daily timeframes of the major cryptocurrencies and its performance has been benchmarked against other methods documented in the literature. The results underscore the potential of the proposed method to outperform existing models, marking a significant progression in the field of cryptocurrency price prediction.
+
+**Source:** https://www.semanticscholar.org/paper/043f655bcade6d962552edb87f07a06cb887c2f1
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:25:09.650Z

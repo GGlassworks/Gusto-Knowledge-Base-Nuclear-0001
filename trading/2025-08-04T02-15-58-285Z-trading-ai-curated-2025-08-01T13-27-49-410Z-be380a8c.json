@@ -1,0 +1,13 @@
+# A Panel Data Set of Cryptocurrency Development Activity on GitHub
+
+**Authors:** Rijnard van Tonder, Asher Trockman, Claire Le Goues
+
+## Abstract
+Cryptocurrencies are a significant development in recent years, featuring in global news, the financial sector, and academic research. They also hold a significant presence in open source development, comprising some of the most popular repositories on GitHub. Their openly developed software artifacts thus present a unique and exclusive avenue to quantitatively observe human activity, effort, and software growth for cryptocurrencies. Our data set marks the first concentrated effort toward high-fidelity panel data of cryptocurrency development for a wide range of metrics. The data set is foremost a quantitative measure of developer activity for budding open source cryptocurrency development. We collect metrics like daily commits, contributors, lines of code changes, stars, forks, and subscribers. We also include financial data for each cryptocurrency: the daily price and market capitalization. The data set includes data for 236 cryptocurrencies for 380 days (roughly January 2018 to January 2019). We discuss particularly interesting research opportunities for this combination of data, and release new tooling to enable continuing data collection for future research opportunities as development and application of cryptocurrencies mature.
+
+**Source:** https://www.semanticscholar.org/paper/da915930e709009fce92f163d90e3e9aee3f824b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:27:49.410Z

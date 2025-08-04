@@ -1,0 +1,13 @@
+# A Cryptocurrency Analysis Tool based on Social Metrics
+
+**Authors:** Bill Xu, Yu Sun
+
+## Abstract
+Recent years have witnessed the dramatic popularity of cryptocurrencies, in which millions invest to join the cryptocurrency community or make financial gains [1]. Investors employ many ways to analyze a cryptocurrency, from a purely technical approach to a more utility-centred approach [2]. However, few technologies exist to help investors find cryptocurrencies with bright prospects through social metrics, an equally if not more important viewpoint to consider due to the importance of communities in the space. This paper proposes an application to evaluate cryptocurrencies based on social metrics by establishing scores and models with machine learning and other tools [3]. We verified the need for our application through surveys, applied it to test investment strategies, andconducted a qualitative evaluation of the approach. The results show that our tool benefits investors by providing them with a different lens to view cryptocurrencies and helps them make more thorough decisions.
+
+**Source:** https://www.semanticscholar.org/paper/52af219e6543ee9a8dd8e94fd7a054c47d430958
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:24:16.688Z

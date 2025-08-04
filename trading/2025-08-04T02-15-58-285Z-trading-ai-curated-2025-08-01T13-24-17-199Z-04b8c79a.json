@@ -1,0 +1,13 @@
+# Connectedness of cryptocurrency markets to crude oil and gold: an analysis of the effect of COVID-19 pandemic
+
+**Authors:** P. Foroutan, Salim Lahmiri
+
+## Abstract
+The notion that investors shift to gold during economic market crises remains unverified for many cryptocurrency markets. This paper investigates the connectedness between the 10 most traded cryptocurrencies and gold as well as crude oil markets pre-COVID-19 and during COVID-19. Through the application of various statistical techniques, including cointegration tests, vector autoregressive models, vector error correction models, autoregressive distributed lag models, and Granger causality analyses, we explore the relationship between these markets and assess the safe-haven properties of gold and crude oil for cryptocurrencies. Our findings reveal that during the COVID-19 pandemic, gold is a strong safe-haven for Bitcoin, Litecoin, and Monero while demonstrating a weaker safe-haven potential for Bitcoin Cash, EOS, Chainlink, and Cardano. In contrast, gold only exhibits a strong safe-haven characteristic before the pandemic for Litecoin and Monero. Additionally, Brent crude oil emerges as a strong safe-haven for Bitcoin during COVID-19, while West Texas Intermediate and Brent crude oils demonstrate weaker safe-haven properties for Ether, Bitcoin Cash, EOS, and Monero. Furthermore, the Granger causality analysis indicates that before the COVID-19 pandemic, the causal relationship predominantly flowed from gold and crude oil toward the cryptocurrency markets; however, during the COVID-19 period, the direction of causality shifted, with cryptocurrencies exerting influence on the gold and crude oil markets. These findings provide subtle implications for policymakers, hedge fund managers, and individual or institutional cryptocurrency investors. Our results highlight the need to adapt risk exposure strategies during financial turmoil, such as the crisis precipitated by the COVID-19 pandemic.
+
+**Source:** https://www.semanticscholar.org/paper/f2c34a7c59b54d5775cbdeac1cff60d6d1154c04
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:24:17.199Z

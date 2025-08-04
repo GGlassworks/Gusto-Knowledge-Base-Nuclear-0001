@@ -1,0 +1,13 @@
+# Advanced Cryptocurrency Price Prediction: Incorporating Time-Reversed ARIMA and BVIC
+
+**Authors:** Luc Minh Tuan, Roman Senkerik, Tran Khanh Dang
+
+## Abstract
+The highly volatile nature of cryptocurrencies, particularly Bitcoin, exhibits extreme price volatility, making accurate price prediction a challenging task for traditional forecasting models. This paper proposes an enhanced ARIMA model, called ARIMA_T, which incorporates time-reversed data and optimizes model selection using the Backward Validated Information Criterion (BVIC). The ARIMA_T model aims to improve forecasting accuracy by capturing both linear and non-linear patterns in the data that standard ARIMA models often overlook. We apply this model to predict Bitcoin prices over short and medium-term horizons, specifically 1-day, 7-days, and 30-days ahead predictions. The dataset spans from April 2013 to February 2024. Experimental results demonstrate that ARIMA_T consistently outperforms the traditional ARIMA model across all forecast horizons, as evidenced by lower Root Mean Square Error (RMSE) values. The ARIMA_T model provides more accurate and robust predictions, particularly for short-term forecasting, making it a valuable tool for navigating the volatile cryptocurrency market. This study also discusses the limitations of both models in handling longer-term predictions and suggests future work in integrating ARIMA_T with machine learning techniques for further improvements.
+
+**Source:** https://www.semanticscholar.org/paper/25e04b2d944e1707955ff873943bbb8a4eec385b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:01.738Z

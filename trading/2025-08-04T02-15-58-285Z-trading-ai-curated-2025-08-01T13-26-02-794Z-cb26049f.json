@@ -1,0 +1,15 @@
+# Advanced Hybrid RNN Architectures for Real-time Cryptocurrency Forecasting and Strategic Trading Optimization
+
+**Authors:** K. D. G. Maduranga, Shamima Nasrin Tumpa
+
+## Abstract
+The cryptocurrency market is characterized by its high volatility and complex temporal dependencies, posing significant challenges for accurate price prediction. This study introduces advanced hybrid Recurrent Neural Network (RNN) architectures—LSTM-GRU, GRU-BiLSTM, and LSTM-BiLSTM—to enhance the predictive accuracy of cryptocurrency price forecasting. By leveraging the strengths of each RNN variant, the hybrid models effectively capture intricate time-series patterns and nonlinear dependencies inherent in cryptocurrency data. 
+The research follows a comprehensive methodology, including the collection of historical price data for Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC), rigorous data preprocessing, and the integration of hybrid architectures. Extensive experiments are conducted, and the models are evaluated using key performance metrics, such as Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE). Results highlight the superior performance of hybrid RNNs, with LSTM-BiLSTM excelling in BTC price prediction, GRU-BiLSTM and LSTM-GRU demonstrating robust performance for ETH and LTC. 
+This study not only establishes the efficacy of hybrid RNN architectures for time-series forecasting but also underscores their potential for real-world applications in trading strategies. The findings set a new standard for leveraging deep learning in cryptocurrency markets, paving the way for more accurate, reliable, and adaptive forecasting systems. Future work will focus on extending this approach to a broader range of cryptocurrencies and incorporating external market factors to further enhance predictive capabilities.
+
+**Source:** https://www.semanticscholar.org/paper/390714814d8718b52a7b8adf6df1b60a6cce6caf
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:02.794Z

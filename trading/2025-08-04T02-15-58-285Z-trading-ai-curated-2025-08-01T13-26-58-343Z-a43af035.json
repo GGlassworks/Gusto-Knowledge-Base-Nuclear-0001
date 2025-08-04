@@ -1,0 +1,13 @@
+# Demo: Proof-of-Work Network Simulator for Blockchain and Cryptocurrency Research
+
+**Authors:** Simeon Wuthier, Sang-Yoon Chang
+
+## Abstract
+Blockchain and the proof-of-work (PoW) distributed consensus protocol rely on peer-to-peer (P2P) networking. We build a PoW P2P simulator for the modeling and analyses of permissionless blockchain networking. Our simulator utilizes a built-in randomness generator for the simulations, has an easy-to-use interface and intuitive visualization, supports dynamic/programmable control and modifications, and can generate simulation data for further processing. We publish our simulator in open source to facilitate its use for blockchain and P2P networking research and especially recommend it for scalability research or preliminary testing. To highlight its features and capabilities, we demonstrate the simulator use in this paper to analyze the recent blockchain security research, including 51% attack, eclipse, partitioning, and DoS attack.
+
+**Source:** https://www.semanticscholar.org/paper/5abd0161733f45d08a9ad7ab3a826c71ae9c22d3
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:58.344Z

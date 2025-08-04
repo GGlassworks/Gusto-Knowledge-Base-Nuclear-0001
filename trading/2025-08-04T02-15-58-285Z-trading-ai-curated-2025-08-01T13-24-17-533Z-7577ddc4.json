@@ -1,0 +1,13 @@
+# Promising Cryptocurrency Analysis using Deep Learning
+
+**Authors:** Selim Buyrukoğlu
+
+## Abstract
+Cryptocurrency is in great demand today and there is pretty much investment in cryptocurrencies by the investors. There are more than 6000 cryptocurrencies all over the world, which clearly shows that cryptocurrency is a growing investment market. For this reason, investors having ordinary income invest in promising cryptocurrencies with a low market value. However, these investors are often unconsciously investing and making losses. At this point, sensible investments can be made using data analysis methods based on deep learning. Therefore, this study aims to analyze promising cryptocurrencies with deep learning methods. Five promising cryptocurrencies were analyzed with the ensembles of LSTM and single-based LSTM networks. This study revealed that ensembles of LSTM network do not always provide better accuracy performance than the single-based LSTM network in the analysis of promising cryptocurrencies. In other words, these two deep learning methods can be employed to obtain reliable analysis results in promising cryptocurrencies.
+
+**Source:** https://www.semanticscholar.org/paper/eb2852d103d19a22b000bc5d13258f0a314de2b9
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:24:17.533Z

@@ -1,0 +1,13 @@
+# The novel secure testament methodology for cryptocurrency wallet using mnemonic seed
+
+**Authors:** Nanta Janpitak, W. Lilakiatsakun, C. Sathitwiriyawong
+
+## Abstract
+ABSTRACT Recently, cryptocurrencies such as Bitcoin, Ethereum, etc, have rapidly been recognized as an asset, often called a digital asset. Comparing to the real assets, it would be handled carefully due to its own characteristics that are completely different. The disadvantage of such digital assets, on the one hand, is that whoever knows the private key of the wallet, they can easily take over that digital asset. On the other hand, if the wallet’s owners are dead without passing credential information to others, that asset will be lost forever. We thus propose the novel secure testament methodology for a digital asset such as Bitcoin to solve the mentioned problems. The mechanism is based on managing the mnemonic seed of the wallet so that an inheritor will obtain the mnemonic seed in a secure way. Two mechanisms of the proposed methodology are implemented. The first is to save the mnemonic seed in a secure repository. Therefore, no one can access to the cryptocurrency wallet while the owner still being alive and does not wish anybody to access. The second is to deliver the mnemonic seed securely to legitimate inheritor when the owner is suspected to be dead or disappeared. Finally, based on our experiment, the results show that the aforementioned problems can be solved. Furthermore, the proposed mechanism can help the owner of the asset to managing the confidentiality of their assets.
+
+**Source:** https://www.semanticscholar.org/paper/43062b9409b9ff329ea2634b8f58304598f2fa30
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:25:09.305Z

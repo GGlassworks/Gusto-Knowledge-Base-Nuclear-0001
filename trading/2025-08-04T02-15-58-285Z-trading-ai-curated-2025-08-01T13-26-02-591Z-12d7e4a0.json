@@ -1,0 +1,13 @@
+# An Advanced CNN-LSTM Model for Cryptocurrency Forecasting
+
+**Authors:** I. Livieris, Niki Kiriakidou, S. Stavroyiannis, P. Pintelas
+
+## Abstract
+Nowadays, cryptocurrencies are established and widely recognized as an alternative exchange currency method. They have infiltrated most financial transactions and as a result cryptocurrency trade is generally considered one of the most popular and promising types of profitable investments. Nevertheless, this constantly increasing financial market is characterized by significant volatility and strong price fluctuations over a short-time period therefore, the development of an accurate and reliable forecasting model is considered essential for portfolio management and optimization. In this research, we propose a multiple-input deep neural network model for the prediction of cryptocurrency price and movement. The proposed forecasting model utilizes as inputs different cryptocurrency data and handles them independently in order to exploit useful information from each cryptocurrency separately. An extensive empirical study was performed using three consecutive years of cryptocurrency data from three cryptocurrencies with the highest market capitalization i.e., Bitcoin (BTC), Etherium (ETH), and Ripple (XRP). The detailed experimental analysis revealed that the proposed model has the ability to efficiently exploit mixed cryptocurrency data, reduces overfitting and decreases the computational cost in comparison with traditional fully-connected deep neural networks.
+
+**Source:** https://www.semanticscholar.org/paper/a332f3c26bb2668fcdc22910d754c6ff3f3a2e3b
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:02.592Z

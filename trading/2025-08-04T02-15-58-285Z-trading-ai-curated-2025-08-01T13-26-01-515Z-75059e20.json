@@ -1,0 +1,13 @@
+# Improving cryptocurrency price prediction through advanced LSTMbased deep learning techniques
+
+**Authors:** Rihab Qasim Abdulkadhim, Hasanen S. Abdullah, Mustafa Jasim Hadi
+
+## Abstract
+One In the evolving financial market landscape, cryptocurrencies have seen a notable surge in investments. This study delves into the advancements in cryptocurrency price predictions using LSTM (Long Short-Term Memory) neural networks. One of the integral components of our neural architecture is the “dense layer”, which plays a pivotal role infinalizing the output from the LSTM layers, making the predictions more compact and refined, by focusing on four major cryptocurrencies: We used LSTM networks to improve the precision of forecasting for USDT, BTC, ETH, and BNB. One important aspect of this study is that it includes the “LeakyReLU” function which helps to solve the issue of vanishing gradients, thus enhancing the predictive power of LSTM networks. This integration is really accurate in making predictions, it sets a new standard. We also put in a lot of effort to analyze the optimum value for the “lookback” parameter, to determine how it can impact the efficiency of the model. This highlights how crucial it is to carefully adjust the settings to improve the accuracy of the predictions. In terms of performance metrics, the best MAPE outcomes were achieved for USDT with a ‘lookback’ of 5 (MAPE = 0.000256%), BTC with a ‘lookback’ of 10 (MAPE = 0.030105%), ETH with a ‘lookback’ of 30 (MAPE = 0.038678%), and BNB with a ‘lookback’ of 30 (MAPE = 0.030903%). These reports will provide the investors with the legitimate and trustable level of understanding related to cryptocurrencies.
+
+**Source:** https://www.semanticscholar.org/paper/0a36d9457ede51f9daa6426955b1a7f9a4777f58
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:01.515Z

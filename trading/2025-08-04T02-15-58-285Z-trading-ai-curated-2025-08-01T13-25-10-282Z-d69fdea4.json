@@ -1,0 +1,13 @@
+# The impact of investor greed and fear on cryptocurrency returns: a Granger causality analysis of Bitcoin and Ethereum
+
+**Authors:** Everton Anger Cavalheiro, K. Vieira, P. S. Thue
+
+## Abstract
+PurposeThis study probes the psychological interplay between investor sentiment and the returns of cryptocurrencies Bitcoin and Ethereum. Employing the Granger causality test, the authors aim to gauge how extensively the Fear and Greed Index (FGI) can predict cryptocurrency return movements, exploring the intricate bond between investor emotions and market behavior.Design/methodology/approachThe authors used the Granger causality test to achieve research objectives. Going beyond conventional linear analysis, the authors applied Smooth Quantile Regression, scrutinizing weekly data from July 2022 to June 2023 for Bitcoin and Ethereum. The study focus was to determine if the FGI, an indicator of investor sentiment, predicts shifts in cryptocurrency returns.FindingsThe study findings underscore the profound psychological sway within cryptocurrency markets. The FGI notably predicts the returns of Bitcoin and Ethereum, underscoring the lasting connection between investor emotions and market behavior. An intriguing feedback loop between the FGI and cryptocurrency returns was identified, accentuating emotions' persistent role in shaping market dynamics. While associations between sentiment and returns were observed at specific lag periods, the nonlinear Granger causality test didn't statistically support nonlinear causality. This suggests linear interactions predominantly govern variable relationships. Cointegration tests highlighted a stable, enduring link between the returns of Bitcoin, Ethereum and the FGI over the long term.Practical implicationsDespite valuable insights, it's crucial to acknowledge our nonlinear analysis's sensitivity to methodological choices. Specifics of time series data and the chosen time frame may have influenced outcomes. Additionally, direct exploration of macroeconomic and geopolitical factors was absent, signaling opportunities for future research.Originality/valueThis study enriches theoretical understanding by illuminating causal dynamics between investor sentiment and cryptocurrency returns. Its significance lies in spotlighting the pivotal role of investor sentiment in shaping cryptocurrency market behavior. It emphasizes the importance of considering this factor when navigating investment decisions in a highly volatile, dynamic market environment.
+
+**Source:** https://www.semanticscholar.org/paper/04adb7316b3d5d27e239fb6ee363ec2706425e19
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:25:10.283Z

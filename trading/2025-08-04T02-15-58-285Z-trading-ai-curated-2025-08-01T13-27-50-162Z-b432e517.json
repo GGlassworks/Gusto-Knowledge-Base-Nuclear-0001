@@ -1,0 +1,13 @@
+# Development of recurrent neural networks for price forecasting at cryptocurrency exchanges
+
+**Authors:** Victoria Tyshchenko, S. Achkasova, Oleksii Naidenko, Sergii Kanyhin, Vlada Karpova
+
+## Abstract
+The study focuses on improving the quality of using recurrent neural networks (RNNs) to predict cryptocurrency prices. The formula of the target variable for the model based on the arithmetic mean is developed, which allows us to better take into account the dynamics of cryptocurrency exchanges. The factors affecting this variable were grouped into features based on the volume of daily cryptocurrency trading, the volatility of the relevant prices, and the pre-calculated and selected signals of technical indicators. As part of the study, an algorithm for processing daily data was developed for the model. The results obtained made it possible to create a holistic model for forecasting stock prices. Two recurrent neural networks were trained: one with a long short-term memory (LSTM) and the other with a recurrent gate unit (GRU). To determine the efficiency of the models, the analysis was carried out using two key indicators: the Sortino coefficient, which measures the relative risk/reward for each additional unit of unwanted volatility, and the Sharpe ratio, which measures the return on assets, subtracting the free risk. As a result, it was found that both models have similar results in terms of accuracy (~69 %). Still, the GRU-based model showed significantly better values of the Sortino coefficients (3.13) and Sharpe’s coefficient (2.45), which allows us to conclude that it is effective on cryptocurrency exchanges. At the same time, the LSTM model requires more parameters for training than the GRU model with an identical structure, which leads to a longer training time. The obtained scientific and practical results are aimed at more efficient use of recurrent neural networks in price forecasting on cryptocurrency exchanges
+
+**Source:** https://www.semanticscholar.org/paper/7c8fb6d5f33b7207f581c3f5fa5cd4fb0c9cc01e
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:27:50.162Z

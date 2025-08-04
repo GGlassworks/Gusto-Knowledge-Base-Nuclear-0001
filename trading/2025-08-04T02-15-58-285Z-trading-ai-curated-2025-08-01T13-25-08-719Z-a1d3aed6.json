@@ -1,0 +1,13 @@
+# Elevating Cryptocurrency Predictions: Bidirectional LSTM Methodology
+
+**Authors:** P. Irlapale
+
+## Abstract
+The system proposed in this paper aims to predict cryptocurrency prices using Bi-Directional Long Short- Term Memory (LSTM), leveraging historical data obtained from Yahoo Finance and CoinGecko APIs. The goal is to assess LSTM models effectiveness in forecasting cryptocurrency prices and offer an interactive interface for users to visualize historical and forecasted prices. Several research works have been conducted on the prediction of cryptocurrency prices through various Deep Learning (DL) based algorithms. This project comprises two main approaches : one involves data analysis, LSTM modeling, and change point detection using Yahoo Finance data, while the other focuses on LSTM model training and price prediction using CoinGecko API data. The paper suggests that the prediction models it presents are useful for traders, investors, [6] and finance academics and are close to accurate at predicting the values of cryptocurrencies. Future research will examine more advanced deep learning architectures, primarily Transformer-based models like the GPT series, to improve pattern detection in bitcoin data. Integrating other data sources, such as sentiment analysis or blockchain measurements, may increase the accuracy of forecasting. With further research into cutting-edge techniques, cryptocurrency forecasting will get better and provide stakeholders with more information to help them make informed decisions. Keywords— Cryptocurrency ; forecasting ; Bi-Directional LSTM Model ; Time-series forecasting ; Machine learning
+
+**Source:** https://www.semanticscholar.org/paper/6b4ee5a1f7bc665c7283d823bd92527189778a0d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:25:08.720Z

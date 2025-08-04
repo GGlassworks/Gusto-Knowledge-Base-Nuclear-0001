@@ -1,0 +1,13 @@
+# An adaptive network-based approach for advanced forecasting of cryptocurrency values
+
+**Authors:** Ali Mehrban, Pegah Ahadian
+
+## Abstract
+This paper describes an architecture for predicting the price of cryptocurrencies for the next seven days using the Adaptive Network Based Fuzzy Inference System (ANFIS). Historical data of cryptocurrencies and indexes that are considered are Bitcoin (BTC), Ethereum (ETH), Bitcoin Dominance (BTC.D), and Ethereum Dominance (ETH.D) in adaily timeframe. The methods used to teach the data are hybrid and backpropagation algorithms, as well as grid partition, subtractive clustering, and Fuzzy C-means clustering (FCM) algorithms, which are used in data clustering. The architectural performance designed in this paper has been compared with different inputs and neural network models in terms of statistical evaluation criteria. Finally, the proposed method can predict the price of digital currencies in a short time.
+
+**Source:** https://www.semanticscholar.org/paper/0ecb65a60417f1c857ac25cc22d8c32bda1e7928
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:26:02.463Z

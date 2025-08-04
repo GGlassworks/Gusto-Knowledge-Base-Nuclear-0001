@@ -1,0 +1,13 @@
+# Psycholinguistic and emotion analysis of cryptocurrency discourse on X platform
+
+**Authors:** M. Tash, O. Kolesnikova, Z. Ahani, Grigori Sidorov
+
+## Abstract
+This paper provides an extensive examination of a sizable dataset of English tweets focusing on nine widely recognized cryptocurrencies, specifically Cardano, Binance, Bitcoin, Dogecoin, Ethereum, Fantom, Matic, Shiba, and Ripple. Our goal was to conduct a psycholinguistic and emotional analysis of social media content associated with these cryptocurrencies. Such analysis can enable researchers and experts dealing with cryptocurrencies to make more informed decisions. Our work involved comparing linguistic characteristics across the diverse digital coins, shedding light on the distinctive linguistic patterns emerging in each coin’s community. To achieve this, we utilized advanced text analysis techniques. Additionally, this work unveiled an understanding of the interplay between these digital assets. By examining which coin pairs are mentioned together most frequently in the dataset, we established co-mentions among different cryptocurrencies. To ensure the reliability of our findings, we initially gathered a total of 832,559 tweets from X. These tweets underwent a rigorous preprocessing stage, resulting in a refined dataset of 115,899 tweets that were used for our analysis. Overall, our research offers valuable perception into the linguistic nuances of various digital coins’ online communities and provides a deeper understanding of their interactions in the cryptocurrency space.
+
+**Source:** https://www.semanticscholar.org/paper/994c710b5cc87c9564374699a8127c15cf8e4950
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:24:17.314Z

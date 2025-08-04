@@ -1,0 +1,13 @@
+# Cryptocurrency Analysis and Forecasting
+
+**Authors:** Payal Pagariya, Sadhvee Shinde, Rupali Shivpure, Sakshi Patil, Ashwini Jarali
+
+## Abstract
+Cryptocurrencies are becoming a well-known and commonly acknowledged kind of substitute trade money. Most monetary businesses now include cryptocurrency. Accordingly, cryptocurrency trading is widely regarded as the most of prevalent and capable types of lucrative investments. However, because this financial sector is already known for its extreme volatility and quick price changes, over brief periods of time. For such constantly changing nature of crypto trends and price, it has become a necessary part for traders and crypto enthusiast to get a detailed analysis before investing. Also, the construction of a precise and dependable forecasting model is regarded vital for portfolio management and optimization. In this paper we propose a web system, which will help to understand cryptocurrency in a more statistical way. Proposed system focuses mainly on four coins : Bitcoin, Ethereum, Dogecoin and Shiba Inu performing analysis and forecasting on all the four coins. System will also do statistical comparison between the coins. Analysis and comparison is carried out using python libraries and modules whereas LSTM and ARIMA are used for forecasting. Extensive research was conducted using real-time and historical information, on four key cryptocurrencies, two of which had the greatest market capitalization, notably Bitcoin and Ethereum, while the other, Dogecoin and Shiba Inu, that had a significant growth in market capitalization over the previous year. In comparison to old fully-connected deep neural networks, the suggested model may employ mixed crypto data more proficiently, minimizing overfitting and computing costs.
+
+**Source:** https://www.semanticscholar.org/paper/982d673ea76c4cc392a6b47e50947d74d8127a1d
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:24:16.986Z

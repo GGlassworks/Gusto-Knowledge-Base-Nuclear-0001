@@ -1,0 +1,13 @@
+# Development and Evaluation of a Novel Investment Decision System in Cryptocurrency Market
+
+**Authors:** Dai-Lun Chiang, Sheng-Kuan Wang, Yi-Nan Lin, Cheng-Ying Yang, V. Shen, T. Juang, Ting-Yi Liao
+
+## Abstract
+ABSTRACT More and more people are entering the cryptocurrency market after Bitcoin (BTC) soared to nearly USD 20,000 in 2017. To promote the development of information technology and cryptocurrency marketing, various computerized systems integrating information technology with investment and financing are innovated continuously. In this study, the daily cryptocurrency prices were input to Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM); and the developing trend plots were drawn to predict and analyze the future cryptocurrency prices through deep learning. Finally, the business practices of cryptocurrency investment were modularized based on High-Level Fuzzy Petri Nets (HLFPNs) to make a better investment decision so that all investors can use this decision system to quickly understand the future cryptocurrency trend. The experimental results have shown that this decision system can provide effective investment information to achieve investors’ personal financial goals with the expectation of improving financial situations.
+
+**Source:** https://www.semanticscholar.org/paper/d1515ce72918f487c4fa52af8aabe28992388209
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:27:51.176Z

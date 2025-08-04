@@ -1,0 +1,13 @@
+# A Novel Evaluation of Cryptocurrency Future Price Prediction to Manage Fluctuations in Market by using Hybrid Learning Methodology
+
+**Authors:** D. Pradeep, G. Divya, R. Rajeshwari, R. Deepa, T. V. V. Satyanarayana
+
+## Abstract
+In recognition of its optimistic vision on the probable future of cryptocurrencies, the value of cryptocurrency has risen dramatically during the previous eight decades. Cryptocurrency offers significant benefits over the established financial system, and investors have taken notice. Cryptocurrency is unique in that it facilitates decentralized financial services, making it immune to control by large financial institutions. With the rise of electronic currencies like Ethereum (ETH) and BTT, business may be conducted entirely online. One illustration of the distributed structure of physical currencies is the reality that all consumers who use virtual money have utilization of operations without the need for a third-party they can depend on. Like the market fluctuations of traditional stocks, cryptocurrencies fluctuations in price are extremely volatile and non stationary. Traders and academics alike have given increased focus to predictions of bitcoin prices due to the asset class' rising popularity. The use of deep learning in projecting the price of cryptocurrencies has become increasingly important. This research presented a new algorithm for predicting cryptocurrency prices called Hybrid Learning for Crypto Prediction (HLCP), and results from these models demonstrated that the proposed HLCP algorithm outperformed all other methods in this area. The HLCP model offered encouraging and precise predictions for all cryptocurrencies; hence it can be considered the most successful algorithm. The model was used to forecast the 6 month ending prices of cryptocurrency. To measure how well predictions match targets during training and testing, we used the HLCP correlation metric. The proposed method efficiency is evaluated with respect to the following metrics such as training and testing accuracy levels, training and testing loss ratio as well as different cryptocurrencies (ETH, BitCoin and BTT) prediction and actual price comparisons. These metrics clearly shows the efficiency of the proposed approach in clear manner over resulting section of this paper.
+
+**Source:** https://www.semanticscholar.org/paper/159a2aeddac46fefdf5142dd501d5106647d0d6f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:25:08.946Z

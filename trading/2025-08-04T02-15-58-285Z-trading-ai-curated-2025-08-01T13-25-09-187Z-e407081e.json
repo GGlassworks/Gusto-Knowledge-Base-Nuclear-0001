@@ -1,0 +1,13 @@
+# A Novel Methodology to Calculate the Probability of Volatility Clusters in Financial Series: An Application to Cryptocurrency Markets
+
+**Authors:** Venelina Nikolova, J. E. Trinidad Segovia, M. Fernández-Martínez, M. Sánchez-Granero
+
+## Abstract
+One of the main characteristics of cryptocurrencies is the high volatility of their exchange rates. In a previous work, the authors found that a process with volatility clusters displays a volatility series with a high Hurst exponent. In this paper, we provide a novel methodology to calculate the probability of volatility clusters with a special emphasis on cryptocurrencies. With this aim, we calculate the Hurst exponent of a volatility series by means of the FD4 approach. An explicit criterion to computationally determine whether there exist volatility clusters of a fixed size is described. We found that the probabilities of volatility clusters of an index (S&P500) and a stock (Apple) showed a similar profile, whereas the probability of volatility clusters of a forex pair (Euro/USD) became quite lower. On the other hand, a similar profile appeared for Bitcoin/USD, Ethereum/USD, and Ripple/USD cryptocurrencies, with the probabilities of volatility clusters of all such cryptocurrencies being much greater than the ones of the three traditional assets. Our results suggest that the volatility in cryptocurrencies changes faster than in traditional assets, and much faster than in forex pairs.
+
+**Source:** https://www.semanticscholar.org/paper/8ee1e7e38aed2236fbb91f0796dd7d3a5ede5b5f
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:25:09.188Z

@@ -1,0 +1,13 @@
+# Facilitating Cryptocurrency Analysis and Watchlist Management with a Web-Based Platform
+
+**Authors:** Nitin Shivsharan, Shardul Gajanan Kambli, Om Vaman Nikharge, Kedar Uttam Kudatarkar
+
+## Abstract
+Cryptocurrencies are digital assets built on blockchain technology, known for their high volatility and lack of underlying assets to justify their intrinsic value. The trading and investing in cryptocurrencies heavily rely on price trends and a few supporting parameters. To facilitate cryptocurrency analysis, our platform provides a price chart that showcases the current short-term, medium-term, and long-term trends of each currency. This analysis is supported by additional parameters such as market capitalization, 24-hour percentage-wise price change, and concise information about each element.Moreover, with the wide array of cryptocurrencies available, individuals struggle to maintain a watchlist that reflects their prioritized selection. To address this challenge, we have developed a priority watchlist that assists users in both short-term trading and long-term investing. Our solution is web-based and utilizes various methodologies including an Application Programming Interface (API) for data retrieval, a library for displaying price charts, and an algorithm for implementing the priority watchlist functionality.
+
+**Source:** https://www.semanticscholar.org/paper/f31ae1c5022087128a1214b7cc34569e6dd0e780
+
+---
+Category: trading
+Subcategory: ai-curated
+Collected: 2025-08-01T13:24:16.395Z
