@@ -1,0 +1,13 @@
+# Advanced Computer Image Generation Techniques Exploiting Perceptual Characteristics. Final Report.
+
+**Authors:** Stenger, Anthony J., And Others
+
+## Abstract
+This study suggests and identifies computer image generation (CIG) algorithms for visual simulation that improve the training effectiveness of CIG simulators and identifies areas of basic research in visual perception that are significant for improving CIG technology. The first phase of the project entailed observing three existing CIG simulators. During the second phase, existing perceptual knowledge was studied in light of the capabilities and limitations of existing CIG simulators. The analysis resulted in a list of 12 perceptual limitations of these CIG simulators which include contrast management and aerial perspective, resolution dynamic range, directional illumination effects, raster effects, color, level of detail, surface definition, perceived flatness of the display,  minimal scene content, size and continuity of the visual field, and hybrid display and update. In the third phase, improved CIG algorithms were developed in the areas of aliasing controls, scene, environment and sensor models, display properties, and future algorithms in high density of features and reflection models. Further research is recommended in seven areas of perceptual research and in five areas for algorithm research. A bibliography of 38 references and appendices containing consultant interviews and literature summaries are included. (CHC)
+
+**Source:** https://eric.ed.gov/?id=ED208851
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T21:14:18.983Z

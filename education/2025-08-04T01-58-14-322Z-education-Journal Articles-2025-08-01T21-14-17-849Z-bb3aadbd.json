@@ -1,0 +1,13 @@
+# Using Supervised Machine Learning on Large-Scale Online Forums to Classify Course-Related Facebook Messages in Predicting Learning Achievement within the Personal Learning Environment
+
+**Authors:** Wu, Jiun-Yu, Hsiao, Yi-Cheng, Nian, Mei-Wen
+
+## Abstract
+This paper demonstrated the use of the supervised Machine Learning (ML) for text classification to predict students' final course grades in a hybrid Advanced Statistics course and exhibited the potential of using ML classified messages to identify students at risk of course failure. We built three classification models with training data of 76,936 posts from two large online forums and applied the models to classify messages into statistics-related and non-statistics-related posts in a private Facebook group. Three ML algorithms were compared in terms of classification effectiveness and congruency with human coding. Students with more messages endorsed by two or more ML algorithms as statistics-related had higher final course grades. Students who failed the course also had significantly fewer messages endorsed by all three ML algorithms than those who passed. Results suggest that ML can be used for identifying students in need of support within the personal learning environment and for quality control of the large-scale educational data.
+
+**Source:** https://eric.ed.gov/?id=EJ1242523
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T21:14:17.850Z

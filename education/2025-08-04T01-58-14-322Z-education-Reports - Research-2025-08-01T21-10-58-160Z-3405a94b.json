@@ -1,0 +1,13 @@
+# Efficient Organization and Access of Multi-Dimensional Datasets on Tertiary Storage Systems.
+
+**Authors:** Chen, L. T., And Others
+
+## Abstract
+This paper addresses the problem of data management techniques for efficiently retrieving requested subsets of large data sets from mass storage devices. Describes the development of algorithms and software that facilitate the partitioning of a large data set into multiple "clusters" that reflect their expected access. (Author/JKP)
+
+**Source:** https://eric.ed.gov/?id=EJ503414
+
+---
+Category: education
+Subcategory: Reports - Research
+Collected: 2025-08-01T21:10:58.164Z

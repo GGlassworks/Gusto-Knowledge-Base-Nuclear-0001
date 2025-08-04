@@ -1,0 +1,13 @@
+# Machine Learning Algorithms and Frameworks in Ransomware Detection
+
+**Authors:** Daryle Smith, S. Khorsandroo, K. Roy
+
+## Abstract
+Ransomware has been one of the biggest cyber threats against consumers in recent years. It can leverage various attack vectors while it also evolves in terms of finding more innovative ways to invade different cyber security systems. There have been many efforts to detect ransomware within the workforce and academia leveraging machine learning algorithms, which has shown promising results. Accordingly, there is a considerably large body of literature addressing various solutions on how ransomware threats can be detected and mitigated. Such large and rapidly growing scientific and technical materials start to make it difficult in knowing the actual ML algorithm(s) being used. Hence, the aim of this paper is to give insight about ransomware detection frameworks and those ML algorithms which are typically being used to extract ever-evolving characteristics of ransomware. In addition, this study will provide the cyber security community with a detailed analysis of those frameworks. This will be augmented with information such as datasets being used along with the challenges that each framework may be faced with in detecting a wide variety of ransomware accurately. To summarize, this paper delivers a comparative study which can be used by peers as a reference for future work in ransomware detection.
+
+**Source:** https://www.semanticscholar.org/paper/500a66c98007d8b3cf4db212c6ec8684dc1b988d
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T21:09:57.048Z

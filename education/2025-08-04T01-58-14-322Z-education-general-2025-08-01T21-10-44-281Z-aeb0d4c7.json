@@ -1,0 +1,13 @@
+# Machine Learning Algorithms: An Experimental Evaluation for Decision Support Systems
+
+**Authors:** Hugo Silva, Jorge Bernardino
+
+## Abstract
+<jats:p>Decision support systems with machine learning can help organizations improve operations and lower costs with more precision and efficiency. This work presents a review of state-of-the-art machine learning algorithms for binary classification and makes a comparison of the related metrics between them with their application to a public diabetes and human resource datasets. The two mainly used categories that allow the learning process without requiring explicit programming are supervised and unsupervised learning. For that, we use Scikit-learn, the free software machine learning library for Python language. The best-performing algorithm was Random Forest for supervised learning, while in unsupervised clustering techniques, Balanced Iterative Reducing and Clustering Using Hierarchies and Spectral Clustering algorithms presented the best results. The experimental evaluation shows that the application of unsupervised clustering algorithms does not translate into better results than with supervised algorithms. However, the application of unsupervised clustering algorithms, as the preprocessing of the supervised techniques, can translate into a boost of performance.</jats:p>
+
+**Source:** https://doi.org/10.3390/a15040130
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T21:10:44.282Z

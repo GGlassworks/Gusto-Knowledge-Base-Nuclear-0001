@@ -1,0 +1,12 @@
+# Manifold Learning for Dimensionality Reduction: Quantum Isomap algorithm
+
+**Authors:** WeiJun Feng, GongDe Guo, Kai Yu, Xin Zhang, Song Lin
+
+## Summary
+Isomap algorithm is a representative manifold learning algorithm. The algorithm simplifies the data analysis process and is widely used in neuroimaging, spectral analysis and other fields. However, the classic Isomap algorithm becomes unwieldy when dealing with large data sets. Our object is to accelerate the classical algorithm with quantum computing, and propose the quantum Isomap algorithm. The algorithm consists of two sub-algorithms. The first one is the quantum Floyd algorithm, which calculates the shortest distance for any two nodes. The other is quantum Isomap algorithm based on quantum Floyd algorithm, which finds a low-dimensional representation for the original high-dimensional data. Finally, we analyze that the quantum Floyd algorithm achieves exponential speedup without sampling. In addition, the time complexity of quantum Isomap algorithm is $O(dNpolylogN)$. Both algorithms reduce the time complexity of classical algorithms.
+
+
+---
+Category: education
+Subcategory: quant-ph
+Collected: 2025-08-01T21:03:09.973Z

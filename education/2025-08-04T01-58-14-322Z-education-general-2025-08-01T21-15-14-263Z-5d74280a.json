@@ -1,0 +1,15 @@
+# Learnability and Learning Algorithms in Phonology
+
+**Authors:** Anne-Michelle Tessier
+
+## Abstract
+<p>Phonological learnability deals with the formal properties of phonological languages and grammars, which are combined with algorithms that attempt to learn the language-specific aspects of those grammars. The classical learning task can be outlined as follows: Beginning at a predetermined <italic>initial state</italic>, the learner is exposed to <italic>positive evidence</italic> of legal strings and structures from the target language, and its goal is to reach a predetermined <italic>end state</italic>, where the grammar will produce or accept all and only the target language’s strings and structures. In addition, a phonological learner must also acquire a set of language-specific representations for morphemes, words and so on—and in many cases, the grammar and the representations must be acquired at the same time.</p>
+               <p>Phonological learnability research seeks to determine how the architecture of the grammar, and the workings of an associated learning algorithm, influence success in completing this learning task, i.e., in reaching the end-state grammar. One basic question is about <italic>convergence</italic>: Is the learning algorithm guaranteed to converge on an end-state grammar, or will it never stabilize? Is there a class of initial states, or a kind of learning data (evidence), which can prevent a learner from converging? Next is the question of success: Assuming the algorithm will reach an end state, will it match the target? In particular, will the learner ever acquire a grammar that deems grammatical a <italic>superset</italic> of the target language’s legal outputs? How can the learner avoid such superset end-state traps? Are learning <italic>biases</italic> advantageous or even crucial to success?</p>
+               <p>In assessing phonological learnability, the analysist also has many differences between potential learning algorithms to consider. At the core of any algorithm is its <italic>update rule</italic>, meaning its method(s) of changing the current grammar on the basis of evidence. Other key aspects of an algorithm include how it is <italic>triggered</italic> to learn, how it processes and/or stores the <italic>errors</italic> that it makes, and how it responds to <italic>noise</italic> or variability in the learning data. Ultimately, the choice of algorithm is also tied to the type of phonological grammar being learned, i.e., whether the generalizations being learned are couched within rules, features, parameters, constraints, rankings, and/or weightings.</p>
+
+**Source:** https://doi.org/10.1093/acrefore/9780199384655.013.108
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T21:15:14.264Z

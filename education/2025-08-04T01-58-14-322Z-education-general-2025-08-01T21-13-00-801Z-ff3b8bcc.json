@@ -1,0 +1,13 @@
+# Methodology for Analyzing the Traditional Algorithms Performance of User Reviews Using Machine Learning Techniques
+
+**Authors:** Abdul Karim, Azhari Azhari, Samir Brahim Belhaouri, Ali Adil Qureshi, Maqsood Ahmad
+
+## Abstract
+<jats:p>Android-based applications are widely used by almost everyone around the globe. Due to the availability of the Internet almost everywhere at no charge, almost half of the globe is engaged with social networking, social media surfing, messaging, browsing and plugins. In the Google Play Store, which is one of the most popular Internet application stores, users are encouraged to download thousands of applications and various types of software. In this research study, we have scraped thousands of user reviews and the ratings of different applications. We scraped 148 application reviews from 14 different categories. A total of 506,259 reviews were accumulated and assessed. Based on the semantics of reviews of the applications, the results of the reviews were classified negative, positive or neutral. In this research, different machine-learning algorithms such as logistic regression, random forest and naïve Bayes were tuned and tested. We also evaluated the outcome of term frequency (TF) and inverse document frequency (IDF), measured different parameters such as accuracy, precision, recall and F1 score (F1) and present the results in the form of a bar graph. In conclusion, we compared the outcome of each algorithm and found that logistic regression is one of the best algorithms for the review-analysis of the Google Play Store from an accuracy perspective. Furthermore, we were able to prove and demonstrate that logistic regression is better in terms of speed, rate of accuracy, recall and F1 perspective. This conclusion was achieved after preprocessing a number of data values from these data sets.</jats:p>
+
+**Source:** https://doi.org/10.3390/a13080202
+
+---
+Category: education
+Subcategory: general
+Collected: 2025-08-01T21:13:00.803Z

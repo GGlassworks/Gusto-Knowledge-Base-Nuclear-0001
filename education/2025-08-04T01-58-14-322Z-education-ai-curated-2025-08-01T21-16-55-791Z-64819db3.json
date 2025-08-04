@@ -1,0 +1,13 @@
+# A Federated Learning Algorithms Development Paradigm
+
+**Authors:** Miroslav Popovic, M. Popovic, I. Kastelan, Miodrag Djukic, I. Basicevic
+
+## Abstract
+At present many distributed and decentralized frameworks for federated learning algorithms are already available. However, development of such a framework targeting smart Internet of Things in edge systems is still an open challenge. A solution to that challenge named Python Testbed for Federated Learning Algorithms (PTB-FLA) appeared recently. This solution is written in pure Python, it supports both centralized and decentralized algorithms, and its usage was validated and illustrated by three simple algorithm examples. In this paper, we present the federated learning algorithms development paradigm based on PTB-FLA. The paradigm comprises the four phases named by the code they produce: (1) the sequential code, (2) the federated sequential code, (3) the federated sequential code with callbacks, and (4) the PTB-FLA code. The development paradigm is validated and illustrated in the case study on logistic regression, where both centralized and decentralized algorithms are developed.
+
+**Source:** https://www.semanticscholar.org/paper/036df2749d346178cb0e6e34b7f3355a8842dd29
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T21:16:55.791Z

@@ -1,0 +1,13 @@
+# Analysis of Arithmetic Coding for Data Compression.
+
+**Authors:** Howard, Paul G., Vitter, Jeffrey Scott
+
+## Abstract
+Analyzes the amount of compression possible when arithmetic coding is used for text compression in conjunction with various input models. Algorithms are analyzed; modeling effects are considered; scaling is discussed; higher order models are examined, including prediction by partial matching; and coding effects are described. (34 references) (LRW)
+
+**Source:** https://eric.ed.gov/?id=EJ453320
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T21:08:47.048Z

@@ -1,0 +1,13 @@
+# Opportunities of Machine Learning Algorithms for Education
+
+**Authors:** Olga Ovtšarenko
+
+## Abstract
+Machine learning (ML) methods are among the most promising technologies with wide-ranging research opportunities, particularly in the field of education, where they can be used to enhance student learning outcomes. This study explores the potential of machine learning algorithms to build and train models using log data from the &quot;3D Modeling&quot; e-course on the Moodle platform at TTK University of Applied Sciences, Tallinn, Estonia. By predicting trends, identifying patterns, and optimizing resource allocation, machine learning can improve the efficiency of e-learning and provide students with tailored recommendations for acquiring relevant knowledge and skills. The results of the study show that machine learning algorithms can be used to process the available e-course log data, using the clickstream of e-course resources and for their automated processing. The results suggest potential applications in personalized course recommendations, prediction and dropout prevention strategies, resulting in a more effective and personalized educational experience. Future research will focus on improving models of available registration data, exploring and using advanced machine learning techniques to improve the accuracy and usefulness of predictions, and providing faster recommendations to help students navigate their studies more effectively.
+
+**Source:** https://eric.ed.gov/?id=EJ1446896
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T21:14:19.273Z

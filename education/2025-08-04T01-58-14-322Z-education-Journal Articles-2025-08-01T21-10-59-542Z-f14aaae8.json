@@ -1,0 +1,13 @@
+# Using Bitmaps for Medium Sized Information Retrieval Systems.
+
+**Authors:** Bookstein, A., Klein, S. T.
+
+## Abstract
+Describes the theoretical framework of a retrieval system that uses data structures called bitmaps to improve search algorithms for medium-sized systems. Information retrieval systems that contain the full text of the documents are discussed, and the use of inverted files such as concordances for small texts is explained. (24 references) (LRW)
+
+**Source:** https://eric.ed.gov/?id=EJ413742
+
+---
+Category: education
+Subcategory: Journal Articles
+Collected: 2025-08-01T21:10:59.543Z

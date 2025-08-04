@@ -1,0 +1,13 @@
+# A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges
+
+**Authors:** Maryam Zare, P. Kebria, A. Khosravi, Saeid Nahavandi
+
+## Abstract
+In recent years, the development of robotics and artificial intelligence (AI) systems has been nothing short of remarkable. As these systems continue to evolve, they are being utilized in increasingly complex and unstructured environments, such as autonomous driving, aerial robotics, and natural language processing. As a consequence, programming their behaviors manually or defining their behavior through the reward functions [as done in reinforcement learning (RL)] has become exceedingly difficult. This is because such environments require a high degree of flexibility and adaptability, making it challenging to specify an optimal set of rules or reward signals that can account for all the possible situations. In such environments, learning from an expert’s behavior through imitation is often more appealing. This is where imitation learning (IL) comes into play - a process where desired behavior is learned by imitating an expert’s behavior, which is provided through demonstrations.This article aims to provide an introduction to IL and an overview of its underlying assumptions and approaches. It also offers a detailed description of recent advances and emerging areas of research in the field. Additionally, this article discusses how researchers have addressed common challenges associated with IL and provides potential directions for future research. Overall, the goal of this article is to provide a comprehensive guide to the growing field of IL in robotics and AI.
+
+**Source:** https://www.semanticscholar.org/paper/7689b2ecb90070ea7d6781c2a88f2acad8b13bba
+
+---
+Category: education
+Subcategory: ai-curated
+Collected: 2025-08-01T21:16:57.942Z
