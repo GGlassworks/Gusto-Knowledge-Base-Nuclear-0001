@@ -1,0 +1,13 @@
+# Xi-cam: a versatile interface for data visualization and analysis.
+
+**Authors:** R. Pandolfi, D. Allan, E. Arenholz, Luis Barroso-Luque, S. Campbell, T. Caswell, Austin Blair, F. De Carlo, S. Fackler, Amanda P. Fournier, G. Freychet, M. Fukuto, Dogˇa Gürsoy, Zhang Jiang, Harinarayan Krishnan, G. Kumar, R. J. Kline, Ruipeng Li, Christopher D. Liman, S. Marchesini, A. Mehta, A. N’Diaye, D. Parkinson, Holden L Parks, Lenson A. Pellouchoud, T. Perciano, Fang Ren, S. Sahoo, J. Strzalka, D. Sunday, Christopher J. Tassone, D. Ushizima, S. Venkatakrishnan, K. Yager, P. Zwart, J. Sethian, A. Hexemer
+
+## Abstract
+Xi-cam is an extensible platform for data management, analysis and visualization. Xi-cam aims to provide a flexible and extensible approach to synchrotron data treatment as a solution to rising demands for high-volume/high-throughput processing pipelines. The core of Xi-cam is an extensible plugin-based graphical user interface platform which provides users with an interactive interface to processing algorithms. Plugins are available for SAXS/WAXS/GISAXS/GIWAXS, tomography and NEXAFS data. With Xi-cam's `advanced' mode, data processing steps are designed as a graph-based workflow, which can be executed live, locally or remotely. Remote execution utilizes high-performance computing or de-localized resources, allowing for the effective reduction of high-throughput data. Xi-cam's plugin-based architecture targets cross-facility and cross-technique collaborative development, in support of multi-modal analysis. Xi-cam is open-source and cross-platform, and available for download on GitHub.
+
+**Source:** https://www.semanticscholar.org/paper/f2bb8af0aa877cfa6ef0de2c3a7085a264dbf1b2
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:46:42.145Z

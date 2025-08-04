@@ -1,0 +1,13 @@
+# An Empirical Evaluation of the t-SNE Algorithm for Data Visualization in Structural Engineering
+
+**Authors:** P. Hajibabaee, Farhad Pourkamali-Anaraki, M. A. Hariri-Ardebili
+
+## Abstract
+A fundamental task in machine learning involves visualizing high-dimensional data sets that arise in high-impact application domains. When considering the context of large imbalanced data, this problem becomes much more challenging. In this paper, the t-Distributed Stochastic Neighbor Embedding (t-SNE) algorithm is used to reduce the dimensions of an earthquake engineering related data set for visualization purposes. Since imbalanced data sets greatly affect the accuracy of classifiers, we employ Synthetic Minority Oversampling Technique (SMOTE) to tackle the imbalanced nature of such data set. We present the result obtained from t-SNE and SMOTE and compare it to the basic approaches with various aspects. Considering four options and six classification algorithms, we show that using t-SNE on the imbalanced data and SMOTE on the training data set, neural network classifiers have promising results without sacrificing accuracy. Hence, we can transform the studied scientific data into a two-dimensional (2D) space, enabling the visualization of the classifier and the resulting decision surface using a 2D plot.
+
+**Source:** https://www.semanticscholar.org/paper/b4c7118922da20112afa4ac9a43919145061ef05
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:44:39.858Z

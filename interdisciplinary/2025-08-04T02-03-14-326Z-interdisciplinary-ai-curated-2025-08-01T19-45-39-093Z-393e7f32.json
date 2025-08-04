@@ -1,0 +1,13 @@
+# Data Visualization Optimization of Force-Oriented Layout Algorithm
+
+**Authors:** Yanrong Yang
+
+## Abstract
+The traditional force-directed layout algorithm has a large variation in effect after data visualization, which affects the display effect after data visualization. Accordingly, an artificial bee colony algorithm is proposed for iterative parameter optimization of the force-oriented layout algorithm. In this paper, the optimal node deviation and the optimal distribution distance are used as parameter sets to improve the traditional force-oriented layout algorithm using iterative bee colony optimization. The improved algorithm follows the node deviations and distribution distances in the aesthetic criterion and can obtain better visualization results. Experiments show that the improved algorithm provides better visualization and the layout effect is more in line with the aesthetic criteria.
+
+**Source:** https://www.semanticscholar.org/paper/ce24ed15cf777b376feceaacbba9dbcd63975e77
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:45:39.094Z

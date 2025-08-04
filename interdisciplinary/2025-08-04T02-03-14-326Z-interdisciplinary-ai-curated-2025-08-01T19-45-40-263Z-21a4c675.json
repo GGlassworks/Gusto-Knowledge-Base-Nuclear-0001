@@ -1,0 +1,13 @@
+# Information to the Eye of the Beholder: Data Visualization for Many-Objective Optimization
+
+**Authors:** Ivan Reinaldo Meneghini, R. H. Koochaksaraei, F. Guimarães, A. Gaspar-Cunha
+
+## Abstract
+The visualization gap is one of the important challenges posed by many-objective optimization problems (MaOPs). In this paper, we present an integrated data visualization method for MaOPs, called CAP-vis plot, combining the Chord diagram, the Angular mapping and the Parallel coordinates in the same visualization. The method follows the circular design layout, showing different levels of information. This new approach allows the spatial location of points in high dimensional spaces, the visualization of harmony and conflict between objectives, as well as the comparison of the approximation sets provided by different algorithms. With this work, we try to fill the visualization gap and bring information to the eye of the decision-maker and the optimizer, with an intuitive overview of the obtained results. Some experiments were performed using the Benchmark Functions proposed for the IEEE-CEC 2018 Competition on Many-Objective Optimization. We used the tool to visualize the results obtained by NSGA-III, HypE, RVEA, MOEA/DD, PICEA-g, using the PlatEMO MATLAB platform, with the same parameter settings of the competition. The results on the Benchmark Problems show the importance of the qualitative analysis of the data. The experiments show how visualization can help interpretation of the results and identification of strengths and drawbacks of MOEA.
+
+**Source:** https://www.semanticscholar.org/paper/3a943af1229e35eff50bc24ff4d8c434b9457f96
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:45:40.263Z

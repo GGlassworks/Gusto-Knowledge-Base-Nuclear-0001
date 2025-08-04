@@ -1,0 +1,13 @@
+# Evaluation and recommendations for effective data visualization for seizure forecasting algorithms
+
+**Authors:** Sharon Chiang, Robert Moss, Angela P Black, M. Jackson, Chuck Moss, Jonathan Bidwell, C. Meisel, T. Loddenkemper
+
+## Abstract
+Abstract Objective Seizure forecasting algorithms have become increasingly accurate and may reduce the morbidity and mortality caused by seizure unpredictability. Translating these benefits into meaningful health outcomes for people with epilepsy requires effective data visualization of algorithm outputs. To date, no studies have investigated patient and physician perspectives on effective translation of algorithm outputs into data visualizations through health information technology. Materials and Methods We developed front-end data visualizations as part of a Seizure Forecast Visualization Toolkit. We surveyed 627 people living with epilepsy and caregivers, and 28 epilepsy healthcare providers. Respondents scored each visualization in terms of international standardized software quality criteria for functionality, appropriateness, and usability. Results People with epilepsy and caregivers ranked hourly radar charts highest for protecting against errors in interpreting forecasts, reducing anxiety from seizure unpredictability, and understanding seizure patterns. Accuracy in interpreting visuals, such as a risk gauge, was dependent on seizure frequency. Visuals showing hourly/daily forecasts were more useful for patients who experienced seizure cycling than those who did not. Hourly line graphs and monthly heat maps were rated highest among clinicians for ease of understanding, anticipated integration into clinical practice, and the likelihood of clinical usage. Epilepsy providers indicated that daily heat maps, daily line graphs, and hourly line graphs were most useful for interpreting seizure diary patterns, assessing therapy impact, and counseling on seizure safety. Discussion The choice of data visualization impacts the effective translation of seizure forecast algorithms into meaningful health outcomes. Conclusion This effort underlines the importance of incorporating standardized, quantitative methods for assessing the effectiveness of data visualization to translate seizure forecast algorithms into clinical practice.
+
+**Source:** https://www.semanticscholar.org/paper/0e5d6eb281de899bfec2d0ed47e08f77a5fd04a5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:46:40.608Z

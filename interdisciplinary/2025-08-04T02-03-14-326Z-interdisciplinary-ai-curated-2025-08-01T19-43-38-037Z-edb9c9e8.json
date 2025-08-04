@@ -1,0 +1,13 @@
+# Cytoscape.js 2023 update: a graph theory library for visualization and analysis
+
+**Authors:** M. Franz, C. Lopes, D. Fong, Mike Kucera, Manfred Cheung, M. Siper, Gerardo Huck, Yue Dong, O. Sumer, Gary D Bader
+
+## Abstract
+Abstract Summary Cytoscape.js is an open-source JavaScript-based graph library. Its most common use case is as a visualization software component, so it can be used to render interactive graphs in a web browser. It also can be used in a headless manner, useful for graph operations on a server, such as Node.js. This update describes new features and enhancements introduced over many new versions from 2015 to 2022. Availability and implementation Cytoscape.js is implemented in JavaScript. Documentation, downloads and source code are available at http://js.cytoscape.org. Supplementary information Supplementary data are available at Bioinformatics online.
+
+**Source:** https://www.semanticscholar.org/paper/b983836f343a5e3295c6f83dea09196f5706b1b5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:43:38.037Z

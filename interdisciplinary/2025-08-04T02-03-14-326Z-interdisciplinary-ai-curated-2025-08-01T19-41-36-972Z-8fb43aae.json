@@ -1,0 +1,13 @@
+# GIS-Based Gully Erosion Susceptibility Mapping: A Comparison of Computational Ensemble Data Mining Models
+
+**Authors:** Viet-Ha Nhu, Saeid Janizadeh, Mohammadtaghi Avand, Wei Chen, Mohsen Farzin, E. Omidvar, A. Shirzadi, H. Shahabi, J. Clague, A. Jaafari, Fatemeh Mansoorypoor, B. Pham, B. Ahmad, Saro Lee
+
+## Abstract
+Gully erosion destroys agricultural and domestic grazing land in many countries, especially those with arid and semi-arid climates and easily eroded rocks and soils. It also generates large amounts of sediment that can adversely impact downstream river channels. The main objective of this research is to accurately detect and predict areas prone to gully erosion. In this paper, we couple hybrid models of a commonly used base classifier (reduced pruning error tree, REPTree) with AdaBoost (AB), bagging (Bag), and random subspace (RS) algorithms to create gully erosion susceptibility maps for a sub-basin of the Shoor River watershed in northwestern Iran. We compare the performance of these models in terms of their ability to predict gully erosion and discuss their potential use in other arid and semi-arid areas. Our database comprises 242 gully erosion locations, which we randomly divided into training and testing sets with a ratio of 70/30. Based on expert knowledge and analysis of aerial photographs and satellite images, we selected 12 conditioning factors for gully erosion. We used multi-collinearity statistical techniques in the modeling process, and checked model performance using statistical indexes including precision, recall, F-measure, Matthew correlation coefficient (MCC), receiver operatic characteristic curve (ROC), precision–recall graph (PRC), Kappa, root mean square error (RMSE), relative absolute error (PRSE), mean absolute error (MAE), and relative absolute error (RAE). Results show that rainfall, elevation, and river density are the most important factors for gully erosion susceptibility mapping in the study area. All three hybrid models that we tested significantly enhanced and improved the predictive power of REPTree (AUC=0.800), but the RS-REPTree (AUC= 0.860) ensemble model outperformed the Bag-REPTree (AUC= 0.841) and the AB-REPTree (AUC= 0.805) models. We suggest that decision makers, planners, and environmental engineers employ the RS-REPTree hybrid model to better manage gully erosion-prone areas in Iran.
+
+**Source:** https://www.semanticscholar.org/paper/2e21d3c807b5d923c9af054b7552062717c552a3
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:41:36.972Z

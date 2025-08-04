@@ -1,0 +1,13 @@
+# On Building Online Visualization Maps for News Data Streams by Means of Mathematical Optimization
+
+**Authors:** E. Carrizosa, Vanesa Guerrero, D. Hardt, D. Morales
+
+## Abstract
+In this article we develop a novel online framework to visualize news data over a time horizon. First, we perform a Natural Language Processing analysis, wherein the words are extracted, and their attributes, namely the importance and the relatedness, are calculated. Second, we present a Mathematical Optimization model for the visualization problem and a numerical optimization approach. The model represents the words using circles, the time-varying area of which displays the importance of the words in each time period. Word location in the visualization region is guided by three criteria, namely, the accurate representation of semantic relatedness, the spread of the words in the visualization region to improve the quality of the visualization, and the visual stability over the time horizon. Our approach is flexible, allowing the user to interact with the display, as well as incremental and scalable. We show results for three case studies using data from Danish news sources.
+
+**Source:** https://www.semanticscholar.org/paper/7947c465f6eb65f2a45b4bfa48d463b47af5fd68
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:45:41.673Z

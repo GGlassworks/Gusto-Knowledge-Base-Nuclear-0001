@@ -1,0 +1,13 @@
+# A Systematic Literature Review on Identifying Patterns Using Unsupervised Clustering Algorithms: A Data Mining Perspective
+
+**Authors:** Mahnoor Chaudhry, Imran Shafi, Mahnoor Mahnoor, Débora Libertad Ramírez Vargas, E. B. Thompson, Imran Ashraf
+
+## Abstract
+Data mining is an analytical approach that contributes to achieving a solution to many problems by extracting previously unknown, fascinating, nontrivial, and potentially valuable information from massive datasets. Clustering in data mining is used for splitting or segmenting data items/points into meaningful groups and clusters by grouping the items that are near to each other based on certain statistics. This paper covers various elements of clustering, such as algorithmic methodologies, applications, clustering assessment measurement, and researcher-proposed enhancements with their impact on data mining thorough grasp of clustering algorithms, its applications, and the advances achieved in the existing literature. This study includes a literature search for papers published between 1995 and 2023, including conference and journal publications. The study begins by outlining fundamental clustering techniques along with algorithm improvements and emphasizing their advantages and limitations in comparison to other clustering algorithms. It investigates the evolution measures for clustering algorithms with an emphasis on metrics used to gauge clustering quality, such as the F-measure and the Rand Index. This study includes a variety of clustering-related topics, such as algorithmic approaches, practical applications, metrics for clustering evaluation, and researcher-proposed improvements. It addresses numerous methodologies offered to increase the convergence speed, resilience, and accuracy of clustering, such as initialization procedures, distance measures, and optimization strategies. The work concludes by emphasizing clustering as an active research area driven by the need to identify significant patterns and structures in data, enhance knowledge acquisition, and improve decision making across different domains. This study aims to contribute to the broader knowledge base of data mining practitioners and researchers, facilitating informed decision making and fostering advancements in the field through a thorough analysis of algorithmic enhancements, clustering assessment metrics, and optimization strategies.
+
+**Source:** https://www.semanticscholar.org/paper/ffef5ac1ce88d7bb809d58ffb7ee0cfb0ca877f9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:41:36.350Z

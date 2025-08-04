@@ -1,0 +1,13 @@
+# Method evaluation, parameterization, and result validation in unsupervised data mining: A critical survey
+
+**Authors:** Albrecht Zimmermann
+
+## Abstract
+Machine Learning (ML) and Data Mining (DM) build tools intended to help users solve data‐related problems that are infeasible for “unaugmented” humans. Tools need manuals, however, and in the case of ML/DM methods, this means guidance with respect to which technique to choose, how to parameterize it, and how to interpret derived results to arrive at knowledge about the phenomena underlying the data. While such information is available in the literature, it has not yet been collected in one place. We survey three types of work for clustering and pattern mining: (1) comparisons of existing techniques, (2) evaluations of different parameterization options and studies providing guidance for setting parameter values, and (3) work comparing mining results with the ground truth. We find that although interesting results exist, as a whole the body of work on these questions is too limited. In addition, we survey recent studies in the field of community detection, as a contrasting example. We argue that an objective obstacle for performing needed studies is a lack of data and survey the state of available data, pointing out certain limitations. As a solution, we propose to augment existing data by artificially generated data, review the state‐of‐the‐art in data generation in unsupervised mining, and identify shortcomings. In more general terms, we call for the development of a true “Data Science” that—based on work in other domains, results in ML, and existing tools—develops needed data generators and builds up the knowledge needed to effectively employ unsupervised mining techniques.
+
+**Source:** https://www.semanticscholar.org/paper/5715d439b5034a8618521cb28a5f10c97bca0397
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:40:36.367Z

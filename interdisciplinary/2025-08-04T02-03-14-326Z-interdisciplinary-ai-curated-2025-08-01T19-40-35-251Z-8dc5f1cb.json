@@ -1,0 +1,13 @@
+# Experimental Evaluation of Open Source Data Mining Tools (WEKA and Orange)
+
+**Authors:** Ritu Ratra, Preeti Gulia
+
+## Abstract
+: Nowadays, it is possible for every organisation to manage the large dataset at minimum cost. But in order to collect the fruitful information, it is mandatory to utilize the large volume of stored data. Data mining is an on-going process of searching pattern and collecting useful information from large datasets for future use. There is no doubt that Data mining is very important in various areas like education, military, e-business, healthcare etc. The main objective of data mining process is to supervise the data from various sources in different manner then assemble it to collect the useful information. It can be done by the help of various tools and techniques. There are a number of data mining tools available in the digital world that can help the researchers for the evaluation of the data. These tools work as an interface to receive the data and to extract some meaningful patterns out of large dataset. Selection of best tool according to requirement is not an easy task. In order to find out the best data mining tool for classification problem, comparison of various tools is necessary on the basis of different parameters. In this paper, data mining tools WEKA and Orange are analysed on the basis of implementation of parameters. The main objective of this comparison is to help the researchers to select the suitable tool from these two.
+
+**Source:** https://www.semanticscholar.org/paper/c582035e9793ce6d5614878a08c7c98fb7d549d5
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:40:35.252Z

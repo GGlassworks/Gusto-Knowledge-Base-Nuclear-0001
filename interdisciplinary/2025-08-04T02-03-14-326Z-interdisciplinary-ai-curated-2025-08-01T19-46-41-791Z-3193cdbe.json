@@ -1,0 +1,13 @@
+# MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization
+
+**Authors:** K. Katoh, John Rozewicki, Kazunori D. Yamada
+
+## Abstract
+Abstract This article describes several features in the MAFFT online service for multiple sequence alignment (MSA). As a result of recent advances in sequencing technologies, huge numbers of biological sequences are available and the need for MSAs with large numbers of sequences is increasing. To extract biologically relevant information from such data, sophistication of algorithms is necessary but not sufficient. Intuitive and interactive tools for experimental biologists to semiautomatically handle large data are becoming important. We are working on development of MAFFT toward these two directions. Here, we explain (i) the Web interface for recently developed options for large data and (ii) interactive usage to refine sequence data sets and MSAs.
+
+**Source:** https://www.semanticscholar.org/paper/0ccc82b74890478854505cd95ddd30e51c6cf661
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:46:41.792Z

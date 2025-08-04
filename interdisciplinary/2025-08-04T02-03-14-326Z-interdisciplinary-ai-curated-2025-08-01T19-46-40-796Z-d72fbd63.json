@@ -1,0 +1,13 @@
+# Towards a comprehensive evaluation of dimension reduction methods for transcriptomic data visualization
+
+**Authors:** Haiyang Huang, Yingfan Wang, C. Rudin, E. Browne
+
+## Abstract
+Dimension reduction (DR) algorithms project data from high dimensions to lower dimensions to enable visualization of interesting high-dimensional structure. DR algorithms are widely used for analysis of single-cell transcriptomic data. Despite widespread use of DR algorithms such as t-SNE and UMAP, these algorithms have characteristics that lead to lack of trust: they do not preserve important aspects of high-dimensional structure and are sensitive to arbitrary user choices. Given the importance of gaining insights from DR, DR methods should be evaluated carefully before trusting their results. In this paper, we introduce and perform a systematic evaluation of popular DR methods, including t-SNE, art-SNE, UMAP, PaCMAP, TriMap and ForceAtlas2. Our evaluation considers five components: preservation of local structure, preservation of global structure, sensitivity to parameter choices, sensitivity to preprocessing choices, and computational efficiency. This evaluation can help us to choose DR tools that align with the scientific goals of the user. The authors provide an evaluation framework for dimension reduction methods that illuminates the strengths and weaknesses of different algorithms, and applies this framework to evaluate the PCA, t-SNE, UMAP, TriMap, PaCMAP, ForceAtlas2, and PHATE algorithms.
+
+**Source:** https://www.semanticscholar.org/paper/3305fb5d02328fe10af41087d0f01c46dd39966c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:46:40.796Z

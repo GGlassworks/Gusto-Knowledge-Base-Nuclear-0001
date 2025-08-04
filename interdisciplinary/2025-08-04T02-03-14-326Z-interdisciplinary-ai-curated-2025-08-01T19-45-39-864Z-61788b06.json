@@ -1,0 +1,13 @@
+# Application of Mathematical Optimization in Data Visualization and Visual Analytics: A Survey
+
+**Authors:** Guodao Sun, Zihao Zhu, Gefei Zhang, Chaoqing Xu, Yunchao Wang, Sujia Zhu, Baofeng Chang, Ronghua Liang
+
+## Abstract
+Mathematical optimization is the process of determining the set of globally or locally optimal parameters in a finite or infinite search space. It has been extensively employed in the research areas of computer science, engineering, operations research, and economics. The application of mathematical optimization has also been extended to data visualization, where it can enhance data processing, structure visualization, and facilitate exploration. However, the current state of summarization in the application of mathematical optimization in data visualization remains inadequate. In this article, we review and classify the existing techniques for advanced mathematical optimization in the fields of data visualization and visual analytics. The classification is conducted based on a classical visualization pipeline, including data enhancement and transformation, representation and rendering, as well as interactive exploration and analysis. We also discuss various mathematical optimization models and their solution methods to help readers gain a better understanding of the relationship among models, visualization, and application scenarios. We additionally provide an online exploration demo, which could enable users to interactively find relevant articles. Based on the limitations and potential trends revealed in the existing literature, we define future challenges in the cross-disciplinary of mathematical optimization and data visualization.
+
+**Source:** https://www.semanticscholar.org/paper/946a6a1377aa86705b382f3692682be008ff77cf
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:45:39.864Z

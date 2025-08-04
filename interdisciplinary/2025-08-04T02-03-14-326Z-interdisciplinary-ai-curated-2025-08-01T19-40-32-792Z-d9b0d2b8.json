@@ -1,0 +1,13 @@
+# Data Mining Evaluation of Reliability of Overhead Line Iced Tension Tensor
+
+**Authors:** Weiquan Huang, Zhaohong Yao, Wei Liang, Lin Yang, Y. Hao, Junke Wang, Ruihai Li
+
+## Abstract
+Ice monitoring is an important technology to ensure the safe and reliable operation of overhead transmission lines. The sensor has long been in the harsh environment of ice coating, and its reliability needs to be evaluated after many years. In this paper, a total of 447 sets of iced monitoring terminals for the Southern Power Grid Disaster (Icing) Early Warning System in Winter of 2016~Spring of 2017 and Winter of 2017 ~ Spring of 2018, through the monitoring and artificial ice data aggregation and data mining, the reliability evaluation method of iced tension sensor which base on weighing method is studied. This paper uses the algorithm of historical uncovered ice tension confidence interval calculation, the reliability of the tension sensor of overhead transmission lines combined with terminal data is studied, it is proposed that the reliability evaluation of iced tension sensor can be divided into two categories: ice-free period and ice-covered period, the method of comparison between the same tower and the man-machine comparison during the ice-covered period. The reliability of Sensor is divided into normal and abnormal, and determined the method for the evaluation criteria of each method is given by data mining. Analysing the causes of differences caused by tension sensors from different angles and the corresponding improvement suggestions and measures are given. It can be a reference for improvement of the ice monitoring system and ice prevention work for the future.
+
+**Source:** https://www.semanticscholar.org/paper/89166266b1939f5c6c8489cf3f6898f76f118ef8
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:40:32.796Z

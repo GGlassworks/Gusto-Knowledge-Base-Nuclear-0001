@@ -1,0 +1,22 @@
+# Data Mining, Evaluation Techniques in
+
+**Authors:** G. Ali, Fazilet Canset Özden
+
+## Abstract
+In this article, we focus on evaluation techniques for data mining models after feature selection and parameter estimation have already been performed. Though performance evaluation techniques for data mining models are typically independent of the data mining task, goodness measures are task specific. We discuss the rationale, and the pros and cons of different goodness measures by data mining task, using illustrative examples to explain the concepts. We cover the following data mining tasks: classification, regression, rank prediction, clustering, and market basket analysis tasks. We provide detailed discussions for accuracy measures such as misclassification rate, confusion matrix, misclassification cost, quadratic and informational loss, ROC curve and lift chart, RMSE, MAD, AIC, BIC, Spearman's ρ, and Kendall's τ, within and between cluster distance. The following performance estimation techniques are discussed: resubstitution, holdout, v-fold cross-validation, leave-one-out/jackknife, and bootstrap. Further, we cover statistical hypothesis testing for comparing performance of two algorithms for the same data mining task. Also, references for further reading on the topics covered in this article are provided. 
+ 
+ 
+Keywords: 
+ 
+data mining; 
+accuracy; 
+simplicity; 
+goodness measures; 
+evaluation techniques
+
+**Source:** https://www.semanticscholar.org/paper/37a9563c41cf0c6e27c2310a31ed83fe80e8eba1
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:40:33.661Z

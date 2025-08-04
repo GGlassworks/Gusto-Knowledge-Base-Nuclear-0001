@@ -1,0 +1,13 @@
+# Parallel performance optimization of large-scale unstructured data visualization for the earth simulator
+
+**Authors:** Li Chen, I. Fujishiro, K. Nakajima
+
+## Abstract
+This paper describes some efficient parallel performance optimization strategies for large-scale unstructured data visualization on SMP cluster machines including the Earth Simulator in Japan. The three-level hybrid parallelization is employed in our implementation, consisting of message passing for inter-SMP node communication, loop directives by OpenMP for intra-SMP node parallelization, and vectorization for each processing element (PE). In order to improve the speedup performance for the hybrid parallelization, some techniques, such as multi-coloring for removing data race and dynamic load repartition for load balancing, are considered. Good visualization images and high parallel performance have been achieved on Hitachi SR8000 for large-scale unstructured datasets, which shows the feasibility and effectiveness of our strategies.
+
+**Source:** https://www.semanticscholar.org/paper/150ad98d54c066f6599d277eb597acea23baf15b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:45:42.533Z

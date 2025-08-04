@@ -1,0 +1,13 @@
+# microViz: an R package for microbiome data visualization and statistics
+
+**Authors:** David J. M. Barnett, I. Arts, J. Penders
+
+## Abstract
+microViz is an R package for the statistical analysis and visualization of microbiota data. This package extends the functionality of popular microbial ecosystem data analysis R packages, including phyloseq (McMurdie & Holmes, 2013), vegan (Oksanen et al., 2020) and microbiome (Lahti & Shetty, 2012-2019). microViz provides a selection of powerful additions to the toolbox of researchers already familiar with phyloseq and microbiome, as well as assisting researchers with less R programming experience to independently explore and analyse their data and to generate publication-ready figures.
+
+**Source:** https://www.semanticscholar.org/paper/c9398d57b4159723d470de40239bdc8fed5c52af
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:42:39.570Z

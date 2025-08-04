@@ -1,0 +1,13 @@
+# pyActigraphy: Open-source python package for actigraphy data visualization and analysis
+
+**Authors:** Grégory Hammad, Mathilde Reyt, N. Beliy, M. Baillet, Michele Deantoni, Alexia Lesoinne, Vincenzo Muto, C. Schmidt
+
+## Abstract
+Over the past 40 years, actigraphy has been used to study rest-activity patterns in circadian rhythm and sleep research. Furthermore, considering its simplicity of use, there is a growing interest in the analysis of large population-based samples, using actigraphy. Here, we introduce pyActigraphy, a comprehensive toolbox for data visualization and analysis including multiple sleep detection algorithms and rest-activity rhythm variables. This open-source python package implements methods to read multiple data formats, quantify various properties of rest-activity rhythms, visualize sleep agendas, automatically detect rest periods and perform more advanced signal processing analyses. The development of this package aims to pave the way towards the establishment of a comprehensive open-source software suite, supported by a community of both developers and researchers, that would provide all the necessary tools for in-depth and large scale actigraphy data analyses. Required Metadata Current code version
+
+**Source:** https://www.semanticscholar.org/paper/9b29d781a925763f734351ec1e1a8b0b9f42febb
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:46:41.485Z

@@ -1,0 +1,13 @@
+# A graph theory approach to online writing data visualization
+
+**Authors:** C. Leblay, G. Caporossi
+
+## Abstract
+There are currently several systems for collecting online writing data using keystroke logging. Each of these systems provides reliable and very precise data. Unfortunately, with the exception of very brief recordings, such huge amounts of data are generated that it is virtually impossible to analyze them. In this chapter, we describe a representation technique based on graph theory that allows the writing process to be understood from a fresh viewpoint. This application was originally intended to represent the data provided by ScriptLog, but the concepts can be applied in other contexts, too.
+
+**Source:** https://www.semanticscholar.org/paper/4c150d0b9278889bd56bf9d9cbd3039a8374f9ca
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:43:37.860Z

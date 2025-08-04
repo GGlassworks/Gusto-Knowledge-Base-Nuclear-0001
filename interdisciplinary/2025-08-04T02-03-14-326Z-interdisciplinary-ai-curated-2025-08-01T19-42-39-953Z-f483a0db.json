@@ -1,0 +1,13 @@
+# ImageGP: An easy‐to‐use data visualization web server for scientific researchers
+
+**Authors:** Tong Chen, Yong-xin Liu, Luqi Huang
+
+## Abstract
+Abstract Data visualization plays a crucial role in illustrating results and sharing knowledge among researchers. Though many types of visualization tools are widely used, most of them require enough coding experience or are designed for specialized usages, or are not free. Here, we present ImageGP, a specialized visualization platform designed for biology and chemistry data illustration. ImageGP could generate generalized plots like lines, bars, scatters, boxes, sets, heatmaps, and histograms with the most common input content in a user‐friendly interface. Normally plotting using ImageGP only needs a few mouse clicks. For some plots, one only needs to just paste data and click submit to get the visualization results. Additionally, ImageGP supplies up to 26 parameters to meet customizable requirements. ImageGP also contains specialized plots like volcano plot, functional enrichment plot for most omics‐data analysis, and other four specialized functions for microbiome analysis. Since 2017, ImageGP has been running for nearly 5 years and serving 336,951 visits from all over the world. Together, ImageGP (http://www.ehbio.com/ImageGP/) is an effective and efficient tool for experimental researchers to comprehensively visualize and interpret data generated from wet‐lab and dry‐lab.
+
+**Source:** https://www.semanticscholar.org/paper/98f6a5fefc8599669c2576a4955c8f1fe69964c7
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:42:39.965Z

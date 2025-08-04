@@ -1,0 +1,13 @@
+# Type2 diabetes mellitus prediction using data mining algorithms based on the long-noncoding RNAs expression: a comparison of four data mining approaches
+
+**Authors:** F. Kazerouni, Azadeh Bayani, F. Asadi, Leyla Saeidi, Nasrin Parvizi, Z. Mansoori
+
+## Abstract
+About 90% of patients who have diabetes suffer from Type 2 DM (T2DM). Many studies suggest using the significant role of lncRNAs to improve the diagnosis of T2DM. Machine learning and Data Mining techniques are tools that can improve the analysis and interpretation or extraction of knowledge from the data. These techniques may enhance the prognosis and diagnosis associated with reducing diseases such as T2DM. We applied four classification models, including K-nearest neighbor (KNN), support vector machine (SVM), logistic regression, and artificial neural networks (ANN) for diagnosing T2DM, and we compared the diagnostic power of these algorithms with each other. We performed the algorithms on six LncRNA variables (LINC00523, LINC00995, HCG27_201, TPT1-AS1, LY86-AS1, DKFZP) and demographic data. To select the best performance, we considered the AUC, sensitivity, specificity, plotted the ROC curve, and showed the average curve and range. The mean AUC for the KNN algorithm was 91% with 0.09 standard deviation (SD); the mean sensitivity and specificity were 96 and 85%, respectively. After applying the SVM algorithm, the mean AUC obtained 95% after stratified 10-fold cross-validation, and the SD obtained 0.05. The mean sensitivity and specificity were 95 and 86%, respectively. The mean AUC for ANN and the SD were 93% and 0.03, also the mean sensitivity and specificity were 78 and 85%. At last, for the logistic regression algorithm, our results showed 95% of mean AUC, and the SD of 0.05, the mean sensitivity and specificity were 92 and 85%, respectively. According to the ROCs, the Logistic Regression and SVM had a better area under the curve compared to the others. We aimed to find the best data mining approach for the prediction of T2DM using six lncRNA expression. According to the finding, the maximum AUC dedicated to SVM and logistic regression, among others, KNN and ANN also had the high mean AUC and small standard deviations of AUC scores among the approaches, KNN had the highest mean sensitivity and the highest specificity belonged to SVM. This study’s result could improve our knowledge about the early detection and diagnosis of T2DM using the lncRNAs as biomarkers.
+
+**Source:** https://www.semanticscholar.org/paper/623726e22c0b281918c7f80a723b057290c3656c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:41:36.135Z

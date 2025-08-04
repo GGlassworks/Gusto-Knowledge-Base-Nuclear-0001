@@ -1,0 +1,13 @@
+# Agricultural Crops Classification Models Based on PCA-GA Implementation in Data Mining
+
+**Authors:** Geraldin B. Dela Cruz, Bobby D. Gerardo, Bartolome T. Tanguilig
+
+## Abstract
+Extraction of knowledge in agricultural data is a challenging task, from discovering patterns and relationships and interpretation. In order to obtain potentially interesting patterns and relationships from this data, it is therefore essential that a methodology be developed and take advantage of the sets of existing methods and tools available for data mining and knowledge discovery in databases. Data mining is relatively a new approach in the field of agriculture. Accurate information in characterizing crops depends on climatic, geographical, biological and other factors. These are very important inputs to generate characterization and prediction models in data mining. In this study, an efficient data mining methodology based on PCA-GA is explored, presented and implemented to characterize agricultural crops. The method draws improvements to classification problems by using Principal Components Analysis (PCA) as a pre processing method and a modified Genetic Algorithm (GA) as the function optimizer. The fitness function in GA is modified accordingly using efficient distance measures. The approach is to asses, the PCA-GA hybrid data mining method, using various agricultural field data sets, generate data mining classification models and establish meaningful relationships. The experimental results show improved classification rates and generated characterization models for agricultural crops. The domain model outcome may have benefits, to agricultural researchers and farmers. These generated classification models can also be utilized and readily incorporated into a decision support system.
+
+**Source:** https://www.semanticscholar.org/paper/6a8d3c459a7312eddd124d3a989237450a036133
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:39:35.826Z

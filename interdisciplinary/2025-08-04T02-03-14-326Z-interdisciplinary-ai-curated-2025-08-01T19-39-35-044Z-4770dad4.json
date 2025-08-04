@@ -1,0 +1,13 @@
+# Implementation of Data Mining on Rice Imports by Major Country of Origin Using Algorithm Using K-Means Clustering Method
+
+**Authors:** A. Windarto
+
+## Abstract
+Indonesia is a country where most of its people rely on the agricultural sector as a livelihood. Indonesia's rice production is so high that it can not meet the needs of its population, consequently Indonesia still has to import rice from other food producing countries. One of the main causes is the enormous population. Statistics show that in the range of 230-237 million people, the staple food of all residents is rice so it is clear that the need for rice becomes very large. This study discusses the application of datamining on rice import by main country of origin using K-Means Clustering Method. Sources of data of this study were collected based on import import declaration documents produced by the Directorate General of Customs and Excise. In addition since 2015, import data also comes from PT. Pos Indonesia, records of other agencies at the border, and the results of cross-border maritime trade surveys. The data used in this study is the data of rice imports by country of origin from 2000-2015 consisting of 10 countries namely Vietnam, Thailand, China, India, Pakistan, United States, Taiwan, Singapore, Myanmar and Others. Variable used (1) total import of rice (net) and (2) import purchase value (CIF). The data will be processed by clustering rice imports by main country of origin in 3 clusters ie high imported cluster, medium imported cluster and low import level cluster. The clustering method used in this research is K-Means method. Cetroid data for high import level clusters 7429180 and 2735452,25, Cetroid data for medium import level clusters 1046359.5 and 337703.05 and Cetroid data for low import level clusters 185559.425 and 53089.225. The result is an assessment based on rice import index with 2 high imported cluster countries namely Vietnam and Thailand, 4 medium-level clusters of moderate import countries namely China, India, Pakistan and Lainya and 4 low imported cluster countries namely USA, Taiwan, Singapore and Myanmar. The results of the research can be used to determine the amount of rice imported by the main country of origin
+
+**Source:** https://www.semanticscholar.org/paper/98e6674ca6257e6d3b226a83234165e69b3e6d2b
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:39:35.044Z

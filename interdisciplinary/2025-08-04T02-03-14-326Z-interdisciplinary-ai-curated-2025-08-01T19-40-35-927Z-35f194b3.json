@@ -1,0 +1,13 @@
+# Data envelopment analysis and data mining to efficiency estimation and evaluation
+
+**Authors:** A. Anouze, Imad Bou-Hamad
+
+## Abstract
+PurposeThis paper aims to assess the application of seven statistical and data mining techniques to second-stage data envelopment analysis (DEA) for bank performance.Design/methodology/approachDifferent statistical and data mining techniques are used to second-stage DEA for bank performance as a part of an attempt to produce a powerful model for bank performance with effective predictive ability. The projected data mining tools are classification and regression trees (CART), conditional inference trees (CIT), random forest based on CART and CIT, bagging, artificial neural networks and their statistical counterpart, logistic regression.FindingsThe results showed that random forests and bagging outperform other methods in terms of predictive power.Originality/valueThis is the first study to assess the impact of environmental factors on banking performance in Middle East and North Africa countries.
+
+**Source:** https://www.semanticscholar.org/paper/bef8454d1e777c67f4bfed5ab839d70b90c8b716
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:40:35.927Z

@@ -1,0 +1,13 @@
+# A Big Data visualization layer meta-model proposition
+
+**Authors:** Allae Erraissi, Banane Mouad, A. Belangour
+
+## Abstract
+The evolution and democratization of technologies have created a veritable explosion of information, this, of course, gives rise to an urgent need to analyze and deal with the huge masses of data. In fact, the problems raised by the accumulation of data (storage, processing time, heterogeneity, capture rate/generation, etc.) become stronger because the data are massive, complex and varied. It is clear that the representation of information has the capacity to synthesize and condense data, and constitutes an efficient approach for analysis. Nevertheless, it remains ineffective and does not solve these problems. Besides that, conventional visualization techniques are rarely adapted to manage and process this mass of information. To face the complex big data challenges, various types of technologies have been developed. This paper talks about the visualization layer. This layer is located just above the Data Sources, Ingestion, Hadoop storage and Hadoop Platform Management layers for which we have already proposed a meta-modeling. It has a very important role at the level of Big Data Structure. In a continuous effort, we shall present in this paper a universal meta-modeling for the visualization layer and its relationship with the other layers of a Big Data system.
+
+**Source:** https://www.semanticscholar.org/paper/a81d8c208879f1af84da17c8f71c82c48424e634
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:45:41.494Z

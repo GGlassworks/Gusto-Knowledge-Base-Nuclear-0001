@@ -1,0 +1,13 @@
+# phylotree.js - a JavaScript library for application development and interactive data visualization in phylogenetics
+
+**Authors:** S. D. Shank, S. Weaver, Sergei L Kosakovsky Pond
+
+## Abstract
+While several JavaScript packages for visualizing phylogenetic trees exist, most are best characterized as frameworks that are designed with a specific set of tasks in mind. Extending such packages to use cases that are not available as features often ends up being difficult. Moreover, existing packages tend to produce standalone widgets that are not designed to serve as middleware, as opposed to flexible tools that can integrate with other components of an application. phylotree.js is a library that extends the popular data visualization framework d3.js, and is suitable for building JavaScript applications where users can view and interact with phylogenetic trees. The effects of such interactions can be captured and communicated to other package components, making it possible to engineer complex and responsive applications that include phylogenetic trees. phylotree.js implements several abstractions in addition to features, and comes with a documented application programming interface, thus promoting interoperability and extensibility. Example applications include a tool to visualize and annotate phylogenetic trees, a web application for comparative sequence analysis, a structural viewer that interacts with a large phylogenetic tree, and an interactive tanglegram. phylotree.js is a useful tool and application module for a variety of computational biology software applications. The code is available on Github and is released under the MIT license.
+
+**Source:** https://www.semanticscholar.org/paper/615e88f85e1604c54f01cf4bfe296bdf858a1355
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:44:41.033Z

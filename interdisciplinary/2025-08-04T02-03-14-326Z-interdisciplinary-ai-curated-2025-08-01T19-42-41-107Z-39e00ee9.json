@@ -1,0 +1,13 @@
+# Rich Screen Reader Experiences for Accessible Data Visualization
+
+**Authors:** Jonathan Zong, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, Arvind Satyanarayan
+
+## Abstract
+Current web accessibility guidelines ask visualization designers to support screen readers via basic non‐visual alternatives like textual descriptions and access to raw data tables. But charts do more than summarize data or reproduce tables; they afford interactive data exploration at varying levels of granularity—from fine‐grained datum‐by‐datum reading to skimming and surfacing high‐level trends. In response to the lack of comparable non‐visual affordances, we present a set of rich screen reader experiences for accessible data visualization and exploration. Through an iterative co‐design process, we identify three key design dimensions for expressive screen reader accessibility: structure, or how chart entities should be organized for a screen reader to traverse; navigation, or the structural, spatial, and targeted operations a user might perform to step through the structure; and, description, or the semantic content, composition, and verbosity of the screen reader's narration. We operationalize these dimensions to prototype screen‐reader‐accessible visualizations that cover a diverse range of chart types and combinations of our design dimensions. We evaluate a subset of these prototypes in a mixed‐methods study with 13 blind and visually impaired readers. Our findings demonstrate that these designs help users conceptualize data spatially, selectively attend to data of interest at different levels of granularity, and experience control and agency over their data analysis process. An accessible HTML version of this paper is available at: http://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences.
+
+**Source:** https://www.semanticscholar.org/paper/ac47d785610ab432b59375f4b1c2d97379050132
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:42:41.107Z

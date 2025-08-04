@@ -1,0 +1,13 @@
+# Research on Python Data Visualization Technology
+
+**Authors:** Shengjia Cao, Yunhan Zeng, Shangru Yang, Songlin Cao
+
+## Abstract
+In recent years, researchers at home and abroad have accumulated a lot of experience in the research of data visualization technology, and they have played animportant role in scientific discovery, medical diagnosis, business decision-making, and engineering applications. As a library developed using Python language, Matplotlib has a concise language, high drawing accuracy, and simple and easy-to-understand code. This article first introduces data visualization and related technologies used and then uses Python’s Matplotlib library and pyecharts library to realize data visualization. Through representative examples, combined with the use of correct charts, visual processing of data in different fields, so as to further analyze the effect of visualization.
+
+**Source:** https://www.semanticscholar.org/paper/5e11fa9d860179f3d5b8570908e0c1c46e44782c
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:44:40.066Z

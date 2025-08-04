@@ -1,0 +1,13 @@
+# Functional Data Visualization and Outlier Detection on the Anomaly of El Niño Southern Oscillation
+
+**Authors:** J. Suhaila
+
+## Abstract
+The El Niño Southern Oscillation (ENSO) is a well-known cause of year-to-year climatic variations on Earth. Floods, droughts, and other natural disasters have been linked to the ENSO in various parts of the world. Hence, modeling the ENSO’s effects and the anomaly of the ENSO phenomenon has become a main research interest. Statistical methods, including linear and nonlinear models, have intensively been used in modeling the ENSO index. However, these models are unable to capture sufficient information on ENSO index variability, particularly on its temporal aspects. Hence, this study adopted functional data analysis theory by representing a multivariate ENSO index (MEI) as functional data in climate applications. This study included the functional principal component, which is purposefully designed to find new functions that reveal the most important type of variation in the MEI curve. Simultaneously, graphical methods were also used to visualize functional data and capture outliers that may not have been apparent from the original data plot. The findings suggest that the outliers obtained from the functional plot are then related to the El Niño and La Niña phenomena. In conclusion, the functional framework was found to be more flexible in representing the climate phenomenon as a whole.
+
+**Source:** https://www.semanticscholar.org/paper/0c485397c67269aaf6374545511bb11be3dcd5d9
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T19:43:38.525Z
