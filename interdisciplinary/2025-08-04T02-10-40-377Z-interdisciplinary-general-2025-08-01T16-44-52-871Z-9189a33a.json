@@ -1,0 +1,13 @@
+# Towards an information theory of quantitative genetics
+
+**Authors:** David J. Galas, James Kunert-Graf, Lisa Uechi, Nikita A. Sakhanenko
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>Quantitative genetics has evolved dramatically in the past century, and the proliferation of genetic data, in quantity as well as type, enables the characterization of complex interactions and mechanisms beyond the scope of its theoretical foundations. In this paper, we argue that revisiting the framework for analysis is important and we begin to lay the foundations of an alternative formulation of quantitative genetics based on information theory. Information theory can provide sensitive and unbiased measures of statistical dependencies among variables, and it provides a natural mathematical language for an alternative view of quantitative genetics. In previous work we examined the information content of discrete functions and applied this approach and methods to the analysis of genetic data. In this paper we present a framework built around a set of relationships that both unifies the information measures for the discrete functions and uses them to express key quantitative genetic relationships. Information theory measures of variable interdependency are used to identify significant interactions, and a general approach is described for inferring functional relationships within genotype and phenotype data. We present information-based measures of the genetic quantities: penetrance, heritability and degrees of statistical epistasis. Our scope here includes the consideration of both two- and three-variable dependencies and independently segregating variants, which captures additive effects, genetic interactions, and two phenotype pleiotropy. This formalism and the theoretical approach naturally applies to higher multi-variable interactions and complex dependencies, and can be adapted to account for population structure, linkage and non-randomly segregating markers. This paper thus focuses on presenting the initial groundwork for a full formulation of quantitative genetics based on information theory.</jats:p>
+
+**Source:** https://doi.org/10.1101/811950
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:44:52.871Z

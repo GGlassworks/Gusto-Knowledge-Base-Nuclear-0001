@@ -1,0 +1,13 @@
+# Counting algorithms for linkage
+
+**Authors:** N. E. MORTON, A. COLLINS
+
+## Abstract
+<jats:title>SUMMARY</jats:title><jats:p>The Lander‐Green algorithm is algebraically different from the EM algorithm that maximizes likelihood. In our experience the numerical difference is very small. Since computations are no easier or convergence faster for the Lander–Green algorithm, there is no reason to prefer it to EM. As suggested by Green (personal communication), layering is advantageous. Occasional updating of the information weights might also be considered to accelerate mapping.</jats:p>
+
+**Source:** https://doi.org/10.1111/j.1469-1809.1990.tb00365.x
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:47:46.965Z

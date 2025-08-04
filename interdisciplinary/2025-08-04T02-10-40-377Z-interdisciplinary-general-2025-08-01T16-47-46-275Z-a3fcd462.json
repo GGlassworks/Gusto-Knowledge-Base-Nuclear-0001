@@ -1,0 +1,14 @@
+# Threading algorithms
+
+**Authors:** Jadwiga Bienkowska, Rick Lathrop
+
+## Abstract
+<jats:title>Abstract</jats:title>
+          <jats:p>This chapter reviews various algorithms that have been developed for protein structure prediction by threading. Threading algorithms depend on many features of protein sequence and structure representations and not all of them are used by all methods. There is no standard formalism to represent those different features. While providing necessary detail, sometimes the formal notation obscures the core idea of an algorithm. In order to make the core ideas transparent to many readers, we made an effort to adhere to a simple formalism and tried to avoid mathematical formulas. This forced us to omit many details and complete outlines of algorithms, for which the reader is referred to the original literature for a detailed picture.</jats:p>
+
+**Source:** https://doi.org/10.1002/047001153x.g409202
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:47:46.275Z

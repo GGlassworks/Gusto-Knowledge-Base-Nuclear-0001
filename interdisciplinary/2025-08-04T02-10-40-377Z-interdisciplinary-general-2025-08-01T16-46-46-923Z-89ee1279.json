@@ -1,0 +1,13 @@
+# Beyond Scenarios - Optimization of breeding program design (MoBPSopti)
+
+**Authors:** Azadeh Hassanpour, Johannes Geibel, Henner Simianer, Torsten Pook
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>In recent years, breeding programs have become increasingly larger and more structurally complex, with various highly interdependent parameters and contrasting breeding goals. Therefore, resource allocation in a breeding program has become more complex, and the derivation of an optimal breeding strategy has become more and more challenging. As a result, it is a common practice to reduce the optimization problem to a set of scenarios that are only changed in a few parameters and, in turn, can be deeply analyzed in detail. This paper aims to provide a framework for the numerical optimization of breeding programs beyond just comparing scenarios. For this, we first determine the space of potential breeding programs that is only limited by basic constraints like the budget and housing capacities. Subsequently, the goal is to identify the optimal breeding program by finding the parametrization that maximizes the target function, as a combination of the different breeding goals. To assess the value of the target function for a parametrization, we propose the use of stochastic simulations and the subsequent use of a kernel regression method to cope with the stochasticity of simulation outcomes. This procedure is performed iteratively to narrow down the most promising areas of the search space and perform more and more simulations in these areas of interest. The developed concept was applied to a dairy cattle program with a target function aiming at genetic gain and genetic diversity conservation limited by budget constraints.</jats:p>
+
+**Source:** https://doi.org/10.1101/2023.04.03.535337
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:46:46.924Z

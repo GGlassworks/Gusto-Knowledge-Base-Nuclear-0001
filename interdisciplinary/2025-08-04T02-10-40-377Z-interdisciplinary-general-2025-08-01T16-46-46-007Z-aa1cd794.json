@@ -1,0 +1,13 @@
+# Optimization of selective phenotyping and population design for genomic prediction
+
+**Authors:** Nicolas Heslot, Vitaliy Feoktistov
+
+## Abstract
+<jats:p>Calibration population design for genomic prediction has attracted a lot of interest in the plant and animal breeding literature. In this article we present an efficient optimization method to select a subset of preexisting individuals to phenotype. Application to the choice of maize hybrids to create and phenotype, to best predict the unobserved hybrid combination, is demonstrated using real data and simulations. Further, the proposed method is extended to optimize the choice of a connected population design before crosses are actually made. Population design is optimized to maximize efficiency of recurrent selection with genomic prediction. Validation results using real data and simulations are presented.</jats:p>
+
+**Source:** https://doi.org/10.1101/172064
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:46:46.008Z

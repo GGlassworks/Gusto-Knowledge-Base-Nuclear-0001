@@ -1,0 +1,13 @@
+# Probabilistic Graphical Models for Next-generation Genomics and Genetics
+
+**Authors:** Christine Sinoquet
+
+## Abstract
+<jats:title>Abstract</jats:title><jats:p>The explosion in omics and other types of biological data has increased the demand for solid, large-scale statistical methods. These data can be discrete or continuous, dependent or independent, from many individuals or tissue types. There might be millions of correlated observations from a single individual, observations at different scales and levels, in addition to covariates. The study of living systems encompasses a wide range of concerns, from prospective to predictive and causal questions, reflecting the multiple interests in understanding biological mechanisms, disease etiology, predicting outcome, and deciphering causal relationships in data. Precisely, probabilistic graphical models provide a flexible statistical framework that is suitable to analyze such data. Notably, graphical models are able to handle dependences within data, which is an almost defining feature of cellular and other biological data.</jats:p>
+
+**Source:** https://doi.org/10.1093/acprof:oso/9780198709022.003.0001
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:48:42.077Z

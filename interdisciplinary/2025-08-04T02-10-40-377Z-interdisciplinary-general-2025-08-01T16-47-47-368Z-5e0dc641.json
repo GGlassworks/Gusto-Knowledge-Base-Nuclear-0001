@@ -1,0 +1,13 @@
+# Hybrid Genetics Algorithms for Multiple Sequence Alignment
+
+**Authors:** John Tsiligaridis
+
+## Abstract
+<jats:p>The purpose of this chapter is to present a set of algorithms and their efficiency for the consistency based Multiple Sequence Alignment (MSA) problem. Based on the strength and adaptability of the Genetic Algorithm (GA) two approaches are developed depending on the MSA type. The first approach, for the non related sequences (no consistency), involves a Hybrid Genetic Algorithm (GA_TS) considering also Tabu Search (TS). The Traveling Salesman Problem (TSP) is also applied determining MSA orders. The second approach, for sequences with consistency, deals with a hybrid GA based on the Divide and Conquer principle (DCP) and it can save space. A consistent dot matrices (CDM) algorithm discovers consistency and creates MSA. The proposed GA (GA_TS_VS) also uses TS but it works with partitions. In conclusion, GAs are stochastic approaches that are proved very beneficial for MSA in terms of their performance. </jats:p>
+
+**Source:** https://doi.org/10.4018/978-1-4666-9644-0.ch013
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:47:47.368Z

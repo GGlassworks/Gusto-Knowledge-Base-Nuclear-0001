@@ -1,0 +1,13 @@
+# Application of quantitative genetics tools to breeding program optimization
+
+**Authors:** Marco Antonio Peixoto
+
+## Abstract
+<jats:p>Overall, the application of quantitative genetics theory has greatly influenced plant breeding programs over the last few decades. The aim of this study was to use and develop quantitative genetics tools to improve breeding programs. In the first chapter we simulated a hybrid crop breeding program and compared breeding pipelines with two strategies for parental updates, and we compare the gain and costs to implements genomic selection and high-throughput phenotyping into the pipeline. Our results suggest that early parental selection performs better and that high-throughput phenotyping together with genomic selection delivers the highest hybrid gain in the long-term. In the second chapter we evaluated the potential of implementing genomic selection in a sweet corn breeding program through hybrid prediction. We evaluated 506 hybrids in six environments and measured 21 traits. We considered eight statistical models for prediction and three cross-validation schemes CV1, CV0, and CV00. The results indicated RKHS model outperforming GBLUP models, and models with additive plus dominance kernels presented slight improvement for some traits. Therefore, we recommend using the RKHS model as a standard model for sweet corn hybrid prediction, and to implement genomic selection in sweet corn breeding programs to optimize the testcross stage and the candidates that reach the field stage. In the third chapter we describe SMate, a flexible R package for cross prediction and optimization, which represents a tool for breeding programs to balance genetic gains and inbreeding rate levels. The package builds a valid mate plan based on two core aspects: (i) prediction of usefulness for potential cross, and (ii) optimization of the set of crosses. In conclusion, SMate package enables to optimize cross selection in breeding programs targeting long term genetic gains while balancing genetic diversity and inbreeding rate levels. In summary, quantitative genetics tools have been largely applied in breeding programs and has evolved with it. Our study demonstrated potential to contribute to the quantitative genetics field and direct impact in breeding programs. Keywords: Mate allocation. Inbreeding. Genomic hybrid prediction. Stochastic simulation.</jats:p>
+
+**Source:** https://doi.org/10.47328/ufvbbt.2023.135
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:46:45.321Z

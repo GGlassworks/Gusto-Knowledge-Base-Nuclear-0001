@@ -1,0 +1,14 @@
+# Improved Reversible Jump Algorithms for Bayesian Species Delimitation
+
+**Authors:** Bruce Rannala, Ziheng Yang
+
+## Abstract
+<jats:title>Abstract</jats:title>
+               <jats:p>Several computational methods have recently been proposed for delimiting species using multilocus sequence data. Among them, the Bayesian method of Yang and Rannala uses the multispecies coalescent model in the likelihood framework to calculate the posterior probabilities for the different species-delimitation models. It has a sound statistical basis and is found to have nice statistical properties in simulation studies, such as low error rates of undersplitting and oversplitting. However, the method suffers from poor mixing of the reversible-jump Markov chain Monte Carlo (rjMCMC) algorithms. Here, we describe several modifications to the algorithms. We propose a flexible prior that allows the user to specify the probability that each node on the guide tree represents a true speciation event. We also introduce modifications to the rjMCMC algorithms that remove the constraint on the new species divergence time when splitting and alter the gene trees to remove incompatibilities. The new algorithms are found to improve mixing of the Markov chain for both simulated and empirical data sets.</jats:p>
+
+**Source:** https://doi.org/10.1534/genetics.112.149039
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:47:47.487Z

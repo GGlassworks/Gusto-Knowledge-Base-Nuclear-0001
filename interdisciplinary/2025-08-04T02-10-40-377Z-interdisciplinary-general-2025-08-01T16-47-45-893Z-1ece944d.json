@@ -1,0 +1,13 @@
+# Autoencoder for Image Classification with Genetics Algorithms
+
+**Authors:** John Tsiligaridis
+
+## Abstract
+<jats:p>Autoencoders (AEs) are Deep Learning (DL) models that are well known for their ability to compress and reconstruct data. When an AE compresses input data, a latent space is created which yields a compressed representation of the original data with a smaller set of features. Genetic Algorithms (GAs) based on evolutionary principles can be used to optimize various hyperparameters of a DL model. This work involves two tasks. First, it focuses on the application of an AE on image data along with various configurations of the AE structure and its constituent encoder/decoder structure using Multi-Layer Perceptrons (MLPs). Visualizations of the AE loss functions during training are provided, along with various latent space results obtained using clustering techniques. The second focus of the paper is on the application of the GA on a Convolutional AE where optimization of the Convolutional Neural Networks (CNN) encoder/decoder structures is done by converting the architecture into genes for image classification. We see that the AE is a flexible and robust model that can successfully be applied on a variety of image datasets and the GA model initially surpasses the AE model. After discovering the appropriate hyperparameters values the performance of AE can be improved and predominate the one of the GA model.</jats:p>
+
+**Source:** https://doi.org/10.5121/csit.2025.150902
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T16:47:45.893Z
