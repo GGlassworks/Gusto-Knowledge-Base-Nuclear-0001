@@ -1,0 +1,13 @@
+# Systematic Comparison of the Structural and Dynamic Properties of Commonly Used Water Models for Molecular Dynamics Simulations
+
+**Authors:** Sachini P. Kadaoluwa Pathirannahalage, Nastaran Meftahi, A. Elbourne, A. Weiss, Chris F. McConville, A. Pádua, D. Winkler, M. Gomes, T. Greaves, T. Le, Q. Besford, A. Christofferson
+
+## Abstract
+Water is a unique solvent that is ubiquitous in biology and present in a variety of solutions, mixtures, and materials settings. It therefore forms the basis for all molecular dynamics simulations of biological phenomena, as well as for many chemical, industrial, and materials investigations. Over the years, many water models have been developed, and it remains a challenge to find a single water model that accurately reproduces all experimental properties of water simultaneously. Here, we report a comprehensive comparison of structural and dynamic properties of 30 commonly used 3-point, 4-point, 5-point, and polarizable water models simulated using consistent settings and analysis methods. For the properties of density, coordination number, surface tension, dielectric constant, self-diffusion coefficient, and solvation free energy of methane, models published within the past two decades consistently show better agreement with experimental values compared to models published earlier, albeit with some notable exceptions. However, no single model reproduced all experimental values exactly, highlighting the need to carefully choose a water model for a particular study, depending on the phenomena of interest. Finally, machine learning algorithms quantified the relationship between the water model force field parameters and the resulting bulk properties, providing insight into the parameter-property relationship and illustrating the challenges of developing a water model that can accurately reproduce all properties of water simultaneously.
+
+**Source:** https://www.semanticscholar.org/paper/37261cd5aaf9ff82d838052113232a63d5fe2c6f
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:38:52.883Z

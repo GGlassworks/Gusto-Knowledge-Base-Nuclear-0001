@@ -1,0 +1,13 @@
+# Fully synthetic human combinatorial antibody libraries (HuCAL) based on modular consensus frameworks and CDRs randomized with trinucleotides.
+
+**Authors:** A. Knappik, L. Ge, A. Honegger, P. Pack, M. Fischer, G. Wellnhofer, A. Hoess, Joachim Wölle, A. Plückthun, B. Virnekäs
+
+## Abstract
+By analyzing the human antibody repertoire in terms of structure, amino acid sequence diversity and germline usage, we found that seven V(H) and seven V(L) (four Vkappa and three Vlambda) germline families cover more than 95 % of the human antibody diversity used. A consensus sequence was derived for each family and optimized for expression in Escherichia coli. In order to make all six complementarity determining regions (CDRs) accessible for diversification, the synthetic genes were designed to be modular and mutually compatible by introducing unique restriction endonuclease sites flanking the CDRs. Molecular modeling verified that all canonical classes were present. We could show that all master genes are expressed as soluble proteins in the periplasm of E. coli. A first set of antibody phage display libraries totalling 2x10(9) members was created after cloning the genes in all 49 combinations into a phagemid vector, itself devoid of the restriction sites in question. Diversity was created by replacing the V(H) and V(L) CDR3 regions of the master genes by CDR3 library cassettes, generated from mixed trinucleotides and biased towards natural human antibody CDR3 sequences. The sequencing of 257 members of the unselected libraries indicated that the frequency of correct and thus potentially functional sequences was 61 %. Selection experiments against many antigens yielded a diverse set of binders with high affinities. Due to the modular design of all master genes, either single binders or even pools of binders can now be rapidly optimized without knowledge of the particular sequence, using pre-built CDR cassette libraries. The small number of 49 master genes will allow future improvements to be incorporated quickly, and the separation of the frameworks may help in analyzing why nature has evolved these distinct subfamilies of antibody germline genes.
+
+**Source:** https://www.semanticscholar.org/paper/1746d89ba5de9f240665f85d78e686c8ff069de2
+
+---
+Category: interdisciplinary
+Subcategory: ai-curated
+Collected: 2025-08-01T17:30:18.813Z
