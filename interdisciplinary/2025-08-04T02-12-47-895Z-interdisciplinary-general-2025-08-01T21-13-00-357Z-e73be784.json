@@ -1,0 +1,14 @@
+# Hourly electricity consumption estimation methodology based on the metaheuristic algorithms
+
+**Authors:** tuba tanyıldızı ağır
+
+## Abstract
+<jats:title>Abstract</jats:title>
+        <jats:p>Estimation of electricity consumption is very difficult as it depends on meteorological factors such as temperature, pressure and wind. Accurate estimation of electricity consumption is very important in terms of cost, time, energy savings, energy management and storage. In this study, Extreme learning machine (ELM) and Artificial Neural Network (ANN) are used to estimate the hourly electricity consumption of a city. ELM and ANN algorithms were simulated for 10 different neurons and 5 different activation functions. For the results of ELM and ANN algorithms, the significance test of the correlation coefficient was performed using statistical methods. In addition, the effects of the changes in the number of neurons and activation functions of ELM and ANN algorithms on performance were examined. It showed that the MSE, RMSE, R and R^2 values in the best performance of the ELM algorithm were 4.476e-06,0.0021,0.9999 and 0.9998. The ANN algorithm is MSE, RMSE, R and R^2 of values 5.22e-06,0.0023,0.9993 and 0.9986 respectively. While the correlation limits of the ELM algorithm at the 95% confidence interval are 0.9946 &lt; ρ &lt; 1.0052, the correlation limits at the 95% confidence interval of the ANN algorithm are 0.9921 &lt; ρ &lt; 1.0027. Neuron selection in ELM and ANN algorithms affected the performance by 1.49% and 0.34%, respectively. The activation function selection in the ELM and ANN algorithms affected the performance by 1.33% and 2.36%, respectively. The results showed that the ELM algorithm was successful in predicting energy consumption, short training time, low iteration number, good correlation limits, and significant activation selection.</jats:p>
+
+**Source:** https://doi.org/10.21203/rs.3.rs-1795394/v1
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:13:00.358Z

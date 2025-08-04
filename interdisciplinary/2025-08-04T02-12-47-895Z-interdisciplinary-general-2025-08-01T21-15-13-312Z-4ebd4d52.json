@@ -1,0 +1,13 @@
+# Algorithms in Low-Code-No-Code for Research Applications: A Practical Review
+
+**Authors:** Fahim Sufi
+
+## Abstract
+<jats:p>Algorithms have evolved from machine code to low-code-no-code (LCNC) in the past 20 years. Observing the growth of LCNC-based algorithm development, the CEO of GitHub mentioned that the future of coding is no coding at all. This paper systematically reviewed several of the recent studies using mainstream LCNC platforms to understand the area of research, the LCNC platforms used within these studies, and the features of LCNC used for solving individual research questions. We identified 23 research works using LCNC platforms, such as SetXRM, the vf-OS platform, Aure-BPM, CRISP-DM, and Microsoft Power Platform (MPP). About 61% of these existing studies resorted to MPP as their primary choice. The critical research problems solved by these research works were within the area of global news analysis, social media analysis, landslides, tornadoes, COVID-19, digitization of process, manufacturing, logistics, and software/app development. The main reasons identified for solving research problems with LCNC algorithms were as follows: (1) obtaining research data from multiple sources in complete automation; (2) generating artificial intelligence-driven insights without having to manually code them. In the course of describing this review, this paper also demonstrates a practical approach to implement a cyber-attack monitoring algorithm with the most popular LCNC platform.</jats:p>
+
+**Source:** https://doi.org/10.3390/a16020108
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:15:13.313Z

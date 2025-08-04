@@ -1,0 +1,13 @@
+# Research and Study of the Hybrid Algorithms Based on the Collective Behavior of Fish Schools and Classical Optimization Methods
+
+**Authors:** Liliya A. Demidova, Artyom V. Gorchakov
+
+## Abstract
+<jats:p>Inspired by biological systems, swarm intelligence algorithms are widely used to solve multimodal optimization problems. In this study, we consider the hybridization problem of an algorithm based on the collective behavior of fish schools. The algorithm is computationally inexpensive compared to other population-based algorithms. Accuracy of fish school search increases with the increase of predefined iteration count, but this also affects computation time required to find a suboptimal solution. We propose two hybrid approaches, intending to improve the evolutionary-inspired algorithm accuracy by using classical optimization methods, such as gradient descent and Newton’s optimization method. The study shows the effectiveness of the proposed hybrid algorithms, and the strong advantage of the hybrid algorithm based on fish school search and gradient descent. We provide a solution for the linearly inseparable exclusive disjunction problem using the developed algorithm and a perceptron with one hidden layer. To demonstrate the effectiveness of the algorithms, we visualize high dimensional loss surfaces near global extreme points. In addition, we apply the distributed version of the most effective hybrid algorithm to the hyperparameter optimization problem of a neural network.</jats:p>
+
+**Source:** https://doi.org/10.3390/a13040085
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:15:16.721Z

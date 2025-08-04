@@ -1,0 +1,13 @@
+# Advanced Construction of the Dynamic Matrix in Numerically Efficient Fuzzy MPC Algorithms
+
+**Authors:** Piotr M. Marusak
+
+## Abstract
+<jats:p>A method for the advanced construction of the dynamic matrix for Model Predictive Control (MPC) algorithms with linearization is proposed in the paper. It extends numerically efficient fuzzy algorithms utilizing skillful linearization. The algorithms combine the control performance offered by the MPC algorithms with nonlinear optimization (NMPC algorithms) with the numerical efficiency of the MPC algorithms based on linear models in which the optimization problem is a standard, easy-to-solve, quadratic programming problem with linear constraints. In the researched algorithms, the free response obtained using a nonlinear process model and the future trajectory of the control signals is used to construct an advanced dynamic matrix utilizing the easy-to-obtain fuzzy model. This leads to obtaining very good prediction and control quality very close to those offered by NMPC algorithms. The proposed approach is tested in the control system of a nonlinear chemical control plant—a CSTR reactor with the van de Vusse reaction.</jats:p>
+
+**Source:** https://doi.org/10.3390/a14010025
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:14:04.310Z

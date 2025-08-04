@@ -1,0 +1,12 @@
+# Advances in algorithms for solvers and gauge generation
+
+**Authors:** Peter A Boyle
+
+## Summary
+I review recent research and advances in algorithms for solvers and gauge generation, with an emphasis on practical algorithms for four dimensional simulations. Particular consideration is given to advances in multigrid solvers, fourier acceleration and field transformation approaches to accelerating evolution dynamics, and to parallel tempering approaches to solving the topological tunneling problem. Particular consideration is given to the interaction between rapidly evolving computer architecture and optimal algorithms that exploit these. In this conference, nascent machine learning algorithms were separately reviewed
+
+
+---
+Category: interdisciplinary
+Subcategory: hep-lat
+Collected: 2025-08-01T21:13:41.977Z

@@ -1,0 +1,13 @@
+# A Multi-Dimensional Matrix Product—A Natural Tool for Parameterized Graph Algorithms
+
+**Authors:** Mirosław Kowaluk, Andrzej Lingas
+
+## Abstract
+<jats:p>We introduce the concept of a k-dimensional matrix product D of k matrices A1,…,Ak of sizes n1×n,…,nk×n, respectively, where D[i1,…,ik] is equal to ∑ℓ=1nA1[i1,ℓ]×…×Ak[ik,ℓ]. We provide upper bounds on the time complexity of computing the product and solving related problems of computing witnesses and maximum witnesses of the Boolean version of the product in terms of the time complexity of rectangular matrix multiplication. The multi-dimensional matrix product framework is useful in the design of parameterized graph algorithms. First, we apply our results on the multi-dimensional matrix product to the fundamental problem of detecting/counting copies of a fixed pattern graph in a host graph. The recent progress on this problem has not included complete pattern graphs, i.e., cliques (and their complements, i.e., edge-free pattern graphs, in the induced setting). The fastest algorithms for the aforementioned patterns are based on a reduction to triangle detection/counting. We provide an alternative simple method of detection/counting copies of fixed size cliques based on the multi-dimensional matrix product. It is at least as time efficient as the triangle method in cases of K4 and K5. Next, we show an immediate reduction of the k-dominating set problem to the multi-dimensional matrix product. It implies the W[2] hardness of the problem of computing the k-dimensional Boolean matrix product. Finally, we provide an efficient reduction of the problem of finding the lowest common ancestors for all k-tuples of vertices in a directed acyclic graph to the problem of finding witnesses of the Boolean variant of the multi-dimensional matrix product. Although the time complexities of the algorithms resulting from the aforementioned reductions solely match those of the known algorithms, the advantage of our algorithms is simplicity. Our algorithms also demonstrate the versatility of the multi-dimensional matrix product framework.</jats:p>
+
+**Source:** https://doi.org/10.3390/a15120448
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:15:14.984Z

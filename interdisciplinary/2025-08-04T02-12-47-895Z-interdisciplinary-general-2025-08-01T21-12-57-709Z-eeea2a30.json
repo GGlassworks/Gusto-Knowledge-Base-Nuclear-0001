@@ -1,0 +1,13 @@
+# Methodology, Algorithms, and Emerging Tool for Automated Design of Intelligent Integrated Multi-Sensor Systems
+
+**Authors:** Kuncup Iswandy, Andreas König
+
+## Abstract
+<jats:p>The emergence of novel sensing elements, computing nodes, wireless communication and integration technology provides unprecedented possibilities for the design and application of intelligent systems. Each new application system must be designed from scratch, employing sophisticated methods ranging from conventional signal processing to computational intelligence. Currently, a significant part of this overall algorithmic chain of the computational system model still has to be assembled manually by experienced designers in a time and labor consuming process. In this research work, this challenge is picked up and a methodology and algorithms for automated design of intelligent integrated and resource-aware multi-sensor systems employing multi-objective evolutionary computation are introduced. The proposed methodology tackles the challenge of rapid-prototyping of such systems under realization constraints and, additionally, includes features of system instance specific self-correction for sustained operation of a large volume and in a dynamically changing environment. The extension of these concepts to the reconfigurable hardware platform renders so called self-x sensor systems, which stands, e.g., for self-monitoring, -calibrating, -trimming, and -repairing/-healing systems. Selected experimental results prove the applicability and effectiveness of our proposed methodology and emerging tool. By our approach, competitive results were achieved with regard to classification accuracy, flexibility, and design speed under additional design constraints.</jats:p>
+
+**Source:** https://doi.org/10.3390/a2041368
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:12:57.710Z

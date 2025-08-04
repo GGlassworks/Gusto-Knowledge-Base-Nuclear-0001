@@ -1,0 +1,13 @@
+# Diversity Measures for Niching Algorithms
+
+**Authors:** Jonathan Mwaura, Andries P. Engelbrecht, Filipe V. Nepomuceno
+
+## Abstract
+<jats:p>Multimodal problems are single objective optimisation problems with multiple local and global optima. The objective of multimodal optimisation is to locate all or most of the optima. Niching algorithms are the techniques utilised to locate these optima. A critical factor in determining the success of niching algorithms is how well the search space is covered by the candidate solutions. For niching algorithms, high diversity during the exploration phase will facilitate location and identification of many solutions while a low diversity means that the candidate solutions are clustered at optima. This paper provides a review of measures used to quantify diversity, and how they can be utilised to quantify the dispersion of both the candidate solutions and the solutions of niching algorithms (i.e., found optima). The investigated diversity measures are then used to evaluate the distribution of candidate solutions and solutions when the enhanced species-based particle swarm optimisation (ESPSO) algorithm is utilised to optimise a selected set of multimodal problems.</jats:p>
+
+**Source:** https://doi.org/10.3390/a14020036
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:15:13.796Z

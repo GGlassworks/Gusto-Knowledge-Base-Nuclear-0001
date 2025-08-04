@@ -1,0 +1,13 @@
+# DEVELOPMENT OF DENSITY BASED CLUSTERING ALGORITHMS FOR STREAMING DATA
+
+**Authors:** Sirisup Laohakiat
+
+## Abstract
+<jats:p>Streaming data has played important role in many data mining applications. Different from traditional data sets which the whole data records are available at the beginning, streaming data accumulate over time, and usually due to its continuous flow of data records, the volume of this kind of data set is usually large. Several algorithms for clustering streaming data have been designed in accordance with these restrictions. In this study, some further constraints on the characteristics of the data set are considered; in order to design density based clustering algorithms which can cluster these data sets efficiently. The designed algorithms have been tested against some state-of-the-art algorithms to determine the effectiveness of the proposed algorithms.</jats:p>
+
+**Source:** https://doi.org/10.58837/chula.the.2016.1480
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:16:34.048Z

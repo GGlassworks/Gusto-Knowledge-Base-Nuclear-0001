@@ -1,0 +1,13 @@
+# Counter-Terrorism Video Analysis Using Hash-Based Algorithms
+
+**Authors:** David García-Retuerta, Álvaro Bartolomé, Pablo Chamoso, Juan Manuel Corchado
+
+## Abstract
+<jats:p>The Internet is becoming a major source of radicalization. The propaganda efforts of new extremist groups include creating new propaganda videos from fragments of old terrorist attack videos. This article presents a web-scraping method for retrieving relevant videos and a pHash-based algorithm which identifies the original content of a video. Automatic novelty verification is now possible, which can potentially reduce and improve journalist research work, as well as reduce the spreading of fake news. The obtained results have been satisfactory as all original sources of new videos have been identified correctly.</jats:p>
+
+**Source:** https://doi.org/10.3390/a12050110
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:16:32.297Z

@@ -1,0 +1,12 @@
+# The Rational Hybrid Monte Carlo Algorithm
+
+**Authors:** M. A. Clark
+
+## Summary
+The past few years have seen considerable progress in algorithmic development for the generation of gauge fields including the effects of dynamical fermions. The Rational Hybrid Monte Carlo (RHMC) algorithm, where Hybrid Monte Carlo is performed using a rational approximation in place the usual inverse quark matrix kernel is one of these developments. This algorithm has been found to be extremely beneficial in many areas of lattice QCD (chiral fermions, finite temperature, Wilson fermions etc.). We review the algorithm and some of these benefits, and we compare against other recent algorithm developements. We conclude with an update of the Berlin wall plot comparing costs of all popular fermion formulations.
+
+
+---
+Category: interdisciplinary
+Subcategory: hep-lat
+Collected: 2025-08-01T21:15:59.638Z

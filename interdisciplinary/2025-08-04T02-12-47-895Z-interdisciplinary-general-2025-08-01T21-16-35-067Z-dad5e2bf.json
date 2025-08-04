@@ -1,0 +1,13 @@
+# An Introduction to Development of Centralized and Distributed Stochastic Approximation Algorithm with Expanding Truncations
+
+**Authors:** Wenxiao Zhao
+
+## Abstract
+<jats:p>The stochastic approximation algorithm (SAA), starting from the pioneer work by Robbins and Monro in 1950s, has been successfully applied in systems and control, statistics, machine learning, and so forth. In this paper, we will review the development of SAA in China, to be specific, the stochastic approximation algorithm with expanding truncations (SAAWET) developed by Han-Fu Chen and his colleagues during the past 35 years. We first review the historical development for the centralized algorithm including the probabilistic method (PM) and the ordinary differential equation (ODE) method for SAA and the trajectory-subsequence method for SAAWET. Then, we will give an application example of SAAWET to the recursive principal component analysis. We will also introduce the recent progress on SAAWET in a networked and distributed setting, named the distributed SAAWET (DSAAWET).</jats:p>
+
+**Source:** https://doi.org/10.3390/a14060174
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:16:35.068Z

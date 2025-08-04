@@ -1,0 +1,12 @@
+# Algorithms for Lattice QCD with Dynamical Fermions
+
+**Authors:** A. D. Kennedy
+
+## Summary
+We consider recent progress in algorithms for generating gauge field configurations that include the dynamical effects of light fermions. We survey what has been achieved in recent state-of-the-art computations, and examine the trade-offs between performance and control of systematic errors. We briefly review the use of polynomial and rational approximations in Hybrid Monte Carlo algorithms, and some of the theory of on-shell chiral fermions on the lattice. This provides a theoretical framework within which we compare algorithmic alternatives for their implementation; and again we examine the trade-offs between speed and error control.
+
+
+---
+Category: interdisciplinary
+Subcategory: hep-lat
+Collected: 2025-08-01T10:52:01.073Z

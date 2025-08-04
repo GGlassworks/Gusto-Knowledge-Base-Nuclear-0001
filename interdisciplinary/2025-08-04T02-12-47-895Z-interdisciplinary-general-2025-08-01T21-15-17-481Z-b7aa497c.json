@@ -1,0 +1,13 @@
+# Approximation Algorithms for the Geometric Firefighter and Budget Fence Problems
+
+**Authors:** Rolf Klein, Christos Levcopoulos, Andrzej Lingas
+
+## Abstract
+<jats:p>Let R denote a connected region inside a simple polygon, P. By building barriers (typically straight-line segments) in P \ R , we want to separate from R part(s) of P of maximum area. All edges of the boundary of P are assumed to be already constructed or natural barriers. In this paper we introduce two versions of this problem. In the budget fence version the region R is static, and there is an upper bound on the total length of barriers we may build. In the basic geometric firefighter version we assume that R represents a fire that is spreading over P at constant speed (varying speed can also be handled). Building a barrier takes time proportional to its length, and each barrier must be completed before the fire arrives. In this paper we are assuming that barriers are chosen from a given set B that satisfies certain conditions. Even for simple cases (e.g., P is a convex polygon and B the set of all diagonals), both problems are shown to be NP-hard. Our main result is an efficient ≈11.65 approximation algorithm for the firefighter problem, where the set B of allowed barriers is any set of straight-line segments with all endpoints on the boundary of P and pairwise disjoint interiors. Since this algorithm solves a much more general problem—a hybrid of scheduling and maximum coverage—it may find wider applications. We also provide a polynomial-time approximation scheme for the budget fence problem, for the case where barriers chosen from a set of straight-line cuts of the polygon must not cross.</jats:p>
+
+**Source:** https://doi.org/10.3390/a11040045
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:15:17.483Z

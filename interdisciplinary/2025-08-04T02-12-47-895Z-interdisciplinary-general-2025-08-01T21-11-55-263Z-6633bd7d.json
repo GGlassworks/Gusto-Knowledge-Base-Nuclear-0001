@@ -1,0 +1,13 @@
+# On the Use of Data Envelopment Analysis for Multi-Criteria Decision Analysis
+
+**Authors:** Sean Pascoe
+
+## Abstract
+<jats:p>Data envelopment analysis (DEA) has been proposed as a means of assessing alternative management options when there are multiple criteria with multiple indicators each. While the method has been widely applied, the implications of how the method is applied on the resultant management alternative ranking have not been previously considered. We consider the impact on option ranking of ignoring an implicit hierarchical structure when there are different numbers of indicators associated with potential higher-order objectives. We also consider the implications of the use of radial or slacks-based approaches on option ranking with and without a hierarchical structure. We use an artificial data set as well as data from a previous study to assess the implications of the approach adopted, with the aim to provide guidance for future applications of DEA for multi-criteria decision making. We find substantial benefits in applying a hierarchical approach in the evaluation of the management alternatives. We also find that slacks-based approaches are better able to differentiate between management alternatives given multiple objectives and indicators.</jats:p>
+
+**Source:** https://doi.org/10.3390/a17030089
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:11:55.264Z

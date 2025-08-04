@@ -1,0 +1,13 @@
+# Data Mining Algorithms for Smart Cities: A Bibliometric Analysis
+
+**Authors:** Anestis Kousis, Christos Tjortjis
+
+## Abstract
+<jats:p>Smart cities connect people and places using innovative technologies such as Data Mining (DM), Machine Learning (ML), big data, and the Internet of Things (IoT). This paper presents a bibliometric analysis to provide a comprehensive overview of studies associated with DM technologies used in smart cities applications. The study aims to identify the main DM techniques used in the context of smart cities and how the research field of DM for smart cities evolves over time. We adopted both qualitative and quantitative methods to explore the topic. We used the Scopus database to find relative articles published in scientific journals. This study covers 197 articles published over the period from 2013 to 2021. For the bibliometric analysis, we used the Biliometrix library, developed in R. Our findings show that there is a wide range of DM technologies used in every layer of a smart city project. Several ML algorithms, supervised or unsupervised, are adopted for operating the instrumentation, middleware, and application layer. The bibliometric analysis shows that DM for smart cities is a fast-growing scientific field. Scientists from all over the world show a great interest in researching and collaborating on this interdisciplinary scientific field.</jats:p>
+
+**Source:** https://doi.org/10.3390/a14080242
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:11:55.693Z

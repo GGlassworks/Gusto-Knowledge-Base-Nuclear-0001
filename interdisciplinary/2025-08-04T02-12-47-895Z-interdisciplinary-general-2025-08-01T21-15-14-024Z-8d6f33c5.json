@@ -1,0 +1,13 @@
+# Adjacency Maps and Efficient Graph Algorithms
+
+**Authors:** Gabriel Valiente
+
+## Abstract
+<jats:p>Graph algorithms that test adjacencies are usually implemented with an adjacency-matrix representation because the adjacency test takes constant time with adjacency matrices, but it takes linear time in the degree of the vertices with adjacency lists. In this article, we review the adjacency-map representation, which supports adjacency tests in constant expected time, and we show that graph algorithms run faster with adjacency maps than with adjacency lists by a small constant factor if they do not test adjacencies and by one or two orders of magnitude if they perform adjacency tests.</jats:p>
+
+**Source:** https://doi.org/10.3390/a15020067
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:15:14.026Z

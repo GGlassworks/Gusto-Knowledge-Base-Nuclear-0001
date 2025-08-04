@@ -1,0 +1,13 @@
+# Optimization Using Genetic Algorithms – Methodology with Examples from Seismic Waveform Inversion
+
+**Authors:** Subhashis Mallick
+
+## Abstract
+<jats:p>Genetic algorithms use the survival of the fittest analogy from evolution theory to make random walks in the multiparameter model-space and find the model or the suite of models that best-fit the observation. Due to nonlinear nature, runtimes of genetic algorithms exponentially increase with increasing model-space size. A diversity-preserved genetic algorithm where each member of the population is given a measure of diversity and the models are selected in preference to both their objective and diversity values, and scaling the objectives using a suitably chosen scaling function can expedite computation and reduce runtimes. Starting from an initial model and the model-space defined as search intervals around it and using a new sampling strategy of generating smoothly varying initial set of random models within the specified search intervals; the proposed diversity-preserved method converges rapidly and estimates reliable models. The methodology and implementation of this new genetic algorithm optimization is described using examples from the prestack seismic waveform inversion problems. In geophysics, this new method can be useful for subsurface characterization where well-control is sparse.</jats:p>
+
+**Source:** https://doi.org/10.5772/intechopen.113897
+
+---
+Category: interdisciplinary
+Subcategory: general
+Collected: 2025-08-01T21:12:59.550Z
